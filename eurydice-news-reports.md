@@ -139,7 +139,7 @@ Her Majesty's training-ship Eurydice, commanded by Captain Marcus Hare, capsized
 
 In reference to this sad catastrophe the following was received at the Admiralty last night:–
 
-"J. G. Liwsey, Venfcnor, the Right Hon. W. H. Smrth, M.P., Admiralty, London"
+"J. G. Livesey, Ventnor, the Right Hon. W. H. Smith, M.P., Admiralty, London"
 
 "Her Majesty's training-ship Eurydice capsized in a sudden squall, off Dunnose, at half-past four this afternoon, and went down at once.
 
@@ -159,9 +159,9 @@ In reference to this sad catastrophe the following was received at the Admiralty
 
 "Commander Coast Guard, Ventnor, to Admiralty,
 
-"We have two men alive—Cuddiford, A.8., and Fletcher, first-class boy—aud the dead bodies of Lieuteuant Tabor, Colonel Ferrier, R.E., and one able seaman."
+"We have two men alive— Cuddiford, A.8., and Fletcher, first-class boy— and the dead bodies of Lieuteuant Tabor, Colonel Ferrier, R.E., and one able seaman."
 
-The Euiydice was a wooden training ship for ordinary seamen and boys, a vessel of 921 tons. She is thus described in the Navy List :
+The Eurydice was a wooden training ship for ordinary seamen and boys, a vessel of 921 tons. She is thus described in the Navy List :
 
 Eurydice, guns, sixth rate.  
 Captain—Marcus A. S. Hare, Feb. 7, 1877.  
