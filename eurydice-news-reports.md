@@ -422,7 +422,65 @@ Saturday 30 March 1878
 p8
 FOUNDERING OF THE "EURYDICE" IN SANDOWN BAY.
 
-Men stood aghast, as well they might, to heir Th_ dreadful uews last Moud.y mo>-uing br mght: A gallant ship, wi h past three hundred souls, Hal Lm ideied in the Bay un Sunday eve I oo awful sudden this oatastr >phe That nut a .uken rea.hed tne dwellers by To .ell them hundieds «>f their fellow men Were, wnhiu eye-ken, struggling fur their lives. Nu saduer ia.e has ev^r yet beeu tuld Oi suipwreck's hirer, sudden aud cimplete : — A noble incase, gaily h -we .yard bound, All her full press of suow- white canvas set, In ?? siate came sailing past our Bay. Over the waves maj .siio'ly she glides, Ke^leie wkh life aud lignt —a nation's pride— Au emblem of our rule upon the sea — A sight t v charm the eye and stir the pulse. Sudden as ligutniug's strike, from Culver's brow Swoops tne tierce squall, 'midat blinding sleet and snow, And, like a tige>- springing ou its prey, B ire down that gallant vessel to har doom. One moment saw her proud y ride thi waves Exultant in her beauty aud her strength ; 'Tue next, behind that curtain-cloud ef storm. Hopelessly stricken, crushed, and settling down. So sank ihe Eurydice — as smart a craft As ever b.re our meteor flig aloft. * * * * * * Home from the West Indi s "he had sped, With wide-spread win_rs, aud miny a favouring gale, Till England's 1 mged-for shores were reached at last : Then, up the Cuanuel, proud uf har past fame, The brave uld fr.gate pressed upjn her way, With leusioned canvas spread ; t-j gain her port Sue rounds the Wight, and there before her lies 'The hoped-for haven— Portsmouth — full iv sight, With h me aud kindling holding welcome out, Almost wi-niu the sea- Worn wauderor's grasp. Ood! wnat a niouieut ihat to be struck down ; To chauge home's w-_lc -ine lor a wnery grave ; ITo strew three hundred corses on the shure Where stalwart tonus, full of high h ipe aud life, Were looked for by thair kiudred and their Queen. ?? The news has cast a grief-cloud o'er the land, Dark'niug alike the palace aud the cot ; Aud words i if heartfelt sympathy wed forth Tor those ihus lodt to us, aud tho_e bereaved, ln meek submission to the Divine will We gath.r now our dead, who nobly died in iull discharge of duty — even so, As though they fell in battle, face to face With England's direst fie. Abjve their grave The sea lies calm, aud goldeu- tinted clouds Lock down wi.n a mild pity on the sput Where lies tne Eurydice aud uer brave crew. _, , _, Thomas Maton. Sandown, M_rch 23th, 1878. 
+Men stood aghast, as well they might, to hear  
+The dreadful news last Monday morning brought:  
+A gallant ship, with past three hundred souls,  
+Hallf founded in the Bay on Sunday eve !  
+So awful sudden this catastrophe  
+That not a token reached tne dwellers by  
+To tell them hundreds of their fellow men  
+Were, within eye-ken, struggling for their lives. 
+No sadder tale has ever yet been told  
+Or shipwreck's horror, sudden aud complete : —  
+A noble frigate, gaily homeward bound,  
+All her full press of suow-white canvas set,  
+In swan-like state came sailing past our Bay.  
+Over the waves majestic'ly she glides,  
+Replete with life aud lignt —a nation's pride—  
+An emblem of our rule upon the sea —  
+A sight to charm the eye and stir the pulse.  
+Sudden as ligutning's strike, from Culver's brow  
+Swoops tne fierce squall, 'midst blinding sleet and snow,  
+And, like a tiger springing on its prey,  
+Bore down that gallant vessel to her doom.  
+One moment saw her proudly ride thi waves  
+Exultant in her beauty aud her strength ;  
+The next, behind that curtain-cloud of storm.  
+Hopelessly stricken, crushed, and settling down.  
+So sank ihe Eurydice — as smart a craft  
+As ever bore our meteor flag aloft.
+
+Home from the West Indies she had sped,  
+With wide-spread wings, aud many a favouring gale,  
+Till England's longed-for shores were reached at last :  
+Then, up the Channel, proud of har past fame,  
+The brave old frigate pressed upon her way,  
+With tensioned canvas spread ; to gain her port  
+She rounds the Wight, and there before her lies  
+The hoped-for haven— Portsmouth — full in sight,  
+With home aud kindling holding welcome out,  
+Almost within the sea-worn wauderor's grasp.  
+God! wnat a moment that to be struck down ;  
+To change home's welcome for a watery grave ;  
+To strew three hundred corses on the shore  
+Where stalwart tonus, full of high hope and life,  
+Were looked for by thair kindred and their Queen.
+
+The news has cast a grief-cloud o'er the land,  
+Dark'ning alike the palace aud the cot ;  
+And words of heartfelt sympathy well forth  
+For those thus lost to us, aud those bereaved.  
+In meek submission to the Divine will  
+We gather now our dead, who nobly died  
+In full discharge of duty — even so,  
+As though they fell in battle, face to face  
+With England's direst foe. Above their grave  
+The sea lies calm, aud golden-tinted clouds  
+Look down witn a mild pity on the spot  
+Where lies tne Eurydice ahd her brave crew.
+
+Thomas Maton. Sandown, March 26th, 1878.
+
 
 ---
 
