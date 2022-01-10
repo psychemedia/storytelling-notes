@@ -245,6 +245,30 @@ WEST COWES, March 25, a.m.
 Three bodies have come ashore; two identified as those of Colonel Ferrol, RE. (? Ferrier), and Lieutenant Tabor, RN.; the third is an A.B. The masts of the vessel show above water.
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0006#
+Morning Post
+Tuesday 26 March 1878
+
+p6
+
+THE GALE AND SNOW STORM
+
+During the gale which passed over the metropolis so suddenly on Sunday afternoon, several boats were swamped in the upper part of the Thames and loss of life resulted.
+
+The weather in South Shropshire is intensely cold, and tbe hilly district has been visited with fitful storms of snow. Thee tops of the lofty eminences of the Loag-mynd, the Carodoc Range, and the Clee Hills, are all capped with snow.
+
+During a snowstorm which raged off the Scotch cosst at Stranraer on Sunday the schooner Ellipse, with coals, from Greenock for Isly, was totally lost about ten miles from Stranraer. Two of the crew, by name M'Millan and M'Neill, were drowned.
+
+On Sunday afternoon, while the wind was blowng hard from the north, a schooner, which afterwards proved to be the Heroine, of Dartmouth, bound from Lydney to Fremington with a cargo of coals, was seen running for the harbour at Appledore, in Devon, when sha was caught by some dense snow squalls which completely enveloped her. On their clearing away she was found to have been driven on the South Tail Bank, where she was surrounded by broken water. The Appledore No. 1 life-boat of the National Life-boat Institution was launched with all despatch, and was fortunately enabled to save the crew of the vessel, which is likely to become a total wreck.
+
+The screw-steamer Eagle, of Neath, while making for Hayle Harbour, in Cornwall, on Sunday, during a stroug N.E. wind, grounded on the bar, and the heavy seas breaking over her carried away her screw, rudder, and stern poet. The Oxford University life-boat Isis, belonging to the National Life-boat Institution, and stationed at this place, promptly proceeded to her and remained by her for an hour, until it was considered the lives of the crew were no longer in danger.
+
+On Sunday morning, during a strong wind from the north, a vessel ran ashore on the Goodwin Sands. Tha Broadstairs life-boat of the National Life-boat Institution and tbe Ramsgate Harbour steamer Vulcan and life-boat Bradford proceeded to her assistance, and after some hours' exertion they were successful in getting the disabled vessel off the sands and into harbour. She was the brigantine Florida, of Christiania, bound from Frederikstadt to Granville, with a cargo of coal, and had on board a crew of seven men.
+
+On Sunday evening, during a heavy gale from the north, accompanied by snow showers, the schooner Velocity, of Nefyn, bound there from Silloth, exhibited signals of distress in Porthdinllaen Bay, North Wales, and in response thereto the National life-boat George Moore was launched, and succeeded in rescuing ths crew, whom she landed in safety. This life-boat was placed there about six months since, its expense being defrayed from a fund raised amongst the *employés* of Messrs. Copt stake, Hughes, Crampton, aud Co. (lat. Mtssrs. Copestake, Moore, and Co.), to provide a life-boat to be called the George Moore in memory of their late respected employer, the well-known philanthropist.
+
+---
+
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0005
