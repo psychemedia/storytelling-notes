@@ -1,10 +1,28 @@
 
 
+IMAGES
+
+- https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61070.html
+
+- https://w.iln.org.uk/iln_years/year/1878.htm
+
+- https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61069.html
+
+- https://www.rct.uk/collection/2580515/hms-eurydice-at-st-lucia-before-her-last-voyage-home-1878
+
+- http://dawlishchronicles.blogspot.com/2014/07/training-tragedies-losses-of-hms.html
+
+- https://w.iln.org.uk/iln_years/year/images/1878/euridyce/1878%20loss%20of%20euridyce%20aug%2017%20004.jpg
+
+- http://supercurioso.com/wp-content/uploads/2015/10/P.1986.44-Copy.jpg
+
+- https://prints.rmg.co.uk/collections/ship-plans/products/inboard-profile-plan-for-hms-eurydice-1843-j6247
 
 
-## SOURCES
+- https://www.rct.uk/collection/406265/the-wreck-of-the-eurydice
 
 ---
+## SOURCES
 
 https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice
 
@@ -852,7 +870,7 @@ p5
 
 THE FOUNDERLNG OF THE "EURYDICE."
 
-Operations at the wreck of the Eurydice were resumed on Monday amil rt ousiderable difficulties, the Government arrangements having b°en unsuc- cessful The plan whicn had been adhered to for ab »ut a month has been abandoned, and three private divers, Messrs. F. Davies, A. Sutherland, and Whittaker. ol the firm of Messrs. Sielee and German, the submarine engineers of Loudon, have been retained. Four tugs, the Grinder, Manly aud C.rael appeared on the see ie during the day! An attempt was ma te to descend to the wieok early in tt.e day, but the tide ran o strongly hat it was impossible to do so with safety. Th- divers managed to reach the vessel during the slack tide m tie afternoon, ani exainiueu her oows and i.eadre.r Tne new ?? isto sweep the ship with two steel hawsers and then to lift and carry her between two lighters to the beach. The Portsmouth correspondent of the TdqrapK writing on the 2-3 th inst., says * At the wreck of the -Lurydice to-day the diver** were enabled to make a descent and even walk almost round the ship. The haws -rs were got in position ready for slinging the vessel, and if circumstances coutiuue as favourable as they are now, the attempt to raise her will be made to-morrow [this day, Friday]. Lord H nry Lennox writes ro say, regarding the Eurydice fund, that, as far as is at present known, tin-re are batween 4'J and 50 widows, 170 parents, and from 60 to 70 other relatives who were partly, and in many c ises mainly, dependent upon tho»e who have perished, ann have therefore claims on the fund It is calculated that £20,000 will be required iv ord-r to administer a minimum relief to a 1 the sufferers. Of this sum about ooe half has been collected by thj committee presided ov-r by his Royal Highne-s the Dut-ce of Cambridge, by the Lord Mayor's committee, and by Admit ?? committee at Portsmouth In order to obtain tho amount s ill necess try Lord Henry makes a further earnest app al to the public. The Commissioners of the Royal Patriotic Fund hive undertaken the distribat.ua of the money , n accordance wuh cha powers i conferred upon Uiem by a EoyiJ Ckmmw™ ja loft?. * ** 
+Operations at the wreck of the Eurydice were resumed on Monday amil rt ousiderable difficulties, the Government arrangements having b°en unsuc- cessful The plan whicn had been adhered to for ab »ut a month has been abandoned, and three private divers, Messrs. F. Davies, A. Sutherland, and Whittaker. ol the firm of Messrs. Sielee and German, the submarine engineers of Loudon, have been retained. Four tugs, the Grinder, Manly aud C.rael appeared on the see ie during the day! An attempt was ma te to descend to the wieok early in tt.e day, but the tide ran o strongly hat it was impossible to do so with safety. The divers managed to reach the vessel during the slack tide m tie afternoon, ani exainiueu her oows and i.eadre.r Tne new ?? isto sweep the ship with two steel hawsers and then to lift and carry her between two lighters to the beach. The Portsmouth correspondent of the TdqrapK writing on the 2-3 th inst., says * At the wreck of the -Lurydice to-day the diver** were enabled to make a descent and even walk almost round the ship. The haws -rs were got in position ready for slinging the vessel, and if circumstances coutiuue as favourable as they are now, the attempt to raise her will be made to-morrow [this day, Friday]. Lord H nry Lennox writes ro say, regarding the Eurydice fund, that, as far as is at present known, tin-re are batween 4'J and 50 widows, 170 parents, and from 60 to 70 other relatives who were partly, and in many c ises mainly, dependent upon tho»e who have perished, ann have therefore claims on the fund It is calculated that £20,000 will be required iv ord-r to administer a minimum relief to a 1 the sufferers. Of this sum about ooe half has been collected by thj committee presided ov-r by his Royal Highne-s the Dut-ce of Cambridge, by the Lord Mayor's committee, and by Admit ?? committee at Portsmouth In order to obtain tho amount s ill necess try Lord Henry makes a further earnest app al to the public. The Commissioners of the Royal Patriotic Fund hive undertaken the distribat.ua of the money , n accordance wuh cha powers i conferred upon Uiem by a EoyiJ Ckmmw™ ja loft?. * ** 
 
 
 ---
@@ -1128,7 +1146,7 @@ Isle of Wight Times
 Thursday 01 August 1878
 
 p5
-PHOTOGRAPH OF THE EVRYPICK —Mr. C. Knight. Union-street, has jest published an excellent photograph of the Eurydice.
+PHOTOGRAPH OF THE EURYDICE —Mr. C. Knight. Union-street, has jest published an excellent photograph of the Eurydice.
 
 ---
 
