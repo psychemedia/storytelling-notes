@@ -730,7 +730,49 @@ p3
 
 POETRY - WRECK OP THE EURYDICE.
 
-rwRMIII 81(11 BEL• 1 A tot aftrrroon, so fair, bright ; A Sat bath at rrnoon, so trio from tars! Ard along the abort+ admire a sight Which Mira the heart of Britons everywhere. A ..b:s ship returning from the am, A man of-war with -ails all set and smart, So she may Imply catch tte slightest breeze To help her onward to the longed-for port. And there on board the influence of the day Makes itself felt, and men hays leisure given T,. rest, to read, to think, perchance to pray, And raise the soul awhi'e from earth to heaven. • . Look at the group upon the headland there, 'rbrir eyes all dazed, their faces blanched with fear; Tor• gasp for breath. and ask " Where is she now? TY but a moment duos tl.at she was here. ' A blinding snow storm falling fast and thick, A sudden equal) that comes from a the shore— A lurch, a cry, then orders short and quick ; T•eo late, too late—she sinks—is emu no more! 111 ire than three hundred men now lie at rest Beneath those treacherous waves so calm and clear ; Three hundred of our bravest, bonniest, best; All England feels the blow sad sheds a tear. Not for the lost aka., but for the left; The widowed souls now weeping for their love; The children fatherless; the parents raft 01 weir dear boy, now moan treasure-trove. Shall we not all contribute to their noels, And help thew• heiplase ones, en bad and torn? let sympathy cud not in word., but deeds! Itembember 'tie for ua their hearts aro turn! Mercury. 
+WRITTEN ON A SICK BED
+
+A sunny afternoon, so fair, so bright ;  
+A Sabbath afternoon, so free from care!  
+And those along the shore admire a sight  
+Which stirs the heart of Britons everywhere.
+
+A noble ship returning from the seas,  
+A man of-war with sails all set and smart,  
+So she may haply catch the slightest breeze  
+To help her onward to the longed-for port.
+
+And there on board the influence of the day  
+Makes itself felt, and men have leisure given  
+To rest, to read, to think, perchance to pray,  
+And raise the soul awhile from earth to heaven.
+
+Look at the group upon the headland there,  
+Their eyes all dazed, their faces blanched with fear;  
+They gasp for breath, and ask " Where is she now?  
+Tis but a moment since that she was here.'
+
+A blinding snow storm falling fast and thick,  
+A sudden squall that comes from off the shore—  
+A lurch, a cry, then orders short and quick ;  
+Too late, too late— she sinks —is seen no more!
+
+More than three hundred men now lie at rest  
+Beneath those treacherous waves so calm and clear ;  
+Three hundred of our bravest, bonniest, best;  
+All England feels the blow and sheds a tear.
+
+Not for the lost alone, but for the left;  
+The widowed souls now weeping for their love;  
+The children fatherless; the parents reft  
+Of their dear boy, now ocean's treasure-trove.
+
+Shall we not all contribute to their needs,  
+And help these helpless ones, so sad and lorn?  
+Let sympathy end not in words, but deeds!  
+Remember 'tis for us their hearts are torn!
+
+– *Liverpool Mercury. *
 
 ---
 
