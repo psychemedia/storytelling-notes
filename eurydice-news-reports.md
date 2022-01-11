@@ -413,6 +413,47 @@ The Jury retired and were absent nearly an hour. On their return, the foreman an
 There is something of a personal sorrow which must affect every Englishman when he reads a narrative of this kind. We are all proud of the quality of our seamen, and of the courage with which they expose themselves to a life of constant peril. We cannot but mourn over the untimely loss of so many brave and promising fellows. The disaster is intensified in poignancy by the circumstances under which it happaned. Death of one's native land, after a long separation from near and dear friends, is a terrible thing. The joyous hope, the buoyant expectation, the thrill of delight with which the shores of Old England fill the home-coming sailors are changed into the wild cry of despair and wail of drowning men. On such a picture we have no morbid fancy for dwelling. It will haunt, during these coming weeks, many an English home. In scores of cottages hearts have beat high with hope, the simple preparations of affection have been made, and parents have counted the hours till they should clasp their stalwart sailor-lads in their arms once more. And now the desolation of death has turned their joy into a terrible sorrow. The cruel, merciless sea has robbed them of the bright boys of whom they were so proud. England shares their sorrow. If it be any consolation to the bereaved relatives of those who have gone down in the Eurydice, they may be sure that not an English heart beats but does not sympathise with them in their great sorrow, and deeply deplore the calamity which has robbed the country of more than 300 of her brave defenders.
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000170/18780330/018/0008?browse=true#
+
+Isle of Wight Observer
+Saturday 30 March 1878
+
+p8
+
+Poetry - THE LOSS OF THE "EURYDICE," SUNDAY, MARCH 25, 1878.
+
+O'er the calm bosom of the treacherous sea,  
+The bright sun-shining on each snowy sail,  
+Onward she speeds, though shortly doomed to be  
+A victim to the fury of the gale.  
+Oae gust of wind, one blinding cloud of snow  
+That cast a gloom around her like the night,  
+One bitter cry of agony and woe,  
+And she had sunk for ever from our sight.  
+
+Fond hearts were waiting for her quiok return,  
+Fond eyea were gazing far across the main ;  
+Long may they watch, and long those hearts may yearn,  
+For those on earth they ne'er will see again !  
+Hearths will be desolate which were not so ;  
+Loud the sad cry is heard on every side,  
+And mourners weep in bitterness of woe  
+For those who in their country's service died.  
+
+All England feels for those who now are left,  
+Widowed and fatherless, their loss to mourn ;  
+Of all their lived unes suddenly bereft  
+By fearful violence of tne pissing storm !  
+Shine down, O sun, with thy bright cheering face,  
+The world roils on as it has done before ;  
+Grant those who died have found iheir resting place  
+Above, where troubles shall be known no mure.  
+
+W. Stanley Smiih.
+
+Ryde, March 25th, 1878.
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/024/0008
 
