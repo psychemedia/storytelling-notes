@@ -918,7 +918,89 @@ p6
 
 Poetry - SORROW ON THE SEA.
 
-Than is sorrow on the eea—it cannot be quirt"— Jer. zlii. 23. The following poem, written by the late Captain N. A. B. Rare, of the Eurydice. in a Minor* album mime pars since, will be read with mournful interod I stood on the shore of the beautiful sea, As the billows were roaming wild and free; Onward they came with unfailing tone, Then backward tunn,l in their restless course; Par and ever sound their roar, /roaming and dashing against inn shore; Ever and ever they rose and tell, With heaving and st2liing mini mighty swell ; And deep seemed calling aloud to deep, the inorm-iritig a sleep. tinmmer and Winter. by night and by day, Thro' cloud and sunshine holding their way ; Oh I when shall the troubled breast Calmly and quietly sink into rest! Os when shall the waves' will murmuring cease, And the mighty w:ders be hushed to peace: It cannot be quiet—it cannot rest ; There must be Bearing on ncesn's breast : orhe tide must ebb, and the title must how, Whilst the chsngirg .essons and go. 1 4 till from the depths of that hidden store There are treasures teased up a ong the .hore ; Tossed by the billows-.iben seized again— Carded away by the rushing main. ph, strangely glorious and beautiful sea I Sounding forever n,,steii.iusly, Why are the billows still rolling on, With their wild and avi mid musical tone Why is there tic , er repose for thee Why slumberest thou not, oh mighty sea? Then the ocean's voice I seemed to hear, Mon.ritfully, solemnly— ounding near, FAke a wail mint up from the cavesbelow, raught with dark memories of human woe. Telling of loved one., buried there, Of the dying shriek and the dying prayer ; Telling of hearts still watching in vain For those who never shall come again : Of the widow's groans, the orphan's cry, And the mother's speeehleAtatrony. Oh, no, the ocean can never rest With such secrets hidden within its breast. There is buiruw ntio.en up.m the sea, And dark and stormy it+ waves must be ; caosiwt be quiet, it cameo, 'deep. That dark, relentless, and stormy deep. But a day will coma, a blewe4l day, When earthly sorrow shall µ iao away , When the bOur of anguish turu • to pear., And even the ear of the wares shall crave. Then out from its deepen and darkest bud Old Ocean shall render np her dead, And, treed from the weight of human woes, shall unietly sink in her la-t No sorrow shall ever he written then On the depths of the sea or the hearts of mew, Bit beaten earl it teoceo•rt s h a ll c hi ne , still clothed in glory and light divine. Then where ~bah the thi!ows of ocean be? Orme! for in heaven shall be "no m.,te sea l" 'Tis a blight and beautiful thing of earth, That cannot share in the ' , ours ••new birth ;" 'Tie a life of murmur and 10.i0g and spray, And at resting-time it must paw away. But, oh thou glorious and beautiful use, There is health and j..y and ble ,, ing in thee So:ensly, sweetly. 1 heir thy voice, Bidding me weep mid yet rinice— Weep for the lo%ed one• buries' banenth. Rejoice in Him who has conquered death ; Weep for the sorrowing and tempest-loaned, Rejoice in him who hue saved the ; Weep for the the sorrow. and strife, And rejoice in the hope of eternal life. 
+"There is sorrow on the sea—it cannot be quiet"— Jer. xlix. 23.
+
+The following poem, written by the late Captain M. A. S. Hare, of the Eurydice, in a friend's album some years since, will be read with mournful interest:–
+
+I stood on the shore of the beautiful sea,  
+As the billows were roaming wild and free;  
+Onward they came with unfailing force,  
+Then backward turned in their restless course;  
+Ever and ever sound their roar,  
+Foaming and dashing against the shore;  
+Ever and ever they rose and fell,  
+With heaving and sighing and mighty swell ;  
+And deep seemed calling aloud to deep,  
+Lest the murmuring waves should drop to sleep.  
+In Summer and Winter, by night and by day,  
+Thro' cloud and sunshine holding their way ;  
+Oh ! when shall the ocean's troubled breast  
+Calmly and quietly sink into rest!  
+Oh when shall the waves' wild murmuring cease,  
+And the mighty waters be hushed to peace?
+
+It cannot be quiet—it cannot rest ;  
+There must be Bearing on ocean's breast :  
+The tide must ebb, and the tide must flow,  
+Whilst the changing seasons come and go.  
+Still from the depths of that hidden store  
+There are treasures teased up along the shore ;  
+Tossed by the billows- then seized again—  
+Carrieed away by the rushing main
+
+Oh, strangely glorious and beautiful sea !  
+Sounding forever mysteriously,  
+Why are the billows still rolling on,  
+With their wild and sad and musical tone?  
+Why is there never repose for thee ?  
+Why slumberest thou not, oh mighty sea?
+
+Then the ocean's voice I seemed to hear, 
+Mournfully, solemnly— sounding near,  
+Like a wail sent up from the caves below, 
+Fraught with dark memories of human woe.  
+Telling of loved ones, buried there,  
+Of the dying shriek and the dying prayer ;  
+Telling of hearts still watching in vain  
+For those who never shall come again :  
+Of the widow's groans, the orphan's cry,  
+And the mother's speeehless agony.  
+Oh, no, the ocean can never rest  
+With such secrets hidden within its breast.  
+There is sorrow written upon the sea,  
+And dark and stormy its waves must be ;  
+It *cannot* be quiet, it *cannot* sleep.  
+That dark, relentless, and stormy deep.
+
+But a day will come, a blessed day,  
+When earthly sorrow shall pass away ,  
+When the hour of anguish shall turn to peace,  
+And even the roar of the wares shall cease.  
+Then out from its deepest and darkest bed  
+Old Ocean shall render up her dead,  
+And, freed from the weight of human woes,  
+Shall unietly sink in her last repose.  
+No sorrow shall ever be written then  
+On the depths of the sea or the hearts of men,  
+But heaven and earth renewed shall shine ,  
+Still clothed in glory and light divine.  
+Then where shall the billows of ocean be?  
+*Gone !* for in heaven shall be "no more at sea !"  
+'Tis a bright and beautiful thing of earth,  
+That cannot share in the soul's "new birth ;"  
+'Tis a life of murmur and tossing and spray,  
+And at resting-time it must pass away.
+
+But, oh thou glorious and beautiful sea,  
+There is health and joy and blessing in thee  
+Solemnly, sweetly, I hear thy voice,  
+Bidding me weep mid yet rijoice—  
+Weep for the loved ones buried beneath,
+Rejoice in Him who has conquered death ;  
+Weep for the sorrowing and tempest-tossed,  
+Rejoice in him who has saved the lost ;  
+Weep for the sin, the sorrow. and strife,  
+And rejoice in the hope of eternal life.
 
 ---
 
