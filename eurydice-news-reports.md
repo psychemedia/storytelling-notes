@@ -374,7 +374,7 @@ Cuddeford made the following statement to the Admiralty authorities:–
 
 "At 7 bells on Sunday afternoon, the 24th inst., the watch at a quarter to 4 o'clock was called to take in lower studding-sails. I was on deck to tend the lower tack, and let it go. The captain gave orders to take in the upper sails. The wind was then freshening. The captain ordered the men to come down from aloft, and then to let go the topsail halliards. The gunner's mate let go the topsail halliards, and another man, Bryans, let go the mainsheets. The water was then running over the lee netting on the starboard aide, and washed away the cutter. The foretopmast studding-sail was set. The wind was about a point abaft the port beam. I caught hold of the main trues, fell, and caught hold of the weathernetting, and got on the ship's side. We could see her keel. She righted a little before going down, bringing the mizzen topsail out of the water. She then went gradually over from forward, the greater part of the hands being at the fore part of the ship outside. She then turned over, bringing the port cutter bottom upwards. I and another, Richards, cut the foremost gripe, and then saw the captain standing on the vessel's side near the quarter boat and the two doctors struggling in the water. I swam some distance, keeping over my head a lifebuoy, which I found, and then picked up some piece of wreck, which I gave to some of the men in the water. I then came across the copper punt full of water, five men were in it. The sea capsized the punt, and they all got on the bottom. They asked me if there was any signs of help. I told them the best thing they could do was to keep their spirits up. One of them was just letting go his hold of the punt. I do not know his name. I next saw Mr. Brewer, the boatswain, with a cork lifebelt on. He was struggling strongly. I then saw Fletcher in the water with a cork belt and breaker. I lost sight of him during the snow. About five minutes afterwards the weather cleared up. I saw Fletcher again and we kept together. Then we saw land, but, finding it too rough, we turned our backs to the land and saw a schooner. The schooner bore down on us, sent a boat, and picked up two offciers that I had not previously noticed with a wash-deck locker. A rope's end was thrown to me from the schooner, and I was then picked up. I judge that I was in the water one hour and 20 minutes. The officers picked up were Lieutenant Tabor and a captain of the Royal Engineers who came on board at Bermuda with one corporal, one bombardier, four privates, and a servant of an officer of the Royal Engineers. The ship capsized about 10 minutes to 4. The captain was giving orders at the time, and was carrying out his duty. We rounded on the weather beam, and set the lower studding-sail at 2p.m. The ship was then going 8 1/2 knots. I don't know who was the officer of the watch as the captain was carrying on the duty. The Hon Mr. Giffard went to the wheel to help at the time the water was coming over the lee nettines in consequence of an order being given to put the helm up. There were the following supernumeraries on board:— Three Court-martial prisoners from the Rover; one A. B., a Court-martial prisoner from Bermuda; an ordinary seaman named Parker, who bad been tried by Court-martial (he belonged to the Eurydice) ; and about 12 or 14 Marines, with one sergeant of Marines from Bermuda Dockyard, two invalids from Bermuda Hospital, one ships' corporal from the Argus, one captain's cook from the Argus, one engineer's steward from the Argus, one ship's cook from Bermuda Dockyard, one quartermaster, named Nicholas, from the Rover. I believe some of the maindeck ports were open to let in the air to the maindeck mess. I don't think the hands were turned up; there was hardly time for that. I saw most of the men forward take off their clothes and jump off before I lost sight of them in the squall. When the snow cleared up the ship was gone down."
 
-THE INQUEST 
+THE INQUEST
 
 Was opened ar the Queen's Hotel, the Esplanade, Ventnor, at one o'clock yesterday, by ? Blake, Esq., coroner for the Isle Wight, and a jury of which  W. Mew Judd was foreman. —The inquest was on the bodies of Lieut. Franics Hope Tabor, Capt. Louis Ferrier, and – Bennett.
 
@@ -675,9 +675,51 @@ Perthshire Constitutional & Journal
 Wednesday 03 April 1878
 p4
 
-Poetry. MEMORIAM.
+Poetry. IN MEMORIAM.
 
-Samar, MI. with Mr galls= The deer 01J cowl-ire fell Ul. Channel odder a pores of sail She before the Toot &ad a. a Alp thealdhe, For Spittle= bound the Eurydice ! The oa the diets= sham And the warren dreamt that toll was o'er; Of cherry red Feriae For the ma-two= lade from the tropic kW; And ell =whine. Mme. sad gles Aron= sad aboard A change the sky ! A sadden flown ! And blinding eleet's bewildering Down. down varlet of keen and spray Three awls hare been swept away lout down in the doomed Damian The storm flies over; the wan& The treseben= bee= of There is both to is or ea Of the terrible they plaaned so well. Only timbers. re le Are of the poor E Merciful Father this bow what tears Fall. sad will fall through the weary pan? lonJ friends bitterly, night mad day, Mound= the dear owe tot sr; =by raising the cry to "0 Odd. hare pity on ell at !" Sal blow indeed I Vol we'll think with ribs Like Brithb ten at their poets they died. And what nobler rare than his astir damp Could the =be r=we for hie la= keg sleep, Whtft the roar of the turf =ell ewe be The dirge of the Eurydice? —Wedded! Reeder. 
+Ho! merrily home with her gallant crew,  
+The dear 0ld coast-line in full view,  
+Up Channel under a press of sail  
+She sped, careering before the gale.  
+Taut and trim as a ship should be,  
+For Spithead bound the Eurydice !
+
+The church-bells chimed on the distant shore,  
+And the manriners dreamt that toil was o'er;  
+Of cheery greetings and loving smiles  
+For the sun-burnt lads from the tropic isles;  
+And all was sunshine, hope and glee  
+Around and aboard the Eurydice.
+
+A change in the sky ! A sudden squall !  
+And the blinding sleet's bewildering fall !  
+Down, down in a vortetx of foam and spray  
+Three hundred souls have been swept away !  
+Gone down in the doomed Eurydice–  
+Parce, precamur, Domine !
+
+The storm flies over; the sunlight streams;  
+The teacherous bosom of ocean gleams;  
+There is little in sky or sea to tell  
+Of the terrible deed they plaaned so well.  
+Only some timbers, floating free,  
+Are left of the poor Eurydice !
+
+Merciful Father ! this hour what tears  
+Fall, and will fall through the weary years ?  
+Fond friends bitterly, night and day,  
+Mourning the dear ones gone for aye;  
+Sadly raising the cry to Thee–
+"O God, have pity on *all* at sea !"
+
+Sad blow indeed ! VoYetl we'll think with pride  
+Like British tars at their posts they died.  
+And what nobler grave than his native deep  
+Could the sailor choose for his long last sleep,  
+Where the roar of the surf shall ever be  
+The dirge of the Eurydice? 
+
+— *Whitehall Review.*
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002281/18780404/035/0003
