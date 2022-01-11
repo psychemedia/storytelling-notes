@@ -13,7 +13,7 @@ Sir Arthur Conan Doyle
 
 p?
 
-The Home-Coming of the Eurydice
+Poetry - The Home-Coming of the Eurydice
 
 [Lost, with her crew of three hundred boys, on the last day of her voyage, March 23, 1876. She foundered off Portsmouth, from which town many of the boys came.]
 
