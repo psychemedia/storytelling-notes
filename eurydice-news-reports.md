@@ -1190,7 +1190,53 @@ p2
 
 Poetry -  THE RAISING OF THE EURYDICE.
 
-itt=l horn d*eath -return Etn! dics ! AlpIea tpin n, rso'ourn in the grave; t, ?? s rd ie Litv a e l leeditig nov for thee, Alud BLut ti:ts seli is ntuurziig fcr the bra e. No lute nrtlod:os charms the cavcr',tl deep it viril thee III, and life agrlI t r st re : With tcce eescendifln there for ever ?? TI.om, loud ai d galaint hearts for evermore. Ncr y, t s8 a'l falble unreliieifl erd fall AsfiLot rettinuri g skee'st adln tie sea, Ihe ,, ie of Memuly, ?? like situ I call, And ey Eurydice Esr &iz.t! From gallant life to death- ore momftt's space, A ?? sun-a stro'ue of unseen wing,- As tho gbh in air, souite myst'! S'Tr-t chase Had croseeI the vorld in wil4led Wanderzng. Dowi, down EtIrv ice-lenea!h tho storm- To hopeful 'le-with all tav canvas spread- Thou through the briny sc;are didt':t hide thy ortn, And now we seek thee in tby rocty bed. We see-k thee now with lov e so fable knows, in tavern' L deeps-1not Hades seen more drear, ?? orlreus, scrro"tfl o'er h s t nder woes, Cocld mourn a fate uiore s- d or inore severe. We scek thee eagerly-and now the tears Aij u ov'd ngalio that tond AfIection shed; lo 't the ligbht thy lang-lost fotu a3ppears, Ad. se-ms to bear a message f om the dead. In vain 0 thy siltrt formn is charged and earl; We must awbile tbv mentory foreto, Nor el en N ith thy n:ame restor'd be glad, Whilst it retains a record of (,ur we. Atlectinu may not gaze upoa thy wrack,- ?? leaves Old 'l'ie tu courit tbe ?? cost, For t'eli li.ke Orphtut, Memnorv lookitg balk Is themitdto blend ?? with; t!he lordt and. lost, -Tilotaxs S'MTI[. 
+Return from death ! -return Eurydice !  
+Appear again — nor sojourn in the grave;  
+A thousand hearts are bleeding now for thee,  
+And Britain's self is mourning for the brave.
+
+No lute melodious charms the cavern'd deep,  
+To yield thee up, and life again restore  :  
+With thee descending there for ever sleep  
+Those lov'd and gallant hearts for evermore.
+
+Nor yet shall fable unremember'd fall  
+As thou returnuring seek'st again the sea.  
+The voice of Memory, Orpheus like shall I call,  
+And cry Eurydice! Eurydice!
+
+From gallant life to death- one moment's space,  
+A darken'd sun- a stroke of unseen wing,-  
+As though in air, some mystic Spirit chase  
+Had cross'd the world in wildest Wandering.
+
+Down, down Eurydice- beneath the storm-  
+To hopeful gale- with all thy canvas spread-  
+Thou through the briny space did'st hide thy form,  
+And now we seek thee in thy rocky bed.  
+
+We seek thee now with love no fable knows,  
+In cavern'd deeps- not Hades seen more drear,  
+Nor Orpheus, sorrowing o'er his tender woes,  
+Could mourn a fate more sad or more severe.  
+
+We seek thee eagerly- and now the tears  
+Are mov'd again that fond Affection shed;  
+Lo ! to the light thy long-lost form appears,  
+And seems to bear a message from the dead.
+
+In vain ! thy silent formn is changed and sad;  
+We must awhile thy memory forego,  
+Nor even with thy name restor'd be glad,  
+Whilst it retains a record of our woe.
+
+Affection may not gaze upon thy wrack,—  
+Grief leaves Old Time to count the tearful cost,  
+For e'en like Orpheus, Memnory looking back  
+Is deemed to blend thee with the lov'd and lost.
+
+- Thomas SMITH 
+
 
 ---
 
