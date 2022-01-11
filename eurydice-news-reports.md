@@ -461,7 +461,7 @@ Isle of Wight Observer
 Saturday 30 March 1878
 
 p8
-FOUNDERING OF THE "EURYDICE" IN SANDOWN BAY.
+Poetry - FOUNDERING OF THE "EURYDICE" IN SANDOWN BAY.
 
 Men stood aghast, as well they might, to hear  
 The dreadful news last Monday morning brought:  
@@ -470,7 +470,7 @@ Hallf founded in the Bay on Sunday eve !
 So awful sudden this catastrophe  
 That not a token reached tne dwellers by  
 To tell them hundreds of their fellow men  
-Were, within eye-ken, struggling for their lives. 
+Were, within eye-ken, struggling for their lives.  
 No sadder tale has ever yet been told  
 Or shipwreck's horror, sudden aud complete : —  
 A noble frigate, gaily homeward bound,  
@@ -522,46 +522,6 @@ Where lies tne Eurydice ahd her brave crew.
 
 Thomas Maton. Sandown, March 26th, 1878.
 
-
----
-
-
-Isle of Wight Observer
-Saturday 30 March 1878
-
-
-THE LOSS OF THE "EURYDICE"
-SUNDAY, MARCH 25, 1878.
-
-O'er the calm bosom of the treacherous sea,  
-The bright aun "hieing on each snowy Bail,  
-Onward she speeds, though shortly doomed to ba  
-A victim to th_9 fury of ihe gale.  
-Oae gust of wiad, -ne blinding cloud of snow  
-T*iat cast a gloom around her like the night,  
-Oae bitter cry of agony and w e,  
-Aud she had .unit for ever from our sight.  
-Fond hearts were waiting for her quiok return,  
-Fond eyea were gazing fir across the main ;  
-L ng may they watch, and loag th <_ _ hearts may yearn,  
-For those on earth chey ac er wdl «cc again I  
-Hearths will be desolate which were not so ;  
-Loud the sad cry is heard >>n every eide,  
-And mourners weep in bitterness of woe  
-For those who in their country's service died.  
-All England feels for those who now are left,  
-Wtd wad and fatherless, their loss to mourn ;  
-Of all their lived unes suddenly bereft  
-By fearful violence ..f tne pissing storm !  
-Shine down, O sun, with thy bright cheering face,  
-The world riils on as it has dove b-jfore ;  
-Grant tho.e who died have found iheir resting pluce  
-Above, where troubles shall be known nu mure. 
-
-W. Stanley Smiih.
-
-Ryde, March 25th, 1878.
-
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/016/0006
 Isle of Wight Observer
@@ -579,9 +539,67 @@ Montrose Standard
 Friday 29 March 1878
 p6
 
-POETRY - THE LAST OF 111 E EURYDICE.
+POETRY - THE LAST OF THE EURYDICE.
 
-Sunday, Maras 24, 1878. The training-ship Eurydice— As brave a craft, I were, As ever b,we brave men who loved Their Country and their Queen — Built wh.•n a ship, sir, a ship, And not a steam•oachias. A year more she had been out About the Indian seen ; And now, with all her bent Before a homeward teethe, Up Channel in her pride she came, The saucy Eurydice. "Only an hour from Spithead, lads: Only an hour from home!" So sung the ...wain's cheery voice As she clove the sunlit foam ; And each young sea-dog's bear' sang beak. "Only se hour from home !" We saw the hills 1.1 Devoe ries Fair in the Sabbath We marked cach hamlet gleaming white— The church mares one by one. We thought we heard the church bulls ring To bail our voyage dune'. No warning $ node crisped the ware To tell itioger nigh. Nor looming rack, nor driving scu d ; cot a smiling sky. With sound of the trump of doom, The squall broke suddenly. A giant wm!l wind and mom otf the Devon shore — It caught us in blinding whirl One no more For ere we dreamt tremble near All earthly Lope was o'er. No time to shorten evil—so time To change the camel's ; The Lied caught her crowded musts WWI swift, raistlem force. Only one shrill. despairing cry Item der the turmoil hoarse, And beosdaide the great ship went down Amid the swirling foam ; Anal with her four hundred men Went down. in sight Louie (Fletcher awl I &lone were saved)— Ouly an hour from home ! March 25. N O EL P&101/. 
+Sunday, March 24, 1878.
+
+The training-ship Eurydice—  
+As brave a craft, I ween,  
+As ever bore brave men who loved  
+Their Country and their Queen —  
+Built when a ship, sir, was a ship,  
+And not a steam-machine.
+
+A year or more she had been out  
+About the Indian seas ;  
+And now, with all her canvas bent  
+Before a homeward breese,  
+Up Channel in her pride she came,  
+The saucy Eurydice.
+
+"Only an hour from Spithead, lads:  
+Only an hour from home!"  
+So sung the captain's cheery voice  
+As she clove the sunlit foam ;  
+And each young sea-dog's heart sang back,   
+"Only an hour from home !"  
+
+We saw the hills of Devon rise  
+Fair in the Sabbath sun  
+We marked each hamlet gleaming white—  
+The church spires one by one.  
+We thought we heard the church bells ring  
+To hail our voyage done!
+
+No warning ripple crisped the wave  
+To tell of danger nigh.  
+Nor looming rock, nor driving scud ;  
+From out a smiling sky.  
+With sound as of the trump of doom,  
+The squall broke suddenly.
+
+A giant squall of wind and snow  
+From off the Devon shore —  
+It caught us in its blinding whirl  
+One instant and no more  
+For ere we dreamt of trouble near  
+All earthly hope was o'er.
+
+No time to shorten sail— no time  
+To change the vessel's course ;  
+The squall had caught her crowded masts  
+With swift, resistless force.  
+Only one shrill despairing cry  
+Rose o'er the turmoil hoarse,  
+
+And broadside the great ship went down  
+Amid the swirling foam ;  
+And with her four hundred men  
+Went down, in sight of home  
+(Fletcher and I alone were saved)—  
+Only an hour from home !
+
+March 25. Noel Paton.
 
 ---
 
