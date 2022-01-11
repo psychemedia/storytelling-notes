@@ -760,8 +760,45 @@ Tuesday 16 April 1878
 
 Poetry - H.M.S. "EURYDICE," MARCH 24, 1878.
 
-" Eurydice," twice-told, ill-fated name,  
-The fullest agony of grief to claim. bride beloved upon her marriage day Boatched ruthlessly by death's stern hand away. Hot her adoring lover's estined bliss Was nearer consummation than was this Two oceans passed, and close at home once more Crazed at in rapture from old England's shore, With all sails set, beneath a sunny sky, Wind and tide favouring. What bliss is nigh Nay, it is well-nigh grasped, that " Welcome Home," When the proud ship plunged into the tomb, on the beauty of her out-spread wings The fatal blast in frenzied fury springs, Without a warning all those noble, brave throbbing hearts are silenced 'neath the wave Without o'er the calm bright sea, . A message called them to eternity. or Orpheus' self for his Eurydice Knew the wide sorrow that felt for thee. How many lives what love as true and strong, Will to their close the grief for thee prolong 'f If Orpheus-like we fain would search the deep For thy dear treasures that -within it sleep, No powei of wealth or talent can attain To bring the warm life gushing back again 'Twould be a cold and shadowy ghost alone That could not for lost love and hope atone. But ! begone, ye mystic shadows dim, Lot holier, brighter faith now point to Him Sleep, loved ones; "Sleep in Jesus;" may you rest Till " the sea yields her dead," then fully blest, May you. with Him, dwell through eternity In that good land where shall be no more sea, tears, no partings, on that blissful shore, Where gallant ship shall pass by nevermore. M. J. K. —Graphic, April 6. 
+"Eurydice," twice-told, ill-fated name,  
+The fullest agony of grief to claim.  
+A bride beloved upon her marriage day  
+Snatched ruthlessly by death's stern hand away.  
+Not her adoring lover's destined bliss  
+Was nearer consummation than was this  
+Two oceans passed, and close at home once more  
+Gazed at in rapture from old England's shore,  
+With all sails set, beneath a sunny sky,  
+Wind and tide favouring. What bliss is nigh !  
+Nay it is well-nigh grasped, that " Welcome Home,"  
+When the proud ship plunged into the tomb,  
+As on the beauty of her out-spread wings  
+The fatal blast in frenzied fury springs,  
+Without a warning all those noble, brave  
+Young throbbing hearts are silenced 'neath the wave  
+Without a warning o'er the calm bright sea,  
+A message called them to eternity.  
+Nor Orpheus' self for his Eurydice  
+Knew the wide sorrow that felt for thee.  
+How many lives what love as true and strong,  
+Will to their close the grief for thee prolong ?  
+If Orpheus-like we fain would search the deep  
+For thy dear treasures that -within it sleep,  
+No power of wealth or talent can attain  
+To bring the warm life gushing back again ;  
+'Twould be a cold and shadowy ghost alone  
+That could not for lost love and hope atone.  
+But oh ! begone, ye mystic shadows dim,  
+Let holier, brighter faith now point to Him !  
+Sleep, loved ones; "Sleep in Jesus;" may you rest  
+Till " the sea yields her dead," then fully blest,  
+May you, with Him, dwell through eternity  
+In that good land where shall be no more sea,  
+No tears, no partings, on that blissful shore,  
+Where gallant ship shall pass by nevermore.
+
+M. J. K. — *Graphic*, April 6.
+
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780420/031/0006
