@@ -354,6 +354,17 @@ MORE COLUMNS WITH NO RELIABLE OCR POSSIBLE - LIST OF NAMES AND BIOGRAPHIES
 
 ---
 
+
+Dundee Evening Telegraph
+Tuesday 26 March 1878
+
+POETRY - THE LAST OF THE EURYDICE.
+
+Sunday, March 24, 1878.
+
+The training-ship Eurydice— brave craft, I ween, ever bore brave men who loved Their country and their Queen- Built when ship, sir, was ship, And not a steam machine. year or more she had been out About the Indian seas And now, with all her canvas bent Before homeward breeze, Channel in her pride she cams. The saucy Eurydice. Only an hour from lads : Only an hour from home !" S« sang the captain's cheery voice As she clove the sunlit foam And each young sea-dog's heart sang back, "Only hour from home "We saw the hills of Devon rise Fair in the Sabbath sun. We marked each hamlet gleaming white The church spire 3 one by one. thought we heard the church bells ring hail our voyage done ! No warning ripple crisped the wave, To tell of danger nigh, Nor looming rack, nor driving scud— From out smiling sky, With sound as the trump of doom, The squall broke suddenly. A -riant squall of wind and snow Prom off the Devon shore, It caught us in its blinding whirl One°instant, and more— For ere dreamt of trouble near AH earthly hope was o'er. time to shorten sail-no time change the vessel s course ; had caught her crowded masts With swift, resistless force. Only one shrill, despairing cry Rose o'er the turmoil hoarse, And broadside the great ship went down Amid the swirling foam And with her our four Hundred men Went do«'n, in sight home (FlSier and I Only hour from home . March 25- ato>l > i>l *■ s^otsma>i ' 
+---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780328/107/0005
 
 Isle of Wight Times
