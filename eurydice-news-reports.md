@@ -845,7 +845,70 @@ p4
 
 Poetry - THE CLOSE OF THE VOYAGE.
 
-There sailed the ship Eurydice— On board three hundred men, With all her steady canvas spread, For British seas again. tar Bermuda's isles she sailed, That lie along the West, And left the realm of setting suns To seek the port of rest. And now the Lizard's past, and they Descry the distant land Loom dark along the rugged Line Of cloven rock and ; There rise before their eager gaze Fair hamlets and rich towns, There stretch stern Cornwall's jagged cliffs, There Devon's gentle downs. Tbe Sabbath morning rises blue Above the gloom of night, And on their lee they hail with joy The'castled coast of Wight. Serene among it 3 sombre mists, Like sea-beast in its lair ; And on the crowded deck there stands The happy crew at prayer. solemn warning from the sky Broke o'er their glad repose, As sweet upon the wintry air The sounds of worship rose. JTo voice from Nature's myriad tongues Foretold their danger near, Within the sight of British land They did not dream of fear. But now the tempest fiend awoke, And smote the mighty ship ; And low upon the stormy deep, Her lofty topmasts dip ; As when through forests of the south The dread tornado flies, O'ertkrown upon the shattered earth The stately cedar lies. Through open ports the waters rush With swift and surging stream, And like a giant stricken down, She lies upon her beam. And while wild shrieks of anguish fade Into death's feeble gasp The engulfing billows clutch then- prey In their relentless grasp. Sad fate ! condole for Britain's loss; Her brave three hundred men Shall never tread her glorious soil Or battle-decks again. Amid her sorrow let her bow, And weep like While blighted hearts and homes lament The lost Eurydica. J. G. 
+There sailed the ship Eurydice—  
+On board three hundred men,  
+With all her steady canvas spread,  
+For British seas again.  
+From far Bermuda's isles she sailed,  
+That lie along the West,  
+And left the realm of setting suns  
+To seek the port of rest.
+
+And now the Lizard's past, and they  
+Descry the distant land  
+Loom dark along the rugged line  
+Of cloven rock and sand;  
+There rise before their eager gaze  
+Fair hamlets and rich towns,  
+There stretch stern Cornwall's jagged cliffs,  
+There Devon's gentle downs.
+
+Tbe Sabbath morning rises blue  
+Above the gloom of night,  
+And on their lee they hail with joy  
+The castled coast of Wight.  
+Serene among its sombre mists,  
+Like sea-beast in its lair ;  
+And on the crowded deck there stands  
+The happy crew at prayer.
+
+No solemn warning from the sky  
+Broke o'er their glad repose,  
+As sweet upon the wintry air  
+The sounds of worship rose.  
+No voice from Nature's myriad tongues  
+Foretold their danger near,  
+Within the sight of British land  
+They did not dream of fear.
+
+But now the tempest fiend awoke,  
+And smote the mighty ship ;  
+And low upon the stormy deep,  
+Her lofty topmasts dip ;  
+As when through forests of the south  
+The dread tornado flies,  
+O'erthrown upon the shattered earth  
+The stately cedar lies.
+
+Through open ports the waters rush  
+With swift and surging stream,  
+And like a giant stricken down,  
+She lies upon her beam.  
+And while wild shrieks of anguish fade  
+Into death's feeble gasp  
+The engulfing billows clutch their prey  
+In their relentless grasp.
+
+Sad fate ! condole for Britain's loss;  
+Her brave three hundred men  
+Shall never tread her glorious soil  
+Or battle-decks again.  
+Amid her sorrow let her bow,  
+And weep like Niobe  
+While blighted hearts and homes lament  
+The lost Eurydica. 
+
+J. G. M.
 
 
 ---
