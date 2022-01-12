@@ -1080,7 +1080,10 @@ p8
 
 To the Editor of the hie of Wight Observer.
 
-Sir.—l think it would have been but bare justice to Mr. Wiltshire, who was deputed to collect money for the Eurydice Fund, had his name appeared, as having b-en s< lected for that office, in th - paragraph heading the list of subscriptions published in your last issue. It appears to me that this was the least, recognition that could be made of his untiring ex- ertions in this charitable work ; a recognition which the public would certainly not have grudged him. Trusting to your courtesy to allow th-se few lines to appear in your widely circulated journal, and enclosing my card, I am, Sir, yours faithfully. FIAT JUSTirCA, RUAT CCELUM. 
+Sir.— I think it would have been but bare justice to Mr. Wiltshire, who was deputed to collect money for the Eurydice Fund, had his name appeared, as having been selected for that office, in the paragraph heading the list of subscriptions published in your last issue. It appears to me that this was the least recognition that could be made of his untiring exertions in this charitable work ; a recognition which the public would certainly not have grudged him. Trusting to your courtesy to allow these few lines to appear in your widely circulated journal, and enclosing my card,
+
+I am, Sir, yours faithfully,  
+FIAT JUSTITIA, RUAT COELUM.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780427/020/0005
