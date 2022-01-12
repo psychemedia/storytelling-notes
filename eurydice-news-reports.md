@@ -1520,7 +1520,9 @@ Isle of Wight Times
 Thursday 01 August 1878
 
 p5
-PHOTOGRAPH OF THE EURYDICE —Mr. C. Knight. Union-street, has jest published an excellent photograph of the Eurydice.
+PHOTOGRAPH OF THE EURYDICE
+
+Mr. C. Knight. Union-street, has jest published an excellent photograph of the Eurydice.
 
 ---
 
