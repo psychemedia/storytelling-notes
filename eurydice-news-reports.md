@@ -1730,7 +1730,7 @@ p5
 
 The Eurydice.
 
-Mr. Jabiz Hughes has obtained some really remarkable views of the wrecked Eury- J dice as she lies oil St. Helen's. The great defect in all the photos hitherto obtained is tint they are taken from so great a distance that the wrecked ! ship bears but an iusignilieaut part in the general i view. Mr. Hughes appears to have taken his pic- ture instantaneously irom some boat 'lose to the | wreck, the position of the ship being accurately ! shown, at well as the men on her duck searching for the bodies, kc The photogiaphs are printed by the pei mancnt process
+Mr. Jabiz Hughes has obtained some really remarkable views of the wrecked Eurydice as she lies of St. Helen's. The great defect in all the photos hitherto obtained is that they are taken from so great a distance that the wrecked ship bears but an insignificant part in the general view. Mr. Hughes appears to have taken his picture instantaneously from some boat close to the wreck, the position of the ship being accurately shown, as well as the men on her deck searching for the bodies, &c. The photographs are printed by the permanent process.
 
 ---
 
