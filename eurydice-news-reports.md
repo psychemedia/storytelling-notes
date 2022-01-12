@@ -1871,7 +1871,9 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790712/014/0008
 Isle of Wight Observer
 Saturday 12 July 1879
 
-The El-rydick.— A handsome tablet has been p'.aced in the chapel of the dockyard at Portsmouth oy p*-rmissian of the Admiralty, aud is a tine specimei' of the sculptor's art. On a tablet of jet black marble- is a cross, anchor, and cable resting on a rock covered with seaweed, and beneath a scroll in white block marble, the latter bearing the following inscription, surmounted by the word " Eurydice," and having underneath the crest and motto of the deceased': "In affectionate rememberance of Francis Hope Tabor, Lieutenant Royal Navy, who was drowned by the capsizing of H.M S. Eurydice off Donnose, Isle of Wight, March 24th, 1878. This tablet was erected by the officers of the ships in which he had served." 
+The Eurydice.
+
+A handsome tablet has been placed in the chapel of the dockyard at Portsmouth by permissian of the Admiralty, aud is a fine specimen of the sculptor's art. On a tablet of jet black marble is a cross, anchor, and cable resting on a rock covered with seaweed, and beneath a scroll in white block marble, the latter bearing the following inscription, surmounted by the word "Eurydice," and having underneath the crest and motto of the deceased: "In affectionate rememberance of Francis Hope Tabor, Lieutenant Royal Navy, who was drowned by the capsizing of H.M S. Eurydice off Donnose, Isle of Wight, March 24th, 1878. This tablet was erected by the officers of the ships in which he had served."
 
 
 ---
