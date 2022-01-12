@@ -1883,16 +1883,16 @@ Isle of Wight Observer
 Saturday 19 October 1878
 p5
 
-Diving at the Wreck of thu Eurydice.
+The Diving at the Wreck of the Eurydice.
 
-With reference to the amount paid to the divers in connection with the raising of the Eurydice, Messrs. Siebe and Gorman, submarine engineers to the Royal N ivy, write that they had four men en- gaged at the wreck, and not three, as stated, and that it was only their foreman diver who received £1 ss. per tide. During the four months that ope- rations were carried on the men were working day and night, and the pay they received was in the aggregate the same as that of the dockyard divers. 
+With reference to the amount paid to the divers in connection with the raising of the Eurydice, Messrs. Siebe and Gorman, submarine engineers to the Royal Navy, write that they had four men engaged at the wreck, and not three, as stated, and that it was only their foreman diver who received £1 5s. per tide. During the four months that operations were carried on the men were working day and night, and the pay they received was in the aggregate the same as that of the dockyard divers.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18800529/016/0006
 Isle of Wight Observer
 Saturday 29 May 1880
 p6
-Hampsh ire Chronicle. H.M.S. Atalanta. — 
+Hampshire Chronicle. H.M.S. Atalanta. — 
 
 Two hundred Douncls offered by the Admiralty as a reward lor any one giving definite information as to the cause or the locality of the loss of the missing traiuing ship wiU be regarded by the relatives and friends of the poor fellows on hoard as au indication that there ia no longer room for the slightest doubt as to the dread- ful nature of the catastrophe. Even the official mind, which is slow to admit the occurrence of events prej udicial to itself, by the issue of this notice reluctantly places upon record the fact that the last gleam of hop 3 for the safety of the ship and her precious cargo of human Uves has vanished. It is now a melancholy certainty that the ship which was sent to sea by the Admiralty in the place of the Eurydice has met with a precisely similar fate — that she has been blown over and ?? up by the pitiless waves, and thua at one fell swoop has the desolatiou of death been carried to over three hundred homes. The country from end to end is thrillei with horror by this terrible calamity, and already the demand has gone forlh that the Ad- miralty itself shaU be placed upon ita tiial in order to the prevention of the recurrence of such wof ul mishaps. Although the reward of £250 has been offered, we much doubt whether we shall ever ob- tain ?? information as to the exact spot, or the time, or the method of the foundering. There is no doubt but that she went down carrying with her every trace of the accident, and whatever wreckage may be thrown up hereafter wiU have ?? so far in deep sea currents as to be valueless save as mementoes of the dead, The disaster is so awfully dreadful that it is impossible as yet to think or to write of it with calmness. 
 
