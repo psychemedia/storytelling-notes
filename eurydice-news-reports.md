@@ -1600,6 +1600,17 @@ VISITORS TO THE EURYDICE.
 Among the many who have paid a silk to the wreck of the Eurydice, were the Sunday school teachers and choir of the Congregational Church, Yareham. They were taken by Mr. Joeeph French in his vessel the Wonder, and enjoyed a good tea at Sea View on their way home.
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780824/008/0005
+Isle of Wight Observer
+Saturday 24 August 1878
+p5
+
+The Eurydice.
+
+It is now believed that the last body has been recovered from the ship, and Admiral Foley has officially reported the ship clear of corpses. A thorough investigation was made by Jenkins, I the diver, before this opinion was come to. The I body of Lieut. Black was discovered jammed against I the ladder. The body of a seaman was found in j the cells of the lower deck, but not in irons. Since | the ship has been off St. Helen's only 15 bodies have I been recovered, making the total number recovered | since the wreck 121, of which six were found in the sick bay. The number washed out to sea by the strong tide in the direction of France, must therefore have been more than was first supposed. A director of tbe Salvage Steamship Company has j written a letter in reply to observations made in ! the House of Commons, and explained the difficulties of rasing sunken ships, and agreeing that the work done to the Eurydice by the dockyard authorities reflects great credit on them.
+
+---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780828/082/0007
 Shipping and Mercantile Gazette
 
