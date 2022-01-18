@@ -8,6 +8,11 @@ Percy Stone
 1912
 https://archive.org/details/legendslaysofwig00ston
 
+The Isle of Wight
+Mitton, G. E. (Geraldine Edith)
+1911
+https://archive.org/details/isleofwight00mittrich
+
 Isle of Wight : its churches and religious houses
 Cox, J. Charles
 1911
@@ -58,9 +63,13 @@ Darlington, Ralph
 1898
 https://books.google.co.uk/books?id=-oMuAAAAMAAJ
 
-Letters, archaeological and historical relating to the Isle of Wight, Edward Boucher James
+Letters, archaeological and historical relating to the Isle of Wight, Edward Boucher James, vol I
 1896
 https://archive.org/details/lettersarchaeolo01jameuoft
+
+Letters, archaeological and historical relating to the Isle of Wight, Edward Boucher James, vol II
+1896
+https://archive.org/details/lettersarchaeolo02jameuoft
 
 The Isle of Wight
 Cornish, C. J.
@@ -72,10 +81,19 @@ Shore, Thomas William
 1892
 https://archive.org/details/historyofhampshi00shoruoft
 
+The Architectural Antiquities of the Isle of Wight from the XIth to the XVIIth Centuries Inclusive, Volume 1
+Percy Goddard Stone
+https://books.google.co.uk/books?id=LuEwAQAAMAAJ
+
 The Oglander memoirs: extracts from the mss. of Sir J. Oglander,
 Oglander, John, Sir,
 1888
 https://archive.org/details/oglandermemoirse00oglaiala
+
+A Dictionary of the Isle of Wight Dialect, and of Provincialisms Used in the ...
+by William Henry Long
+1886
+https://archive.org/details/adictionaryisle00longgoog
 
 Fenwick's new and original, poetical, historical, & descriptive guide to the Isle of Wight
 Fenwick, George
@@ -137,6 +155,11 @@ Nelsons' Hand-book to the Isle of Wight: Its History, Topography, and Antiquitie
 by William Henry Davenport Adams
 https://archive.org/details/nelsonshandbook00adamgoog/page/n18/mode/2up
 
+Hand-book to the Isle of Wight: Its History, Topography, and Antiquities, with Notes
+1858
+by William Henry Davenport Adams
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18580220/043/0005
+
 The Isle of Wight, a guide
 Venables Rock, Edmund
 1860
@@ -146,6 +169,16 @@ The pleasure visitor’s companion in making the tour of the Isle of Wight, poin
 Brannon
 1857
 https://books.google.co.uk/books?id=m6lbAAAAQAAJ
+
+Geological Excursions Round the Isle of Wight, and Along the Adjacent Coast ...
+by Gideon Algernon Mantell
+1854
+https://archive.org/details/geologicalexcur02mantgoog
+
+Narrative of the attempted escapes of Charles the First from Carisbrook Castle, and of his detention in the Isle of Wight, from November, 1647, to the seizure of his person by the army, at Newport, in November, 1648. Including the letters of the King to Colonel Titus, now first deciphered and printed from the originals
+by Hillier, George
+1852
+https://archive.org/details/cu31924028050940
 
 Papal Rome, the foretold and foredoomed apostasy, anathematized of God : and under the ban of divine excommunication; a sermon preached in Ventnor Church, Isle of Wight, Sunday, Nov. 24th, 1850
 Coleman, John Noble
@@ -192,6 +225,16 @@ Sheridan, Henry Brinsley
 1845
 https://archive.org/details/stlawrenceswell00sher
 
+Norris Castle; or, recent tramps in the Isle of Wight
+By John Gwilliam
+1845
+https://books.google.co.uk/books?id=MAlgAAAAcAAJ
+
+Rambles in the Isle of Wight: With Miscellaneous Additions
+By John Gwilliam
+1844
+https://books.google.co.uk/books?id=2XYuAAAAMAAJ
+
 A topographical and historical guide to the Isle of Wight
 Brettell, Thomas
 1840
@@ -205,6 +248,11 @@ https://archive.org/details/vectisscenerybei00bran
 The Isle of Wight: its past and present condition, and future prospects Mudie, Robert
 1840
 https://books.google.co.uk/books?id=vOAHAAAAQAAJ
+
+
+Pigot's coloured views. The Isle of Wight: illustr. in a series of views engr. from the drawings of F. Calvert
+§837
+https://books.google.co.uk/books?id=HuEHAAAAQAAJ
 
 A topographical and historical guide to the Isle of Wight
 Sheridan, W.C.F.G.
@@ -250,6 +298,12 @@ Paterson, Daniel,
 1811
 https://archive.org/details/anewandaccurate00freegoog
 
+
+Vectiana, or a Companion to the Isle of Wight
+By John Albin
+1806
+https://books.google.co.uk/books?id=xcYHAAAAQAAJ
+
 An Account of the Measurement of an Arc of the Meridian, Extending from Dunnose, in the Isle of Wight, to Clifton, in Yorkshire, in Course of the Operations Carried on for the Trigonometrical Survey of England, in the Years 1800, 1801, and 1802
 Mudge, William
 1803
@@ -285,20 +339,41 @@ Marshall, Mr. (William)
 1798
 https://archive.org/details/ruraleconomysou00wilgoog
 
-A Tour to the Isle of Wight (two volumes)
+A Tour to the Isle of Wight volume I
 Tomkins, Charles
 1796
 https://archive.org/details/atourtoislewigh00tomkgoog
+
+A Tour to the Isle of Wight volume II
+Tomkins, Charles
+1796
+https://archive.org/details/atourtoislewigh01tomkgoog
 
 The history of the Isle of Wight; military, ecclesiastical, civil, & natural: to which is added a view of its agriculture
 Warner, Richard
 1795
 https://archive.org/details/historyofisleofw00warniala
 
+A Tour Through the South of England, Wales, and Part of Ireland, Made During the Summer of 1791
+Clarke, Edward
+1793
+https://archive.org/details/atourthroughsou01clargoog/page/n52/mode/2up?q=wight
+
+
+Sketches of Description: taken on a sailing from Newport, in the Isle of Wight, to Lymington; with a return by Southampton to Cowes
+James Albin
+1792
+https://books.google.co.uk/books?id=
+
 Tour of the Isle of Wight (two volumes)
 Hassell, John
 1790
 https://archive.org/details/tourislewightdr00hassgoog
+
+A Rumble from Newport to Cowes, in the Isle of Wight: By William Sharp, Junior
+William Sharp
+1784
+https://books.google.co.uk/books?id=hEsysNx1CFwC
 
 The trial, with the whole of the evidence, between the Right Hon. Sir Richard Worsley, bart. ... and George Maurice Bisset
 Worsley, Richard
@@ -310,6 +385,11 @@ Worsley, Richard
 1781
 https://books.google.co.uk/books?id=wOZWAAAAcAAJ
 
+A View of the Isle of Wight: In Four Letters to a Friend. Containing, Not Only a Description of Its Form and Principal Productions, But the Most Authentic and Material Articles of Its Nature, Political and Commercial History
+John Sturch
+1778
+https://books.google.co.uk/books?id=i1cQAAAAYAAJ
+
 Letters between Col. Robert Hammond, governor of the Isle of Wight, and the committee of lords and commons at Derby-House, General Fairfax, Lieut. General Cromwell, Commissary General Ireton, &c. relating to King Charles I
 Hammond, Robert, 1621-1654; Ashburnham, John
 1764
@@ -319,3 +399,8 @@ An Observation of an Extraordinary Damp in a Well in the Isle of Wight; Communic
 Benj. Cooke
 1737
 https://archive.org/details/paper-doi-10_1098_rstl_1737_0063/mode/2up
+
+Containing the Principal Matters Which Happen'd From the Beginning of the Year 1645, to the Death of King Charles the First, 1648. Wherein is a Particular Account of the Progress of the Civil War to that Period
+Browne
+1721
+https://books.google.co.uk/books?id=_spTAAAAcAAJ
