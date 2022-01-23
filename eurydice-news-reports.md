@@ -360,15 +360,75 @@ MORE COLUMNS WITH NO RELIABLE OCR POSSIBLE - LIST OF NAMES AND BIOGRAPHIES
 
 ---
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18780326/102/0002
 
 Dundee Evening Telegraph
 Tuesday 26 March 1878
+
+p2
 
 POETRY - THE LAST OF THE EURYDICE.
 
 Sunday, March 24, 1878.
 
-The training-ship Eurydice— brave craft, I ween, ever bore brave men who loved Their country and their Queen- Built when ship, sir, was ship, And not a steam machine. year or more she had been out About the Indian seas And now, with all her canvas bent Before homeward breeze, Channel in her pride she cams. The saucy Eurydice. Only an hour from lads : Only an hour from home !" S« sang the captain's cheery voice As she clove the sunlit foam And each young sea-dog's heart sang back, "Only hour from home "We saw the hills of Devon rise Fair in the Sabbath sun. We marked each hamlet gleaming white The church spire 3 one by one. thought we heard the church bells ring hail our voyage done ! No warning ripple crisped the wave, To tell of danger nigh, Nor looming rack, nor driving scud— From out smiling sky, With sound as the trump of doom, The squall broke suddenly. A -riant squall of wind and snow Prom off the Devon shore, It caught us in its blinding whirl One°instant, and more— For ere dreamt of trouble near AH earthly hope was o'er. time to shorten sail-no time change the vessel s course ; had caught her crowded masts With swift, resistless force. Only one shrill, despairing cry Rose o'er the turmoil hoarse, And broadside the great ship went down Amid the swirling foam And with her our four Hundred men Went do«'n, in sight home (FlSier and I Only hour from home . March 25- ato>l > i>l *■ s^otsma>i ' 
+The training-ship Eurydice—  
+As brave a craft, I ween,  
+As ever bore brave men who loved  
+Their country and their Queen-  
+Built when ship, sir, *was* a ship,  
+And not a steam machine.  
+
+A year or more she had been out  
+About the Indian seas;  
+And now, with all her canvas bent  
+Before homeward breeze,  
+Channel in her pride she came.  
+The saucy Eurydice.  
+
+"Only an hour from Spithead, lads:  
+Only an hour from home !"  
+So sang the captain's cheery voice  
+As she clove the sunlit foam ;  
+And each young sea-dog's heart sang back,  
+"Only hour from home !"
+
+We saw the hills of Devon rise  
+Fair in the Sabbath sun.  
+We marked each hamlet gleaming white  
+The church spires one by one.  
+We thought we heard the church bells ring  
+To hail our voyage done !
+
+No warning ripple crisped the wave,  
+To tell of danger nigh,  
+Nor looming rack, nor driving scud—  
+From out smiling sky,  
+With sound as the trump of doom,  
+The squall broke suddenly.
+
+A giant squall of wind and snow  
+From off the Devon shore,  
+It caught us in its blinding whirl  
+One instant, and more—  
+For ere we dreamt of trouble near  
+All earthly hope was o'er.
+
+No time to shorten sail- no time  
+To change the vessel's course ;  
+The squall had caught her crowded masts  
+With swift, resistless force.  
+Only one shrill, despairing cry  
+Rose o'er the turmoil hoarse,
+
+And broadside the great ship went down  
+Amid the swirling foam ;  
+And with her our four Hundred men  
+Went down, in sight home  
+(Fletcher and I alone were saved)–  
+Only an hour from home .
+
+March 25- *Noel Paton, in the Scotsman*
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780328/107/0005
@@ -1162,9 +1222,12 @@ p4
 
 The Eurydice
 
-So far as we have been able to ascertain — and sounding very, very many, we have not met with a contrary opinion – Islanders are anything but satisfied with the verdict of the Ventnor Jury. Of course they agree with the former portion – that the unfortunate met met with their death by capsizing of the vessel during a squall; but they differ as to the latter– that no blame attaches to anyone aboard. – The boy Fletcher proven to have been the nearest to the truth after all – though Cuddeford was recalled by the Admiralty law agent of Portsmouth to rebut his words– in saying that the ballast of the ill-fated vessel wa her water and stores (both for use), and these lessened on the voyage. Cuddeford said the lower tier of tanks were never
+So far as we have been able to ascertain — and sounding very, very many, we have not met with a contrary opinion – Islanders are anything but satisfied with the verdict of the Ventnor Jury. Of course they agree with the former portion – that the unfortunate met met with their death by capsizing of the vessel during a squall; but they differ as to the latter– that no blame attaches to anyone aboard. – The boy Fletcher proven to have been the nearest to the truth after all – though Cuddeford was recalled by the Admiralty law agent of Portsmouth to rebut his words– in saying that the ballast of the ill-fated vessel wa her water and stores (both for use), and these lessened on the voyage. Cuddeford said the lower tier of tanks were never touched, but the fact is there was no lower tier ! and the crew using from the only tanks below lightened the ship. However, this ballast question to our mind is not the most serious one. We believe most persons are firmly of opinion that the ports ought not to have been open, and that so much sail ought not to have been carried, under the circumstances. The ports being only 6ft. above water it will be seen that a comparatively slight heel over -18 degrees only— would bring them under water. Of course they should be open in fine weather and when there is no probability of bad weather— but in this case there was more than a probablility of bad weather- no-one could tell *how* bad, and wisdom and ordinary caution must have dictated their closing. The port question is a more serious one than that of water ballast, but a more important one still is the question of sail. Old, experienced seamen at Ventnor, remarked to one another as the Eurydice passed that she was carrying too much sail and would have to shorten directly— *they* could see that something bad was coming, and this most have been seen by the officers, *before* they came to the Culver shield, which has been made to shield them. We had newspaper warning that a storm might be expected on or about this day— we de not know whether this intimation was conveyed to the officers by signal or not, but we do know that the barometer had fallen rapidly, indicating something sudden and sharp, and we do know that another warning was given in the clouds some time before the storm broke on the vessel– before she passed Ventnor and came to the "shield."— There was no doubt an intense desire to get home— to the home within sight, and, being so close home, the dangers of the sea might *seem* to have been passed. " Fly on my boys, she'll stand it" would seem to have been the mental utterance— and there might have been a race on for a bet between this and a certain other vessel, when one would strain a point and run a risk, thought not certainly and knowingly run over risk to death. We give what the opinion at Ventnor was as she passed, and we must think that ordinary prudence and caution would have said–  never mind a few minutes, never mind a £5O bet (supposing this to have been lain) the barometer has fallen and the sky is threatening— one doesn't know *how much* these portend— it be be safer to close the ports and take in some little of the extra sail. The ports were not closed, and it was not attempted to reef till the full force of the squall was upon them and it was too late. It occurs to us that the fact of the ports being open may have been for the  nonce *forgotten*, with thoughts of home, and so on, and a belief the sail would "stand the storm" enabling them to anchor "by and by". No doubt sail ought to have been taken in and ports closed half-an-hour or an hour before, but we believe that had the ports only been closed, and had the vessel continued to carry her every stitch she would have righted, for according to Cuddeford she encountered a far heavier gale in the Bay of Biscay, and was "lively." As we say a comparatively slight list brought the ports under water, and then tons of water pouring in were auxiliaries to the squall, and the tin effected their terribly fatal work. The captain d the "Emma " did not shorten sail till the squall was on him, but he had *no ports open*, and had not been  carrying so much canvas. We believe the Eurydice would never have gone down had the warning of Providence and science been heeded. We class the calamity as a *preventible* one, and should write more strongly on the matter but for the words *"De mortuis nil nisi bonum."* Still, when we find one after another of our ships going down— may not the ships but about a thousand of our men– supposed to be commended by the cream of seamen— when we lose these at times when other seamen clse by are not lost, the interests of the country and of the relatives of our naval men demand that the press shall speak out and insist that the matter be not only fully enquired into, but that stringent orders be given that the officers shall run no risks, that ships shall be late, and that orders shall be disobeyed even rather than this losing game shall no longer continue. There is something radically wrong in our recent losses of ships and men. Whether naval men have become steamship hands and ceased to be *sailors* we cannot say, but certainly the matter demands the most minute enquiry, and more than that. Let us conclude with two quotations :
 
-touched but the fact is there was no lower tier ! and the mew using from the only tanks below lightened the ship. However, this ballast question to our mind is not the most serioes one. We believe most persons are firmly of opinion that the ports ought not to have been open, and that so much sail ought not to have been carried, under the circumstances. The pests being only 6ft. above water it will be sass that a aweparatively alight heel ewer-18 der** only—would thus under water. Of imams they desuld be eyes is ins and when there is se ponshility bad weather—but in this bat Awe wee mem than a probability of bed weather--isemr Gould tell bed, and wisdom estkenry caution must have dictated their dosing. The port question is a men serious sea than that of water ballast, bet a more important ate still is the gumbos mil. Old, experienced soma= at Vestser, marked to on another as the Eurydice pawed that she wee Gamin tee man Neil and would have to shorn direatly—bay could see that something bei wee ening, and this most have berm sem by the ellen Were they came to the Culver shield. which has been made to shield them. We bad sewsp liar warning that• storm might be expected on or about this day—we de not km .w whether this intimatio• was ear rayed to the abases by Opal or not, but we do know that the barometer had folios rapidly, indicating 'nothing an sheep, and we do know that another ' waniug was gives in the clouds some time beim, the dorm tun oa the resealbean she passed Vestaor and ease to the skield."—Pharr was no doubt an intense desire to get home—to the home within eight. and, being so dose home, the dangers of the ma might ens to have been pissed. " Fly oe my boys, she'll stand it" would seem to havebees the mental Uterine,— an there might have been a race on for a bet bermes this and a certain other vessel, whim on wend strain a point and run a risk, thought not certainly aad knowingly ran over risk to death. We im what the "Wes at Tenser was as she ponds we ink that ceding ▪ vs ben said—sewer mind • dew sew mind a L5O bet Cops Mrto knells's lain) the end the sky is threateniag—ons dem% knew meek them portead—it be rods is elute the ports and take in w▪ stl closed. .the erns ad. The ports wait was not attempted to leg tall the fall IMO of the Kull was spat them end it was toe lets It Wan to us that the fad the ports being open may here bees noses fergene, with timed@ et ul hane, an es, en • the wod " And the dna" esediss them to ember "by ad by.* doubt mid weglikto have been taken is nil ports eased self-era beer or en hoar bilme, but we believe that had the ports yell bees eked, sad bad the non cestinsel to ber every stitch she would hue toe to Coddeford she au a fir heavier gale in the Bay et , end was " lively." As we say • alight list brought the ports and them mus of water were sinelliaries to thesquill, wed the twain effeeted their terribly find week. The cassia d the " Emma " did net abides sail till the squall wee on him, bet be bed perk epos, and bed not ben mon amass. We believe would never have game bad the wining' of Provident and seines been heeded. We elms the calamity as a an, and should write mew strongly on the matter but for the weeds "De merino Nil isisi Mmes." Rill. wheal we Ind ose after mother of our nips going down—nay sot the ships but about a thousan of our mersupposed to be caw mended by the seam of asamen—when we lose these at times whoa other seamen ale by are set lei, the Warns of the emit end the relatives of our Naval ma the press shall speak out and ;mist matter be not only fully inglind that stringent orders be glum that the shall run no risks, that shin shall be late, and that orders shall be thiebein even rather thee this losing ofsirall longer continue.continue. The Then is mme- • radically wing in our resent losses and lain. Whether naval men ban Doom steamship hands and ceased to be milers we cannot say, but certainly the matter demands the most minute enquiry. end more than that. Let us oonolude with two quetadoes : Weak lime& We fain would take a favourable view of the cam. We are sure there will be a strict investigatio• into the catastrophe. This is due for the honour of the dead, as well as for the misty of our Niemen afloat. We know how it came to pans that the Naos sank in the Day_of Bi sca y; post has told how the brave lempenfelt, lathe Leval west down with twice four hundred mem." Did the Orman thus Mak without any waraiag, or thrli the neglect of reamemble foresight Did the barometer give no we:D-ings, or were its warnings neglecte d because the ship was so near home —We protest most emphatically against the qusetioes arising out of this cat. artrope being treated as though it were a matter conoersing only the reputation of the poor fellows who have goat down. The question not that, but a far more grave and serious oae—maraell, whether the vessels in the Qnesn's esrvice are to be handled in a prudent and esemanhice manner. We see convinced that the Iferylke was not so handled ; and to my that she was, in order to screen the memory the dead. or to spare the loilities of the living, would be to eve : me t encouragement to earelessame and la not only in the Navy but in all other CMOS. and that at a time when those very defects am and seriously on the increase and likely to being about Menders of greatly increased gravity. 
+*Weekly Times.*– We fain would take a favourable view of the case. We are sure there will be a strict investigation into the catastrophe. This is due for the honour of the dead, as well as for the safety of our seamen afloat. We know how it came to pass that the *Captain* sank in the Bay_of Biscay; a poet has told us how the brave Kempenfelt, in the *Royal George*, "went down with twice four hundred mem." Did the *Eurydice* thus sink without any warning, or though the neglect of reasonable foresight? Did the barometer give no warnings, or were its warnings neglected because the ship was so near home?
+
+*Vanity Fair*— We protest most emphatically against the qusetioes arising out of this catastrophe being treated as though it were a matter concerning only the reputation of the poor fellows who have gone down. The question is not that, but a far more grave and serious one— namely, whether the vessels in the Queen's service are to be handled in a prudent and seamanlike manner. We are convinced that the *Eurydice* was not so handled ; and to say that she was, in order to screen the memory the dead, or to spare the susceptibilities of the living, would be to give a public encouragement to carelessness and lubberliness not only in the Navy but in all other cases, and that at a time when those very defects are most seriously on the increase and likely to bring about disasters of greatly increased gravity.
+
 
 ---
 
@@ -2159,6 +2222,20 @@ p8
 The Eurydice has been brought into dock at Portsmouth for the entire demolition of the hull.
 
 ---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18781018/004/0002
+
+Dundee Evening Telegraph
+
+Friday 18 October 1878
+p2
+THE LAST OF THE EURYDICE.
+
+The last of the Eurydice was seen yesterday, when the old timbers of the ship were sold at Portsmouth Dockyard by public auction. An order from the Admiralty prohibited the remnants of the ship being sold as relicts of the Eurydice, so the lots were simply sold as old timber. The prices were about the ordinary, as the interest in the wreck has by this time altogether subsided.
+
+
+---
+
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790712/014/0008
 Isle of Wight Observer
