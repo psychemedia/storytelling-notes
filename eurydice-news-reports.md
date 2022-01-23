@@ -1274,7 +1274,7 @@ The following lines (signed "F. G.") on the loss  of the Eurydice, appears in th
 'Twas on a bright and breezy day  
 A noble ship came sailing home,  
 Dashing from either bow the spray,
-And plought up the mitk white foam.
+And ploughs up the milk white foam.
 
 For the last time the gallant band,  
 Close to "Old England on the lee,"  
@@ -1316,6 +1316,7 @@ He from whom good and evil come,
 Who rides upon the stormy wind,  
 Took the three hundred wanderers Home.
 
+TO DO - Baily's Magazine original; Hathi Trust? archive.or?
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780413/012/0005
@@ -1761,16 +1762,16 @@ Isle of Wight Times
 Thursday 06 June 1878
 p4
 
-THE EURYDICE. AcROSTIC ON THE WRECK OF THE EURYDICE.
+THE EURYDICE. ACROSTIC ON THE WRECK OF THE EURYDICE.
 
-By J. S. Edwanls, Sailor on H.M.S. Royal Adelaide.
+By J. S. Edwards, Sailor on H.M.S. Royal Adelaide.
 
-Each lnartunie light and hopeful on board that noble ship,  
-Unconscious of the danger nearbsforethe sundown dip  
-Resealing to the light of day, 'midst white sails spread around,  
-Youth's gall a nt form and manhood strong, that now in death are found.  
-Dread cloud of woe which overcabt their brightest home in night,  
-Immersing in engulfing doatbithe brave, the loved, the bright.  
+Each heart was light and hopeful on board that noble ship,  
+Unconscious of the danger near before the sundown dip  
+Revealing to the light of day, 'midst white sails spread around,  
+Youth's gallant form and manhood strong, that now in death are found.  
+Dread cloud of woe which overcast their brightest hopes in night,  
+Immersing in engulfing death, the brave, the loved, the bright.  
 Come England, spread thy gen'rous hand in pity o'er their grave, Endeavouring thus to honour those entombed beneath the wave.
 
 ---
