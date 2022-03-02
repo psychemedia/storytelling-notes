@@ -19,4 +19,4 @@ There may be something of interest buried in the following:
 
 I was surprised not to immediately find stories about white horses either running into the sea and becoming waves, or turning from waves into white horses.
 
-I have a couple of loosely related sea stories: sinking of the *Eurydice*, and the founding of the Pepperport ([*Walter de Godeton and the Shipwrecked Wine*](https://github.com/psychemedia/stuff-and-nonsense/blob/master/03_Storytelling/walter_de_godeton_and_the_shipwrecked_wine.md)).
+I have a couple of loosely Island-related sea stories: sinking of the *Eurydice*, and the founding of the Pepperport ([*Walter de Godeton and the Shipwrecked Wine*](https://github.com/psychemedia/stuff-and-nonsense/blob/master/03_Storytelling/walter_de_godeton_and_the_shipwrecked_wine.md)).
