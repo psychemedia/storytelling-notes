@@ -1,6 +1,6 @@
 # Sea Stories
 
-One obvious one (?!) is [*The Fisherman and his Wife*](https://www.worldoftales.com/European_folktales/German_folktale_9.html#gsc.tab=0) which is widely found across many traditions. Another is *Why the sea is salt*, (this is [examples](https://sites.pitt.edu/~dash/type0565.html)).
+One obvious one (?!) is [*The Fisherman and his Wife*](https://www.worldoftales.com/European_folktales/German_folktale_9.html#gsc.tab=0) ([other examples](https://sites.pitt.edu/~dash/type0555.html)) which is widely found across many traditions. Another is *Why the sea is salt*, ([examples](https://sites.pitt.edu/~dash/type0565.html)).
 
 Scottish legends (esp. Scottish islands) of *selkies*, which is to say, *seals*, shedding their seal skin and taking human form. A typical telling is of woman being captured then lost, eg [Faroe Islands, "Kópakonan (Seal Woman)"](https://old.visitfaroeislands.com/en/be-inspired/in-depth-articles/legend-of-kopakonan-(seal-woman)/). The tale type is [*The Mermaid Wife*](https://sites.pitt.edu/~dash/type4080.html) (that link gives several examples). See also various seal and mermaid related stories in [George Douglas, *Scottish fairy and folk tales*, 1900, p186-196](https://archive.org/details/scottishfairyfol00doug/page/186/mode/2up?q=seal). For a collection of Scottish collections, see [here](https://sites.pitt.edu/~dash/scotland.html).
 
