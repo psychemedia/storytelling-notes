@@ -122,3 +122,19 @@ Fashionable Arrivals. The following are among members of the R. Y. S. who have v
 
 
 ---
+https://archive.org/details/sim_notes-and-queries_1873-08-30_12_296/page/168/mode/2up
+Notes and Queries
+1873-08-30
+Vol 12 Iss 296
+
+p168
+
+“TALEES AND LEGENDS OF THE ISLE OF WIGHT: with the Adventures of the Author in search of Them." By Abraham Elder, Esq. 2nd edition, 1843.— Who wrote this work? It is not mentioned in Mr. Olphar Hamst's *Handbook*. Mr. Abraham Elder was evidently a person of culture and research, possessed of a delicate humour and much literary skill. His book is very interesting, and might well be reprinted. Even those parts of it which are out of date serve to show how far we have advanced, in certain directions, in the last thirty years, —such a sentence as the following, for instance, from his discourse on the Pied Piper of Newtown :—
+
+"There are also still in existence some very beautiful and copious remains of ancient literature in a language which Sir William Jones affirms to be more perfect than the Greek, and more copious than the Latin—the Sans- crit, the oldest language known."
+
+The book is illustrated with pictures by Robert Cruikshank— a man how different from George!
+A. J. Munby.
+Temple.
+
+[TH: I haven't (yet?) found a reply to this query.]
