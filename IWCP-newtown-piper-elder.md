@@ -138,3 +138,75 @@ A. J. Munby.
 Temple.
 
 [TH: I haven't (yet?) found a reply to this query.]
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18550813/016/0003
+
+Morning Post
+
+Monday 13 August 1855
+p3
+
+BRITISH ARCHAEOLOGICAL ASSOCIATION.
+
+The twelfth annual meeting of this association will commence in the Isle of Wight on Monday next.
+
+The following is the programme of the proceedings of the Congress : —
+
+Monday, Augnst 20.— Meeting in the Council Chamber of tbe Town-hall of Newport, at half-past one p.m., where the members and visitors are requested to enter their names and their places of abode during the congress. — Public meeting in the Town-hall at three p.m. — President's ad- dress.—lntroductory Sketch of the Antiquities of the Isle of Wight, by T. J. Pettigrew, Esq., vice-president and treasurer — Exhibition of plans of the town of Newport. — Lecture on the Municipal Records of Newport, by W. H. Black, Esq. — lnspection of the Town — Remains of St. Thomas's Church — The Grammar School — Museum of the Isle of Wight — Evening Meeting at the Town-hall for the Reading and Discussion of Papers, Exhibitions of Antiqui- ties, &c, half-past eight p.m.
+
+Tuesday, Aug. 21. — Visit to Carisbrooke Castle — Remains of Priory — Carisbrooke Church — Shalfleet Church—New- town (Site of Ancient Francheville) — Examination of ancient documents— Return to Newport — Evening meeting — Papers — Conversazione.
+
+Wednesday, August 22.— Visit to Calborne Church— Longstone — Mottistone — Brixton Church — Supposed site of Roman villa — Westcourt— Manor-house — Shorwell Church — Rowborough — Ancient British town of Gallibury — Return to Newport— Evening meeting— Papers— Conversazione.
+
+Thursday, August 23.— Visit to Niton— Puckaster Cove — St. Lawrence ?? tion and examination of Barrows on Wroxall Downs—Re- turn to Newport.
+
+Friday, August 24. — Visit to Southampton— Reception in the Audit House — Inspection of Ancient Muniments — Exhibition of Antiquities, MSS., &c. — Examination of the Ancient Walls and Fortifications — St. Michael's Church, &c. — Lecture on the Corporation Documents, by W. H. Black, Esq. — Ordinary — Conversazione.
+
+Saturday, August 25. — Visit to Netley Abbey — Closing meeting.
+
+Several papers, proposed to be read, according to circum- stances, either at the evening meetings, or at the places to which they refer, have already been announced, and others are in course of preparation. The council will, however, be glad to receive the communication of any others, that gentlemen, either of the association, or residents in the neighbourhood of the Congress, may be desirous of communicating. Among those already fixed, of local interest, may be named : —
+
+Mr. Pettigrew on the antiquities of the Isle of Wight as already illustrated by the British Archceological Association.
+
+Rev. Edmund Kell on the Ancient Tin Trade of the Isle of Wight.
+
+Rev. Edmund Kell on the Evidences of Roman Occupation in the Isle of Wight, and particularly at Newport.
+
+Dr. William Beattie on Carisbrooke Castle.
+
+Mr. J. R. Planche on the Lords of the Isle of Wight.
+
+Mr. W. D. Bennett on the Priory of St. Diouysius.
+
+Mr. W. D. Bennett on Beaulieu Abbey.
+
+Mr. W. H. Black on the Newport Corporation Records.
+
+Mr. W. H. Black on the Southampton ditto.
+
+Mr. W. H. Black on tbe Mode of keeping the Exchequer Accounts.
+
+Mr. H. Syer Cuming on the Relics of Charles I.
+
+Mr. C. E. Davis on the distinguishing characteristics of the various styles of ecclesiastical architecture, as an introduction to his description en route of the several churches in the Isle of Wight intended to be visited.
+
+Mr. J. Adey Repton, on the different characters or forms of the British urns, from those of the Roman and the Anglo-Saxon or Merovingians.
+
+Mr. F. J. Baigent, on documents connected with the Limerston family, ancient proprietors in the Isle of Wight extinct temp. Henry 11.
+
+Mr. Philip Brannon, on Netley Abbey.
+
+Mr. W. Hawkins, on a singular stone at the Priory of St. Dionysius.
+
+' On Roman vases found at Portswood, &
+
+Rev. Beale Poste— Historical sketch of *the ancient British Belgje, inhabitants in Roman times of the south-eastern parts of Britain, including Hampshire and the Isle of Wight.
+
+The arrangement of the papers, the hours appointed for the several excursions, and ether engagements, will be stated in the programme for each day's proceedings.
+
+By the kindness of the managers and proprietors, the Museum of the Isle of Wight Society, and the Athenseum, at Newport, will be open to visitors" during the Congress ; the Museum of the Literary Institution, at Ventnor; and at Southampton, the Lecture Room and Museum of the Polytechnic Institution.
+
+The chief objects of the meeting are to promote a personal intercourse between antiquaries and historical inquirers who reside in different parts of the country and abroad, and to afford a week's amusement and instruction by the reading and discussing of papers on antiquarian aad historical subjects, and in visiting and examining together the antiquities of the locality. Persons desirous of presenting papers or articles for exhibition are requested to forward them as early as possible, that they may be properly arranged.
