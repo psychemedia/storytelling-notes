@@ -248,13 +248,15 @@ Brannon, George
 1840
 https://archive.org/details/vectisscenerybei00bran
 
-The Isle of Wight: its past and present condition, and future prospects Mudie, Robert
+The Isle of Wight: its past and present condition, and future prospects
+Mudie, Robert
 1840
 https://books.google.co.uk/books?id=vOAHAAAAQAAJ
 
 
 Pigot's coloured views. The Isle of Wight: illustr. in a series of views engr. from the drawings of F. Calvert
-§837
+James Pigot
+1837
 https://books.google.co.uk/books?id=HuEHAAAAQAAJ
 
 A topographical and historical guide to the Isle of Wight
