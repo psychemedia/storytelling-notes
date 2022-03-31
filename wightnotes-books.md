@@ -289,7 +289,8 @@ Bullar, John
 1825
 https://books.google.co.uk/books?id=wBIHAAAAQAAJ
 
-A companion to the Isle of Wight; comprising the history of the island, and the description of its local scenery, as well as all objects of curiosity, Albin, John
+A companion to the Isle of Wight; comprising the history of the island, and the description of its local scenery, as well as all objects of curiosity,
+Albin, John
 1823
 https://archive.org/details/companiontoisleo00albi
 
