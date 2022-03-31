@@ -63,11 +63,13 @@ Darlington, Ralph
 1898
 https://books.google.co.uk/books?id=-oMuAAAAMAAJ
 
-Letters, archaeological and historical relating to the Isle of Wight, Edward Boucher James, vol I
+Letters, archaeological and historical relating to the Isle of Wight, vol I
+Edward Boucher James
 1896
 https://archive.org/details/lettersarchaeolo01jameuoft
 
-Letters, archaeological and historical relating to the Isle of Wight, Edward Boucher James, vol II
+Letters, archaeological and historical relating to the Isle of Wight, vol II
+Edward Boucher James,
 1896
 https://archive.org/details/lettersarchaeolo02jameuoft
 
