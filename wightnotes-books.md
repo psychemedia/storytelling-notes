@@ -1,6 +1,6 @@
 The Isle of Wight: its towns, antiquities, and objects of interest
-1915
 Thomas Nelson Publishers
+1915
 https://books.google.co.uk/books?id=4nB8CxCiZHYC
 
 Legends and Lays of the Wight
