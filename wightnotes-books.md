@@ -85,6 +85,7 @@ https://archive.org/details/historyofhampshi00shoruoft
 
 The Architectural Antiquities of the Isle of Wight from the XIth to the XVIIth Centuries Inclusive, Volume 1
 Percy Goddard Stone
+1891
 https://books.google.co.uk/books?id=LuEwAQAAMAAJ
 
 The Oglander memoirs: extracts from the mss. of Sir J. Oglander,
