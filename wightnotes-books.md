@@ -178,6 +178,11 @@ by Gideon Algernon Mantell
 1854
 https://archive.org/details/geologicalexcur02mantgoog
 
+The Land We Live In, Vol. II p261-292
+1853
+James Thorne (Publ. Charles Knight)
+https://archive.org/details/landweliveinpict02wyli/page/261/mode/2up?q=wight
+
 Narrative of the attempted escapes of Charles the First from Carisbrook Castle, and of his detention in the Isle of Wight, from November, 1647, to the seizure of his person by the army, at Newport, in November, 1648. Including the letters of the King to Colonel Titus, now first deciphered and printed from the originals
 by Hillier, George
 1852
@@ -207,11 +212,6 @@ The "Undercliff" of the Isle of Wight; its climate, history, and natural product
 1849
 Martin, George Anne
 https://archive.org/details/undercliffofisle00mart
-
-The Land We Live In, VOl. I
-1849
-James Thorne (Publ. Charles Knight)
-https://books.google.co.uk/books?id=UtEHAAAAQAAJ&pg=PA159&dq=%22land+we+live+in%22+thorne&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjy7_Ta9tH3AhWIa8AKHdACAx4Q6AF6BAgKEAI#v=onepage&q=wight&f=false
 
 Glimpses of nature, and objects of interest described during a visit to the Isle of Wight
 Loudon, Jane
