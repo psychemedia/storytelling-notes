@@ -208,6 +208,11 @@ The "Undercliff" of the Isle of Wight; its climate, history, and natural product
 Martin, George Anne
 https://archive.org/details/undercliffofisle00mart
 
+The Land We Live In, VOl. I
+1849
+James Thorne (Publ. Charles Knight)
+https://books.google.co.uk/books?id=UtEHAAAAQAAJ&pg=PA159&dq=%22land+we+live+in%22+thorne&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjy7_Ta9tH3AhWIa8AKHdACAx4Q6AF6BAgKEAI#v=onepage&q=wight&f=false
+
 Glimpses of nature, and objects of interest described during a visit to the Isle of Wight
 Loudon, Jane
 1848
