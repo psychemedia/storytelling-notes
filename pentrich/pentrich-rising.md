@@ -23,7 +23,7 @@ So too, in the State Trials in London, where the claimed organisers of insurrect
 
 But in Pentrich, on the Derbyshire / Yorkshire border, a different story plays out. There, too, William Oliver had encouraged discontent, had encouraged co-ordinated action, had promoted a June 8th uprising.
 
-Fifty men had set out from Pentrich, intending to take part in a co-ordinated raid on the nearby Butterley Iron Works to steal arms and munitions, and then to make their way to Nottingham, and London, building numbers all the while.
+Fifty men had set out from Pentrich, intending to take part in a co-ordinated raid on the nearby Butterley Iron Works to steal arms and munitions, and then to make their way to Nottingham, and from there, to London, building numbers all the while.
 
 But it seems that the magistrates and the Yeomanry knew what was likely to be afoot. It seems almost as if they had been forewarned. The men left the ironworks and headed towards Nottingham. The numbers grew, to 500 or so, but by now the authorities had the evidence they needed, and the insurrectionists were disbursed. The leaders, identified by who knows what intelligence, were later arrested. At the local assizes, they are summoned to appear before a Special Commission to be held in the Autumn on the charge of High Treason. Four in particular accused of being the leaders. Or perhaps, make that three, Because one of the leaders, who had avoided action on the night in question, and who had been the contact man for a certain Mr William Oliver, was treated differently. It would not do for *his* evidence to come before the jurors, let alone the public.
 
