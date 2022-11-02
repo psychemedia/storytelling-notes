@@ -1,6 +1,6 @@
 The Isle of Wight: its towns, antiquities, and objects of interest
-1915
 Thomas Nelson Publishers
+1915
 https://books.google.co.uk/books?id=4nB8CxCiZHYC
 
 Legends and Lays of the Wight
@@ -63,11 +63,13 @@ Darlington, Ralph
 1898
 https://books.google.co.uk/books?id=-oMuAAAAMAAJ
 
-Letters, archaeological and historical relating to the Isle of Wight, Edward Boucher James, vol I
+Letters, archaeological and historical relating to the Isle of Wight, vol I
+Edward Boucher James
 1896
 https://archive.org/details/lettersarchaeolo01jameuoft
 
-Letters, archaeological and historical relating to the Isle of Wight, Edward Boucher James, vol II
+Letters, archaeological and historical relating to the Isle of Wight, vol II
+Edward Boucher James,
 1896
 https://archive.org/details/lettersarchaeolo02jameuoft
 
@@ -83,6 +85,7 @@ https://archive.org/details/historyofhampshi00shoruoft
 
 The Architectural Antiquities of the Isle of Wight from the XIth to the XVIIth Centuries Inclusive, Volume 1
 Percy Goddard Stone
+1891
 https://books.google.co.uk/books?id=LuEwAQAAMAAJ
 
 The Oglander memoirs: extracts from the mss. of Sir J. Oglander,
@@ -175,6 +178,11 @@ by Gideon Algernon Mantell
 1854
 https://archive.org/details/geologicalexcur02mantgoog
 
+The Land We Live In, Vol. II p261-292
+1853
+James Thorne (Publ. Charles Knight)
+https://archive.org/details/landweliveinpict02wyli/page/261/mode/2up?q=wight
+
 Narrative of the attempted escapes of Charles the First from Carisbrook Castle, and of his detention in the Isle of Wight, from November, 1647, to the seizure of his person by the army, at Newport, in November, 1648. Including the letters of the King to Colonel Titus, now first deciphered and printed from the originals
 by Hillier, George
 1852
@@ -245,13 +253,15 @@ Brannon, George
 1840
 https://archive.org/details/vectisscenerybei00bran
 
-The Isle of Wight: its past and present condition, and future prospects Mudie, Robert
+The Isle of Wight: its past and present condition, and future prospects
+Mudie, Robert
 1840
 https://books.google.co.uk/books?id=vOAHAAAAQAAJ
 
 
 Pigot's coloured views. The Isle of Wight: illustr. in a series of views engr. from the drawings of F. Calvert
-§837
+James Pigot
+1837
 https://books.google.co.uk/books?id=HuEHAAAAQAAJ
 
 A topographical and historical guide to the Isle of Wight
@@ -284,7 +294,8 @@ Bullar, John
 1825
 https://books.google.co.uk/books?id=wBIHAAAAQAAJ
 
-A companion to the Isle of Wight; comprising the history of the island, and the description of its local scenery, as well as all objects of curiosity, Albin, John
+A companion to the Isle of Wight; comprising the history of the island, and the description of its local scenery, as well as all objects of curiosity,
+Albin, John
 1823
 https://archive.org/details/companiontoisleo00albi
 
