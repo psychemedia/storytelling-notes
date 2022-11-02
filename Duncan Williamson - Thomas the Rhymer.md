@@ -26,7 +26,7 @@ That ever I did see
 O no O no O Thomas - she said
 That name does not belong to me
 For I have come from Elfinland
-I have come to visit wi thee
+I have come to visit thee
 
 And you maun come O Thomas - she said
 You maun come along wi me
