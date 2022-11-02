@@ -17,7 +17,7 @@ In Huddersfield, two dozen men meet at Folly Hall Bridge and in Honley, armed an
 
 Over the coming days and weeks the men are interviewed, and set to appear at the Assizes in York, scene of a Special Commission five years earlier that saw 15 men, Luddites from the Huddersfield area, sentenced to death in a special and promptly hanged.
 
-But in a local newspaper, the Leeds Mercury, a story has broken: a spy, William Oliver, claiming to be a Parliamentary reformer, well-connected with other reformers in London, has been touring the organising committees of the North and promoting insurrection. Questions are asked in Parliament. Entrapment is claimed. There is public uproar — this is public service investigate journalism at its best. The men at York are acquitted.
+But in a local newspaper, the Leeds Mercury, a story has broken: a Government spy, William Oliver, reporting to a Secret Parliamentary Committee, as well as local magistrates, but claiming to be a Parliamentary reformer, well-connected with other reformers in London. He has been touring the organising committees of the North and promoting insurrection. Questions are asked in Parliament. Entrapment is claimed. There is public uproar — this is public service investigate journalism at its best. The men at York are acquitted.
 
 So too, in the State Trials in London, where the claimed organisers of insurrection in London six months before are acquitted.
 
