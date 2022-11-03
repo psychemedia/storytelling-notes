@@ -44,32 +44,32 @@ https://www.youtube.com/watch?v=iqwEsFnAqg4
 
 Pentrich Rising, Ferocious Dog
 
-Oh my name is William Turner and my tale I'll tell to thee
-about the revolution in 1817
-With Brandreth and Ludlam and a band of fifty strong
-With hundreds more to meet us
+Oh my name is William Turner and my tale I'll tell to thee  
+about the revolution in 1817  
+With Brandreth and Ludlam and a band of fifty strong  
+With hundreds more to meet us  
 on the road, as we march on
 
-A night for revolution, a night to fight
-A call to arms in England
-All workers must unite
-Tonight we march on Pentrich
-with London in our sights
-A night for revolution
-All workers must unite
+A night for revolution, a night to fight  
+A call to arms in England  
+All workers must unite  
+Tonight we march on Pentrich  
+with London in our sights  
+A night for revolution  
+All workers must unite  
 And then we fight
 
-Little did we know there was a traitorous government spy
-William J. Oliver a man I now despise
-The Pentrich revolution was always doomed to fail
+Little did we know there was a traitorous government spy  
+William J. Oliver a man I now despise  
+The Pentrich revolution was always doomed to fail  
 For high treason, I was sentenced and hung in Derby Gaol
 
-A night for revolution a night to fight
-A call to arms in England
-All workers must unite
-Tonight we march on Pentrich
-with London in our sights
-A night for revolution
-All workers must unite
+A night for revolution a night to fight  
+A call to arms in England  
+All workers must unite  
+Tonight we march on Pentrich  
+with London in our sights  
+A night for revolution  
+All workers must unite  
 And then we fight
 
