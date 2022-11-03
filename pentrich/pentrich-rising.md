@@ -37,7 +37,7 @@ Later that afternoon, their bodies were dumped in an unmarked grave.
 
 And that is the story of the Pentrich Uprising.
 
-*THIS TALE IS NO LONGER BEING UPDATED. SEE INSTEAD https://github.com/psychemedia/pentrich-uprising*
+*FOR A MORE COMPREHENSIVE SET OF STORYNOTES RELATING TO THE PENRICH UPRISING, SEE https://github.com/psychemedia/pentrich-uprising*
 
 --
 https://www.youtube.com/watch?v=iqwEsFnAqg4
