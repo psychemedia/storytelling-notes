@@ -1,4 +1,4 @@
-¹# Pentrich Rising
+# Pentrich Rising
 
 ```text
 I bring you a tale,  
