@@ -7,6 +7,8 @@ I first heard this story told by Daniel Morden as part of his Covid lockdown pod
 Your browser does not support the audio element.
 </audio>
 
+*It's rapidly becoming one of my favourite 5 minute tales for retelling in a similar way, and is suitable for a wide range of audiences.*
+
 I'm pretty sure I heard Daniel say somewhere (FATE 2021, maybe, in a lunch queue, telling someone else?) that it had come via an old collection of Welsh traditional tales, but the only place I've so far tracked it down to is the Vol 10 Iss 12 issue of the St Nicholas magazine, from October, 1883, [p938-9](https://archive.org/details/sim_saint-nicholas-a-magazine-for-boys-and-girls_1883-10_10_12/page/938/mode/2up?q=%22wish+ring%22), and then reprinted in *Fairy stories retold from St. Nicholas*, 1906, [p185-192](https://archive.org/details/FairyStoriesRetoldFromStNicholas/page/n195/mode/2up?q=%22wish+ring%22), from which the following image is also taken.
 
 ![A man sat next to a woman outside a cottage, with the caption "There is only one wish in the ring".](images/wish_ring_tales_st_nicholas.png)

@@ -3,9 +3,9 @@ root: preface
 parts:
 - caption: Tales Told
   chapters:
+  - file: the-wish-ring
   - file: yama-and-yami
   - file: pentrich/pentrich-rising
-  - file: the-wish-ring
 - caption: Tales to Tell
   chapters:
   - file: macpherson
