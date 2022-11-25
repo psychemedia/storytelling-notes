@@ -1,6 +1,10 @@
 # Yama and Yami
 
-A tale that I first heard told, alongside another compelling tale, on Daniel Morden's lockdown podcast, series, in an episode entitled [*Medicine and Night*](https://podtail.com/podcast/thehouseofstories/episode-5-medicine-and-night/). The podcast was produced as part of a stabilisation grant award funded by the Arts Council of Wales's National Lottery Fund during the 2020 Covid lockdown period.
+An originin tale, from Hindu mythology recounting the cration of night. By extension, we might also argue we get the reation of not just time, but also the past as a place for forgetting, and the future as a place for hope.
+
+## Yama and Yami, as told by Daniel Morden
+
+I first heard this tale told, alongside another compelling, and quite dark, story, on Daniel Morden's lockdown podcast series, in an episode entitled [*Medicine and Night*](https://podtail.com/podcast/thehouseofstories/episode-5-medicine-and-night/). The podcast was produced as part of a stabilisation grant award funded by the Arts Council of Wales's National Lottery Fund during the 2020 Covid lockdown period.
 
 <audio controls>
   <source src="https://thecraneskinbag.podomatic.com/enclosure/2020-12-20T12_00_00-08_00.mp3" type="audio/mpeg">
@@ -8,6 +12,9 @@ Your browser does not support the audio element.
 </audio>
 
 I have taken the liberty of transcribing the episode for my own reference.
+
+```{admonition} Yama and Yami, as told by Daniel Morden
+:class: dropdown
 
 > Once upon a time, only two humans lived on this earth, a brother and a sister, twins. Their names were Yama and Yami. They roamed the world, delighting in its tastes and sights and smells. The kiss of the breeze and the caress of the grass against their skin.
 >
@@ -20,8 +27,11 @@ I have taken the liberty of transcribing the episode for my own reference.
 > The gods and goddesses took on visible form and went to Yami as she sat immersed in her pain. They hugged her, spoke words of comfort to her, but Yami was too sad to listen. She kept saying, Yama died today. The immortals did not know what to do. They went to a hillside and sat in silence. Then a thought occurred to one of them. Yami's sorrow continued, not just because of her love for her brother, but also because in her life she had known only now. The gods and goddesses created sunset. Night slowly enveloped the world.
 >
 > Under the blanket of night, Yami, just as the birds and the animals did, fell asleep. When she awoke with the sunrise, she said to herself, Yama died yesterday. The following day, Yama died the day before yesterday. As time went by, night and sleep lessened the pain of Yama's death. Though she never forgot her dear brother, the pain lost its power to overwhelm her. Her sadness became less destructive, her tears dried up, and the danger, her sorrow posed to the world, faded away.
+```
 
-The text largely follows a telling that can be found on *The Robert Beer Blog* in a post entitled [Yama and Yami](https://www.tibetanart.com/Blog/Post.asp?ID=101), published in August, 2014.
+## Yama and Yami, Storynotes
+
+Danieal Morden's telling largely follows a text that can be found on *The Robert Beer Blog* in a post entitled [Yama and Yami](https://www.tibetanart.com/Blog/Post.asp?ID=101), published in August, 2014.
 
 It begins with the birth of twins, Yama and Yami, (from Surya (also referred to as Vivasvan), the Sun God, and his wife, Sanjna) into "a garden of earthly delights", a paradise that existed in a perpetual now. Yami desired Yama, but Yama believed such a union would displease the Gods. Yami wanders away, but when she returns, she finds Yama has died. Heartbroken, she cries so profusely she creates the Yamuna river, which starts to flood the earth. The gods try to console her, but her lament of "Yami died today" continues. And so they create night. And Yami slept. And each day, her grief grew less and she became "the first mortal to experience the true nature of human existence" and "wise through the acceptance of her suffering". Yama, the first person to be born, was also the first to die, and in so doing became the Lord of Death.
 
@@ -31,10 +41,12 @@ It seems that Yama is perhaps best thought of as the first *mortal*; his brother
 
 The conflict between Yami's desires for her brother are described in the Rig Veda. The [Complete Rig Veda in English (Sakala Shakha), 1896](https://archive.org/details/rigvedacomplete) (a single document combining the two original, separate volumes) by Ralph Thomas Hotchkin Griffith, gives from volume I, [RV, Hymn X.10](https://archive.org/details/rigvedacomplete/page/n1032/mode/1up) the following annotated translation:
 
-```
+```{admonition}
+:class: dropdown
+
 Yama and Yami, son and daughter of Vivasvân, are the Rishis as well as the deities of the hymn which is a dialogue between them.
 
-Yama and Yamî are, says von Roth, 'as their names denote, twin brother aud sister, and are the first human pair, the originators of the race. As the Hebrew conception closely connected the parents of mankind by making the woman formed from a portion of the body of the man, so by the Indian tradition they are placed in the relationship of twins. This thought is laid by the hymn in question in the mouth of Yamî herself, when she is made to say : "Even in the womb the Creator made us for husband and wife." ' Professor Muller, on the other hand, says (Lectures on the Science of Language second series, p. 510): 'There is a curious dialogue between her (Yamî) and her brother, where she (the night) implores her brother (the day) to make her his wife, and where he declines her offer, "because" as he says, "they have called it a sin that a brother should marry his sister". Again, p. 521, "There is not a single word in the Veda pointing to *Yama* and *Yamî* as the first couple of mortals, the Indian Adam and Eve... If Yama had been the first created of men, surely the Vedic poets, in speaking of him, could not have passed this over in silence." See, however, the passage from the Atharva-veda, XVIII, 3, 13, to be quoted further on. [Reverence ye with an oblation Yama, the son of Vivasvat, the assembler of men, who was the first of men that died, and the first that departed to this (celestial) world]." Muir, O. S. Texts, V. p. 238. Yama as the first man may perhaps be, as Prof. Max Muller holds, 'a later phase of religious thought.'
+Yama and Yamî are, says von Roth, 'as their names denote, twin brother and sister, and are the first human pair, the originators of the race. As the Hebrew conception closely connected the parents of mankind by making the woman formed from a portion of the body of the man, so by the Indian tradition they are placed in the relationship of twins. This thought is laid by the hymn in question in the mouth of Yamî herself, when she is made to say : "Even in the womb the Creator made us for husband and wife." ' Professor Muller, on the other hand, says (Lectures on the Science of Language second series, p. 510): 'There is a curious dialogue between her (Yamî) and her brother, where she (the night) implores her brother (the day) to make her his wife, and where he declines her offer, "because" as he says, "they have called it a sin that a brother should marry his sister". Again, p. 521, "There is not a single word in the Veda pointing to *Yama* and *Yamî* as the first couple of mortals, the Indian Adam and Eve... If Yama had been the first created of men, surely the Vedic poets, in speaking of him, could not have passed this over in silence." See, however, the passage from the Atharva-veda, XVIII, 3, 13, to be quoted further on. [Reverence ye with an oblation Yama, the son of Vivasvat, the assembler of men, who was the first of men that died, and the first that departed to this (celestial) world]." Muir, O. S. Texts, V. p. 238. Yama as the first man may perhaps be, as Prof. Max Muller holds, 'a later phase of religious thought.'
 ```
 
 > *Yami speaks `The Sage; vedhdh`: Yama, whom she wishes to give her a son. `Come`: Sâyana explains the masculine participle `jaganvân` by the feminine `gatavatî`, that is, I, Yami, who have come. `The earth`: which, otherwise, will remain without human inhabitants.*
@@ -139,7 +151,7 @@ Other possible readings / starting points:
 - [Yama - The Lord of Death](https://apamnapat.com/entities/Yama.html)
 - [Lord Yamaraja](https://pujayagna.com/blogs/hindu-gods-goddesses/lord-yamaraja)
 
----
+## Yama and Yami, Performance Notes
 
 My opening and close:
 
