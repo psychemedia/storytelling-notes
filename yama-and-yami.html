@@ -1,0 +1,462 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Yama and Yami &#8212; Storytelling Notes</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Pentrich Rising" href="pentrich/pentrich-rising.html" />
+    <link rel="prev" title="Preface" href="preface.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="index.html">
+      
+      
+      
+      <h1 class="site-logo" id="site-title">Storytelling Notes</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="preface.html">
+                    Preface
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Tales Told
+ </span>
+</p>
+<ul class="current nav bd-sidenav">
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   Yama and Yami
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="pentrich/pentrich-rising.html">
+   Pentrich Rising
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="the-wish-ring.html">
+   The Wish Ring
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Tales to Tell
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="macpherson.html">
+   Macpherson’s Rant
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+</div>
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Yama and Yami</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
+              <div>
+                
+  <section class="tex2jax_ignore mathjax_ignore" id="yama-and-yami">
+<h1>Yama and Yami<a class="headerlink" href="#yama-and-yami" title="Permalink to this headline">#</a></h1>
+<p>A tale that I first heard told, alongside another compelling tale, on Daniel Morden’s lockdown podcast, series, in an episode entitled <a class="reference external" href="https://podtail.com/podcast/thehouseofstories/episode-5-medicine-and-night/"><em>Medicine and Night</em></a>. The podcast was produced as part of a stabilisation grant award funded by the Arts Council of Wales’s National Lottery Fund during the 2020 Covid lockdown period.</p>
+<audio controls>
+  <source src="https://thecraneskinbag.podomatic.com/enclosure/2020-12-20T12_00_00-08_00.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<p>I have taken the liberty of transcribing the episode for my own reference.</p>
+<blockquote>
+<div><p>Once upon a time, only two humans lived on this earth, a brother and a sister, twins. Their names were Yama and Yami. They roamed the world, delighting in its tastes and sights and smells. The kiss of the breeze and the caress of the grass against their skin.</p>
+<p>At that time, it was always day. The season was always spring. There was no yesterday, no tomorrow. The sun never set and the moon and stars lay hidden behind its golden light. The flowers never wilted or died. Beehives overflowed with honey. It was never dry or cold. The birds never became tired of flying and the trees were never empty of ripe fruit.</p>
+<p>In this perpetual moment, Yama and Yami lived well. One time, when Yami returned from a walk, she found Yama lying beneath a tree. His eyes were closed. She whispered his name. He did not stir. She spoke his name. She became anxious. She shouted at him, nothing. She shook him. He did not move. His body was cold. In that moment, Yami understood she was alone, alone in the world. Yama was dead.</p>
+<p>Her sorrow, deeper than any ocean, flowed out of her heart through her eyes. The river of her tears swelled and began to flood the world. Her sobbing shook the earth and sky and her grieving heart sent forth a fire that devastated everything it touched. The immortals above became worried about the welfare of the earth and all its creatures. They were afraid that Yami’s mourning would bring about the end of everything.</p>
+<p>The gods and goddesses took on visible form and went to Yami as she sat immersed in her pain. They hugged her, spoke words of comfort to her, but Yami was too sad to listen. She kept saying, Yama died today. The immortals did not know what to do. They went to a hillside and sat in silence. Then a thought occurred to one of them. Yami’s sorrow continued, not just because of her love for her brother, but also because in her life she had known only now. The gods and goddesses created sunset. Night slowly enveloped the world.</p>
+<p>Under the blanket of night, Yami, just as the birds and the animals did, fell asleep. When she awoke with the sunrise, she said to herself, Yama died yesterday. The following day, Yama died the day before yesterday. As time went by, night and sleep lessened the pain of Yama’s death. Though she never forgot her dear brother, the pain lost its power to overwhelm her. Her sadness became less destructive, her tears dried up, and the danger, her sorrow posed to the world, faded away.</p>
+</div></blockquote>
+<p>The text largely follows a telling that can be found on <em>The Robert Beer Blog</em> in a post entitled <a class="reference external" href="https://www.tibetanart.com/Blog/Post.asp?ID=101">Yama and Yami</a>, published in August, 2014.</p>
+<p>It begins with the birth of twins, Yama and Yami, (from Surya (also referred to as Vivasvan), the Sun God, and his wife, Sanjna) into “a garden of earthly delights”, a paradise that existed in a perpetual now. Yami desired Yama, but Yama believed such a union would displease the Gods. Yami wanders away, but when she returns, she finds Yama has died. Heartbroken, she cries so profusely she creates the Yamuna river, which starts to flood the earth. The gods try to console her, but her lament of “Yami died today” continues. And so they create night. And Yami slept. And each day, her grief grew less and she became “the first mortal to experience the true nature of human existence” and “wise through the acceptance of her suffering”. Yama, the first person to be born, was also the first to die, and in so doing became the Lord of Death.</p>
+<p>Robert Beer’s narrative flows well, but it appears to combine and revise several distinct traditions relating to Yama.</p>
+<p>It seems that Yama is perhaps best thought of as the first <em>mortal</em>; his brother, Manu, was the first man, the “progenitor of humans”. If the gods came down to earth to try to console Yami, they should perhaps be described as taking “bodily form”? And Yama and Yami should be described as the first two mortals(?) to walk the Earth (was Yami mortal?). The narratives of different scriptures perhaps relate slightly different mythologies, so we might we need to stick to one, or (less “authentically”), try to create a combined arrative that is internally consistent, even if it then diverges from the orginals (although ideally, doesn’t directly or explicitly conflict with them)).</p>
+<p>The conflict between Yami’s desires for her brother are described in the Rig Veda. The <a class="reference external" href="https://archive.org/details/rigvedacomplete">Complete Rig Veda in English (Sakala Shakha), 1896</a> (a single document combining the two original, separate volumes) by Ralph Thomas Hotchkin Griffith, gives from volume I, <a class="reference external" href="https://archive.org/details/rigvedacomplete/page/n1032/mode/1up">RV, Hymn X.10</a> the following annotated translation:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">Yama</span> <span class="ow">and</span> <span class="n">Yami</span><span class="p">,</span> <span class="n">son</span> <span class="ow">and</span> <span class="n">daughter</span> <span class="n">of</span> <span class="n">Vivasvân</span><span class="p">,</span> <span class="n">are</span> <span class="n">the</span> <span class="n">Rishis</span> <span class="k">as</span> <span class="n">well</span> <span class="k">as</span> <span class="n">the</span> <span class="n">deities</span> <span class="n">of</span> <span class="n">the</span> <span class="n">hymn</span> <span class="n">which</span> <span class="ow">is</span> <span class="n">a</span> <span class="n">dialogue</span> <span class="n">between</span> <span class="n">them</span><span class="o">.</span>
+
+<span class="n">Yama</span> <span class="ow">and</span> <span class="n">Yamî</span> <span class="n">are</span><span class="p">,</span> <span class="n">says</span> <span class="n">von</span> <span class="n">Roth</span><span class="p">,</span> <span class="s1">&#39;as their names denote, twin brother aud sister, and are the first human pair, the originators of the race. As the Hebrew conception closely connected the parents of mankind by making the woman formed from a portion of the body of the man, so by the Indian tradition they are placed in the relationship of twins. This thought is laid by the hymn in question in the mouth of Yamî herself, when she is made to say : &quot;Even in the womb the Creator made us for husband and wife.&quot; &#39;</span> <span class="n">Professor</span> <span class="n">Muller</span><span class="p">,</span> <span class="n">on</span> <span class="n">the</span> <span class="n">other</span> <span class="n">hand</span><span class="p">,</span> <span class="n">says</span> <span class="p">(</span><span class="n">Lectures</span> <span class="n">on</span> <span class="n">the</span> <span class="n">Science</span> <span class="n">of</span> <span class="n">Language</span> <span class="n">second</span> <span class="n">series</span><span class="p">,</span> <span class="n">p</span><span class="o">.</span> <span class="mi">510</span><span class="p">):</span> <span class="s1">&#39;There is a curious dialogue between her (Yamî) and her brother, where she (the night) implores her brother (the day) to make her his wife, and where he declines her offer, &quot;because&quot; as he says, &quot;they have called it a sin that a brother should marry his sister&quot;. Again, p. 521, &quot;There is not a single word in the Veda pointing to *Yama* and *Yamî* as the first couple of mortals, the Indian Adam and Eve... If Yama had been the first created of men, surely the Vedic poets, in speaking of him, could not have passed this over in silence.&quot; See, however, the passage from the Atharva-veda, XVIII, 3, 13, to be quoted further on. [Reverence ye with an oblation Yama, the son of Vivasvat, the assembler of men, who was the first of men that died, and the first that departed to this (celestial) world].&quot; Muir, O. S. Texts, V. p. 238. Yama as the first man may perhaps be, as Prof. Max Muller holds, &#39;</span><span class="n">a</span> <span class="n">later</span> <span class="n">phase</span> <span class="n">of</span> <span class="n">religious</span> <span class="n">thought</span><span class="o">.</span><span class="s1">&#39;</span>
+</pre></div>
+</div>
+<blockquote>
+<div><p><em>Yami speaks <code class="docutils literal notranslate"><span class="pre">The</span> <span class="pre">Sage;</span> <span class="pre">vedhdh</span></code>: Yama, whom she wishes to give her a son. <code class="docutils literal notranslate"><span class="pre">Come</span></code>: Sâyana explains the masculine participle <code class="docutils literal notranslate"><span class="pre">jaganvân</span></code> by the feminine <code class="docutils literal notranslate"><span class="pre">gatavatî</span></code>, that is, I, Yami, who have come. <code class="docutils literal notranslate"><span class="pre">The</span> <span class="pre">earth</span></code>: which, otherwise, will remain without human inhabitants.</em></p>
+<ol class="simple">
+<li><p>FAIN would I win my friend to kindly friendship. So may the Sage, come through the air’s wide ocean,<br />
+Remembering the earth and days to follow, obtain a son, the issue of his father.</p></li>
+</ol>
+<p><em>Yama replies. <code class="docutils literal notranslate"><span class="pre">A</span> <span class="pre">stranger</span></code>: of a different family, and so a lawful wife. <code class="docutils literal notranslate"><span class="pre">Sons</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">mighty</span> <span class="pre">Avura</span></code>; the spies or sentinels spoken of in stanza 8.</em></p>
+<p>2 Thy friend loves not the friendship which considers her who is near in kindred as stranger.<br />
+Sons of the mighty Asura, the Heroes, supporters of the heavens, see far around them.</p>
+<p><em>Yamî speaks.</em>
+3 Yea, this the Immortals seek of thee with longing, progeny of the sole existing mortal.<br />
+Then let thy soul and mine be knit together, and as a loving husband take thy consort.</p>
+<p><em>Yama replies. <code class="docutils literal notranslate"><span class="pre">Gandharva</span></code>: Vivasvân or the Sun. <code class="docutils literal notranslate"><span class="pre">In</span> <span class="pre">the</span> <span class="pre">floods</span></code>: in the waters of the firmament. <code class="docutils literal notranslate"><span class="pre">The</span> <span class="pre">Dame</span> <span class="pre">of</span> <span class="pre">Waters</span></code>: Sarnnyû. ‘His aqueous wife.’—Muir. <code class="docutils literal notranslate"><span class="pre">Such</span> <span class="pre">in</span> <span class="pre">our</span> <span class="pre">bond</span></code>: these are our parents. But see Ludwig, `Ueber die neuesten Arbeiten, u. s.w. p. 107.</em>
+4 Shall we do now what we ne’er did aforetime? we who spake righteously now talk impurely?<br />
+Gandharva in the floods, the Dame of Waters-such is our bond, such our most lofty kinship.</p>
+<p><em>Yamî speaks.</em>
+5 Even in the womb God Tvaṣṭar, Vivifier, shaping all forms, Creator, made us consorts.<br />
+None violates his holy ordinances: that we are his the heavens and earth acknowledge.</p>
+<p><em>Yama replies. <code class="docutils literal notranslate"><span class="pre">To</span> <span class="pre">tempt</span> <span class="pre">them</span></code>: the meaning of víchyâ is uncertain. The S. P. Lexicon explains it by ‘deceitfully.’ ‘Falsely.’—Grassmann, ‘What sayest thou, who punishest men with hell ?’—Wilson.</em>
+6 Who knows that earliest day whereof thou speakest? Who hatb beheld it? Who can here declare it?<br />
+Great is the Law of Varuṇa and Mitra. What, wanton! wilt thou say to men to tempt them?</p>
+<p><em><code class="docutils literal notranslate"><span class="pre">Same</span> <span class="pre">couch</span></code> : see Benfey, <code class="docutils literal notranslate"><span class="pre">Vedica</span> <span class="pre">und</span> <span class="pre">Verwandtes</span></code>, pp. 39—42, for a different explanation of samâné yónau.</em>
+7 I, Yamî, am possessed by love of Yama, that I may rest on the same couch beside him.<br />
+I as a wife would yield me to my husband. Like car-wheels let us speed to meet each other.</p>
+<p><em>Yama replies. <code class="docutils literal notranslate"><span class="pre">Sentinels</span> <span class="pre">of</span> <span class="pre">Gods</span></code>: recording angels who watch men’s actions.</em>
+8 They stand not still, they never close their eyelids, those sentinels of Gods who wander round us.<br />
+Not me-go quickly, wanton, with another, and hasten like a chariot wheel to meet him.</p>
+<p><em>Yamî speaks. The meaning seems to he: if there be any guilt let me take it upon myself, and let not Tama’s life be shortened by way of punishment. <code class="docutils literal notranslate"><span class="pre">The</span> <span class="pre">kindred</span> <span class="pre">Pair</span></code> : Day and Night.</em>
+9 May Sūrya’s eye with days and nights endow him, and ever may his light spread out before him.<br />
+In heaven and earth the kindred Pair commingle. On Yami be the unbrotherly act of Yama.</p>
+<p><em>Yama replies. ‘Make thine arm a pillow’—Wilson.</em>
+10 Sure there will come succeeding times when brothers and sisters will do acts unmeet for kinsfolk.<br />
+Not me, O fair one,—seek another husband, and make thine arm a pillow for thy consort.</p>
+<p><em>Yamî speaks. <code class="docutils literal notranslate"><span class="pre">Destruction</span></code> : Nirriti ; the utter extinction of the human race. ‘The meaning is, a true brother will not let his sister lack a husband, and a true sister will not let her brother lack a wife.’—Wilson’s Translation, Editor’s note.</em>
+11 Is he a brother when no lord is left her? Is she a sister when Destruction cometh?<br />
+Forced by my love these many words I utter. Come near, and hold me in thy close embraces.</p>
+<p><em>Yama replies.</em>
+12 I will not fold mine arms about thy body: they call it sin when one comes near his sister.<br />
+Not me,—prepare thy pleasures with another: thy brother seeks not this from thee, O fair one.</p>
+<p><em>Yami speaks.</em>
+13 Alas! thou art indeed a weakling, Yama we find in thee no trace of heart or spirit.<br />
+As round the tree the woodbine clings, another will cling albout thee girt as with a girdle.</p>
+<p>14 Embrace another, Yami; let another, even as the woodbine rings the tree, enfold thee.<br />
+Win thou his heart and let him win thy fancy, and he shall form with thee a blest alliance.</p>
+<p>*Sâyana’s interpretation of this difficult hymn differs in many places from that which I have adopted, and Wilson’s Translation should be consulted for the views of the great Indian Commentator and the Pandits of his time. The hymn has been transliterated, translated, and annotated by Dr. Muir, <code class="docutils literal notranslate"><span class="pre">O.</span> <span class="pre">S,</span> <span class="pre">Texts,</span> <span class="pre">V.</span> <span class="pre">288—291.</span></code> It has also been translated by the authors of the <code class="docutils literal notranslate"><span class="pre">Siebenzig</span> <span class="pre">Lieder</span></code>, and fully discussed by Dr. J. Ehni in <code class="docutils literal notranslate"><span class="pre">Der</span> <span class="pre">Vedische</span> <span class="pre">Mythus</span> <span class="pre">des</span> <span class="pre">Yama</span></code>. See also Hillebrandt, <code class="docutils literal notranslate"><span class="pre">Vedische</span> <span class="pre">Mythologie,</span> <span class="pre">I,</span> <span class="pre">p.</span> <span class="pre">490</span></code>.</p>
+</div></blockquote>
+<p>The scriptural source relating to Yami finding the dead body of her brother, and then grieving to such an extent that the Gods are forced to come up with a radical solution to her woe by creating night, as related by Robert Beer and then retold by Daniel Morden, appears to be described in the largely untranslated Kanda 1, Prapathaka 5, Anuvaka 12 of the Maitrayani Samhita of the Yajur Veda [<a class="reference external" href="https://hinduism.stackexchange.com/a/20814">source</a>]:</p>
+<blockquote>
+<div><p><em>yamo vā amriyata te devā yamyā yamam apābruvaṃs tāṃ yad apṛchant sābravīd adyāmṛteti te ‘bruvan na vā iyam imam itthaṃ mṛṣyate rātrīṃ sṛjāmahā ity ahar vāva tarhy āsīn na rātris te devā rātrim asṛjanta tataḥ śvastanam abhavat</em></p>
+<p>Yama and Yami (“the twin”) are the first man and woman. Yama died. The gods sought to console Yami for the death of Yama. When they asked her she said, “To-day he died.” They said: “In this way she will never forget him. Let us create night!” Day only at that time existed, not night. The gods created night. Then morrow came into being. Then she forgot him. Hence, they say, “Days and nights make men forget sorrow.”</p>
+</div></blockquote>
+<p>If this is indeed the original source, then the way it is transformed into the version given by Roboert Beer and retold by Daniel Morden provides a great example of how storytelling craft converts a simple set of story points to a far more compelling and memorable narrative.</p>
+<p>We learn a little more about Yama in <a class="reference external" href="https://archive.org/details/in.ernet.dli.2015.282277/page/n93/mode/2up?q=yami">The Mythology Of All Races Vol.vi, Louis Herbert Gray, 1817</a>, p68-70:</p>
+<blockquote>
+<div><p>The king of the dead is Yama, who gathers the people together and gives the dead a resting-place in the highest heaven amid songs and the music of the flute. He is the son of Vivasvant, just as in the Avesta Yima is the son of Vivanghvant, the first presser of the soma. His sister is Yami, and a curious hymn (x. 10) contains a dialogue in which she presses her brother to wed her and beget offspring, while he urges religious objections to her suit. The story suggests what is confirmed by the later Persian record that Yama and Yima were really the twin parents of mankind. The Avesta also tells us that he lives in an earthly paradise which he rules, and though this trait is not preserved in the <em>Rgveda</em>, it is hinted at in the epic. His real importance, however, is that he is the first man who died and showed to others the way of death. Death is his path, and he is once identified with death. As death the owl or the pigeon is his messenger, but he has two dogs, four-eyed, broad-nosed, one brindle {sabala) and one brown, sons of Sarama, who watch men and wander about as his envoys. They also guard the path, perhaps like the four-eyed, yellow-eared dog of the Avesta, who stands at the Cinvat Bridge to prevent evil spirits from seizing hold of the righteous. Yet it may be that, as is suggested by Aufrecht, the object of the dogs’ watch is to keep sinful men from the world of Yama. It does not seem that the souls of the dead have (as in the epic) a stream Vaitaraiji to cross, though it has been suggested that in X. xvii. 7 ff. Sarasvatl is none other than this river.</p>
+<p>Though Yama is associated with gods, especially Agni and Varuna, and though there is an obvious reference to his connexion with the sun in the phrase “the heavenly courser given by Yama,” still he is never called a god, and this fact lends the greatest probability to the view that he is what he seems to be, the first of men, the first also to die, and so the king of the dead, but not a judge of the departed. Nevertheless, his connexion with the sun and with Agni has suggested that he is the sun, especially conceived as setting, or that he is the parting day, in which case his sister is the night. The only other theory which would seem to have any plausibility is that he is the moon, for the connexion of the moon with the souls of the dead is deeply rooted in the <em>Upanisads</em>. Moreover, the moon actually dies and is the child of the sun. This identification, however, rests in large measure on the unproved hypothesis that the few references in the <em>Rgveda</em> to Soma as associated with the fathers are allusions to their abode in the moon.</p>
+<p>It is in keeping with the belief in the heaven of Yama that the burning of the body of the dead is the normal, though not the exclusive, mode of disposing of the corpse. The dead were, however, sometimes buried, for the fathers are distinguished as those who are burned by fire and those who are not burned. The dead was burned with his clothes, etc., to serve him in the future life; even his weapons and his wife, it would seem, were once incinerated, although the <em>Rgveda</em> has abandoned that practice, of which only a symbol remains in placing the wife and the weapons beside the dead and then removing them from him. Agni bears the dead away, and the rite of burning is thus in part like a sacrifice; but as “eater of raw flesh” in this rite Agni is distinguished from that Agni who carries the oblations. With the dead was burned a goat, which Agni is besought to consume while preserving the body entire. On the path to the world of the dead Pusan acts as guide, and Savitr as conductor. A bundle of fagots is attached to the dead to wipe out his track and hinder the return of death to the living. Borne along the path by which the fathers went in days gone by, the soul passes on to the realm of light and in his home receives a resting-place from Yama. Though his corpse is destroyed by the flame, still in the other world he is not a mere spirit, but has what must be deemed a refined form of his earthly body. He abides in the highest point of the sun, and the fathers are united with the sun and its rays. The place is one of joy: the noise of flutes and song resounds; there soma, ghee, and honey flow. There are the two kings, Varuna and Yama, and the fathers are dear to the gods and are free from old age and bodily frailty. Another conception, however, seems to regard the fathers as being constellations in the sky, an idea which is certainly found in the later Vedic period.</p>
+</div></blockquote>
+<p>I struggle to make sense of what sort of “being” Yama and Yami are. In some tellings, it seeems as if they do procreate; in others, it seems Manu, brother to Yama and Yami, is the progenitor of humankind (who is the primordial mother in that case?). To get a better understanding of this tales, I think I’d need to start to have a better sense of the whole pantheon of gods at that time.</p>
+<p>From a BA Thesis, (so not necessarily the strongest piece of scholarship), <a class="reference external" href="https://www.academia.edu/19790187/The_Yama_Paradox_The_God_of_Death_as_Entrapper_and_Liberator_in_Hindu_and_Buddhist_Traditions"><em>The Yama Paradox: The God of Death as Entrapper and Liberator in Hindu and Buddhist Traditions</em></a>, Wolf Gordon Clifton, p17-19, it seems that the situation really isn’t that clear:</p>
+<blockquote>
+<div><p>[T]he Vedas also cast Yama, the god of death, in a second role as creator and progenitor, marking the earliest known manifestation of the Yama paradox. As the son of Vivasvat, he is also the brother of Manu, traditionally identified as the first human being and thus the ancestor of humankind. <code class="docutils literal notranslate"><span class="pre">[L.D.</span> <span class="pre">Barnett,</span> <span class="pre">&quot;Yama,</span> <span class="pre">Gandharva,</span> <span class="pre">and</span> <span class="pre">Glaucus,&quot;</span> <span class="pre">Bulletin</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">School</span> <span class="pre">of</span> <span class="pre">Oriental</span> <span class="pre">Studies,</span> <span class="pre">University</span> <span class="pre">of</span> <span class="pre">London</span> <span class="pre">4,</span> <span class="pre">No.</span> <span class="pre">4</span> <span class="pre">(1928),</span> <span class="pre">703.</span> <span class="pre">]</span></code> However, Vedic literature explicitly describes Yama as the first mortal prior to his becoming a god, and in the early Vedic religion it seems to have been Yama rather than Manu who begot the human species, by coupling with his sister Yamī. The Ṛgveda recounts a conversation between Yamī and Yama in which Yamī attempts to seduce her brother, claiming, “the immortals seek of thee with longing, progeny of the sole existing mortal. Then let thy soul and mine be knit together, and as a loving husband take thy consort.” <code class="docutils literal notranslate"><span class="pre">[Ṛgveda</span> <span class="pre">10:10:3.]</span></code> Although the preserved version of the story portrays Yama refusing, insisting that “they call it sin when one comes near his sister,” <code class="docutils literal notranslate"><span class="pre">[Ṛgveda</span> <span class="pre">10:10:12.]</span></code> these words appear to have been placed in Yama’s mouth by later generations of priests during the compilation of the Vedas, originally an oral tradition, into written form. Indeed, this account is inconsistent with the numerous Vedic references to Yama as the first mortal being, found even here when Yami addresses her brother as the “sole existing mortal,” and evidence of incest found elsewhere in the Vedas and related texts from the Zoroastrian tradition. <code class="docutils literal notranslate"><span class="pre">[That</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">original</span> <span class="pre">version</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">story,</span> <span class="pre">prior</span> <span class="pre">to</span> <span class="pre">the</span> <span class="pre">development</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">later</span> <span class="pre">Hindu</span> <span class="pre">taboo</span> <span class="pre">against</span> <span class="pre">incest,</span> <span class="pre">Yama</span> <span class="pre">and</span> <span class="pre">Yamī</span> <span class="pre">did</span> <span class="pre">mate</span> <span class="pre">at</span> <span class="pre">least</span> <span class="pre">once</span> <span class="pre">is</span> <span class="pre">implied</span> <span class="pre">by</span> <span class="pre">Yamī's</span> <span class="pre">claim</span> <span class="pre">in</span> <span class="pre">Ṛgveda</span> <span class="pre">10:10:5</span> <span class="pre">that</span> <span class="pre">&quot;even</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">womb</span> <span class="pre">god</span> <span class="pre">Tvastr…</span> <span class="pre">made</span> <span class="pre">us</span> <span class="pre">consorts,&quot;</span> <span class="pre">and</span> <span class="pre">by</span> <span class="pre">the</span> <span class="pre">Zoroastrian</span> <span class="pre">Avesta,</span> <span class="pre">in</span> <span class="pre">which</span> <span class="pre">the</span> <span class="pre">closely</span> <span class="pre">related</span> <span class="pre">figure</span> <span class="pre">of</span> <span class="pre">Yima</span> <span class="pre">is</span> <span class="pre">explicitly</span> <span class="pre">stated</span> <span class="pre">to</span> <span class="pre">have</span> <span class="pre">copulated</span> <span class="pre">with</span> <span class="pre">his</span> <span class="pre">sister</span> <span class="pre">while</span> <span class="pre">they</span> <span class="pre">were</span> <span class="pre">both</span> <span class="pre">still</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">womb</span> <span class="pre">(Siklos,</span> <span class="pre">&quot;Evolution</span> <span class="pre">of</span> <span class="pre">Buddhist</span> <span class="pre">Yama,&quot;</span> <span class="pre">168).</span> <span class="pre">Notably,</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">Brāhmaṇas,</span> <span class="pre">later</span> <span class="pre">commentaries</span> <span class="pre">upon</span> <span class="pre">the</span> <span class="pre">Vedas,</span> <span class="pre">the</span> <span class="pre">etymology</span> <span class="pre">of</span> <span class="pre">Yama's</span> <span class="pre">name</span> <span class="pre">is</span> <span class="pre">changed</span> <span class="pre">from</span> <span class="pre">yamá</span> <span class="pre">(&quot;twin&quot;)</span> <span class="pre">to</span> <span class="pre">yám</span> <span class="pre">(&quot;to</span> <span class="pre">restrain&quot;)</span> <span class="pre">(Van</span> <span class="pre">Den</span> <span class="pre">Bosch</span> <span class="pre">30),</span> <span class="pre">further</span> <span class="pre">suggesting</span> <span class="pre">the</span> <span class="pre">likelihood</span> <span class="pre">of</span> <span class="pre">a</span> <span class="pre">priestly</span> <span class="pre">attempt</span> <span class="pre">to</span> <span class="pre">sanitize</span> <span class="pre">Yama</span> <span class="pre">of</span> <span class="pre">his</span> <span class="pre">incestuous</span> <span class="pre">associations.]</span></code></p>
+<p>Despite the controversy it may have caused in later times, Yama’s original status as the first ancestor of humankind appears clear, and indeed, despite the apparent conflict between his creative and destructive roles, it is in fact only as a progenitor that the paradox which they present can be properly resolved. A verse from the Ṛgveda describes how “he, for God’s sake, chose death to be his portion. He chose not, for men’s good, a life eternal.” <code class="docutils literal notranslate"><span class="pre">[Ṛgveda</span> <span class="pre">10:13:4.]</span></code> “For men’s good” translated more clearly as “in the interest of progeny” by R.N. Dandekar, we see that in choosing to sire offspring with Yamī, Yama both gave rise to the human species and sacrificed his own immortality, and so became the first creature to die. <code class="docutils literal notranslate"><span class="pre">[While</span> <span class="pre">the</span> <span class="pre">Vedas</span> <span class="pre">do</span> <span class="pre">not</span> <span class="pre">give</span> <span class="pre">a</span> <span class="pre">specific</span> <span class="pre">reason</span> <span class="pre">why</span> <span class="pre">Yama</span> <span class="pre">must</span> <span class="pre">die</span> <span class="pre">in</span> <span class="pre">order</span> <span class="pre">to</span> <span class="pre">beget</span> <span class="pre">offspring,</span> <span class="pre">the</span> <span class="pre">narrative</span> <span class="pre">of</span> <span class="pre">a</span> <span class="pre">primordial</span> <span class="pre">being</span> <span class="pre">giving</span> <span class="pre">his</span> <span class="pre">own</span> <span class="pre">life</span> <span class="pre">in</span> <span class="pre">order</span> <span class="pre">to</span> <span class="pre">create</span> <span class="pre">the</span> <span class="pre">universe</span> <span class="pre">appears</span> <span class="pre">to</span> <span class="pre">be</span> <span class="pre">an</span> <span class="pre">archetypal</span> <span class="pre">theme</span> <span class="pre">throughout</span> <span class="pre">Indo‐European</span> <span class="pre">mythologies.</span> <span class="pre">The</span> <span class="pre">Vedic</span> <span class="pre">Puruṣa</span> <span class="pre">and</span> <span class="pre">afore‐mentioned</span> <span class="pre">Norse</span> <span class="pre">Ymir</span> <span class="pre">both</span> <span class="pre">sacrifice</span> <span class="pre">their</span> <span class="pre">bodies</span> <span class="pre">in</span> <span class="pre">order</span> <span class="pre">to</span> <span class="pre">produce</span> <span class="pre">the</span> <span class="pre">matter</span> <span class="pre">that</span> <span class="pre">forms</span> <span class="pre">the</span> <span class="pre">universe,</span> <span class="pre">and</span> <span class="pre">indeed,</span> <span class="pre">numerous</span> <span class="pre">authors</span> <span class="pre">have</span> <span class="pre">proposed</span> <span class="pre">historical</span> <span class="pre">relationships</span> <span class="pre">between</span> <span class="pre">these</span> <span class="pre">characters</span> <span class="pre">and</span> <span class="pre">Yama</span> <span class="pre">(Siklos,</span> <span class="pre">&quot;Evolution</span> <span class="pre">of</span> <span class="pre">Buddhist</span> <span class="pre">Yama,&quot;</span> <span class="pre">165‐169).]</span></code> As such, he was the first to travel to the underworld, and as its first resident became its ruler. <code class="docutils literal notranslate"><span class="pre">[</span> <span class="pre">Van</span> <span class="pre">Den</span> <span class="pre">Bosch,</span> <span class="pre">&quot;Yama</span> <span class="pre">–</span> <span class="pre">God</span> <span class="pre">on</span> <span class="pre">the</span> <span class="pre">Black</span> <span class="pre">Buffalo,&quot;</span> <span class="pre">25.]</span></code> By embracing mortality as a human being, Yama thus obtained immortality as the god of mortality, and by entrapping beings in death he thus liberates them in the afterlife. Although death itself was clearly feared by the Vedic authors, as evinced in their prayers to continue living and “here and today… see the sun,” Yama nonetheless appears as a benevolent and even comforting figure, having “spied out the path for many mortals” <code class="docutils literal notranslate"><span class="pre">[Ṛgveda</span> <span class="pre">10:14:1‐2.]</span></code> by facing death for the first time, and established a realm in which the deceased could enjoy an eternal life.</p>
+</div></blockquote>
+<p><a class="reference external" href="https://archive.org/details/rigvedacomplete/page/n1038/mode/1up">RV X.13.4</a>, severally referred, is given (with commentary), is given by Griffith as:</p>
+<blockquote>
+<div><p><em>Re: Yama. See X, 14. 1. <code class="docutils literal notranslate"><span class="pre">For</span> <span class="pre">Gods'</span> <span class="pre">sake</span></code>: his death being the type of the sacrifices which support and delight the Gods. <code class="docutils literal notranslate"><span class="pre">For</span> <span class="pre">men's</span> <span class="pre">good</span></code>: See X. 90. 8—14 for the results of the sacrifice of Purusha, with whom Yama may be identified. <code class="docutils literal notranslate"><span class="pre">They</span></code>: the Gods. This Pâda is unintelligible as it stands. Instead of <code class="docutils literal notranslate"><span class="pre">brihaspátim</span> <span class="pre">yajnám</span> <span class="pre">akrinvato</span> <span class="pre">ríshim</span></code>, Prof. Ludwig would read <code class="docutils literal notranslate"><span class="pre">Vaivasvatam</span> <span class="pre">yajnam</span> <span class="pre">atanuta</span> <span class="pre">rishih</span></code>, the Rishi performed the Vaivasvata, or funeral, sacrifice (<code class="docutils literal notranslate"><span class="pre">Ueber</span> <span class="pre">die</span> <span class="pre">neuesten</span> <span class="pre">u.</span> <span class="pre">s.</span> <span class="pre">w.,</span> <span class="pre">p.</span> <span class="pre">110</span></code>). I have mainly followed Ehni, <code class="docutils literal notranslate"><span class="pre">Der</span> <span class="pre">Vedische</span> <span class="pre">Mythm</span> <span class="pre">des</span> <span class="pre">Yama,</span> <span class="pre">pp.</span> <span class="pre">160—162</span></code>, but the exact meaning of the stanza is still doubtful to me.</em></p>
+<p>4 He, for Gods’ sake, chose death to be his portion. He chose not, for men’s good, a life eternal.<br />
+They sacrificed Brihaspati the Rishi. Yama delivered up his own dear body.</p>
+</div></blockquote>
+<p>X.14.1 is given as:</p>
+<blockquote>
+<div><p><em><code class="docutils literal notranslate"><span class="pre">Yama</span></code>: the deified Lord of the Dead : originally the first who died and ao showed the souls of his successors the way to the home of th# departed. See X. 12. <code class="docutils literal notranslate"><span class="pre">Lofty</span> <span class="pre">heights</span></code>; of heaven, the abode of the Blest.</em></p>
+<p>Honour the King with thine oblations, Yama, Vivasv&amp;n’s Son, who gathers men together,<br />
+Who travelled to the lofty heights above us, who searches out * and shows the path to many.</p>
+</div></blockquote>
+<p>Other possible readings / starting points:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.sanskritimagazine.com/indian-religions/hinduism/yama-the-god-of-death-in-hinduism/">Yama: The God of Death in Hinduism</a></p></li>
+<li><p><a class="reference external" href="https://apamnapat.com/entities/Yama.html">Yama - The Lord of Death</a></p></li>
+<li><p><a class="reference external" href="https://pujayagna.com/blogs/hindu-gods-goddesses/lord-yamaraja">Lord Yamaraja</a></p></li>
+</ul>
+<hr class="docutils" />
+<p>My opening and close:</p>
+<blockquote>
+<div><p>In the beginning, there was only now; an eternal moment…
+…
+Since then, night has separated one day from another; now is separated from then; today is separated, not just from yesterday, but also from tomorrow. Past and future.</p>
+<p>Since then, time has helped us not only to heal our sorrows, but has also provided us with the opportunity to look forward, with hope.</p>
+</div></blockquote>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+    <a class='left-prev' id="prev-link" href="preface.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">Preface</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="pentrich/pentrich-rising.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Pentrich Rising</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            </footer>
+        </div>
+    </div>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Tony Hirst<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
+    
+</div>
+
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
+
+  </body>
+</html>
