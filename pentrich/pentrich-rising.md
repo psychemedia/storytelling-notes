@@ -1,7 +1,7 @@
 # Pentrich Rising
 
 ```text
-I bring you a tale, 
+I bring you a tale,  
 Of treason, and lies.  
 Gather round for my story:  
 Of rebels, and spies.
@@ -16,6 +16,13 @@ From the Midland counties of Derbyshire and Nottinghamshire to the West Riding o
 In Huddersfield, two dozen men meet at Folly Hall Bridge and in Honley, armed and ready to march. But it seems that somehow the Magistrates and the Yeomanry knew what was likely to be afoot. It seems almost as if they had been forewarned. In the early hours of Monday morning, a shot is fired at the local Yeomanry, and a horse is hit. The ball of shot is removed, and I believe the horse recovered. No animals were harmed, at least, not mortally, during this part of the action. The insurrectionists are dispersed and several persons apprehended.
 
 Over the coming days and weeks the men are interviewed, and set to appear at the Assizes in York, scene of a Special Commission five years earlier that saw 15 men, Luddites from the Huddersfield area, sentenced to death in a special and promptly hanged.
+
+```text
+I continue my tale  
+Of trials by the State,  
+Of the verdict of juries,  
+And the charg[e]d mens' fate...
+```
 
 But in a local newspaper, the Leeds Mercury, a story has broken: a Government spy, William Oliver, reporting to a Secret Parliamentary Committee, as well as local magistrates, but claiming to be a Parliamentary reformer, well-connected with other reformers in London. He has been touring the organising committees of the North and promoting insurrection. Questions are asked in Parliament. Entrapment is claimed. There is public uproar — this is public service investigate journalism at its best. The men at York are acquitted.
 
