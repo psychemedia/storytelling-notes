@@ -1,6 +1,6 @@
 # The Wish Ring
 
-I first heard this story told by Daniel Morden as part of his Covid lockdown podcast series, as supported by a stability grant from the Arts Council of Wales's National Lottery Fund (["The Ring", Daneil Morden podcast](https://podbay.fm/p/daniel-morden-storyteller/e/1607284800)).
+I first heard this story told by Daniel Morden as part of his Covid lockdown podcast series, as supported by a stability grant from the Arts Council of Wales's National Lottery Fund (["The Ring", Daniel Morden podcast](https://podbay.fm/p/daniel-morden-storyteller/e/1607284800)).
 
 <audio controls>
   <source src="https://thecraneskinbag.podomatic.com/enclosure/2020-12-06T12_00_00-08_00.mp3" type="audio/mpeg">
@@ -11,7 +11,7 @@ I'm pretty sure I heard Daniel say somewhere (FATE 2021, maybe, in a lunch queue
 
 ![A man sat next to a woman outside a cottage, with the caption "There is only one wish in the ring".](images/wish_ring_tales_st_nicholas.png)
 
-```{admonition} THie Wish Ring, translated from the German by Anna Eichberg
+```{admonition} The Wish Ring, translated from the German by Anna Eichberg
 
 A YOUNG farmer who was very unlucky sat on his plow a moment to rest, and just then an old woman crept past and cried : "Why do you go on drudging day and night without reward? Walk two days till you come to a great fir tree that stands all alone in the forest and overtops all other trees. If you can hew it down, you will make your fortune."
 
