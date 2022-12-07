@@ -2,7 +2,7 @@
 
 *I first came across this story whilst searching for traditional gipsy fiddler stories. My telling is a combination of several historical accounts, which all seem to differ in various ways. I try to retain the essence of the story whilst tying up loose ends or rather clunky bits that appear in some accounts.*
 
-James, or Jamie, Macpherson was the bastard son of a laird, born to a gypsy mother but brought up in his father's household. He was strong, a forceful character, and a gifted musician: many was the night when the young James Macpherson would dazzle the ceilidh with his violin playing.
+James, or Jamie, Macpherson was the bastard son of a Scottish laird, born to a gypsy mother but brought up in his father's household. He was strong, a forceful character, and a gifted musician: many was the night when the young James Macpherson would dazzle the ceilidh with his violin playing.
 
 All things must come to an end, however, and when he father died, the estate went the way of a more, shall we say, legitimate claim, and Jamie took to the hills, to the gypsy life that was in his blood.
 
