@@ -18,14 +18,14 @@ And her tresses they were so fair
 And from every tass of her horse's mane  
 Hung twenty siller bells and mair
 
-O Thomas he doffed off his hat
-He got down upon his knee
-He said - Lady you're the greatest queen
+O Thomas he doffed off his hat  
+He got down upon his knee  
+He said - Lady you're the greatest queen  
 That ever I did see
 
-O no O no O Thomas - she said
-That name does not belong to me
-For I have come from Elfinland
+O no O no O Thomas - she said  
+That name does not belong to me  
+For I have come from Elfinland  
 I have come to visit thee
 
 And you maun come O Thomas - she said  
