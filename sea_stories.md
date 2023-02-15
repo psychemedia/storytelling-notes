@@ -8,7 +8,7 @@ Also related water sprites (*kelpies*) eg [*Folk-Lore Journal*, 1889: Vol 7, p19
 
 A Duncan Williamson tale of [*Jack trying to catch a mermaid*](https://www.tobarandualchais.co.uk/track/32158?l=en). Another of his tales, [*Death in a Nut*](https://www.tobarandualchais.co.uk/track/36459?l=en), also involves the sea-shore.
 
-A story in which the sea plays an interesting role, from Sabine Baring-Gould, *Old English Fairy Tales*, 1895, p141+, is [*The Undutiful Daughter*](https://archive.org/details/oldenglishfairyt00bari/page/140/mode/2up). *I keep looking for an opportunity to tell this one!*
+A story in which the sea plays an interesting role, from Sabine Baring-Gould, *Old English Fairy Tales*, 1895, p141+, is [*The Undutiful Daughter*](https://archive.org/details/oldenglishfairyt00bari/page/140/mode/2up). *I keep looking for an opportunity to tell this one!* See also https://en.wikipedia.org/wiki/Bonnie_Annie and http://www.springthyme.co.uk/ballads/balladtexts/24_BonnieAnnie.html
 
 Collections of tales relating to smuggling will often have a strong nautical theme.
 
