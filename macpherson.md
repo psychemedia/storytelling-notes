@@ -569,7 +569,7 @@ Such things I do abhorre,
 To part with life I'm well content  
 As any heretofore.  
 Therefore my counsell to yon all  
-Ia to repent and turn,  
+Is to repent and turn,  
 Lest afterwards it may befall  
 You in hell's fire to burn.
 
@@ -713,7 +713,7 @@ The following is Burns' well-known song :—
 
 MACPERSON'S' FAREWELL. — Tune, "McPherson's Rant." `[Gow has published a variation of this fine tune as his own composition, which be calls "The Princsss Augusta." (Note in the handwriting of Burns in an interleaved copy of Johnston's Musical Museum, belonging to Robert Riddell, Esq. of Glenriddell.)]`
 
-Farewell, ye dnngeons dark and strong,  
+Farewell, ye dungeons dark and strong,  
 The wretch's destinie !  
 Macpherson's time will not be long  
 On yonder gallows-tree.
@@ -746,7 +746,7 @@ Sae rantingly, &c.
 Now farewell light, thou sunshine bright,  
 And all beneath the sky !  
 May coward shame disdain his name  
-The weetch that dare `[The word is "dare" in the originaa MS., not " dares," as in all the printed copies.]` not die !  
+The weetch that dare `[The word is "dare" in the original MS., not " dares," as in all the printed copies.]` not die !  
 Sae rantingly, sae wantonly  
 Sae dauntingly gaed he,  
 He play'd a spring, and danc'd it round,   
