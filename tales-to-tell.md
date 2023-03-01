@@ -133,6 +133,46 @@ Devil's bridge - tricking devei - Wales / Welsh legend  https://devilsbridgefall
 Notes and queries big index "wife selling"
 
 
+
+---
+
+Demeter and Persephone
+
+Homeric hymn to Demeter https://chs.harvard.edu/primary-source/homeric-hymn-to-demeter-sb/
+
+https://sacred-texts.com/cla/demeter.htm
+
+https://uh.edu/~cldue/texts/demeter.html
+
+Triptolemus and Demophon
+https://www.greekmythology.com/Myths/Mortals/Triptolemus/triptolemus.html
+
+Minthe
+
+https://www.csun.edu/~hcfll004/demeter1.html
+
+https://hellenism.net/greece/greek-mythology/greek-myths/triptolemus/
+
+---
+
+https://archive.org/details/oldwivestale00peelgoog/page/n62/mode/1up
+The Old Wives Tale, 1595
+by George Peele
+Publication date 1908
+
+Annotated: http://elizabethandrama.org/wp-content/uploads/2018/10/The-Old-Wives-Tale-Annotated.pdf
+
+https://www.enotes.com/topics/old-wives-tale
+
+https://www.youtube.com/watch?v=yZCOSOZRTz4
+Out in the woods... three characters appear, lost in the woods; no fire or candle;
+desperate times... dark.. hide in trees? Start to sing... see a light in the diatance...
+A smith appears, with a lantern. Who am I? Whor are you 3 abroad at night.
+
+
+https://www.jstor.org/stable/3205533
+https://www.jstor.org/stable/41557146
+
 ---
 
 
