@@ -5,8 +5,15 @@ Restitution of Decayed Intelligence," by Richard Verstegan. London,1534,p.85
 
 http://smuggling.co.uk/gazetteer_s_10.html
 
+---
 
---
+
+https://archive.org/details/memoirsasmuggle00rattgoog
+Memoirs of a Smuggler: Compiled from His Diary and Journal
+by John Rattenbury
+Publication date 1837
+
+---
 
 Rudyard Kipling
 
