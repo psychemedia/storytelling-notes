@@ -221,6 +221,15 @@ ganesha head origin; in hand: sweets and elephant tusk - scribe in writing Mahab
 
 
 ---
+THis looks interesting - 
+
+https://archive.org/details/folkloremoderng00geldgoog/page/n13/mode/1up?q=golden+casket
+Folk-lore of modern Greece: the tales of the people
+by Edmund Martin Geldart
+Publisher W. Swan Sonnenschein &amp; Co., 1884
+Golden Casket - frame tale
+
+---
 
 Unforeseen Consequences: Travelling the Road
 
