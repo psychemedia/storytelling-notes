@@ -210,7 +210,12 @@ A year on from conmel, another example https://www.britishnewspaperarchive.co.uk
 peter chand
 
 elephant tusk, nature of wild animals, cruelty of man
-
+http://buddhanet.net/e-learning/buddhism/bt_19.htm
+https://mythologystories.wordpress.com/2014/02/20/jatakas-29/
+https://www.ancient-buddhist-texts.net/English-Texts/Jataka/072.htm
+https://archive.org/details/in.ernet.dli.2015.228428/page/n205/mode/1up?q=elephant no. 72
+ 
+See also no. 122 https://archive.org/details/in.ernet.dli.2015.228428/page/n300/mode/1up?q=elephant
 
 ganesha head origin; in hand: sweets and elephant tusk - scribe in writing Mahabarata
 
