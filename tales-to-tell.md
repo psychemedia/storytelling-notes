@@ -210,7 +210,11 @@ A year on from conmel, another example https://www.britishnewspaperarchive.co.uk
 peter chand
 
 elephant tusk, nature of wild animals, cruelty of man
+in eg directory of jataka tales, buddha origins
+https://www.ancient-buddhist-texts.net/English-Texts/Jataka/000-Jataka-Table.htm
 
+jealousy - state elephant -;clever tricks - three legs
+https://www.ancient-buddhist-texts.net/English-Texts/Jataka/122.htm
 
 ganesha head origin; in hand: sweets and elephant tusk - scribe in writing Mahabarata
 
