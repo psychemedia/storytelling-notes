@@ -245,7 +245,11 @@ ISSUES DURING SET:
 I didn't learn the close properly; in fumbling, asked if folk wanted another (they didn't) and did it anyway; plus I introduced it as short but many folk might have regarded it as not short. I was an hour at end of natural set so didn't need final stroy, but it gave me a contrived snuffing out of candle in lamp. Spoke too fast at start; was losing voice at end. Forgot where I was in the Tinker Lamp tale: could this be an audience participation thing?
 
 
+---
 
+The verge..
+
+As the bird flies away following an out of body experience, as the self-reassembles, it may not reassemble as it was before. You may haave been a a teacher, a doctor, a lover of X, a doubter of Y, but whqt if the pieces reassemble a different you. This is "the verge".
 
 ---
 
