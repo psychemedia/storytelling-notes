@@ -1,6 +1,6 @@
 # Tom Hickathrift
 
-Chap book, with an introduction by Gomme (also appears in vol 1 of *Peasant Cusroms and Savage Myths*.
+Chap book, with an introduction by Gomme (also appears in vol 1 of *Peasant Customs and Savage Myths*.
 https://archive.org/details/chapbooksfolklor01vill/page/13/mode/1up
 
 
