@@ -1,48 +1,59 @@
 
+
 <!DOCTYPE html>
 
-<html>
+
+<html lang="en" >
+
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
     <title>The Wish Ring &#8212; Storytelling Notes</title>
-    
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
-<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+  <link href="_static/styles/theme.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
 
-    
-  <link rel="stylesheet"
-    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
-  <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
-  <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+  
+  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
-    
+    <link rel="stylesheet" type="text/css" href="_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=12da95d707ffb74b382d" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=12da95d707ffb74b382d" />
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
     <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
-    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
@@ -50,56 +61,87 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'the-wish-ring';</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Yama and Yami" href="yama-and-yami.html" />
     <link rel="prev" title="Preface" href="preface.html" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="docsearch:language" content="None">
-    
-
-    <!-- Google Analytics -->
-    
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
-<!-- Checkboxes to toggle the left sidebar -->
-<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
-<label class="overlay overlay-navbar" for="__navigation">
-    <div class="visually-hidden">Toggle navigation sidebar</div>
-</label>
-<!-- Checkboxes to toggle the in-page toc -->
-<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
-<label class="overlay overlay-pagetoc" for="__page-toc">
-    <div class="visually-hidden">Toggle in-page Table of Contents</div>
-</label>
-<!-- Headers at the top -->
-<div class="announcement header-item noprint"></div>
-<div class="header header-item noprint"></div>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
 
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
     
-    <div class="container-fluid" id="banner"></div>
-
     
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+  
 
-    <div class="container-xl">
-      <div class="row">
-          
-<!-- Sidebar -->
-<div class="bd-sidebar noprint" id="site-navigation">
-    <div class="bd-sidebar__content">
-        <div class="bd-sidebar__top"><div class="navbar-brand-box">
-    <a class="navbar-brand text-wrap" href="index.html">
-      
-      
-      
-      <h1 class="site-logo" id="site-title">Storytelling Notes</h1>
-      
-    </a>
-</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
-  <i class="icon fas fa-search"></i>
-  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
-</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
-    <div class="bd-toc-item active">
+<a class="navbar-brand logo" href="preface.html">
+  
+  
+  
+  
+  
+    <p class="title logo__title">Storytelling Notes</p>
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
         
         <ul class="nav bd-sidenav bd-sidenav__home-link">
             <li class="toctree-l1">
@@ -108,213 +150,223 @@ const thebe_selector_output = ".output, .cell_output"
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Tales Told
- </span>
-</p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales Told</span></p>
 <ul class="current nav bd-sidenav">
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
-   The Wish Ring
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="yama-and-yami.html">
-   Yama and Yami
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="pentrich/pentrich-rising.html">
-   Pentrich Rising
-  </a>
- </li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">The Wish Ring</a></li>
+<li class="toctree-l1"><a class="reference internal" href="yama-and-yami.html">Yama and Yami</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pentrich/pentrich-rising.html">Pentrich Rising</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Tales to Tell
- </span>
-</p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="macpherson.html">
-   Macpherson’s Rant
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="too_much_time.html">Too Much Time</a></li>
 </ul>
 
     </div>
 </nav></div>
-        <div class="bd-sidebar__bottom">
-             <!-- To handle the deprecated key -->
-            
-            <div class="navbar_extra_footer">
-            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-            </div>
-            
-        </div>
     </div>
-    <div id="rtd-footer-container"></div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
 </div>
 
 
-          
 
 
-          
-<!-- A tiny helper pixel to detect if we've scrolled -->
-<div class="sbt-scroll-pixel-helper"></div>
-<!-- Main content -->
-<div class="col py-0 content-container">
-    
-    <div class="header-article row sticky-top noprint">
-        
-
-
-
-<div class="col py-1 d-flex header-article-main">
-    <div class="header-article__left">
-        
-        <label for="__navigation"
-  class="headerbtn"
-  data-toggle="tooltip"
-data-placement="right"
-title="Toggle navigation"
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-bars"></i>
-  </span>
-
-</label>
-
-        
-    </div>
-    <div class="header-article__right">
 <button onclick="toggleFullScreen()"
-  class="headerbtn"
-  data-toggle="tooltip"
-data-placement="bottom"
-title="Fullscreen mode"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
   
 
-<span class="headerbtn__icon-container">
+<span class="btn__icon-container">
   <i class="fas fa-expand"></i>
   </span>
 
 </button>
 
-<div class="menu-dropdown menu-dropdown-download-buttons">
-  <button class="headerbtn menu-dropdown__trigger"
-      aria-label="Download this page">
-      <i class="fas fa-download"></i>
+
+<script>
+document.write(`
+  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
+    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
+    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
   </button>
-  <div class="menu-dropdown__content">
-    <ul>
-      <li>
-        <a href="_sources/"
-   class="headerbtn"
-   data-toggle="tooltip"
-data-placement="left"
-title="Download source file"
->
-  
+`);
+</script>
 
-<span class="headerbtn__icon-container">
-  <i class="fas fa-file"></i>
-  </span>
-<span class="headerbtn__text-container">.md</span>
-</a>
-
-      </li>
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
       
-      <li>
-        
-<button onclick="printPdf(this)"
-  class="headerbtn"
-  data-toggle="tooltip"
-data-placement="left"
-title="Print to PDF"
->
+    </div>
   
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-file-pdf"></i>
-  </span>
-<span class="headerbtn__text-container">.pdf</span>
-</button>
-
-      </li>
-      
-    </ul>
-  </div>
 </div>
-
-    </div>
 </div>
+              
+              
 
-<!-- Table of contents -->
-<div class="col-md-3 bd-toc show noprint">
-</div>
-    </div>
-    <div class="article row">
-        <div class="col pl-md-3 pl-lg-5 content-container">
-            <!-- Table of contents that is only displayed when printing the page -->
-            <div id="jb-print-docs-body" class="onlyprint">
-                <h1>The Wish Ring</h1>
-                <!-- Table of contents -->
-                <div id="print-main-content">
-                    <div id="jb-print-toc">
-                        
-                    </div>
-                </div>
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>The Wish Ring</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
             </div>
-            <main id="main-content" role="main">
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#an-earlier-telling-in-the-german">An Earlier Telling, in the German</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
                 
-              <div>
-                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
   <section class="tex2jax_ignore mathjax_ignore" id="the-wish-ring">
-<h1>The Wish Ring<a class="headerlink" href="#the-wish-ring" title="Permalink to this headline">#</a></h1>
+<h1>The Wish Ring<a class="headerlink" href="#the-wish-ring" title="Permalink to this heading">#</a></h1>
 <p>I first heard this story told by Daniel Morden as part of his Covid lockdown podcast series, as supported by a stability grant from the Arts Council of Wales’s National Lottery Fund (<a class="reference external" href="https://podbay.fm/p/daniel-morden-storyteller/e/1607284800">“The Ring”, Daniel Morden podcast</a>).</p>
 <audio controls>
   <source src="https://thecraneskinbag.podomatic.com/enclosure/2020-12-06T12_00_00-08_00.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 <p><em>It’s rapidly becoming one of my favourite 5 minute tales for retelling in a similar way, and is suitable for a wide range of audiences.</em></p>
-<p>I’m pretty sure I heard Daniel say somewhere (FATE 2021, maybe, in a lunch queue, telling someone else?) that it had come via an old collection of Welsh traditional tales, but the only place I’ve so far tracked it down to is the Vol 10 Iss 12 issue of the St Nicholas magazine, from October, 1883, <a class="reference external" href="https://archive.org/details/sim_saint-nicholas-a-magazine-for-boys-and-girls_1883-10_10_12/page/938/mode/2up?q=%22wish+ring%22">p938-9</a>, and then reprinted in <em>Fairy stories retold from St. Nicholas</em>, 1906, <a class="reference external" href="https://archive.org/details/FairyStoriesRetoldFromStNicholas/page/n195/mode/2up?q=%22wish+ring%22">p185-192</a>, from which the following image is also taken.</p>
+<p>I’m pretty sure I heard Daniel say somewhere (FATE 2021, maybe, in a lunch queue, telling someone else?) that it had come via an old collection of Welsh traditional tales, but the first place I tracked it down to was the <em>Vol 10 Iss 12</em> issue of the St Nicholas magazine, from October, 1883, <a class="reference external" href="https://archive.org/details/sim_saint-nicholas-a-magazine-for-boys-and-girls_1883-10_10_12/page/938/mode/2up?q=%22wish+ring%22">p938-9</a>, thereafter reprinted in <em>Fairy stories retold from St. Nicholas</em>, 1906, <a class="reference external" href="https://archive.org/details/FairyStoriesRetoldFromStNicholas/page/n195/mode/2up?q=%22wish+ring%22">p185-192</a>, from which the following image is  taken.</p>
 <p><img alt="A man sat next to a woman outside a cottage, with the caption &quot;There is only one wish in the ring&quot;." src="_images/wish_ring_tales_st_nicholas.png" /></p>
-<div class="admonition-the-wish-ring-translated-from-the-german-by-anna-eichberg admonition">
-<p class="admonition-title">The Wish Ring, translated from the German by Anna Eichberg</p>
-<p>A YOUNG farmer who was very unlucky sat on his plow a moment to rest, and just then an old woman crept past and cried : “Why do you go on drudging day and night without reward? Walk two days till you come to a great fir tree that stands all alone in the forest and overtops all other trees. If you can hew it down, you will make your fortune.”</p>
-<p>Not waiting to have the advice repeated, the farmer shouldered his ax and started on his journey. Sure enough, after tramping two days, he came to the fir tree, which he instantly prepared to cut down. Just as the tree swayed, and before it fell with a crash, there dropped out of its branches a nest containing two eggs. The eggs rolled to the ground and broke, and there darted out of one a young eagle and out of the other rolled a gold ring. The eagle grew larger, as if by enchantment, and when it reached the size of a man, it spread its wings as if to try their strength, then, soaring upward, it cried: “You have rescued me ; take as a reward the ring that lay in the other egg; it is a wish-ring. Turn it on your finger twice, and whatever your wish is, it shall be fulfilled. But remember there is but a single wish in the ring. No sooner is that granted than it loses its power and is only an ordinary ring. Therefore, consider well what you desire, so that you may never have reason to repent your choice.” So speaking, the eagle soared high in the air, circled over the farmer’s head a few times, then darted, like an arrow, toward the east.</p>
-<p>The farmer took the ring, placed it on his finger, and turned on his way homeward. Toward evening, he reached a town where a jeweler sat in his shop behind a counter, on which lay many costly rings for sale. The farmer showed his own, and asked the merchant its value.</p>
-<p>“It is not worth a straw,” the jeweler answered.</p>
-<p>Upon that, the farmer laughed very heartily, and told the man that it was a wish-ring, and of greater value than all the rings in the shop together.</p>
-<p>The jeweler was a wicked, designing man, and so he invited the farmer to remain as his guest over night. “For,” he explained, “only to shelter a man who owns a wish-ring must bring luck.” So he treated his guest to wine and fair words ; and that night, as the farmer lay sound asleep, the wicked man stole the magic ring from his finger and slipped on, in its place, a common one which he had made to resemble the wish-ring.</p>
-<p>The next morning, the jeweler was all impatience to have the farmer begone. He awakened him at cock-crow, and said: “You had better go, for you have still a long journey before you.”</p>
-<p>As soon as the farmer had departed, the jeweler closed his shop, put up the shutters, so that no one could peep in, bolted the door behind him, and, standing in the middle of the room, he turned the ring and cried: “I wish instantly to possess a million gold pieces !”</p>
-<p>No sooner said than the great, shining gold pieces came pouring down upon him in a golden torrent over his head, shoulders, and arms. Pitifully he cried for mercy, and tried to reach and unbar the door ; but before he succeeded, he stumbled and fell bleeding to the ground. As for the golden rain, it never stopped till the weight of the metal crushed the floor, and the jeweler and his money sank through to the cellar. The gold still poured down till the million was complete, and the jeweler lay dead in the cellar beneath his treasure.</p>
-<p>The noise, however, alarmed the neighbors, who came rushing over to see what the matter was ; when they saw the man dead under his gold, they exclaimed: “Doubly unfortunate he whom blessings kill.” Afterward, the heirs came and divided the property.</p>
-<p>In the meantime, the farmer reached home in high spirits and showed the ring to his wife.</p>
-<p>“Henceforth we shall never more be in want, dear wife,” he said. “Our fortune is made. Only we must be very careful to consider well just what we ought to wish.”</p>
-<p>The farmer’s wife, of course, proffered advice. “Suppose,” said she, “that we wish for that bit of land that lies between our two fields ?”</p>
-<p>“That isn’t worth while,” her husband replied. “If we work hard for a year, we ‘ll earn enough money to buy it.”</p>
-<p>So the two worked very hard, and at harvest time they had never raised such a crop before. They had earned money enough to buy the coveted strip of land and still have a bit to spare. “See,” said the man, “we have the land and the wish as well.”</p>
-<p>The farmer’s wife then suggested that they had better wish for a cow and a horse. But the man replied: “Wife, why waste our wish on such trifles? The horse and cow we’ll get anyway.”</p>
-<p>Sure enough, in a year’s time the money for the horse and cow had been earned. Joyfully the man rubbed his hands. “The wish is saved again this year, and yet we have what we desire. How lucky we are !”</p>
-<p>But now his wife seriously adjured him to wish for something at last. “Now that you have a wish to be granted,” she said, “you slave and toil, and are content with everything. You might be king, emperor, baron, even a gentleman farmer, with chests overflowing with gold ; but you don’t know what you want.”</p>
-<p>“We are young and life is long,” he answered. “There is only one wish in the ring, and that is easily said. Who knows but sometime we may sorely need this wish? Are we in want of anything? Have we not prospered, to all people’s astonishment, since we possessed this ring? Be reasonable and patient for a while. In the meantime, consider what we really ought to wish for.”</p>
-<p>And that was the end of the matter.</p>
-<p>It really seemed as if the ring had brought a blessing into the house. Granaries and barns were full to overflowing, and in the course of a few years the poor farmer became a rich and portly person, who worked with his men afield during the day, as if he, too, had to earn his daily bread ; but after supper he liked to sit in his porch, contented and comfortable, and return the kindly greeting of the folk who passed and who wished him a respectful good-evening.</p>
-<p>So the years went by. Sometimes, when they were alone, the farmer’s wife would remind her husband of the magic ring, and suggest many plans. But as he always answered that they had plenty of time, and that the best thoughts come last, she more and more rarely mentioned the ring, and, at last, ceased speaking of it altogther.</p>
-<p>To be sure, the farmer looked at the ring, and twirled it about as many as twenty times a day; but he was very careful never to wish.</p>
-<p>After thirty or forty years had passed away, and the farmer and his wife had grown old and white-haired, and their wish was still unasked, then was God very good to them, and on the same night they died peacefully and happily.</p>
-<p>Weeping children and grand-children wished to remove the ring from the still hand as a remembrance, the oldest son said : “Let our father take his ring with him. There was always a mystery about it; perhaps it was some dear remembrance. Our mother, too, so often looked at the ring — she may have given it to him when they were young.”</p>
-<p>So the old farmer was buried with the ring, which had been supposed to be a wish-ring, and was not; yet it brought as much good fortune into the house as heart could desire.</p>
-</div>
 <p>Following Daniel Morden’s telling, I have been telling this with an ending along the lines of <em>“the ring may not have contained a wish at all, the ring being swapped by the greedy jeweller all those years ago, but it did contain a much deeper magic, that of <code class="docutils literal notranslate"><span class="pre">hope</span></code>”</em>, but I’m not sure that’s right? The ring provided some sort of <em>confidence</em>, born of trust, or faith, in the “insurance” of the support that the ring would be able to provide, albeit once only, if it were required.</p>
+<section id="an-earlier-telling-in-the-german">
+<h2>An Earlier Telling, in the German<a class="headerlink" href="#an-earlier-telling-in-the-german" title="Permalink to this heading">#</a></h2>
+<p>Picking up on the <em>translated from the German</em> reference in the St. Nicholas telling, a web search on the German translation of <em>The Wish Ring</em> — <code class="docutils literal notranslate"><span class="pre">Der</span> <span class="pre">Wunschring</span></code> — turned up a version of the story in <a class="reference external" href="https://archive.org/details/derkinderwunderg01hofm/page/164/mode/2up?q=Wunfchring"><em>Der Kinder Wundergarten Märchen aus aller Welt</em>,
+Friedrich Hofmann, 1888?</a>, p164-170, with illustrations on p.164 and p167, although an earlier version from 1878 can also be found <a class="reference external" href="https://play.google.com/books/reader?id=4IlCAQAAMAAJ&amp;pg=GBS.PA224&amp;hl=en_GB">here</a>.</p>
+<p><img alt="https://archive.org/details/derkinderwunderg01hofm/page/167/mode/1up" src="_images/derkinderwunderg01hofm_0191.jpg" /></p>
+<div class="dropdown seealso admonition">
+<p class="admonition-title">Der Wunschring / The Wish Ring</p>
+<p>Via: <em>Der Kinder Wundergarten: Märchen aus aller Welt</em>, Friedrich Hofmann, 1878, p225-8, <a class="reference external" href="https://play.google.com/books/reader?id=4IlCAQAAMAAJ&amp;amp;pg=GBS.PA224&amp;amp;hl=en_GB">https://play.google.com/books/reader?id=4IlCAQAAMAAJ&amp;pg=GBS.PA224&amp;hl=en_GB</a></p>
+<p><em>The following is crude translation from Google Translate. It might be worth trying with GPT4 to see if that offers any improvement.</em></p>
+<p>The young farmer, who was not making any headway in the business, sat on his plow and rested for a moment to wipe the sweat from his face. Then an old pere came sneaking past and called out to him: “What are you struggling with and still getting nowhere?” Rarely go out for two days until you come to a large fir tree that stands freely in the forest and towers over all the other trees. If you turn it over, your luck is made. “</p>
+<p>The farmer didn’t need to be told twice, took his hatchet and set off. After two days he found the fir. He immediately set about felling it , and the moment it fell and fell violently to the ground , a nest with two eggs fell out of its highest treetop . The eggs fell on the ground and broke , and as they broke , a young eagle came out of one egg , and a small golden ring fell out of the other . The eagle grew steadily until it was probably half a man’s height, shook its wings as if trying them, rose a little above the ground and then cried:</p>
+<p>“You redeemed me! As a thank you, take the ring that was in the other gi! It is a wish ring. If you turn a finger and make a wish, it will soon come true. But there is only one wish in the ring. So think carefully about what you wish for so that you don’t regret it afterwards.</p>
+<p>Then the eagle flew high in the air, hovered for a long time in large strips over the farmer’s head, and then shot like an arrow towards the morning.</p>
+<p>The farmer took the ring, put it on his finger and started to go home. When it was evening he arrived at a town; there the goldsmith stood in the shop and had many princely rings for sale. Then the farmer showed him his ring and asked him what it was worth. ” A cardboard stick ! ” said the goldsmith. Then the farmer laughed out loud and told him that it was a wishing ring and was worth more than all the rings together that Fener had for sale. But the oldsmith was a wrong, big man. He invited the farmer to come over Staying with him at night said: “To shelter a man like you with such treasures brings good luck; stay with me!” took the ring off his finger unnoticed and put an ordinary ring of the same kind on him instead.</p>
+<p>The next morning the goldsmith could hardly wait for the farmer to leave. He woke him up early in the morning and said: “You still have a long way to go. It is better if you get up early . “</p>
+<p>As soon as the farmer was gone, he hurriedly went into his room, closed the shutters so that no one would steal anything, then bolted the door behind him, stood in the middle of the room, turned the ring and called out: “I want to right away have a hundred thousand thalers. “</p>
+<p>Hardly had he spoken this than it began to rain thalers, hard, shiny thalers, as if it were pouring with hollows, and the thalers hit his head, shoulders and arms. He started screaming pitifully and wanted to jump to the door, but before he could reach it and unlock it, he fell to the ground, bleeding all over his body. But the rain of thalers never ended, and soon the floorboards collapsed under the load, and the goldsmith fell into the deep cellar with the money. Then it kept raining until the hundred thousand were full, and then the goldsmith lay dead in the cellar with all that money on him. The neighbors rushed over to hear the noise, and when they found the goldsmith lying dead among the money, they said: “It’s a great misfortune when the blessing comes so thick! “Then the heirs also came and shared.”</p>
+<p>Meanwhile the farmer went home happily and showed his wife the ring. Now it can’t be missing, dear wife,” he said. “Our luck is made. We just want to think carefully about what we want to wish for.”</p>
+<p>But the woman immediately knew good advice. What do you mean if we wish for a little more vein? We have so little. A swidel just reaches between our veins; we want to wish for that.</p>
+<p>That would be worth the trouble,” replied the man. “If we work hard for a year and are lucky, we might be able to buy it.” Then husband and wife worked with all their might for a year, and the harvest had it has never poured out like this time, so that you could buy the gusset and still have an hour’s money left over. “You see!” said the man, “we have the dagger, and the wish is still free. “</p>
+<p>Then the woman said it would be good if you wished for a rest and a horse. Madam,” replied the man again, rattling the remaining money in his big pocket, “what do we want to forgive our wishes for such a slob. We’ll get the cow and the horse the same way. “</p>
+<p>And right , after another year the chair and the horse were richly deserved . Then the man rubbed my hands happily and said: “Another trip, saved the wish and got everything that one wished for. How lucky we are! “But the wife seriously persuaded her husband to go after the wish at last.</p>
+<p>“I don’t know you at all,” she said angrily. In the past you always complained and had pity and wished for everything possible, and wherever you can have it as you want it, you toil and lock yourself up, are satisfied with Adem and let the best years pass. King, emperor, count, you could be a great farmer, have all your coffers full of money - and you can’t make up your mind what you want to choose. “</p>
+<p>“Stop your constant hustle and bustle,” replied the farmer. We are both young and life is long. There is only one wish in the king and it is soon done. Who knows what will happen to us again when we need the ring . Are we missing something? Haven’t we come up so since we’ve had the king that everyone is amazed? Aijo ſei understanding. In the meantime you can always think about what we could wish for. “</p>
+<p>That was the end of the matter for the time being. And it was really as if the whole blessing had come into the house with the ring, because the scouring and pounding became more and more violent and fuller from year to year, and after a long series of years the poor little farmer grew into a big, fat one Became a farmer, who worked with the servants throughout the day as if he wanted to earn the whole world, but after vespers sat comfortably and contentedly in front of the front door and let the people wish him good evening.</p>
+<p>Year after year went by like that. Now and then, when they were all alone and no one heard, the wife still reminded her husband of the ring and made all sorts of suggestions. But since he always replied that there was still plenty of time and that the best thing always comes to mind, it became increasingly rare, and in the end it hardly ever happened that the ring was even spoken of. Although the farmer himself turned the ring on his finger twenty times a day and looked at it, he was careful not to express a wish.</p>
+<p>And thirty or forty years passed, and the farmer and his wife were old and white as snow, but the wish was still not fulfilled. God showed them mercy and let them both die happily in one night.</p>
+<p>Children and child finders stood around their two coffins and wept, and when one of them wanted to pull off the ring, the eldest son said:</p>
+<p>“Let the father take his ring with him to the grave. He has had a secret with him all his life. It must be a dear keepsake. And the mother also looked at the ring so often; in the end she had given it to her father when she was young. “</p>
+<p>So the old farmer was buried with the ring, which was supposed to be a wishing ring and wasn’t one, and yet had brought as much luck into the world as anyone could wish for. Because it is a separate matter with what is right and what is wrong; and bad things in good hands are still worth much more than good things in bad hands.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Original source — <em>Hofmann , Wundergarten</em></p>
+<p>The contents suggest the source <code class="docutils literal notranslate"><span class="pre">Leander</span></code>, and is more fully described in the introduction as <em>Richard Leander’s Träumereien an franzöſiſchen Kaminen</em>. (Richard Leander is actually a pseudonym of Richard Volkman.) The original edition of that work appears to date from 1871. The earliest online edition I have found is an 1876 version here: <a class="reference external" href="https://books.google.co.uk/books?id=Q_cjZzO-UhcC&amp;amp;printsec=frontcover#v=onepage&amp;amp;q&amp;amp;f=false">https://books.google.co.uk/books?id=Q_cjZzO-UhcC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false</a></p>
+<p>Leander’s work appears to have been republished many times, particularly in American editions for US schools. For example, this 1898 edition  — Richard Leander’s Reverie on French Fireplaces : Träumereien an französischen kaminen; märchen, by Volkmann, Richard von — available from the Internet Archive: <a class="reference external" href="https://archive.org/details/trumereienanfra01watsgoog/page/n24/mode/2up">https://archive.org/details/trumereienanfra01watsgoog/page/n24/mode/2up</a></p>
+</div>
+</div>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -329,7 +381,7 @@ Your browser does not support the audio element.
             mode: "python"
         },
         kernelOptions: {
-            kernelName: "python3",
+            name: "python3",
             path: "./."
         },
         predefinedOutput: true
@@ -337,50 +389,99 @@ Your browser does not support the audio element.
     </script>
     <script>kernelName = 'python3'</script>
 
-              </div>
+                </article>
               
-            </main>
-            <footer class="footer-article noprint">
-                
-    <!-- Previous / next buttons -->
-<div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="preface.html" title="previous page">
-        <i class="fas fa-angle-left"></i>
-        <div class="prev-next-info">
-            <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">Preface</p>
-        </div>
+
+              
+              
+                <footer class="bd-footer-article">
+                  <!-- Previous / next buttons -->
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="preface.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Preface</p>
+      </div>
     </a>
-    <a class='right-next' id="next-link" href="yama-and-yami.html" title="next page">
-    <div class="prev-next-info">
+    <a class="right-next"
+       href="yama-and-yami.html"
+       title="next page">
+      <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
         <p class="prev-next-title">Yama and Yami</p>
-    </div>
-    <i class="fas fa-angle-right"></i>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
     </a>
 </div>
-            </footer>
-        </div>
-    </div>
-    <div class="footer-content row">
-        <footer class="col footer"><p>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#an-earlier-telling-in-the-german">An Earlier Telling, in the German</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            <div class="bd-footer-content__inner">
+<div class="bd-footer-content__inner container">
   
-    By Tony Hirst<br/>
-  
-      &copy; Copyright 2022.<br/>
-</p>
-        </footer>
-    </div>
+  <div class="footer-item">
     
-</div>
+<p class="component-author">
+By Tony Hirst
+</p>
 
+  </div>
+  
+  <div class="footer-item">
+    
+  <p class="copyright">
+    
+      © Copyright 2022.
+      <br/>
+    
+  </p>
 
-      </div>
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div></div>
+          </footer>
+        
+
+      </main>
     </div>
+  </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=12da95d707ffb74b382d"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=12da95d707ffb74b382d"></script>
 
-
+  <footer class="bd-footer">
+  </footer>
   </body>
 </html>
