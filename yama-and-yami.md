@@ -1,6 +1,6 @@
 # Yama and Yami
 
-An originin tale, from Hindu mythology recounting the cration of night. By extension, we might also argue we get the reation of not just time, but also the past as a place for forgetting, and the future as a place for hope.
+An originin tale, from Hindu mythology recounting the creation of night. By extension, we might also argue we get the reation of not just time, but also the past as a place for forgetting, and the future as a place for hope.
 
 ## Yama and Yami, as told by Daniel Morden
 
@@ -56,7 +56,7 @@ Yama and Yamî are, says von Roth, 'as their names denote, twin brother and sist
 >*Yama replies. `A stranger`: of a different family, and so a lawful wife. `Sons of the mighty Avura`; the spies or sentinels spoken of in stanza 8.*
 >
 > 2 Thy friend loves not the friendship which considers her who is near in kindred as stranger.  
->Sons of the mighty Asura, the Heroes, supporters of the heavens, see far around them.
+> Sons of the mighty Asura, the Heroes, supporters of the heavens, see far around them.
 >
 > *Yamî speaks.*
 > 3 Yea, this the Immortals seek of thee with longing, progeny of the sole existing mortal.  
@@ -71,7 +71,7 @@ Yama and Yamî are, says von Roth, 'as their names denote, twin brother and sist
 > None violates his holy ordinances: that we are his the heavens and earth acknowledge.
 >
 > *Yama replies. `To tempt them`: the meaning of víchyâ is uncertain. The S. P. Lexicon explains it by 'deceitfully.' 'Falsely.'—Grassmann, 'What sayest thou, who punishest men with hell ?'—Wilson.*
-> 6 Who knows that earliest day whereof thou speakest? Who hatb beheld it? Who can here declare it?  
+> 6 Who knows that earliest day whereof thou speakest? Who hath beheld it? Who can here declare it?  
 > Great is the Law of Varuṇa and Mitra. What, wanton! wilt thou say to men to tempt them?
 >
 > *`Same couch` : see Benfey, `Vedica und Verwandtes`, pp. 39—42, for a different explanation of samâné yónau.*
