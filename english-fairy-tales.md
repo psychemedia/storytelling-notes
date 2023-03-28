@@ -6,6 +6,12 @@ by Bassett, Fletcher. [from old catalog]
 Publication date 1885
 
 ----
+https://archive.org/details/englishfairyothe00hartiala/page/vi/mode/2up
+English fairy and other folk tales
+by Hartland, Edwin Sidney, 1848-1927
+Publication date [1906?]
+
+----
 
 https://archive.org/details/folklore04britgoog/page/248/mode/2up?q=Folklore+gutch+pied+piper
 Folklore
