@@ -1,3 +1,5 @@
+# Too Much Time
+
 Back in the day, every place had its own time. Not just its own local village fete, its own market day or County Assizes, but its own time. 
 
 When it was midday in Oxford it was just after five *past* twelve in London (or 5 minutes and two seconds passed twelve to be precise). At the same time, it was five minutes *to* twelve in Bristol.
