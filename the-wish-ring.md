@@ -14,7 +14,7 @@ I'm pretty sure I heard Daniel say somewhere (FATE 2021, maybe, in a lunch queue
 ![A man sat next to a woman outside a cottage, with the caption "There is only one wish in the ring".](images/wish_ring_tales_st_nicholas.png)
 
 ```{admonition} The Wish Ring, translated from the German by Anna Eichberg
-:classs: dropdown
+:class: dropdown
 
 A YOUNG farmer who was very unlucky sat on his plow a moment to rest, and just then an old woman crept past and cried : "Why do you go on drudging day and night without reward? Walk two days till you come to a great fir tree that stands all alone in the forest and overtops all other trees. If you can hew it down, you will make your fortune."
 
@@ -77,8 +77,6 @@ Following Daniel Morden's telling, I have been telling this with an ending along
 Picking up on the *translated from the German* reference in the St. Nicholas telling, a web search on the German translation of *The Wish Ring* — `Der Wunschring` — turned up a version of the story in [*Der Kinder Wundergarten Märchen aus aller Welt*,
 Friedrich Hofmann, 1888?](https://archive.org/details/derkinderwunderg01hofm/page/164/mode/2up?q=Wunfchring), p164-170, with illustrations on p.164 and p167, although an earlier version from 1878 can also be found [here](https://play.google.com/books/reader?id=4IlCAQAAMAAJ&pg=GBS.PA224&hl=en_GB).
 
-![https://archive.org/details/derkinderwunderg01hofm/page/167/mode/1up](images/derkinderwunderg01hofm_0191.jpg)
-
 ````{admonition} Der Wunschring / The Wish Ring
 :class: dropdown seealso
 
@@ -99,6 +97,13 @@ The farmer took the ring, put it on his finger and started to go home. When it w
 The next morning the goldsmith could hardly wait for the farmer to leave. He woke him up early in the morning and said: "You still have a long way to go. It is better if you get up early . "
 
 As soon as the farmer was gone, he hurriedly went into his room, closed the shutters so that no one would steal anything, then bolted the door behind him, stood in the middle of the room, turned the ring and called out: "I want to right away have a hundred thousand thalers. "
+
+
+```{admonition} Raining thalers...
+:class: dropdown
+
+![https://archive.org/details/derkinderwunderg01hofm/page/167/mode/1up](images/derkinderwunderg01hofm_0191.jpg)
+```
 
 Hardly had he spoken this than it began to rain thalers, hard, shiny thalers, as if it were pouring with hollows, and the thalers hit his head, shoulders and arms. He started screaming pitifully and wanted to jump to the door, but before he could reach it and unlock it, he fell to the ground, bleeding all over his body. But the rain of thalers never ended, and soon the floorboards collapsed under the load, and the goldsmith fell into the deep cellar with the money. Then it kept raining until the hundred thousand were full, and then the goldsmith lay dead in the cellar with all that money on him. The neighbors rushed over to hear the noise, and when they found the goldsmith lying dead among the money, they said: "It's a great misfortune when the blessing comes so thick! "Then the heirs also came and shared."
 
