@@ -2,7 +2,7 @@
 
 I first heard the story of Hudden, Dudden and Donald O'Neary (or as I recalled it, Donald, or Donal, O'Leary) from Irish storyteller Eddie Lenihan 25 years or so ago (it's also available on his [*Storyteller 1 & 2*](https://eddielenihan.weebly.com/store.html) CD, CD2 as "Hudden, and Dudden, and Donal O'Leary").
 
-I love this story and have told it sveral tims, including as the opening of my *Verging on Nonsense (Unexpected Consequences)* set.
+I love this story and have told it several times, including as the opening of my *Verging on Nonsense (Unexpected Consequences)* set.
 
 My own initial researches on `archive.org` turned up an almost exact equivalent in Thackeray's *Irish Sketch Book*, published in 1842, where the story is retold from a chapbook published prior to 1825, that Thackeray had picked up from a bookseller in the town of Ennis.
 
