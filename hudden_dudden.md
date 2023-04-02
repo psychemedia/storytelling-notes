@@ -226,6 +226,8 @@ So that left the other two that they got very jealous with Donald. And they came
 
 ```
 
+Elsewhere in the tale, we see the mention of rain, rather than hail, similar amounts for the payments, and a reference to the police encounter. So Nolan's account does appear to resemble the Fermanagh Herald account, albeit the name has changed, perhaps according to other versions of the tale that Nolan had heard. So it seems as if Nolan may have learned his version from the Fermanagh Herald version printed in 1909, around Christmas time, with a winter greeting, or a later reprinting of it.
+
 ## Little Fairly
 
 Another version of the tale can be found in an extended form, in an Irish vernacular, in Samuel Lover's [*Legends and stories of Ireland*](https://archive.org/details/06699793.2438.emory.edu/page/n359/mode/2up).
