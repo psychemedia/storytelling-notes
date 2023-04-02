@@ -53,7 +53,7 @@ A little further on, at p162, Thackeray hints at the title of the work in which 
 
 ## The Royal Hibernian Tales
 
-A little more detail on the original chapbook is provided by Séamus Ó Duilearga in an *Editorial Note* to a republication of it — *The Royal Hibernian Tales* — in [Béaloideas, Iml. 10, Uimh 1/2 (Jun. - Dec., 1940)](https://www.jstor.org/stable/20642540), pp. 148-203 (56 pages), published by *An Cumann Le Béaloideas Éireann* (the Folklore of Ireland Society).
+A little more detail on the original chapbook is provided by Séamus Ó Duilearga in an *Editorial Note* to a republication of it — *The Royal Hibernian Tales* — in [Béaloideas, Iml. 10, Uimh 1/2 (Jun. - Dec., 1940)](https://www.jstor.org/stable/20642540), pp. 148-203 (56 pages), published by *An Cumann Le Béaloideas Éireann* (the Folklore of Ireland Society). *(A freely available archive scanned version of *The Royal Hibernian Tales* is also available [here](https://www.google.co.uk/books/edition/_/-C9gu42s8zgC).)*
 
 > *The Royal Hibernian Tales* is the earliest known collection of Irish popular taleas or *marchën*, as well as being one of the rarest books in the field of Irish folklore. This little chap-book is an 18mo, and measures 14cm x 8cm; it is gatherd alternattely in tweleves and sixes, contains 108 pp., consisting of title-page (verso blank), prefatory note (verso blank) and text proper, numbered [5]—107 (verso of 107 blank). The book is undated. I have inserted the pagination of the original in this re-issue, and have retained the eccentric puntuation.
 > 
@@ -75,7 +75,7 @@ Duilearga then dedicates the republication of the tales to those who helped keep
 > 
 > Séamus ó Duillearga.
 
-An archive scanned version of *The Royal Hibernian Tales* is also available [here](https://www.google.co.uk/books/edition/_/-C9gu42s8zgC).
+Although no author is mentioned, there is a small amount of prefatory material:
 
 > The Royal Hibernian Tales: Being a Collection of the most entertaining stories now extant.
 >
