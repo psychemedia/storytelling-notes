@@ -6,6 +6,7 @@ parts:
   - file: the-wish-ring
   - file: yama-and-yami
   - file: pentrich/pentrich-rising
+  - file: hudden_dudden.md
 - caption: Tales to Tell
   chapters:
   - file: macpherson
