@@ -29,7 +29,7 @@ As Thackeray introduces the tale:
 
 ```
 
-One notable difference between this telling and Eddie Lenihan's version is that for Lenihan, it is O'Leary's (rather than O'*Neary's*) *horse*, rather than *bullock*, that is killed by Hudden and Dudden.
+One notable difference between this telling and Eddie Lenihan's version is that for Lenihan, it is O'Leary's (rather than O'*Neary's*) *horse*, rather than *bullock*, that is killed by the two miscreants, Hudden and Dudden.
 
 ### Thackeray's Discovery of the Tale
 
