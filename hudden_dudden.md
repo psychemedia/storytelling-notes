@@ -491,7 +491,7 @@ Now you see, big Fairly, like every blackguard that has the bad blood in him, th
 
 ## Fairy and Folk Tales of the Irish peasantry
 
-The telling of *Hudden and Dudden and Donald O'Neary* that appears in W. B. Yeats' *Fairy and folk tales of the Irish peasantry*](https://archive.org/details/fairyfolktalesof00yeatuoft/page/298/mode/2up), pp299-303, under the title *Donald And His Neighbours*, appears to have been taken from *Royal Hibernian Tales*, although a closer inspection might reveal whether it actually came from Thackeray's 1842 re-presentation of that tale.
+The telling of *Hudden and Dudden and Donald O'Neary* that appears in W. B. Yeats' [*Fairy and folk tales of the Irish peasantry*](https://archive.org/details/fairyfolktalesof00yeatuoft/page/298/mode/2up), pp299-303, under the title *Donald And His Neighbours*, appears to have been taken from *Royal Hibernian Tales*, although a closer inspection might reveal whether it actually came from Thackeray's 1842 re-presentation of that tale.
 
 ## Jacobs' Take on the Tale
 
