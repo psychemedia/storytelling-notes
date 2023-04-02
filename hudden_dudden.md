@@ -793,13 +793,7 @@ A variant of the tale appeared in 1845 by way of the pen of Hans Christian Ander
 ```{admonition} Hans Christian Anderson, *Great Claus and Little Claus*, 1845
 :class: dropdown
 
-https://archive.org/details/in.ernet.dli.2015.92389/page/n33/mode/2up?q=claus
-Stories For The Household
-by Andersen, Hans Christian
-
-Publication date 1845
-
-p24-33
+*In [Stories For The Household](https://archive.org/details/in.ernet.dli.2015.92389/page/n33/mode/2up), Hans Christian Andersen, 1845, p24-33.*
 
 GREAT CLAUS AND LITTLE CLAUS.
 
