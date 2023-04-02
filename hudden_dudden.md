@@ -684,7 +684,7 @@ They never came back. Maybe they got too fat, like the cattle. As for Donald O'N
 As with his other collected tales, Jacobs also provided a set of notes:
 
 ```{admonition} Jacobs' Notes on Hudden and Dudden
-:class: dropdown
+:class: dropdown seealso
 
 *[Celtic Fairy Tales](https://archive.org/details/celticfairytale01conggoog/page/n78/mode/2up), Joseph Jacobs, 1892 pp.247-8*
 
