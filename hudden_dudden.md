@@ -1,6 +1,6 @@
 # Hudden, and Dudden, and Donald O'Neary
 
-I first heard the story of Hudden, Dudden and Donald O'Neary (or as I recalled it, Donald O'Leary) from Irish storyteller Eddie Lenihan 25 years or so ago (it's also available on his [**Storyteller 1 & 2](https://eddielenihan.weebly.com/store.html) CD, CD2 as "Hudden, and Dudden, and Donal O'Leary").
+I first heard the story of Hudden, Dudden and Donald O'Neary (or as I recalled it, Donald, or Donal, O'Leary) from Irish storyteller Eddie Lenihan 25 years or so ago (it's also available on his [**Storyteller 1 & 2](https://eddielenihan.weebly.com/store.html) CD, CD2 as "Hudden, and Dudden, and Donal O'Leary").
 
 I love this story and have told it sveral tims, including as the opening of my *Verging on Nonsense (Unexpected Consequences)* set.
 
