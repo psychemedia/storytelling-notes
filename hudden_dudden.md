@@ -2,6 +2,8 @@
 
 I first heard the story of Hudden, Dudden and Donald O'Neary (or as I recalled it, Donald O'Leary) from Irish storyteller Eddie Lenihan 25 years or so ago (it's also available on his [**Storyteller 1 & 2](https://eddielenihan.weebly.com/store.html) CD, CD2 as "Hudden, and Dudden, and Donal O'Leary").
 
+I love this story and have told it sveral tims, including as the opening of my *Verging on Nonsense (Unexpected Consequences)* set.
+
 My own initial researches on `archive.org` turned up an almost exact equivalent in Thackeray's *Irish Sketch Book*, published in 1842, where the story is retold from a chapbook published prior to 1825, that Thackeray had picked up from a bookseller in the town of Ennis.
 
 *A podcast version of the tale is available from the Leprechaun Museum podcast [here](https://soundcloud.com/leprechaun-museum-podcast/episode-29-hudden-dudden-and-donal-oleary), starting 8m35 in.*
@@ -12,7 +14,7 @@ As Thackeray introduces the tale:
 
 *Let us give a couple of the little tales entire. They are not so fanciful as those before mentioned, but of the comic sort, and suited to the first kind of capacity mentioned by the author in his preface:*
 
-```William Thackeray, *Hudden and Dudden and Donald O'Neary*, 1842
+```{admonition} William Thackeray, *Hudden and Dudden and Donald O'Neary*, 1842
 :class: dropdown
 
 *In __The Paris sketch book of Mr. M. A. Titmarsh and eastern sketches, a journey from Cornwall to Cairo, the Irish sketch book and character sketches__, William Makepeace Thackeray, 1842, [[link](https://archive.org/details/parissketchbooko00thac_1/page/169/mode/1up?q=hudden+dudden)], pp.169-172.*
@@ -682,8 +684,9 @@ They never came back. Maybe they got too fat, like the cattle. As for Donald O'N
 As with his other collected tales, Jacobs also provided a set of notes:
 
 ```{admonition} Jacobs' Notes on Hudden and Dudden
+:class: dropdown
 
-[*Celtic Fairy Tales*](https://archive.org/details/celticfairytale01conggoog/page/n78/mode/2up), Joseph Jacobs, 1892 pp.247-8*
+*[Celtic Fairy Tales](https://archive.org/details/celticfairytale01conggoog/page/n78/mode/2up), Joseph Jacobs, 1892 pp.247-8*
 
 VI. HUDDEN AND DUDDEN.
 
@@ -699,9 +702,11 @@ This is a type of Celtic folk-tales which are European in spread, have analogies
 
 ### In *Fairies and folk of Ireland*, 1900
 
-William Frost's [Fairies and folk of Ireland](https://archive.org/details/fairiesfolkofire00fros/page/161/mode/2up), piblished in 1900, 
+According to the preface of William Frosts version of *Hudden and Dudden and Donal O'Neary* in [*Fairies and folk of Ireland*](https://archive.org/details/fairiesfolkofire00fros/page/161/mode/2up), published in 1900, a domestic frame tale that incorporats a wide variety of traditional Irish tales, p. xiii-xiv, the main source for his telling appears to be Yeat's re-presentation of the original *Royal Hibernian tals* version, although he is also aware of Samuel Lover's version and a variant by Hans Christian Anderson:
 
-```{admonition}
+> Two books by W. B. Yeats have been of much value — " Irish Fairy and Folk Tales " and " The Celtic Twilight." Of the former Mr. Yeats is the editor, rather than, in a strict sense, the author, though it contains some of his own work, and his introduction, notes, and other comments are of great interest. From this book I have the story of Hudden, Dudden, and Donald, in Chapter VII. Mr. Yeats reproduces it from an old chap-book. A version of it is also found in Samuel Lover's " Legends and Stories of Ireland." Those who like to compare the stones which they find in various places will not fail to note its likeness to Hans Christian Andersen's " Big Claus and Little Claus."
+
+```{admonition} In *Fairies and folk of Ireland*, William Frost, 1900
 :class: dropdown
 
 [Fairies and folk of Ireland](https://archive.org/details/fairiesfolkofire00fros/page/161/mode/2up), William Frost, 1900,pp161-8.*
@@ -783,7 +788,7 @@ So he said he'ld show them the place and they could drive home as many of them a
 
 A variant of the tale appeared in 1845 by way of the pen of Hans Christian Anderson.
 
-*It is also worth noting that the "bag trick" by which Donald managed to escape the bag in which he was expected to meet his demise by exchanging a fanciful promise of reward for a tangible benefit also appears at the end of Grimm's `The Turnip`, which I shall discuss in a separate storynote.*
+*Anerson's version includes an additional subtale in which the O'Neary-like protagonist witnesses a domestic scene that does not appear in the other tellings above, and from it gains a benefit. I am sure I've seen that part usd in other tales, but canlt rmember offhand where... It is also worth noting that the "bag trick" by which Donald managed to escape the bag in which he was expected to meet his demise by exchanging a fanciful promise of reward for a tangible benefit also appears at the end of Grimm's `The Turnip`, which I shall discuss in a separate storynote.*
 
 ```{admonition} Hans Christian Anderson, *Great Claus and Little Claus*, 1845
 :class: dropdown
