@@ -43,8 +43,10 @@
 
 *Contrast the above with this more situated telling...*
 
-... https://www.youtube.com/watch?v=t-laDwhTvuI
-   :url_parameters: ?start=43
+```{youtube} t-laDwhTvuI
+:url_parameters: ?start=43
+```
+
 
 ## James Macpherson in *Historical Tales and Legends of the Highlands*, 1878
 
