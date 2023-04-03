@@ -182,7 +182,7 @@ Macpherson spent the last hours of his life in composing a tune expressive of th
 
 Burns's fine ode on Macpherson will be remembered :
 
-Sae rantingly, sae wantony,  
+Sae rantingly, sae wantonly,  
 Sae dantonly gaed he,  
 He played a spring and danced it round,  
 Beneath the gallows tree.
