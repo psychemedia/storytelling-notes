@@ -2,6 +2,9 @@
 
 *I first came across this story whilst searching for traditional gipsy fiddler stories. My first attempt is a rather literal telling that combines  several historical accounts, which all seem to differ in various ways. I try to retain the essence of the story whilst tying up loose ends or rather clunky bits that appear in some accounts.*
 
+```{admonition} An initial attempt at a telling
+:class: dropdown
+
 > James, or Jamie, Macpherson was the bastard son of a Scottish laird, born to a gypsy mother but brought up in his father's household. He was strong, a forceful character, and a gifted musician: many was the night when the young James Macpherson would dazzle the ceilidh with his violin playing.
 >
 > All things must come to an end, however, and when his father died, the estate went the way of a more, shall we say, legitimate claim, and Jamie took to the hills, to the gypsy life that was in his blood.
@@ -36,6 +39,8 @@
 >
 > The violin, well, the violin, and Jamie's huge sword, I believe they can still be seen, to this day, in a small museum in Banff, in North-East Scotland.  And in that town of Banff, from where Jamie was hung, well, the lairdship was stripped of its manorial right of managing trial and punishment. And in the town of Macduff, just over the estuary, I have heard said the facing wall of the clock tower there is blanked off; for the people of Macduff have not given the people of Banff, the time of day ever since that fateful day of November 16th, 1700, when Jamie Macpherson played his final lament.
 
+```
+
 *Contrast the above with this more situated telling...*
 
 ... https://www.youtube.com/watch?v=t-laDwhTvuI
@@ -45,8 +50,7 @@
 
 This story first appeared in [*The Celtic Magazine*, October, 1876, Vol 1 Iss 12, p366-370](https://archive.org/details/sim_celtic-magazine-a-monthly-periodical_1876-10_1_12/page/366/mode/2up) under the byline of `TORQUIL`. The magazine was edited by Alexander Mackenzie from 1875 until October, 1886. Mackenzie republished the story in his 1878 collection of tales, [*Historical Tales and Legends of the Highlands*](https://archive.org/details/historicaltalesl00mackuoft/page/24/mode/2up), p25-31, wherein he declared that _"[t]hese TALES AND LEGENDS were very favourably received by a wide circle of readers, and by the Press generally, as they appeared from month to month in the Celtic Magazine"_. The preface also makes it clear that the author TARQUIN "objects to have his name made public".
 
-In this telling, TO DO
-TO DO - also includes a variant of *Macpherson's Rant*
+This telling includes a betrayal by a girl that Macpherson was fond of, as well as a variant of a song supposedly composed by Machprson himself (*Macpherson's Rant*).
 
 `````{admonition} James Macpherson, the Famous Musician & Freebooter
 :class: dropdown
