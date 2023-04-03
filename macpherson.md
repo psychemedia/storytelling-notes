@@ -41,7 +41,7 @@
 
 ```
 
-*Contrast the above with this more situated telling...*
+*Contrast the above with this rather more situated telling...*
 
 ```{youtube} t-laDwhTvuI
 :url_parameters: ?start=43
