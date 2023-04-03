@@ -152,7 +152,7 @@ Thus died James Macpherson, who, if he was a freebooter, possessed the heart of 
 
 ### Domestic Annals of Scotland
 
-The *Domestic Annals of Scotland: from the Revolution to the Rebellion of 1745* was a three volume work by Robert Chambers and published between 1858 and 1861 by William and Robert Chambers. The history of James Macpherson is related in [https://archive.org/details/domesticannalsof03chamiala/page/232/mode/2up?q=macpherson], p233-237.
+The *Domestic Annals of Scotland: from the Revolution to the Rebellion of 1745* was a three volume work by Robert Chambers and published between 1858 and 1861 by William and Robert Chambers. The history of James Macpherson is related in Robert Chambers' [*Domestic annals of Scotland, from the Revelotion to the Rebellion of 1745](https://archive.org/details/domesticannalsof03chamiala/page/232/mode/2up?q=macpherson), 1840, p233-237.
 
 ```{admonition} As told in the *Domestic Annals of Scotland*
 :class: dropdown
