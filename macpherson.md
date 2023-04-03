@@ -2,7 +2,7 @@
 
 *I first came across this story whilst searching for traditional gipsy fiddler stories. My first attempt is a rather literal telling that combines  several historical accounts, which all seem to differ in various ways. I try to retain the essence of the story whilst tying up loose ends or rather clunky bits that appear in some accounts.*
 
-```{admonition} An initial attempt at a telling
+```{admonition} An initial attempt at a telling...
 :class: dropdown
 
 > James, or Jamie, Macpherson was the bastard son of a Scottish laird, born to a gypsy mother but brought up in his father's household. He was strong, a forceful character, and a gifted musician: many was the night when the young James Macpherson would dazzle the ceilidh with his violin playing.
