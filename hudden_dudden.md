@@ -241,6 +241,12 @@ I'm not sure if the following is being used as a storyteller's device to help ge
 >
 > If any gentleman six feet two inches high gets angry at reading this, I beg him to remember that I am a little man myself, and if he be a person of sense, (which is supposing a great deal,) he will pardon, from his own feeling of indignation at this *exposé* of Patagonian inferiority, the consequent triumph on my part, of Lilliputian distinction. If, however, his inches get the better of him, and he should call me out, I beg of him to remember again, that I have the advantage of him there too, in being a little man. There is a proverb also, that "*little* said is soon mended," and with all my preaching, I fear I have been forgetting the wholesome adage. So I shall conclude this little introduction, which I only thought a becoming flourish of trumpets for introducing my hero, by placing *Little Fairly* before my readers, and I hope they will not think, in the words of another adage, that I have given them great cry and *little* wool.
 
+Just before getting in to the story proper, I'd lke to remark on the following fragment which I think could be part of a beatiful st-up for an unrolling, mutli-part call-back:
+
+> *and I lave you that *six* shillings, and *five* stone o' mouldy oats that's no use to me, and *four* broken plates, and that *three*-legged stool you stood upon to get at the cupboard, you poor *nharrough* that you are, and the *two* spoons without handles, and the *one* cow that's gone back of her milk."*
+
+But that's one to ponder... Now, on with the story...
+
 ```{admonition} *Little Fairly*, Samuel Lover, 1860
 :class: dropdown
 
@@ -308,7 +314,7 @@ With that little Fairly went to do as he was bid, but he could not reach up so h
 
 " Six shillin's in silver, and three farthin's," says little Fairly.
 
-" That was your mother's fortune," says the father, " and I'm going to behave like the hoighth of a gentleman, as I am," says he ; " and I hope you won't squandher it," says he, " the way that every blackguard now thinks he has a right to squandher ani decent man's money he is heir to," says he, " but be careful of it," says he, " as I was, for I never touched a rap iv it, but let it lay gotherin' in that taypot, ever since the day I got it from Shan Ruadh, the day we sthruck the bargain about Judy, over beyant at the ' Cat and Bagpipes,' comin' from the fair; and I lave you that six shillings, and *five* stone o' mouldy oats that's no use to me, and *four* broken plates, and that *three*-legged stool you stood upon to get at the cupboard, you poor *nharrough* that you are, and the *two* spoons without handles, and the *one* cow that's gone back of her milk."
+" That was your mother's fortune," says the father, " and I'm going to behave like the hoighth of a gentleman, as I am," says he ; " and I hope you won't squandher it," says he, " the way that every blackguard now thinks he has a right to squandher ani decent man's money he is heir to," says he, " but be careful of it," says he, " as I was, for I never touched a rap iv it, but let it lay gotherin' in that taypot, ever since the day I got it from Shan Ruadh, the day we sthruck the bargain about Judy, over beyant at the ' Cat and Bagpipes,' comin' from the fair; and I lave you that *six* shillings, and *five* stone o' mouldy oats that's no use to me, and *four* broken plates, and that *three*-legged stool you stood upon to get at the cupboard, you poor *nharrough* that you are, and the *two* spoons without handles, and the *one* cow that's gone back of her milk."
 
 " What use is the cow, daddy," says little Fairly, " widout land to feed her an ?"
 
