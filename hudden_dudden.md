@@ -105,14 +105,14 @@ It is perhaps worth noting that Duilearga's reissue of the *Royal Hibernian Tale
 
 ## Hudden and Dudden in Irish National Folklore Schools' Collection
 
-At least twelve versions of the tale of Hudden and Dudden and Donald O'Leary appear in the Irish National Folklore Schools' collection, as compiled by school children in Ireland in the 1930s [link to search results](https://www.duchas.ie/en/src?q=hudden&t=CbesStory).
+At least twelve versions of the tale of Hudden and Dudden and Donald O'Leary appear in the Irish National Folklore Schools' collection, as compiled by school children in Ireland in the 1930s [[link to search results](https://www.duchas.ie/en/src?q=hudden&t=CbesStory)].
 
 ## A Version in *Irish Folk Tales* (Penguin)
 
 More recently, the tale of *Hudden and Dudden and Donald O'Leary* also appears (as *Huddon and Duddon and Donald O'Leary*) in the *Penguin Folklore Library* edition *Irish Folk Tales*, edited by Henry Glassie, 1985, attributed to Hugh Nolan, of Fermanagh, and collected by Henry Glassie in 1972. The notes associated with the tale also review its history.
 
 ```{admonition} Glassie's notes on the tale, 1985
-:class: dropdown
+:class: dropdown seealso
 
 HUDDON AND DUDDON AND DONALD O'LEARY
 
