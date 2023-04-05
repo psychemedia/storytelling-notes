@@ -872,6 +872,7 @@ So he released Death from the stool and made no outcry when she put her bony fin
 ```
 
 ```{seealso}
+:class: dropdown
 
 The same collection also includes various other tales relating to Death, and the Devil, including:
 
