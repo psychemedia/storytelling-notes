@@ -7,7 +7,7 @@ What is the origin of the *will o' the wisp*, that strange marshlight that can l
 One humorous explanation is given in the story of *Will O' the Wisp*, first collected into the published Irish tradition in *The Royal Hibernian Tales*, a chapbook published prior to 1825.
 
 ```{seealso}
-*The Royal Hibernian Tales also includes the tale of `Hudden and Dudden and Donald O'Leary`, as describd in a separate storynote.*
+*The Royal Hibernian Tales also includes the tale of `Hudden and Dudden and Donald O'Neary`, as described in a separate storynote.*
 ```
 
 The tale is also known as *Willy the Wisp*, or, variously, *The Blacksmith and the Devil*, *Billy Duffy and the Devil*, &c., and it tells of a blacksmith who makes a deal with the devil, who is granted three unusual wishes from a generous benefactor, and who then... well, let's find out:
