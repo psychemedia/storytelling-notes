@@ -481,11 +481,13 @@ Bill then departed, but soon found that in consequence of the inflammable materi
 
 Such was the sad fate of Billy Duffy, who has been walking without stop or stay, from place to place ever since ; and in consequence of the flame on his nose, and his beard being tangled like a wisp of hay, he has been christened by the country folk Will-o'-the-Wisp, while, as it were, to show the mischief of his disposition, the circulating knave, knowing that he must seek the coldest bogs and quagmires in order to cool his nose, seizes upon that opportunity of misleading the unthinking and tipsy night travellers from their way, just that he may have the satisfaction of still taking in as many as possible.
 
-```
+````
 
-```{seealso}
+```{admonition} Reprinted elsewhere...
+:class: seealso
+
 The same tale is also republished in W. B. Yeats' [*Fairy and folk tales of the Irish peasantry*](https://archive.org/details/fairyfolktalesof00yeat/page/234/mode/2up), 1890,
-p235-259, althugh the blacksmith is given the name Billy *Dawson* rather than Billy *Duffy*.
+p235-259, although the blacksmith is given the name Billy *Dawson* rather than Billy *Duffy*.
 ```
 
 ## A Telling From the Welsh Tradition
