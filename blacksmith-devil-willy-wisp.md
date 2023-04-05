@@ -36,6 +36,7 @@ A much more elaborate version of the tale appears in William Carelton's _"Tales 
 The tale includes a couple of nice touches: the devil is too busy on Earth to go down to hell because the Whigs are in power, so there's obviously lots of sin to be collected on and uch time to be spent in Downing Street; having summond the Devil, the blacksmith was ken for the Devil to open the bargaining "because he had often heard, that in that case, with proper care on his own part, he might defeat him in the long run"; and when the evil chastises the blacksmith for the way he treats his wife, she immediately turns on the Devil, and "at every word she gave him a remembrance, hot and heavy."
 
 ````{admonition} The Three Wishes, 1845
+:class: dropdown
 
 *In [Tales and sketches, illustrating the character, usages, traditions, sports and pastimes of the Irish peasantry](https://archive.org/details/talessketchesill00carlrich/page/n359/mode/2up), William Carleton, 1845, pp.330-357.*
 
@@ -666,7 +667,7 @@ When he had tied the horse up he went to shoe the
 
 ## A Complemntary Take From the Russian Tradition...
 
-A complementary story, in which the Devil tricks the blacksmith into committing an unfortuante act, is told by Aleksandr Afanasev in *Russian folk-tales*, 1916
+A complementary story, in which the Devil tricks the blacksmith into committing an unfortunate act, is told by Aleksandr Afanasev in *Russian folk-tales*, 1916
 
 ```{admonition} *The Smih and the Devil*, Afanasev, 1916
 :class: dropdown
@@ -747,19 +748,20 @@ And the youth thereafter never more spat on the devil and beat him with a hammer
 
 ```
 
-A similar variant can be found collected as the *Boy and Blacksmith* in Duncan and Linda Williamson's *A thorn in th King's Foot*, 1987, pp.78-85. A recording of Duncam Williamson telling the tale can be found on the Tobar An Dualchais oral history website: [A Blacksmith tries unsuccessfully to copy the cutting off of...](https://www.tobarandualchais.co.uk/track/44830?l=en)
+A similar variant can be found collected as the *Boy and Blacksmith* in Duncan and Linda Williamson's *A thorn in th King's Foot*, 1987, pp.78-85. A recording of Duncam Williamson telling the tale can be found on the [*Tobar An Dualchais*](https://www.tobarandualchais.co.uk) oral archive website: [A Blacksmith tries unsuccessfully to copy the cutting off of...](https://www.tobarandualchais.co.uk/track/44830?l=en)
 
 ## A Czechoslovak Variant, Featuring Death Rather than the Devil
 
-Another twist on the original tale can be found in the P. H. Fillmore's 1920 collection, [*The shoemaker's apron; a second book of Czechoslovak fairy tales and folk tales*](https://archive.org/details/shoemakersaprons00fill). In this variant, a similar trick is played by the blacksmith, bit this time on Death, (a female character, which seems to be typical in Eastern stroytelling traditions) rather then the Devil. Insfar as the consquences of imprisoning Death go, the parallels with tales such as Duncan Wiliamson's *Death in a Nut* are clear.
+Another twist on the original tale can be found in the P. H. Fillmore's 1920 collection, [*The shoemaker's apron; a second book of Czechoslovak fairy tales and folk tales*](https://archive.org/details/shoemakersaprons00fill). In this variant, a similar trick is played by the blacksmith, bit this time on Death, (a female character, which seems to be typical in Eastern stroytelling traditions) rather then the Devil. Insofar as the consequences of imprisoning Death go, the parallels with tales such as Duncan Williamson's *Death in a Nut* are clear.
 
 ```{admonition} The Blacksmith's Stool
+:class: dropdown
 
 *In [The shoemaker's apron; a second book of Czechoslovak fairy tales and folk tales](https://archive.org/details/shoemakersaprons00fill/page/178/mode/2up), 1920, p179-185.*
 
 THE BLACKSMITH'S STOOL
 
-ALONG time ago when Lord Jesus and the blessed St. Peter walked about together on earth, it happened one evening that they stopped at a blacksmith's cottage and asked for a night's lodging. 
+A LONG time ago when Lord Jesus and the blessed St. Peter walked about together on earth, it happened one evening that they stopped at a blacksmith's cottage and asked for a night's lodging. 
 
 "You are welcome," the blacksmith said. " I am a poor man but whatever I have I will gladly share with you."
 
