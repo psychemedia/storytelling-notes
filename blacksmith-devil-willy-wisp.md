@@ -754,7 +754,7 @@ A similar variant can be found collected as the *Boy and Blacksmith* in Duncan a
 
 ## A Czechoslovak Variant, Featuring Death Rather than the Devil
 
-Another twist on the original tale can be found in the P. H. Fillmore's 1920 collection, [*The shoemaker's apron; a second book of Czechoslovak fairy tales and folk tales*](https://archive.org/details/shoemakersaprons00fill). In this variant, a similar trick is played by the blacksmith, bit this time on Death, (a female character, which seems to be typical in Eastern storytelling traditions) rather then the Devil. Insofar as the consequences of imprisoning Death go, the parallels with tales such as Duncan Williamson's *Death in a Nut* are clear.
+Another twist on the original tale can be found in the P. H. Fillmore's 1920 collection, [*The shoemaker's apron; a second book of Czechoslovak fairy tales and folk tales*](https://archive.org/details/shoemakersaprons00fill). In this variant, a similar trick is played by the blacksmith, but this time on Death, (a female character, which seems to be typical in Eastern storytelling traditions) rather then the Devil. Insofar as the consequences of imprisoning Death go, the parallels with tales such as Duncan Williamson's *Death in a Nut* are clear.
 
 ```{admonition} The Blacksmith's Stool
 :class: dropdown
