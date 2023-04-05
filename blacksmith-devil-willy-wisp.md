@@ -748,7 +748,7 @@ And the youth thereafter never more spat on the devil and beat him with a hammer
 
 ```
 
-A similar variant can be found collected as the *Boy and Blacksmith* in Duncan and Linda Williamson's *A thorn in th King's Foot*, 1987, pp.78-85. A recording of Duncam Williamson telling the tale can be found on the [*Tobar An Dualchais*](https://www.tobarandualchais.co.uk) oral archive website: [A Blacksmith tries unsuccessfully to copy the cutting off of...](https://www.tobarandualchais.co.uk/track/44830?l=en)
+A similar variant can be found collected as the *Boy and Blacksmith* in Duncan and Linda Williamson's *A Thorn in the King's Foot*, 1987, pp.78-85. A recording of Duncam Williamson telling the tale can be found on the [*Tobar An Dualchais*](https://www.tobarandualchais.co.uk) oral archive website: [A Blacksmith tries unsuccessfully to copy the cutting off of...](https://www.tobarandualchais.co.uk/track/44830?l=en)
 
 ## A Czechoslovak Variant, Featuring Death Rather than the Devil
 
