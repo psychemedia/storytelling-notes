@@ -563,9 +563,9 @@ The seven years, all but three days, had passed, and Billy was back working at h
 
 On the last day of his seven years Billy was penniless, and he went to the taproom of his favourite inn, which was full.
 
-"Well, boys," said Billy, "we must have some money to-night. I'll treat you, and give you a pound each," and rising, he placed his tumbler in the middle of the table, and wished for twenty pounds. No sooner had he wished than a ball of fire came through the ceiling, and the twenty sovereigns fell into the tumbler. Everyone was taken aback, and there was a noise as if a bomb had burst, and the fireball disappeared, and rolled down the garden path, the landlord following it. After this they each drank what they liked, and Billy gave them a sovereign apiece before he went home.
+"Well, boys," said Billy, "we must have some money tonight. I'll treat you, and give you a pound each," and rising, he placed his tumbler in the middle of the table, and wished for twenty pounds. No sooner had he wished than a ball of fire came through the ceiling, and the twenty sovereigns fell into the tumbler. Everyone was taken aback, and there was a noise as if a bomb had burst, and the fireball disappeared, and rolled down the garden path, the landlord following it. After this they each drank what they liked, and Billy gave them a sovereign apiece before he went home.
 
-The next morning he was in his smithy making Billy Duffy and the Devil, a pair of horseshoes, when the devil came in and /said :
+The next morning he was in his smithy making Billy Duffy and the Devil, a pair of horseshoes, when the devil came in and said :
 
 " Well, Billy, I'll want you this morning."
 
@@ -581,7 +581,7 @@ At the end of three days Billy returned and opened the door, and the devil said,
 
 " Seven years more, twice the money, and two days' grace for wishing for what you like."
 
-The devil paid his money and disappeared, and Billy shut the smithy and took to gambling and drink- ing, so that at the end of seven years he was without a penny, and working again in his smithy.
+The devil paid his money and disappeared, and Billy shut the smithy and took to gambling and drinking, so that at the end of seven years he was without a penny, and working again in his smithy.
 
 On the last night of the seven years he went to his favourite public-house again, and wished for five pounds.
 
@@ -650,6 +650,8 @@ Emerson also includes another blacksmith related tale (p. 10-11), which he had "
 ```{admontion} The Craig-y-Don Blacksmith
 :class: dropdown seealso
 
+*In [Welsh fairy-tales and other stories](https://archive.org/details/welshfairytaleso00emeriala/page/10/mode/2up), Peter Emerson, 1894, p10-11.*
+
 THE CRAIG-Y-DON BLACKSMITH.
 
 ONCE upon a time an old blacksmith lived in an old forge at Craig-y-don, and he used to drink a great deal too much beer.
@@ -663,9 +665,11 @@ One day, a few months after meeting the little people, a strange man brought a h
 
 The old blacksmith tied the horse to a hole in the lip of a cauldron (used for the purpose of cooling his hot iron) that he had built in some masonry.
 
-When he had tied the horse up he went to shoe the
+When he had tied the horse up he went to shoe the off hind-leg, but directly he touched the horse the spirited animal started back with a bound, and dragged the cauldron from the masonry, and then it broke the halter and ran away out of the forge, and was never seen again : neither the horse nor its master.
 
-````
+When the old blacksmith came to pull down the masonry to rebuild it, he found three brass kettles full of money.
+
+```
 
 ## A Complementary Take From the Russian Tradition...
 
