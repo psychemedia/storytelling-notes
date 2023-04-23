@@ -47,7 +47,97 @@
 :url_parameters: ?start=43
 ```
 
-According to Scottish traveller Duncan Williamson, Macpherson's mother (Mary) was a traveller girl who managed to attend the coming of age party of the young laird of the manor (on the drive to which which they were camping), through the magic of her grandmother, a transformation, and the loss of shoe that was later found to fit her. Williamson claims the story is known to Scottish travellers not as *Cinderalla*, but as [*Macpherson*](https://search.library.wisc.edu/digital/AAFYWIJZN4MCCZ84).
+Katherine Briggs also provides a summary of the tale in *Part B* of her *Dictionary of British folk-tales in the English language*, as the tale *Death of Singing Jamie* in the section on "Historical Traditions".
+
+According to Scottish traveller Duncan Williamson, Macpherson's mother (Mary) was a traveller girl who managed to attend the coming of age party of the young laird of the manor (on the drive to which which they were camping), through the magic of her grandmother, a transformation, and the loss of shoe that was later found to fit her. Williamson claims the story is known to Scottish travellers not as *Cinderella*, but as [*Macpherson*](https://search.library.wisc.edu/digital/AAFYWIJZN4MCCZ84).
+
+
+```{admonition} *Macpherson's Rant*, Francis Child, "The British Poets", 1866
+:class: dropdown
+
+*In [The British Poets](https://archive.org/details/britishpoets05chilgoog/page/n316/mode/2up?q=%22james+macpherson%22+violin), Francis Child, 1866, p263-268.*
+
+This ballad, worthy of a hangman's pen, was first printed in Herd's *Scottish Songs*, i. 161. It is found, mutilated and altered, with the title of *Macpherson's Lament*, in the *Thistle of Scotland*, p. 52.
+
+The story of Macpherson is given as follows by a writer in the *New Monthly Magazine*, voL i. p. 142, cited by Chambers, *Scottish Songs*, i. 84.
+
+"James Macpherson was bom of a beautiful gipsy, who, at a great wedding, attracted the notice of a half-intoxicated Highland gentleman. He acknowledged the child, and had him reared in his house, until he lost his life in bravely pursuing a hostile clan, to recover a spreach of cattle taken from Badenoch. The gipsy woman, hearing of this disaster, in her rambles the following summer, came and took away her boy; but she often returned with him, to wait upon his relations and clansmen, who never failed to clothe him well, besides giving money to his mother. He grew up to beauty, strength, and stature, rarely equalled. His sword is still preserved at Duff House, a residence of the Earl of Fife, and few men of our day could carry, far less wield it, as a weapon of war ; and if it must be owned that his prowess was debased by the exploits of a free-booter, it is certain, no act of cruelty, no robbery of the widow, the fatherless, or distressed, and no murder, were ever perpetrated under his command. He often gave the spoils of the rich to relieve the poor; and all his tribe were restrained from many atrocities of rapine by the awe of his mighty arm. Indeed, it is said that a dispute with an aspiring and savage man of his tribe, who wished to rob a gentleman's house while his wife and two children lay on the bier for interment, was the cause of his being betrayed to the vengeance of the law. The magistrates of Aberdeen were exasperated at Macpherson's escape, and bribed a girl in that city to allure and deliver him into their hands. There is a platform before the jail, at the top of a stair, and a door below. When Macpherson's capture was made known to his comrades by the frantic girl, who had been so credulous as to believe the magistrates only wanted to hear the wonderful performer on the violin, his cousin, Donald Macpherson, a gentleman of Herculean powers, did not disdain to come from Badenoch, and to join a gipsy, Peter Brown, in liberating the prisoner. On a market-day they brought several assistants ; and swift horses were stationed at a convenient distance. Donald Macpherson and Peter Brown forced the jail ; and while Peter Brown went to help the heavily-fettered James Macpherson in moving away, Donald Macpherson guarded the jail-door with a drawn sword. Many persons assembled at the market had experienced James Macpherson's humanity, or had shared his bounty; and they crowded round the jail as in mere curiosity, but, in fact, to obstruct the civil authorities in their attempts to prevent a rescue. A butcher, however, was resolved to detain Macpherson, expecting a large recompense from the magistrates ; he sprung up the stairs, and leaped from the platform upon Donald Macpherson, whom he dashed to the ground by the force and weight of his body. Donald Macpherson soon recovered, to make a desperate resistance ; and the combatants tore off each other's clothes. The butcher got a glimpse of his dog upon the platform, and called him to his aid ; but Macpherson, with admirable presence of mind, snatched up his own plaid, which lay near, and threw it over the butcher, thus misleading the instinct of his canine adversary. The dog darted with fury upon the plaid, and terribly lacerated his master's thigh. In the mean time, James Macpherson had been carried out by Peter Brown, and was soon joined by Donald Macpherson, who was quickly covered by some friendly spectator with a hat and great coat The magistrates ordered webs from the shops to be drawn across the Gallowgate ; but Donald Macpherson cut them asunder with his sword, and James, the late prisoner, got off on horseback. He was, some time after, betrayed by a man of his own tribe ; and was the last person executed at Banff, preyions to the abolition of hereditable jurisdiction. He was an admirable performer on the violin ; and his talent for composition is still evidenced by Macpherson's Rant, and Macpherson's Pitroch. He performed these tunes at the foot of the fatal tree ; and then asked if he had any friend in the crowd to whom a last gifl of his instrument would be acceptable. No man had hardihood to claim friendship with a delinquent, in whose crimes the acknowledgment might implicate an avowed acquaintance. As no friend came forward, Macpherson said, the companion of so many gloomy hours should perish with him; and, breaking the violin over his knees, he threw away the fragments. Donald Macpherson picked up the neck of the violin, which to this day is preserved, as a valuable memento, by the family of Cluny, chieftain of the Macphersons."
+
+Burns's magnificent death-song, *McPherson's Farewell*, is too well known to require more than an allusion.
+
+I've spent my time in rioting,  
+Debauch'd my health and strength;  
+I've pillag'd, plundered, murdered,  
+But now, alas ! at length,  
+I'm brought to punishment direct.  
+Pale death draws near to me ;  
+This end I never did project,  
+To hang upon a tree.
+
+To hang upon a tree ! a tree !  
+That curs'd unhappy death !  
+Like to a wolf to worried be,  
+And choaked in the breath.  
+My very heart would surely break,  
+When this I think upon,  
+Did not my courage singular  
+Bid pensive thoughts begone.
+
+No man on earth that draweth breath,  
+More courage had than I ;  
+I dar'd my foes unto their face,  
+And would not from them fly.  
+This grandeur stout, I did keep out,  
+Like Hector, manfullie :  
+Then wonder one like me, so stout,  
+Should hang upon a tree !
+
+Th' Egyptian band I did command,  
+With courage more by far,  
+Than ever did a general  
+His soldiers in the war.  
+Being feared by all, both great and small,  
+I liv'd most joyfullie :  
+A curse upon this fate of mine,  
+To hang upon a tree !
+
+As for my life, I do not care,  
+If justice would take place.  
+And bring my fellow plunderers  
+Unto this same disgrace.  
+For Peter Brown, that notour loon,  
+Escap'd and was made free ;  
+O I curse upon this fate of mine.  
+To hang upon a tree !
+
+Both law and justice buried are,  
+And fraud and guile succeed;  
+The guilty pass unpunished,  
+If money intercede.  
+The Laird of Grant, that Highland saint,  
+His mighty majestie.  
+He pleads the cause of Peter Brown,  
+And lets Macpherson die.
+
+The destiny of my life, contriv'd  
+By those whom I oblig'd,  
+Rewarded me much ill for good,  
+And left me no refuge.
+For Braco Duff, in rage enough,  
+He first laid hands on me ;  
+And if that death would not preyent,  
+Avenged would I be.
+
+As for my life, it is but short,  
+When I shall be no more ;  
+To part with life I am content,  
+As any heretofore.  
+Therefore, good people all, take heed.  
+This warning take by me.  
+According to the lives you lead,  
+Rewarded yon shall be.
+
+```
 
 ## James Macpherson in *Historical Tales and Legends of the Highlands*, 1878
 
