@@ -47,6 +47,7 @@
 :url_parameters: ?start=43
 ```
 
+According to Scottish traveller Duncan Williamson, Macpherson's mother (Mary) was a traveller girl who managed to attend the coming of age party of the young laird of the manor (on the drive to which which they were camping), through the magic of her grandmother, a transformation, and the loss of shoe that was later found to fit her. Williamson claims the story is known to Scottish travellers not as *Cinderalla*, but as [*Macpherson*](https://search.library.wisc.edu/digital/AAFYWIJZN4MCCZ84).
 
 ## James Macpherson in *Historical Tales and Legends of the Highlands*, 1878
 
