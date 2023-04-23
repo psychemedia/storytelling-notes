@@ -1,7 +1,6 @@
 # Notes on Gwion Bach / Taliesin
 
-The tale of Gwion Bach, his encounter with the sorceress Ceridwen, his rebirth as Taliesin, greatest of the bard, and his adventures with the luckless Prince Elphin, is one of my favourite tales.
-
+The tale of Gwion Bach, his encounter with the sorceress Ceridwen, his rebirth as Taliesin, greatest of the bards, and his adventures with the luckless Prince Elphin, is one of my favourite tales.
 
 https://archive.org/details/sim_the-cambrian-and-caledonian-quarterly-magazine_1833-04-01_3_18/page/198/mode/2up?q=taliesin
 The Cambrian and Caledonian Quarterly Magazine and Celtic Repertory  1833-04-01: Vol 3 Iss 18
@@ -19,7 +18,7 @@ In these respects I deem this performance of interest ; for no other work of thi
 
 The compiler, Hopkin Thomas Phillip, wrote this piece, about the year 1370. He lived in Morganweg, or Glamorgan; and his language is an interesting specimen of the Gwentian dialect, and an elegant model for prose composition. I, however, have reason to suspect that some of the poetical parts of this romance have been taken by him from some previous work of the same description, as the style and language would induce us to ascribe them to the twelfth and thirteenth centuries ; and some of them are attributed to Jonas Mynyw, or Jonas of Menevia, who appears to have lived at a period anterior to our author.
 
-That this species of composition prevailed in Wales for many centuries we are well assured ; and we have an appropriate parallel to our present inquiry, in the declared intention of Geofry of Monmouth to embody the vaticinations of Merddin (Merlin) in a romance, which intention he afterwards relinquished, and published them in a poetical form, without the connecting narrative which he previously con- templated.
+That this species of composition prevailed in Wales for many centuries we are well assured ; and we have an appropriate parallel to our present inquiry, in the declared intention of Geofry of Monmouth to embody the vaticinations of Merddin (Merlin) in a romance, which intention he afterwards relinquished, and published them in a poetical form, without the connecting narrative which he previously contemplated.
 
 It is not unlikely some romance based upon the history of Taliesin, similar to the one under consideration, may have been known at the period of the first Norman lords of Glamorgen, and the language, by the lapse of time, may have become too obsolete for the facile comprehension of all classes ; and Hopkin Thomas Phillip may have modernized the narrative prose, and given the best version of the poetry he could procure. This surmise is strengthened by the very numerous copies we possess of these poetical pieces, some of which greatly differ from each other, apparently taken down from oral delivery of the tale by various reciters, and which could not well occur if the composition was the entire work of a person so late as the conclusion of the fourteenth century. (The Gaelic sgeulachds, or scholia, which accompany the old Gaelic poems attributed to Ossian, and described as containing the achievements of Fingal, &c., appear to have been similar in composition to tales of this description. )
 
