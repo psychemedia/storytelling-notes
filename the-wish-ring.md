@@ -133,12 +133,12 @@ Children and child finders stood around their two coffins and wept, and when one
 
 So the old farmer was buried with the ring, which was supposed to be a wishing ring and wasn't one, and yet had brought as much luck into the world as anyone could wish for. Because it is a separate matter with what is right and what is wrong; and bad things in good hands are still worth much more than good things in bad hands.
 
+````
+
 ```{warning} Original source — *Hofmann , Wundergarten*
 
-The contents suggest the source `Leander`, and is more fully described in the introduction as *Richard Leander's Träumereien an franzöſiſchen Kaminen*. (Richard Leander is actually a pseudonym of Richard Volkman.) The original edition of that work appears to date from 1871. The earliest online edition I have found is an 1876 version here: https://books.google.co.uk/books?id=Q_cjZzO-UhcC&printsec=frontcover#v=onepage&q&f=false
+The contents of Hofmann's work suggest the source is `Leander`, more fully described in the introduction as *Richard Leander's Träumereien an franzöſiſchen Kaminen*. (Richard Leander is actually a pseudonym of Richard Volkman.) The original edition of that work appears to date from 1871. The earliest online edition I have found is an 1876 version here: https://books.google.co.uk/books?id=Q_cjZzO-UhcC&printsec=frontcover#v=onepage&q&f=false
 
 Leander's work appears to have been republished many times, particularly in American editions for US schools. For example, this 1898 edition  — Richard Leander's Reverie on French Fireplaces : Träumereien an französischen kaminen; märchen, by Volkmann, Richard von — available from the Internet Archive: https://archive.org/details/trumereienanfra01watsgoog/page/n24/mode/2up
 
 ```
-
-````
