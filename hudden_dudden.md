@@ -592,11 +592,11 @@ The telling of *Hudden and Dudden and Donald O'Neary* that appears in W. B. Yeat
 
 ## Jacobs' Take on the Tale
 
-In the last decade of the 19th century, folklorisit Joseph Jacobs published several thematic story collections. The tale of *Hudden and Dudden and Donal O'Neary* was included in his collection of [*Celtic Fairy Tales*](https://archive.org/details/celticfairytale01conggoog/page/n78/mode/2up), publised in 1892.
+In the last decade of the 19th century, folklorist Joseph Jacobs published several thematic story collections. The tale of *Hudden and Dudden and Donal O'Neary* was included in his collection of [*Celtic Fairy Tales*](https://archive.org/details/celticfairytale01conggoog/page/n78/mode/2up), publised in 1892.
 
 The tales origin is stated as it having been collected *from oral tradition, by the late D. W. Logie, taken down by Mr. Alfred Nutt*.
 
-```{admonition} In Jacobs' *Celtic Fiary Tales*, 1892
+```{admonition} In Jacobs' *Celtic Fairy Tales*, 1892
 :class: dropdown
 [*Celtic Fairy Tales*](https://archive.org/details/celticfairytale01conggoog/page/n78/mode/2up), Joseph Jacobs, 1892 pp47-56.*
 
