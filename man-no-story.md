@@ -1,6 +1,6 @@
 # The Man Who Had No Story
 
-I remember hearing a version of *The Man With No Story*, as told by Eddie Lenihan, at the first storytelling festival I went to, at Great Linford, in Milton Keynes. If I recall correctly, it was organised by *Word in Edgeways*, a storytelling group that was active in the area at the time. I heard Eddie tell the same stroy again, or variants of it, several times over the years that followed, and it always struck me as as the sort of story that would be good to tell as a first "full length" story. Indeed, that version was one of the stories I first told when I started attending folk nghts on the Isle of Wight, and it remains one of my favourite tales.
+I remember hearing a version of *The Man With No Story*, as told by Eddie Lenihan, at the first storytelling festival I went to, at Great Linford, in Milton Keynes. If I recall correctly, it was organised by *Word in Edgeways*, a storytelling group that was active in the area at the time. I heard Eddie tell the same story again, or variants of it, several times over the years that followed, and it always struck me as as the sort of story that would be good to tell as a first "full length" story. Indeed, that version was one of the stories I first told when I started attending folk nights on the Isle of Wight, and it remains one of my favourite tales.
 
 Here's a version of Eddie Lenihan's telling of the tale, taken from his *StoryTeller 1 & 2* album.
 
@@ -8,6 +8,10 @@ Here's a version of Eddie Lenihan's telling of the tale, taken from his *StoryTe
 ```
 
 An essentially identical version can be found in the Penguin Folklore Library edition *Irish Folk Tales*, edited by Henry Glassie, 1985, and collected from Michael James Timoney, in Donegal, by Séamas Ó' Catháin in 1965.
+
+The gist of the story is this::
+
+> Brian O'Connell is a basket maker. He has collected the sally rods [willow rods] from miles around and is about to give up. There is a pond nearby he hasn't tried, but: the Faeries. His wife gives him an ultimatum, makes him lunch, and he goes. The rods are plentiful. A mist comes up, so he eats his lunch. The mist gets worse. He sees a cottage, a man and a woman by the hearth who know him by name. "Tell us a story." " I have no story." "Bah; fetch water from well." Shi breeze blows up, lands him back down. He sees a cottage. Wake house. Young wife knows him by name. No conversation. Big man says: "get a fiddler." "Haven't we the finest fiddler?" And he was. "Fetch a priest." "Haven't we the finest priest?" and he was. "Time to get him buried." Three men of a size to carry the coffin, one much taller. "Get a surgeon." "Haven't we the finest surgeon?" and he was; and he cut the man down to size. Go to Church yard. Wall all round. Walk round once, twice, third time. "No gate?" Over the wall. Brian last on ground pushes coffin up to men on wall. Pull Brian up, they go down. He pushes coffin down, Shi breeze blows up, lands him back by the well. Cottage: old man and woman. "Have I a story to tell you!" Bed time: take the bed. During night, feet cold, pulls up blanket: no blanket, no room, just a stone pillow and basket of rods. Goes home. Never makes a basket again.
 
 A nice variant with a different set of adventures comes in the form of [*The Story of Paddy McGee*](https://www.youtube.com/watch?v=yEXKIevIfs0), as told by Nick Hennessey for the East Anglian Story Festival in 2021.
 
@@ -30,6 +34,9 @@ Kathy Jessup -
 https://www.youtube.com/watch?v=ranV12sVdaw https://www.kathyjessup.com/
 
 Betsy Whyte
+
+Summary-ish A laird of the black arts held a gathering for his workers, and served sowans [which Betsy explains]. Everybody had to: "Tell a story, sing a sang, / Show your bum, or oot ye gang." There was a golden guinea for whoever told the biggest lie. One cattleman couldn't make up anything, so the laird sent him to clean out his boat, but he floated away in it. He discovered that he had turned into a woman. When 'she' landed, she met a young man, who took her home to his mother. In the course of time, they got married and had children. One day they were out walking and saw the boat. The woman stepped into it, and it carried her off. She turned back into the cattleman and returned to find that no time had passed. Greetin [weeping] for his lost family, he told them what had happened, and won the guinea. The Black Laird had made him imagine it all so that he would have something to tell.
+
 - https://search.library.wisc.edu/digital/AFEZWYLTPRBSSS8U
 - https://www.tobarandualchais.co.uk/track/85484?l=en
 - https://www.tobarandualchais.co.uk/track/81245?l=en
