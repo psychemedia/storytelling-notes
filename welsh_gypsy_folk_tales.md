@@ -15,7 +15,7 @@ No. 63.— The Black Lady
 
 A young girl goes to service at an old castle with the Black Lady, who warns her not to look through the window. The Black Lady goes out. The girl gets bored, looks through the window, and sees the Black Lady playing cards with the devil. She falls down frightened. The Black Lady comes in and asks her what she has seen. 'Nothing saw I; nought can I say. Leave me alone; I am weary of my life.' The Black Lady beats her, and asks her again, 'What saw you through the window?' 'Nothing saw I,' etc. The girl runs off and meets a keeper, who takes her home, and after some years marries her. She has a child, and is bedded. Enter the Black Lady. ' What saw you through the window ? ' ' Nothing saw I,' etc. The Black Lady takes the child, dashes its brains out, and exit. Enter the husband. The wife offers no explanation, and the husband wants to burn her, but his mother intercedes and saves her this time. But the same thing happens again, and the husband makes a fire. As she is being brought to the stake, the Black Lady comes. ' What saw you through the window?' 'Nothing saw I,' etc. 'Take her and burn her,' says the Black Lady. They fasten her up, and bring a light. The same question, the same answer. The Black Lady sees that she is secret, so gives her back her two children, and leaves her in peace.
 
-`A story of the 'Forbidden Room' type (cf. Clouston, i. 198-205 [Popular Tales and Fictions,). An incomplete Italian variant is cited there ; much closer parallels are Grimm's No. 3, 'Our Lady's Child'(i. 7 and 341), and Dasent's 'The Lassie and her Godmother' (p. 198; [?p216 of "Popular Tales from the Norse", 1859; p213 of "A selection from the Norse tales for the use of children", 1862]). For playing cards with the devil, see p. 120 ; and cf. also this passage from the Roumanian-Gypsy story of 'The Vampire' (No. 5, p. 18):—“'Tell me what did you see me doing ? ” “I saw nothing.” And he killed her boy.'`
+`A story of the 'Forbidden Room' type (cf. Clouston, i. 198-205 [Popular Tales and Fictions,). An incomplete Italian variant is cited there ; much closer parallels are Grimm's No. 3, 'Our Lady's Child'(i. 7 and 341), and Dasent's 'The Lassie and her Godmother' (p. 198; [?p216 of "Popular Tales from the Norse", 1859; p213 of "A selection from the Norse tales for the use of children", 1862]). For playing cards with the devil, see p. 120 ; and cf. also this passage from the Roumanian-Gypsy story of 'The Vampire' (No. 5, p. 18):—"'Tell me what did you see me doing ? " "I saw nothing." And he killed her boy.'`
 
 TH Notes:
 
@@ -74,8 +74,7 @@ The Black Lady.
 
 There once was a young girl who wanted a place to do work. She got a placo at the old castle.
 
-She who lived in the castle was the old Black Lady. She showed the girl all that was in the house, and warned her on her life not to look through the 
-window. And after she had shown her everything the Black Lady went away.
+She who lived in the castle was the old Black Lady. She showed the girl all that was in the house, and warned her on her life not to look through the window. And after she had shown her everything the Black Lady went away.
 
 The young girl was alone. There was nothing for her to do in the house: she read the books on the table. Then came into her head what the old Black Lady had said to her about the window. Up she got on her feet, and took a little chair. She went to the window and looked through it. She saw the Black Lady and the Devil playing cards. Down fell the young girl terrified.
 
@@ -87,7 +86,7 @@ The Black Lady beat her, and asked her again.
 
 ' I saw nothing. I will say nothing. I am tired of my life.'
 
-The Black Lady went away, and the young woman went out, and with nothing on her head wandered through the trees. She was weary. She sat down. Presently there came a man riding upcm horseback, he was a keeper. He asked her where she was going. She told him all the Blaok Lady had done to her.
+The Black Lady went away, and the young woman went out, and with nothing on her head wandered through the trees. She was weary. She sat down. Presently there came a man riding upon horseback, he was a keeper. He asked her where she was going. She told him all the Black Lady had done to her.
 
 'Get up,' said the man. 'Come hehind me upon the horse's back!'
 
@@ -232,6 +231,54 @@ Collected and Edited by John Sampson
 No. 20. Mortsi T'a Kokale (Skin and Bones)
 pp.1-5
 
+SKIN AND BONES
+
+There was a poor young man looking for work, and he went down to the quay. He was as lean as a rake. A Captain caught sight of him. Quoth he to the young man: 'Come here. Skin and Bones! Thou art a scraggy fellow, thou wilt just suit me, thou wilt not eat too much.'
+
+Poor Skinny went below to the galley. There he was cleaning the knives and forks when the Captain called him on deck.
+
+' Here, Bag o' Bones! do this little job for me. Look sharp and get it done.' Poor Skinny was not used to doing things smartly. The Captain grew furious and struck him a heavy blow. Down fell poor Skinny on the deck. There were all his bones, scattered on the planks, one here, another there.
+
+The Captain was aghast. He went below. He came on deck half an hour later. He saw poor Skinny pacing the deck in front of him.
+
+Next day the Captain asked Skinny to do another little job. He was very, very slow about it The Captain struck him on the head with an axe: he cleft him in twain. Behold a heap of bones upon the deck! The Captain collected them and cast them into the sea. ' He will not return again,' quoth the Captain to himself. Presently he heard something behind him. He looked. ' Why! here is Skin and Bones again! '
+
+On the day after there was something else to be done. The Captain called Skinny: ' Do this for me.' Skinny was very, very slow about it. The Captain took a marline-spike in his hand, and struck him down once more.
+
+Behold all the bones scattered here and there on the deck. The Captain collected them. He put half the bones into a sack, and threw them into the sea, and carried the other half below into his cabin. Twenty miles further on he threw them overboard. Half an hour later there was Skin and Bones walking in front of him!
+
+They sailed on and came to an island. The whole crew went ashore to see this island, and have a friendly spree, some in this direction, others in that.
+
+' Thou and I will keep together,' quoth the Captain to Skinny. They came to a lonely little spot. ' I will do for thee now! ' exclaimed the Captain. He knocked him into little bits, collected the bones, and nailed them to the trees, one here and one there. ' I have done for thee this time,' said he to himself.
+
+He mustered the crew. ' Now let us be off.' On they went for twenty miles. The ship made good speed, it was a sailing ship. Lo! here is Skin and Bones in front of him again!
+
+'Thou hadst better be the captain instead of me,' said he.
+
+Skinny was made Captain. He became a wealthy man. After three years he went home to his old mother. There he is now alive and well.
+
+[I fear that I cannot throw much light upon this curious little tale. I know of no exact parallel to it.
+
+In other connections and in a different form the motif of the unwelcome boggart, whose company cannot be eluded, is common enough. To the type mentioned in J. O. L. S., Third Series, iL p. 155, may be added stories like *Yallery Brown*, Jacobs, *More English Fairy Tales*, p. 26, where the victim, as here, was responsible for his troubles because he had invited or released the agent of his persecution:
+
+' For harm and mischance and Yallery Brown  
+Thou'st let out thyself from under the stone.'
+
+The captain's error was to call out to Skin and Bones and invite him on board his ship. To answer the questions of magical persons, and still more, thoughtlessly to summon them or to invite their company, is a highly dangerous proceeding. Some illustra¬ tions of the possible consequences of such behaviour will be found in my paper on 'The Force of Initiative in Magical Conflict,' *Folk-Lore*, xxi. pp. 153 foll.
+
+The peculiar physical characteristics of Skinny remind us of such stories as that of the *Strange Visitor*, in which first a pair of soles come in and plant themselves by the old woman who wished for company, and then a pair of legs which plant themselves on the soles, then hips, and so on, until the strange visitor is completed, Jacobs, *Engliah Fairy Tales*, pp. 179 foll, and notes on p. 251. The skeleton which drops down the chimney in instal¬ ments which adjust themselves upon their arrival, frequently appears in the haunted castle which is freed from enchantment by the boy who set out to learn how to shiver and shake, Grimm, No. 4. See references in Bolte und Polívka, *Anmerkungen*, i. p. 30, Note 1. To this type belongs the incident in *Ashypelt* (Groome, pp. 238-9), where it will be remembered that a blow from Ashypelt knocks the skeleton to pieces which he puts together again.
+
+Skinny has also something in common with the more malevolent sea-shore bogies which Oriental mariners have encountered in strange islands, the Arabic Shikk (Split Man) or Che Persian Nimchahrah (Half-Face), and Tasmeh-pá (Strap Legs without Bones). To the last category belong Sinbad's ' Old Man of Che Sea,' and the corresponding Marids which attacked the ship's company of Sayf ul-Muluk. The ogres encountered by Janshah appeared as normal human beings except for their whistling speech like that of birds, an infallible characteristic of Oriental devils; but anon they split themselves longitudinally into two halves, each of which ran with an incredible celerity to gratify its cannibal propensities. (See Burton-Smithers, *Arabian Nights*, iv. pp. 279, 390; vi. p. 124, with Burton's notes.) This kind of ogre appears in Greek folk-tale, von Hahn, *Griechische und albanesische Märchen*, No. 64, where the strong hero is killed by an old man who, when struck, merely divides into two antagonists. In one of the variants given by von Hahn, ho begins by being a Half-Man.
+
+In the Middle East, though not, I think, in Western Europe, Half-Men sometimes figure as romantic heroes ( e.g . Lorimer, Persian Tales, pp. 108, 251). These, however, clearly belong to quite a different category from Skinny. What may be called their burlesque counterpart is the ingenious and successful rogue Half-Cock, whose adventures are celebrated in versions from Modem Greece, the Southern Slavonic countries, Berber North Africa, and France. (See Dawkins, *Modern Greek in Asia Minor*, p. 243.)
+
+I must, however, end as I began, with a confession of failure. No real analogy to the story of *Skin and Bones* is known to me.
+
+W. R. H.]
+
+*An article on Gypsy Death Customs follows..*
+
+
 ---
 
 https://archive.org/details/journalgypsylore3rdsv3-1924/page/n70/mode/1up
@@ -241,38 +288,37 @@ pp.49-60
 
 THE LEAVES THAT HUNG BUT NEVER GREW
 
-
 A lonely little cottage and a mother and her daughter living there. They were poor as poor could be, and the girl was forced to go and look for work.
 
-She set off and she came to a great mansion. The lord asked her what she was seeking; he called her in. ' I am seeking work/ ' I will give thee work.' The task which he set her was to find the leaves that hung but never grew.
+She set off and she came to a great mansion. The lord asked her what she was seeking; he called her in. ' I am seeking work.' ' I will give thee work.' The task which he set her was to find the leaves that hung but never grew.
 
 Away she went (to seek them). As she was going down the lane she met a little dwarfish man. ' Good day to thee,' quoth he. He (turned and) looked after her. He went home and told his wife that he had seen a lovely young woman upon the road but she was looking troubled.
 
 She journeyed on until she found a small house. Never before had she seen it: she was astonished. ' This is all strange to me,' she said to herself.
 
-She knocked at the door and out came an old witch. The young girl asked for work, and the old witch bade her come into her little parlour. She saw a great black boar chained up in one corner. The old witch made some good tea for her, and gave her plenty to eat. She ate her fill, and made an end Qf her meal.
+She knocked at the door and out came an old witch. The young girl asked for work, and the old witch bade her come into her little parlour. She saw a great black boar chained up in one corner. The old witch made some good tea for her, and gave her plenty to eat. She ate her fill, and made an end of her meal.
 
 The only work which the old witch had to give her was to look after this black boar. The girl tended the boar for weeks. She knew not how she should question the old witch concerning the leaves.
 
-She grew weary and discontented. One day she exclaimed to the black boar: * 0 boar, boar, see the state my hands are in now! They were white and delicate when I came here; but how rough and dirty are they now through looking after thee!' 'Wait a while,' quoth he, ' I warrant thee thou wilt presently find thyself a black sow in the other corner. Why hast thou come hither ? ' the boar asked her. ' I came here to seek the leaves that hung but never grew.'
+She grew weary and discontented. One day she exclaimed to the black boar: 'O boar, boar, see the state my hands are in now! They were white and delicate when I came here; but how rough and dirty are they now through looking after thee!' 'Wait a while,' quoth he, ' I warrant thee thou wilt presently find thyself a black sow in the other corner. Why hast thou come hither ? ' the boar asked her. ' I came here to seek the leaves that hung but never grew.'
 
-No sooner was the word spoken than the boar was transformed into a young gentleman. 'Go upstairs into the witch's bed¬ chamber,' quoth he, ' and put thy hand beneath her pillow. Thou wilt find a little wallet there. When thou layest thy hand upon the leaves, wish that the witch may remain asleep and not awaken.'
+No sooner was the word spoken than the boar was transformed into a young gentleman. 'Go upstairs into the witch's bed-chamber,' quoth he, ' and put thy hand beneath her pillow. Thou wilt find a little wallet there. When thou layest thy hand upon the leaves, wish that the witch may remain asleep and not awaken.'
 
 She went upstairs; she laid her hand upon the wallet, and willed the witch to remain asleep and not awaken. She took the wallet and came downstairs. She gave half the leaves to the young gentleman.
 
-' And now,' quoth he, 1 let us devise three enchantments for the witch when she wakes, and asks whether thou art coming to bed. First the poker shall say: “ I am raking out the fire.” Then the broom shall say: “ I am sweeping the room.” Lastly the chair shall say: “ I am coming now.” ' The girl wished these three things, and the two fled away together.
+' And now,' quoth he, ' let us devise three enchantments for the witch when she wakes, and asks whether thou art coming to bed. First the poker shall say: " I am raking out the fire." Then the broom shall say: " I am sweeping the room." Lastly the chair shall say: " I am coming now." ' The girl wished these three things, and the two fled away together.
 
 Lo! the witch awakens. She called the girl to come to bed. The poker answered : ' I am raking out the fire.' She called her again. The broom answered: ' I am sweeping the room.' She called her once more. The chair answered: ' I am coming now.' The girl came not. The witch called again. There was no answer.
 
 The witch was furious. She realised that the two had escaped. She called her daughter and told her to follow them, and whatso¬ ever she should see on the road to bring home with her.
 
-Lo! the two are speeding on their way. They saw the witch's daughter coming after them like the wind. She has almost over¬ taken them now. Said the gentleman to the maiden: 'Wish thyself a duck and me a running stream; when she tries to catch thee dive beneath the water.' She did so. The youth was transformed into a running stream and the girl turned herself into a duck.
+Lo! the two are speeding on their way. They saw the witch's daughter coming after them like the wind. She has almost over-taken them now. Said the gentleman to the maiden: 'Wish thyself a duck and me a running stream; when she tries to catch thee dive beneath the water.' She did so. The youth was transformed into a running stream and the girl turned herself into a duck.
 
 And now the witch's daughter overtakes them. She approached the duck; she tried to catch her. ' Duck, duck, pretty little duck,' quoth she; ' hast thou seen any one pass this way ? '
 
 Every time that she came close to the little duck, the little duck dived beneath the water.
 
-The witch's daughter went home and told her mother that she had seen a little duck swimming on the water and naught else. 1 Those were they! ' cried the old witch. ' Return thou and fetch me but one feather from the duck, and I will very soon have them back again.' She returned to get the feather. She saw neither duck nor stream. Both had vanished. She was broken-hearted. She went home and told the old witch that she could find nothing.
+The witch's daughter went home and told her mother that she had seen a little duck swimming on the water and naught else. ' Those were they! ' cried the old witch. ' Return thou and fetch me but one feather from the duck, and I will very soon have them back again.' She returned to get the feather. She saw neither duck nor stream. Both had vanished. She was broken-hearted. She went home and told the old witch that she could find nothing.
 
 Lo! the two haste away until they reach a fork of the road. Here they were obliged to part from one another. They arranged that he should go to his home and return again to her. Quoth the girl to the youth: ' When thou arrivest home let not any of thy kinsfolk kiss thee, or thou wilt forget me.'
 
@@ -288,16 +334,15 @@ The lord was trying to take her life. He lodged her in a fine room with a bed to
 
 Lo! it is midnight now. The clock struck the hour. It awoke the girl. She saw this canopy descending closer and closer upon her. She bethought her of the leaves. When she bethought her of the leaves, she bethought her of the young man. She drew a leaf from her pocket and immediately he stood before her. She sprang up and gave him her hand.
 
-The young man told her to will them all to sleep. She willed them to sleep. ' Now then/ quoth he,' let us be gone. He went to the door and opened it softly. The two stole away and none beheld them go. All was still.
+The young man told her to will them all to sleep. She willed them to sleep. ' Now then,' quoth he,' let us be gone. He went to the door and opened it softly. The two stole away and none beheld them go. All was still.
 
 ' I am afraid to live with my mother' quoth she to him. ' I want to go further away, so that the lord cannot find me. '  'So be it! I will come with thee, go where thou wilt' said the young gentleman.
 
-He took her to his own home. ' And now/ quoth the young gentleman, 'we have a place where we can talk undisturbed. Shall we two wed ? ' She gave him her hand. ' That is the very thing I myself desire/ said the young woman, ' I had thought to ask thee.'
+He took her to his own home. ' And now,' quoth the young gentleman, 'we have a place where we can talk undisturbed. Shall we two wed ? ' She gave him her hand. ' That is the very thing I myself desire,' said the young woman, ' I had thought to ask thee.'
 
 The gentleman told the coachman to harness the horse to the carriage. They both drove away to London. In London they were married. Then they came back again to Wales. They kept a mill beside the sea and lived there happily from that day to this.
 
 And thou owest me a big pudding for telling thee this lie.
-
 
 [The literature dealing with the group of stories to which this belongs is considerable. The following references may be consulted as a guide thereto. Lang, Custom and Myth, pp. 87-102; Jacobs, English Fairy Tales, i. pp. 33-9, 233-4; Cosquin, Contes Populaires de Lorraine, i. pp. 103-7 : ii. pp. 9-28; Cosquin, Ptudes Folldoriques, pp. 585-93; Bolte und Polfvka, Anmerkungen zu den Kinder und Hausmarchen der Briider Grimm, i. pp. 442-3, 498-503: ii. pp. 62, 77-9, 140-6, 516-27: iii. pp. 338-9, 406-17. The main part of our story belongs to a group of Marchen of which Grimm, Nos. 51, 56, 79, 113, 186, and 193, are representatives. To these may be added Grimm, No. 70a, Das Okerlo, but this tale, together with the two variants quoted by Bolte und Polivka, appears to be derived from the literary version of Countess D'Aulnoy, which is printed in Cabinet des Fees, ii. p. 313. The essential incidents of the plot may thus be set forth in outline.
 
