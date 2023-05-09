@@ -19,6 +19,17 @@ by Jacobs, Joseph, 1854-1916; Nutt, Alfred Trübner, 1856-1910; Wright, Arthur 
 
 Publication date 1890
 
+
+---
+
+
+
+https://archive.org/details/NotesOnTheFolk-loreOfTheNorthernCountiesOfEnglandAndTheBorders
+Notes on the folk-lore of the northern counties of England and the borders
+by Henderson, William
+Publication date 1879
+
+
 ----
 
 
@@ -357,9 +368,9 @@ The Banks of Green Willow
 (Bonnie Annie.  Roud 172, Child 24)
 Staff notation
 play Sound Clip
-It's of a sea captain, came o’er the salt billow,
+It's of a sea captain, came o'er the salt billow,
 And he has courted a fair maid, by the banks of green willow.
-And he has courted this fair maid, ‘til she's proved with child O.A simple way to get all the necessary information into the first verse.  'By the banks of green willow' is sung to the tune of 'came o'er the salt billow' in the first line.
+And he has courted this fair maid, 'til she's proved with child O.A simple way to get all the necessary information into the first verse.  'By the banks of green willow' is sung to the tune of 'came o'er the salt billow' in the first line.
 1
 
 Crying, "Oh my love, what shall I do, and what will become of me,
@@ -386,11 +397,11 @@ And she was delivered of a beautiful baby.
 And the seas reared above them and the winds roared like thunder;
 But the sails would not fill, which has caused them to wonder.
 
-“Oh there’s fey folk on our gallant ship”, the Captain, he cried, so boldly.
+“Oh there's fey folk on our gallant ship”, the Captain, he cried, so boldly.
 “Or there is craftwork on our gallant ship; she will not sail for me.”This and the preceding verse are largely my own inventions, I think.4
 
-So he’s cast the black bullets, he’s cast them twice six and forty.
-And it’s all those black bullets fell on his dearest Annie.The verse which hooked me in the first place - it comes from Child; his A text.5
+So he's cast the black bullets, he's cast them twice six and forty.
+And it's all those black bullets fell on his dearest Annie.The verse which hooked me in the first place - it comes from Child; his A text.5
 
 "Oh Captain, dearest Captain, here's fifty pounds for thee,
 If you'll convoy me safe home again, both me and my baby."
@@ -412,7 +423,7 @@ They have steered for the land, and at length reached the shore O,
 But the corpse of fair Annie had reached there before O.
 
 “The bells shall be rung mournful, as well befits a lady,
-And it’s there she shall be buried, both her and her baby.”
+And it's there she shall be buried, both her and her baby.”
 
 "And my love shall have a coffin of the gold that shines so yellow.
 And she shall be buried on the banks of green willow."
@@ -436,7 +447,7 @@ So I did the same, using the Baring-Gould C(a) text in Child as a basis - this i
 The Undutiful Daughter
 (from John Masters)
 Staff notation
-1. It was of a sea-captain came o’er the salt billow,
+1. It was of a sea-captain came o'er the salt billow,
 He courted a maiden down by the green willow.
 “O take of your father his gold and his treasure,
 O take of your mother her fee without measure.”
@@ -505,8 +516,8 @@ I'll bury thee there, both thou and thy baby.”
 
 15. The sails they were spread, and the wind it was blowing,
 The sea was so salt, and the tide it was flowing;
-They steered for the land, and they reach’d the shore O,
-But the corpse of the maiden had reach’d there before O.
+They steered for the land, and they reach'd the shore O,
+But the corpse of the maiden had reach'd there before O.
 The Banks of Green Willow
 (from Henry Way - plus Purslow's additions)
 Staff notation
