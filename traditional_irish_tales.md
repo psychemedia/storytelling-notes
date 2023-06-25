@@ -1,4 +1,4 @@
-# Traditional IrisH Tales
+# Traditional Irish Tales
 
 Set at Babushka Books, Shanklin
 
