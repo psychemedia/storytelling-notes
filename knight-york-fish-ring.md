@@ -105,11 +105,13 @@ The revellers turned to look at her, for she seemed as fair as the moon, as love
 
 ```{admonition} Notes
 
+https://archive.org/details/dli.granth.84777 ? no longer found, but avalable here: https://books.google.co.uk/books?id=a0iwAAAAIAAJ
 
-https://archive.org/details/dli.granth.84777
 Notes on the Folklore of the Northern Counties of England and the Borders
 by Henderson, William; Baring-Gould, S.
 Publication date 1866
+
+There are versions of 1879 updated version, without Gould's comments?, on Internet Archive
 
 p326-7
 
@@ -119,18 +121,395 @@ A. The first as far as to the marriage;
 
 B. The second from the marriage to the end.
 
-The first part of the story closely resembles 'The Devil with the Three Golden Hairs,' in Grimm's Kinder-Märchen, No. 29; to which are also related a Swiss story of Vogel Greet (K. M. No. 165), a Swedish tale (Afzelius 2, 161-167), a Norwegian (Asbjörnsen, No. 5), a Wendish tale (Haupt u. Schmaler, No. 17), a Hungarian (Mailan, No. 8), and a Mongolian tale in Gesser Khan, p. 142. In the German story a king takes the place of the knight, and the babe is a boy bom with a caul, and therefore fated to marry his daughter. He takes the boy and casts him into the water, and it is saved by a miller. The incident of the change of letters by the thief is the same. After this the German tale branches off in another direction altogether. A modern Greek household tale (Von Halm, No. 20) is to this effect: It is prophesied that a babe will cause the death of a merchant; the merchant takes the child, as in the Yorkshire and German story, and casts it into the river, when it is saved by a shepherd. Then follows the recognition of the boy, when grown up, by the merchant, and the incident of the letter; after which the story goes off on another track. The same story exists in the ' Gesta Romanoram.' `[Ed. Swan, vol. i. Tale 20.]` It is impossible not to recognise in the myth of Romulus and Remus ati Italic form of the same widespread household tale localised.
+The first part of the story closely resembles 'The Devil with the Three Golden Hairs,' in Grimm's Kinder-Märchen, No. 29; to which are also related a Swiss story of Vogel Greet (K. M. No. 165), a Swedish tale (Afzelius 2, 161-167), a Norwegian (Asbjörnsen, No. 5), a Wendish tale (Haupt u. Schmaler, No. 17), a Hungarian (Mailan, No. 8), and a Mongolian tale in Gesser Khan, p. 142. In the German story a king takes the place of the knight, and the babe is a boy born with a caul, and therefore fated to marry his daughter. He takes the boy and casts him into the water, and it is saved by a miller. The incident of the change of letters by the thief is the same. After this the German tale branches off in another direction altogether. A modern Greek household tale (Von Halm, No. 20) is to this effect: It is prophesied that a babe will cause the death of a merchant; the merchant takes the child, as in the Yorkshire and German story, and casts it into the river, when it is saved by a shepherd. Then follows the recognition of the boy, when grown up, by the merchant, and the incident of the letter; after which the story goes off on another track. The same story exists in the ' Gesta Romanoram.' `[Ed. Swan, vol. i. Tale 20.]` It is impossible not to recognise in the myth of Romulus and Remus as an Italian form of the same widespread household tale localised.
 
 The second part of the same Yorkshire story is founded on a different root, and one which reappears in numerous tales. Tor instance, in ' Herodotus,' it is told of Polycrates ; in the old Provencal romance of ' Magelone ' it more closely resembles the form in the Yorkshire tale. If I remember aright, it occurs in one of the ' Arabian Nights' Entertainments ; ' and if so, it was a relic of Persian romance, and would, in all probability, be found in India as well. I am not sure that it has not a mythical signification, and that the ring apparently lost in the sea, and recovered from it again, does not portray the sun cast, as it were, by the power of darkness into the deep, and recovered again by the virgin Aurora or the dawn. The instances of the reappearance of this root in household tales are too numerous to be specified. I may mention that it occurs in the familiar French tale of ' The Fair One with Golden Locks,' and that we find it in all the kindred tales of the Aryan family.
 
 ```
 
+```{admonition} Elsewhere in Henderson...
+:class: seealso
+
+It might be worth exploring the use of the hand of glory at the point where the girl stays the night at the inn, and use this as a cliff-hanger in a split version of the tale.
+
+Note that Henderson also includes extensive notes on the hand of glory (), and Groome's appendix includes a version (p332-333).
 
 
-Note: as a cliffhanger; hand of glory
+The Golden Ball, as collected by Groome, is also in the same book (p333) and involves a hanging — possibly make a triptych, where the gallows are the source of the dead man's hand?
 
-THE SAME BOOK ALSO INCLUDES THE TALE OF THE HAND OF GLORY - which could be incorporated into this tale to kep the folk asleep when the letter is switched. The Golden Ball is also in the same book and involves a hanging — possibly make a triptych?
 
+```
+
+```{admonition} The Golden Ball, Grrome, in Henderson, 1866, p333-336
+:class: seealso dropdown
+
+10. THE GOLDEN BALL. ( Yorkshire.)
+
+There were two lasses, daughters of one mother, and as they came home from ť fair, they saw a right bonny young man stand it house- door before them . They niver seed such a bonny man afore. He had gold on t' cap, gold on t' finger, gold on neck, a red gold watch - chain - eh ! but he had brass . He had a golden ball in each hand. He gave a ball to each lass, and she was to keep it, and if she lost it, she was to be hanged.
+
+One o'the lasses, ' t was t' youngest, lost her ball. [I'll tell thee how . She was by a park - paling, and she was tossing her ball, and it went up, and up ,and up, till it went fair over t' paling ; and when she climbed up to look, tball ran along green grass, and it went raite forward to t door of thouse, and ť ball went in and she saw ' t no more.]
+
+So she was taken away to be hanged by t' neck till she were dead , a cause she'd lost her ball.
+
+[But she had a sweetheart, and he said he would get ball.
+
+So he went tu't park- gate, but ’ t was shut ; so he climbed hedge, and when he got tut top of hedge, an old woman rose up out of ť dyke afore him, and said, if he would get ball, he must sleep three nights in thouse. He said he would.
+
+Then he went into ť house, and looked for ball, but could na find it. Night came on and he heard spirits move it courtyard ;
+so he looked out o' t' window, and t’ yard was full of them , like maggots in rotten meat.
+
+Presently he heard steps coming upstairs. He hid behind door, and was as still as a mouse. Then in came a big giant five times as tall as he were, and giant looked round but did not see t'lad, so he went tut window and bowed to look out ; and as he bowed on his elbows to see spirits it yard , tlad stepped behind him, and wi’ one blow of his sword he cut him in twain, so that the top part of him fell in the yard, and t bottom part stood looking out of t'window .
+
+There was a great cry from ť spirits when they saw half the giant come tumbling down to them, and they called out, " There comes half our master, give us t other half.'
+
+So the lad said , ' It's no use of thee, thou pair of legs , standing aloan at window , as thou hast no een to see with, so go join thy brother ; ' and he cast the bottom part of t giant after top part.
+
+Now when the spirrits had gotten all t' giant they were quiet .
+
+Next night t' lad was at the house again, and now a second giant came in at door, and as he came in tlad cut him in twain, but the legs walked on tut chimney and went up them .
+
+' Go, get thee after thy legs, ' said t'lad tut head, and he cast ť head up chimney too.
+
+The third night't'lad got into bed , and he heard spirits striving under the bed , and they had t ball there, and they was casting it to and fro.
+
+Now one of them has his leg thrussen out from under bed, so t’ lad brings his sword down and cuts it off. Then another thrusts his arm out at other side of the bed, and t lad cuts that off. So at last he had maimed them all , and they all went crying and wailing off, and forgot t' ball, but he took it from under ť bed, and went to seek his truelove.]
+
+Now t’ lass was taken to York to be hanged ; she was brought out on t scaffold , and thangman said, Now , lass, tha' must hang by t neck till tha be’st dead .' But she cried out:
+
+Stop, stop, I think I see my mother coming !  
+Oh mother, hast brought my golden ball  
+And come to set me free ?
+
+I've neither brought thy golden ball  
+Nor come to set thee free,  
+But I have come to see thee hung  
+Upon this gallows-tree.
+
+Then the hangman said, " Now, lass, say thy prayers, for tha must dee. " But she said :
+
+Stop, stop, I think I see my father coming !  
+O father, hast brought my golden ball  
+And come to set me free ?
+
+I've neither brought thy golden ball  
+Nor come to set thee free,  
+But I have come to see thee hung  
+Upon this gallows -tree.
+
+Then the hangman said, ' Hast thee done thy prayers ? Now ,lass, putthy head intut noo-is. '
+
+But she answered, " Stop, stop, I think I see my brother coming ! &c. After which, she excused herself becauseshe thought she saw her sister coming, then her uncle, then her aunt, then her cousin, each of which was related in full; after which the hangman said, ' I wee-nt stop no longer, tha's making gam of me. Tha must be hung at once.'
+
+But now she saw her sweetheart coming through the crowd, and he had over head iť air her own golden ball; so she said :
+
+Stop, stop, I see my sweetheart coming !
+Sweetheart, hast brought my golden ball  
+And come to set me free ?
+
+Aye, I have brought thy golden ball  
+And come to set thee free ;  
+I have not come to see thee hung  
+Upon this gallows-tree .
+
+The portions of this curious tale which are enclosed within brackets were obtained from a different informant. It seems
+to be a Yorkshire version of Grimm's ' Fearless John '
+
+( Kinder -Mährchen , 4) . In both these is the giant cut in half, and the incident of the chimney, and also the wonderful bed.
+
+In one of Grimm's versions of the tale, the lad is able to overcome the spirits by means of a stick which he obtained
+from a dead man on the gallows, the man having been hung for a theft which he had not committed. The boy brings
+him to Christian burial, and in reward obtains the stick.
+
+In the Yorkshire story, the lad saves a girl from the gallows by means of a golden ball he had recovered from
+the spirits. There is a family likeness in the tales .
+
+The other portion of the story resembles the popular Essex game of ' Mary Brown,' which is thus played :
+
+The children form a ring, one girl kneeling in the centre; those in the ring sing out :
+
+Here we all stand round the ring,  
+And now we shut poor Maryin .  
+Rise up, rise up, poor MaryBrown  
+And see your poor mother go through the town.
+
+To this she answers :
+
+I will not rise upon my feet  
+To see my poor mother go through the street.
+
+The children bid her rise to see her poor father, then her brother, her sister, the poor beggars go through the street, and lastly, her poor sweetheart, whereupon she rises to her feet.
+
+The Swedish ‘ Fair Gundela ' also resembles it.
+
+Why row ye so ? Why row ye so ?  
+Fair Gundela  
+GUNDELA.  
+Sure I may row, sure I may row ,  
+Whilst the grass groweth  
+All summer through.  
+Now I have heard that your father is dead,  
+Fair Gundela !  
+GUNDELA .  
+What matters my father ?  
+My mother lives still.  
+Thank Heaven for that !
+
+She is then informed that her mother, brother, sister, &c. , are all dead, and she invariably has some consolation to offer to herself; but when she is told that her true love is dead she is inconsolable.
+
+```
+
+Duncan Williamson - Giant Three Golden Hairs (a Grimm tale too; lost child is first part)
+
+https://www.tobarandualchais.co.uk/track/29904?l=en "A POOR MAN PREDESTINED TO MARRY A PRINCESS DOES SO AFTER MAN..."
+
+
+```{admonition} The Giant with the Three Golden Hairs, in "German popular tales and household stories", Grimm, 1853
+:class: dropdown
+
+https://archive.org/details/germanpopulartal11grim/page/154/mode/2up?q=golden+hair
+German popular tales and household stories,
+by Grimm, Jacob, 1785-1863; Grimm, Wilhelm, 1786-1859
+
+Publication date 1853
+p154-161
+
+The Giant with the Three Golden Hairs
+
+THERE was once upon a time a poor woman whose son was born with a caul, and so it was foretold of him that in his fourteenth year he should marry the King’s daughter. As it happened, the King soon after came into the village, quite unknown to any one, and when he asked the people what news there was, they answered, " A few days since a child with a caul was born, which is a sure sign that he will be very lucky; and indeed it has been foretold of him that in his fourteenth year he will marry the King’s daughter."
+
+The king had a wicked heart, and was disturbed con- cerning this prophecy, so he went to the parents, and said to them in a most friendly manner, " Give me up your child, and I will take care of him." At first they refused, but the stranger begged for it with much gold, and so at last they consented and gave him the child, thinking, " It is a luck-child, and therefore every thing must go well with it."
+
+The King laid the child in a box, and rode away till he came to a deep water, into which he threw the box, saying to himself, " From this unsought-for bridegroom have I now freed my daughter."
+
+The box, however, did not sink, but floated along like a ooat, and not one drop of water penetrated it. It floated at last down to a mill two miles from the King’s palace, and in the mill-dam it stuck fast. The miller’s boy, who was fortunately standing there, observed it, aud drew it ashore with a hook, expecting to find a great treasure.
+
+When, however, he opened the box, he saw a beautiful child, alive and merry. He took it to the people at the mill, who, having no children, adopted it for their own, say- ing, "God has sent it to us." And they took good care of it, and it grew up full of virtues.
+
+It happened one day that the King went into the mill for shelter during a thunder-storm, and asked the people whether the boy was their child. "No," they answered, "he is a foundling, who, fourteen years ago, floated into our dam in a box, which the miller’s boy drew out of the water." The King observed at once that it was no other than the luck-child whom he had thrown into the water, and so said to them, " Good people, could not the youth carry a letter to my wife the Queen ? If so, I will give him two pieces of gold for a reward."
+
+" As my lord the King commands," they replied, and bade the youth get ready.
+
+Then the King wrote a letter to the Queen, wherein he said, "So soon as this boy arrives with this letter, let him be killed and buried, and let all be done before I return."
+
+The youth set out on his journey with the letter, but he lost himself, and at evening came into a great forest. In the gloom he saw a little light, and going up to it he found a cottage, into which he went, and perceived an old woman sitting by the fire. As soon as she saw the lad she was terrified, and exclaimed, " Why do you come here, and what would you do?"
+
+" I am come from the mill," he answered, " and am going to my lady the Queen, to carry a letter ; but because I have lost my way in this forest, I wish to pass the night here."
+
+" Poor boy," said the woman, " you have come to a den of robbers, who, when they return, will murder you."
+
+" Let who will come," he replied, " I am not afraid ; I am so weary that I can go no further, and stretching him- self upon a bench, he went to sleep. Presently the robbers entered, and asked in a rage what strange lad was lying there. "Ah," said the old woman, "it is an innocent youth who has lost himself in the forest, and whom I have taken in out of compassion. He carries with him a letter to the Queen."
+
+The robbers seized the letter and read it, and under- stood that as soon as the youth arrived he was to be put to death. Then the robbers took compassion on him also, and th’e captain tore up the letter and wrote another, wherein he declared that the youth on his arrival was to be married to the Princess. They let him sleep quietly on his bench till the morning, and as soon as he awoke, they gave him the letter, and showed him the right road.
+
+When the Queen received the letter, she did as it com- manded, and caused a splendid marriage-feast to be pre- pared, and the Princess was given in marriage to the luck- child, who, since he was both young and handsome, pleased her well, and they were all very happy. Some little time afterwards the King returned to his palace, and found the prophecy fulfilled, and his daughter married to the luck- child. " How did this happen ?" he asked. " In nry letter I gave quite another command."
+
+Then the Queen handed him the letter, that he might read for himself what it stated. Then the King perceived that it had been forged by another person, and he asked the youth what he had done with the letter that had been entrusted to him, that he had brought another. " I know nothing about it," he replied; " it must have been changed in the forest where I passed the night."
+
+Inflamed with rage, the King answered, " Thou shalt not escape so easily; he who would have my daughter must fetch for me three golden hairs from the head of the Giant ; bring thou to me what I desire, then shalt thou re- ceive my daughter."
+
+The King hoped by this means to get rid of him, but he answered, " The three golden hairs I will fetch, for I fear not the Giant and so he took leave and began his wanderings.
+
+The road led him by a large town, where the watch- man at the gate asked him what trade he understood, and what he knew. " I know every thing," replied the youth.
+
+" Then you can do us a kindness," said the watch, " if you tell us the reason why the fountain in our market- place, out of which wine used to flow, now, all at once, does not even give water."
+
+" That you shall know," was the answer ; " but you must wait till I return."
+
+Then he went on further, and came to a rather large city ; where the watchman asked him, as before, what trade he understood, and what he knew. " I know every thing," he replied.
+
+" Then you can do us a kindness, if you tell us the reason why a tree growing in our town, which used to bear golden apples, does not now even have any leaves."
+
+" That you shall know," replied the youth, " if you wait till I return ;" and so saying, he went on farther till he came to a great lake, over which it was necessary that he should pass. The ferryman asked him what trade he understood, and what he knew. " I know every thing," he replied.
+
+"Then," said. the ferryman, "you can do me a kind- ness if you tell me why, for ever and ever, I am obliged to row backwards and forwards, and am never to be released." " You shall learn the reason why," replied the youth ; " but wait till I return."
+
+As soon as he got over the water he found the entrance into the Giant’s kingdom. It was black and gloomy, and the Giant was not at home ; but his old grandmother was sitting there in an immense arm-chair. " What do you want ?" said she, looking at him fixedly. " I want three golden hairs from the head of the King of these regions," replied the youth, " else I cannot obtain my bride." " That is a bold request," said the woman ; " for if he comes home and finds you here it will be a bad thing for you; but still you can remain, and I will see if I can help you."
+
+Then she changed him into an ant, and told him to creep within the fold of her gown, where he would be quite safe.
+
+"Yes," he said, "that is all very well; but there are three things I am desirous of knowing : — Why a fountain, which used to spout wine, is now dry, and does not even give water. — Why a tree, which used to bear golden apples, does not now have leaves. — And why a ferryman is always rowing backwards and forwards, and never gets released."
+
+" Those are difficult questions," replied the old wo- man ; " but do_you keep quiet and pay attention to what the King says when I pluck each of the three golden hairs."
+
+As soon as evening came the Giant returned; and scarcely had he entered, when he remarked that the air was not quite pure. " I smell, I smell the flesh of man," he exclaimed ; " all is not right." Then he peeped into every corner, and looked about, but could find nothing. Presently his old grandmother began to scold, screaming, "There now, just as I have dusted and put every thing in order, you are pulling them all about again : you are for ever having man’s flesh in your nose ! Sit down and eat your supper."
+
+When he had finished he felt tired ; and the old woman took his head in her lap, and said she would comb his hair a bit. Presently he yawned ; then winked ; and at last snored. Then she plucked out a golden hair, and laid it down beside her.
+
+"Bah !" cried the King, "what are you about?"
+
+" I have had a bad dream," answered the old woman, "and so I plucked one of your hairs."
+
+"What did you dream, then?" asked he.
+
+" I dreamt that a market-fountain which used to spout wine is dried up, and does not even give water : what is the matter with it, pray?"
+
+"Why, if you must know," answered he, "there sits a toad under a stone, 'in the spring, which, if any one kills, wine will gush out as before."
+
+Then the old woman went on combing till he went to sleep again, and snored so that the windows shook. Pres- ently she pulled out a second hair.
+
+"Confound it! what are you about?" exclaimed the King in a passion.
+
+" Don’t be angry," said she ; " I did it in a dream."
+
+" What did you dream this time ?" he asked.
+
+" I dreamt that in a certain royal city there grew a fruit- tree, which formerly bore golden apples, but now has not a leaf upon it : what is the cause of it ?"
+
+"Why," replied the King, "at the root a mouse is gnawing. But if they kill it, golden apples will grow again ; if not, the mouse will gnaw till the tree dies altogether. However, let me go to sleep in peace now; for if you disturb me again you will catch a box on the ears." Nevertheless, the old woman, when she had rocked him again to sleep, plucked out a third golden hair. Hp jumped the King in a fury, and would have ill-treated her, but she pacified him, and said, " Who can help bad dreams?"
+
+" What did you dream this time ?" he asked, still curious to know.
+
+" I dreamt of a ferryman who is for ever compelled to row backwards and forwards, and will never be released. What is the reason thereof?"
+
+" Oh, you simpleton !" answered the Giant. " When one comes who wants to cross over, he must give the oar into his hand ; then will the other be obliged to go to and fro, and he will be free."
+
+Now, since the old woman had plucked the three golden hairs, and had received answers to the three questions, she let the Giant lie in peace, and he slept on till daybreak.
+
+As soon as he went out in the morning, the old woman took the ant out of the fold of her gown, and restored him again to his human form.
+
+" There you have the three golden hairs from the King’s head, and what he replied to the three questions you have just heard."
+
+" Yes, I have heard and will well remember," said the luck-child ; and, thanking the old woman for her assistance in his trouble, he left those regions, well pleased that he had been so lucky in every thing. When he came to the ferryman he had to give him the promised answer. But he said, " First row me over, and then I will tell you how you may be freed and as soon as they reached the op- posite side he gave him the advice, " When another comes this way and wants to pass over, give him the oar in his hand."
+
+Then he went on to the first city, where stood the bar- ren tree, and where the watchman waited for the answer. So he said to him, " Kill the mouse which gnaws at the root of the tree, and then it will again bear golden apples." The watchman thanked him, and gave him for a reward two asses laden with gold, which followed him. Next he came to the other city, where the dry fountain was, and he told the watchman as the Giant had said, — " Under a stone in the spring there sits a toad, which you must uncover and kill, and then wine will flow again as before."
+
+The watchman thanked him, and gave to him, as the other had done, two asses laden with gold.
+
+Now the lucky youth soon reached home, and his dear bride was very glad when she saw him return, and heard how capitally every thing had gone with him. He brought the King what he had desired — the three golden hairs from the head of the Giant; and when his majesty saw the four asses laden with gold, he was quite pleased, and said, " Now are the conditions fulfilled, and you may have my daughter : but tell me, dear son-in-law, whence comes all this gold ? This is indeed bountiful treasure !"
+
+" I was ferried over a river," he replied, " and there I picked it up, for it lies upon the shore like sand."
+
+" Can I not fetch some as well?" asked the King, feel- ing quite covetous.
+
+" As much as you like ; there is a ferryman who will row you across, and then you can fill your sacks on the other side."
+
+The covetous King set out in great haste upon his jour- ney, and as soon as he came to the river beckoned to the ferryman to take him over. The man came and bade him step into his boat ; and as soon as they reached the opposite shore the ferryman put the oar into his hand, and sprang on shore himself.
+
+So the King was obliged to take his place, and there he is obliged to row to and fro for ever, for his sins.
+
+And there he still rows, for no one has yet come to take the oar from him. 
+
+
+```
+
+A version of "three hairs" tale can also be found in Francis Hindes Groome's *Gypsy Folk Tales*, 1899:
+
+```{admonition} The Three Golden Hairs of the Sun-King. Groome, Gypsy Folk-Tales, 1899
+:class: dropdown
+
+https://archive.org/details/gypsyfolktales00groogoog/page/n220/mode/2up
+
+Gypsy folk-tales
+by Groome, Francis Hindes, 1851-1902
+
+Publication date 1899
+
+pp133-138
+
+No. 38. — The Three Golden Hairs of the Sun-King
+
+A rich, mighty king once went hunting, and wandered himself in a great forest. Towards evening he came to a hut, in which lived a poor charcoal-burner. The king asked the poor man his way to the city.
+
+The charcoal-burner answered, 'Sir, the way to the city you could not find by yourself, and to-day I cannot go with you for my wife lies sick, and this very night will bring a child into the world. Lie down here then in the side room, and to-morrow I will guide you to the city.'
+
+The king took the offer, and lay down in the side room ; but he could not close an eye for the moaning of the char- coal-burner's wife. Towards midnight she bore a beautiful boy, and now it was quiet in the hut Yet still the king could not sleep. He got up from his couch, drew near the door, and looked through a chink into the room where the sick woman lay. He could see her sleeping in her bed ; her man, fast asleep too, lay behind the stove ; and in its cradle was the new-born child, with three ladies in white standing round it.
+
+The king heard one say, ' I wish this boy a misfortune.'
+
+The second said, ' And I grant him a means to turn this misfortune to good.'
+
+The third said, ' I will bring to pass his marriage with the daughter of the king who is now in the next room. At this very moment his wife is bringing into the world a girl of marvellous beauty.'
+
+Thereupon the three ladies departed ; and the king thought and thought how to destroy this boy. Early next morning the charcoal-burner came into the side room and said, weeping, to the king, ' My poor wife is dead. What can I do with the little child ? '
+
+The king answered, quite rejoiced, ' I am the king, and will care for the child. Only show me the way to the city, and I will send one of my servants to fetch the child.'
+
+And so it was. The charcoal-burner guided his king to the city and was richly rewarded ; and the king sent a servant back with secret instructions to fling the boy into the river and let him drown. When now the servant was returning from the forest with the child, he flung it, basket and all, into the river, and told the king, *Most gracious king, I have done as thou hast commanded me.' The king rewarded him, and went now to his wife, who the night before had borne a girl of marvellous beauty.
+
+The basket with the boy went floating about a long time on the water, and at last was seen by a fisherman who drew it out, and took the child home to his wife. They both rejoiced greatly at the sight of this pretty boy ; and as they had no children they kept him and brought him up.
+
+Twenty years went by ; and the boy, whom his parents called Nameless, grew up a wonderfully pretty lad. Once the king passed the fisherman's hut, and saw the fair youngster. He entered the hut and asked the fisherman, ' Is this pretty youngster your son ? '
+
+* No,' said the fisherman, ' twenty years ago I fished him out of the water.'
+
+Then the king was exceeding terrified, and said presently, ' I will write a letter to the queen, and this lad shall take it to her.'
+
+So he wrote this letter : ' Dear wife, have this lad put forthwith to death, else he will undo us all.'
+
+Nameless set out with the letter for the queen, but on his way to the city lost himself in a forest, and there met a lady in white who said to him, ' You have lost yourself. Come to my hut, and rest a bit ; then I '11 soon bring you to the queen.'
+
+She led Nameless to her hut, and there he fell fast asleep. The old lady took the letter from his pocket, burnt it, and put another in its stead. When the lad awoke, to his great amazement he found himself in front of the king's house. So he went in to the queen and gave her the letter, in which stood written : ' Dear wife, at once call the pope, and let him plight this lad to our daughter. I wish him to marry her, else a great ill will befall us.'
+
+The queen did as her husband, the king, desired. She bade call the pope, and Nameless and the king's fair daughter became man and wife. When the king came home and learnt of this wedding, he had the letter brought, and saw it was his own handwriting. Then he asked his son-in-law where he had been and whom he had spoken with; and when Nameless told him about the lady in white, the king knew that the fairy^ had aided him. Nameless was not at all the son-in-law he wanted, and he sought to make away with him, so said, 'Go into the world and fetch me three golden hairs from the head of the Sun-King, then shall you be king along with me.'
+
+Sorrowfully Nameless set out, for he loved his young wife, and she too loved him dearly. As he wandered on he came to a great black lake, and saw a white boat floating on the water. He cried to the old man in it, *Boat ahoy! come and ferry me over.'
+
+The old man answered, ' I will take you across if you '11 promise to bring me word how to escape out of this boat, for only then can I die.'
+
+Nameless promised, and the old man ferried him over the black water. Soon after Nameless came to a great city, where an old man asked him, ' Whither away ? '
+
+' To the Sun-King,' said Nameless.
+
+' Couldn't be better. Come, I '11 bring you to our king, who '11 have something to say to you.'
+
+The king, when Nameless stood before him, said, ' Twenty years ago there was in our city a spring whose water made every one that drank of it grow young. The spring has vanished, and only the Sun-King knows where it is gone to. You are journeying to him, so ask him where it is gone to, and bring us word.'
+
+Nameless promised him to bring word on his return, and departed. Some days after he came to another city, and there another old man met him and asked, ' Whither away ?'
+
+' To the Sun- King,' said Nameless.
+
+'That 's capital. Come, I '11 bring you to our king, who '11 have something to say to you.'
+
+When they came to the king, the king said, ' Twenty years ago a tree in this city bore golden apples ; whoso ate of those apples grew strong and healthy, and died not. But now for twenty years this tree has put forth no more fruit, and only the Sun-King knows the reason why. So when you come to him, ask him about it, and bring us word.'
+
+Nameless promised him to bring word on his return, and departed. Some days after he reached a great mountain, and there saw an old lady in white sitting in front of a beautiful house. She asked him, ' Whither away ? '
+
+' I seek the Sun-King', said Nameless.
+
+' Come in then,' said the old lady. ' I am the mother of the Sun-King, who daily flies out of this house as a little child, at mid-day becomes a man, and returns of an evening a greybeard.'
+
+She brought Nameless into the house, and made him tell her his story. He told her of the man on the black lake, of the spring, and of the tree that used to bear golden apples.
+
+Then said the old lady, ' I will ask my son all about that But come, let me hide you ; for if my son finds you here he '11 burn you up.'
+
+She hid Nameless in a great vessel of water, and bade him keep quiet. At evening the Sun-King came home, a feeble old man with golden head, and got victuals and drink from his mother. When he had eaten and drunk, he laid his golden head in his mother's lap and fell fast asleep. Then the old lady twitched out a golden hair, and he cried,"
+
+' Mother, why won't you let me sleep ? '
+
+The old lady .answered, ' I saw in a dream a city with a tree which used to bear golden apples, and whoso ate of them grew well and healthy, and died not. For twenty years now the tree has put forth no more fruit,_ and the people know not what they ought to do.'
+
+The Sun-King said, *They should kill the serpent that gnaws at the root of the tree.'
+
+Again he slept, and after a while his mother twitched out a second hair. Then cried the Sun-King, ' Mother, what 's the meaning of this ? why can't you let me sleep ? '
+
+The old lady answered, ' My dear son, I dreamed of a city with a spring, and whoso drank of it grew young again. Twenty years has this spring ceased to flow, and the people know not what they should do.'
+
+The Sun-King said, ' A great toad is blocking the source of the spring. They should kill the toad, then the spring will flow as before.'
+
+Again he slept, and after a while the old lady in white twitched out a third hair. Then cried the Sun-King,
+
+' Mother, do let me sleep.'
+
+The old lady answered, ' I saw in a dream a great black lake with an old man rowing about it in a boat, and he doesn't know how to escape from the boat, for only then can he die.'
+
+The Sun-King said, ' Next time he takes any one over, let him hand him the oars and jump ashore himself ; then the other must stop in the boat, and the old man can die.'
+
+Again he slept.
+
+Early next morning the Sun-King arose as a lovely child, and flew out of the window. The old lady gave Nameless the three hairs and said, ' Now go to your wife, and give the king the three hairs. I have done for you all that at your birth I promised my sisters. And now farewell.'
+
+She kissed Nameless, and led him outside, and he started off homewards. When he came to the city where the spring had ceased to flow, he told the people to kill the great toad that blocked up the source. They looked, found the toad, and killed it ; then the spring flowed again, and the king rewarded him richly. When Nameless came to the city where for twenty years the tree had ceased to bear golden apples, he told the people to kill the serpdnt that was gnawing the roots of the tree. The people dug down, found the serpent, and killed it. Then the tree again bore golden fruit, and the king rewarded him richly. When Nameless reached the black lake, the old man would not take him across. But Nameless said if he would he would tell him the secret then, so the old man took him across the black water. When he was out of the boat he told the old man to hand his oars to the next passenger and then jump ashore himself; so he would be free and at last could die, but the other would have to go rowing about on the lake.
+
+Nameless soon got back home, and gave the king the three golden hairs ; his wife rejoiced greatly, but her father was beside himself for rage. But when Nameless told of the spring and the golden apples, the king cried quite delighted, ' I too must drink of this spring ; I too must eat of these golden apples.' He set out instantly, but when he reached the black lake, the old man handed him the oars and jumped ashore. And the king could not leave the boat, and had to stop there on the water. As he never came home, Nameless became king of the country, and lived henceforth with his beautiful bride in peace and prosperity.
+
+Identical with Wratislaw's Bohemian story of ' The Three Golden Hairs of Grandfather Allknow ' (Sixty Slavonic Folk-tales, pp. 16-25), and with Grimm's No. 29, ' The Devil with the Three Golden Hairs ' (i. 1 19-125, 377-378), only the German tale opens defectively. Wlislocki's opening, however, meets us again in Bernhard Schmidt's ' Der Spruch der Moeren* {Griechische Mdrchen, No. 2, p. 67), where, as elsewhere, the part of the fairies is taken by the three Moirai or fates. The whole question of fairy mythology requires to be carefully re-studied in the light of our copious stock of Greek and Indian folk-tales, of which Leyden and Grimm could know nothing. In his Deutsche Mythologie (i. 382) Grimm expresses himself as in doubt whether y^/a came to mean ' fairies' owing to Celtic or to Teutonic influences; probably was a conscious translation of the Greek moirai^ and is an indication that the fairy mythology of Western Europe was largely, if not wholly, derived from Greek-speaking Levantine sources^ 
+
+```
+
+----
+
+Wikipedia - https://en.wikipedia.org/wiki/The_Fish_and_the_Ring  
+> An Irish variation is found in Tain Bo Fraich, in which Ailill gives his daughter Findabair a ring, which she then gives to her lover Fraech, who is hated by Ailill. Ailill discovers the ring among Fraech's things, and throws it into the river, where it is swallowed by a salmon. Fraech sees this, commands a servant to catch the salmon and cook it. When Ailill demands the ring, Findabair sends a servant to deliver the fish with the ring on top. Ailill demands that Fraech tell where the ring came from, and Fraech lies, saying he found it in the salmon and not before. Despite the lie, Fraech and Findabair are able to depart for their own lands.
 
 https://celt.ucc.ie/published/G301006.html
 
@@ -143,7 +522,7 @@ TAIN BO FRAICH
 
 The following text is taken from MS. XL, Advocates Library, Edinburgh, pp. 37-45.
 
-A collateral version from the Book of Leinster was published by O'Beirne Crowe (in the Proe. R. Ir. Acad., Ir. MS. Ser., 1870); but tins book is not now to be had.
+A collateral version from the Book of Leinster was published by O'Beirne Crowe (in the Proc. R. Ir. Acad., Ir. MS. Ser., 1870); but this book is not now to be had.
 
 Prof. Kuno Meyer has published the Egerton MS. version of this tale (Zeitschr. f. Celt. Phil. IV i. 1902^.32-47); and has at the same time given copious notes collating the different versions.
 
@@ -161,11 +540,11 @@ He is the hero that was most beauteous of the men of Erin and Albin, but he was 
 
 Finnabair, daughter of Oilill and Meadb, loved him, from the great reports about him. This was told to him at his house. Erin and Albin were full of his fame and of tales about him. After that he cast `[Going to a dialogue with the daughter fell upon him. Crowe.]` upon himself to go to speak with the maiden. He discussed this matter with his people. " Do thou send then " (said they), " to thy mother's sister, and let somewhat be given thee by her of wondrous clothing and of gifts of the Side ". Thereupon he went to (his mother's) sister, to Boinn, and came into Mag-Breg. And he took fifty blue mantles: and each was like unto a beetle's lustre `[Was like to the *findruine* of a work of art. Cr.]` ; and four dark-grey ears were upon each mantle : and with each mantle a brooch of ruddy gold. And fifty pure-white shirts, with clasps of gold and of silver upon them. And fifty shields of silver, with rims. And in the hand of each man a royal-palace candle `[i. e. a spear.]`, with fifty rivets of white bronze in each. Fifty rings of refined gold on each one. Butt-blades `[Pins of carbuncle under them (i. e. the shields) from beneath. Cr.]` of carbuncle on their lower ends, and of precious stones their heads. They blazed in the night as though they were rays of the sun. And fifty gold-hilted swords they took ; and for each man to sit upon, a soft grey horse, with a bit of gold. A band of silver with little bells of gold under the neck of each horse. Fifty purple caparisons, with silver fringes ont of them, with buckles of gold and of silver, and with head clasps `[With drops of gold and of silver, and with head-animals. Cr.]`. Fifty whips of white bronze with crooks of gold on the end of each one. And seven hounds in chains of silver, and an apple of gold between each of them. Shoes of bronze upon them. There was no colour that was not upon them. Seven horn-blowers with them, with horns of gold and of silver ; with robes of many colours, with golden locks, long and yellow, with shining cloaks. Three druids `[Jesters. Cr.]` were before them, with diadems of silver overlaid with gold. Shields with embossed emblems `[With a cover of embroidery. Cr.]` had each one, with dark crooks, with bars of bronze `[With black staffs with filigrees of bronze. Cr.]` along their sides. Three harpers, each with a kingly countenance.
 
-They set ont thereupon after this fashion tor Cruachan. The watchman sees them from the castle when they have come to the plain of Cruachan. " I see a numerous company approaching the castle : since Oilill and Meadb took sovereignty, there came not ever, and there will not come, a finer or more brilliant company. I deem it the same as though in a vat of wine my head should be, with the (fragrant) breeze that goes over me. The feats and the practice `[The activity and the play. Cr.]` that the young man who is in it makes, I never saw their equal. He flings his javelin the length of a spear's cast from him; before it reaches the ground, the seven hounds in their seven chains of silver catch it. "
+They set out thereupon after this fashion for Cruachan. The watchman sees them from the castle when they have come to the plain of Cruachan. " I see a numerous company approaching the castle : since Oilill and Meadb took sovereignty, there came not ever, and there will not come, a finer or more brilliant company. I deem it the same as though in a vat of wine my head should be, with the (fragrant) breeze that goes over me. The feats and the practice `[The activity and the play. Cr.]` that the young man who is in it makes, I never saw their equal. He flings his javelin the length of a spear's cast from him; before it reaches the ground, the seven hounds in their seven chains of silver catch it. "
 
 Upon that the hosts in the castle of Cruachan come forth to behold them : the folk crush one another in the castle; so that sixteen men died at seeing them.
 
-They dismount in thc door of thc castle. They unbridle their horses and let loose their dogs. They hunt seven deer to thc fort of Cruachan, and seven foxes, and seven beasts of the plain, and seven wild boars; and thc youths killed them in the forecourt of the castle. After that the hounds leap into Brei. They seize seven otters. They carried them up into the door of the main-rampart.
+They dismount in the door of the castle. They unbridle their horses and let loose their dogs. They hunt seven deer to the fort of Cruachan, and seven foxes, and seven beasts of the plain, and seven wild boars; and the youths killed them in the forecourt of the castle. After that the hounds leap into Brei. They seize seven otters. They carried them up into the door of the main-rampart.
 
 There they sat down. Men come from the king to speak with them. It is asked of them whence they have come. Thereupon they name themselves after their true lineages. " Fraech son of Idach is here ", say they. The steward tells it to the king and queen. " Welcome to them ", say Oilill and Meadb. " He is a noble youth ", says Oilill; " let him come within the stronghold ". A quarter of the house is granted to them.
 
@@ -193,7 +572,7 @@ Thereupon she played chess with Fraech. His folk meanwhile were cooking the anim
 
 " Let them play indeed ", says Fraech.
 
-A harp-bag of otterskins round the harps, with their bordering ot scarlet leather > under their adornment of ^old and of si ver. The skin of a roe about them in the middle : it was as white as snow ; dark grey spots in its centre. Linen cloths white as the swan's raiment about the strings. (The harps of gold and silver and white bronze, with figures of serpents and birds and dogs in gold and silver. Whenever those strings were touched), these figures thereupon ran about the men ail round.
+A harp-bag of otterskins round the harps, with their bordering ot scarlet leather > under their adornment of gold and of silver. The skin of a roe about them in the middle : it was as white as snow ; dark grey spots in its centre. Linen cloths white as the swan's raiment about the strings. (The harps of gold and silver and white bronze, with figures of serpents and birds and dogs in gold and silver. Whenever those strings were touched), these figures thereupon ran about the men ail round.
 
 Then they played to them ; so that twelve men of their household died of weeping and sadness.
 
@@ -314,7 +693,7 @@ Afterwards they ail go out to the river to bathe. " It is told to me ", says Oil
 
 " We know no danger in it ", says Oilill. " Bathing in it is frequent. " Thereupon Fraech puts his clothing off him and goes into the pool, and Laves its belt above. Then Oilill opens Fraech's purse behind him, and the ring was in it. Oilill recognises it. " Corne O Meadb ! " says Oilill. Then Meadb comes. " Knowest thou that?" says Oilill. " I do ", she says. Oilill casts it down into the river.
 
-Fraech noticed that thing; and saw this, that the salmon leapt to meet it and caught it in its mouth. [Je springs towards it and seizes its gill. He goes to the land, and brings it to a hidden place in the bank of the river. Then he proceeds to come out of the water.
+Fraech noticed that thing; and saw this, that the salmon leapt to meet it and caught it in its mouth. He springs towards it and seizes its gill. He goes to the land, and brings it to a hidden place in the bank of the river. Then he proceeds to come out of the water.
 
 " Come not ", says Oilill, " till thou bring me a branch from the rowan-tree yonder, on the bank of the river. Beautiful to my thinking are its berries. "
 
@@ -551,7 +930,7 @@ The Tain bo Fraich, the Driving of the Cattle of Fraech, has apparently only one
 
 Practically the tale consists of two quite separate parts. The first, the longer portion, gives the adventures of Fraech at the court of Ailill and Maev of Connaught, his courtship of their daughter, Finnabar, and closes with a promised betrothal. The second part is an account of an expedition undertaken by Fraech to the Alps " in the north of the land of the Long-Beards," to recover stolen cattle, as well as "his wife," who is stated by O'Beirne Crowe, on the authority of the " Courtship of Trehla'ad " in the Book of Fermoy, to have been Trebland, a semi-deity, like Fraech himself. Except that Fraech is the chief actor in both parts, and that there is one short reference at the end of the second part to the fact that Fraech did, as he had promised in the first part, join Ailill and Maev upon the War of Cualnge, there is no connection between the two stories. But the difference between the two parts is not only in the subject-matter; the difference in the style is even yet more apparent. The first part has, I think, the most complicated plot of any Irish romance, it abounds in brilliant descriptions, and, although the original is in prose, it is, in feeling, highly poetic. The second part resembles in its simplicity and rapid action the other " fore-tales " or preludes to the War of Cualnge contained in this volume, and is of a style represented in English by the narrative ballad.
 
-In spite of the various characters of the two parts, the story seems to have been regarded as one in all the manuscripts which contain it ; and the question how these two romances came to be regarded as one story becomes interesting. The natural hypothesis would be that the last part was the original version, which was in its earlier part re-written by a man of genius, possibly drawing his plot from some brief statement that Finnabar was promised to Fraech in return for the help that he and his recovered cattle could give in the Great War; but a difficulty, which prevents us from regarding the second part as an original legend, at once comes in. The second part of the story happens to contain so many references to nations outside Ireland that its date can be pretty well fixed. Fraech and his companions go over the sea from Ulster, i.e. to Scotland; then through " north Saxon-land " to the sea of Icht (i.e. the sea of Wight or the English Channel) ; then to the Alps in the north of the land of the Long-Beards, or Lombards. The Long -Beards do not appear in Italy until the end of the sixth century ; the suggestion of North Saxon-Land reaching down to the sea of Wight suggests that there was then a South Saxon-Land, familiar to an Irish writer, dating this part of the story as before the end of the eighth century, when both Saxons and Long-Beards were overcome by Charlemagne. The second part of the story is, then, no original legend, but belongs to the seventh or eighth century, or the classical period; and it looks as if there were two writers, one of whom, like the author of the Egerton version of Etain, embellished the love-story part of the original legend, leaving the end alone, while another author wrote an account of the legendary journey of the demi-god Fraech in search for his stolen cattle, adding the geographical and historical knowledge of his time. The whole was then put together, like the two parts of the Etain story; the difference between the two stories in the matter of the wife does not seem to have troubled the compilers.
+In spite of the various characters of the two parts, the story seems to have been regarded as one in all the manuscripts which contain it ; and the question how these two romances came to be regarded as one story becomes interesting. The natural hypothesis would be that the last part was the original version, which was in its earlier part re-written by a man of genius, possibly drawing his plot from some brief statement that Finnabar was promised to Fraech in return for the help that he and his recovered cattle could give in the Great War; but a difficulty, which prevents us from regarding the second part as an original legend, at once comes in. The second part of the story happens to contain so many references to nations outside Ireland that its date can be pretty well fixed. Fraech and his companions go over the sea from Ulster, i.e. to Scotland; then through " north Saxon-land " to the sea of Icht (i.e. the sea of Wight or the English Channel) ; then to the Alps in the north of the land of the Long-Beards, or Lombards. The Long-Beards do not appear in Italy until the end of the sixth century ; the suggestion of North Saxon-Land reaching down to the sea of Wight suggests that there was then a South Saxon-Land, familiar to an Irish writer, dating this part of the story as before the end of the eighth century, when both Saxons and Long-Beards were overcome by Charlemagne. The second part of the story is, then, no original legend, but belongs to the seventh or eighth century, or the classical period; and it looks as if there were two writers, one of whom, like the author of the Egerton version of Etain, embellished the love-story part of the original legend, leaving the end alone, while another author wrote an account of the legendary journey of the demi-god Fraech in search for his stolen cattle, adding the geographical and historical knowledge of his time. The whole was then put together, like the two parts of the Etain story; the difference between the two stories in the matter of the wife does not seem to have troubled the compilers.
 
 The oldest manuscript authority for the Tain bo Fraich is the Book of Leinster, written before 1150. There are at least two other manuscript authorities, one in Egerton, 1782 (published by Professor Kuno Meyer in the Zeitschrift fur Celt Philologie, 1902); the other is in MS. XL., Advocates' Library, Edinburgh (published in the Revue Celtique, Vol. XXIV.). Professor Meyer has kindly allowed me to copy his comparison of these manuscripts and his revision of O'Beirne Crowe's translation of the Book of Leinster text. The text of the literal translation given here follows, however, in the main O'Beirne Crowe's translation, which is in the Proceedings of the Royal Irish Academy for 1870; a few insertions are made from the other MSS.; when so made the insertion is indicated by a note.
 
