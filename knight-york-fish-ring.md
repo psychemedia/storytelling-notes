@@ -33,20 +33,19 @@ One day it happened that the Baron went out hunting with some companions along t
 
 Then the Baron knew who she was, and when they went away he rode back and said to the girl : " Hark ye, girl, I will make your fortune. Take this letter to my brother in Scarborough, and you will be settled for life." And the girl took the letter and said she would go. Now this was what he had written in the letter :
 
-" Dear Brother : Take the bearer and put her to death immediately.
-" Yours affectionately,
+" Dear Brother : Take the bearer and put her to death immediately.  
+" Yours affectionately,  
 " Humphrey."
 
 So soon after the girl set out for Scarborough and slept for the night at a little inn. Now that very night a band of robbers broke into the inn, and searched the girl, who had no money, and only the letter. So they opened this and read it, and thought it a shame. The captain of the robbers took a pen and paper and wrote this letter :
 
-" Dear Brother : Take the bearer and marry her to my son immediately.
-" Yours affectionately,
+" Dear Brother : Take the bearer and marry her to my son immediately.  
+" Yours affectionately,  
 " Humphrey."
 
 And then he gave it to the girl, bidding her begone. So she went on to the Baron's brother at Scarborough, a noble knight, with whom the Baron's son was staying. When she gave the letter to his brother he gave orders for the wedding to be prepared at once, and they were married that very day.
 
-Soon after the Baron himself came to his brother's castle, and what was his surprise to find that the very thing he had plotted against had come to pass. But he was not to be put off that way ; and he took out the girl for a walk, as he said, along the cliffs. And when he got her all alone he took her by the arms, and was going to throw her over. But she begged hard for her life. " I have not done anything," she said, "if you will only spare me I will do whatever you wish. I will never see you or
-your son again till you desire it." Then the Baron took off his gold ring and threw it into the soa, saying : " Never let me see your face till you can show me that ring ;" and he let her go.
+Soon after the Baron himself came to his brother's castle, and what was his surprise to find that the very thing he had plotted against had come to pass. But he was not to be put off that way ; and he took out the girl for a walk, as he said, along the cliffs. And when he got her all alone he took her by the arms, and was going to throw her over. But she begged hard for her life. " I have not done anything," she said, "if you will only spare me I will do whatever you wish. I will never see you or your son again till you desire it." Then the Baron took off his gold ring and threw it into the soa, saying : " Never let me see your face till you can show me that ring ;" and he let her go.
 
 The poor girl wandered on and on, till at last she came to a great noble's castle, and she asked to have some work given to her ; and they made her the scullion girl of the castle, for she had been used to such work in the fisherman's hut.
 
@@ -59,7 +58,6 @@ and told the girl she was wanted in the hall. Then she made herself ready and pu
 When the banqueters saw such a young and beautiful cook they were surprised. But the Baron was in a tower of a temper, and started up as if he would do her some violence. So the girl went up to him with her hand before her with the ring on it ; and she put it down before him on the table. Then at last the Baron saw that no one could fight against Fate, and he handed her to a seat and announced to all the company that this was his son's true wife ; and he took her and his son home to his castle ; and they all lived as happy as could be ever afterward.
 
 ```
-
 
 ## Earlier Versions of *The Fish and the Ring*
 
@@ -150,6 +148,7 @@ Duncan Williamson - Giant Three Golden Hairs (a Grimm tale too; lost child is fi
 
 https://www.tobarandualchais.co.uk/track/29904?l=en "A POOR MAN PREDESTINED TO MARRY A PRINCESS DOES SO AFTER MAN..."
 
+Grimm version "devil with the three golden hairs" but recast as the giant with three golden hairs in early English translation.
 
 ```{admonition} The Giant with the Three Golden Hairs, in "German popular tales and household stories", Grimm, 1853
 :class: dropdown
@@ -344,7 +343,7 @@ The king, when Nameless stood before him, said, ' Twenty years ago there was in 
 
 Nameless promised him to bring word on his return, and departed. Some days after he came to another city, and there another old man met him and asked, ' Whither away ?'
 
-' To the Sun- King,' said Nameless.
+' To the Sun-King,' said Nameless.
 
 'That 's capital. Come, I '11 bring you to our king, who '11 have something to say to you.'
 
@@ -358,7 +357,7 @@ Nameless promised him to bring word on his return, and departed. Some days after
 
 She brought Nameless into the house, and made him tell her his story. He told her of the man on the black lake, of the spring, and of the tree that used to bear golden apples.
 
-Then said the old lady, ' I will ask my son all about that But come, let me hide you ; for if my son finds you here he '11 burn you up.'
+Then said the old lady, ' I will ask my son all about that But come, let me hide you ; for if my son finds you here he 'll burn you up.'
 
 She hid Nameless in a great vessel of water, and bade him keep quiet. At evening the Sun-King came home, a feeble old man with golden head, and got victuals and drink from his mother. When he had eaten and drunk, he laid his golden head in his mother's lap and fell fast asleep. Then the old lady twitched out a golden hair, and he cried,"
 
@@ -366,7 +365,7 @@ She hid Nameless in a great vessel of water, and bade him keep quiet. At evening
 
 The old lady .answered, ' I saw in a dream a city with a tree which used to bear golden apples, and whoso ate of them grew well and healthy, and died not. For twenty years now the tree has put forth no more fruit,_ and the people know not what they ought to do.'
 
-The Sun-King said, *They should kill the serpent that gnaws at the root of the tree.'
+The Sun-King said, 'They should kill the serpent that gnaws at the root of the tree.'
 
 Again he slept, and after a while his mother twitched out a second hair. Then cried the Sun-King, ' Mother, what 's the meaning of this ? why can't you let me sleep ? '
 
