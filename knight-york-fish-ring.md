@@ -1,12 +1,12 @@
 # The Fish and the Ring
 
-The English folk tale "The Fish and the Ring" is a classic fairy tale in which someone of low-birth is prophesied to marry someone of much greater social standing, and although obstacles are put in place to prevent the marriage, a happy ending ensues. Although this story felt familiar to me when I came across it in a modern collection, *English Fairy Tales and Legends*, by Rosalind Kerven (2008/2019), under the title "The Knight of York (Yorkshire)", I don't recall any particular occasion, if any, on which I have heard it told.
+The English folk tale "The Fish and the Ring" is a classic fairy tale in which someone of low-birth is prophesied to marry someone of much greater social standing. Although obstacles are put in place to prevent the marriage, a happy ending ensues. Although this story felt familiar to me when I came across it in a modern collection, *English Fairy Tales and Legends*, by Rosalind Kerven (2008/2019), under the title "The Knight of York (Yorkshire)", I don't recall any particular occasion, if any, on which I have heard it told.
 
-It seems that the English tale of *The Fish and the Ring* was first published in a popular form in Joseph Jacobs *English Fairy Tales*, 1890. The gist of the tale is as follows:
+A popular variant of the English version of the tale of *The Fish and the Ring* was first published in a popular form in Joseph Jacobs *English Fairy Tales*, 1890. The gist of that version is as follows:
 
 > A shopkeeper in York has a large family that just got larger. A nobleman calls, sees their distress at another mouth to feed, and offers to read the child's fortune: he is shocked to learn she will marry his son, so he offers to adopt her and takes her away, at which point he throws her in the River Ouse. A farmer finds her and brings her up. Years later, the nobleman comes across her again, is persuaded to read her fortune, and realises who she is. He writes a letter to his brother saying the girl will bring shame and misfortune on the family, and she should be killed at once. He asks the girl to deliver the letter in Scarborough. Along the way, she stops at an inn, a thief sees the letter and swaps it for another ("marry the girl to my son as quickly as possible — she will bring great honour and fortune"). The girl delivers the changed letter, and is married to the nobleman's son. The nobleman arrives, furious, takes the girl outside, throws a ring into the sea saying she can only return if she has the ring. She finds work in a kitchen; there is a feast, and the nobleman and his son (her husband) will be there. She finds the ring in a fish; the fish is served to the nobleman and the girl is revealed. The son chastises the father and they all live happily ever after.
 
-In the telling, the tricky bits are getting the fortune telling to work, handling the exile by means of the ring, as well as a natural reveal of the girl, and gracefully providing a denouement. There is a natural opportunity to break the story with a cliff hanger at the point at which the nobleman's brother reads the letter. In the original telling, what the thief replaced the original letter with is described at the time of its substitution, but we can hide that until the letter is opened and read. Or perhaps describe preparations for a great event that is revealed as a wedding, not an execution, and then explain the actual contents of the letter. There is also an opportunity to include the use of a hand of glory when the thief enters the inn. Indeed, in the resource that Jacobs got the story from, Baring Gould's appendix to Henderson's *Notes on the Folklore of the Northern Counties of England and the Borders*, 1866, the (Yorkshire) tale of the *Hand of Glory* is described, as well as the (Yorkshire) tale of the *Fish and the Ring*.
+In the telling, I've found there are several tricky bits: getting the fortune telling to work in a coherent way, handling the girl's exile as triggered by the loss of the ring, and disguising the girl in the run up to the denouement. There is a natural opportunity to break the story with a cliff hanger when the letter is switched in the inn, or at the point at which the nobleman's brother reads the letter. In the original telling, what the thief replaced the original letter with is described at the time of its substitution, but we can hide that until the letter is opened and read. Or perhaps describe preparations for a great event that is revealed as a wedding, not an execution, and then explain the actual contents of the letter. There is also an opportunity to include the use of a hand of glory when the thief enters the inn. Indeed, in the resource that Jacobs got the story from, Baring Gould's appendix to Henderson's *Notes on the Folklore of the Northern Counties of England and the Borders*, 1866, the (Yorkshire) tale of the *Hand of Glory* is described, as well as the (Yorkshire) tale of the *Fish and the Ring*.
 
 So let's see how Jacobs (re)told the tale:
 
@@ -60,7 +60,10 @@ When the banqueters saw such a young and beautiful cook they were surprised. But
 
 ```
 
-Jacobs also provides the following note on the tale:
+
+## Earlier Versions of *The Fish and the Ring*
+
+Jacobs provides the following note on the tale:
 
 > XXXV. THE FISH AND THE RING.
 > 
@@ -140,123 +143,8 @@ The Golden Ball, as collected by Groome, is also in the same book (p333) and inv
 
 ```
 
-```{admonition} The Golden Ball, Grrome, in Henderson, 1866, p333-336
-:class: seealso dropdown
 
-10. THE GOLDEN BALL. ( Yorkshire.)
-
-There were two lasses, daughters of one mother, and as they came home from ť fair, they saw a right bonny young man stand it house- door before them . They niver seed such a bonny man afore. He had gold on t' cap, gold on t' finger, gold on neck, a red gold watch - chain - eh ! but he had brass . He had a golden ball in each hand. He gave a ball to each lass, and she was to keep it, and if she lost it, she was to be hanged.
-
-One o'the lasses, ' t was t' youngest, lost her ball. [I'll tell thee how . She was by a park - paling, and she was tossing her ball, and it went up, and up ,and up, till it went fair over t' paling ; and when she climbed up to look, tball ran along green grass, and it went raite forward to t door of thouse, and ť ball went in and she saw ' t no more.]
-
-So she was taken away to be hanged by t' neck till she were dead , a cause she'd lost her ball.
-
-[But she had a sweetheart, and he said he would get ball.
-
-So he went tu't park- gate, but ’ t was shut ; so he climbed hedge, and when he got tut top of hedge, an old woman rose up out of ť dyke afore him, and said, if he would get ball, he must sleep three nights in thouse. He said he would.
-
-Then he went into ť house, and looked for ball, but could na find it. Night came on and he heard spirits move it courtyard ;
-so he looked out o' t' window, and t’ yard was full of them , like maggots in rotten meat.
-
-Presently he heard steps coming upstairs. He hid behind door, and was as still as a mouse. Then in came a big giant five times as tall as he were, and giant looked round but did not see t'lad, so he went tut window and bowed to look out ; and as he bowed on his elbows to see spirits it yard , tlad stepped behind him, and wi’ one blow of his sword he cut him in twain, so that the top part of him fell in the yard, and t bottom part stood looking out of t'window .
-
-There was a great cry from ť spirits when they saw half the giant come tumbling down to them, and they called out, " There comes half our master, give us t other half.'
-
-So the lad said , ' It's no use of thee, thou pair of legs , standing aloan at window , as thou hast no een to see with, so go join thy brother ; ' and he cast the bottom part of t giant after top part.
-
-Now when the spirrits had gotten all t' giant they were quiet .
-
-Next night t' lad was at the house again, and now a second giant came in at door, and as he came in tlad cut him in twain, but the legs walked on tut chimney and went up them .
-
-' Go, get thee after thy legs, ' said t'lad tut head, and he cast ť head up chimney too.
-
-The third night't'lad got into bed , and he heard spirits striving under the bed , and they had t ball there, and they was casting it to and fro.
-
-Now one of them has his leg thrussen out from under bed, so t’ lad brings his sword down and cuts it off. Then another thrusts his arm out at other side of the bed, and t lad cuts that off. So at last he had maimed them all , and they all went crying and wailing off, and forgot t' ball, but he took it from under ť bed, and went to seek his truelove.]
-
-Now t’ lass was taken to York to be hanged ; she was brought out on t scaffold , and thangman said, Now , lass, tha' must hang by t neck till tha be’st dead .' But she cried out:
-
-Stop, stop, I think I see my mother coming !  
-Oh mother, hast brought my golden ball  
-And come to set me free ?
-
-I've neither brought thy golden ball  
-Nor come to set thee free,  
-But I have come to see thee hung  
-Upon this gallows-tree.
-
-Then the hangman said, " Now, lass, say thy prayers, for tha must dee. " But she said :
-
-Stop, stop, I think I see my father coming !  
-O father, hast brought my golden ball  
-And come to set me free ?
-
-I've neither brought thy golden ball  
-Nor come to set thee free,  
-But I have come to see thee hung  
-Upon this gallows -tree.
-
-Then the hangman said, ' Hast thee done thy prayers ? Now ,lass, putthy head intut noo-is. '
-
-But she answered, " Stop, stop, I think I see my brother coming ! &c. After which, she excused herself becauseshe thought she saw her sister coming, then her uncle, then her aunt, then her cousin, each of which was related in full; after which the hangman said, ' I wee-nt stop no longer, tha's making gam of me. Tha must be hung at once.'
-
-But now she saw her sweetheart coming through the crowd, and he had over head iť air her own golden ball; so she said :
-
-Stop, stop, I see my sweetheart coming !
-Sweetheart, hast brought my golden ball  
-And come to set me free ?
-
-Aye, I have brought thy golden ball  
-And come to set thee free ;  
-I have not come to see thee hung  
-Upon this gallows-tree .
-
-The portions of this curious tale which are enclosed within brackets were obtained from a different informant. It seems
-to be a Yorkshire version of Grimm's ' Fearless John '
-
-( Kinder -Mährchen , 4) . In both these is the giant cut in half, and the incident of the chimney, and also the wonderful bed.
-
-In one of Grimm's versions of the tale, the lad is able to overcome the spirits by means of a stick which he obtained
-from a dead man on the gallows, the man having been hung for a theft which he had not committed. The boy brings
-him to Christian burial, and in reward obtains the stick.
-
-In the Yorkshire story, the lad saves a girl from the gallows by means of a golden ball he had recovered from
-the spirits. There is a family likeness in the tales .
-
-The other portion of the story resembles the popular Essex game of ' Mary Brown,' which is thus played :
-
-The children form a ring, one girl kneeling in the centre; those in the ring sing out :
-
-Here we all stand round the ring,  
-And now we shut poor Maryin .  
-Rise up, rise up, poor MaryBrown  
-And see your poor mother go through the town.
-
-To this she answers :
-
-I will not rise upon my feet  
-To see my poor mother go through the street.
-
-The children bid her rise to see her poor father, then her brother, her sister, the poor beggars go through the street, and lastly, her poor sweetheart, whereupon she rises to her feet.
-
-The Swedish ‘ Fair Gundela ' also resembles it.
-
-Why row ye so ? Why row ye so ?  
-Fair Gundela  
-GUNDELA.  
-Sure I may row, sure I may row ,  
-Whilst the grass groweth  
-All summer through.  
-Now I have heard that your father is dead,  
-Fair Gundela !  
-GUNDELA .  
-What matters my father ?  
-My mother lives still.  
-Thank Heaven for that !
-
-She is then informed that her mother, brother, sister, &c. , are all dead, and she invariably has some consolation to offer to herself; but when she is told that her true love is dead she is inconsolable.
-
-```
+## The Giant With the Three Golden Hairs
 
 Duncan Williamson - Giant Three Golden Hairs (a Grimm tale too; lost child is first part)
 
