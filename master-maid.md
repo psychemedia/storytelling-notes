@@ -1,8 +1,211 @@
 # Master Maid
 
-The *Master Maid* was a story I'd been wanting to work up to telling for some time. So when I recognised elements of it appear in the telling of *Nix, Nought, Nothing" by Nell Phoenix at the first Somewhen Storytelling Festival in June, 2023, a telling which tickled a memory of having heard a tale of a boy called nothing many years ago, I started doing some homework on it.
+The *Master Maid* is a story I'd been meaning to start working on, with a view to telling, for some time. So when I recognised elements of it appear in the telling of *Nix, Nought, Nothing* by Nell Phoenix at the first Somewhen Storytelling Festival in June, 2023, a telling which also tickled a memory of having heard a tale of a boy called nothing many years ago, I started doing some homework on it.
 
 *TH: in the Asbjornsen and Moe telling, there are many similarities to The Leaves that Hung But Never Grew; for example, where the stool, broom and chair provide the diversion to keep the witch in bed; the forgetting of the girl.*
+
+The earlies variant I have found of the tale under the title of *Nix, Nought, Nothing* was collected by Andrew Lang and published in [*Revue Celtique, *vol. 3, pp. 374-6](https://archive.org/details/revueceltiqu03pari/page/374/mode/2up?q=lang) He revisited the tale, wih some commentary, in *Custom and Myth* (1884).
+
+
+```{admonition} "Nicht Nought Nothing" in Lang, *Custom and Myth*, 1884
+:class: dropdown
+
+https://archive.org/details/customandmyth03langgoog/page/n104/mode/2up?q=lacuna
+Custom and Myth
+by Andrew Lang
+
+Publication date 1884
+
+p89-92
+
+Nicht Nought Nothing.
+
+There once lived a king and a queen. They were long married and had no bairns; but at last the queen had a bairn, when the king was away in far countries. The queen would not christen the bairn till the king came back, and she said, "We will just call him *Nicht Nought Nothing* until his father comes home." But it was long before he came home, and the boy had grown a nice little laddie. At length the king was on his way back ; but he had a big river to cross, and there was a spate, and he could not get over the water. But a giant came up to him, and said, ' If you will give me Nicht Nought Nothing, I will carry you over the water on my back. The king had never heard that his son was called Nicht Nought Nothing, and so he promised him. When the king got home again, he was very happy to see his wife again, and his young son. She told him that she had not given the child any name but Nicht Nought Nothing, until he should come home again himself. The poor king was in a terrible case. He said, ' What have I done ? I promised to give the giant who carried me over the river on his back, Nicht Nought Nothing.' The king and the queen were sad and sorry, but they said, ' When the giant comes we will give him the hen-wife's bairn ; he will never know the difference.' The next day the giant came to claim the king's promise, and he sent for the hen-wife's bairn ; and the giant went away with the bairn on his back. He travelled till he came to a big stone, and there he sat down to rest. He said,
+
+'Hidge, Hodge, on my back, what time of day is it?'
+
+The poor little bairn said, ' It is the time that my mother, the hen-wife, takes up the eggs for the queen's breakfast.'
+
+The giant was very angry, and dashed the bairn on the stone and killed it.
+
+...
+
+The same adventure is repeated with the gardener's son.
+
+...
+
+Then the giant went back to the king's house, and said he would destroy them all if they did not give him Nicht Nought Nothing this time. They had to do it ; and when he came to the big stone, the giant said, ' What time of day is it?' Nicht Nought Nothing said, 'It is the time that my father the king will be sitting down to supper.' The giant said, ' I've got the richt ane noo ; ' and took Nicht Nought Nothing to his own house and brought him up till he was a man.
+
+The giant had a bonny dochter, and she and the lad grew very fond of each other. The giant said one day to Nicht Nought Nothing, 'I've work for you to-morrow. There is a stable seven miles long and seven miles broad, and it has not been cleaned for seven years, and you must clean it to-morrow, or I will have you for my supper.'
+
+The giant's dochter went out next morning with the lad's breakfast, and found him in a terrible state, for aye as he cleaned out a bit, it aye fell in again. The giant's dochter said she would help him, and she cried a' the beasts of the field, and a' the fowls o' the air, and in a minute they a' came, and carried awa' everything that was in the stable and made a' clean before the giant came home. He said, ' Shame for the wit that helped you ; but I have a worse job for you to-morrow.' Then he told Nicht Nought Nothing that there was a loch seven miles long, and seven miles deep, and seven miles broad, and he must drain it the next day, or else he would have him for his supper. Nicht Nought Nothing began early next morning and tried to lave the water with his pail, but the loch was never getting any less, and he did no ken what to do ; but the giant's dochter called on all the fish in the sea to come and drink the water, and very soon they drank it dry. When the giant saw the work done he was in a rage, and said, ' I've a worse job for you to-morrow ; there is a tree seven miles high, and no branch on it, till you get to the top, and there is a nest, and you must bring down the eggs without breaking one, or else I will have you for my supper.' At first the giant's dochter did not know how to help Nicht Nought Nothing ; but she cut off first her fingers and then her toes, and made steps of them, and he clomb the tree, and got all the eggs safe till he came to the bottom, and then one was broken. The giant's dochter advised him to run away, and she would follow him. So he travelled till he came to a king's palace, and the king and queen took him in and were very kind to him. The giant's dochter left her father's house, and he pursued her and was drowned. Then she came to the king's palace where Nicht Nought Nothing was. And she went up into a tree to watch for him. The gardener's dochter, going to draw water in the well, saw the shadow of the lady in the water, and thought it was herself, and said, ' If I'm so bonny, if I'm so brave, do you send me to draw water ? ' The gardener's wife went out, and she said the same thing. Then the gardener went himself, and brought the lady from the tree, and led her in. And he told her that a stranger was to marry the king's dochter, and showed her the man : and it was Nicht Nought Nothing asleep in a chair. And she saw him, and cried to him, ' Waken, waken, and speak to me ! ' But he would not waken, and syne she cried,
+
+' I cleaned the stable, I laved the loch, and I clamb the tree,  
+And all for the love of thee.  
+And thou wilt not waken and speak to me.'
+
+The king and the queen heard this, and came to the bonny young lady, and she said,
+
+' I canna get Nicht Nought Nothing to speak to me for all that I can do.'
+
+Then were they greatly astonished when she spoke of Nicht Nought Nothing, and asked where he was, and she said, 'He that sits there in the chair.' Then they ran to him and kissed him and called him their own dear son, and he wakened, and told them all that the giant's dochter had done for him, and of all her kindness. Then they took her in their arms and kissed her, and said she should now be their dochter, for their son should marry her.
+
+And they lived happy all their days.
+
+```
+
+Some ommentary is then provided (in French) by Reinhold Kœhler.
+
+TO DO 
+https://archive.org/details/revueceltiqu03pari/page/376/mode/2up?q=lang
+
+p376-8
+
+OBSERVATIONS SUR LE CONTE PRÉCÉDENT.
+
+Comparez les contes suivants :
+
+Campbell, Popular Taies of the West Highlands, n° 2 (huit variantes) ;
+
+W. Carleton, Traits and Stories of the Irish Peasantry^ 5*^ éd., t. ï,
+
+23 [The three Tasks] ;
+
+P. Kennedy, The Fireside Stories of Ireland, p. 56 ;
+
+et en outre les contes que j'ai réunis dans Orient und Occident, t. II, p. 103-1 14, et dans mes commentaires sur le n° 14 des Ehstnische Marchen de Kreutzwald, et sur le n'^ 14 des Sicilianische M^rchen de Gonzenbach.
+
+A cette liste j'ajoute aujourd'hui :
+
+Ralston_, Russian Folk-Taies, p. 120; Miklosich, Marchen der Zigeuner n° 1 5 ; Busk, The Folk-Loreof Rome, p. 3 ; Pitre, Fiabe Siciliane, n° 1 5 ; W. Webster, Basque Legends, p. 120; Luzel, Le Filleul de la Sainte Vierge, Brest, 1870.
+
+Dans nombre de contes parallèles, il arrive que le père promet, sans le savoir, son enfant à un être hostile (ainsi dans les versions gaéliques et dans celles de Kennedy et de Luzeli ; mais notre conte présente cette particularité qu'il ne croit pas avoir rien promis au géant, et qu'en fait il lui a promis son fils qui s'appelle Nicht-Nought-Nothing.
+
+Dans les contes gaéliques et dans le conte de Kennedy, on trouve aussi les tentatives de faire passer d'autres enfants pour le prince.
+
+On rencontre seulement dans les parallèles gaéliques, irlandais et Scandinaves le fait de nettoyer la grande étable, et seulement dans les parallèles gaélique et irlandais l'ascension de l'arbre à l'aide des doigts coupés de la jeune fille.
+
+La seconde partie de notre conte depuis la fuite du prince jusqu'à la fm est corrompue. Il manque d'abord des détails sur la façon dont s'enfuirent le prince et la fille du géant. Puis suivant l'analogie de la plupart des contes parallèles, quand le prince retourne chez ses parents, la fille du géant devrait lui défendre d'embrasser qui que ce soit ou de se laisser embrasser, et par l'oubli de cette recommandation, le prince devrait oublier la fille du géant. Cela manque dans notre version. Le prince arrive chez ses parents sans les connaître et sans être connu d'eux, et l'on ne nous dit pas comment il devient si rapidement le fiancé de la fille du roi, c.-à-d. de sa sœur. D'après l'analogie des autres contes, la fille du géant devrait éveiller le souvenir du prince d'une façon particulière, à l'aide d'un coq et d'une poule ou de deux colombes, juste au moment oij l'on va célébrer les noces du prince. Si au contraire, dans notre conte, elle le rencontre endormi dans le jardin et essaye en vain de le réveiller, c'est un trait emprunté à d'autres contes '.
+
+I . Voici le trait dont il s'agit. L'héroïne du conte trouve le mari qu'elle a perdu marié ou au moins fiancé à une autre ; elle achète de la nouvelle épouse ou de la fiancée la permission de passer trois nuits dans la chambre à coucher de son mari. Les deux premières nuits, c'est en vain qu'elle essaie de le réveiller, car sa nouvelle femme (ou sa fiancée) lui a fait prendre un narcotique. Voir là -dessus mes observations dans Bladé, ConUs populaires recueillis en Agenais, p. 14 j.
+
+Aux paroles par lesquelles la fille du géant dans notre conte cherche à éveiller le prince (/ cleaned the stable, etc.) on peut comparer les vers suivants dans le conte The Black Bull of Norroway dans Chambers, Popular Rhymes of Scotland, p. 98 :
+
+
+
+Seven lang years I served for ihee^
+
+The glassy hill I clamb for îhee,
+
+The bluidy shirt I wrang for îhee.
+
+And wilt thon not wauken and îurn îo me ? et cette variante p. loi, ibid.
+
+Far hae 1 sought ye, near am I broiight îo ye ; Dear Duke 0' Norroway, will ye no îurn and speak îo me? et aussi dans le conte irlandais The Brown Bear of Norway, dans Kennedy, Legendary Ficîions of îhe Irish Celîs, p. $7 :
+
+Four long years I was married îo îhee,
+
+Three sweeî babes I bore îo îhee,
+
+Brown Bear of Norway, won 't y ou îurn îo me? Encore une observation sur l'épisode où la fille du géant se tient sur un arbre, et où son ombre se réfléchissant dans l'eau fait illusion à la fille et à la femme du jardinier qui croient voir leur propre ombre et se trouvent belles. On peut comparer Campbell, p. 34 et 56, et le conte suédois dans Hyltén-Cavallius et Stephens, n° XIV, B. Ce trait se rencontre aussi dans le conte si répandu des trois citrons ou des trois oranges, par exemple dans le Pentamerone V, 9, et dans Gonzenbach, nM?.
+
+---
+
+
+
+---
+
+
+Lang's notes give some variants for the story:
+
+```{admonition}
+:class: dropdown
+
+https://archive.org/details/customandmyth03langgoog/page/n104/mode/2up?q=lacuna
+Custom and Myth
+by Andrew Lang
+
+Publication date 1884
+
+A Far Travelled Tale
+
+p92
+
+> In this variant of the story, which we may use as our text, it is to be noticed that a *lacuna* exists. The narrative of the flight omits to mention that the runaways threw things behind them which became obstacles in the giant's way. One of these objects probably turned into a lake, in which the giant was drowned. `[The events of the flight are recorded correctly in the Gaelic variant the ' Battle of the Birds' (Campbell, *Tales of the West Highlands* vol. i. p. 25.)]` A common incident is the throwing behind of a comb, which changes into a thicket. The formula of leaving obstacles behind occurs in the Indian collection, the 'Kathasarit sagara'(vii.xxxix.). The ' Battle of the Birds' in Campbell's 'Tales of the West Highlands' is a very copious Gaelic variant. Russian parallels are 'Vasilissa the Wise and the Water King' and 'The King Bear.' `[Ralston, *Russian Folk Tales* 132 ; Köhler, *Orient und Occident*, ii. 107, 114.]` The incident of the flight and the magical obstacles is found in Japanese mythology. `[*Ko ti ki*, p. 36.]` The 'ugly woman of Hades' is sent to pursue the hero. He casts down his black head-dress, and it is instantly turned into grapes ; he fled while she was eating them. Again, 'he cast down his multitudinous and close-toothed comb, and it instantly turned into bamboo sprouts.' In the Gaelic version, the pursuer is detained by talkative objects which the pursued leave at home, and this marvel recurs in Zululand, and is found among the Bushmen. The Zulu versions are numerous.`[Callaway, pp. 51, 53, 64, 145, 228.]` Oddly enough, in the last variant, the girl performs no magic feat, but merely throws sesamum on the ground to delay the cannibals, for cannibals are very fond of sesamum. `[See also 'Petrosinella ' in the Pentamerone, and 'The Mastermaid' in Dasent's *Tales from the Norse*.]` `[TH: Dasent being the translator of Asbjornsen and Moe]`
+
+```
+
+A very close retelling of Lang's version appears in Jacobs' *English Fairy Tales*.
+
+```{admonition} "Nix, Nought. Nothing" in Jacobs, English Fairy tales, 1890, 1895
+:class: dropdown
+
+https://archive.org/details/englishfairytal00jacogoog/page/n54/mode/2up?q=nix
+English Fairy Tales
+by Joseph Jacobs
+
+Publication date 1890
+
+p33
+
+Better OCR in 1895 edition, p35
+https://archive.org/details/englishfairytale00jaco/page/38/mode/2up?q=nix
+
+NIX NOUGHT NOTHING.
+
+THERE once lived a king and a queen as many a one has been. They were long married and had no children ; but at last a baby-boy came to the queen when the king was away in the far countries. The queen would not christen the boy till the king came back, and she said, " We will just call him Nix Nought Nothing until his father comes home." But it was long before he came home, and the boy had grown a fine, bonny laddie. At length the king was on his way back ; but he had a big river to cross, and there was a whirlpool, and he could not get over the water. But a giant came up to him, and said : " I'll carry you over." But the king said : " What's your pay ?" " Oh, give me Nix, Nought, Nothing, and I will carry you over the water on my back." The king had never heard that his son was called Nix Nought Nothing, and so he said : " Oh, I'll give you that, and my thanks into the bargain." When the king got home again he was very happy to see his wife again, and his young son. She told him that she had not given the child any name, but just Nix Nought Nothing, until he should come home again himself. The poor king was in a terrible case. He said : " What have I done ? I promised to give the giant who carried me over the river on his back Nix Nought Nothing." The king and the queen were sad and sorry, but they said: "When the giant comes we will give him the hen-wife's boy ; he will never know the difference." The next day the giant came to claim the king's promise, and he sent for the hen-wife's boy ; and the giant went away with the boy on his back. He traveled till he came to a big stone, and there he sat down to rest. He said :
+
+" Hidge, Hodge, on my back, what time of day is that?"
+
+The poor little lad said : " It is the time that my mother, the hen-wife, takes up the eggs for the queen's breakfast."
+
+Then the giant was very angry, and dashed the boy on the stone and killed him.
+
+Back he went in a tower of a temper and this time they gave him the gardener's boy. He went off with him on his back till they got to the stone again, when the giant sat down to rest. And he said :
+
+" Hidge, Hodge, on my back, what time of day do you make that ?"
+
+The gardener's boy said : " Sure it's the time that my mother takes up the vegetables for the queen's dinner."
+
+Then the giant was as wild as could be, and killed him, too.
+
+Then the giant went back to the king's house in a terrible temper and said he would destroy them all if they did not give him Nix Nought Nothing this time. They had to do it ; and when he came to the big stone the giant said: "What time of day is that ?" Nix Nought Nothing said : " It is the time that my father, the king, will be sitting down to supper." The giant said : " I've got the right ont now ;" and took Nix Nought Nothing to his own house and brought him up till he was a man.
+
+The giant had a bonny daughter, and she and the lad grew very fond of each other. The giant said one day to Nix Nought Nothing : " I've work for you to-morrow. There is a stable seven miles long and seven miles broad, and it has not been cleaned for seven years, and you must clean it to- morrow, or I will have you for my supper."
+
+The giant's daughter went out next morning with the lad's breakfast, and found him in a terrible state, for always as he cleaned out a bit it just fell in again. The giant's daughter said she would help him, and she cried all the beasts in the field, and all the fowls of the air, and in a minute they all came, and carried away everything that was in the stable and made it all clean before the giant came home. He said : " Shame on the wit that helped you ; but I have a worse job for you to-morrow." Then he said to Nix Nought Nothing : " There's a lake seven miles long, and seven miles deep, and seven miles broad, and you must drain it to-morrow by night- fall, or else I'll have you for my supper." Nix Nought Nothing began early next morning and tried to lave the water with his pail, but the lake was never getting any less, and he didn't know what to do ; but the giant's daughter called on all the fish in the sea to come and drink the water, and very soon they drank it dry. When the giant saw the work done he was in a rage, and said : " I've a worse job for you to-morrow ; there is a tree, seven miles high, and no branch on it, till you get to the top, and there is a nest with seven eggs in it, and you must bring down all the eggs without breaking one, or else I'D. have you for my supper." At first the giant's daughter did not know how to help Nix Nought Nothing ; but she cut off first her fingers and then her toes, and made steps of them, and he 'iomb the tree and got all the eggs safe till he came just to the bottom, and then one was broken. So they determined to run away together, and after the giant's daughter had gone back to her room, and got her magic flask they set out together as fast as they could run. And they hadn't got but three fields away when they looked back and saw the giant walking along at full speed after them. " Quick, quick," called out the giant's daughter, " take my comb from my hair and throw it down." Nix Nought Nothing took her comb from her hair and threw it down, and out of every one of its prongs there sprung up a fine thick briar in the way of the giant. You may be sure it took him a long time to work his way through the briar bush, and by the time he was well through Nix Nought Nothing and his sweetheart had run far far away from him. But he soon came along after them and was just like to catch 'em up when the giant's daughter called out to Nix Nought Nothing : " Take my hair dagger and thrown it down, quick, quick." So Nix Nought Nothing threw down the hair dagger and out of it grew as quick as lightning a thick hedge of sharp razors placed criss cross. The giant had to tread very cautiously to get through all this and meanwhile they both ran hard, and on, and on, and on, till they were nearly out of sight. But at last the giant was through, and it wasn't long before he was like to catch them up. But just as he was stretching out his hand to catch Nix Nought Nothing his daughter took out her magic flask and dashed it on the ground. And as it broke out of it welled a big, big wave that grew, and that grew, till it reached the giant's waist and then his neck, and when it got to his head he was drowned dead, and dead, and dead indeed.
+
+But Nix Nought Nothing fled on till where do you think they came to ? Why, to near the castle of Nix Nought Nothing's father and mother. But the giant's daughter was so weary that she couldn't move a step further. So Nix Nought Nothing told her to wait there while he went and found out a lodging for the night. And he went on toward the lights of the castle, and on the way he came to the cottage of the hen-wife whose boy, you'll remember, had been killed by the giant. Kow she knew Nix Nought Nothing in a moment, and hated him be- cause he was the cause of her son's death. So when he asked his way to the castle she put a spell upon him, and when he got to the castle, no sooner was he let in than he fell down dead asleep upon a bench in the hall. The king and queen tried all they could do to wake him up, but all in vain. So the king promised that if any maiden could wake him she should marry him. Meanwhile the giant's daughter was waiting and waiting for him to come back. And she went up into a tree to watch for him. The gardener's daughter, going to draw water in the well, saw the shadow of the lady in the water and thought it was herself, and said : " If I'm so bonny, if I'm so brave, why do you send me to draw water ?" So she threw down her pail and went to see if she could wed the sleeping stranger. And she went to the hen-wife, who taught her an unspelling charm which would keep Nix Nought Nothing awake as long as the gardener's daughter liked. So she went up to the castle and sang her charm and Nix Nought Nothing was wakened for awhile and they promised to wed him to the gardener's daughter. Meanwhile the gardener went down to draw water from the well and saw the shadow of the lady in the water. So he looked up and found her, and he brought the lady from the tree, and led her into his house. And he told her that a stranger was to marry his daughter, and took her up to the castle and showed her the man : and it was Nix Nought Nothing asleep in a chair. And she saw him, and cried to him : " Waken, waken, and speak to me !" But he would not waken, and soon she cried :
+
+" I cleaned the stable, I laved the lake, and I clomb the tree, And all for the love of thee. And thou wilt not waken and speak to me. "
+
+The king and the queen heard this, and came to the bonny young lady, and she said :
+
+" I cannot get Nix Nought Nothing to speak to me for all that I can do."
+
+Then were they greatly astonished when she spoke of Nix Nought Nothing, and asked where he was, and she said : " He that sits there in the chair." Then they ran to him and kissed him and called him their own dear son ; so they called for the gardener's daughter and made her sing her charm, and he wakened, and told them all that the giant's daughter had done for him, and of all her kindness. Then they took her in their arms and kissed her, and said she should now be their daughter, for their son. should marry her. But as for the hen wife, she was put to death. And they lived happy all their days.
+
+```
+
+Jacobs' notes explain the extnt to which he tidied up Lang's version:
+
+```{admonition} Jacobs, Notes on "Nix, Nought, Nothing"
+
+https://archive.org/details/englishfairytale00jaco/page/270/mode/1up?q=nix
+English Fairy tales;
+by Jacobs, Joseph, 1854-1916
+
+Publication date 1895
+
+p. 270-1
+
+VII. NIX NOUGHT NOTHING.
+
+Source.— From a Scotch tale, "Nicht Nought Nothing," collected by Mr. Andrew Lang in Morayshire, published by him first in "Revue Celtique," t. iii.j then in his "Custom and Myth," p. 89; and again in *Folk-Lore* Sept., 1890. I have changed the name so as to retain the *équivoque* of the giant's reply to the King. I have also inserted the incidents of the flight, mainly from the Pentamerone version, and expanded the conclusion, which is very curtailed and confused in the original. The usual ending of tales of this class contains the "sale of bed" incident, for which see Child, i. 391.
+
+*Parallels.*— Mr. Lang, in the essay "A Far-traveled Tale," in which he gives the story, mentions several variants of it, including the classical myth of Jason and Medea. An American-English variant was read by Mr. Nowell before the Folk-lore Congress under the title "Lady Feather Flight." Mr. Nowell suggests that Shakespeare's "Tempest" owes something to the main idea of the tale, a warlock's daughter falling in love with his captive and helping him with tasks. A fuller study in Cosquin, l.c., ii. 12-28. For the finger ladder, see Köhler, in "Orient und Occident," ii. 111. Cf. also note on "The Battle of the Birds" in "Celtic Fairy Tales."
+
+```
 
 Popular tales from the Norse
 by Asbjørnsen, Peter Christen, 1812-1885; Moe, Jørgen Engebretsen, 1813-1882; Dasent, George Webbe, Sir, 1817-1896
@@ -291,11 +494,11 @@ THERE was once a king and a queen and they had a bonny boy whom they loved beyon
 
 The King thought for a while and then remembered that whenever he came to the gate of the palace his favourite deerhound Bevis always came to greet him. So, though he was sorry to lose him, he thought it was worth while, and agreed with the giant.
 
-Thereupon the giant took the King upon his shoulders and wading across the raging stream landed him on the farther bank and saying to him, '* Remember what you have promised," went back again to the other side.
+Thereupon the giant took the King upon his shoulders and wading across the raging stream landed him on the farther bank and saying to him, "Remember what you have promised," went back again to the other side.
 
 The King soon found his way towards the palace, but as he came to the palace gate it happened that his son Prince Edgar was standing there, and before Bevis the hound could dash out to greet his master. Prince Edgar had rushed towards his father and caught him by the hand. The King was rather startled but thought to himself:
 
-**0h, how will the giant know who met me? After all I intended to give him Bevis, and that's what ril do when he comes. "
+"Oh, how will the giant know who met me? After all I intended to give him Bevis, and that's what I'll do when he comes. "
 
 The next day the giant came to the castle gates and asked to see the King, and when he was admitted to his presence he said:
 
@@ -527,92 +730,6 @@ So the Princess was sent back to her home, and Edgar married the Master-Maid and
 
 
 --
-
-
-https://archive.org/details/englishfairytal00jacogoog/page/n54/mode/2up?q=nix
-English Fairy Tales
-by Joseph Jacobs
-
-Publication date 1890
-
-p33
-
-Better OCR in 1895 edition, p35
-https://archive.org/details/englishfairytale00jaco/page/38/mode/2up?q=nix
-
-NIX NOUGHT NOTHING.
-
-THEKE once lived a king and a queen as many a one has been. They were long married and had no children ; but at last a baby-boy came to the queen when the king was away in the far countries. The queen would not christen the boy till the king came back, and she said, " We will just call him Wix Nought Nothing until his father comes home." But it was long before he came home, and the boy had grown a fine, bonny laddie. At length the king was on his way back ; but he had a big river to cross, and there was a whirlpool, and he could not get over the water. But a giant came up to him, and said : " I'll carry you over." But the king said : " What's your pay ?" " Oh, give me Nix, Nought, Nothing, and I will carry you over the water on my back." The king had never heard that his son was called Nix Nought Nothing, and so he said : " Oh, I'll give you that, and my thanks into the bargain." When the king got home again he was very happy to see his wife again, and his young son. She told him that she had not given the child any name, but just Nix Nought Nothing, until he should come home again himself. The poor king was in a terrible case. He said : " What have I done ? I promised to give the giant who carried me over the river on his back Nix Nought Nothing." The king and the queen were sad and sorry, but they said: "When the giant comes we will give him the hen-wife's boy ; he will never know the difference." The next day the giant came to claim the king's promise, and he sent for the hen-wife's boy ; and the giant went away with the boy on his back. He traveled till he came to a big stone, and there he sat down to rest. He said :
-
-" Hidge, Hodge, on my back, what time of day is that?"
-
-The poor little lad said : " It is the time that my mother, the hen-wife, takes up the eggs for the queen's breakfast."
-
-Then the giant was very angry, and dashed the boy on the stone and killed him.
-
-Back he went in a tower of a temper and this time they gave him the gardener's boy. He went off with him on his back till they got to the stone again, when the giant sat down to rest. And he said :
-
-" Hidge, Hodge, on my back, what time of day do you make that ?"
-
-The gardener's boy said : " Sure it's the time that my mother takes up the vegetables for the queen's dinner."
-
-Then the giant was as wild as could be, and killed him, too.
-
-Then the giant went back to the king's house in a terrible temper and said he would destroy them all if they did not give him Nix Nought Nothing this time. They had to do it ; and when he came to the big stone the giant said: "What time of day is that ?" Nix Nought Nothing said : " It is the time that my father, the king, will be sitting down to supper." The giant said : " I've got the right ont now ;" and took Nix Nought Nothing to his own house and brought him up till he was a man.
-
-The giant had a bonny daughter, and she and the lad grew very fond of each other. The giant said one day to Nix Nought Nothing : " I've work for you to-morrow. There is a stable seven miles long and seven miles broad, and it has not been cleaned for seven years, and you must clean it to- morrow, or I will have you for my supper."
-
-The giant's daughter went out next morning with the lad's breakfast, and found him in a terrible state, for always as he cleaned out a bit it just fell in again. The giant's daughter said she would help him, and she cried all the beasts in the field, and all the fowls of the air, and in a minute they all came, and carried away everything that was in the stable and made it all clean before the giant came home. He said : " Shame on the wit that helped you ; but I have a worse job for you to-morrow." Then he said to Nix Nought Nothing : " There's a lake seven miles long, and seven miles deep, and seven miles broad, and you must drain it to-morrow by night- fall, or else I'll have you for my supper." Nix Nought Nothing began early next morning and tried to lave the water with his pail, but the lake was never getting any less, and he didn't know what to do ; but the giant's daughter called on all the fish in the sea to come and drink the water, and very soon they drank it dry. When the giant saw the work done he was in a rage, and said : " I've a worse job for you to-morrow ; there is a tree, seven miles high, and no branch on it, till you get to the top, and there is a nest with seven eggs in it, and you must bring down all the eggs without breaking one, or else I'D. have you for my supper." At first the giant's daughter did not know how to help Nix Nought Nothing ; but she cut off first her fingers and then her toes, and made steps of them, and he 'iomb the tree and got all the eggs safe till he came just to the bottom, and then one was broken. So they determined to run away together, and after the giant's daughter had gone back to her room, and got her magic flask they set out together as fast as they could run. And they hadn't got but three fields away when they looked back and saw the giant walking along at full speed after them. " Quick, quick," called out the giant's daughter, " take my comb from my hair and throw it down." Nix Nought Nothing took her comb from her hair and threw it down, and out of every one of its prongs there sprung up a fine thick briar in the way of the giant. You may be sure it took him a long time to work his way through the briar bush, and by the time he was well through Nix Nought Nothing and his sweetheart had run far far away from him. But he soon came along after them and was just like to catch 'em up when the giant's daughter called out to Nix Nought Nothing : " Take my hair dagger and thrown it down, quick, quick." So Nix Nought Nothing threw down the hair dagger and out of it grew as quick as lightning a thick hedge of sharp razors placed criss cross. The giant had to tread very cautiously to get through all this and meanwhile they both ran hard, and on, and on, and on, till they were nearly out of sight. But at last the giant was through, and it wasn't long before he was like to catch them up. But just as he was stretching out his hand to catch Nix Nought Nothing his daughter took out her magic flask and dashed it on the ground. And as it broke out of it welled a big, big wave that grew, and that grew, till it reached the giant's waist and then his neck, and when it got to his head he was drowned dead, and dead, and dead indeed.
-
-But Nix Nought Nothing fled on till where do you think they came to ? Why, to near the castle of Nix Nought Nothing's father and mother. But the giant's daughter was so weary that she couldn't move a step further. So Nix Nought Nothing told her to wait there while he went and found out a lodging for the night. And he went on toward the lights of the castle, and on the way he came to the cottage of the hen-wife whose boy, you'll remember, had been killed by the giant. Kow she knew Nix Nought Nothing in a moment, and hated him be- cause he was the cause of her son's death. So when he asked his way to the castle she put a spell upon him, and when he got to the castle, no sooner was he let in than he fell down dead asleep upon a bench in the hall. The king and queen tried all they could do to wake him up, but all in vain. So the king promised that if any maiden could wake him she should marry him. Meanwhile the giant's daughter was waiting and waiting for him to come back. And she went up into a tree to watch for him. The gardener's daughter, going to draw water in the well, saw the shadow of the lady in the water and thought it was herself, and said : " If I'm so bonny, if I'm so brave, why do you send me to draw water ?" So she threw down her pail and went to see if she could wed the sleeping stranger. And she went to the hen-wife, who taught her an unspelling charm which would keep Nix Nought Nothing awake as long as the gardener's daughter liked. So she went up to the castle and sang her charm and Nix Nought Nothing was wakened for awhile and they promised to wed him to the gardener's daughter. Meanwhile the gardener went down to draw water from the well and saw the shadow of the lady in the water. So he looked up and found her, and he brought the lady from the tree, and led her into his house. And he told her that a stranger was to marry his daughter, and took her up to the castle and showed her the man : and it was Nix Nought Nothing asleep in a chair. And she saw him, and cried to him : " Waken, waken, and speak to me !" But he would not waken, and soon she cried :
-
-" I cleaned the stable, I laved the lake, and I clomb the tree, And all for the love of thee. And thou wilt not waken and speak to me. "
-
-The king and the queen heard this, and came to the bonny young lady, and she said :
-
-" I cannot get Nix Nought Nothing to speak to me for all that I can do."
-
-Then were they greatly astonished when she spoke of Nix Nought Nothing, and asked where he was, and she said : " He that sits there in the chair." Then they ran to him and kissed him and called him their own dear son ; so they called for the gardener's daughter and made her sing her charm, and he wakened, and told them all that the giant's daughter had done for him, and of all her kindness. Then they took her in their arms and kissed her, and said she should now be their daughter, for their son. should marry her. But as for the hen wife, she was put to death. And they lived happy all their days.
-
----
-
-Lang A Far Travelled Tale
- https://en.wikisource.org/wiki/Custom_and_Myth/A_Far-Travelled_Tale
-
-> In this variant of the story, which we may use as our text, it is to be noticed that a lacuna exists. The narrative of the flight omits to mention that the runaways threw things behind them which became obstacles in the giant's way. One of these objects probably turned into a lake, in which the giant was drowned.* A common incident is the throwing behind of a comb, which changes into a thicket. The formula of leaving obstacles behind occurs in the Indian collection, the *Kathasarit sagara'(vii.xxxix.).
-
-> The ' Battle of the Birds/ in Campbell's * Tales of the West Highlands/ is a very copious Gaelic variant. Russian parallels are 'Vasilissa the Wise and the Water King/ and 'The King Bear.'
-
-
-NiCHT Nought Nothing.
-
-There once lived a king and a queen. They were long married and had no bairns; but at last the queen had a balm, when the king was away in far countries. The queen would not christen the bairn till the king came back, and she said, "We will just call him Nicht Nought Nothing until his father comes home." But it was long before he came home, and the boy had grown a nice little laddie. At length the king was on his way back ; but he had a big river to cross, and there was a spate, and he could not get over the water. But a giant came up to him, and said, ' If you will give me Nicht Nought Nothing, I will carry you over the water on my back. The king had never heard that his son was called Nicht Nought Nothing, and so he promised him. When the king got home again, he was very happy to see his wife again, and his young son. She told him that she had not given the child any name but Nicht Nought Nothing, until he should come home again himself. The poor king was in a terrible case. He said, ' What have I done ? I promised to give the giant who carried me over the river on his back, Nicht Nought Nothing.' The king and the queen were sad and sorry, but they said, ' When the giant comes we will give him the hen-wife's bairn ; he will never know the difference.' The next day the giant came to claim the king's promise, and he sent for the hen-wife's bairn ; and the giant went away with the bairn on his back. He travelled till he came to a big stone, and there he sat down to rest. He said,
-
-'Hidge, Hodge, on my back, what time of day is it?' The poor little bairn said, ' It is the time that my mother, the hen-wife, takes up the eggs for the queen's breakfast.'
-
-The giant was very angry, and dashed the bairn on the stone and killed it
-
-The same adventure is repeated with the gardener's son.
-
-Then the giant went back to the king's house, and said he would destroy them all if they did not give him Nicht Nought Nothing this time. They had to do it ; and when he came to the big stone, the giant said, ' What time of day is it?' Nicht Nought Nothing said, 'It is the time that my father the king will be sitting down to supper.' The giant said, ' I've got the richt ane noo ; ' and took Nicht Nought Nothing to his own house and brought him up till he was a man.
-
-The giant had a bonny dochter, and she and the lad grew very fond of each other. The giant said one day to Nicht Nought Nothing, 'I've work for you to-morrow. There is a stable seven miles long and seven miles broad, and it has not been cleaned for seven years, and you must clean it to-morrow, or I will have you for my supper.'
-
-The giant's dochter went out next morning with the lad's breakfast, and found him in a terrible state, for aye as he cleaned out a bit, it aye fell in again. The giant's dochter said she would help him, and she cried a' the beasts of the field, and a' the fowls o' the air, and in a minute they a' came, and carried awa' everything that was in the stable and made a' clean before the giant came home. He said, ' Shame for the wit that helped you ; but I have a worse job for you to-morrow.' Then he told Nicht Nought Nothing that there was a loch seven miles long, and seven miles deep, and seven miles broad, and he must drain it the next day, or else he would have him for his supper. Nicht Nought Nothing began early next morning and tried to lave the water with his pail, but the loch was never getting any less, and he did no ken what to do ; but the giant's dochter called on all the fish in the sea to come and drink the water, and very soon they drank it dry. When the giant saw the work done he was in a rage, and said, ' I've a worse job for you to-morrow ; there is a tree seven miles high, and no branch on it, till you get to the top, and there is a nest, and you must bring down the eggs without breaking one, or else I will have you for my supper.' At first the giant's dochter did not know how to help Nicht Nought Nothing ; but she cut off first her fingers and then her toes, and made steps of them, and he clomb the tree, and got all the eggs safe till he came to the bottom, and then one was broken. The giant's dochter advised him to run away, and she would follow him. So he travelled till he came to a king's palace, and the king and queen took him in and were very kind to him. The giant's dochter left her father's house, and he pursued her and was drowned. Then she came to the king's palace where Nicht Nought Nothing was. And she went up into a tree to watch for him. The gardener's dochter, going to draw water in the well, saw the shadow of the lady in the water, and thought it was herself, and said, ' If I'm so bonny, if I'm so brave, do you send me to draw water ? ' The gardener's wife went out, and she said the same thing. Then the gardener went himself, and brought the lady from the tree, and led her in. And he told her that a stranger was to marry the king's dochter, and showed her the man : and it was Nicht Nought Nothing asleep in a chair. And she saw him, and cried to him, ' Waken, waken, and speak to me ! ' But he would not waken, and syne she cried,
-
-' I cleaned the stable, I laved the loch, and I clamb the tree,  
-And all for the love of thee.  
-And thou wilt not waken and speak to me.'
-
-The king and the queen heard this, and came to the bonny young lady, and she said,
-
-' I canna get Nicht Nought Nothing to speak to me for all that I can do.'
-
-Then were they greatly astonished when she spoke of Nicht Nought Nothing, and asked where he was, and she said, *He that sits there in the chair.' Then they ran to him and kissed him and called him their own dear son, and he wakened, and told them all that the giant's dochter had done for him, and of all her kindness. Then they took her in their arms and kissed her, and said she should now be their dochter, for their son should marry her.
-
-And they lived happy all their days.
-
-
 
 --
 
