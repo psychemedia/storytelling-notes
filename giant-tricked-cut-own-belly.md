@@ -8,7 +8,8 @@ Asbjornsen Moe
 
 Boots is also Ash lad - youngest son; 
 
-```{admonition} Boots who at a Match With a Troll, Asbjørnsen and Moe, 1859
+```{admonition} Boots who Ate a Match With a Troll, Asbjørnsen and Moe, 1859
+:class: dropdown
 
 https://archive.org/details/populartalesfro03dasegoog/page/28/mode/2up?q=ash+lad
 
