@@ -441,11 +441,9 @@ They hang up their arms in that house; they sit, and welcome is given to them. "
 
 " It is that they have come for ", says Fraech.
 
-TO DO
+" Let not this be a journey for strife " `[It shall not be a habitation for begging contention this. Cr.]` , says Meadb.
 
-" Let not this be a journey for strife a 1 , says Meadb.
-
-Meadb and Oilill play chess after that. Thereupon Fraech takes to playing chess with a man of bis people. They were beautiful 2 , the chess things: a board of white bronze, with four cars and elbows of gold; a candle of precious stone giving light to them; gold and silver the men that were upon the board.
+Meadb and Oilill play chess after that. Thereupon Fraech takes to playing chess with a man of his people. They were beautiful `[It was a beauty of a chessboard. Cr.]` , the chess things: a board of white bronze, with four ears and elbows of gold; a candle of precious stone giving light to them; gold and silver the men that were upon the board.
 
 " Prepare ye food for the youths ", says Oilill.
 
@@ -453,67 +451,39 @@ Meadb and Oilill play chess after that. Thereupon Fraech takes to playing chess 
 
 " Rise and do it, I deem it good ", says Oilill.
 
-Thereupon she played chess with Fraech. His folk meanwhile were cooking the animais.
+Thereupon she played chess with Fraech. His folk meanwhile were cooking the animals.
 
 " Let thy harpers play to us ", says Oilill.
 
 " Let them play indeed ", says Fraech.
 
-A harp-bag of otterskins round the harps, with their bordering ot scarlet leather > under their adornment of gold and of silver. The skin of a roe about them in the middle : it was as white as snow ; dark grey spots in its centre. Linen cloths white as the swan's raiment about the strings. (The harps of gold and silver and white bronze, with figures of serpents and birds and dogs in gold and silver. Whenever those strings were touched), these figures thereupon ran about the men ail round.
+A harp-bag of otterskins round the harps, with their bordering ot scarlet leather `[Adornment of ruby. Cr.]` under their adornment of gold and of silver. The skin of a roe about them in the middle : it was as white as snow ; dark grey spots in its centre. Linen cloths white as the swan's raiment about the strings. (The harps of gold and silver and white bronze, with figures of serpents and birds and dogs in gold and silver. Whenever those strings were touched), these figures thereupon ran about the men ail round.
 
 Then they played to them ; so that twelve men of their household died of weeping and sadness.
 
-Sweet and tuneful were these three ; and they were mellower even than Uaithne**. The famous Three were three full brothers, Tear-bringer, Smile-bringer and Sleep-bringer by name. Boinn of the Side was the mother of the Three. It is from the music which Uaithne, harp of the Dagda, played,
-
-1. It shall not be a habitation for begging contention this. Cr.
-
-2. It was a beauty of a chessboard. Cr.
-
-3. Adornment of rubv. Cr.
-
-4. And they were the Chants of Uaithne. Cr.
-
-
-that the Three are named. When the woman was in child-birth, it wept for sorrow over the sharpness of the pangs at first. It was a smile and a laugh it played in the middle, for joy of the two sons. A sweet sleep it plays -- the last son - for the heaviness oi the birth. Whence was named the third part of ninsic. Afterward Boinn awoke ont of the sleep. c< I accept " said she, " thy three sons, Uaithne of perfect ardour, since there arc Sleep-bringing and Smile-bringing and Tear-bringing upon cows and women who will go with Meadb and Oilill. Mcn shall die, who have an car for harmonies 1 ".
+Sweet and tuneful were these three ; and they were mellower even than Uaithne `[And they were the Chants of Uaithne. Cr.]`. The famous Three were three full brothers, Tear-bringer, Smile-bringer and Sleep-bringer by name. Boinn of the Side was the mother of the Three. It is from the music which Uaithne, harp of the Dagda, played, that the Three are named. When the woman was in child-birth, it wept for sorrow over the sharpness of the pangs at first. It was a smile and a laugh it played in the middle, for joy of the two sons. A sweet sleep it plays — the last son — for the heaviness of the birth. Whence was named the third part of music. Afterward Boinn awoke ont of the sleep. " I accept " said she, " thy three sons, Uaithne of perfect ardour, since there are Sleep-bringing and Smile-bringing and Tear-bringing upon cows and women who will go with Meadb and Oilill. Men shall die, who have an car for harmonies `[By the hearing of art from them. Cr.]` ".
 
 They cease from the playing after that in the palace.
 
-" Majestically it came 2 ", says Fergus.
+" Majestically it came `[It is rushing that has come. Cr.]` ", says Fergus.
 
 " Distribute to us ", says Fraech, " the food ". They bring it in. Lothur steps on to the floor of the house : he distributes to them the food. Upon his palm `[On his haunches. Cr.]` he divided each joint with his sword, and there was not redistributed fell or flesh `[And he used not touch the eating of the meats. Cr.]`. Since he assumed dividing food was never wasted under his hand.
 
-They were three days and three nights at the playing of chess, by (the light of) the multitude of precious stones in the company of Fraech. After that Fraech addresses Meadb : " Well have I won from thee 5 ", says he. " I take not thy stake from the chess ; let there be no loss of honour therein to thee 6 ".
+They were three days and three nights at the playing of chess, by (the light of) the multitude of precious stones in the company of Fraech. After that Fraech addresses Meadb : " Well have I won from thee `[It is well we have been entertained by thee. Cr.]` ", says he. " I take not thy stake from the chess ; let there be no loss of honour therein to thee `[That there be not a decay of hospitality for thee in it. Cr.]` ".
 
-" From thy coming to this castle, this is the day which seems longest to me 7 ", says Meadb.
+" From thy coming to this castle, this is the day which seems longest to me `[Since I am in the dun, this is the day which I deem quiet. Cr.]` ", says Meadb.
 
 " That is not strange ", says Fraech, " three days and three nights are in it ".
 
-Upon that Meadb rises ; she thought it shame that the youths should be without food. She goes to Oilill and tells it to him : " A great deed have we done ", says she, " the
+Upon that Meadb rises ; she thought it shame that the youths should be without food. She goes to Oilill and tells it to him : " A great deed have we done ", says she, " the youths who have come to us from outside to be without food ".
 
-i. By the hearing of art from them. Cr.
-
-2. It is rushing that lias corne. Cr.
-
-3. 
-
-4. 
-
-5. It is well we have been entertained by thee. Cr.
-
-6. That there be not a decay of hospitality for thee in it. Cr.
-
-7 Since I am in the dun, this is the day which I deem quiet. Cr.
-
-
-youths who have come to us from outside to be without food ".
-
-" Thon preferrest playing chess ", says Oilill.
+" Thou preferrest playing chess ", says Oilill.
 
 " It hinders not the distribution to his folk through the house. It is three days and three nights ", says she. " But we noted not the night, through the white light of the precious stones in the house ".
 
-" Let them cease from their laments 1 (?) till distribution is made to them ". Thereupon distribution is made to them; and it was well with them ; and they continued three days and three nights at the feasting.
+" Let them cease from their laments `[Chanting. Cr.]` (?) till distribution is made to them ". Thereupon distribution is made to them; and it was well with them ; and they continued three days and three nights at the feasting.
 
-It is then that Fraech was bidden into the speech-house, and the question (put) to him 2 what had brought him.
+It is then that Fraech was bidden into the speech-house, and the question (put) to him `[It is asked of him. Cr.]` what had brought him.
 
 " Pleasing to me " says he, " is a visit to you ".
 
@@ -525,19 +495,13 @@ After that they stay in the castle to the end of a fortnight; and each day they 
 
 Fraech was troubled that he had no speech with the maiden, for this was the purpose which brought him. One day he rises at the end of night to wash at the river. It is then that she too went with her maid to wash. He takes her hand. " Stay to speak with me ", says he. " It is thee we have come for ".
 
-" It were truly welcome to me ", says the maiden, " it I could 5 : I can do nothing for thee ".
+" It were truly welcome to me ", says the maiden, " if I could `[If I were to come.]` : I can do nothing for thee ".
 
 " Tell me, wilt thou flee with me? " says he.
 
-" Indeed I will not flee ", she says, " for Iam the daughter of a king and queen. There is naught of thy display that I learn not from my people ; and it will be my choice to go to thee. Thee have I loved. And take thou with thee this
+" Indeed I will not flee ", she says, " for I am the daughter of a king and queen. There is naught of thy display that I learn not from my people ; and it will be my choice to go to thee. Thee have I loved. And take thou with thee this
 
-
-
-1. Chanting. Cr.
-
-2. It is asked of him. Cr.
-
-3. Il I were to come.
+TO DO
 
 
 thumb-ring ", says the maiden, " and it shall be as a token between us. My mother gave it to me ", she says, " to lay it by; and I will say that I have lost it ".
@@ -600,7 +564,7 @@ After that he flung to them the branches out of the water.
 
 
 
-he. And there was no man upon the shore who dared to give it to him through fear of Oilill and of Meadb. Upon that Finnabair throws off her clothing, and springs with the sword into the water. Mer father casts a five-pointed spear the length of a spear' s throw down, and it goes through her two tresses; and Fraech caught the spear in lus hand. He leaps up over the spear ashore 1 , with the Beast still in his side. He hurls the spear with the prowess of weapon-wielding tribes 2 , so that it goes through the purple robe and through the shirt that was on Oilill. Upon that the young men gather round Oilill. Finnabair comes out of the water, and leaves the sword in the hand of Fraech : and he smote the head from the Beast, so that it remained on his side; and he brought the Beast with him to land. It is from tins is named the " Black Linn of Fraech ", in Brei, in the lands of Connaught.
+he. And there was no man upon the shore who dared to give it to him through fear of Oilill and of Meadb. Upon that Finnabair throws off her clothing, and springs with the sword into the water. Mer father casts a five-pointed spear the length of a spear' s throw down, and it goes through her two tresses; and Fraech caught the spear in lus hand. He leaps up over the spear ashore `[]` , with the Beast still in his side. He hurls the spear with the prowess of weapon-wielding tribes `[]` , so that it goes through the purple robe and through the shirt that was on Oilill. Upon that the young men gather round Oilill. Finnabair comes out of the water, and leaves the sword in the hand of Fraech : and he smote the head from the Beast, so that it remained on his side; and he brought the Beast with him to land. It is from tins is named the " Black Linn of Fraech ", in Brei, in the lands of Connaught.
 
 Thereupon Oilill and Meadb go into their castle. " A great deed have we done ", says Meadb. " We regret ", says Oilill, " what we have done to the man. As for the maiden ", says he, " she shall die to-morrow night, and it shall not be the fault of taking the sword that will be (ascribed) to her. Make ye a bath for tins man, a broth of fresh fat, and cow's flesh minced by adze and by axe ; and bring him into the bath ". Ail was done as to that thing even as he said.
 
@@ -611,7 +575,7 @@ Then he was taken out and a bed was laid for him. And they heard something, a wa
 
 i. So MS. In Eg. and LL : He throws the spear up ashore.
 
-2. Lets it fly with a charge of the methods ot playing of championship. Cr.
+2. Lets it fly with a charge of the methods of playing of championship. Cr.
 
 
 to them to learn the tale of wherefore they lamented. " Fraech, son of ldach ", says the woman. " the favourite son " says the woman, " of the King of the Side of Erin ". With that Fraech hears the wailing. " Lift me out ", says he to his folk; " this is the weeping of my mother ", says he, " and of the women of Boinn. " Upon that he is lifted out and carried to them. The women come round him and carry him away into Cruachan.
@@ -728,21 +692,23 @@ They set out, the three 4 of them, over the sea, across the North of England, ac
 4. That is, the three nines. Cr.
 
 
+TO DO ABOVE HERE
+
 yonder; and let our youths stay here ". Thereupon they went to speak with her. She said, " Whence are ye ? " " Of the men of Erin ", says Conall.
 
 " Not fortunate truly for men of Erin is their coming to this land. Of the folk of Erin is my mother. "
 
 " Thou wilt help me for friendship's sake. Tell us something of our wanderings. What kind of land have we come to ? "
 
-" A grim and fearful land, with fierce youths, who go ono every side to take cattle and women and raiment 1 ", says she.
+" A grim and fearful land, with fierce youths, who go ono every side to take cattle and women and raiment `[Captives. Cr.]` ", says she.
 
 " What is the last thing they have taken ? " says Fraech.
 
-" The cows of Fraech, son of Idach, from the West ot Erin; and his wife, and his three sons. His wife is here with the king. There are his cows, in the land before you. "
+" The cows of Fraech, son of Idach, from the West of Erin; and his wife, and his three sons. His wife is here with the king. There are his cows, in the land before you. "
 
 " Thou wilt come to our aid ", says Conall.
 
-" Little is my power save knowledge of the woman 2 . "
+" Little is my power save knowledge of the woman `[LL : save knowledge only.]` . "
 
 " This is Fraech ", says Conall, " and they are his cows that were taken. "
 
@@ -752,7 +718,7 @@ yonder; and let our youths stay here ". Thereupon they went to speak with her. S
 
 " The woman who tends the cows, go ye to her. Tell her your need. Of the people of Erin her race, of the Ulster-folk in special. "
 
-They go to her; they accost (?)3 her, and tell her their race : and she gives them welcome.
+They go to her; they accost (?) `[They receive her. Cr.]` her, and tell her their race : and she gives them welcome.
 
 " What has brought you ? ", says she.
 
@@ -760,44 +726,21 @@ They go to her; they accost (?)3 her, and tell her their race : and she gives th
 
 " It will not be fortunate for you, in sooth ", says she, " to go against the woman. Harder for you than ail else ", says she, " is the serpent which guards the stronghold. "
 
-" Name me not `[She is not my country name. Cr.]`", says Fraech. " I think her not faithful.
-
-1. Captives. Cr.
-
-2. LL : save knowledge only.
-
-3. They receive her. Cr.
-
-
-I think thou art faithful- We know that thou wilt not deceive us, since thou art of the Ulster-folk. "
+" Name me not `[She is not my country name. Cr.]`", says Fraech. " I think her not faithful. I think thou art faithful. We know that thou wilt not deceive us, since thou art of the Ulster-folk. "
 
 " Who of the Ulstermen are ye? " says she.
 
-" Hère is Conall Cearnach, the best warrior among the
+" Hère is Conall Cearnach, the best warrior among the Ulstermen ", says Fraech. She throws two hands upon the neck of Conall Cearnach. " The Destruction will arrive this time `[Has come in this expedition. Cr.]` ", says she, " seeing that he has come, for it is to him was prophesied the destruction ot this castle. Let me go hence ", says she. " I shall not be at the milking of the cows. I shall leave the stronghold with open gate : it is I who fasten it. I shall say that the calves were sucking `[It is for drink the calves were sucking. Cr.]` . Ye may come into the castle, if but they are asleep `[Come thou into the dun when they are sleeping. Cr.]`. Most grievous for you is the serpent which is at the castle ; many hosts are destroyed by it `[Several tribes are let loose from it (i.e. of serpents). Cr.]`. " " Thus shall we go ", says Conall.
 
-Ulstermen ", says Fraech. She throws two hands upon the neck of Conall Cearnach. " The Destruction will arrive tins time ' ", says she, " seeing that he has come, for it is to him was prophesied the destruction ot tins castle. Let me go hence ", says she. " I shall not be at the milking of the cows. I shall leave the stronghold with open gate : it is I who fasten it. I shall say that the calves were sucking 2 . Ye may come into the castle, if but they are asleepî. Most grievous for you is the serpent which is at the castle ; many hosts are destroyed by it4. " " Thus shall we go ", says Conall.
-
-They go against the stronghold. The serpent springs into the belt of Conall Cearnach, and they pillage the castle straightway. Thereupon they rescue the wife and the three sons, and take what is best of the jewels of the castle. And Conall looses the serpent ont of bis belt, and neither of them did harm to the other.
+They go against the stronghold. The serpent springs into the belt of Conall Cearnach, and they pillage the castle straightway. Thereupon they rescue the wife and the three sons, and take what is best of the jewels of the castle. And Conall looses the serpent out of bis belt, and neither of them did harm to the other.
 
 And they go into the realm of the Northern Picts, so that he takes from there three of their cows.
 
-And they went to the castle of Ollach mac Briuin, into Aird hUa n-Eachdach. It is there that Conall Cearnach's man died, while driving the cows: Biccne son of Laegaire by name. It is from this comes ". Inber mBiccne ", at Bennchur. And they brought their cows across from there. It is there they casttheir horns from them; so that from this comes " Tracht mBeannchuir. "
+And they went to the castle of Ollach mac Briuin, into Aird hUa n-Eachdach. It is there that Conall Cearnach's man died, while driving the cows: Biccne son of Laegaire by name. It is from this comes " Inber mBiccne ", at Bennchur. And they brought their cows across from there. It is there they cast their horns from them; so that from this comes " Tracht mBeannchuir. "
 
 Thereupon Fraech departed to his land, and bis sons and his wife and his cows with him : so that he went with Oilill and Meadb to the Reaving of the Cows from Cuailne.
 
 THE END. Amen.
-
-
-
-i. Has come in this expedition. Cr.
-
-2. It is for drink the calves were sucking. Cr.
-
-3. Come thou into the dun when they are sleeping. Cr.
-
-4. Several tribes are let loose from. it (i. c. of serpents). Cr.
-
-
 
 
 
@@ -821,4 +764,4 @@ In spite of the various characters of the two parts, the story seems to have bee
 
 The oldest manuscript authority for the Tain bo Fraich is the Book of Leinster, written before 1150. There are at least two other manuscript authorities, one in Egerton, 1782 (published by Professor Kuno Meyer in the Zeitschrift fur Celt Philologie, 1902); the other is in MS. XL., Advocates' Library, Edinburgh (published in the Revue Celtique, Vol. XXIV.). Professor Meyer has kindly allowed me to copy his comparison of these manuscripts and his revision of O'Beirne Crowe's translation of the Book of Leinster text. The text of the literal translation given here follows, however, in the main O'Beirne Crowe's translation, which is in the Proceedings of the Royal Irish Academy for 1870; a few insertions are made from the other MSS.; when so made the insertion is indicated by a note.
 
-For those who may be interested in the subsequent history of Fraech, it may be mentioned that he was one of the first of the Connaught champions to beslain by Cuchulain in the war of Cualnge; see Miss Faraday's translation (*Grimm Library*, page 35).
+For those who may be interested in the subsequent history of Fraech, it may be mentioned that he was one of the first of the Connaught champions to be slain by Cuchulain in the war of Cualnge; see Miss Faraday's translation (*Grimm Library*, page 35).
