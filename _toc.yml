@@ -8,6 +8,7 @@ parts:
   - file: pentrich/pentrich-rising
   - file: man-no-story
 - caption: As Found in "The Royal Hibernian Tales"
+  chapters:
   - file: hudden_dudden
   - file: blacksmith-devil-willy-wisp
 - caption: Show Outlines
