@@ -8,6 +8,8 @@ parts:
   - file: pentrich/pentrich-rising
   - file: hudden_dudden
   - file: blacksmith-devil-willy-wisp
+- caption: Show Outlines
+  - file: unforeseen-nonsense
 - caption: Tales to Tell
   chapters:
   - file: macpherson
