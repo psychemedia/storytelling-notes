@@ -9,7 +9,7 @@ Original set performed at Babushka Books, Thursday, February 2nd, 2023
 
 - Hudden, Dudden & Donal O'Leary, which I first heard from Eddie Lenihan (related story note: [*Hudden, and Dudden, and Donald O’Neary*](./hudden_dudden.html))
 
-*Frame from Folk-Lore of Modern Greece, 1884, Greek verbatim transcriptions published in 1879.*
+The main part of the set uses a frame tale to nest three other tales. The frame tale comes from an 1884 translated work, *Folk-Lore of Modern Greece*, of a set of orally collected tals published in 1879.
 
 - Golden Casket
   - placed on shelf: Ivasik Telesik (Ukrainian folk tale)
@@ -21,7 +21,6 @@ Original set performed at Babushka Books, Thursday, February 2nd, 2023
 PROPS:
 
 Co-opted shelf, chair, "bed" to put casket on then speak from it's perspective.
-
 
 ```{admonition} Notes, Golden Casket
 :class: dropdown
@@ -59,16 +58,18 @@ Day 3, dressing table.
 
 ```
 
+## The Golden Casket — Full Story
+
+For reference, here is the complete version of frame tale, along with the tales that were originally nested inside it. In this version, the speaking casket drops out of the nested stories in a far more powerful way, by directing a question at the Prince, which in turn is a provocation for the Princess to talk.
 
 ```{admonition} The Golden Casket
 :class: dropdown note
 
-THE GOLDEN CASKET. 
+in E. M. Geldart, [*Folk-lore of modern Greece: the tales of the people*](https://archive.org/details/folkloremoderng00geldgoog/page/n110/mode/2up), 1884,  p106-125.
+
+__THE GOLDEN CASKET.__
 
 (ASTYPALEA.) 
-
-p106-125
-
 
 Once on a time there was a King and a Queen who had an only son. His father said to him, " My child, you see that we have no other son ; all that I have depends on you. Therefore I desire to see you married, with children growing up to console me before I die, that I may have some joy in my old age, for you are my only hope."
 
