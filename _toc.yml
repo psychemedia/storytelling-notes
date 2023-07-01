@@ -6,6 +6,8 @@ parts:
   - file: the-wish-ring
   - file: yama-and-yami
   - file: pentrich/pentrich-rising
+  - file: man-no-story
+- caption: As Found in "The Royal Hibernian Tales"
   - file: hudden_dudden
   - file: blacksmith-devil-willy-wisp
 - caption: Show Outlines
