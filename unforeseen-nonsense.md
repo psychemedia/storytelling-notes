@@ -24,7 +24,7 @@ Co-opted shelf, chair, "bed" to put casket on then speak from it's perspective.
 
 
 ```{admonition} Notes, Golden Casket
-
+:class: dropdown
 
 Greek frame tale
 Folk-lore of modern Greece: the tales of the people
@@ -211,8 +211,8 @@ It was torture to the Princess to behold all this, and to hear such grievous wor
 
 We now drop into the casket's first story:
 
-```{seealso}
-:class: dropdown
+```{admonition} The Golden Casket's First Tale
+:class: dropdown seealso
 
 " Once on a time. Prince, there were three fine young fellows, and all three had the same sweetheart without knowing it, and were also friends of one another. . They agree, accordingly, one day to go out «into the country to a certain pleasure-garden to enjoy themselves. Do you hear, Prince ? " — and he bent himself to listen, like a gipsy's billhook, and his eye was fixed upon it.
 
@@ -233,8 +233,8 @@ She also takes a little cheese and divides that, too, into three pieces, and a l
 
 And then we return to the frame tale:
 
-```{note}
-:class: dropdown
+```{admonition} The Princess' First Response
+:class: dropdown note
 
 " Bless me, what a lot I know I Wasn't that a fine story ? Now it's your turn to tell me (for I fain would know) which of the three ought to marry her? and I wish you joy of your answer."
 
@@ -265,10 +265,10 @@ Well, the Princess will speak to me no more ! But you, my little chair, have not
 
 ```
 
-And so begins he casket's second tale:
+And so begins the casket's second tale:
 
-```{seealso}
-:class: dropdown
+```{admonition} The Golden Casket's Second Tale
+:class: dropdown seealso
 
 " Ah, pardon me, and let me begin my story. My story begins by wishing you good evening, my pretty master. Once on a time there were three companions, each of a different calling. One was a monk, one was a carpenter, and one was a tailor. They decided on leaving that country, as they could not get on there any longer, and on going to another place, where there might be a demand for their services. So our good friends arose, and set off for the town in question. They walked all that day, and at evening came to a farm. They decided that they must stay there for that night and would go fonvard in pursuit of their business on the following morning. But you see they were afraid of all going to sleep at once, for in those parts robbers were known to be about, and fears prevailed all around. What then should they do ? They determined to cast lots, and that each should watch in his turn, while the other two slept. The lots are cast, and the first falls on the carpenter. The monk and the tailor slept, and the carpenter kept watch. He sat and sat, but soon began to nod. In order to enliven himself and to frighten the tailor, whose turn came next, he took a block of wood which was near the sheep-fold, got his tools, and carved it into the figure of a maiden, and set it up in front of the fold. When his hour was past, he woke the tailor, saying ' Wake up you, and watch ' a bit. ' So he lay down himself, and the tailor got up. Some time passed before he saw anything in particular. At last, when his eyes were thoroughly opened, he turned and beheld the figure. At first he thought, in his terror, that the robbers were there, and shouted, ' To arms ! to arms, lads ! They have come to attack us ! ' But he sees that it does not move from its place, and takes courage.
 
@@ -296,8 +296,8 @@ And so begins he casket's second tale:
 
 Once again, the casket has broken the fourth wall *within the story* and directed a question to the Prince:
 
-```{note}
-:class: dropdown
+```{admonition} The Princess' Second Response
+:class: dropdown note
 
 " Bah ! such a trifle need not puzzle your head ! The poor tailor ought to have her, for he broke his needle, and made his fingers sore in sewing her clothes together."
 
@@ -338,8 +338,8 @@ answers the Prince.
 
 And so begins the casket's third tale:
 
-```{seealso}
-:class: dropdown
+```{admonition} The Golden Casket's Third Tale
+:class: dropdown seealso
 
 " Well then : once on a time (may the Holy Virgin protect you, Prince) there was a King and a Queen. They had a daughter, whom they gave to a foster mother to bring it up in a castle. The girl grew up, and one day, when her wet-nurse was combing her hair, she finds a lady-bird. Do you suppose such as she would know a ladybird when they saw it ?
 
@@ -409,8 +409,8 @@ And so begins the casket's third tale:
 
 Again, the cask breaks out of the story and returns out attention to the Prince... and the Princess:
 
-```{note}
-:class: dropdown
+```{admonition} The Princess' Third and Final Response
+:class: dropdown note
 
 He thought and thought and at length he said, " It is right that he should take her who carried her such a way."
 
