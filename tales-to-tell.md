@@ -85,40 +85,58 @@ In fact there were so many sheep that when morn- ing came they were still crossi
 ??there is a nasruddin or birbal stroy with a similar sense
 
 
+
+---
+
+Edda Eddis 
+
+Norse Beowulf
+
+http://heathengods.com/library/
+
+Story Books & Mythology
+
+Age of Fable (1856) Thomas Bulfinch
+
+The Book of the Sagas (1913) Alice S. Hoffman
+
+Children of Odin (1920) Padraic Colum
+
+Eddic Mythology (1929) John Arnett MacCulloch
+
+The Heroes of Asgard (1907 Schoolbook) A. & E. Keary & M.R. Earle
+
+How the Fenris Wolf was Chained (1909) E.M. Wilmot-Buxton
+
+Teutonic Mythology (1907) Victor Rydberg
+
+Books Written for Children
+
+Asgard and the Gods (1880) M.W. MacDowell
+
+Asgard Stories (1901) Mary H. Foster & Mabel H. Cummings
+
+Folklore and Legends - Scandinavian (1890) Pub. by W. W. Gibbings
+
+Legends of Norseland (1894) Mara L. Pratt
+
+Norse Stories – Retold from the Eddas (1882) Hamilton Wright Mabie
+
+Old Norse Stories (1900) Sarah Powers Bradish
+
+The Heroes of Asgard (1907 Schoolbook) A. & E. Keary & M.R. Earle
+
+The Nine Worlds (1894) Mary E. Litchfield
+
+
+
 --
 
 Traditional stroytellers
 
----
 
-Greek frame tale
-Folk-lore of modern Greece: the tales of the people
-by Edmund Martin Geldart
-Publisher W. Swan Sonnenschein &amp; Co., 1884
-https://archive.org/details/folkloremoderng00geldgoog/page/n110/mode/2up
+--
 
-Golden Casket
-
-King wants son to marry; girl will marry who she speaks to else they are killed; Prince says here; market seller -  "This casket for sale ! whoever buys it will rue it ; and again, whoever does not buy it, will rue it : the price is a thou- sand ducats, no more and no less."
-
-Gets to town where Princess lives; Princess father also tired of his daughter; she will die if he fails. Wager is he ust make her speak three times
-
-Casket speaks to him": As soon as you enter, say, * Good evening to you,' and see that you put me down some- where, and afterwards begin to tell as many lies and stories as you can. She, meanwhile, will be sitting aloft by the glass cupboard, she sees you, and you don't see her, and she is as silent as a rock. Then you must say, ' Well, as the Princess doesn't deign to speak to us, won't you speak to us ? ' naming the object on which you have placed me. Then I will begin to talk to you, and you must ask me to tell you a tale, and I shall answer, ' I will, but on your honour, wall you pronounce a right judgment thereon ? ' and you must take good care and pronounce one that is altogether wrong. Then she will be indignant, and will speak."
-But since the Lady Princess will not speak with us — will not you, per chance, little shelf, speak a word with us, who are here all alone, and have no one to talk to ? "
-"Gladly, master," answers the shelf; "if I would not speak for your sake, do you think I would for the sake of yonder wretch ? "
-" Thanks, little shelf ! "
-" What will you have ? — a song, a jest, or a little tale ? " "Well, to pass the time, let's say — a tale." " But allow me to say, master, that I shall ask you to deliver a fair judgment thereon ? "
-
-Tale... need a get out to prompt speaking.
-
-Smashes shelf.
-
-Day 2, chair. Smashes chair - "you have never spoken before"
-
-Day 3, dressing table.
-
-
-ALSO: Cunning old Man (story after Golden Casket; variant of Hudden, Dudden fomrulation etc)
 
 ---
 
