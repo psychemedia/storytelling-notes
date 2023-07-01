@@ -59,7 +59,7 @@ Over the years, the story would appear in various formas, often credited to Thac
 
 A little more detail on the original chapbook is provided by Séamus Ó Duilearga in an *Editorial Note* to a republication of it — *The Royal Hibernian Tales* — in [Béaloideas, Iml. 10, Uimh 1/2 (Jun. - Dec., 1940)](https://www.jstor.org/stable/20642540), pp. 148-203 (56 pages), published by *An Cumann Le Béaloideas Éireann* (the Folklore of Ireland Society). *(A freely available archive scanned version of *The Royal Hibernian Tales* is also available [here](https://www.google.co.uk/books/edition/_/-C9gu42s8zgC).)*
 
-> *The Royal Hibernian Tales* is the earliest known collection of Irish popular taleas or *marchën*, as well as being one of the rarest books in the field of Irish folklore. This little chap-book is an 18mo, and measures 14cm x 8cm; it is gatherd alternattely in tweleves and sixes, contains 108 pp., consisting of title-page (verso blank), prefatory note (verso blank) and text proper, numbered [5]—107 (verso of 107 blank). The book is undated. I have inserted the pagination of the original in this re-issue, and have retained the eccentric puntuation.
+> *The Royal Hibernian Tales* is the earliest known collection of Irish popular taleas or *marchën*, as well as being one of the rarest books in the field of Irish folklore. This little chap-book is an 18mo, and measures 14cm x 8cm; it is gathered alternately in twelves and sixes, contains 108 pp., consisting of title-page (verso blank), prefatory note (verso blank) and text proper, numbered [5]—107 (verso of 107 blank). The book is undated. I have inserted the pagination of the original in this re-issue, and have retained the eccentric punctuation.
 > 
 > That the book is older than 1825 appears from the *Reports of the Commissioners of the Board of Education of Ireland in 1825*, where, among the list of 300 chap-books of a secular character there enumerated, it is found under the title of _"Hibernian Tales."_
 
@@ -885,7 +885,7 @@ So he said he'ld show them the place and they could drive home as many of them a
 
 A variant of the tale appeared in 1845 by way of the pen of Hans Christian Anderson.
 
-*Anerson's version includes an additional subtale in which the O'Neary-like protagonist witnesses a domestic scene that does not appear in the other tellings above, and from it gains a benefit. I am sure I've seen that part usd in other tales, but canlt rmember offhand where... It is also worth noting that the "bag trick" by which Donald managed to escape the bag in which he was expected to meet his demise by exchanging a fanciful promise of reward for a tangible benefit also appears at the end of Grimm's `The Turnip`, which I shall discuss in a separate storynote.*
+*Anderson's version includes an additional subtale in which the O'Neary-like protagonist witnesses a domestic scene that does not appear in the other tellings above, and from it gains a benefit. I am sure I've seen that part used in other tales, but can't remember offhand where... It is also worth noting that the "bag trick" by which Donald managed to escape the bag in which he was expected to meet his demise by exchanging a fanciful promise of reward for a tangible benefit also appears at the end of Grimm's `The Turnip`, which I shall discuss in a separate storynote.*
 
 ```{admonition} Hans Christian Anderson, *Great Claus and Little Claus*, 1845
 :class: dropdown
@@ -1136,5 +1136,303 @@ And so he crept into the great sack, which had been laid across the back of one 
 " That can be done," replied Little Claus ; and he put a big stone into the sack, tied the rope tightly, and pushed against it. *Plump*! There lay Great Claus in the river, and sank at once to the bottom.
 
 "I'm afraid he won't find the cattle ! " said Little Claus ; and then he drove homeward with what he had.
+
+```
+
+## Along Similar Lines
+
+At the heart of the Hudden and Dudden tale is the quick-wittedness of Donal o'Leary in responding to to the misfortunes visited upon him by Hudden and Dudden. The motif of tricking Hudden and Dudden into killing their mothers also appears in a folk-tale translated in the 1880s by Edmund Geddart from an 1879 collection by von Hahn (*Contes Populaires Grecs publiesr d'après les Manuscrits du Dr. J, G. de Hahn, 1879.*).
+
+This tale — *The Cunning Old Man* — also includes one particular element of the donkey, the stick and the table (which for example is also found as part of *Jack and the North Wind*), specifically, the gold-creating ass (in at last two sense of the word!). The motif of a poor character being tricked into selling their animal, and then retribution being served, also reminds me of one of the Daniel O'Connell tales told by Eddie Lenihan on his Storyteller CD collection, a tale that also appears in an earlier form in Seamus Macmanus' *Through the turf smoke*, 1899:
+
+```{admonition}
+:class: dropdown seealso
+
+In [*Through the turf smoke*](https://archive.org/details/throughturfsmoke01macm/page/176/mode/2up),
+Seumas MacManus, 1899, p. 175-180.
+
+__The Counsellor__
+
+...
+
+Well, there was again, an' there was a poor man, who had got some ha'pence, an' he speculated on a dhrove of cattle, an' started up to Dublin with them to sell them, an' make profit on them. As me brave man was dhrivin' the cattle down Dublin sthreet, out comes a man that kep' a tibbacky shop, a cliver lad, an' he saw his chance, an' sez he to the man who owned the cattle, —
+
+" How much," sez he, " will ye take for the best an' worst of them cattle of yours? "
+
+Well, the poor man looked at the best baste in the dhrove, an' at the worst baste, an' he prices the two 0' them in his own mind, an' —
+
+" I'll take so-much," sez he, mentionin' it.
+
+"Ah right," sez the other, "I'll give ye yer axin'." An' into his yard he had the whole dhrove dhriven. It was no use what- somiver for the poor man to object, for the other said he bought the best an' the worst of the cattle, which was all of the cattle, an' he had witnesses to prove it.
+
+Away the poor man, in spite of himself, had to go with the price of barely two bastes in his pocket in payment for his whole dhrove, an' away he went lamentin', an' not knowing how he'd face back to his family again, with their wee trifle of money as good as gone. That night he put up in a public- house, an' the woman of the house comin' to larn the poor fella's lament axed him why he didn't go to the Counsellor, an' have his advice on it. If it did him no good, she said, it couldn't anyhow do him no harm, an' if there was wan way in a thousand out of it Dan would soon find that way.
+
+Right enough, the very next mornin' to the Counsellor the poor man set out, an' laid a full programme of his case afore Dan, an' axed him could anything be done. No an- swer Dan give him, till first he took three turns up an' down the parlour; and then, —
+
+" Yis" sez Dan, " somethin' can be done. There's wan way you can get back yer cattle, an' only wan."
+
+" What's that? " sez the man.
+
+" You'll," sez Dan, sez he, " have to cut off the small toe off yer left foot, an' go an' bury it on Spek Island `[Spike Island, in Cork Harbour]`, an' when you've done that come back to me."
+
+As he was diracted he done with no loss of time, an' back to Dan he comes for further diractions.
+
+Now," sez Dan, " come along with me."
+
+An' off both of them started an' never halted till they were in the tibbackinist's shop. An' och, it was welcome Dan was with the lad behind the counther, who was bowin' an' scrapin' to him, an' thankin' him for the honour he done him comin' into his shop.
+
+" Can ye sarve me," sez Dan, sez he, " with a little piece of good tibbacky? "
+
+" I can," sez the lad, " sarve yer honour with as good tibbacky as ever ye put intil a pipe-head."
+
+" An' have ye much of it ? " sez Dan.
+
+
+"More nor you'd care to buy," sez the lad.
+
+" Now what," sez Dan, sez he, " would ye be afther chargin' me for a sizable piece — say as much as would reach from me fren's nose to the small toe of his left foot? "
+
+The lad laughed at the quality of the ordher, but he knew Dan's odd ways. So, he sized the man up and sez he, —
+
+" I'll take so much," mentionin' some few shillin's.
+
+" It's a bargain," sez Dan.
+
+But lo an' behould ye! when the lad went to misure it he finds the toe gone.
+
+" There's no toe here! " sez he.
+
+" I know there isn't," sez Dan. " Me frend buried it in Spek Island a few days back. Ye'll have to carry on the tibbacky till ye git there."
+
+The lad laughed heartily at this, as bein' wan of Dan's best jokes.
+
+But Dan didn't laugh at all, at all.
+
+But, " Troth, an'," sez he, " I hope ye'll be laughin' when ye've finished misurin' me out me bargain."
+
+" Och, Counsellor, yer honour," sez the lad, sez he, " but sure ye don't railly mane it? Isn't it jokin' ye are."
+
+" I tell ye what it is, me good man/' sez Dan back to him, "you misure me out me bargain, an' be very quick about it, too; or, if ye don't," sez he, "be all the books in Chrissendom, I won't laive a slate on yer roof, or a stick or stave on yer primises I won't sell out till I have paid meself the sum of five thousan' poun' for braich of conthract," sez he, "an' here's me witness."
+
+" It's ruinated I am entirely, out an' out," sez the lad.
+
+" It's ruinated ye desarve to be," sez Dan. " Ye thought little of ruinatin' this poor sthranger here beside me, when he come up to Dublin with his little grain of cattle, sthrivin' to make a support for the wife an' childre. It's ruinated ye ought to be, ye low-lifed hang-dog ye! Turn the daicent man out his cattle this instant, in as good condition as you got them, an' moreover nor that, laive with him the price of the two baistes which ye paid him, as a slight compinsation for the mintal throuble you have caused the poor fella. Then I'll forgive ye yer bargain, on condition that, as long as ye live in Dublin, ye'll never again thry to take in the poor an' the stranger, an' bring a bad name on the town! "
+
+An' with a light heart, an' a heavy pocket, that poor man went home to his wife an' childre afther all; an' all by raison of Dan's cuteness. 
+
+```
+
+But that's a by the by. Let's see how the pieces combine in Gedart's telling of *The Cunning Old Man*.
+
+```{admonition} *The Cunning Old Man*, Gedart, 1884
+:class: dropdown
+
+In [*Folk-lore of modern Greece: the tales of the people*](https://archive.org/details/folkloremoderng00geldgoog/page/n130/mode/2up), 1884, collected by Edmund Martin Geldart, pp126-134.
+
+THE CUNNING OLD MAN. (Astypalea.)
+
+Once on a time there was an old man and an old woman, and they had no son.
+
+They were good managers : they had, in fact, vineyards, fields, cattle, and, in short, were well provided with everything.
+
+When the old man was very aged, and could no longer manage his stock, they made up their minds to sell it, in order to live comfortably In their declining years. So they take and sell everything and leave only one pretty heifer, which the old woman wanted to cheer her, since they had no other company. So the good dame kept the heifer for some time, and fed it, and gave it to drink, as though it were her child. At length, when it had grown big, and she was tired of it, she says to her husband :
+
+" You had better find a customer for the cow, for I have had enough of it."
+
+" Whom am I to find," says he. " Since you wish to sell it, you had better take it yourself, next Sunday morning, and bring it to the village, where the people are gathered together, and find a market for it."
+
+The old man's advice was good, so she acted upon it accordingly. Right early on the Sunday morning the good dame takes the cow and drives it to the village. As she was driving it along, the tithe-takers of the place saw her, and agreed among themselves to cheat the old woman, and get the cow at the price of a goat. So they get up and go to the church. The old dame also takes the cow and goes to the church door, and waits till the people come out, that she may sell it The three tithe-takers, having concerted their plans to cheat the old woman, the first of them comes out, and says to her :
+
+" Good dame, what say you ? How much do you want for that goat ? "
+
+"Good sir," quoth she, "what do you mean, don't you see that this is no goat, but a cow ; or are your eyes so dazed that you cannot see well ? "
+
+" My dear good woman," says he, " pray come to your right senses, and don't talk such nonsense, unless you want people to laugh at you. I'll give you thirty piastres, and you give me the goat."
+
+" Kind sir, as you are a Christian, do not tease me thus." she answeii
+
+But before she had gone further, out comes the second. He also addresses her in the same way :
+
+" Well, my good woman, will you let me have that goat ? "
+
+The old woman, who was more or less chuckle-headed, took a good long look at the cow, to see whether it really was a goat after all.
+
+" My good sir," says she, " that's a cow, and you call it a goat."
+
+" Nonsense," says he, " you're joking."
+
+" And how much will you give me for it ? " says the old woman.
+
+" How much will I give ? " he replied. " Well, for your sake, I don't mind saying twenty-five piastres. You see it is rather past its prime, old lady."
+
+" Nay, that will never do," says she, " why my husband would be the death of me ; yonder fellow, who is waiting over there, offered me thirty, and you offer me twenty-five."
+
+" Well, you are welcome to keep it, good dame," said he, and went and sat down beside the other, and the two waited for their companion. In a short while he, too, came out. But the poor old woman, hearing first one and then another say it was a goat, almost began to believe it must be so. Then the third rogue also began :
+
+" Good day to you, mother, what are you sitting here for ? Do you want to sell that goat of yours ? "
+
+Ah, then the old woman believed outright, and simply said :
+
+" I do, my son."
+
+" Well, I'll give you twenty piastres. Can I have it ? "
+
+Says the old woman to herself, " If I ask too much, I shan't get anything at all." So at length she says :
+
+" Why the first one offered me thirty, and you offer me twenty. Come, my good man, do you take it for thirty." •
+
+And so they get over the old woman, and take her cow at the price of a goat.
+
+Off goes the old woman to her husband, and gives him the thirty piastres, and says :
+
+" Eh, husband, only think what a laughing stock I've made of myself to-day. Why I was the butt of all the people. As I was going to the village, my cow turned out a goat, and there was I going and trying to cheat people by selling it for a cow, when it was a goat all the while."
+
+At that hearing, the old man kindled with anger, and said to her :
+
+" Heart alive, wife, who told you it was a goat ? "
+
+" So-and-so," she replies ; " and what's more, they've bought it"
+
+" Oh, indeed ! " said the old man. " Never mind, wife, but I'll have it out of them yet."
+
+So the next day our old friend goes and finds another farmer, and buys of him a venerable donkey, some hundred years old, and takes and sticks three gold and three silver coins under his tail, and drives him to the village — to the very place where the rascals lived. When they see the old man too, they cluster about him like so many flies, thinking they have found another wind-fall, and that here is a fine opportunity for cheating the old man. But the old man was a match for a thousand like them ; so when they address him with : " Well, old man, do you want to sell that donkey?" he replies, "Why, my lads, I scarcely know what to say. I never meant to sell that donkey at all, for there's not another like it to be bought for love or money. But, after all I've made my fortune out of it. Live and let live, say I."
+
+" But why can't you buy its like ? "
+
+" Well, it does not look a high-bred animal, I admit. But what can you want more of it, when it keeps dropping ducats ? "
+
+" What ! you don't say so, old man. Has it really that advantage ? "
+
+" I should rather think so," he replied, " and, if you don't believe me, wait and see."
+
+And therewith he began to belabour the wretched ass with his stick. The poor beast got so uncomfortable and restless with such a dose of cudgelling that it lifted its tail, and down oomes a ducat; and a little while afterwards, down comes a dollar, and so on, till he had dropped all that the old man had put there. At length the rogues cried out :
+
+" Enough ! enough ! .that will do ! we believe you, old man ! " and they winked at each other, as much as to say, " Now we have found our fortune."
+
+" Come now, old man," they said, " what do you want for it ? Well give you five thousand piastres."
+
+Then he answered, " What are you talking of ? Go about your business. Didn't I say it wasn't for sale ? " And he makes as though he would go on.
+
+" Don't go away," say they; "we'll give you ten — fifteen thousand, come ! "
+
+In the end he palms it off on them for twenty thousand piastres.
+
+" And what do you give it to eat, old man ? " they ask him.
+
+" What do I give it to eat ? " says he. " I did not feed it extra well. I used to give it a bit of chaff, and a drop of water. Now do you take it, shut it up in the stable, put plenty of food and water before it, and in three days you may go arid find the stable well nigh full."
+
+So he takes his tidy little sum of piastres, and goes back to his old wife.
+
+Then our fine fellows walk off with the donkey, and shut it up, as the old man told them, in a stable, and instead of giving it chaff they give it barley, so that it may produce the more abundantly ; set water before it, and leave it. The good donkey fastened on the barley, and ate and ate as much as ever he could, for he was famished with hunger ; he drank water on the top of that, so that the barley swelled, and the donkey burst. When the three days were passed, the tithe-takers met together. And each one of them takes a bag to fill it with the money. They come to the stable and turn the key in the lock, and push against the door ; but it won't open.
+
+" Eh, my lads ! " cry they to one another, " it seems he has made a sight of money. Why, the door won't open." How should they know that the donkey was dead on the other side, with his feet stretched out towards the door, and that was why it would not open? After a long time they break it open, and, instead of finding the money they expected, they find the donkey dead. Then they tore their hair, and cried, " Oh, the rascally old wretch, a fine trick he has played us ! " and they ran to find the old man.
+
+Now the old fellow was well aware that all this would follow, and so what do you think he did ? He went and bought two hares as like as like could be, and the next day he said to his wife :
+
+" Good wife ! look you ; mind you cook me such and such things for dinner to-day, and when I come with my guests I shall say to you, ' Wife, have you cooked me anything to-day ? ' and you must answer, ' Yes, I've cooked what you sent me word by the hare that I was to cook.' "
+
+Then he takes one of the hares and a pipe, and goes into the village, and sits down in a tavern and begins to smoke his pipe.
+
+It chanced that the tithe-takers passed by and saw him inside. Then they enter and sit down near him, and say to him :
+
+" Old man, do you know the donkey is dead, and now we don't know what to do ? "
+
+The old man, cunning fellow that he was, no sooner heard that the donkey was dead, than he began to weep and wail, and cry and groan.. " Alas ! my donkey, why did I sell you ? You who made a man of me, and one who sports a pipe and all ! And I never kept you to provide for my old age ! "
+
+At this they were much astonished. " Why, old man ! " said they, " why do you go on like that ? We have lost our very life's blood, and we don't weep like you ! "
+
+" And what did you give it to eat ? " he asked them.
+
+" Well, if you must know, old man, we gave it a bit of barley."
+
+" Ah, murderers ! " he cried, " you have killed my poor beast ! "
+
+And the long and the short of it is, that he so bamboozled them that they had to console htm. In a while he says to the hare :
+
+" Do you think you could go to the house, a;nd tell your mother to cook so and so for dinner, for I am going to entertain some friends to-day ? "
+
+And he let the hare run. Our friend, the hare, no sooner got loose than it took to the hills, and, for what I know, is running still. Then the tithe-takers were much exercised in mind, and wanted to go to the house, to see if the hare really went to take the message home. The old man guessed what was in their thoughts, and said to them :
+
+" If you like, you may come to my house to-day, and have a bit of something, and comfort my old woman when she hears about the donkey."
+
+" Gladly, father," they replied, and rose and came to the old man's house.
+
+As soon as they arrived there, the old man called out :
+
+" Have you got anything for dinner to-day, wife ?"
+
+" I have cooked what you sent word by the hare I was to cook," she answered.
+
+And she put on the table the dishes that the old man had told the hare to order.
+
+They see also the other hare. Then they begin whispering together about asking the old man to sell them the hare.
+
+" That's out of the question ! " cried the old man ; " IVe been made a fool of once, and sold you the donkey, and. you've killed it for me."
+
+When the old woman heard that the donkey was dead, she wept and beat her breast, as the old man had instructed her to do.
+
+"What, and give you my hare too, the only comfort left me ? No, no, husband, it cannot be ! " cried the old woman.
+
+But they besieged the old man with entreaties. " Oh, give it us, pray give it us ! You shall have thousands on thousands of piastres for it, if only we may have the chance of recovering our loss." When the old woman heard that they were willing to give her husband ten thousand piastres, she said :
+
+" Ah well, let them have it, husband, as they want it so much ; and let us think we never had it."
+
+Then they pay him ten thousand piastres, and take the hare and go. On the way, one of them observed, " I will now send it to my wife, and tell it to order her to cook me such and such dishes, and if you choose, send word by it at the same time tp your wives." So the second said, "Let it go to my wife also, and tell her so and so;" and the third said, " Well, it may say so and so to my wife as well." Then they said to the hare, "Well, did you hear what we told you ? "
+
+The hare shook its ears, and they supposed it meant to say, " Yes ! " and let it go, and it took to the hills, and they cried, " Eh, look at it ! It's not going straight to the village. It wants to take a turn first ! "
+
+Never fear but the old man will make you open your eyes !
+
+Not to make too long a tale of it, the day passed, and in the evening each goes home.
+
+" Well wife," says the first, " did the hare come and tell you to cook ? "
+
+When his wife heard him say that, she exclaimed, "Mercy on us, husband, what are you thinking of? Are you mad?" and she crossed herself. " Never a hare, nor a leveret did I see."
+
+The same thing happened to the other two.
+
+The first went to the house of the second one. " Well," said he, " did the hare come to your house ? "
+
+"Not a bit of it," he answered, "and I've been abusing my wife."
+
+So he went to the third. The same tale !
+
+" Eh, my lads," they say to each other, " it's too late to-night, but early to-morrow morning we will meet and go together to look up the old man."
+
+Till the next day dawned they had a hard time of it, for not one of them could sleep for vexation ; and, as soon as the first streak of light appeared, they got up and went to visit the old man. But the evening before the old man had said to his wife, , " Good wife, those fellows will be sure to come tomorrow to look after the hare. Now I am going to tie a bladder filled with blood round your neck, and when they come, I shall pretend to be in a passion, and cut the bladder so as to spill the blood, and you must tumble down and not stir a limb, but pretend to be dead ; and when I play the flute to you, you must get up again."
+
+So early in " the morning our friends came to the old man's house, and angrily accosted him as follows :
+
+" The hare you gave us never went home when we sent it, and we have only lost it for our pains."
+
+" Ah," answered the old man, " my child was vexed with me, I suppose, and took to the hills ; and it's all the fault of that old wife of mine ; " and he got up, and drew his knife, and plunged it into the bladder, and out spurted a quantity of blood, and the old woman fell flat on the floor, and turned up her toes.
+
+At this dreadful sight they were dumbfounded. At length they said to the old man :
+
+" Old man, old man ! have you no fear of God before your eyes, to do such a murderous deed ? "
+
+" What, does that shock you ? " said he, and he takes his flute, and, at the first note, the old woman gets up again. When they saw her get up, they were astounded indeed, and said to the old man :
+
+" Good father, will you let us have that flute ? We'll give you thirty thousand piastjres for it."
+
+" Stuff" and nonsense ! Do you think I am going to let you have it, when I can kill my wife whenever I like, and raise her to life again with it ? "
+
+Says one of them, "Nay, but you must give it to us."
+
+And, to be short, he gives them the flute as well, and they take their departure. As they walked along, they said to one another: "Well, we've bamboozled the old man, and now we'll go, wake the dead with our flute, and become famous men."
+
+So they come to the village, and the first one takes the flute ; and no sooner has he entered his house than he picks a quarrel with his wife, and then and there whips out his knife, and without a moment's hesitation, he gives a playful stab in the breast and stretches her dead on the floor. Then he takes his flute, and plays and plays, but in vain ; so he weeps and beats his brow, because he has killed his wife. Then he thinks to himself, "If I tell them my wife did not come to life again, they will not kill theirs, and they will take me for a madman. Nay, let them have the same experience as myself." So he went and found number two, and put a bright face, on it; and the other asks him, "Well, what success had you ? "
+
+"Good, brother," says he, "no sooner did I play, than she stood bolt upright at once."
+
+Then the other seizes it, and goes to his wife, and, without any provocation, finds some fault with her, and takes out his knife, and kills her. Then he plays the flute, but he might as well have piped to the stones, " Alas, what have I done ? " says he to himself, " perhaps I don't know how to play it. How was it the other told me he raised his wife? However, I had better say nothing now, and afterwards I will get one of them to bring my wife to life again." And so he brought it to the other, and he treated his wife in the same way. And then they rush like mad- men, the one to the other, begging one another to restore their wives to life ; and they wept and bewailed the fate that had be- fallen them, that they could not let well alpne, but must go and kill their wives. Then they went to the Cadi, and accused the old man of having caused them this trouble. The Cadi summons the old man.
+
+" Old man," says he, " what is this business you have been doing?"
+
+Then the old man replied, " Cadi, even as they cheated my wife, and took from her her cow at the price of a goat, even so have I cheated them. They should have kept their eyes well opened ! "
+
+So our clever old man got the best of the bargain, and gave our friends, the tithe-takers, a good dressing. And he lived with his old woman a right merry life, and may we live a merrier still.
+
+" Set a thief to catch a thief."
 
 ```
