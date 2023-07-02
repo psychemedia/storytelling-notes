@@ -8,9 +8,11 @@ Now, that is not the story I'm going to tell here, but I was reminded of it when
 
 Unfortunately, it seems that is *not* the origin of th name. Although it's not far off.
 
-Because the town was, at least as far as far local Woolpit historians would have you believe, named after Ulfketel (or Ulfyctel), counsellor to Aithelred the Unready, and Lord of the Eastern Angles, Ulfketel, who had helped defend East Anglia against Danish attack in the early 11th century. Ulfketel, a name of Scandinavian origina: from ulf, meaning wolf, and ketel: trap, though I have elsewhere seen it translated as helmet, which might give rise to an Old English name such as Wulfhelm, or cauldron: Wolf's pot. There are so many ways you could take this!
+```{note}
+As far as far local Woolpit historians would have you believe, named after Ulfketel (or Ulfyctel), counsellor to Aithelred the Unready, and Lord of the Eastern Angles, Ulfketel, who had helped defend East Anglia against Danish attack in the early 11th century. Ulfketel, a name of Scandinavian origina: from ulf, meaning wolf, and ketel: trap, though I have elsewhere seen it translated as helmet, which might give rise to an Old English name such as Wulfhelm, or cauldron: Wolf's pot. There are so many ways you could take this!
+```
 
-Anyway, maybe the town was actually renowned for its wolf pits: deep pits dug on the outskirts of the town, lined with stone, and baited with something meaty, something like a chunk of dead cow, then covered with branches. Attracted by the smell of fresh meat, a wolf would approach, then fall into the pit, and be unable to climb out because of the steep sides.
+At the time, so legend has it, the town was renowned for its wolf pits: deep pits dug on the outskirts of the town, lined with stone, and baited with something meaty, something like a chunk of dead cow, then covered with branches. Attracted by the smell of fresh meat, a wolf would approach, then fall into the pit, and be unable to climb out because of the steep sides.
 
 Now, you might be thinking that none of that has anything to do with "green". But you'd be wrong. Because once, long ago, in the county of Suffolk, in the town Woolpit, a strange thing happened one harvest time. The folk were out in the in the fields, gathering the harvest, when they saw two young children walking towards them, two young children, a boy an a girl, not from those parts. No-one recognised them; no-one could understand the strange language they spoke; no-one had seen the like of the strange, if ragged, clothes they wore; and no-one could take their eyes off the childrens' green skin.
 
