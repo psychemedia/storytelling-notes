@@ -20,21 +20,9 @@ A nice variant with a different set of adventures comes in the form of [*The Sto
 
 Several other versions can be found, in both English and Irish collected variants, in the Irish Schools Collection, as publishd by Dúchas / the National Folklore Collection, UCD.
 
-
 Another variant that comes from the Scottish traveller tradition has been collected several times from Betsy Whyte.
 
-https://www.youtube.com/watch?v=s3oOyCbdcgo
-
-
-Kathy Jessup - 
-
-```{youtube} ranV12sVdaw
-```
-
-https://www.youtube.com/watch?v=ranV12sVdaw https://www.kathyjessup.com/
-
-Betsy Whyte
-
+```{note}
 Summary-ish A laird of the black arts held a gathering for his workers, and served sowans [which Betsy explains]. Everybody had to: "Tell a story, sing a sang, / Show your bum, or oot ye gang." There was a golden guinea for whoever told the biggest lie. One cattleman couldn't make up anything, so the laird sent him to clean out his boat, but he floated away in it. He discovered that he had turned into a woman. When 'she' landed, she met a young man, who took her home to his mother. In the course of time, they got married and had children. One day they were out walking and saw the boat. The woman stepped into it, and it carried her off. She turned back into the cattleman and returned to find that no time had passed. Greetin [weeping] for his lost family, he told them what had happened, and won the guinea. The Black Laird had made him imagine it all so that he would have something to tell.
 
 - https://search.library.wisc.edu/digital/AFEZWYLTPRBSSS8U
@@ -44,13 +32,12 @@ Summary-ish A laird of the black arts held a gathering for his workers, and serv
 - https://www.tobarandualchais.co.uk/track/110229?l=en
 - https://www.tobarandualchais.co.uk/track/76330?l=en
 
+```
 
-https://www.duchas.ie/en/aath/cbes/2412B
-Duchas.ie (The Man Who Had No Story) Tale Type  AT2412B
+We can also find several variants of *The Man Who Had No Story* /  Tale Type AT2412B in the Irish Schools Collection.
 
-
-eg
-
+```{admonition} Man Who Had No Story, variant
+:class: dropdown
 
 https://www.duchas.ie/en/cbes/4427880/4353941/4444444
 The Schools' Collection, Volume 0106, Page 540
@@ -74,6 +61,11 @@ LANGUAGE
 English
 Once a man from Islandmore went back to Clonbur visiting. When the night came the man of the house asked him to sing a song and he said "I am not able." He asked him to whistle awhile he said he was not able, he asked him to tell a story and he said he was not able. He had his shoes taken off. The man of the house took his shoes and he threw them out. The man went out. When he was coming in he met two men. They asked him to go with them. They went along and they told the man when they would come to a graveyard they would go in and rob a grave. He went into the grave. When he was within they heard talk coming and they rolled in the stone in top of the man and ran away. The people that were talking were people coming to rob the grave also. When they came to the grave they rolled back the stone and they saw the man they ran away. The man went home and after that he had a story to tell.
 End.
+
+```
+
+```{admonition} Man Who Had No Story, variant
+:class: dropdown
 
 https://www.duchas.ie/en/cbes/4428273/4390606/4458746
 The Schools' Collection, Volume 1032, Page 315-319
@@ -109,8 +101,11 @@ Two months passed and Pat had wandered far, and wide over the county Donegal, wh
 
 "How are you, Pat Diver" said he, bending down to look into the tinkers' face. "You've the advantage of me sir, for I havna' the pleasure of knowing you "faltered Pat "Do you not know me, Pat?" Whisper- "When you go back to Innishowen, you'll have a story to tell."
 
+```
 
---
+```{admonition} Man Who Had No Story, variant
+:class: dropdown
+
 https://www.duchas.ie/en/cbes/4493728/4414480/4528666
 The Schools' Collection, Volume 1101, Page 176-8
 COLLECTOR
@@ -138,8 +133,10 @@ There was a big fellow with red hair lying in the corner, he got up, shook himse
 
 The lady went forward and looked into the grave, and said, that grave is not long enough for my father. The red haired fellow said, if its long enough for Tom McGinley it is long enough for your father. Says Tom you'll not put me in there, so they started to wrestle and Tom fell. The cocks crew and when he came to himself he was holding a rush bush. He jumped to his feet, went on to Letterkenny, bought the horse, returned home, and from that day to the day he died, he could tell both a tale and a story.
 
+```
 
----
+```{admonition} Man Who Had No Story, variant
+:class: dropdown
 
 https://www.duchas.ie/en/cbes/4562127/4561875/4569833
 
@@ -160,9 +157,11 @@ Over he went but he did not come back. Then the second man went over to see what
 
 So he spread legs on the coffin but all that was only a dream and next morning when he awoke he found himself sitting up on top of Mahery's old house and his hands around the chimney.
 
+```
 
+```{admonition} Man Who Had No Story, variant
+:class: dropdown
 
----
 https://www.duchas.ie/en/cbes/4602698/4596188/4606529
 Translated by ChatGPT from the Irish
 The Schools' Collection, Volume 0009, Page 95-7
@@ -184,7 +183,11 @@ He went to sleep and did not wake up until late in the day, lying in the same pl
 
 There was no sight of the house or the old woman. He did not say the next night that he had no story.
 
----
+```
+
+```{admonition} Man Who Had No Story, variant
+:class: dropdown
+
 https://www.duchas.ie/en/cbes/4602758/4601689/4633468
 The Schools' Collection, Volume 0199, Page 21-3
 COLLECTOR
@@ -215,7 +218,11 @@ Mullagh,
 Dromahair,
 Co. Leitrim
 
----
+```
+
+```{admonition} Man Who Had No Story, variant
+:class: dropdown
+
 https://www.duchas.ie/en/cbes/4742087/4734614/4819191
 The Schools' Collection, Volume 0465, Page 74-6
 INFORMANT
@@ -233,8 +240,11 @@ There was a old man there long ago. He went far away to a wood for timber and he
 
 Darby had no time to put on his clothes. When he went to catch the scolpán it jumped from him. Darby followed it and he said "As far as you will go I will catch you". He stayed all night after the scolpán. It ran into the wood and he followed it. He saw a barrel in the wood and he went into it for shelter. It was not long until a bull called the way to him. The bull was bucking the barrel. His tail went into a hold that was in the barrel. Darby got hold of his tail so the bull ran away until it got broken. Darby climbed a tree he saw three men coming and they were riding on a white horse. They made down a fire at the foot of a tree. They had a dead man between them in a spit. They said they were all right if they had some one to turn the dead man to the fire. They looked up and they saw the man on a tree. They said "Come down here Darby Gallivan and turn the spit to the fire while we will be away." He came down and they told him not to leave a spark burn the beard and not to leave it get brown or if he would they would kill him. When he was turning the spit to the fire a spark jumped on the beard. The dead man said "Blood an' ounds,! Darby, dont burn my beard"? Darby ran away and the dead man ran after him with the spit. He thought it was day because he saw a light at a distance. He knew it was a house. He went towards it and went in. There was the old man near the fire. He said "Hallow Darby Gallivan where were you? I am waiting here all night. "The stranger could not speak with the fright. He asked Darby had he any story. He spoke and said he had a story while he lived The old man and the stranger went to bed. When Darby woke in the morning he was stretched in a field with his head on a bunch of rushes. Where-ever he went after that he had a story to tell.
 
+```
 
----
+```{admonition} Man Who Had No Story, variant
+:class: dropdown
+
 https://www.duchas.ie/en/cbes/4811581/4798958
 ARCHIVAL REFERENCE
 The Schools' Collection, Volume 0260, Page 166-9
@@ -252,47 +262,5 @@ Once upon a time not so long ago a man was going to a fair with his cousin That 
 
 At last one of the men said to the young man "You do this man the same as you saw us doing and remember if you let one bit of his beard be burnt you will get the same treatment when we return. "Alright" said the young man taking the old man and twisting and turning him the same as he saw the other four men doing. The young man was looking behind him to see where did the four men go when a whirlwind came and caught the old mans beard and burned every single bit of it. The young man threw down the old man and made off through the fields and kept running until he got worn out with fatigue. He sat down to rest himself and didn't he fall asleep and when daylight came didn't he awake and where he found himself was within four score of yards from the old Church of Knockcroghery.
 
----
-https://www.duchas.ie/en/cbes/4811581/4798962
-The Schools' Collection, Volume 0260, Page 170-
-Riddles
+```
 
-Long legs and crooked thighs
-Small head and no eyes.
-(Tongs)
-
-It goes up the chimney up and down the chimney down.
-(smoke).
-
-Little thing, litle thing, smaller than a mouse
-It has as many windows as in the King's house.
-(A thimble)
-
-What is the highest thing in a wood
-(A cow's loo)
-
-What is it that travels all Ireland
-And never wets a foot.
-(a bee).
-
-What's full but holds more.
-(A pot full of potatoes when water is poured in).
-
-What is it thats like half the moon.
-(The other half)
-
-As I went out in my grandfather's garden
-I saw the rea, rue ragh eating the rea rue ranpie.
-(A sow eating a mangold)
-
-Why does a chimney smoke?
-(Because it can't chew.)
-
-If you get up on a house where will you get get down?
-(You get down off a goose).
-
-Why isn't your nose twelve inches?
-(Because if it was it would be a foot).
-
-What part of a cow goes out the gap first?
-(Her breath).
