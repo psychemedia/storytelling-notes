@@ -18,59 +18,57 @@ The children wer taken to the Lord of the Manor — he would surly know what to 
 
 TO DO - village sign...
 
-It seems as if the story was first recorded by 
-
-Ralph of Coggeshall, Chronicon Anglicanum,
-
-https://www.google.co.uk/books/edition/Chronicon_anglicanum/bsNCAAAAYAAJ?hl=en&gbpv=0
-RERUM BRITANNICARUM MEDII AEVI SCRIPTORES,
-OR
-CHRONICLES AND MEMORIALS OF GREAT BRITAIN
-
-AND IRELAND
-DURING
-THE MIDDLE AGES.
- published 1875
- RADULPHI DE COGGESHALL
-CHRONICON ANGLICANUM
-
 ---
 
-TO DO
+There are two accounts of the tale from the decades following the events, one by Ralph of Coggeshall, the other by William of Newburgh.
 
 ```{admonition} Original (Latin) Account in Ralph of Coggeshall, Chronicon Anglicanum
 :class: dropdown seealso
 
-De quodam puero et puella de terra emergentibus.
+In Ralph of Coggeshall (RADULPHI DE COGGESHALL), "Chronicon Anglicanum", [RERUM BRITANNICARUM MEDII AEVI SCRIPTORES, OR, CHRONICLES AND MEMORIALS OF GREAT BRITAIN AND IRELAND DURING THE MIDDLE AGES](https://www.google.co.uk/books/edition/Chronicon_anglicanum/bsNCAAAAYAAJ?hl=en&gbpv=0), published 1875
+
+__De quodam puero et puella de terra emergentibus.__
 
 Aliud quoque mirum priori non dissimile in Suthfolke contigit apud Sanctam Mariam de Wulpetes. Inventus est puer quidam cum sorore sua ab accolis loci illius juxta oram cujusdam foveae quae ibidem continetur, qui formam omnium membrorum caeteris homini bus similem habebant, sed in colore cutis ab omnibus mortalibus nostrae habitabilis discrepabant. Nam tota superficies cutis eorum viridi colore tingebatur. Loque lam eorum nullus intelligere potuit. Hi igitur ad  domum domini Ricardi de Calne cujusdam militis, ad ducti prae admiratione, apud Wikes, inconsolabiliter flebant. Panis ac caetera cibaria eis apposita sunt, sed nullis escis quae eis apponebantur vesci volebant, cum utique maxima famis inedia diutius cruciarentur,quia omnia hujusmodi cibaria incomestibilia esse credebant, sicut puella postmodum confessa est. Tandem cum fabae noviter cum stipitibus abscissae in domo asportarentur, cum maxima aviditate innuerunt ut de fabis illis sibi daretur. Quae corameisallatae, stipites aperiunt, non fabarum folliculos, putantes in concavitate stipitum fabas contineri. Sed fabis in stipitibus non inventis, iterum flere coeperunt. Quod ubi astantes animadverterunt, folliculos aperiunt,fabas nudas ostendunt, ostensis cum magna hilaritate vescuntur, nulla alia cibaria ex multo tempore penitus contingentes. Puer vero semper quasi languore depressus infra breve tempus moritur. Puella vero sospitate continua perfruens, ac cibariis quibuslibet assuefacta, illum prassinum colorem penitus amisit, atque sanguineam habi tudinem totius corporis paulatim recuperavit. Quae postmodum sacri baptismatis lavacro regenerata, ac per multos annos in ministerio praedicti militis, (sicut ab eodem milite et ejus familia frequenter audivimus,) commorata, nimium lasciva et petulans exstitit. Interrogata vero frequenter de hominibus suae regionis, asserebat quod omnes habitatores et omnia quae in regione illa habebantur viridi tingerentur colore, et quod nullum solem cernebant, sed quadam claritate fruebantur, sicut post solis occasum contingit. Interrogata autem quomodo in hanc terram devenisset cum puero praedicto, respondit, quia cum pecora sequerentur, devenerunt in quandam cavernam. Quam ingressi, audierunt quendam delectabilem sonum campanarum ; cujus soni dulcedine capti per cavernam diutius errando incedebant, donec ad exitum illius devenirent. Qui inde emergentes, nimia claritate solis et insolita aeris temperie, quasi attoniti et exanimes effecti, diu super oram speluncae jacuerunt. Cumque a supervenientium inquie tudine terrerentur, diffugere voluerunt, sed introitum speluncae minime reperire potuerunt, donec ab eis comprehenderentur.
 
 ```
 
-THe following translation was generated using Google Translate:
+A translation is provided in Thomas Keightley's *The Fairy Mythology* of 1850:
 
-```{admonition} Ralph of Coggeshall, Chronicon Anglicanum (translation)
+```{admonition} Translation of Chronicon Anglicanum by Thomas Keightley, The Fairy Mythology, 1850
 :class: dropdown
 
-About a boy and a girl emerging from the earth.
+In Thomas Keightley, [The fairy mythology](https://archive.org/details/dli.ministry.12731/page/281/mode/2up), 1850, pp281-2.
 
-Another wonder, not unlike the former, happened in Suthfolke at St. Mary of Wulpetes. A certain boy was found with his sister by the acolytes of that place near the edge of a certain pit which is contained there, who had the shape of all the other limbs of a man, but in the color of their skin they differed from all the mortals of our habitation. For the whole surface of their skin was dyed green. None of them could understand my speech. They therefore went to the house of a certain soldier, Lord Richard de Calne, when they were taken by surprise at Wikes, and wept inconsolably. Bread and other victuals were set before them, but they did not want to eat any of the food that was set before them, when of course they would be tormented by the greatest hunger and starvation for a longer time, because they believed that all such victuals were inedible, as the girl later confessed. At last, when the beans, freshly cut with the stalks, were brought into the house, they begged with the greatest eagerness that some of the beans should be given to them. Those that are browned open the stalks, not the pods of the beans, thinking that the beans are contained in the hollow of the stalk. But when the beans were not found in the piles, they began to cry again. When the bystanders noticed, they opened the pods, showed the naked beans, and ate them with great gaiety, having not touched any other food for a long time. But the child always dies, as if depressed by sickness, within a short time. But the girl, enjoying continued suspense, and having become accustomed to every kind of food, completely lost that purple color, and gradually recovered the blood-like disposition of her whole body. After being regenerated by the bath of holy baptism, and for many years in the service of the aforesaid soldier, (as we have often heard from the same soldier and his family), she was exceedingly lascivious and mischievous. But when she was frequently questioned about the people of her country, she asserted that all the inhabitants and everything that was in that country were dyed green, and that they saw no sun, but enjoyed a certain brightness, as happens after the setting of the sun. When she was asked how she had come to this land with the aforesaid boy, she answered that when they were following the cattle, they came to a certain cave. As soon as they entered, they heard a certain pleasing sound of bells; captivated by the sweetness of its sounds, they wandered on through the cave for a longer time, until they came to its exit. Those emerging from thence, by the excessive brightness of the sun and the unusual temperature of the air, as if stunned and lifeless, lay for a long time on the edge of the cave. And when they were frightened by the restless noise of those who came, they wanted to flee, but they could not at all find the entrance to the cave, until they were seized by them.
+__The Green Children.__
+
+"ANOTHER wonderful thing," says Ralph of Coggeshall, `[As quoted by Picart in his Notes on William of Newbridge. We could not find it in the Collection of Histories, etc., by Marténe and Durand,—the only place where, to our knowledge, this chronicler’s works are printed.]` "happened in Suffolk, at St. Mary’s of the Wolf-pits. A boy and his sister were found by the inhabitants of that place near the mouth of a pit which is there, who had the fit of all their limbs like to those of other men, but they differed in the colour of their skin from all the people of our habitable world; for the whole surface of their skin waa tinged of a green colour. No one could understand their speech. When they were brought as curiosities to the house of a certain knight, Sir Richard de Calne, at Wikes, they wept bitterly. Bread and other victuals were set before them, but they would touch none of them, though they were tormented by great hunger, as the girl afterwards acknowledged. At length, when some beans just cut, with their stalks, were brought into the house, they made signs, with great avidity, that they should be given to them. When they were brought, they opened the stalks instead of the pods, thinking the beans were in the hollow of them; but not finding them there, they began to weep anew. When those who were present saw this, they opened the pods, and showed them the naked beans. They fed on these with great delight, and for a long time tasted no other food. The boy, however, was always languid and depressed, and he died within a short time. The girl enjoyed continual good health; and becoming accustomed to various kinds of food, lost completely that n colour, and gradually recovered the sanguine habit of er entire body. She was afterwards regenerated by the laver of holy baptism, and lived for many years in the service of that knight (as I have frequently heard from him and his family), and was rather loose and wanton in her conduct. Being frequently asked about the people of her country, she asserted that the inhabitants, and all they had in that country, were of a green colour; and that they saw no sun, but enjoyed a degree of light like what is after sunset. Being asked how she came into this country with the aforesaid boy, she replied, that as they were following their flocks, they came to a certain cavern, on entering which they heard a delightful sound of bells ; ravished by whose sweetness, the went for a long time wandering on through the cavern, until they came to its mouth. When they came out of it, they were struck senseless by the excessive light of the sun, and the unusual temperature of the air; and they thus lay for a long time. Being terrified by the noise of those who came on them, they wished to fly, but they could not find the entrance of the cavern before they were caught."
 
 ```
 
-A later account is given by TO DO
+A slightly later, but still "near contemporary" (within a couple of generations) retelling of the tale is also provided by William of Newburgh:
 
-
-```{admontion} The History of William of Newburgh
+```{admontion} *Of the Green Children*, Wlliam of Newburgh
 :class: dropdown
 
-https://www.google.co.uk/books/edition/The_History_of_William_of_Newburgh_the_C/dBQ5AQAAMAAJ?hl=en&gbpv=0
+In [*The Church Historians of England: The History of William of Newburgh*](https://www.google.co.uk/books/edition/The_History_of_William_of_Newburgh_the_C/dBQ5AQAAMAAJ?hl=en&gbpv=0), published 1856:
 
-THE CHURCH HISTORIANS
-OF ENGLAND.
+__CHAP. XXVII.— OF THE GREEN CHILDREN.__
 
-The History of William of Newburgh
-By William (of Newburgh) · 1856
+NOR does it seem right to pass over an unheard of prodigy, which, as is well known,took place in England during the reign of king Stephen. Though it is asserted by many, yet I have long been in doubt concerning the matter, and deemed it ridiculous to give credit to a circumstance supported on no rational foundation, or at least one of a very mysterious character ; yet, at length I was so overwhelmed by the weight of so many and such competent witnesses,that I have been compelled to believe,and wonder over amatter,which I was unable to comprehend,or unravel, by any powers of intellect.
+
+In East Anglia there is a village, distant, as it is said, four or five miles from the noble monastery of the blessed king and martyr, Edmund `[Bury St.Edmunds,in Suffolk.]`; near this place are seen some very ancient cavities, called Wolfpittes," that is, in English, " Pits for wolves," and which give their name to the adjacent village. `[Wulpet, a market town, concerning which,see Camden's Brit. col. 443, who mentions this story from Newburgh. Ralph of Coggeshall, (cited by Picard in his notes upon this passage,) mentions this occurrence, but refers it to the reign of Henry II. He derived his information, as he states, from Sir Richard de Calne, in whose house these children resided.]` During harvest, while the reapers were employed in gathering in the produce ofthe fields,two children,a boy and a girl, completely green in their persons and clad in garments of a strange colour, and unknown materials, emerged from these excavations. While wandering through the fields in astonishment,they were seized by the reapers, and conducted to the village, and many persons coming to see so novel a sight,they were kept some days without food. But, when they were nearly exhausted with hunger, and yet could relish no species of support which was offered to them, it happened,that some beans were brought in from the field,which they immediately seized with avidity, and examined the stalk for the pulse, but not finding it in the hollow of the stalk, they wept bitterly.
+
+Upon this, one of the bystanders, taking the beans from the pods, offered them to the children, who seizedthem directly, and ate them with pleasure. By this food they were supported for many months, until they learnt the use of bread. At length, by degrees, they changed their original colour, through the natural effect of our food, and became like ourselves, and also learnt our language. It seemed fitting to certain discreet persons that they should receive the sacrament of baptism, which was administered accordingly. The boy,who appeared to be the younger, surviving his baptism but a little time, died prematurely; his sister, however, continued in good health, and differed not in the least from the women of our own country. Afterwards, as it is reported, she was married at Lynne, and was living a few years since, at least, so they say. Moreover, after they had acquired our language, on being asked who and whence they were,they are said to have replied, " We are inhabitants of the land of St. Martin, who is regarded with peculiar veneration in the country which gave us birth." Being further asked where that land was, and how they came thence hither, they answered, "We are ignorant of both those circumstances; we only remember this,that on a certain day,when we were feeding our father's flocks in the fields, we heard a great sound, such as we are now accustomed to hear at St. Edmund's, when the bells are chiming; and whilst listening to the sound in admiration, we became on a sudden, as it were, entranced, and found ourselves among you in the fields where you were reaping." Being questioned whether in that land they believed in Christ, or whether the sun arose, they replied that the country was Christian, and possessed churches; but said they, " The sun does not rise upon our countrymen ; our land is little cheered by its beams ; we are contented with that twilight, which, among you, precedes the sun-rise, or follows the sun-set. Moreover, a certain luminous country is seen, not far distant from ours, and divided from it by a very considerable river." These,and many other matters, too numerous to particularize, they are said to have recounted to curious inquirers. Let every one say as he pleases, and reason on such matters according to his abilities; I feel no regret at having recorded an event so prodigious and miraculous.
+
+```
+
+The preface to that work provides some background to William of Newburgh's *History*:
+
+```{admontion} Preface to *The Hisory of William of Newburgh*
+:class: dropdown seealso
+
+In [*The Church Historians of England: The History of William of Newburgh*](https://www.google.co.uk/books/edition/The_History_of_William_of_Newburgh_the_C/dBQ5AQAAMAAJ?hl=en&gbpv=0), published 1856:
 
 PREFACE TO WILLIAM OF NEWBURGH.
 
@@ -81,13 +79,16 @@ gleaned from the author's own statements.
 
 3. This history, which commences with the Norman conquest, in 1066, and ends in 1197, was undertaken at the request of Ernald, abbot of the neighbouring monastery of Rievaux, to whom, on its completion, it was dedicated by the author. ...
 
-CHAP.XXVII.- OF THE GREEN CHILDREN.
-
-NOR does it seem right to pass over an unheard of prodigy, which, as is well known,took place in England during the reign of king Stephen. Though it is asserted by many, yet I have long been in doubt concerning the matter, and deemed it ridiculous to give credit to a circumstance supported on no rational foundation, or at least one of a very mysterious character ; yet, at length I was so overwhelmed by the weight of so many and such competent witnesses,that I have been compelled to believe,and wonder over amatter,which I was unable to comprehend,or unravel, by any powers of intellect.
-
-In East Anglia there is a village, distant, as it is said, four or five miles from the noble monastery of the blessed king and martyr, Edmund `[Bury St.Edmunds,in Suffolk.]`; near this place are seen some very ancient cavities, called Wolfpittes," that is, in English, " Pits for wolves," and which give their name to the adjacent village. `[Wulpet, a market town, concerning which,see Camden's Brit. col. 443, who mentions this story from Newburgh. Ralph of Coggeshall, (cited by Picard in his notes upon this passage,) mentions this occurrence, but refers it to the reign of Henry II. He derived his information, as he states, from Sir Richard de Calne, in whose house these children resided.]` During harvest, while the reapers were employed in gathering in the produce ofthe fields,two children,a boy and a girl, completely green in their persons and clad in garments of a strange colour, and unknown materials, emerged from these excavations. While wandering through the fields in astonishment,they were seized by the reapers, and conducted to the village, and many persons coming to see so novel a sight,they were kept some days without food. But, when they were nearly exhausted with hunger, and yet could relish no species of support which was offered to them, it happened,that some beans were brought in from the field,which they immediately seized with avidity, and examined the stalk for the pulse, but not finding it in the hollow of the stalk, they wept bitterly.
-
-Upon this, one of the bystanders, taking the beans from the pods, offered themtothechildren,who seizedthem directly, and ate them with pleasure. By this food they were supported for many months, until they learnt the use of bread. At length, by degrees, they changed their original colour, through the natural effect of our food, and became like ourselves,and also learnt our language. It seemed fitting to certain discreet persons that they should receive the sacrament of baptism, which was administered accordingly. The boy,who appeared to be the younger, surviving his baptism but a little time, died prematurely; his sister, however, continued in good health, and differed not in the least from the women of our own country. Afterwards, as it is reported, she was married at Lynne, and was living a few years since, at least, so they say. Moreover, after they had acquired our language, on being asked who and whence they were,they are said to have replied, " We are inhabitants of the land of St. Martin, who is regarded with peculiar veneration in the country which gave us birth." Being further asked where that land was, and how they came thence hither, they answered, "We are ignorant of both those circumstances; we only remember this,that on a certain day,when we were feeding our father's flocks in the fields, we heard a great sound, such as we are now accustomed to hear at St. Edmund's, when the bells are chiming; and whilst listening to the sound in admiration, we became on a sudden, as it were, entranced, and found ourselves among you in the fields where you were reaping." Being questioned whether in that land they believed in Christ, or whether the sun arose, they replied that the country was Christian, and possessed churches; but said they, " The sun does not rise upon our countrymen ; our land is little cheered by its beams ; we are contented with that twilight, which, among you, precedes the sun-rise, or follows the sun-set. Moreover, a certain luminous country is seen, not far distant from ours, and divided from it by a very considerable river." These,and many other matters, too numerous to particularize, they are said to have recounted to curious inquirers. Let every one say as he pleases, and reason on such matters according to his abilities; I feel no regret at having recorded an event so prodigious and miraculous.
-
 ```
 
+We can also contrast William of Newburgh's account with Keightley's summary, which immediately followed his translation of Ralph of Coggeshall:
+
+```{admonition} Keightley, summarising Newburgh, 1850
+:class: dropown
+
+In Thomas Keightley, [The fairy mythology](https://archive.org/details/dli.ministry.12731/page/281/mode/2up), 1850, pp282-3.
+
+
+This story is also told by William of Newbridge,`[Guilielmi Neubrigensis Historia, sive Chronica Rerum Anglicarum. Oxon. 1719, lib. i. c. 27.]` who places it in the reign of King Stephen. He says he long hesitated to believe it, but he was at length overcome by the weight of evidence. According to him, the place where the children appeared was about four or five miles from Bury St. Edmund’s: they came in harvest-time out of the Wolf-pits ; they both lost their green hue, and were baptised, and learn English. The boy, who was the younger, died; but the girl married a man at Lenna, and lived many years. They said their country was called St. Martin's Land, as that saint was chiefly worshiped there; that the people were Christians, and had churches; that the sun did not rise there, but that there was a bright country which could be seen from theirs, being divided from it by a very broad river.
+
+```
