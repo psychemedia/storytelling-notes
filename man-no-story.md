@@ -36,7 +36,7 @@ Summary-ish A laird of the black arts held a gathering for his workers, and serv
 
 We can also find several variants of *The Man Who Had No Story* /  Tale Type AT2412B in the Irish Schools Collection.
 
-```{admonition} Man Who Had No Story, variant
+```{admonition} Man Who Had No Story, vol. 0106, p. 540
 :class: dropdown
 
 https://www.duchas.ie/en/cbes/4427880/4353941/4444444
@@ -64,7 +64,7 @@ End.
 
 ```
 
-```{admonition} Man Who Had No Story, variant
+```{admonition} Man Who Had No Story,  vol. 1302, p. 315-319
 :class: dropdown
 
 https://www.duchas.ie/en/cbes/4428273/4390606/4458746
@@ -103,7 +103,7 @@ Two months passed and Pat had wandered far, and wide over the county Donegal, wh
 
 ```
 
-```{admonition} Man Who Had No Story, variant
+```{admonition} Man Who Had No Story,  vol. 1101, p. 176-8
 :class: dropdown
 
 https://www.duchas.ie/en/cbes/4493728/4414480/4528666
@@ -135,7 +135,7 @@ The lady went forward and looked into the grave, and said, that grave is not lon
 
 ```
 
-```{admonition} Man Who Had No Story, variant
+```{admonition} Man Who Had No Story, vol. 0022, p. 424-5
 :class: dropdown
 
 https://www.duchas.ie/en/cbes/4562127/4561875/4569833
@@ -159,7 +159,7 @@ So he spread legs on the coffin but all that was only a dream and next morning w
 
 ```
 
-```{admonition} Man Who Had No Story, variant
+```{admonition} Man Who Had No Story, vol. 0009, p. 95-7
 :class: dropdown
 
 https://www.duchas.ie/en/cbes/4602698/4596188/4606529
@@ -185,7 +185,7 @@ There was no sight of the house or the old woman. He did not say the next night 
 
 ```
 
-```{admonition} Man Who Had No Story, variant
+```{admonition} Man Who Had No Story, vol. 0199, p. 21-3
 :class: dropdown
 
 https://www.duchas.ie/en/cbes/4602758/4601689/4633468
@@ -220,7 +220,7 @@ Co. Leitrim
 
 ```
 
-```{admonition} Man Who Had No Story, variant
+```{admonition} Man Who Had No Story, vol. 0465, p. 74-6
 :class: dropdown
 
 https://www.duchas.ie/en/cbes/4742087/4734614/4819191
@@ -242,7 +242,7 @@ Darby had no time to put on his clothes. When he went to catch the scolpán it j
 
 ```
 
-```{admonition} Man Who Had No Story, variant
+```{admonition} Man Who Had No Story, vol. 0260, p. 166-9
 :class: dropdown
 
 https://www.duchas.ie/en/cbes/4811581/4798958
@@ -263,4 +263,3 @@ Once upon a time not so long ago a man was going to a fair with his cousin That 
 At last one of the men said to the young man "You do this man the same as you saw us doing and remember if you let one bit of his beard be burnt you will get the same treatment when we return. "Alright" said the young man taking the old man and twisting and turning him the same as he saw the other four men doing. The young man was looking behind him to see where did the four men go when a whirlwind came and caught the old mans beard and burned every single bit of it. The young man threw down the old man and made off through the fields and kept running until he got worn out with fatigue. He sat down to rest himself and didn't he fall asleep and when daylight came didn't he awake and where he found himself was within four score of yards from the old Church of Knockcroghery.
 
 ```
-
