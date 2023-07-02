@@ -84,7 +84,7 @@ gleaned from the author's own statements.
 We can also contrast William of Newburgh's account with Keightley's summary, which immediately followed his translation of Ralph of Coggeshall:
 
 ```{admonition} Keightley, summarising Newburgh, 1850
-:class: dropown
+:class: dropdown
 
 In Thomas Keightley, [The fairy mythology](https://archive.org/details/dli.ministry.12731/page/281/mode/2up), 1850, pp282-3.
 
