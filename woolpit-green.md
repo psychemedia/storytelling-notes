@@ -18,7 +18,7 @@ The children had been tending their father's flock. The light was as it always w
 
 So, if you do ever happen to find yourself in Suffolk, in Woolpit, look out for the village sign: a silhouette of a Wolf, of the Church, a pilgrim site of old, and two small children, hand in hand. And that is the end of my tale.
 
-## The Hisory of the Tale
+## The History of the Tale
 
 There are two accounts of the tale from the decades following the events, one by Ralph of Coggeshall, the other by William of Newburgh.
 
