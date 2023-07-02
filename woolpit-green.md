@@ -9,7 +9,7 @@ Now, that is not the story I'm going to tell here, but I was reminded of it when
 Unfortunately, it seems that is *not* the origin of th name. Although it's not far off.
 
 ```{note}
-As far as far local Woolpit historians would have you believe, named after Ulfketel (or Ulfyctel), counsellor to Aithelred the Unready, and Lord of the Eastern Angles, Ulfketel, who had helped defend East Anglia against Danish attack in the early 11th century. Ulfketel, a name of Scandinavian origina: from ulf, meaning wolf, and ketel: trap, though I have elsewhere seen it translated as helmet, which might give rise to an Old English name such as Wulfhelm, or cauldron: Wolf's pot. There are so many ways you could take this!
+As far as far local Woolpit historians would have you believe, named after Ulfketel (or Ulfyctel), counsellor to Aithelred the Unready, and Lord of the Eastern Angles, Ulfketel, who had helped defend East Anglia against Danish attack in the early 11th century. Ulfketel, a name of Scandinavian origin: from ulf, meaning wolf, and ketel: trap, though I have elsewhere seen it translated as helmet, which might give rise to an Old English name such as Wulfhelm, or cauldron: Wolf's pot. There are so many ways you could take this!
 ```
 
 At the time, so legend has it, the town was renowned for its wolf pits: deep pits dug on the outskirts of the town, lined with stone, and baited with something meaty, something like a chunk of dead cow, then covered with branches. Attracted by the smell of fresh meat, a wolf would approach, then fall into the pit, and be unable to climb out because of the steep sides.
