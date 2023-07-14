@@ -34,6 +34,8 @@ Summary-ish A laird of the black arts held a gathering for his workers, and serv
 
 ```
 
+See also: John D. Niles (2006) Bede's Cædmon, “The Man Who Had No Story” (Irish Tale-Type 2412B), Folklore, 117:2, 141-155, DOI: 10.1080/00155870600707821 ([PDF](https://www.tandfonline.com/doi/full/10.1080/00155870600707821) ).
+
 We can also find several variants of *The Man Who Had No Story* /  Tale Type AT2412B in the Irish Schools Collection.
 
 ```{admonition} Man Who Had No Story, vol. 0106, p. 540
