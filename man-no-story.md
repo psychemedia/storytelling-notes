@@ -34,7 +34,7 @@ Summary-ish A laird of the black arts held a gathering for his workers, and serv
 
 ```
 
-See also: John D. Niles (2006) Bede's Cædmon, “The Man Who Had No Story” (Irish Tale-Type 2412B), Folklore, 117:2, 141-155, DOI: 10.1080/00155870600707821 ([PDF](https://www.tandfonline.com/doi/pdf/10.1080/00155870600707821?casa_token=okhrRdMCz6sAAAAA:Fo2Uwri9GEF_icf6Y_SJNbCHwLH_2NTG6abhpDciWB_cYhI5QvIPP0nqhUhF4Xl96UqcFVEif_EfW78) or [via Internet Archive](https://archive.org/details/sim_folklore_2006-08_117_2)).
+See also: John D. Niles (2006) Bede's Cædmon, “The Man Who Had No Story” (Irish Tale-Type 2412B), Folklore, 117:2, 141-155, DOI: 10.1080/00155870600707821 ([PDF](https://www.tandfonline.com/doi/pdf/10.1080/00155870600707821?casa_token=okhrRdMCz6sAAAAA:Fo2Uwri9GEF_icf6Y_SJNbCHwLH_2NTG6abhpDciWB_cYhI5QvIPP0nqhUhF4Xl96UqcFVEif_EfW78) or [via Internet Archive](https://archive.org/details/sim_folklore_2006-08_117_2)), which claims that [Book IV, chapter XXIV](https://www.gutenberg.org/files/38326/38326-h/38326-h.html#toc233) of *Bede's Ecclesiastical History of England* is also an example of the same tale type.
 
 We can also find several variants of *The Man Who Had No Story* /  Tale Type AT2412B in the Irish Schools Collection.
 
