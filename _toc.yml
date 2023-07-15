@@ -19,3 +19,6 @@ parts:
   - file: woolpit-green
   - file: macpherson
   - file: too_much_time
+- caption: Additional Storynotes Collections
+  chapters:
+  - file: elsewhere
