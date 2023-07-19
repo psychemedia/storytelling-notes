@@ -74,7 +74,7 @@ Back in Wales, Branwen was distraught. In her sorrow, her heart was broken. She 
 
 The seven then feasted for seven years in Harlech, and the head of Bedigeifran the giant was good company indeed. And then they went to the island of Grassholm, off the Pembrokeshire coast, and continued their feasting and their drinking there. And it seemed to them as if time did not pass.
 
-Now, in the hall in which they lived, there were three doors. They made use of two of them, but the third one, the door that faced Cornwall, that door had always been closed.
+Now, the hall in which they lived had three doors. They made use of two of them, but the third one, the door that faced Cornwall, that door had always been closed.
 
 But as the years, for one of the seven, it started to become too much. And after the eighty years foretold by Bendigeidfran's prophecy had passed, it really became too much.
 
