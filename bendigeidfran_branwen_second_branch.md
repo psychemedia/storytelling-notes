@@ -4,7 +4,7 @@ Imagine, if you will, Bendigeidfran, Bran the Blessed, son of Llyr, a giant of a
 
 One day, thirteen fast ships were spied approaching the Pembrokeshire coast. Irish ships. At the prow, a shield, its point faced upwards, a sign that they came in peace.
 
-Matholwch, the King of Ireland, was greeted ashore and taken to Bendigeidfran. He was seeking marriage with Branwen, a living treaty between their two kingdoms.
+Matholwch, the King of Ireland, was greeted ashore and taken to Bendigeidfran. He was seeking marriage with Branwen, a marriage treaty between their two kingdoms.
 
 "A splendid idea", said Bendigeidfran and his advisers, and so it was agreed. The feasting, and the drinking, and the carousing began. And that night, as was the custom, Matholwch and Branwen spent together, as the start of what would be three days of their hand-fasting ceremony.
 
