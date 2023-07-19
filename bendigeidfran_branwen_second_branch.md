@@ -70,7 +70,7 @@ The battle was all but over. And Bendigeidfran would perhaps have survived, were
 
 And so they did. And of all the men who had left the Island of the Mighty only seven returned. Only seven, and Branwen. And the chatty head of Bendigeidfran, carried on the the golden platter that had been given to Matholwch several years before.
 
-Back in Wales, Branwen was distraught. In her sorrow, her heart was broken. She died and was buried.
+Back now, in Wales, Branwen was distraught. In her sorrow, her heart was broken. She died and was buried.
 
 The seven then feasted for seven years in Harlech, and the head of Bedigeidfran the giant was good company indeed. And then they went to the island of Grassholm, off the Pembrokeshire coast, and continued their feasting and their drinking there. And it seemed to them as if time did not pass.
 
