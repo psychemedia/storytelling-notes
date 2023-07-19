@@ -12,7 +12,7 @@ As the festivities began, Matholwch's men and horses were billeted far and wide.
 
 "Whose are these horses?" and he was told: the horses of Matholwych , King of Ireland, who is now married to Branwen.
 
-Efnysien was not happy, he was not happy at all. He was furous; he should have been consulted, for Branwen was his sister, and, and... and so he took his sword, and he started to mutilate the horses: he pared their gums to their teeth, their tails to their backs, their ears to their heads, and their eyelids to their skulls.
+Efnysien was not happy, he was not happy at all. He was furious; he should have been consulted, for Branwen was his sister, and, and... and so he took his sword, and he started to mutilate the horses: he pared their gums to their teeth, their tails to their backs, their ears to their heads, and their eyelids to their skulls.
 
 And word got back to Matholwch about what he had done. What treachery was this? He took offense as well he might, and started to leave, with Branwen in tow.
 
@@ -68,11 +68,11 @@ Efnysien, realising perhaps, the awful consequences of what he had started, saw 
 
 The battle was all but over. And Bendigeidfran would perhaps have survived, were it not for the poison on the tip of the spear that pierced his foot. Poison that had started to spread. "Cut off my head" he said, "I will still be good company for you, for seven years in Harlech, and eighty years after that.But do not open the door that faces Cornwall," he rather cryptically said, "or sorrow will end it all. And then you must bury my head, on the White Hill in London, facing south".
 
-And so they did. And of all the men who had left the Island of the Mighty only seven returned. Only seven, and Branwen. And the chatty head of Bedigeidfran, carrid on the the golden platter that had been given to Matholwch several years before.
+And so they did. And of all the men who had left the Island of the Mighty only seven returned. Only seven, and Branwen. And the chatty head of Bendigeidfran, carried on the the golden platter that had been given to Matholwch several years before.
 
 Back in Wales, Branwen was distraught. In her sorrow, her heart was broken. She died and was buried.
 
-The seven then feasted for seven years in Harlech, and the head of Bedigeifran the giant was good company indeed. And then they went to the island of Grassholm, off the Pembrokeshire coast, and continued their feasting and their drinking there. And it seemed to them as if time did not pass.
+The seven then feasted for seven years in Harlech, and the head of Bedigeidfran the giant was good company indeed. And then they went to the island of Grassholm, off the Pembrokeshire coast, and continued their feasting and their drinking there. And it seemed to them as if time did not pass.
 
 Now, the hall in which they lived had three doors. They made use of two of them, but the third one, the door that faced Cornwall, that door had always been closed.
 
@@ -84,6 +84,6 @@ And as he did so, the weight of years, and the weight of all the sorrows of thei
 
 And so, they left. They made their way to London. And there, under the White Hill, they buried the head of the giant Bendigeidfran, Bran the Blessed, the Blessed Crow, facing south to protect the Island of the Mighty against foreign invaders from France.
 
-And though the story may have been lost to many, in England at least, though not, perhaps, to the Welsh, the memory of it remains. In the form of the rooks — the crows — of the Tower of London today. WHo will protect England against invasion as long as they are there.
+And though the story may have been lost to many, in England at least, though not, perhaps, to the Welsh, the memory of it remains. In the form of the rooks — the crows — of the Tower of London today. Who will protect England against invasion as long as they are there.
 
 And so ends the story, the story of Bran and Branwen, the story of the second branch of the Mabinogion.
