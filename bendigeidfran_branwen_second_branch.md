@@ -52,7 +52,7 @@ But as the house was built, hooks were placed on either side of the hundred grea
 
 When Efnysian came to inspect the hall, he saw the sacks on the hooks, and he asked what was in them. "Flour," they said, and so he felt the first bag, felt the man's head inside the bag, and squeezed. And squeezed some more; and squeezed until the man's skull gave way. Squeezed and squished.
 
-And then he went to the second bag: "and this is...?" "Flour". "Ah ha...". And he squeezed, and he squeszzed some more. And then it squished. And so it went on...
+And then he went to the second bag: "and this is...?" "Flour". "Ah ha...". And he squeezed, and he squeezed some more. And then it squished. And so it went on...
 
 That night, the great house was filled with the men of both armies, seated round a great fire in the center. There was eating; and drinking. A lot of drinking...  And the tension between them lessened, perhaps.
 
