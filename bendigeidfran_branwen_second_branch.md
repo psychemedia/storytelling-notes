@@ -72,7 +72,7 @@ And so they did. And of all the men who had left the Island of the Mighty only s
 
 Back now, in Wales, Branwen was distraught. In her sorrow, her heart was broken. She died and was buried.
 
-The seven then feasted for seven years in Harlech, and the head of Bedigeidfran the giant was good company indeed. And then they went to the island of Grassholm, off the Pembrokeshire coast, and continued their feasting and their drinking there. And it seemed to them as if time did not pass.
+The seven then feasted for seven years in Harlech, and the head of Bendigeidfran the giant was good company indeed. And then they went to the island of Grassholm, off the Pembrokeshire coast, and continued their feasting and their drinking there. And it seemed to them as if time did not pass.
 
 Now, the hall in which they lived had three doors. They made use of two of them, but the third one, the door that faced Cornwall, that door had always been closed.
 
