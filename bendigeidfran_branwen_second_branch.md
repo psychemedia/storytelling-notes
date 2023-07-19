@@ -10,7 +10,7 @@ Matholwch, the King of Ireland, was greeted ashore and taken to Bendigeidfran. H
 
 As the festivities began, Matholwch's men and horses were billeted far and wide. And it was at one of these new billets that was seen by Efnysien, just as he returned from a journey far to the north. Efnysien, Bendigeidfran's half-brother on his mother's side, a man so bitter, a man so twisted, he could pitch two of the most loving brothers into mortal battle.
 
-"Whose are these horses?" and he was told: the horses of Matholwych , King of Ireland, who is now married to Branwen.
+"Whose are these horses?" and he was told: the horses of Matholwych, King of Ireland, who is now married to Branwen.
 
 Efnysien was not happy, he was not happy at all. He was furious; he should have been consulted, for Branwen was his sister, and, and... and so he took his sword, and he started to mutilate the horses: he pared their gums to their teeth, their tails to their backs, their ears to their heads, and their eyelids to their skulls.
 
@@ -78,7 +78,7 @@ Now, the hall in which they lived had three doors. They made use of two of them,
 
 But as the years went by, for one of the seven, it started to become too much. And after the eighty years foretold by Bendigeidfran's prophecy had passed, it really became too much.
 
-"Shame upon my beard," he said, , "if I don't find out what happens if I open that door".
+"Shame upon my beard," he said, "if I don't find out what happens if I open that door".
 
 And as he did so, the weight of years, and the weight of all the sorrows of their lives, and their brothers lives, and of all those that had died in the battle, and more, fell upon them.
 
