@@ -18,7 +18,7 @@ And word got back to Matholwch. What treachery was this? He took offense as well
 
 Bendigeidfran called him back, offered recompense. But the honour price was too high — the life of Efnysien. Instead, Bendigeidfran offered a horse for each horse that was mutilated, a silver rod the width of Matholwch's thumb, and as tall as he stood, and a gold plate the size of his head.
 
-Matholwch was persuaded to stary, but the good cheer that had bound the two Kings together the previous night was gone. Bendigeidfran filled the silence with a promise of another gift - the cauldron of rebirth. If a man that had died that day was put into the cauldron, he would live again the next day, although without the power of speech.
+Matholwch was persuaded to stay, but the good cheer that had bound the two Kings together the previous night was gone. Bendigeidfran filled the silence with a promise of another gift - the cauldron of rebirth. If a man that had died that day was put into the cauldron, he would live again the next day, although without the power of speech.
 
 And so Matholwch departed, along with his new wife, Branwen. And the Irishmen swore never to mention the humiliation that Matholwch had suffered on that trip.
 
