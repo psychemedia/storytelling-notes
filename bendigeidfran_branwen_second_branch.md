@@ -50,7 +50,7 @@ And so the house was built.
 
 But as the house was built, hooks were placed on either side of the hundred great columns that held up the roof of the great hall, and two hundred sacks were hung on the hooks, and in the sacks were hidden Irish soldiers set to ambush Bendigeidfran's men.
 
-When Efnysian came to inspect the hall, he saw the sacks on the hooks, and he asked what was in them. "Flour," they said, and so he felt the first bag, felt the man's head inside the bag, and squeezed. And squeezed some more; and squeezed until the man's skull gave way. Squeezed and squished.
+When Efnysian came to inspect the hall, he saw the sacks on the hooks, and he asked what was in them. "Flour," they said, and so he felt the first bag, felt the man's head inside the bag, and squeezed. And squeezed some more; and squeezed until the man's skull gave way. He squeezed and it squished.
 
 And then he went to the second bag: "and this is...?" "Flour". "Ah ha...". And he squeezed, and he squeezed some more. And then it squished. And so it went on...
 
