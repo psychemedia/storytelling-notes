@@ -26,7 +26,7 @@ Things went well at first. Before long, a son was born, Gwern. But as the years 
 
 But what could she do?
 
-One day, she found a starling, its wing damaged, in the courtyard. She nursed it, trained it, and one day attached a message to it in a small bag attached to its chest. She had trained it well, and sent it on its way to her brother, to Bendigeidfran.
+One day, she found a starling in the courtyard. Its wing was hurt, damaged. She nursed it, and it recovered; she trained it, and trained it well; and one day attached a message to it, and sent it on its way to her brother, to Bendigeidfran.
 
 When he received the message, he was furious, cursing — what brother wouldn't be? — cursed, and raged, and summoned his men to set off across the sea. Bendigeidfran, giant that he was, was too big for any ship, and he walked through the sea; the fleet sailed at his side.
 
