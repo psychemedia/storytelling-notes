@@ -22,7 +22,7 @@ Matholwch was persuaded to stay, but the good cheer that had bound the two Kings
 
 And so Matholwch departed, along with his new wife, Branwen. And the Irishmen swore never to mention the humiliation that Matholwch had suffered on that trip.
 
-Things went well at first. Before long, a son was born, Gwern. But as the years passed by, the mutterings began, about how Matholwch had been humiliated. And Matholwch, well, his humiliation started over again, but at home this time. And so, Branwen was humiliated in turn, forced to work in the kitchens, her head slapped and beaten by the cook and the butcher each day.
+Things went well, at first. Before long, a son was born, Gwern. But as the years passed by, the mutterings began, about how Matholwch had been humiliated. And Matholwch, well, his humiliation started over again, but at home this time. And so, Branwen was humiliated in turn, forced to work in the kitchens, her head slapped and beaten by the cook and the butcher each day.
 
 But what could she do?
 
