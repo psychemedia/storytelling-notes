@@ -76,7 +76,7 @@ The seven then feasted for seven years in Harlech, and the head of Bedigeifran t
 
 Now, the hall in which they lived had three doors. They made use of two of them, but the third one, the door that faced Cornwall, that door had always been closed.
 
-But as the years, for one of the seven, it started to become too much. And after the eighty years foretold by Bendigeidfran's prophecy had passed, it really became too much.
+But as the years went by, for one of the seven, it started to become too much. And after the eighty years foretold by Bendigeidfran's prophecy had passed, it really became too much.
 
 "Shame upon my beard," he said, , "if I don't find out what happens if I open that door".
 
