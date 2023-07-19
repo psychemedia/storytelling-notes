@@ -6,7 +6,7 @@ One day, thirteen fast ships were spied approaching the Pembrokeshire coast. Iri
 
 Matholwch, the King of Ireland, was greeted ashore and taken to Bendigeidfran, seeking to marry Branwen, as a living treaty between their two kingdoms.
 
-"A splendid idea", said Bendigeidfran and his advisers, and so it was agreed. The feasting, and the drinking, and the carousing began. And that night, as was the custom, Matholwch and Branwen spent the night together, the start of what would be the three days of their hand-fasting ceremony.
+"A splendid idea", said Bendigeidfran and his advisers, and so it was agreed. The feasting, and the drinking, and the carousing began. And that night, as was the custom, Matholwch and Branwen spent together, as the start of what would be three days of their hand-fasting ceremony.
 
 As the festivities began, Matholwch's men and horses were billeted far and wide. And it was at one of these new billets that was seen by Efnysien, Bendigeidfran's half-brother on his mother's side, a man so bitter, so twisted, he could pitch two of the most loving brothers into mortal battle, just as he returned from a journey far to the north.
 
