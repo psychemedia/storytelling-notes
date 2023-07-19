@@ -20,7 +20,7 @@ Bendigeidfran called him back, offered recompense. But the honour price was too 
 
 Matholwch was persuaded to stary, but the good cheer that had bound the two Kings together the previous night was gone. Bendigeidfran filled the silence with a promise of another gift - the cauldron of rebirth. If a man that had died that day was put into the cauldron, he would live again the next day, although without the power of speech.
 
-And so Matholwch departed, along with his new wife, Branwen. And the Irishmen swore to never mention the humiliation that Matholwch had suffered on that trip.
+And so Matholwch departed, along with his new wife, Branwen. And the Irishmen swore never to mention the humiliation that Matholwch had suffered on that trip.
 
 Things went well at first. Before long, a son was born, Gwern. But as the years passed by, the mutterings began, about how Matholwch had been humiliated. And Matholwch, well, his humiliation started over again, but at home this time. And so, Branwen was humiliated in turn, forced to work in the kitchens, her head slapped and beaten by the cook and the butcher each day.
 
