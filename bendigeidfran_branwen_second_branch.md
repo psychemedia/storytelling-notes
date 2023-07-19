@@ -14,7 +14,7 @@ As the festivities began, Matholwch's men and horses were billeted far and wide.
 
 Efnysien was not happy, he was not happy at all. He was furious; he should have been consulted, for Branwen was his sister, and, and... and so he took his sword, and he started to mutilate the horses: he pared their gums to their teeth, their tails to their backs, their ears to their heads, and their eyelids to their skulls.
 
-And word got back to Matholwch about what he had done. What treachery was this? He took offense as well he might, and started to leave, with Branwen in tow.
+And word got back to Matholwch. What treachery was this? He took offense as well he might, and started to leave, with Branwen in tow.
 
 Bendigeidfran called him back, offered recompense. But the honour price was too high — the life of Efnysien. Instead, Bendigeidfran offered a horse for each horse that was mutilated, a silver rod the width of his thumb, and as tall as Matholwch stood, and a gold plate the size of his head.
 
