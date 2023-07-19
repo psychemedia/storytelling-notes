@@ -56,7 +56,7 @@ And then he went to the second bag: "and this is...?" "Flour". "Ah ha...". And h
 
 That night, the great house was filled with the men of both armies, seated round a great fire in the center. There was eating; and drinking. A lot of drinking...  And the tension between them lessened, perhaps.
 
-But Efnysien, always Efnysien... "Why doesn't my sister's boy, my very own nephew, come to greet me?" he said. And Gwern was brought forward to meet him... At which point, Efnysien took everyone by surprise,  laughing madly, and calling out: "I bet none of you expected this...!". At which point he grabbed the boy and threw him into the raging fire, kicking him back into the fire as the boy tried to save himself it, for good measure.
+But Efnysien, always Efnysien... "Why doesn't my sister's boy, my very own nephew, come to greet me?" he said. And Gwern was brought forward to meet him... At which point, Efnysien took everyone by surprise,  laughing madly, and calling out: "I bet none of you expected this...?!". At which point he grabbed the boy and threw him into the raging fire, kicking him back into the fire as the boy tried to save himself it, for good measure.
 
 But it was too late. Gwern was dead.
 
