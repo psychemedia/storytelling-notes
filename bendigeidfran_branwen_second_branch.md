@@ -1,10 +1,26 @@
 # Bendigeidfran and Branwen
 
+I first told this tale, sort of, as a work-in-progress, though I omitted to mention that fact, in a fifteen minute feature slot at the Waverley folk night, Newport, in July 2023. Half an hour before storytime, I lost my voice — nerves, I think — which caused something of a panic cascade into forgotten words and garbled names. (I still don't learn what I keep trying to tell myself: don't use names for the first two or three tellings, until the characters have enough remembered substance to merit a name... I also need to find some emergency repair voice exercises if it goes that way again...)
+
+Anyway, here's a revised version of how I'd intended to tell the tale, with plenty of repetition to signpost the names to myself, if no-one else. There are also callbacks, to give it a bit more shape. On a bit of reflection, it would be well suited to being told in five parts, making use of the plentiful supply of cliff-hanger opportunities. It might also be nice to tell it with a harp tune or two between each part, in a 20-25 minute slot. Or maybe take it out to a 30 minute set, if are there any songs that would fit in the breaks?
+
+```{admonition} The Shortened Retelling
+:class: note
+
+The shortened retelling is *not* a literary tale, and is not, strictly, a transcript of an orally performed tale. It's a "written as if spoken" account of the sort of thing I originally intended to say, revised in light of what I did and didn't say.
+
+It is also not intended as a script to be recited, though a retelling may include elements that are very similar to the words that are written down... The words are always new in a telling, even if they're words I've used before, or read from an oral account somewhere...
+
+```
+
+```{admonition} A Shortened Retelling of the Second Branch of the Mabinogion
+:class: dropdown
+
 Have you ever seen, or heard, of the ravens in the the Tower of London? The ravens whose continued presence there keeps England free from invasion? This story, even though it is a Welsh tale, tells of how they came to be there... sort of.
 
-It is a tale of a giant, Bendigeidfran, son of Llyr.  No ship could carry him, no house could give him shelter. Bendigeidfran, also known as Brân the Blessed, or the Blessed Crow. For in Welsh, Brân means "raven", or "crow". Bendigeidfran, King of the Island of the Mighty, as the island of Britain was known at the time.
+It is a tale of a giant, Bendigeidfran. Bendigeidfran son of Llyr.  No ship could carry him, no house could give him shelter. Bendigeidfran, also known as Brân the Blessed, or Blessed Crow. For in Welsh, Brân means "raven", or "crow". Bendigeidfran, King of the Island of the Mighty, as the island of Britain was known at the time.
 
-And it is also a tale of Branwen, Bendigeidfran's sister. Branwen, whose name means "white crow". Branwen, the most beautiful girl in this world, or the other.
+And it is also the tale of Branwen, Bendigeidfran's sister. Branwen, whose name means "white crow". Branwen, the most beautiful girl, in this world, or the other.
 
 One day, thirteen fast ships were spied approaching the Pembrokeshire coast. Irish ships. At the prow, a shield, its point faced upwards, a sign that they came in peace.
 
@@ -105,3 +121,5 @@ And so, they left. They made their way to London. And there, under the Bryn Gwyn
 And though the story may have been lost to many, in England at least, a memory of it remains. In the form of the the ravens who inhabit the Tower of London today, the Tower that stands on the White Hill, the Bryn Gwyn. The ravens who will protect England against invasion as long as they are there. As did Bendigeidfran, Brân the Blessed, the Blessed Crow, or Raven.
 
 And that is the end of the story, the story of Brân and Branwen, the story of the second branch of the Mabinogion.
+
+```

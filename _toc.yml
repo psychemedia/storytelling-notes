@@ -14,9 +14,12 @@ parts:
 - caption: Show Outlines
   chapters:
   - file: unforeseen-nonsense
-- caption: Tales to Tell
+- caption: WIP Told Need Telling Again
   chapters:
   - file: woolpit-green
+  - file: bendigeidfran_branwen_second_branch
+- caption: Tales to Tell
+  chapters:
   - file: macpherson
   - file: too_much_time
 - caption: Additional Storynotes Collections
