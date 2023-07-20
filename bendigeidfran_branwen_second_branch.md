@@ -102,6 +102,6 @@ And as he did so, the weight of years, and the weight of all the sorrows of thei
 
 And so, they left. They made their way to London. And there, under the Bryn Gwyn, the White Hill, they buried the head of the giant Bendigeidfran, facing south to protect the Island of the Mighty against foreign invaders from France.
 
-And though the story may have been lost to many, in England at least, though not, perhaps, to the Welsh, the memory of it remains. In the form of the the ravens who inhabit the Tower of London today, the Tower that stands on the White Hill, the Bryn Gwyn. The ravens who will protect England against invasion as long as they are there. As did Bendigeidfran, Brân the Blessed, the Blessed Crow, or Raven.
+And though the story may have been lost to many, in England at least, a memory of it remains. In the form of the the ravens who inhabit the Tower of London today, the Tower that stands on the White Hill, the Bryn Gwyn. The ravens who will protect England against invasion as long as they are there. As did Bendigeidfran, Brân the Blessed, the Blessed Crow, or Raven.
 
 And so ends the story, the story of Brân and Branwen, the story of the second branch of the Mabinogion.
