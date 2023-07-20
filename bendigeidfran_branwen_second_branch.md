@@ -8,7 +8,7 @@ And it is also a tale of Branwen, Bendigeidfran's sister. Branwen, whose name me
 
 One day, thirteen fast ships were spied approaching the Pembrokeshire coast. Irish ships. At the prow, a shield, its point faced upwards, a sign that they came in peace.
 
-Matholwch was first ashore. Matholwch, the King of Ireland. He was immediately taken to meet Bendigeidfran, the King of the Britains. The Irish king, Matholwch, was seeking marriage with Branwen, Bendigeidfran's sister, a marriage treaty between their two kingdoms.
+Matholwch was the first ashore. Matholwch, the King of Ireland. He was immediately taken to meet Bendigeidfran, the King of the Britains. The Irish king, Matholwch, was seeking marriage with Branwen, Bendigeidfran's sister, a marriage treaty between their two kingdoms.
 
 "A splendid idea", said Bendigeidfran and his advisers, and so it was agreed. The feasting, and the drinking, and the carousing began. And that night, as was the custom, Matholwch and Branwen spent together, as the start of what would be their three days of hand-fasting.
 
