@@ -1,10 +1,10 @@
 # Bendigeidfran and Branwen
 
-Imagine, if you will, Bendigeidfran, Bran the Blessed, son of Llyr, a giant of a man, King of the Island of the Mighty, King of the island of Britain. No ship could carry him, no house could give him shelter. A giant of a man. And Branwen, his sister. Branwen, the most beautiful girl in the world. Branwen, the most beautiful girl in this world, or the other.
+Imagine, if you will, Bendigeidfran, Bran the Blessed, son of Llyr, and a giant of a man. Bendigeidfran, King of the Island of the Mighty, King of the island of Britain. No ship could carry him, no house could give him shelter. A giant of a man. And Branwen, his sister. Branwen, the most beautiful girl in the world. Branwen, the most beautiful girl in this world, or the other.
 
 One day, thirteen fast ships were spied approaching the Pembrokeshire coast. Irish ships. At the prow, a shield, its point faced upwards, a sign that they came in peace.
 
-Matholwch, the King of Ireland, was greeted ashore and taken to Bendigeidfran. He was seeking marriage with Branwen, a marriage treaty between their two kingdoms.
+Matholwch was first ashore. Matholwch, the King of Ireland. He was immediately taken to meet Bendigeidfran, the King of the Britains. The Irish king, Matholwch. was seeking marriage with Branwen, Bendigeidfran's sister, a marriage treaty between their two kingdoms.
 
 "A splendid idea", said Bendigeidfran and his advisers, and so it was agreed. The feasting, and the drinking, and the carousing began. And that night, as was the custom, Matholwch and Branwen spent together, as the start of what would be their three days of hand-fasting.
 
