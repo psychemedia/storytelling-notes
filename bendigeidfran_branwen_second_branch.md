@@ -12,7 +12,7 @@ Matholwch was first ashore. Matholwch, the King of Ireland. He was immediately t
 
 "A splendid idea", said Bendigeidfran and his advisers, and so it was agreed. The feasting, and the drinking, and the carousing began. And that night, as was the custom, Matholwch and Branwen spent together, as the start of what would be their three days of hand-fasting.
 
-As the festivities began, Matholwch's men and horses were billeted far and wide. And it was at one of these new billets that was seen by Efnysien, just as he returned from a journey far to the north. Efnysien, Bendigeidfran and Branwens's half-brother on their mother's side. Efnysien, a man so bitter, a man so twisted, he could pitch two of the most loving brothers into mortal battle.
+As the festivities began, Matholwch's men and horses were billeted far and wide. And it was one of these new billets that was seen by Efnysien, just as he returned from a journey far to the north. Efnysien, Bendigeidfran and Branwens's half-brother on their mother's side. Efnysien, a man so bitter, a man so twisted, he could pitch two of the most loving brothers into mortal battle.
 
 "Whose are these horses?", he asked, and he was told: "the horses of Matholwych, King of Ireland, who is now married to Branwen".
 
