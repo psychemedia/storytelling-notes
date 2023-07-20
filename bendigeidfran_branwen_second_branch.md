@@ -98,7 +98,7 @@ But as the years went by, for one of the seven, it started to become too much. A
 
 And as he did so, the weight of years, and the weight of all the sorrows of their lives, and their brothers lives, and of all those that had died in the battle, and more, fell upon them.
 
-And so, they left. They made their way to London. And there, under the Bryn Gwyn, the White Hill, they buried the head of the giant Bendigeidfran, Brân the Blessed, the Blessed Crow, facing south to protect the Island of the Mighty against foreign invaders from France.
+And so, they left. They made their way to London. And there, under the Bryn Gwyn, the White Hill, they buried the head of the giant Bendigeidfran, facing south to protect the Island of the Mighty against foreign invaders from France.
 
 And though the story may have been lost to many, in England at least, though not, perhaps, to the Welsh, the memory of it remains. In the form of the the ravens who inhabit the Tower of London today, the Tower that stands on the White Hill, the Bryn Gwyn. The ravens who will protect England against invasion as long as they are there. As did Bendigeidfran, Brân the Blessed, the Blessed Crow, or Raven.
 
