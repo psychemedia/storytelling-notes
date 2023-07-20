@@ -1,6 +1,8 @@
 # Bendigeidfran and Branwen
 
-Imagine, if you will, Bendigeidfran, son of Llyr.  Bendigeidfran, also known as Brân the Blessed, or the Blessed Crow. For in Welsh, Brân means "raven", or "crow". Bendigeidfran, a giant of a man. No ship could carry him, no house could give him shelter. Bendigeidfran, King of the Island of the Mighty, King of the island of Britain.
+Have you ever seen, or heard, of the ravens in the the Tower of London? The ravens whose continued presence there keeps England free from invasion? This story, even though it is a Welsh tale, tells of how they came to be there... sort of.
+
+Imagine, if you will, Bendigeidfran, son of Llyr.  Bendigeidfran, also known as Brân the Blessed, or the Blessed Crow. For in Welsh, Brân means "raven", or "crow". Bendigeidfran, a giant of a man. No ship could carry him, no house could give him shelter. Bendigeidfran, King of the Island of the Mighty, as the island of Britain was known at the time.
 
 And imagine, also, Branwen, his sister. Branwen, whose name means "white crow". Branwen, the most beautiful girl in this world, or the other.
 
