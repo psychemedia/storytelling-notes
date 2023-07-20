@@ -4,7 +4,7 @@ Have you ever seen, or heard, of the ravens in the the Tower of London? The rave
 
 It also a tale of a giant, Bendigeidfran, son of Llyr.  No ship could carry him, no house could give him shelte. Bendigeidfran, also known as Brân the Blessed, or the Blessed Crow. For in Welsh, Brân means "raven", or "crow". Bendigeidfran, King of the Island of the Mighty, as the island of Britain was known at the time.
 
-And a tale of, Branwen, Bendigeidfran's sister. Branwen, whose name means "white crow". Branwen, the most beautiful girl in this world, or the other.
+And a tale of Branwen, Bendigeidfran's sister. Branwen, whose name means "white crow". Branwen, the most beautiful girl in this world, or the other.
 
 One day, thirteen fast ships were spied approaching the Pembrokeshire coast. Irish ships. At the prow, a shield, its point faced upwards, a sign that they came in peace.
 
