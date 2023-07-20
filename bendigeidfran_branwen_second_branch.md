@@ -104,4 +104,4 @@ And so, they left. They made their way to London. And there, under the Bryn Gwyn
 
 And though the story may have been lost to many, in England at least, a memory of it remains. In the form of the the ravens who inhabit the Tower of London today, the Tower that stands on the White Hill, the Bryn Gwyn. The ravens who will protect England against invasion as long as they are there. As did Bendigeidfran, Brân the Blessed, the Blessed Crow, or Raven.
 
-And so ends the story, the story of Brân and Branwen, the story of the second branch of the Mabinogion.
+And that is the end of the story, the story of Brân and Branwen, the story of the second branch of the Mabinogion.
