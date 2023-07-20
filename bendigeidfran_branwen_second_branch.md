@@ -12,7 +12,7 @@ Matholwch was first ashore. Matholwch, the King of Ireland. He was immediately t
 
 As the festivities began, Matholwch's men and horses were billeted far and wide. And it was at one of these new billets that was seen by Efnysien, just as he returned from a journey far to the north. Efnysien, Bendigeidfran and Branwens's half-brother on their mother's side. Efnysien, a man so bitter, a man so twisted, he could pitch two of the most loving brothers into mortal battle.
 
-"Whose are these horses?" and he was told: "the horses of Matholwych, King of Ireland, who is now married to Branwen".
+"Whose are these horses?", he asked, and he was told: "the horses of Matholwych, King of Ireland, who is now married to Branwen".
 
 Efnysien was not happy, he was not happy at all. He was furious; he should have been consulted, for Branwen was his sister, and, and... and so he took his sword, and he started to mutilate the horses: he pared their gums to their teeth, their tails to their backs, their ears to their heads, and their eyelids to their skulls.
 
