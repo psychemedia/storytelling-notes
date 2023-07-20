@@ -14,6 +14,8 @@ As the festivities began, Matholwch's men and horses were billeted far and wide.
 
 Efnysien was not happy, he was not happy at all. He was furious; he should have been consulted, for Branwen was his sister, and, and... and so he took his sword, and he started to mutilate the horses: he pared their gums to their teeth, their tails to their backs, their ears to their heads, and their eyelids to their skulls.
 
+---
+
 And word got back to Matholwch. What treachery was this? He took offense as well he might, and started to leave, with Branwen in tow.
 
 Bendigeidfran called him back, offered recompense. But the honour price was too high — the life of Efnysien. Instead, Bendigeidfran offered a horse for each horse that was mutilated, a silver rod the width of Matholwch's thumb, and as tall as he stood, and a gold plate the size of his head.
@@ -29,6 +31,8 @@ But what could she do?
 One day, she found a starling in the courtyard. Its wing was hurt, damaged. She nursed it, and it recovered; she trained it, and trained it well; and one day attached a message to it, and sent it on its way to her brother, to Bendigeidfran.
 
 When he received the message, he was furious, cursing — what brother wouldn't be? — cursed, and raged, and summoned his men to set off across the sea. Bendigeidfran, giant that he was, was too big for any ship, and he walked through the sea; the fleet sailed at his side.
+
+---
 
 On the Irish coast, a pig-herder, tending his... flock? do you have a flock of pigs? A drove? A sounder?... saw something on the horizon he had never witnessed before. A forest; a forest, coming closer;  a forest, and a mountain; a mountain on which there was a high ridge; a high ridge with two lakes, one on either side.
 
@@ -50,9 +54,13 @@ And so the house was built.
 
 But as the house was built, hooks were placed on either side of the hundred great columns that held up the roof of the great hall, and two hundred sacks were hung on the hooks, and in the sacks were hidden Irish soldiers set to ambush Bendigeidfran's men.
 
+---
+
 When Efnysian came to inspect the hall, he saw the sacks on the hooks, and he asked what was in them. "Flour," they said, and so he felt the first bag, felt the man's head inside the bag, and squeezed. And squeezed some more; and squeezed until the man's skull gave way. He squeezed and it squished.
 
 And then he went to the second bag: "and this is...?" "Flour". "Ah ha...". And he squeezed, and he squeezed some more. And then it squished. And so it went on...
+
+---
 
 That night, the great house was filled with the men of both armies, seated round a great fire in the center. There was eating; and drinking. A lot of drinking...  And the tension between them lessened, perhaps.
 
@@ -66,7 +74,13 @@ The next day the fighting began again, the losses terrible on both sides.
 
 Efnysien, realising perhaps, the awful consequences of what he had started, saw that with the Cauldron of Rebirth, there would be a never ending stream of Irish soldiers to fight against, no matter how many were killed. So that night, he covered himself with mud, and blood, and lay among the Irish dead as if he were one of them. When he was thrown into the cauldron, the shock of a living body being thrown in to the magical maelstrom it contained, and the strength of him as he pushed against the inside walls cauldron, shattered it into a thousand pieces. And shattered Efnysien with it.
 
-The battle was all but over. And Bendigeidfran would perhaps have survived, were it not for the poison on the tip of the spear that pierced his foot. Poison that had started to spread. "Cut off my head" he said, "I will still be good company for you, for seven years in Harlech, and eighty years after that. But do not open the door that faces Cornwall," he rather cryptically said, "or sorrow will end it all. And then you must bury my head, on the White Hill in London, facing south".
+The battle was all but over. The dead were many. The survivors were few.
+
+---
+
+The Irish had been killed, to a man. Of Bendigeidfran's men, only seven lived through that terrible battle. Seven men, and Branwen.
+
+Bendigeidfran, perhaps, would have been one of those who few who survived, were it not for the poison on the tip of the spear that pierced his foot. Poison that had started to spread. "Cut off my head" he said, "I will still be good company for you, for seven years in Harlech, and eighty years after that. But do not open the door that faces Cornwall," he rather cryptically said, "or sorrow will end it all. And then you must bury my head, on the White Hill in London, facing south".
 
 And so they did. And of all the men who had left the Island of the Mighty only seven returned. Only seven, and Branwen. And the chatty head of Bendigeidfran, carried on the the golden platter that had been given to Matholwch several years before.
 
