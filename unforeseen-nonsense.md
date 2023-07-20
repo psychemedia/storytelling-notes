@@ -82,13 +82,13 @@ He seeks the intercession of kinswomen ; they talk to him again and again ; but 
 
 Well, the fancy seized the Prince that he would essay the wager to win the maiden in question.
 
-Accordingly, one day, when his father was repeating his en- treaties, he answered, " Well, Father, as you will have me married, give me that fair maid ? "
+Accordingly, one day, when his father was repeating his entreaties, he answered, " Well, Father, as you will have me married, give me that fair maid ? "
 
 " Goodness gracious, my son, bethink you ! " cried the King. "Would that it were in my power! But have not you heard what wagers she lays, and how many fine young fellows she has slain ? Do you want her to take your life as well ? Why there are princesses and vizier's daughters plentiful as running waters, and not one of them can be found to suit you ! But so it is ! It's a wise saying, ' Joy to the man, whose name is destined to good luck ! ' "
 
 " That's all fudge that you are talking, you only want to damp my ardour ! I tell you, father, I am not going to marry anyone else. I am off in search of her, and if I get her— good ! If not, I will perish for her sake ! "
 
-" Alas, my son, how you torture my heart with your impious words ! Have you no pity on me, have you no .pity on your mother, who had such pains, poor thing, ere she bare you ; at your age, big lad as you are ! Is that the return we had to look for at your hands, that you should poison and embitter our old age ? Alas, what shall we say to you, when you won't listen to your elders, but rush upon your ruin ! I only pray, my son, that my evil forebodings may not find fulfilment ! "
+" Alas, my son, how you torture my heart with your impious words ! Have you no pity on me, have you no pity on your mother, who had such pains, poor thing, ere she bare you ; at your age, big lad as you are ! Is that the return we had to look for at your hands, that you should poison and embitter our old age ? Alas, what shall we say to you, when you won't listen to your elders, but rush upon your ruin ! I only pray, my son, that my evil forebodings may not find fulfilment ! "
 
 " Nonsense, nonsense ! father. There's no turning me from my purpose."
 
@@ -102,21 +102,25 @@ He went to the Queen, -and said to her :
 
 " What shall I tell you, mother dear ?
 
-" 'Our cruel fate, with ruthless hand, has written the decree, That winter storms and summer suns alike unkind shall be.'
+" 'Our cruel fate, with ruthless hand, has written the decree,  
+That winter storms and summer suns alike unkind shall be.'
 
-One son alone was born to us, the light of our eyes, whom every- one was gladdened to behold, and now, even he has got beyond our control, and is going to fling his life away."
+One son alone was born to us, the light of our eyes, whom everyone was gladdened to behold, and now, even he has got beyond our control, and is going to fling his life away."
 
 " What's the matter ? " says the Queen.
 
-Word for word, he told her, and it was a sad hour when she heard the story. The two mourn together like a pair of ring- doves, and cannot be consoled.
+Word for word, he told her, and it was a sad hour when she heard the story. The two mourn together like a pair of ring-doves, and cannot be consoled.
 
-When they see that with all their efforts they can make no ad- vance, they say to one another, " Come, come, what's the good of behaving so childishly in the sight of everyone ? He has said it, and he will do it. Only let us give him our blessing, and bid him farewell. ' None can escape his fate.' "
+When they see that with all their efforts they can make no advance, they say to one another, " Come, come, what's the good of behaving so childishly in the sight of everyone ? He has said it, and he will do it. Only let us give him our blessing, and bid him farewell. ' None can escape his fate.' "
 
 So they summon him on the day that he was preparing to depart, and say to him :
 
 " Darling of our hearts, we sought your welfare, but,
 
-" ' Since go thou wilt, then fare thee well, good luck betide each hour, May roses fair bestrew thy path with many a fragrant flower. Thou golden eaglet, this alone we crave from thee : wherever Thy lot be cast, may nothing us from thy remembrance sever.' "
+" ' Since go thou wilt, then fare thee well, good luck betide each hour,  
+May roses fair bestrew thy path with many a fragrant flower.  
+Thou golden eaglet, this alone we crave from thee : wherever  
+Thy lot be cast, may nothing us from thy remembrance sever.' "
 
 Then the pair fall on his neck, and embrace him fondly, and bedew him with their tears, and can hardly tear themselves away from him. At length they let him go, and tell him he has full power to take what he will along with him.
 
@@ -126,9 +130,9 @@ The hapless King and Queen plunged themselves in mourning, and so did the whole 
 
 The Prince journeyed on for several days, till at length he reached a town.
 
-He dismounts, and goes to refresh himself at a little coffee- house, in order that he may learn something about the place.
+He dismounts, and goes to refresh himself at a little coffee-house, in order that he may learn something about the place.
 
-There enters a hawker with a beautiful golden casket, and cries it, saying, " This casket for sale ! whoever buys it will rue it ; and again, whoever does not buy it, will rue it : the price is a thou- sand ducats, no more and no less."
+There enters a hawker with a beautiful golden casket, and cries it, saying, " This casket for sale ! whoever buys it will rue it ; and again, whoever does not buy it, will rue it : the price is a thousand ducats, no more and no less."
 
 Then all who were in the coffee-house turned and looked at the Prince, and he says to himself, "Halloa, here is a start: 'whosoever buys it, shall rue it : and again, whosoever does not buy it shall rue it.' Well, I'll try my luck with it, anyhow, as I see all eyes are turned on me." Then he calls to the man : " Here, sir, what is the price of that casket ? "
 
@@ -168,7 +172,7 @@ Then the casket answers, and says to him, " Tush, if you did not want me, why di
 
 The Prince was like to lose his wits on hearing the casket talk.
 
-" Don't be astonished," it continued, " I am your salvation. Only listen to what I tell you, and never fear. In the evening you will go to the Fair One's house. As soon as you enter, say, ' Good evening to you,' and see that you put me down some- where, and afterwards begin to tell as many lies and stories as you can. She, meanwhile, will be sitting aloft by the glass cupboard, she sees you, and you don't see her, and she is as silent as a rock. Then you must say, ' Well, as the Princess doesn't deign to speak to us, won't you speak to us ? ' naming the object on which you have placed me. Then I will begin to talk to you, and you must ask me to tell you a tale, and I shall answer, ' I will, but on your honour, wall you pronounce a right judgement thereon ? ' and you must take good care and pronounce one that is altogether wrong. Then she will be indignant, and will speak.
+" Don't be astonished," it continued, " I am your salvation. Only listen to what I tell you, and never fear. In the evening you will go to the Fair One's house. As soon as you enter, say, ' Good evening to you,' and see that you put me down somewhere, and afterwards begin to tell as many lies and stories as you can. She, meanwhile, will be sitting aloft by the glass cupboard, she sees you, and you don't see her, and she is as silent as a rock. Then you must say, ' Well, as the Princess doesn't deign to speak to us, won't you speak to us ? ' naming the object on which you have placed me. Then I will begin to talk to you, and you must ask me to tell you a tale, and I shall answer, ' I will, but on your honour, wall you pronounce a right judgement thereon ? ' and you must take good care and pronounce one that is altogether wrong. Then she will be indignant, and will speak.
 
 " These, my words, do you obey,  
 Write on paper what I say."
@@ -240,7 +244,7 @@ And then we return to the frame tale:
 ```{admonition} The Princess' First Response
 :class: dropdown note
 
-" Bless me, what a lot I know I Wasn't that a fine story ? Now it's your turn to tell me (for I fain would know) which of the three ought to marry her? and I wish you joy of your answer."
+" Bless me, what a lot I know ! Wasn't that a fine story ? Now it's your turn to tell me (for I fain would know) which of the three ought to marry her? and I wish you joy of your answer."
 
 He pretends to reflect, and says at length, " Which should marry her ? Which should marry her ? Why the astrologer should marry her ! "
 
@@ -379,7 +383,7 @@ And so begins the casket's third tale:
 
 " The greater part of the Princess' blood had congealed from fright before daylight broke. When the dawn had come, he again became what he was before, and the girl, though overwhelmed with grief, said nothing to her father, in order to see how matters, would turn out ; but when she sees how next night things were the same, and worse, ' Eh ! ' said she to herself, ' this can neither be eaten nor chewed ; ' and she runs to her father, and tells him how matters stand, and begs him to call her husband, and inquire into the case.
 
-"So the King calls him, and asks him how it is ; and he answers that he is under a curse pronounced on him by his father, and hence his affliction : he begged him to leave him the Princess, that she might go and find his father, and win his blessing, that so he might be delivered from the plague, after which, he would return. Then he obtains the Princess : the King gives him a body-guard into the bargain, and he takes his leave. As they were journeying in a wilderness, he changes into a demon, and says, 'Wife, I am hungry !' and straightway he gobbles up all the food they had. They go further, and again he cries, ' Wife, I am hungry ! ' and he gobbles up all the men of their escort, along with their horses, and only leaves his wife. Then he brought her to a place, where he lifted up a marble slab, and underneath there was a cave^. and he put her inside, and covered her up. Alas, unhappy Princess, what sights were there to see ! She sees slain beasts, she sees the flesh of men, she sees things that filled her soul with horror. Afterwards the monster comes and lifts the marble slab, and comes in and gives her human flesh to eat, and turns into a snake, and winds himself round her from her foot up to her head, and puts out his tongue, and thrusts it into her mouth, and sucks her blood. When the night was past he leaves her again, and departs.
+"So the King calls him, and asks him how it is ; and he answers that he is under a curse pronounced on him by his father, and hence his affliction : he begged him to leave him the Princess, that she might go and find his father, and win his blessing, that so he might be delivered from the plague, after which, he would return. Then he obtains the Princess : the King gives him a body-guard into the bargain, and he takes his leave. As they were journeying in a wilderness, he changes into a demon, and says, 'Wife, I am hungry !' and straightway he gobbles up all the food they had. They go further, and again he cries, ' Wife, I am hungry ! ' and he gobbles up all the men of their escort, along with their horses, and only leaves his wife. Then he brought her to a place, where he lifted up a marble slab, and underneath there was a cave; and he put her inside, and covered her up. Alas, unhappy Princess, what sights were there to see ! She sees slain beasts, she sees the flesh of men, she sees things that filled her soul with horror. Afterwards the monster comes and lifts the marble slab, and comes in and gives her human flesh to eat, and turns into a snake, and winds himself round her from her foot up to her head, and puts out his tongue, and thrusts it into her mouth, and sucks her blood. When the night was past he leaves her again, and departs.
 
 " But she was at death's door. Now when she left the palace she had taken with her, as a token of her mother's blessing, two ring-doves, which she carried in her bosom ; and nothing else remained to her for her solace but these two ring-doves ; and she thought to take a piece of paper, and write a letter to her mother, telling her the state of the case, and to tie it to the claw of one of the ring-doves, and let it go when the monster should leave, and if he did not discover. it, hoped that something might turn up. So she takes the piece of paper, and ties it to its claw, and lets it go away along with the monster ; the poor dove tries to fly out as he lifts the marble, but he perceiyes it, and swallows the bird whole. The next day she lets the other bird go. That one, by her mother's blessing, escaped, as luck would have it, and flew, and flew, and flew, and perched at the window of the Princess' castle.
 
@@ -418,7 +422,7 @@ Again, the cask breaks out of the story and returns out attention to the Prince.
 
 He thought and thought and at length he said, " It is right that he should take her who carried her such a way."
 
-At hearing this again the Princess took fire and was in a burning rage. Then she said, " Now that is too bad ! 1 am doomed to lose my life for this brat of a foreign woman ! Good sir, didn't I tell you not to presume to show your face again in my „ presence to set my. heart aflame ij Why do you come and drivel away in here, and spoil other, people's humour, for I'm blessed if you know a hen's tail from its beak ! "
+At hearing this again the Princess took fire and was in a burning rage. Then she said, " Now that is too bad ! I am doomed to lose my life for this brat of a foreign woman ! Good sir, didn't I tell you not to presume to show your face again in my presence to set my heart aflame ? Why do you come and drivel away in here, and spoil other people's humour, for I'm blessed if you know a hen's tail from its beak ! "
 
 " All right, my lady, now the whole thing is over."
 
