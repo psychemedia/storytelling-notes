@@ -2,7 +2,7 @@
 
 Imagine, if you will, Bendigeidfran, son of Llyr.  Benigeidran, also known as Brân the Blessed, or the Blessed Crow, for in Welsh, Brân means "raven", or "crow". Bendigeidfran, a giant of a man. No ship could carry him, no house could give him shelter. Bendigeidfran, King of the Island of the Mighty, King of the island of Britain.
 
-And imagine, also, Branwen, his sister. Branwen, the most beautiful girl in the world. Branwen, the most beautiful girl in this world, or the other.
+And imagine, also, Branwen, his sister. Branwen, whose name means "white crow". Branwen, the most beautiful girl in this world, or the other.
 
 One day, thirteen fast ships were spied approaching the Pembrokeshire coast. Irish ships. At the prow, a shield, its point faced upwards, a sign that they came in peace.
 
@@ -10,7 +10,7 @@ Matholwch was first ashore. Matholwch, the King of Ireland. He was immediately t
 
 "A splendid idea", said Bendigeidfran and his advisers, and so it was agreed. The feasting, and the drinking, and the carousing began. And that night, as was the custom, Matholwch and Branwen spent together, as the start of what would be their three days of hand-fasting.
 
-As the festivities began, Matholwch's men and horses were billeted far and wide. And it was at one of these new billets that was seen by Efnysien, just as he returned from a journey far to the north. Efnysien, Bendigeidfran's half-brother on his mother's side. Efnysien, a man so bitter, a man so twisted, he could pitch two of the most loving brothers into mortal battle.
+As the festivities began, Matholwch's men and horses were billeted far and wide. And it was at one of these new billets that was seen by Efnysien, just as he returned from a journey far to the north. Efnysien, Bendigeidfran and Branwens's half-brother on their mother's side. Efnysien, a man so bitter, a man so twisted, he could pitch two of the most loving brothers into mortal battle.
 
 "Whose are these horses?" and he was told: "the horses of Matholwych, King of Ireland, who is now married to Branwen".
 
