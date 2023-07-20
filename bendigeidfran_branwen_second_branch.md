@@ -1,6 +1,6 @@
 # Bendigeidfran and Branwen
 
-Imagine, if you will, Bendigeidfran, Bran the Blessed, son of Llyr, and a giant of a man. Bendigeidfran, King of the Island of the Mighty, King of the island of Britain. No ship could carry him, no house could give him shelter. A giant of a man. And Branwen, his sister. Branwen, the most beautiful girl in the world. Branwen, the most beautiful girl in this world, or the other.
+Imagine, if you will, Bendigeidfran, Bran the Blessed, son of Llyr. Bendigeidfran, a giant of a man. No ship could carry him, no house could give him shelter. Bendigeidfran, King of the Island of the Mighty, King of the island of Britain. And also, Branwen, his sister. Branwen, the most beautiful girl in the world. Branwen, the most beautiful girl in this world, or the other.
 
 One day, thirteen fast ships were spied approaching the Pembrokeshire coast. Irish ships. At the prow, a shield, its point faced upwards, a sign that they came in peace.
 
