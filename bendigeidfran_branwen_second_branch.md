@@ -44,7 +44,7 @@ The pig herder rushed to inform the king, who could make no sense of what the ba
 
 Matholwch retreated. Over the river Liffey they went, tearing down the bridges as they did so. The lodestone in the riverbed would destroy any ships that tried to cross the river, would tear out any nails that held the ships together.
 
-When Bendigeidfran and his men reached the bridge, the giant let out a cry that is still a proverb in Wales to this day: "let he who is a leader, be a bridge". And it was so.
+When Bendigeidfran and his men reached the bridge, the giant let out a cry that is still a proverb in Wales to this day: "let he who would be a leader, be a bridge". And it was so.
 
 Bendigeidfran lay across the river, and his men walked over him in pursuit of the Irish.
 
