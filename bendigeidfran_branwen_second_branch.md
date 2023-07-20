@@ -1,6 +1,8 @@
 # Bendigeidfran and Branwen
 
-Imagine, if you will, Bendigeidfran, Bran the Blessed, son of Llyr. Bendigeidfran, a giant of a man. No ship could carry him, no house could give him shelter. Bendigeidfran, King of the Island of the Mighty, King of the island of Britain. And also, Branwen, his sister. Branwen, the most beautiful girl in the world. Branwen, the most beautiful girl in this world, or the other.
+Imagine, if you will, Bendigeidfran, son of Llyr.  Benigeidran, also known as Brân the Blessed, or the Blessed Crow, for in Welsh, Brân means "raven", or "crow". Bendigeidfran, a giant of a man. No ship could carry him, no house could give him shelter. Bendigeidfran, King of the Island of the Mighty, King of the island of Britain.
+
+And imagine, also, Branwen, his sister. Branwen, the most beautiful girl in the world. Branwen, the most beautiful girl in this world, or the other.
 
 One day, thirteen fast ships were spied approaching the Pembrokeshire coast. Irish ships. At the prow, a shield, its point faced upwards, a sign that they came in peace.
 
@@ -80,7 +82,7 @@ The battle was all but over. The dead were many. The survivors were few.
 
 The Irish had been killed, to a man. Of Bendigeidfran's men, only seven lived through that terrible battle. Seven men, and Branwen.
 
-Bendigeidfran, perhaps, would have been one of those who few who survived, were it not for the poison on the tip of the spear that pierced his foot. Poison that had started to spread. "Cut off my head" he said, "I will still be good company for you, for seven years in Harlech, and eighty years after that. But do not open the door that faces Cornwall," he rather cryptically said, "or sorrow will end it all. And then you must bury my head, on the White Hill in London, facing south".
+Bendigeidfran, perhaps, would have been one of those who few who survived, were it not for the poison on the tip of the spear that pierced his foot. Poison that had started to spread. "Cut off my head" he said, "I will still be good company for you, for seven years in Harlech, and eighty years after that. But do not open the door that faces Cornwall," he rather cryptically said, "or sorrow will end it all. And then you must bury my head, on the Bryn Gwyn, the White Hill in London, facing south".
 
 And so they did. And of all the men who had left the Island of the Mighty only seven returned. Only seven, and Branwen. And the chatty head of Bendigeidfran, carried on the the golden platter that had been given to Matholwch several years before.
 
@@ -96,8 +98,8 @@ But as the years went by, for one of the seven, it started to become too much. A
 
 And as he did so, the weight of years, and the weight of all the sorrows of their lives, and their brothers lives, and of all those that had died in the battle, and more, fell upon them.
 
-And so, they left. They made their way to London. And there, under the White Hill, they buried the head of the giant Bendigeidfran, Bran the Blessed, the Blessed Crow, facing south to protect the Island of the Mighty against foreign invaders from France.
+And so, they left. They made their way to London. And there, under the Bryn Gwyn, the White Hill, they buried the head of the giant Bendigeidfran, Brân the Blessed, the Blessed Crow, facing south to protect the Island of the Mighty against foreign invaders from France.
 
-And though the story may have been lost to many, in England at least, though not, perhaps, to the Welsh, the memory of it remains. In the form of the rooks — the crows — of the Tower of London today. Who will protect England against invasion as long as they are there.
+And though the story may have been lost to many, in England at least, though not, perhaps, to the Welsh, the memory of it remains. In the form of the the ravens who inhabit the Tower of London today, the Tower that stands on the White Hill, the Bryn Gwyn. The ravens who will protect England against invasion as long as they are there. As did Bendigeidfran, Brân the Blessed, the Blessed Crow, or Raven.
 
-And so ends the story, the story of Bran and Branwen, the story of the second branch of the Mabinogion.
+And so ends the story, the story of Brân and Branwen, the story of the second branch of the Mabinogion.
