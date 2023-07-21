@@ -2,6 +2,35 @@
 
 
 
+---
+
+arthur of albion
+by r.w. barber
+
+Publication date 1873
+
+CHAPTER SIX — GAWAIN
+
+...
+
+pp108-9
+
+108 ARTHUR OF ALBION
+
+the material of the primitive romances. Arthur and his knights go hunting, and Bishop Baldwin, Kay and Gawain pursue a deer by themselves, and lose their way. They come to the castle of the Carl of Carlisle, of which, Baldwin tells them, it is said that no man ever stayed there and escaped with his life. None the less, they enter, and meet the Carl, a hideous giant who keeps four pets in his hall—a bear, a boar, a bull and a lion. Gawain is always courteous and obedient to his host, while the others break all the rules of good conduct. He is asked by the Carl to throw a spear at him, which he obediently does; the Carl dodges the missile, and then, leading Gawain to his wife’s chamber, puts him in her bed and bids him kiss her three times, but no more. He then leads him to his daughter, with whom he spends the night. The next morning the Carl bids Gawain cut off his head, which the latter reluctantly does; whereupon the Carl changes into an ordinary man, and tells Gawain that he has been under a spell which forced him to act thus until a knight obeyed all his commands, those who failed to do so being killed by him and his ‘pets’. Gawain weds the Carl’s daughter and they return to court, where the Carl is made a knight of the Round Table.
+
+This romance, in its earlier form 660 verses in length, comes from the same district as The Turk and Gawain. It seems to be a direct translation of some Irish or Celtic story, and there is little evidence of any French version having been used. The closest parallel yet found is the Irish Curoz’s Castle, in which the giant has similarly four beasts, the accompanying knights fail the test, and the hero obeys an order to hurl a spear at the giant.!2 A story similar to the incident of the host’s daughter is found in Norse saga, but the connection is only slight.18
+
+Apart from the disenchantment, the framework of the romance is an example of the Imperious Host motif found in every European folklore. Anyone arriving at the host’s castle who does not implicitly obey his word, even if politeness would seem to require disobedience, is automatically killed. This trial would be an obvious qualifying test for the disenchantment by decapitation,
+
+
+GAWAIN 109
+
+which can only be performed by the bravest of knights. So, in spite of wide superficial variations The Turk and Gawain and Sir Gawain and the Carl of Carlisle are in fact two forms of the same theme.
+
+
+---
+
 Fourteenth century Middle English
 Porkington MS 10 in the National Library of Wales,  c. 1400.
 
