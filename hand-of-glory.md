@@ -2,55 +2,57 @@
 
 The hand of glory is a fantastic device for keeping people asleep. It's origin also contains a tale. A typical telling is as follows:
 
-> It's a dark and stormy night and several travellers were gathered in a remote inn. There was a knock at the door — a beggar seeking shelter. He was welcomed in. Everyone settled down to sleep, except for the serving who had finished her chores and was struggling to to sleep. She noticed the beggar take something out of his bag - it looked like a candle in a mis-shapen candlestick. He lit the candle and muttered something "Let those who sleep, stay asleep". He proceeded to go through everyone's belongings. A thief. The girl went to raise a maser but he could not be woken. She went downstairs, and the robber heard her. As he tried to make his escape, she tried to douse the flame with water, with beer... ah, with milk. Folk were awoken, the robber caught and hung. The strange enchantment: a hand of glory, a candle in the hand of a dead man, cut from a corpse hanging on a gallows. In some tellings, the candle should made from the fat of another hanged man.
+> It's a dark and stormy night and several travellers were gathered in a remote inn. There was a knock at the door — a beggar seeking shelter. He was welcomed in. Everyone settled down to sleep, except for the serving who had finished her chores and was struggling to to sleep. She noticed the beggar take something out of his bag - it looked like a candle in a misshapen candlestick. He lit the candle and muttered something "Let those who sleep, stay asleep". He proceeded to go through everyone's belongings. A thief. The girl went to raise a maser but he could not be woken. She went downstairs, and the robber heard her. As he tried to make his escape, she tried to douse the flame with water, with beer... ah, with milk. Folk were awoken, the robber caught and hung. The strange enchantment: a hand of glory, a candle in the hand of a dead man, cut from a corpse hanging on a gallows. In some tellings, the candle should made from the fat of another hanged man.
 
----
-https://archive.org/details/remainesgentili00aubrgoog/page/n112/mode/2up
-Remaines of Gentilisme and Judaisme
-by Aubrey, John, 1626-1697; Britten, James, 1846-1924, ed
+One of the earliest references comes from Aubrey:
 
-Publication date 1881
-p103
-This brings to my remembrance a story that was generally believed when I was a Schooleboy (before the civill Warres) that Thieves when they broke open a house, would putt a Candle into a Dead man's hand, and then the people in the Chamber would not awake. There is such a kind of story somewhere amongst the magical writers.
+```{admonition} *Remaines of Gentilisme and Judaisme*, John Aubrey, (1696)/1881
 
-https://en.wikipedia.org/wiki/Petit_Albert
+In *Remaines of Gentilisme and Judaisme*, John Aubrey, ed. J. Britten, 1881, [p103](https://archive.org/details/remainesgentili00aubrgoog/page/n112/mode/2up) (Lansdowne Manuscript no. 231):
 
-https://archive.org/details/b33016306/page/84/mode/2up?q=%22Main+de+Gloire%22
-Secrets merveilleux de la magie naturelle et cabalistique du Petit Albert
-by Albert, Petit
+> This brings to my remembrance a story that was generally believed when I was a Schooleboy (before the civill Warres) that Thieves when they broke open a house, would putt a Candle into a Dead man's hand, and then the people in the Chamber would not awake. There is such a kind of story somewhere amongst the magical writers.
 
-Publication date 1765
-p84-6
-Hand of glory - "Main de Gloire"
-Includes image  / picture of Hand of Glory from 1765
+```
+
+Another early reference appears courtesy of Petit Albert in 1765:
+
+```{admonition} *Main de Gloire*, Petit Albert, 1765
+:class: dropdown
+
+In *Secrets merveilleux de la magie naturelle et cabalistique du Petit Albert*, Petit Albert, 1765, [p84-6](https://archive.org/details/b33016306/page/84/mode/2up):
 
 De la main de gloire dont se servent les scélérats , voleurs, pour entrer dans les maisons de nuit, sans empéchement.
 
-J'avoueque je n'ai jamais éprouvéle secret de la main de gloire; mais j'ai assisté trois foisau jugement défivitif de certains scélérats qui confessèrent à la torture s'être servis de la main de gloire dans les vols qu'ils avaient faits; et comme dens l'interrogatoire, on leur demanda ce que c'était , et comme ils l'avaient eue , et quel en était l'ussge, ils répondirent premiérement, que l'usage de la main de gloire était destupéfier et derendre immobiles ceux à qui on la présentait; en sorte qu'ils ne pouvaient non plus branler que s'ils étaient morts : secondement , que c'était la main d'un pendu ; troisiémement, qu'il fallait la préparer de la manière suivante. On prend la main droite ou la gauche d’un pendu exposé sur les grands chemins ; on l'enveloppe dans un morceau de drap mortuaire, dans lequel on la presse bien, pour lui faire rendrele peu de sang qui pourrait étre resté, puis on la met dans un vase de terre avec du zimet , du salpétre, du sel et du poivre long, le tout bien pulvérisé : on la laisse durant quinze jours dans ce pot, puis l’ayant tirée , on l'expose au grand soleil de la canicule, jusqu'à ce qu'elle soit devenue bien sèche, et si le soleil ne suffit pas, on la met dans un four qui soit chauffé avec de la fougére et de la verveine ; puis l'on compose une espéce de chandelle avec de la graisse de pendu , de la cire vierge et du siasme de Laponie, et l'on se sert de cette main de gloire comme d'un chandelier pour tenir la chandelle ellumée , et dans tous les lieux où l'on va avec ce funeste instrument, ceux qui y sont demeurent immobiles: et sur ce qu'on leur demanda , s'il n'y avait point de reméde pour se garantir de ce prestige, ils dirent que la main de gloire devenait sans effet, et que les voleurs ne pouvaient s'en servir, si ou frottait le seuil de la porte de la maison ou les endroits par où ils peuvent entrer, avec un onguent composé de fiel de chat noir , de graisse de poule blanche et du sang de chouette ; et qu'il fallait que cette coufection fût faite dans le temps de la canicule
+![](imags/main-de-gloire.png)
 
----
+J'avoueque je n'ai jamais éprouvéle secret de la main de gloire; mais j'ai assisté trois foisau jugement défivitif de certains scélérats qui confessèrent à la torture s'être servis de la main de gloire dans les vols qu'ils avaient faits; et comme dens l'interrogatoire, on leur demanda ce que c'était , et comme ils l'avaient eue , et quel en était l'ussge, ils répondirent premiérement, que l'usage de la main de gloire était destupéfier et derendre immobiles ceux à qui on la présentait; en sorte qu'ils ne pouvaient non plus branler que s'ils étaient morts : secondement , que c'était la main d'un pendu ; troisiémement, qu'il fallait la préparer de la manière suivante. On prend la main droite ou la gauche d’un pendu exposé sur les grands chemins ; on l'enveloppe dans un morceau de drap mortuaire, dans lequel on la presse bien, pour lui faire rendrele peu de sang qui pourrait étre resté, puis on la met dans un vase de terre avec du zimet , du salpétre, du sel et du poivre long, le tout bien pulvérisé : on la laisse durant quinze jours dans ce pot, puis l’ayant tirée , on l'expose au grand soleil de la canicule, jusqu'à ce qu'elle soit devenue bien sèche, et si le soleil ne suffit pas, on la met dans un four qui soit chauffé avec de la fougére et de la verveine ; puis l'on compose une espéce de chandelle avec de la graisse de pendu , de la cire vierge et du siasme de Laponie, et l'on se sert de cette main de gloire comme d'un chandelier pour tenir la chandelle ellumée , et dans tous les lieux où l'on va avec ce funeste instrument, ceux qui y sont demeurent immobiles: et sur ce qu'on leur demanda , s'il n'y avait point de reméde pour se garantir de ce prestige, ils dirent que la main de gloire devenait sans effet, et que les voleurs ne pouvaient s'en servir, si ou frottait le seuil de la porte de la maison ou les endroits par où ils peuvent entrer, avec un onguent composé de fiel de chat noir , de graisse de poule blanche et du sang de chouette ; et qu'il fallait que cette coufection fût faite dans le temps de la canicule.
 
-https://archive.org/details/aprovincialglos03grosgoog/page/n371/mode/2up?q=%22hand+of+glory%22+gallows
-A Provincial Glossary: With a Collection of Local Proverbs, and Popular ...
-by Francis Grose
+```
 
-Publication date 1787
-p73-5
+A translation appears Grose's *Provincial Glossary* of 1787:
+
+
+```{admonition} Petit Albert translation, Grose, 1787
+:class: dropdown
+
+In *A Provincial Glossary: With a Collection of Local Proverbs, and Popular Superstitions*. Francis Grose, 1787, [p73-5](https://archive.org/details/aprovincialglos03grosgoog/page/n371/mode/2up):
+
 To conclude this article, and my book, I shall transcribe a foreign piece of Superstition, firmly believed in many parts of France, Germany, and Spain. The account of it, and the mode of preparation, appears to have been given by a judge : in the latter, there is a striking resemblance to the charm in Macbeth.
 
-Of the Hand of Glory y which is made use of by housebreakers to enter into hdufes at nighty without fear of opposition.
-I ACKNOWLEDGE that I never tried the secret of the Hand of Glory, but I have thrice ?? assisted at the definitive judgment of certain criminals, who, under the torture, confessed having used it. Being asked what it was, how they procured it, and what were its uses and properties ?-^they answered, first, that the use of the Hand of Glory was to stupify those to whom it was presented, and to render them motionless, insomuch that they could not stir, any more than if they were dead ; secondly, that it was the hand of a hanged man ; and thirdly, that it must be prepared in the manner following :
+Of the Hand of Glory, which is made use of by housebreakers to enter into houses at night, without fear of opposition.
+
+I ACKNOWLEDGE that I never tried the secret of the Hand of Glory, but I have thrice ?? assisted at the definitive judgment of certain criminals, who, under the torture, confessed having used it. Being asked what it was, how they procured it, and what were its uses and properties ?- they answered, first, that the use of the Hand of Glory was to stupify those to whom it was presented, and to render them motionless, insomuch that they could not stir, any more than if they were dead ; secondly, that it was the hand of a hanged man ; and thirdly, that it must be prepared in the manner following :
 
 Take the hand, left or right, of a perfon hanged and exposed on the highway; wrap it up in a piece of a shroud, or winding sheet, in which let it be well squeezed, to get out any small quantity of blood that may have remained in it; then put it into an earthen vessel, with zimat, saltpetre, ??ait, and long pepper, the whole well powdered ; leave if fifteen days in that vessel ; afterwards take it out, and expose it to the noontide sun in the dog days, till it is thoroughly dry ; and if the sun is not sufficient, put it into an oven heated with fern and vervain : then compose a kind of candle with the fat of a hanged man, virgin wax, and fifame ?? of Lapland. The Hand of Glory is used as a candleftick to hold this candle, when lighted. Its properties are that wheresoever any one goes. with this dreadful instrument, the persons to whom it is presented will be deprived of all power of motion. On being asked if there was no remedy, or antidote, to counteract this charm, they said the Hand of Glory would cease to take effedl ?, and thieves could not make use of it, if the threshold of the door of the house, and other places by which they might enter, were anointed with an unguent composed of the gall of a black cat, the fat of a white hen, and the blood of a screech owl ; which mixture must necessarily be prepared during the ?? dog days,
 
+```
 
+Brand's *Observations on Popular Antiquities* also quaotes Grose's translation:
 
-Brand
-https://archive.org/details/observationsonp05elligoog/page/n166/mode/2up?q=%22hand+of+glory%22+gallows
-Observations on popular antiquities : chiefly illustrating the origin of our vulgar customs, ceremonies, and superstitions
-by Brand, John, 1744-1806; Ellis, Henry, Sir, 1777-1869; Harry Houdini Collection (Library of Congress) DLC
-Publication date 1841
-p153-4
+```{admonition} Petit Albert, Grose's translation in Brand, 1841
+:class: dropdown
+
+In *Observations on popular antiquities : chiefly illustrating the origin of our vulgar customs, ceremonies, and superstitions*, John Brand, 1841, p153-4](https://archive.org/details/observationsonp05elligoog/page/n166/mode/2up):
 
 Grose has preserved a foreign piece of superstition, firmly believed in many parts of France, Germany, and Spain. He calls it, "Of the *Hand of Glory*, which is made use of by housebreakers to enter into houses at night without fear of opposition.
 
@@ -59,6 +61,8 @@ Grose has preserved a foreign piece of superstition, firmly believed in many par
 Grose observes that this account (literally translated from the French of " Les Secrets du Petit Albert," 12mo. Lion. 1751, p. 110) and the mode of preparation appear to have been given by a Judge. In the latter there is a striking resemblance to the Charm in " Macbeth."
 
 The following paragraph in the " Observer", newspaper of January 16th, 1831, shows that the hand of glory is not unknown as a supposed Physical Charm in Ireland : " On the night of the 3rd instant, some Irish thieves attempted to commit a robbery on the estate of Mr. Napper, of Lough-screw, county Meath, They entered the house *armed with a Dead man's Hand*, with a lighted candle in it, believing in the superstitious notion that a candle placed in a dead man's hand will not be seen by any but those by whom it is used ; and also that, if a candle in a dead hand be introduced into a house, it will prevent those who may be asleep frco awaking. The inmates, however, were alarmed, and the robbers fled, leaving the hand behind them."
+
+```
 
 
 ---
@@ -87,7 +91,7 @@ THIEF’S FOOT.— THIEF’S HAND.— THIEF’S FINGER.
 
 In West Flanders, not far from Bailleul, a thief was taken, on whom was found the foot of one that had been hanged, which he used for the purpose of putting people to sleep.
 
-Two fellows once came to Huy, who pretended to be exceedingly fatigued, and when they had supped would not retire to a sleeping room, but begged their host would allow them to take a nap on the hearth. But the maid- servant, who did not like the looks of the two guests, remained by the kitchen door and peeped through a chink, when she saw that one of them drew a thief s hand from his pocket, the fingers of which, after having rubbed them with an ointment, he lighted, and they all burned except one. Again they held this finger to the fire, but still it would not bum, at which they appeared much surprised, and one said : " There must surely be some one in the house who is not yet asleep." They then hung the hand with its four burning fingers by the chimney, and went out to call their associates. But the maid followed them instantly and made the door fast, then ran up-stairs, where the landlord slept, that she might wake him, but was unable, notwithstanding all her shaking and calling.
+Two fellows once came to Huy, who pretended to be exceedingly fatigued, and when they had supped would not retire to a sleeping room, but begged their host would allow them to take a nap on the hearth. But the maid- servant, who did not like the looks of the two guests, remained by the kitchen door and peeped through a chink, when she saw that one of them drew a thief s hand from his pocket, the fingers of which, after having rubbed them with an ointment, he lighted, and they all burned except one. Again they held this finger to the fire, but still it would not burn, at which they appeared much surprised, and one said : " There must surely be some one in the house who is not yet asleep." They then hung the hand with its four burning fingers by the chimney, and went out to call their associates. But the maid followed them instantly and made the door fast, then ran up-stairs, where the landlord slept, that she might wake him, but was unable, notwithstanding all her shaking and calling.
 
 In the mean time the thieves had returned and were endeavouring to enter the house by a window, but the maid cast them down from the ladder. They then took a different course, and would have forced an entrance, had it not occurred to the maid that the burning fingers might probably be the cause of her master's profound sleep. Impressed with this idea she ran to the kitchen, and blew them out, when the master and his men-servants instantly awoke, and soon drove away the robbers.
 
