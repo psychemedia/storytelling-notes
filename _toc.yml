@@ -7,6 +7,7 @@ parts:
   - file: yama-and-yami
   - file: pentrich/pentrich-rising
   - file: man-no-story
+  - file: knight-york-fish-ring
 - caption: As Found in "The Royal Hibernian Tales"
   chapters:
   - file: hudden_dudden
