@@ -2,6 +2,10 @@
 
 Original set performed at Babushka Books, Thursday, February 2nd, 2023
 
+Also performed at:
+
+- Ventnor Fringe, Boniface Studios, Sunday, July 23rd, 2023
+
 ~1 hour
 
 *Background to traditional storytelling.*
@@ -32,7 +36,7 @@ https://archive.org/details/folkloremoderng00geldgoog/page/n110/mode/2up
 
 Golden Casket
 
-King wants son to marry; girl will marry who she speaks to, else they are killed; an otherwise reluctant-to-wed Prince says he will try marry her; market seller -  "This casket for sale ! whoever buys it will rue it ; and again, whoever does not buy it, will rue it : the price is a thousand ducats, no more and no less."
+King wants son to marry; girl will marry who she speaks to, else they are killed; an otherwise reluctant-to-wed Prince says he will try marry her; heads off to the foreign land; in a coffee shop, hawker turns up:  "This casket for sale ! whoever buys it will rue it ; and again, whoever does not buy it, will rue it : the price is a thousand ducats, no more and no less." All eyes turn on Prince (maybe ge across idea that he is being threatened into buying it.)
 
 Gets to town where Princess lives; Princess father also tired of his daughter; she will die if he fails. Wager is he must make her speak three times
 
