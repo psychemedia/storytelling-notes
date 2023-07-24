@@ -1,8 +1,8 @@
 # Sir Gawain and the Carle of Carlisle
 
+A story I came across by chance whilst I was looking for Arthurian tales, but it also hit the "giant" requirement that was also on a list of tale topics I needed to find stories for. I don't recall ever having heard this tale told before, although I do remember a couple of years 15-20 years or so ago whn Arthurian tales were very popular whenever we went to a storytelling event.
 
-
----
+Telling this tale without some adaptation may cause some tricky moments when it comes to the scenes featuring the Carle's wife an daughter...
 
 arthur of albion
 by r.w. barber
@@ -21,12 +21,7 @@ the material of the primitive romances. Arthur and his knights go hunting, and B
 
 This romance, in its earlier form 660 verses in length, comes from the same district as The Turk and Gawain. It seems to be a direct translation of some Irish or Celtic story, and there is little evidence of any French version having been used. The closest parallel yet found is the Irish Curoz’s Castle, in which the giant has similarly four beasts, the accompanying knights fail the test, and the hero obeys an order to hurl a spear at the giant.!2 A story similar to the incident of the host’s daughter is found in Norse saga, but the connection is only slight.18
 
-Apart from the disenchantment, the framework of the romance is an example of the Imperious Host motif found in every European folklore. Anyone arriving at the host’s castle who does not implicitly obey his word, even if politeness would seem to require disobedience, is automatically killed. This trial would be an obvious qualifying test for the disenchantment by decapitation,
-
-
-GAWAIN 109
-
-which can only be performed by the bravest of knights. So, in spite of wide superficial variations The Turk and Gawain and Sir Gawain and the Carl of Carlisle are in fact two forms of the same theme.
+Apart from the disenchantment, the framework of the romance is an example of the Imperious Host motif found in every European folklore. Anyone arriving at the host’s castle who does not implicitly obey his word, even if politeness would seem to require disobedience, is automatically killed. This trial would be an obvious qualifying test for the disenchantment by decapitation, which can only be performed by the bravest of knights. So, in spite of wide superficial variations The Turk and Gawain and Sir Gawain and the Carl of Carlisle are in fact two forms of the same theme.
 
 
 ---
@@ -38,9 +33,12 @@ https://reflection.eleusinianm.co.uk/medieval-literature/blue-book-of-wellow/sir
 
 https://reflection.eleusinianm.co.uk/portals/0/pdf/sir-gawain-carle-of-carlisle.pdf
 
-KIng Arthur and men had been out hunting, 500 deer and more had been killed.
 
-Sir Gawain, Sir Kay and Bishop Baldwin chased a reindeer from mid-mrining to lat afternoon
+TH NOTES:
+
+King Arthur and men had been out hunting, 500 deer and more had been killed.
+
+Sir Gawain, Sir Kay and Bishop Baldwin chased a reindeer from mid-morning to late afternoon
 
 Horn sounded to end the hunt, but continued, magic forest of Inglewood??? Deer disappeared, needed accommodation. Let's sleep under tree said Gawain. Sir Kay wanted to find lodgings. Bishop knew a place - Carle of Carlisle, lived in a nearby castle. THough he'd heard knights who stayed their only got out with a beating, if at all. Kay is up for it, to give as good as he gets.
 
