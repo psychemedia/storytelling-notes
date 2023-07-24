@@ -1,6 +1,6 @@
-# A Giant Tricked in Slashing His Own Belly
+# A Giant Tricked into Slashing His Own Belly
 
-
+There are various version of this tale, (I have a noe that the same eating competition appears in a Jack and the North Wind variant, but I can't find the story that I presumably made that note about)
 
 Giant tricked cut own belly / stomach
 
@@ -8,16 +8,10 @@ Asbjornsen Moe
 
 Boots is also Ash lad - youngest son; 
 
-```{admonition} Boots who Ate a Match With a Troll, Asbjørnsen and Moe, 1859
+```{admonition} Boots Who Ate a Match With a Troll, *Asbjørnsen and Moe*, 1859
 :class: dropdown
 
-https://archive.org/details/populartalesfro03dasegoog/page/28/mode/2up?q=ash+lad
-
-Popular tales from the Norse
-by Asbjørnsen, Peter Christen, 1812-1885; Moe, Jørgen Engebretsen, 1813-1882; Dasent, George Webbe, Sir, 1817-1896
-
-Publication date 1859
-pp28-31
+In *Popular tales from the Norse*, Asbjørnsen & Moe, 1859, [pp28-31](https://archive.org/details/populartalesfro03dasegoog/page/28/mode/2up):
 
 BOOTS WHO ATE A MATCH WITH THE TROLL.
 
@@ -41,7 +35,7 @@ The third day Boots wanted to set off.
 
 Boots said nothing to thisi bnt only begged them to give him a good store of food. His mother had no cheese, so she set the pot on the fire to make him a little, and he put it into a scrip and set off. So when he had hewn a bit, Uie Troll came to him too, and said, —
 
-" If you hew in this wood of mine, I '11 kill you."
+" If you hew in this wood of mine, I'll kill you."
 
 Bnt the lad was not slow ; he pulled his cheese ont of the scrip in a trice, and squeezed it till the whey ^urted out.
 
@@ -67,20 +61,17 @@ So when he came back with the water, they set to and boiled up a great pot of po
 
 " With all my heart," said the Troll, for he thought he could surely hold his own in eating. So they eat down ; but the lad took his scrip unawares to the Troll, and hung it before him, and so he spooned more into the scrip than he &t« himself; and when the scrip was fall, he took up his knife and made a slit in the scrip. The Troll looked on all the while, but said never a word. So when they had eaten a good bit longer, the Troll laid down his spoon, saying, " Nay ! but I can't eat a morsel more."
 
-" Bnt you shall eat," said the youth ; " I'm only half done ; why don't yon do as I did, and cut a bole in your paunch ? You'll be able to eat then as much as you please."
+" But you shall eat," said the youth ; " I'm only half done ; why don't you do as I did, and cut a hole in your paunch ? You'll be able to eat then as much as you please."
 
-"Bnt doesn't it hart one cruelly?" asked the TroU.
+"Bnt doesn't it hart one cruelly?" asked the Troll.
 
 " Oh," said the youth, " nothing to speak of."
 
 So the Troll did as the lad said, and then you must know very well that he lost his life ; but the lad took all the silver and gold that he found in the hill-side, and went home with it, and you may fancy it went a great way to pay off the debt.
 
-
-
-
 ```
 
-Also in jack the Giant Killer [need even briefer summmary than in the chap book], eg
+Also in jack the Giant Killer [need even briefer summary than in the chap book], eg
 
 > [Jack] proceeded on his journey to Wales.
 >
