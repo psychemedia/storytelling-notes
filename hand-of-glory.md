@@ -64,21 +64,23 @@ The following paragraph in the " Observer", newspaper of January 16th, 1831, sho
 
 ```
 
+A report of a hand of glory apparently being used in a robbery in Ireland in 1841:
 
----
+```{admonition} March of Intellect, The Globe, March, 1831
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001652/18310111/012/0003
-Globe - Tuesday 11 January 1831
+In *Globe*, Tuesday 11 January 1831, [p3](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001652/18310111/012/0003):
+
 IRELAND
 
-..
+...
 
 March of Intellect
 
-On the night of Monday, the 3d inst., a robbery, or rather an attempt at robbery, attended with some highly illustrative Irish circumstances, took place on the estate of Mr. Napper, of Loughcrew. in the county Meath. To explain these, however, to our English readers, it is necessary to premise that it is an opinion very prevalent among the "finest pisantry in the world" that a lighted candle placed in a dead man's hand, will not be seen by any but those by whom it is used; and also. that if a candle in a dead hand be introduced into a house, it will prevent those who may be asleep from awaking ! Under the influence of this superstition, a party, on Monday night, *armed with a dead man's hand* and lighted candle, attacked the house of Mrs. Leonard (the mother of the priest) in the town of Oldcastle; but, unfortunately for the credit of the clan, the inmates were alanne4, and the robbers fled, leaving the hand behind them. *Dublin Warder.*
+On the night of Monday, the 3d inst., a robbery, or rather an attempt at robbery, attended with some highly illustrative Irish circumstances, took place on the estate of Mr. Napper, of Loughcrew. in the county Meath. To explain these, however, to our English readers, it is necessary to premise that it is an opinion very prevalent among the "finest pisantry in the world" that a lighted candle placed in a dead man's hand, will not be seen by any but those by whom it is used; and also. that if a candle in a dead hand be introduced into a house, it will prevent those who may be asleep from awaking ! Under the influence of this superstition, a party, on Monday night, *armed with a dead man's hand* and lighted candle, attacked the house of Mrs. Leonard (the mother of the priest) in the town of Oldcastle; but, unfortunately for the credit of the clan, the inmates were alarmed, and the robbers fled, leaving the hand behind them. *Dublin Warder.*
 
+*The same report appears elsewhere under a different heading. For example, in the *Chester Courant* of Tuesday, 18th January, 1831 under the heading [Singular Superstition](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000390/18310118/010/0003).
 
-TH: also elsewhere under differnt heading, eg Singular Superstition (Chester Courant - Tuesday 18 January 1831 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000390/18310118/010/0003 et al)
+```
 
 
 
@@ -125,7 +127,7 @@ In the Icelandic and Pomeranian myths the schamir, or tf raven-stone," also rend
 
 In the north of Europe schamir appears strangely and grotesquely metamorphosed. The hand of a man that has been hanged, when dried and prepared with certain weird unguents and set on fire, is known as the Hand of Glory ; and as it not only bursts open all safe locks, but also lulls to sleep all persons within the circle of its influence, it is of course invaluable to thieves and burglars. I quote the following story from Thorpe's " Northern Mythology : " Two fellows once came to Huy, who pretended to be exceedingly fatigued, and when they had supped would not retire to a sleeping-room, but begged their host would allow them to take a nap on the hearth. But the maidservant, who did not like the looks of the two guests, remained by the kitchen door and peeped through a chink, when she saw that one of them drew a thief's hand from his pocket, the fingers of which, after having' rubbed them with an ointment, he lighted, and they all burned except one. Again they held this finger to the fire, but still it would not burn, at which they appeared much surprised, and one said, c There must surely be some one in the house who is not yet asleep/ They then hung the fyand with its four burning fingers by the chimney, and went out to call their associates. But the maid followed them instantly and made the door fast, then ran upstairs, where the landlord slept, that she might wake him, but was unable, notwithstanding all her shaking and calling. In the mean time the thieves had returned and were endeavouring to enter the house by a window, but the maid cast them down from the ladder. They then took a different course, and would have forced an entrance, had it not occurred to the maid that the burning fingers might probably be the cause of her master's profound sleep. Impressed with this idea she ran to the kitchen and blew them out, when the master and his men-servants instantly awoke, and soon drove away the robbers." The same event is said to have occurred at Stainmore in England ; and Torquemada relates of Mexican thieves that they carry with them the left hand of a woman who has died in her first childbed, before which talisman all bolts yield and all opposition is benumbed. In 1831 "some Irish thieves attempted to commit a robbery on the estate of Mr. Naper, of Loughcrew, county Meath. They entered the house armed with a dead man's hand with a lighted candle in it, be- lieving in the superstitious notion that a candle placed in a dead man's hand will not be seen by any but those by whom it is used ; and also that if a candle in a dead hand be introduced into a house, it will prevent those who may be asleep from awaking. The inmates, however, were alarmed, and the robbers fled, leaving the hand behind them." `[ Henderson, Folk-Lore of the Northern Counties of England, p. 202. ]`
 
-https://archive.org/details/dli.granth.84777
+https://archive.org/details/dli.granth.84777 ? no longer found, but available here: https://books.google.co.uk/books?id=a0iwAAAAIAAJ
 Notes on the Folklore of the Northern Counties of England and the Borders
 by Henderson, William; Baring-Gould, S.
 Publication date 1866
@@ -398,25 +400,24 @@ Notes and Queries
 
 ---
 
+In *Notes and Queries*, 1872-03-23: Vol 9 Iss 221, [p238-9](https://archive.org/details/sim_notes-and-queries_1872-03-23_9_221/page/238/mode/1up):
 
-https://archive.org/details/sim_notes-and-queries_1872-03-23_9_221/page/238/mode/1up
-Notes and Queries  1872-03-23: Vol 9 Iss 221
-p238-9
 " Hand of Glory."—In Grose’s account of the " Hand of Glory " (*Prov. Glossary, 2nd ed. 1790*), I find these words—
 "I have thrice assisted at the definitive judgment of certain criminals, who under torture confessed having used it."
 
 What does "the definitive judgment of criminals" mean? Was not torture in England done away with long before Grose's time? Had the "Hand of Glory" any real power of fascination, and did it ever have the effect mentioned by Grose—viz. that of rendering people powerless to move ? H. S. Skipton.
 Tivoli Cottage, Cheltenham
 
-https://archive.org/details/sim_notes-and-queries_1872-04-06_9_223/page/288/mode/1up
-Notes and Queries  1872-04-06: Vol 9 Iss 223
-p289
+---
+
+In *Notes and Queries*, 1872-04-06: Vol 9 Iss 223, [p289](https://archive.org/details/sim_notes-and-queries_1872-04-06_9_223/page/288/mode/1up):
+
 "Hand of Glory" (4th S. ix. 238.)—I have not at hand a copy of Grose's Provincial Glossary, but from a quotation from his writings (what particular work is not stated) in Brand's Popular Antiquities, ed. 1813, vol. ii. p. 583, it seems that the passage, only a part of which is extracted by your correspondent, does not profess to relate our English antiquary's own experience. It is introduced as an account of "a foreign piece or superstition firmly believed in many parts of France, Germany, and Spain." It is in fact, as we are informed further on, a literal translation from a French work known as *Les Secrets du petit Albert*, 12mo, Lion, 1751, p. 110. This superstition is mentioned by Sir Walter Scott in *The Antiquary*, chapter xvii. Edward Peacock.
 Bottesford Manor, Brigg.
 
-https://archive.org/details/sim_notes-and-queries_1872-05-04_9_227/page/376/mode/1up
-Notes and Queries  1872-05-04: Vol 9 Iss 227
-p376
+---
+
+In *Notes and Queries*, 1872-05-04: Vol 9 Iss 227, [p376](https://archive.org/details/sim_notes-and-queries_1872-05-04_9_227/page/376/mode/1up):
 
 "Hand of Glory" (4th S. ix. 238, 289.)—I think it may safely be said that the hand of glory (i. e. a dead man's hand with a candle placed in it) did not have the effect of making people powerless to move. Thieves believe that the candle and person holding the hand are invisible. Sir Walter Scott evidently thinks it a foreign charm, for he makes Dousterswivel in *The Antiguary* thus describe it:—
 
@@ -428,15 +429,17 @@ Harland and Wilkinson, in their *Lancashire Folk Lore* (1867) give a most intere
 John Piggot, Jun., F.S.A.
 
 
-https://archive.org/details/sim_notes-and-queries_1872-05-25_9_230/page/436/mode/1up
-Notes and Queries  1872-05-25: Vol 9 Iss 230
-p436
+---
+
+In *Notes and Queries*, 1872-05-25: Vol 9 Iss 230, [p436](https://archive.org/details/sim_notes-and-queries_1872-05-25_9_230/page/436/mode/1up):
+
 Fatner Arrowsmith's Hand (4 S. ix. 376.) In *The Memoirs of the Missionary Priests (of England)*, by Dr. Challoner, we find that "a hand of the Venerable Martyr Father Arrowsmith, S. J, is still preserved, and is in possession of the Gerrard family in Lancashire." Father Arrowsmith suffered death on the scaffold, after undergoing terrible persecutions, in Lancaster, on August 28, 1628, *aetatis* 43. There is no mention made in the volume to which I refer of any favour being refused by the sheriff or sub-sheriff to Father Arrowsmith; but it is stated that a rather violent attempt by the sheriff was made to force the martyr priest to abjure his faith on the scaffold. It is stated, however, of the judge that he ordered the martyr's head "to have it set higher by six yards than any of the pinnacles" of Lancaster Castle, and that whilst sitting at supper on January 23, 1629-30, he (the judge) felt a blow as if somebody had struck him on the head, upon which he fell into a rage with the servant that waited behind him, who protested that he had not struck him, nor did he see any one strike him. A little after he felt another blow like the first, and then in great terror he was carried to bed and died the next morning. Father Arrowsmith’s hand, in a silver shrine, is at present, I believe, in or near Liverpool, and is greatly resorted to for cures, Maurice Lenthan, M.R.I.A.
 Limerick
 
-https://archive.org/details/sim_notes-and-queries_1872-06-01_9_231/page/455/mode/1up
-Notes and Queries  1872-06-01: Vol 9 Iss 231
-p455
+---
+
+In *Notes and Queries*, 1872-06-01: Vol 9 Iss 231, [p455](https://archive.org/details/sim_notes-and-queries_1872-06-01_9_231/page/455/mode/1up):
+
 "Hand of Glory" (4S, ix. 238, 289, 376, 436.)—The hand of glory is introduced by Southey into his magnificent poem of *Thalaba the Destroyer*, v.27—
 
 "A murderer at the stake had died,  
@@ -455,10 +458,10 @@ I cannot but think Mr. Piggot has been misled in his account of Edmund Arrowsmit
 
 Edward Peacock. Bottesford Manor, Brigg.
 
+---
 
-Notes and Queries  1872-07-13: Vol 10 Iss 237
-https://archive.org/details/sim_notes-and-queries_1872-07-13_10_237/page/38/mode/2up
-p39
+In *Notes and Queries*, 1872-07-13: Vol 10 Iss 237, [p39](https://archive.org/details/sim_notes-and-queries_1872-07-13_10_237/page/38/mode/2up):
+
 "Hand of Glory" (4th S. 238, 289, 376, 455.)—I think I see that this " Hand of Glory " is nothing but the "Hand of Elloree," or the " Hand of Gilry"—a sentence that once meant the "Hand of Sorcery." In the " Romance of the Seven Sages" (see *Promptorium Parculorum*, under the word " Gaude") are the lines—
 
 "' Ah, dame,' said the emperowre,  
@@ -472,9 +475,10 @@ But this is not all, by any means; and the incredible part is to come. The phras
 I cut this note very short, and leave out a number of collateral proofs, much more surprising than those I mention. *Elloree* and *Caint* are words with very long biographies, meandering through many languages, and very curious in
 them all—especially in our own—of the Celtic family, and in our literature. If I had any business to draw or point morals in "N. & Q." I would impress on the lovers of these interesting researches the chief duty of looking for the folk-lore of Old England in the legends and the language of the sister island. W. D. Brooklyn, N.Y.
 
-https://archive.org/details/sim_notes-and-queries_1896-07-25_10_239/page/70/mode/2up
-Notes and Queries  1896-07-25: Vol 10 Iss 239
-p71-2
+---
+
+In *Notes and Queries*, 1896-07-25: Vol 10 Iss 239, [p71-2](https://archive.org/details/sim_notes-and-queries_1896-07-25_10_239/page/70/mode/2up):
+
 Thieves' Candles.—Some criminals, it would appear, entertain the horrible creed that the use of a candle made of a murdered man's fat will protect them from discovery during their depredations. Actuated by this hideous and insane superstition, it is averred that two burglars in the district of Ostrogojsk (Voroneje Government) recently murdered a handsome stalwart young fellow villager of eighteen, for the sake of his tallow. The story goes on to state that, having butchered their victim, these fiends ripped open the body, and tore out the epiploon, which they put up in a tin box, and carried home. Next came the melting-down process. The men's strange operations aroused the suspicions of their landlady—the more so, as ugly rumours of the poor young fellow's disappearance began to circulate—and she gave information in the proper quarter. In conclusion it is mentioned that the tin box and its contents have been handed to two well-known professors for examination.
 
 The above circumstantial account is from the St. Petersburg *Novosti and Bourse Gazette* of 9th to 21st June, which refers to the *Kharkoff Government Gazette* as its authority. True or not true, the charge is noteworthy, as bearing upon a very gruesome piece of thieves' folk-lore or black art.
@@ -483,9 +487,10 @@ The curious will find some interesting particulars under the heading 'Men and Ca
 St. Petersburg
 
 
-https://archive.org/details/sim_notes-and-queries_1896-11-28_10_257/page/445/mode/1up
-Notes and Queries  1896-11-28: Vol 10 Iss 257
-p445-6
+---
+
+In *Notes and Queries*, 1896-11-28: Vol 10 Iss 257, [p445-6](https://archive.org/details/sim_notes-and-queries_1896-11-28_10_257/page/445/mode/1up):
+
 Thieves' Candles (8 S. x. 71).—Compare the following in Scott's 'Antiquary,' chap. xvii. :—
 
 "[Dousterswivel *loq.*:] De hand of glory, my goot Master Oldenbuck, which is a vary great and terrible secrete—which de monksh used to conceal their treasures when they were triven from their cloisters by what you call de Reform...... Why, my goot Master Oldenbuck, you will only laugh at me—But de hand of glory is vary weil known in de countries where your worthy progenitors did live—and it is hand cut off from a dead man as has been hanged for murther, and dried very nice in de shmoke of juniper wood ; and if you put a little of what you call yew wid your juniper it will not be any better—that is, it will not be no worse—then you do take something of de fateh of de bear, and of de badger, and of de great eber, as you call de grand boar, and of de little sucking child as has not been christened—for dat is very essentials,—and you do make a candle, and put it into de hand of glory at de proper hour and minute with de proper ceremonish, and he who seeksh for treasuresh shall never find none at all."
@@ -510,14 +515,17 @@ I think this superstition is referred to in a recent book on folk-lore by Chas. 
 
 See 'The Athenian Oracle' ('The Scott Library'), pp. 136, 137. O. S. T.
 
-https://archive.org/details/sim_notes-and-queries_1897-04-03_11_275/page/268/mode/1up
-Notes and Queries  1897-04-03: Vol 11 Iss 275
-p268
+
+---
+
+In *Notes and Queries*, 1897-04-03: Vol 11 Iss 275, [p268](https://archive.org/details/sim_notes-and-queries_1897-04-03_11_275/page/268/mode/1up):
+
 Hand or Glory: Thieves Candles. (See 4th S. ix. 238, 289, 376, 436, 455 ; x. 39; 8th S., x. 71, 445.)—Is there any foundation for the suggestion that this phrase has a Celtic origin in *hand elloree* or *gilry*, as set forth at 4th S. ix. 376? How is the thieves' candle described in 'Les Secrets du Petit Albert' (Lion, 1751)? Is it called the hand of glory in Arabic, in mediaeval Latin, or in any European language ? Q. V.
 
-https://archive.org/details/sim_notes-and-queries_1897-05-15_11_281/page/397/mode/1up
-Notes and Queries  1897-05-15: Vol 11 Iss 281
-p397-8
+---
+
+In *Notes and Queries*, 1897-05-15: Vol 11 Iss 281, [p397-8](https://archive.org/details/sim_notes-and-queries_1897-05-15_11_281/page/397/mode/1up):
+
 Hand or Glory: Thieves' Candles (4th S.. ix. 238, 289, 376, 436, 455; x. 39; 8th S. x. 71, 455 ; xi. 268).—In C. Nisard's ' Histoire des Livres Populaires,' first edition (Paris, 1854), Q. V. will find (p. 204 *et seq.* of vol. i.), the description which he desiderates quoted in full. Very interesting and creepy it is, but too long, I think, for insertion in 'N. & Q.' Nisard reproduces a queer old cut representing the ghastly hand with its candle. According to " Little Albert," three malefactors, under torture, described the mode of preparation, and upon being further pressed to reveal a potent counter-charm, —
 
 'ils dirent que la main de gloire devenait sans effet, et que les voleurs ne pourraient s'en servir, si on frotrait le seuil de la porte de la maison, ou les autres, endroits par où ils peuvent entrer, avec un onguent composé du fiel de chat noir, de graisse de poule blanche et du sang de chouette, et qu'il fallait que cette confection füt faite dans le temps de la canicule."
@@ -533,9 +541,10 @@ St. Petersburg.
 
 When I was a boy at school at Brighton, between Midsummer 1859 and Michaelmas 1863, I saw at the Museum at Lewes Castle a dried or mummied hand, said to have been torn off in punishment or torture. Can this have been used as a "hand of glory"? Thomas J. Jeakes.
 
-https://archive.org/details/sim_notes-and-queries_1897-06-05_11_284/page/458/mode/1up
-Notes and Queries  1897-06-05: Vol 11 Iss 284
-p458-9
+---
+
+In *Notes and Queries*, 1897-06-05: Vol 11 Iss 284, [p458-9](https://archive.org/details/sim_notes-and-queries_1897-06-05_11_284/page/458/mode/1up):
+
 Hand of Glory: Thieves' Candles (8th S. xi. 268, 397).—" Hand of glory" exists in French, and Littré bas some interesting remarks thereon.
 
 "'Main de gloire': nom d'un pretendu charme fait
@@ -546,9 +555,10 @@ Larousse defines it: " Main de pendu desséchés, dans laquelle on mettait une b
 I have not the references convenient ; but I have somewhere seen the statement that the roots of the mandrake have a resemblance more or less pronounced to parts of the human anatomy. If this is true it is quite possible that Littré is right. The hand of a hanged man is credited with curious powers, and information on that subject might surely be gathered from 'N. & Q.' John E. Norcross. Brooklyn, U.S
 
 
-https://archive.org/details/sim_notes-and-queries_1897-07-24_12_291/page/74/mode/1up
-Notes and Queries  1897-07-24: Vol 12 Iss 291
-p74
+---
+
+In *Notes and Queries*, 1897-07-24: Vol 12 Iss 291, [p74](https://archive.org/details/sim_notes-and-queries_1897-07-24_12_291/page/74/mode/1up):
+
 Hand or Glory: Thieves' Candles (4 §. ix. 238, 289, 376, 436, 455; x. 39; 8S, x. 71, 445. xi. 268, 397, 458).—It was one of the false accusations brought against St. Athanasius that he had slain Arsenius and cut off one of his hands, which hand he had used for purposes of magic and sorcery. The particulars are given by Socrates, the ecclesiastical historian, i. 27-29.
 
 Moore mentions
@@ -557,13 +567,18 @@ Moore mentions
 From dead men's marrow guides them best at night.  
 'Lalla Rookh ' (" Veiled Prophet of Khorassan "). W. C. B
 
-https://archive.org/details/sim_notes-and-queries_1897-10-02_12_301/page/274/mode/1up
-Notes and Queries  1897-10-02: Vol 12 Iss 301
-p274
+
+---
+
+In *Notes and Queries*, 1897-10-02: Vol 12 Iss 301, [p274](https://archive.org/details/sim_notes-and-queries_1897-10-02_12_301/page/274/mode/1up):
+
 Hand or Glory: Thieves' Candles (4th S. ix. 238, 289, 376, 436, 455; x. 39; 8th S. x. 71, 445; xi, 268, 397, 458; xii. 74).—Mr. Norcross's interesting reference (xi. 458) to the "hand of glory," as that of a " hanged man," brings the subject round to my ' Folk-lore of Filatures’ (ix. 324; x. 261, 325, 405; xi. 232). The efficacy of a rope, or portion of a rope, that has hanged a man to ensure luck or cure diseases of the head is well known ; it is well remembered what a roaring trade the hangman did in bits of rope after every public execution. I consider hanging as a sacrifice or homage to the sun—a sort of " rendering unto Caesar," &c.—as the sun-cord or funic sun-ray, brought the man into the world, so it takes him out. I have already referred (x. 261) to the 'Sun-dance of the Sioux' as an enactment of the intermediate sacrifice of regeneration (see, s.v., Century Magazine, vol. xxxix. No. 5, pp. 753-9, which describes, perhaps, the most primitive, and, from my point of view, significant of ' sun-poles'; and the evident prototype of the " May," and every other festal pole throughout the world, and in all ages). The suspension of offerings of hair, threads, rags, and more material objects, on trees and poles and cairns, in connexion with mountain, water, and saintly shrines and tombs, is well known all over the world, The so-called " holy wells" and " rag- bushes" are, I believe, a stock subject with the professed folk-lorist. The consecration of the Hindu caste-thread by fire, and the use of the kusti, or fillet, by the fire-worshipper may be mentioned ; also the use of a knotted thread on the neck in sun-worship, and the reputed finding of the saint's hair in the ashes of St. John's Eve fire. Thomas J. JEAKES.
 
-https://archive.org/details/sim_notes-and-queries_1898-01-15_1_3/page/52/mode/1up
-Notes and Queries  1898-01-15: Vol 1 Iss 3
+
+---
+
+*Notes and Queries*, 1898-01-15: Vol 1 Iss 3, [p52](https://archive.org/details/sim_notes-and-queries_1898-01-15_1_3/page/52/mode/1up):
+
 Hand of Glory: Thieves' Candles (4th S. ix. 238, 289, 376, 436, 455 ; x. 39; 8 S. x. 71, 445; xi. 268, 397, 458; xii. 74, 274).—Walter Thornbury, in 'A Tour round England' (London, Hurst & Blackett, 1870), vol. i. p. 85, under the heading of 'The Mummy Hand,' has the following passage :
 
 "Swift away on our black wing [i.e., the cicerone crow's] after this short resting to where the blue smoke rises over Reading like the smoke of a witch's caldron. Let us perch first on the abbey gateway. This abbey, founded by Henry I., and endowed with the privilege of coining, attained a great name among the English abbeys, from the 'incorrupt hand' of St. James the Apostle, presented to it by Henry I. After working thousands of miracles, raising cripples, curing blindness—after millions of pilgrimages had been made to it, and it had been long incensed and in every way glorified—the hand was lost at the Dissolution. No one cared about it then; it was mere saintly lumber. In the general scramble of that subversive time some worshipper who still venerated it hid it underground, where it was found centuries after. It is now [1870] preserved at Danesfield, a Roman Catholic family still honouring the uncertain relic. It will for ever remain a moot point whether the hand at Danesfield, however, is the hand of St. James, or a mere chance mummy hand, such as mediaeval thieves were wont to use as candlesticks and talismans; 'hands of glory,' the rascals called them. This hand of St. James made the fortune of the Abbey at Reading, and was an open, receptive hand, no doubt, for all current coin of those days, from the groat to the broad piece. Bells rung, incense fumed, priests bore the cross, and acolytes swung the thurible in the Abbey at Reading, and all encouraged by the *éclat* of the incorruptible hand."
@@ -571,6 +586,7 @@ Hand of Glory: Thieves' Candles (4th S. ix. 238, 289, 376, 436, 455 ; x. 39; 8 S
 Without subscribing to the tone of persiflage in the above remarks, I would suggest that the paragraph brings on the scene a mummy hand of high interest, and might possibly, therefore, be admitted to a corner in the valuable collection of ' N. & Q.' under the above headings. H. E. M. St. Petersburg.
 
 -----
+
 https://archive.org/details/sim_notes-and-queries_1856-05-03_1_18/page/350/mode/2up
 Notes and Queries  1856-05-03: Vol 1 Iss 18
 p351
@@ -581,10 +597,10 @@ W. W.
 Malta.
 
 
+---
 
-https://archive.org/details/sim_notes-and-queries_1856-09-13_2_37/page/216/mode/1up
-Notes and Queries  1856-09-13: Vol 2 Iss 37
-p216
+In *Notes and Queries*, 1856-09-13: Vol 2 Iss 37, [p216](https://archive.org/details/sim_notes-and-queries_1856-09-13_2_37/page/216/mode/1up):
+
 The last Gibbet in England (2nd S. i. 351.) — It is stated that " the last gibbet erected in England was demolished by the workmen employed in making the extensive docks for the North-Eastern Railway Company, upon Jarrow Stoke, on the Tyne." This statement is not quite correct. At the corner of Ditchling Common, in Sussex, near to the turnpike-road which leads from Ditchling to Lindfield, there still remains a piece of an old gibbet, and a very unpleasant looking log of wood it is, known by the name of " Jacob’s Post ;" that being the name of the man, a Jew, who committed a very barbarous murder near to the spot, and was hanged in chains there in 1734.
 
 The Jew, Jacob, having put up his horse at the public-house close by, attacked his host, a person named Miles, whilst he was engaged in cleaning his horse, and cut his throat. In the same way he destroyed the servant-maid, who, it is supposed, had been disturbed by the noise in the stable, and was descending the staircase to see what was the matter. He then went upstairs and cut the throat of poor Miles's wife, who was lying on a sick bed.
@@ -609,9 +625,11 @@ Enough to make a heart of stone run cold."
 
 R. W. B.
 
-https://archive.org/details/sim_notes-and-queries_1872-10-26_10_252/page/332/mode/1up
-Notes and Queries  1872-10-26: Vol 10 Iss 252
-p332
+
+---
+
+In *Notes and Queries*, 1872-10-26: Vol 10 Iss 252, [p332](https://archive.org/details/sim_notes-and-queries_1872-10-26_10_252/page/332/mode/1up):
+
 GIBBETING ALIVE A writer in the *Daily News* of October 2nd says that near to Merrington Chirch, Durham,
 
 "At the cross roads near the mill, there long hung the bones of the last man ever gibbeted alive. It was in 1805 that this miserable wretch was hoisted aloft to die lingeringly, and the county people to this day tell how his sweetheart kept him alive for a fortnight by raising to him on the end of a stick a sponge soaked in milk, and how, when this was detected and prevented, his yells were heard for miles."
@@ -620,19 +638,20 @@ Is there any foundation horrible a story, and was "gibbeting alive," i.e. starvi
 E. M. S.
 Chichester.
 
-https://archive.org/details/sim_notes-and-queries_1872-11-09_10_254/page/382/mode/2up
-Notes and Queries  1872-11-09: Vol 10 Iss 254
-p382-3
+---
+
+In *Notes and Queries*, 1872-11-09: Vol 10 Iss 254, [p382-3](https://archive.org/details/sim_notes-and-queries_1872-11-09_10_254/page/382/mode/2up):
+
 Gibbeting Alive (4th S. x. 332.)—This "horrible tale" of the year 1805 is but a repetition of a story told of the same county, but dated 1683. In that year the body of a man, named Andrew Mills, who had been executed at Durham for the murder of his master's three children, was hung chains near to Ferry Hill. Yet the tale goes that he was gibbeted alive — that a girl who loved him contrived to keep him in existence for several days, and that his dying shrieks could be heard for miles around. Is this traditionary story peculiar
 to the county of Durham ? CUTHBERT BEDE
 
+---
 
 
 https://archive.org/details/lancashirefolklo00harlrich/page/138/mode/2up
-Lancashire folk-lore : illustrative of the superstitious beliefs and practices, local customs and usages of the people of the county Palatine
+In *Lancashire folk-lore : illustrative of the superstitious beliefs and practices, local customs and usages of the people of the county Palatine*, 
 by Harland, John, 1806-1868; Wilkinson, Thomas Turner, d. 1874
-
-Publication date 1867
+ 1867
 schoolmaster and devil, pendle witches
 
 
