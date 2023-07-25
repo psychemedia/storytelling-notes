@@ -113,3 +113,10 @@ Database of middle English romance https://middleenglishromance.org.uk/mer
 Database of Middle English Romance and its host institution is the University of York; the url is: http://www.middleenglishromance.org.uk.
 
 Seem to be 83 tales there: https://middleenglishromance.org.uk/mer/1 to https://middleenglishromance.org.uk/mer/83
+
+
+https://ims.leeds.ac.uk/article/inglewood-forest-in-three-romances-from-the-northern-gawain-group/
+Inglewood Forest in Three Romances from the Northern Gawain Group
+LEEDS MEDIEVAL STUDIES JOURNAL, 1 (2021) FRIDAY 31 DECEMBER 2021
+Lindy Brady
+DOI: 10.57686/256204/4
