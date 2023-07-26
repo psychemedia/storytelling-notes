@@ -2,7 +2,9 @@
 
 The hand of glory is a fantastic device that can be used by thieves to keep people asleep as they go about their nefarious business. How a hand of glory is made also contains a tale. A typical telling of the hand of glory story is as follows:
 
-> It's a dark and stormy night and several travellers were gathered in a remote inn. There was a knock at the door — a beggar seeking shelter. He was welcomed in. Everyone settled down to sleep, except for the serving who had finished her chores and was struggling to to sleep. She noticed the beggar take something out of his bag - it looked like a candle in a misshapen candlestick. He lit the candle and muttered something "Let those who sleep, stay asleep". He proceeded to go through everyone's belongings. A thief. The girl went to raise a maser but he could not be woken. She went downstairs, and the robber heard her. As he tried to make his escape, she tried to douse the flame with water, with beer... ah, with milk. Folk were awoken, the robber caught and hung. The strange enchantment: a hand of glory, a candle in the hand of a dead man, cut from a corpse hanging on a gallows. In some tellings, the candle should made from the fat of another hanged man.
+> It's a dark and stormy night and several travellers were gathered in a remote inn. There was a knock at the door — a beggar seeking shelter. He was welcomed in. Everyone settled down to sleep, except for the serving who had finished her chores and was struggling to to sleep. She noticed the beggar take something out of his bag - it looked like a candle in a misshapen candlestick. He lit the candle and muttered something "Let those who sleep, stay asleep". He proceeded to go through everyone's belongings. A thief. The girl went to raise a maser but he could not be woken. She went downstairs, and the robber heard her. As he tried to make his escape, she tried to douse the flame with water, with beer... ah, with milk. Folk were awoken, the robber caught and hung. The strange enchantment: a hand of glory, a candle in the hand of a dead man, cut from a corpse hanging on a gallows. In some tellings, the candle should be made from the fat of another hanged man. As a ward against the use of the hand of glory, the following is recommended: the application of an unguent composed of the gall of a black cat, the fat of a white hen, and the blood of a screech owl around the threshold of the door and other possible points of entry.
+
+At the Oxford Storytelling Festival in 2022, I saw Nick Hennessey put the hand of glory to good effect as a frame tale around of set of beautifully linked inner tales with a fantastic twist revealed as a call-back. In the framing, all but one person falls asleep, and the thief character then begins to swap tales with the person who remained awake. The hand of glory might also be used more generally to flesh out a burglary sequence, as for example in the *Knight of York* when a burglar swaps the letter that would otherwise condemn the heroine to death. 
 
 One of the earliest references comes from 17th century English antiquary, John Aubrey:
 
@@ -19,7 +21,7 @@ Another early reference appears courtesy of Petit Albert in 1765:
 ```{admonition} *Main de Gloire*, Petit Albert, 1765
 :class: dropdown
 
-In *Secrets merveilleux de la magie naturelle et cabalistique du Petit Albert*, Petit Albert, 1765, [p84-6](https://archive.org/details/b33016306/page/84/mode/2up):
+In *Secrets merveilleux de la magie naturelle et cabalistique du Petit Albert* (translated from the original Latin of Albertus Parvus Lucius), Petit Albert, 1765, [p84-6](https://archive.org/details/b33016306/page/84/mode/2up):
 
 De la main de gloire dont se servent les scélérats , voleurs, pour entrer dans les maisons de nuit, sans empéchement.
 
@@ -29,7 +31,7 @@ J'avoueque je n'ai jamais éprouvéle secret de la main de gloire; mais j'ai ass
 
 ```
 
-A translation appears Grose's *Provincial Glossary* of 1787:
+A translation appears Grose's *Provincial Glossary* of 1787. Note that a ward against the use of the hand of glory is also provided:
 
 ```{admonition} Petit Albert translation, Grose, 1787
 :class: dropdown
@@ -42,9 +44,11 @@ Of the Hand of Glory, which is made use of by housebreakers to enter into houses
 
 I ACKNOWLEDGE that I never tried the secret of the Hand of Glory, but I have thrice ?? assisted at the definitive judgment of certain criminals, who, under the torture, confessed having used it. Being asked what it was, how they procured it, and what were its uses and properties ?- they answered, first, that the use of the Hand of Glory was to stupify those to whom it was presented, and to render them motionless, insomuch that they could not stir, any more than if they were dead ; secondly, that it was the hand of a hanged man ; and thirdly, that it must be prepared in the manner following :
 
-Take the hand, left or right, of a perfon hanged and exposed on the highway; wrap it up in a piece of a shroud, or winding sheet, in which let it be well squeezed, to get out any small quantity of blood that may have remained in it; then put it into an earthen vessel, with zimat, saltpetre, ??ait, and long pepper, the whole well powdered ; leave if fifteen days in that vessel ; afterwards take it out, and expose it to the noontide sun in the dog days, till it is thoroughly dry ; and if the sun is not sufficient, put it into an oven heated with fern and vervain : then compose a kind of candle with the fat of a hanged man, virgin wax, and fifame ?? of Lapland. The Hand of Glory is used as a candleftick to hold this candle, when lighted. Its properties are that wheresoever any one goes. with this dreadful instrument, the persons to whom it is presented will be deprived of all power of motion. On being asked if there was no remedy, or antidote, to counteract this charm, they said the Hand of Glory would cease to take effedl ?, and thieves could not make use of it, if the threshold of the door of the house, and other places by which they might enter, were anointed with an unguent composed of the gall of a black cat, the fat of a white hen, and the blood of a screech owl ; which mixture must necessarily be prepared during the ?? dog days,
+Take the hand, left or right, of a person hanged and exposed on the highway; wrap it up in a piece of a shroud, or winding sheet, in which let it be well squeezed, to get out any small quantity of blood that may have remained in it; then put it into an earthen vessel, with zimat, saltpetre, salt, and long pepper, the whole well powdered ; leave it fifteen days in that vessel ; afterwards take it out, and expose it to the noontide sun in the dog days, till it is thoroughly dry ; and if the sun is not sufficient, put it into an oven heated with fern and vervain : then compose a kind of candle with the fat of a hanged man, virgin wax, and Sisame of Lapland. The Hand of Glory is used as a candleftick to hold this candle, when lighted. Its properties are that wheresoever any one goes. with this dreadful instrument, the persons to whom it is presented will be deprived of all power of motion. On being asked if there was no remedy, or antidote, to counteract this charm, they said the Hand of Glory would cease to take effect, and thieves could not make use of it, if the threshold of the door of the house, and other places by which they might enter, were anointed with an unguent composed of the gall of a black cat, the fat of a white hen, and the blood of a screech owl ; which mixture must necessarily be prepared during the dog days,
 
 ```
+
+*The "dog days" are the hot and humid days of summer.*
 
 Brand's *Observations on Popular Antiquities* also quotes Grose's translation:
 
@@ -60,6 +64,41 @@ Grose has preserved a foreign piece of superstition, firmly believed in many par
 Grose observes that this account (literally translated from the French of " Les Secrets du Petit Albert," 12mo. Lion. 1751, p. 110) and the mode of preparation appear to have been given by a Judge. In the latter there is a striking resemblance to the Charm in " Macbeth."
 
 The following paragraph in the " Observer", newspaper of January 16th, 1831, shows that the hand of glory is not unknown as a supposed Physical Charm in Ireland : " On the night of the 3rd instant, some Irish thieves attempted to commit a robbery on the estate of Mr. Napper, of Lough-screw, county Meath, They entered the house *armed with a Dead man's Hand*, with a lighted candle in it, believing in the superstitious notion that a candle placed in a dead man's hand will not be seen by any but those by whom it is used ; and also that, if a candle in a dead hand be introduced into a house, it will prevent those who may be asleep frco awaking. The inmates, however, were alarmed, and the robbers fled, leaving the hand behind them."
+
+```
+
+Another French description of the hand of glory can be found in the *Dictionnaire Infernal* of 1818. The previously offered ward against the use of the hand og glory is also described:
+
+```{admonition} "Main de gloire", *Dictionnaire Infernal*. 1818
+:class: seealso
+
+In *Dictionnaire infernal*, J.-A.-S. (Jacques-Albin-Simon) Collin de Plancy, 1818,
+[p34-6](https://archive.org/details/bub_gb_RtM0AAAAMAAJ/page/33/mode/2up):
+
+Main de gloire
+
+Ce que led sorciers appellent *main de gloire* est la main d'un pendu, qu'on prépare de la sorte : on l'enveloppe dans un morceau de drap mortuaire, en la pressant bien, pour lui feire rendre le peu de sang qui pourrait y être resté; puis on la met dans un vase de terre, avec du sel, du saltpêtre, du zimat et du poivre long, le tout bien pulvérisé. On la laisse dans ce pot l'espace de quinze jours; après quoi on l'expose au grand soleil de la canicule, jusqu'à ce qu'elle soit parfaitement desséché: si le soleil ne suffit pas, on la met dans un four chauffé fougère et de verveine . On compose ensuite une espéce de chandelle avec de la graisse de pendu , de la cire vierge et du sésame de Laponie; et on se sert de la main de gloire, comme d'un chandelier, pour tenir cette merveilleuse chandelle allumée . Dans tous les lieux où l'on va avec ce funeste instrument, ceux qui y sont demeurent immobiles, et ne peuvent non plus remuer que s'ils étaient morts.
+
+Il y a diverse manières de se servir de la main de gloire; les scélérats les connaissent bien; mais, depuis qu'on ne pend plus chez nous, ce doit être chose rare.
+
+Deus magiciens, étant venus loger dans un cabaret pour y voler, demandèrent à passer la nuit auprès du feu, ce qu'ils obtinrent. Lorsque tout le monde fut couché, la servante, qui se défiait de la mine de deux voyageurs, alla regarder par un trou de la porte pour voir ce qu'ils gens de la maison qui ne dormit point; car les autres doigts étaient pour plonger dans le plus profond sommeil ceux qui étaient déjà endormis. Elle alla aússitôt à son maistre pour l'éveiller, mais elle ne put en venir à bout, non plus que des autres personnes du logis, qu'après avoir éteint les doigts alluminés, pendant que les faisaient. Elle vit qu'ils tiraient d'un sac la main d'un corps mort, qu'ils en oignaient ls doigts de je ne sais quel onguent, et les allumaient, åa l'exception d'un seul qu'ils ne purent allumer, quelques efforts qu'ils lissent, et cela parce que, comme elle le comprit, il n'y avait qu'elle des deux voleurs commencaient à faire leur coup dans une chambre voisine. Les deux meagiciens, se voyant découverts, s'enfuirent au plus vite, et on ne les trouva plus. `[Delrio, Disquisitions magiques.]`
+
+Les voleurs ne peuvent se servir de la main de gloire, quand on a en la précapition de frotter le seuil de la porte avec un onguent composé de fiel de chat noir, de graisse de poule blanche et de sang de chouette, lequel onguent doit être fait dans la canicule. `[Le solide trésor du Petit Albert.]`
+
+```
+
+```{admonition} Translation of "Main de Gloire", *Dictionnaire Infernal*, transl. ChatGPT
+:class: dropdown
+
+Hand of glory
+
+What the sorcerers call the *hand of glory* is the hand of a hanged man, prepared in the following manner: it is wrapped in a piece of burial shroud, tightly squeezed to make it release any remaining blood; then it is placed in a clay pot along with salt, saltpeter, zinc oxide, and long pepper, all finely powdered. It is left in this pot for a fortnight; after which, it is exposed to the scorching sun of the dog days until it is perfectly dried. If the sun is not enough, it is put in an oven heated with fern and vervain. Next, a kind of candle is made using the fat of a hanged man, virgin wax, and Lapland sesame. The hand of glory is then used as a candlestick to hold this marvelous candle lit. Whenever this ominous instrument is taken to any place, those present remain motionless and cannot move any more than if they were dead.
+
+There are various ways of using the hand of glory; the wicked know them well, but since hangings no longer take place among us, it must be a rare thing.
+
+Two magicians, having come to stay at an inn to rob it, asked to spend the night by the fire, which they were granted. When everyone was asleep, the servant girl, who was suspicious of the looks of the two travelers, peered through a hole in the door to see what they were up to. The hand of glory had the power to plunge into the deepest sleep those who were already asleep. She immediately went to wake up her master, but she couldn't manage to do so, nor could the other people in the house, until they extinguished the illuminated fingers, while they made great efforts. She saw that they took out from a bag the hand of a dead body, anointed its fingers with some unknown ointment, and lit them, except for one finger that they could not light, no matter how hard they tried. This was because, as she understood, only she remained awake while the two thieves started their operation in a nearby room. The two magicians, seeing they were discovered, fled as quickly as possible and were not found again. `[Delrio, Magical Disquisitions.]`
+
+Thieves cannot make use of the hand of glory when the threshold of the door has been smeared with an ointment made of the bile of a black cat, the fat of a white hen, and the blood of an owl, which ointment must be prepared during the dog days. `[The Solid Treasure of Petit Albert.]`
 
 ```
 
@@ -81,7 +120,115 @@ On the night of Monday, the 3d inst., a robbery, or rather an attempt at robbery
 
 ```
 
-The hand of glory was not just British an Irish belief, but also seems to appear in European tradition. As well as a thief's hand or finger, Benjamin Thorpe suggests in volume 3 of his *Northern Mythology* series of 1872, that a foot could also work:
+
+In passing, it's worth noting that the hand of glory also makes an appearances in the *Nurse's Story* in Ingoldsby Legends.
+
+```{admonition} The Nurse's Stroy, Ingoldsby Legends, 1843
+:class: dropdown seealso
+
+In *The Ingoldsby Legends, or Mirth and Marvels*, Thomas Ingoldsby,1843, p55](https://archive.org/details/in00goldsbylegendsingorich/page/51/mode/1up):
+
+The Nurse's Story
+
+*"Malefica quaedam auguriatrix in Anglia fuit, quam demooes horribilitet •ztraxeiunt, et imponentes super equum terribilem, per aera rapuer ur.t . CUmoresque terribiles (ut ferunt) per quatuor ferme miliana audiebantur."* Nuremb. Chron.
+
+`[A certain malevolent witch lived in England, whom demons dreadfully tormented, and placing her on a terrifying horse, they carried her through the air. Terrible sounds (as they say) were heard for nearly four miles. (transl. ChatGPT)]`
+
+
+On the lone bleak moor,  
+At the midnight hour,  
+Beneath the Gallows Tree,  
+Hand in hand  
+The Murderers stand  
+By one, by two, by three !
+And the Moon that night  
+With a grey, cold light  
+Each baleful object tips;  
+One half of her form  
+Is seen through the storm.  
+The other half's hid in Eclipse.  
+And the cold Wind howls,  
+And the Thunder growls,  
+And the Lightning is broad and bright;  
+And altogether  
+It 's very bad weather,  
+And an unpleasant sort of a night !  
+"Now mount who list,  
+And close by the wrist  
+Sever me quickly the Dead Man's fist !—  
+Now climb who dare  
+"Where he swings in air,  
+And pluck me five locks of the Dead Man's hair ! "
+
+...
+
+Oh ! 'tis a horrible sight to view.  
+In that horrible hovel, that horrible crew,  
+By the pale blue glare of that flickering flame,  
+Doing the deed that hath never a name !
+'Tis awful to hear  
+Those words of fear !  
+The pray'r mutter'd backwards, and said with a sneer  
+(Matthew Hopkins himself has assured us that when  
+A witch says her pray'rsj she begins with " Amen.")—  
+— Tis awful to see  
+On that Old Woman's knee  
+The dead, shrivell'd hand, as she clasps it with glee  
+And now, with care,  
+The five locks of hair  
+From the skull of the Gentleman dangling up there,  
+With the grease and the fat  
+Of a black Tom Cat  
+She hastens to mix,  
+And to twist into wicks.  
+And one on the thumb, and each finger to fix. —  
+*(For another receipt the same charm to prepare,  
+Consult Mr. Ainsworth and Petit Albert.)*
+
+" Now open lock  
+To the Dead Man's knock !  
+Fly bolt, and bar, and band !—  
+Nor move, nor swerve  
+Joint, muscle, or nerve,  
+At the spell of the Dead Man's hand !  
+Sleep all who sleep ! —  
+Wake all who wake ! —  
+And be as the Dead for the Dead Man's sake !! "
+
+...
+
+
+...  
+The unholy words of the Dead Man's spell !  
+"Open lock  
+To the Dead Man's knock !  
+Fly bolt, and bar, and band !  
+Nor move, nor swerve  
+Joint, muscle, or nerve.  
+At the spell of the Dead Man's hand !  
+Sleep all who sleep! — Wake all who wake ! —  
+But be as the Dead for the Dead Man's sake !! "
+
+Now lock, nor bolt, nor bar avails,  
+Nor stout oak panel thick-studded with nails.  
+Heavy and harsh the hinges creak.  
+Though they had been oil'd in the course of the week ;  
+The door opens wide as wide may be,  
+And there they stand.  
+That murderous band.  
+Let by the light of that Glorious Hand,  
+By one ! — by two ! — by three !
+
+They have pasd'd through the porch, they have pass' through the hall,  
+Where the Porter sat snoring against the wall ;  
+The very snore froze  
+In his very snub nose,  
+You'd have verily deem'd he had snored his last  
+When the Glorious Hand by the side of him past !
+
+```
+
+As well as a thief's hand or finger, Benjamin Thorpe suggests in volume 3 of his *Northern Mythology* series of 1872, that a foot could also work:
 
 ```{admonition} Thief's Foot | Hand | Finger, *Northern Mythology*, 1852
 :class: dropdown
@@ -97,6 +244,19 @@ Two fellows once came to Huy, who pretended to be exceedingly fatigued, and when
 In the mean time the thieves had returned and were endeavouring to enter the house by a window, but the maid cast them down from the ladder. They then took a different course, and would have forced an entrance, had it not occurred to the maid that the burning fingers might probably be the cause of her master's profound sleep. Impressed with this idea she ran to the kitchen, and blew them out, when the master and his men-servants instantly awoke, and soon drove away the robbers.
 
 In the village of Alveringen there formerly lived a sorceress, who had a thief's finger, over which nine masses had been read. For being acquainted with the sacristan, she had wrapt it in a cloth and laid it on the altar, telling him it was a relic. With this finger she performed wonderful things. When she had lighted it — for such fingers burn like a candle — every one in the house where she might be was put to sleep. She would then steal money and everything else that she fancied, until she was at last detected, and the stolen property found in her possession
+
+```
+
+If John Fiske is to be believed, in *Myths And Mythmakers*, 1872, the hand of glory is actually a macabre corruption of an invisibility charm known as a the Icelandic *schamir*, or "raven stone":
+
+```{admonition} "Raven Stone" (invisibility talisman), *Myths and Mythmakers*, Fiske, 1872
+:class: dropdown
+
+In *Myths And Mythmakers Old Tales And Superstitions Interpreted By Comparative Mythology*, John Fiske, 1872, [p60-62](https://archive.org/details/mythsandmythmake003324mbp/page/n75/mode/2up):
+
+In the Icelandic and Pomeranian myths the schamir, or " raven-stone," also renders its possessor invisible, a property which it shares with one of the treasure-finding plants, the fern. `['We have the receipt of fern-seed. We walk invisible. ' Shakespeare, Henry IV. See Ralston, Songs of the Russian People 9 p. 98. According to one North German tradition, the luck-flower also will make its finder invisible at pleasure. But, as the myth shrewdly adds, it is absolutely essential that the flower be found by accident : he who seeks for it never finds it! Thus all cavils are skilfully forestalled, even if not satisfactorily disposed of. The same kind of reasoning is favoured by our modern dealers in mystery : somehow the conditions always are askew whenever a scientific observer wishes to test their pretensions. In this respect it resembles the ring of Gyges, as in its divining and rock-splitting qualities it resembles that other ring which the African magician gave to Aladdin, to enable him to descend into the cavern where stood the wonderful lamp.]`
+
+In the north of Europe schamir appears strangely and grotesquely metamorphosed. The hand of a man that has been hanged, when dried and prepared with certain weird unguents and set on fire, is known as the Hand of Glory ; and as it not only bursts open all safe locks, but also lulls to sleep all persons within the circle of its influence, it is of course invaluable to thieves and burglars. I quote the following story from Thorpe's " Northern Mythology : " Two fellows once came to Huy, who pretended to be exceedingly fatigued, and when they had supped would not retire to a sleeping-room, but begged their host would allow them to take a nap on the hearth. But the maidservant, who did not like the looks of the two guests, remained by the kitchen door and peeped through a chink, when she saw that one of them drew a thief's hand from his pocket, the fingers of which, after having' rubbed them with an ointment, he lighted, and they all burned except one. Again they held this finger to the fire, but still it would not burn, at which they appeared much surprised, and one said, c There must surely be some one in the house who is not yet asleep/ They then hung the fyand with its four burning fingers by the chimney, and went out to call their associates. But the maid followed them instantly and made the door fast, then ran upstairs, where the landlord slept, that she might wake him, but was unable, notwithstanding all her shaking and calling. In the mean time the thieves had returned and were endeavouring to enter the house by a window, but the maid cast them down from the ladder. They then took a different course, and would have forced an entrance, had it not occurred to the maid that the burning fingers might probably be the cause of her master's profound sleep. Impressed with this idea she ran to the kitchen and blew them out, when the master and his men-servants instantly awoke, and soon drove away the robbers." The same event is said to have occurred at Stainmore in England ; and Torquemada relates of Mexican thieves that they carry with them the left hand of a woman who has died in her first childbed, before which talisman all bolts yield and all opposition is benumbed. In 1831 "some Irish thieves attempted to commit a robbery on the estate of Mr. Naper, of Loughcrew, county Meath. They entered the house armed with a dead man's hand with a lighted candle in it, believing in the superstitious notion that a candle placed in a dead man's hand will not be seen by any but those by whom it is used ; and also that if a candle in a dead hand be introduced into a house, it will prevent those who may be asleep from awaking. The inmates, however, were alarmed, and the robbers fled, leaving the hand behind them." `[ Henderson, Folk-Lore of the Northern Counties of England, p. 202. ]`
 
 ```
 
@@ -172,31 +332,11 @@ In a note to the passage quoted above from Southey's ' Thalaba,' it is mentioned
 
 ```
 
-The *Dictionnaire Infernal*
-
-```{admonition} "Main de gloire", *Dictionnaire Infernal*. 1818
-:class: seealso
-
-
-In *Dictionnaire infernal*, Collin de Plancy, J.-A.-S. (Jacques-Albin-Simon), 1818,
-[p34-6](https://archive.org/details/bub_gb_RtM0AAAAMAAJ/page/33/mode/2up):
-
-Main de gloire
-
-
-Ce que led sorciers appellent *main de gloire* est la main d'un pendu, qu'on prépare de la sorte : on l'enveloppe dans un morceau de drap mortuaire, en la pressant bien, pour lui feire rendre le peu de sang qui pourrait y être resté; puis on la met dans un vase de terre, avec du sel, du saltpêtre, du zimat et du poivre long, le tout bien pulvérisé. On la laisse dans ce pot l'espace de quinze jours; après quoi on l'expose au grand soleil de la canicule, jusqu'à ce qu'elle soit parfaitement desséché: si le soleil ne suffit pas, on la met dans un four chauffé fougère et de verveine . On compose ensuite une espéce de chandelle avec de la graisse de pendu , de la cire vierge et du sésame de Laponie; et on se sert de la main de gloire, comme d'un chandelier, pour tenir cette merveilleuse chandelle allumée . Dans tous les lieux où l'on va avec ce funeste instrument, ceux qui y sont demeurent immobiles, et ne peuvent non plus remuer que s'ils étaient morts.
-
-Il y a diverse manières de se servir de la main de gloire; les scélérats les connaissent bien; mais, depuis qu'on ne pend plus chez nous, ce doit être chose rare.
-
-Deus magiciens, étant venus loger dans un cabaret pour y voler, demandèrent à passer la nuit auprès du feu, ce qu'ils obtinrent. Lorsque tout le monde fut couché, la servante, qui se défiait de la mine de deux voyageurs, alla regarder par un trou de la porte pour voir ce qu'ils gens de la maison qui ne dormit point; car les autres doigts étaient pour plonger dans le plus profond sommeil ceux qui étaient déjà endormis. Elle alla aússitôt à son maistre pour l'éveiller, mais elle ne put en venir à bout, non plus que des autres personnes du logis, qu'après avoir éteint les doigts alluminés, pendant que les faisaient. Elle vit qu'ils tiraient d'un sac la main d'un corps mort, qu'ils en oignaient ls doigts de je ne sais quel onguent, et les allumaient, åa l'exception d'un seul qu'ils ne purent allumer, quelques efforts qu'ils lissent, et cela parce que, comme elle le comprit, il n'y avait qu'elle des deux voleurs commencaient à faire leur coup dans une chambre voisine. Les deux meagiciens, se voyant découverts, s'enfuirent au plus vite, et on ne les trouva plus. `[Delrio, Disquisitions magiques.]`
-
-Les voleurs ne peuvent se servir de la main de gloire, quand on a en la précapition de frotter le seuil de la porte avec un onguent composé de fiel de chat noir, de graisse de poule blanche et de sang de chouette, lequel onguent doit être fait dans la canicule. `[Le dolide trésor du Petit Albert.]`
-
-```
+Baring Gould's narration would seem to come from *Dictionnaire Infernal*.
 
 ```{warning}
 
-The 1866 edition of William Henderson's *Notes on the Folklore of the Northern Counties of England and the Borders* includes an appendix on "Household Tales" by Sabine Baring Gould. he appendix was dropped from later editions. A copy of the 1866 version [was held](https://archive.org/details/dli.granth.84777) by the Internet Archive, but it now seems to have been taken down; a [version](https://books.google.co.uk/books?id=a0iwAAAAIAAJ) can still be found on Google Books.
+The 1866 edition of William Henderson's *Notes on the Folklore of the Northern Counties of England and the Borders* also includes an appendix on "Household Tales" by Sabine Baring Gould. The appendix was dropped from later editions. A copy of the 1866 version [was held](https://archive.org/details/dli.granth.84777) by the Internet Archive, but it now seems to have been taken down; a [version](https://books.google.co.uk/books?id=a0iwAAAAIAAJ) can still be found on Google Books.
 
 Baring-Gouldd's appendix includes a collected version of the tale.
 
@@ -226,7 +366,68 @@ This is the same story which is told in Northumberland and elsewhere.
 
 ```
 
+Local tellings of the hand of glory story appear as elaborated "collected" fictionalisation of local legends. For example, in Thomas and Katharine Macquoid's *About Yorkshire* of 1891:
 
+```{admonition}
+:class: dropdown
+
+In *About Yorkshire*, Thomas and Katharine Macquoid, 1894
+[p64-70](https://archive.org/details/aboutyorkshire00macquoft):
+
+On our return to Barnard Castle we heard a strange story of Stanmore, a wild stretch of moor to the west of Bowes.
+
+A fragment of Rey-Cross is still said to exist on the waste ridge of this moor, near an inn called the " Spital." This cross was, according to tradition, the boundary between England and Scotland. Scott says in *Rokeby* —
+
+" And the best of our nobles his bonnet will vail,  
+Who at Rere Cross on Stanmore meets Allen-a-Dale."
+
+This inn of Spital on Stanmore was kept, in the year 1797, by one George Alderson. He, his wife, and son managed the business of this lonely hostel themselves, with the help of a maid named Bella. The inn was a long, narrow building, and turned one end towards the great high road which crossed Stanmore on its way from York to Carlisle. The lower story of the house was used as stabling, for the stage-coaches changed horses at the inn and brought all the last news of the day. The upper part of the solid stone building was reached by a flight of ten or twelve stone steps leading up from the road to a stout oaken door, and the windows, deeply recessed in the thick walls, were strongly barred with iron. One cold October night the red curtains were drawn across the windows, and a huge log-fire sputtered and crackled on the broad hearth, and lighted up the faces of George Alderson and his son as they sat talking of their gains at the fair of Broughton Hill ; these gains, representing a large sum of money, being safely stowed away in a cupboard in the landlord's bedroom.
+
+Mrs. Alderson and Bella sat a little way off spinning by fire-light, for the last coach had gone by and the house door was barred and bolted for the night. Outside the wind and rain were having a battle ; there came fierce gusts which made the old casements rattle and stirred the red curtains, and then a torrent of rain swept smartly across the window, striking the glass so angrily that it seemed as if the small panes must shatter under its violence.
+
+Into the midst of this fitful disturbance, only varied by the men's voices beside the hearth, there came a knock at the door.
+
+" Open t' door, lass," said Alderson. " Ah wadna keep a dog out sik a neet as this."
+
+" Eh ! best slacken t' chain, lass," said the more cautious landlady.
+
+The girl went to the door, but when she saw that the visitor was an old woman she opened the door wide and bade her come in. There entered a bent figure dressed in a long cloak and hood ; this last was drawn over her face ; and, as she walked feebly to the arm- chair which Alderson pushed forward, the rain streamed from her clothing and made a pool on the oaken floor. She shivered violently, but refused to take off her cloak and have it dried. She also refused the offer of food or a bed. She said she was on her way to the north, and must start as soon as there was daylight. All she wanted was a rest beside the fire : she could get the sleep she needed in her arm-chair
+
+The innkeeper and his wife were well used to wayfarers, and they soon said " Good-night " and went to bed ; so did their son. Bella was left alone with the shivering old woman. The girl had kept silence, but now she put her wheel away in its corner and began to talk. She only got surly answers, and although the voice was low and subdued, the girl fancied that it did not sound like a woman's. Presently the wayfarer stretched out her feet to warm them, and Bella's quick eyes saw under the hem of the skirts that the stranger wore horseman's gaiters. The girl felt uneasy, and, instead of going to bed, she resolved to stay up and watch.
+
+" Ah'm sleepy," she said, gaping, but the figure in the chair made no answer. Presently Bella lay down on a long settle beyond the range of the firelight and watched the stranger while she pretended to fall asleep. All at once the figure in the chair stirred, raised its head, and listened ; then it rose slowly to its feet, no longer bent, but tall and powerful-looking : it stood listening for some time. There was no sound but Bella's heavy breathing and the wind and the rain beating on the windows. Then the woman took from the folds of her cloak a brown withered human hand ; next she produced a candle, lit it from the fire, and placed it in the hand. Bella's heart beat so fast that she could hardly keep up the regular deep breathing of pretended sleep ; but now she saw the stranger coming towards her with this ghastly chandeHer, and she closed her lids tightly. She felt that the woman was bending over her, and that the light was passed slowly before her eyes, while these words were muttered in the strange masculine voice that had first roused her suspicions :—
+
+" Let those who rest more deeply sleep ;  
+Let those awake their vigils keep."
+
+The light moved away, and through her eyelashes Bella saw that the woman's back was turned to her, and that she was placing the hand in the middle of the long oak table, while she muttered this rhyme : —
+
+" O Hand of Glory shed thy light ;  
+Direct us to our spoil to-night."
+
+Then she moved a few steps away and undrew the window-curtain. Coming back to the table she said : —
+
+" Flash out thy blaze, O skeleton hand,  
+And guide the feet of our trusty band."
+
+At once the light shot up a bright livid gleam, and the woman walked to the door ; she took down the bar, drew back the bolts, unfastened the chain, and Bella felt a keen blast of cold night air rush in as the door was flung open. She kept her eyes closed, however, for the woman at that moment looked back at her, and then drawing something from her gown she blew a long shrill whistle ; she then went out at the door and down a few of the steps, stopped and whistled again, but the next moment a vigorous push sent her spinning down the steps on to the road below — the door was closed, barred, and bolted, and Bella almost flew to her master's bedroom and tried to wake him. In vain. He and his wife slept on, while their snores sounded loudly through the house. . . . The girl felt frantic. . . . She then tried to rouse young Alderson, but he slept as if in a trance. Now a fierce battery on the door and cries below the windows told that the band had arrived.
+
+A new thought came to Bella. She ran back to the kitchen. There was the Hand of Glory, still burning with a wonderful light. The girl caught up a cup of milk that stood on the table, dashed it on the flame and extinguished it — in one moment, as it seemed to her, she heard footsteps coming from the bedrooms, and George Alderson and his son rushed into the room with firearms in their hands.
+
+As soon as the robbers heard his voice bidding them depart they summoned the landlord to open his doors and produce his valuables. Meanwhile young Alderson had opened the window, and for answer he fired his blunderbuss down among the men below.
+There was a groan — a fall — then a pause, and, as it seemed to the besieged, some sort of discussion. Then a voice called out, " Give up the Hand of Glory, and we will not harm you."
+
+For answer young Alderson fired again, and the party drew off. Seemingly they had trusted entirely to the Hand of Glory, or else they feared a long resistance, for no further attack was made : the withered hand remained in possession of the Aldersons for six- teen years after.
+
+This story was told to my informant, Mr. Atkinson, by Bella herself when she was quite an old woman.
+
+*This was also reprinted in the Shipley Times and Express of Friday, [October 26th, 1906, p2](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001711/19061026/029/0002)*
+
+```
+
+## Mentions of the Hand of Glory in Local Newspaper Folklore and Tradition Columns
+
+As local customs and folklore columns became popular in the local newspapers of the latter part of the 19th century, it is not surprising that the hand of glory started to make an appearance in some of them. For example, in the *Cheshire Observer* in 1872:
 
 ```{admonition} The Dead Man's Hand, Cheshire Observer, February 24th, 1872.
 In *Cheshire Observer*, - Saturday, February 24th, 1872, [p7](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000157/18720224/043/0007):
@@ -287,31 +488,9 @@ DELTA
 
 ```
 
+And slightly further north, in the Cumberland and Westmorland Advertiser of 1873:
 
-```{admonition} "Raven Stone" (invisibility talisman), *Myths and Mythmakers*, Fiske, 1872
-:class: dropdown
-
-In *Myths And Mythmakers Old Tales And Superstitions Interpreted By Comparative Mythology*, John Fiske, 1872, [p60-62](https://archive.org/details/mythsandmythmake003324mbp/page/n75/mode/2up):
-
-In the Icelandic and Pomeranian myths the schamir, or " raven-stone," also renders its possessor invisible, a property which it shares with one of the treasure-finding plants, the fern. `['We have the receipt of fern-seed. We walk invisible. ' Shakespeare, Henry IV. See Ralston, Songs of the Russian People 9 p. 98. According to one North German tradition, the luck-flower also will make its finder invisible at pleasure. But, as the myth shrewdly adds, it is absolutely essential that the flower be found by accident : he who seeks for it never finds it! Thus all cavils are skilfully forestalled, even if not satisfactorily disposed of. The same kind of reasoning is favoured by our modern dealers in mystery : somehow the conditions always are askew whenever a scientific observer wishes to test their pretensions. In this respect it resembles the ring of Gyges, as in its divining and rock-splitting qualities it resembles that other ring which the African magician gave to Aladdin, to enable him to descend into the cavern where stood the wonderful lamp.]`
-
-In the north of Europe schamir appears strangely and grotesquely metamorphosed. The hand of a man that has been hanged, when dried and prepared with certain weird unguents and set on fire, is known as the Hand of Glory ; and as it not only bursts open all safe locks, but also lulls to sleep all persons within the circle of its influence, it is of course invaluable to thieves and burglars. I quote the following story from Thorpe's " Northern Mythology : " Two fellows once came to Huy, who pretended to be exceedingly fatigued, and when they had supped would not retire to a sleeping-room, but begged their host would allow them to take a nap on the hearth. But the maidservant, who did not like the looks of the two guests, remained by the kitchen door and peeped through a chink, when she saw that one of them drew a thief's hand from his pocket, the fingers of which, after having' rubbed them with an ointment, he lighted, and they all burned except one. Again they held this finger to the fire, but still it would not burn, at which they appeared much surprised, and one said, c There must surely be some one in the house who is not yet asleep/ They then hung the fyand with its four burning fingers by the chimney, and went out to call their associates. But the maid followed them instantly and made the door fast, then ran upstairs, where the landlord slept, that she might wake him, but was unable, notwithstanding all her shaking and calling. In the mean time the thieves had returned and were endeavouring to enter the house by a window, but the maid cast them down from the ladder. They then took a different course, and would have forced an entrance, had it not occurred to the maid that the burning fingers might probably be the cause of her master's profound sleep. Impressed with this idea she ran to the kitchen and blew them out, when the master and his men-servants instantly awoke, and soon drove away the robbers." The same event is said to have occurred at Stainmore in England ; and Torquemada relates of Mexican thieves that they carry with them the left hand of a woman who has died in her first childbed, before which talisman all bolts yield and all opposition is benumbed. In 1831 "some Irish thieves attempted to commit a robbery on the estate of Mr. Naper, of Loughcrew, county Meath. They entered the house armed with a dead man's hand with a lighted candle in it, believing in the superstitious notion that a candle placed in a dead man's hand will not be seen by any but those by whom it is used ; and also that if a candle in a dead hand be introduced into a house, it will prevent those who may be asleep from awaking. The inmates, however, were alarmed, and the robbers fled, leaving the hand behind them." `[ Henderson, Folk-Lore of the Northern Counties of England, p. 202. ]`
-
-
-``{admonition}
-:class: dropdown
-
-In *Stockton Herald, South Durham and Cleveland Advertiser*, Saturday, 10th January, 1891, [p2](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002976/18910110/023/0002):
-
-THE HAND OF GLORY.
-
-One of the most curious and widespread instances of deception and credulity is the magic potency which has long been supposed to reside in the so-called "Hand of Glory," the withered hand of a dead man. Of the numerous stories related of the use of this hand of glory by robbers may be mentioned one from Hendrson's "Folklore of the Northern Counties." "Two magicians having come to lodge in a public house, with a view to robbing it, asked permission to pass the night by the fire, and obtained it. When the house was quiet, the servant girl, suspecting mischief, crept downstairs, and looked through the keyhole. She saw the men open a sack, and take out a dry, withered hand. They anointed the fingers with some unguent, and lighted them. Each finger flamed, but the thumb they could not light; that was because one of the household was not asleep. The girl hastened to her master, but found it impossible to arouse him. She tried every other sleeper, but could not break the charmed sleep. At last, stealing down into the kitchen, while the thieves were busy over their master's strong box, she secured the hand, blew out the flames, and at once the whole household was aroused." Among other qualities which have been supposed to belong to a dead man's hand are its medicinal virtues. Thus, most persons are acquainted with the well-known story of the famous "dead man's hand" which was formerly kept at Bryn Hall, Lancashire. It is commonly said to have been the hand of Father Arrowsmith, a priest who was put to death for his religions belief in the time of William III. This relic, which forms the subject of one of Roby's " Traditions of Lancashire," was preserved with great care in a white silken bag, and was resorted to by many diseased persons, who are reported to have experienced wonderful cures from its application. Thus, we are told of a woman who, afflicted with the smallpox, had this dead hand in bed with her every night for six weeks; and of a poor lad who was touched with it for the cure of scrofulous sores. Miss Latham, in her " West Sussex Superstitions," writes:— " Amongst my nurse's fearful stories there was one relating to the curing of a wen by the touch of a dead murderer's hand. She described how a certain woman, known to one of her friends, was taken under the gallows in a cart, and was held up in order that she might touch the dead hand, and how she passed it three times over the wen, and then returned homeward." Not very long ago, in the same locality, a young woman suffering from a goitre was taken by her friends to the side of an open coffin, in order that the hand of a corpse might touch it thrice.
-
-```
-
-From time to time, the story made an appearance in various regional newspapers. For example, in the *Cumberland and Westmorland Advertiser* of 18723
-
-```{admonition} "The hand of Glory", **Cumberland and Westmorland Advertiser*, 1973
+```{admonition} "The hand of Glory", **Cumberland and Westmorland Advertiser*, 1873
 :closeup: ddropdown
 
 In *Cumberland and Westmorland Advertiser, and Penrith Literary Chronicle*, Tuesday 2nd December, 1873, [p2](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001102/18731202/099/0004):
@@ -343,88 +522,22 @@ The light, as if in response to the incantation, shot suddenly up with a brighte
 
 ```
 
----
+A few years later, tales of the hand of glory is still filling column inches, as in the *Stockton Herald* in 1891:
 
-https://archive.org/details/aboutyorkshire00macquoft
-About Yorkshire
-by Macquoid, Thomas; Macquoid, Katharine
-Publication date 1894
-p64-70
+```{admonition}
+:class: dropdown
 
-On our return to Barnard Castle we heard a strange story of Stanmore, a wild stretch of moor to the west of Bowes.
+In *Stockton Herald, South Durham and Cleveland Advertiser*, Saturday, 10th January, 1891, [p2](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002976/18910110/023/0002):
 
-A fragment of Rey-Cross is still said to exist on the waste ridge of this moor, near an inn called the " Spital." This cross was, according to tradition, the boundary between England and Scotland. Scott says in *Rokeby* —
-
-" And the best of our nobles his bonnet will vail,  
-Who at Rere Cross on Stanmore meets Allen-a-Dale."
-
-This inn of Spital on Stanmore was kept, in the year 1797, by one George Alderson. He, his wife, and son managed the business of this lonely hostel themselves, with the help of a maid named Bella. The inn was a long, narrow building, and turned one end towards the great high road which crossed Stanmore on its way from York to Carlisle. The lower story of the house was used as stabling, for the stage-coaches changed horses at the inn and brought all the last news of the day. The upper part of the solid stone building was reached by a flight of ten or twelve stone steps leading up from the road to a stout oaken door, and the windows, deeply recessed in the thick walls, were strongly barred with iron. One cold October night the red curtains were drawn across the windows, and a huge log-fire sputtered and crackled on the broad hearth, and lighted up the faces of George Alderson and his son as they sat talking of their gains at the fair of Broughton Hill ; these gains, representing a large sum of money, being safely stowed away in a cupboard in the landlord's bedroom.
-
-Mrs. Alderson and Bella sat a little way off spinning by fire-light, for the last coach had gone by and the house door was barred and bolted for the night. Outside the wind and rain were having a battle ; there came fierce gusts which made the old casements rattle and stirred the red curtains, and then a torrent of rain swept smartly across the window, striking the glass so angrily that it seemed as if the small panes must shatter under its violence.
-
-Into the midst of this fitful disturbance, only varied by the men's voices beside the hearth, there came a knock at the door.
-
-" Open t' door, lass," said Alderson. " Ah wadna keep a dog out sik a neet as this."
-
-" Eh ! best slacken t' chain, lass," said the more cautious landlady.
-
-The girl went to the door, but when she saw that the visitor was an old woman she opened the door wide and bade her come in. There entered a bent figure dressed in a long cloak and hood ; this last was drawn over her face ; and, as she walked feebly to the arm- chair which Alderson pushed forward, the rain streamed from her clothing and made a pool on the oaken floor. She shivered violently, but refused to take off her cloak and have it dried. She also refused the offer of food or a bed. She said she was on her way to the north, and must start as soon as there was daylight. All she wanted was a rest beside the fire : she could get the sleep she needed in her arm-chair
-
-The innkeeper and his wife were well used to wayfarers, and they soon said " Good-night " and went to bed ; so did their son. Bella was left alone with the shivering old woman. The girl had kept silence, but now she put her wheel away in its corner and began to talk. She only got surly answers, and although the voice was low and subdued, the girl fancied that it did not sound like a woman's. Presently the wayfarer stretched out her feet to warm them, and Bella's quick eyes saw under the hem of the skirts that the stranger wore horseman's gaiters. The girl felt uneasy, and, instead of going to bed, she resolved to stay up and watch.
-
-" Ah'm sleepy," she said, gaping, but the figure in the chair made no answer. Presently Bella lay down on a long settle beyond the range of the firelight and watched the stranger while she pretended to fall asleep. All at once the figure in the chair stirred, raised its head, and listened ; then it rose slowly to its feet, no longer bent, but tall and powerful-looking : it stood listening for some time. There was no sound but Bella's heavy breathing and the wind and the rain beating on the windows. Then the woman took from the folds of her cloak a brown withered human hand ; next she produced a candle, lit it from the fire, and placed it in the hand. Bella's heart beat so fast that she could hardly keep up the regular deep breathing of pretended sleep ; but now she saw the stranger coming towards her with this ghastly chandeHer, and she closed her lids tightly. She felt that the woman was bending over her, and that the light was passed slowly before her eyes, while these words were muttered in the strange masculine voice that had first roused her suspicions :—
-
-" Let those who rest more deeply sleep ;  
-Let those awake their vigils keep."
-
-The light moved away, and through her eyelashes Bella saw that the woman's back was turned to her, and that she was placing the hand in the middle of the long oak table, while she muttered this rhyme : —
-
-" O Hand of Glory shed thy light ;  
-Direct us to our spoil to-night."
-
-Then she moved a few steps away and undrew the window-curtain. Coming back to the table she said : —
-
-" Flash out thy blaze, O skeleton hand,  
-And guide the feet of our trusty band."
-
-At once the light shot up a bright livid gleam, and the woman walked to the door ; she took down the bar, drew back the bolts, unfastened the chain, and Bella felt a keen blast of cold night air rush in as the door was flung open. She kept her eyes closed, however, for the woman at that moment looked back at her, and then drawing something from her gown she blew a long shrill whistle ; she then went out at the door and down a few of the steps, stopped and whistled again, but the next moment a vigorous push sent her spinning down the steps on to the road below — the door was closed, barred, and bolted, and Bella almost flew to her master's bedroom and tried to wake him. In vain. He and his wife slept on, while their snores sounded loudly through the house. . . . The girl felt frantic. . . . She then tried to rouse young Alderson, but he slept as if in a trance. Now a fierce battery on the door and cries below the windows told that the band had arrived.
-
-A new thought came to Bella. She ran back to the kitchen. There was the Hand of Glory, still burning with a wonderful light. The girl caught up a cup of milk that stood on the table, dashed it on the flame and extinguished it — in one moment, as it seemed to her, she heard footsteps coming from the bedrooms, and George Alderson and his son rushed into the room with firearms in their hands.
-
-As soon as the robbers heard his voice bidding them depart they summoned the landlord to open his doors and produce his valuables. Meanwhile young Alderson had opened the window, and for answer he fired his blunderbuss down among the men below.
-There was a groan — a fall — then a pause, and, as it seemed to the besieged, some sort of discussion. Then a voice called out, " Give up the Hand of Glory, and we will not harm you."
-
-For answer young Alderson fired again, and the party drew off. Seemingly they had trusted entirely to the Hand of Glory, or else they feared a long resistance, for no further attack was made : the withered hand remained in possession of the Aldersons for six- teen years after.
-
-This story was told to my informant, Mr. Atkinson, by Bella herself when she was quite an old woman.
-
-
-TH: also reprinted in:
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001711/19061026/029/0002
-Shipley Times and Express - Friday 26 October 1906
-
----
-
-https://en.wikipedia.org/wiki/Petit_Albert
-
-https://archive.org/details/dictionnaireinfe00coll_1/page/436/mode/2up?q=%22Main+de+Gloire%22
-Dictionnaire infernal; 
-by Collin de Plancy, J.-A.-S. (Jacques-Albin-Simon), 1794-1881
-Publication date 1863
-
-Ingoldsby Legends
-https://archive.org/details/in00goldsbylegendsingorich/page/54/mode/1up?q=%22hand+of+glory%22+gallows
-THE NURSE'S STORY.
 THE HAND OF GLORY.
 
+One of the most curious and widespread instances of deception and credulity is the magic potency which has long been supposed to reside in the so-called "Hand of Glory," the withered hand of a dead man. Of the numerous stories related of the use of this hand of glory by robbers may be mentioned one from Hendrson's "Folklore of the Northern Counties." "Two magicians having come to lodge in a public house, with a view to robbing it, asked permission to pass the night by the fire, and obtained it. When the house was quiet, the servant girl, suspecting mischief, crept downstairs, and looked through the keyhole. She saw the men open a sack, and take out a dry, withered hand. They anointed the fingers with some unguent, and lighted them. Each finger flamed, but the thumb they could not light; that was because one of the household was not asleep. The girl hastened to her master, but found it impossible to arouse him. She tried every other sleeper, but could not break the charmed sleep. At last, stealing down into the kitchen, while the thieves were busy over their master's strong box, she secured the hand, blew out the flames, and at once the whole household was aroused." Among other qualities which have been supposed to belong to a dead man's hand are its medicinal virtues. Thus, most persons are acquainted with the well-known story of the famous "dead man's hand" which was formerly kept at Bryn Hall, Lancashire. It is commonly said to have been the hand of Father Arrowsmith, a priest who was put to death for his religions belief in the time of William III. This relic, which forms the subject of one of Roby's " Traditions of Lancashire," was preserved with great care in a white silken bag, and was resorted to by many diseased persons, who are reported to have experienced wonderful cures from its application. Thus, we are told of a woman who, afflicted with the smallpox, had this dead hand in bed with her every night for six weeks; and of a poor lad who was touched with it for the cure of scrofulous sores. Miss Latham, in her " West Sussex Superstitions," writes:— " Amongst my nurse's fearful stories there was one relating to the curing of a wen by the touch of a dead murderer's hand. She described how a certain woman, known to one of her friends, was taken under the gallows in a cart, and was held up in order that she might touch the dead hand, and how she passed it three times over the wen, and then returned homeward." Not very long ago, in the same locality, a young woman suffering from a goitre was taken by her friends to the side of an open coffin, in order that the hand of a corpse might touch it thrice.
+
+```
 
 
 
-??Michael Morey -> Gallows, hand of glory, knight of York
-
-
-
-
+## Appearances in Notes & Queries
 
 Over the years, the hand of glory, and related matters, made several appearances in *Notes & Queries*, that veritable "medium of inter‐communication for literary men, artists, antiquaries, genealogists, etc." in which you can chase down all manner of idle curiosities.
 
