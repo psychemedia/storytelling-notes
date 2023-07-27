@@ -10,7 +10,8 @@ In the telling, I've found there are several tricky bits: getting the fortune te
 
 So let's see how Jacobs (re)told the tale:
 
-```{admnition} Jacobs, The Fish and the Ring
+```{admonition} Jacobs, The Fish and the Ring
+:class: dropdown
 
 *In [English Fairy Tales](https://archive.org/details/englishfairytal00jacogoog/page/n222/mode/2up),  Joseph Jacobs, 1890, pp190-4. The following is from an equivalent [1895 edition](https://archive.org/details/englishfairytale00jaco/page/222/mode/2up), pp223-8.*
 
@@ -73,7 +74,7 @@ Appendix by Baring Gould in Henderson's Folk-Lore of Northern Counties
 ```{admonition} Baring-Gould, The Fish and the Ring (Yorkshire)
 :class: dropdown
 
-https://archive.org/details/dli.granth.84777
+https://archive.org/details/dli.granth.84777 ? no longer found, but available here: https://books.google.co.uk/books?id=a0iwAAAAIAAJ
 Notes on the Folklore of the Northern Counties of England and the Borders
 by Henderson, William; Baring-Gould, S.
 Publication date 1866
