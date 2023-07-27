@@ -883,7 +883,7 @@ Without subscribing to the tone of persiflage in the above remarks, I would sugg
 
 One of the joys of *N & Q* is that having started tracking down one particular topic, you can often quickly sidetrack yourself down another.
 
-For example, we might start to wonder about when the practice of gibbeting died out in England. Such a piece of information might perhaps add colour to the tale of the hand of glory. It might also provide additional historical context for the tale I tell of Micah Morey [[related Isle of Wight storynote](https://psychemedia.github.io/island-storynotes/michael_morey_and_james_dove.html)], a man gibbeted on the Isle of Wight having ben hanged for the cruel murder and dismemberment of his grandson, James Dove, in 1736.
+For example, we might start to wonder about when the practice of gibbeting died out in England. Such a piece of information might perhaps add colour to the tale of the hand of glory. It might also provide additional historical context for the tale I tell of Micah Morey [[related Isle of Wight storynote](https://psychemedia.github.io/island-storynotes/michael_morey_and_james_dove.html)], a man gibbeted on the Isle of Wight having been hanged for the cruel murder and dismemberment of his grandson, James Dove, in 1736.
 
 ```{admonition} "The last Gibbet in England", *N&Q*, May 3rd, 1856
 :class: dropdown
