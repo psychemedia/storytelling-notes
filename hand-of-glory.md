@@ -31,7 +31,20 @@ J'avoueque je n'ai jamais éprouvéle secret de la main de gloire; mais j'ai ass
 
 ```
 
-A translation appears Grose's *Provincial Glossary* of 1787. Note that a ward against the use of the hand of glory is also provided:
+In Louis Liger's *La nouvelle maison rustique* ("The New Rustic House, or General Economy of All Rural Assets"), a French guide book to rural life published in 1768, we see a mandrake root placed in a box described as a "hand of glory", with the ability to propagate riches:
+
+```{admonition} *La nouvelle maison rustique*, Louis Liger, 1768
+
+In *La nouvelle maison rustique, ou économie générale de tous les biens de campagne*,
+Loius Liger, 1768, [p62](https://archive.org/details/b30413497_0002/page/62/mode/2up):
+
+Les Charlatans ont long tems fait accroire que la racine de mandragore rellembloit parfaitement , celle du mandragore mâle d l’homme , 8c celle de la mandragore femelle a la femme : 8c. quoique ces racines ne falïent qu’endormir & engourdir confidérablement , ils faifoient accroire aux fors qu’elles étoient fi precieufes , qu elles ne pouvoient s’arracher qu’au péril de la vie, qu’auffi elles etoient un remede allure contre la ftérilité , de même que contre les douleurs de l’accouchement; qu’une main de gloire , c’eft-à-dire qu’une de ces racines enfermées myftérieufement dans une boëte , faifoic doubler tous les jours l’argent qu’on avoit , 8cc ; 8c même faute de mandragores qui font rares en France , ils vendoient des racines de coulevrées taillées en forme de mandragores , 8c lardées de grains d avoine , puis mifes pendant quinze ou vingt jours en terre , où l’avoine en germant , s incor-* pore dans les racines , 8c achèvent la reftemblance.
+
+> Charlatans have long led people to believe that the root of mandrake closely resembles that of a male human, and the root of female mandrake resembles that of a woman. Even though these roots only induce a considerable drowsiness and numbness, they made people believe they were so precious that they could only be extracted at the risk of one's life. They also claimed that these roots were a remedy against sterility and labor pains. Additionally, they propagated the idea that a "Hand of Glory," meaning one of these roots mysteriously enclosed in a box, could double one's money every day, and so on. Moreover, due to the rarity of mandrakes in France, they sold roots of coltsfoot cut to resemble mandrakes and studded with oat grains. These roots were then buried for fifteen or twenty days, during which the oat germs incorporated into the roots, completing the resemblance. `[transl. ChatGPT]`
+
+```
+
+A translation of Petit Albert's review of the hand of glory appears in Grose's *Provincial Glossary* of 1787. Note that a ward against the use of the hand of glory is also provided:
 
 ```{admonition} Petit Albert translation, Grose, 1787
 :class: dropdown
@@ -67,10 +80,10 @@ The following paragraph in the " Observer", newspaper of January 16th, 1831, sho
 
 ```
 
-Another French description of the hand of glory can be found in the *Dictionnaire Infernal* of 1818. The previously offered ward against the use of the hand og glory is also described:
+Another French description of the hand of glory can be found in the *Dictionnaire Infernal* of 1818. The previously offered ward against the use of the hand of glory is also described:
 
 ```{admonition} "Main de gloire", *Dictionnaire Infernal*. 1818
-:class: seealso
+:class: dropdown
 
 In *Dictionnaire infernal*, J.-A.-S. (Jacques-Albin-Simon) Collin de Plancy, 1818,
 [p34-6](https://archive.org/details/bub_gb_RtM0AAAAMAAJ/page/33/mode/2up):
@@ -88,7 +101,7 @@ Les voleurs ne peuvent se servir de la main de gloire, quand on a en la précapi
 ```
 
 ```{admonition} Translation of "Main de Gloire", *Dictionnaire Infernal*, transl. ChatGPT
-:class: dropdown
+:class: dropdown seealso
 
 Hand of glory
 
@@ -99,6 +112,73 @@ There are various ways of using the hand of glory; the wicked know them well, bu
 Two magicians, having come to stay at an inn to rob it, asked to spend the night by the fire, which they were granted. When everyone was asleep, the servant girl, who was suspicious of the looks of the two travelers, peered through a hole in the door to see what they were up to. The hand of glory had the power to plunge into the deepest sleep those who were already asleep. She immediately went to wake up her master, but she couldn't manage to do so, nor could the other people in the house, until they extinguished the illuminated fingers, while they made great efforts. She saw that they took out from a bag the hand of a dead body, anointed its fingers with some unknown ointment, and lit them, except for one finger that they could not light, no matter how hard they tried. This was because, as she understood, only she remained awake while the two thieves started their operation in a nearby room. The two magicians, seeing they were discovered, fled as quickly as possible and were not found again. `[Delrio, Magical Disquisitions.]`
 
 Thieves cannot make use of the hand of glory when the threshold of the door has been smeared with an ointment made of the bile of a black cat, the fat of a white hen, and the blood of an owl, which ointment must be prepared during the dog days. `[The Solid Treasure of Petit Albert.]`
+
+```
+
+Another French view of the *Main de gloire* is given in Charles Nisard's *Histoire des livres populaires* of 1854:
+
+```{admonition} Charles Nisard', *Histoire des livres populaires*, 1854
+
+In *Histoire des livres populaires ou de las littérature du colportage depuis le XV siècle*, Charles Nisard, 1854, [pp204-210](https://archive.org/details/bub_gb_ByPoxJ--GqEC/page/203/mode/2up):
+
+Que dirai-je de la *Main de gloire*, autre talisman ? Si j'avais l'honneur d'être gouverneur de la Banque de France ou garde du trésor public , je vivrais dans un état de transes et d'insomnie perpétuel, en considérant à combien peu de chose il tiendrait qu'on ne dévalisât ma caisse, et l'impossibilité où je serais de m'y opposer. La garde elle-même qui veillerait à mes portes, se composât-elle de plusieurs bataillons, ne me rassurerait nullement, puisque ce talisman, au moyen duquel on déjouerait sa surveillance, la forcerait d'assister l'arme au bras à l'enlèvement de mes lingots. Je viens au fait.
+
+*De la Main de gloire dont se servent les scélérats voleurs pour entrer dans les maisons , de nuit , sans empêchement.*
+
+J'avoue que je n'ai jamais éprouvé le secret de la main de gloire ; mais j'ai assisté trois fois au jugement définitif de certains scélérats, qui confessèrent à la torture s'être servi de la main de gloire dans les vols qu'ils avaient faits ; et comme, dans l'interrogatoire, on leur demanda ce que c'était, et comment ils l'avaient eue, et quel en était l'usage, ils répondirent premièrement que l'usage de la main de gloire était de stupéfier et rendre immobiles ceux à qui on la présentait, en sorte qu'ils ne pouvaient non plus branler que s'ils étaient morts; secondement, que c'était la main d'un homme mis à mort en suite d'une condamnation juridique; troisièmement, qu'il fallait la préparer en la manière suivante : on prend la main droite ou la gauche d'un pendu ou d'un décapité, qu'on achète du bourreau ou du gardien de l'amphithéâtre où le corps aura été déposé après l'exécution ; on l'enveloppe dans un morceau de drap mortuaire , puis on la met dans un vase de terre avec du zimat, du salpêtre, du sel et du poivre long, le tout bien pulvérisé : on la laisse pendant quinze jours dans ce pot; puis, l'ayant tirée, on l'expose au grand soleil de la canicule, jusqu'à ce qu'elle soit devenue bien sèche; et, si le soleil ne suffit pas, on la met dans un four qui soit chauffé avec de la fougère ou de la verveine, puis l'on compose une espèce de chandelle avec de la graisse de supplicié, de la cire vierge et du sésame de Laponie, et l'on se sert de cette main de gloire comme d'un chandelier pour tenir cette chandelle allumée; et dans tous les lieux où l'on va avec ce funeste instrument, ceux qui y sont demeurent immobiles; et, sur ce qu'on leur demanda s'il n'y avait point de remède pour se garantir de ce prestige, ils dirent que la main de gloire devenait sans effet, et que les voleurs ne pourraient s'en servir, si on frottait le seuil de la porte de la maison, ou les autres endroits par où ils peuvent entrer , avec un onguent composé du fiel de chat noir, de graisse de poule blanche et du sang de chouette, et qu'il fallait que cette confection fut faite dans le temps de la canicule.
+
+Cette main terrible , la voilà ! `[Image follows, mirroring that used in Petit Albert.]`
+
+Je doute fort quelle soit de l'invention d'Albert , puisqu'il était trop honnête pour révéler, s'il l'eût connu , un pareil secret. C'est évidemment l'œuvre d'une civilisation plus avancée, el on raconte des traits de Cartouche et de Mandrin qui feraient croire volontiers que ce talisman ne leur «Hait pas inconnu, si même ils n'ont pas l'honneur de l'avoir inventé.
+
+Au reste, les pertes que j'aurais faites par la grâce de cette main , je les réparerais facilement au moyen d'un autre secret, révélé par Cardan. Il s'agit de la découverte d'un trésor.
+
+Il faut , dit-il , avoir une grosse chandelle i-orapowe rie suif humain, qu'on se procure dans les amphithéâtre» des hôpitaux où l'on étudie l'anatomic, et qu elle soit enclavée dan» un morceau de bois de coudrier fait en la manière qui est représentée dans la figure suivante ;
+
+et si la chandelle. eUint allumée dans le lieu souterrain, y fait beaucoup de bruit en pétillant avec éclat, c'est une marque qu'il y a un trésor en et lieu, et plus on approchera du trésor, plus la chandelle pétillera, et enfin clic Vrtcindni quand on sci a tout a fait proche : il faut avoir d autres chandelles dan» des lanterne?», afin de ne pas demeurer sa us lumière. Quand on a de* raison* solides pour croire que ce sont des hommes défunts qui gardent les trésors, il e>t bon d'avoir des cierges bénits au lieu de chandelles communes , et les conjurer de la part de Dieu de déclarer si Ton peut faire quelque chose pour les mettre en lieu de bon repos , et il ne faudra jamais manquer d'exécuter ce qu'ils auront demandé.
+
+Ou bien je procéderais incontinent à l'opération suivante : `[Another omitted image.]`
+
+Vous prendre du soufre vif, du sel de nitre , du salpêtre , de chacun même quantité, c'est-à-dire environ quatre onces de chacun ; le tout étant bien pulvérisé sera mis dans une bosse ou grande cornue de verre fort , bien lutée et garnie de terre grasse ; on la mettra auprès d'un feu lent l'espace de deux heures , puis vous augmenterez le feu jusqu'à ce qu'il ne fasse aucutie fumée ; après la fumée sortira une flamme, hors du col de la bosse, le long des côtes, et cette flamme étant cessée , on verra le soufre précipité au fond , de couleur blanchâtre et fixe , on le tirera , et y joignant autant de sel ammoniac, on pilera et pulvérisera le tout ensemble bien subtilement , et on le fera sublimer en commençant par un feu lent, et augmentant toujours peu à peu , jusqu'à ce qu'il monte l'espace de quatre heures, puis on retirera du vase tout ce qui sera sublimé , aussi bien que les lies qui se trouveront au fond ; vous incorporerez le tout ensemble, et sublimerez derechef, continuant cette manière de sublimation jusqu'à six fois, après quoi le soufre étant au fond du vase, sera recueilli et pilé sur un marbre , en lieu humide , et il se convertira en huile , duquel vous mettrez six gouttes sur un ducat d'or fondu au creuset, et il se fera une huile qui, étant mise sur un marbre , se congèlera ; et , si vous mettez une partie de cette huile sur cinquante de mercure , préparé et purgé , vous aurez un or très-excellent.
+
+En voilà assez , en voilà trop peut-être pour faire connaître ce pendant du Grand Albert , non moins absurde et aussi dangereux que lui. Je me suis étendu sur tous les deux d'autant plus volontiers, que si on les réimprime, c'est clandestinement, et que la police correctionnelle est chargée d'appliquer contre ceux qui les débiteraient , deux ou trois des plus sévères articles du Code pénal. Il serait donc à peu près impossible à la plupart des lecteurs de se les procurer; mais ils les connaîtront assez aux fragments que j'en ai détachés.
+
+On tolère pourtant encore, je le suppose du moins , la vente d'une édition du *Petit Albert* , qui a pour titre : *Les secrets merveilleux du Petit Albert y traduits exactement sur l'original latin intitulé* : Alberti parvi Lucii; in -18, 144 pages, figures; Paris, chez les marchands de nouveautés, 1852. C'est l'abrégé du précédent. 11 y a en tête deux gravures. La première est assez confuse. Autant que j'en puis juger, cependant, elle paraît représenter le roi Salomon , revêtu d'une espèce de chlamyde et coiffé de la mitre orientale. D'une main il tient son glaive, dont la lame repose dans le fourreau , et il étend l'autre dans la direction d'un groupe de personnages que, à leur costume, on prendrait pour des prêtres juifs. Il est placé sur les marches d'un palais, et derrière lui s'élève un tourbillon de fumée, comme il s'en élève avant ou après une évocation du diable. La seconde gravure représente deux talismans. Ce sont deux affreux diables , dont la tête est toute hérissée de serpents, qui dansent sur la pointe d'un triangle, tenant d'une main une bourse pleine, et, de l'autre, une carte qui porte le nombre cabalistique 77. Entre ces deux diables on voit une vieille femme assise, occupée à friser les cheveux d'un autre diable couché à ses pieds. Audessus d'elle un magicien, à cheval sur un dragon ailé, traverse les airs. Le texte renferme aussi quelques vignettes analogues.
+
+```
+
+As well as describing the by now common an well-appreciated characteristics of the hand of the glory, the translation also describes how the hand of glory can be used as a "loot proximity detector":
+
+```{admonition} (transl. ChatGPT)
+:class: dropdown seealso
+
+"History of Popular Books or Colportage Literature since the 15th Century."
+*
+What shall I say about the *Hand of Glory, another talisman? If I had the honor of being the Governor of the Bank of France or the guardian of the public treasury, I would live in a perpetual state of trance and insomnia, considering how easily my cash box could be plundered and my inability to prevent it. Even if the guards at my doors were composed of several battalions, it would not reassure me, for this talisman, through which one could deceive their watchfulness, would compel them to assist in the removal of my ingots, with weapons in hand. Let me get to the point.
+
+*About the Hand of Glory that wicked thieves use to enter houses undisturbed at night.*
+
+I admit that I have never experienced the secret of the Hand of Glory, but I have witnessed the final judgment of certain villains three times, who confessed under torture to having used the Hand of Glory in their robberies. During the interrogations, they were asked what it was and how they obtained it, as well as its purpose. Firstly, they replied that the purpose of the Hand of Glory was to stupefy and immobilize those to whom it was presented, rendering them as motionless as if they were dead. Secondly, they claimed it was the hand of a man who had been executed following a legal sentence. Thirdly, they explained the preparation process as follows: the right or left hand of a hanged or beheaded person should be obtained from the executioner or the keeper of the amphitheater where the body was deposited after the execution. The hand should then be wrapped in a piece of mortuary shroud and placed in a earthenware pot with zinc oxide, saltpeter, salt, and long pepper, all finely powdered. It should be left in the pot for fifteen days; afterward, it should be exposed to the hot summer sun until thoroughly dried. If the sun is not enough, it should be placed in an oven heated with fern or verbena. Next, a kind of candle should be made with the fat of a hanged criminal, virgin wax, and Lapland sesame, and this Hand of Glory should be used as a candle holder to hold the lit candle. Wherever this dreadful instrument is taken, those present remain motionless. When asked if there was any remedy to protect oneself from this enchantment, they said the Hand of Glory would lose its effect and thieves would be unable to use it if the doorstep or other entry points of the house were smeared with an ointment made from the bile of a black cat, the fat of a white hen, and the blood of an owl. This concoction must be made during the hot summer.
+
+Behold this terrible hand! [Image follows, mirroring that used in Petit Albert.]
+
+I strongly doubt that it is Albert's invention, as he was too honorable to reveal such a secret if he knew it. Clearly, it is the work of a more advanced civilization, and stories of Cartouche and Mandrin suggest they were likely familiar with this talisman, if not its inventors.
+
+Nevertheless, any losses I might suffer due to this hand's power could easily be compensated by another secret revealed by Cardan. It concerns the discovery of a treasure.
+
+According to him, one must have a large candle made of human tallow, which can be obtained from the amphitheaters of hospitals where anatomy is studied. This candle should be encased in a piece of hazelwood as shown in the following figure:
+
+[The figure is not described in the text, and it's omitted from this translation.]
+
+If the candle, when lit in an underground location, makes a lot of noise and crackles brightly, it indicates the presence of a treasure in that place. The closer one gets to the treasure, the more the candle crackles, until it becomes very loud when one is very close to the treasure. It is advisable to have other candles in lanterns to avoid being without light. When there are solid reasons to believe that deceased individuals guard the treasure, it is good to have blessed candles instead of regular ones and to conjure them in the name of God to declare if anything can be done to give them peace. One must never fail to carry out their requests.
+
+Alternatively, I would proceed immediately with the following operation:
+
+Take equal quantities of brimstone (sulfur), nitre (potassium nitrate), and saltpeter (potassium nitrate), approximately four ounces of each. Grind them finely and place them in a hump or large strong glass retort, securely sealed and coated with greasy clay. Put it next to a slow fire for two hours, then increase the heat until no smoke is produced. After the smoke, a flame will emerge from the neck of the retort along the sides. Once the flame subsides, you will see the precipitated sulfur at the bottom, of a whitish and fixed color. Extract the sulfur and add an equal amount of ammonium chloride (sal ammoniac), then grind and pulverize everything together very finely. Sublime it by starting with a slow fire and gradually increasing it for about four hours. Then remove from the vessel whatever is sublimated, as well as the dregs found at the bottom. Mix everything together and sublime it again, continuing this process six times. Afterward, the sulfur at the bottom of the vessel will be collected and ground on a wet marble, converting it into oil. If you put six drops of this oil on a melted gold ducat in a crucible, it will form an oil that, when placed on a marble, will freeze. If you place a portion of this oil on fifty portions of prepared and purified mercury, you will obtain excellent gold.
+
+That is enough, perhaps even too much, to reveal this part of the Grand Albert, which is no less absurd and dangerous than the rest. I have expounded on both parts all the more willingly because if they were to be reprinted, it would be done clandestinely, and those who distribute them would face severe penalties under the Penal Code. Therefore, it would be nearly impossible for most readers to obtain them, but they will learn enough from the fragments I have extracted.
+
+Yet, the sale of an edition of Petit Albert is still tolerated, or so I suppose. This edition is titled: Les secrets merveilleux du Petit Albert y traduits exactement sur l'original latin intitulé: Alberti parvi Lucii; in -18, 144 pages, figures; Paris, chez les marchands de nouveautés, 1852. It is an abridged version of the previous work. There are two engravings at the beginning. The first one is quite confusing. As far as I can judge, it appears to represent King Solomon, dressed in a kind of chlamys and wearing an Eastern mitre. In one hand, he holds his sword, with the blade resting in the scabbard, and with the other hand, he points in the direction of a group of figures who, judging from their attire, could be taken for Jewish priests. He is depicted on the steps of a palace, and behind him, a whirl of smoke rises, similar to the kind that appears before or after a devilish evocation. The second engraving shows two talismans. These are two frightful devils, their heads bristling with snakes, dancing on the tip of a triangle. They hold a full purse in one hand and a card bearing the cabalistic number 77 in the other. Between these two devils, there is an old woman sitting, occupied with curling the hair of another devil lying at her feet. Above her, a magician riding a winged dragon crosses the skies. The text also contains several similar vignettes.
 
 ```
 
@@ -228,7 +308,7 @@ When the Glorious Hand by the side of him past !
 
 ```
 
-As well as a thief's hand or finger, Benjamin Thorpe suggests in volume 3 of his *Northern Mythology* series of 1872, that a foot could also work:
+As well as a thief's hand or finger, Benjamin Thorpe suggests in volume 3 of his *Northern Mythology* series of 1852, that a foot could also work:
 
 ```{admonition} Thief's Foot | Hand | Finger, *Northern Mythology*, 1852
 :class: dropdown
@@ -535,41 +615,44 @@ One of the most curious and widespread instances of deception and credulity is t
 
 ```
 
-
-
 ## Appearances in Notes & Queries
 
 Over the years, the hand of glory, and related matters, made several appearances in *Notes & Queries*, that veritable "medium of inter‐communication for literary men, artists, antiquaries, genealogists, etc." in which you can chase down all manner of idle curiosities.
+
+The subject first appears in a query regarding Grose's account, although it is not clear whether a more contemporary publication had motivated the correspondent to submit the query:
 
 ```{admonition} "Hand of Glory", *N&Q*, March 23rd, 1872
 :class: dropdown
 
 In *Notes and Queries*, 1872-03-23: Vol 9 Iss 221, [p238-9](https://archive.org/details/sim_notes-and-queries_1872-03-23_9_221/page/238/mode/1up):
 
-" Hand of Glory."—In Grose’s account of the " Hand of Glory " (*Prov. Glossary, 2nd ed. 1790*), I find these words—
-"I have thrice assisted at the definitive judgment of certain criminals, who under torture confessed having used it."
+" Hand of Glory."— In Grose’s account of the " Hand of Glory " (*Prov. Glossary, 2nd ed. 1790*), I find these words— "I have thrice assisted at the definitive judgment of certain criminals, who under torture confessed having used it."
 
-What does "the definitive judgment of criminals" mean? Was not torture in England done away with long before Grose's time? Had the "Hand of Glory" any real power of fascination, and did it ever have the effect mentioned by Grose—viz. that of rendering people powerless to move ? H. S. Skipton.
+What does "the definitive judgment of criminals" mean? Was not torture in England done away with long before Grose's time? Had the "Hand of Glory" any real power of fascination, and did it ever have the effect mentioned by Grose — viz. that of rendering people powerless to move ? H. S. Skipton.  
 Tivoli Cottage, Cheltenham
 
 ```
+
+A response comes back referring the enquirer to Petit Albert:
 
 ```{admonition} "Hand of Glory", *N&Q*, April 4th, 1872
 :class: dropdown
 
 In *Notes and Queries*, 1872-04-06: Vol 9 Iss 223, [p289](https://archive.org/details/sim_notes-and-queries_1872-04-06_9_223/page/288/mode/1up):
 
-"Hand of Glory" (4th S. ix. 238.)—I have not at hand a copy of Grose's Provincial Glossary, but from a quotation from his writings (what particular work is not stated) in Brand's Popular Antiquities, ed. 1813, vol. ii. p. 583, it seems that the passage, only a part of which is extracted by your correspondent, does not profess to relate our English antiquary's own experience. It is introduced as an account of "a foreign piece or superstition firmly believed in many parts of France, Germany, and Spain." It is in fact, as we are informed further on, a literal translation from a French work known as *Les Secrets du petit Albert*, 12mo, Lion, 1751, p. 110. This superstition is mentioned by Sir Walter Scott in *The Antiquary*, chapter xvii. Edward Peacock.
+"Hand of Glory" (4th S. ix. 238.)— I have not at hand a copy of Grose's Provincial Glossary, but from a quotation from his writings (what particular work is not stated) in Brand's Popular Antiquities, ed. 1813, vol. ii. p. 583, it seems that the passage, only a part of which is extracted by your correspondent, does not profess to relate our English antiquary's own experience. It is introduced as an account of "a foreign piece or superstition firmly believed in many parts of France, Germany, and Spain." It is in fact, as we are informed further on, a literal translation from a French work known as *Les Secrets du petit Albert*, 12mo, Lion, 1751, p. 110. This superstition is mentioned by Sir Walter Scott in *The Antiquary*, chapter xvii. Edward Peacock.  
 Bottesford Manor, Brigg.
 
 ```
+
+As befits a literary journal, another correspondent brought a literary reference to bear, in the form of a description of the hand of glory provided by Sir Walter Scott in [*The Antiquary*](https://archive.org/details/antiquary00scotuoft/page/184/mode/2up), first published in 1816:
 
 ```{admonition} "Hand of Glory", *N&Q*, May 4th, 1872
 :class: dropdown
 
 In *Notes and Queries*, 1872-05-04: Vol 9 Iss 227, [p376](https://archive.org/details/sim_notes-and-queries_1872-05-04_9_227/page/376/mode/1up):
 
-"Hand of Glory" (4th S. ix. 238, 289.)—I think it may safely be said that the hand of glory (i. e. a dead man's hand with a candle placed in it) did not have the effect of making people powerless to move. Thieves believe that the candle and person holding the hand are invisible. Sir Walter Scott evidently thinks it a foreign charm, for he makes Dousterswivel in *The Antiguary* thus describe it:—
+"Hand of Glory" (4th S. ix. 238, 289.)—I think it may safely be said that the hand of glory (i. e. a dead man's hand with a candle placed in it) did not have the effect of making people powerless to move. Thieves believe that the candle and person holding the hand are invisible. Sir Walter Scott evidently thinks it a foreign charm, for he makes Dousterswivel in *The Antiquary* thus describe it:—
 
 "Why, my good Master Oldenbuck, you will only laugh at me. But de Hand of Glory is very well known in de countries where your worthy progenitors did live ; and it is a hand cut off from a man as has been hanged for murder, and dried very nice in de shmoke of juniper wood; and if you put a little of what you call yew wid your juniper, it will not be any better—that is, it will not be no worse; then you do take something of de fatsh of de bear and of de badger, and of de little sucking child as has not been christened, and you do make a candle and put it into de Hand of Glory at de proper hour and minute with de proper ceremonish; and he who secketh for treasuresh shall never find none at all."
 
@@ -578,18 +661,21 @@ It appears to have been used for finding and concealing treasure. In January, 18
 Harland and Wilkinson, in their *Lancashire Folk Lore* (1867) give a most interesting account of a dead man’s hand formerly at Bryer Hall, but now, according to Mannex (*Hist. and Topog. of Lancashire*) preserved in the priest’s house at Ashton-in-Makerfield. This is not a hand of glory used by thieves, but is the hand of Father Arrowsmith, a Roman Catholic priest, who was hung in 1628 because he had the misfortune to belong to that church. Roby, in his *Traditions of Lancashire*, says that the under-sheriff (a member of the Kenyon family) refused him some favour upon the gallows, and that the priest, cursing him, said that every heir of the family should be a cripple—a prediction said to have been realised. The hand of the priest is believed to have been cut off at his request and removed to Bryer Hall, working some wonderful cures afterwards. Baines (*Hist. of Lancashire*, iii. 638) gives an account of a wonderful cure wrought upon a boy of twelve years of age, the son of Caryl Harwarden of Appleton-within-Widness. He had been deprived of the use of his limbs, but when the " holy hand" (as the Irish harvestmen call it) had been rubbed on his back, he soon recovered. Messrs. Harland & Wilkinson mention its application to a maniac in 1862 or 1863.
 John Piggot, Jun., F.S.A.
 
-
 ```
+
+Although not related to the hand of glory, the following note regarding a hand used as a relic that was saved from a priest martyred by hanging may lead to another interesting short tale:
 
 ```{admonition} "Fatner Arrowsmith's Hand", *N&Q*, May 25th, 1872
 :class: dropdown
 
 In *Notes and Queries*, 1872-05-25: Vol 9 Iss 230, [p436](https://archive.org/details/sim_notes-and-queries_1872-05-25_9_230/page/436/mode/1up):
 
-Fatner Arrowsmith's Hand (4 S. ix. 376.) In *The Memoirs of the Missionary Priests (of England)*, by Dr. Challoner, we find that "a hand of the Venerable Martyr Father Arrowsmith, S. J, is still preserved, and is in possession of the Gerrard family in Lancashire." Father Arrowsmith suffered death on the scaffold, after undergoing terrible persecutions, in Lancaster, on August 28, 1628, *aetatis* 43. There is no mention made in the volume to which I refer of any favour being refused by the sheriff or sub-sheriff to Father Arrowsmith; but it is stated that a rather violent attempt by the sheriff was made to force the martyr priest to abjure his faith on the scaffold. It is stated, however, of the judge that he ordered the martyr's head "to have it set higher by six yards than any of the pinnacles" of Lancaster Castle, and that whilst sitting at supper on January 23, 1629-30, he (the judge) felt a blow as if somebody had struck him on the head, upon which he fell into a rage with the servant that waited behind him, who protested that he had not struck him, nor did he see any one strike him. A little after he felt another blow like the first, and then in great terror he was carried to bed and died the next morning. Father Arrowsmith’s hand, in a silver shrine, is at present, I believe, in or near Liverpool, and is greatly resorted to for cures, Maurice Lenthan, M.R.I.A.
+Father Arrowsmith's Hand (4 S. ix. 376.) In *The Memoirs of the Missionary Priests (of England)*, by Dr. Challoner, we find that "a hand of the Venerable Martyr Father Arrowsmith, S. J, is still preserved, and is in possession of the Gerrard family in Lancashire." Father Arrowsmith suffered death on the scaffold, after undergoing terrible persecutions, in Lancaster, on August 28, 1628, *aetatis* 43. There is no mention made in the volume to which I refer of any favour being refused by the sheriff or sub-sheriff to Father Arrowsmith; but it is stated that a rather violent attempt by the sheriff was made to force the martyr priest to abjure his faith on the scaffold. It is stated, however, of the judge that he ordered the martyr's head "to have it set higher by six yards than any of the pinnacles" of Lancaster Castle, and that whilst sitting at supper on January 23, 1629-30, he (the judge) felt a blow as if somebody had struck him on the head, upon which he fell into a rage with the servant that waited behind him, who protested that he had not struck him, nor did he see any one strike him. A little after he felt another blow like the first, and then in great terror he was carried to bed and died the next morning. Father Arrowsmith’s hand, in a silver shrine, is at present, I believe, in or near Liverpool, and is greatly resorted to for cures, Maurice Lenthan, M.R.I.A.
 Limerick
 
 ```
+
+Back on the topic of the hand of glory, we have another literary reference, which also includes a reference in its notes to Grose's report:
 
 ```{admonition} "Hand of Glory", *N&Q*, June 1st, 1872
 :class: dropdown
@@ -607,14 +693,15 @@ Parch’d it, nine weeks exposed.
 
 In the notes the poet quotes Grose's account of the hand of glory, and adds —
 
-"Something similar is recorded by Torquemada of the
-Mexican thieves. They carried with them the left hand and arm of a woman who had died in her first childbed; with this they twice struck the ground before the house which they designed to rob, and the door twice, and the threshold twice; and the inhabitants, if asleep, were hindered from waking by this charm; and if awake, stupified and deprived of speech and motion while the fatal arm was in the house.— Lib. xiv. c. 22."
+"Something similar is recorded by Torquemada of the Mexican thieves. They carried with them the left hand and arm of a woman who had died in her first childbed; with this they twice struck the ground before the house which they designed to rob, and the door twice, and the threshold twice; and the inhabitants, if asleep, were hindered from waking by this charm; and if awake, stupified and deprived of speech and motion while the fatal arm was in the house.— Lib. xiv. c. 22."
 
 I cannot but think Mr. Piggot has been misled in his account of Edmund Arrowsmith by Roby's *Traditions of Lancashire*. Unfortunately I have not the book to refer to; but martyrs are not in the habit of cursing their enemies, and there are circumstances which make it seem more than ordinarily unlikely that Arrowsmith should do so. I thiink Mr. Piggot will agree with me if he will read the sketch of his life in Challoner’s *Memoirs of Missionary Priests*. It seems from the account given there, that when he arrived at the place of execution he spent about a quarter of an hour on his knees in prayer at the foot of the ladder, " but the sheriff bidding him then make haste, he replied, 'God's will be done,' and so, kissing the ladder, he most undauntedly walked up." —Vol. ii. p. 142, Catholic Book Soc. ed.
 
 Edward Peacock. Bottesford Manor, Brigg.
 
 ```
+
+Another correspondent suggests alternative names of the hand of glory that might have been more original names:
 
 ```{admonition} "Hand of Glory", *N&Q*, July 13th, 1872
 :class: dropdown
@@ -629,12 +716,13 @@ For thy gaudes and thy gilry.'"
 
 *Gilry* meant "jargon" or " wizardy," and *elloree* means "sorcerer" in the north of England. This term belongs to our Celtic mother tongue, the Irish, and to the kindred speech of Wales and Cornwall as well. In Welsh it is visible in *cellwair*, " to talk jargon," or "'to jest.'" It is also in the gipsy vocabulary, and it may, be recognised in the word " glamoury."
 
-But this is not all, by any means; and the incredible part is to come. The phrase " Hand of Glory" is certainly the Celtic " Caint Elloree " or " Caint Gilry"—so to write the sentence. *Caint*, in Irish, means "speech," and we now write it *cant*. So that "Sorcery-cant" or "Sorcerer's jargon" was once the real meaning of that very puzzling piece of old Irish, the " Hand of Glory"! But, there is an *actual* hand in the tradition? No doubt ; and this only shows how ready men were once to shape their legends on fragments of the elder speech then slipping out of their knowledge, and only strange sounds in their ears.
+But this is not all, by any means; and the incredible part is to come. The phrase " Hand of Glory" is certainly the Celtic " Caint Elloree " or " Caint Gilry" — so to write the sentence. *Caint*, in Irish, means "speech," and we now write it *cant*. So that "Sorcery-cant" or "Sorcerer's jargon" was once the real meaning of that very puzzling piece of old Irish, the " Hand of Glory"! But, there is an *actual* hand in the tradition? No doubt ; and this only shows how ready men were once to shape their legends on fragments of the elder speech then slipping out of their knowledge, and only strange sounds in their ears.
 
-I cut this note very short, and leave out a number of collateral proofs, much more surprising than those I mention. *Elloree* and *Caint* are words with very long biographies, meandering through many languages, and very curious in
-them all—especially in our own—of the Celtic family, and in our literature. If I had any business to draw or point morals in "N. & Q." I would impress on the lovers of these interesting researches the chief duty of looking for the folk-lore of Old England in the legends and the language of the sister island. W. D. Brooklyn, N.Y.
+I cut this note very short, and leave out a number of collateral proofs, much more surprising than those I mention. *Elloree* and *Caint* are words with very long biographies, meandering through many languages, and very curious in them all — especially in our own—of the Celtic family, and in our literature. If I had any business to draw or point morals in "N. & Q." I would impress on the lovers of these interesting researches the chief duty of looking for the folk-lore of Old England in the legends and the language of the sister island. W. D. Brooklyn, N.Y.
 
 ```
+
+At first glance, we might wonder why a "new thread" on the topic of the hand of glory appears to have been started under the heading "Thieves' candles"; but it seems the author was an overseas reader, perhaps one who had not yet seen the March 23rd, 1872, issue, but had perhaps been motivated to submit the note having received a similar stimulus to the author of the original hand of glory query?
 
 ```{admonition} "Thieves' Candles", *N&Q*, July 25th, 1872
 :class: dropdown
@@ -649,6 +737,8 @@ The curious will find some interesting particulars under the heading 'Men and Ca
 St. Petersburg
 
 ```
+
+Several years later, a link is drawn between the "thieves' candle" and the hand of glory, as described by Sir Walter Scott, and as referenced by Brand:
 
 ```{admonition} "Thieves' Candles", *N&Q*, November 28th, 1896
 :class: dropdown
@@ -681,6 +771,8 @@ See 'The Athenian Oracle' ('The Scott Library'), pp. 136, 137. O. S. T.
 
 ```
 
+A few months later still, and a stronger parallel is now being drawn between the thieve's candle and the hand of glory:
+
 ```{admonition} "Hand of Glory: Thieves Candles", *N&Q*, April 3rd, 1897
 :class: dropdown
 
@@ -689,6 +781,8 @@ In *Notes and Queries*, 1897-04-03: Vol 11 Iss 275, [p268](https://archive.org/d
 Hand of Glory: Thieves Candles. (See 4th S. ix. 238, 289, 376, 436, 455 ; x. 39; 8th S., x. 71, 445.)—Is there any foundation for the suggestion that this phrase has a Celtic origin in *hand elloree* or *gilry*, as set forth at 4th S. ix. 376? How is the thieves' candle described in 'Les Secrets du Petit Albert' (Lion, 1751)? Is it called the hand of glory in Arabic, in mediaeval Latin, or in any European language ? Q. V.
 
 ```
+
+By now, the correspondent *H. E. M.* from St Petersberg, who had initiated the Thieves' candles thread, has also discovered Nisard's *Histoire des Livres Populaires*:
 
 ```{admonition} "Hand of Glory: Thieves' Candles", *N&Q*, May 15th, 1897
 :class: dropdown
@@ -712,6 +806,8 @@ When I was a boy at school at Brighton, between Midsummer 1859 and Michaelmas 18
 
 ```
 
+TO DO
+
 ```{admonition} "Hand of Glory: Thieves' Candles", *N&Q*, June 5th, 1897
 :class: dropdown
 
@@ -719,8 +815,7 @@ In *Notes and Queries*, 1897-06-05: Vol 11 Iss 284, [p458-9](https://archive.org
 
 Hand of Glory: Thieves' Candles (8th S. xi. 268, 397).—" Hand of glory" exists in French, and Littré bas some interesting remarks thereon.
 
-"'Main de gloire': nom d'un pretendu charme fait
-avec une racine de mandragore preparée d'une certaine maniére, & laquelle les charlatans attribuaient le Tom de doubler l'argent qu'on mettait auprés. 'Maine de gloire' est une alteration de *mandegloire*, qui à son tour est une alteration de *mandragore*. Par suite de la défiguration du mot, ' main de gloire,' nom d'un pretendu charme qui se fait avec la main d'un pendu, enveloppé dans un drap mortuaire."
+"'Main de gloire': nom d'un pretendu charme fait avec une racine de mandragore preparée d'une certaine maniére, & laquelle les charlatans attribuaient le Tom de doubler l'argent qu'on mettait auprés. 'Maine de gloire' est une alteration de *mandegloire*, qui à son tour est une alteration de *mandragore*. Par suite de la défiguration du mot, ' main de gloire,' nom d'un pretendu charme qui se fait avec la main d'un pendu, enveloppé dans un drap mortuaire."
 
 Larousse defines it: " Main de pendu desséchés, dans laquelle on mettait une bougie, dont l’éclat avait la propriété de rendre immobiles tous ceux qu'il frappait."
 
@@ -728,12 +823,22 @@ I have not the references convenient ; but I have somewhere seen the statement t
 
 ```
 
+The reference to *Littré* is presumably Émile Littré's *Dictionnaire de la langue française*, 1873, which includes the definition:
+
+>Main de gloire, nom d'un prétendu charme fait avec une racine de mandragore préparée d'une certaine manière, à laquelle les charlatans attribuaient le pouvoir de doubler l'argent qu'on mettait auprès; main de gloire est une altération de mandegloire, qui à son tour est une altération de mandragore. || Par suite de la défiguration du mot, main de gloire, nom d'un autre prétendu charme, qui se fait avec la main d'un pendu, enveloppée dans un drap mortuaire.
+
+which is translated by ChatGPT as:
+
+> Hand of Glory, the name of an alleged charm made with a prepared mandrake root, to which charlatans attributed the power to double the money placed nearby. "Main de gloire" is a corruption of "mandegloire," which, in turn, is a corruption of "mandragore." || As a result of the distortion of the word, "main de gloire" is also the name of another alleged charm, which is made with the hand of a hanged person, wrapped in a mortuary cloth.
+
+As with many other threads in Notes & Queries, the hagiographers often feel compelled to contribute:
+
 ```{admonition} "Hand of Glory: Thieves' Candles", *N&Q*, July 24th, 1897
 :class: dropdown
 
 In *Notes and Queries*, 1897-07-24: Vol 12 Iss 291, [p74](https://archive.org/details/sim_notes-and-queries_1897-07-24_12_291/page/74/mode/1up):
 
-Hand of Glory: Thieves' Candles (4 §. ix. 238, 289, 376, 436, 455; x. 39; 8S, x. 71, 445. xi. 268, 397, 458).—It was one of the false accusations brought against St. Athanasius that he had slain Arsenius and cut off one of his hands, which hand he had used for purposes of magic and sorcery. The particulars are given by Socrates, the ecclesiastical historian, i. 27-29.
+Hand of Glory: Thieves' Candles (4 S. ix. 238, 289, 376, 436, 455; x. 39; 8S, x. 71, 445. xi. 268, 397, 458).—It was one of the false accusations brought against St. Athanasius that he had slain Arsenius and cut off one of his hands, which hand he had used for purposes of magic and sorcery. The particulars are given by Socrates, the ecclesiastical historian, i. 27-29.
 
 Moore mentions
 
@@ -742,6 +847,8 @@ From dead men's marrow guides them best at night.
 'Lalla Rookh ' (" Veiled Prophet of Khorassan "). W. C. B
 
 ```
+
+And then it's the turn of those protective of traditional crafts and techniques:
 
 ```{admonition} "Hand of Glory: Thieves' Candles", *N&Q*, October 2nd, 1897
 :class: dropdown
@@ -752,6 +859,7 @@ Hand of Glory: Thieves' Candles (4th S. ix. 238, 289, 376, 436, 455; x. 39; 8th 
 
 ```
 
+At this point, you may be starting to feel that the rabbit hole is starting to lose focus:
 
 ```{admonition} "Hand of Glory: Thieves' Candles", *N&Q*, January 15th, 1898
 :class: dropdown
@@ -765,6 +873,12 @@ Hand of Glory: Thieves' Candles (4th S. ix. 238, 289, 376, 436, 455 ; x. 39; 8 S
 Without subscribing to the tone of persiflage in the above remarks, I would suggest that the paragraph brings on the scene a mummy hand of high interest, and might possibly, therefore, be admitted to a corner in the valuable collection of ' N. & Q.' under the above headings. H. E. M. St. Petersburg.
 
 ```
+
+## An Aside — Gibbeting in England
+
+One of the joys of *N & Q* is that having started tracking down one particular topic, you can often quickly sidetrack yourself down another.
+
+For example, we might start to wonder about when the practice of gibbeting died out in England. Such a piece of information might perhaps add colour to the tale of the hand of glory. It might also provide additional historical context for the tale I tell of Micah Morey [[related Isle of Wight storynote](https://psychemedia.github.io/island-storynotes/michael_morey_and_james_dove.html)], a man gibbeted on the Isle of Wight having ben hanged for the cruel murder and dismemberment of his grandson, James Dove, in 1736.
 
 ```{admonition} "The last Gibbet in England", *N&Q*, May 3rd, 1856
 :class: dropdown
@@ -833,4 +947,3 @@ In *Notes and Queries*, 1872-11-09: Vol 10 Iss 254, [p382-3](https://archive.org
 Gibbeting Alive (4th S. x. 332.)—This "horrible tale" of the year 1805 is but a repetition of a story told of the same county, but dated 1683. In that year the body of a man, named Andrew Mills, who had been executed at Durham for the murder of his master's three children, was hung chains near to Ferry Hill. Yet the tale goes that he was gibbeted alive — that a girl who loved him contrived to keep him in existence for several days, and that his dying shrieks could be heard for miles around. Is this traditionary story peculiar
 to the county of Durham ? CUTHBERT BEDE
 ```
-

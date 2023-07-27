@@ -21,6 +21,7 @@ parts:
   - file: bendigeidfran_branwen_second_branch
 - caption: Tales to Tell
   chapters:
+  - file: hand-of-glory
   - file: macpherson
   - file: too_much_time
 - caption: Additional Storynotes Collections
