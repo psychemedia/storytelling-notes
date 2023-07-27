@@ -209,7 +209,7 @@ In passing, it's worth noting that the hand of glory also makes an appearances i
 ```{admonition} The Nurse's Story, Ingoldsby Legends, 1843
 :class: dropdown seealso
 
-In *The Ingoldsby Legends, or Mirth and Marvels*, Thomas Ingoldsby,1843, p55](https://archive.org/details/in00goldsbylegendsingorich/page/51/mode/1up):
+In *The Ingoldsby Legends, or Mirth and Marvels*, Thomas Ingoldsby,1843, [p55](https://archive.org/details/in00goldsbylegendsingorich/page/51/mode/1up):
 
 The Nurse's Story
 
