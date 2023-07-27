@@ -34,6 +34,7 @@ J'avoueque je n'ai jamais éprouvéle secret de la main de gloire; mais j'ai ass
 In Louis Liger's *La nouvelle maison rustique* ("The New Rustic House, or General Economy of All Rural Assets"), a French guide book to rural life published in 1768, we see a mandrake root placed in a box described as a "hand of glory", with the ability to propagate riches:
 
 ```{admonition} *La nouvelle maison rustique*, Louis Liger, 1768
+:class: dropdown
 
 In *La nouvelle maison rustique, ou économie générale de tous les biens de campagne*,
 Loius Liger, 1768, [p62](https://archive.org/details/b30413497_0002/page/62/mode/2up):
@@ -117,7 +118,8 @@ Thieves cannot make use of the hand of glory when the threshold of the door has 
 
 Another French view of the *Main de gloire* is given in Charles Nisard's *Histoire des livres populaires* of 1854:
 
-```{admonition} Charles Nisard', *Histoire des livres populaires*, 1854
+```{admonition} Charles Nisard, *Histoire des livres populaires*, 1854
+:class: dropdown
 
 In *Histoire des livres populaires ou de las littérature du colportage depuis le XV siècle*, Charles Nisard, 1854, [pp204-210](https://archive.org/details/bub_gb_ByPoxJ--GqEC/page/203/mode/2up):
 
@@ -149,7 +151,7 @@ On tolère pourtant encore, je le suppose du moins , la vente d'une édition du 
 
 As well as describing the by now common an well-appreciated characteristics of the hand of the glory, the translation also describes how the hand of glory can be used as a "loot proximity detector":
 
-```{admonition} (transl. ChatGPT)
+```{admonition} *Main de gloire*, Nisard's *Histoire des livres populaires* , 1854 (transl. ChatGPT)
 :class: dropdown seealso
 
 "History of Popular Books or Colportage Literature since the 15th Century."
@@ -185,6 +187,7 @@ Yet, the sale of an edition of Petit Albert is still tolerated, or so I suppose.
 A news report, from 1831, of a hand of glory apparently being used in a robbery in Ireland was syndicated variously in 1841 as an example of the ignorance of the Irish peasantry:
 
 ```{admonition} March of Intellect, The Globe, March, 1831
+:class: dropdown
 
 In the *Globe*, Tuesday, 11th January 1831, [p3](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001652/18310111/012/0003):
 
@@ -203,7 +206,7 @@ On the night of Monday, the 3d inst., a robbery, or rather an attempt at robbery
 
 In passing, it's worth noting that the hand of glory also makes an appearances in the *Nurse's Story* in Ingoldsby Legends.
 
-```{admonition} The Nurse's Stroy, Ingoldsby Legends, 1843
+```{admonition} The Nurse's Story, Ingoldsby Legends, 1843
 :class: dropdown seealso
 
 In *The Ingoldsby Legends, or Mirth and Marvels*, Thomas Ingoldsby,1843, p55](https://archive.org/details/in00goldsbylegendsingorich/page/51/mode/1up):
@@ -509,7 +512,9 @@ This story was told to my informant, Mr. Atkinson, by Bella herself when she was
 
 As local customs and folklore columns became popular in the local newspapers of the latter part of the 19th century, it is not surprising that the hand of glory started to make an appearance in some of them. For example, in the *Cheshire Observer* in 1872:
 
-```{admonition} The Dead Man's Hand, Cheshire Observer, February 24th, 1872.
+```{admonition} The Dead Man's Hand, Cheshire Observer, February 24th, 1872
+:class: dropdown
+
 In *Cheshire Observer*, - Saturday, February 24th, 1872, [p7](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000157/18720224/043/0007):
 
 VILLAGE CUSTOMS AND FOLK LORE OF CHESHIRE.
