@@ -343,9 +343,9 @@ In the north of Europe schamir appears strangely and grotesquely metamorphosed. 
 
 ```
 
-The naïveté of the believers in the hand of glory superstition was also implied by it's inclusion in John Tims' *Popular Errors* of 1852:
+The naïveté of the believers in the hand of glory superstition was also implied by it's inclusion in John Timbs' *Popular Errors* of 1852:
 
-```{admonition}
+```{admonition} *Things Not Generally Known / Popular Errors*, John Timbs, 1858
 :class: dropdown
 
 In *Things Not Generally Known: Popular Errors Explained & Illustrated*, John Timbs, 1858,
@@ -365,7 +365,7 @@ It may be remarked, that the Arabs have great faith in certain superstitious cha
 
 William Henderson, in his *Notes on the Folklore of the Northern Counties* of 1866 addresses the superstition of the hand of glory in various forms:
 
-```{admonition}
+```{admonition}  William Henderson, *Notes on the Folklore of the Northern Counties*, 1866
 :class: dropdown
 
 In *Notes on the Folklore of the Northern Counties of England and the Borders*, William Henderson, with an appendix on *Household Tales* by Sabine Baring-Gould, 1866,
@@ -451,7 +451,7 @@ This is the same story which is told in Northumberland and elsewhere.
 
 Local tellings of the hand of glory story appear as elaborated "collected" fictionalisation of local legends. For example, in Thomas and Katharine Macquoid's *About Yorkshire* of 1891:
 
-```{admonition}
+```{admonition} *About Yorkshire*, Thomas and Katharine Macquoid, 1894
 :class: dropdown
 
 In *About Yorkshire*, Thomas and Katharine Macquoid, 1894
@@ -609,7 +609,7 @@ The light, as if in response to the incantation, shot suddenly up with a brighte
 
 A few years later, tales of the hand of glory is still filling column inches, as in the *Stockton Herald* in 1891:
 
-```{admonition}
+```{admonition} The Hand of Glory, Stockton Herald, 1891
 :class: dropdown
 
 In *Stockton Herald, South Durham and Cleveland Advertiser*, Saturday, 10th January, 1891, [p2](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002976/18910110/023/0002):
