@@ -302,7 +302,7 @@ That murderous band.
 Let by the light of that Glorious Hand,  
 By one ! — by two ! — by three !
 
-They have pasd'd through the porch, they have pass' through the hall,  
+They have pass'd through the porch, they have pass'd through the hall,  
 Where the Porter sat snoring against the wall ;  
 The very snore froze  
 In his very snub nose,  
