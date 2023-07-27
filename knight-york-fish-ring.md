@@ -1,14 +1,14 @@
 # The Fish and the Ring
 
-The English folk tale "The Fish and the Ring" is a classic fairy tale in which someone of low-birth is prophesied to marry someone of much greater social standing. Although obstacles are put in place to prevent the marriage, a happy ending ensues. Although this story felt familiar to me when I came across it in a modern collection, *English Fairy Tales and Legends*, by Rosalind Kerven (2008/2019), under the title "The Knight of York (Yorkshire)", I don't recall any particular occasion, if any, on which I have heard it told.
+The English folk tale "The Fish and the Ring" is a classic fairy tale in which someone of low-birth is prophesied to marry someone of much greater social standing. Although obstacles are put in place to prevent the marriage, a happy ending ensues. Although this story felt familiar to me when I came across it in a modern collection, *English Fairy Tales and Legends*, by Rosalind Kerven (2008/2019), under the title "The Knight of York (Yorkshire)", I don't recall any particular occasion, if any, on which I have actually heard it told.
 
 A popular variant of the English version of the tale of *The Fish and the Ring* was first published in a popular form in Joseph Jacobs *English Fairy Tales*, 1890. The gist of that version is as follows:
 
 > A shopkeeper in York has a large family that just got larger. A nobleman calls, sees their distress at another mouth to feed, and offers to read the child's fortune: he is shocked to learn she will marry his son, so he offers to adopt her and takes her away, at which point he throws her in the River Ouse. A farmer finds her and brings her up. Years later, the nobleman comes across her again, is persuaded to read her fortune, and realises who she is. He writes a letter to his brother saying the girl will bring shame and misfortune on the family, and she should be killed at once. He asks the girl to deliver the letter in Scarborough. Along the way, she stops at an inn, a thief sees the letter and swaps it for another ("marry the girl to my son as quickly as possible — she will bring great honour and fortune"). The girl delivers the changed letter, and is married to the nobleman's son. The nobleman arrives, furious, takes the girl outside, throws a ring into the sea saying she can only return if she has the ring. She finds work in a kitchen; there is a feast, and the nobleman and his son (her husband) will be there. She finds the ring in a fish; the fish is served to the nobleman and the girl is revealed. The son chastises the father and they all live happily ever after.
 
-In the telling, I've found there are several tricky bits: getting the fortune telling to work in a coherent way, handling the girl's exile as triggered by the loss of the ring, and disguising the girl in the run up to the denouement. There is a natural opportunity to break the story with a cliff hanger when the letter is switched in the inn, or at the point at which the nobleman's brother reads the letter. In the original telling, what the thief replaced the original letter with is described at the time of its substitution, but we can hide that until the letter is opened and read. Or perhaps describe preparations for a great event that is revealed as a wedding, not an execution, and then explain the actual contents of the letter. There is also an opportunity to include the use of a hand of glory when the thief enters the inn. Indeed, in the resource that Jacobs got the story from, Baring Gould's appendix to Henderson's *Notes on the Folklore of the Northern Counties of England and the Borders*, 1866, the (Yorkshire) tale of the *Hand of Glory* is described, as well as the (Yorkshire) tale of the *Fish and the Ring*.
+In the telling, I've found there are several tricky bits: getting the fortune telling to work in a coherent way, handling the girl's exile as triggered by the loss of the ring, and disguising the girl in the run up to the denouement. There is a natural opportunity to break the story with a cliff hanger when the letter is switched in the inn, or at the point at which the nobleman's brother reads the letter. In the original telling, what the thief replaced the original letter with is described at the time of its substitution, but we can hide that until the letter is opened and read. Or perhaps describe preparations for a great event that is revealed as a wedding, not an execution, and then explain the actual contents of the letter. There is also an opportunity to include the use of a hand of glory when the thief enters the inn. Indeed, in the resource that Jacobs appears to have got the story from, Baring Gould's appendix to Henderson's *Notes on the Folklore of the Northern Counties of England and the Borders*, 1866, the (Yorkshire) tale of the *Hand of Glory* is described, as well as the (Yorkshire) tale of the *Fish and the Ring*.
 
-So let's see how Jacobs (re)told the tale:
+So let's see how Jacobs (re)told the tale of the fish and the ring:
 
 ```{admonition} Jacobs, The Fish and the Ring
 :class: dropdown
@@ -59,7 +59,7 @@ When the banqueters saw such a young and beautiful cook they were surprised. But
 
 ```
 
-## Earlier Versions of *The Fish and the Ring*
+## Earlier Versions of *The Fish and the Ring*
 
 Jacobs provides the following note on the tale:
 
@@ -69,17 +69,14 @@ Jacobs provides the following note on the tale:
 > 
 > *Parallels.* — "Jonah rings" have been put together by Mr. Clouston in his *Popular Tales*, i. 398, &c. : the most famous are those of Polycrates, of Solomon, and the Sanskrit drama of " Sakuntala," the plot of which turns upon such a ring. " Letters to kill bearer " have been traced from Homer downwards by Prof. Khöler on Gonzenbach, ii. 220, and "the substituted letter" by the same authority in *Occ. u. Orr*, ii. 289. Mr. Baring-Gould, who was one of the pioneers of the study of folk-tales in this country, has given a large number of instances of "the pre-ordained marriage" in folk-tales in Henderson, *l.c.*
 
-Appendix by Baring Gould in Henderson's Folk-Lore of Northern Counties
+In his "Household Tales" appendix to Henderson's *Folk-Lore of Northern Counties*, Sabine Baring-Gould presents a version of the tale:
 
 ```{admonition} Baring-Gould, The Fish and the Ring (Yorkshire)
 :class: dropdown
 
-https://archive.org/details/dli.granth.84777 ? no longer found, but available here: https://books.google.co.uk/books?id=a0iwAAAAIAAJ
-Notes on the Folklore of the Northern Counties of England and the Borders
-by Henderson, William; Baring-Gould, S.
-Publication date 1866
+In *Notes on the Folklore of the Northern Counties of England and the Borders*
+by William Henderson, with an appendix on *Household Tales* by Sabine Baring-Gould, 1866, [p324-6](https://books.google.co.uk/books?id=a0iwAAAAIAAJ):
 
-p324-6
 APPENDIX.
 
 6. THE FISH AND THE RING. ( Yorkshire .)
@@ -103,3 +100,25 @@ The girl, receiving this command, washed her face, braided her hair, and put on 
 The revellers turned to look at her, for she seemed as fair as the moon, as lovely as a rose. With an exclamation of rage and dismay, the knight rose to his feet. He recognised her at once, and, drawing his sword, rushed forward to cut her down; but she held up her hand with a smile, and there he saw the ring he had east into the sea. Now, at length he acknowledged that he was powerless to resist fate, and suffered her to remain in peace with his son, who loved her dearly, and she became famous through the land for her beauty, her courtesy, and her goodness.
 
 ```
+
+Baring-Gould also provides the following notes on the tale:
+
+```{admonition} Notes
+:class: dropdown seealso
+
+In *Notes on the Folklore of the Northern Counties of England and the Borders*
+by William Henderson, with an appendix on *Household Tales* by Sabine Baring-Gould, 1866, [p326-7](https://books.google.co.uk/books?id=a0iwAAAAIAAJ):
+
+This story is made up of two story-radicals :
+
+A. The first as far as to the marriage;
+
+B. The second from the marriage to the end.
+
+The first part of the story closely resembles 'The Devil with the Three Golden Hairs,' in Grimm's Kinder-Märchen, No. 29; to which are also related a Swiss story of Vogel Greet (K. M. No. 165), a Swedish tale (Afzelius 2, 161-167), a Norwegian (Asbjörnsen, No. 5), a Wendish tale (Haupt u. Schmaler, No. 17), a Hungarian (Mailan, No. 8), and a Mongolian tale in Gesser Khan, p. 142. In the German story a king takes the place of the knight, and the babe is a boy born with a caul, and therefore fated to marry his daughter. He takes the boy and casts him into the water, and it is saved by a miller. The incident of the change of letters by the thief is the same. After this the German tale branches off in another direction altogether. A modern Greek household tale (Von Halm, No. 20) is to this effect: It is prophesied that a babe will cause the death of a merchant; the merchant takes the child, as in the Yorkshire and German story, and casts it into the river, when it is saved by a shepherd. Then follows the recognition of the boy, when grown up, by the merchant, and the incident of the letter; after which the story goes off on another track. The same story exists in the ' Gesta Romanoram.' `[Ed. Swan, vol. i. Tale 20.]` It is impossible not to recognise in the myth of Romulus and Remus as an Italian form of the same widespread household tale localised.
+
+The second part of the same Yorkshire story is founded on a different root, and one which reappears in numerous tales. Tor instance, in ' Herodotus,' it is told of Polycrates ; in the old Provencal romance of ' Magelone ' it more closely resembles the form in the Yorkshire tale. If I remember aright, it occurs in one of the ' Arabian Nights' Entertainments ; ' and if so, it was a relic of Persian romance, and would, in all probability, be found in India as well. I am not sure that it has not a mythical signification, and that the ring apparently lost in the sea, and recovered from it again, does not portray the sun cast, as it were, by the power of darkness into the deep, and recovered again by the virgin Aurora or the dawn. The instances of the reappearance of this root in household tales are too numerous to be specified. I may mention that it occurs in the familiar French tale of ' The Fair One with Golden Locks,' and that we find it in all the kindred tales of the Aryan family.
+
+```
+
+
