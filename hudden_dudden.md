@@ -1349,7 +1349,7 @@ At this they were much astonished. " Why, old man ! " said they, " why do you go
 
 And the long and the short of it is, that he so bamboozled them that they had to console htm. In a while he says to the hare :
 
-" Do you think you could go to the house, a;nd tell your mother to cook so and so for dinner, for I am going to entertain some friends to-day ? "
+" Do you think you could go to the house, and tell your mother to cook so and so for dinner, for I am going to entertain some friends to-day ? "
 
 And he let the hare run. Our friend, the hare, no sooner got loose than it took to the hills, and, for what I know, is running still. Then the tithe-takers were much exercised in mind, and wanted to go to the house, to see if the hare really went to take the message home. The old man guessed what was in their thoughts, and said to them :
 
