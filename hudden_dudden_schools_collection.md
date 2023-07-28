@@ -1,4 +1,4 @@
-# Hudden and Dudden in th Schools' Collection
+# Hudden and Dudden in the Schools' Collection
 
 https://www.duchas.ie/en/src?q=hudden&t=CbesStory
 
