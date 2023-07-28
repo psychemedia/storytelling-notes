@@ -241,7 +241,7 @@ I'm not sure if the following is being used as a storyteller's device to help ge
 >
 > If any gentleman six feet two inches high gets angry at reading this, I beg him to remember that I am a little man myself, and if he be a person of sense, (which is supposing a great deal,) he will pardon, from his own feeling of indignation at this *exposé* of Patagonian inferiority, the consequent triumph on my part, of Lilliputian distinction. If, however, his inches get the better of him, and he should call me out, I beg of him to remember again, that I have the advantage of him there too, in being a little man. There is a proverb also, that "*little* said is soon mended," and with all my preaching, I fear I have been forgetting the wholesome adage. So I shall conclude this little introduction, which I only thought a becoming flourish of trumpets for introducing my hero, by placing *Little Fairly* before my readers, and I hope they will not think, in the words of another adage, that I have given them great cry and *little* wool.
 
-Just before getting in to the story proper, I'd lke to remark on the following fragment which I think could be part of a beatiful set-up for an unrolling, multi-part call-back:
+Just before getting in to the story proper, I'd lke to remark on the following fragment which I think could be part of a beautiful set-up for an unrolling, multi-part call-back:
 
 > *and I lave you that *six* shillings, and *five* stone o' mouldy oats that's no use to me, and *four* broken plates, and that *three*-legged stool you stood upon to get at the cupboard, you poor *nharrough* that you are, and the *two* spoons without handles, and the *one* cow that's gone back of her milk."*
 
