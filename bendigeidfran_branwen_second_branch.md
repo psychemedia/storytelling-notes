@@ -128,7 +128,7 @@ And that is the end of the story, the story of Brân and Branwen, the story of t
 
 The following notes are personal reflections on my performances of this tale, typically all the bits that I felt didn't work as I'd intended or hoped. If you've been to a show, and thought it went okay, the following may contain spoilers of where I felt I may have messed up!
 
-```{admonition}
+`````{admonition} Reflective performance notes
 :class: dropdown danger
 
 Having fallen off the bike in the first telling, I also gave this tale another couple of tellings quickly after: the first at Calbourne Water Mill, where I split it into five parts and told it interspersed with the island based *Eye of the Dawn* belly dancers (which I think with a bit more co-ordination regarding the dance selections to fit the narrative breaks in the tale could make for a different sort of telling!) The splits were useful because they provided a break from the barrage names, and allowed folk to process where the tale had got to for three or for minutes between each three of four minute chunk of the telling. At the start of the new part, I briefly recapped the previous, *Soap* style... Confused? You won't be...
@@ -146,4 +146,4 @@ For more completeness in call backs relating to the honour price given to Mathol
 
 Finally, the out with the rooks and ravens was really fumbled, in part because I'd forgotten to set up the "bury my head facing South to ward off invasion from the French under the WHite Hill in London" instruction as Bendigeidfran was decapitated.
 
-```
+`````
