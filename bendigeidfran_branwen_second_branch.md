@@ -76,7 +76,7 @@ But as the house was built, hooks were placed on either side of the hundred grea
 
 ---
 
-When Efnysian came to inspect the hall, he saw the sacks on the hooks, and he asked what was in them. "Flour," they said, and so he felt the first bag, felt the man's head inside the bag, and squeezed. And squeezed some more; and squeezed until the man's skull gave way. He squeezed and it squished.
+When Efnysien came to inspect the hall, he saw the sacks on the hooks, and he asked what was in them. "Flour," they said, and so he felt the first bag, felt the man's head inside the bag, and squeezed. And squeezed some more; and squeezed until the man's skull gave way. He squeezed and it squished.
 
 And then he went to the second bag: "and this is...?" "Flour". "Ah ha...". And he squeezed, and he squeezed some more. And then it squished. And so it went on...
 
@@ -144,6 +144,6 @@ Another forgetting was to hang the bags on the hooks on the posts in the hall; I
 
 For more completeness in call backs relating to the honour price given to Matholwch, the silver rod maybe needs a reference? And perhaps something about the horses? even though they aren't in the Second branch translation I have...
 
-Finally, the out with the rooks and ravens was really fumbled, in part because I'd forgotten to set up the "bury my head facing South to ward off invasion from the French under the WHite Hill in London" instruction as Bendigeidfran was decapitated.
+Finally, the out with the rooks and ravens was really fumbled, in part because I'd forgotten to set up the "bury my head facing South to ward off invasion from the French under the White Hill in London" instruction as Bendigeidfran was decapitated.
 
 `````
