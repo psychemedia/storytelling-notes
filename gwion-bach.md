@@ -11,6 +11,7 @@ The tale is often paired with a second part in which Taliesin gets Prince Elphin
 I first came across the tale in a second copy of Lady Charlotte Guest's *Mabinogion*, where the tale was included an an additional item to the "official" Mabinogion tales.
 
 ```{admonition} From *The Mabinogion* Volume III, Lady Charlotte Guest, 1849
+:class: dropdown
 
 In *The Mabinogion: From the Llyfr Coch O Hergest, and Other Ancient Welsh Manuscripts*, Charlotte Guest, Volume III, 1849, [p346-389](https://archive.org/details/mabinogionfroml01mabigoog/page/n366/mode/2up):
 
@@ -303,13 +304,13 @@ A cry from the sea arisesabove the winds!
 A cry from the sea impels me from my place of rest this night!  
 After excess comes the far extending death !"
 
-Another compositbn, attributed to him, is to be found in the same valuable collection. It is in the colloquial form, between himself and the king of Faerie, Gwyn ap Nudd.
+Another composition, attributed to him, is to be found in the same valuable collection. It is in the colloquial form, between himself and the king of Faerie, Gwyn ap Nudd.
 
 The magic basket of Gwyddno has a place amongst the Thirteen Precious Things of Britain. See Vol. II. 353.
 
 ```
 
-A note in volume II itemises the rather splendid
+A note in volume II itemises the rather splendid "thirteen precious things of the Island of Britain, about which there are surely many tales that can be told:
 
 ```{admonition} The thirteen precious things of the Island of Britain
 :class: dropdown
