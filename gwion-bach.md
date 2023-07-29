@@ -707,7 +707,7 @@ When through its folds the torchlight broke,
 Nor Gwion, nor the boy, was there.
 
 The fire was dead, the cauldron cold,  
-And in it lay, in sleep uproUed,  
+And in it lay, in sleep uprolled,  
 Fair as the morning-star, a child,  
 That woke, and stretched its arms, and smiled.
 
@@ -715,6 +715,7 @@ What chanced her labours to destroy,
 She never knew ; and sought in vain  
 If 'twere her own misshapen boy,  
 Or little Gwion, born again :
+
 And, vext with doubt, the babe she roiled
 In cloth of purple and of gold,  
 And in a coracle consigned  
@@ -723,25 +724,28 @@ Its fortunes to the sea and wind-
 The summer night was still and bright.  
 The summer moon was large and clear,  
 The frail bark, on the springtide's height,  
-Was floated into Elphin's weir.  
+Was floated into Elphin's weir.
+
 The baby in his arms he raised :  
 His lovely spouse stood by, and gazed.  
 And, blessing it with gentle vow,  
 Cried " Taliesin !" " Radiant brow ! '
 
 And I am he : and well I know  
-Ceridwen'a power protects me still ;  
+Ceridwen's power protects me still ;  
 And hence o'er hill and vale I go,  
-And sing, unharmed, whate*er I will.  
+And sing, unharmed, whate*er I will.
+
 She has for me Time's veil withdrawn :  
-The images of thnmgs long gone.  
+The images of things long gone.  
 The shadows of the coming days,  
 Are present to my visioned gaze.
 
 And I have heard the words of power.  
 By Ceirion's solitary lake.  
 That bid, at midnight's thrilling hour,  
-Eryri's hundred echoes wake:  
+Eryri's hundred echoes wake:
+
 I to Diganwy's towers hare sped.  
 And now Gaer Lleon's halls I tread,  
 Demanding justice, now, as then,  
