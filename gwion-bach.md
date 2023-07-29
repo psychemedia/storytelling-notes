@@ -705,6 +705,7 @@ But from the cauldron rose a smoke
 That filled with darkness all the air :  
 When through its folds the torchlight broke,  
 Nor Gwion, nor the boy, was there.
+
 The fire was dead, the cauldron cold,  
 And in it lay, in sleep uproUed,  
 Fair as the morning-star, a child,  
