@@ -664,7 +664,7 @@ IDRISON,
 
 The cauldron of Caridwen is described in *The Misfortunes of Elphin* by Thomas Love Peacock ("the author of Headlong Hall"), a historical romance inspired by early Welsh materials that had not heretofore been available in translation.
 
-```{admonition} The Cauldron of Ceridwen, Thomas Love Peacock, 1829
+```{admonition} "The Cauldron of Ceridwen", in *The Misfortunes of Elphin*, Thomas Love Peacock, 1829
 :class: dropdown
 
 In *The Misfortunes of Elphin*, Thomas Love Peacock, 1829, [pp225-9](https://archive.org/details/misfortuneselph02peacgoog/page/n236/mode/2up)
