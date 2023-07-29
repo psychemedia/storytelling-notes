@@ -1,12 +1,371 @@
-# Notes on Gwion Bach / Taliesin
+#  Ceridwen, Gwion Bach and Taliesin
 
-The tale of Gwion Bach, his encounter with the sorceress Ceridwen, his rebirth as Taliesin, greatest of the bards, and his adventures with the luckless Prince Elphin, is one of my favourite tales.
+The tale of Gwion Bach, his encounter with the sorceress Ceridwen, his rebirth as Taliesin, greatest of the bards, and his adventures with the luckless Prince Elphin, is one of my favourite tales. The transformations are fantastic, and as with many Welsh tales, the pace is frenetic. Here is the briefest of summaries:
 
-https://archive.org/details/sim_the-cambrian-and-caledonian-quarterly-magazine_1833-04-01_3_18/page/198/mode/2up?q=taliesin
-The Cambrian and Caledonian Quarterly Magazine and Celtic Repertory  1833-04-01: Vol 3 Iss 18
-Publication date 1833-04-01
+> Ceridwen, the sorceress has two children: her daughter, Creirwy, is perfect in every way; her son, Avagddu, is everything his sister is not. Ceridwen vows to make a potion of Awen, inspiration: it will take a year and a day; and old man and a young boy, Gwion Bach, are brought in to stir the pot and feed the fire; ingredients are collected at auspicious times. The day of reckoning: three bubbles, rise, pop, and burn Gwion Bach on the hand. Hand to mouth, he sees everything that was, is and shall be. He flees, Ceridwen chasing: they change to hare and hunting dog, fish and she-otter, little bird and hawk, grain of wheat and hen. Ceridwen pecks, and eats Gwion Bach. A child is born, she cannot kill it, pushes it onto the lake. Prince Elphin, the luckless, fails to get salmon n the day they leap freely; sees the child — "radiant brow". It talks, it has gown to a young child by the time they get to Elphin's father's court. Taliesin promises a great future for Elphin, with his help, and the young bard is adopted.
 
-p198-214
+The tale is often paired with a second part in which Taliesin gets Prince Elphin out of a spot of bother with the King, and also repays him for having looked after him as he grew up.
+
+> Elphin has a drink too many at the High King's feast, claims his wife is as virtuous as the Kings, his bard better, his horse fleeter of foot. He is thrown into jail until his wife's virtue is proven. Taliesin hears the disreputable King's son say he will demonstrate her lack of virtue. A kitchen maid is disguised as Elphin's wife, a ring forced onto her little finger. The Kings son arrives, gets the kitchen maid/not-wife drunk, seduces her, cuts off her little finger. Not my wife's: ring would hardly stay on her thumb, her nails are not pared, hr fingers not grained with flour from kneading bread. Elphin in silver chains; there is a bardic competition, Taliesin blurbs as bards pass, they blurb: are you all drunk? Taliesin recites, and the elements are at his command. There is a horse race, twenty four of the king's horses, twenty four holly rods charred black at the end; as each of the High King's horses is tapped on the flank, it falters; cap dropped where the last horse fell, and there, buried gold, a thank you to Elphin from Taliesin.
+
+I first came across the tale in a second copy of Lady Charlotte Guest's *Mabinogion*, where the tale was included an an additional item to the "official" Mabinogion tales.
+
+```{admonition} From *The Mabinogion* Volume III, Lady Charlotte Guest, 1849
+
+In *The Mabinogion: From the Llyfr Coch O Hergest, and Other Ancient Welsh Manuscripts*, Charlotte Guest, Volume III, 1849, [p346-389](https://archive.org/details/mabinogionfroml01mabigoog/page/n366/mode/2up):
+
+IN times past there lived in Penllyn a man of gentle lineage, named Tegid Voel, and his dwelling was in the midst of the lake Tegid, aud his wife was called Caridwen. And there was born to him of his wife a son named Morvran ab Tegid., and also a daughter named Creirwy, the fairest maiden in the world was she; aud they had a brother, the most ill-favoured man in the world, Avagddu. Now Caridwen his mother thought that he was not likely to be admitted among men of noble birth, by reason of his ugliness, unless he had some exalted merits or knowledge. For it was in the beginning of Arthur's time and of the Round Table.
+
+So she resolved according to the arts of the books of the Fferyllt, to boil a cauldron of Inspiration and Science for her son, that his reception might be honourable because of his knowledge of the-mysteries of the future state of tbe world.
+
+Then she began to boil the cauldron, which from the beginning of its boiling might not cease to boil for a year and a day, until three blessed drops were obtained of the grace of inspiration.
+
+And she put Gwion Bach the son of Gwreang of Llanfair in Caereinion, in Powys, to stir the cauldron, and a blind man named Morda to kindle the fire beneath it, and she charged them that they should not suffer it to cease boiling for the space of a year and a day. And she herself, according to the books of the astronomers, and in planetary hours, gathered every day of all charm-bearing herbs. And one day, towards the end of the year, as Caridwen was culling plants and making incantations, it chanced that three drops of the charmed liquor flew out of the cauldron and fell upon the finger of Gwion Bach. And by reason of their great heat he put his finger to his mouth, and the instant he put those marvel-working drops into his mouth, he foresaw every thing that was to come, and perceived that his chief care must be to guard against the wiles of Caridwen, for vast was her skill. And in very great fear he fled towards his own land. And the cauldron burst in two, because all the liquor vrithin it except the three charm-bearing drops was poisonous, so that the horses of Gwyddno Garanhir were poisoned by the water of the stream into which the liquor of the cauldron ran, and the confluence of that stream was called the Poison of the Horses of Gwyddno from that time forth.
+
+Thereupon came in Caridwen and saw all the toil of the whole year lost And she seized a billet of wood and struck the blind Morda on the head until one of his eyes fell out upon his cheek. And he said, " Wrongfully hast thou disfigured me, for I am innocent. Thy loss was not because of me." "Thou speakest truth," said Caridwen, "it was Gwion Bach who robbed me."
+
+And she went forth after him, running. And be saw her, and changed himself into a hare and fled. But she changed herself into a greyhound and turned him. And he ran towards a river, and became a fish. And she in the form of an otter-bitch chased him under the water, until he was fain to turn himself into a bird of the air. Then she, as a hawk, followed him and gave him no rest in the sky. And just as she was about to stoop upon him, and he was in fear of death, he espied a heap of winnowed wheat on the floor of a barn, and he dropped amongst the wheat, and turned himself into one of the grains. Then she transformed herself into a high-crested black hen, and went to the wheat and scratched it with her feet, and found him out and swallowed him. And, as the story says, she bore him nine months, and when she was delivered of him, she could not find it in her heart to kill him, by reason of his beauty. So she wrapped him in a leathern bag, and cast him into the sea to the mercy of God, on the twenty-ninth day of April.
+
+And at that time the weir of Gwyddno was on the strand between Dyvi and Aberystwyth, near to his own castle, and the value of an hundred pounds was taken in that weir every May eve. And in those days Gwyddno had an only son named Elphin, the most hapless of youths, and the most needy. And it grieved his father sore, for he thought that he was born in an evil hour. And by the advice of his council, his father had granted him the drawing of the weir that year, to see if good luck would ever befal him, and to giye him something wherewith to begin the world.
+
+And the next day, when Elphin went to look, there was nothing in the weir. But as he turned back he perceived the leathern bag upon a pole of the weir. Then said one of the weir-ward unto Elphin, "Thou wast never unlucky until to-night, and now thou hast destroyed the virtues of the weir, which always yielded the value of an hundred pounds every May eve, and to-night there is nothing but this leathern skin within it." "How now," said Elphin, "there may be therein the value of an hundred pounds." Well! they took up the leathern bag, and he who opened it saw the forehead of the boy, and said to Elphin, "Behold a radiant brow!" "Taliesin be he called," said Elphin. And he lifted the boy in his arms, and lamenting his mischance, he placed him sorrowfully behind him. And he made his horse amble gently, that before had been trotting, and he carried him as softly as if he had been sitting in the easiest chair in the world. And presently the boy made a Consolation and praise to Elphin, and foretold honour to Elphin; and the Consolation was as you may see,
+
+
+"Fair Elphin cease to lament !  
+Let no one be dissatafied with his own.  
+To despair will bring no advantage.  
+No man sees what supports him;  
+The prayer of Clynllo will not be in vain;  
+God will not violate his promise.  
+Never in Gwyddno's weir  
+Was there snch good luck as this night  
+Fair Elphin, dry thy cheeks !  
+Being too sad will not avail,  
+Although thou thinkest thou hast no gain  
+Too much grief will bring thee no good ;  
+Nor doubt the miracles of the Almighty:  
+Although I am but little, I am highly gifted.  
+From seas, and from mountains.  
+And from the depths of rivers,  
+God brings wealth to the fortunate man.  
+Elphin of lively qualities.  
+Thy resolution is unmanly ;  
+Thou must not be over sorrowful :  
+Better to trust in God than to forbode ill.  
+Weak and small as I am.  
+On the foaming beach of the ocean.  
+In the day of trouble, I shall be  
+Of more service to thee than 900 salmon.  
+Elphin of notable qualities.  
+Be not displeased at thy misfortune ;  
+Although reclined thus weak in my bag.  
+There lies a virtue in my tongue.  
+While I continue thy protector  
+Thou hast not much to fear ;  
+Remembering the names of the Trinity,  
+None shall be able to harm thee."
+
+And this was the first poem that Taliesin ever sang, being to console Elphin in his grief for that the produce of the weir was lost, and, what was worst that all the world would consider that it was through his fault and ill-luck. And then Gwyddno Garanhir `[This should be Elphin son of Gwyddno, see page 326.]` asked him what he was, whether man or spirit. Whereupon he sang this tale, and said,
+
+"First, I have been formed a comely person,  
+In the court of Caridwen I have done penance ;  
+Though little I was seen, placidly received,  
+I was great on the floor of the place to where I was led;  
+I have been a prized defence, the sweet muse the cause,  
+And by law without speech I have been liberated  
+By a smiling black old hag, when irritated  
+Dreadful her claim when pursued:  
+I have fled with vigour, I have fled as a frog,  
+I have fled in the semblance of a crow, scarcely finding rest ;  
+I have fled vehemently, I have fled as a chain,  
+I have fled as a roe into an entangled thicket;  
+I have fled as a wolf cub, I have fled as a wolf in a wilderness,  
+I have fled as a thrush of portending language;  
+I have fled as a fox, used to concurrent bounds of quirks;  
+I have fled as a martin, which did not avail:  
+I have fled as a squirrel, that vainly hides,  
+I have fled as a stages antler, of ruddy course,  
+I have fled as iron in a glowing fire,  
+I have fled as a spear-head, of woe to such as has a wish for it;  
+I have fled as a fierce bull bitterly fighting,  
+I have fled as a bristly boar soon in a ravine,  
+I have fled as a white grain of pure wheat,  
+On the skirt of a hempen sheet entangled,  
+That seemed of the size of a mare's foal,  
+That is filling like a ship on the waters ;  
+Into a dark leathern bag I was thrown,  
+And on a boundless sea I was sent adrift;  
+Which was to me an omen of being tenderly nnrsed.  
+And the Lord God then set me at liberty."
+
+Then came Elphin to the house or court of Gwyddno his father, and Taliesin with him. And Gwyddno asked him if he had had a good haul at the weir, and he told him that he had got that which was better than fish. "What was that?" said Gwyddno. "A Bard," answered Elphin. Then said Gwyddno, "Alas, what will he profit thee!" And Taliesin himself replied and said, "He will profit him more than the weir ever profited thee." Asked Gwyddno, "Art thou able to speak, and thou so little ?" And Taliesm answered him, "I am better able to speak than thou to question me." " Let me hear what thou canst say," quoth Gwyddno. Then Taliesin sang, —
+
+"In water there is a quality endowed with a blessing;  
+On God it is most just to meditate aright;  
+To God it is proper to supplicate with seriousness,  
+Since no obstacle can there be to obtain a reward from him.  
+Three times have I been born, I know by meditation;  
+It were miserable for a person not to come and obtain  
+All the sciences of the world, collected together in my breast,  
+For I know what has been, what in future will occur.  
+I will supplicate my Lord that I got refuge in him,  
+A regard I may obtain in his grace;  
+The Son of mary is my trust, great in him is my delight,  
+For in him is the world continuallu upholden.  
+God has been to instruct me and to raise my expectation,  
+The true Creator of heaven, wbo affords me protection;  
+It is rightly intended that the saints should daily pray,  
+For God, the renovator, will bring them to him."
+
+And forthwith Elphin gave his haul to his wife, and she nursed him tenderly and lovingly. Thenceforward Elphin encreased in riches more and more day after day, and in love and favour with the king, and there abode Taliesin until he was thirteen years old, when Elphin son of Gwyddno went by a Christmas invitation to his uncle, Maelgwn Gwynedd, who sometime after this held open court at Christmas-tide in the castle of Dyganwy, for all the number of his lords of both degrees, both spiritual and temporal, with a vast and thronged host of knights and squires. And amongst them there arose a discourse and discussion. And thus was it said.
+
+"Is there in the whole world a king so great as Maelgwn, or one on whom Heaven has bestowed so many spiritual gifts as upon him? First, form, and beauty, and meekness, and strength, besides all the powers of the soul?" And together with these they said that Heaven had given one gift that exceeded all the others, which was the beauty, and comeliness, and grace, and wisdom, and modesty of his queen; whose virtues surpassed those of all the ladies and noble maidens through- out the whole kingdom. And with this they put questions one to another amongst themselves. Who had braver men? Who had fairer or swifter horses or greyhounds? Who had more skilful or wiser bards — than Maelgwn?
+
+Now at that time the bards were in great favour with the exalted of the kingdom; and then none performed the office of those who are now called heralds, unless they were learned men, not only expert in the service of kings and princes, but studious and well versed in the lineage, and arms, and exploits of princes and kings, and in discussions concerning foreign kingdoms, and the ancient things of this kingdom, and chiefly in the annals of the first nobles; and also were prepared always with their answers in various languages, Latin, French, Welsh, and English. And together with this they were great chroniclers, and recorders, and skilful in framing verses, and ready in making englyns in every one of these languages. Now of these there were at that feast within the palace of Mae gwn as many as four and twenty, and . chief of them all, was one named Heinin Vardd.
+
+When they had all made an end of thus praising the king and his gifts, it befel that Elphin spoke on this wise. "Of a truth none but a king may vie with a king; but were he not a king, I would say that my wife was as virtuous as any lady in the kingdom, and also that I have a bard who is more skilful than all the king's bards." In a short space some of his fellows shewed the king all the boastings of Elphin; and the king ordered him to be thrown into a strong prison, until be might know the truth as to the virtues of his, wife, and the wisdom of his bard.
+
+Now when Elphin had been put in a tower of the castle, with a thick chain about his feet, (it is said that it was a silver chain, because he was of royal blood;) the king, as the story relates, sent his son Rhun to enquire into the demeanour of Elphin's wife. Now Rhun was the most graceless man in the world, and there was neither wife nor maiden with whom he had held converse, but was evil spoken of. While Rhun went in haste towards Elphin's dwelling, being fully minded to bring disgrace upon his wife, Taliesin told his mistress how that the king had placed his master in durance in prison, and how that Rhun was coming in haste ta strive to bring disgrace upon her. Wherefore he caused his mistress to array one of the maids of her kitchen in her apparel ; which the noble lady gladly did; and she loaded her hands with the best rings that she and her husband possessed.
+
+In this guise Taliesin caused his mistress to put the maiden to sit at the board in her room at supper, and he made her to seem as her mistress, and the mistress to seem as the maid. And when they were in due time seated at their supper in the manner that has been said, Rhun suddenly arrived at Elphin's dwelling, and was received with joy, for all the servants knew him plainly; and they brought him in haste to the room of their mistress, in the semblance of whom the maid rose up from supper and welcomed him gladly. And afterwards she sat down to supper again the second time, and Rhun with her. Then Rhun began jesting with the maid, who still kept the semblance of her mistress. And verily this story shews that the maiden became so intoxicated, that she fell asleep; and the story relates that it was a powder that Rhun put into the drink, that made her sleep so soundly that she never felt it when he cut from off her hand her little finger, whereon was the signet ring of Elphin, which he had sent to his wife as a token, a short time before. And Rhun returned to the king with the finger and the ring as a proof to shew that he had cut it from off her hand, without her awaking from her sleep of intemperance.
+
+The king rejoiced greatly at these tidings, and he sent for his councillors, to whom he told the whole story from the beginning. And he caused Elphin to be brought out of his prison, and he chided him because of his boast. And he spake unto Elphin on this wise. "Elphin, be it known to thee beyond a doubt that it is but folly for a man to trust in the virtues of his wife further than he can see her; and that thou mayest be certain of thy wife's vileness, behold her finger, with thy signet ring upon it, which was cut from her hand last night, while she slept the sleep of intoxication." Then thus spake Elphin. "With thy leave, mighty king, I cannot deny my ring, for it is known of many; but verily I assert strongly that the finger around which it is, was never attached to the hand of my wife, for in truth and certainty there are three notable things pertaining to it, none of which ever belonged to any of my wife's fingers. The first of the three is, that it is certain, by your grace's leave, that wheresoever my wife is at this present hour, whether sitting, or standing, or lying down, this ring would never remain upon her thumb, whereas you can plainly see that it was hard to draw it over the joint of the little finger of the hand whence this was cut; the second thing is, that my wife has never let pass one Saturday since I have known her without paring her nails before going to bed, and you can see fully that the nail of this little finger has not been pared for a month. The third is, truly, that the hand whence this finger came was kneading rye dough within three days before the finger was cut therefrom, and I can assure your goodness that my wife has never kneaded rye dough since my wife she has been."
+
+Then the king was mightily wrath with Elphin for so stoutly withstanding him, respecting the goodness of his wife, wherefore he ordered him to his prison a second time, saying that he should not be loosed thence until he had proved the truth of his boast, as well concerning the wisdom of his bard as the virtues of his wife.
+
+In the meantime his wife and Taliesin remained joyful at Elphin's dwelling. And Taliesin shewed his mistress how that Elphin was in prison because of them, but he bade her be glad for that he would go to Maelgwn's court to free his master. Then she asked him in what manner he would set him free. And he answered her—
+
+A journey I will perform,  
+And to the gate I will come;  
+The hall I will enter,  
+And my song I will sing;  
+My speech I will pronounce  
+To silence royal bards.  
+In presence of their chief,  
+I will greet to deride,  
+Upon them I will break  
+And Elphin I will free.  
+Should contention arise,  
+In presence of the prince,  
+With summons to the bards,  
+For the sweet flowing song,  
+And wizards' posing lore,  
+And wisdom of Druids.  
+In the court of the sons of the distributor  
+Some are who did appear  
+Intent on wily schemes,  
+By craft and tricking means,  
+In pangs of affliction  
+To wrong the innocent,  
+Let the fools be silent,  
+As erst in Baden's fight—  
+With Arthur of liberal ones,  
+The head, with long red blades,  
+Through feats of testy men,  
+And a chief with his foes.  
+Woe be to them, the fools,  
+When revenge comes on them.  
+I Taliesin, chief of bards,  
+With a sapient druid's words,  
+Will set kind Elphin free,  
+From haughty tyrant's bonds.  
+To their fell and chilling cry,  
+By the act of a surprising steed.  
+From the far distant North,  
+There soon shall be an end.  
+Let neither grace nor health  
+Be to Maelgwn Gwynedd,  
+For this force and this wrong;  
+And be extremes of ills  
+And an avenged end  
+To Rhun and all his race :  
+Short be his coarse of life,  
+Be all his lands laid waste ;  
+And long exile be assigned  
+To Maelgwn Gwynedd !"
+
+After this he took leave of his mistress, and came at last to the court of Maelgwn, who was going to sit in his hall and dine in his royal state, as it was the eastern in those days for kings and. princes to do at every chief feast. And as soon as Taliesin entered the hall, he placed him- self in a quiet comer, near the place where the bards and the minstrels were wont to come to in doing their service and duty to the king, as is the custom at the high festivals when the bounty is proclaimed. And so, when the bards and the heralds came to cry largess and to proclaim the power of the king and his strength, at the moment that they passed by the corner wherein he was crouching, Taliesin pouted out his lips after them, and played "Blerwm, blerwm" with hia finger upon his lips. Neither took they much notice of him as they went by, but proceeded forward till they came before the king, unto whom they made their obeisance with their bodies, as they were wont, without speaking a single word, but pouting out their lips, and making mouths at the king, playing "Blerwm, blerwm," upon their lips with their fingers, as they had seen the boy do elsewhere. This sight caused the king to wonder and to deem within himself that they were drunk with many liquors. Wherefore he commanded one of his lords, who served at the board, to go to them and desire them to collect their wits, and to consider where they stood, and what it was fitting for them to do. And this lord did so gladly. But they ceased not from their folly any more than before. Whereupon he sent to them a second time, and a third, desiring them to go forth from the hall. At the last the king ordered one of his squires to give a blow to the chief of them named Heinin Vardd; and the squire took a broom, and struck him on the head, so that he fell back in his seat. Then he arose and went on his knees, and besought leave of the king's grace to show that this their fault was not through want of knowledge, neither through drunkenness, but by the influence of some spirit that was in the hall. And after this Heinin spoke on this wise. "Oh honourable king, be it known to your grace, that not from the strength of drink, or of too much liquor, are we dumb, without power of speech like drunken men, but through the influence of a spirit that sits in the corner yonder in the form of a child." Forthwith the king commanded the squire to fetch him ; and he went to the nook where Taliesin sat, and brought him before the king, who asked him what he was, and whence he came. And he answered the king in verse.
+
+"Primary chief bard am I to Elphin,  
+And my original country is the region of the summer stars ;  
+Idno and Heinin caUed me Merddin,  
+At length every king will call me Taliesin.
+
+I was with my Lord in the highest sphere,  
+On the fall of Lucifer into the depth of hell :  
+I have borne a banner before Alexander ;  
+I know the names of the stars from north to south;  
+I have been on the galaxy at the throne of the Distributor ;  
+I was in Canaan when Absalom was slain ;  
+I conveyed the divine Spirit to the level of the vale of Hebron ;  
+I was in the court of Don before the birth of Gwdion.  
+I was instructor to Eli and Enoc ;  
+I have been winged by the genius of the splendid crosier ;  
+I have been loquacious prior to being gifted with speech ;  
+I was at the place of the crucifixion of the merciful Son of God;  
+I have been three periods in the prison of Arianrod ;  
+I have been the chief director of the work of the tower of Nimrod;  
+I am a wonder whose origin is not known.
+
+I have been in Asia with Noah in the ark,  
+I have seen the destructicm of Sodom and Gomorra ;  
+I have been in India when Roma was built,  
+I am now come here to the remnant of Troia.
+
+I have been with mj Lord in the manger of the ass;  
+I strengthened Moss through the water of Jordan ;  
+I have been in the firmament with Mary Magdalene ;  
+I have obtained the muse from the cauldron of Ceridwen ;  
+I have been bard of the harp to Lleon of Lochlin.  
+I have been on the White Hill, in the court of Cynvelyn,  
+For a day and a year in stocks and fetters,  
+I have suffered hanger for the Son of the Virgin.  
+I have been fostered in the land of the Deity,  
+I have been teacher to all intelligences,  
+I am able to instruct the whole universe.  
+I shall be until the day of doom on the face of the earth ;  
+And it is not known whether my body is flesh or fish.
+
+Then I was for nine months  
+In the womb of the hag Caridwen ;  
+I was originally little Gwion,  
+And at length I am Taliesin."
+
+And when the king and his nobles had heard the song, they wondered much, for they had never heard the like from a boy so young as he. And when the king knew that he was the bard of Elphin, he bade Heinin, his first and wisest bard, to answer Taliesin and to strive with him. But when he came, he could do no other, but play "blerwm" on his lips; and when he sent for the others of the four and twenty bards, they all did likewise, and could do no other. And Maelgwn asked the boy Taliesin what was his errand, and he answered him in song.
+
+TO DO p375-9
+
+And while he was thus singing his verse near the door, there arose a mighty storm of wind, so that the king and all his nobles thought that the castle would fall upon their heads. And the king caused them to fetch Elphin in haste from his dungeon, and placed him before Taliesin. And it is said, that immediately he sang a verse, so that the chains opened from about his feet
+
+TO DO p380-3
+
+Taliesin having set his master free from prison, and having protected the innocence of his wife, and silenced the Bards so that not one of them dared to say a word, now brought Elphin's wife before them, and shewed that she bad not one finger wanting. Right glad was Elphin, right glad was Taliesin.
+
+Then he bade Elphin wager the king, that he had a horse both better and swifter than the king's horses. And this Elphin did, and the day, and the time, and the place were fixed, and the place was that which at this day is called Morva Rhiannedd ; and thither the king went with all his people, and four and twenty of the swiftest horses he posseaaed. And after a long process the course was marked, and the horses were placed for running. Then came Taliesin with four and twenty twigs of holly, which he had burnt black, and he caused the youth who was to ride his master's horse to place them in his belt, and he gave him orders to let all the king's horses get before him, and as he should overtake one horse after the other, to take one of the twigs and strike the horse with it over the crupper, and then let that twig fall; and after that to take another twig; and do in like manner to every one of the horses; as he should overtake them, enjoining the horseman strictly to watch when his own horse should stumble, and to throw down his cap on the spot. All these things did the youth fulfil, giving a blow to every one of the king's horses, and throwing down his cap on the spot where his horse stumbled. And to this spot Taliesin brought his master after his horse had won the race. And he caused Elphin to put workmen to dig a hole there; and when they had dug the ground deep enough, they found a large cauldron full of gold. And then said Taliesin, "Elphin, behold a payment and reward unto thee, for having taken me out of the weir, and for having reared me from that time until now." And on this spot stands a pool of water, which is to this time called Pwllbair.
+
+After all this, the king caused Taliesin to be brought before him, and he asked him to recite concerning the creation of man from the beginning; and thereupon he made the poem which is now called "One of the four pillars of song."
+
+TO DO p385-9
+
+He further told the king various prophecies of things that should be in the world, in songs, as follows.
+
+
+Notes pp390-400
+
+Taliesin, literally, the "Radiant Brow," was a Welsh Bard of the sixth century. His name, regarded hy his countrymen with the reverence due to the " Prince of Song" is known to the Saxon chiefly through the brief but spirited inrocation of Gray.
+
+The text records the fiction of which Taliesin is the hero. Of his real history, little is known excepting what may he gleaned from his works, and from the following notices given in the volume of Iolo MSS. recently published by the Welsh MSS. Society. The first of these latter is taken from Anthony Powel of Llwydarth's MS.
+
+"Taliesin, chief of the Bards, the son of Saint Henwg of Caerlleon upon Usk, was invited to the court of Urien Rheged, at Aberllychwr. He, with Elffin, the son of Urien, being once fishing at sea in a skin coracle, an Irish pirate ship seized him and his coracle, and bore him away towards Ireland ; but while the pirates were at the height of their drunken mirth, Taliesin pushed his coracle to the sea, and got into it himself, with a shield in his hand which he found in the ship, and with which he rowed the coracle until it verged the land ; but, the waves breaking then in wild foam, he lost his hold on the shield, so that he had no alternative but to be driven at the mercy of the sea, in which state he continued for a short time, when the coracle stuck to the point of a pole in the weir of Gwyddno, Lord of Ceredigion, in Aberdyri ; and in that position he was found, at the ebb, by Gwyddno's fishermen, by whom he was interrogated ; and when it was ascertained that he was a bard, and the tutor of Elffin, the son of Urien Rheged, the son of Cynvarch : — " I, too, have a son named Elffin," said Gwyddno, " be thou a bard and teacher to him, also, and I will give thee lands in free tenure." The terms were accepted ; and, for several successive years, he spent his time between the courts of Urien Rheged and Gwyddno, called Gwyddno Garanhir, Lord of the Lowland Centred : but after the territory of Gwyddno had become overwhelmed by the see, Taliesin was invited by the Emperor Arthur, to his court at Caerlleon upon Usk, where he became highly celebrated for poetic genius and useful, meritorious sciences. After Arthur's death, he retired to the estate given to him by Gwyddno, taking Elffin, the son of that prince, under his protection. — It was from this account that Thomas, the son of Einion Offeiriad, descended from Gruffydd Gwyr, formed his romance of Taliesin, the son of Cariadwen, — Elffin, the son of Goddnou, — Rhun the son of Maelgwn Gwynedd, — and the operations of the Cauldron of Ceridwen."
+
+Next follows the Pedigree of Taliesin, Chief of the bards, from Thomas Hopkin of Coycburch's MS.—
+
+"Taliesin, Chief of the Bards of the West, the son of Saint Henwg, of Caerlleon upon Usk, the son of Fflwch, the son of Cynin, the son of Cynvarch, the son of Saint Clydawc, of Ewyas, the son of Gwynnar, the son of Caid, the son of Cadren, the son of Cynan, the son of Cyllin, the son of Caradog, the son of Bran, the son of Llyr Llediaith, King Paramount of all the Kings of Britain, and King, in lineal descent, of the country between the rivers Wye and Towy. Taliesin became Chief Bard of the West, from having been appointed to preside over the chair of the Round Table, at Caerlleon upon Usk."
+
+A manuscript once in the Havod Uchtryd collection gives the following particulars. —
+
+"Taliesin, Chief of the Bards of the West, the son of Henwg the Bard, of the college of Saint Cadocus, the son of Fflwch Lawdrwm, of Caerlleon upon Usk, in Glamorgan, the son of Cynvar, the son of Saint Clydog, the son of Gwynnar, the son of Cadrain, the son of Cynan, the son of Caradog, the son of Bran the Blessed, the son of Llyr Llediaith.
+
+Taliesin, Chief of the Bards, erected the church of Llanhenwg at Caerlleon upon Usk, which he dedicated to the memory of his father, called Saint Henwg, who went to Rome on a mission to Constantino the Blessed, requesting that he would send Saints Germanus and Lupus to Britain, to strengthen the faith, and renew baptism there.
+
+Taliesin, the son of Henwg, was taken by the wild Irish, who unjvustly occupied Gower ; but while on board ship on his way to Ireland, he saw a skin coracle, quite empty, on the surface of the sea, and it came closely to the side of the ship ; whereupon Taliesin, taking a skin-covered spar in his hand, leaped into it, and rowed towards land, until he stuck on a pole in the weir of Gwyddno Garanhir ; when a young chieftain, named Elphin seeing him so entangled, delivered him from his peril. This Elphin was taken for the son of Gwyddno ; although in reality, he was the son of Elivri his daughter, but by whom, was then quite unknown : it was howerer, afterwards discovered that Urien Rheged, King of Gower and Aberllychwr, was his father, who introduced him to the court of Arthur, at Caerlleon upon Usk; where his feats, learning, and endowments, were found to be so superior, that he was created a golden-tongued Knight of the Round Table.— After the death of Arthur, Taliesin became Chief Bard to Urien Rheged, at Aberllychwr in Rheged."
+
+TO DO p392
+
+p396
+
+Caridwen.— Page 352
+
+Caridwen is generally considered to be the Goddess of Nature of Welsh mythology. The principal circumstances of her fabulous history are those detailed in the Mabinogi of Taliesin. Upon them are founded most of the allusions to her contained in the poems of the bards, with whom the cauldron of Caridwen, of Inspiration, or the Awen, is a subject of frequent reference. As regards her singular family we have but little information and few details. Several notices, however, occur in Welsh writings of her fair daughter Creirwy. Of these it may be sufficient to instance the Triad —which celebrates her with Arianrod and Gwenn, verch Cywryd ab Crydon, as one of the three beauteous ladies of the island. `[Triad 107.]` One of the two Triads extant on the subject of Morvran has been already cited. (See p. 273.) It alludes to the extreme ugliness assigned him in the text, to which, nevertheless, he was indebted for the preservation of his life in the battle of Catalan ; the other ranks him with Gilbert mab Oadgyffro and Gwgan Gleddyvrudd, as one of the three stayers of slaughter `[Triad xxix.]`. No further particulars of him are preserved.
+
+
+Gwyddno Garanhir. —Page 354.
+Gwyddno Garanhir was Sovereign of Cantref y Gwaelod, a territory bordering on the sea, and protected from its ravages by a high embankment. One evening there was revelry at the Coart, and Seithenin, `[Seithinyn the Drunkard's mischance in letting the sea overflow the
+Cantrev y Gwaelod, is related in Triad xli.]` the son of Seithyn Saidi, King of Dyved, upon whom it devolved to look after the embankment, `[Traces of three ancient stone embankments are said to be still visible in the district where this inundation took place. They are called Sam Oynvelyn, Sara y Bwch, and Sara Padrig. " The latter is particularly conspicuous, being left dry at low water to the extent of about nine miles, and the sailors of the neighbouring ports describe its whole length to be twenty-one miles, beginning near Harlech, and running in a south-west direction." (Cambro-Briton, 1.362.) The Hanes Cymru contains some interesting remarks on this subject.]` and see that all was safe, became inebriated and neglected his charge. The consequence was that the sea broke in through the bank in the course of the night. Gwyddno and his Court escaped with difficulty from the impending ruin, and the Cantrev y Gwaelod was submerged and irretrievably lost. By this calamity sixteen fortified cities, the largest and finest that were in Wales, excepting only Caerlleon upon Usk, were entirely destroyed, and Cardigan Bay occupies the spot where the fertile plains of the Cantrev had been the habitation and support of a flourishing population. Such as escaped the inundation fled to Ardudwy, and the country of Arvon, and the mountains of Eryri (Snowdon), and other places not previously inhabited. By none was this misfortune more severely felt than by Gwyddno Garanhir, to whom the reverse of circumstances it occasioned was so great that, from being an opulent monarch, he was all at once reduced to the necessity of maintaining himself and his only son, the unfortunate Elphin, by the produce of the fishing-weir mentioned in the text.
+
+This disastrous event is commemorated in a proverb still repeated in the Principality. —
+
+"Uchenaid Gwyddno Garanhir,  
+Pan droes y don dros el dir."
+
+The sigh of Gwyddno Garanhir  
+When the waye rolled over his land.
+
+Then is aIso preserved in the Myrvian Archaiology, (I 165.) a short poem upon the subject attributed to Gwyddno Garanhir in which there are some exceedingly poetic and striking passages. The bereft monarch calls upon the author of his distress to view the calamitous effects of his intemperance, pronounces maledictions upon his head, and describes the outcry of the perishing inhabitanta of that unhappy region. The piece bears a strong resemblance to some of the Works of Llyrwarch Hèn, and is probably as old as the sixth century.
+
+"Stand forth Seithenin and behold the dwelling of heroes, — the plain of Gwyddno the ocean covers !  
+Accursed be the sea guard, who after his carousal let loose the destroying fountain of the raging deep.  
+Accursed be the watcher, who after his drunken revelry, loosed the fountain of the desolating sea.  
+A cry from the sea arises above the ramparts; even to heaven does it ascend, — after the fierce excess comes the long cessation!  
+A cry from the sea ascends above the ramparts ; even to heaven does the supplication come ! — after the excess then ensues restraint !  
+A cry from the sea awakens me this night ! —  
+A cry from the sea arisesabove the winds!  
+A cry from the sea impels me from my place of rest this night!  
+After excess comes the far extending death !"
+
+Another compositbn, attributed to him, is to be found in the same valuable collection. It is in the colloquial form, between himself and the king of Faerie, Gwyn ap Nudd.
+
+The magic basket of Gwyddno has a place amongst the Thirteen Precious Things of Britain. See Vol. II. 353.
+
+```
+
+A note in volume II itemises the rather splendid
+
+```{admonition} The thirteen precious things of the Island of Britain
+:class: dropdown
+
+In *The Mabinogion: From the Llyfr Coch O Hergest, and Other Ancient Welsh Manuscripts*, Charlotte Guest, Volume III, 1849, [p353-5](https://archive.org/details/mabinogionfroml02mabigoog/page/n377/mode/2up):
+
+The basket of Gwyddno Garanhir (Vol II, p. 293)
+
+The marvellous basket is reckoned amongst the thirteen precious things of the Island of Britain. In the following Catalogue of these treasures, which is copied from an old MS. in the Collection of Mr. Justice Bosanquet, its properties are, however, made to differ slightly from those assigned to it by Yspaddaden.
+
+...
+
+1. Dymwyn the sword of Rhydderch Hael ; if any man drew it except himself, it burst into a flame from the cross to the point, and all who asked it received it; but because of this property all shunned it : and therefore was he called Rhydderch Hael.
+
+2. The basket of Gwyddno Garanhir ; if food for one man were put into it, when opened it would be found to contain food for one hundred.
+
+3. The horn of Bran Galed ; what liquor soever was desired was found therein.
+
+4. The chariot of Morgan Mwynvawr ; whoever sat in it would be immediately wheresoever he wished.
+
+6. The halter of Clydno Eiddyn, which was in a staple below the feet of his bed ; and whatever horse he wished for in it, he would find it there.
+
+6. The knife of Llwfrodded Farchawg ; which would serve four and twenty men at meat all at once.
+
+7. The cauldron of Tyrnog ; if meat were put in it to boil for a coward it would never be boiled, but if meat were put in it for a brave man it would be boiled forthwith.
+
+8. The whetstone of Tudwal Tudclud ; if the sword of a braye man were sharpened thereon, and any one were wounded therewith, he would be sure to die, but if it were that of a coward that was sharpened on it, he would be none the worse.
+
+9. The garment of Padarn Beisrudd ; if a man of gentle birth put it on, it suited him well, but if a churl it would not fit him.
+
+10. 11. The pan and the platter of Rhegynydd Ysgolhaig; whatever food was required was found therein.
+
+12. The chessboard of Gwenddolen ; when the men were placed upon it, they would play of themselyes. The chessboard was of gold, and the men of silver.
+
+13. The mantle of Arthur ; whosoever was beneath it could see every thing, while no one could see him.
+
+This version is rather different from that given by Jones in his Welsh Bards, `[Jones, Welsg Bards, II p.47]` which omits the halter of Clydno Eiddyn, but adds the mantle of Tegau Eurvron, which would only fit such ladies as were perfectly correct in their conduct, and the ring of Luned, by which she effected the release of Owain the son of Urien, as has already been seen in the story of the Lady of the Fountain; whoever concealed the stone of this ring became invisible.
+
+Gwyddno Garanhir, the possessor of the basket, was the Prince of Cantref y Gwaelod, which was overflowed by the sea. This event will be detailed hereafter in the notes to another Mabinogi, where it is more particularly referred to.
+
+
+```
+
+```{admonition} Lady Charlotte Guest
+:class: seealso
+
+For more on the fascinating Lady Charlotte Guest (maiden name, Charlotte Schreiber) see for example [*Lady Charlotte Guest and the Mabinogion; some notes on the work and its translator, with extracts from her journals*](https://archive.org/details/ladycharlottegue00philrich/page/n11/mode/2up), David Rhys Phillips, 1923.
+
+```
+
+An earlier version can be found in the Cambrian and Caledonian Quarterly of 1833:
+
+```{admonition} Introduction, The Mabinogi of Taliesin, Cambrian and Caledonian Quarterly, April, 1833
+:class: dropdown
+
+In *The Cambrian and Caledonian Quarterly Magazine and Celtic Repertory*, 1833-04-01: Vol 3 Iss 18, [p198-214](https://archive.org/details/sim_the-cambrian-and-caledonian-quarterly-magazine_1833-04-01_3_18/page/198/mode/2up):
 
 THE MABINOGI OF TALIESIN.
 
@@ -22,8 +381,7 @@ That this species of composition prevailed in Wales for many centuries we are we
 
 It is not unlikely some romance based upon the history of Taliesin, similar to the one under consideration, may have been known at the period of the first Norman lords of Glamorgen, and the language, by the lapse of time, may have become too obsolete for the facile comprehension of all classes ; and Hopkin Thomas Phillip may have modernized the narrative prose, and given the best version of the poetry he could procure. This surmise is strengthened by the very numerous copies we possess of these poetical pieces, some of which greatly differ from each other, apparently taken down from oral delivery of the tale by various reciters, and which could not well occur if the composition was the entire work of a person so late as the conclusion of the fourteenth century. (The Gaelic sgeulachds, or scholia, which accompany the old Gaelic poems attributed to Ossian, and described as containing the achievements of Fingal, &c., appear to have been similar in composition to tales of this description. )
 
-Of the narrative part but one version exists, and therefore it requires no observation. Of the poetical portion, I have selected those readings which appeared to be the best, and admitted of the most consistent translation. Many of these poetical compositions have long been known and admired as most happy efforts in the Welsh language; and the author, though unknown, as it is not consistent with probability to attribute them to any person anterior to the twelfth century, nor so late as the close of the fourteenth, must rank high among those gifted men who have been the most successful votaries of the British *awen*, (poetical inspiration.) These pieces, beautiful as they are, we must arrange in their proper rank, reject them as historical documents, and discard them as the genuine compositions of Taliesin, the
-bard of Urien Reged and Rhun.
+Of the narrative part but one version exists, and therefore it requires no observation. Of the poetical portion, I have selected those readings which appeared to be the best, and admitted of the most consistent translation. Many of these poetical compositions have long been known and admired as most happy efforts in the Welsh language; and the author, though unknown, as it is not consistent with probability to attribute them to any person anterior to the twelfth century, nor so late as the close of the fourteenth, must rank high among those gifted men who have been the most successful votaries of the British *awen*, (poetical inspiration.) These pieces, beautiful as they are, we must arrange in their proper rank, reject them as historical documents, and discard them as the genuine compositions of Taliesin, the bard of Urien Reged and Rhun.
 
 The editors of the Myvyrian Archaiology were bound to give to the world all the pieces, whatever their origin, which were ascribed to the poets whose works were comprised in that collection, leaving it to the critic to elucidate the various styles, and pronounce upon the authenticity of the productions— this department was not within the scope of their undertaking, but it would afford a highly interesting inquiry, judiciously to investigate our ancient remains, as far as possible ascribe them to their proper era, and discriminate between the materials of sober history and splendid fiction.
 
@@ -32,6 +390,14 @@ With these introductory remarks, I enclose for your pages a translation of the M
 IDRISON.
 
 [A footnote in another article on p.250 reveals the identity of "IDRISON": *See also the transformations described in the Mabinogi of Taliesin, in the present Number, translated by Dr. Owen Pughe.— Edrs.*]
+
+```
+
+```{admonition} Part 1, The Mabinogi of Taliesin, Cambrian and Caledonian Quarterly, April, 1833
+:class: dropdown
+
+In *The Cambrian and Caledonian Quarterly Magazine and Celtic Repertory*, 1833-04-01: Vol 3 Iss 18, [p198-214](https://archive.org/details/sim_the-cambrian-and-caledonian-quarterly-magazine_1833-04-01_3_18/page/198/mode/2up):
+
 
 THE MABINOGI TALE OF TALIESIN.
 
@@ -45,7 +411,7 @@ So she began to boil the cauldron, the which, after it should be made to boil, c
 
 And on a certain day, as Keridwen was collecting herbs, and the end of the year drawing near, three drops of the pure water flew out of the cauldron, and lighted upon the finger of little Gwion: and, from its being so hot, at the instant he put those those precious drops into his mouth, and no sooner had he done so, than he obtained a knowledge of every thing that might occur in future : and he was thus forewarned that his principal care must be to avoid the wiles of Keridwen, for her inventive powers were great, and out of extreme fear he fled towards his own country ; and the cauldron was broken in two, because the whole of the steel was of a deleterious nature, except those three precious drops, and thus the steeds of Gwyddno Longshank were poisoned by drinking of the water from the brook into which the cauldron ran, and  therefore the brook thenceforth was called the poison of Gwyddno's horses. And thereupon Keridwen was observed returning home, and seeing her labour for a twelvemonth lost, she snatched up a billet, and struck the blind Morda upon his head, so that one of his eyes fell down his cheek ; whereupon he then said, "badly hast thou disfigured me, and I being innocent! thou hast suffered no loss on my account." "Thou hast spoken the truth," said Keridwen, " it was little Gwion that robbed me;" and so she followed him upon a run. And thereupon he observed her, and so he changed himself into the form of a hare, and ran off; then she also appeared as a hound bitch, doubled him, and turned him towards a river; and then he appeared as a fish, and she also in the form of an otter bitch, and pursued him under the water; so that he was compelled to appear as a bird in the air, and she as a hawk to pursue him, and so gave him no quiet in the air; and as she was overtaking him, and he having the fear of death upon him, he observed a heap of winnowed wheat on a barn floor, and so alighted into the wheat, and appeared in the form of one of the grains, and thereupon she also appeared as a black crested hen, and into the wheat she went, which, scratching with her feet, she recognized him, and swallowed him: and, as said in the narrative, she was nine months pregnant of him; and, after her delivery, she could not in her heart kill him, so beautiful he seemed, but she wrapped him in a leathern bag, and cast him to the will of man into the sea, on the 29th of April.
 
-And at that time Gwyddno had a wear on the sand between Dyvi and Aberystwyth, near to his own castle; and in that wear there was obtained to the value of a hundred pounds at every May eve. At that time, Gwyddno had one son, who was called Elphin, being one of the most untoward of youths, and suffering the createst privation, which was a cause of grief to his father, fearing that he was born in an evil hour: and through the advice of his counsellors, his father gave him the drought of the wear for that year, to see if ever any luck befel him, and to make a beginning of employment for him.
+And at that time Gwyddno had a wear on the sand between Dyvi and Aberystwyth, near to his own castle; and in that wear there was obtained to the value of a hundred pounds at every May eve. At that time, Gwyddno had one son, who was called Elphin, being one of the most untoward of youths, and suffering the greatest privation, which was a cause of grief to his father, fearing that he was born in an evil hour: and through the advice of his counsellors, his father gave him the drought of the wear for that year, to see if ever any luck befel him, and to make a beginning of employment for him.
 
 The following morning, as Elphin was examining the wear, and finding there was nothing in it, was going away, he discovered a leathern bag suspended from a pole of the wear; then one of the wear men said to Elphin, "Thou hast never been unfortunate before this night, for thou hast broken the virtues of the wear, wherein there used to be obtained the value of a hundred pounds on every May eve."
 
@@ -53,7 +419,7 @@ The following morning, as Elphin was examining the wear, and finding there was n
 
 The skin was untied, and the opener of it saw the forehead of a boy, and he exclaimed, "See, here is a fair front !"
 
-"Fair Front [i.e. Taliesin] let his name be," said Elphin, raising him up between his hands, bewailing his misfortune, and pensively placed him in a pannier on one of his horses, and at the instant he made the horse canter that only trotted before, thus conducting him so softly as if he were sitting in the easiest chair that possibly could be, and thus carrying the boy, composed the verses called "The Consolation of Elphin," with an eulogy, anda prophecy of honourable advancement to him; and the Consolation was the first song made by Taliesin, and which was to console Elphin on the way home as he sorrowed at the loss of the drought of the wear ; and above all he was concerned that the fault and misfortune were attributed to him. The Consolation was to this effect :
+"Fair Front [i.e. Taliesin] let his name be," said Elphin, raising him up between his hands, bewailing his misfortune, and pensively placed him in a pannier on one of his horses, and at the instant he made the horse canter that only trotted before, thus conducting him so softly as if he were sitting in the easiest chair that possibly could be, and thus carrying the boy, composed the verses called "The Consolation of Elphin," with an eulogy, and a prophecy of honourable advancement to him; and the Consolation was the first song made by Taliesin, and which was to console Elphin on the way home as he sorrowed at the loss of the drought of the wear ; and above all he was concerned that the fault and misfortune were attributed to him. The Consolation was to this effect :
 
 Fair Elphin cease to lament!  
 Let no one be dissatisfied with his own,  
@@ -178,15 +544,16 @@ So the time was now arrived for the bards or the heralds to proclaim the largess
 
 "Illustrious king, be it known to your grace, it is not from the effect of a profusion of liquors that we are dumb, and seem as drunken men, but through the impulse of a spirit sitting in yonder corner in the form of a child."
 
-From that spot the king commanded a 'squire to fetch him, and who went into the corner where Taliesin was sitting, and thence brought him into the presence of the king, who asked him what he was, and from whence he came. Then Taliesin answered him satirically, as is seen here.—
+From that spot the king commanded a 'squire to fetch him, and who went into the corner where Taliesin was sitting, and thence brought him into the presence of the king, who asked him what he was, and from whence he came. Then Taliesin answered him satirically, as is seen here.
 
 *To be continued.*
 
----
-https://archive.org/details/sim_the-cambrian-and-caledonian-quarterly-magazine_1833-07-01_3_19/page/366/mode/2up?q=taliesin
-The Cambrian and Caledonian Quarterly Magazine and Celtic Repertory  1833-07-01: Vol 3 Iss 19
-Publication date 1833-07-01
-p366-382
+```
+
+```{admonition} Part 2, The Mabinogi of Taliesin, Cambrian and Caledonian Quarterly, July, 1833
+:class: dropdown
+
+In *The Cambrian and Caledonian Quarterly Magazine and Celtic Repertory*, 1833-07-01: Vol 3 Iss 19, [p366-382](https://archive.org/details/sim_the-cambrian-and-caledonian-quarterly-magazine_1833-07-01_3_19/page/366/mode/2up:
 
 THE MABINOGI OF TALIESIN.
 ( Continued from the Cambrian Quarterly for April. )
@@ -292,461 +659,693 @@ June 1, 1833.
 
 IDRISON,
 
+```
+
+The cauldron of Caridwen is described in *The Misfortunes of Elphin* by Thomas Love Peacock ("the autor of healong Hall"), a historical romance inspired by early Welsh materials that had not heretofo been available in translation.
+
+```{admonition} The Cauldron of Ceridwen, Thmas Love Peacock, 1829
+:class: dropdown
+
+In *The Misfortunes of Elphin*, Thomas Love Peacock, 1829, [pp225-9](https://archive.org/details/misfortuneselph02peacgoog/page/n236/mode/2up)
+
+THE CAULDRON OF CERIDWEN.
+
+The sage Ceridwen was the wife  
+Of Tegid Voel, of Pemble Mere :  
+Two children blest their wedded life,  
+Morvran and Creirwy, fair and dear :
+
+Morvran, a son of peerless worth.  
+And Creirwy, loveliest nymph of earth  
+But one more son Ceridwen bare,  
+As foul as they before were fair.
+
+She strove to make Avagddu wise ;  
+She knew he never could be fair :  
+And, studying magic mysteries.  
+She gathered plants of virtue rare :  
+
+She placed the gifted plants to steep  
+Within the magic cauldron deep,  
+Where they a year and day must boil,  
+'Till three drops crown the matron's toil.
+
+Nine damsels raised the mystic flame ;  
+Gwion the Little near it stood :  
+The while for simples roved the dame  
+Through tangled dell and pathless wood.
+
+And, when the year and day had past  
+The dame within the cauldron cast  
+The consummating chaplet wild,  
+While Gwion held the hideous child.
+
+But from the cauldron rose a smoke  
+That filled with darkness all the air :  
+When through its folds the torchlight broke,  
+Nor Gwion, nor the boy, was there.
+The fire was dead, the cauldron cold,  
+And in it lay, in sleep uproUed,  
+Fair as the morning-star, a child,  
+That woke, and stretched its arms, and smiled.
+
+What chanced her labours to destroy,  
+She never knew ; and sought in vain  
+If 'twere her own misshapen boy,  
+Or little Gwion, born again :
+And, vext with doubt, the babe she roiled
+In cloth of purple and of gold,  
+And in a coracle consigned  
+Its fortunes to the sea and wind-
+
+The summer night was still and bright.  
+The summer moon was large and clear,  
+The frail bark, on the springtide's height,  
+Was floated into Elphin's weir.  
+The baby in his arms he raised :  
+His lovely spouse stood by, and gazed.  
+And, blessing it with gentle vow,  
+Cried " Taliesin !" " Radiant brow ! '
+
+And I am he : and well I know  
+Ceridwen'a power protects me still ;  
+And hence o'er hill and vale I go,  
+And sing, unharmed, whate*er I will.  
+She has for me Time's veil withdrawn :  
+The images of thnmgs long gone.  
+The shadows of the coming days,  
+Are present to my visioned gaze.
+
+And I have heard the words of power.  
+By Ceirion's solitary lake.  
+That bid, at midnight's thrilling hour,  
+Eryri's hundred echoes wake:  
+I to Diganwy's towers hare sped.  
+And now Gaer Lleon's halls I tread,  
+Demanding justice, now, as then,  
+From Maelgon, most unjust of men.
+
+```
+
+A review — taking the form rather more of an extended extract of the book — can be found in *The Cambrian and Caledonian Quarterly Magazine and Celtic Repertory* 1829-04-01: Vol 1 Iss 2, [p231-240](https://archive.org/details/sim_the-cambrian-and-caledonian-quarterly-magazine_1829-04-01_1_2/page/231/mode/1up). The selected extract describes Gwyddno Garanhir's lands and the loss of the embankments due to the of drunkard who was supposed to keep check on them.
+
+```{admonition} "The Inundation of the Sea Over the Plain of Gwaelo", in *The Misfortunes of Elphin*, 1829
+ :class: dropdown seealso
+ 
+In *The Cambrian and Caledonian Quarterly Magazine and Celtic Repertory* 1829-04-01: Vol 1 Iss 2, [p231-240](https://archive.org/details/sim_the-cambrian-and-caledonian-quarterly-magazine_1829-04-01_1_2/page/231/mode/1up):
+
+The Misfortunes of Elphin. By the Author of Headlong Hall. London, 1829. T. Hookham. 
+
+TO DO
+
+We regret exceedingly our inability, consistently with our limits, to do justice to the very interesting work before us. We must content ourselves with presenting, to such of our readers as may not have an opportunity of perusing the work itself, as general an account as possible ; at the same time such an one as may convey a to'erable idea of this ingenious publication, founded on the history, mythology, and romance of Cambria. 
+
+The author commences with a description of Cantre y Gwaelod in the beginning of the sixth century, under the sovereignty of Gwyddio Garanhir, king of Caredigion: 
+The most valuable portion of his dominions was the Great Plain of Gwaelod, an extensive tract of level land, stretching along that part of the sea-coast which now belongs to the counties of Merioneth and Cardigan. This district was populous and highly cultivated. 1t contained sixteen forti- lied towns, superior to all the towns and cities of the Cymry, excepting Caer Lieon upon Usk; and, like Caer Lleon, they bore in their architecture, their languaze, and their manners, vestiges of past intercourse with the Roman lords of the world. It contained also one of the three privileged ports of the isle of Britain, which was called the Port of Gwythno. This port, we may believe if we please, had not been unknown to the Phoenicians and Carthagi- nlans, when they visited the island for metal, accommodating the inhabitants, ii return, with luxuries which they would not otherwise have dreamed of, and which they could very well have done without; of course, in arranging the exchange of what they denominated equivalents, imposing on their sim- plicity, and taking advantage of their ignorance, according to the approved practice of civilised nations; which they called imparting the blessings of Phenician and Carthaginian light.
+
+An embankment of massy stone protected this lowland country from the sea, which was said, in traditions older than the embankment, to have, in oc- casional springtides, paid short but unwelcome visits to the interior inhabi- tants, and to have, by slow aggressions, eucroached considerably on the land. 'o prevent the repetition of the first of these inconveniences, and to check ‘ie progress of the second, the people of Gwaelod had built the stony rain- part, which had withstood the shock of the waves for centuries, when Gwythno began his reign.
+
+Gwythno, like other kings, found the business of governing too light a matter to fill up the vacancy of either his time or his head, and took to the more solid pursuits of harping and singing; not forgetting feasting, in which he was glorious; nor hunting, wherein he was mighty. [lis several pursuits 
+
+composed a very harmonious triad. The chace condueed to the good chee of the feast, and to the goog appetite which consumed it; the feast inspired the song; and the song gladdened the feast, and celebrated the chace. 
+
+Gwythno and his subjects went on together very happily. They had little to do with him but to pay him revenue, and he had little to do with them but to receive it. Now and then they were called on to fight for the protection of his sacred person, and for the privilege of paying revenue to him rather than to any of the kings in his vicinity, a privilege of which they were parti- cularly tenacious.
+
+Gwyddno had a palace built on the rocky banks of the Mawd- dach, just above the point where it quitted its native mountains, and entered the Plain of Gwaelod, partly through fear of the pro- pheey which haunted him at intervals, ‘‘ to beware of the oppres. sion of Gwen-hudiw," the white alluring one, used figuratively for the elemental power of the sea; and partly that he might enjoy, in this secluded spot, the pleasures of festal munificence, and expend his revenue in encouraging agriculture, by consuming a large quantity of produce, 
+
+While the king was thus enjoying himself, the superintendence of the coast was intrusted to Prince Seithenyn ap Seithyn Saidi, recorded in the triads as one of the three immortal drunkards of the isle of Britain. 
+
+Watchtowers were erected along the embankment, and watchmen were ap- pointed to guard against the first approaches of damage or decay. The whole of these towers, and their companies of guards, were subordinate to a central castle, which commanded the sea-port already mentioned, and wherein dwelt Prince Seithenyn ap Seithyn Saidi, who held the office of Arglwydd Gorar- cheidwad yr Argae Breninawl, which signifies, in English, Lord High Com- missioner of Royal Embankment; and he executed it as a personage so de- nominated might be expected to do: he drank the profits, and left the em- hankment to his deputies, who left it to their assistants, who left it to itself. 
+
+The condition of the head, ina composite as in a simple body, uffects the entire organization to the extremity of the tail, excepting that, as the tail im the figurative body usually receives the largest share in the distribution 0 punishment, and the smallest in the distribution of reward, it has the stronger stimulus to ward off evil, and the smaller supply of means to indulge in di- version; and it sometimes happens that one of the least regarded of the com- ponent parts of the said tail will, from a pure sense of duty, or an inveterate love of business, or an oppressive sense of ennui, or a development of thie organ of order, or some other equally cogent reason, cheerfully undergo all the care and labour, of which the honour and profit will redound to highet quarters. 
+: Such a component portion of the Gwaelod High Commission of Royal Embankment was Teithrinap Tathral, who had the charge of a watchtower where the embankment terminated at the point of Mochres, in the high lard of Ardudwy. Teithrin ke pt his portion of the embankment in exemplary condition, and paced with daily care the limits of his charge; but one day, by some accide nt, he Straye d beyond them, and observed symptoms of neglect that filled him with dismay. This circumstance induced him to proceed ul his wanderings brought him round to the embankment’s southern termination 
+
+in the high land of Caredigion. He met with abundant hospitality at we towers of his colleagues, and at the castle of Seithenyn: he was supposed to be walking for his amusement ; he was asked no questions, and he care fully abstained from asking any. He examined and observed in silence; and, when he had completed his observations, he hastened to the palace of Gwythno. 
+
+As Gwythno was engaged in composing an ode, Teithrin knew better than to interrupt him in his awen. He, therefore, resolved on paying a visit to the heir-apparent, Prince Elphin, whose mis- fortunes confer a title on this work. Elphin listened readily to the information of Teithrin ap Tathral, and the result was a determi- nation, on the part of the prince, to accompany the informer on a visit of remonstrance to Seithenyn, the Lord High Commissioner. 
+
+As they entered the great hall, which was already blazing with torchlight, they found his highness, and his highness’s household, convincing themselves and each other with wine and wassail, of the excellence of their system of virtual superintendence ; and the following jovial chorus broke on the ears of the visitors : 
+
+THE CIRCLING OF THE MEAD HORNS. 
+
+Fit. the blue horn, the blue buffalo horn :  
+Natural is mead in the buffalo horn : 
+As the cuckoo in spring, as the lark in the morn,  
+So natural is mead in the buffalo horn. 
+
+As the cup of the flower to the bee when he sips, 
+Is the full cup of mead to the true Briton’s lips:  
+From the flower-cups of summer, on field and on tree,  
+Our mead cups are filled by the vintager bee. 
+
+Seithenyn* ap § Seithyn, the generous, the bold, 
+Drinks ‘the wine of the stranger hom vessels of vold;]  
+But we from the horn, the blue silver-rimmed horn,  
+Drink the ale and the mead in our fields that were born. 
+
+The ale-froth is white, and the mead sparkles bright;  
+They both smile apart, and with smiles they unite  
+The mead from the flowe r; and the ale from the corn,  
+Smile, sparkle, and sing in the buffalo horn. 
+
+The horn, the blue horn, cannot stand on its tip ; 
+[ts path is right on from the hand to the lip: 
+Though the bow! and the wine-cup our tables adorn,  
+More natural the draught from the buffalo horn. 
+
+But Seithenyn ap Seithyn, the generous, the bold,  
+Drinks the bright-flowing wine from the fon-cleamine rgold  
+The wine, in the bowl by his lip that is worn, 
+Shall be glorious as mead in the buffalo horn. 
 
 
-----
-
-https://archive.org/details/sim_the-cambrian-and-caledonian-quarterly-magazine_1829-04-01_1_2/page/231/mode/1up?q=taliesin
-The Cambrian and Caledonian Quarterly Magazine and Celtic Repertory  1829-04-01: Vol 1 Iss 2
-Publication date 1829-04-01
-
-p231-240
-Book Review
-
-The Misfortunes of Elphin. By the Author of Headlong Hall. London, 1829. T. Hookham.
+* The accent is on the S¢ cond sylli ih le: Seithényn | Gwin ....0 eur... . ANEURIN, The mixture of ale and mead made bradawd, a favorite drink of the Ancient Britons. "©. Fl. : 
 
 
-https://archive.org/details/misfortuneselph02peacgoog/page/n236/mode/2up
-incl The Cauldron of Ceridwen
+The horns circle fast, but their fountains will last,  
+As the stream passes ever, and never is past:  
+Exhausted so quickly, replenished so soon, 
+They wax and they wane like the horns of the moon. 
 
-(which has Avagddu being the intended target of the gift)
+Fill high the blue horn, the blue buffalo horn ;  
+Fill high the long silver-rimmed buffalo horn :  
+While the roof of the hall by our chorus is torn,  
+Fill, fill to the brim, the deep silver-rimmed horn. 
 
----
+Elphin and Teithrin stood some time on the floor of the hall before they attracted the attention of Seithenyn, who, during the chorus, was tossing and flourishing his golden goblet. The chorus had scarcely ended when he noticed them, and immediately roared aloud, ‘* You are welcome all four." 
 
+Elphin answered, " We thank you: we are but two." 
 
-https://archive.org/details/misfortuneselph02peacgoog
-The misfortunes of Elphin, by the author of Headlong hall
-by Thomas Love Peacock
-Publication date 1829
+"Two or four," said Seithenyn, "all is one. You are welcome all. When a stranger enters, the custom in other places is to begin by washing his feet. My custom is, to begin by washing his throat. Seithenyn ap Seithyn Saidi bids you welcome."
 
-https://archive.org/details/cu31924013534155/page/n151/mode/2up?q=ceridwen
-The misfortunes of Elphin and Rhododaphne
-by Peacock, Thomas Love, 1785-1866; Saintsbury, George, 1845-1933
-Publication date 1897
+Elphin, taking the wine-cup, answered, " Elphin ap Gwythno Garanhir thanks you." 
+Seithenyn started up. He endeavoured to straighten himself into perpen- dicularity, and to stand steadily on his legs. Ile accomplished half his object by stiffening all his joints but those of his ancles, and from these the rest of his body vibrated upwards with the inflexibility of a bar. After thus oscillating for a time, like an inverted pendulum, fiading that the attention requisite to preserve his rigidity absorbed all he could collect of his dissipated energies, and that he required a portion of them for the management of his voice, which he felt a dizzy desire to wield with peculiar steadiness in the presence of the son of the king, he suddenly relaxed the muscles that perform the operation of sitting, and dropped into his chair like a plummet. He then, with a gracious gesticulation, invited Prince Elphin to take his seat on his right hand, and proceeded to compose himself into a dignified attitude, throwing his body back into the left corner of his chair, resting his left elbow on its arm and his left cheekbone on the middle of the back of his left hand, placing his lett foot on a footstool, and stretching out his right leg as straight and as far as his position allowed. He had thus his right hand at liberty, for the ornament of his eloquence and the conduct of his liquor. 
 
----
+Elphin seated himself at the right hand of Seithenyn. Teithrin remained at the end of the hall; on which Seithenyn exclaimed, "Come on, man, come on. What, if you be not the son of a king, you are the guest of Sei- thenyn ap Seithyn Saidi. The most honourable place to the most honourable guest, and the next most honourable place to the next most honourable guest; the least honourable guest above the most honourable inmate ; and, where there are but two guests, be the most honourable who he may, the least honourable of the two is next in honour to the most honourable of the two, because they are no more but two; and, where there are only two, there can be nothing between. ‘Therefore sit, and drink. Gwin o EUR: wine from gold." 
 
-https://archive.org/details/mabinogionfroml01mabigoog/page/n366/mode/2up?q=+taliesin
-The Mabinogion: From the Llyfr Coch O Hergest, and Other Ancient Welsh Manuscripts, with an ...
-by Charlotte Schreiber , Mabinogion
-Publication date 1849
-Vol 3
-[Charlotte Schreiber is Charlotte Guest? Includes Welsh version]
+The following conversation is worthy the attention of antiqua- rians, and all those who are prejudiced against modern improve ments : 
 
-p346-389
+"Prince Seithenyn," said Elphin, "I have visited you on a subject of  deep moment. Reports have been brought to me, that the embankment, which has been so long intrusted to your care, is in a state of dangerous decay." 
 
-IN times past there lived in Penllyn a man of gentle lineage, named Tegid Voel, and his dwelling was in the midst of the lake Tegid, aud his wife was called Caridwen. And there was born to him of his wife a son named Morvran ab Tegid., and also a daughter named Creirwy, the fairest maiden in the world was she; aud they had a brother, the most ill-favoured man in the world, Avagddu. Now Caridwen his mother thought that he was not likely to be admitted among men of noble birth, by reason of his ugliness, unless he had some exalted merits or knowledge. For it was in the beginning of Arthur's time and of the Round Table.
+"Decay," said Seithenyn " is one thing, and danger is another. Every thing that is old must decay. That the embankment ts old, I am free to confess; that it is somewhat rotten in parts, I will not altogether deny ; that it is any the worse for that, I do most sturdily gainsay. It does its business well : it works well: it keeps out the water from the land, and it lets in the wine upon the High Commission of Embankment. Cupbearer, fill, Our ancestors were wiser than we: they built it in their wisdom ; and, if we should be so rash as to try to mend it, we should only mar it."
 
-So she resolved according to the arts of the books of the Fferyllt, to boil a cauldron of Inspiration and Science for her son, that his reception might be honourable because of his knowledge of the-mysteries of the future state of tbe world.
+"The stonework," said Teithrin, "is sapped and mined: the piles are rotten, broken, and dislocated: the floodgates and sluices are leaky and creaky."
 
-Then she began to boil the cauldron, which from the beginning of its boiling might not cease to boil for a year and a day, until three blessed drops were obtained of the grace of inspiration.
+"That is the beauty of it," said Seithenyn. ‘ Some parts of it are rotten, and some parts of it are sound."
 
-And she put Gwion Bach the son of Gwreang of Llanfair in Caereinion, in Powys, to stir the cauldron, and a blind man named Morda to kindle the fire beneath it, and she charged them that they should not suffer it to cease boiling for the space of a year and a day. And she herself, according to the books of the astronomers, and in planetary hours, gathered every day of all charm-bearing herbs. And one day, towards the end of the year, as Caridwen was culling plants and making incantations, it chanced that three drops of the charmed liquor flew out of the cauldron and fell upon the finger of Gwion Bach. And by reason of their great heat he put his finger to his mouth, and the instant he put those marvel-working drops into his mouth, he foresaw every thing that was to come, and perceived that his chief care must be to guard against the wiles of Caridwen, for vast was her skill. And in very great fear he fled towards his own land. And the cauldron burst in two, because all the liquor vrithin it except the three charm-bearing drops was poisonous, so that the horses of Gwyddno Garanhir were poisoned by the water of the stream into which the liquor of the cauldron ran, and the confluence of that stream was called the Poison of the Horses of Gwyddno from that time forth.
+"Itis well," said Elphin, " that some parts are sound: it were better that all were so." 
+"So I have heard some people say before," said Seithenyn; " perverse people, blind to venerable antiquity: that very unamiable sort of people, who are in the habit of indulging their reason. But | say, the parts that are rotten give elasticity to those that are sound: they give them elasticity, elasti- city, elasticity. If it were all sound, it would break by its own obstinate stiffness; the soundness is checked by the rottenness, and the stiffness is ba- lanced by the elasticity. There is nothing so dangerous as innovation. See the waves in the equinoctial storms, dashing and clashing, roaring and pouring, spattering and battering, rattling and battling againstit. I would not be so presumptuous as to say, I could build any thing that would stand against them half an hour; and here this immortal old work, which God forbid the finger of modern mason should bring into jeopardy, this immortal work has stood for centuries, and will stand for centuries more, if we let it alone. [t is well: it works well: let well alone. Cupbearer, fill. It was half rotten when I was born, and that is a conclusive reason why it should be three parts rotten when I die." 
+The whole body of the High Commission roared approbation.
 
-Thereupon came in Caridwen and saw all the toil of the whole year lost And she seized a billet of wood and struck the blind Morda on the head until one of his eyes fell out upon his cheek. And he said, " Wrongfully hast thou disfigured me, for I am innocent. Thy loss was not because of me." "Thou speakest truth," said Caridwen, "it was Gwion Bach who robbed me."
+"And after all," said Seithenyn, " the worst that could happen would be the overflow of a springtide, for that was the worst that happened before the embankment was thought of; and, if the high-water should come in, as it did before, the low-water would go out again, as it did before. We should be no deeper in it than our ancestors were, and we could mend as easily as they could make."
 
-And she went forth after him, running. And be saw her, and changed himself into a hare and fled. But she changed herself into a greyhound and turned him. And he ran towards a river, and became a fish. And she in the form of an otter-bitch chased him under the water, until he was fain to turn himself into a bird of the air. Then she, as a hawk, followed him and gave him no rest in the sky. And just as she was about to stoop upon him, and he was in fear of death, he espied a heap of winnowed wheat on the floor of a barn, and he dropped amongst the wheat, and turned himself into one of the grains. Then she transformed herself into a high-crested black hen, and went to the wheat and scratched it with her feet, and found him out and swallowed him. And, as the story says, she bore him nine months, and when she was delivered of him, she could not find it in her heart to kill him, by reason of his beauty. So she wrapped him in a leathern bag, and cast him into the sea to the mercy of God, on the twenty-ninth day of April.
+"The level of the sea," said Teithrin, " is materially altered."
 
-And at that time the weir of Gwyddno was on the strand between Dyvi and Aberystwyth, near to his own castle, and the value of an hundred pounds was taken in that weir every May eve. And in those days Gwyddno had an only son named Elphin, the most hapless of youths, and the most needy. And it grieved his father sore, for he thought that he was born in an evil hour. And by the advice of his council, his father had granted him the drawing of the weir that year, to see if good luck would ever befal him, and to giye him something wherewith to begin the world.
+"The level of the sea!" exclaimed Seithenyn. ‘ Who ever heard of such a thing as altering the level of the sea? Alter the level of that bowl of wine before you, in which, as I sit here, I see a very ugly reflection of your very good-looking face. Alter the level of that; drink up the reflection ; let me see the face without the reflection, and leave the sea to level itself."
 
-And the next day, when Elphin went to look, there was nothing in the weir. But as he turned back he perceived the leathern bag upon a pole of the weir. Then said one of the weir-ward unto Elphin, "Thou wast never unlucky until to-night, and now thou hast destroyed the virtues of the weir, which always yielded the value of an hundred pounds every May eve, and to-night there is nothing but this leathern skin within it." "How now," said Elphin, "there may be therein the value of an hundred pounds." Well! they took up the leathern bag, and he who opened it saw the forehead of the boy, and said to Elphin, "Behold a radiant brow!" "Taliesin be he called," said Elphin. And he lifted the boy in his arms, and lamenting his mischance, he placed him sorrowfully behind him. And he made his horse amble gently, that before had been trotting, and he carried him as softly as if he had been sitting in the easiest chair in the world. And presently the boy made a Consolation and praise to Elphin, and foretold honour to Elphin; and the Consolation was as you may see,
+" Not to level the embankment," said Teithrin. 
+
+"Good, very good," said Seithenyn. " L love a smart saying, though 1 
 
 
-"Fair Elphin cease to lament !  
-Let no one be dissatafied with his own.  
+hits at me. But, whether yours is a smart saying or no, I do not very clearly see ; and, whether it hits at me or no, | do not very sensibly feel. But all is one. Cupbearer, fill." 
+At the conclusion of this scene, the effects of the continued draughts of wine, so ably supplied by his cupbearer, ruined all the devices of Seithenyn for the maintenance of his dignity ; and, in stooping forward from his chair, to regain possession of his fallen cup, he lost his balance, and fell prostrate on the floor. The tumult, occasioned by the simultaneous rising of the whole body of the High Commission to uplift their fallen chief, drew Angharad, the daughte: of Seithenyn, from her chamber. She grace fully sa: luted Prince Elphin, and directed the cu pbearers to lift up her father, and bear him from the hall. The cupbearers reeled off with their lord, who had already fallen asleep, and who now began to play them a pleasant march with his nose, to inspirit their pro- gression. Elphin gazed with delight on the ‘beautiful Angharad, whose gentle and serious loveliness contrasted so strikingly with the broke *n trophies and fallen herces of revelry that lay scattered at her feet. In this interval were heard the loud dashing of the sea and the blustering of the wind through the e apertures of the wall. It was one of those tempests which occur once in several centuries, and which, by their extensive devastations, are chronicled to eternity. 
+
+The old bard of the pal: ace, inspired by the awen, seized his harp, and mingled his voice and his music with the uproar of the elements. In this place we have a specimen of a numerous class of ancient Welsh poems, in which each stanza begins with a repe- tition of the predominant idea, and terminates w ith a proverb. The basis of the poem isin the Englynion of Llywarch Hén. We regret our limits will not allow us to insert more than the first stanza: 
+
+THE SONG OF THE FOUR WINDS. 
+
+Wind from the north: the young spring day  
+Is pleasant on the sunny mead ; 
+The merry harps at evening play ; ; 
+The dance gay youths and maidens lead: 
+The thrush makes chorus from the thorn :  
+The mighty drinker fills his horn. 
+
+The song is cut short by a tremendous crash: the sea breaks in; the tower, which had its foot in the sea, falls; the plain of Gwaelod is inundated ; Seithenyn leaps into the flood ; while his daughter, his visitors, his bard, and such of the bacchanalians as 
+
+are capable of locomotion, escape along the ridge of the embank- ment. 7 
+
+King Gwythno had feasted joyously, and had sung his new ode to a chosen party of his admiring subjects, amidst their, of course, enthusiastic applause. 
+
+
+He heard the storm raging without, as he laid himself down to rest: he thought it a very hard case for those who were out in it, especially on the sea: congratulated himself on his own much more comfortable condition ; and went to sleep witha pious reflection on the goodness of Providence to himself.
+
+He was roused from a pleasant dream by a confused and tumultuous dissonance, that mingled with the roar of the tempest. Rising with much re- luctance, and looking forth from his window, he beheld in the moonlight a half-naked multitude, larger than his palace thrice multiplied could have con- tained, pressing round the gates, and clamouring for admission and shelter ; while beyond them his eye fell on the phenomenon of stormy waters, rolling in the place of the fertile fields from which he derived his revenue. 
+
+Gwythno, though a king and his own laureate, was not without sympathy for the people who had the honour and happiness of victualling his royal house, and he issued forth on his balcony full of perplexities and alarms, stunned by the sudden sense of the half-understood calamity, and his head still dizzy from the effects of abruptly-broken sleep, and the vapours of the overnight’s glorious festival.
+
+Gwythno was altogether a reasonably good sort of person, and a poet of some note. His people were somewhat proud of him on the latter score, and very fond of him on the former; for even the tenth part of those homely virtues, that decorate the memories of * husbands kind and fathers dear" in every churchyard, are matters of plebeian admiration in the persons of royalty ; and every tangible point in every such virtue so located, becomes a convenient peg for the suspension of love and loyalty. While, therefore, they were unanimous in consigning the soul of Seithenyn to a place that no well-bred divine will name to a polite congregation, they overflowed, in the abundance of their own griefs, with a portion of sympathy for Gwythno, and saluted him, as he issued forth on his balcony, with a hearty Duw cadw y Brenin, or God save the King, which he returned with a benevolent wave of the hand; but they followed it up by an intense vociferation for food and lodging, which he received with a pitiful shake of the head. 
+
+Teithrin ap Tathral is despatched to the court of Uther Pendragon, to solicit such relief as his majesty might be pleased to offer to a king in distress; while Gwythno sits all day on the rocks, with his harp between his knees, watching the rolling of ocean over the locality of his past dominions, and pouring forth his soul in pathetic song on the change of his own condition, and the mutability of human things. The following is an extract from 
+
+one of those poems, which have been preserved by tradition : 
+
+THE SONG OF GWYTHNO ON THE INUNDATION OF THE SEA OVER THE PLAIN OF GWAELOD. GWYDDNAU EI CANT 
+
+PAN DDOAI Y MOR DROS CANTREV Y GWAELLAWD. 
+
+Stand forth, Seithenyn: winds are high:  
+Look down beneath the lowering sky ;  
+Look from the rock ; what meets thy sight  
+Nought but the breakers rolling white. 
+
+
+Stand forth, Seithenyn: winds are still: 
+Look from the rock and heathy hill 
+For Gwythno’s realin : what meets thy view  
+Nought but the ocean's desert blue. 
+
+Curst be the treacherous mound, that gave 
+A passage to the mining wave: 
+Curst be the cup, with mead-froth crowned,  
+That charmed from thought the trusted mound. 
+
+A tumult and a cry to heaven ! 
+‘The white surf breaks ; the mound ts riven :  
+Through the wide rift the ocean-spring  
+Bursts with tumultuous ravaging. 
+
+The western ocean’s stormy might 
+Is curling o’er the rampart’s height :  
+Destruction strikes with want and seorn  
+Presumption, from abundance born. 
+
+Elphin espouses Angharad, and constructs a salmon-weir on the Mawddach, where is found, in a coracle, a male child, who turns out to be the famous bard Taliesin. 
+
+Elphin, nevertheless, looked very dismal on finding no food and an ad ditional mouth ; so dismal, that his physiognomy on that occasion passed into a proverb: " As rueful as Elphin when he found Taliesin."
+
+In after years, Taliesin, being on the safe side of prophecy, and writing after the event, addressed a poem to Elphin, in the character of the foundling of the coracle, in which he supposes himself, at the moment of his discovery, to have addressed Elphin as follows : 
+
+DYHUDDIANT ELFFIN. THE CONSOLATION OF ELPHIN. 
+
+Lament not, Elphin: do not measure 
+By one brief hour thy loss or gain: 
+‘Thy weir tonight has borne a treasure, 
+Will more than pay thee years of pain. 
+St. Cynllo’s aid will not be vain : 
+Smooth thy bent brow, and cease to mourn ;  
+Thy weir will never bear again 
+Such wealth as it tonight has borne. 
+
+Two years after this event, Angharad presented Elphin with a daughter, whom they named Melanghel. The fishery prospered ; and the progress ol cultivation and population among the more fertile parts of the mountain dis- tricts brought in a little revenue to the old king. 
+Uther Pendragon and Gwythno, in due time, go the way of all flesh, Arthur reigns in Caer Lleon as king of the kings of Britain, while Maelgon Gwynedd reigns over that part of North Wales bordering on the kingdom of Elphin. 
+
+* Mor dnst ac Elfin pan gavodd Taliesin. 
+
+
+We wil! pass over the love scene between Taliesin and the Princess Sailnet, who entreats him to rescue her father from the castle of Diganwy, where he is imprisoned by Maelgon Gwynedd. We must leave the incarceration of Rhdn, heir- apparent to the throne of Gwynedd; we must leave King Arthur and his court, as well as many curious adventures, to be enjoyed over the perusal of the Misfortunes of Elphin. 
+
+But we cannot make up our minds to leave our old friend, Prince Seithenyn ap Seithyn, with his Gwin o EuR, without in- troducing him once more, in a resuscitated state, to the attention of our readers.
+
+"T cannot believe," said the stranger, "that a man whose favorite saying was Gwin o £uR could possibly be a disreputable person, or deserve any other than that honourable remembrance, which, you say, only one person is honest enough to entertain for him." 
+
+"His name," said Taliesin, "is too unhappily notorious throughout Britain, by the terrible catastrophe of which bis Gwin o EUR was the cause."
+
+"And what might that be ?" said the stranger.
+
+"The inundation of Gwaelod," said Taliesin. 
+
+"You speak then," said the stranger, taking an enormous potation, " of Seithenyn, Prince Seithenyn, Seithenyn ap Seithyn Saidi, Arglwydd Gorarcheidwad yr Argae Breninawl." 
+"T seldom hear his name," said Taliesin, "with any of those sounding additions : he is usually called Seithenyn the Drunkard." 
+
+The stranger goggled about his eyes in an attempt to fix them steadily on Taliesin, screwed up the corners of his mouth, stuck out his nether lip, pursed up his chin, thrust forward his right foot, and elevated his golden goblet in his nght hand ; then, in‘a tone which he intended to be strongly becoming of his 
+: . ° . " impressive aspect and imposing attitude, he muttered, " Look at me." | 
+Taliesin looked at him accordingly, with as much gravity as he could preserve. 
+Aftera silence, which he designed to be very dignified and solemn, the stranger spoke again: "I am the man."
+
+"What man?" said Taliesin.
+
+"The man," replied his entertainer, " of whom you have spoken so dispa- ragingly : Seithenyn ap Seithyn Saidi."
+
+"Seithenyn," said Taliesin, "has slept twenty years under the waters of the western sea, as King Gwythno’s lamentations have made known to all Britain."
+
+"They have not made it known to me," said Seithenyn, " for the best of all reasons, that one can only know the truth; for, if that which we think we know is not truth, it is something which we do not know. A man cannot know his own death; for, while he knows any thing, he is alive; at least, I never heard of a dead man who knew any thing, or pretended to know any ming if he had so pretended, I should have told him to his face he was no dead man." 
+
+" Your mode of reasoning," said Taliesin, " unquestionably corresponds with what I have heard of Seithenyn’s; but how is it possible Seithenyn can be living ?"
+
+"« Every thing that is, is possible, says Catog the Wise," answered Seithenyn, with a look of great sapience. "I will give you proof that I am nota dead man ; for, they say, dead men tell no tales: now I will tell you a tale, and a very interesting one it is.) When I saw the sea sapping the tower, [ jumped into the water, and just in the nick of time. It was well for me that] had been so provident as to empty so many barrels, and that somebody, I don’t know who, but I ape it was my daughter, had been so provident as to put the bungs into them, to keep them sweet; for the beauty of it was that, when there was so much water in the case, it kept them empty; and when | jumped into the sea, the sea was just making a great hole in the cellar, and they were floating out by dozens. I don’t know how I managed it, but I got one arm over one, and the other arm over another: I nipped them pretty tight; and, though my legs were under water, the good liquor I had in me kept me warm. I could not help thinking, as I had nothing else to think of just then that touched me so nearly, that if I had left them full, and myself empty, as a sober man would have done, we should all three, that is, I and the two barrels, have gone to the bottom together, that is to say, separately; for we should never have come together, except at the bottom, perhaps ; when no one of us could have done the other any good ; whereas they have done me much good, and I have requited it ; for, first, did them the service of emptying them ; and then they did me the service of floating me with the tide, whether the ebb, or the flood, or both, is more than I can tell, down to the coast of Dyfed, where [ was picked up by fishermen ; and, such was my sense of gratitude, that, though I had always before detested an empty barrel, exoept as a trophy, I swore | would not budge from the water unless my two barreis went with me; so we were all marched inland together, and were taken into the service of King Ednyfed, where I stayed till his castle was sacked, and his head cut off, and his beeves marched away with, by the fol- lowers of King Melvas, of whom I killed two or three; but they were too many for us; therefore, to make the best of a bad bargain, I followed leisurely in the train of the beeves, and presented myself to King Melvas, with this golden goblet, saying Gwin o EUR." 
+
+There are many other parts of this volume equally amusing with those we have selected, and not less interesting. The main inci- dents are derived from the triads, and the singular story of Hanes Talesin, in the Welsh Archaiology. But the author has suc- ceeded in rendering these valuable records of antiquity highly ac- ceptable, not only to natives of the Principality, but to the public in general. ‘To conclude, we recommend this work to our readers as the most entertaining book, if not the best, that has yet been published on the ancient customs and traditions of Wales. 
+
+```
+
+Another edited telling, this time from 1881:
+
+```{admonition} "Taliesin", in *The boy's Mabinogion*, Sidney Lanier (Editor), 1881
+:class: dropdown
+
+In *The boy's Mabinogion : being the earliest Welsh tales of King Arthur in the famous Red book of Hergest*, Sidney Lanier (Editor), 1881, [pp340-361](https://archive.org/details/boysmabinogionbe00lani/page/340/mode/2up):
+
+TALIESIN.
+
+`[' Taliesin is the greatest of Welsh poets, and is called by his countrymen " the Prince of Song." He be;ame bard at the court of King Arthur, and was one of the brightest in that glorious assemblage. The actual man Taliesin appears to have lived in the sixth century, and poems remain which are believed to be his genuine works. A curious story of his life appears among the publications of the Welsh Manuscript Society, which I give here as quoted by Lady Guest : —  
+
+" Taliesin, Chief of the Bards, the son of Saint Henwg of Caerlleon-upon-Usk, was invited to the court of Urien Rheged, at Aberllychwr. He, with Elffin the son of Urien, being once fishing at sea in a skin coracle, an Irish pirate-ship seized him and his coracle, and bore him away towards Ireland ; but while the pirates were at the height of their drunken mirth, Taliesin pushed his coracle to the sea, and got into it himself, with a shield in his hand which he found in the ship, and with which he rowed the coracle until it verged the land ; but, the waves breaking then in wild foam, he lost his hold on the shield, so that he had no alternative but to be driven at the mercy of the sea, in which state he continued for a short time, when the coracle stuck to the point of a pole in the weir of Gwyddno, Lord of Ceredigion, in Aberdyvi ; and in that position he was found, at the ebb, by Gwyddno's fishermen, by whom he was interrogated. And when it was ascertained that he was a bard, and the tutor of Elffin the son of Urien Rheged, the son of Cynvarch, 'I, too, have a son named Elfin,' said Gwyddno, 'be thou a bard and teacher to him also, and I will give thee lands in free tenure.' The terms were accepted, and for several successive years he spent bis time between the courts of Urien Rheged and Gwyddno, called Gwyddno Garanhir, Lord of the Lowland Cantied. But after the territory of Gwyddno had become overwhelmed by the sea, Taliesin was invited by the Emperor Arthur to his court at Caerlleon-upon-Usk, where he became. highly celebrated for poetic genius, and useful, meritorious sciences. After Arthur's death he retired to the estate given to him by Gwyddno, taking Elfiin, the son of that prince, under his protection. It was from this account that Tiiomas the son of Einion Offeiriad, descended from Gruffydd Gwyr, formed his romance of Taliesin the son of Cariadwen, Elffin the son of Goddnou, Rhun the son of Maelgwn Gwynedd, and the operations of the Caldron of Ceridwen."
+
+I think it interesting to add in this connection that the old Welsh bard was not a mere versifier, but was a true, wise man, and knew all human learning. Hereby hangs a little Welsh story, which has always seemed to me of great significance. A certain Einigan Gawr saw three rays of light, on which were inscribed all knowledge and science. And he took three rods of mountain-ash, and inscribed all the sciences upon them, as it should seem in imitation of the three rays of light. And those who saw them deified the rods, which so grieved Einigan, that he broke the rods, and died.
+
+It may seem, by the way, absurd to speak of inscribing sciences upon rods of ash, until one knows that the Bardic alphabet, which I believe is now generally regarded genuine, would seem to have originated in the three rays of light seen by Einigan Gawr, — as / |\ for example; being formed entirely of such lines, which, as easily seen, are easily cut on wood, since they involve no curves, and are capable of being made with a single stroke of the knife.]`
+
+IN times past there lived in Penllyn a man of gentle lineage named Tegid Voel ; and his dwelling was in the midst of the Lake Tegid ; and his wife was called Caridwen. And there was born to him of his wife a son named Morvran ab Tcgid, and also a daughter named Creirvvy, the fairest maiden in the world was she ; and they had a brother, the most ill-favored man in the world, Avagddu. Now Caridwen his mother thought that he was not likely to be admitted among men of noble birth, by reason of his ugliness, unless he had some exalted merits or knowledge. For it was in the beginning of Arthur's time and of the Round Table.
+
+So she resolved according to the arts of the books of the Fferyllt, to boil a caldron of Inspiration and Science for her son, that his reception might be honorable because of his knowledge of the mysteries of the future state of the world.
+
+Then she began to boil the caldron, which from the beginning of its boiling might not cease to boil for a year and a day, until three blessed drops were obtained of the grace of Inspiration.
+
+And she put Gwion Bach the son of Gwreang of Llanfair in Caereinion, in Powys, to stir the caldron, and a blind man named Morda to kindle the fire beneath it, and she charged them that they should not suffer it to cease boiling for the space of a year and a day. And she her- self, according to the books of the astronomers, and in planetary hours, gathered every day of all charm-bearing herbs. And one day towards the end of the year, as Caridwen was culling plants, and making incantations, it chanced that three drops of the charmed liquor flew out of the caldron and fell upon the finger of Gwion Bach. And by reason of their great heat he put his finger to his mouth ; and the instant he put those marvel-working drops into his mouth, he foresaw every thing that was to come, and perceived that his chief care must be to guard against the wiles of Caridwen, for vast was her skill. And in very great fear he fled towards his own land. And the caldron burst in two, because all the liquor within it, except the three charm-bearing drops, was poisonous ; so that the horses of Gwyddno Garanhir were poisoned by the water of the stream into which the liquor of the caldron ran ; and the confluence of that stream was called the Poison of the Horses of Gwyddno from that time forth.  
+
+Thereupon came in Caridwen, and saw all the toil of the whole year lost. And she seized a billet of wood, and struck the blind Morda on the head, until one of his eyes fell out upon his cheek. And he said, " Wrongfully hast thou disfigured me ; for I am innocent. Thy loss was not because of me."
+
+" Thou speakest truth," said Caridwen. " It was Gwion Bach who robbed me."
+
+And she went forth after him, running. And he saw her, and changed himself into a hare, and fled. But she changed herself into a greyhound, and turned him. And he ran towards a river, and became a fish. And she, in the form of an otter, chased him under the water, until he was fain to turn himself into a bird of the air. She, as a hawk, followed him, and gave him no rest in the sky. And just as she was about to stoop upon him, and he was in fear of death, he espied a heap of winnowed wheat on the floor of a barn, and he dropped among the wheat, and turned him- self into one of the grains. Then she transformed herself into a high-crested black hen, and went to the wheat, and scratched it with her feet, and found him out. So she wrapped him in a leathern bag, and cast him into the sea to the mercy of God, on the twenty-ninth day of April.
+
+And at that time the weir of Gwyddno was on the strand between Dyvi and Aberystwyth, near to his own castle ; and the value of an hundred pounds was taken in that weir every May Eve. And in those days Gwyddno had an only son named Elphin, the most hapless of youths, and the most need}'. And it [;rieved his father sore, for he thought that he was born in an evil hour. And by the advice of his council his father had granted him the draw- ing of the weir that year, to see if good luck would ever befall him, and to give him something wherewith to begin the world.
+
+And the next day when Elphin went to look, there was nothing in the weir. But as he turned back he perceived the leathern bag upon a pole of the weir. Then said one of the weir-ward unto Elphin, " Thou wast never unlucky until to-night ; and now thou hast destroyed the virtues of the weir, which always yielded the value of an hundred pounds every May Eve ; and to-night there is nothing but this leathern skin within it."
+
+" How now ? " said Elphin." There may be therein the value of an hundred pounds." Well, they took up the leathern bag; and he who opened it saw the forehead of the boy, and said to Elphin, "Behold a radiant brow ! " '
+
+"Taliesin be he called," said Elphin. `["Taliesin " means " radiant brow."]` And he lifted the boy in his arms, and, lamenting his mischance, he placed him sorrowfully behind him. And he made his horse amble gently, that before had been trotting ; and he carried him as softly as if he had been sitting in the easiest chair in the world. And presently the boy made a Consolation and praise to Elphin, and foretold honor to Elphin ; and the Consolation was as you may see : —  
+
+" Fair Elphin, cease to lament !  
+Let no one be dissatisfied with his own :  
 To despair will bring no advantage.  
-No man sees what supports him;  
-The prayer of Clynllo will not be in vain;  
+No man sees what supports him ;  
+The prayer of Cynllo will not be in vain ;  
 God will not violate his promise.  
 Never in Gwyddno's weir  
-Was there snch good luck as this night  
+Was there such good luck as this night.  
 Fair Elphin, dry thy cheeks !  
 Being too sad will not avail,  
-Although thou thinkest thou hast no gain  
+Although thou thinkest thou hast no gain :  
 Too much grief will bring thee no good ;  
-Nor doubt the miracles of the Almighty:  
-Although I am but little, I am highly gifted.  
-From seas, and from mountains.  
+Nor doubt the miracles of the Almighty.  
+Although I am but little,  
+I am highly gifted.  
+From seas, and from mountains,  
 And from the depths of rivers,  
 God brings wealth to the fortunate man.  
-Elphin of lively qualities.  
+Elphin of lively qualities,  
 Thy resolution is unmanly ;  
 Thou must not be over sorrowful :  
-Better to trust in God than to forbode ill.  
+Better to trust in God than to forebode ill.  
 Weak and small as I am.  
 On the foaming beach of the ocean.  
-In the day of trouble, I shall be  
-Of more service to thee than 900 salmon.  
-Elphin of notable qualities.  
+In the day of trouble I shall be  
+Of more service to thee than three hundred salmon.  
+Elphin of notable qualities,  
 Be not displeased at thy misfortune ;  
-Although reclined thus weak in my bag.  
+Although reclined thus weak in my bag,  
 There lies a virtue in my tongue.  
 While I continue thy protector  
 Thou hast not much to fear ;  
 Remembering the names of the Trinity,  
-None shall be able to harm thee."
+None shall be able to harm thee."  
 
-And this was the first poem that Taliesin ever sang, being to console Elphin in his grief for that the produce of the weir was lost, and, what was worst that all the world would consider that it was through his fault and ill-luck. And then Gwyddno Garanhir `[This should be Elphin son of Gwyddno, see page 326.]` asked him what he was, whether man or spirit. Whereupon he sang this tale, and said,
+And this was the first poem that Taliesin ever sang, being to console Elphin in his grief for that the produce of the weir was lost, and, what was worse, that all the world would consider that it was through his fault and ill luck.
 
-"First, I have been formed a comely person,  
-In the court of Caridwen I have done penance ;  
-Though little I was seen, placidly received,  
-I was great on the floor of the place to where I was led;  
-I have been a prized defence, the sweet muse the cause,  
-And by law without speech I have been liberated  
-By a smiling black old hag, when irritated  
-Dreadful her claim when pursued:  
-I have fled with vigour, I have fled as a frog,  
-I have fled in the semblance of a crow, scarcely finding rest ;  
-I have fled vehemently, I have fled as a chain,  
-I have fled as a roe into an entangled thicket;  
-I have fled as a wolf cub, I have fled as a wolf in a wilderness,  
-I have fled as a thrush of portending language;  
-I have fled as a fox, used to concurrent bounds of quirks;  
-I have fled as a martin, which did not avail:  
-I have fled as a squirrel, that vainly hides,  
-I have fled as a stages antler, of ruddy course,  
-I have fled as iron in a glowing fire,  
-I have fled as a spear-head, of woe to such as has a wish for it;  
-I have fled as a fierce bull bitterly fighting,  
-I have fled as a bristly boar soon in a ravine,  
-I have fled as a white grain of pure wheat,  
-On the skirt of a hempen sheet entangled,  
-That seemed of the size of a mare's foal,  
-That is filling like a ship on the waters ;  
-Into a dark leathern bag I was thrown,  
-And on a boundless sea I was sent adrift;  
-Which was to me an omen of being tenderly nnrsed.  
-And the Lord God then set me at liberty."
+Then came Elphin to the house or court of Gwyddno his father, and Taliesin with him. And Gwyddno asked him if he had had a good haul at the weir, and he told him that he had got that which was better than fish, "What was that ? " said Gwyddno.
 
-Then came Elphin to the house or court of Gwyddno his father, and Taliesin with him. And Gwyddno asked him if he had had a good haul at the weir, and he told him that he had got that which was better than fish. "What was that?" said Gwyddno. "A Bard," answered Elphin. Then said Gwyddno, "Alas, what will he profit thee!" And Taliesin himself replied and said, "He will profit him more than the weir ever profited thee." Asked Gwyddno, "Art thou able to speak, and thou so little ?" And Taliesm answered him, "I am better able to speak than thou to question me." " Let me hear what thou canst say," quoth Gwyddno. Then Taliesin sang, —
+" A bard," answered Elphin.
 
-"In water there is a quality endowed with a blessing;  
-On God it is most just to meditate aright;  
-To God it is proper to supplicate with seriousness,  
-Since no obstacle can there be to obtain a reward from him.  
-Three times have I been born, I know by meditation;  
-It were miserable for a person not to come and obtain  
-All the sciences of the world, collected together in my breast,  
-For I know what has been, what in future will occur.  
-I will supplicate my Lord that I got refuge in him,  
-A regard I may obtain in his grace;  
-The Son of mary is my trust, great in him is my delight,  
-For in him is the world continuallu upholden.  
-God has been to instruct me and to raise my expectation,  
-The true Creator of heaven, wbo affords me protection;  
-It is rightly intended that the saints should daily pray,  
-For God, the renovator, will bring them to him."
+Then said Gwyddno, "Alas, what will he profit thee? "
 
-And forthwith Elphin gave his haul to his wife, and she nursed him tenderly and lovingly. Thenceforward Elphin encreased in riches more and more day after day, and in love and favour with the king, and there abode Taliesin until he was thirteen years old, when Elphin son of Gwyddno went by a Christmas invitation to his uncle, Maelgwn Gwynedd, who sometime after this held open court at Christmas-tide in the castle of Dyganwy, for all the number of his lords of both degrees, both spiritual and temporal, with a vast and thronged host of knights and squires. And amongst them there arose a discourse and discussion. And thus was it said.
+And Taliesin himself replied and said, " He will profit him more than the weir ever profited thee."
 
-"Is there in the whole world a king so great as Maelgwn, or one on whom Heaven has bestowed so many spiritual gifts as upon him? First, form, and beauty, and meekness, and strength, besides all the powers of the soul?" And together with these they said that Heaven had given one gift that exceeded all the others, which was the beauty, and comeliness, and grace, and wisdom, and modesty of his queen; whose virtues surpassed those of all the ladies and noble maidens through- out the whole kingdom. And with this they put questions one to another amongst themselves. Who had braver men? Who had fairer or swifter horses or greyhounds? Who had more skilful or wiser bards — than Maelgwn?
+Asked Gwyddno, "Art thou able to speak, and thou so little .? "
 
-Now at that time the bards were in great favour with the exalted of the kingdom; and then none performed the office of those who are now called heralds, unless they were learned men, not only expert in the service of kings and princes, but studious and well versed in the lineage, and arms, and exploits of princes and kings, and in discussions concerning foreign kingdoms, and the ancient things of this kingdom, and chiefly in the annals of the first nobles; and also were prepared always with their answers in various languages, Latin, French, Welsh, and English. And together with this they were great chroniclers, and recorders, and skilful in framing verses, and ready in making englyns in every one of these languages. Now of these there were at that feast within the palace of Mae gwn as many as four and twenty, and . chief of them all, was one named Heinin Vardd.
+And Taliesin answered him, " I am better able to speak than thou to question me."
 
-When they had all made an end of thus praising the king and his gifts, it befel that Elphin spoke on this wise. "Of a truth none but a king may vie with a king; but were he not a king, I would say that my wife was as virtuous as any lady in the kingdom, and also that I have a bard who is more skilful than all the king's bards." In a short space some of his fellows shewed the king all the boastings of Elphin; and the king ordered him to be thrown into a strong prison, until be might know the truth as to the virtues of his, wife, and the wisdom of his bard.
+And forthwith Elphin gave his haul to his wife, and she nursed him tenderly and lovingly. Thenceforward Elphin increased in riches more and more day after day, and in love and favor with the king. And there abode Taliesin until he was thirteen years old, when Elphin, son of Gwyddno, went by a Christmas invitation to his uncle, Maelgwn Gwynedd, who some time after this held open court at Christmastide in the castle of Dyganwy, for all the number of his lords of both degrees, both spiritual and temporal, with a vast and thronged hosts of knights and squires. And amongst them there arose a discourse and discussion. And thus was it said : —
 
-Now when Elphin had been put in a tower of the castle, with a thick chain about his feet, (it is said that it was a silver chain, because he was of royal blood;) the king, as the story relates, sent his son Rhun to enquire into the demeanour of Elphin's wife. Now Rhun was the most graceless man in the world, and there was neither wife nor maiden with whom he had held converse, but was evil spoken of. While Rhun went in haste towards Elphin's dwelling, being fully minded to bring disgrace upon his wife, Taliesin told his mistress how that the king had placed his master in durance in prison, and how that Rhun was coming in haste ta strive to bring disgrace upon her. Wherefore he caused his mistress to array one of the maids of her kitchen in her apparel ; which the noble lady gladly did; and she loaded her hands with the best rings that she and her husband possessed.
+" Is there in the whole world a king so great as Maelgwn, or one on whom Heaven has bestowed so many spiritual gifts as upon him ? First, form and beauty and meeknesss and strength, besides all the powers of the soul ! " And together with these they said that Heaven had given one gift that exceeded all the others, which was the beauty and comeliness and grace and wisdom and modesty of his queen, whose virtues surpassed those of all the ladies and noble maidens throughout the whole kingdom. And with this they put questions one to another amongst themselves, — "Who had braver men, who had fairer or swifter horses or greyhounds, who had more skilful or wiser bards — than Maelgwn ? "
 
-In this guise Taliesin caused his mistress to put the maiden to sit at the board in her room at supper, and he made her to seem as her mistress, and the mistress to seem as the maid. And when they were in due time seated at their supper in the manner that has been said, Rhun suddenly arrived at Elphin^s dwelling, and was received with joy, for all the servants knew him plainly; and they brought him in haste to the room of their mistress, in the semblance of whom the maid rose up from supper and welcoined him gladly. And afterwards she sat down to supper again the second time, and Rhun with her. Then Rhun began jesting with the maid, who still kept the semblance of her mistress. And verily this story shews that the maiden became so intoxicated, that she fell asleep; and the story relates that it was a powder that Rhun put into the drink, that made her sleep so soundly that she never felt it when he cut from off her hand her little finger, whereon was the signet ring of Elphin, which he had sent to his wife as a token, a short time before. And Rhun returned to the king with the finger and the ring as a proof to shew that he had cut it from off her hand, without her awaking from her sleep of intemperance.
+Now at that time the bards were in great favor with the exalted of the kingdom ; and then none performed the office of those who are now called heralds, unless they were learned men, not only expert in the service of kings and princes, but studious, and well versed in the lineage and arms and exploits of princes and kings, and in dis- cussions concerning foreign kingdoms and the ancient things of this kingdom, and chiefly in the annals of the first nobles, and also were prepared always with their answers in various languages, — Latin, French, Welsh, and English. And together with this they were great chron- iclers and recorders, and skilful in framing verses, and ready in making englyns in every one of those languages.  
+ 
+Now of these there were at that feast withui the palace of Maelgwn as many as four and twenty, and chief of them all was one named Heinin Vardd.
 
-The king rejoiced greatly at these tidings, and he sent for his councillors, to whom he told the whole story from the beginning. And he caused Elphin to be brought out of his prison, and he chided him because of his boast. And he spake unto Elphin on this wise. "Elphin, be it known to thee beyopd a doubt that it is but folly for a man to trust in the virtues of his wife further than he can see her; and that thou mayest be certain of thy wife's vileness, behold her finger, with thy signet ring upon it, which was cut from her hand last night, while she slept the sleep of intoxication." Then thus spake Elphin. "With thy leave, mighty king, I cannot deny my ring, for it is known of many; but verily I assert strongly that the finger around which it is, was never attached to the hand of my wife, for in truth and certainty there are three notable things pertaining to it, none of which ever belonged to any of my wife's fingers. The first of the three is, that it is certain, by your grace's leave, that wheresoever my wife is at this present hour, whether sitting, or standing, or lying down, this ring would never remain upon her thumb, whereas you can plainly see that it was hard to draw it over the joint of the little finger of the hand whence this was cut; the second thing is, that my wife has never let pass one Saturday since I have known her without paring her nails before going to bed, and you can see fully that the nail of this little finger has not been pared for a month. The third is, truly, that the hand whence this finger came was kneading rye dough within three days before the finger was cut therefrom, and I can assure your goodness that my wife has never kneaded rye dough since my wife she has been."
+When they had all made an end of thus praising the king and his gifts, it befell that Elphin spoke in this v/ise : "Of a truth none but a king may vie with a king; but, were he not a king, I would say that ray wife was as full of virtues as any lady in the kingdom, and also that I have a bard who is more skilful than all the king's bards." In a short space some of his fellows showed the king all the boastings of Elphin ; and the king ordered him to be thrown into a strong prison until he might know the truth as to the virtues of his wife and the wisdom of his bard.
 
-Then the king was mightily wrath with Elphin for so stoutly withstanding him, respecting the goodness of his wife, wherefore he ordered him to his prison a second time, saying that he should not be loosed thence until he had proved the truth of his boast, as well concerning the wisdom of his bard as the virtues of his wife.
+Now, when Elphin had been put in a tower of the castle, with a thick chain about his feet (it is said that it was a silver chain, because he was of royal blood), the king, as the story relates, sent his son Rhun to inquire into the demeanor of Elphin's wife. Now, Rhun was the most graceless man in the world, and there was neither wife nor maiden with whom he had held converse, but was evil spoken of. While Rhun went in haste towards Elphin's dwelling, being fully minded to bring disgrace upon his wife, Taliesin told his mistress how that the king had placed his master in durance in prison, and how that Rhun was coming in haste to strive to bring disgrace upon her. Wherefore he caused his mistress to array one of the maids of her kitchen in her apparel ; which the noble lady gladly did ; and she loaded her hands with the best rings that she and her husband possessed.  
 
-In the meantime his wife and Taliesin remained joyful at Elphin's dwelling. And Taliesin shewed his mistress how that Elphin was in prison because of them, but he bade her be glad for that he would go to Maelgwn's court to free his master. Then she asked him in what manner he would set him free. And he answered her—
+In this guise Taliesin caused his mistress to put the maiden to sit at the board in her room at supper, and he made her to seem as her mistress, and the mistress to seem as the maid. And when they were in due time seated at their supper in the manner that has been said, Rhun suddenly arrived at Elphin's dwelling, and was received with joy, for all the servants knew him plainly. And they brought him in haste to the room of their mistress, in the semblance of whom the maid rose up from supper, and welcomed him gladly. And afterwards she sat down to supper again the second time, and Rhun with her. Then Rhun began jesting with the maid, who still kept the semblance of her mistress. And verily this story shows that the maiden became so intoxicated, that she fell asleep ; and the story relates that it was a powder that Rhun put into the drink, that made her sleep so soundly that she never felt it when he cut from off her hand her little finger, whereupon was the signet-ring of Elphin, which he had sent to his wife as a token a short time before. And Rhun returned to the king with the finger and the ring as a proof, to show that he had cut it from off her hand without her awaking from her sleep of intemperance.
 
-A journey I will perform,  
-And to the gate I will come;  
-The hall I will enter,  
-And my song I will sing;  
-My speech I will pronounce  
-To silence royal bards.  
-In presence of their chief,  
-I will greet to deride,  
-Upon them I will break  
-And Elphin I will free.  
-Should contention arise,  
-In presence of the prince,  
-With summons to the bards,  
-For the sweet flowing song,  
-And wizards' posing lore,  
-And wisdom of Druids.  
-In the court of the sons of the distributor  
-Some are who did appear  
-Intent on wily schemes,  
-By craft and tricking means,  
-In pangs of affliction  
-To wrong the innocent,  
-Let the fools be silent,  
-As erst in Baden's fight—  
-With Arthur of liberal ones,  
-The head, with long red blades,  
-Through feats of testy men,  
-And a chief with his foes.  
-Woe be to them, the fools,  
-When revenge comes on them.  
-I Taliesin, chief of bards,  
-With a sapient druid's words,  
-Will set kind Elphin free,  
+The king rejoiced greatly at these tidings ; and he sent for his councillors, to whom he told the whole story from the beginning. And he caused Elphin to be brought out of his prison, and he chided him because of his boast. And he spake unto Elphin on this wise : " Elphin, be it known to thee beyond a doubt that it is but folly for a man to trust in the virtues of his wife further than he can see her. And, that thou mayest be certain of thy wife's vileness, behold her finger, with thy signet-ring upon it, which was cut from her hand last night while she slept the sleep of intoxication."
+
+Then thus spake Elphin : "With thy leave, mighty king, I cannot deny my ring; for it is known of many. But verily I assert strongly that the finger around which it is was never attached to the hand of my wife ; for in truth and certainty there are three notable things pertain- ing to it, none of which ever belonged to any of my wife's fingers. The first of the three is, that it is certain, by your grace's leave, that wheresoever my wife is at this present hour, whether sitting, or standing, or lying down, this ring would never remain upon her thumb ; whereas you can plainly see that it was hard to draw it over the joint of the little finger of the hand whence this was cut. The second thing is, that my wife has never let pass one Saturday since I have known her without paring her nails before going to bed, and you can see fully that the nail of this little finger has not been pared for a month. The third is, truly, that the hand whence this finger came was kneading rye-dough within three days before the finger was cut therefrom, and I can assure your goodness that my wife has never kneaded rye-dough since my wife she has been."
+
+Then the king was mightily wroth with Elphin for so stoutly withstanding him respecting the goodness of his wife: wherefore he ordered him to his prison a second time, saying that he should not be loosed thence until he had proved the truth of his boast, as well concerning the wisdom of his bard as the virtues of his wife.
+
+In the mean time his wife and Taliesin remained joyful at Elphin's dwelling. And Taliesin showed his mistress how that Elphin was in prison because of them ; but he bade her be glad for that he would go to Maelgwn's court to free his master. Then she asked him in what manner he would set him free. And he answered her [in a song whereof the last verses are these] : —
+
+" I Taliesin, chief of bards,  
+With a wise Druid's words,  
+Will set kind Elphin free  
 From haughty tyrant's bonds.  
-To their fell and chilling cry,  
-By the act of a surprising steed.  
+To their fell and chilling cry.  
+By the act of a surprising steed,  
 From the far distant North,  
 There soon shall be an end.  
 Let neither grace nor health  
 Be to Maelgwn Gwynedd,  
-For this force and this wrong;  
+For this force and this wrong ;  
 And be extremes of ills  
 And an avenged end  
 To Rhun and all his race :  
-Short be his coarse of life,  
+Short be his course of life.  
 Be all his lands laid waste ;  
 And long exile be assigned  
-To Maelgwn Gwynedd !"
+To Maelgwn Gwynedd ! "
 
-After this he took leave of his mistress, and came at last to the court of Maelgwn, who was going to sit in his hall and dine in his royal state, as it was the eastern in those days for kings and. princes to do at eveiy chief feast. And as soon as Taliesin entered the hall, he placed him- self in a quiet comer, near the place where the bards and the minstrels were wont to come to in doing their service and duty to the king, as is the custom at the high festivals when the bounty is proclaimed. And so, when the bards and the heralds came to cry largess and to proclaim the power of the king and his strength, at the moment that they passed by the corner wherein he was crouching, Taliesin pouted out his lips after them, and played "Blerwm, blerwm" with hia finger upon his lips. Neither took they much notice of him as they went by, but proceeded forward till they came before the king, unto whom they made their obeisance with their bodies, as they were wont, without speaking a single word, but pouting out their lips, and making mouths at the king, playing "Blerwm, blerwm," upon their lips with their fingers, as they had seen the boy do elsewhere. This sight caused the king to wonder and to deem within himself that they were drunk with many liquors. Wherefore he commanded one of his lords, who served at the board, to go to them and desire them to collect their wits, and to consider where they stood, and what it was fitting for them to do. And this lord did so gladly. But they ceased not from their folly any more than before. Whereupon he sent to them a second time, and a third, desiring them to go forth from the hall. At the last the king ordered one of his squires to give a blow to the chief of them named Heinin Vardd; and the squire took a broom, and struck him on the head, so that he fell back in his seat. Then he arose and went on his knees, and besought leave of the king's grace to show that this their fault was not through want of knowledge, neither through drunkenness, but by the influence of some spirit that was in the hall. And after this Heinin spoke on this wise. "Oh honourable king, be it known to your grace, that not from the strength of drink, or of too much liquor, are we dumb, without power of speech like drunken men, but through the influence of a spirit that sits in the corner yonder in the form of a child." Forthwith the king commanded the squire to fetch him ; and he went to the nook where Taliesin sat, and brought him before the king, who asked him what he was, and whence he came. And he answered the king in verse.
+After this he took leave of his mistress, and came at last to the court of Maelgwn, who was going to sit in his hall, and dine in his royal state, as it was the custom in those days for kings and princes to do at every chief feast. And as soon as Taliesin entered the hall, he placed himself in a quiet corner, near the place where the bards and the minstrels were wont to come in during their service and duty to the king, as is the custom at the high festivals when the bounty is proclaimed. And so, when the bards and the heralds came to cry largess, and to proclaim the power of the king and his strength, at the moment that they passed by the corner wherein he was crouching, Tal- iesin pouted out his lips after them, and played " Blerwm, blerwm," with his finger upon his lips. Neither took they much notice of him as they went by, but proceeded for- ward till they came before the king, unto whom they made their obeisance with their bodies, as they were wont, with- out speaking a single word, but pouting out their lips, and making mouths at the king, playing, " Blerwm, blerwm " upon their lips with their fingers, as they had seen the boy do elsewhere. This sight caused the king to wonder, and to deem within himself that they were drunk with many liquors. Wherefore he commanded one of his lords, who served at the board, to go to them, and desire them to collect their wits, and to consider where they stood, and what it was fitting for them to do. And this lord did so gladly. But they ceased not from their folly any more than before. Whereupon he sent to them a second time, and a third, desiring them to go forth from the hall. At the last the king ordered one of his squires to give a blow to the chief of them named Heinin Vardd ; and the squire took a broom and struck him on the head, so that he fell back in his seat. Then he arose and went on his knees, and be- sought leave of the king's grace to show that this their fault was not through want of knowledge, neither through drunkenness, but by the influence of some spirit that was in the hall.
 
-"Primary chief bard am I to Elphin,  
+And after this Heinin spoke on this wise : "Oh, honorable king, be it known to your grace, that not from the strength of drink, or of too much liquor, are we dumb, without power of speech like drunken men, but through the influence of a spirit that sits in the corner yonder in the form of a child." Forthwith the king commanded the squire to fetch him. And he went to the nook where Taliesin sat, and brought him before the king, who asked him what he was, and whence he came. And he answered the king in verse : —
+
+" Primary chief bard am I to Elphin,  
 And my original country is the region of the summer stars ;  
-Idno and Heinin caUed me Merddin,  
+Idno and Heinin called me Merddin,  
 At length every king will call me Taliesin.
 
 I was with my Lord in the highest sphere,  
-On the fall of Lucifer into the depth of hell :  
+On the fall of Lucifer into the depth of hell ;  
 I have borne a banner before Alexander ;  
-I know the names of the stars from north to south;  
+I know the names of the stars from north to south ;  
 I have been on the galaxy at the throne of the Distributor ;  
+
 I was in Canaan when Absalom was slain ;  
-I conveyed the divine Spirit to the level of the vale of Hebron ;  
+I conveyed the Divine Spirit to the level of the vale of Hebron ;  
 I was in the court of Don before the birth of Gwdion.  
 I was instructor to Eli and Enoc ;  
 I have been winged by the genius of the splendid crosier ;  
 I have been loquacious prior to being gifted with speech ;  
-I was at the place of the crucifixion of the merciful Son of God;  
+I was at the place of the crucifixion of the merciful Son of God ;  
 I have been three periods in the prison of Arianrod ;  
-I have been the chief director of the work of the tower of Nimrod;  
-I am a wonder whose origin is not known.
+I have been the chief director of the work of the tower of Nimrod ;  
+I am a wonder whose origin is not known.  
+
 
 I have been in Asia with Noah in the ark,  
-I have seen the destructicm of Sodom and Gomorra ;  
+I have seen the destruction of Sodom and Gomorra ;  
 I have been in India when Roma was built,  
-I am now come here to the remnant of Troia.
+I am now come here to the remnant of Troia.  
 
-I have been with mj Lord in the manger of the ass;  
-I strengthened Moss through the water of Jordan ;  
+
+I have been with my Lord in the manger of the ass ;  
+I strengthened Moses through the water of Jordan ;  
 I have been in the firmament with Mary Magdalene ;  
-I have obtained the muse from the cauldron of Ceridwen ;  
-I have been bard of the harp to Lleon of Lochlin.  
+I have obtained the muse from the caldron of Ceridwyn ;  
+I have been bard of the harp to Lleon of Lochlin,  
 I have been on the White Hill, in the court of Cynvelyn,  
 For a day and a year in stocks and fetters,  
-I have suffered hanger for the Son of the Virgin.  
+I have suffered hunger for the Son of the Virgin.  
 I have been fostered in the land of the Deity,  
 I have been teacher to all intelligences,  
 I am able to instruct the whole universe.  
 I shall be until the day of doom on the face of the earth ;  
-And it is not known whether my body is flesh or fish.
-
-Then I was for nine months  
-In the womb of the hag Caridwen ;  
+And it is not known whether my body is flesh or fish.  
 I was originally little Gwion,  
-And at length I am Taliesin."
-
-And when the king and his nobles had heard the song, they wondered much, for they had never heard the like from a boy so young as he. And when the king knew that he was the bard of Elphin, he bade Heinin, his first and wisest bard, to answer Taliesin and to strive with him. But when he came, he could do no other, but play "blerwm" on his lips; and when he sent for the others of the four and twenty bards, they all did likewise, and could do no other. And Maelgwn asked the boy Taliesin what was his errand, and he answered him in song.
-
-TO DO p375-9
-
-And while he was thus singing his verse near the door, there arose a mighty storm of wind, so that the king and all his nobles thought that the castle would fall upon their heads. And the king caused them to fetch Elphin in haste from his dungeon, and placed him before Taliesin. And it is said, that immediately he sang a verse, so that the chains opened from about his feet
-
-TO DO p380-3
-
-Taliesin having set his master free from prison, and having protected the innocence of his wife, and silenced the Bards so that not one of them dared to say a word, now brought Elphin's wife before them, and shewed that she bad not one finger wanting. Right glad was Elphin, right glad was Taliesin.
-
-Then he bade Elphin wager the king, that he had a horse both better and swifter than the king's horses. And this Elphin did, and the day, and the time, and the place were fixed, and the place was that which at this day is called Morva Rhiannedd ; and thither the king went with all his people, and four and twenty of the swiftest horses he posseaaed. And after a long process the course was marked, and the horses were placed for running. Then came Taliesin with four and twenty twigs of holly, which he had burnt black, and he caused the youth who was to ride his master's horse to place them in his belt, and he gave him orders to let all the king's horses get before him, and as he should overtake one horse after the other, to take one of the twigs and strike the horse with it over the crupper, and then let that twig fall; and after that to take another twig; and do in like manner to every one of the horses; as he should overtake them, enjoining the horseman strictly to watch when his own horse should stumble, and to throw down his cap on the spot. All these things did the youth fulfil, giving a blow to every one of the king's horses, and throwing down his cap on the spot where his horse stumbled. And to this spot Taliesin brought his master after his horse had won the race. And he caused Elphin to put workmen to dig a hole there; and when they had dug the ground deep enough, they found a large cauldron full of gold. And then said Taliesin, "Elphin, behold a payment and reward unto thee, for having taken me out of the weir, and for having reared me from that time until now." And on this spot stands a pool of water, which is to this time called Pwllbair.
-
-After all this, the king caused Taliesin to be brought before him, and he asked him to recite concerning the creation of man from the beginning; and thereupon he made the poem which is now called "One of the four pillars of song."
-
-TO DO p385-9
-
-He further told the king various prophecies of things that should be in the world, in songs, as follows.
-
-
-Notes pp390-400
-
-Taliesin, literally, the "Radiant Brow," was a Welsh Bard of the sixth century. His name, regarded hy his countrymen with the reverence due to the " Prince of Song" is known to the Saxon chiefly through the hrief hat spirited inrocation of Gray.
-
-The text records the fiction of which Taliesin is the hero. Of his real history, little is known excepting what may he gleaned from his works, and from the following notices given in the volume of Iolo MSS. recently published by the Welsh MSS. Society. The first of these latter is taken from Anthony Powel of Llwydarth's MS.
-
-"Taliesin, chief of the Bards, the son of Saint Henwg of Caerlleon upon Usk, was invited to the court of Urien Rheged, at Aberllychwr. He, with Elffin, the son of Urien, being once fishing at sea in a skin coracle, an Irish pirate ship seized him and his coracle, and bore him away towards Ireland ; but while the pirates were at the height of their drunken mirth, Taliesin pushed his coracle to the sea, and got into it himself, with a shield in his hand which he found in the ship, and with which he rowed the coracle until it verged the land ; but, the waves breaking then in wild foam, he lost his hold on the shield, so that he had no alternative but to be driven at the mercy of the sea, in which state he continued for a short time, when the coracle stuck to the point of a pole in the weir of Gwyddno, Lord of Ceredigion, in Aberdyri ; and in that position he was found, at the ebb, by Gwyddno's fishermen, by whom he was interrogated ; and when it was ascertained that he was a bard, and the tutor of Elffin, the son of Urien Rheged, the son of Cynvarch : — " I, too, have a son named Elffin," said Gwyddno, " be thou a bard and teacher to him, also, and I will give thee lands in free tenure." The terms were accepted ; and, for several successive years, he spent his time between the courts of Urien Rheged and Gwyddno, called Gwyddno Garanhir, Lord of the Lowland Centred : but after the territory of Gwyddno had become overwhelmed by the see, Taliesin was invited by the Emperor Arthur, to his court at Caerlleon upon Usk, where he became highly celebrated for poetic genius and useful, meritorious sciences. After Arthur's death, he retired to the estate given to him by Gwyddno, taking Elffin, the son of that prince, under his protection. — It was from this account that Thomas, the son of Einion Offeiriad, descended from Gruffydd Gwyr, formed his romance of Taliesin, the son of Cariadwen, — Elffin, the son of Goddnou, — Rhun the son of Maelgwn Gwynedd, — and the operations of the Cauldron of Ceridwen."
-
-Next follows the Pedigee of Taliesin, Chief of the bards, from Thomas Hopkin of Coycburch's MS.—
-
-"Taliesin, Chief of the Bards of the West, the son of Saint Henwg, of Caerlleon upon Usk, the son of Fflwch, the son of Cynin, the son of Cynvarch, the son of Saint Clydawc, of Ewyas, the son of Gwynnar, the son of Caid, the son of Cadren, the son of Cynan, the son of Cyllin, the son of Caradog, the son of Bran, the son of Llyr Llediaith, King Paramount of all the Kings of Britain, and King, in lineal descent, of the country between the rivers Wye and Towy. Taliesin became Chief Bard of the West, from having been appointed to preside over the chair of the Round Table, at Caerlleon upon Usk."
-
-A manuscript once in the Havod Uchtryd collection gives the fol- lowing particulars. —
-
-"Taliesin, Chief of the Bards of the West, the son of Henwg the Bard, of the college of Saint Cadocus, the son of Fflwch Lawdrwm, of Caerlleon upon Usk, in Glamorgan, the son of Cynvar, the son of Saint Clydog, the son of Gwynnar, the son of Cadrain, the son of Cynan, the son of Caradog, the son of Bran the Blessed, the son of Llyr Llediaith.
-
-Taliesin, Chief of the Bards, erected the church of Llanhenwg at Caerlleon upon Usk, which he dedicated to the memoty of his father, called Saint Henwg, who went to Rome on a mission to Constantino the Blessed, requesting that he would send Saints Germanus and Lupus to Britain, to strengthen the faith, and renew bapUsm there.
-
-Taliesin, the son of Henwg, was taken by the wild Irish, who unjvustly occupied Gower ; but while on board ship on his way to Ireland, he saw a skin coracle, quite empty, on the surface of the sea, and it came closely to the side of the ship ; wherenpon Taliesin, taking a skin-covered spar in his hand, leaped into it, and rowed towards land, until he stuck on a pole in the weir of Gwyddno Garanhir ; when a young chieftain, named Elphn seeing him so entangled, delivered him from his peril. This Elphin was taken for the son of Gwyddno ; although in reality, he was the son of Elivri his daughter, but by whom, was then quite unknown : it was howerer, afterwards diseorered that Urien Rheged, King of Gower and Aberllychwr, was his father, who introduced him to the court of Arthur, at Caerlleon upon Usk; where his feats, learning, and endowments, were found to be so superior, that he was created a golden-tongued Knight of the Round Table.— After the death of Arthur, Taliesin became Chief Bard to Urien Rheged, at Aberllychwr in Rheged."
-
-TO DO p392
-
----
-
-https://archive.org/details/dli.granth.77846/page/470/mode/2up?q=taliesin
-The Mabinogion, from the Welsh of the Llyer Coch O Hergest (The Red Book of Hergest) in the Library of Jesus College, Oxford
-by Guest, Charlotte Lady
-Publication date 1877
-
-p471-494
-TALIESIN.
-
-TO DO
-
-
-NOTES TO TALIESIN
-p495-504
-
-NOTES TO TALIESIN.
-Taliesin.— Page 471.
-
-Taliesin, literally, the " Radiant Brow," was a Welsh Bard of the sixth century. His name, regarded by his countrymen with the reverence due to the "Prince of Song," is known to the Saxon chiefly through the brief but spirited invocation of Gray.
-
-The text records the fiction of which Taliesin is the hero. Of his real history little is known, excepting what may be gleaned from his works, and from the following notices given in the volume of Iolo MSS. recently published by the Welsh MSS. Society. The first of these latter is taken from Anthony Powel of Llwydarth's MS.
-
-" Taliesin, Chief of the Bards, the son of Saint Henwg of Caerlleon upon Usk, was invited to the court of Urien Rheged, at Aberllychwr. He, with Elffin, the son of Urien, being once fishing at sea in a skin coracle, an Irish pirate ship seized him and his coracle, and bore him away towards Ireland ; but while the pirates were at the height of 
-
-TO DO 
-496
-TALIESIN.
-• their drunken mirth, Taliesin pushed his coracle to the sea, and got into it himself, with a shield in his hand which he found in the ship, and with Which he rowed the coracle until it verged the land; but, the waves breaking then in wild foam, he lost bis hold on the shield, so that he had no alternative but to be driven at the mercy of the sea, in which state he continued for a short time, when the coracle stuck to the point of a pole in the weir of Gwyddno, Lord of Cere¬ digion, in Aberdyvi • and in that position he was found, at the ebb, by Gwyddno's fishermen, by whom he was interrogated; and when it was ascertained that he was a bard, and the tutor of Elffin, the son of Urien Rkeged, the son of Cynvarch :—‘ I, too, have a son named Elffin,' said Gwyddno, ‘ be thou a bard and teacher to him, also, and I will give thee lands in free tenure.' The terms were accepted, and for several successive years he spent his time between the courts of Urien Rhege'd and Gwyddno, called Gwyddno Garanhir, Lord of the Lowland Cantred ; but after the territory of Gwyddno had become overwhelmed by the sea, Taliesin was invited by the Emperor Arthur to t his court at Caerlleon upon Usk, where he became highly celebrated for poetic genius and useful, meritorious Sciences. After Arthur's death he retired to the estate given to him 1 by GwyddnO, taking Elffin, the son of that prince, under his pro¬ tection. It was from this account that Thomas, the son of Einion Offeiriad, descended from Gruffydd Gwyr, formed his romance of Taliesin, the son of Cariadwen—Elffin, the son of Goddnou—Rhun, the son of Maelgwn Gwynedd, and the operations of the Cauldron of Ceridwen."
-i-
-Next follows the Pedigree of Taliesin, Chief of the Bards, from Thomas Hopkin of Coychurch's MS.:—
-“Taliesin, Chief of the Bards of the West, the son of Saint Henwg, of Caerlleon upon Usk, the son of Fflwch, the son of Cynin, the son/ of Cynvarch, the son of Saint Clydawc, of Ewyas, the son of Gwynnar, the son of Caid, the son of Cadren> the son of Cynan, the son of Cyllin, the son of Caradog, the son of Bran, the son of Llyr Llediaith, King Paramount of all the Kings of Britain, and King, in lineal descent, of the country between the rivers Wye and Towy. Taliesin became Chief Bard of the West, from having been appointed to preside over the chair of the Round Table, at Caerlleon upon Usk.” *
-A manuscript once; in the Havod Uchtryd collection gives the following particulars:— r * •
-“Taliesin, Chief of the Bards of the West, the son of Henwg the Bard, of the College of Saint Cadocus, the son of Fflwch Lawdrwm,
-
-TO DO 
-
-p500
-
-Caridwen.— Page, 471...
-
-Caridwen is generally considered to be the Goddess of Nature of Welsh mythology. The principal circumstances of her fabulous history are those detailed in the Mabinogi of Taliesin. Upon them are founded most of the allusions to her contained in the poems of the bards, with whom the cauldron of Caridwen, of Inspiration, or the Awen, is a subject of frequent reference. As regards her singular family we have but little information and few details. Several notices, however, occur in Welsh writings of her fair daughter Creirwy. Of these it may be sufficient to instance the Triad —which celebrates her with Arianrod and Gwenn, verch Cywryd ab Crydon, as one of the three beauteous ladies of the island. `[Triad 107.]` One of the two Triads extant on the subject of Morvran has been already cited. (See p. 273.) It alludes to the extreme ugliness assigned him in the text, to which, nevertheless, he was indebted for the preservation of his life in the battle of Catalan ; the other ranks him with Gilbert mab Oadgyffro and Gwgan Gleddyvrudd, as one of the three stayers of slaughter `[Triad xxix.]` . No further particulars of him are preserved.
-
-Gwyddno Garanhir. —Page 472.
-Gwyddno Garanhir was Sovereign of Cantref y Gwaelod, a territory bordering on the sea, and protected from its ravages by a high embankment. One evening there was revelry at the Coart, and Seithenin, `[Seithinyn the Drunkard's mischance in letting the sea overflow the
-Cantrev y Gwaelod, is related .in Triad xli.]` the son of Seithyn Saidi, King of Dyved, upon whom it devolved to look after the embankment, `[Traces of three anoient stone embankments are said to be still visible in the district where this inundation took place. They are called Sam Oynvelyn, Sara y Bwch, and Sara Padrig. " The latter is particularly conspicuous, being left dry at low water to the extent of about nine miles, and the sailors of the neighbouring ports describe its whole length to be twenty-one miles, beginning near Harlech, and running in a south-west direction.” (Cambro-Briton, 1.362.) The Hanes Cymru contains some interesting remarks on this subject.]` and see that all was safe, became inebriated and neglected his charge. The consequence was that the sea broke in through the bank in the course of the night. Gwyddno and his Court escaped with difficulty from the impending ruin, and the Cantrev y Gwaelod was submerged and irretrievably lost. By this calamity sixteen fortified cities, the lai-gest and finest that were in Wales, excepting only Caerlleon upon Usk, were entirely destroyed, and Cardigan Bay occupies the spot where the fertile plains of the Cantrev had been the habitation and support of a flourishing population. Such as escaped the inundation fled to Ardudwy, and the country of Arvon, and the mountains of Eryri (Snowdon), and other places not previously inhabited. By none was this misfortune more severely felt than by Gwyddno Garanhir, to whom the reverse of circumstances it occasioned was so great that, from being an opulent monarch, he was all at once reduced to
-
-
-p273
-Morvran the Son of Tegid .—Page 224.
-This circumstance of the three warriors escaping from the battle of Cumlau is related in the Triads, in words very nearly corresponding with those iu the text. The two accounts differ only as regards the name of the third man, whom the Triad-, instead of Kynwyl Sant, represent to have been GlSwlwyd Gavaelvawr, to whom, as King Arthur's Porter, we have already been introduced.—Triad 83.- From the Hanes Taliesin, we learn that Morvran was the son of Tegid Yoel and Ceridwen.
-
-p224
-
-... and Morvran the son of Tegid (no one struck him in the battle of Camlan by reason of his ugliness ; all thought he was an auxiliary devil. Hair had he upon him like the hair of a stag). ...
-
----
-
-
-
-https://archive.org/details/ladycharlottegue00philrich/page/n11/mode/2up?q=+taliesin
-Lady Charlotte Guest and the Mabinogion; some notes on the work and its translator, with extracts from her journals
-by Phillips, David Rhys, 1868-; Schreiber, Charlotte, Lady, 1812-1895
-Publication date 1921
-
-
-https://archive.org/details/fourancientbook04skengoog/page/n12/mode/2up
-https://archive.org/details/fourancientbook00skengoog/page/n7/mode/2up
-Two vols
-The four ancient books of Wales containing the Cymric poems attributed to the bards of the sixth century
-by Skene, W. F. (William Forbes), 1809-1892, editor
-Publication date 1868
-
-
-https://archive.org/details/poemsfrombookoft00evan/page/n11/mode/2up?q=ceridwen
-Facsimile & text of the Book of Taliesin
-by Evans, J. Gwenogvryn
-Publication date 1915
-[TH: contains translated poems]
-
-https://archive.org/details/MusocalAndPoeticalRelicksOfTheWelshBards/page/n25/mode/2up?q=taliesin
-Musical and Poetical Relicks of the Welsh Bards
-by Edward Jones
-
-vol2
-https://archive.org/details/The_Bardic_Museum/page/n5/mode/2up
-The Bardic Museum
-by Edward Jones
-Publication date 1802
-
-https://www.persee.fr/doc/ecelt_0373-1928_1981_num_18_1_1686
-The Elphin section of Hanes Taliesin [article]
-sem-linkJuliette Wood
-Études celtiques  Année 1981  18  pp. 229-244
-
-
----
-
-https://archive.org/details/mythologyandrit00davigoog/page/191/mode/1up?q=%22hanes+taliesin%22
-The mythology and rites of the British druids, ascertained by national documents; and compared with the general traditions and customs of heathenism, as illustrated by the most eminent antiquaries of our age. With an appendix, containing ancient poems and extracts, with some remarks on ancient British coins ..
-by Davies, Edward, 1756-1831
-
-Publication date 1809
-
-has a history of ceridwen?
-
-
----
-
-
-https://archive.org/details/historiabritton00nenngoog/page/n93/mode/2up?q=%22hanes+taliesin%22
-The "Historia Brittonum"
-by Nennius
-
-Publication date 1819
-
-Hanes Taliesin, or, The History of Taliesin
-p41+
-?from Mayricks History of Cardiganshire, p. 65, 2 vols. London, 1865.
-
----
-
-Welsh Minstrelsy: Containing The Land Beneath the Sea, Or, Cantrev Y Gwaelod, a Poem in Three ...
-by Thomas Jeffery Llewelyn Prichard
-https://archive.org/details/welshminstrelsy00pricgoog/page/n17/mode/1up?q=%22hanes+taliesin%22
-Publication date 1824
-
-p4
-Sarn Badrwj'g (vulgarly Sarn Badric) is a stone wall which rnns out into the sea from Mochras, a point of land a few miles south of Harlech, in a south-west direction, for nearly twenty miles. It is a wonderful work, being throughout, about twenty-four feet thick. Sarn y Bwch runs from a point north-west of Harlech, and is sup- posed to meet the end of this. The space between these, formed, some centuries ago, a habitable hundred to Merionethshire, called Cantref Gwaelod. The Welsh have yet traditions respecting several of the towns, as Cacr Gwydddo, Caer Cenedor, &c. These walls were built to keep the sea out. About the year 500, when Gwyddno Goronhir (Gwyddno with the high crown) was lord of this hundred, one of the men who had the care of the dhms got drank, and left open a flood- gate. The sea broke through with such force as also to tear down part of the wall, and overflow the whole hundred, which, since that time has always been completely flooded. Thus is Cardigan bay, a principal part of which Cantref Gwaelod formerly occupied, for many miles so full of shoals as to render it extremely dangerous for a vessel of any burthen to venture at all near the Merionethshire coast.
-Bingley's North Wales, vol. 2, p, 20.
-
-
----
-https://archive.org/details/in.ernet.dli.2015.42004/mode/2up?q=avaggdu
-
-An Introduction To Mythology
-by Spence, Lewis
-
-Publication date 1893
-
----
-
-https://books.google.co.uk/books?id=zLZCAQAAMAAJ
-History and Antiquities of Cardigan
-
-p76
-
-... The third was drunken Seithinyn , the son of Seithyn Saidi , king of Dimetia ; who when in a state of intoxication suffered the sea ( by neglecting to attend the sluices ) to overflow the lowland hundred ( or Cantrei'r gwaelod ) where lands and habitations the most beautiful in all Wales , excepting only Caerllion on Usk , to the number of sixteen cities and towns , were in a short period inundated and ruined . The lowland hundred was the property of Gwyddno , surnamed longshanks , king of Caeredigiawn ( or Cardiganshire . ) This event happened in the reign of Emrys Wledig ( or the illustrious ) . The inhabitants who escaped from that inundation landed in Ardudwy , a part of Caernarvonshire , and ascended the mountains of Snowden , which had never been i habited before that period .
-
-
-https://archive.org/details/welshministrelsy00pric/mode/2up?q=%22The+Land+Beneath+the+Sea%22+Llewelyn+Prichard
-Welsh ministrelsy: containing The land beneath the sea;
-by Prichard, T. J. Llewelyn (Thomas Jeffery Llewelyn), 1790-1862
-Publication date 1825
-
-Land BEneath sea is a version of breaching of embankment?
+And at length I am Taliesin."  
+
+And when the king and his nobles had heard the song, they wondered much, for they had never heard the Hke from a boy so young as he. And when the king knew that he was the bard of Elphin, he bade Heinin, his first and wisest bard, to answer Taliesin and to strive with him. But when he came, he could do no other but play " blerwm " on his lips ; and when he sent for the others of the four and twenty bards, they all did likewise, and could do no other. And Maelgwn asked the boy Taliesin what was his errand. And he answered him in song `[This song, as well as several others, I have taken the liberty of omitting, save enough to give a fair idea of it.]`: —
+
+" There ought not to be about me  
+Any bard who may not know  
+That Elphin the son of Gwyddno  
+Is in the land of Artro,  
+Secured by thirteen locks,  
+For praising his instructor ;  
+And then I Taliesin,  
+Chief of the bards of the west,  
+Shall loosen Elphin  
+Out of a golden fetter."  
+
+![](images/elphin-before-taliesin.png)
+
+[And then Taliesin sang a song of the Yellow Plague `[Known as the " Yellow Plague of Rhos," of which Maelgwn is said to have died in the sixth century. The pestilence originated, according to Welsh tradition, in the unburied bodies of the slain of Maelgwn's wars.]`, which was afterwards to come up out of the marsh] : —
+
+" Be silent, then, ye unlucky rhyming bards,  
+For you cannot judge between truth and falsehood.  
+If you be primary bards formed by heaven,  
+Tell your king what his fate will be.  
+It is I who am a diviner and a leading bard,  
+And will teH your king what will befall him.  
+A most strange creature will come from the sea marsh of Rhianedd  
+As a punishment of iniquity on Maelgwn Gwynedd ;  
+His hair, his teeth, and his eyes being as gold,  
+And this will bring destruction upon Maelgwn Gwynedd."
+
+[And then Taliesin sang a wonderful song of the great wind] : —
+
+" Discover thou what is  
+The strong-creature from before the flood.  
+Without flesh, without bone,  
+Without vein, without blood.  
+Without head, without feet ;  
+It will neither be older nor younger  
+Than at the beginning ;  
+For fear of a denial,  
+There are no rude wants  
+With creatures.  
+Great God ! how the sea whitens  
+When first it comes !  
+Great are its gusts  
+When it comes from the south ;  
+Great are its evaporations  
+When it strikes on coasts.  
+It is in the field, it is in the wood,  
+Without hand and without foot.  
+Without signs of old age.  
+Though it be coeval  
+With the five ages or periods ;  
+And older still,  
+Though they be numberless years.  
+It is also so wide ;  
+As the surface of the earth ;  
+And it was not born,  
+Nor was it seen.  
+It will cause consternation  
+Wherever God willeth.  
+On sea, and on land,  
+It neither sees, nor is seen.  
+Its course is devious,  
+And will not come when desired  
+On land and on sea,  
+It is indispensable.  
+It is without an equal,  
+It is four-sided ;  
+It is not confined,  
+It is incomparable ;  
+It comes from four quarters ;  
+It will not be advised,  
+It will not be without advice.  
+It commences its journey  
+Above the marble rock.  
+It is sonorous, it is dumb.  
+It is mild.  
+It is strong, it is bold.  
+When it glances over the land.  
+It is silent, it is vocal.  
+It is clamorous,  
+It is the most noisy  
+On the face of the earth.  
+It is good, it is bad.  
+It is extremely injurious.  
+It is concealed,  
+Because sight cannot perceive it.  
+It is noxious, it is beneficial ;  
+It is yonder, it is here ;  
+It will discompose,  
+But will not repair the injury ;  
+It will not suffer for its doings,  
+Seeing it is blameless.  
+It is wet, it is dry.  
+It frequently comes.  
+Proceeding from the heat of the sun,  
+And the coldness of the moon.  
+The moon is less beneficial.  
+Inasmuch as her heat is less.  
+One Being has prepared it,  
+Out of all creatures,  
+By a tremendous blast.  
+To wreak vengeance  
+On Maelgwn Gwj'nedd."
+
+And while he was thus singing his verse near the door, there arose a mighty storm of wind, so that the king and all his nobles thought that the castle would fall on their heads. And the king caused them to fetch Elphin in haste from his dungeon, and placed him before Taliesin. And it is said, that immediately he sang a verse, so that the chains opened from about his feet : —
+
+" I adore the Supreme, Lord of all animation, —  
+Him that supports the heavens. Ruler of every extreme,  
+Him that made the water good for all, 
+Him who has bestowed each gift, and blesses it ; —  
+May abundance of mead be given Maelgwn of Anglesey, who supplies us.  
+From his foaming meadhorns, with the choicest pure liquor.  
+Since bees collect, and do not enjoy,  
+We have sparkling distilled mead, which is universally praised.  
+The multitude of creatures which the earth nourishes  
+God made for man, with a view to enrich him ; —  
+Some are violent, some are mute, he enjoys them.  
+Some are wild, some are tame ; the Lord makes them ; —  
+Part of their produce becomes clothing ;  
+For food and beverage till doom will they continue.  
+I entreat the Supreme, Sovereign of the region of peace,  
+To liberate Elphin from banishment.  
+The man who gave me wine, and ale, and mead.  
+With large princely steeds, of beautiful appearance ;  
+May he yet give me ; and at the end,  
+May God of his good will grant me, in honor,  
+A succession of numberless ages, in the retreat of tranquillity.  
+Elphin, knight of mead, late be thy dissolution ! "
+
+And afterwards he sang the ode which is called " The Excellence of the Bards," which ended with the following verses : —
+
+" Wherefore should a stone be hard ;  
+Why should a thorn be sharp-pointed ;  
+Who is hard like a flint;  
+Who is salt like brine ;  
+Who sweet like honey ;  
+Who rides on the gale ;  
+Why ridged should be the nose ;  
+Why should a wheel be round ;  
+Why should the tongue be gifted with speech  
+Rather than another member ?  
+If thy bards, Heinin, be competent,  
+Let them reply to me, Taliesin."  
+
+And after that he sang the address which is called " The Reproof of the Bards."
+
+Then sang he the piece called " The Spite of the Bards.'
+
+" Minstrels persevere in their false custom.  
+Immoral ditties are their delight;  
+Vain and tasteless praise they recite ;  
+Falsehood at all times do they utter ;  
+The innocent persons they ridicule ;  
+In idleness without work they feed themselves ;  
+The Church they hate, and the tavern they frequent ;  
+With thieves and perjured fellows they associate ;  
+At courts they inquire after feasts ;  
+Every senseless word they bring forward ;  
+Every deadly sin they praise ;  
+Every vile course of life they lead ;  
+Through every village, town, and country they stroll ;  
+Concerning the gripe of death they think not ;  
+Neither lodging nor charity do they give ;  
+Indulging in victuals to excess.  
+Psalms or prayers they do not use,  
+Tithes or offerings to God they do not pay.  
+On holidays or Sundays they do not worship ;  
+Vigils or festivals they do not heed.  
+The birds do fly, the fish do swim.  
+The bees collect honey, worms do crawl, 
+Every thing travails to obtain its food. 
+Except minstrels and lazy useless thieves.  
+I deride neither song nor minstrelsy,  
+For they are given by God to lighten thought ;  
+But him who abuses them,  
+For blaspheming Jesus and his service."
+
+Taliesin having set his master free from prison, and having protected his wife, and silenced the bards, so that not one of them dared to say a word, now brought Elphin's wife before them, and showed that she had not one finger wanting. Right glad was Elphin, right glad was Taliesin.
+
+```
 
