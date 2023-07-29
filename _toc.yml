@@ -13,6 +13,7 @@ parts:
   - file: hudden_dudden
   - file: blacksmith-devil-willy-wisp
 - caption: Welsh Tales
+  chapters:
   - file: gwion-bach
   - file: bendigeidfran_branwen_second_branch
 - caption: Show Outlines
