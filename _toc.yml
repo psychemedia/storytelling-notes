@@ -8,18 +8,19 @@ parts:
   - file: pentrich/pentrich-rising
   - file: man-no-story
   - file: knight-york-fish-ring
-  - file: gwion-bach
 - caption: As Found in "The Royal Hibernian Tales"
   chapters:
   - file: hudden_dudden
   - file: blacksmith-devil-willy-wisp
+- caption: Welsh Tales
+  - file: gwion-bach
+  - file: bendigeidfran_branwen_second_branch
 - caption: Show Outlines
   chapters:
   - file: unforeseen-nonsense
 - caption: WIP Told Need Telling Again
   chapters:
   - file: woolpit-green
-  - file: bendigeidfran_branwen_second_branch
 - caption: Tales to Tell
   chapters:
   - file: hand-of-glory
