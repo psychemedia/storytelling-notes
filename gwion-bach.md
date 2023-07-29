@@ -716,7 +716,7 @@ She never knew ; and sought in vain
 If 'twere her own misshapen boy,  
 Or little Gwion, born again :
 
-And, vext with doubt, the babe she roiled
+And, vext with doubt, the babe she roiled  
 In cloth of purple and of gold,  
 And in a coracle consigned  
 Its fortunes to the sea and wind-
