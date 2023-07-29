@@ -310,7 +310,7 @@ The magic basket of Gwyddno has a place amongst the Thirteen Precious Things of 
 
 ```
 
-A note in volume II itemises the rather splendid "thirteen precious things of the Island of Britain, about which there are surely many tales that can be told:
+A note in volume II itemises the rather splendid "thirteen precious things of the Island of Britain", about which there are surely many tales that can be told:
 
 ```{admonition} The thirteen precious things of the Island of Britain
 :class: dropdown
