@@ -15,6 +15,7 @@ parts:
 - caption: Welsh Tales
   chapters:
   - file: gwion-bach
+  - file: thirteen-precious-things
   - file: bendigeidfran_branwen_second_branch
 - caption: Show Outlines
   chapters:

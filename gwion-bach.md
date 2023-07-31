@@ -4,6 +4,17 @@ The tale of Gwion Bach, his encounter with the sorceress Ceridwen, his rebirth a
 
 > Ceridwen, the sorceress has two children: her daughter, Creirwy, is perfect in every way; her son, Avagddu, is everything his sister is not. Ceridwen vows to make a potion of Awen, inspiration: it will take a year and a day; and old man and a young boy, Gwion Bach, are brought in to stir the pot and feed the fire; ingredients are collected at auspicious times. The day of reckoning: three bubbles, rise, pop, and burn Gwion Bach on the hand. Hand to mouth, he sees everything that was, is and shall be. He flees, Ceridwen chasing: they change to hare and hunting dog, fish and she-otter, little bird and hawk, grain of wheat and hen. Ceridwen pecks, and eats Gwion Bach. A child is born, she cannot kill it, pushes it onto the lake. Prince Elphin, the luckless, fails to get salmon n the day they leap freely; sees the child — "radiant brow". It talks, it has gown to a young child by the time they get to Elphin's father's court. Taliesin promises a great future for Elphin, with his help, and the young bard is adopted.
 
+```{admonition} Ceridwen's Foul Son
+:class: seealso
+
+In some tellings, Ceridwen's foul son appears to be Morvran, in others, Morvran is an older brother of Avagddu?
+
+In the tale *Kilhwch and Olwen*, we have the following description of Morvran, [p261](https://archive.org/details/mabinogionfroml02mabigoog/page/n377/mode/2up):
+
+> Morvran the son of Tegid, (no one struck him in the battle of Camlan by reason of his ugliness; all thought he was an auxiliary devil. Hair had he upon him like the hair of a stag.)
+
+```
+
 The tale is often paired with a second part in which Taliesin gets Prince Elphin out of a spot of bother with the King, and also repays him for having looked after him as he grew up.
 
 > Elphin has a drink too many at the High King's feast, claims his wife is as virtuous as the Kings, his bard better, his horse fleeter of foot. He is thrown into jail until his wife's virtue is proven. Taliesin hears the disreputable King's son say he will demonstrate her lack of virtue. A kitchen maid is disguised as Elphin's wife, a ring forced onto her little finger. The Kings son arrives, gets the kitchen maid/not-wife drunk, seduces her, cuts off her little finger. Not my wife's: ring would hardly stay on her thumb, her nails are not pared, hr fingers not grained with flour from kneading bread. Elphin in silver chains; there is a bardic competition, Taliesin blurbs as bards pass, they blurb: are you all drunk? Taliesin recites, and the elements are at his command. There is a horse race, twenty four of the king's horses, twenty four holly rods charred black at the end; as each of the High King's horses is tapped on the flank, it falters; cap dropped where the last horse fell, and there, buried gold, a thank you to Elphin from Taliesin.
@@ -306,53 +317,10 @@ After excess comes the far extending death !"
 
 Another composition, attributed to him, is to be found in the same valuable collection. It is in the colloquial form, between himself and the king of Faerie, Gwyn ap Nudd.
 
-The magic basket of Gwyddno has a place amongst the Thirteen Precious Things of Britain. See Vol. II. 353.
+The magic basket of Gwyddno has a place amongst the Thirteen Precious Things of Britain (*see Guest's Mabinogion, Vol. II, 1845, p353*).
 
 ```
 
-A note in volume II itemises the rather splendid "thirteen precious things of the Island of Britain", about which there are surely many tales that can be told:
-
-```{admonition} The thirteen precious things of the Island of Britain
-:class: dropdown
-
-In *The Mabinogion: From the Llyfr Coch O Hergest, and Other Ancient Welsh Manuscripts*, Charlotte Guest, Volume III, 1849, [p353-5](https://archive.org/details/mabinogionfroml02mabigoog/page/n377/mode/2up):
-
-The basket of Gwyddno Garanhir (Vol II, p. 293)
-
-The marvellous basket is reckoned amongst the thirteen precious things of the Island of Britain. In the following Catalogue of these treasures, which is copied from an old MS. in the Collection of Mr. Justice Bosanquet, its properties are, however, made to differ slightly from those assigned to it by Yspaddaden.
-
-...
-
-1. Dymwyn the sword of Rhydderch Hael ; if any man drew it except himself, it burst into a flame from the cross to the point, and all who asked it received it; but because of this property all shunned it : and therefore was he called Rhydderch Hael.
-
-2. The basket of Gwyddno Garanhir ; if food for one man were put into it, when opened it would be found to contain food for one hundred.
-
-3. The horn of Bran Galed ; what liquor soever was desired was found therein.
-
-4. The chariot of Morgan Mwynvawr ; whoever sat in it would be immediately wheresoever he wished.
-
-6. The halter of Clydno Eiddyn, which was in a staple below the feet of his bed ; and whatever horse he wished for in it, he would find it there.
-
-6. The knife of Llwfrodded Farchawg ; which would serve four and twenty men at meat all at once.
-
-7. The cauldron of Tyrnog ; if meat were put in it to boil for a coward it would never be boiled, but if meat were put in it for a brave man it would be boiled forthwith.
-
-8. The whetstone of Tudwal Tudclud ; if the sword of a braye man were sharpened thereon, and any one were wounded therewith, he would be sure to die, but if it were that of a coward that was sharpened on it, he would be none the worse.
-
-9. The garment of Padarn Beisrudd ; if a man of gentle birth put it on, it suited him well, but if a churl it would not fit him.
-
-10. 11. The pan and the platter of Rhegynydd Ysgolhaig; whatever food was required was found therein.
-
-12. The chessboard of Gwenddolen ; when the men were placed upon it, they would play of themselyes. The chessboard was of gold, and the men of silver.
-
-13. The mantle of Arthur ; whosoever was beneath it could see every thing, while no one could see him.
-
-This version is rather different from that given by Jones in his Welsh Bards, `[Jones, Welsg Bards, II p.47]` which omits the halter of Clydno Eiddyn, but adds the mantle of Tegau Eurvron, which would only fit such ladies as were perfectly correct in their conduct, and the ring of Luned, by which she effected the release of Owain the son of Urien, as has already been seen in the story of the Lady of the Fountain; whoever concealed the stone of this ring became invisible.
-
-Gwyddno Garanhir, the possessor of the basket, was the Prince of Cantref y Gwaelod, which was overflowed by the sea. This event will be detailed hereafter in the notes to another Mabinogi, where it is more particularly referred to.
-
-
-```
 
 ```{admonition} Lady Charlotte Guest
 :class: seealso
