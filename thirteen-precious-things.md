@@ -46,6 +46,7 @@ Gwyddno Garanhir, the possessor of the basket, was the Prince of Cantref y Gwael
 There is also a list in Brewer's *Reader's handbook of allusions, references, plots and stories* of 1890:
 
 ```{admonition} *Thirteen Precious Things of Britain*, in Brewer's *Reader's Handbook*, 1890
+:class: dropdown
 
 In *The reader's handbook of allusions, references, plots and stories : with two appendices*, Ebenezer Cobham Brewer, 1880, [p994-5](https://archive.org/details/readershandbook03brewgoog/page/994/mode/1up):
 
@@ -110,11 +111,11 @@ This was a dream—but when the emperor conquered Britain the whole of it was re
 
 ```
 
-## Notable Lords
+## Notable Men
 
 Some more potential colour... In the tale *Kilhwch and Olwen*, there are several descriptions of notable people we can also use for colour ([p261+](https://archive.org/details/mabinogionfroml02mabigoog/page/n377/mode/2up)):
 
-```{admonition}
+```{admonition} Notable Men
 :class: seealso
 
 In, *The Mabinogion*, Lady Charlotte Guest, Vol. II, 1849, [*Kilhwch and Olwen*](https://archive.org/details/mabinogionfroml02mabigoog/page/n377/mode/2up):
