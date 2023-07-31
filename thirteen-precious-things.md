@@ -82,7 +82,7 @@ Thirteen Precious Things of Britain.
 
 ```
 
-## Further Notes on Magical Chessboard
+## Further Notes on Magical Chessboards
 
 Chessboards seem to make a frequent appearance across several tales, and as such provide a good opportunity for description.
 
