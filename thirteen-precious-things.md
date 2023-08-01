@@ -86,7 +86,7 @@ Thirteen Precious Things of Britain.
 
 Chessboards seem to make a frequent appearance across several tales, and as such provide a good opportunity for description.
 
-```{admonotion} Chess references in *Ancient Irish Minstrelsy*, 1852
+```{admonition} Chess references in *Ancient Irish Minstrelsy*, 1852
 :class: dropdown
 
 In *Ancient Irish Minstrelsy*, William Hamilton Drummond, 1852, [p50-1 footnote](https://archive.org/details/ancientirishmins00drumrich/page/50/mode/2up):
