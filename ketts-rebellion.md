@@ -40,7 +40,7 @@ To cast us out like vermin in the night
 And I watched as my homestead burning around me  
 But I won't give up my lands without a fight.
 
-Well I damn you to hell my Lord Fitzherbert
+Well I damn you to hell my Lord Fitzherbert  
 As the bastard who would drive us from the land  
 And I swear on this day for retribution  
 There comes a time when a man must make a stand
