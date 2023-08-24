@@ -50,12 +50,12 @@ I will fight for the right to be free
 Well I'll dance the jig of death in the morning  
 As they hang me from the Gallow's Tree
 
-I like to tell Fitzherbert came in distance,
+I like to tell Fitzherbert came in distance,  
 My pistol hanging silent by my side  
 So let this be a lesson tyrant landlord  
 As my bullet hit him right between the eyes.
 
-So now as I'm stand beneath the Gallow's  
+So now as I stand beneath the gallows  
 And I gaze up in defiance to the sky  
 Well I'll meet you down in hell my Lord Fitzherbert,  
 For my honour and my freedom I must die
