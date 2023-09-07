@@ -12,7 +12,78 @@ One day, a letter arrived, a petition. The commoners were complaining again and 
 
 The secretary skimmed through them:
 
+---
 
+https://en.wikipedia.org/wiki/Kett%27s_Rebellion
+
+https://archive.org/details/kettsrebellioni01russgoog
+Kett's rebellion in Norfolk;
+by Russell, Frederic William, 1821-1877. [from old catalog]
+Publication date 1859
+
+https://archive.org/details/robertkettthenor00clayuoft
+Robert Kett and the Norfolk rising
+by Clayton, Joseph, 1868-
+Publication date [1912]
+
+
+Related Ferocious Dog song, general topic land enclosures
+
+https://www.youtube.com/watch?v=9mzQ6ylWia0
+https://www.youtube.com/watch?v=1cJ-GXBC0L8
+
+Gallows Justice
+
+We fought back in the year of the famine  
+Revenge on the rich by the poor  
+The sake of our lands, and our loved ones,  
+Our rights to live upon these shores.
+
+Well this is the land of our fathers  
+We worked the land with blood, sweat and tears  
+Our kindred are buried all around us  
+We have loved the land, with the turning of the years
+
+I will dance the jig of death in the morning  
+I will fight for the right to be free  
+Well, I'll dance the jig of death in the morning  
+As they hang me from the Gallows Tree
+
+Fitzherbert and his troopers came a-calling  
+To cast us out like vermin in the night  
+And I watched as my homestead burning around me  
+But I won't give up my lands without a fight.
+
+Well I damn you to hell my Lord Fitzherbert  
+As the bastard who would drive us from the land  
+And I swear on this day for retribution  
+There comes a time when a man must make a stand
+
+I will dance the jig of death in the morning  
+I will fight for the right to be free  
+Well I'll dance the jig of death in the morning  
+As they hang me from the Gallow's Tree
+
+I like to tell Fitzherbert came in distance,  
+My pistol hanging silent by my side  
+So let this be a lesson tyrant landlord  
+As my bullet hit him right between the eyes.
+
+So now as I stand beneath the gallows  
+And I gaze up in defiance to the sky  
+Well I'll meet you down in hell my Lord Fitzherbert,  
+For my honour and my freedom I must die
+
+I will dance the jig of death in the morning  
+I will fight for the right to be free  
+Well, I'll dance the jig of death in the morning  
+As they hang me from the Gallow's Tree
+
+Fight, fight and die for the honour to be free  
+We'll fight, fight and die for the honour to be free  
+We'll fight, fight and die for the honour to be free  
+Well I'll fight, fight and die for the honour to be free  
+Hey
 
 ---
 https://archive.org/details/historyofnorwich00browiala/page/28/mode/1up?q=kett
@@ -74,7 +145,7 @@ UPWARDS OF THREE THOUSAND FIVE HUNDRED OF THE REBELS.
 TAKEN FROM THE BEST ACCOUNT THAT WAS EVER PRINTED. 
 
 NORWICH: PRINTED BY LANE AND WALKER, AND SOLD BY AND FOR W. CHIPPERFIELD.  
-Price Is. 6d. Stiched, or in Boards 2s. 
+Price 1s. 6d. Stiched, or in Boards 2s. 
 
 THE HISTORY OF KETT'S REBELLION. 
 
