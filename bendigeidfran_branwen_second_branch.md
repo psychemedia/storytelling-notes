@@ -147,3 +147,13 @@ For more completeness in call backs relating to the honour price given to Mathol
 Finally, the out with the rooks and ravens was really fumbled, in part because I'd forgotten to set up the "bury my head facing South to ward off invasion from the French under the White Hill in London" instruction as Bendigeidfran was decapitated.
 
 `````
+
+Five part telling:
+
+- Bran and Branwen, the arrival of the Matholwch's ships; the betrothal; and the mutilation of the horses by Efnysien; cliffhanger: how would Matholwcyh respond?
+- the blood price, the departure and the promise to never mention the humilation again; cliffhanger: so did they all live happily ever after? My tale would be a short one if they did; but whawhat did happen will have to wait for the next part....
+- the child, the humiliation of Branwen, the sending of the message, its presentation to Bran; cliff hanger: how would he respond?
+- the fleet, the chase, the hall, the battle; the survivors made their way back to Wales; as to what happened then, we will have to wait for the next part of the tale...
+- the return to Wales, the seven years, the door, the White Castle, the rooks.
+
+Two part telling: split at the point where Branwen sends the starling to her brother...
