@@ -16,23 +16,23 @@ It is also not intended as a script to be recited, though a retelling may includ
 ```{admonition} A Shortened Retelling of the Second Branch of the Mabinogion
 :class: dropdown
 
-Have you ever seen, or heard, of the ravens in the the Tower of London? The ravens whose continued presence there keeps England free from invasion? This story, even though it is a Welsh tale, tells of how they came to be there... sort of.
+Have you ever seen, or heard, of the ravens at the White Tower — the Tower of London? The ravens whose continued presence there keeps England free from invasion? This story, even though it is a Welsh tale, tells of how they came to be there... sort of.
 
-It is a tale of a giant, Bendigeidfran. Bendigeidfran son of Llyr.  No ship could carry him, no house could give him shelter. Bendigeidfran, also known as Brân the Blessed, or Blessed Crow. For in Welsh, Brân means "raven", or "crow". Bendigeidfran, King of the Island of the Mighty, as the island of Britain was known at the time.
+It is a tale of a giant, Bendigeidfran. Bendigeidfran son of Llyr. Bendigeidfran, also known as Brân the Blessed, or Blessed Crow. For in Welsh, Brân means "raven", or "crow". Bran, the giant. No ship could carry him, no house could give him shelter. Bran, King of the Island of the Mighty, as the island of Britain was known at the time.
 
 And it is also the tale of Branwen, Bendigeidfran's sister. Branwen, whose name means "white crow". Branwen, the most beautiful girl, in this world, or the other.
 
 One day, thirteen fast ships were spied approaching the Pembrokeshire coast. Irish ships. At the prow, a shield, its point faced upwards, a sign that they came in peace.
 
-Matholwch was the first ashore. Matholwch, the King of Ireland. He was immediately taken to meet Bendigeidfran, the King of the Britains. The Irish king, Matholwch, was seeking marriage with Branwen, Bendigeidfran's sister, a marriage treaty between their two kingdoms.
+Matholwch was the first ashore. Matholwch, the King of Ireland. He was immediately taken to meet Bendigeidfran, the King of the Britains. The Irish king, Matholwch, was seeking marriage with Branwen, Bendigeidfran's sister, Branwen, Princess of the Island of the Mighty, as a marriage treaty between their two kingdoms.
 
 "A splendid idea", said Bendigeidfran and his advisers, and so it was agreed. The feasting, and the drinking, and the carousing began. And that night, as was the custom, Matholwch and Branwen spent together, as the start of what would be their three days of hand-fasting.
 
 As the festivities began, Matholwch's men and horses were billeted far and wide. And it was one of these new billets that was seen by Efnysien, just as he returned from a journey far to the north. Efnysien, Bendigeidfran and Branwens's half-brother on their mother's side. Efnysien, a man so bitter, a man so twisted, he could pitch two of the most loving brothers into mortal battle with each other.
 
-"Whose are these horses?", he asked, and he was told: "the horses of Matholwych, King of Ireland, who is now married to Branwen".
+"Whose are these horses?", he asked, and he was told: "the horses of Matholwych, King of Ireland, he who is now married to your sister, Branwen".
 
-Efnysien was not happy, he was not happy at all. He was furious; he should have been consulted, for Branwen was his sister, and, and... and so he took his sword, and he started to mutilate the horses: he pared their gums to their teeth, their tails to their backs, their ears to their heads, and their eyelids to their skulls.
+And Efnysien was not happy: he was not happy at all. He was furious; he should have been consulted, for Branwen was his sister, and, and... and so he took his sword, and he started to mutilate the horses: he pared their gums to their teeth; their tails to their backs; their ears to their heads; and their eyelids to their skulls.
 
 ---
 
@@ -40,7 +40,7 @@ And word got back to Matholwch. What treachery was this? He took offense as well
 
 Bendigeidfran called him back, offered him recompense. But the honour price was too high — the life of Efnysien. Instead, Bendigeidfran offered a horse for each horse that was mutilated, a silver rod the width of Matholwch's thumb, and as tall as he stood, and a gold plate the size of his head.
 
-Matholwch was persuaded to stay, but the good cheer that had bound the two Kings together the previous night was gone. Bendigeidfran filled the silence with a promise of another gift - the cauldron of rebirth. If a man that had died that day was put into the cauldron, he would live again the next day, although without the power of speech.
+Matholwch was persuaded to stay; but the good cheer that had bound the two Kings together the previous night was gone. Bendigeidfran filled the silence with a promise of another gift - the cauldron of rebirth. If a man that had died that day was put into the cauldron, he would live again the next day, although without the power of speech.
 
 And so Matholwch departed, along with his new wife, Branwen. And the Irishmen swore never to mention the humiliation that Matholwch had suffered on that trip.
 
@@ -50,7 +50,7 @@ But what could she do?
 
 One day, she found a starling in the courtyard. Its wing was hurt, damaged. She nursed it, and it recovered; she trained it, and trained it well; and one day attached a message to it, and sent it on its way to her brother, to Bendigeidfran.
 
-When he received the message, he was furious, cursing — what brother wouldn't be? — cursed, and raged, and summoned his men to set off across the sea. Bendigeidfran, giant that he was, was too big for any ship, and he walked through the sea; the fleet sailed at his side.
+When he received the message, he was furious, cursing — what brother wouldn't be? — cursed, and raged, and summoned his men to set off across the sea. No ship could carry him, no house could give him shelter, so Bendigeidfran, giant that he was, being too big for any ship, walked through the sea; and his fleet sailed at his side.
 
 ---
 
@@ -68,7 +68,7 @@ Mathelwch surrendered, offered his son Gwern, Bendigeifren's nephew, to be king 
 
 Mathelwch, once again, completely out of ideas, turned to Branwen. Was there anything that would placate him?
 
-"There has never been a house big enough that he could enter", she said, "so make him a house he might fit in".
+"You know what they say of him,"said Branwen. "'No ship can carry him, no can could give him shelter.' There has never been a house big enough that he could enter", she said, "so make him a house he might fit in".
 
 And so the house was built.
 
@@ -79,8 +79,6 @@ But as the house was built, hooks were placed on either side of the hundred grea
 When Efnysien came to inspect the hall, he saw the sacks on the hooks, and he asked what was in them. "Flour," they said, and so he felt the first bag, felt the man's head inside the bag, and squeezed. And squeezed some more; and squeezed until the man's skull gave way. He squeezed and it squished.
 
 And then he went to the second bag: "and this is...?" "Flour". "Ah ha...". And he squeezed, and he squeezed some more. And then it squished. And so it went on...
-
----
 
 That night, the great house was filled with the men of both armies, seated round a great fire in the center. There was eating; and drinking. A lot of drinking...  And the tension between them lessened, perhaps.
 
@@ -98,9 +96,9 @@ The battle was all but over. The dead were many. The survivors were few.
 
 ---
 
-The Irish had been killed, to a man. Of Bendigeidfran's men, only seven lived through that terrible battle. Seven men, and Branwen.
+The Irish had been killed, to a man. Only their women remained. Of Bendigeidfran's men, only seven lived through that terrible battle. Seven men, and Branwen.
 
-Bendigeidfran, perhaps, would have been one of those who few who survived, were it not for the poison on the tip of the spear that pierced his foot. Poison that had started to spread. "Cut off my head" he said, "I will still be good company for you, for seven years in Harlech, and eighty years after that. But do not open the door that faces Cornwall," he rather cryptically said, "or sorrow will end it all. And then you must bury my head, on the Bryn Gwyn, the White Hill in London, facing south".
+Bendigeidfran, perhaps, would have been one of those who few who survived, were it not for the poison on the tip of the spear that pierced his foot. Poison that had started to spread. "Cut off my head" he said, "I will still be good company for you, for seven years in Harlech, and eighty years after that. But do not open the door that faces Cornwall," he said, rather cryptically, "or sorrow will end it all. And then you must bury my head, on the Bryn Gwyn, the White Hill in London, facing south".
 
 And so they did. And of all the men who had left the Island of the Mighty only seven returned. Only seven, and Branwen. And the chatty head of Bendigeidfran, carried on the the golden platter that had been given to Matholwch several years before.
 
@@ -114,11 +112,11 @@ But as the years went by, for one of the seven, it started to become too much. A
 
 "Shame upon my beard," he said, "if I don't find out what happens if I open that door".
 
-And as he did so, the weight of years, and the weight of all the sorrows of their lives, and their brothers lives, and of all those that had died in the battle, and more, fell upon them.
+And so he did. And as he did so, the weight of years, and the weight of all the sorrows of their lives, and their brothers lives, and of all those that had died in the battle, and more, fell upon them.
 
 And so, they left. They made their way to London. And there, under the Bryn Gwyn, the White Hill, they buried the head of the giant Bendigeidfran, facing south to protect the Island of the Mighty against foreign invaders from France.
 
-And though the story may have been lost to many, in England at least, a memory of it remains. In the form of the the ravens who inhabit the Tower of London today, the Tower that stands on the White Hill, the Bryn Gwyn. The ravens who will protect England against invasion as long as they are there. As did Bendigeidfran, Brân the Blessed, the Blessed Crow, or Raven.
+And though the story may have been lost to many, in England at least, if not in Wales, a memory of it remains. In the form of the the ravens who inhabit the Tower of London today, the White Tower that stands on the White Hill, the Bryn Gwyn. The ravens who will protect England against invasion as long as they are there. As did Bendigeidfran, Brân the Blessed, the Blessed Crow, or Raven.
 
 And that is the end of the story, the story of Brân and Branwen, the story of the second branch of the Mabinogion.
 
@@ -148,12 +146,11 @@ Finally, the out with the rooks and ravens was really fumbled, in part because I
 
 `````
 
-Five part telling:
+Five (up to seven) part telling:
 
 - Bran and Branwen, the arrival of the Matholwch's ships; the betrothal; and the mutilation of the horses by Efnysien; cliffhanger: how would Matholwcyh respond?
-- the blood price, the departure and the promise to never mention the humilation again; cliffhanger: so did they all live happily ever after? My tale would be a short one if they did; but whawhat did happen will have to wait for the next part....
-- the child, the humiliation of Branwen, the sending of the message, its presentation to Bran; cliff hanger: how would he respond?
-- the fleet, the chase, the hall, the battle; the survivors made their way back to Wales; as to what happened then, we will have to wait for the next part of the tale...
+- the blood price, the departure and the promise to never mention the humilation again; (possible break here); the child, the humiliation of Branwen, the sending of the message, its presentation to Bran; cliff hanger: how would he respond? *or* Bran assembles his fleet and sets off to save his sister;
+- the fleet, the chase, the hall, (possible break point here...) the battle; the survivors made their way back to Wales; as to what happened then, we will have to wait for the next part of the tale...
 - the return to Wales, the seven years, the door, the White Castle, the rooks.
 
 Two part telling: split at the point where Branwen sends the starling to her brother...
