@@ -56,6 +56,174 @@ Now, the man in charge of the camp had been a landlord himself. Indeed, he'd bee
 
 https://en.wikipedia.org/wiki/Kett%27s_Rebellion
 
+
+--
+
+ASIDE
+
+At the same time also and nere vnto the place, there was a Myller who had bene a very busy Verlet in that rebellion, whome also Syr Anthonye Kingston sought for : But the Myller had warning, and he hauing a good tall felow to his seruaunt called him vato him the owner and sayd, I must go foorth, if their come anyto aske for me, say that thou art to him of the Myll, and that thou hast kept the same this foure yeres, and in no wise name not me. The seruaunt promised his Maister so to do.
+
+Afterward came syr Anthony Kingston to the Myllers house and called for the Miller, the seruaunt aunswered that he was the Miller. Then sayd Maister Kinston how long hast thou kept this Mill, and he aunswered three yeres. Well then sayde he come on thou must go with me, and caused his seruauntes to lay handes on hym, and brought him to the next tree, saiyng you haue bene a rebellious Knaue, and therfore here shall you hang. Then cryed he & sayd that he was not the Miller, but the Millers seruaunt, well then sayd he you are a false knaue to be in two tales, therefore hange him vp sayd he, and so he was hanged. After he was hanged, one beyng by, sayd to syr Anthony Kingstone, surely this was but the Millers man, what then sayd he ? could he euer haue done his Maister better seruice than to hang for him.
+
+
+In this meane tyme the whole realme in a maner in euery shire were gathered together
+in vnlawful assemblies, as Oxfordshire, Barkeshire, Middlesex, Essex, Norffolke, SufBarkshire, Mid- folke, whose Capitaynes were, Robert Kette a Tanner, and William Kette his brother,
+Norfolke, Suf- against whome was sent bythe kinges maiestie the Lorde Marques of Northhampton, beyng slenderly prouided of all thinges necessary for such an enterprise. Which beyng perceyued of the Rebelles, they tooke corage thereby the more stoutely to withstand them.
+Neuerthelesse he entred the Citie of Norwich, and liyng there one night, he was sore assaulted by the rebelles, which in number were three times as many as came wyth him. By
+reason whereof he was forced to retire, with the losse of diuerse of his company, namely
+of the gentle Lord Sheffelde, who by the sayd rebelles was cruelly murdered, to the great
+discomfort of the sayd Lorde Marques, and other Gentlemen that at that time attended
+vpon him. And after the said rebels beyng puffed vp with vain glorye, did vse towardes
+the Gentlemen of that countrye great crueltie, in fetching them out of their houses and
+brought them to their camp, and compelled some of them to be their counsaylors, whether
+they woulde or not, as Sergeaunt Gaudy, Sergeaunt Catlyn, and many other : But yet
+they trusted them not so well, but they clapped a payre of Fetters vpon their heeles, to
+keepe them safe when they had them from steppyng away. And the place where the common meetyng and counsaile was kept, was at a certaine tree, which they called the tree of
+Reformation.
+Sir John Dudley Erle of War- wick.
+After that the Lorde Marques hauyng the repulse as aforesayde, was returned. Then
+the kinges Maiestie sent that valiaunt and warlike knight syr Iohn Dudley Erle of Warwick agaynst them wyth a greater number, & better furnished : Who also had with him
+two thousand of † Launceknights that we spake of before, which were retayned to go
+into Scotlande : which Launceknightes at that iournay did great and good seruice, and
+fought valiauntly and manfully, although many of them were slaine. Nowe when the Erle
+of Warwicke, who was not onely a valiant and hardie Gentleman, but also wise and pollitique, was come nere to the rebelles, he marched forwarde in so good order, that the rebelles began to feare. But yet as men desperate they gathered themselues together, and
+stoutly set forth and aduentured the battaile with the sayde Erle, who beyng a very politique Capitaine, assaulted them first with the sayde straungers, beyng footemen on the
+front, whilest he and his horsemen gaue the charge on the flanke of their battaile, whereby
+the battaile of the sayde rebelles began to breake, and in conclusion was vtterly scattered,
+and a great number of them slaine, and Kette theyr chiefe Capitaine put to flight.
+Neuerthelesse the residue, as desperate men reinforced the battaile, meanyng to make
+triall ofa newe field. But the Erle loth to procede to the destruction of the whole number, consideryng that they were our awne Nation and people, did very mercifully send
+an Herault vnto them, saiyng, that if they woulde deliuer vnto him such as were their Capitaynes and chiefe heades, the rest should receyue the kinges most gracious pardon, and
+haue fre libertie to depart euery man to his house and Country. The which pardon they
+would not at the first seeme to receyue, vntill they sawe the sayde Erles maine battaile to
+approche, and the horsemen with the straungers readie to geue a newe onset, whereofthey
+standyng in feare, yelded themselues vnto the kinges mercie and pardon, who accordyng
+to the Erles promise made by his Herault, were all pardoned, sauyng certaine to the
+number of. xxiiij . chiefe sturrers in this rebellion, who were presently executed. And af- Robert Ket and
+ter Robert Kett, and William Kett his brother, which before were fled, were taken, and William Kette
+brought first to the Erle, and then sent vp to the king to Westminster, and from thence taken and exethey were sent againe into Norffolke, and there executed accordyng to their merits. Thus
+was this rebellion of Norffolke by the singuler prouidence and manhoode of this noble
+Erle pacifyed by the punishment of a fewe, without any losse of life, landes, or goodes,
+to any other of the Countrie.
+
+...
+
+In this meane time, while the Frenche king was thus occupied about Bolleyn in Fraunce,
+the kings maiestie was still occupied in quyeting and pacefiyng of his rebellious people in
+Englande, and finally to pacefie them and to set them all at rest, the king published his
+graces most generall and free pardon to all rebels, so that they would foorthwith vpon the
+publication of the sayde pardon, euerye man to returne to his house and countrey, which :
+they gladly did, and so thys sedicious and most daungerous rebellion seased.
+
+After these hurly burlyes were pacefied and quieted, many of the Lords of the realme, withdrawe
+as well counsaylors as other mislyking the gouernement of the Protector, began to with-
+
+drawe themselues from the Courte, and resorting to London, fell to secret consultation
+for redresse of things, but namely for the displacing of the sayde Lorde Protector, and
+sodainely of what occasion many maruayled and fewe knewe, euery Lorde and Counsaylor went thorowe the Citie weaponed, and had their seruauntes likewise weaponed attendyngvpon them in newe lyuerings to the wondering of many. And at the last, a great
+assemble of the sayde Counsaylors was made at the Erle of Warwikes lodging which was
+then at Ely place in Holborne, whether all the Confederates in this matter came priuily
+armed, and finally concluded to possesse the Tower of London, which by the pollecie of
+Sir Wylliam Paulet Lorde Treasorer of Englande was peaceably obteyned for them, who
+by order of the sayde Confederates, immediatly remoued Sir John Markam then Lieutenant of the Tower, and placed in that rome syr Leonard Chamberleyne. And after
+that the sayde counsayle was broken vp at Ely place, the Erle ofWarwike remoued forthwith into the Citie of London, and laye in the house of one Iohn Yorke Citezen of London, who was then chiefe mayster of the Mynt in Southwarke in Suffolke place, which
+Yorke was shortly after by the ayde of the sayde Erle of Warwike made by the king
+knight, by the name of syr Iohn Yorke.
+The Lorde Protector hearing of the maner of the assembly of this counsaile, & ofthe
+taking of the Tower which seemed to him verie straunge and doubtfull, did presently the
+saide night remoue from Hampton Court, taking the king with him vnto the Castell of
+Wyndsore, and there began to fortefie the same.
+The Lordes of the Counsayle beyng then in London as aforesaide conferred with the
+Maior of London and his brethren, first wylling them to cause a good and substantiall
+watch by night, and a good warde by daye to be kept for the safegarde of the Citie, and
+the portes and gates thereof, which was consented vnto : and the Companyes of London
+in their turnes warned to watch and warde accordingly.
+Then the sayd Lords and counsaylors demaunded of the Lord Maior and his brethren
+fiue hundred men to ayde them to fetch the Lorde Protector out of Wyndsore from the
+king. But thervnto the Maior aunswered that he could graunt no ayde without the assent
+of the common counsayle of the Citie. Wherevpon the next daye, a common counsayle
+was sommoned to the Guyldhall in London.
+But in this meane time, the sayde Lordes of the counsayle assembled themselues at the
+Lorde Maiors house of London, who then was syr Iohn Amcotes Fishemonger, and WilAproclamation liam Locke Mercer, and syr Iohn Aileph Shiriefes of the sayde Citie. And there the
+gaynst the Lord sayde Counsaile agreed and published a proclamation forthwith agaynst the Lorde Protector, the effect of which proclamation was as foloweth.
+published
+Protector.
+First, that the Lord Protector by his malicious and enill gouernement was the occasion
+of al the sedition that of late had happened win the realme.
+The losse of the kings peeces in Fraunce.
+That he was Ambicious and sought his awne glory, as appered by his building of most
+sumpteous and costly houses, and specially in the time of the kings warres, and the kings
+souldiours vnpayde.
+That he esteemed nothing the grave counsayle of the Counsaylors.
+That he sowed sedicion betwene the nobles, the gentlemen & commons.
+That the nobles assembled themselues together at London for none other purpose, but
+to haue caused the Protector to haue liued within lymits, and to haue put suche order for
+the kings maiestie as apperteyned, whatsoeuer the Protectors doings were, which, (as they
+sayde) were vnnaturall, ingrate and Trayterous.
+That the Protector slandered the counsayle to the king, and did that in him laye to--
+cause variaunce betwene the king and his nobles.
+That he was a great Traytor, and therefore the Lordes desired the Citie and the commons to ayde them to take him from the king. And in witnesse and testimonie of the
+contentes of the sayde proclamation, the Lordes subscribed their names and tytles, beyng
+sixtene in number.
+the Citecent
+moncounsailein
+After the aforesayd proclamation was proclaymed, the Lordes or the most part ofthem
+continuing and liyng in London, came the next day to the Guyldhall during the time that
+the Lord Maior & his brethren, sate in their court or inner chamber, and entred and
+commoned a long while with them, and at the last, the Maior and his brethren came forth
+vnto the cōmon counsayle, where was read the kinges letter sent vnto the Maior and The kinges
+Citezens, commaunding them to ayd him with fiue hundred men, and to send the same letter readto
+to his Castell at Windsore : and to the same letter was adioyned the kinges hand and the
+Lorde Protectors. On the othersyde by the mouth of the Recorder, it was requested
+that the Citezens would graunt theyr ayde rather vnto the Lordes, for that the Protector
+had abused both the kinges maiestie and the whole Realme, and without that he were
+taken from the king, and made to vnderstand his folly, this realmne was in great hasard,
+and therfore required ý the Citezens would willingly assent to ayd the Lordes with fiue
+hundred men, herevnto was none other answere made but scilence. But the Recorder
+(who at that time was a worthy gentleman called Maister Brooke) still cryed vppon them
+for aunswer. At the last stepped vp a wise and good Citezen and sayd, in this case it is
+good for vs to thinke of thinges past to auoide the daunger of thinges to come. I remember, sayth he, in a story written in Fabians Chronicle, ofthe warre betweene the king A Citizens tale
+and his Barons, which was in the time of king Henry the third, and the same time the toldeinthecomBarons as our Lordes do now demaunded ayde of the Maior and Citie of London, & London.
+that in a rightfull cause for the common weale, which was for the execution of diuers
+good lawes, whervnto the king before had geuen his cōsent, and after would not suffer
+them to take place, and the Citie did ayde the Lords, & it came to an open battayl,
+wherin the Lordes preuayled and toke the king and his sonne prisoners, and vpon certayne condycions, the Lordes restored againe the king and his sonne to their liberties.
+And among all other condicions, this was one that the king should not only graunt his
+pardon to the Lords, but also to the Citezens of London, which was graunted, yea and
+the same was ratefied by act of parliament. But what followed of it ? was it forgotten ›
+no surely, nor forgeuen during the kinges life, the lyberties of the Citie were taken away,
+Straungers appoynted to be our Heades and Gouernors, the Citezens geuen away bodye
+and goodes, and from one persecution to another, were most miserably afflicted, suche it
+is to enter into the wrath of a prince, as Salomon sayth, the wrath & indignation of a
+Prince is death. Wherefore forasmuch as this ayde-is requyred of the kinges maiestie,
+whose voyce we ought to hearken vnto, for he is our high shepherd, rather then vato ŷ
+Lords : and yet I would not wish the Lords to be clerely shake off, but that they with vs,
+and we with them may ioyne in sute and make our most humble peticion to the kinges
+maiestie, that it woulde please his highnesse to heere such complaynt against the gouernement of the Lorde Protector as maye be iustly alleged and proued. And I doubt not, but
+this matter will be so pacefied, that neither shall the king, nor yet the Lordes haue cause
+to seeke for further ayde, neyther we to offend any of them both. After this tale, the
+commons staied, and the lord Maior and his brethren for that time brake vp, and afterwarde commoned with the Lordes.
+"
+.
+the kingby the
+The Lordes sate the next daye in counsayle in the Starre Chamber and from thence gir Philip
+they sent Sir Phillipe Hobby, with their letter of credence to the kinges maiestie, beseching Hobby sentto
+his highnesse to geue credite to that which the sayd Sir Phillip should declare vnto his ma- Lordes.
+jestie in their names : and the king gaue him libertie to speake, and most gentely heard
+all that he had to saye. And truely he did so wisely declare his message, and so grauely
+tolde his tale in the name ofthe Lordes, but therewithall so vehemently and so grieuously
+against the Protector, who was also there present by king, that in the ende, the Lord The Lorde ProProtector was commaunded from the kinges presence and shortly was committed to ward tector commitin a Tower within the Castel of Windsore called Beauchampes Tower. And sone after
+were staied Sir Thomas Smith, Maister Whalley, Maister Fissher, and many other Gentlemen that attended vpon the Lorde Protector. And the same daye, the Lordes of the
+Counsayle came to Wyndsore to the king, and the next day they brought from thence the
+Lorde Protector and the other that were there stayed, and conueied them through the
+The Lorde Pro- Citie of London with as much wonderment as might be vnto the Tower, where they remayned prisoners.
+tector conimit- ed to the Tower.
+A parliamēt.
+An acte for vne lawfull assemblies.
+1549
+Shortly after the Lordes resorted vnto the Tower, and there charged the Protector
+with sundry articles, which for tediousnesse I omyt.
+
 ---
 
 series of proclamations:
@@ -74,6 +242,8 @@ series of proclamations:
 - 15 August: "To be ready to attend the Army with the Earl of Warwick."
 - 18 August: Warwick ready to march
 - 24 August: Warwick's Herald offers pardon, excpet to Kett; "vile and horrible pardon, must accept else be crushed; crowd's mood changed; young boy bared buttocks, killed by arrow, uproar; Kett tried to lead Herald aware to negotiate w/ Warwick, met some more of his men, what could he do but turn back..
+- 28 August Kett captured
+- Sept 7 Ketts taken by Warwick from Norwich, Sept 9th into Tower of London
 - 5 October somerset gathers at Hampton Court
 - 11 October somerset arrested, replaced by Warwick
 - 7 Decemeber, sentence and execution of Ketts
