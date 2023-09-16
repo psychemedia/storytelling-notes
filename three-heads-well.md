@@ -215,6 +215,8 @@ The old wives tale
 by Peele, George, 1556-1596
 1908
 
+See also: https://www.youtube.com/watch?v=yZCOSOZRTz4
+
 ~lines 740-
 
 Enter Zantyppa the curft Daughter to the well,
