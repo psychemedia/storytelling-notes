@@ -270,6 +270,12 @@ Cockell callelt thou it boy, aith Ile give you cockell bread.
 
 ...
 
+---
+
+See also Frau Holle (Grimm), also "Husband's Daughter and Wife's Daughter" (Asbjornsen & Moe)
+
+See also Frog Prince (Grimm) as similar to "Wal at Warld's end".
+
 
 
 
