@@ -100,7 +100,7 @@ And thou shalt have some cockell-bread.
 It is also in Chambers, *l.c.*, [Popular Rhymes of Scotland], 105, where the well is at the World's End (cf. No. xli.). The contrasted fates of two step-sisters, is the Frau Holle (Grimm, No. 24) type of Folk-tale studied by Cosquin, i. 250, seq.  Kate Crackernuts" (No. xxxvii.) is a pleasant contrast to this.
 
 --
-See also "The Well of the World's End" in Jacobs, and "The Husband's Daughter and the Wife's Daughter", eg with the share trick of a seive to carry water, daubed with muad and / or moss, and a rhyme to go with it.
+See also "The Well of the World's End" in Jacobs, and "The Husband's Daughter and the Wife's Daughter" in Asbjornsed & Moe, eg with the share trick of a seive to carry water, daubed with muad and / or moss, and a rhyme to go with it.
 
 ---
 
