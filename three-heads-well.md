@@ -26,7 +26,11 @@ LONG before Arthur and the Knights of the Round Table, there reigned in the east
 
 With that the lady pulled out her provisions, and bade him eat and welcome. He did so, and gave her many thanks, and said : " There is a thick thorny hedge before you, which you cannot get through, but take this wand in your hand, strike it three times, and say, " Pray, hedge, let me come through," and it will open immediately ; then, a little further, you will find a well ; sit down on the brink of it, and there will come up three golden heads, which will speak; and whatever they require, that do." Promising she would, she took her leave of him. Coming to the hedge and using the old man's wand, it divided, and let her through ; then, coming to the well, she had no sooner sat down than a golden head came up singing :
 
-" Wash me, and comb me, And lay me down softly. And lay me on a bank to dry, That I may look pretty. When somebody passes by."
+" Wash me, and comb me,  
+And lay me down softly.  
+And lay me on a bank to dry,  
+That I may look pretty.  
+When somebody passes by."
 
 "Yes," said she, and taking it in her lap combed it with a silver comb, and then placed it upon a primrose bank. Then up came a second and a third head, saying the same as the former. So she did the same for them, and then, pulling out her provisions, sat down to eat her dinner.
 
@@ -56,7 +60,7 @@ She answered : " Good things, which you shall not be troubled with."
 
 The old man frowned, saying : " Evil fortune attend ye!"
 
-Going on, she came to the hedge, through which she espied a gap, and thought to pass through it ; but the hedge closed, and the thorns ran into her flesh, so that it was with great difficulty that she got through. Being now all over blood, she searched for water to wash herself, and looking round, she saw the well. She sat down on thw brink of it, and one of the heads came up, saying : " Wash me, comb me, and lay me down softly," as before, but she banged it with her bottle, saying, "Take that for you: washing." So the second and third heads came up, and met with no better treatment than the first. Whereupom the heads consulted among themselves what evils to plague her with for such usage.
+Going on, she came to the hedge, through which she espied a gap, and thought to pass through it ; but the hedge closed, and the thorns ran into her flesh, so that it was with great difficulty that she got through. Being now all over blood, she searched for water to wash herself, and looking round, she saw the well. She sat down on thw brink of it, and one of the heads came up, saying : " Wash me, comb me, and lay me down softly," as before, but she banged it with her bottle, saying, "Take that for your washing." So the second and third heads came up, and met with no better treatment than the first. Whereupom the heads consulted among themselves what evils to plague her with for such usage.
 
 The first said : " Let her be struck with leprosy in her face."
 
