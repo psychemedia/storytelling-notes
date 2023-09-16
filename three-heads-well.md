@@ -8,7 +8,8 @@ When we first started going to stories 25 years or so ago, this is one of tales 
 https://www.youtube.com/watch?v=b6eTpK2HCkM
 TONY WILSON STORYTELLER "The Three Golden Heads of the Well"
 
---
+---
+
 https://archive.org/details/englishfairytal00jacogoog/page/n256/mode/2up?q=%22three+heads%22
 English Fairy Tales
 by Joseph Jacobs
@@ -167,7 +168,7 @@ Publication date 1801
 
 pp234-5
 
-XIX. The Tale of the Wolf of the Warldis End, is likewise lost, as no MS. copy has been preserved. The romance, for the convenience of singing or narration, has probably been melted down by tradition into detached fragments, from which songs and nursery tales have been formed. I have heard fragments of songs repeated, in which the " well of the warldis end is mentioned," and denominated " the well Absalom, " and " the *cald well* sae weary. " According to the popular tale, a lady is sent by her stepmother to draw water from the well of the world's end. " She arrives at the well, after encountering many dangers ; but soon perceives that her adventures have not reached a conclusion. A frog emerges from the well, and, before it suffers her to draw water, obliges her to betrothe herself to the monster, under the penalty of being torn to pieces. The lady returns safe ; but at midnight the frog-lov trs at the door, and demands entrance, according to promise, to the great consternation of the lady and her nurse.
+XIX. The Tale of the Wolf of the Warldis End, is likewise lost, as no MS. copy has been preserved. The romance, for the convenience of singing or narration, has probably been melted down by tradition into detached fragments, from which songs and nursery tales have been formed. I have heard fragments of songs repeated, in which the " well of the warldis end is mentioned," and denominated " the well Absalom, " and " the *cald well* sae weary. " According to the popular tale, a lady is sent by her stepmother to draw water from the well of the world's end. " She arrives at the well, after encountering many dangers ; but soon perceives that her adventures have not reached a conclusion. A frog emerges from the well, and, before it suffers her to draw water, obliges her to betrothe herself to the monster, under the penalty of being torn to pieces. The lady returns safe ; but at midnight the frog-lover appears at the door, and demands entrance, according to promise, to the great consternation of the lady and her nurse.
 
 " Open the door, my hinny, my hart,  
 Open the door, mine ain wee thing ;  
@@ -185,7 +186,7 @@ The frog is finally disenchanted, and appears as a prince, in his original form.
 
 In the romance of Roswall and Lilian, it is said, that
 
-" The knight that kept the Pavent well,  
+" The knight that kept the *Pavent well*,  
 Was not so fair as Roswall. "
 
 Whether these circumstances have any relation to this romance, I cannot determine.
