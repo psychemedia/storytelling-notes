@@ -33,7 +33,7 @@ Will was now free from all dread or fear of any thing, and cared not what he did
 
 A much more elaborate version of the tale appears in William Carleton's _"Tales and sketches...of the Irish peasantry"_, 1845. This version starts of with the granting of the wishes, the blacksmith's repeated misuse of them, before he makes his deal with the devil.
 
-The tale includes a couple of nice touches: the devil is too busy on Earth to go down to hell because the Whigs are in power, so there's obviously lots of sin to be collected on and uch time to be spent in Downing Street; having summoned the Devil, the blacksmith was keen for the Devil to open the bargaining "because he had often heard, that in that case, with proper care on his own part, he might defeat him in the long run"; and when the evil chastises the blacksmith for the way he treats his wife, she immediately turns on the Devil, and "at every word she gave him a remembrance, hot and heavy."
+The tale includes a couple of nice touches: the devil is too busy on Earth to go down to hell because the Whigs are in power, so there's obviously lots of sin to be collected on and much time to be spent in Downing Street; having summoned the Devil, the blacksmith was keen for the Devil to open the bargaining "because he had often heard, that in that case, with proper care on his own part, he might defeat him in the long run"; and when the evil chastises the blacksmith for the way he treats his wife, she immediately turns on the Devil, and "at every word she gave him a remembrance, hot and heavy".
 
 ````{admonition} The Three Wishes, 1845
 :class: dropdown
