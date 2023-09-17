@@ -295,7 +295,7 @@ And now the real wedding was held, and held in such a way that it was heard of a
 
 Jacobs' version, as cited, owes pretty much wholesale to the version in Halliwell's *Popular rhymes and nursery tales*, which also owes to the Scottish chap-book, with a minor difference in the second enchantment. For Halliwell, the King's daughter is weirded "such perfume, both in body and breath, as shall far exceed the sweetest flowers" and the step daughter "an additional smell be added to her breath", rather than Jacobs' "sweet voice that shall far exceed the nightingale", and "a voice as harsh as a corn-crake's".
 
-```{admonition} "The Three Heads of the the Well", Halliwell, 1849
+```{admonition} "The Three Heads of the Well", Halliwell, 1849
 :class: dropdown
 
 In *Popular rhymes and nursery tales : a sequel to the Nursery rhymes of England*, J. O. (James Orchard) Halliwell-Phillipps, 1849, [pp39-343](https://archive.org/details/popularrhymesnur0000unse/page/38/mode/2up)
