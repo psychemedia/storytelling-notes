@@ -675,7 +675,7 @@ When the old blacksmith came to pull down the masonry to rebuild it, he found th
 
 A complementary story, in which the Devil tricks the blacksmith into committing an unfortunate act, is told by Aleksandr Afanasev in *Russian folk-tales*, 1916
 
-```{admonition} *The Smih and the Devil*, Afanasev, 1916
+```{admonition} *The Smith and the Devil*, Afanasev, 1916
 :class: dropdown
 
 *in [*Russian folk-tales*](https://archive.org/details/russianfolktales00afanuoft/page/128/mode/2up  ), A. N. Afanasev, 1916, pp. 128-132.*
