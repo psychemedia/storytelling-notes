@@ -373,7 +373,7 @@ And the first ane said : ' I weird that if she was ugly afore, she'll be ten tim
 
 Looking further back, elements of the story make an appearance in George Peele's *The Old Wives' Tale*:
 
-```{admonition} *The Old Wives Tale*, George Peele, 1595
+````{admonition} *The Old Wives Tale*, George Peele, 1595
 
 In *The old wives tale*, 1908 (1595), [c. lines 740+](https://archive.org/details/oldwivestale00peeluoft/page/n51/mode/2up):
 
@@ -422,7 +422,7 @@ Cockell callest thou it boy, aith Ile give you cockell bread.
 
 ...
 
-```
+````
 
 In his notes, Jacobs makes reference to a Scottish tale involving a well at the World's End. A tale called "The Well of the World's End", which resembles Grimm's "The Frog Prince", also appears in *English Fairy Tales*, in which a step-daughter is set an impossible task: fetching water from the well with a sieve. A a frog provides advice to daub the sieve with moss in return for a promise to do his bidding for a night. The frog follows the girl home, and her step-mother forces her to do his bidding as promised. At last he tells her to chop of his head; she is unwilling, but as she does so he turns into a Prince.
 
@@ -623,7 +623,7 @@ That was all the wages she got for going out to service with the old witch.
 
 ```
 
-The fragmentary version of "The Tale of the Wolf of the Warldis End" in *The complaynt of Scotland*, invokes key elements of the Frog Prince tale.
+The fragmentary version of *"The Tale of the Wolf of the Warldis End"* in *The complaynt of Scotland*, invokes key elements of the Frog Prince tale.
 
 ```{admonition} "The Tale of the Wolf of the Warldis End" in *The complaynt of Scotland*, 1548
 :class: dropdown
