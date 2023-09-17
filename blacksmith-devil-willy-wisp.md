@@ -875,14 +875,15 @@ So he released Death from the stool and made no outcry when she put her bony fin
 
 ```
 
-```{seealso}
-:class: dropdown
+```{admonition} Other Death Tales in Fillmore's "Shoemaker's Apron"
+:class: dropdown seealso
 
 The same collection also includes various other tales relating to Death, and the Devil, including:
 
 - THE CANDLES OF LIFE: The Story of a Child for Whom Death Stood
 Godmother 197
-- THE DEVIL'S GIFTS: The Story of a Man Whom the Devil Befriended . 207 GENTLE DORA: The Story of a Devil Who Married a Scold . . .225
+- THE DEVIL'S GIFTS: The Story of a Man Whom the Devil Befriended 207
+- GENTLE DORA: The Story of a Devil Who Married a Scold 225
 - THE DEVIL'S MATCH: The Story of a Farmer Who Remembered What
 His Grandmother Told Him 239
 - THE DEVIL'S LITTLE BROTHER-IN-LAW: The Story of a Youth Who
