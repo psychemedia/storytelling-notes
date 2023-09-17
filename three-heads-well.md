@@ -374,6 +374,7 @@ And the first ane said : ' I weird that if she was ugly afore, she'll be ten tim
 Looking further back, elements of the story make an appearance in George Peele's *The Old Wives' Tale*:
 
 ````{admonition} *The Old Wives Tale*, George Peele, 1595
+:class: dropdown
 
 In *The old wives tale*, 1908 (1595), [c. lines 740+](https://archive.org/details/oldwivestale00peeluoft/page/n51/mode/2up):
 
