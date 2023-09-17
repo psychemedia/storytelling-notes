@@ -109,7 +109,7 @@ It is also in Chambers, *l.c.*, [Popular Rhymes of Scotland], 105, where the wel
 
 The tale of "The Princess of Colchester" also appears in "English fairy and other folk tales", as selected and edited by E.S. Hartland's, of 1890, citing a Scottish chap-book of 1823 as the source: 
 
-```{admonition}
+```{admonition} "The Princess of Colchester", Hartland, 1890
 :class: dropdown
 
 In *English fairy and other folk tales*, selected and edited by E. S. Hartland, 1890, [pp20-24](https://archive.org/details/englishfairyothe00hartiala/page/20/mode/2up?q=colchester):
