@@ -35,7 +35,7 @@ A much more elaborate version of the tale appears in William Carleton's _"Tales 
 
 The tale includes a couple of nice touches: the devil is too busy on Earth to go down to hell because the Whigs are in power, so there's obviously lots of sin to be collected on and much time to be spent in Downing Street; having summoned the Devil, the blacksmith was keen for the Devil to open the bargaining "because he had often heard, that in that case, with proper care on his own part, he might defeat him in the long run"; and when the evil chastises the blacksmith for the way he treats his wife, she immediately turns on the Devil, and "at every word she gave him a remembrance, hot and heavy".
 
-````{admonition} The Three Wishes, 1845
+````{admonition} The Three Wishes, *Tales of the Irish Peasantry*, 1845
 :class: dropdown
 
 *In [Tales and sketches, illustrating the character, usages, traditions, sports and pastimes of the Irish peasantry](https://archive.org/details/talessketchesill00carlrich/page/n359/mode/2up), William Carleton, 1845, pp.330-357.*
