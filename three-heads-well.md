@@ -107,7 +107,7 @@ And thou shalt have some cockell-bread.
 It is also in Chambers, *l.c.*, [Popular Rhymes of Scotland], 105, where the well is at the World's End (cf. No. xli.). The contrasted fates of two step-sisters, is the Frau Holle (Grimm, No. 24) type of Folk-tale studied by Cosquin, i. 250, seq.  Kate Crackernuts" (No. xxxvii.) is a pleasant contrast to this.
 ```
 
-The tale of "The Princess of Colchester" also appears in "English fairy and other folk tales", as selected and edited by E.S. Hartland's, of 1890, citing a Scottish chap-book of 1823 as the source: 
+The tale of "The Princess of Colchester" also appears in the 1890 publication of "English fairy and other folk tales", as selected and edited by E.S. Hartland, citing a Scottish chap-book of 1823 as the source: 
 
 ```{admonition} "The Princess of Colchester", Hartland, 1890
 :class: dropdown
