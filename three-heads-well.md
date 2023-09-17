@@ -432,7 +432,7 @@ The sieve motif also appears in Asbjornsen & Moe's " (in recent translation, "Th
 ```{admonition} "The Two Step-sisters", Asbjørnsen & Moe, 1859
 :class: dropdown
 
-In *Popular tales from the Norse", Peter Asbjørnsen & Jørgen Moe, 1859, [pp355-368](https://archive.org/details/populartalesfro03dasegoog/page/354/mode/2up):
+In *Popular tales from the Norse*, Peter Asbjørnsen & Jørgen Moe, 1859, [pp355-368](https://archive.org/details/populartalesfro03dasegoog/page/354/mode/2up):
 
 THE TWO STEP-SISTERS.
 
