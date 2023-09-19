@@ -7,34 +7,31 @@ Leaves are currently Daniel Morden's words.
 
 
 
-?? Start with the girl?? Or the boy (need a tale to bring him in? Default is the Wolf... ?? a link to Little Red Riding Hood?)
+ONCE upon a time, there was a great lord, a Count, who everyone called "the Wolf". He had a wicked heart, and it was said that he used to harness his peasants to the plough, and whip them as they tilled his land in their bare naked feet.
 
+But he also had a wife, the Countess. And she was as tender to the poor, as he was cruel.
 
-ONCE upon a time, there was a great lord, a Count, who everyone called "the Wolf". He had such a wicked heart, that it was whispered he used to harness his peasants to the plough, and whip them as they tilled his land in their bare naked feet.
-
-But his wife, the Countess? Well, she was as tender to the poor and miserable as he was cruel.
-
-Every time she heard of another of her husband's misdees, she would secretly go to repair the harm he had done; and her name was blessed throughout the whole country-side. She was welcomed, as much as he was avoided. She was loved, as much as he was hated.
+Every time she heard of her husband's misdeeds, she would secretly repair the harm he had done; and her name was blessed throughout the whole country-side. She was welcomed, as much as he was avoided. She was loved, as much as he was hated.
 
 II
 
 One day, as the Wolf was out hunting in the forest, he came across a cottage. Outside, a young girl was playing.
 
-"What is your name ? " he asked her.
+"What's your name ? " he asked.
 
-And she told him. "Renelde, sir".
+And she told him. "Renelde".
 
-" You must be tired of living in such a run down place all by yourself ? " he said.
+" You must be tired of living in such a run down place all by yourself ? "
 
-" I am accustomed to it, my lord, and I am not alone. My grandmother looks after me."
+" I am accustomed to it, sir; and I am not alone: my grandmother looks after me."
 
-" That may be so ; but come to the castle, and you will be my wife's maid."
+" That may be so ; but come to the castle, and I will make you my wife's maid."
 
-But before she could respond, her grandmother had come to the door of the cottage, and shouted at the Wolf: " get away from here, you know you're not welcome. You just leave her alone". And he rode away.
+But before she could respond, her grandmother had come to the door, and shouted at the Wolf: " get away from here, you know you're not welcome. You just leave her alone". And he rode away.
 
-Several years later, the Wolf again passed by.
+Several years later, the Wolf passed by again.
 
-Renelde was by now turning into a pretty young woman, and as she gathering eggs from the hens that were pecking around the small yard, the Wolf asked her: " What is your name ?"
+Renelde was by now turning from girl into woman, and as she gathered eggs from the hens around the small yard, he asked her: " What is your name ?"
 
 And she told him.
 
@@ -42,41 +39,41 @@ And she told him.
 
 " I am accustomed to it, my lord, but I am happy here, with my grandmother."
 
-" That may be so ; but come to the castle, and you shall be my wife's lady-in-waiting."
+" That may be so ; but come to the castle, and I shall make you my wife's lady-in-waiting."
 
 But Renelde knew the stories, and she knew better than to go up to the castle.
 
-A few months had passed by when the Wolf next returned. Renelde, now a beautiful young woman, was sitting outside the cottage, spinning hemp.
+A few months more passed before the Wolf next returned. Renelde, in the flush of maidenhood, was sitting outside the cottage, spinning hemp.
 
-" You are Renelde," he said. "Come up to the castle, and I shall send send away my wife and marry you."
+" You are Renelde," he said. "Come up to the castle; I shall send away the Countess and make you my wife."
 
-But many years before, as Renelde's mother lay dying, the Countess had been kind to her, and helped to take away some of her pain. So even if the Wolf really had wished to marry Renelde, she would always have refused.
+But many years before, as Renelde's mother lay dying, the Countess had shown much kindness, and helped to take away some of her mother's pain. So even if the Wolf really had wished to marry Renelde, she would always have refused.
 
 III
 
-It may only have been weeks that had passed by before Burchard appeared again, but they had been happy weeks. And this time, she was spinning flax, not hemp.
+It was only a few weeks before the Wolf appeared again, but they had been happy weeks.
 
-" What are you spinning ? " asked the Wolf, in a rough voice.
+This time, Renelde was spinning flax, not hemp.
 
-" My wedding shift, my lord."
+" What are you spinning ? " he asked.
 
-" You are going to be married, then ? "
+And she replied: "My wedding shift, sir, if it pleases you?"
 
-" Yes, my lord, by your leave."
+" So you are going to be married, then ? " he asked.
+
+" Yes, sir, by your leave."
 
 For at that time, if there was no father in the house, the permission to marry must come from the lord.
 
-" I will give you leave on one condition. The churchyard is filled with nettles that grow over all the tombs  ? Go and gather them, and spin them into two fine shifts. One shall be your bridal shift, and the other shall be my shroud. For you shall be married the day that I am laid in my grave.' And the Count turned away with a mocking laugh.
+" Then I will give you leave to do so... But on one condition. The churchyard is filled with nettles that grow over all the tombs  ? Go there and gather the nettles, then spin them into two fine shifts. One shall be your bridal shift... and the other shall be my shroud. For you shall only be married on the day that I am laid in my grave.' And with that, the Count turned away with a mocking laugh.
 
-Renelde trembled. Never had she heard of any one spinning nettles. And the Count? Well, he was a strong man, a ma who seemed to be made of iron, and who oftend boasted that he would live to be a hundred.
+Renelde sobbed. Never had she heard of anyone spinning nettles. Rebelde cried: the Count was a strong man, seemingly made of iron, who oftend boasted that he would live to be a hundred.
 
-She went back into the cottage, sobbing, crying. Through her tears, she blurted out what the Wolf had demanded she should do.
+She went back into the cottage, sobbing and crying. Through her tears, she blurted out what the Wolf had demanded she should do.
 
-Renelde's grandmother said: "It is many years since I have heard of anyong spinning nettles... but it used to be done once, and so I am sure it can be done again. "
+Sitting in the corner, her grandmother said: "it is many years since I have heard of anyong spinning nettles... but it used to be done once, and so I am sure it can be done again. "
 
-And sat next to her, an old, old woman, older than the hills, who had known the girl's grandmother's grandmother, and her grandmother before her. She would often visit Renelde's grandmother, sitting in the shadows, or later in the day, in the flickering candlelight, as if she were waiting, nodding her head and rarely saying a word. But how she spoke:
-
-" He is foolish to make such a bargain."
+And sittng next to her, an old, old woman, older than the hills, who had known the girl's monther, and her grandmother's mother, and her grandmother's grandmother before her. She had recently taken to visiting again, sitting in the shadows, or later in the day, in the flickering candlelight, as if she were waiting, waiting for something, nodding her head and rarely saying a word. But now she said something: " he is foolish to make you such a bargain."
 
 That evening, Renelde's young man came to visit, as he did every evening. When Renelde told him what Burchard had said, he was angry, and asked what he should do: " Would you like me to watch for the Wolf, and split his skull with a blow from my axe ? "
 
@@ -148,9 +145,9 @@ So the Countess resolved to go without his knowledge to pray for mercy from Rene
 
 But Renelde was determined: "He said I cannot marry until I have finished his funeral shift,"
 
-"But neither can you marry until your young man returns... So please, stop your spinning until then, at least. For my husband's sake. For my sake."
+"But neither can you marry until your young man returns... So please, stop your spinning until then, at least. For my husband's sake. For my sake. Promise me, please, promise me."
 
-So Renelde stopped her spinning. And waited for one month, for two, for six, for a year. The Wolf begain to recover his health, happy with thought that Renelde's young man would never return, satisfied that he would not have to retract his demand.
+So so Renelde promissed her, and stopped her spinning. And waited for one month, for two, for six, for a year. The Wolf begain to recover his health, happy with thought that Renelde's young man would never return, satisfied that he would not have to retract his demand.
 
 One day, at the marker, Renelde saw the Count. She clasped her hands as if in prayer, and cried :
 
@@ -166,19 +163,23 @@ VII
 
 Another year went by.
 
-But then the Count fell ill again; and the Countess supposed that Renelde, weary of waiting, had begun her spinning anew ; but when she came to the cottage to see, she found the wheel silent.
+When the Count fell ill again, the Countess supposed that Renelde had started to spin again. But when she came to the cottage, angrily knocking at the door and asking "why, why are you spinning again?", she saw the spinning wheel was still, covered in dust and cobwebs in the corner of the room.
 
-However, the Count grew worse and worse till he was given up by the doctors. The passing bell was rung, and he lay expecting Death to come for him. But Death was not so near as the doctors thought, and still he lingered.
+The Count grew worse and worse, and the doctors gave up all hope. The passing bell was rung, and the Count lay expecting Death to come for him.
 
-He seemed in a desperate condition, but he got neither better nor worse. He could neither live nor die ; he suffered horribly, and called loudly on Death to put an end to his pains.
+But Death was not so near as the doctors thought, and still the Count lingered.
 
-In this extremity he remembered what he had told the little spinner long ago. If Death was so slow in coming, it was because he was not ready to follow him, having no shroud for his burial.
+His condition was desperate:  he got neither better nor worse. He could neither live nor die. He suffered horribly, and called loudly on Death to put an end to his misery.
 
-He sent to fetch Renelde, placed her by his bedside, and ordered her at once to go on spinning his shroud.
+His thoughts turned to Renelde, and the demand he had made of her long ago. If Death was so slow in coming, was it because he had no shroud for his burial?
 
-But she reminded him of the promise she had made to his wife...
+He sent for Renelde, thinking not of what he might have done for her, only what she might do for him. And as she stood at the foot of his of his bed, he ordered her to go on spinning his shroud.
 
-And as carried her sorrow, he lingered on the edge of life and death...
+Rendle looked at the Wolf, at the Count.
+
+"I made your wife a promise", she said, "that I would not spin again until my young man has returned". And with that, she turned, and left the room.
+
+And as she lived on in her silent sorrow, the Count lingered on, stradded between the worlds of life and death...
 
 
 NEXT
@@ -191,7 +192,7 @@ Once there was a house, a happy house.
 
 Inside the master, the owner of the house sat at his table sobbing, and upstairs a young man sat at the end of his bed. His hand clenched into a fist. He cried for some bad luck he could no longer remember.
 
-One day a young woman walked up the drive. Her hair was clogged with twigs and leave. Her clothes no more than greasy rags.She was barefoot. The dog didn't growl. He kept whining in his muddy puddle. She was taken in to see the master. She said to the old man, "I've heard of this place from the people in the village. I've heard if any young woman can make the young man in this house smile, she can marry him. I want to try. And if I fail, I don't know what I'll do."
+One day a young woman walked up the drive. Her hair was clogged with twigs and leaves. Her clothes were no more than greasy rags. She was barefoot. The dog didn't growl. He just whined at the muddy puddles around him. The young girl was taken in to see the master. She said to the old man, "I've heard of this place from the people in the village. I've heard if any young woman can make the young man in this house smile, she can marry him. I want to try. And if I fail, I don't know what I'll do."
 
 The master said, "You aren't the first. Many women have come here, fine women who wanted for nothing except a gentleman for a husband. They took my son outside into the sunlight. They sang to him. They tickled him. They tried and failed. You have as much right to try as all the others. I wish you luck."
  
