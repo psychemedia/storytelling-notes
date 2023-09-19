@@ -26,7 +26,6 @@ One day when he was out hunting the Count passed through a forest, and at the do
 
 " You must get tired of staying in such a lonely place ? "
 
-
 " I am accustomed to it, my lord, and I never get tired of it."
 
 " That may be so ; but come to the castle, and I will make you lady's maid to the Countess."
@@ -77,23 +76,25 @@ Every evening, when his work was done, Guilbert came to visit his future bride. 
 
 "No," replied Renelde, " there must be no blood on my bridal bouquet. And then we must not hurt the Count. Remember how good the Countess was to my mother."
 
-An old, old woman, older than the hills, who had know the girl's grandmother's grandmother, and her grandmother before her, now spoke. Often would she visit, sitting in the shadows, or later in the day, in the flickering candlelight, nodding her head and rarely saying a word.
+An old, old woman, older than the hills, who had known the girl's grandmother's grandmother, and her grandmother before her, now spoke. Often would she visit Renelde's grandmother, sitting in the shadows, or later in the day, in the flickering candlelight, as if she were waiting, nodding her head and rarely saying a word.
 
-?? He is foolish to make such a bargain.
+" He is foolish to make such a bargain."
 
-" My children," she said, " all the years that I have lived in the world, I have never heard of a shift spun from nettles. But what God commands, man can do. Why should not Renelde try it ? "
+And Renelde's grandmother said: "It is many years since I have heard of anyong spinning nettles, but as it used to be done once, so it can be done again . "
 
 IV
 
-Renelde did try, and to her great surprise the nettles when crushed and prepared gave a good thread, soft and light and firm. Very soon she had spun the first shift, which was for her own wedding. She wove and cut it out at once, hoping that the Count would not force her to begin the other. Just as she had finished sewing it, Burchard the Wolf passed by.
+And so Renelde tried, and to her great surprise the nettles, when crushed and prepared, gave a good thread, soft and light and firm. Very soon she had spun the first shift, which was for her own wedding. She wove it and cut out the pattern, and hoped that it would be enough.
+
+Just as she had finished sewing it, Burchard the Wolf passed by.
 
 " Well," said he, " how are the shifts getting on? "
 
-" Here, my lord, is my wedding garment," answered Renelde, showing him the shift, which was the finest and whitest ever seen.
+" Here, my lord, is my wedding garment," answered Renelde, showing him the shift of the finest and whitest cloth Burchard had ever seen.
 
-The Count grew pale, but he replied roughly, " Very good. Now begin the other."
+The Count, who had thought such a thing impossible, grew pale. But he was a proud man, and he replied roughly, " Very good. Now begin the other."
 
-[But as he was leaving, he turned - send you young man to me; he should do something for me...
+He started to ride away, muttering to himself, then stopped, and turned: " send your young man to me", he said, " he should also do something for me...".
 
 Boy - comes...
 Sent on quest... "do not bore her with the detials"???
