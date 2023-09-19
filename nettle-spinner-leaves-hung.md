@@ -10,51 +10,53 @@ Leaves are currently Daniel Morden's words.
 ?? Start with the girl?? Or the boy (need a tale to bring him in? Default is the Wolf... ?? a link to Little Red Riding Hood?)
 
 
-ONCE upon a time there lived at Quesnoy, in Flanders, a great lord whose name was Burchard, but whom the country people called Burchard the Wolf. Now Burchard had such a wicked, cruel heart, that it was whispered how he used to harness his peasants to the plough, and force them by blows from his whip to till his land with naked feet.
+ONCE upon a time, there was a great lord, a Count, who everyone called "the Wolf". He had such a wicked heart, that it was whispered he used to harness his peasants to the plough, and whip them as they tilled his land in their bare naked feet.
 
-His wife, on the other hand, was always tender and pitiful to the poor and miserable.
+But his wife, the Countess? Well, she was as tender to the poor and miserable as he was cruel.
 
-Every time that she heard of another misdeed of her husband's she secretly went to repair the evil, which caused her name to be blessed throughout the whole country-side. This Countess was adored as much as the Count was hated.
+Every time she heard of another of her husband's misdees, she would secretly go to repair the harm he had done; and her name was blessed throughout the whole country-side. She was welcomed, as much as he was avoided. She was loved, as much as he was hated.
 
 II
 
-One day when he was out hunting the Count passed through a forest, and at the door of a lonely cottage he saw a beautiful girl spinning hemp.
+One day, as the Wolf was out hunting in the forest, he came across a cottage. Outside, a young girl was playing.
 
 "What is your name ? " he asked her.
 
-" Renelde, my lord."
+And she told him. "Renelde, sir".
 
-" You must get tired of staying in such a lonely place ? "
+" You must be tired of living in such a run down place all by yourself ? " he said.
 
-" I am accustomed to it, my lord, and I never get tired of it."
+" I am accustomed to it, my lord, and I am not alone. My grandmother looks after me."
 
-" That may be so ; but come to the castle, and I will make you lady's maid to the Countess."
+" That may be so ; but come to the castle, and you will be my wife's maid."
 
-" I cannot do that, my lord. I have to look after my grandmother, who is very helpless."
+But before she could respond, her grandmother had come to the door of the cottage, and shouted at the Wolf: " get away from here, you know you're not welcome. You just leave her alone". And he rode away.
 
-" Come to the castle, I tell you. I shall expect you this evening," and he went on his way.
+Several years later, the Wolf again passed by.
 
-But Renelde, who was betrothed to a young wood-cutter called Guilbert, had no intention of obeying the Count, and she had, besides, to take care of her grandmother.
+Renelde was by now turning into a pretty young woman, and as she gathering eggs from the hens that were pecking around the small yard, the Wolf asked her: " What is your name ?"
 
-Three days later the Count again passed by.
+And she told him.
 
-" Why didn't you come ? " he asked the pretty spinner.
+" You must be tired of living in such a run down place ? " he said.
 
-" I told you, my lord, that I have to look after my grandmother.' ' Come to-morrow, and I will make you lady-in-waiting to the Countess," and he went on his way.
+" I am accustomed to it, my lord, but I am happy here, with my grandmother."
 
-This offer produced no more effect than the other, and Renelde did not go to the castle.
+" That may be so ; but come to the castle, and you shall be my wife's lady-in-waiting."
 
-" If you will only come," said the Count to her when next he rode by, " I will send away the Countess, and will marry you."
+But Renelde knew the stories, and she knew better than to go up to the castle.
 
-But two years before, when Renelde's mother was dying of a long illness, the Countess had not forgotten them, but had given help when they sorely needed it. So even if the Count had really wished to marry Renelde, she would always have refused.
+A few months had passed by when the Wolf next returned. Renelde, now a beautiful young woman, was sitting outside the cottage, spinning hemp.
+
+" You are Renelde," he said. "Come up to the castle, and I shall send send away my wife and marry you."
+
+But many years before, as Renelde's mother lay dying, the Countess had been kind to her, and helped to take away some of her pain. So even if the Wolf really had wished to marry Renelde, she would always have refused.
 
 III
 
-Some weeks passed before Burchard appeared again.
+It may only have been weeks that had passed by before Burchard appeared again, but they had been happy weeks. And this time, she was spinning flax, not hemp.
 
-Renelde hoped she had got rid of him, when one day he stopped at the door, his duck-gun under his arm and his game-bag on his shoulder. This time Renelde was spinning not hemp, but flax.
-
-" What are you spinning ? ' he asked in a rough voice.
+" What are you spinning ? " asked the Wolf, in a rough voice.
 
 " My wedding shift, my lord."
 
@@ -62,116 +64,109 @@ Renelde hoped she had got rid of him, when one day he stopped at the door, his d
 
 " Yes, my lord, by your leave."
 
-For at that time no peasant could marry without the leave of his master.
+For at that time, if there was no father in the house, the permission to marry must come from the lord.
 
-" I will give you leave on one condition. Do you see those tall nettles that grow on the tombs in the churchyard ? Go and gather them, and spin them into two fine shifts. One shall be your bridal shift, and the other shall be my shroud. For you shall be married the day that I am laid in my grave.' And the Count turned away with a mocking laugh.
+" I will give you leave on one condition. The churchyard is filled with nettles that grow over all the tombs  ? Go and gather them, and spin them into two fine shifts. One shall be your bridal shift, and the other shall be my shroud. For you shall be married the day that I am laid in my grave.' And the Count turned away with a mocking laugh.
 
-Renelde trembled. Never in all Locquignol had such a thing been heard of as the spinning of nettles.
+Renelde trembled. Never had she heard of any one spinning nettles. And the Count? Well, he was a strong man, a ma who seemed to be made of iron, and who oftend boasted that he would live to be a hundred.
 
-And besides, the Count seemed made of iron and was very proud of his strength, often boasting that he should live to be a hundred,
+She went back into the cottage, sobbing, crying. Through her tears, she blurted out what the Wolf had demanded she should do.
 
-Every evening, when his work was done, Guilbert came to visit his future bride. This evening he came as usual, and Renelde told him what Burchard had said.
+Renelde's grandmother said: "It is many years since I have heard of anyong spinning nettles... but it used to be done once, and so I am sure it can be done again. "
 
-" Would you like me to watch for the Wolf, and split his skull with a blow from my axe ? "
-
-"No," replied Renelde, " there must be no blood on my bridal bouquet. And then we must not hurt the Count. Remember how good the Countess was to my mother."
-
-An old, old woman, older than the hills, who had known the girl's grandmother's grandmother, and her grandmother before her, now spoke. Often would she visit Renelde's grandmother, sitting in the shadows, or later in the day, in the flickering candlelight, as if she were waiting, nodding her head and rarely saying a word.
+And sat next to her, an old, old woman, older than the hills, who had known the girl's grandmother's grandmother, and her grandmother before her. She would often visit Renelde's grandmother, sitting in the shadows, or later in the day, in the flickering candlelight, as if she were waiting, nodding her head and rarely saying a word. But how she spoke:
 
 " He is foolish to make such a bargain."
 
-And Renelde's grandmother said: "It is many years since I have heard of anyong spinning nettles, but as it used to be done once, so it can be done again . "
+That evening, Renelde's young man came to visit, as he did every evening. When Renelde told him what Burchard had said, he was angry, and asked what he should do: " Would you like me to watch for the Wolf, and split his skull with a blow from my axe ? "
+
+"No," replied Renelde, " there must be no blood shed over my bridal gown. And I have told you how good the Countess was to my mother."
 
 IV
 
-And so Renelde tried, and to her great surprise the nettles, when crushed and prepared, gave a good thread, soft and light and firm. Very soon she had spun the first shift, which was for her own wedding. She wove it and cut out the pattern, and hoped that it would be enough.
+And so Renelde went to pick the nettles from the Churchyard, as the Count had said she must; and to her great surprise the nettles, when crushed and prepared, they gave a good thread: soft, and light, and firm.
 
-Just as she had finished sewing it, Burchard the Wolf passed by.
+And before very long she had spun enough thread to make cloth for the first shift, the shift for her own wedding.
 
-" Well," said he, " how are the shifts getting on? "
+And she wove it and she cut out the pattern, and she hoped that it would be enough.
 
-" Here, my lord, is my wedding garment," answered Renelde, showing him the shift of the finest and whitest cloth Burchard had ever seen.
+Just as she had finished sewing it, the Wolf passed by again:
 
-The Count, who had thought such a thing impossible, grew pale. But he was a proud man, and he replied roughly, " Very good. Now begin the other."
+" Well," said he, " how are you getting on? "
 
-He started to ride away, muttering to himself, then stopped, and turned: " send your young man to me", he said, " he should also do something for me...".
+" Very well, sir" she replied, and showed him her wedding shift. It was made of the finest, and of the whitest, cloth that the Count had ever seen.
 
-Boy - comes...
-Sent on quest... "do not bore her with the detials"???
-Burchard says he will send a message - "be about your task before you forget it..."]
+Now he had thought such a thing would be impossible, and he grew pale at the sight of it. But he was a proud man, and he replied gruffly, " Very good. Now begin the other."
 
+Just as he had started to ride away, he stopped again, and turned, and said: " send your young man up to me at the castle; he should also do something for me...".
 
-Girl worried about the boy not returning...
+That evening, when Renelde's young man came to visit, as he did every evening, Renelde told him what the Count, what the Wolf, had said.
 
-The following day spinner heard the news. What could she do? She  set to work. In the castle, a cold shiver passed over the Count, and he felt, as the saying is, that some one was walking over his grave. He tried to eat his lunch, but could not ; all that day he got worse; he went to bed shaking with fever. But he did not sleep, and in the morning could not manage to rise.
+And so he went up to the Castle.
 
-This sudden illness, which every instant became worse, made him very uneasy. No doubt Renelde's spinning-wheel knew all about it. Was it not necessary that his body, as well as his shroud, should be ready for the burial ?
+And when he got there, he was summoned in before the Count.
 
-[fearing witchcraft]
+I will not bore you with the details, but the Count's thinking was this: if he could send the young man away, there would be no wedding. And if there was to be no wedding, there would be no reason for Renelde to make his funeral shift. And so he sent the boy on a quest, to find something for him that could not possibly exist. And that the boy shiould leave NOW, there was no time to waster, the sooner he left, the sooner he would be back — (ha! or never...) — and the Count would send a message to Renelde to say her young man had gone away.
 
-The first thing Burchard did was to send to Renelde and to stop her wheel.
+"Now be about your task before you forget it", he said, and the young man was sent on his way.
 
-Renelde obeyed, and that evening Guilbert asked her :
+The following day, Renelde was sent the news. But what could she do? If the Count had thought it would stop her from working on his funeral shift, it had the opposite effect.
 
-" Has the Count given his consent to our marriage ? "
+She set to work event harder and faster than she had before. In the castle, a cold shiver passed over the Count. As the saying goes, it felt alnmost as if someone was walking over his grave.
 
-" No," said Renelde.
+He tried to eat his lunch, but he had no appetite ; he tried to warm himself by the fire, but it was as if it burned with a cold, cold flame.
 
-" Continue your work, sweetheart. It is the only way of gaining it. You know he told vou so himself."
+All that day he got worse; he went to bed shaking with fever. But he did not sleep; and in the morning, he could not manage to rise.
 
-V
+This sudden illness, which at every instant became worse, started to torture him as if it were waking nightmare.
 
-The following morning, as soon as she had put the house in order, the girl sat down to spin. Two hours after there arrived some soldiers, and when they saw her spinning they seized her, tied her arms and legs, and carried her to the bank of the river, which was swollen by the late rains.
+No doubt Renelde's spinning-wheel had soemthing to do with this? It was almost as if his body were preparing to dress itself in the shroud she was spinning.
 
-When they reached the bank they flung her in, and watched her sink, after which they left her. But Renelde rose to the surface, and though she could not swim she struggled to land.
+So he called to his soldiers, and sent them to break the wheel to stop her spinning.
 
-Directly she got home she sat down and began to spin.
+So the soldiers when to the cottage in the forest, and they broke the wheel into a thousand pieces.
 
-Again came the two soldiers to the cottage and seized the girl, carried her to the river bank, tied a stone to her neck and flung her into the water.
+But the next day, the wheel was mended, and Renelde sat down to spin again. As her young man was on his quest, so was she on hers — to finish the second shift.
 
-The moment their backs were turned the stone untied itself. Renelde waded the ford, returned to the hut, and sat down to spin.
+Again the Count sent his guards, this time to tie her hands should be tied, and not lose sight of her for one instant.
 
-This time the Count resolved to go to Locquignol himself; but, as he was very weak and unable to walk, he had himself borne in a litter. And still the spinner spun.
+But the guards fell asleep, the bonds undid themselves, and the Renelde spun on.
 
-When he saw her he fired a shot at her, as he would have fired at a wild beast. The bullet rebounded without harming the spinner, who still spun on.
+A third time the guards were sent. This time, they seized her, tied her arms and legs together, and a stone to her neck and flung her into the river, its waters swollen by the late rains.  But the ropes untied themselves, and Renelde floated up to the surface, and though she could not swim, she was somehow carried to the land.
 
-Burchard fell into such a violent rage that it nearly killed him. He broke the wheel into a thousand pieces, and then fell fainting on the ground. He was carried back to the castle, unconscious.
-
-The next day the wheel was mended, and the spinner sat down to spin. Feeling that while she was spinning he was dying, the Count ordered that her hands should be tied, and that they should not lose sight of her for one instant.
-
-But the guards fell asleep, the bonds toosed themselves, and the spinner spun on.
-
-Burchard had every nettle rooted up for three leagues round. Scarcely had they been torn from the soil when they sowed them- selves afresh, and grew as you were looking at them.
+As Renelde spun on, he Count had every nettle rooted up for three leagues round. But scarcely had they been torn from the soil when they sowed themselves afresh, and grew even as you were looking at them.
 
 They sprung up even in the well-trodden floor of the cottage, and as fast as they were uprooted the distaff gathered to itself a supply of nettles, crushed, prepared, and ready for spinning.
 
-And every day Burchard grew worse, and watched his end approaching.
+And every day the Count grew worse, and watched his end approaching.
 
 VI
 
-Moved by pity for her husband, the Countess at last fcmnd out the cause of his illness, and entreated him to allow himself to be cured. But the Count in his pride refused more than ever to give his consent to the marriage.
+Moved by pity for her husband, the Countess at last found out the cause of his illness. But even as she entreated him to allow himself to be cured, the Count, in his pride, refused to go back on his demand.
 
-So the lady resolved to go without his knowledge to pray for mercy from the spinner, and in the name of Renelde's dead mother she besought her to spin no more. Renelde gave her promise [not to spin until she was reunited with her lover, given they couldn't be married any way...]
+So the Countess resolved to go without his knowledge to pray for mercy from Renelde; in the name of Renelde's dead mother, she beseeched her to stop spinning.
 
-[in original, bit says she should continue but she says no...]
+But Renelde was determined: "He said I cannot marry until I have finished his funeral shift,"
 
-So they waited for one month, for two, for six, for a year. The spinner spun no more. The Count had ceased to persecute her, but he still refused his consent to the marriage. Guilbert became impatient.
+"But neither can you marry until your young man returns... So please, stop your spinning until then, at least. For my husband's sake. For my sake."
 
-The poor girl loved him with her whole soul, and she was more unhappy than she had been before, when Burchard was only tormenting her body.
+So Renelde stopped her spinning. And waited for one month, for two, for six, for a year. The Wolf begain to recover his health, happy with thought that Renelde's young man would never return, satisfied that he would not have to retract his demand.
 
-One day she met the Count. She clasped her hands as if in prayer, and cried :
+One day, at the marker, Renelde saw the Count. She clasped her hands as if in prayer, and cried :
 
 " My lord, have mercy ! Tell me where he went..."
 
-Burchard the Wolf turned away his head and passed on.
+But the Wolf turned away his head and passed on.
 
-She might have humbled his pride had she gone to her spinning-wheel again, but she did nothing of the sort.
+Renelde might have humbled his pride had she gone back to her spinning-wheel again; but she did nothing of the sort.
 
-When she came in she put her silent wheel into a corner, and cried for three days and three nights.
+When she came back home she looked at the silent spinning wheel in the corner, and cried for three days and three nights, and nothing her grandmother could say, or do, made things any better.
 
 VII 
 
-So another year went by. Then the Count fell ill, and the Countess supposed that Renelde, weary of waiting, had begun her spinning anew ; but when she came to the cottage to see, she found the wheel silent.
+Another year went by.
+
+But then the Count fell ill again; and the Countess supposed that Renelde, weary of waiting, had begun her spinning anew ; but when she came to the cottage to see, she found the wheel silent.
 
 However, the Count grew worse and worse till he was given up by the doctors. The passing bell was rung, and he lay expecting Death to come for him. But Death was not so near as the doctors thought, and still he lingered.
 
@@ -351,7 +346,6 @@ He said, "Thank God, thank God you've returned. You've been gone so long. You ha
 But the young man had stopped in his tracks, Looking confused.
 
 "I'm sorry",  he said. "Who are you? Where am I? Who am I?"
-
 
 As for Anwen, she returned home, where she'd lived with her grandmother. As she approached it, she saw no smoke coming out the chimney, no hens scratching in the yard outside.
 
