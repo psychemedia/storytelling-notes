@@ -126,6 +126,15 @@ An Eleventh Bulgarian Gypsy Folk Tale (The Forty-One THieves)
 pp214-224
 
 
+Also
+Gypsy Folk Tales, by Francis Hindes Groome, 1899
+
+incl following , a variant where a witchm rsther than a king, sets a suitor for her daughter various challenges, and the daughter comes to the rescue.
+No. 50.-- The Witch https://sacred-texts.com/neu/roma/gft/gft110.htm#an_50
+
+
+
+
 
 ---
 
