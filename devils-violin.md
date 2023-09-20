@@ -15,7 +15,7 @@ I.— GYPSY ANECDOTES FROM HUNGARY.
 I. — THE FIDDLE.
 `[The first and second of these tales are extremely close variants of DU Erschaffung der Geige and Die Erschaffung der Welt in Dr. Von Wlisocki's "Marchen und Sagen der Transsilvanischen Zigeuner," Berlin, 1886,]`
 
-*[TH: the secind tale referred to is "HOW THE DEVIL ASSISTED GOD IN THE CREATION OF THE WORLD".]*
+*[TH: the second tale referred to is "HOW THE DEVIL ASSISTED GOD IN THE CREATION OF THE WORLD".]*
 
 (Related to me at Guta, and also at Almas.)
 
@@ -143,7 +143,7 @@ Another set of tales involve a fiddler entertaining the devil, or the devil's fr
 
 The following does *not* actiually involve a fiddler — it's actually a piper — but it could do...
 
-```{admonition} SSWANDA, THE PIPER*, Laboulaye's fairy book, 1866
+```{admonition} *SSWANDA, THE PIPER*, Laboulaye's fairy book, 1866
 :class: dropdown
 
 In *Laboulaye's fairy book; fairy tales of all nations*, 1866, [p122-126](https://archive.org/details/cu31924051612137/page/n129/mode/2up):
