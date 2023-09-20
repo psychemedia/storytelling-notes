@@ -504,6 +504,6 @@ When she had finished, she put the violin back in its case, made her way through
 
 "Help yourself to anything" she said, and when they got back to her house, "anything at all..." and she smiled. "But DO NOT touch the violin".
 
-And they kissed, and they touched, and whatever else happened through the rest of that day, and that night, happened between two consenting adults, and is perhaps best left unsaid, so that nobody is embarrassed.
+And they kissed, and they touched, and whatever else happened throughout the rest of that day, and that night, happened between two consenting adults, and is perhaps best left unsaid, so that nobody is embarrassed.
 
 TO DO
