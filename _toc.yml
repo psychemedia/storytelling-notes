@@ -18,10 +18,13 @@ parts:
   - file: gwion-bach
   - file: thirteen-precious-things
   - file: bendigeidfran_branwen_second_branch
+- captopn: Gipsy Tales
+  chapters:
+  - file: devils-violin.md
 - caption: Show Outlines
   chapters:
   - file: unforeseen-nonsense
-- caption: WIP Told Need Telling Again
+- caption: WIP or Need Telling Again
   chapters:
   - file: woolpit-green
 - caption: Tales to Tell
