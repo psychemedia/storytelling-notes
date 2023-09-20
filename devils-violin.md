@@ -211,6 +211,7 @@ He kept his word ; and, to thank Heaven for having preserved him from such peril
 I also heard a variant of this tale told by Joe Baele, at Beyond the Border in 2023, in which a gypsy fiddler entertains a captive crowd on behalf of Death:
 
 ```{admonition} *Death and the fiddler*, Joe Baele, Beyond the Border, 2023
+:class: dropdown
 
 A gypsy fiddler, who has found an old violin on a market stall that adds something to his playing is stopped by death, who asks for a favour: will he entertain ten thousand souls he has backed up?
 
