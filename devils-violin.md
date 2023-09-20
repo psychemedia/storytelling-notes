@@ -141,7 +141,7 @@ Ritter von Zielinski.
 
 Another set of tales involve a fiddler entertaining the devil, or the devil's friends.
 
-The following does *not* actiually involve a fiddler — it's actually a piper — but it could do...
+The following doesn't actually involve a fiddler — it's a piper — but it could easily be told as a fiddler tale...
 
 ```{admonition} *SSWANDA, THE PIPER*, Laboulaye's fairy book, 1866
 :class: dropdown
