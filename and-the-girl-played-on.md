@@ -1,6 +1,14 @@
 #  And the Girl Played On
 
-*A combination of a version of "The Nettle Spinner" and Daniel Morden's telling of "the Leaves That Hung But never Grew".*
+A set of four tales...
+
+## Love more than salt
+
+TO DO
+
+## Nettle spinner
+
+*This is told with a later callback from Daniel Morden's telling of "the Leaves That Hung But never Grew".*
 
 ONCE upon a time, there was a great lord, a Count, who everyone called "the Wolf". He had a wicked heart, and a cold steely eye, and it was said that he used to harness his peasants to the plough, and whip them as they tilled his land in their bare naked feet.
 
@@ -24,6 +32,8 @@ And she told him. "Renelde".
 
 But before she could respond, her grandmother had come to the door, and shouted at the Wolf: " get away from here, you know you're not welcome. You just leave her alone". And he rode away.
 
+III
+
 Several years later, the Wolf passed by again.
 
 Renelde was by now turning from girl into woman, and as she gathered eggs from the hens around the small yard, he asked her: " What is your name ?"
@@ -38,13 +48,15 @@ And she told him.
 
 But Renelde knew the stories, and she knew better than to go up to the castle.
 
+IV
+
 A few months more passed before the Wolf next returned. Renelde, in the flush of maidenhood, was sitting outside the cottage, spinning hemp.
 
 " You are Renelde," he said. "Come up to the castle; I shall send away the Countess and make you my wife."
 
 But many years before, as Renelde's mother lay dying, the Countess had shown much kindness, and helped to take away some of her mother's pain. So even if the Wolf really had wished to marry Renelde, she would always have refused.
 
-III
+V
 
 It was only a few weeks before the Wolf appeared again, but they had been happy weeks.
 
@@ -62,6 +74,8 @@ For at that time, if there was no father in the house, the permission to marry m
 
 " Then I will give you leave to do so... But on one condition. The churchyard is filled with nettles that grow over all the tombs  ? Go there and gather the nettles, then spin them into two fine shifts. One shall be your bridal shift... and the other shall be my shroud. For you shall only be married on the day that I am laid in my grave.' And with that, the Count turned away with a mocking laugh.
 
+VI
+
 Renelde sobbed. Never had she heard of anyone spinning nettles. Rebelde cried: the Count was a strong man, seemingly made of iron, who oftend boasted that he would live to be a hundred.
 
 She went back into the cottage, sobbing and crying. Through her tears, she blurted out what the Wolf had demanded she should do.
@@ -74,7 +88,7 @@ That evening, Renelde's young man came to visit, as he did every evening. When R
 
 "No," replied Renelde, " there must be no blood shed over my bridal gown. And I have told you how good the Countess was to my mother."
 
-IV
+VII
 
 And so Renelde went to pick the nettles from the Churchyard, as the Count had said she must; and to her great surprise the nettles, when crushed and prepared, they gave a good thread: soft, and light, and firm.
 
@@ -92,6 +106,8 @@ Now he had thought such a thing would be impossible, and he grew pale at the sig
 
 Just as he had started to ride away, he stopped again, and turned, and said: " send your young man up to me at the castle; he should also do something for me...".
 
+VIII
+
 That evening, when Renelde's young man came to visit, as he did every evening, Renelde told him what the Count, what the Wolf, had said.
 
 And so he went up to the Castle.
@@ -101,6 +117,8 @@ And when he got there, he was summoned in before the Count.
 I will not bore you with the details, but the Count's thinking was this: if he could send the young man away, there would be no wedding. And if there was to be no wedding, there would be no reason for Renelde to make his funeral shift. And so he gave the boy on a quest, to find something for him that could not possibly exist, the details of which I will not bore you with now. And that the boy should leave *NOW*, there was no time to waste: the sooner he left, the sooner he would be back — (ha! or never...) — and the Count would send a message to Renelde to say her young man was running an errand for him.
 
 "Now be about your task before you forget it", he said, and the young man was sent on his way.
+
+IX
 
 The following day, Renelde was sent the news. But what could she do? If the Count had thought it would stop her from working on his funeral shift, it had the opposite effect.
 
@@ -113,6 +131,8 @@ All that day he got worse; he went to bed shaking with fever. But he did not sle
 This sudden illness, which at every instant became worse, started to torture him as if it were waking nightmare.
 
 No doubt Renelde's spinning-wheel had soemthing to do with this? It was almost as if his body were preparing to dress itself in the shroud she was spinning.
+
+X
 
 So he called to his soldiers, and sent them to break the wheel to stop her spinning.
 
@@ -132,7 +152,7 @@ They sprung up even in the well-trodden floor of the cottage, and as fast as the
 
 And every day the Count grew worse, and watched his end approaching.
 
-VI
+XI
 
 Moved by pity for her husband, the Countess at last found out the cause of his illness. But even as she entreated him to allow himself to be cured, the Count, in his pride, refused to go back on his demand.
 
@@ -144,7 +164,9 @@ But Renelde was determined: "He said I cannot marry until I have finished his fu
 
 So so Renelde promised her, and stopped her spinning. And waited for one month, for two, for six, for a year. The Wolf begain to recover his health, happy with thought that Renelde's young man would never return, satisfied that he would not have to retract his demand.
 
-One day, at the marker, Renelde saw the Count. She clasped her hands as if in prayer, and cried :
+XII
+
+One day, at the market, Renelde saw the Count. She clasped her hands as if in prayer, and cried :
 
 " My lord, have mercy ! Tell me where he went..."
 
@@ -154,7 +176,7 @@ Renelde might have humbled his pride had she gone back to her spinning-wheel aga
 
 When she came back home she looked at the silent spinning wheel in the corner, and cried for three days and three nights, and nothing her grandmother could say, or do, made things any better.
 
-VII 
+XIII 
 
 Another year went by.
 
@@ -168,6 +190,8 @@ His condition was desperate: he got neither better nor worse. He could neither l
 
 His thoughts turned to Renelde, and the demand he had made of her long ago. If Death was so slow in coming, was it because he had no shroud for his burial?
 
+XIV
+
 He sent for Renelde, thinking not of what he might have done for her, but only of what she might do for him. And as she stood at the foot of his of his bed, he looked at her with a cold flash of fire in his eye, and ordered her to go on spinning his shroud.
 
 Rendle looked at the Wolf, at the Count.
@@ -178,7 +202,9 @@ And as she lived on in her silent sorrow, the Count lingered on, straddled betwe
 
 And that is the end of the tale.
 
+## The leaves that hung but never grew
 
+*Based on Daniel Morden's retelling. There is a callback as the girl leaves the crossroads to the Nettle Spinner.*
 
 Once there was a house, a happy house. A house that had known the sound of children playing in the gardens, and of chatter on the terrace.
 
@@ -362,8 +388,48 @@ At last, she came to a village, where an old man took pity on her, gave her tea 
 
 The old man told her stories of that place. Of a house, just outside the village, that used to be a happy house, but   was now known as the weeping house. He said there was a tale told about that house, that if any young woman could make the young man who lived their smile, then she could marry him. But that was just a story.
 
-A bell tolled.
+Outside, in the distance, a bell tolled.
 
 The young man sat at the end of his bed. Between his feet, a bucket to catch his tears. But he wasn't crying any more. He looked at the girl. He dried his eyes, raised up his clenched fist, opened his hand. A single, solitary leaf, fell to the ground.
 
 And that *is* the end of the story.
+
+## The Devil's violin
+
+*Based on Sara Liisa Wilkinson's telling.*
+
+The first time she saw him, she knew she had to have him. The young hunter was setting up his stall on the other side of the market square, and she knew, she knew from that very moment, that he was the one she wanted.
+
+She tried to catch his eye, but he was busy arranging the stall. Her family were already setting off back home, and why did they always have to do this...?
+
+The next market-day arrived. She walked past the stall several times, trying to catch his eye. But it was as if he looking straight through her. As if she wasn't there, wasn't part of his world at all.
+
+And so it went on, from one market day to the next.
+
+Once, on the way home, she let out a sob. Her mother asked what the matter was. Her brother teased her. Her sister tried to cheer her up with tales of princes, carrying them away, and putting their cruel brother to a painful death. And her father made one of his indecipherable jokes that made her smile, even through her tears.
+
+With her mother, she made a plan.
+
+The next market day, the girl went to the young hunter's stall. But despite her smiles, and her feminine wiles and guiles, it was as if he were more interested in his kill, and his craft, than in her.
+
+Walking home alone through the forest — "I'll find my own way home" — she was both angry, and sad, not spurned, but unseen. As see approached the cross-roads, under-her breath: "I would do anything to get him, anything at all".
+
+Now if there's one thing, one lesson, that you need to learn from stories, it's to watch what you say when you get to a crossroads.
+
+"Anything?" said a figure, appearing out of the shadows that hadn't been there before. "Anything at all? Then maybe I can help." And he smiled.
+
+And she looked at him.
+
+"It is a him, I assume? Would you give anything for him, even if it were for just one night, and one day?"
+
+She paused... nodded. Looked down to the ground. The boots beneath his dark green coat looked... rather unusual. Cloven, almost. She raised her head, looked back at the man, stared right back at him. Determined.
+
+"Anything."
+
+"Then I *can* help you", and the devil, for who else could it be, and he smiled back at here. "But first, you will need to do something for me".
+
+And she nodded.
+
+TO DO
+
+"Go home and bring me back the thing that brings you most joy. Would you do that for a night and a day with this boy? And she thought of the joy that even such a short time would bring her, she was so obsessed with him, and would be sure to be able to keep for more than that given once day and night with him, that she agreed. And as she walked home, she wondered about what was there that brought her most joy...
