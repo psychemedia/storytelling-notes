@@ -36,7 +36,7 @@ III
 
 Several years later, the Wolf passed by again.
 
-Renelde was by now turning from girl into woman, and as she gathered eggs from the hens around the small yard, he asked her: " What is your name ?"
+Renelde was by now turning from the young girl she once was into the woman she would become, and as she gathered eggs from the hens around the small yard, he asked her: " What is your name ?"
 
 And she told him.
 
@@ -400,7 +400,7 @@ And that *is* the end of the story.
 
 The first time she saw him, she knew she had to have him. The young hunter was setting up his stall on the other side of the market square, and she knew, she knew from that very moment, that he was the one she wanted.
 
-She tried to catch his eye, but he was busy arranging the stall. Her family were already setting off back home, and why did they always have to do this...?
+She tried to catch his eye, but he was busy arranging the stall. Her family were already setting off back home, and *why did they always have to do this...? Always at just the wrong time...*
 
 The next market-day arrived. She walked past the stall several times, trying to catch his eye. But it was as if he looking straight through her. As if she wasn't there, wasn't part of his world at all.
 
