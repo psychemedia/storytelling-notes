@@ -498,7 +498,7 @@ The first time she played in the market square, she was rather nervous, and the 
 
 The second time played, she started to play the people, catching their ear, and their eye, and causing them to stop a moment, and watch, and listen.
 
-The time time she played, she started to play the crowd that was gathering. She started to play the crowd and she found thay she could make them do whatever she wanted. She played fast, and they danced; she played slow, and they wept. And as she played, she saw the boy. The young hunter. Watching her.
+The third time she played, she started to play the crowd that was gathering. She started to play the crowd and she found thay she could make them do whatever she wanted. She played fast, and they danced; she played slow, and they wept. And as she played, she saw the boy. The young hunter. Watching her.
 
 When she had finished, she put the violin back in its case, made her way through the crowd. The young hunter watched her approaching, started to follow her as she glanced back behind at him.
 
