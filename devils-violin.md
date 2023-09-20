@@ -102,15 +102,15 @@ pondering the while why he was condemned to poverty, scorn, loathing, and unceas
 
 "Ahem!" said the Gypsy, deep in thought. After a while he replied, smiling unperceived, " And what will you, Mr. Devil, do with the fiddle ? "
 
-" I shall play on it, and everybody will follow me wberever I wish."
+" I shall play on it, and everybody will follow me wherever I wish."
 
 " Very well, then, but first carry out your promise ! "
 
 " With pleasure ; but remember that your fiddle belongs to me, otherwise you will fare badly ! Now, bestride this bulrush, as if it were a horse, and follow me."
 
-The Gypsy obeyed the bidding of the Devil, and in one moment both flew through tbe air towards the East.
+The Gypsy obeyed the bidding of the Devil, and in one moment both flew through the air towards the East.
 
-The Sun was about setting, when the Devil and the Gypsy alighted from their airy steeds, by the Szamos-between-the-Mountains. The Devil took bold of tbe Gypsy's hand, leading him to a waterfall, and took out of the shallow bed of the river a handful of gravel, givîng it to the Gypsy.
+The Sun was about setting, when the Devil and the Gypsy alighted from their airy steeds, by the Szamos-between-the-Mountains. The Devil took bold of the Gypsy's hand, leading him to a waterfall, and took out of the shallow bed of the river a handful of gravel, givîng it to the Gypsy.
 
 " Hère is what I promised. The bottom of this river and the cave behind the waterfall are covered with gold. It is ail yours ; but give me your fiddle."
 
@@ -122,7 +122,7 @@ The Gypsy filled his pipe, lighted it, and commenced taking the gold out of the 
 
 After the lapse of three days the Gypsy was very rich, but his longing for his fiddle was still greater. Tired and heartsore, he sat down on one of the heaps of gold, saying, " Devil, thou art clever, but I am not stupid ; I gave thee my fiddle, but not my soul which plays on its strings."
 
-Then suddenly the Devil appeared, and returning the fiddle to the Gypsy, he said, " I have made a bad bargain ; thou hast the gold, but instead of alluriug men with the Sound of thy fiddle, I have frightened them away. Take back therefore thy fiddle, for though I am a devil, I cannot play like thee. But, before parting, how comes it that when thou playest the fiddle sings ao wonderfully ? "
+Then suddenly the Devil appeared, and returning the fiddle to the Gypsy, he said, " I have made a bad bargain ; thou hast the gold, but instead of alluring men with the Sound of thy fiddle, I have frightened them away. Take back therefore thy fiddle, for though I am a devil, I cannot play like thee. But, before parting, how comes it that when thou playest the fiddle sings ao wonderfully ? "
 
 "Well," replied the Gypsy, taking the instrument out of the Devil's hand, "it is but natural. I gave thee the fiddle as promised, but kept the soul for myself !"
 
