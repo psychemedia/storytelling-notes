@@ -410,7 +410,7 @@ Once, on the way home, she let out a sob. Her mother asked what the matter was. 
 
 With her mother, she made a plan.
 
-The next market day, the girl went to the young hunter's stall. But despite her smiles, and her feminine wiles and guiles, it was as if he were more interested in his kill, and his craft, than in her.
+The next market day, the girl went to the young hunter's stall. But despite her smiles, her feminine wiles and guiles, it was as if he were more interested in his kill, and his craft, than in her.
 
 Walking home alone through the forest — "I'll find my own way home" — she was both angry, and sad, not spurned, but unseen. As see approached the cross-roads, under-her breath: "I would do anything to get him, anything at all".
 
@@ -430,6 +430,16 @@ She paused... nodded. Looked down to the ground. The boots beneath his dark gree
 
 And she nodded.
 
-TO DO
+"Go home and bring me back the thing that brings you most joy."
 
-"Go home and bring me back the thing that brings you most joy. Would you do that for a night and a day with this boy? And she thought of the joy that even such a short time would bring her, she was so obsessed with him, and would be sure to be able to keep for more than that given once day and night with him, that she agreed. And as she walked home, she wondered about what was there that brought her most joy...
+And when she thought of the joy that even a night and a day with the young hunter would bring her, she agreed. And as she walked home, she wondered what it was that brought her most joy...
+
+She rummaged through her things, her old toys - ha, that old doll — her few tatty books, her hairbrush? Her mirror?  She rummaged around, heard her father calling "what are you doing in there?" and asked he made a joke to himself, she smiled, and... "Dad? Would you do something for me?"
+
+And as a father of a daughter, what would he *not* do for his daughter...?
+
+"Woualkd come in to the woods with me? There is some-wo...some*thing* I need you to see", and she led him by the hand, into the woods.
+
+As they reached the cross-roads, the devil in the long green coat clicked `[click]` his fingers. And where the girl's father had been, were now just his bones on the ground.
+
+TO DO
