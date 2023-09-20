@@ -40,7 +40,7 @@ Renelde was by now turning from the young girl she once was into the woman she w
 
 And she told him.
 
-" You must be tired of living in such a run down place ? " he said.
+" You must be tired of living in such a run down place ? "
 
 " I am accustomed to it, my lord, but I am happy here, with my grandmother."
 
