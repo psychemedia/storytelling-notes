@@ -502,8 +502,8 @@ The time time she played, she started to play the crowd that was gathering. She 
 
 When she had finished, she put the violin back in its case, made her way through the crowd. The young hunter watched her approaching, started to follow her as she glanced back behind at him.
 
-"Help yourself to anything" she said, when they got back to her house. "Anyhting at all..." and she smiled. "But DO NOT touch the violin".
+"Help yourself to anything" she said, when they got back to her house. "Anything at all..." and she smiled. "But DO NOT touch the violin".
 
-And they kissed, and they touched, and whatever else happened through the rest of that day, and that night, happened between two consenting adults, and is best left unsaid.
+And they kissed, and they touched, and whatever else happened through the rest of that day, and that night, happened between two consenting adults, and is perhaps best left unsaid, so that nobody is embarrassed.
 
 TO DO
