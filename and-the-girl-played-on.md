@@ -420,13 +420,19 @@ Now if there's one thing, one lesson, that you need to learn from stories, it's 
 
 And she looked at him.
 
-"It is a him, I assume? Would you give anything for him, even if it were for just one night, and one day?"
+And he looked at her. And: "It is a him, I assume, that's upset you? Would you give anything for him, even if it were for just one year, and one day?"
 
-She paused... nodded. Looked down to the ground. The boots beneath his dark green coat looked... rather unusual. Cloven, almost. She raised her head, looked back at the man, stared right back at him. Determined.
+Without a pause, she nodded.
+
+"And even it were for just one day, and one night?"
+
+She looked down to the ground.
+
+The boots he wore beneath his dark green coat looked... rather unusual. Cloven footed, almost. She raised her head, looked back at the man, stared right back at him. Determined.
 
 "Anything."
 
-"Then I *can* help you", and the devil, for who else could it be, and he smiled back at here. "But first, you will need to do something for me".
+"Then maybe I *can* help you", and the devil, for who else could it be, and he smiled right back at here. "But first, you will need to do something... *for me*".
 
 And she nodded.
 
@@ -438,8 +444,66 @@ She rummaged through her things, her old toys - ha, that old doll — her few ta
 
 And as a father of a daughter, what would he *not* do for his daughter...?
 
-"Woualkd come in to the woods with me? There is some-wo...some*thing* I need you to see", and she led him by the hand, into the woods.
+"Can you help, in the woods?", and they left the house together, and off, hand in hand.
 
-As they reached the cross-roads, the devil in the long green coat clicked `[click]` his fingers. And where the girl's father had been, were now just his bones on the ground.
+As they came in sight of the cross-roads, the devil in the long green coat smiled, and clicked `[click]` his fingers. And where the girl's father had been, there were now just bones. And she looked at them with tears in her eyes.
+
+And the devil picked up the chest bones and the neck bones and he fashioned them into a hollow box, with a neck, and the girl said: "oh, my father's bones... have never shone so bright", and she looked at the devil with a glint in her eye.
+
+And then the devil said: "do you still want this man, even if it were just for one day and one night?"
+
+And the girl said, "I do".
+
+"Then go home and bring back the thing that gives you the most strength."
+
+And she turned, and she walked home rather more quickly this time, and as she did so, she racked her mind thinking "what could that be? What is it that gives me the most stregth?"
+
+And as she got back home, she saw her mother, drawing water from the well. And she smiled. Her mother, always tireless, always able to make her feel better, always able to make her feel...
+
+"Mother, could you, could you help me. There is some-wo... something I need you to help me with, in the woods..."
+
+And what mother could deny her daughter? And hand in hand they set off, walking back through the woods.
+
+As they came in sight of the cross-roads, the devil in the long green coat smiled, and clicked `[click]` his fingers. And where the girl's mother had been, there were now just bones, and her mother long gray silvery hair. And the girl looked at them, and then straight back at the devil.
+
+And as the devil took them and fashioned them into a long, taught bow, the girl said, "oh, how my mother's hair has never pulled so tight".
+
+And the devil said: "do you still want this man, even if it is just for one day and one night?"
+
+And the girl said, "Oh, I do, I really, really do...".
+
+"Then go home, and bring me back what gives you the most hope and the most despair."
+
+And by now, the girl knew how this game was to be played, and she sprinted back all the way home, and when she got back there she called to her brother, and sister, "come with me, come and play, there is someone I want you to meet..."
+
+And what younger browther and sister would not go with the sister, so full of excitement, and she led them running, and chatting, and laughing, and as they turned the corner: [click], once, [click], twice.
+
+Where the brother and sister had been, all that was left was their vocal chords, and their finger bones.
+
+And the devil screwed the finger bones into the neck of the strange box he had fashioned before, and he wrapped the chords round them and stretched the chords over the hollow box. And as he tighter then, they tinged and they pinged and the girl said, "oh, my brother's and sister's voices have never sounded so sweet..." And she smiled at the devil.
+
+And he took that strange instrument and he gave it to the girl.
+
+Ans she placed it beneath her chin.
+
+And he gave her the bow, and he said: "now play".
+
+And if you've ever heard anyone play the violin for the first time, then you know how it sounds. Horrible. Just horrible.
+
+And the Devil said, "this may take some time... You'll need some practice..."
+
+And it did take some time. But the girl did practice, and she practiced hard, so hard it made her fingers bleed and her joints ache. And some times she forget just why she was practicing, and other times she didn't. But with the Devil's help, she started to tame that instrument, to make it sing, to speak, of joy, of strenght, of hope, and despair.
+
+The first time she played in the market square, she was rather nervous, and the people just walked by.
+
+The second time played, she started to play the people, catching their ear, and their eye, and causing them to stop a moment, and watch, and listen.
+
+The time time she played, she started to play the crowd that was gathering. She started to play the crowd and she found thay she could make them do whatever she wanted. She played fast, and they danced; she played slow, and they wept. And as she played, she saw the boy. The young hunter. Watching her.
+
+When she had finished, she put the violin back in its case, made her way through the crowd. The young hunter watched her approaching, started to follow her as she glanced back behind at him.
+
+"Help yourself to anything" she said, when they got back to her house. "Anyhting at all..." and she smiled. "But DO NOT touch the violin".
+
+And they kissed, and they touched, and whatever else happened through the rest of that day, and that night, happened between two consenting adults, and is best left unsaid.
 
 TO DO
