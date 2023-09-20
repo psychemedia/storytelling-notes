@@ -204,7 +204,7 @@ And that is the end of the tale.
 
 ## The leaves that hung but never grew
 
-*Based on Daniel Morden's retelling. There is a callback as the girl leaves the crossroads to the Nettle Spinner.*
+*Based on Daniel Morden's retelling. There is a callback to the Nettle Spinner as the girl leaves the crossroads.*
 
 Once there was a house, a happy house. A house that had known the sound of children playing in the gardens, and of chatter on the terrace.
 
