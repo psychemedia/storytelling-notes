@@ -316,7 +316,7 @@ And Bog o' Bones replied: "I found nothing. I went into the forest, and followed
 
 And she sent Bag o'Bones off again, in pursuit, to bring them back.
 
-Anwen and the young man, back in human form, were running, running thorugh the forest. Once again , they sensed they were being chased, they *heard* the sound of pursuit. Anwen took out another leaf, the fourth one. "We must hide again", she said, "but this time: you be a bush, and I will be a bee."
+Anwen and the young man, back in human form, were running, running thorugh the forest. Once again, they sensed they were being chased, they *heard* the sound of pursuit. Anwen took out another leaf, the fourth one. "We must hide again", she said, "but this time: you be a bush, and I will be a bee."
 
 The footprints on the path had disappeard again.
 
