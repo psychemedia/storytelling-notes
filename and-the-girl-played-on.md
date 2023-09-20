@@ -496,7 +496,7 @@ And it did take some time. But the girl did practice, and she practiced hard, so
 
 The first time she played in the market square, she was rather nervous, and the people just walked by.
 
-The second time played, she started to play the people, catching their ear, and their eye, and causing them to stop a moment, and watch, and listen.
+The second time played, she started to play the people, catching their ear, and their eye, and causing them to stop a moment, and to watch, and to listen.
 
 The third time she played, she started to play the crowd that was gathering. She started to play the crowd and she found thay she could make them do whatever she wanted. She played fast, and they danced; she played slow, and they wept. And as she played, she saw the boy. The young hunter. Watching her.
 
