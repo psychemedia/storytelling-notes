@@ -66,7 +66,7 @@ This time, Renelde was spinning flax, not hemp.
 
 And she replied: "My wedding shift, sir, if it pleases you?"
 
-" So you are going to be married, then ? " he asked.
+" So you are going to be married, then ? "
 
 " Yes, sir, by your leave."
 
