@@ -170,7 +170,7 @@ One day, at the market, Renelde saw the Count. She clasped her hands as if in pr
 
 " My lord, have mercy ! Tell me where he went..."
 
-But the Wolf turned away his head and passed on.
+But the Wolf just turned his head away, and passed on.
 
 Renelde might have humbled his pride had she gone back to her spinning-wheel again; but she did nothing of the sort.
 
