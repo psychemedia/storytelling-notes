@@ -833,13 +833,13 @@ Our story draws nears it close. Jack, with all his skill, could not baffle the a
 
 A version of the tale, except for the ending, also appears as *The Blacksmith and the Devil* (*Der Schmidt und der Teufel*, chapter 81), in the first volume of the first edition of Grimm's Househild Tales (the blacksmith ends up in heaven).
 
-A note in *THE EXTERNAL HISTORY OF THE KINDER UND HAUSMARCHEN OF THE BROTHERS GRIMM. III*, in vol XV, no. 6, of *Modern philology*, October 1917, p99-127 at p105 describes the hostory of the tale:
+A note in *THE EXTERNAL HISTORY OF THE KINDER UND HAUSMARCHEN OF THE BROTHERS GRIMM. III*, in vol XV, no. 6, of *Modern philology*, October 1917, p99-127 at p105 describes the history of the tale:
 
 > No. 81. "Der Schmidt und der Teufel." Replaced from 1819 on by "Bruder Lustig." The original story is reprinted by Bolte and Polivka, II, 168, in notes to No. 82, "De Spielhansel," of which it is a variant. It is also found in the usual condensed form in the Notes, 1822 and 1856, to No. 82.
 
 We can find a translation of the notes to *82. Gambling Hansel* in Margaret Hunt's 1881 translation of *Grimm's household tales : with the author's notes*:
 
-```{admonition} Notes to *82. — Gambling Hansel.*, Grimm's household tales (transl.), 1881
+```{admonition} Notes to *82. Gambling Hansel*, Grimm's household tales (transl.), 1881
 :class: dropdown
 
 In *Grimm's household tales : with the author's notes*, transl. by Margaret Hunt, with an introduction by Andrew Lang, 1884, [pp442-452](https://archive.org/details/grimmshouseholdt01grim/page/442/mode/2up):
