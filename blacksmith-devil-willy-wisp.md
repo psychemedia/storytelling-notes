@@ -839,7 +839,7 @@ A note in *THE EXTERNAL HISTORY OF THE KINDER UND HAUSMARCHEN OF THE BROTHERS GR
 
 We can find a translation of the notes to *82. Gambling Hansel* in Margaret Hunt's 1881 translation of *Grimm's household tales : with the author's notes*:
 
-```{admontion} Notes to *82. — Gambling Hansel.*, Grimm's household tales (transl.), 1881
+```{admonition} Notes to *82. — Gambling Hansel.*, Grimm's household tales (transl.), 1881
 :class: dropdown
 
 In *Grimm's household tales : with the author's notes*, transl. by Margaret Hunt, with an introduction by Andrew Lang, 1884, [pp442-452](https://archive.org/details/grimmshouseholdt01grim/page/442/mode/2up):
