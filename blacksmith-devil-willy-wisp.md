@@ -729,6 +729,106 @@ Of Jack O'Lantern now.
 
 ```
 
+## A History of the Jack o'Lantern
+
+A comprehensive telling of the history of jack o'lantern can also be found in a volume of the US published *Irish Miscellany* on November, 1858, which itself reprinted items from the *Dublin Penny Journal* published in Dublin, Ireland, between 1832 and 1836:
+
+```{admonition}
+:class: dropdown
+
+In *Irish miscellany*, Volume 2, Number 40, Saturday, November 13th, 1858, [pp246-7](https://archive.org/details/irishmiscellany00onei/page/246/mode/2up):
+
+JACK O'THE LANTERN.
+
+There are more things in heaven and earth, Horatio,  
+Than are dreamt of in your philosophy. — Shakspeare.
+
+My uncle, kind, generous soul ! was deeply imbued with superstition — with a firm belief in supernatural influences, a circulating library of legendary lore, and a living chronicle of all the compacts made with the ' ould boy ' from the days of ' Docthor Fosther ' (Faustus) up to those of the Witch of Endor. He very rarely diverged into the light and amusing fictions of fairyism, for his genius, and, by consequence, his course of studies, were entirely of the German school, wild, dark, and horrific. The reader will be pleased to take notice, that I do not use the word 'studies' in the vanity of showing that this dear and near relation was possessed of book-learning ; on the contrary, I roundly assert that his lore was not derived from books, for though, as I have heard himself assert, he mastered the horn-book at ' ould Tim Casey's' hedge seminary, and spelled his weary way as far as the ' oliphant ' (elephant) through a three-penny primer at the age of fifteen, the dread of flagellation for an unfortunate boxing bout with a red-shinned fellow of seventeen, whom he forced to bite the dust, made him bid adieu to book-learning and Tim Casey before he could take the ' rhinoceros,' and all his natural history, by the horn.
+
+I may observe, by way of a parenthesis, that my revered uncle was celebrated in after life for his skill in the noble science of defence, and shall take this opportunity of testifying that, whatever share of dexterity I possess at handling the fist or cudgel, has been entirely owing to his fostering care. He had a sovereign contempt for the Newtonian philosophy ; laughed to scorn the manner in which the learned account for a great deal of what is called natural phenomena ; could show you with half an eye the man who was translated to the exalted sphere of the moon for stealing a bush from his gossip's fence, but totally denied the existence of any other living being in that planet, and could descry there none of the seas and mountains which all astronomers so easily perceive. In short, he declared it to be as dangerous to follow these lights of learning in their ferial voyages of discovery, as to pursue that misguiding traveller, Jack o' the Lantern, in his devious excursion through the faithless mazes of an Irish shaking bog.
+
+Whether it was that my uncle perceived me the inheritor of his own eccentric temper, or that he always found me the greedy devourer of all his tales of wonder, certain it is, that I was his special favorite, and he rarely took an excursion to any neighboring wake, shebeen-house, or card-party, without securing my company. Indeed, I improved so much under his auspices that, at fifteen, very few of double my years could boast half my dexterity at spinning a tough yarn, handling a pack of cards, or throwing of a draught of poteen. But Truth, ' my fair mistress,' obliges me to confess that I have forgotten a third of these accomplishments. Through long disuse, I can now hardly distinguish a king from a knave ; but the tales and legends of my beloved country still possess a charm for me, which neither time nor misfortune can diminish.
+
+One night in October, when returning home from Darby M'Auliff's wake, where my uncle amused a numerous circle of gaping auditors by reciting the wonderful adventures of ' Aodh beg an Bridan,' we found ourselves on the border of a mountain stream, which afforded an outlet to the waters of a deep morass, that extended from a considerable distance to its very edge, when that meteoric light, which the learned denominate 'ignis fetuus,' but which, in vulgar parlance, is called 'Jack o' the Lantern,' suddenly started before us. My uncle stopped, and eyeing the irregular motions of the strange light that gilded around us, said —
+
+' Well, my ould boy, I didn't think ye'd eve again tempt me to pursue ye ; but, howsomever, as I'm growing stiff in the limbs, we'll take the aisy way of getting rid o' yer thricks. Eamon, a vick O! (meaning myself), mind your eye — off with your coat, an' turn it inside out, or, as sure as your living, the chap yonder will give us a cowld bath in the nixt bog-hole.'
+
+Then, suiting the action to the word, he deliberately took off his coat and breeches, turned them inside out, and slipped into them instanter, while I could scarcely keep my feet, I was so convulsed with laughter at the grotesque appearance presented by my uncle in this strange mode of equipment.
+
+' Eamon, a vick,' resumed my uncle, upon seeing my extravagant contortions ; ' Eamon, is it yer books that taches ye to laugh at yer uncle, ma boochal ? I seen, in my own time, some conceated chaps o' yer kitney (kidney) turn their coats for a worse reason than this.'
+
+The sharpness ot the last remark showed that I had greatly offended, and I endeavored to sooth his irritation, by expressing deep contrition for my illtimed laughter fit, and by literally turning my coat, leaving, however, the neither garment undisturbed ; but my toilet was hardly completed when the wandering light, after a few curves along the stream, dashed into a small glen that opened into the brook, and finally disappeared.
+
+As w'e strode homeward, along the well-known pathway, my uncle, now relieved from those fears which the presence of the meteor had occasioned, said —
+
+' Now wouldn't ye give yer uncle a speciment of yer larnng, and tell us what the books you read say about Jack o' the Lantern.'
+
+' Why, uncle, the ' ignis fatus ' is only a harmless light — a gaseous vapor arising from putrid vegetable bodies, which, ignited by the damps of the night, wanders on in brightness till the inflamable air is consumed.'
+
+' Eamon a hagur, your hard words have bothered me entirely. Thim nateral phil — what do ye call 'em, have filled your head, a leagh, with nonsense. Jack o' the Lantern a gas light— isn't it, asthore ? Eamon, a chora, (and his tone grew tremulous with feeling). Eamon, if you knew the sufferings of that forsaken craythur, since the time the poor soul was doomed to wandher, with a lanthern in his hand on this cowld earth, without rest for his foot, or shelter for his head, until the day of judgment — ullayone ! oh, it 'ud soften the heart of stone, to see him as I once did, the poor ould ' dunawn ' — his feet blistered and bleeding, his poneens all flying about him, and the rains of heaven beating on his ould white head.'
+
+This burst of emotion would have given me real delight could a reasonable motive be assigned for it; but in his enthusiastic feeling for the fabled being of his commisseration, I really concluded my uncle was beside himself.
+
+' I was coming home one night,' he continued, 'from a christening at Tim Fowler's — it was about twelve at night — and I had not taken anything extraordinary, but was just, as you may say, right enough, whin up started the light before me, on the very spot where we met to-night, and it was this night twenty years, of all nights in the year. I knew, if I tried to get homeward, that treacherous lanthern would lead me through all the bogs and corrahs of the place, for the night was plenty dark, and the roar of the mountain streams, as they dashed through the rocky beds, sounded deep and lonely. ' Bedad,' sis I, ' ma boochal, I'll run no risks in striving to avoid ye, but I'll hunt you down fairly; for, you see, avick, if you shun him, he'll follow ye, but if you purshue him, he'll cut away, I jist slipt off my brogues (by the same token, I never got tidings of them since,) and dashes towards him in my thraheens. Well became him, he ups and run or the bare life over hill and valley, cummer and carigaun. I stuck to him like his shadow. Sometime I came rattling down a steep cliff ; thin, after picking up my legs, ran headlong into a bog-hole. Now I got stuck into a furze brake, and the moment after soused head and ears in a running sthrame. At length, as I reached the bank of a rapid river, I saw him, by the light of his own lanthern, hiding on the very edge of the water, under shelter of a ' sally ' bush. As I hashed like a greyhound towards him, through the loughans of the inch, his eye seemed rivetted on me in wild terror ; his face was frightful to look at, and his white beard and whiter hair streamed in the rough blast that swept down the glin along the river. The next step would have brought me straight upon him ; but, at that instant, the March cock upon a neighboring roost gave notice of day — the lanthern wint out, and the poor crather that carried it dissappeared, and I was left in pitchy darkness.'
+
+As we journeyed homeward, I introduced various topics to put my companion's sainty to the test ; but he displayed his usual acuteness upon every subject, save that of the sprite whose lot the reader has heard him so feelingly deplore. Upon this point, he was impregnable to all argument, and I gave up the struggle, astonished at this instance of mental delusion. Next day he favored me with the history of Jack o' the Lantern, which I wrote down at leisure while the facts were fresh in my memory. I greatly regret that I did not write the strange legend in my uncle's rich and imaginative dialect ; but the manuscript is now before me — and even had I leisure and inclination to revise it, so many years have since elapsed, that I could not recollect my uncle's varied phraseology — so, reader, you have it as it is.
+
+THE LEGEND.
+
+Once upon a time there lived a man, whose natural disposition was churlish and morose, and the asperities of whose soul had not been softened down by the influence of a knowledge of God, and his acquirements in the things of this world did not much exceed the narrow skill which enabled him to cultivate the farm on which he lived. He was known throughout the country for his unsocial manners — his blazing hearth never cheered the way-worn stranger, and the repulsed beggar never again sought his inhospitable door. In short, he lived the reproach of humanity, and his name was a bye-word in the land.
+
+Jack, for so his churl was named, was returning home one night from a neighboring fair, when, as he approached a dark and rapid stream at a particular ford, which the imagination of the people of that time had associated with some tales of murder and superstition, he heard a groan that, to his fancy, proceeded from some tortured spirit. He suddenly drew in the mare on which he rode — all the horrid tales recorded of that dark glen rushed to his memory — and as a second and third sound of agony smote his ear, bis bristling hair stood erect, the cold beads of dismay oozed at every poor ; nor did the whiskey which he quaffed that evening, in his own sordid way, prevent the current of his blood from freezing at his very heart; but when the horrid sounds were again repeated, he summoned nerve sufficient to inquire what he could do for the tortured soul that crossed his path in that glen of gloom and horror.
+
+' For the love of heaven,' said the voice ' take me to some human habitation, for I am no tortured spirit, but a poor homeless wanderer who has lost my way on the wild moor, and have laid down here to die, for I durst not cross this rapid water. So may mercy be shown you in your hour of need, and in the day of your distress.'
+
+Delivered from supernatural terrors, the peasant's soul softened into humanity. With an indescribable feeling of pity, which never till that hour reached his heart, he dismounted, and saw extended on the damp earth a very aged man, with a white beard, who was evidently borne down with the load of years snd misery. He wrapped the aged sufferer in his warm great coat, placed him on the saddle, and then, mounting on the crupper, supported the object of his pity till he reached home.
+
+His wife smiled to behold her gruff husband engaged in the unusual office of hospitality, and wondered much what charm could have soothed his unsocial soul to kindness. The miserable stranger received every necessary that her cupboard afforded, was laid to rest in a warm bed, and in a short time his grief and infirmities were forgotten in sound repose.
+
+About the dawn of day, Jack was awakened from his sleep by a bright blaze of light that shone through all the cabin. Unable to account for this sudden illumination, he started to his feet from the bed, when his progress was instantly checked, and his astonishment greatly augmented to behold a young man of celestial beauty wrapt in white garments. His shoulders were furnished with wings, the plumage of which exceeded in whiteness the down of swans, and as he spoke, his words stole like the notes of a heavenly harp to the soul of the wondering cottager.
+
+'Mortal,' said the celestial visitant, 'I am one of the angels commissioned to watch over the sons of Adam. I heard thy brethren exclaim against thy unsocial temper, and utter disregard of the sacred virtue of hospitality ; but I find that some generous seeds of virtue have lain uncultivated with thee. In me thou beholdcst the miserable senior whom thy generous humanity relieved — I have shared thy frugal fare and lowly bed; my blessing shall remain with thy house ; but to thyself in particular I bestow thtee wishes ; then freely ask, as I shall freely give. May wisdom bound the desire of thy soul.'
+
+Jack paused for a moment, and then said, ' There's a sycamore tree before the door, fair and wide-spreading, but every passer-by must pluck a bough from it ; grant that every one touching it with such intent, may cling to the tree till I release him. Secondly, I do wish that any person who sits in my elbow chair may never be able to leave it, nor the chair to leave the ground, without my consent. There's a wooden box on the wall ; I keep it to hold the thread, and awls, and hammer, with which I mend my brogues, but the moment I turn my back, every clown comes here cobbling for himself. My third request is that the person who puts his hand into the box might not withdraw it, and that the box may stick to the wall, during my pleasure. My wishes are ended.'
+
+The angel sighed as he granted the boon, and the legend further adds that Jack was from that hour excluded from all hope of heaven, because he had eternal happiness within his wish, and neglected to secure the vast gift; but the angel's blessing remained with his house — his children were many, and his crops and cattle throve with large increase.
+
+In twenty years after, as Jack sat one evening in his elbow chair, musing on his earthly affairs, a strange and unearthly smell of brimstone assailed his nose, and when he turned round to ascertain the cause, the appearance of a tall, dark-looking being, graced with a pair of horns, a cloven foot, and a long tail, which he carried rather genteely tucked under his arm, further increased his astonishment. The stranger immediately opened his message, mentioned Jack's exclusion from heaven, and spoke of his infernal master's anxiety to see him speedily at his own hot home.
+
+When Jack heard these awful tidings, he repressed every symptom of alarm, and, starting to his feet, bid the stranger welcome.
+
+' I hope,' he continued, ' your honor won't be above sitting in the elbow-chair, and tasting a drop of potteen this cold evening, while I put on my Sunday clothes.'
+
+The demon complied.
+
+' There,' said his host, ' is a real drop of the native. The sorra a gauger ever set his ugly face on it. Why then would your honor tell me if ye have any gaugers in your native place?'
+
+' We have lots of them,' replied he of the cloven hoof ; but we give them other employment than stillhunting ; but come, the road is long, and we must away.'
+
+So saying, he motioned to leave his seat, but found himself immovably fixed therein, while the guileful mortal set his flail to work on the captive enemy. Vain every entreaty for mercy — in vain he kicked and flung his arms around ; the swift descending enemy of vengeance smashed every bone in his skin, and it was only when exhausted, and unable to prosecute his task, that he consented to liberate the miserable being, on his solemn oath, that he would never more visit this upper world on a similar errand.
+
+Satan has more than one courier to do his errands. A second messenger, provided with the necessary in¬ struction for shunning the fatal chair and flail, was despatched to fetch the doomed mortal, who was rumi¬ nating, next day, on the adventure of the preceding evening, when the latch was raised, and a stranger cautiously entered.
+
+When he had explained his business, Jack requested that he would be seated, and expressed his willingness to depart when he had put a stitch or two in his old brogue. The courier was too cautious, and declined to sit ; but Jack took the chair, pulled off his broken shoe, and requested the demon to hand him an awl from the small box.
+
+The infernal visitant obeyed, but found that he could neither withdraw his hand, nor remove the box from the wall. He cast a glance of dismay at his mortal antagonist, who sprung to the flail, and bestowed such discipline as forced the present visitor to submit to the same conditions for his release that his brother devil had done.
+
+It is said that his sable majesty was greatly surprised at the discomfiture of his two trusty messengers, and, like a skillful general, he resolved to go in person and explore the enemy's camp. He ascended from the nether world through Mangerton mountain, near Killarney, where that barren and bottomless pool, called the Hole of Hell, now fills up the funnel which forms his upward passage. He looked round from the lofty height into the far country, and with the sagacity of the vulture in quest of his prey, directed his course to Jack's habitation.
+
+It was a sunny morning, and a heavy frost of some day's continuance had congealed all the waters, and rendered the surface of the land hard and slippery. Aware of Jack's wiles, he rapped at the door, and, in a voice of thunder, bid the miserable mortal come forth.
+
+' I will go whithersoever your lordship commands me,' he answered, awed by the threatening voice and formidable manner of his suminoner; ' but the road is slippery, and you will permit me to fetch my cane ; besides, I would wish to kiss my wife and little ones before I go.'
+
+The fiend was inexorable, and urged the wretched being on before him.
+
+' If I walk without the support of a stick,' he resumed, hobbling on before his captor, ' I shall speedily break my bones, and if there are no carmen on the road to hell, how would your lordship wish to fetch my carcase on your princely shoulders ? Oh, that I had even a bough from yonder sycamore to support my old limbs !'
+
+To stay this murmuring, and furnish the desired support, Satan laid hold on a fair branch of the tree, but immediately found that he was unable either to break the bow or quit his hold, and Jack, with a yell of joy, returned to fetch his favorite flail. In the words of the legend, whoever would come from the remote ends of the earth to hear the most fearful howlings, occasioned by the most dreadful castigation, would here have ample gratification. Jack broke his three best flails on the occasion, and though the miserable fiend cried loudly for mercy, he continued his toil till the going down of the sun, when, on his promising neither to seek Jack on earth, or permit his entrance into hell, the arch-fiend was released, and the fortunate man retired to rest, more fatigued from that day's thrashing than ever he had been before.
+
+Our story draws nears it close. Jack, with all his skill, could not baffle the assault of Death. He paid the debt of nature ; but when his soul was dismissed to its final residence, the porter at the gate of the infernal regions stoutly denied him admittance — the fiends turned pale with affright — and even Satan himself fled within the lowest depths to hide his head from the dreaded enemy. Then, because he was unfit for heaven, and hell refused to take him, he was decreed to walk the earth with a lantern to light him on his nightly way till the day of judgment. Such, reader, is the legend relative to Jack o' the Lantern, commonly believed by the peasantry in many districts of Ireland.
+
+```
+
 ## A Telling From the Welsh Tradition
 
 There is also a telling collected from the Welsh tradition "whilst living in Anglesea during the winter 1891-2" by Peter Emerson, in *Welsh fairy-tales and other stories* of 1894.
