@@ -733,7 +733,7 @@ Of Jack O'Lantern now.
 
 A comprehensive telling of the history of jack o'lantern can also be found in a volume of the US published *Irish Miscellany* on November, 1858, which itself reprinted items from the *Dublin Penny Journal* published in Dublin, Ireland, between 1832 and 1836:
 
-```{admonition}
+```{admonition} *Jack o'the Lantern*, Dublin Penny Journal, c. 1833
 :class: dropdown
 
 In *Irish miscellany*, Volume 2, Number 40, Saturday, November 13th, 1858, [pp246-7](https://archive.org/details/irishmiscellany00onei/page/246/mode/2up):
