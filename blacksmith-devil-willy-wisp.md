@@ -490,6 +490,245 @@ The same tale is also republished in W. B. Yeats' [*Fairy and folk tales of the 
 p235-259, although the blacksmith is given the name Billy *Dawson* rather than Billy *Duffy*.
 ```
 
+## A Version in Verse
+
+As well as Irish literary versions, we can also find this Irish variant in verse:
+
+```{admonition} *The Romance of Jack o'Lantern*, Hercules Ellis, 1851
+:class: dropdown
+
+In *The rhyme book*, Hercules Ellis, 1851, [pp623-627](https://archive.org/details/1851therhymebook/page/n662/mode/2up):
+
+
+The Romance of Jack o'Lantern
+
+FIRST FYTTE.
+
+I.
+
+Greater churl was never known,  
+On this earth than stingy John;  
+From his door the poor were turned,  
+Unrelieved, and cursed, and spurned.
+
+II.
+
+One night Jack was homeward coming,  
+Midnight, round his path was glooming;  
+As he reached a river's side,  
+Some one near him, moaned and cried.
+
+III.
+
+"For the love of Heaven," he said,  
+" Mercy have, and lend me aid;  
+Way-worn traveller am I,  
+Leave me here, and I shall die." 
+
+
+IV.
+
+Stingy Jack's hard heart was touched;  
+Quick the stranger he approached;  
+Raised him up upon his mare;  
+Brought him home, and fed him there.
+
+V.
+
+Gray-haired wanderer down he lay,  
+But, before the break of day,  
+To the bed of Jack he hies, 
+Winged like zeraph of the skies.
+
+VI.
+
+Heavenly beauty graced his face;  
+Heavenly brightness filled the place;  
+When Jack, starting up, had woke,  
+Thus the angel smiling spoke. 
+
+VII.
+
+"Though called a churl by all around,  
+Mercy in your heart I've found;  
+Ask three gifts, I'll give them you,  
+And my blessing add thereto." 
+
+VIII.
+
+Greatly at all this Jack wondered;  
+Long, what he should ask, he pondered;  
+Scratched he often his shock head,  
+Then, thus, to the angel said. 
+
+IX. 
+
+" I wish whoever takes my chair,  
+May be fastened firmly there,  
+He to chair, and chair to ground,  
+Till my leave to go be found.
+
+X.
+
+"Next I pray, whatever fools  
+Meddle with my box of tools,  
+May be fastened to the wall,  
+Till, to let them go, I call.
+
+XI.
+
+"Thirdly, sir, I would implore,  
+That, who breaks my sycamore,  
+May be fixed fast to the tree,  
+Till I choose to set him free."
+
+XII. 
+
+" All these boons I grant to you,  
+And my blessing add thereto;"  
+Saying thus, the angel sighs,  
+As, from thence, to heaven, he flies;
+
+
+XIII.
+
+For when choice, like this, is given,  
+If the chooser ask not heaven,  
+Never more, by deeds or prayer,  
+Shall the spurner enter there.
+
+XIV.
+
+Hut, although thus doomed to hell,  
+Stingy Jack, on earth, throve well;  
+Large his flocks, and strong his health,  
+Wide his lands, and great his wealth.
+
+SECOND FYTTE.
+
+I.
+
+Now years have flown, and youth is gone,  
+And Jack's last day is come;  
+And the Devil sends a servant up,  
+To fetch the old man home:  
+At Jack's hall door the servant knocks,  
+And bids him come away;  
+Jack opes the door, and asks him in,  
+And says, " Sit down, I pray."
+
+II.
+
+In Jack's own seat, the servant sits,  
+And there is fastened tight;  
+Jack takes his flail, and without fail,  
+He flogs him left and right:  
+And, as he scored, the flunkey roared,  
+At length he firmly swore,  
+That if set free, from thence he'd flee,  
+And never come back more.
+
+III.
+
+When thus he'd sworn, Jack set him free,  
+And off he went with speed;  
+But many a servant, besides him,  
+The Devil has at need:  
+Next day, another one was sent,  
+And ordered without fail,  
+That Stingy Jack he should bring back,  
+And also fetch his flail.
+
+IV.
+
+The second servant now came in,  
+With cautious step and slow;  
+And told Jack, in his master's name,  
+To hell he straight must go.  
+Says Jack, "This brogue I first must mend;  
+Barefoot I could not crawl;  
+So put your hand in yonder box,  
+And hand me down my awl."
+
+V.
+
+Within the box he poked his hand,  
+And there is tightly held;  
+Then Jack applied his famous flail,  
+Until the flunkey yelled;  
+He yelled and roared, while old Jack scored,  
+Until as the first swore,  
+Ihe second flunkey swore to go,  
+And trouble Jack no more.
+
+VI.
+
+And now the Devil came himself,  
+Since servants would not do;  
+Through Mangerton, he rose in flame,  
+And ordered Jack to go.  
+Said Jack, "My Lord, I'm ready quite,  
+But dead lame is old Jack;  
+You must get me a good stout stick,  
+Or take me on your back."
+
+VII.
+
+Then from the Sycamore hard by,  
+The Devil seized a bough;  
+And fastened tight, and helpless quite,  
+The Devil is left now:  
+Jack yelled with joy, when the old boy  
+He saw thus in his power;  
+Then hastened for his famous flail,  
+And laid it on galore.
+
+VIII.
+
+So loudly howled the Devil then,  
+His roars were heard quite plain,  
+In Germany, and Italy,  
+And even in tar Spain:  
+Upon his back, three flails broke Jack,  
+And still he lathered on;  
+Nor did he stay his work that day,  
+Until the setting sun.
+
+IX.
+
+Then, by his horns, the Devil swore,  
+That if Jack let him go,  
+He'd never bring, nor let Jack come,  
+Within his realms below:  
+When thus he'd sworn, with back well torn,  
+Jack sets the Devil free;  
+And from that day, he staid away,  
+From Jack and from his tree. 
+
+X. 
+
+At length Jack died, and when his soul  
+Was from his body riven;  
+It could not get through hell's wide gates,  
+Nor yet through those of heaven:  
+By his free choice, he lost the last;  
+And Satan did not fail  
+His oath to keep, and Jack to sweep,  
+From hell's gates, with his flail.
+
+XI.
+
+Then since Jack is unfit for heaven,  
+And hell won't give him room,  
+His ghost is forced to walk the earth,  
+Until the day of doom:  
+A lantern in his hand he bears,  
+The way by night to show;  
+And, from its flame, he's got the name  
+Of Jack O'Lantern now.
+
+```
+
 ## A Telling From the Welsh Tradition
 
 There is also a telling collected from the Welsh tradition "whilst living in Anglesea during the winter 1891-2" by Peter Emerson, in *Welsh fairy-tales and other stories* of 1894.
