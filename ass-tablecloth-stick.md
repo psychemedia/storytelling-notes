@@ -1,4 +1,4 @@
-# The Ass, The Table and the sticky
+# The Ass, The Table and the Stick
 
 I told this as Jack and North Wind (Asbjornsen Moe )
 
