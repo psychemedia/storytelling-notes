@@ -492,7 +492,7 @@ p235-259, although the blacksmith is given the name Billy *Dawson* rather than B
 
 ## A Version in Verse
 
-As well as Irish literary versions, we can also find this Irish variant in verse:
+As well as Irish literary versions, we can also find this Irish variant in verse that tells the tale of "stingy Jack", who is to bevomr the Jack o'Lantern:
 
 ```{admonition} *The Romance of Jack o'Lantern*, Hercules Ellis, 1851
 :class: dropdown
@@ -537,7 +537,7 @@ V.
 
 Gray-haired wanderer down he lay,  
 But, before the break of day,  
-To the bed of Jack he hies, 
+To the bed of Jack he hies,   
 Winged like zeraph of the skies.
 
 VI.
@@ -599,7 +599,7 @@ Shall the spurner enter there.
 
 XIV.
 
-Hut, although thus doomed to hell,  
+But, although thus doomed to hell,  
 Stingy Jack, on earth, throve well;  
 Large his flocks, and strong his health,  
 Wide his lands, and great his wealth.
