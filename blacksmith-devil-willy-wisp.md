@@ -2,6 +2,13 @@
 
 What is the origin of the *will o' the wisp*, that strange marshlight that can lead an unwary traveller to a sticky end, or perhaps even the land of fairy?
 
+```{admonition} The Smith and the Devil, Irish Schools Collection
+:class: seealso
+
+This tale appears in many submissions to the Irish Schools collection: [AT0330A](https://www.duchas.ie/en/cbes/stories?SearchText=&SearchLanguage=en&Page=1&PerPage=20&AaThTypeID=0330A&Transcribed=true&LanguageID=en)
+
+```
+
 ## The Tale in the Irish Tradition
 
 One humorous explanation is given in the story of *Will O' the Wisp*, first collected into the published Irish tradition in *The Royal Hibernian Tales*, a chapbook published prior to 1825.
