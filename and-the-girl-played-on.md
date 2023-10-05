@@ -1,10 +1,50 @@
-#  And the Girl Played On
+# And the Girl Played On
 
 A set of four tales...
 
 ## Love more than salt
 
-TO DO
+Once upon a time, there was a King, who had three daughters. The King didn't know them perhaps as well as he should, so he called them to him to ask them a question: "hwo much do you love me?" When the daughters looked at him a rather confused way, he explained to them: one day, I will choose one of you to succeed me. To love me, is to love my people. Who will be your people. So: how much do you love me?"
+
+The eldest princess, who had perhaps expected to be the chosen one, answered first: "I love you as much as all the gold in the kingdom" she said, and to the King, this was a good answer: being a King was an expensive business and this daughter appeared to have learned that lesson already.
+
+The second princess, who loved to follow the latest fashions, answered: "I love you as much as all the jewels in the kingdom", and this was a pleasing to him too: a King — or Queen — should look the part *and* have a sense of the value of expensive things. And this daughter obviously loved pretty things, so for to love him more than that made him feel good.
+
+The third, and youngest, daughter, looked as much like one of the serving girls as a princess; rather disappointing, really. She thought for a moment and then said: "Father, I love you more than meat loves salt".
+
+And the King spluutered. "What sort of answer is that? You, you spiteful, common girl. Get out of my sight... No, more than that, leave the castle altogether. I don't want to see you again... Get yourself some food from the kitchen, and go..." And with that, he sent her away.
+
+The girl went to the kitchen, and as she asked for a few small provisions from the cooks, she explained her fate; but the cook took pity on her and said "the King never comes down here. You can stay and help me..." And she gave the girl a wink.
+
+It wasn't long after that the day came when the King was to announce who would be his successor. To show the love he had for his people, the banqueting hall would be open to all. And to show them his generosity, he would treat them to a feast the like of which they had never seen before. And to show his humility, the guests would be served first, and the King would be served last.
+
+The banqueting hall was packed; the guests were in their finest rags, ("literally", thought the king), and the mood was expectant: all had heard how splendid the King's feasts were, the finest dining but with the most generous of portions, and they were HUNGRY.
+
+First came the appetisers, then some wine.
+
+Then the soup - not quite what they expected, it tasted a bit bland — then more wine.
+
+Then the feast proper would begin. Platters of the finest meats from the best hunting in the kingdom. Huge platters - roasted pigs, and roast deer. The finest beef, the most succulent lambs. The King looked on and smiled: the people would love him for this.
+
+But instead of the gasps of pleasure, the happy lively chatter as the people admired his generosity, and his good taste, a silence followed the plates - "the poor peasants are dumbfounded, I expect" laughed the King to his wife. "They've probably never tasted anything anything sweeter than a turnip before, and the best meat they'll have ever had is probably rat." As I said, he was showing his humility.
+
+But then, the silence turned to muttering, sidelong glances, people spitting out the food. People spitting out the meat and shaking their heads and... the King called for one of the plates to be brought to him. As he tasted the meat he - erghh - spat it out.. It was tasteless and bland and was not at all what he expected. Not at all what he was accustomed to.
+
+He demanded the cook be dragged before him. The guards were sent out, and soon returned with the cook between them. Following them, unnoticed, a young serving girl, carrying a bag...
+
+As the king demanded an explanation from the cook, the serving girl passed something along each of the tables. Immediately their tone changed, and where the people had been spitting out the meat, now they were feasting hungrily upon it.
+
+"Explain yourself," said the King to the cook, "you're supposed to be the finest cook in the Kingdom? Serving the fiest food. Bute even the peasants are spitting it out."
+
+And as he gestured toward the packed hall, he noticed that the people were now feasting.
+
+He glared at the cook. "What - what have you done to them?" he demanded.
+
+The cook smiled at him. "All that was missing was the salt, sire, for meat loves nothing more than a little salt."
+
+And as the serving girl approached his table, the King recognised her as his daughter.
+
+And he knew who he would announce as his successor.
 
 ## Nettle spinner
 
@@ -56,6 +96,8 @@ A few months more passed before the Wolf next returned. Renelde, in the flush of
 
 But many years before, as Renelde's mother lay dying, the Countess had shown much kindness, and helped to take away some of her mother's pain. So even if the Wolf really had wished to marry Renelde, she would always have refused.
 
+And besides, the young woman had started courting a young man...
+
 V
 
 It was only a few weeks before the Wolf appeared again, but they had been happy weeks.
@@ -72,7 +114,7 @@ And she replied: "My wedding shift, sir, if it pleases you?"
 
 For at that time, if there was no father in the house, the permission to marry must come from the lord.
 
-" Then I will give you leave to do so... But on one condition. The churchyard is filled with nettles that grow over all the tombs  ? Go there and gather the nettles, then spin them into two fine shifts. One shall be your bridal shift... and the other shall be my shroud. For you shall only be married on the day that I am laid in my grave.' And with that, the Count turned away with a mocking laugh.
+" Then I will give you leave to do so... But on one condition. The churchyard is filled with nettles that grow over all the tombs  ? Go there and gather the nettles, then spin them into two fine shifts. One shall be your bridal shift... and the other shall be my shroud. For you shall only be married on the day that I am laid in my grave." And with that, the Count turned away with a mocking laugh.
 
 VI
 
@@ -86,7 +128,7 @@ And sittng next to her, an old, old woman, older than the hills, who had known t
 
 That evening, Renelde's young man came to visit, as he did every evening. When Renelde told him what Burchard had said, he was angry, and asked what he should do: " Would you like me to watch for the Wolf, and split his skull with a blow from my axe ? "
 
-"No," replied Renelde, " there must be no blood shed over my bridal gown. And I have told you how good the Countess was to my mother."
+"No," replied Renelde, " there must be no blood shed over my bridal gown. And I have told you how good the Countess was to my mother. But maybe, I if make the broidal shift, that will be enough."
 
 VII
 
@@ -104,7 +146,7 @@ Just as she had finished sewing it, the Wolf passed by again:
 
 Now he had thought such a thing would be impossible, and he grew pale at the sight of it. But he was a proud man, and he replied gruffly, " Very good. Now begin the other."
 
-Just as he had started to ride away, he stopped again, and turned, and said: " send your young man up to me at the castle; he should also do something for me...".
+But just as he had started to ride away, he stopped again, and turned, and said: " send your young man up to me at the castle; he should also do something for me...".
 
 VIII
 
@@ -114,7 +156,7 @@ And so he went up to the Castle.
 
 And when he got there, he was summoned in before the Count.
 
-I will not bore you with the details, but the Count's thinking was this: if he could send the young man away, there would be no wedding. And if there was to be no wedding, there would be no reason for Renelde to make his funeral shift. And so he gave the boy on a quest, to find something for him that could not possibly exist, the details of which I will not bore you with now. And that the boy should leave *NOW*, there was no time to waste: the sooner he left, the sooner he would be back — (ha! or never...) — and the Count would send a message to Renelde to say her young man was running an errand for him.
+I will not labour you with the details, but the Count's thinking was this: if he could send the young man away, there would be no wedding. And if there was to be no wedding, there would be no reason for Renelde to make his funeral shift. And so he gave the boy on a quest, to find something for him that could not possibly exist, the details of which I will not bore you with now. And that the boy should leave *NOW*, there was no time to waste: the sooner he left, the sooner he would be back — (ha! or never...) — and the Count would send a message to Renelde to say her young man was running an errand for him.
 
 "Now be about your task before you forget it", he said, and the young man was sent on his way.
 
@@ -176,7 +218,7 @@ Renelde might have humbled his pride had she gone back to her spinning-wheel aga
 
 When she came back home she looked at the silent spinning wheel in the corner, and cried for three days and three nights, and nothing her grandmother could say, or do, made things any better.
 
-XIII 
+XIII
 
 Another year went by.
 
@@ -192,7 +234,7 @@ His thoughts turned to Renelde, and the demand he had made of her long ago. If D
 
 XIV
 
-He sent for Renelde, thinking not of what he might have done for her, but only of what she might do for him. And as she stood at the foot of his of his bed, he looked at her with a cold flash of fire in his eye, and ordered her to go on spinning his shroud.
+He sent for Renelde, thinking not of what he might have done for her, but only of what she might do for him. And as she stood at the foot of his of his bed, he looked at her with a cold flash of fire in his eye, and he ordered her to go on spinning his shroud.
 
 Rendle looked at the Wolf, at the Count.
 
@@ -217,7 +259,7 @@ One day, a young woman walked up the drive. Her hair was matted with twigs and l
 "The people in the village told me that if a young woman can make your son smile, she can marry him. I want to try. And if I fail, [sigh], if I fail, I don't know what I'll do."
 
 The master said, "You aren't the first. Many women have come here, fine women who wanted for nothing except a gentleman for a husband. They took my son outside into the sunlight. They sang to him. They tickled him. They tried and failed. You have as much right to try as all the others. I wish you luck."
- 
+
 A sobbing servant led her upstairs. A young man sat at the end of his bed, his hand clenched into a fist, a bucket between his feet to catch his tears, grooves worn into his cheeks from his continual crying.
 
 The young girl sat beside him, "Why are you crying? What do you have to cry about? What misery do you know? You have a roof over your head. You have food, you have servants. Me, all I have are these rags. I had no father. I have no mother. I have no-one."
@@ -310,7 +352,7 @@ The duck said nothing, just dipped its head beneath the surface of the water.
 
 Bag o'bones turned round, and went back the way she had come. When she got back home, her mother, the witch, asked: "Well? Did you find them?
 
-And Bog o' Bones replied: "I found nothing. I went into the forest, and followed their footprints; but they stopped at a pond, and on the pond I saw a sweet little duck, but no sign of *them*, so I came back home". 
+And Bog o' Bones replied: "I found nothing. I went into the forest, and followed their footprints; but they stopped at a pond, and on the pond I saw a sweet little duck, but no sign of *them*, so I came back home".
 
 "Arghh, that was them, you *stupid* girl. One feather from that duck and I'd have had them both".
 
@@ -328,7 +370,7 @@ But bee said nothing, it just buzzed, and buzzed, and disappeared into the pink 
 
 When she got home: "Well, have you brought me what you found?"
 
-But all Bag o'Bines could say was, "I found nothing... I went in the forest, and followed their footprints. The pond had gone, and the duck, but there was a little bush, and on the bush there was a rose — a bit odd, that, a bit out of season — and a little buzzy bee, but.."
+But all Bag o'Bones could say was, "I found nothing... I went in the forest, and followed their footprints. The pond had gone, and the duck, but there was a little bush, and on the bush there was a rose — a bit odd, that, a bit out of season — and a little buzzy bee, but.."
 
 "Argghh," cried the witch. "A rose? A bee. That was them, you *stupid* girl! One petal from that rose, and I'd have had them both. Go off, and get them,. and bring them back to me..."
 
@@ -474,7 +516,7 @@ And the girl said, "Oh, I do, I really, really do...".
 
 And by now, the girl knew how this game was to be played, and she sprinted back all the way home,  becuase for jhust one night and one day, there was no time to waste, and when she got back there she called to her brother, and sister, "come with me, come and play, there is someone I want you to meet..."
 
-And what younger browther and sister would not go with the sister, so full of excitement, and she led them running, and chatting, and laughing, and as they turned the corner: [click], once, [click], twice.
+And what younger brother and sister would not go with the sister, so full of excitement, and she led them running, and chatting, and laughing, and as they turned the corner: [click], once, [click], twice.
 
 Where the brother and sister had been, all that was left was their tongues and their finger bones. And there was a fire in the girl's eye.
 
