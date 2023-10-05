@@ -252,7 +252,7 @@ And that is the end of the tale.
 
 *Based on Daniel Morden's retelling. There is a callback to the Nettle Spinner as the girl leaves the crossroads.*
 
-Once there was a house, a happy house. A house that had known the sound of children playing in the gardens, and of chatter on the terrace.
+Once there was a house, a happy house. A house that had known the sound of children playing in the gardens, and of cocktail party chatter on the terrace.
 
 But now it was known as the weeping house. A dog wept in the yard outside. The birds wept in the gutters.
 
