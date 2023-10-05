@@ -4,6 +4,8 @@ A set of four tales...
 
 ## Love more than salt
 
+*Widely told, this is a variant that has been forming for mem that borrows from several of them...*
+
 Once upon a time, there was a King, who had three daughters. The King didn't know them perhaps as well as he should, so he called them to him to ask them a question: "hwo much do you love me?" When the daughters looked at him a rather confused way, he explained to them: one day, I will choose one of you to succeed me. To love me, is to love my people. Who will be your people. So: how much do you love me?"
 
 The eldest princess, who had perhaps expected to be the chosen one, answered first: "I love you as much as all the gold in the kingdom" she said, and to the King, this was a good answer: being a King was an expensive business and this daughter appeared to have learned that lesson already.
@@ -49,6 +51,8 @@ And he knew who he would announce as his successor.
 ## Nettle spinner
 
 *This is told with a later callback from Daniel Morden's telling of "the Leaves That Hung But never Grew".*
+
+*Deulin in Lang whichever colour Fairy book...*
 
 ONCE upon a time, there was a great lord, a Count, who everyone called "the Wolf". He had a wicked heart, and a cold steely eye, and it was said that he used to harness his peasants to the plough, and whip them as they tilled his land in their bare naked feet.
 
