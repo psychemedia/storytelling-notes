@@ -90,7 +90,7 @@ But Renelde knew the stories, and she knew better than to go up to the castle.
 
 IV
 
-A few months more passed before the Wolf next returned. Renelde, in the flush of maidenhood, was sitting outside the cottage, spinning hemp.
+A few months more passed before the Wolf next returned. Renelde, in the full flush of maidenhood, was sitting outside the cottage, spinning hemp.
 
 " You are Renelde," he said. "Come up to the castle; I shall send away the Countess and make you my wife."
 
@@ -100,7 +100,7 @@ And besides, the young woman had started courting a young man...
 
 V
 
-It was only a few weeks before the Wolf appeared again, but they had been happy weeks.
+It was only a few weeks before the Wolf appeared again, but they had been happy weeks. A lot had happened in those short weeks.
 
 This time, Renelde was spinning flax, not hemp.
 
@@ -114,7 +114,7 @@ And she replied: "My wedding shift, sir, if it pleases you?"
 
 For at that time, if there was no father in the house, the permission to marry must come from the lord.
 
-" Then I will give you leave to do so... But on one condition. The churchyard is filled with nettles that grow over all the tombs  ? Go there and gather the nettles, then spin them into two fine shifts. One shall be your bridal shift... and the other shall be my shroud. For you shall only be married on the day that I am laid in my grave." And with that, the Count turned away with a mocking laugh.
+" Then I will give you leave to do so... But on one condition. The churchyard is filled with nettles that grow over all the tombs. Go there and gather the nettles, then spin them into two fine shifts. One shall be your bridal shift... and the other shall be my shroud. For you shall only be married on the day that I am laid in my grave." And with that, the Count turned away with a mocking laugh.
 
 VI
 
@@ -128,7 +128,7 @@ And sittng next to her, an old, old woman, older than the hills, who had known t
 
 That evening, Renelde's young man came to visit, as he did every evening. When Renelde told him what Burchard had said, he was angry, and asked what he should do: " Would you like me to watch for the Wolf, and split his skull with a blow from my axe ? "
 
-"No," replied Renelde, " there must be no blood shed over my bridal gown. And I have told you how good the Countess was to my mother. But maybe, I if make the broidal shift, that will be enough."
+"No," replied Renelde, " there must be no blood shed over my bridal gown. And I have told you how good the Countess was to my mother. But maybe, maybe?, if make the broidal shift, that will be enough."
 
 VII
 
@@ -142,11 +142,11 @@ Just as she had finished sewing it, the Wolf passed by again:
 
 " Well," said he, " how are you getting on? "
 
-" Very well, sir" she replied, and showed him her wedding shift. It was made of the finest, and of the whitest, cloth that the Count had ever seen.
+" Very well, sir" she replied, and showed him her wedding shift. It was made of the finest cloth, of the whitest cloth, that the Count had ever seen.
 
 Now he had thought such a thing would be impossible, and he grew pale at the sight of it. But he was a proud man, and he replied gruffly, " Very good. Now begin the other."
 
-But just as he had started to ride away, he stopped again, and turned, and said: " send your young man up to me at the castle; he should also do something for me...".
+But just as he had started to ride away, he stopped again, and turned, and said: " this is not right" and the girl thought that he had perhaps changed his mind, that her brdial shift would be enough. But it wasn't: "You should not have to do a task alone. Send your young man up to me at the castle; he also should do something for me...".
 
 VIII
 
@@ -162,9 +162,9 @@ I will not labour you with the details, but the Count's thinking was this: if he
 
 IX
 
-The following day, Renelde was sent the news. But what could she do? If the Count had thought it would stop her from working on his funeral shift, it had the opposite effect.
+The following day, Renelde was sent the news. She had already strated on Berchard's funeral shroud before the messenger had arrived. If Berchard had thought it would stop her from working on his funeral shift, it had the opposite effect.
 
-She set to work event harder and faster than she had before. In the castle, a cold shiver passed over the Count. As the saying goes, it felt alnmost as if someone was walking over his grave.
+She worked even harder and faster than she had before. In the castle, a cold shiver passed over the Count when the messenger reported back what he had seen. As the saying goes, it felt almost as if someone was walking over his grave.
 
 He tried to eat his lunch, but he had no appetite ; he tried to warm himself by the fire, but it was as if it burned with a cold, cold flame.
 
@@ -172,7 +172,7 @@ All that day he got worse; he went to bed shaking with fever. But he did not sle
 
 This sudden illness, which at every instant became worse, started to torture him as if it were waking nightmare.
 
-No doubt Renelde's spinning-wheel had soemthing to do with this? It was almost as if his body were preparing to dress itself in the shroud she was spinning.
+No doubt Renelde's spinning-wheel had something to do with this? It was almost as if his body were preparing to dress itself in the shroud she was spinning.
 
 X
 
@@ -202,7 +202,7 @@ So the Countess resolved to go without his knowledge to pray for mercy from Rene
 
 But Renelde was determined: "He said I cannot marry until I have finished his funeral shift,"
 
-"But neither can you marry until your young man returns... So please, stop your spinning until then, at least. For my husband's sake. For my sake. Promise me, please, promise me."
+"But neither can you marry until your young man returns... So please, stop your spinning until then, at least. For my husband's sake. For my sake. For the memory of your mother. Promise me, please, promise me."
 
 So so Renelde promised her, and stopped her spinning. And waited for one month, for two, for six, for a year. The Wolf begain to recover his health, happy with thought that Renelde's young man would never return, satisfied that he would not have to retract his demand.
 
@@ -252,13 +252,13 @@ Once there was a house, a happy house. A house that had known the sound of child
 
 But now it was known as the weeping house. A dog wept in the yard outside. The birds wept in the gutters.
 
-Inside, the master of the house sat at his table, sobbing. Upstairs, a young man sat at the end of his bed, his hand clenched into a fist. He cried for something he could no longer remember.
+Inside, the master of the house sat at his table, despairing over the state of his son. Upstairs, a young man sat at the end of his bed, crying for something he could no longer remember.
 
 One day, a young woman walked up the drive. Her hair was matted with twigs and leaves, her clothes were no more than rags. She was barefoot. The dog didn't growl, it just whined into a muddy puddle. The girl knocked on the door, once, twice. She was led in to see the master.
 
-"The people in the village told me that if a young woman can make your son smile, she can marry him. I want to try. And if I fail, [sigh], if I fail, I don't know what I'll do."
+"The people in the village told me that if a young woman could make your son smile, she could marry him. I want to try. And if I fail, [sigh], I don't know what I'll do."
 
-The master said, "You aren't the first. Many women have come here, fine women who wanted for nothing except a gentleman for a husband. They took my son outside into the sunlight. They sang to him. They tickled him. They tried and failed. You have as much right to try as all the others. I wish you luck."
+The master said, "You and the rest of them. Many women have come here, many women have tried. They've told him jokes, and funny stories, they've dressed up in funny costumes, they've poked him and tickeld him, they've tried everything. I suppose you have as much right to try as they did. I wish you luck."
 
 A sobbing servant led her upstairs. A young man sat at the end of his bed, his hand clenched into a fist, a bucket between his feet to catch his tears, grooves worn into his cheeks from his continual crying.
 
@@ -266,7 +266,7 @@ The young girl sat beside him, "Why are you crying? What do you have to cry abou
 
 Outside, a bell tolled.
 
-"Listen to me", said the girl, "and I will tell you a story. Perhaps it will help."
+"Listen to me", said the girl, "and I will tell you a story. Your father said that funny stories don't help, but this isn't a funny story." And so she began her tale.
 
 Once, there was a young woman called Anwen. She lived with her mother in little old cottage.
 
@@ -282,11 +282,11 @@ When the dream occurred again, exactly as it had before, she knew what she must 
 
 Anwen packed a small bag, said goodbye to her mother, and promised to return.
 
-As evening came, the sky went red. Anwen walked towards a small hill. At the bottom of the hill, a cottage. At the top of the hill, a tree with seven spindly branches. Hanging from each branch, a single leaf.
+As evening came, the sky went red. Anwen walked towards a small hill. At the bottom of the hill was a cottage. Behind, at the top of the hill, a tree with seven spindly branches. Hanging from each branch, a single leaf.
 
 An old woman came out of the cottage, "Night is coming, and this is no place for one such as you. Come in, come in", and before she knew it, Anwen was bustled inside the old woman's cottage. And a strange cottage it was.
 
-One half of the room was as you might expect: a fire, a table, a comfortable chair; but the other half was a pigsty. Literally. A small gate cornered it off, and there, in the corner. was a wild boar.
+One half of the room was as you might expect: a fire, a table, a comfortable chair; but the other half was a pigsty. Literally. A small gate cornered it off, and there, in the corner, was a wild boar.
 
 As soon as it saw Anwen, it squealed, and scuffed at the ground, and shook the chain around its neck.
 
@@ -294,9 +294,9 @@ The old woman snarled: "Bag of bones, do something right for once. Go and get so
 
 But if she was harsh towards her daughter, the old woman was politeness itself to Anwen: "Ah, Anwen, I'm sure you're tired after your journey. Please sit down, eat, drink."
 
-So Anwen sat; and she ate, and she drank; and they talked about this, and they talked about that. And as they talked, Anwen was careful. She said nothing about the leaves that hung but never grew. She remembered her mother's advice. She said she was poor and she was searching for her fortune.
+So Anwen sat; and she ate, and she drank; and they talked about this, and they talked about that. And as they talked, Anwen was careful. She said nothing about the leaves that hung but never grew. She remembered her mother's advice. She said she was poor and she was seaeking her fortune.
 
-"I don't know about a fortune", said the old woman, "but I do need a bit of help around my cottage. My *stupid daughter* can't bring water from the well without spilling it. So Anwen, if you can sweep the floor, and keep the fire alight and feed the boar each night, I'll give you whatever food I can spare.
+"I don't know about a fortune", said the old woman, "but I do need a bit of help around my cottage. My *stupid daughter* can't bring water from the well without spilling it. So Anwen, if you can sweep the floor, and keep the fire alight, feed the boar each night and bring me a cup of tea in the morning, I'll give you whatever food I can spare.
 
 "And in a few months, when the boar is big, and fat, we'll have a feast. What do you say to that?"
 
@@ -308,41 +308,43 @@ It was hard for Anwen to eat when Bag of Bones was across the room, watching her
 
 Each night, when the house quiet, Anwen would look out at the tree with its seven bony branches, a single, solitary leaf hanging from each one. But she never spoke of them.
 
-One evening, the old woman and her daughter were outside in the yard as Anwen was feeding the boar. Anwen spoke her thoughts aloud for the first time. "Whole months have passed by and I'm no closer to finding out if those are the leaves I dreamt of. Oh, what should I do?"
+It was winter. One evening, the old woman and her daughter were outside in the yard as Anwen was feeding the boar. Anwen spoke her thoughts aloud for the first time. "Whole months have passed by and I'm no closer to finding out if those are the leaves I dreamt of. Oh, what should I do?"
 
 To her astonishment, the boar answered her.
 
-"Ah, you have spoken to me, *at last!*. Now *I* can speak to *you*. I had given up hope that ever you would do so. COme here, listen to me. Those leaves on the tree? They are the leaves you you dreamt of. I too sent to find them, although, I... I don't remember why. I was a young man then. I searched and I searched until I came to this place. I saw the leaves. I asked the old woman if I could pick them from the tree. But... the boar looked around: she is a witch. She cast a spell on me. She spelled me into a boar. And she's fattening me up. And soon, she'll slit my throat, and cook me, and eat me. And once she's eaten me, guess who'll be next? I can she's already fattening you up. Unless you want to be a sow and take my place in this sty, you must steal those leaves, and flee from this place."
+"Ah, you have spoken to me, *at last!*. Now *I* can speak to *you*. I had given up hope that ever you would do so. Come here, listen to me. Those leaves on the tree? They are the leaves you you dreamt of. I too was sent to find them, although, I... I don't remember why. I was a young man then. I searched and I searched until I came to this place. I saw the leaves. I asked the old woman if I could pick them from the tree. But... the boar looked around: she is a witch. She cast a spell on me. She spelled me into a boar. And she's fattening me up. And soon, she'll slit my throat, and cook me, and eat me. And once she's eaten me, guess who'll be next? I can she's already fattening you up. Unless you want to be a sow and take my place in this sty, you must steal those leaves, and flee from this place."
+
+Together, they made a plan.
 
 Later when the old woman and her daughter were fast asleep upstairs, Anwen crept out of the cottage. She went up the hill, to where the bony tree, and from each of the seven spindly branches, she plucked each single solitary leaf that hung from it. As she made her way down the hill, she knew what she must do.
 
-She went back to the cottage, and took the first magic leaf. She tapped the boar with it, and the leaf vanished. The boar became a young man. She had broken the spell. Anwen gasped, but before she could say anything, the young man rushed to the door, and said "hurry, we must escpae before the witch" — for that's what the old woman was — "wakes up".
+She went back to the cottage, and took the first magic leaf. She tapped the boar with it, and the leaf vanished. The boar became a young man. She had broken the spell. Anwen gasped, but before she could say anything, the young man rushed to the door, and said "hurry, we must escpae before the witch wakes up" — for that's exactly what the old woman was.
 
-But Anwen hesitated. She the poker from the fire, and placed it on the chair, with the broom. With the second leaf, she gave them each a tap, muttering something to each one as she did so. And when she was done, she fled with the young man, away from the hill and away from the cottage.
+But Anwen hesitated. She took the poker from the fire, placed it on the chair, and leant the broom against them both. With the second leaf, she gave them a tap. And when she was done, she fled with the young man, away from the hill and away from the cottage.
 
-As dawn broke, the sky glowed red. The witch woke up, the cottage was quiet. "Anwen", she called, "where are you?"
+As dawn broke, the sky glowed red. The witch woke up, the cottage was quiet. Her morning cup of tea was not there. "Anwen", she called, "where are you?"
 
 Downstairs, the poker replied: "I'm poking the fire."
 
-The witch rolled over, and went back to sleep. Some little time later, the witch woke up again. The cottage was stll, and quiet: "Anwen, what are you doing now?"
+The witch rolled over, and went back to sleep. Some little time later, the witch woke up again. The cottage was still, and quiet, and her tea was still not there: "Anwen, what are you doing now?"
 
 And the broom replied: "I am sweeping the floor."
 
-The witch rolled over, she fell back to sleep. She woke up for the third time: "Anwen, come here".
+The witch rolled over, she fell back to sleep. She woke up for the third time: and still no tea: "Anwen, come here".
 
 And the chair said: "I'm coming now".
 
 But as the witch waited, there was no sign of Anwen. There were no foosteps on the stairs. The old woman waited; and waited, and waited some more. She looked out of the window.
 
-"Aargghhhh.... Bag of Bones, the tree is bare: Anwen has discovered our secret. She's stolen the leaves."
+"Aargghhhh...." she screamed. " Bag of Bones, where are you, get up, get up,  the tree is bare: Anwen has discovered our secret. She's stolen the leaves."
 
-She ran down the stairs... Saw the rope, and the collar, empty in the pig sty: "arrghh, she's freed the young man. They're escaping to the forest, that's where I'd go. Get up, get up, and set off after them.Get up, get up, and bring me back whatever you can find".
+She ran down the stairs... Saw the rope, and the collar, empty in the pig sty: "arrghh, she's freed the young man. They're escaping to the forest, that's where I'd go. Get up, get up, and set off after them. Get up, get up, and bring me back whatever you can find".
 
-And so Bag o' Bones pulled on her clothes, and as swift as thought, she was up, and out of the house.
+And so Bag o' Bones pulled on her clothes, and as swift as thought, she set off on the chase, up, and out of the house.
 
-Anwhen, and the young man, were running, and running, along the path, through the forest; behind them, they could sense, they could *hear*, the sound of pursuit, getting closer, getting closer...
+Anwen, and the young man, were running, and running, along the path, through the forest; behind them, they could sense, they could *hear*, the sound of pursuit, getting closer, getting closer...
 
-Anwen reached into her pocket, and took out a leaf. "We can't outrun her", she said, "so we'll hide. We'll change our shapes," and tapping the boy, she said "you: be a pond, and I? Will be a duck..."
+Anwen reached into her pocket, and took out a leaf. "We can't outrun her", she said, "so we'll hide. We'll change our shapes," and tapping the boy, she said "you: be a pond, and I...? Will be a duck..."
 
 Just in time. Around the corner, came Bag of Bones. The footsteps she'd been following through the woods had ended.
 
@@ -352,15 +354,15 @@ The duck said nothing, just dipped its head beneath the surface of the water.
 
 Bag o'bones turned round, and went back the way she had come. When she got back home, her mother, the witch, asked: "Well? Did you find them?
 
-And Bog o' Bones replied: "I found nothing. I went into the forest, and followed their footprints; but they stopped at a pond, and on the pond I saw a sweet little duck, but no sign of *them*, so I came back home".
+And Bog o' Bones replied: "I found nothing. I went into the forest, and followed their footprints; but they stopped at a pond, and on the pond I saw a sweet little duck; but no sign of *them*, so I came back home".
 
 "Arghh, that was them, you *stupid* girl. One feather from that duck and I'd have had them both".
 
 And she sent Bag o'Bones off again, in pursuit, to bring them back.
 
-Anwen and the young man, back in human form, were running, running thorugh the forest. Once again, they sensed they were being chased, they *heard* the sound of pursuit. Anwen took out another leaf, the fourth one. "We must hide again", she said, "but this time: you be a bush, and I will be a bee."
+Anwen and the young man, back in human form, were running, running through the forest. Once again, they sensed they were being chased, they *heard* the sound of pursuit. Anwen took out another leaf, the fourth one. "We must hide again", she said, "but this time: you be a bush, and I will be a bee."
 
-The footprints on the path had disappeard again.
+The footprints on the path had disappeared again.
 
 "Little bee, little bee, did you see a young woman, and young man, pass by this way?"
 
@@ -384,33 +386,33 @@ Bag of Bones went back.
 
 "Have you brought me what you found?"
 
-"I didn't find nothing. I went in the forest. I followed their footprints. I couldn't find a pond or a duck or a bush or a bee. All I could see was a tree. And on the tree, a cheeky little red apple, and..."
+"I didn't find nothing. I went in the forest. I followed their footprints. I couldn't find a pond or a duck or a bush or a bee. All I could see was a tree. And on the tree, a single little cheeky red apple, and..."
 
 "You *stupid* girl. If you wanna do something, you gotta do it yourself. Get out of the way". And off went the witch, running even swifter than thought.
 
 Anwen and the young man, in human form again, came to the edge of the forest. There was nowhere left for them to hide. They could sense someone coming, *hear* someone approaching. They came to a crossroads. Anwen reached into her pocket. There were just two leaves left. She took one for herself, and gave the other to the young man.
 
-"You go that way, and I'll go this. I'll see you here in a week. If you find your way home, don't let anyone kiss you. The spell you were under may not be fully broken. If you're kissed, you'll forget me, and all that has just happened."
+"You go that way, and I'll go this. I'll see you here in a week. If you find your way home, don't let anyone kiss you. The spell you were under may not be fully broken . If you're kissed, you'll forget me, and all that has just happened."
 
-The young man ran his way, Anwen hers.
+The young man ran his way, and Anwen went hers.
 
 As she ran, she sensed something behind her, heard something behind her, getting closer, closer, faster than thought. At the last moment, Anwen dropped the leaf she was carrying on to the floor. Behind her, the witch, reached out to grab her... stepped on the leaf... In an instant, the witch was transformed into a sow. Chasing behind: Bag o' Bones. She reached the spot where Anwen was stood, with the sow. Bag o' Bones, breathless, stopped: looked at Anwen. Looked at the sow. And smiled. She licked her lips, took the sow, and started to lead it back the way she had come...
 
 By whatever magical sense it is that leads us home when we are lost, the young man man followed his path. He felt as if he recognised the hillsides and valleys, as if they had been etched into his very soul from brith. As the paths seemed to become more familiar, his pace increased, he started to walk faster, he started to run.
 
-By the time he reached the old house where he had grown up in as a child, the house where he had played in the garden and partied on the terrace, he was breathless. The old family dog heard the boy's familiar footsteps, smelled the boy's familiar smell. In its excitement to greet its old master, it rushed across the yard, jumped up with its paws on the young man's chest, and licked his face in a great big slobbery, doggy, [smooch]...
+By the time he reached the old house where he had grown up in as a child, the house where he'd happily played in the garden and partied on the terrace, he was breathless. The old family dog heard the boy's familiar footsteps, smelled the boy's familiar smell. In its excitement to greet its old master, it rushed across the yard, jumped up with its paws on the young man's chest, and licked his face in a great big slobbery, doggy, [smooch]...
 
 The young man's father looked out of the window. Surely that wasn't..? It was... He ran outside, greeted and embraced his child...
 
-"Thank God, thank God you've returned. You've been gone so long. I was so afraid something dreadful had happened to you. Where have you been, oh, where have you been?"
+"Thank God, thank God you've returned. You've been away so long. I was afraid something had happened to you. But where have you been, what have you been doing?"
 
-But the young man? He was stopped in his tracks, dazed, confused.
+The young man pushed the older man away, now dazed, confused.
 
-"I? I'm sorry",  he said. "Who are you? Where am I? Who am I?"
+"I? I'm sorry", he said. "Who are you? Where am I? Who am I?"
 
-A week had passed. Anwen had returned home, back to the home where she'd lived with her mother. But as she'd approached the cottage, she saw no smoke coming out from the chimney; there were no hens scratching in the yard.
+But what now of Anwen? She had returned home, back to the home where she'd lived with her mother. But as she'd approached the cottage, she saw no smoke coming out from the chimney; there were no hens scratching in the yard.
 
-Anwen pushed open the door, saw her grandmother in the bed, in the corner, cold and still.
+Anwen pushed open the door, saw her grandmother on the bed in the corner of the room, cold and still.
 
 An old woman, older than the hills, who had known the girl's mother, and her grandmother's mother, and her grandmother's grandmother before her, was dressing the body of her friend.
 
@@ -418,9 +420,9 @@ An old woman, older than the hills, who had known the girl's mother, and her gra
 
 The girl nodded. "And my wait is over too..."
 
-Anwen went to dresser, took out two shifts. One was finished, one was not. In the corner of the room was a spinning wheel, covered in dust and cobwebs. The girl sewed up the second shift, completed it.
+Anwen went to dresser, took out two shifts. One was finished, one was not. In the corner of the room was a spinning wheel, covered in dust and cobwebs. The girl sat at the spinning wheel, sewed up the second shift, completed it.
 
-In the distance, a solitary bell started to ring, sounding out the death of the local lord.
+In the distance, a solitary bell started to ring, sounding out the death of a local lord.
 
 The girl placed one shift by the door. "I will see he gets it", said the old, old woman, as old as the hills. "I will take it to him." The girl took the other.
 
@@ -428,19 +430,21 @@ After a week, Anwen returned to the crossroads. No-one came to meet her. She too
 
 At last, she came to a village, where an old man took pity on her, gave her tea to drink, and some food to eat.
 
-The old man told her stories of that place. Of a house, just outside the village, that used to be a happy house, but   was now known as the weeping house. He said there was a tale told about that house, that if any young woman could make the young man who lived their smile, then she could marry him. But that was just a story.
+The old man told her stories of that place. Of a house, just outside the village, that used to be a happy house, but now was known as the weeping house. He said there was a tale told about that house, that if any young woman could make the young man who lived there smile, she could marry him. But that was just a story.
 
-Outside, in the distance, a bell tolled.
+And so it was that that the young girl had finished her story. Outside, in the distance, a bell tolled.
 
-The young man sat at the end of his bed. Between his feet, a bucket to catch his tears. But he wasn't crying any more. He looked at the girl. He dried his eyes, raised up his clenched fist, opened his hand. A single, solitary leaf, fell to the ground.
+She looked at the young man, still sat at the end of his bed, with a bucket between his feet, but he wasn't crying any more. He looked at the girl. He dried his eyes, raised up his clenched fist, and opened his hand. In it, a single, solitary leaf.
 
 And that *is* the end of the story.
 
 ## The Devil's violin
 
+And this is probably the final story...
+
 *Based on Sara Liisa Wilkinson's telling.*
 
-The first time she saw him, she knew she had to have him. The young hunter was setting up his stall on the other side of the market square, and she knew, she knew from that very moment, that he was the one she wanted.
+The first time she saw him, she knew she had to have him. The young hunter was setting up his stall on the other side of the market square, and she knew, she knew from that very moment, he was the one she wanted.
 
 She tried to catch his eye, but he was busy arranging the stall. Her family were already setting off back home, and *why did they always have to do this...? Always at just the wrong time...*
 
@@ -454,15 +458,15 @@ When they got home, with her mother, she made a plan.
 
 The next market day, the girl went to the young hunter's stall. But despite her smiles, and her feminine wiles and guiles, it was as if he were more interested in his kill, and his craft, than in her.
 
-Walking home alone through the forest — "I'll find my own way home" — she was both angry, and sad, not spurned, but unseen. As see approached the cross-roads, under-her breath: "I would do anything to get him, anything at all".
+"I'll find my own way home" she said, and set of walking home alone through the forest. She felt humiliated, not spurned, but unseen. As she approached the cross-roads, she muttered to herself, under-her breath: "I would do anything to get him, anything at all".
 
-Now if there's one thing, one lesson, that you need to learn from stories, it's to watch what you say when you get to a crossroads.
+Now if there's one thing, one lesson, that you need to learn from stories, it's to watch out for what not to say when you get to a crossroads.
 
-"Anything?" said  figure, appearing out of the shadows that hadn't been there before. A tall dark figure, in a long green coat.  "Anything at all? Then maybe I can help you?" And he smiled.
+"Anything?" said a figure that hadn't been there before, appearing out of the shadows .Tall, dark, and as the Brothers Grimm might say, dressed in a long, green coat.  "Anything at all? Then maybe I can help you?" And he smiled.
 
 And she looked at him.
 
-And he looked at her. And: "It is a him, I assume, that's upset you? Would you give anything for him?" and uncertainlay, she nodded. "Even if it were for just one year, and one day?"
+And he looked at her. And: "It is a him, I assume, that's upset you? Would you give anything for him?" and now rather uncertainly, given the question had actually been asked, the deal apparently offered, she nodded. But thenm the conditions... "Even if it were for just one year, and one day?"
 
 She looked down to the ground.
 
@@ -470,25 +474,25 @@ The boots he wore beneath his dark green coat were... rather unusual. Furry boot
 
 "Anything."
 
-"Then help you I will", and the devil, for who else could it be, and he smiled right back at here. "But first, you will need to do something... *for me*".
+"Then I will help you", said the devil, for who else could it be, and he smiled right back at here. "But first, you will need to do something... *for me*".
 
 And she nodded.
 
 "Would you go home and bring me back the thing that brings you most joy."
 
-When she thought of the joy that should could have with the young hunter for a year and a day, she agreed.
+The most joy? Was that a fair trade? But when she thought of the joy that should could have with the young hunter for a year and a day, she agreed.
 
-And as she turned and started to walk home, she wondered jsut what it was that brought her most joy...
+As she turned and started to walk home, she wondered jsut what it was that brought her most joy...
 
-She rummaged through her things, her old toys - ha, that old doll — her clothes, her hairbrush? Her mirror?  She rummaged around, heard her father calling "what are you doing in there?" and ask he made a joke to himself, and chuckled, she smiled, and... "Dad? Would you do something for me?"
+She rummaged through her things, her old toys - ha, that old doll — her clothes, her hairbrush? Her mirror? She rummaged around, heard her father calling "what are you doing in there?" and made some sort of joke to himself, and as he chuckled to himself, she smiled to herself, and... "Dad? Would you do something for me?"
 
-And as a father of a daughter, what would he *not* do for her, when asked so nicely...?
+And as a father of a daughter, what would he *not* do for her, when she asked so nicely...?
 
 "Can you help me, in the woods?", and they left the house together, and set off, hand in hand. And sometimes she went ahead, and sometimes, it was as if she were tryimng to hold him back.
 
-As they came in sight of the cross-roads, the tall dark man in the long green coat came in view. He smiled, and clicked `[click]` his fingers. And where the girl's father had been, there were now just bones. And she looked at them with tears in her eyes. And held back a sob.
+As they came in sight of the cross-roads, the tall dark man in the long green coat came in view. He smiled, and clicked `[click]` his fingers. And where the girl's father had been, there were now just bones. And she looked at them in shock. And gasped. And tears welled up in her eyes.
 
-And the devil picked up the chest bones and the neck bones and he fashioned them into a hollow box, with a neck, and the girl said: "oh, my father's bones..." and she dried her eyes... "they have never shone so bright", and she looked at the devil with a curiosity in her eye.
+Very deliberately, the devil picked up the chest bones and the neck bones and he fashioned them into a hollow box, with a small neck stciking out of one side of it, and the girl said: "oh, my father's bones..." and she dried her eyes... "they have never shone so bright", and she looked at the devil with curiosity now in her eye.
 
 And then the devil said: "do you still want this man, even if it were just for one month and one day?"
 
@@ -504,7 +508,7 @@ And as she got back home, she saw her mother, drawing water from the well. And s
 
 And what mother could deny her daughter? And hand in hand they set off, walking back through the woods.
 
-As they came in sight of the cross-roads, the devil in the long green coat smiled, and clicked `[click]` his fingers. And where the girl's mother had been, there were now just bones, and her mother long gray silvery hair. And the girl looked at them, and then straight back at the devil. With a glint of anticipation in her eye.
+As they came in sight of the cross-roads, the devil in the long green coat smiled, and clicked `[click]` his fingers. And where the girl's mother had been, there were now just bones, and her mother long gray silvery hair. And the girl looked at them, and then straight back at the devil. With a gleam of anticipation in her eye.
 
 And as the devil took the bones, and the hair, and fashioned them into a long, taught bow, the girl said, "oh, how my mother's hair has never pulled so tight".
 
@@ -514,7 +518,7 @@ And the girl said, "Oh, I do, I really, really do...".
 
 "Then go home, and bring me back what gives you the most hope and the most despair."
 
-And by now, the girl knew how this game was to be played, and she sprinted back all the way home,  becuase for jhust one night and one day, there was no time to waste, and when she got back there she called to her brother, and sister, "come with me, come and play, there is someone I want you to meet..."
+And by now, the girl knew how this game was to be played, and she sprinted back all the way home,  because for just one night and one day, there was no time to waste, and when she got back there she called to her brother, and sister, "come with me, come and play, there is someone I want you to meet..."
 
 And what younger brother and sister would not go with the sister, so full of excitement, and she led them running, and chatting, and laughing, and as they turned the corner: [click], once, [click], twice.
 
@@ -536,47 +540,45 @@ And it did take some time. But the girl did practice, and she practiced hard, so
 
 The first time she played in the market square, she was rather nervous, and the people just walked by.
 
-The second time played, she started to play the people, catching their ear, and their eye, and causing them to stop a moment, and to watch, and to listen.
+The second time played, she started to play individual people, catching their ear, and their eye, and causing them to stop a moment, and to watch, and to listen.
 
-The third time she played, she started to play the crowd that was gathering. She started to play the crowd and she found thay she could make them do whatever she wanted. She played fast, and they danced; she played slow, and they wept. And as she played, she saw the boy. The young hunter. Watching her.
+The third time she played, she started to play the crowd that was gathering. She started to play the crowd and she found thay she could make them do whatever she wanted. She played fast, and they danced; she played slow, and they wept. And as she played, she saw the boy. The young hunter. Watching her. And who was huntung who, I could not say.
 
-When she had finished, she put the violin back in its case, made her way through the crowd. The young hunter watched her approaching, started to follow her as she glanced back behind at him. And she held her hand back out to him, and she led him out of the square.
+When she had finished, she put the violin back in its case, made her way through the crowd. The young hunter watched her approaching, started to follow her as she glanced back behind at him. She held her hand back out towards him, and as he reached out for it, she led him out of the square.
 
-"Help yourself to anything" she said, and when they got back to her house, "anything at all..." and she smiled. "Even me..." And he blushed. "But *DO NOT* touch the violin".
+"Help yourself to anything" she said, when they had got back to her house, "anything at all..." and she smiled. "Even me..." And he blushed. "But *DO NOT* touch the violin".
 
 And they kissed, and they touched, and whatever else happened throughout the rest of that day, and that night, happened between two consenting adults, and is perhaps best left unsaid, so that nobody is embarrassed.
 
-And the next norning, the young man woke up first... and he went to make breakfast, because he thought that he should. And after remembering something of the night before, he remmebered something of the day before, and the way the girl had played the crowd, had played her violin.  And he saw the violin case. And he remembered what the girl had said: "do NOT touch the violin".
+The next norning, the young man woke up first... and he went to make breakfast, because he thought that he should. And he remembered something of the night before, and smiled; and then he remmebered something of the day before, and smiled again; and then as he remembered the way the girl had played the violin and played the crowd, he saw the violin case. And he remembered what the girl had said: "do NOT touch the violin".
 
-But looking wasn't touching, so gently, very gently, so very very gently, so very very slowly, carefully, cautiously, he opened the case...
+But looking wasn't touching, so very very gently, very very slowly, carefully, cautiously, he opened the case...
 
 ...and looked...
 
-And the violin was wrapped in rich, dark purple satin cloth.
+And the violin was wrapped in rich, dark cloth.
 
-And before he realised what he was doing, he lifted the case closer to him to get a better look... And very gently, lifted the cloth...
+And before he realised what he was doing, he lifted the case closer to him and lifted the cloth...
 
-And before he realised what he was doing, he was looking closely at the violin, and he was just lifting the neck of the violin to get a better look...
-
-And before he realised what he was doing, he was lifting the violin out of the case...
+And before he realised what he was doing, he was lifting the violin out of the case to get a better look......
 
 And then he imagined playing the violin... like she could... and he pretended to play.... air violin style...
 
-And he imagined hearing the crowd... and he imagined hearing the violin... it was almost as if he could really hear it.. Father's bones... Speaking to him.... Mother's bones... Calling him... Brother's and sister's tongues and bones... and he as pretended to play faster and faster, the noise got louder adnd louder... Father's bones...  Mother's bones... Brother's and sister's tongues and bones.
+And he imagined hearing the crowd... and he imagined hearing the violin... it was almost as if he could really hear it.. Father's bones... Speaking to him.... Mother's bones... Calling him... Brother's and sister's tongues and bones... and he as pretended to play faster and faster, the noise got louder and louder... Father's bones...  Mother's bones... Brother's and sister's tongues and bones.
 
-And he could imagine seeing his fingers bleed as he played, as hers surely did, and then he saw his fingers were actually bleeding, but when he went to wipe the blood off.. the blood was from the violin... from the strings themeselves... from betweem the.. the bones of that instrument, that dreadful instrument and he didn't know if it was him, or her, who screamed first... "What the HELL do you think you are you doing....?"
+And he could imagine seeing his fingers bleed as he played, as hers surely did, and then he saw his fingers were actually bleeding, but when he went to wipe the blood off.. the blood was from the violin... from the strings themeselves... from betweem the.. the bones that made up the instrument, that dreadful instrument and he didn't know if it was him, or her, who screamed first... "What the HELL do you think you are you doing....?"
 
-And he dropped the violin, aghast at it, seeing it for what it was... and he looked at the girl.. who looked at him...
+And he dropped the violin, aghast at it, seeing it for what it was... and he looked at the girl.. and she looked at him...
 
 "I... what am I doing? What is that, what is that thing...? What have you done...?"
 
-And he looked around at the cottage, which was fashioned like something your parents would live in (but where were her parents?) and had clutter of younger brothers and sisters about it.... But there was no brother or sister...
+And he looked around at the cottage, which was fashioned like something your parents would live in (but where were her parents?) and had clutter of younger brothers and sisters about it.... But there was no brother or sister...?
 
-And she said "what have I done? What haven't I done? Don't you know the sacrifices I've made? Don't you know the sacrifices my family have made? So that I could get to this... So that I could get you..."
+And she said "what have I done? What haven't I done? Don't you know the sacrifices I've made? Don't you know the sacrifices my family have made? So that I could get to this... So that I could get to you..."
 
 But with that, the young man had fled the cottage, back to the town "I'll tell them, I'll tell them what sort of a....what you..." And away he ran...
 
-And the girl glared after him. And carefully, very carefully, lifted the violin, wiped it clean, placed it in the case, folded the rich dark purple satin cloth over it, closed the lid, and started to walk after him.
+And the girl glared after him. And carefully, very carefully, lifted the violin, wiped it clean, placed it in the case, folded the rich dark cloth over it, closed the lid, and started to walk after him.
 
 When she got to the market square, the young man was feverishly trying to tell anyone who would listen what he had just seen... and as the girl walked to the centre of the square, their eyes were on her... and as she started to play, they started to listen, and as she started to play faster, they started to move faster, and when the boy pushed through the crowd and grabbed the violin and told the crowd what he had seen they stood stock still. And started to boo, and to shout, and...
 
@@ -584,8 +586,10 @@ When she got to the market square, the young man was feverishly trying to tell a
 
 And they let him know what they thought;
 
-"Gerroff"... "Let her play..." And the boy looked aghast.
+"Gerroff"... "Let her play..." And the boy knew whose side they were on.
 
-The girl smiled at him. Through the crowd, she saw a tall, dark man in a long green coat. He smiled at her. [Click] And with that, the boy was gone, and the violin fell to the floor. The girl bent down to pick it, and with it, before it rolled away, the last trace of the boy. A tiny scroll, which would could almost imagine to be in the shape of a skull. And she affixed to the end of the violin.
+The girl smiled at him. Through the crowd, she saw a tall, dark man in a long green coat. He smiled at her, then looked directly at the young hunter. [Click] And with that, the boy was gone, and the violin fell to the floor. The girl bent down to pick it up, and with it, before it rolled away, the last trace of the boy: a tiny scroll, looking for all the world like a tiny skull. And she affixed to the end of the violin.
 
-Amd she started to play. And is she did so, the man in the green coat smiled one last time, and started to walk away. His work was done. And the girl? She looked at the crowd, with fire in her eyes, and she started to play again. And as she played, they started to dance... And for all I know, she is playing on still...
+And once again, she started to play. And as she did so, the man in the green coat smiled one last time, and walked away. His work was done. As for the girl? She looked at the crowd, with fire in her eyes, and the dancing started again... And for all I know — as far as I know — she is playing on still...
+
+And that is the end of that.
