@@ -436,7 +436,7 @@ In *Popular tales from the Norse*, Peter Asbjørnsen & Jørgen Moe, 1859, [pp355
 
 THE TWO STEP-SISTERS.
 
-ONCE on a time there wae a couple, and each of them had a daughter by a former marriage. The woman's danghter was dull and lazy, and could never turn her hand to anything, and the man's daughter was brisk and ready ; but somehow or other she could never do anything to her stepmother's liking, and both the woman and her daughter would have been glad to be rid of her.
+ONCE on a time there wae a couple, and each of them had a daughter by a former marriage. The woman's daughter was dull and lazy, and could never turn her hand to anything, and the man's daughter was brisk and ready ; but somehow or other she could never do anything to her stepmother's liking, and both the woman and her daughter would have been glad to be rid of her.
 
 So it fell one day the two girls were to go out aod spin by the side of the well, and the woman's daughter had flax to spin, but the man's daughter got nothing to spin but bristles.
 
