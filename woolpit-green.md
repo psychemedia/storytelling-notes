@@ -50,7 +50,7 @@ __The Green Children.__
 
 A slightly later, but still "near contemporary" (within a couple of generations) retelling of the tale is also provided by William of Newburgh:
 
-```{admontion} *Of the Green Children*, Wlliam of Newburgh
+```{admonition} *Of the Green Children*, Wlliam of Newburgh
 :class: dropdown
 
 In [*The Church Historians of England: The History of William of Newburgh*](https://www.google.co.uk/books/edition/The_History_of_William_of_Newburgh_the_C/dBQ5AQAAMAAJ?hl=en&gbpv=0), published 1856:
@@ -67,7 +67,7 @@ Upon this, one of the bystanders, taking the beans from the pods, offered them t
 
 The preface to that work provides some background to William of Newburgh's *History*:
 
-```{admontion} Preface to *The Hisory of William of Newburgh*
+```{admonition} Preface to *The Hisory of William of Newburgh*
 :class: dropdown seealso
 
 In [*The Church Historians of England: The History of William of Newburgh*](https://www.google.co.uk/books/edition/The_History_of_William_of_Newburgh_the_C/dBQ5AQAAMAAJ?hl=en&gbpv=0), published 1856:

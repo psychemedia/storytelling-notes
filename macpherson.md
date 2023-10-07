@@ -522,7 +522,7 @@ NICOLAS DUNBAR, Dept.
 
 The proceedings against the Egyptians from the Banff Assizes in November, 1700, are quoted in James Imlach's [*History of Banff and familiar account of its inhabitants and belongings*](https://archive.org/details/historybanffand00imlagoog), 1868, pp. 25-29:
 
-```{admontion}
+```{admonition}
 :class: dropdown
 
 HIGHLAND RAIDER.

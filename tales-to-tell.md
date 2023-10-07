@@ -6,9 +6,22 @@ Machwhisper for transcription
 
 to get audio file from youtube, eg youtube-dl -i --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=xVLjtO4EkFQ The Golden Balls - Day of the Dead storytelling by Sarah Liisa Wilkinson Crick Crack Club
 
+
 -- 
 
+https://archive.org/details/populartalesfict02clouuoft/page/115/mode/1up?q=%22ROBBERY+OF+THE+KING%27S+TREASURY+%22
 
+Popular tales and fictions : their migrations and transformations vol 2
+by Clouston, W. A. (William Alexander), 1843-1896
+
+Publication date 1887
+
+ROBBERY OF THE KING'S TREASURY —
+
+
+---
+
+Odyssey - Odysseus and Polyphemus the Cyclops  no-one / nobody cf. nix, naught, mothing
 
 ---
 

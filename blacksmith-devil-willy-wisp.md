@@ -1040,7 +1040,7 @@ Then Billy Duffy went up to the gates of heaven, and St. Peter asked him who he 
 
 Emerson also includes another blacksmith related tale (p. 10-11), which he had "heard from four different persons".
 
-```{admontion} The Craig-y-Don Blacksmith
+```{admonition} The Craig-y-Don Blacksmith
 :class: dropdown seealso
 
 *In [Welsh fairy-tales and other stories](https://archive.org/details/welshfairytaleso00emeriala/page/10/mode/2up), Peter Emerson, 1894, p10-11.*
