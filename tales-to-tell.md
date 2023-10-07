@@ -95,7 +95,7 @@ Now we'll wait until he drives them all over. Then I'll go on with my story.
 (When the children grow impatient and heg for a continuation of the story, they are told that there are many sheep and that up to this time only a few have crossed. A little later when their impatience again breaks out, they are told that the sheep are still cross- ing. And so on indefinitely. In concluMon:)
 In fact there were so many sheep that when morn- ing came they were still crossing, and then it was time for the shepherd to turn around and drive them back again to pasture!
 
-??there is a nasruddin or birbal stroy with a similar sense
+??there is a nasruddin or birbal story with a similar sense
 
 
 
@@ -145,7 +145,7 @@ The Nine Worlds (1894) Mary E. Litchfield
 
 --
 
-Traditional stroytellers
+Traditional storytellers
 
 
 --
@@ -190,7 +190,7 @@ If you like this, share it with others and I bet so many lives would be touched
 
 Old man, tree shadow contract
 
-FATE 2021 stroyround
+FATE 2021 storyround
 
 
 ---
@@ -333,7 +333,7 @@ Red glass lamp, tea light candle bunrning inside. Ideally a slightly taller cand
 
 ISSUES DURING SET:
 
-I didn't learn the close properly; in fumbling, asked if folk wanted another (they didn't) and did it anyway; plus I introduced it as short but many folk might have regarded it as not short. I was an hour at end of natural set so didn't need final stroy, but it gave me a contrived snuffing out of candle in lamp. Spoke too fast at start; was losing voice at end. Forgot where I was in the Tinker Lamp tale: could this be an audience participation thing?
+I didn't learn the close properly; in fumbling, asked if folk wanted another (they didn't) and did it anyway; plus I introduced it as short but many folk might have regarded it as not short. I was an hour at end of natural set so didn't need final story, but it gave me a contrived snuffing out of candle in lamp. Spoke too fast at start; was losing voice at end. Forgot where I was in the Tinker Lamp tale: could this be an audience participation thing?
 
 ---
 

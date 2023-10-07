@@ -107,7 +107,7 @@ And thou shalt have some cockell-bread.
 It is also in Chambers, *l.c.*, [Popular Rhymes of Scotland], 105, where the well is at the World's End (cf. No. xli.). The contrasted fates of two step-sisters, is the Frau Holle (Grimm, No. 24) type of Folk-tale studied by Cosquin, i. 250, seq.  Kate Crackernuts" (No. xxxvii.) is a pleasant contrast to this.
 ```
 
-The tale of "The Princess of Colchester" also appears in the 1890 publication of "English fairy and other folk tales", as selected and edited by E.S. Hartland, citing a Scottish chap-book of 1823 as the source: 
+The tale of "The Princess of Colchester" also appears in the 1890 publication of "English fairy and other folk tales", as selected and edited by E.S. Hartland, citing a Scottish chap-book of 1823 as the source:
 
 ```{admonition} "The Princess of Colchester", Hartland, 1890
 :class: dropdown
@@ -132,7 +132,7 @@ The hump-backed sister-in-law, perceiving that her sister was so happy in seekin
 " I am," said she, " the King of Colchester's daughter-inlaw." "Well," said the cobbler, "if I restore you to your natural complexion, and make a sound cure both in face and breath, will you in reward take me for a husband ? " " Yes, friend," replied she ; " with all my heart ! " With this the cobbler applied the remedies, and they worked the effect in a few weeks; after which they were married, and so set forward for the Court at Colchester. When the queen understood she had married nothing but a poor cobbler, she fell into distraction, and hanged herself in wrath. The death of the queen pleased the king, who was glad to be rid of her so soon, and he gave the cobbler a hundred pounds to quit the Court with his lady, and take her to a remote part of the kingdom, where he lived many years mending shoes, his wife spinning thread.
 ```
 
-A third publication in 1890, Andrew Lang's *The Red Fairy Book*, also included a "three heads in the well" episode in the *The Bushy Bride", set as part of a wider stroy that also inlcudes a broeher, as sourced from Moe. The enchantments to the first girl are great beauty, '[g]old [that ]shall drop from her hair whenever she brushes it' and '[g]old [that] shall drop from her mouth whenever she speaks'; for the other: 'a nose that was four ells long, and a jaw that was three ells, and a fir bush in the middle of her forehead, and every time she spoke ashes should fall from her mouth'. 
+A third publication in 1890, Andrew Lang's *The Red Fairy Book*, also included a "three heads in the well" episode in the *The Bushy Bride*, set as part of a wider story that also inlcudes a broeher, as sourced from Moe. The enchantments to the first girl are great beauty, '[g]old [that ]shall drop from her hair whenever she brushes it' and '[g]old [that] shall drop from her mouth whenever she speaks'; for the other: 'a nose that was four ells long, and a jaw that was three ells, and a fir bush in the middle of her forehead, and every time she spoke ashes should fall from her mouth'.
 
 ```{admonition} "The Bushy Bride", Lang, 1890
 :class: dropdown
@@ -655,9 +655,3 @@ Was not so fair as Roswall. "
 Whether these circumstances have any relation to this romance, I cannot determine.
 
 ```
-
-
-
-
-
-
