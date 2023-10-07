@@ -29,6 +29,7 @@ parts:
   - file: woolpit-green
 - caption: Tales to Tell
   chapters:
+  - file: molly-whuppie
   - file: hand-of-glory
   - file: macpherson
   - file: too_much_time
