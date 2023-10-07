@@ -4,7 +4,9 @@ A set of four tales...
 
 ## Love more than salt
 
-Once upon a time, there was a King, who had three daughters. The King didn't know them perhaps as well as he should, so he called them to him to ask them a question: "hwo much do you love me?" When the daughters looked at him a rather confused way, he explained to them: one day, I will choose one of you to succeed me. To love me, is to love my people. Who will be your people. So: how much do you love me?"
+*Widely told, this is a variant that is starting to take some sort of shape for me that borrows from several of them...*
+
+Once upon a time, there was a King, who had three daughters. The King didn't know them perhaps as well as he should, so he called them to him to ask them a question: "how much do you love me?" When the daughters looked at him a rather confused way, he explained to them: one day, I will choose one of you to succeed me. To love me, is to love my people. Who will be your people. So: how much do you love me?"
 
 The eldest princess, who had perhaps expected to be the chosen one, answered first: "I love you as much as all the gold in the kingdom" she said, and to the King, this was a good answer: being a King was an expensive business and this daughter appeared to have learned that lesson already.
 
@@ -49,6 +51,8 @@ And he knew who he would announce as his successor.
 ## Nettle spinner
 
 *This is told with a later callback from Daniel Morden's telling of "the Leaves That Hung But never Grew".*
+
+*Deulin in Lang whichever colour Fairy book...*
 
 ONCE upon a time, there was a great lord, a Count, who everyone called "the Wolf". He had a wicked heart, and a cold steely eye, and it was said that he used to harness his peasants to the plough, and whip them as they tilled his land in their bare naked feet.
 
@@ -248,7 +252,7 @@ And that is the end of the tale.
 
 *Based on Daniel Morden's retelling. There is a callback to the Nettle Spinner as the girl leaves the crossroads.*
 
-Once there was a house, a happy house. A house that had known the sound of children playing in the gardens, and of chatter on the terrace.
+Once there was a house, a happy house. A house that had known the sound of children playing in the gardens, and of cocktail party chatter on the terrace.
 
 But now it was known as the weeping house. A dog wept in the yard outside. The birds wept in the gutters.
 
@@ -344,17 +348,19 @@ And so Bag o' Bones pulled on her clothes, and as swift as thought, she set off 
 
 Anwen, and the young man, were running, and running, along the path, through the forest; behind them, they could sense, they could *hear*, the sound of pursuit, getting closer, getting closer...
 
-Anwen reached into her pocket, and took out a leaf. "We can't outrun her", she said, "so we'll hide. We'll change our shapes," and tapping the boy, she said "you: be a pond, and I...? Will be a duck..."
+There was no way they could escape; all they could do was hide: Anwen took out a leaf, tapped  the boy and herself: "you, be a pond; I will be a duck..."
 
-Just in time. Around the corner, came Bag of Bones. The footsteps she'd been following through the woods had ended.
+Just in time. Around the corner, came Bag of Bones. The footsteps she'd been following through the woods had ended. A bit odd...
 
 "Little duck! Little duck? did you see a young womanm, and a young man, come by this way."
 
 The duck said nothing, just dipped its head beneath the surface of the water.
 
-Bag o'bones turned round, and went back the way she had come. When she got back home, her mother, the witch, asked: "Well? Did you find them?
+[Sigh...]
 
-And Bog o' Bones replied: "I found nothing. I went into the forest, and followed their footprints; but they stopped at a pond, and on the pond I saw a sweet little duck; but no sign of *them*, so I came back home".
+Bag o'bones turned round, went back to the cottage the way she'd come. When she got back home, her mother, the witch, asked: "Well? Did you find them?
+
+Bag o' Bones replied: "I found nothing. I went into the forest, and followed their footprints; but then they stopped. And there was nothing there...." Nothing?" "Nothing,... well... a pondl and on the pond, there was a duck; but nothing else...".
 
 "Arghh, that was them, you *stupid* girl. One feather from that duck and I'd have had them both".
 
@@ -362,53 +368,49 @@ And she sent Bag o'Bones off again, in pursuit, to bring them back.
 
 Anwen and the young man, back in human form, were running, running through the forest. Once again, they sensed they were being chased, they *heard* the sound of pursuit. Anwen took out another leaf, the fourth one. "We must hide again", she said, "but this time: you be a bush, and I will be a bee."
 
-The footprints on the path had disappeared again.
+The footprints on the path had disappeared again. A bit odd, a rose bush, out of season... and a bee...
 
 "Little bee, little bee, did you see a young woman, and young man, pass by this way?"
 
-But bee said nothing, it just buzzed, and buzzed, and disappeared into the pink folds of a rose.
+But the bee said nothing, just buzzed, and disappeared into the rose.
 
-"Pfft". Bag o' Bones turned round, and went back the way she came.
+"Pfft". Bag o' Bones turned round, went back the way she'd came.
 
 When she got home: "Well, have you brought me what you found?"
 
-But all Bag o'Bones could say was, "I found nothing... I went in the forest, and followed their footprints. The pond had gone, and the duck, but there was a little bush, and on the bush there was a rose — a bit odd, that, a bit out of season — and a little buzzy bee, but.."
+But all Bag o'Bones said was, "I found nothing... a bit odd.. the pond had disappeared, biut themn... nothing..." "Nothing?" "nothing... well there was a little rose bush, and a bee,  a bit out of season, but.."
 
-"Argghh," cried the witch. "A rose? A bee. That was them, you *stupid* girl! One petal from that rose, and I'd have had them both. Go off, and get them,. and bring them back to me..."
+"Argghh," cried the witch. "That was them, you *stupid* girl! One petal from that rose, and I'd have had them both. Go and get them... and bring back whatever you can find..."
 
-And so off went Bag o' Bones for the the third time, into the forest. Anwen and the young man, in humam form again, running, running, through the forest, sensed her coming, heard her. Anwen took out another leaf: "you be a tree", she said, "I will be an apple."
+So off went Bag o' Bones, into the forest, as fast as thought. Anwen and the young man, in humam form again, running, running, through the forest, finding their way, sensed something behind them, heard something beihind them. Anwen took out another leaf: "you be a tree, I will be an apple."
 
-"Little apple, little apple swinging on your stalk. Did you see a young woman, a young man pass by this way?"
+Just in time, Bog o' bones. following the footsteps through the wood, and then  - nothing...
 
-The apple said nothing. It just swayed in the wind.
+"Little tree, little tree: did you see a young man, and a young woman, pass by this way?"
 
-Bag of Bones went back.
+Bag of Bones turned round, went back the way she'd came, back to the cottage.
 
 "Have you brought me what you found?"
 
-"I didn't find nothing. I went in the forest. I followed their footprints. I couldn't find a pond or a duck or a bush or a bee. All I could see was a tree. And on the tree, a single little cheeky red apple, and..."
+"I didn't find anything. No pond, no bush... Nothing." "Nothing?" "weel, there was a tree, with an apple on it, a bit late., but..."
 
-"You *stupid* girl. If you wanna do something, you gotta do it yourself. Get out of the way". And off went the witch, running even swifter than thought.
+"Arghhh... You *stupid* girl. If you wanna do something, you gotta do it yourself. Get out of the way". And off went the witch, even faster than thought.
 
-Anwen and the young man, in human form again, came to the edge of the forest. There was nowhere left for them to hide. They could sense someone coming, *hear* someone approaching. They came to a crossroads. Anwen reached into her pocket. There were just two leaves left. She took one for herself, and gave the other to the young man.
+Anwen and the young man, in human form again, came to the edge of the forest. There was nowhere left for them to hide. They could sense someone coming, *hear* footsteps behind them. A crossroads. Anwen reached into her pocket. There were just two leaves left. She took one for herself, and gave the other to the young man.
 
-"You go that way, and I'll go this. I'll see you here in a week. If you find your way home, don't let anyone kiss you. The spell you were under may not be fully broken . If you're kissed, you'll forget me, and all that has just happened."
+"You go that way, and I'll go this. I'll see you here in a week. If you find your way home, don't let anyone kiss you. The spell you were under may not be fully broken. Spells have side effects. If you're kissed, I don't know what will happen..."
 
-The young man ran his way, and Anwen went hers.
+The young man ran his way, Anwen went hers.
 
-As she ran, she sensed something behind her, heard something behind her, getting closer, closer, faster than thought. At the last moment, Anwen dropped the leaf she was carrying on to the floor. Behind her, the witch, reached out to grab her... stepped on the leaf... In an instant, the witch was transformed into a sow. Chasing behind: Bag o' Bones. She reached the spot where Anwen was stood, with the sow. Bag o' Bones, breathless, stopped: looked at Anwen. Looked at the sow. And smiled. She licked her lips, took the sow, and started to lead it back the way she had come...
+As she ran, she sensed something behind her, heard something behind her, getting closer, closer, faster than thought. At the last moment, Anwen turned, dropped the leaf The witch, running faster, couldnlt stop... stepped on the leaf... and was transformed into a sow. And behind: Bag o' Bones. She stopped — she;'d seen what had happened: looked at Anwen. Looked at the sow. Smiled. Licked her lips. And taking the sow, made her way back to the conttage...
 
-By whatever magical sense it is that leads us home when we are lost, the young man man followed his path. He felt as if he recognised the hillsides and valleys, as if they had been etched into his very soul from brith. As the paths seemed to become more familiar, his pace increased, he started to walk faster, he started to run.
+By whatever magical sense it is that leads us home when we are lost, the landscape ingrained in you when you're a chld, familiar, home, the young man man made his somewhere...
 
-By the time he reached the old house where he had grown up in as a child, the house where he'd happily played in the garden and partied on the terrace, he was breathless. The old family dog heard the boy's familiar footsteps, smelled the boy's familiar smell. In its excitement to greet its old master, it rushed across the yard, jumped up with its paws on the young man's chest, and licked his face in a great big slobbery, doggy, [smooch]...
+He came upon a house, a drive leading up to it. A dog in the yard. The boy recognised the house. The dog recognised it's old master... ran to greet him.. The bioy bent down [parms oustretched], and the dog jumped up, gave a great big, wet doggy slobbery...
 
-The young man's father looked out of the window. Surely that wasn't..? It was... He ran outside, greeted and embraced his child...
+The man's father looked out of the window. Surely that wasn't..? It was... He ran, racing the dog, to greet his child... the dog got there first. As the old man reached out to hug his child, the young man drew away...
 
-"Thank God, thank God you've returned. You've been away so long. I was afraid something had happened to you. But where have you been, what have you been doing?"
-
-The young man pushed the older man away, now dazed, confused.
-
-"I? I'm sorry", he said. "Who are you? Where am I? Who am I?"
+"I? Who are you? Get away from me... Where am I? Who am I?"
 
 But what now of Anwen? She had returned home, back to the home where she'd lived with her mother. But as she'd approached the cottage, she saw no smoke coming out from the chimney; there were no hens scratching in the yard.
 
