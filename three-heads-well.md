@@ -483,14 +483,14 @@ Yes, she did so, and found she could carry water in a sieve well enough ; but wh
 
 So the old witch said, now she might go into the byre to pitch out dung and milk kine ; but when she got there, she found a pitchfork so long and heavy, she couldn't stir it, much less work with it. She didn't know at all what to do, or what to make of it ; but the little birds sang again that she should take the broom-stick and toss out a little with that, and all the rest of the dung would fly after it. So she did that, and as soon as ever she began with the broom-stick, the byre was as clean as if it had been swept and washed.
 
-Now she bad to milk the kine, but they were so restless that they kicked and frisked ; there was no getting near them to milk them.
+Now she had to milk the kine, but they were so restless that they kicked and frisked ; there was no getting near them to milk them.
 
 But the little birds sung outside, —
 
 " A little drop, a tiny sup,  
 For the little birds to drink it up."
 
-Yes, she did that; she juet milked a tiny drop, 'twas as much as she could, for the little birds outside; and then all the cows stood still and let her milk them. They neither kicked nor frisked; they didn't even lift a leg.
+Yes, she did that; she just milked a tiny drop, 'twas as much as she could, for the little birds outside; and then all the cows stood still and let her milk them. They neither kicked nor frisked; they didn't even lift a leg.
 
 So when the old witch saw her coming in with the milk, she cried out, —
 
@@ -511,7 +511,7 @@ So she took the blue casket, as the birds sang.
 
 " Bad luck to you, then," said the old witch ; " see if I don't make you pay for this ! "
 
-So when the man's daughter was just setting off, the old witch shot a red-hot bar of iron after her, but she sprang behind the door and hid hereelf, so that it missed her, for her friends, the little birds, bad told her beforehand how to behave. Then she walked on and on as fast as ever she could ; but when she got to the Apple Tree, she heard an awful clatter behind her on the road, and that was the old witch and her daughter coming after her.
+So when the man's daughter was just setting off, the old witch shot a red-hot bar of iron after her, but she sprang behind the door and hid herself, so that it missed her, for her friends, the little birds, had told her beforehand how to behave. Then she walked on and on as fast as ever she could ; but when she got to the Apple Tree, she heard an awful clatter behind her on the road, and that was the old witch and her daughter coming after her.
 
 So the lassie was so frightened and scared, she didn't know what to do.
 
@@ -525,7 +525,7 @@ Yes ! she did so, and she had hardly hidden herself before up came the old witch
 
 So the old witch turned back and went home again.
 
-Then the lassie walked on a bit, but when she came just about where the sheep was, she heard an awfnl clatter beginning on the road behind her, and she didn't know what to do, she was so scared and frightened ; for she knew well enough it was the old witch, who had thought better of it.
+Then the lassie walked on a bit, but when she came just about where the sheep was, she heard an awful clatter beginning on the road behind her, and she didn't know what to do, she was so scared and frightened ; for she knew well enough it was the old witch, who had thought better of it.
 
 " Come hither to me, lassie," said the Wether, " and I 'll help jou. Hide yourself under my fleece, and then they'll not see you ; else they'll take away the casket, and tear yon to death."
 
@@ -559,7 +559,7 @@ Yes ! she made all the haste she could to get under the twigs of the hedge.
 
 "No, I haven't seen any lassie," answered the Hedge, and was as smooth-tongued as if he had got melted butter in his mouth ; but all the while he spread himself out, and made himself so big and tall, one had to think twice befor« crossing him. And so the old witch had no help for it but to turn round and go home again.
 
-So when the man's daughter got home, her stepmother and her step-sister were more spiteful against her than ever ; for now she was much neater, and so smart, it was a joy to look at her. Still she couldn't get leave to live with them, but they drove her out into a pig-sty. That was to be her bouse. So she scrubbed it out so neat and clean, and then she opened her casket, just to see what she had got for her wages. But as soon as ever she unlocked it, she saw inside so much gold and silver, and lovely things, which came streaming out till all the walls were hung with them, and at last the pig-sty was far grander than the grandest king's palace. And when the step-motber and her daughter came to see this, they almost jumped out of their skin, and began to ask ber what kind of a place she had down there?
+So when the man's daughter got home, her stepmother and her step-sister were more spiteful against her than ever ; for now she was much neater, and so smart, it was a joy to look at her. Still she couldn't get leave to live with them, but they drove her out into a pig-sty. That was to be her house. So she scrubbed it out so neat and clean, and then she opened her casket, just to see what she had got for her wages. But as soon as ever she unlocked it, she saw inside so much gold and silver, and lovely things, which came streaming out till all the walls were hung with them, and at last the pig-sty was far grander than the grandest king's palace. And when the step-mother and her daughter came to see this, they almost jumped out of their skin, and began to ask her what kind of a place she had down there?
 
 " Oh," said the lassie " can't you see, when I have got such good wages. 'Twas such a family, and such a mistress to serve, you couldn't find their like anywhere."
 
@@ -585,7 +585,7 @@ Well ! she did that ; but she went bo carelessly to work, that she cut great pie
 
 A little while after she came to the apple tree, which stood there quite crooked with fruit again.
 
-" Be so good as to pluck the apples off me, that my limbs may grow straight, for it's weary work to stand all awry," said the Apple Tree. " But please take care not to beat me too hard. Eat as many as you will, but lay the rest neatly, round my root, and I'll help yoU."
+" Be so good as to pluck the apples off me, that my limbs may grow straight, for it's weary work to stand all awry," said the Apple Tree. " But please take care not to beat me too hard. Eat as many as you will, but lay the rest neatly, round my root, and I'll help you."
 
 Well, she plucked those nearest to her, and thrashed down those she couldn't reach with the pole, but she didn't care how ahe did it, and broke off and tore down great boughs, and ate till she was as fall as full could be, and then she threw down the rest under the tree.
 
@@ -594,7 +594,7 @@ So when she had gone a good bit farther, she came to the farm where the old witc
 The first thing she had to do was to fetch water in a sieve. Well, off she went to the well, and drew water in a sieve, but as fast as she got it in it ran out again. So the little birds sang —
 
 " Daub in clay,  
-Put in straw;
+Put in straw;  
 Daub in clay,
 Put in straw!"
 
