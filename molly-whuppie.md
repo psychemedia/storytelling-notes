@@ -217,12 +217,12 @@ Tale: Once upon a time, there was a married couple who had three children. On a 
 
 ```
 
-Here's a short version of the tale of *Hop o' My Thumb*, *circa 1880*; it includes an episode where the "giant" kills his own offspring:
+Here's a short version of the tale of *Hop o' my Thumb*, *circa 1880*; it includes an episode where the "giant" kills his own offspring:
 
-```{admonition} *Hop o' My Thumb*, Perrault, c.1880
+```{admonition} *Hop o' my Thumb*, Perrault, c.1880
 :class: dropdown
 
-Charles Perrault, *Hop o' My Thumb*, [edition c. 1880](https://archive.org/details/hopomythumb00perriala/mode/2up):
+Charles Perrault, *Hop o' my Thumb*, [edition c. 1880](https://archive.org/details/hopomythumb00perriala/mode/2up):
 
 A VERY poor couple once lived in a village near a wood, where they used to work; but as they had a family of seven little children, all boys, they could hardly manage to get food enough. The least boy was so tiny that he was called Hop o' my Thumb; but though so small, he was very clever. One night, when all the children were lying in bed, their parents were crying sadly, because there was no food in the house ; and Hop o ? my Thumb was quite in a fright, when he heard them say, that they would take all their little ones into the wood next day, and there leave them, that they might not see them die of hunger. So he got up very early in the morning, and filled his pockets with pebbles; and when he and his brothers went into the wood, he dropped the stones one by one as he walked along, and by this means, when it was getting dark, they found the way home again. But the next time the poor couple took their children to the wood, the little fellow could not get pebbles, for he had been locked up all night, and had nothing but a few crumbs to drop on the road, and these the birds soon ate up. The wind howled, and the min fell, and the poor children thought they should all perish; but they still kept moving on, in the hope of getting help.
 
@@ -239,7 +239,7 @@ Hop o' my Thumb, with the help of the kind Fairy, soon removed the *Ogre*'s seve
 "Go unto the Ogre's door, These words speak, and nothing more;  
 " Ogress, Ogre can not come: Great key give to Hop o' my Thumb."
 
-When the Ogre's wife first saw Hop o' my Thumb, she was ready to kill him for having caused the death of her daughters; but no sooner did he utter the magic words *Ogre*ss, Ogi^ can not come; Great key give to Hop o' my Thumb"
+When the Ogre's wife first saw Hop o' my Thumb, she was ready to kill him for having caused the death of her daughters; but no sooner did he utter the magic words *Ogre*ss, Ogi^ can not come; Great key give to Hop o' my Thumb.
 
 than she gave him the key of the gold chest, and told him to take as much as he chose. When he saw the great heap of money in the chest, he thought, like a good subject, he should like to help the King to some of the treasure , and so he made the *Ogre*'s wife give him as many bags full of gold as he could take away in several journeys.
 
@@ -249,7 +249,7 @@ Hop o' my Thumb now went to Court, laden with his hard won spoil, and paid his r
 
 ```
 
-And here's a rather more complete English translation of Perrault's *Little Poucet*, originally pubnlished in French in 1697, dating back to 1729:
+And here's a rather more complete English translation of Perrault's *Little Poucet*, originally published in French in 1697, dating back to 1729:
 
 ```{admonition} *Little Poucet and his two Brothers*, Charles Perrault, translated 1729
 :class: dropdown seealso
