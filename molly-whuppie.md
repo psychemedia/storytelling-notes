@@ -1,6 +1,6 @@
 # Molly Whuppie
 
-If ever there's a story I've seen told "by storytellers" as a children's story, at least in recent years, it's probably *Molly WHuppie*. Perhaps one reason for this is that it is packed with recognisable elements: a poor family whose children must leave; a clever girl outwitting a giant; a giant tricked into killing his own children; a person tricked into replacing someone in a sack (*Hudden and Dudden*, *Little Fairly*), and so on. 
+If ever there's a story I've seen told "by storytellers" as a children's story, at least in recent years, it's probably *Molly Whuppie*. Perhaps one reason for this is that it is packed with recognisable elements: a poor family whose children must leave; a clever girl outwitting a giant; a giant tricked into killing his own children; a person tricked into replacing someone in a sack (*Hudden and Dudden*, *Little Fairly*), and so on. 
 
 The version that's found in Jacobs' *English Fairy Tales* is a bit all over the place, and I don't really find it very satisfactory at all. Of the versions I've found to date,  I prefer Kennedy's *Hairy Grouchy*, and Campbell's "Maol a Chliobain" (*Popular Tales of the West Highlandas, vol I*). These are also pretty close to the version I heard Daniel Morden tell in a kids' session at *Beyond the Border, 2023*, if I recall correctly? *(Daniel Morden's selections and tellings very often resonate strongly for me...)*
 
