@@ -111,7 +111,7 @@ The giant followed her till she reached the river ; she leaped the river, and th
 
 ```
 
-It is from Jacobs we seem to get the commonly used *Molly Whuppie* name, which he coined from the original *Mally Whuppie* source tale reprinted from the *Folk-Lore Journal* of 1884:
+It's from Jacobs that we seem to get the commonly used *Molly Whuppie* name, which he coined from the original *Mally Whuppie* source tale reprinted from the *Folk-Lore Journal* of 1884:
 
 ```{admonition} *Molly Whuppie*, Jacobs' *English Fairy Tales*, 1890
 :class: dropdown
