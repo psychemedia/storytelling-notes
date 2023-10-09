@@ -1,8 +1,8 @@
-#  Ceridwen, Gwion Bach and Taliesin
+# Ceridwen, Gwion Bach and Taliesin
 
 The tale of Gwion Bach, his encounter with the sorceress Ceridwen, his rebirth as Taliesin, greatest of the bards, and his adventures with the luckless Prince Elphin, is one of my favourite tales. The transformations are fantastic, and as with many Welsh tales, the pace is frenetic. Here is the briefest of summaries:
 
-> Ceridwen, the sorceress has two children: her daughter, Creirwy, is perfect in every way; her son, Avagddu, is everything his sister is not. Ceridwen vows to make a potion of Awen, inspiration: it will take a year and a day; and old man and a young boy, Gwion Bach, are brought in to stir the pot and feed the fire; ingredients are collected at auspicious times. The day of reckoning: three bubbles, rise, pop, and burn Gwion Bach on the hand. Hand to mouth, he sees everything that was, is and shall be. He flees, Ceridwen chasing: they change to hare and hunting dog, fish and she-otter, little bird and hawk, grain of wheat and hen. Ceridwen pecks, and eats Gwion Bach. A child is born, she cannot kill it, pushes it onto the lake. Prince Elphin, the luckless, fails to get salmon n the day they leap freely; sees the child — "radiant brow". It talks, it has gown to a young child by the time they get to Elphin's father's court. Taliesin promises a great future for Elphin, with his help, and the young bard is adopted.
+> Ceridwen, the sorceress has two children: her daughter, Creirwy, is perfect in every way; her son, Avagddu, is everything his sister is not. Ceridwen vows to make a potion of Awen, inspiration: it will take a year and a day; and old man and a young boy, Gwion Bach, are brought in to stir the pot and feed the fire; ingredients are collected at auspicious times. The day of reckoning: three bubbles, rise, pop, and burn Gwion Bach on the hand. Hand to mouth, he sees everything that was, is and shall be. He flees, Ceridwen chasing: they change to hare and hunting dog, fish and she-otter, little bird and hawk, grain of wheat and hen. Ceridwen pecks, and eats Gwion Bach. A child is born, she cannot kill it, pushes it onto the lake. Prince Elphin, the luckless, fails to get salmon n the day they leap freely; sees the child — "radiant brow". It talks, it has grown to a young child by the time they get to Elphin's father's court. Taliesin promises a great future for Elphin, with his help, and the young bard is adopted.
 
 ```{admonition} Ceridwen's Foul Son
 :class: seealso
@@ -320,7 +320,6 @@ Another composition, attributed to him, is to be found in the same valuable coll
 The magic basket of Gwyddno has a place amongst the Thirteen Precious Things of Britain (*see Guest's Mabinogion, Vol. II, 1845, p353*).
 
 ```
-
 
 ```{admonition} Lady Charlotte Guest
 :class: seealso
@@ -702,7 +701,7 @@ Cried " Taliesin !" " Radiant brow ! '
 And I am he : and well I know  
 Ceridwen's power protects me still ;  
 And hence o'er hill and vale I go,  
-And sing, unharmed, whate*er I will.
+And sing, unharmed, whate'er I will.
 
 She has for me Time's veil withdrawn :  
 The images of things long gone.  
@@ -730,8 +729,6 @@ In *The Cambrian and Caledonian Quarterly Magazine and Celtic Repertory* 1829-04
 
 The Misfortunes of Elphin. By the Author of Headlong Hall. London, 1829. T. Hookham. 
 
-TO DO
-
 We regret exceedingly our inability, consistently with our limits, to do justice to the very interesting work before us. We must content ourselves with presenting, to such of our readers as may not have an opportunity of perusing the work itself, as general an account as possible ; at the same time such an one as may convey a tolerable idea of this ingenious publication, founded on the history, mythology, and romance of Cambria. 
 
 The author commences with a description of Cantre y Gwaelod in the beginning of the sixth century, under the sovereignty of Gwyddio Garanhir, king of Caredigion:
@@ -744,7 +741,7 @@ Gwythno, like other kings, found the business of governing too light a matter to
 
 Gwythno and his subjects went on together very happily. They had little to do with him but to pay him revenue, and he had little to do with them but to receive it. Now and then they were called on to fight for the protection of his sacred person, and for the privilege of paying revenue to him rather than to any of the kings in his vicinity, a privilege of which they were particularly tenacious.
 
-Gwyddno had a palace built on the rocky banks of the Mawddach, just above the point where it quitted its native mountains, and entered the Plain of Gwaelod, partly through fear of the pro- pheey which haunted him at intervals, " to beware of the oppres. sion of Gwen-hudiw," the white alluring one, used figuratively for the elemental power of the sea; and partly that he might enjoy, in this secluded spot, the pleasures of festal munificence, and expend his revenue in encouraging agriculture, by consuming a large quantity of produce, 
+Gwyddno had a palace built on the rocky banks of the Mawddach, just above the point where it quitted its native mountains, and entered the Plain of Gwaelod, partly through fear of the pro- pheey which haunted him at intervals, " to beware of the oppression of Gwen-hudiw," the white alluring one, used figuratively for the elemental power of the sea; and partly that he might enjoy, in this secluded spot, the pleasures of festal munificence, and expend his revenue in encouraging agriculture, by consuming a large quantity of produce.
 
 While the king was thus enjoying himself, the superintendence of the coast was intrusted to Prince Seithenyn ap Seithyn Saidi, recorded in the triads as one of the three immortal drunkards of the isle of Britain. 
 
@@ -770,29 +767,25 @@ Is the full cup of mead to the true Briton’s lips:
 From the flower-cups of summer, on field and on tree,  
 Our mead cups are filled by the vintager bee. 
 
-Seithenyn* ap § Seithyn, the generous, the bold, 
-Drinks ‘the wine of the stranger hom vessels of vold;]  
+Seithenyn `[The accent is on the second syllable: Seithényn]` ap Seithyn, the generous, the bold, 
+Drinks ‘the wine of the stranger hom vessels of gold; `[Gwin ... o eur... . ANEURIN]`  
 But we from the horn, the blue silver-rimmed horn,  
 Drink the ale and the mead in our fields that were born. 
 
 The ale-froth is white, and the mead sparkles bright;  
-They both smile apart, and with smiles they unite  
-The mead from the flowe r; and the ale from the corn,  
+They both smile apart, and with smiles they unite `[The mixture of ale and mead made *bradawd*, a favorite drink of the Ancient Britons.]`  
+The mead from the flower; and the ale from the corn,  
 Smile, sparkle, and sing in the buffalo horn. 
 
-The horn, the blue horn, cannot stand on its tip ; 
-[ts path is right on from the hand to the lip: 
+The horn, the blue horn, cannot stand on its tip ;  
+Its path is right on from the hand to the lip: 
 Though the bow! and the wine-cup our tables adorn,  
 More natural the draught from the buffalo horn. 
 
 But Seithenyn ap Seithyn, the generous, the bold,  
 Drinks the bright-flowing wine from the fon-cleamine rgold  
 The wine, in the bowl by his lip that is worn, 
-Shall be glorious as mead in the buffalo horn. 
-
-
-* The accent is on the S¢ cond sylli ih le: Seithényn | Gwin ....0 eur... . ANEURIN, The mixture of ale and mead made bradawd, a favorite drink of the Ancient Britons. "©. Fl. : 
-
+Shall be glorious as mead in the buffalo horn.
 
 The horns circle fast, but their fountains will last,  
 As the stream passes ever, and never is past:  
@@ -814,9 +807,9 @@ Elphin, taking the wine-cup, answered, " Elphin ap Gwythno Garanhir thanks you."
 
 Seithenyn started up. He endeavoured to straighten himself into perpendicularity, and to stand steadily on his legs. Ile accomplished half his object by stiffening all his joints but those of his ankles, and from these the rest of his body vibrated upwards with the inflexibility of a bar. After thus oscillating for a time, like an inverted pendulum, finding that the attention requisite to preserve his rigidity absorbed all he could collect of his dissipated energies, and that he required a portion of them for the management of his voice, which he felt a dizzy desire to wield with peculiar steadiness in the presence of the son of the king, he suddenly relaxed the muscles that perform the operation of sitting, and dropped into his chair like a plummet. He then, with a gracious gesticulation, invited Prince Elphin to take his seat on his right hand, and proceeded to compose himself into a dignified attitude, throwing his body back into the left corner of his chair, resting his left elbow on its arm and his left cheekbone on the middle of the back of his left hand, placing his left foot on a footstool, and stretching out his right leg as straight and as far as his position allowed. He had thus his right hand at liberty, for the ornament of his eloquence and the conduct of his liquor. 
 
-Elphin seated himself at the right hand of Seithenyn. Teithrin remained at the end of the hall; on which Seithenyn exclaimed, "Come on, man, come on. What, if you be not the son of a king, you are the guest of Seithenyn ap Seithyn Saidi. The most honourable place to the most honourable guest, and the next most honourable place to the next most honourable guest; the least honourable guest above the most honourable inmate ; and, where there are but two guests, be the most honourable who he may, the least honourable of the two is next in honour to the most honourable of the two, because they are no more but two; and, where there are only two, there can be nothing between. ‘Therefore sit, and drink. Gwin o EUR: wine from gold." 
+Elphin seated himself at the right hand of Seithenyn. Teithrin remained at the end of the hall; on which Seithenyn exclaimed, "Come on, man, come on. What, if you be not the son of a king, you are the guest of Seithenyn ap Seithyn Saidi. The most honourable place to the most honourable guest, and the next most honourable place to the next most honourable guest; the least honourable guest above the most honourable inmate ; and, where there are but two guests, be the most honourable who he may, the least honourable of the two is next in honour to the most honourable of the two, because they are no more but two; and, where there are only two, there can be nothing between. ‘Therefore sit, and drink. Gwin o Eur: wine from gold." 
 
-The following conversation is worthy the attention of antiqua- rians, and all those who are prejudiced against modern improve ments : 
+The following conversation is worthy the attention of antiquarians, and all those who are prejudiced against modern improvements : 
 
 "Prince Seithenyn," said Elphin, "I have visited you on a subject of  deep moment. Reports have been brought to me, that the embankment, which has been so long intrusted to your care, is in a state of dangerous decay." 
 
@@ -826,7 +819,7 @@ The following conversation is worthy the attention of antiqua- rians, and all th
 
 "That is the beauty of it," said Seithenyn. ‘ Some parts of it are rotten, and some parts of it are sound."
 
-"Itis well," said Elphin, " that some parts are sound: it were better that all were so." 
+"It is well," said Elphin, " that some parts are sound: it were better that all were so." 
 "So I have heard some people say before," said Seithenyn; " perverse people, blind to venerable antiquity: that very unamiable sort of people, who are in the habit of indulging their reason. But I say, the parts that are rotten give elasticity to those that are sound: they give them elasticity, elasticity, elasticity. If it were all sound, it would break by its own obstinate stiffness; the soundness is checked by the rottenness, and the stiffness is balanced by the elasticity. There is nothing so dangerous as innovation. See the waves in the equinoctial storms, dashing and clashing, roaring and pouring, spattering and battering, rattling and battling against it. I would not be so presumptuous as to say, I could build any thing that would stand against them half an hour; and here this immortal old work, which God forbid the finger of modern mason should bring into jeopardy, this immortal work has stood for centuries, and will stand for centuries more, if we let it alone. It is well: it works well: let well alone. Cupbearer, fill. It was half rotten when I was born, and that is a conclusive reason why it should be three parts rotten when I die."
 
 The whole body of the High Commission roared approbation.
@@ -839,11 +832,9 @@ The whole body of the High Commission roared approbation.
 
 " Not to level the embankment," said Teithrin. 
 
-"Good, very good," said Seithenyn. " L love a smart saying, though 1 
+"Good, very good," said Seithenyn. " I love a smart saying, though it hits at me. But, whether yours is a smart saying or no, I do not very clearly see ; and, whether it hits at me or no, I do not very sensibly feel. But all is one. Cupbearer, fill."
 
-
-hits at me. But, whether yours is a smart saying or no, I do not very clearly see ; and, whether it hits at me or no, I do not very sensibly feel. But all is one. Cupbearer, fill." 
-At the conclusion of this scene, the effects of the continued draughts of wine, so ably supplied by his cupbearer, ruined all the devices of Seithenyn for the maintenance of his dignity ; and, in stooping forward from his chair, to regain possession of his fallen cup, he lost his balance, and fell prostrate on the floor. The tumult, occasioned by the simultaneous rising of the whole body of the High Commission to uplift their fallen chief, drew Angharad, the daughte: of Seithenyn, from her chamber. She grace fully sa: luted Prince Elphin, and directed the cu pbearers to lift up her father, and bear him from the hall. The cupbearers reeled off with their lord, who had already fallen asleep, and who now began to play them a pleasant march with his nose, to inspirit their progression. Elphin gazed with delight on the beautiful Angharad, whose gentle and serious loveliness contrasted so strikingly with the broken trophies and fallen herces of revelry that lay scattered at her feet. In this interval were heard the loud dashing of the sea and the blustering of the wind through the e apertures of the wall. It was one of those tempests which occur once in several centuries, and which, by their extensive devastations, are chronicled to eternity. 
+At the conclusion of this scene, the effects of the continued draughts of wine, so ably supplied by his cupbearer, ruined all the devices of Seithenyn for the maintenance of his dignity ; and, in stooping forward from his chair, to regain possession of his fallen cup, he lost his balance, and fell prostrate on the floor. The tumult, occasioned by the simultaneous rising of the whole body of the High Commission to uplift their fallen chief, drew Angharad, the daughter of Seithenyn, from her chamber. She gracefully saluted Prince Elphin, and directed the cupbearers to lift up her father, and bear him from the hall. The cupbearers reeled off with their lord, who had already fallen asleep, and who now began to play them a pleasant march with his nose, to inspirit their progression. Elphin gazed with delight on the beautiful Angharad, whose gentle and serious loveliness contrasted so strikingly with the broken trophies and fallen herces of revelry that lay scattered at her feet. In this interval were heard the loud dashing of the sea and the blustering of the wind through the apertures of the wall. It was one of those tempests which occur once in several centuries, and which, by their extensive devastations, are chronicled to eternity. 
 
 The old bard of the palace, inspired by the awen, seized his harp, and mingled his voice and his music with the uproar of the elements. In this place we have a specimen of a numerous class of ancient Welsh poems, in which each stanza begins with a repetition of the predominant idea, and terminates with a proverb. The basis of the poem is in the Englynion of Llywarch Hén. We regret our limits will not allow us to insert more than the first stanza: 
 
@@ -856,7 +847,7 @@ The dance gay youths and maidens lead:
 The thrush makes chorus from the thorn :  
 The mighty drinker fills his horn. 
 
-The song is cut short by a tremendous crash: the sea breaks in; the tower, which had its foot in the sea, falls; the plain of Gwaelod is inundated ; Seithenyn leaps into the flood ; while his daughter, his visitors, his bard, and such of the bacchanalians as are capable of locomotion, escape along the ridge of the embankment. 7 
+The song is cut short by a tremendous crash: the sea breaks in; the tower, which had its foot in the sea, falls; the plain of Gwaelod is inundated ; Seithenyn leaps into the flood ; while his daughter, his visitors, his bard, and such of the bacchanalians as are capable of locomotion, escape along the ridge of the embankment.
 
 King Gwythno had feasted joyously, and had sung his new ode to a chosen party of his admiring subjects, amidst their, of course, enthusiastic applause. 
 
@@ -901,7 +892,7 @@ Presumption, from abundance born.
 
 Elphin espouses Angharad, and constructs a salmon-weir on the Mawddach, where is found, in a coracle, a male child, who turns out to be the famous bard Taliesin. 
 
-Elphin, nevertheless, looked very dismal on finding no food and an ad ditional mouth ; so dismal, that his physiognomy on that occasion passed into a proverb: " As rueful as Elphin when he found Taliesin."
+Elphin, nevertheless, looked very dismal on finding no food and an ad ditional mouth ; so dismal, that his physiognomy on that occasion passed into a proverb: " As rueful as Elphin when he found Taliesin. `[Mor drist ac Elfin pan gavodd Taliesin.]`
 
 In after years, Taliesin, being on the safe side of prophecy, and writing after the event, addressed a poem to Elphin, in the character of the foundling of the coracle, in which he supposes himself, at the moment of his discovery, to have addressed Elphin as follows : 
 
@@ -916,19 +907,17 @@ Smooth thy bent brow, and cease to mourn ;
 Thy weir will never bear again 
 Such wealth as it tonight has borne. 
 
-Two years after this event, Angharad presented Elphin with a daughter, whom they named Melanghel. The fishery prospered ; and the progress ol cultivation and population among the more fertile parts of the mountain districts brought in a little revenue to the old king. 
+Two years after this event, Angharad presented Elphin with a daughter, whom they named Melanghel. The fishery prospered ; and the progress ol cultivation and population among the more fertile parts of the mountain districts brought in a little revenue to the old king.
+
 Uther Pendragon and Gwythno, in due time, go the way of all flesh, Arthur reigns in Caer Lleon as king of the kings of Britain, while Maelgon Gwynedd reigns over that part of North Wales bordering on the kingdom of Elphin. 
 
-* Mor dnst ac Elfin pan gavodd Taliesin. 
+We will pass over the love scene between Taliesin and the Princess Sailnet, who entreats him to rescue her father from the castle of Diganwy, where he is imprisoned by Maelgon Gwynedd. We must leave the incarceration of Rhên, heir-apparent to the throne of Gwynedd; we must leave King Arthur and his court, as well as many curious adventures, to be enjoyed over the perusal of the Misfortunes of Elphin. 
 
+But we cannot make up our minds to leave our old friend, Prince Seithenyn ap Seithyn, with his Gwin o Eur, without introducing him once more, in a resuscitated state, to the attention of our readers.
 
-We will pass over the love scene between Taliesin and the Princess Sailnet, who entreats him to rescue her father from the castle of Diganwy, where he is imprisoned by Maelgon Gwynedd. We must leave the incarceration of Rhdn, heir-apparent to the throne of Gwynedd; we must leave King Arthur and his court, as well as many curious adventures, to be enjoyed over the perusal of the Misfortunes of Elphin. 
+"I cannot believe," said the stranger, "that a man whose favorite saying was Gwin o Eur could possibly be a disreputable person, or deserve any other than that honourable remembrance, which, you say, only one person is honest enough to entertain for him." 
 
-But we cannot make up our minds to leave our old friend, Prince Seithenyn ap Seithyn, with his Gwin o EuR, without introducing him once more, in a resuscitated state, to the attention of our readers.
-
-"I cannot believe," said the stranger, "that a man whose favorite saying was Gwin o £uR could possibly be a disreputable person, or deserve any other than that honourable remembrance, which, you say, only one person is honest enough to entertain for him." 
-
-"His name," said Taliesin, "is too unhappily notorious throughout Britain, by the terrible catastrophe of which bis Gwin o EUR was the cause."
+"His name," said Taliesin, "is too unhappily notorious throughout Britain, by the terrible catastrophe of which bis Gwin o Eur was the cause."
 
 "And what might that be ?" said the stranger.
 
@@ -937,7 +926,7 @@ But we cannot make up our minds to leave our old friend, Prince Seithenyn ap Sei
 "You speak then," said the stranger, taking an enormous potation, " of Seithenyn, Prince Seithenyn, Seithenyn ap Seithyn Saidi, Arglwydd Gorarcheidwad yr Argae Breninawl." 
 "I seldom hear his name," said Taliesin, "with any of those sounding additions : he is usually called Seithenyn the Drunkard." 
 
-The stranger goggled about his eyes in an attempt to fix them steadily on Taliesin, screwed up the corners of his mouth, stuck out his nether lip, pursed up his chin, thrust forward his right foot, and elevated his golden goblet in his nght hand ; then, in‘a tone which he intended to be strongly becoming of his : . ° . " impressive aspect and imposing attitude, he muttered, " Look at me."
+The stranger goggled about his eyes in an attempt to fix them steadily on Taliesin, screwed up the corners of his mouth, stuck out his nether lip, pursed up his chin, thrust forward his right foot, and elevated his golden goblet in his nght hand ; then, in‘a tone which he intended to be strongly becoming of his impressive aspect and imposing attitude, he muttered, " Look at me."
 
 Taliesin looked at him accordingly, with as much gravity as he could preserve.
 
@@ -953,7 +942,7 @@ After a silence, which he designed to be very dignified and solemn, the stranger
 
 " Your mode of reasoning," said Taliesin, " unquestionably corresponds with what I have heard of Seithenyn’s; but how is it possible Seithenyn can be living ?"
 
-"Every thing that is, is possible, says Catog the Wise," answered Seithenyn, with a look of great sapience. "I will give you proof that I am not a dead man ; for, they say, dead men tell no tales: now I will tell you a tale, and a very interesting one it is.) When I saw the sea sapping the tower, [ jumped into the water, and just in the nick of time. It was well for me that] had been so provident as to empty so many barrels, and that somebody, I don’t know who, but I ape it was my daughter, had been so provident as to put the bungs into them, to keep them sweet; for the beauty of it was that, when there was so much water in the case, it kept them empty; and when I jumped into the sea, the sea was just making a great hole in the cellar, and they were floating out by dozens. I don’t know how I managed it, but I got one arm over one, and the other arm over another: I nipped them pretty tight; and, though my legs were under water, the good liquor I had in me kept me warm. I could not help thinking, as I had nothing else to think of just then that touched me so nearly, that if I had left them full, and myself empty, as a sober man would have done, we should all three, that is, I and the two barrels, have gone to the bottom together, that is to say, separately; for we should never have come together, except at the bottom, perhaps ; when no one of us could have done the other any good ; whereas they have done me much good, and I have requited it ; for, first, did them the service of emptying them ; and then they did me the service of floating me with the tide, whether the ebb, or the flood, or both, is more than I can tell, down to the coast of Dyfed, where I was picked up by fishermen ; and, such was my sense of gratitude, that, though I had always before detested an empty barrel, exoept as a trophy, I swore I would not budge from the water unless my two barreis went with me; so we were all marched inland together, and were taken into the service of King Ednyfed, where I stayed till his castle was sacked, and his head cut off, and his beeves marched away with, by the followers of King Melvas, of whom I killed two or three; but they were too many for us; therefore, to make the best of a bad bargain, I followed leisurely in the train of the beeves, and presented myself to King Melvas, with this golden goblet, saying Gwin o EUR." 
+"Every thing that is, is possible, says Catog the Wise," answered Seithenyn, with a look of great sapience. "I will give you proof that I am not a dead man ; for, they say, dead men tell no tales: now I will tell you a tale, and a very interesting one it is. When I saw the sea sapping the tower, I jumped into the water, and just in the nick of time. It was well for me that I had been so provident as to empty so many barrels, and that somebody, I don’t know who, but I ape it was my daughter, had been so provident as to put the bungs into them, to keep them sweet; for the beauty of it was that, when there was so much water in the case, it kept them empty; and when I jumped into the sea, the sea was just making a great hole in the cellar, and they were floating out by dozens. I don’t know how I managed it, but I got one arm over one, and the other arm over another: I nipped them pretty tight; and, though my legs were under water, the good liquor I had in me kept me warm. I could not help thinking, as I had nothing else to think of just then that touched me so nearly, that if I had left them full, and myself empty, as a sober man would have done, we should all three, that is, I and the two barrels, have gone to the bottom together, that is to say, separately; for we should never have come together, except at the bottom, perhaps ; when no one of us could have done the other any good ; whereas they have done me much good, and I have requited it ; for, first, did them the service of emptying them ; and then they did me the service of floating me with the tide, whether the ebb, or the flood, or both, is more than I can tell, down to the coast of Dyfed, where I was picked up by fishermen ; and, such was my sense of gratitude, that, though I had always before detested an empty barrel, exoept as a trophy, I swore I would not budge from the water unless my two barreis went with me; so we were all marched inland together, and were taken into the service of King Ednyfed, where I stayed till his castle was sacked, and his head cut off, and his beeves marched away with, by the followers of King Melvas, of whom I killed two or three; but they were too many for us; therefore, to make the best of a bad bargain, I followed leisurely in the train of the beeves, and presented myself to King Melvas, with this golden goblet, saying Gwin o Eur." 
 
 There are many other parts of this volume equally amusing with those we have selected, and not less interesting. The main incidents are derived from the triads, and the singular story of Hanes Talesin, in the Welsh Archaiology. But the author has succeeded in rendering these valuable records of antiquity highly acceptable, not only to natives of the Principality, but to the public in general. To conclude, we recommend this work to our readers as the most entertaining book, if not the best, that has yet been published on the ancient customs and traditions of Wales. 
 
@@ -1317,4 +1306,3 @@ For blaspheming Jesus and his service."
 Taliesin having set his master free from prison, and having protected his wife, and silenced the bards, so that not one of them dared to say a word, now brought Elphin's wife before them, and showed that she had not one finger wanting. Right glad was Elphin, right glad was Taliesin.
 
 ```
-
