@@ -580,7 +580,7 @@ In his defence, Macpherson, says the Stat. Account, seeking to reach the gable o
 
 "Nicolas Dunbar."
 
-```{text}
+```text
 \* There can be little doubt that it was at the Cross of Banff, as the sentence declares, and not on die Gallowhill, as modem writers assert, that Macpherson was hanged.
 
 " It appears that McPherson . . . performed at the foot of the Gallows, on the Gallowhill of Banff, the ' Rant ' and pibroch of his own composition. ... At the time the Waverley Novels were issuing from the press I had McPherson's remains disinterred at the foot of the gallows-tree where he suffered, and a medical friend present said that the bones were those of a strong and powerful man." (Imlach's " History of Banff, 1868.")

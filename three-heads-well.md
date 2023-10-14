@@ -137,7 +137,7 @@ A third publication in 1890, Andrew Lang's *The Red Fairy Book*, also included a
 ```{admonition} "The Bushy Bride", Lang, 1890
 :class: dropdown
 
-In *The red fairy book*, Andrew Lang, 1890, [pp.322-328]()
+In *The red fairy book*, Andrew Lang, 1890, [pp.322-328](https://archive.org/details/redfairybook00langiala/redfairybook00langiala/page/322/mode/2up)
 
 THE BUSHY BRIDE
 

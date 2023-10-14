@@ -41,7 +41,7 @@ It seems that Yama is perhaps best thought of as the first *mortal*; his brother
 
 The conflict between Yami's desires for her brother are described in the Rig Veda. The [Complete Rig Veda in English (Sakala Shakha), 1896](https://archive.org/details/rigvedacomplete) (a single document combining the two original, separate volumes) by Ralph Thomas Hotchkin Griffith, gives from volume I, [RV, Hymn X.10](https://archive.org/details/rigvedacomplete/page/n1032/mode/1up) the following annotated translation:
 
-```{admonition}
+```{admonition} Yama and Yami
 :class: dropdown
 
 Yama and Yami, son and daughter of Vivasvân, are the Rishis as well as the deities of the hymn which is a dialogue between them.

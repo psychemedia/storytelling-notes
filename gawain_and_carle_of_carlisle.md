@@ -1,6 +1,6 @@
 # Sir Gawain and the Carle of Carlisle
 
-A story I came across by chance whilst I was looking for Arthurian tales, but it also hit the "giant" requirement that was also on a list of tale topics I needed to find stories for. I don't recall ever having heard this tale told before, although I do remember a couple of years 15-20 years or so ago whn Arthurian tales were very popular whenever we went to a storytelling event.
+A story I came across by chance whilst I was looking for Arthurian tales, but it also hit the "giant" requirement that was also on a list of tale topics I needed to find stories for. I don't recall ever having heard this tale told before, although I do remember a couple of years 15-20 years or so ago when Arthurian tales were very popular whenever we went to a storytelling event.
 
 Telling this tale without some adaptation may cause some tricky moments when it comes to the scenes featuring the Carle's wife an daughter...
 
@@ -46,7 +46,7 @@ Gawain is sure they can do it nicely.
 
 Knokc at gates, scene with porter: Gawain nice, Kay up for a fight, porter telling them they'll all be sorry.
 
-Brought in, shocked to see 4 wild animals round the fire: a bull, a boar, a lion and a bear. he Carle treated them like dogs as thy got up and snappd at the knights and the Bishop.
+Brought in, shocked to see 4 wild animals round the fire: a bull, a boar, a lion and a bear. The Carle treated them like dogs as thy got up and snappd at the knights and the Bishop.
 
 Carle was a giant - two yards across and 9 yards tall. No pillar supported the root thicker than his thighs.
 
@@ -56,7 +56,7 @@ Bishop went out to check his horse, eating straw next to a huge colt; he slapped
 
 Sir Kay came out, found his horse next to the colt, slapped it on the flank, giant saw this, knocked him unconscious to th ground.
 
-After a while they returned, Gawain asked where they ben "checking the horses", running their heads.
+After a while they returned, Gawain asked where they've been: "checking the horses", running their heads.
 
 Gawain asked to do the same, saw the colt outside in the rain, took it inside, saying it was his masters not theirs. The Carle thankd him.
 
