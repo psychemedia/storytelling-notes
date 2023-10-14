@@ -344,7 +344,7 @@ Mr. Editor,— You are, no doubt, acquainted with many traits of character pecul
 
 Not strictly relating to the Macpherson tale, a note in Series 5 of the Journal of the Gypsy Lore Society from 1891 appears at [pp. 126-7](https://archive.org/details/journalgypsylor01socigoog/page/n148/mode/2up):
 
-```{admonotion} A Gypsy Parallel.
+```{admonition} A Gypsy Parallel.
 
 The leader of a band of "Egyptians," who was hanged at the cross of Banff (Scotland) in the year 1700, is chiefly remembered by the circumstance that he played on his well-loved violin a celebrated "rant" at the foot of the gallows, immediately before his exécution. The incident bas been immortalised by Burns, and it bas been referred to by various writers. `[See In Gypsy Tents, p107 ; also Miscellany of the Spalding Club, vol. iii., " Proceedings against the Egyptians at Banff : 1700." ]`
 
@@ -522,7 +522,7 @@ NICOLAS DUNBAR, Dept.
 
 The proceedings against the Egyptians from the Banff Assizes in November, 1700, are quoted in James Imlach's [*History of Banff and familiar account of its inhabitants and belongings*](https://archive.org/details/historybanffand00imlagoog), 1868, pp. 25-29:
 
-```{admonition}
+```{admonition} Highland Raider
 :class: dropdown
 
 HIGHLAND RAIDER.

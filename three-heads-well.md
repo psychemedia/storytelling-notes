@@ -91,7 +91,7 @@ With this the cobbler applied the remedies, and they made her well in a few week
 Jacobs also provides some historical notes on the story:
 
 ```{admonition} Jacobs, *Notes on "Three Heads of the Well"*
-:class dropdown
+:class: dropdown
 
 XLIII. THE THREE HEADS OF THE WELL. 
 

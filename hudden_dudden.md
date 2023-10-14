@@ -1145,8 +1145,8 @@ At the heart of the Hudden and Dudden tale is the quick-wittedness of Donal o'Le
 
 This tale — *The Cunning Old Man* — also includes one particular element of the donkey, the stick and the table (which for example is also found as part of *Jack and the North Wind*), specifically, the gold-creating ass (in at last two sense of the word!). The motif of a poor character being tricked into selling their animal, and then retribution being served, also reminds me of one of the Daniel O'Connell tales told by Eddie Lenihan on his Storyteller CD collection, a tale that also appears in an earlier form in Seamus Macmanus' *Through the turf smoke*, 1899:
 
-```{admonition}
-:class: dropdown seealso
+```{admonition} "The Counsellor", *Through the Turf Smoke*
+:class: dropdown seealso 
 
 In [*Through the turf smoke*](https://archive.org/details/throughturfsmoke01macm/page/176/mode/2up),
 Seumas MacManus, 1899, p. 175-180.
