@@ -576,7 +576,7 @@ DELTA
 And slightly further north, in the Cumberland and Westmorland Advertiser of 1873:
 
 ```{admonition} "The hand of Glory", **Cumberland and Westmorland Advertiser*, 1873
-:closeup: ddropdown
+:class: dropdown
 
 In *Cumberland and Westmorland Advertiser, and Penrith Literary Chronicle*, Tuesday 2nd December, 1873, [p2](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001102/18731202/099/0004):
 
