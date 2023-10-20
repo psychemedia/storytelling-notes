@@ -1,7 +1,5 @@
 # The Golden Ball
 
-
-
 I first heard it in a radical retelling by Sara Liisa Wilkinson https://www.youtube.com/watch?v=xVLjtO4EkFQ
 
 Here's the earliest version I've found:
