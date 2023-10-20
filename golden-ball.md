@@ -7,7 +7,7 @@ Here's the earliest version I've found:
 ```{admonition} The Golden Ball, Groome, in Henderson, 1866, p333-336
 :class: seealso dropdown
 
-https://archive.org/details/dli.granth.84777 ? no longer found, but avalable here: https://books.google.co.uk/books?id=a0iwAAAAIAAJ
+https://archive.org/details/dli.granth.84777 ? no longer found, but available here: https://books.google.co.uk/books?id=a0iwAAAAIAAJ
 
 Notes on the Folklore of the Northern Counties of England and the Borders
 by Henderson, William; Baring-Gould, S.
