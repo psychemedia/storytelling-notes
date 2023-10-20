@@ -255,7 +255,7 @@ Alfred Nutt.
 
 ```
 
-And Sara Liisa Wilkinson's heavily modified version
+And Sara Liisa Wilkinson's heavily modified version:
 
 ```{admonition} The Golden Balls - Day of the Dead storytelling by Sarah Liisa Wilkinson
 
