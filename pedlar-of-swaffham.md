@@ -1,6 +1,7 @@
-# The Pedlar off Swaffham
+# The Pedlar of Swaffham
 
-In the county of Norfolk, in the the town of Swaffham, there was a pedlar. He lived ...
+My way in to this story is "In the county of Norfolk, in the the town of Swaffham, there was a pedlar. He lived ..." I also use our our cooking apple-tree as the minds-eye representation of the tree under which the treasure is found...
+
  TO DO
 
 
