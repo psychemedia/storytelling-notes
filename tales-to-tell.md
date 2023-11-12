@@ -296,6 +296,13 @@ Golden Casket - frame tale
 
 ---
 
+https://archive.org/details/donegalfairysto00macmgoog
+Donegal fairy stories
+by Seumas MacManus
+
+Publisher Doubleday, Page, 1900
+
+---
 
 https://archive.org/details/westirishfolktal00larmuoft/page/xxvi/mode/1up
 West Irish folk-tales and romances
