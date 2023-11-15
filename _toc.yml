@@ -5,7 +5,6 @@ parts:
   chapters:
   - file: the-wish-ring
   - file: yama-and-yami
-  - file: pentrich/pentrich-rising
   - file: man-no-story
   - file: knight-york-fish-ring
   - file: three-heads-well
