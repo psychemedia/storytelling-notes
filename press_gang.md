@@ -2,7 +2,7 @@
 
 Whenever I try to find tales of the sea, I struggle somewhat. This is a perfect example of one of the ways I've ended distracting myself with when setting out to find sea stories: a quick pivot instead to look for a nautical account that might lead to a possible story, and then a descent down a rabbit hole / rat hole into something that is only loosely naval. In this case, historical reports relating to *The Press*, aka the press-gang (or pressgang ) and the practice of *impressment*.
 
-Let's start with an example of how appreciated the press-gang weren't (other reports of similar reponses at other times and places are available!):
+Let's start with an example of how appreciated the press-gang weren't (other reports, of similar responses, but at other times and places, are available!):
 
 ```{admonition} *A mob responds*, June 1815
 :class: dropdown
@@ -41,7 +41,7 @@ Last week, as a Lieutenant of a press-gang was in pursuit of two men at Lynn, th
 
 ```
 
-Other encounters with the law played out in different term, with even more comic potential. For example, here we have a case in in the press-gang impress a constable, and then a High Constable, before a personal acquaintance saved the day:
+Other encounters with the law played out in different term, with even more comic potential. For example, here we have a case in which the press-gang impress a constable, and then a High Constable, before a personal acquaintance saved the day:
 
 ```{admonition} *A very extraordinary outrage*, November, 1803
 :class: dropdown

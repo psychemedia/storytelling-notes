@@ -499,7 +499,7 @@ p235-259, although the blacksmith is given the name Billy *Dawson* rather than B
 
 ## A Version in Verse
 
-As well as Irish literary versions, we can also find this Irish variant in verse that tells the tale of "stingy Jack", who is to bevomr the Jack o'Lantern:
+As well as Irish literary versions, we can also find this Irish variant in verse that tells the tale of "stingy Jack", who is to become the Jack o'Lantern:
 
 ```{admonition} *The Romance of Jack o'Lantern*, Hercules Ellis, 1851
 :class: dropdown
@@ -838,7 +838,7 @@ Our story draws nears it close. Jack, with all his skill, could not baffle the a
 
 ## A Variant in Grimm's Original Household Tales, 1812
 
-A version of the tale, except for the ending, also appears as *The Blacksmith and the Devil* (*Der Schmidt und der Teufel*, chapter 81), in the first volume of the first edition of Grimm's Househild Tales (the blacksmith ends up in heaven).
+A version of the tale, except for the ending, also appears as *The Blacksmith and the Devil* (*Der Schmidt und der Teufel*, chapter 81), in the first volume of the first edition of Grimm's Household Tales (the blacksmith ends up in heaven).
 
 A note in *THE EXTERNAL HISTORY OF THE KINDER UND HAUSMARCHEN OF THE BROTHERS GRIMM. III*, in vol XV, no. 6, of *Modern philology*, October 1917, p99-127 at p105 describes the history of that version of the tale:
 

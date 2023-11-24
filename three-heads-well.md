@@ -1,6 +1,6 @@
 # The Three Heads of the Well
 
-When we first started going to stories 25 years or so ago, this is one of tales I remember being frquently told, and one of my favourites to listen to, perhaps because of that, perhaps because of the repeated refrain, with each teller having their own variant, or perhaps because of the comic potential. I first starting telling it for the 'Tis Tales "Spring Tales" set, in Spring, 2023.
+When we first started going to stories 25 years or so ago, this is one of tales I remember being frequently told, and one of my favourites to listen to, perhaps because of that, perhaps because of the repeated refrain, with each teller having their own variant, or perhaps because of the comic potential. I first starting telling it for the 'Tis Tales "Spring Tales" set, in Spring, 2023.
 
 Here's the gist of the story:
 
@@ -132,7 +132,7 @@ The hump-backed sister-in-law, perceiving that her sister was so happy in seekin
 " I am," said she, " the King of Colchester's daughter-inlaw." "Well," said the cobbler, "if I restore you to your natural complexion, and make a sound cure both in face and breath, will you in reward take me for a husband ? " " Yes, friend," replied she ; " with all my heart ! " With this the cobbler applied the remedies, and they worked the effect in a few weeks; after which they were married, and so set forward for the Court at Colchester. When the queen understood she had married nothing but a poor cobbler, she fell into distraction, and hanged herself in wrath. The death of the queen pleased the king, who was glad to be rid of her so soon, and he gave the cobbler a hundred pounds to quit the Court with his lady, and take her to a remote part of the kingdom, where he lived many years mending shoes, his wife spinning thread.
 ```
 
-A third publication in 1890, Andrew Lang's *The Red Fairy Book*, also included a "three heads in the well" episode in the *The Bushy Bride*, set as part of a wider story that also inlcudes a broeher, as sourced from Moe. The enchantments to the first girl are great beauty, '[g]old [that ]shall drop from her hair whenever she brushes it' and '[g]old [that] shall drop from her mouth whenever she speaks'; for the other: 'a nose that was four ells long, and a jaw that was three ells, and a fir bush in the middle of her forehead, and every time she spoke ashes should fall from her mouth'.
+A third publication in 1890, Andrew Lang's *The Red Fairy Book*, also included a "three heads in the well" episode in the *The Bushy Bride*, set as part of a wider story that also includes a brother, as sourced from Moe. The enchantments to the first girl are great beauty, '[g]old [that ]shall drop from her hair whenever she brushes it' and '[g]old [that] shall drop from her mouth whenever she speaks'; for the other: 'a nose that was four ells long, and a jaw that was three ells, and a fir bush in the middle of her forehead, and every time she spoke ashes should fall from her mouth'.
 
 ```{admonition} "The Bushy Bride", Lang, 1890
 :class: dropdown
@@ -425,9 +425,9 @@ Cockell callest thou it boy, aith Ile give you cockell bread.
 
 ````
 
-In his notes, Jacobs makes reference to a Scottish tale involving a well at the World's End. A tale called "The Well of the World's End", which resembles Grimm's "The Frog Prince", also appears in *English Fairy Tales*, in which a step-daughter is set an impossible task: fetching water from the well with a sieve. A a frog provides advice to daub the sieve with moss in return for a promise to do his bidding for a night. The frog follows the girl home, and her step-mother forces her to do his bidding as promised. At last he tells her to chop of his head; she is unwilling, but as she does so he turns into a Prince.
+In his notes, Jacobs makes reference to a Scottish tale involving a well at the World's End. A tale called "The Well of the World's End", which resembles Grimm's "The Frog Prince", also appears in *English Fairy Tales*, in which a step-daughter is set an impossible task: fetching water from the well with a sieve. A frog provides advice to daub the sieve with moss in return for a promise to do his bidding for a night. The frog follows the girl home, and her step-mother forces her to do his bidding as promised. At last he tells her to chop of his head; she is unwilling, but as she does so he turns into a Prince.
 
-The sieve motif also appears in Asbjornsen & Moe's " (in recent translation, "The Husband's Daughter and the Wife's Daughter"), which also strongly resembles the "Three Heads of the Well", with two step-sister's behaving differently in a series of deeds along a journey, followed by a set of tasks set by a troll woman, which includes fetching water with a sieve. When the troll chases the girl, fortune is duly dealt out based on how the deeds perfromed en route were performed. Grimms' "Frau Holle" also includes two step-sisters completing a set of tasks with some overlap to those in "Husband / Wife Daughters".
+The sieve motif also appears in Asbjornsen & Moe's " (in recent translation, "The Husband's Daughter and the Wife's Daughter"), which also strongly resembles the "Three Heads of the Well", with two step-sister's behaving differently in a series of deeds along a journey, followed by a set of tasks set by a troll woman, which includes fetching water with a sieve. When the troll chases the girl, fortune is duly dealt out based on how the deeds performed en route were performed. Grimms' "Frau Holle" also includes two step-sisters completing a set of tasks with some overlap to those in "Husband / Wife Daughters".
 
 ```{admonition} "The Two Step-sisters", Asbjørnsen & Moe, 1859
 :class: dropdown
