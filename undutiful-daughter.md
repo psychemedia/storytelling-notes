@@ -1,6 +1,6 @@
 # The Undutiful Daughter
 
-Once there was a girl, a pretty little girl, known to all, as "Bonnie Annie"...
+Once there was a girl, a pretty little girl, and she was known, as: "Bonnie Annie"... She grew up to be quite beautiful... and didn't she know it...
 
 
 https://archive.org/details/oldenglishfairyt00bari/page/140/mode/2up
