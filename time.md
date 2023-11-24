@@ -552,4 +552,7 @@ https://www.merriam-webster.com/words-at-play/noon-history-ninth-prayer-hour-non
 It is believed that the time allotted for this prayer gradually moved up earlier in the day, perhaps at the urgency of monks who would could only end their fast after the prayer was completed. That time known as noon eventually settled on the time when the sun was in the middle of the sky.
 
 
-
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18050730/003/0001
+Saint James's Chronicle - Tuesday 30 July 1805
+also:
+A man named David Price was committed to Hereford Gaol on Friday the 26th, for a burglary in the house of Mr. Jones, near that city. The circumstances are rather singular; the family were out, and on Mr. Jones and his wife's return, they missed the former's watch, which hung by the fireside in the parlour. Mrs. Jones's suspicions being awakened, she went up stairs and returned very much alarmed, informing her husband, that a man was concealed in a large chest which stood in the bedroom; they both went gently up stairs, and shutting down the lid, Mr. Jones seated himself on it and kept the fellow secure until his wife alarmed the neighbours, when they took him and lodged him in prison. The fellow had entered by an upper window which was left open. The watch was found on him.
