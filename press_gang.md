@@ -184,3 +184,170 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0000031/18090208/013/0003
 
 Two young men, namced Miller and Brown, who had for some time paid their addresses to a maid-servant in Hatton-garden, London, agreed, with the consent of the fair one, who, it seemed, promised her hand to the victor, to fight for her, and they adjourned to Copenhagen-fields on Friday, to determine the prize. In the interim, notice was sent of their intention to the officer of the tender off the Tower, and towards the close of the battle, when the combatants had severely beaten each other, a press-gang arrived, and carried both the champions off. The fair one has since found consolation for her ioss, in the tender assiduities of a Recruiting Serjeant.
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18050730/003/0001
+Saint James's Chronicle - Tuesday 30 July 1805
+
+A curious circumstance took place at Brighton on Friday last :— A farmer, who rents the race-ground, having explained to the Jockey Club, that last season he had not received the usual compliment of onefourth of a pipe of wine, threatened to plough up the course if he was not paid what he conceived to be his due. Accordingly, on Friday last he set his plough to work; but a press-gang appearing, the ploughmen fled, and resigned the field to the gentlemen of the turf. The farmer, however, says, he will not be jockeyed out of his wine in this manner, and is determined to have another sort of a race for it in Westminster-Hall.
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18060503/020/0004
+Sun (London) - Saturday 03 May 1806
+CAUTION TO PRESS-GANGS.  
+LIVERPOOL QUARTER SESSIONS.  
+THE KING V. CLEMISON, J. SHIBRIDAN, AND P. CONNOR.
+
+This was an Indictment against the three persons above-mentioned, charging them with riotously and forcibly breaking into the dwelling-house of John Harrison, and of violently beating, wounding, and assaulting him in his own premises.
+
+This Cause excited an unusual interest, and must be considered as of peculiar importance to Maritime places, as it involves the question, Whether a Pressgang, in the exercise of their duty, have a legal right to make forcible entry into a dwelling-house for the purpose of discovering concealed Seamen ?
+
+Mr. PARR opened the case on the part of the prosedition. After some prefatory remarks on the important nature of the duty he had undertaken, and the momentous consequences which the decision of this day might eventualiy involve, he declared it as his opinion, that the right of personal liberty was a privilege of such importance, that without it all other rights are nugatory, and all other human enjoyments entirely valueless; not, he said, that false species of liberty which had spread desolation through the fairest provinces of Europe, and seemed to consist in the right of every than, however depraved, to do as he pleased, but that moderate and measured liberty which submits to the restraints of virtue and the laws, and is compatible with the order and welfare of society. In this country, however, this right to personal liberty admitted of several legal infringements, and among the rest was the practice of impressing seamen for His Majesty's Navy. However much, he said, this practice may be deplored, as repugnant to the genuine feeling of liberty, and hostile to the spirit of the British Constitution, it was now become certain, that without it our maritime superiority could not be maintained, and without that, not one of the blessings we at present enjoy could for a moment be secured.
+
+The good of the whole, therefore, clearly demanded a partial sacrifice. But as this practice, (justified by necessity alone) itself is of itself sufficiently ungrateful to the general feeling, particular care should be taken that it may not be aggravated by unnecessary instances of severity or oppression. In the case before the Court, he maintained that the manner in which the undisputed privilege of His Majesty had been exercised, was illegal, oppressive, and cruel ; and he lamented that the forcible entry into the house of the Prosecutor had been made under the authority of the law, as supposed to have been laid down in a late case at the Lancaster Assizes.  Mr. PARR strenuously combated this dotrine, which, he conceived, could not have been rightly understood ; and denied that there ever existed any law, written or unwritten, which would warrant a press-gang, or any other persons whomsoever, to enter, in the night, or the day, with force of arms, into the peaceful habitation. of any of the meanest of His Majesty's subjects, for the purpose of impressing seamen known to be there concealed; much less, as in the present case, on a bare suspicion. He closed his address with a well-grounded hope, that the verdict of the Jury would be such as was consistent with the justice of the case, and finally conducive to promote the best interests of the country
+
+It was then clearly proved by several Witnesses, that on the night stated in the Indictment the Defendants, with some others, came to the house of the above-named John Harrison, in order to search for a Seaman of the name of Bell, whom they supposed to be there concealed. The door being fastened, they demanded entrance, which being refused, they knocked out the windows, got into the house, and abused the occupier, Harrison, in a shameful manner. They found the seaman, who is now on boarda  Ship of War.
+
+The Defendants did not set up any general defence, but Capt. Cumberland was called on the part of the, Defendant Clemison, to whom he gave a most excellent charaater.
+
+The RECORDER, in a very able and impartial manner, then gave his opinion of the law, in which he acceded to the several propositions before stated; and the Jury pronounced a verdict of Guilty agaimst the Defendants.
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0003026/18031119/010/0003
+True Briton - Saturday 19 November 1803
+On the 2nd of August, 1754, about five o'clock in the afternoon, the City of London was greatly alarmed at the sight of two large Birds, which perched themselves on the Cross on the top of St. Paul's Cathedzal ; they were very large, and appeared through a Telescope to be Eagles, though some were of opinion they were Cormorants. However they sat very quietly until a man went up into the gallery and fired a gun at them, on which they flew away. Various were the conjedures of the multitude at this uncommon sight, and some who turn every thing to omens cried, " see, see, how the Spaniards fly away at the firing of a gun—nothing else will bring the Dons to reason." This being observed to have such an effect to draw so numerous a multitude of people together, and the necessities of the State requiring the Fleet to be suddenly manned, the Press-gang placed two live *Turkies* on the top of the Monument, which presently attracted a prodigious number of gazers and a great many useful as well as idle fellows were presently picked Up for the service of the Fleet.
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18080920/010/0003
+Saint James's Chronicle - Tuesday 20 September 1808
+Yesterday, a young man, who was in the service of a Gentleman in Upper Spring-street, New Road, was pressed by a press gang, and taken from his master's house a considerable way down the street. Being alarmed at the sudden change of his situation, he cried out murder, which caused an immense mob to collect. They soon opened the coach, and set the person at liberty; then they attacked the gang, who endeavoured to fly in every direction. Two of them being closely pursued, they took refuge in the shop of Messrs. marshal and Laurence, butchers, in Durweston-street. The mob several times threatened to destroy the house; but a party of the Life Guards came, and escorted the refugees to their guard-house in Marylebone.
+
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002433/18091117/017/0003
+
+The Day - Friday 17 November 1809
+
+THE KING V. ELIZABETH STONEFIELD. The Attorney-General moved the judgment of the court on the defendant, who had been tried on an indictment for enticing a soldier in his Majesty's service to desert. Another count was for *endeavouring* to entice to desert, of which alone she was convicted. It appeared from the affidavits, that on the 4th of February last, the defendant invited this soldier into her house, a public house used for lodgings to sailors, at Liverpool. She asked if he would go to sea, offered him a bounty of 5l. but he refused to go, saying he could not go, for that he was a soldier; he consented, however, to hide himself from his serjeant in a cock-loft with some sailors, who concealed themselves from a press-gang, and where he was afterwards found. It appeared that the defendant wanted this soldier to go to sea, as a substitute for her own son; that she had four sons, all of them at sea in the King's service; that the fifth had been lately impressed, and she wanted his help to carry on her business at this public house in Liverpool; that she is extremely indigent, living partly by the half pay of two of her sons, who had assigned it to her; but she had lost a part of that, on account of, the ship in which one of her sons was, having been wrecked on the Coast of France, where he is now a prisoner.
+
+Mr. *Rein* made an able speech for the defendant, in mitigation of punishment. He spoke of her sex—her age 66—of her extreme indigence— of her affection for the only remaining of her five sons, torn from her bosom in her old age, and recommended her to that mercy which the Court could shew her, consistently with the rules of Justice.
+
+The *Attorney-General* for the prosecution observed, that no advocate could do more than his Learned Friend had done for his client in this case; but it was one in which his public duty called upon him not to relax into a dangerous compassion, for this was a practice which was very injurious to the service; there were no less than fourteen deserters from one regiment, who had gone to sea by this method, by which they got two bounties for one service, and it was impossible to find them. The Court observed, that no discretion was left to the Judges in this case, it depended on the provision of an Act of Parliament, founded upon another statute, both of which needed much amendment. They must either fine the defendant 40l. or imprison her for any period not more than six, ad not less than three months. To fine this defendant in that sum, would, in effect, be to imprison her for a long period . Indeed, because she would have to remain until the fine be paid, and therfore the sentence of the Court upon her was that she be imprisoned in the common jail at Liverpool for three calendar months, and that she do stand in and upon the pillory for one hour, between the hours of twelve at noon and two in the afternoon, according to the form of the statute in that case. made and provided ; that this be in the market-place of Liverpool,where the offence was committed.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002643/18030422/037/0004
+British Press - Friday 22 April 1803
+NOTE - SEE ABOVE
+*John Holt* was indicted for burglariously breaking into the house of the Duchess Dowager of Chandos, with intent to steal.
+
+Elizabeth Humphries stated, that she was housekeeper to the Duchess Dowager of Chandos, in Grosvenor-square; and that the night on which the prisoner got into the house, she had secured the back-door with a fork, which she had placed over the latch. About four o'clock in the morning she was alarmed by a noise like the cracking of wood, and soon after heard some person coming up stairs. She had placed a bar across her bed-room door, which the prisoner removed, and entered her apartment ; she put the curtains on one side, and saw the prisoner, on which she screamed out " Mr. Burton! Mr. Burton ! (meaning the steward) here is a man." Mr. Burton made the alarm, and the prisoner was taken into custody.
+
+She said he had got into the house by a ladder which led to the back-door where several workmen were employed repairing the premises.
+
+Burton, the house steward, said, he was alarmed by the house-keeper, and ran out into the street, and brought in the watchman. No property was found upon the prisoner, or any thing removed in the house.
+
+The prisoner, in his defence said, that he had been drinking in a public-house, and that a pressgang came in, and to escape being taken by them he ran into the prosecutor's house. Being in liquor he fell asleep, and when he awoke did not know where he was. He denied having any intention to commit a robbery The prisoner's intent to steal not being proved, the Jury pronounced him Not Guilty.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002643/18030315/034/0004
+
+British Press - Tuesday 15 March 1803
+
+On Saturday evening last, a banditti, to the amount of 21, composed of coal-heavers, &c. formed themselves into two parties, with a view to plunder; and under the pretence of being authorised press-gangs, seized between 40 and 50 labourers coming from their pay-tables, in the neighbouthood of Wapping, from whom they extorted about 20l. for their liberation. But in the high career of their success, two real press-gangs coming up, demanded their warrants ; for want of which, every one of those noncommissioned plunderers were sent off to the discharge of more honourable duties in his Majesty's service. Some produced protections, but the regulating captain very justly concluded that nothing could or ought to protect such audacious impostors.
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18040117/020/0004
+Sun (London) - Tuesday 17 January 1804
+
+EDINBURGH, JAN. 12. HIGH COURT OF JUSTICIARY.
+
+TUESDAY came on before this Court, the trial of *John Herdman*, boatman, in the service of the Customs, Leith, accused of murder, or culpable homicde, by striking Peter Geyler, midshipman, on the Impress ServiCe at Leith, on the head with a bludgeon or stick, nn the evening of the 12th of November last, which occasioned his death in three days thereafter.
+
+The Pannel pled Not Guilty.
+
+No objection was made to the relevancy of the libel by the Pannel's Counsel; and the LORD ADVOCATE restricted the charge to culpable homicide only, as he did not think he could make out the crime of Murder, against the Pannel. The usual Interlocutor was then pronounced, restricting the libel to an arbitrary punishment, and remitting the case to a Jury, which was then chosen.
+
+The first Witness called was Mrs. Calderwood, wife of John Calderwood, meal-dealer in Leith, who said, that she remembers her husband being pressed on Saturday the 12th November, and was taken to the rendezvous, where she went, but afterwards returned to lock her shop door; and went to Coming's, where her husband then was , who had been liberated. Mr. Geyler came in, and said he would have her husband yet, and used him very badly. On the Witness remonstrating with Geyler he struck her ; on which the Pannel, who then came in , said it was a shame to use a woman ill. Herdman put out Geyler, and locked the door– The Witness was also locked out, But afterwards admitted into Coming's, wheN the Pannel went away, and she did not see him again that night—Herdman was sober, but Geyler was mortal drunk that night.
+
+John Calderwood said, he never was at sea, but was pressed from his own door on the 12th November, and carried to the rendezvous, but was relieved in a short time—He then went to Cuming's, where Geyler came, and insisted on taking the Witness again to the rendezvous—His wife interfered with Geyler for using him badly, when Geyler struck her. Herdman, who was present, interfered, and said it was shameful to strike a woman, and at last put out Geyler, who continued for some time swearing at the back of the door. About an hour after, the Witness left Cuming's by a back door.—Herdman was sober, but does not think Geyler was so.
+
+John Beatson, midshipman, on the Impress at Leith, remembers Calderwood being impressed, but was not present when any scuffle happened. After Geyler was put out of Cuming's, he said to the Witness, "D——n that wooden-legged b——r, I'll do for him, for interrupting me on my duty." Herdman almost immediately came out, when Geyler repeated his words, and struck Herdman on the head with a stick he had in his hand. The Pannel took the Witness as evidence of his being struck, and said he would haVe satisfaction. The quarrel continued between Geyler and him along the shore, when Mr. Waddell opened his window, and asked " what was the matter ?" Herdman said he had abused by Geyler, an would have satisfaction. Waddell advised him to let the matter rest that night, and have recourse to the Civil Law. Herdman went back to Calderwood's, and the Witness saw Mrs. Calder wood home, and Herdman went back to Coming's with a stick in his hand.
+
+James Thomson, one of the press-gang, said he saw Geyler strike the Pannel qith a stick, and Herdman took him a witness.
+
+George Alexander, another of the press-gang, said, about eleven o'clock he saw Herdman, and spoke to him. Shortly after Geyler came out of the house, when Herdman struck him on the head, and knocked him down.— That the Witness lifted up Geyler, took him home, and his wife dressed his wound— That he went up the shore again, and met Herdman, who asked him to take a glass. They accordingly went into a public house, when the Pannel told him how hw had been used by Geyler striking him on the head, which raised a large lump on it— That he had gone to Mr. Waddell to complain, who advised him to go home ; but he had gone to the watch house, got a stick, and ,having met Geyler near Coming's, had knocked him down.
+
+Mr. Alexander Waddell, Customs, Leith, said, that on the 12th November, the Pannel called at his house about eleven o'clock, much agitated, and said he had been badly used by Geyler— That he had been struck on the head by Geyler with a stick, and wished the Witness to interfere.—That he asked the Pannel the cause of the quarrel, when he told him he had prevented Geyler from using ill a woman of the name of Calder wood, and said he had gone to Cuming's, where Geyler had knocked him down. The witness advised, the Pannel to say no more, but let the Law take its course. The Pannel then went away ; but in a short time the Witness heard a noise in the street, and went to the window, where he saw the Pannel and another man ; when he asked Herdman if that wasthe man who had struck him, Herdman said it was : on which the Witness again advised him to go home, and he would let Captain Nash know the matter in the morning. Next morning he saw the Pannel, who told him he had given Geyler as good a stroke as he had got. The Pannel has been four years in the service. of the Customs ; and he considered him as a sober man, and a steady officer. He had lost his leg at Teneriffe, along with Lord Nelson.
+
+Mr. Charles Anderson, Surgeon in Leith, said, he was called to see Geyler on the 13th November, and found him insensible. He had a wound on the back part of his head, but it was not a large one. He died on the evening of the 14th, when his head was opened.—There was a great effusion of blood under the bone, which he thinks was the occasion of his death, but which had proceeded from the external wound.
+
+Mr. Kellie, surgeon in Leith, concurred with the preceding Witness; but was of opinion, that if the deceased had not been much intoxicated , the wound could not have occasioned his death.
+
+The Pannel's declaration was then read, which closed the evidence on the part of the Crown.
+
+Three Witnesses were examined to the character of the Pannel, who described him as a humane, decent, sober man, and not at all quarrelsome. Two certificates were also read, one from Captain Hutchinson of the Royal Navy, and another from the Physicians at Haslar Hospital, both of which were greatly in favour of the Prisoner.
+
+The LORD ADVOCATE for the Crown, and Mr. F. JEFFREY for the Pannel, each addressed the Jury in very appropriate speeches. —Lord CRAIG, who presided at the Trial, summed up the whole in a candid and humane charge to the Jury. About a quarter after one, the Jury inclosed in the robing room, and in a short time returned a verdict,, all in one voice finding the Pannel *Not Guilty*. The Pannel was then assoilzied *simpliciter*, and dismissed from the bar.
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002644/18080306/039/0008
+National Register (London) - Sunday 06 March 1808
+
+A striking display of omnipotence of love, occurred at the High Church, Hull, a few days ago. A young woman having given her heart to a sailor, who was impressed and carried on board the tender by the interference of her friends, resolved nevertheless to marry the object of her choice : He was accordingly brought on shore, and escorted by the press-gang to the church, from whence, after the marriage ceremony, he was again conveyed in the tender.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001476/18050413/013/0004
+London Courier and Evening Gazette - Saturday 13 April 1805
+
+A whimsical circumstance happened last week off Gravesend. A West Indlaman arrived at that place, and was soon boarded by a press-gang. The crew of the West Indiaman were brought upon deck, and while the Lieutenant was examining them, a health-boat arrived. As no clean bill of health was found on board the West Indiaman, or at least none that was deemed satisfactory, the crew of the West Indiaman, the Lieutenant of the man of war, and all his gang, were ordered to Standgate Creek to perform quarantine for forty days, which they will, no doubt, pass in perfect *harmony* and *good fellowship* with each other.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18070812/012/0003
+Sun (London) - Wednesday 12 August 1807
+AN IMPOSTOR.—An apparent cripple in sailor's garb, who lately craved charity about the neighbourhood of Blackfriars Road, seeing a press-gang approaching to examine whether his *hull* was fit for service, threw away his crutches, and ran off, exclaiming— "They may have my *rotten timbers*, but d——n, &c. if I don't make sail, and find my *sea legs*."
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18061219/016/0003
+Morning Post - Friday 19 December 1806
+In the oourt of King's Bench, Guildhall yesterday, a Mr. Urquart obtained 50l. damages against a Mr. Fair, the Commanding Officer of a press-gang, for an assault, the latter conceiving the former to be a sailor in disguise. Mr. U. was so rudely handled by the gang, that his coat was torn from his back. Several persons saw the transaction aud knowing Mr. Urquart, he was at length released from the gripe of tho press-gang.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/18081203/031/0004
+Northampton Mercury - Saturday 03 December 1808
+
+ANDREW JONES.
+
+"I hate that Andrew Jones: he'll breed  
+"His children to waste and pillage.  
+"I wish the press-gang, or the drum  
+" With its tantara sound would come  
+" And sweep him from the village!"
+
+I said not this, because he loves  
+Through the long day to swear and tipple;  
+But for the poor dear sake one  
+To whom a foul deed he had done,  
+A friendless Man, a travelling Cripple.
+
+For this poor crawling helpless wretch  
+Some Horseman who was passing by  
+A penny on the ground had thrown;  
+But the poor Cripple was alone  
+And could not stoop —no help was nigh.
+
+Inch-thick the dust lay on the ground,  
+For it had loug been droughty weather;  
+So with his staff the Cripple wrought  
+Among the dust till he had brought  
+The halfpennies together.
+
+It chanc'd that Andrew pass'd that way  
+Just at the time; and there he found  
+The Cripple in the mid-day heat  
+Standing alone, and at his feet  
+He saw the penny on the ground.  
+
+He stoop'd and took the penny up:  
+And when the Cripple uearer drew,  
+Quoth Andrew, "Under half-a-crown,  
+"What man finds is all his own,  
+" And so, my friend, good day to you."
+
+And *hence* I said that Andrew's boys  
+Will all train'd to waste and pillage;  
+And wish'd the press-gang, or the drum  
+With its tantara sound, would come  
+And sweep him from the village!
+
