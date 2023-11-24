@@ -32,6 +32,9 @@ parts:
   - file: hand-of-glory
   - file: macpherson
   - file: too_much_time
+- caption: Based On Events
+  chapters:
+  - file: press_gang
 - caption: Additional Storynotes Collections
   chapters:
   - file: elsewhere
