@@ -2,7 +2,7 @@
 
 Whenever I try to find tales of the sea, I struggle somewhat. This is a perfect example of one of the ways I've ended distracting myself with when setting out to find sea stories: a quick pivot instead to look for a nautical account that might lead to a possible story, and then a descent down a rabbit hole / rat hole into something that is only loosely naval. In this case, historical reports relating to *The Press*, aka the press-gang (or pressgang ) and the practice of *impressment*.
 
-Let's start with an example of how appreciated the press-gang weren't (other reports, of similar responses, but at other times and places, are available!):
+Let's start with an example of how appreciated the press-gang weren't:
 
 ```{admonition} *A mob responds*, June 1815
 :class: dropdown
@@ -13,7 +13,21 @@ About six o'clock on Wednesday evening, as the Officers of the Impress at Hull w
 
 ```
 
-But it wasn't just mobs that took up the cause of pressed men, as the following, rather unfortunate, incident, with black huoour potential,  in which a wife harries the press-gang for taking her husband, and with fatal result, dramatically shows,:
+When another mob remonstrated against the press in Bristo, there was a tragic result when a body of marines saw fit to retaliate by firing their weapons:
+
+```{admonition} *A "hot press" and a "justifiable homicide", April, 1803
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000532/18030404/040/0003
+Gloucester Journal - Monday 04 April 1803
+
+A very hot press took place took on Saturday night, at Bristol. The press-gangs were uncommonly numerous, and attended by some of the military. At many of the avenues of that city, parties of the military were stationed, to prevent any escape. Upwards of 200 men were picked up; many of whom, not being seamen, have been discharged.
+
+On Sunday afternoon, as the gang and a party of the marines were conducting some of the pressed men to Lamplightr's-hall, in order to put them on board his Majesty's frigate in King-road, they were violently assaulted in the Hotwell-road by large mob, who, not content with using the most opprobrious and irritating language, pelted them with mud, stones, glass bottles, both whole and broken, as greatly to endanger their lives. The officers, both naval and military, repeatedly conjured the thoughtless multitude to desist and disperse, but without effect ; till at length, the marines, whose extreme forbearance had excited the astonishment and admiration of the spectators, irritated beyond further sufferance, without orders from their commanders, fired, as it were involurtarily, among the crowd, by which one boy was unhappily killed, and two or three other persons wounded. A Coroner’s Jury were convened ; from the strong depositions laid before them the very outrageous conduct of the mob, and particularly the evidence a gentleman who swore that he saw a soldier's hat knocked off his head by stones twice in the space of two minutes, before they fired, they returned the verdict of *Justifiable Homicide*.
+
+The boy who unfortunutely lost his life on this occasion, was a poor helpless lad, labouring not only under great bodily, but mental debility, in consequence of fits; to the attacks of which in the streets, he was so subject,that at the instant he fell, the neighbouring inhabitants, accustomed to see him in those paroxysms disease, concluded he was then labouring under one them, till they saw the blood gushing from the wound. The other persons who were wounded, we are rejoiced state, are in a fair way of recover.
+```
+
+But it wasn't just mobs that took up the cause of pressed men, as the following, rather unfortunate, incident, with black humour potential,  in which a wife harries the press-gang for taking her husband, and with fatal result, dramatically shows,:
 
 ```{admonition} *A dreadful affray*, May, 1803
 :class: dropdown
