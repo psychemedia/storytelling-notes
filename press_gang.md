@@ -13,7 +13,7 @@ About six o'clock on Wednesday evening, as the Officers of the Impress at Hull w
 
 ```
 
-When another mob remonstrated against the press in Bristo, there was a tragic result when a body of marines saw fit to retaliate by firing their weapons:
+When another mob remonstrated against the press in Bristol, there was a tragic result when a body of marines saw fit to retaliate by firing their weapons:
 
 ```{admonition} *A "hot press" and a "justifiable homicide", April, 1803
 :class: dropdown
@@ -81,6 +81,18 @@ POLICE. MANSION-HOUSE. Thursday four Master tradesmen waited upon the Lord Mayor
 The Lord Mayor answered, that he should be always ready to protect the liberties of the city of London, and commended the Gentlemen for their exertions upon the present occcasion.
 ```
 
+
+TO DO
+
+--
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001475/18010725/008/0002
+London Courier and Evening Gazette - Saturday 25 July 1801
+Mansion. Hocss. Application having been made to the Lord Mayor, in consequence of a number of sailors having deserted from His Majesty’s service, and taken refuge in the City, press warrants were granted on Thursday night last to apprehend all sailors who might found in the City. Two or three press-gangs, assisted some City officers, searched several public-houses, where they found about twenty seamen who were lodged for the night in the different compters, and yesterday morning they were brought before the Lord Mayer, when sixteen of them were found to be press-able, and were sent on board the tender opposite the Tower. The officers made heavy complaints against the mistress of a public house, who had resisted their authority, and obtained a summons against her.
+
+On Thursday evening a press gang, consisting of about fourteen persons, having received information of a number of sailors who lately belonged to the Company’s ships, being secreted in some public houses in Leadenhall-street, proceeded thither, properly armed, with an intention to impress them, and take them on board the tender. The sailors, however, having intimation of their approach, instantly collected together and resisted the gang. *A general engagement* immediately ensued, and the sailors, after a difficult scuffle, proved victorious, and obliged the press gang to relinquish their purpose. Several, we are sorry to hear, were wounded on both sides, and a number of windows were broken during the affray.
+
+--
+
 Geography also appears to have played a role in denying the activities of the press in the following case, although whether it is to be believed may be another matter!
 
 ```{admonition} *Island privileges*, April, 1803
@@ -91,9 +103,9 @@ British Press - Tuesday 12 April 1803
 The *Journal of Commerce* contains a letter from Jersey, speaking of some disturbances, originating from the pressing of some sailors, contrary to the established privileges of the island. It is stated that the boat belonging to the press-gang was seized by the inhabitants, and carried ashore, and that a confidential officer was dispatched to London, to remonstrate on the subject. We are not inciined to give any credit to this statement. 
 ```
 
-Sometimes, however, the threat of impressment might seem to be considered a useful situation to be in!
+Sometimes, however, the threat of impressment might seem to be considered a useful situation to be in, as the following two reports of the same affair demonstrate:
 
-```{admonition} *Felonious and burglarious intent: not?*, April, 1803
+```{admonition} *Felonious and burglarious intent?!*, April, 1803
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000175/18030422/009/0003
 Morning Post - Friday 22 April 1803
@@ -105,7 +117,23 @@ The Butler and Housekeeper proved the prisoner's being found in the house.
 The prisoner in his defence stated, that he had run in there, finding a door open, in order to avoid a press-gang.- Verdict— *Not Guilty*.
 ```
 
-And finally, two reports of the same affair, once again involving the law...
+```{admonition} *Being in liquor*, April, 1803
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002643/18030422/037/0004
+British Press - Friday 22 April 1803
+
+*John Holt* was indicted for burglariously breaking into the house of the Duchess Dowager of Chandos, with intent to steal.
+
+Elizabeth Humphries stated, that she was housekeeper to the Duchess Dowager of Chandos, in Grosvenor-square; and that the night on which the prisoner got into the house, she had secured the back-door with a fork, which she had placed over the latch. About four o'clock in the morning she was alarmed by a noise like the cracking of wood, and soon after heard some person coming up stairs. She had placed a bar across her bed-room door, which the prisoner removed, and entered her apartment ; she put the curtains on one side, and saw the prisoner, on which she screamed out " Mr. Burton! Mr. Burton ! (meaning the steward) here is a man." Mr. Burton made the alarm, and the prisoner was taken into custody.
+
+She said he had got into the house by a ladder which led to the back-door where several workmen were employed repairing the premises.
+
+Burton, the house steward, said, he was alarmed by the house-keeper, and ran out into the street, and brought in the watchman. No property was found upon the prisoner, or any thing removed in the house.
+
+The prisoner, in his defence said, that he had been drinking in a public-house, and that a pressgang came in, and to escape being taken by them he ran into the prosecutor's house. Being in liquor he fell asleep, and when he awoke did not know where he was. He denied having any intention to commit a robbery The prisoner's intent to steal not being proved, the Jury pronounced him Not Guilty.
+```
+
+And another affair involving the law, again described in two different reports:
 
 ```{admonition} *May it please the ruffians*, April, 1803
 :class: dropdown
@@ -114,9 +142,9 @@ Hull Packet - Tuesday 26 April 1803
 
 PRESS-GANGS.
 
-The scandalous outrages that have been committed by Press-Gangs, call for the immediate interference of the Board ot Admiralty. Custom and State necessity authorise the practice of impressing seamen; buc it never was intended, that persons not accustomed to a sea-faring life, and pursuing useful industry, should be deprived of their liberty, dragged like felons through the streets, beat and cut with hangers, and put on board a tender, merely becuase it pleased a set of ruffians, called a Press-Gang.
+The scandalous outrages that have been committed by Press-Gangs, call for the immediate interference of the Board of Admiralty. Custom and State necessity authorise the practice of impressing seamen; buc it never was intended, that persons not accustomed to a sea-faring life, and pursuing useful industry, should be deprived of their liberty, dragged like felons through the streets, beat and cut with hangers, and put on board a tender, merely becuase it pleased a set of ruffians, called a Press-Gang.
 
-At Union-Hall, on Friday, William Wortley deposed, that on the preceding morning, about eleven o'clock, as he was going up Tooler-street, where he had been in the discharge of his duty, he saw several persons standing near the corner of the Bridge-yard, who, from their appearance, he took to be a press-gang. Seeing they had stopped a man, whom he heard them ask for his protection, he stopped for a minute, to see how it would end. A man of the gang came to him; and said, "What business have you here ?" The witness replied, "I certainly have as much right here as you." He was then asked, " If he had, ever been at sea ?" He replied he had been two or three times to Gravesend, for pleasure, but no further. Just upon this, the prisoner in custody, who acted as the officer of the gang, consisting of nine men, came up, and ther man, who had been speakiog to the witness, said, "Here is a volunteer." This Wortley denied, telling him he was a police-officer. This did not satisfy the other; for he seized him bythe collar, and said, "you are a volunteer, and shall go along with us." The witness then putting his hand to his coat pocket to pull out his book, and produce his warrants of appointment, one as a police-offiqer, and the other on the impress service; the prisoner, without further cerenony, pulled his cutlass from under his, coat, and gave Wortley so severe a cut on the head, through his hat, that he had nearly bled to death before the wound was dressed. Before he became quite insensible, he requested that he might be taken to some neighbouring surgeon's, to have his wound dressed ; but this was refused. The men then under the direction of the prisoner, dragged him to Mill Stairs, laid him in their boat, (for he could not sit up) and took him on board the tender, where the surgeon dressed his wound. Several persons deposed to the same effect.
+At Union-Hall, on Friday, William Wortley deposed, that on the preceding morning, about eleven o'clock, as he was going up Tooley-street, where he had been in the discharge of his duty, he saw several persons standing near the corner of the Bridge-yard, who, from their appearance, he took to be a press-gang. Seeing they had stopped a man, whom he heard them ask for his protection, he stopped for a minute, to see how it would end. A man of the gang came to him; and said, "What business have you here ?" The witness replied, "I certainly have as much right here as you." He was then asked, " If he had, ever been at sea ?" He replied he had been two or three times to Gravesend, for pleasure, but no further. Just upon this, the prisoner in custody, who acted as the officer of the gang, consisting of nine men, came up, and ther man, who had been speakiog to the witness, said, "Here is a volunteer." This Wortley denied, telling him he was a police-officer. This did not satisfy the other; for he seized him bythe collar, and said, "you are a volunteer, and shall go along with us." The witness then putting his hand to his coat pocket to pull out his book, and produce his warrants of appointment, one as a police-offiqer, and the other on the impress service; the prisoner, without further cerenony, pulled his cutlass from under his, coat, and gave Wortley so severe a cut on the head, through his hat, that he had nearly bled to death before the wound was dressed. Before he became quite insensible, he requested that he might be taken to some neighbouring surgeon's, to have his wound dressed ; but this was refused. The men then under the direction of the prisoner, dragged him to Mill Stairs, laid him in their boat, (for he could not sit up) and took him on board the tender, where the surgeon dressed his wound. Several persons deposed to the same effect.
 
 The prisoner is a press-master, who is employed under the Lieutenant who has the charge of the impress fervice, but had not any warrant.
 
@@ -148,6 +176,10 @@ The Magistrates, conceiving there was sufficient evidence before them, fully com
 
 ```
 
+It seems to be not uncommon for the owners of public houses to protect their establishments from the press gang, as this prosecution against a press-gang entering one such hostelry demonstrates:
+
+```{admonition} *An obstinate landlady*, July, 1803
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002428/18010727/026/0003
 Oracle and the Daily Advertiser - Monday 27 July 1801
 
@@ -155,8 +187,13 @@ The Master of the Swan Public-house, opposite the India-House, appeared to a sum
 
 A Constable said, that on accompanying a pressgang to the house, he observed there a number of sailors and some women, seemingly prepared to resist their authority, and that, on account of the obstinacy of the Landlady, they were unable to secure any of the seamen.
 
-The Landlord stated, that having ocasion to rise early the next morning, he went to bed by ten o'clock on Thursday night, soon after which he was disturbed by his daughter coming to inform him that a press-gang had come into the house. He could not believe, her, as he had never before known such a circumstance. On his coming down he found a number of people in his tap-room, and his wife told him she had received a cut on-the arm, and was otherwise much hurt, by a number of people who were strangers to her. He saw a pistol thrust through the windoW, and threats were uttered by the people against any who should oppose them. He then ordered the door to he opened, and demanded to see the warrant, which being shown to him, he told the people they might search where they pleased, adding, that be had no lodgers, and that if the persons in the tap-room had arms, as the Lieutenant had insinuated, it was a circumstance unknown to him. After this statement, the LORD MAYOR dismissed the complaint. 
+The Landlord stated, that having ocasion to rise early the next morning, he went to bed by ten o'clock on Thursday night, soon after which he was disturbed by his daughter coming to inform him that a press-gang had come into the house. He could not believe, her, as he had never before known such a circumstance. On his coming down he found a number of people in his tap-room, and his wife told him she had received a cut on-the arm, and was otherwise much hurt, by a number of people who were strangers to her. He saw a pistol thrust through the window, and threats were uttered by the people against any who should oppose them. He then ordered the door to he opened, and demanded to see the warrant, which being shown to him, he told the people they might search where they pleased, adding, that he had no lodgers, and that if the persons in the tap-room had arms, as the Lieutenant had insinuated, it was a circumstance unknown to him. After this statement, the LORD MAYOR dismissed the complaint.
+```
 
+The following example, in which someone who had tipped off the authorities about a smuggler ended up be tipped off to the press-gang as a way of exacting revenge:
+
+```{admonition} *A wanton abuse of power*, March, 1805
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002430/18050329/016/0003
 Oracle and the Daily Advertiser - Friday 29 March 1805
 
@@ -164,7 +201,7 @@ SUSSEX ASSIZES. HORSHAM; TUESDAY, MARCH 26, THE KING V. SPRY AND OTHERS.
 
 This was an Indictment against Mr. Spry, a Lieutenant of the Navy, and the Impress Officer at Little Hampton, Duke a seaman, and Wm. Meetin, a farmer, for a riot, assault, and false imprisonment, in pressing two persons from Storrington who were not liable to the Impress Service.
 
-Mr. 'Serjeant SHEPPARD called the particular attention of the Jury to the circumstances of this case, inasmuch, as it involved the most serious consequences to the liberty of all persons in the same class of life with the persons whom he then represented. The Defendant, Spry, was an Officer of the Impress Service, and the case he had to lay before them was that of a wanton abuse of the power which had been intrusted to him for the good and service of his country, into an engine of private revenge and oppression. The poor man who now stood as one of the Prosecutors of this cause, for another of them was dead, both labouring men in husbandry, and one of them Sowten, it was supposed, had given information against some smugglers, particularly against a man of the name of Serle, and in revenge they had caused him to be impressed, although there was no pretence for doing it, according to the laws of the Impress Service, than there was for impressing any man then in Court. He was sorry to add, that from circumstances it appeared, that Lieutenant Spry knew he was aiding in the gratification of this private malice, and not in the fair execution of his duty. For it would be in evidence, that after the pressgang had broken into the poor man's cottage, and carried him and his son away, the Lieutenant was applied to, and told, that the persons he had taken had never been to sea in their lives. But he refused to release them, and directed them to be sent to Portsmouth. It would be proved too, that he said to one of them, that it was as much a theft to take Master Serle's tubs as to steal a sheep from the field, and that the impressed man had been *peeling* against Serle, and was a man of bad character. The Learned Serjeant then animadverted upon the equal security which the law afforded to the lowest as well as to the highest. It threw a hedge and a wall round the poor man's hut, which it was as criminal to destroy or breakthrough without a legal cause, as violating the security of the proudest mansion. The cottager might sleep as safely upon his pallet of straw, as the Peer upon his bed of down. The latch of the cottage door must no more be lifted up hostilely, than the folding doors Of the Palace be rudely burst open. The law resented the violation of both in one equal degree. He paid many encomiums on the naval character, and although his instructions had obliged him to state these charges against a gentleman of that profession, he declared it would give him the greatest pleasure to hear them disproved.
+Mr. Serjeant SHEPPARD called the particular attention of the Jury to the circumstances of this case, inasmuch, as it involved the most serious consequences to the liberty of all persons in the same class of life with the persons whom he then represented. The Defendant, Spry, was an Officer of the Impress Service, and the case he had to lay before them was that of a wanton abuse of the power which had been intrusted to him for the good and service of his country, into an engine of private revenge and oppression. The poor man who now stood as one of the Prosecutors of this cause, for another of them was dead, both labouring men in husbandry, and one of them Sowten, it was supposed, had given information against some smugglers, particularly against a man of the name of Serle, and in revenge they had caused him to be impressed, although there was no pretence for doing it, according to the laws of the Impress Service, than there was for impressing any man then in Court. He was sorry to add, that from circumstances it appeared, that Lieutenant Spry knew he was aiding in the gratification of this private malice, and not in the fair execution of his duty. For it would be in evidence, that after the pressgang had broken into the poor man's cottage, and carried him and his son away, the Lieutenant was applied to, and told, that the persons he had taken had never been to sea in their lives. But he refused to release them, and directed them to be sent to Portsmouth. It would be proved too, that he said to one of them, that it was as much a theft to take Master Serle's tubs as to steal a sheep from the field, and that the impressed man had been *peeling* against Serle, and was a man of bad character. The Learned Serjeant then animadverted upon the equal security which the law afforded to the lowest as well as to the highest. It threw a hedge and a wall round the poor man's hut, which it was as criminal to destroy or breakthrough without a legal cause, as violating the security of the proudest mansion. The cottager might sleep as safely upon his pallet of straw, as the Peer upon his bed of down. The latch of the cottage door must no more be lifted up hostilely, than the folding doors Of the Palace be rudely burst open. The law resented the violation of both in one equal degree. He paid many encomiums on the naval character, and although his instructions had obliged him to state these charges against a gentleman of that profession, he declared it would give him the greatest pleasure to hear them disproved.
 
 *Mary Sentor* stated, that she was the widow of Senter, and that she had a son by a former marriage, of the name of John Mawley. They lived all together on Storrington Common. On the 27th of February last her husband had gone to bed at eight o'clock, when their cottage was surrounded by eight or ten people, who burst into it. They dragged her son, Mawley, from the chimney corner and handcuffed him. Two of them then went up stairs and brought down her husband, one of them dragged him down by the legs, and another by the hair of his head, and then they handcuffed him also. She saw the prisoner Duke, there, and W. Meetings was another of them. There was also amongst them a man of the name of Trevott, who was not in Court. They dragged her husband down without his clothes, but upon his entreaty they allowed him to dress himself before they handcuffed him. She went to the door, and there stood another man, who told her he was the master of the people in the house, and that he had a pistol, and would shoot her if she made a noise; they next compelled her husband and son to go with them. The next day she heard by a letter where her husband was; she immediately set out to Little Hampton, and found him at the rendezvous house a prisoner, and he was sent from thence to Portsmouth, and did not return for a fortnight and three days. He was then very ill, and she fetched him home from a cart. He died in six days after he got home. She added, he had not been at work for three weeks before he was impressed, having met an accident by having been crushed on the side by a waggon.
 
@@ -173,22 +210,48 @@ Mr. 'Serjeant SHEPPARD called the particular attention of the Jury to the circum
 Mr. Serjeant SHEPPEILD commented with great force on this evidence, in his reply: and, after a very minute summing up, the Jury found all the Defendant's *guilty*— finding the Lieutenant guilty of the false imprisonment, and not of the assault.
 
 The Judge immediately pronounced sentence, which was a fine of £5O on Lieutenant Spry— three months imprisonment on Duke — and twelve months imprisonment, and a fine of £1OO on Meeton.
+```
 
+It would be interesting to know, in the following case, whether the beggar vagrant pressed into service continued his profession when on board ship:
 
+```{admonition} *A false prophet?!*, February, 1809
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000990/18090218/011/0002
 Oxford University and City Herald - Saturday 18 February 1809
+
 A sturdy, ragged vagrant, with a venerable full grown beard, lately made his appearance at Lynn in Norfolk. He soon attracted the notice of press-gang, who by a few general questions, discovered that he was, by profession a *prophet*, and had practised ten years. He declared that the war would continue three years longer, and then terminate disastrously. The naval officer doubted the truth of his inspiration, and *pressed* him so strongly to visit a small vessel lying off the coast, that he, at length, reluctantly consented.
+```
 
+In the following case, two suitors for one fair both seem to have lost out when they battled over her affections:
 
+```{admonition} *Two lovers pressed together?!*, February, 1809
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000031/18090208/013/0003
+Aberdeen Press and Journal - Wednesday 08 February 1809
 
 Two young men, namced Miller and Brown, who had for some time paid their addresses to a maid-servant in Hatton-garden, London, agreed, with the consent of the fair one, who, it seemed, promised her hand to the victor, to fight for her, and they adjourned to Copenhagen-fields on Friday, to determine the prize. In the interim, notice was sent of their intention to the officer of the tender off the Tower, and towards the close of the battle, when the combatants had severely beaten each other, a press-gang arrived, and carried both the champions off. The fair one has since found consolation for her ioss, in the tender assiduities of a Recruiting Serjeant.
+```
 
+A few years earlier, a prize fight ended up with the press-gang being the winners:
+
+```{admonition} *A prize fight delivers*, August, 1801
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000682/18010808/013/0003
+Royal Cornwall Gazette - Saturday 08 August 1801
+Thursday morning a pitched battle was fought in field, at the back of the London Infirmary, Whitechapel, between Edwards, a sawyer, and Johnston, a journeyman wheelwright, for five guineas a side. The contest was put an end to by the arrival a press-gang and several constables, who soon dispersed the mob, secured both the combatants with their seconds, and fifteen stout young men, whom they conveyed on board the tender.
+```
+
+I'm not sure if we are to take from the following the idea that the press-gang could also be used as "encouragement" for other means?!
+
+```{admonition} *A curious circumstance*, July, 1805
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18050730/003/0001
 Saint James's Chronicle - Tuesday 30 July 1805
 
 A curious circumstance took place at Brighton on Friday last :— A farmer, who rents the race-ground, having explained to the Jockey Club, that last season he had not received the usual compliment of onefourth of a pipe of wine, threatened to plough up the course if he was not paid what he conceived to be his due. Accordingly, on Friday last he set his plough to work; but a press-gang appearing, the ploughmen fled, and resigned the field to the gentlemen of the turf. The farmer, however, says, he will not be jockeyed out of his wine in this manner, and is determined to have another sort of a race for it in Westminster-Hall.
 
+```
+
+TO DO
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18060503/020/0004
 Sun (London) - Saturday 03 May 1806
@@ -200,21 +263,40 @@ This was an Indictment against the three persons above-mentioned, charging them 
 
 This Cause excited an unusual interest, and must be considered as of peculiar importance to Maritime places, as it involves the question, Whether a Pressgang, in the exercise of their duty, have a legal right to make forcible entry into a dwelling-house for the purpose of discovering concealed Seamen ?
 
-Mr. PARR opened the case on the part of the prosedition. After some prefatory remarks on the important nature of the duty he had undertaken, and the momentous consequences which the decision of this day might eventualiy involve, he declared it as his opinion, that the right of personal liberty was a privilege of such importance, that without it all other rights are nugatory, and all other human enjoyments entirely valueless; not, he said, that false species of liberty which had spread desolation through the fairest provinces of Europe, and seemed to consist in the right of every than, however depraved, to do as he pleased, but that moderate and measured liberty which submits to the restraints of virtue and the laws, and is compatible with the order and welfare of society. In this country, however, this right to personal liberty admitted of several legal infringements, and among the rest was the practice of impressing seamen for His Majesty's Navy. However much, he said, this practice may be deplored, as repugnant to the genuine feeling of liberty, and hostile to the spirit of the British Constitution, it was now become certain, that without it our maritime superiority could not be maintained, and without that, not one of the blessings we at present enjoy could for a moment be secured.
+Mr. PARR opened the case on the part of the prosedition. After some prefatory remarks on the important nature of the duty he had undertaken, and the momentous consequences which the decision of this day might eventually involve, he declared it as his opinion, that the right of personal liberty was a privilege of such importance, that without it all other rights are nugatory, and all other human enjoyments entirely valueless; not, he said, that false species of liberty which had spread desolation through the fairest provinces of Europe, and seemed to consist in the right of every than, however depraved, to do as he pleased, but that moderate and measured liberty which submits to the restraints of virtue and the laws, and is compatible with the order and welfare of society. In this country, however, this right to personal liberty admitted of several legal infringements, and among the rest was the practice of impressing seamen for His Majesty's Navy. However much, he said, this practice may be deplored, as repugnant to the genuine feeling of liberty, and hostile to the spirit of the British Constitution, it was now become certain, that without it our maritime superiority could not be maintained, and without that, not one of the blessings we at present enjoy could for a moment be secured.
 
-The good of the whole, therefore, clearly demanded a partial sacrifice. But as this practice, (justified by necessity alone) itself is of itself sufficiently ungrateful to the general feeling, particular care should be taken that it may not be aggravated by unnecessary instances of severity or oppression. In the case before the Court, he maintained that the manner in which the undisputed privilege of His Majesty had been exercised, was illegal, oppressive, and cruel ; and he lamented that the forcible entry into the house of the Prosecutor had been made under the authority of the law, as supposed to have been laid down in a late case at the Lancaster Assizes.  Mr. PARR strenuously combated this dotrine, which, he conceived, could not have been rightly understood ; and denied that there ever existed any law, written or unwritten, which would warrant a press-gang, or any other persons whomsoever, to enter, in the night, or the day, with force of arms, into the peaceful habitation. of any of the meanest of His Majesty's subjects, for the purpose of impressing seamen known to be there concealed; much less, as in the present case, on a bare suspicion. He closed his address with a well-grounded hope, that the verdict of the Jury would be such as was consistent with the justice of the case, and finally conducive to promote the best interests of the country
+The good of the whole, therefore, clearly demanded a partial sacrifice. But as this practice, (justified by necessity alone) itself is of itself sufficiently ungrateful to the general feeling, particular care should be taken that it may not be aggravated by unnecessary instances of severity or oppression. In the case before the Court, he maintained that the manner in which the undisputed privilege of His Majesty had been exercised, was illegal, oppressive, and cruel ; and he lamented that the forcible entry into the house of the Prosecutor had been made under the authority of the law, as supposed to have been laid down in a late case at the Lancaster Assizes.  Mr. PARR strenuously combated this doctrine, which, he conceived, could not have been rightly understood ; and denied that there ever existed any law, written or unwritten, which would warrant a press-gang, or any other persons whomsoever, to enter, in the night, or the day, with force of arms, into the peaceful habitation. of any of the meanest of His Majesty's subjects, for the purpose of impressing seamen known to be there concealed; much less, as in the present case, on a bare suspicion. He closed his address with a well-grounded hope, that the verdict of the Jury would be such as was consistent with the justice of the case, and finally conducive to promote the best interests of the country
 
-It was then clearly proved by several Witnesses, that on the night stated in the Indictment the Defendants, with some others, came to the house of the above-named John Harrison, in order to search for a Seaman of the name of Bell, whom they supposed to be there concealed. The door being fastened, they demanded entrance, which being refused, they knocked out the windows, got into the house, and abused the occupier, Harrison, in a shameful manner. They found the seaman, who is now on boarda  Ship of War.
+It was then clearly proved by several Witnesses, that on the night stated in the Indictment the Defendants, with some others, came to the house of the above-named John Harrison, in order to search for a Seaman of the name of Bell, whom they supposed to be there concealed. The door being fastened, they demanded entrance, which being refused, they knocked out the windows, got into the house, and abused the occupier, Harrison, in a shameful manner. They found the seaman, who is now on board a Ship of War.
 
-The Defendants did not set up any general defence, but Capt. Cumberland was called on the part of the, Defendant Clemison, to whom he gave a most excellent charaater.
+The Defendants did not set up any general defence, but Capt. Cumberland was called on the part of the, Defendant Clemison, to whom he gave a most excellent character.
 
-The RECORDER, in a very able and impartial manner, then gave his opinion of the law, in which he acceded to the several propositions before stated; and the Jury pronounced a verdict of Guilty agaimst the Defendants.
+The RECORDER, in a very able and impartial manner, then gave his opinion of the law, in which he acceded to the several propositions before stated; and the Jury pronounced a verdict of Guilty against the Defendants.
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0003026/18031119/010/0003
 True Briton - Saturday 19 November 1803
-On the 2nd of August, 1754, about five o'clock in the afternoon, the City of London was greatly alarmed at the sight of two large Birds, which perched themselves on the Cross on the top of St. Paul's Cathedzal ; they were very large, and appeared through a Telescope to be Eagles, though some were of opinion they were Cormorants. However they sat very quietly until a man went up into the gallery and fired a gun at them, on which they flew away. Various were the conjedures of the multitude at this uncommon sight, and some who turn every thing to omens cried, " see, see, how the Spaniards fly away at the firing of a gun—nothing else will bring the Dons to reason." This being observed to have such an effect to draw so numerous a multitude of people together, and the necessities of the State requiring the Fleet to be suddenly manned, the Press-gang placed two live *Turkies* on the top of the Monument, which presently attracted a prodigious number of gazers and a great many useful as well as idle fellows were presently picked Up for the service of the Fleet.
+On the 2nd of August, 1754, about five o'clock in the afternoon, the City of London was greatly alarmed at the sight of two large Birds, which perched themselves on the Cross on the top of St. Paul's Cathedral ; they were very large, and appeared through a Telescope to be Eagles, though some were of opinion they were Cormorants. However they sat very quietly until a man went up into the gallery and fired a gun at them, on which they flew away. Various were the conjectures of the multitude at this uncommon sight, and some who turn every thing to omens cried, " see, see, how the Spaniards fly away at the firing of a gun—nothing else will bring the Dons to reason." This being observed to have such an effect to draw so numerous a multitude of people together, and the necessities of the State requiring the Fleet to be suddenly manned, the Press-gang placed two live *Turkies* on the top of the Monument, which presently attracted a prodigious number of gazers and a great many useful as well as idle fellows were presently picked Up for the service of the Fleet.
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002429/18030505/014/0003
+Oracle and the Daily Advertiser - Thursday 05 May 1803
+COURT OF KING'S BENCH, MAY 4. THE KING V. THE MAYOR OF PORTSMOUTH. Mr. GARROW moved for leave to file a criminal information against the Defendant, on the following grounds, which were stated by affidavits. A press-gang belonging to the ship Russell, lying in Portsmouth harbour, went to Gosport on the impress service. Under pretence of discharging their duty, they committed several assaults and enormities. A female (on whose part the present motion was made) had been most severely and brutally beaten and kicked by the Officers leading the.gang. She was knocked down, and her arm was broken. An enormity of this nature appeared to the Magistrate of Gosport in such a light, that they thought it proper to grant warrants against the offenders, who afterwards retired on board their ship within the jurisdiction of the Mayor of Portsmouth, who was repeatedly and formally required to back the warrant, but positively refused so to-do. For this criminal dereliction of his duty, the information was now moved. He hoped that the Mayor would be able to justify himself, and shew sufficient cause against the Rule he trusted the Court would grant him ; but he was convinced that it would never be endured in this country— a country where the subjects are better protected by the law than any other on the face of the Globe, that any body of men, under colour of the impress service, should break the peace, and commit outrages of this nature, or that Magistrates should in such a case, be allowed with impunity to refuse their protection, or their assistance, to those of His Majesty's subjects who claimed it. Rule *nisi* granted. 
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18030509/011/0004
+Hampshire Chronicle - Monday 09 May 1803
+COURT OF KING'S BENCH, May 4.
+Mr. Garrow moved for leave to file criminal information against a magistrate, for a criminal refusal to do his duty. The person against whom he moved, was a person of good character, and he hoped would able to give a satisfactory answer to the charge he now made against him. He was mayor of great maritime town, in which a press-gang, headed by an officer and a midshipman, of His Majesty's ship Russel had committed gross assault on the person of a woman. They not only knocked her down, but beat her, kicked her, and broke her arm. Complaint was made of this fact before Mr. Bingham, a magistrate of Gosport, who granted his warrant to apprehend the offenders; but as they were on board the ship, without the jurisdiction of Portsmouth, it was necessary the warrant should backed by the mayor. The constable accordingly applied him for this purpose; but he refused to do it, alleging that the woman, on whose complaint the warrant was granted, was of bad character. The constable went a second time, and made a formal demand of having his warrant, but was again refused.
+
+*Lord Ellenborugh* asked whether it was proved to the mayor that the warrant was signed by Mr. Bingham, and that the offenders had escaped within his jurisdiction. Both these points being answered in the affirmative, a Rule Nisi was granted.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002643/18030420/018/0003
+British Press - Wednesday 20 April 1803
+A fatal occurrence took place on Monday last at Gravesend. As a press-gang, headed by a naval officer, was attempting to press some men, an obstinate conflict took place, by which two men were killed. On the same day another press-gang entered the house of Mr. Phillips, of the Plough and Harrow, at Gravel-hill, Greenhithe, when, with the most horrid imprecations, they insisted on searching every room in the house. On his resisting their attempts, a scuffle ensued. Phillips knocked three of the men down, hangers were drawn, the landlord was overpowered ; two of his maid servants being greatly alarmed about the safety of their master, going out of the house to call for assistance, were knocked down by two of the press-gang, who at length decamped, but left Mr. Phillips in a doubtful state.
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18030603/005/0004
+Sun (London) - Friday 03 June 1803
+Plymouth, June 1— Last night the Impress for Seamen was very hot, and late in the evening a large mob, consisting chiefly of women,collected round the Press-gangs at the Barbican, when one of the Marines very imprudently discharged his pistol among them, and killed Gilbert Rekestrew, the Master of one of the Fishing Smacks at this Port (who was leaning over the rails of the Barbican), on the spot, the ball having entered his heart. He has left a wife and live small children. The Jury are now sitting on the body.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18080920/010/0003
 Saint James's Chronicle - Tuesday 20 September 1808
@@ -230,34 +312,38 @@ THE KING V. ELIZABETH STONEFIELD. The Attorney-General moved the judgment of the
 
 Mr. *Rein* made an able speech for the defendant, in mitigation of punishment. He spoke of her sex—her age 66—of her extreme indigence— of her affection for the only remaining of her five sons, torn from her bosom in her old age, and recommended her to that mercy which the Court could shew her, consistently with the rules of Justice.
 
-The *Attorney-General* for the prosecution observed, that no advocate could do more than his Learned Friend had done for his client in this case; but it was one in which his public duty called upon him not to relax into a dangerous compassion, for this was a practice which was very injurious to the service; there were no less than fourteen deserters from one regiment, who had gone to sea by this method, by which they got two bounties for one service, and it was impossible to find them. The Court observed, that no discretion was left to the Judges in this case, it depended on the provision of an Act of Parliament, founded upon another statute, both of which needed much amendment. They must either fine the defendant 40l. or imprison her for any period not more than six, ad not less than three months. To fine this defendant in that sum, would, in effect, be to imprison her for a long period . Indeed, because she would have to remain until the fine be paid, and therfore the sentence of the Court upon her was that she be imprisoned in the common jail at Liverpool for three calendar months, and that she do stand in and upon the pillory for one hour, between the hours of twelve at noon and two in the afternoon, according to the form of the statute in that case. made and provided ; that this be in the market-place of Liverpool,where the offence was committed.
+The *Attorney-General* for the prosecution observed, that no advocate could do more than his Learned Friend had done for his client in this case; but it was one in which his public duty called upon him not to relax into a dangerous compassion, for this was a practice which was very injurious to the service; there were no less than fourteen deserters from one regiment, who had gone to sea by this method, by which they got two bounties for one service, and it was impossible to find them. The Court observed, that no discretion was left to the Judges in this case, it depended on the provision of an Act of Parliament, founded upon another statute, both of which needed much amendment. They must either fine the defendant 40l. or imprison her for any period not more than six, ad not less than three months. To fine this defendant in that sum, would, in effect, be to imprison her for a long period . Indeed, because she would have to remain until the fine be paid, and therefore the sentence of the Court upon her was that she be imprisoned in the common jail at Liverpool for three calendar months, and that she do stand in and upon the pillory for one hour, between the hours of twelve at noon and two in the afternoon, according to the form of the statute in that case. made and provided ; that this be in the market-place of Liverpool,where the offence was committed.
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002643/18030422/037/0004
-British Press - Friday 22 April 1803
-NOTE - SEE ABOVE
-*John Holt* was indicted for burglariously breaking into the house of the Duchess Dowager of Chandos, with intent to steal.
-
-Elizabeth Humphries stated, that she was housekeeper to the Duchess Dowager of Chandos, in Grosvenor-square; and that the night on which the prisoner got into the house, she had secured the back-door with a fork, which she had placed over the latch. About four o'clock in the morning she was alarmed by a noise like the cracking of wood, and soon after heard some person coming up stairs. She had placed a bar across her bed-room door, which the prisoner removed, and entered her apartment ; she put the curtains on one side, and saw the prisoner, on which she screamed out " Mr. Burton! Mr. Burton ! (meaning the steward) here is a man." Mr. Burton made the alarm, and the prisoner was taken into custody.
-
-She said he had got into the house by a ladder which led to the back-door where several workmen were employed repairing the premises.
-
-Burton, the house steward, said, he was alarmed by the house-keeper, and ran out into the street, and brought in the watchman. No property was found upon the prisoner, or any thing removed in the house.
-
-The prisoner, in his defence said, that he had been drinking in a public-house, and that a pressgang came in, and to escape being taken by them he ran into the prosecutor's house. Being in liquor he fell asleep, and when he awoke did not know where he was. He denied having any intention to commit a robbery The prisoner's intent to steal not being proved, the Jury pronounced him Not Guilty.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002643/18030315/034/0004
 
 British Press - Tuesday 15 March 1803
 
-On Saturday evening last, a banditti, to the amount of 21, composed of coal-heavers, &c. formed themselves into two parties, with a view to plunder; and under the pretence of being authorised press-gangs, seized between 40 and 50 labourers coming from their pay-tables, in the neighbouthood of Wapping, from whom they extorted about 20l. for their liberation. But in the high career of their success, two real press-gangs coming up, demanded their warrants ; for want of which, every one of those noncommissioned plunderers were sent off to the discharge of more honourable duties in his Majesty's service. Some produced protections, but the regulating captain very justly concluded that nothing could or ought to protect such audacious impostors.
+On Saturday evening last, a banditti, to the amount of 21, composed of coal-heavers, &c. formed themselves into two parties, with a view to plunder; and under the pretence of being authorised press-gangs, seized between 40 and 50 labourers coming from their pay-tables, in the neighbourhood of Wapping, from whom they extorted about 20l. for their liberation. But in the high career of their success, two real press-gangs coming up, demanded their warrants ; for want of which, every one of those noncommissioned plunderers were sent off to the discharge of more honourable duties in his Majesty's service. Some produced protections, but the regulating captain very justly concluded that nothing could or ought to protect such audacious impostors.
 
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000156/18011216/012/0004
+Bury and Norwich Post - Wednesday 16 December 1801
+The character of Zanga, in the Revenge, at present sustained by Kemble, was the part in which Mossop shone. As the latter was dressing once for the character, three bailiffs, having iearnt that he expected a box from England with stage properties, gained admittance to him, disguised as *sailors*, came to inform him of the arrival of the box. On acquainting himself with their *real character*, Mossop said, " Well, Gentlemen, I confess you have outacted me— however, sit down till I have white-washed my face, and I'll attend you—though I suppose you will have no objection to my sending for a friend to settle the matter.— The bailiffs acquiesced ; when Mossop dispatched his servant with a line to a Lieutenant of the press-gang in the neighbourhood of the Theatre. The gang returned with the servant, and carried the disguised gen-try instantly on board the tender ; nor were they released, until one of the Sheriffs of Dublin went the next day on board the ship personally to demand them.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001409/18010731/018/0003
+Kentish Weekly Post or Canterbury Journal - Friday 31 July 1801
+The city shopmen are now *blanching* their *black tan*, lest the press-gangs should take them up, in mistake for *loblolly* boys —as to *nankeen trousers*, they are quite exploded behind the counters.
+
+https://en.wikipedia.org/wiki/Loblolly_boy
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000156/18010902/002/0001
+Bury and Norwich Post - Wednesday 02 September 1801
+During the festivity which prevailed at Peckham fair, on Monday afternoon, a press-gang found means to assemble there, for the purpose of impressing three men, and as they came in two coaches, remained undiscovered for sometime, until they laid violent hands on their objects. The alarm being instantly given, the scenes of merriment gave way to those of a very serious aspect : a general battle took place, which created an uproar for half an hour, when the gang was glad to retreat, after being very severely beaten.
+
+Almost all the hands have been impressed out of the Honourable East India Company's ships, by his Majesty's Officers on the Downs station; which circumstance will probably retard the dispatch of those ships.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18040117/020/0004
 Sun (London) - Tuesday 17 January 1804
 
 EDINBURGH, JAN. 12. HIGH COURT OF JUSTICIARY.
 
-TUESDAY came on before this Court, the trial of *John Herdman*, boatman, in the service of the Customs, Leith, accused of murder, or culpable homicde, by striking Peter Geyler, midshipman, on the Impress ServiCe at Leith, on the head with a bludgeon or stick, nn the evening of the 12th of November last, which occasioned his death in three days thereafter.
+TUESDAY came on before this Court, the trial of *John Herdman*, boatman, in the service of the Customs, Leith, accused of murder, or culpable homicide, by striking Peter Geyler, midshipman, on the Impress ServiCe at Leith, on the head with a bludgeon or stick, nn the evening of the 12th of November last, which occasioned his death in three days thereafter.
 
 The Pannel pled Not Guilty.
 
@@ -269,9 +355,9 @@ John Calderwood said, he never was at sea, but was pressed from his own door on 
 
 John Beatson, midshipman, on the Impress at Leith, remembers Calderwood being impressed, but was not present when any scuffle happened. After Geyler was put out of Cuming's, he said to the Witness, "D——n that wooden-legged b——r, I'll do for him, for interrupting me on my duty." Herdman almost immediately came out, when Geyler repeated his words, and struck Herdman on the head with a stick he had in his hand. The Pannel took the Witness as evidence of his being struck, and said he would haVe satisfaction. The quarrel continued between Geyler and him along the shore, when Mr. Waddell opened his window, and asked " what was the matter ?" Herdman said he had abused by Geyler, an would have satisfaction. Waddell advised him to let the matter rest that night, and have recourse to the Civil Law. Herdman went back to Calderwood's, and the Witness saw Mrs. Calder wood home, and Herdman went back to Coming's with a stick in his hand.
 
-James Thomson, one of the press-gang, said he saw Geyler strike the Pannel qith a stick, and Herdman took him a witness.
+James Thomson, one of the press-gang, said he saw Geyler strike the Pannel with a stick, and Herdman took him a witness.
 
-George Alexander, another of the press-gang, said, about eleven o'clock he saw Herdman, and spoke to him. Shortly after Geyler came out of the house, when Herdman struck him on the head, and knocked him down.— That the Witness lifted up Geyler, took him home, and his wife dressed his wound— That he went up the shore again, and met Herdman, who asked him to take a glass. They accordingly went into a public house, when the Pannel told him how hw had been used by Geyler striking him on the head, which raised a large lump on it— That he had gone to Mr. Waddell to complain, who advised him to go home ; but he had gone to the watch house, got a stick, and ,having met Geyler near Coming's, had knocked him down.
+George Alexander, another of the press-gang, said, about eleven o'clock he saw Herdman, and spoke to him. Shortly after Geyler came out of the house, when Herdman struck him on the head, and knocked him down.— That the Witness lifted up Geyler, took him home, and his wife dressed his wound— That he went up the shore again, and met Herdman, who asked him to take a glass. They accordingly went into a public house, when the Pannel told him how he had been used by Geyler striking him on the head, which raised a large lump on it— That he had gone to Mr. Waddell to complain, who advised him to go home ; but he had gone to the watch house, got a stick, and ,having met Geyler near Coming's, had knocked him down.
 
 Mr. Alexander Waddell, Customs, Leith, said, that on the 12th November, the Pannel called at his house about eleven o'clock, much agitated, and said he had been badly used by Geyler— That he had been struck on the head by Geyler with a stick, and wished the Witness to interfere.—That he asked the Pannel the cause of the quarrel, when he told him he had prevented Geyler from using ill a woman of the name of Calder wood, and said he had gone to Cuming's, where Geyler had knocked him down. The witness advised, the Pannel to say no more, but let the Law take its course. The Pannel then went away ; but in a short time the Witness heard a noise in the street, and went to the window, where he saw the Pannel and another man ; when he asked Herdman if that wasthe man who had struck him, Herdman said it was : on which the Witness again advised him to go home, and he would let Captain Nash know the matter in the morning. Next morning he saw the Pannel, who told him he had given Geyler as good a stroke as he had got. The Pannel has been four years in the service. of the Customs ; and he considered him as a sober man, and a steady officer. He had lost his leg at Teneriffe, along with Lord Nelson.
 
@@ -286,6 +372,23 @@ Three Witnesses were examined to the character of the Pannel, who described him 
 The LORD ADVOCATE for the Crown, and Mr. F. JEFFREY for the Pannel, each addressed the Jury in very appropriate speeches. —Lord CRAIG, who presided at the Trial, summed up the whole in a candid and humane charge to the Jury. About a quarter after one, the Jury inclosed in the robing room, and in a short time returned a verdict,, all in one voice finding the Pannel *Not Guilty*. The Pannel was then assoilzied *simpliciter*, and dismissed from the bar.
 
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001427/18231225/015/0003
+Morning Advertiser - Thursday 25 December 1823
+PROWESS OF IRISHMEN AS BOXERS. (From the Dublin Morning Post.) The only Irishman have upon record who retained the pugilistic Championship of England for length of time, was the renowned Peter Corcoran. He was a hero of the first milling class from the year to 1776; during which period he won several battles; and amongst other feats of strength performed by Peter, he thumped a whole Pressgang at Portsmouth; and (by way of climax to his exertions) he broke the Lieutenant's sword over his head. ...
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002586/18010727/017/0004
+Porcupine - Monday 27 July 1801
+On Saturday night a press-gang pursued a seafaring man in Tooley-street, who, to avoid them, ran into a boat and rowed himself to St. Catharine's, and left the boat to drift, which appearing to belong to his own father, he hired another boat recover it, being the only means of subsistence for an aged parent, when he was again assailed by a fresh gang on the water, to whom he related his case, and added, that if he was suffered to secure his father's boat, he would, upon the word of an honest seaman, return to them. They permitted him to proceed ; after which he honourably performed his promise, and was then indulged with leave of absence, to enjoy the company of his friends.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000171/18030507/017/0003
+Lancaster Gazette - Saturday 07 May 1803
+A few days ago, a man belonging to a brig lying in the river at Chester, endeavouring to from a press-gang, threw himself into the water, whence he was rescued ; but on being conveyed to the infirmary, languished a few hours and died.
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002586/18010403/019/0004
+Porcupine - Friday 03 April 1801
+On Wednesday se'nnight, the press-gang, on boarding a vessel in the Humber, found a poor boy on board, nearly exhausted with hunger and the most cruel treatment. He was immediately taken on shore, and examined at the Town-hall; when such a scene of villainy and barbarity on the part the master of the vessel was developed, as was almost beyond conception. It appears the inhuman wretch had taken him as apprentice only a short time ago, and with him had received a premium of twelve guineas from the overseers of a parish, in the South. The boy was taken under the care of the Governors of the Workhouse, and every attention paid to him which humanity can suggest. We understand the master is confined in the House of Correction, and that the Magistrates are determined to prosecute him with the utmost rigour of the law.
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002644/18080306/039/0008
 National Register (London) - Sunday 06 March 1808
 
@@ -294,7 +397,7 @@ A striking display of omnipotence of love, occurred at the High Church, Hull, a 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001476/18050413/013/0004
 London Courier and Evening Gazette - Saturday 13 April 1805
 
-A whimsical circumstance happened last week off Gravesend. A West Indlaman arrived at that place, and was soon boarded by a press-gang. The crew of the West Indiaman were brought upon deck, and while the Lieutenant was examining them, a health-boat arrived. As no clean bill of health was found on board the West Indiaman, or at least none that was deemed satisfactory, the crew of the West Indiaman, the Lieutenant of the man of war, and all his gang, were ordered to Standgate Creek to perform quarantine for forty days, which they will, no doubt, pass in perfect *harmony* and *good fellowship* with each other.
+A whimsical circumstance happened last week off Gravesend. A West Indiaman arrived at that place, and was soon boarded by a press-gang. The crew of the West Indiaman were brought upon deck, and while the Lieutenant was examining them, a health-boat arrived. As no clean bill of health was found on board the West Indiaman, or at least none that was deemed satisfactory, the crew of the West Indiaman, the Lieutenant of the man of war, and all his gang, were ordered to Standgate Creek to perform quarantine for forty days, which they will, no doubt, pass in perfect *harmony* and *good fellowship* with each other.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18070812/012/0003
 Sun (London) - Wednesday 12 August 1807
@@ -302,7 +405,12 @@ AN IMPOSTOR.—An apparent cripple in sailor's garb, who lately craved charity a
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18061219/016/0003
 Morning Post - Friday 19 December 1806
-In the oourt of King's Bench, Guildhall yesterday, a Mr. Urquart obtained 50l. damages against a Mr. Fair, the Commanding Officer of a press-gang, for an assault, the latter conceiving the former to be a sailor in disguise. Mr. U. was so rudely handled by the gang, that his coat was torn from his back. Several persons saw the transaction aud knowing Mr. Urquart, he was at length released from the gripe of tho press-gang.
+In the Court of King's Bench, Guildhall yesterday, a Mr. Urquart obtained 50l. damages against a Mr. Fair, the Commanding Officer of a press-gang, for an assault, the latter conceiving the former to be a sailor in disguise. Mr. U. was so rudely handled by the gang, that his coat was torn from his back. Several persons saw the transaction and knowing Mr. Urquart, he was at length released from the gripe of the press-gang.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002428/18010727/031/0003
+Oracle and the Daily Advertiser - Monday 27 July 1801
+The Lord-Mayor, &c. at the request of Government, consented to permit, for one month, a press of seamen within the City, but under inspection of the Peace-Officers. Upwards of 1500 sailors have been since pressed. A combat took place on Saturday in Leadenhall-street, between some sailors belonging to East-India ships, and a press-gang. The sailors, by putting the press-gang to flight, proved how well they be qualified to fight the French.
+
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/18081203/031/0004
 Northampton Mercury - Saturday 03 December 1808
@@ -340,7 +448,7 @@ Standing alone, and at his feet
 He saw the penny on the ground.  
 
 He stoop'd and took the penny up:  
-And when the Cripple uearer drew,  
+And when the Cripple nearer drew,  
 Quoth Andrew, "Under half-a-crown,  
 "What man finds is all his own,  
 " And so, my friend, good day to you."
@@ -351,3 +459,95 @@ And wish'd the press-gang, or the drum
 With its tantara sound, would come  
 And sweep him from the village!
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000287/18951221/008/0003
+Shields Daily Gazette - Saturday 21 December 1895
+
+THE PRESS-GANG SHIELDS.
+
+No man born on Tyneside in the first half of the century can fail to find flickering up at times among the memories of his early childhood, the sweet reminiscences of the lullaby with which every mother sang her little one to sleep. The quaint old air had attached to it but a few poor lines, but their sentiment was burned, by tragic experience, into the heart every woman will sang them :
+
+" Where hez t' been, maa canny hinny,  
+Where hez t' been, maa winsome man,  
+Aw's been ti th' nor'ard, cruisin' back an' for'urd,  
+Aw's been ti' th' nor'ard, cruisin' sair an' lang,  
+Aw's been ti' th' nor'ard, cruisin' back an for'ard.  
+But daurna' come ashore for Bover an' his gang.'
+
+"Cruisn sair an' lang" and "daurna come ashore," so it was with the "bold British tar," the " heart of oak." the " brave sailor boy," about whom patriotic sea-song writers weaving their tissue of tawdry, boastful falsehoods. Brave, reckless, fearless, and manly he was truly, but one harrassing anxiety beset him on all hands by day and night, and made him as made the hardiest his comrades when at sea, cast wistful glances round the horizon or when ashore slink and crouch under cover like hunted slave. Never Sallee Rover nor Levantine pirate inspired in the heart of the merchant sailor the dread and detestation that seized upon him when one of his Majesty's ships hove in sight. No storm that fittered the foreshore with the chafed and splintered fragments of broken wrecks checked the heart-beat of sailor's wife with sudden a chill as the
+APPARITION OF THE PROWLING PRESS-GANG.  
+It was no fear of danger or of death that made the sprightly Shields' tar turn with disgust from the thought of serving his king and country —unbounded proof that lay on every hand—but the knowledge that every element appealing to the instincts of a brave and free man must be outraged the moment he put his foot on the deck of a British man-o'-war. The merchant service brought him as much, perhaps more danger, perhaps greater risk of violent death. It was a hard, cruel life, but at all events left him at the end ot each voyage a free man, with some the privileges of an Englishman. In thee navy, as he knew it, the short story was one of bondage, of harsh intolerance, of mutilation, and, not seldom, of a convict's death. The flogging was incessant, and of inconceivable severity. Lashes were given by hundreds, and often enough for lapses of ridiculous triviality. " I have seen, " says old Shields salt, "a man tied up to the gang way and  
+FLOGGED FOR SPITTING ON DECK,  
+flogged for neglecting to salute a middy, flogged because a hammock did not look white on a deck chair, flogged because the captain had drunk too much wine," —and it was no fancy flogging, the boatswain's mate being threatened by the ruffian in command that he should himself be flogged if he did not flog to the pitch his utmost strength. But it is doubtful whether the frenzy of detestation which possessed every English merchant sailor for the navy could have existed, but for the despicable institution known to him as "The Press." The warships that cruised round the British coasts to protect them were regarded as the worst enemy known to the people of the Tyne. Hovering about in the vicinity of the harbour mouth, they pounced upon the poor little merchant vessel heading up for the port, after an absence possibly two or three years, and overhauling her, took on forced service the pick of her crew, leaving not infrequently a number insufficient to safely navigate her into port. Not only home-faring vessels but ships at the moment of sailing on a long voyage had their "hands " taken by any navy captain chancing upon them. Resistance being out of the question, the men made  
+EXTRAORDINARY EFFORTS TO AVOID CAPTURE  
+by hiding in remote out of the way holes and lurking in places contrived by arrangement with the captain and owner. Too often, however, such stratagems failed and poor fellows were ferreted out like escaped felons by the press-officers. Jack's case was even worse on shore, for here the greater brutality of the press-gang awaited him. Slinking from his ship if he could while she was yet in the offing, he would land at some unfrequented part of the coast and get inland to hide, often to tracked and run to earth by the wretched spies and informers who, to earn the blood money paid them by the naval authorities, resorted to the basest and most cowardly artifices. Escaping detection, perhaps, he would presently be tempted by the prospect of meeting wife, children, and friends, or be driven by the necessity of again taking ship, to face the risks of going into the town, where at every step in the " narrow street" he was menaced with capture and personal violence at the hands of the gangs of blackguards, and under circumstances  
+REVOLTING HUMILIATION AND DEGRADATION  
+haled of to one off the jetties by the river and thrown into a boat to be conveyed to the tender. Down in " Peggy's Hole," just inside the harbour mouth, lay at all times a tender, one being relieved by another as the cargo of captives was gradually accumulated. Once on board, a word of indignant remonstrance or expostulation exposed the hapless wretches to the chances of being loaded with irons or even chained down to the deck, and finally encountering that *ultima ratio regium* the "cat.''" Kept for an indefinite time below decks in the hold of the vessel, amid foul stench, darkness, and discomfort, the miserable beings at times took heart to rise upon their sentinels, or, greatly daring, proceeded to the extreme course of capturing the vessel from their custodians when at sea, and running her into port somewhere whence they could make a dash for freedom. On March 3rd, 1771, the impressed men board the Boscawen, cutter, at Shields, overpowered the watch and fifteen of them got clear off. February 12th, 1777, the impressed men on board the union tender at Shields rose upon crew and took possession of the ship, and notwithstanding the fire from Clifford's fort and the other tenders  
+CARRIED HER OUT TO SEA.  
+False " protections " could be purchased, which (if they passed muster with the keen and suspicious press officers) might enable Jack to possess his soul in peace. Nor must he blamed if he availed himself of the use of such fraudulent scrip, for the "protections " issued by the Admiralty were more detestably false than his, as many a poor fellow who had honourably gained, won, or bought one, found to his cost. When " men were wanted, and men must be had," the Admiralty took the short course of what was euphemistically called " suspending " the protections they themselves had issued. Surrounded by treachery such as this, Jack took sanctuary with the fierce ship carpenters, who were the particular dread of the press-gangs, who hung back as they saw them escort the hunted seamen to and from the docks. When convoy of this sort was not to be had, stratagem was resorted to, and many are the stories of  
+THE TRICKS PLAYED BY JACK  
+and his always sympathising towns-fellows in Shields. On one such occasion, a sailor named Bell was impressed, and safely lodged in the house of rendezvous. In the evening his sister, a young woman under twenty, resolved to attempt his rescue, and to that end went to take a " long farewell" of her brother, who was to be sent off to the tender in the morning. She was readily admitted to an interview, but, in order to prevent any possibility of an escape, brother and sister were bolted and barred in a room by themselves for a few minutes. During this short interval, they managed to change clothes and on the door opened, the young man, apparently snivelling, and wiping his eye, walked off unmolested in female attire, while his sister remained to face the consequences. The heroine, who was soon restored to liberty by order of the magistrates, received several pounds from the crowd of people who went to see her, as a reward for her intrepidity and affection.  
+COOL AUDACITY SOMETIMES SERVED  
+to rid a sailor of the consequences of being pressed, or saved him from capture. A sharp old South Shields " salt" on being impressed and taken on board the tender ran up against the lieutenant on deck and instantly begged pardon. "He couldn't help it, he was so short-sighted." As a consequence he was ordered over the ship's side and got off. A smart young sailor sauntering one day "along the banks" was seized by the chief of one of the press-gangs who pointing pistol at his head pressed him in the king's name. " I have a protection " said the sailor putting his hand into the breast his jacket. " Let me see it then," demanded the other. Now you thief, —the first to h————" retorted Jack, as he drew a pistol and pushed the muzzle of into the face his discomfited captor, who was thus obliged to relinquish his prize. The dark story of the press-gang on Tyneside in the early eighteens finds its fitting culmination in the crowning shame of  
+JOHN BABBINGTON STODART'S DELIBERATE MURDER  
+by the instruments of a British Government. A bright smart young sailor, a favourite with his captain, the well-beloved of a widowed mother, sisters and aunt, this poor boy's untoward career and ultimate fate is an epitome of the chicanery, outrage and ruffianism with which the best of England's sailors were only too familiar. After being pressed again and again —the last time on January 27th, 1804 —and buying with his hard-won earnings a discharge from the noble lords, arrived in the Tyne in April 1804 and, it being Sunday, straightway proceeded to Newcastle to see his mother and sisters. Dining on board ship he was watched by the press-gang who on his landing instantly gave chase. Hunted along the quay and seeing no other possibilities of escape from his old enemies he jumped into the Tyne and struck out for the opposite shore. Infuriated at the prospect of losing their victim the ruffians threatened to fire upon anyone who attempted to go to the swimmer's assistance. When he had neared the opposite shore he was shot in the head by one of the gang. The bloody business brought in its track no retribution. The poor ill-starred lad who had paid for his "clearance", who had not even been recaptured and broken arrest, was done to death in the face of English people in an English town on the day consecrated to God's service, and his murderers left unmolested to sneer at the execrations of the excited "rabble."— From "The Maister," by George H. Haswell.
+
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000472/18630918/003/0001
+Greenock Telegraph and Clyde Shipping Gazette - Friday 18 September 1863
+PRESS GANG IN GREENOCK
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002659/18741003/043/0004
+Stirling Observer - Saturday 03 October 1874
+
+A TALE OF THE PRESS GANG
+
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000101/18910906/012/0002
+Reynolds's Newspaper - Sunday 06 September 1891
+THE PRESS GANG
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/18620415/004/0002
+Kentish Gazette - Tuesday 15 April 1862
+CAUGHT BY THE PRESS GANG. LIEUT. WARNEFORD, R.N.
+
+Tom Potts, when I knew him, not so many years since, a pensioner of Greenwich Hospital, used to spin the following curious yarn to whoever would moisten his clay whilst paying it out. Like most garrulous story-tellers, Potts was distressingly discursive; it will be well, therefore, to eptomise, and tell it mainly in the third instead of the first person.
+
+Potts was dubious as to his place of birth—Devonshire he had no doubt, and somewhere he believed between Exeter and Plymouth. But. if his place birth was obstinately mute to his advent upon earth, he himself knew perfectly well, that, at about eight years of age, he was a small orphan boy in the service of a Mr. Jobson, pork butcher, of Plymouth. Passing on till he had obtained his twentieth year, we find Tom factotum in his master's much improved business, and moreover growing favour with Jemima, Jobson's only daughter and heiress. This favourable disposition on the damsel's part dated, I understood, for a considerable time subsequent to the hasty departure of a much older aprentice— one Philip Jenkens by name, who having been detected in some misconduct was kicked or otherwise forcibly expelled the house by Jobson; and being a tall, likely lad, with other resource, enlisted in the marines, and was not heard of again at Plymouth for many a year. It was all happily settled at last between Tom Potts and Jemima, with old Jobson's hearty approval. The young couple were to be regularly spliced at church on the Monday, after which " Potts, late Jobson." was inscribed in gold letters over the shop. On the day previous, he, seated by the side of the lovely Jemima, made one of a large family-friends' dinner-party specially invited to celebrate the double event to come off on the morrow —the retirement from business of Jobson, and the union of Jemima Jobson with his successor. Mr. Potts.
+
+Dinner over, the flowing bowl went swiftly round—so swiftly , that Tom, after couple or hours consumed at the pleasant pastime, bethought him that a stroll upon the quay might cool his cranium and render his articulation less thick and uncertain. Apologising, therefore, for a short absence Tom left the gay company, and, as the father of mischief would have it, hitched down from the pegs as he passed through the passage a rough pea-overcoat and shiny hat — the properties of one the guests, a seaman distantly related to the Jobsons— put them on and sallied forth.
+
+He had taken but a few turns on the quay, and feeling considerably qualmish, wisely resplved to get back home as speedily as might be. He taken but a few uncertain steps homewards, when there came tumbling along a party of rough, rollicking, devil-may-care sailors. Precisely how the thing was done, with what expletives, potts had but a hazy recollection; but the fact was indiputable  that he was bundled into a man-o'-war's boat lying at the quay steps, and carried off, spite of kicking and screaming, on board the Serpent sloop of war, lying in the Sound, which at once brought her anchor home, filled, and spread her white wings for the southern hemisphere, with important admiralty despatches.
+
+"It were no manner of use to tell them thunderin' varmints when I came to," said Potts, "that I was a respectable master tradesman going to be married the very next day. I might as well have sung psalms to a dead horse. The villains only laughed at me, and a bosan's mate threatened to give me something to howl for, if I didn't hold my stupid old-woman's jaw. The first luff was civiller, and kindly observed that, if what I said was correct, I should most likely obtain a discharge from the service when the " Serpent" returned to England, which might be in about three or four years, more or less.
+
+"There never was such a dismal go," continued Potts, " but blubbering wouldn't brighten it, so, being always of a cheerful. happy-go-lucky turn of mind, I thought it best to grin and bear it, hoping, of course, that something would turn up an' Jemima prove constant and kind. Well, something did turn up, that's certain—and on the very day we»k that I was to have been married too —which was an infernal turn-up with a forty gun French frigate. The " Serpent" only mounted 20 barkers. The very first broadside knocked me over, and being carried below, the surgeon said my right leg was smashed bad, most likely by a chain shot, that he must whip it off at once—which was done. It makes me hot now to think of it, particularly the first dressing afterwards.
+
+" When was able to talk and be spoke to, I asked how the fight had ended, and was told that it might have gone hard with the "Serpent" had not the "Menelaus" frigate, Captain Sir Peter Parker, hove in sight, when the Frenchman sheered off.
+
+"'Your are on board the 'Menelaus' now,' said the marine, who. somehow, I seemed to know; ' you are on board the "Menclaus" now. and will be sent on shore at Malta directly the frigate gets there, with me and other wounded men.'
+
+"The marine had his left arm in a sling. It had been broken by a musket ball, in a brush with boats, not very long before he told me.
+
+" ' You don't remember me. Potts,' said he presently. ' I do you, well, much as you've grown. How's old Jobson and Jemima ?'
+
+"'Why, it's Phil Jenkins!' said I, springing up in my berth as well I could.
+
+"' Right, my boy; and no malice! Why should there be ? '
+
+"Now, I had always disliked—I may say, hated—Jenkins, knowing him to be the artfullest, most circumventing beggar that ever breathed. He was uncommon kind to me, both on board and when we were in hospital at Malta; but for a long time, I was afraid to trust him—the more so, as he was always slyly pumping me about the Jobsons —of Jemima in particular, whom, from something I had said when first under the doctor's hands and light-headed, fancied I had actually married just afore I was kidnapped. I let him think so, though I saw he had some doubts upon the subject from my fighting shy of it. I got a surgeon's assistant to write a letter for me to Jemima, telling her the sad misfortune I had met with, and hoping to see her soon. An answer came, saying she was true blue, and would be my wife as willingly as if I had still both my precious legs. She hoped I should soon be in old England, as she felt shocking lonely, her father having fallen off a ladder, and so hurt himself the that he was quite imbecile, though harmless, and otherwise in good health. Didn't Phil Jenkins try all know'd to get a sight of that letter! Finding it was no go with me, the artful vermint managed to worm all about it out of the assistant-surgeon, when, of course, it was no use to keep up the deceit any longer.
+
+"Well, to cut the story short, two or three days the latter was gone, Phil Jenkins comes into the ward, bright and shining, to say his discharge, which I knew he had lodged the money for long before, was come, and that he should embark for England that very day.
+
+"' I shall not be going into Devonshire,' says he, ' for some months to come, if ever, or I'd take a message for Jemima—to Miss Jobson, I mean.' He shook hands, and away he went.
+
+" My leg healed slowly. It had required to be broken and re-set, but was perfectly cured at last; and with a joyful heart —(my discharge from the service, into I which had been entrapped in such a rascally way, having also come)—I set sail for England about two months after Philip Jenkins.
+
+"It was late evening—Saturday evening, when I reached Plymouth. The shop was being closed; but I could see Jemima through the inner window sitting by the parlour fire alone. In I goes—claws huld of and kisses her like mad— she screeching ten thousand murders, and bawling ' Philip! Philip! Here's that Tom Potts come to life again!' In rushes Philip; floors me ; then picks me up with the help of one of the men, who hustles me into the street!'
+
+Jenkins had written from Malta, as from the surgeon of the hospital, stating, that Tom wound having mortified, death had ensued in a few hours. He soon after confirmed the melancholy tidings in person. As Jemima felt "shocking lonely "—particularly since poor Pott's death, and moreover in pressing need of a man to manage the business, she was easily persuaded to marry her old acquaintance, out of hand; and the serio-comic farce of "Treachery Triumphant " was played out.
+
+Rage and disappointment threw Potts into a dangerous as fever, from which he did not thoroughly recover for many months. But though reduced to sad straits, bandied about as an unattached pauper from parish to parish, he persistently refused accept any dole from Jenkins or his wife—finally settling down in Greenwich Hospital his admission whereto was not effected without much difficulty. generally wound up his yarn with some doggerel lines, fiercely vituperative of the iniquitous pressing system, illustrating his own experience—which would, however, scarcely repay quotation. —*St. James' Magazine.*
