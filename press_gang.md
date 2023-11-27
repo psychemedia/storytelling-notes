@@ -1,6 +1,6 @@
 # Tales of the Press Gang
 
-Whenever I try to find tales of the sea, I struggle somewhat. This is a perfect example of one of the ways I've ended distracting myself with when setting out to find sea stories: a quick pivot instead to look for a nautical account that might lead to a possible story, and then a descent down a rabbit hole / rat hole into something that is only loosely naval. In this case, historical reports relating to *The Press*, aka the press-gang (or pressgang ) and the practice of *impressment*.
+Whenever I try to find tales of the sea, I struggle somewhat. This is a perfect example of one of the ways I've ended distracting myself with when setting out to find sea stories: a quick pivot instead to look for a nautical account that might lead to a possible story, and then a descent down a rabbit hole / rat hole into something that is only loosely naval. In this case, historical newspaper reports relating to *The Press*, aka the press-gang (or pressgang ) and the practice of *impressment*.
 
 Let's start with an example of how appreciated the press-gang weren't:
 
@@ -117,8 +117,7 @@ About ten o'clock at night, Mr. Lancells, who is grocer and tallow chandler, was
 
 ```
 
-
-When a member of the Colunteers was pressed in Chester, the rest of his company took unkindly to it, and saw to take matters for releasing him into their own hands:
+When a member of the Volunteers was pressed in Chester, the rest of his company took unkindly to it, and saw to take matters for releasing him into their own hands:
 
 ```{admonition} *On pressing a member of the Volunteers*, January, 1804
 :class: dropdown
@@ -175,7 +174,7 @@ To ease the serious apprehensions and fears expressed bv Mr. Cobbett on this poi
 It was not our intention to say any thing on this unpleasant subject, until the result of the inquiry by the officers of the corps had been made public, had we not been imperiously called upon by the gross misrepresentations of Mr. Cobbett, and his insidious remarks, tending in alarming degree to promote a jealousy between the volunteers of the kingdom and the troops of the line: In this, however, we sincerely hope and trust, the design will be frustrated.
 ```
 
-On occasionm it seems that personal contacts could also be used to gain release from the press, as is demonstrated in this example involving several young apprentices:
+On occasion, it seems that personal contacts could also be used to gain release from the press, as is demonstrated in this example involving several young apprentices:
 
 ```{admonition} *The Lord Mayor of London intervenes*, April 1803
 :class: dropdown
@@ -204,7 +203,7 @@ Oracle and the Daily Advertiser - Monday 27 July 1801
 The Lord-Mayor, &c. at the request of Government, consented to permit, for one month, a press of seamen within the City, but under inspection of the Peace-Officers. Upwards of 1500 sailors have been since pressed. A combat took place on Saturday in Leadenhall-street, between some sailors belonging to East-India ships, and a press-gang. The sailors, by putting the press-gang to flight, proved how well they be qualified to fight the French.
 ```
 
-In Portsmouth, it seems that the mayor shirked his repsonsibility in chastising the press on at least one occasion:
+In Portsmouth, it seems that the mayor shirked his responsibility in chastising the press on at least one occasion:
 
 ```{admonition} *Dereliction of Mayoral duty*, May, 1803
 :class: dropdown
@@ -320,7 +319,7 @@ A Constable said, that on accompanying a pressgang to the house, he observed the
 The Landlord stated, that having ocasion to rise early the next morning, he went to bed by ten o'clock on Thursday night, soon after which he was disturbed by his daughter coming to inform him that a press-gang had come into the house. He could not believe, her, as he had never before known such a circumstance. On his coming down he found a number of people in his tap-room, and his wife told him she had received a cut on-the arm, and was otherwise much hurt, by a number of people who were strangers to her. He saw a pistol thrust through the window, and threats were uttered by the people against any who should oppose them. He then ordered the door to he opened, and demanded to see the warrant, which being shown to him, he told the people they might search where they pleased, adding, that he had no lodgers, and that if the persons in the tap-room had arms, as the Lieutenant had insinuated, it was a circumstance unknown to him. After this statement, the LORD MAYOR dismissed the complaint.
 ```
 
-In the following example, it appears as if one landlay was actively going even further, by actively trying to encourage men to desert the Navy!
+In the following example, it appears as if one landlady was actively going even further, by actively trying to encourage men to desert the Navy!
 
 ```{admonition} **, November, 1809
 :class: dropdown
@@ -490,7 +489,7 @@ Morning Advertiser - Thursday 25 December 1823
 PROWESS OF IRISHMEN AS BOXERS. (From the Dublin Morning Post.) The only Irishman have upon record who retained the pugilistic Championship of England for length of time, was the renowned Peter Corcoran. He was a hero of the first milling class from the year to 1776; during which period he won several battles; and amongst other feats of strength performed by Peter, he thumped a whole Pressgang at Portsmouth; and (by way of climax to his exertions) he broke the Lieutenant's sword over his head. ...
 ```
 
-The press-gang also showed they could be rather innovative in generating corwds that might contain pressable men:
+The press-gang also showed they could be rather innovative in generating crowds that might contain pressable men:
 
 ```{admonition} *A cunning plan*, November, 1803, (August, 1754)
 :class: dropdown
@@ -660,7 +659,7 @@ TO DO
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000156/18011216/012/0004
 Bury and Norwich Post - Wednesday 16 December 1801
-The character of Zanga, in the Revenge, at present sustained by Kemble, was the part in which Mossop shone. As the latter was dressing once for the character, three bailiffs, having iearnt that he expected a box from England with stage properties, gained admittance to him, disguised as *sailors*, came to inform him of the arrival of the box. On acquainting himself with their *real character*, Mossop said, " Well, Gentlemen, I confess you have outacted me— however, sit down till I have white-washed my face, and I'll attend you—though I suppose you will have no objection to my sending for a friend to settle the matter.— The bailiffs acquiesced ; when Mossop dispatched his servant with a line to a Lieutenant of the press-gang in the neighbourhood of the Theatre. The gang returned with the servant, and carried the disguised gen-try instantly on board the tender ; nor were they released, until one of the Sheriffs of Dublin went the next day on board the ship personally to demand them.
+The character of Zanga, in the Revenge, at present sustained by Kemble, was the part in which Mossop shone. As the latter was dressing once for the character, three bailiffs, having learnt that he expected a box from England with stage properties, gained admittance to him, disguised as *sailors*, came to inform him of the arrival of the box. On acquainting himself with their *real character*, Mossop said, " Well, Gentlemen, I confess you have outacted me— however, sit down till I have white-washed my face, and I'll attend you—though I suppose you will have no objection to my sending for a friend to settle the matter.— The bailiffs acquiesced ; when Mossop dispatched his servant with a line to a Lieutenant of the press-gang in the neighbourhood of the Theatre. The gang returned with the servant, and carried the disguised gen-try instantly on board the tender ; nor were they released, until one of the Sheriffs of Dublin went the next day on board the ship personally to demand them.
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18040117/020/0004
@@ -668,7 +667,7 @@ Sun (London) - Tuesday 17 January 1804
 
 EDINBURGH, JAN. 12. HIGH COURT OF JUSTICIARY.
 
-TUESDAY came on before this Court, the trial of *John Herdman*, boatman, in the service of the Customs, Leith, accused of murder, or culpable homicide, by striking Peter Geyler, midshipman, on the Impress ServiCe at Leith, on the head with a bludgeon or stick, nn the evening of the 12th of November last, which occasioned his death in three days thereafter.
+TUESDAY came on before this Court, the trial of *John Herdman*, boatman, in the service of the Customs, Leith, accused of murder, or culpable homicide, by striking Peter Geyler, midshipman, on the Impress ServiCe at Leith, on the head with a bludgeon or stick, on the evening of the 12th of November last, which occasioned his death in three days thereafter.
 
 The Pannel pled Not Guilty.
 
