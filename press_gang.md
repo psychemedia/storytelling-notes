@@ -46,7 +46,7 @@ On Saturday, about two o'clock, a dreadful affray happened at Hungerford-stairs,
 
 At other times, members of the press-gang themselves found themselves subject to the law, as in the following report:
 
-```{admonition}
+```{admonition} *Are you a constable?*, April, 1803
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002643/18030407/009/0004
 British Press - Thursday 07 April 1803
@@ -70,7 +70,6 @@ About ten o'clock at night, Mr. Lancells, who is grocer and tallow chandler, was
 
 Personal contacts were also used to save several young apprentices from the press, as is demonstrated in this example:
 
-
 ```{admonition} *The Lord Mayor of London intervenes*, April 1803
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002643/18030416/021/0003
@@ -81,17 +80,22 @@ POLICE. MANSION-HOUSE. Thursday four Master tradesmen waited upon the Lord Mayor
 The Lord Mayor answered, that he should be always ready to protect the liberties of the city of London, and commended the Gentlemen for their exertions upon the present occcasion.
 ```
 
+At other times, freedom was given to the press to retrieve deserters who had made their way into the City:
 
-TO DO
-
---
+```{admonition} [], July, 1801
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001475/18010725/008/0002
 London Courier and Evening Gazette - Saturday 25 July 1801
-Mansion. Hocss. Application having been made to the Lord Mayor, in consequence of a number of sailors having deserted from His Majesty’s service, and taken refuge in the City, press warrants were granted on Thursday night last to apprehend all sailors who might found in the City. Two or three press-gangs, assisted some City officers, searched several public-houses, where they found about twenty seamen who were lodged for the night in the different compters, and yesterday morning they were brought before the Lord Mayer, when sixteen of them were found to be press-able, and were sent on board the tender opposite the Tower. The officers made heavy complaints against the mistress of a public house, who had resisted their authority, and obtained a summons against her.
+Mansion-House. Application having been made to the Lord Mayor, in consequence of a number of sailors having deserted from His Majesty’s service, and taken refuge in the City, press warrants were granted on Thursday night last to apprehend all sailors who might found in the City. Two or three press-gangs, assisted some City officers, searched several public-houses, where they found about twenty seamen who were lodged for the night in the different compters, and yesterday morning they were brought before the Lord Mayer, when sixteen of them were found to be press-able, and were sent on board the tender opposite the Tower. The officers made heavy complaints against the mistress of a public house, who had resisted their authority, and obtained a summons against her.
 
 On Thursday evening a press gang, consisting of about fourteen persons, having received information of a number of sailors who lately belonged to the Company’s ships, being secreted in some public houses in Leadenhall-street, proceeded thither, properly armed, with an intention to impress them, and take them on board the tender. The sailors, however, having intimation of their approach, instantly collected together and resisted the gang. *A general engagement* immediately ensued, and the sailors, after a difficult scuffle, proved victorious, and obliged the press gang to relinquish their purpose. Several, we are sorry to hear, were wounded on both sides, and a number of windows were broken during the affray.
+```
 
---
+```{admonition} *The request of Government*, July, 1801
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002428/18010727/031/0003
+Oracle and the Daily Advertiser - Monday 27 July 1801
+The Lord-Mayor, &c. at the request of Government, consented to permit, for one month, a press of seamen within the City, but under inspection of the Peace-Officers. Upwards of 1500 sailors have been since pressed. A combat took place on Saturday in Leadenhall-street, between some sailors belonging to East-India ships, and a press-gang. The sailors, by putting the press-gang to flight, proved how well they be qualified to fight the French.
+```
 
 Geography also appears to have played a role in denying the activities of the press in the following case, although whether it is to be believed may be another matter!
 
@@ -176,7 +180,7 @@ The Magistrates, conceiving there was sufficient evidence before them, fully com
 
 ```
 
-It seems to be not uncommon for the owners of public houses to protect their establishments from the press gang, as this prosecution against a press-gang entering one such hostelry demonstrates:
+It seems to have been not uncommon for the owners of public houses to protect their establishments from the press gang, as this prosecution against a press-gang entering one such hostelry demonstrates:
 
 ```{admonition} *An obstinate landlady*, July, 1803
 :class: dropdown
@@ -190,7 +194,22 @@ A Constable said, that on accompanying a pressgang to the house, he observed the
 The Landlord stated, that having ocasion to rise early the next morning, he went to bed by ten o'clock on Thursday night, soon after which he was disturbed by his daughter coming to inform him that a press-gang had come into the house. He could not believe, her, as he had never before known such a circumstance. On his coming down he found a number of people in his tap-room, and his wife told him she had received a cut on-the arm, and was otherwise much hurt, by a number of people who were strangers to her. He saw a pistol thrust through the window, and threats were uttered by the people against any who should oppose them. He then ordered the door to he opened, and demanded to see the warrant, which being shown to him, he told the people they might search where they pleased, adding, that he had no lodgers, and that if the persons in the tap-room had arms, as the Lieutenant had insinuated, it was a circumstance unknown to him. After this statement, the LORD MAYOR dismissed the complaint.
 ```
 
-The following example, in which someone who had tipped off the authorities about a smuggler ended up be tipped off to the press-gang as a way of exacting revenge:
+In the following example, it appears as if one landlay was actively going even further, by actively trying to encourage men to desert the Navy!
+
+```{admonition} **, November, 1809
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002433/18091117/017/0003
+
+The Day - Friday 17 November 1809
+
+THE KING V. ELIZABETH STONEFIELD. The Attorney-General moved the judgment of the court on the defendant, who had been tried on an indictment for enticing a soldier in his Majesty's service to desert. Another count was for *endeavouring* to entice to desert, of which alone she was convicted. It appeared from the affidavits, that on the 4th of February last, the defendant invited this soldier into her house, a public house used for lodgings to sailors, at Liverpool. She asked if he would go to sea, offered him a bounty of 5l. but he refused to go, saying he could not go, for that he was a soldier; he consented, however, to hide himself from his serjeant in a cock-loft with some sailors, who concealed themselves from a press-gang, and where he was afterwards found. It appeared that the defendant wanted this soldier to go to sea, as a substitute for her own son; that she had four sons, all of them at sea in the King's service; that the fifth had been lately impressed, and she wanted his help to carry on her business at this public house in Liverpool; that she is extremely indigent, living partly by the half pay of two of her sons, who had assigned it to her; but she had lost a part of that, on account of, the ship in which one of her sons was, having been wrecked on the Coast of France, where he is now a prisoner.
+
+Mr. *Rein* made an able speech for the defendant, in mitigation of punishment. He spoke of her sex—her age 66—of her extreme indigence— of her affection for the only remaining of her five sons, torn from her bosom in her old age, and recommended her to that mercy which the Court could shew her, consistently with the rules of Justice.
+
+The *Attorney-General* for the prosecution observed, that no advocate could do more than his Learned Friend had done for his client in this case; but it was one in which his public duty called upon him not to relax into a dangerous compassion, for this was a practice which was very injurious to the service; there were no less than fourteen deserters from one regiment, who had gone to sea by this method, by which they got two bounties for one service, and it was impossible to find them. The Court observed, that no discretion was left to the Judges in this case, it depended on the provision of an Act of Parliament, founded upon another statute, both of which needed much amendment. They must either fine the defendant 40l. or imprison her for any period not more than six, ad not less than three months. To fine this defendant in that sum, would, in effect, be to imprison her for a long period . Indeed, because she would have to remain until the fine be paid, and therefore the sentence of the Court upon her was that she be imprisoned in the common jail at Liverpool for three calendar months, and that she do stand in and upon the pillory for one hour, between the hours of twelve at noon and two in the afternoon, according to the form of the statute in that case. made and provided ; that this be in the market-place of Liverpool,where the offence was committed.
+```
+
+The following example, in which someone who had tipped off the authorities about a local smuggler, ended up being tipped off in return to the press-gang by way of revenge:
 
 ```{admonition} *A wanton abuse of power*, March, 1805
 :class: dropdown
@@ -222,6 +241,15 @@ Oxford University and City Herald - Saturday 18 February 1809
 A sturdy, ragged vagrant, with a venerable full grown beard, lately made his appearance at Lynn in Norfolk. He soon attracted the notice of press-gang, who by a few general questions, discovered that he was, by profession a *prophet*, and had practised ten years. He declared that the war would continue three years longer, and then terminate disastrously. The naval officer doubted the truth of his inspiration, and *pressed* him so strongly to visit a small vessel lying off the coast, that he, at length, reluctantly consented.
 ```
 
+In another example, a crippled sailor seems to make a miraculous recovery when spotted by a press-gang:
+
+```{admonition} *An apparent cripple*, Augist, 1807
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18070812/012/0003
+Sun (London) - Wednesday 12 August 1807
+AN IMPOSTOR.—An apparent cripple in sailor's garb, who lately craved charity about the neighbourhood of Blackfriars Road, seeing a press-gang approaching to examine whether his *hull* was fit for service, threw away his crutches, and ran off, exclaiming— "They may have my *rotten timbers*, but d——n, &c. if I don't make sail, and find my *sea legs*."
+```
+
 In the following case, two suitors for one fair both seem to have lost out when they battled over her affections:
 
 ```{admonition} *Two lovers pressed together?!*, February, 1809
@@ -235,9 +263,20 @@ Two young men, namced Miller and Brown, who had for some time paid their address
 A few years earlier, a prize fight ended up with the press-gang being the winners:
 
 ```{admonition} *A prize fight delivers*, August, 1801
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000682/18010808/013/0003
 Royal Cornwall Gazette - Saturday 08 August 1801
 Thursday morning a pitched battle was fought in field, at the back of the London Infirmary, Whitechapel, between Edwards, a sawyer, and Johnston, a journeyman wheelwright, for five guineas a side. The contest was put an end to by the arrival a press-gang and several constables, who soon dispersed the mob, secured both the combatants with their seconds, and fifteen stout young men, whom they conveyed on board the tender.
+```
+
+On another occasion, a pressed man was briefly allowed back on shore to take his wedding vows before being returned to the press tender.
+
+```{admonition} *The power of love*, March, 1808
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002644/18080306/039/0008
+National Register (London) - Sunday 06 March 1808
+
+A striking display of omnipotence of love, occurred at the High Church, Hull, a few days ago. A young woman having given her heart to a sailor, who was impressed and carried on board the tender by the interference of her friends, resolved nevertheless to marry the object of her choice : He was accordingly brought on shore, and escorted by the press-gang to the church, from whence, after the marriage ceremony, he was again conveyed in the tender.
 ```
 
 I'm not sure if we are to take from the following the idea that the press-gang could also be used as "encouragement" for other means?!
@@ -250,6 +289,25 @@ Saint James's Chronicle - Tuesday 30 July 1805
 A curious circumstance took place at Brighton on Friday last :— A farmer, who rents the race-ground, having explained to the Jockey Club, that last season he had not received the usual compliment of onefourth of a pipe of wine, threatened to plough up the course if he was not paid what he conceived to be his due. Accordingly, on Friday last he set his plough to work; but a press-gang appearing, the ploughmen fled, and resigned the field to the gentlemen of the turf. The farmer, however, says, he will not be jockeyed out of his wine in this manner, and is determined to have another sort of a race for it in Westminster-Hall.
 
 ```
+
+After making good an escape from the press by boat on one occasion, on returning the said boat, one unfortunate young was caught up again:
+
+```{admonition} *Ran into a boat*, July, 1801
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002586/18010727/017/0004
+Porcupine - Monday 27 July 1801
+On Saturday night a press-gang pursued a seafaring man in Tooley-street, who, to avoid them, ran into a boat and rowed himself to St. Catharine's, and left the boat to drift, which appearing to belong to his own father, he hired another boat recover it, being the only means of subsistence for an aged parent, when he was again assailed by a fresh gang on the water, to whom he related his case, and added, that if he was suffered to secure his father's boat, he would, upon the word of an honest seaman, return to them. They permitted him to proceed ; after which he honourably performed his promise, and was then indulged with leave of absence, to enjoy the company of his friends.
+```
+
+And here's another example of an attempted escape via the water:
+
+```{admonition} *Threw himself into the water*, May, 1803
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000171/18030507/017/0003
+Lancaster Gazette - Saturday 07 May 1803
+A few days ago, a man belonging to a brig lying in the river at Chester, endeavouring to from a press-gang, threw himself into the water, whence he was rescued ; but on being conveyed to the infirmary, languished a few hours and died.
+```
+
 
 TO DO
 
@@ -289,6 +347,11 @@ Mr. Garrow moved for leave to file criminal information against a magistrate, fo
 
 *Lord Ellenborugh* asked whether it was proved to the mayor that the warrant was signed by Mr. Bingham, and that the offenders had escaped within his jurisdiction. Both these points being answered in the affirmative, a Rule Nisi was granted.
 
+
+---
+
+people being killed
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002643/18030420/018/0003
 British Press - Wednesday 20 April 1803
 A fatal occurrence took place on Monday last at Gravesend. As a press-gang, headed by a naval officer, was attempting to press some men, an obstinate conflict took place, by which two men were killed. On the same day another press-gang entered the house of Mr. Phillips, of the Plough and Harrow, at Gravel-hill, Greenhithe, when, with the most horrid imprecations, they insisted on searching every room in the house. On his resisting their attempts, a scuffle ensued. Phillips knocked three of the men down, hangers were drawn, the landlord was overpowered ; two of his maid servants being greatly alarmed about the safety of their master, going out of the house to call for assistance, were knocked down by two of the press-gang, who at length decamped, but left Mr. Phillips in a doubtful state.
@@ -298,38 +361,53 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18030603/005/0004
 Sun (London) - Friday 03 June 1803
 Plymouth, June 1— Last night the Impress for Seamen was very hot, and late in the evening a large mob, consisting chiefly of women,collected round the Press-gangs at the Barbican, when one of the Marines very imprudently discharged his pistol among them, and killed Gilbert Rekestrew, the Master of one of the Fishing Smacks at this Port (who was leaning over the rails of the Barbican), on the spot, the ball having entered his heart. He has left a wife and live small children. The Jury are now sitting on the body.
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18080920/010/0003
-Saint James's Chronicle - Tuesday 20 September 1808
-Yesterday, a young man, who was in the service of a Gentleman in Upper Spring-street, New Road, was pressed by a press gang, and taken from his master's house a considerable way down the street. Being alarmed at the sudden change of his situation, he cried out murder, which caused an immense mob to collect. They soon opened the coach, and set the person at liberty; then they attacked the gang, who endeavoured to fly in every direction. Two of them being closely pursued, they took refuge in the shop of Messrs. marshal and Laurence, butchers, in Durweston-street. The mob several times threatened to destroy the house; but a party of the Life Guards came, and escorted the refugees to their guard-house in Marylebone.
 
 
+Pretending to be a press-gang also seems to have been a strategy for fraudulently extracting pay-offs in exchange for *not* pressing potential recruits:
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002433/18091117/017/0003
-
-The Day - Friday 17 November 1809
-
-THE KING V. ELIZABETH STONEFIELD. The Attorney-General moved the judgment of the court on the defendant, who had been tried on an indictment for enticing a soldier in his Majesty's service to desert. Another count was for *endeavouring* to entice to desert, of which alone she was convicted. It appeared from the affidavits, that on the 4th of February last, the defendant invited this soldier into her house, a public house used for lodgings to sailors, at Liverpool. She asked if he would go to sea, offered him a bounty of 5l. but he refused to go, saying he could not go, for that he was a soldier; he consented, however, to hide himself from his serjeant in a cock-loft with some sailors, who concealed themselves from a press-gang, and where he was afterwards found. It appeared that the defendant wanted this soldier to go to sea, as a substitute for her own son; that she had four sons, all of them at sea in the King's service; that the fifth had been lately impressed, and she wanted his help to carry on her business at this public house in Liverpool; that she is extremely indigent, living partly by the half pay of two of her sons, who had assigned it to her; but she had lost a part of that, on account of, the ship in which one of her sons was, having been wrecked on the Coast of France, where he is now a prisoner.
-
-Mr. *Rein* made an able speech for the defendant, in mitigation of punishment. He spoke of her sex—her age 66—of her extreme indigence— of her affection for the only remaining of her five sons, torn from her bosom in her old age, and recommended her to that mercy which the Court could shew her, consistently with the rules of Justice.
-
-The *Attorney-General* for the prosecution observed, that no advocate could do more than his Learned Friend had done for his client in this case; but it was one in which his public duty called upon him not to relax into a dangerous compassion, for this was a practice which was very injurious to the service; there were no less than fourteen deserters from one regiment, who had gone to sea by this method, by which they got two bounties for one service, and it was impossible to find them. The Court observed, that no discretion was left to the Judges in this case, it depended on the provision of an Act of Parliament, founded upon another statute, both of which needed much amendment. They must either fine the defendant 40l. or imprison her for any period not more than six, ad not less than three months. To fine this defendant in that sum, would, in effect, be to imprison her for a long period . Indeed, because she would have to remain until the fine be paid, and therefore the sentence of the Court upon her was that she be imprisoned in the common jail at Liverpool for three calendar months, and that she do stand in and upon the pillory for one hour, between the hours of twelve at noon and two in the afternoon, according to the form of the statute in that case. made and provided ; that this be in the market-place of Liverpool,where the offence was committed.
-
-
+```{admonition} *A view to plunder*, March, 1803
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002643/18030315/034/0004
 
 British Press - Tuesday 15 March 1803
 
 On Saturday evening last, a banditti, to the amount of 21, composed of coal-heavers, &c. formed themselves into two parties, with a view to plunder; and under the pretence of being authorised press-gangs, seized between 40 and 50 labourers coming from their pay-tables, in the neighbourhood of Wapping, from whom they extorted about 20l. for their liberation. But in the high career of their success, two real press-gangs coming up, demanded their warrants ; for want of which, every one of those noncommissioned plunderers were sent off to the discharge of more honourable duties in his Majesty's service. Some produced protections, but the regulating captain very justly concluded that nothing could or ought to protect such audacious impostors.
+```
 
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/18040103/003/0002
-Kentish Gazette - Tuesday 03 January 1804
-Sham Press Gang.— Tuesday William Cowper was charged before the Lord Mayor, at the Mansion-house, with having, in company with five or six others dragged a young along Tower-street, and used him cruelly, pretended that they were a press gang, and as such had a right to impress him. Whitney, the watchhouse keeper, of Billingsgate, and the watchman, said, they were alarmed on Monday night with the cry of " murder," and going into the street, saw the prisoner and his companions dragging the Prosecutor, who appeared to have been much abused, and was covered with blood. They said they were taking him to the tender; that they belonged to a rendezvous house in the Borough; but, being required by the officer to shew their warrant, they all ran off, and all escaped pursuit, except the prisoner. The prisoner said, in his defence, that he belonged to the tender, and gave, in the names of two midshipmen, who, he said, were with him at the same time. The Lieutenant of the real press gang, however attended, and assured his Lordship, the prisoner and his companions had no order from him act such a manner.
-
+```{admonition} *Recognised as a noted bullock-hunter*, November, 1802
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0003026/18021106/019/0004
 True Briton - Saturday 06 November 1802
 Thursday afternoon the inhabitants of Old-street-road were suddenly put into some alarm, by the appearance of a supposed Lieutenant and a Press-gang, who had proceeded from Kingsland-road, and stopped and questioned a number of persons; but a Police Officer happily passing at the time, instantly recognized one of the foremost men as a noted bullock-hunter, smasher, &c. and immediately taking him into custody, the rest of the counterfeit gang fled in every direction, amidst the hisses and the laughter of a number of spectators.
+```
 
+```{admonition} *Mock press gang*, October, 1804
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002643/18041003/018/0003
+British Press - Wednesday 03 October 1804
+Ireland. Dublin, Sept. 27.
+MOCK PRESS GANG.—On Sunday night, four or five persons, who had made a practice of boarding merchant vessels in the river, under the pretence of pressing seamen for the British Navy, were apprehended by some of the Police Officers. Charges of a very serious nature were preferred against them. It seems they had first ill-used, and then robbed the masters and mates of some of the ships ; but in their last precdatory excursion they were severely beat, and one of them wounded in a shocking manner, previous to their apprehension. They were detained they whole of Sunday, in St. Andrew's watch house. They were all committed to Nesvgate by the Lord Mayor elect, Alderman Jenkin.
+
+One of them wore the uniform of a yeomanry corps belonging to the vicinity of this metropolis.
+
+Captain Roberts, who resisted the attack of the above-mentioned banditti, in a very spirited manner, when they boarded his vessel, lies dangerously ill.
+```
+
+```{admonition} *Sham press gang*, January, 1804
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/18040103/003/0002
+Kentish Gazette - Tuesday 03 January 1804
+Sham Press Gang.— Tuesday William Cowper was charged before the Lord Mayor, at the Mansion-house, with having, in company with five or six others dragged a young along Tower-street, and used him cruelly, pretended that they were a press gang, and as such had a right to impress him. Whitney, the watchhouse keeper, of Billingsgate, and the watchman, said, they were alarmed on Monday night with the cry of " murder," and going into the street, saw the prisoner and his companions dragging the Prosecutor, who appeared to have been much abused, and was covered with blood. They said they were taking him to the tender; that they belonged to a rendezvous house in the Borough; but, being required by the officer to shew their warrant, they all ran off, and all escaped pursuit, except the prisoner. The prisoner said, in his defence, that he belonged to the tender, and gave, in the names of two midshipmen, who, he said, were with him at the same time. The Lieutenant of the real press gang, however attended, and assured his Lordship, the prisoner and his companions had no order from him act such a manner.
+```
+
+Crying  "murder" in an attempt to gain the attention of a crowd who might come to your support when being pressed was also a strategy used elsewhere:
+
+```{admonition} **, Spetember, 1808
+:classs: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18080920/010/0003
+Saint James's Chronicle - Tuesday 20 September 1808
+Yesterday, a young man, who was in the service of a Gentleman in Upper Spring-street, New Road, was pressed by a press gang, and taken from his master's house a considerable way down the street. Being alarmed at the sudden change of his situation, he cried out murder, which caused an immense mob to collect. They soon opened the coach, and set the person at liberty; then they attacked the gang, who endeavoured to fly in every direction. Two of them being closely pursued, they took refuge in the shop of Messrs. marshal and Laurence, butchers, in Durweston-street. The mob several times threatened to destroy the house; but a party of the Life Guards came, and escorted the refugees to their guard-house in Marylebone.
+```
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000156/18011216/012/0004
@@ -379,20 +457,33 @@ To ease the serious apprehensions and fears expressed bv Mr. Cobbett on this poi
 
 It was not our intention to say any thing on this unpleasant subject, until the result of the inquiry by the officers of the corps had been made public, had we not been imperiously called upon by the gross misrepresentations of Mr. Cobbett, and his insidious remarks, tending in alarming degree to promote a jealousy between the volunteers of the kingdom and the troops of the line: In this, however, we sincerely hope and trust, the design will be frustrated.
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002643/18041003/018/0003
-British Press - Wednesday 03 October 1804
-Ireland. Dublin, Sept. 27.
-MOCK PRESS GANG.—On Sunday night, four or five persons, who had made a practice of boarding merchant vessels in the river, under the pretence of pressing seamen for the British Navy, were apprehended by some of the Police Officers. Charges of a very serious nature were preferred against them. It seems they had first ill-used, and then robbed the masters and mates of some of the ships ; but in their last precdatory excursion they were severely beat, and one of them wounded in a shocking manner, previous to their apprehension. They were detained they whole of Sunday, in St. Andrew's watch house. They were all committed to Nesvgate by the Lord Mayor elect, Alderman Jenkin.
+---
 
-One of them wore the uniform of a yeomanry corps belonging to the vicinity of this metropolis.
+Also reports of individuals fighting their way out of being pressed
 
-Captain Roberts, who resisted the attack of the above-mentioned banditti, in a very spirited manner, when they boarded his vessel, lies dangerously ill.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001427/18231225/015/0003
+Morning Advertiser - Thursday 25 December 1823
+PROWESS OF IRISHMEN AS BOXERS. (From the Dublin Morning Post.) The only Irishman have upon record who retained the pugilistic Championship of England for length of time, was the renowned Peter Corcoran. He was a hero of the first milling class from the year to 1776; during which period he won several battles; and amongst other feats of strength performed by Peter, he thumped a whole Pressgang at Portsmouth; and (by way of climax to his exertions) he broke the Lieutenant's sword over his head. ...
+
+
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001409/18010731/018/0003
 Kentish Weekly Post or Canterbury Journal - Friday 31 July 1801
 The city shopmen are now *blanching* their *black tan*, lest the press-gangs should take them up, in mistake for *loblolly* boys —as to *nankeen trousers*, they are quite exploded behind the counters.
 
 https://en.wikipedia.org/wiki/Loblolly_boy
+
+
+---
+
+Stories of merchant vessels losing out their crews to the press:
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18040103/016/0004
+Saint James's Chronicle - Tuesday 03 January 1804
+On Thursday evening the press-gang entered a publick house opposite the Duke's Dock, Liverpool, where several of the Duke of Bridgewater's flatman were drinking, and attempted to impress some of them. Their comrades on board the flats hearing of this, ran to their assistance, and effected a rescue. A terrible affray then took place. The military were sent and twelve of the rioters conducted to the guard-house. A severe battle Was fought betwixt the flatmen and the press-gang.
+
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000156/18010902/002/0001
 Bury and Norwich Post - Wednesday 02 September 1801
@@ -401,9 +492,24 @@ During the festivity which prevailed at Peckham fair, on Monday afternoon, a pre
 Almost all the hands have been impressed out of the Honourable East India Company's ships, by his Majesty's Officers on the Downs station; which circumstance will probably retard the dispatch of those ships.
 
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18040103/016/0004
-Saint James's Chronicle - Tuesday 03 January 1804
-On Thursday evening the press-gang entered a publick house opposite the Duke's Dock, Liverpool, where several of the Duke of Bridgewater's flatman were drinking, and attempted to impress some of them. Their comrades on board the flats hearing of this, ran to their assistance, and effected a rescue. A terrible affray then took place. The military were sent and twelve of the rioters conducted to the guard-house. A severe battle Was fought betwixt the flatmen and the press-gang.
+---
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001476/18050413/013/0004
+London Courier and Evening Gazette - Saturday 13 April 1805
+
+A whimsical circumstance happened last week off Gravesend. A West Indiaman arrived at that place, and was soon boarded by a press-gang. The crew of the West Indiaman were brought upon deck, and while the Lieutenant was examining them, a health-boat arrived. As no clean bill of health was found on board the West Indiaman, or at least none that was deemed satisfactory, the crew of the West Indiaman, the Lieutenant of the man of war, and all his gang, were ordered to Standgate Creek to perform quarantine for forty days, which they will, no doubt, pass in perfect *harmony* and *good fellowship* with each other.
+
+---
+On at least one occasion, it seems that the press-gang discovered even worse conditions suuffered by a potential recruit than they were likely to inflict upon them.
+
+```{admonition} *Abused apprentice discovered*, April, 1801
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002586/18010403/019/0004
+Porcupine - Friday 03 April 1801
+On Wednesday se'nnight, the press-gang, on boarding a vessel in the Humber, found a poor boy on board, nearly exhausted with hunger and the most cruel treatment. He was immediately taken on shore, and examined at the Town-hall; when such a scene of villainy and barbarity on the part the master of the vessel was developed, as was almost beyond conception. It appears the inhuman wretch had taken him as apprentice only a short time ago, and with him had received a premium of twelve guineas from the overseers of a parish, in the South. The boy was taken under the care of the Governors of the Workhouse, and every attention paid to him which humanity can suggest. We understand the master is confined in the House of Correction, and that the Magistrates are determined to prosecute him with the utmost rigour of the law.
+```
+
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18040117/020/0004
 Sun (London) - Tuesday 17 January 1804
@@ -442,44 +548,11 @@ https://britishnewspaperarchive.co.uk/viewer/bl/0000237/18040316/010/0003
 Stamford Mercury - Friday 16 March 1804
 THE KINO V. TUXFORD & OTHERS. [Special Jury.] This was a prosecution instituted by the Lords Commissioners of the Admiralty against John Tuxford, Edward Tuxford, Wm. Rose, Morris Buff, John Rilatt, Richard Stevenson, and Richard Barsnip, the principal instigators of and operators a riot at Boston, on the 22d of August last, in which a midshipman, and 5 men under him, constituting a press-gang, were forcibly dragged from the Angel inn, and violently assaulted and ill used. No defence was attempted, as the evidence against six of the defendants was clear, and the season For counsel to offer palliatives of their conduct will be when judgment is about to be pronounced on them in the Court of King's Bench.—All but Richard Stevenson were found guilty.—It appears the unpleasant affair which gave birth to this prosecution, had some connexion with the recent election, the orange and blue party fancying that the introduction of the press-gang into Boston was attributable to those who espoused the cause of the opposite hue; and, under this impression, tumultuous assemblage of persons proceeded to the most indecent outrages.
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001427/18231225/015/0003
-Morning Advertiser - Thursday 25 December 1823
-PROWESS OF IRISHMEN AS BOXERS. (From the Dublin Morning Post.) The only Irishman have upon record who retained the pugilistic Championship of England for length of time, was the renowned Peter Corcoran. He was a hero of the first milling class from the year to 1776; during which period he won several battles; and amongst other feats of strength performed by Peter, he thumped a whole Pressgang at Portsmouth; and (by way of climax to his exertions) he broke the Lieutenant's sword over his head. ...
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002586/18010727/017/0004
-Porcupine - Monday 27 July 1801
-On Saturday night a press-gang pursued a seafaring man in Tooley-street, who, to avoid them, ran into a boat and rowed himself to St. Catharine's, and left the boat to drift, which appearing to belong to his own father, he hired another boat recover it, being the only means of subsistence for an aged parent, when he was again assailed by a fresh gang on the water, to whom he related his case, and added, that if he was suffered to secure his father's boat, he would, upon the word of an honest seaman, return to them. They permitted him to proceed ; after which he honourably performed his promise, and was then indulged with leave of absence, to enjoy the company of his friends.
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000171/18030507/017/0003
-Lancaster Gazette - Saturday 07 May 1803
-A few days ago, a man belonging to a brig lying in the river at Chester, endeavouring to from a press-gang, threw himself into the water, whence he was rescued ; but on being conveyed to the infirmary, languished a few hours and died.
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002586/18010403/019/0004
-Porcupine - Friday 03 April 1801
-On Wednesday se'nnight, the press-gang, on boarding a vessel in the Humber, found a poor boy on board, nearly exhausted with hunger and the most cruel treatment. He was immediately taken on shore, and examined at the Town-hall; when such a scene of villainy and barbarity on the part the master of the vessel was developed, as was almost beyond conception. It appears the inhuman wretch had taken him as apprentice only a short time ago, and with him had received a premium of twelve guineas from the overseers of a parish, in the South. The boy was taken under the care of the Governors of the Workhouse, and every attention paid to him which humanity can suggest. We understand the master is confined in the House of Correction, and that the Magistrates are determined to prosecute him with the utmost rigour of the law.
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002644/18080306/039/0008
-National Register (London) - Sunday 06 March 1808
-
-A striking display of omnipotence of love, occurred at the High Church, Hull, a few days ago. A young woman having given her heart to a sailor, who was impressed and carried on board the tender by the interference of her friends, resolved nevertheless to marry the object of her choice : He was accordingly brought on shore, and escorted by the press-gang to the church, from whence, after the marriage ceremony, he was again conveyed in the tender.
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001476/18050413/013/0004
-London Courier and Evening Gazette - Saturday 13 April 1805
-
-A whimsical circumstance happened last week off Gravesend. A West Indiaman arrived at that place, and was soon boarded by a press-gang. The crew of the West Indiaman were brought upon deck, and while the Lieutenant was examining them, a health-boat arrived. As no clean bill of health was found on board the West Indiaman, or at least none that was deemed satisfactory, the crew of the West Indiaman, the Lieutenant of the man of war, and all his gang, were ordered to Standgate Creek to perform quarantine for forty days, which they will, no doubt, pass in perfect *harmony* and *good fellowship* with each other.
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18070812/012/0003
-Sun (London) - Wednesday 12 August 1807
-AN IMPOSTOR.—An apparent cripple in sailor's garb, who lately craved charity about the neighbourhood of Blackfriars Road, seeing a press-gang approaching to examine whether his *hull* was fit for service, threw away his crutches, and ran off, exclaiming— "They may have my *rotten timbers*, but d——n, &c. if I don't make sail, and find my *sea legs*."
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18061219/016/0003
 Morning Post - Friday 19 December 1806
 In the Court of King's Bench, Guildhall yesterday, a Mr. Urquart obtained 50l. damages against a Mr. Fair, the Commanding Officer of a press-gang, for an assault, the latter conceiving the former to be a sailor in disguise. Mr. U. was so rudely handled by the gang, that his coat was torn from his back. Several persons saw the transaction and knowing Mr. Urquart, he was at length released from the gripe of the press-gang.
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002428/18010727/031/0003
-Oracle and the Daily Advertiser - Monday 27 July 1801
-The Lord-Mayor, &c. at the request of Government, consented to permit, for one month, a press of seamen within the City, but under inspection of the Peace-Officers. Upwards of 1500 sailors have been since pressed. A combat took place on Saturday in Leadenhall-street, between some sailors belonging to East-India ships, and a press-gang. The sailors, by putting the press-gang to flight, proved how well they be qualified to fight the French.
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/18081203/031/0004
