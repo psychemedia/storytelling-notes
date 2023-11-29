@@ -7,6 +7,8 @@ https://archive.org/details/oldenglishfairyt00bari/page/140/mode/2up
 Old English fairy tales
 by Baring-Gould, S. (Sabine), 1834-1924
 
+Illustration, p140
+
 p141-156
 VII
 
@@ -434,6 +436,69 @@ That they took her on board again, both she and her baby.
 
 ---
 
+
+https://archive.org/details/ancientscottishb00kin/page/123/mode/2up
+Ancient Scottish ballads, recoverd from tradition
+by [Kinloch, George Ritchie], 1796?-1877, [from old catalog] ed
+
+Publication date 1827
+
+pp123-6
+
+BONNIE ANNIE.
+
+There was a rich lord, and he lived in Forfar,  
+He had a fair lady, and one only dochter.  
+O, she was fair, O dear ! she was honnie,  
+A ship's captain courted her to be his honey.
+
+There cam a ship's captain out owre the sea sailing,  
+He courted this young thing till he got her wi' bairn.—  
+" Ye'll steal your father's gowd, and your mother's money.  
+And I'll mak ye a lady in Ireland bonnie."
+
+She's stown her father's gowd and her mother's money.  
+But she was never a lady in Ireland bonnie.
+
+"There's fey fowk `[Fey fowk — people on the verge of death.]` in our ship, she winna sail for me,  
+There's fey fowk in our ship, she winna sail for me."  
+They've casten black bullets twice six and forty,  
+And ae the black bullet fell on bonnie Annie.
+
+" Ye'll tak me in your arms twa, lo, lift me cannie,  
+Throw me out owre board, your ain dear Annie."  
+He has tane her in his arms twa, lo, lifted her cannie,  
+He has laid her on a bed of down, his ain dear Annie.
+
+" What can a woman do, love, I'll do for ye;"  
+Muckle can a woman do, ye canna do for me." —  
+" Lay about, steer about, lay our ship cannie.  
+Do all ye can to save my dear Annie."
+
+" I've laid about, steer'd about, laid about cannie.  
+But all I can do, she winna sail for me.  
+Ye'll tak her in your arms twa, lo, lift her cannie,  
+And throw her out owre board, your ain dear Annie."
+
+He has tane her in his arms twa, lo, lifted her cannie,  
+He has thrown her out owre board, his ain dear Annie.  
+As the ship sailed, bonnie Annie she swam,  
+And she was at Ireland as soon as them.
+
+He made his love a coffin off the Goats of Yerrow,  
+And buried his bonnie love doun in a sea valley.
+
+NOTES ON BONNIE ANNIE.
+
+*There s fey foiok in our ship, she winna sail for me, —* p. 124, V. 3.
+
+There is a prevalent belief among sea-faring people, that, if a person who has committed any heinous crime be on ship-board, the vessel, as if conscious of its guilty ourden, becomes unmanageable, and will not sail till the offender be removed: to discover whom, they usually resort to the trial of those on board, by casting lots; and the individual upon whom the lot falls is declared the criminal, it being believed that Divine Providence interposes in this manner to point out the guilty person.
+
+*He made his love a coffin off the Goats of Yerrow. —* p. 126, V. 8.
+
+It would be difficult to ascertain where *Yerrow* is situated; it would seem, however, to be on the seacoast, as "*Goats*" signifies inlets where the sea enters.
+
+----
 
 The tale also seems to resemble the ballad *Bonnie Annie*, also know as *The Banks of the Green Willow*.
 
