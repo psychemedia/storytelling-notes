@@ -384,7 +384,7 @@ But all Bag o'Bones said was, "I found nothing... a bit odd.. the pond had disap
 
 So off went Bag o' Bones, into the forest, as fast as thought. Anwen and the young man, in humam form again, running, running, through the forest, finding their way, sensed something behind them, heard something beihind them. Anwen took out another leaf: "you be a tree, I will be an apple."
 
-Just in time, Bog o' bones. following the footsteps through the wood, and then  - nothing...
+Just in time, Bag o' bones, following the footsteps through the wood, and then  - nothing...
 
 "Little tree, little tree: did you see a young man, and a young woman, pass by this way?"
 
