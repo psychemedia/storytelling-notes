@@ -323,6 +323,117 @@ Note.— The old ballad of "The Undutiful Daughter" is one that I have heard fro
 There is an old printed ballad entitled " The Faithless Captain ; or, The Betrayed Virgin," which seems to be a comparatively modern recast of the older story. All the supernatural element has been eliminated from it. Instead of the damsel being cast over-board because the lot is thrown and falls to her, the ship is nearly wrecked, and she accidentally falls overboard. The body still follows the vessel, and, seeing his bride there in the water, the captain, who, after all, is not faithless, jumps overboard, and is drowned as well.
 
 ---
+https://archive.org/details/englishscottishp08chil/page/452/mode/1up?q=+%22undutiful+daughter%22
+The English and Scottish popular ballads
+by Child, Francis James, 1825-1896; Kittredge, George Lyman, 1860-1941
+
+Publication date 1882
+p452-3
+
+24. Bonnie Annie.
+
+P. 245 ff. The Rev. S. Baring-Gould has recently found this ballad in South Devon.
+
+a. Taken down from a man of above eighty years at Bradstone. b. From a young man at Dartmoor, c. From an old man at Holne.
+
+1 'Twas of a sea-captain came oer the salt billow,  
+He courted a maiden down by the green willow:  
+' O take of your father his gold and his treasure,  
+O take of your mother her fee without measure.'
+
+2 ' I 'll take of my father his gold and his treasure,  
+I 'll take of my mother her fee without measure : '  
+She has come with the captain unto the seaside, O,  
+" We 'll sail to lands foreign upon the blue tide, O!'
+
+3 And when she had sailed today and tomorrow,  
+She was beating her hands, she was crying in sorrow ;  
+And when she had sailed the days were not many,  
+The sails were outspread, but of miles made not any.
+
+4 And when she had sailed today and tomorrow.  
+She was beating her hands, she was ciying in sorrow ;  
+And when she had sailed not many a mile, O,  
+The maid was delivered of a beautiful child, O.
+
+5 . ...
+
+6 ' O take a white napkin, about my head bind it !  
+O take a white napkin, about my feet wind it !  
+Alack ! I must sink, both me and my baby.  
+Alack ! I must sink in the deeji salten water.
+
+7 ' O captain, O captain, here 's fifty gold crown, O,  
+I pray thee to bear me and turn the ship round, O ;  
+O captain, O captain, here 's fifty gold pound, O,
+If thou wilt but set me upon the green ground, O.'
+
+8 ' O never, O never I the wind it blows stronger,  
+O never, O never ! the time it grows longer ;  
+And better it were that thy baby and thou, O.  
+Should drown than the crew of the vessel, I vow, O.'
+
+9 ' O get me a boat that is narrow and thin, O,  
+And set me and my little baby therein, O : '  
+' O no, it were better that thy baby and thou, O,  
+Should drown than the crew of the vessel, I vow, O.'
+
+10 They got a white napkin, about her head bound it,  
+They got a white napkin, about her feet wound it;  
+They cast her then overboard, baby and she, O,  
+Together to sink in the cruel salt sea, O.
+
+11 The moon it was sliining, the tide it was running;  
+O what in the wake of the vessel was swimming?  
+' O see, boys ! O see how she floats on the water!  
+O see, boys! O see! the undutiful daughter!
+
+12 ' Why swim in the moonlight, upon the sea swaying ?  
+O what art thou seeking ? for what art thou praying?'  
+' O captain, O captain, I float on the water ;  
+For the sea giveth up the undutiful daughter.
+
+13 ' O take of my father the gold and the treasure,  
+O take of my mother her fee without measure ;  
+O make me a coffin of gold that is yellow,  
+And bmy me under the banks of green willow ! '
+
+14 ' I will make thee a coffin of gold that is yellow,  
+I 'll bury thee under the banks of green willow ;  
+I 'll bury thee there as becoraeth a lady,  
+I 'll bury thee there, both thou and thy baby.'
+
+15 The sails they were spread, and the wind it was blowing,  
+The sea was so salt, and the tide it was flowing ;  
+They steered for the land, and they reachd the shore, O,  
+But the corpse of the maiden had reachd there before, O.
+
+b. 1, 1,2. There was a sea-captain came to the seaside, O,  
+He courted a damsel and got her in trouble.
+
+13, 3. coffin of the deepest stoU yellow.
+
+15, 4. But the mother and baby had got there before, O.
+
+c. 1 'T is of a sea-captain, down by the green willow,  
+He courted a damsel and brought her in trouble;  
+When gone her mother's good will and all her father's money,  
+She fled across the wide sea along with her Johnny.
+
+2 They had not been sailing the miles they were many  
+Before she was delivered of a beautiful baby :  
+' O tie up my head ! O and tie it up easy,  
+And throw me overboard, both me and my baby ! '
+
+3 She floated on the waves, and she floated so easy,  
+That they took her on board again, both she and her baby.  
+
+(The rest forgotten.)
+
+
+
+---
+
 
 The tale also seems to resemble the ballad *Bonnie Annie*, also know as *The Banks of the Green Willow*.
 
