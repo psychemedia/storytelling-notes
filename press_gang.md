@@ -654,48 +654,10 @@ Porcupine - Friday 03 April 1801
 On Wednesday se'nnight, the press-gang, on boarding a vessel in the Humber, found a poor boy on board, nearly exhausted with hunger and the most cruel treatment. He was immediately taken on shore, and examined at the Town-hall; when such a scene of villainy and barbarity on the part the master of the vessel was developed, as was almost beyond conception. It appears the inhuman wretch had taken him as apprentice only a short time ago, and with him had received a premium of twelve guineas from the overseers of a parish, in the South. The boy was taken under the care of the Governors of the Workhouse, and every attention paid to him which humanity can suggest. We understand the master is confined in the House of Correction, and that the Magistrates are determined to prosecute him with the utmost rigour of the law.
 ```
 
-TO DO
+By the time the press-gang was strating to fade from personal lived histories, it was being remembered in books and the press:
 
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000156/18011216/012/0004
-Bury and Norwich Post - Wednesday 16 December 1801
-The character of Zanga, in the Revenge, at present sustained by Kemble, was the part in which Mossop shone. As the latter was dressing once for the character, three bailiffs, having learnt that he expected a box from England with stage properties, gained admittance to him, disguised as *sailors*, came to inform him of the arrival of the box. On acquainting himself with their *real character*, Mossop said, " Well, Gentlemen, I confess you have outacted me— however, sit down till I have white-washed my face, and I'll attend you—though I suppose you will have no objection to my sending for a friend to settle the matter.— The bailiffs acquiesced ; when Mossop dispatched his servant with a line to a Lieutenant of the press-gang in the neighbourhood of the Theatre. The gang returned with the servant, and carried the disguised gen-try instantly on board the tender ; nor were they released, until one of the Sheriffs of Dublin went the next day on board the ship personally to demand them.
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18040117/020/0004
-Sun (London) - Tuesday 17 January 1804
-
-EDINBURGH, JAN. 12. HIGH COURT OF JUSTICIARY.
-
-TUESDAY came on before this Court, the trial of *John Herdman*, boatman, in the service of the Customs, Leith, accused of murder, or culpable homicide, by striking Peter Geyler, midshipman, on the Impress ServiCe at Leith, on the head with a bludgeon or stick, on the evening of the 12th of November last, which occasioned his death in three days thereafter.
-
-The Pannel pled Not Guilty.
-
-No objection was made to the relevancy of the libel by the Pannel's Counsel; and the LORD ADVOCATE restricted the charge to culpable homicide only, as he did not think he could make out the crime of Murder, against the Pannel. The usual Interlocutor was then pronounced, restricting the libel to an arbitrary punishment, and remitting the case to a Jury, which was then chosen.
-
-The first Witness called was Mrs. Calderwood, wife of John Calderwood, meal-dealer in Leith, who said, that she remembers her husband being pressed on Saturday the 12th November, and was taken to the rendezvous, where she went, but afterwards returned to lock her shop door; and went to Coming's, where her husband then was , who had been liberated. Mr. Geyler came in, and said he would have her husband yet, and used him very badly. On the Witness remonstrating with Geyler he struck her ; on which the Pannel, who then came in , said it was a shame to use a woman ill. Herdman put out Geyler, and locked the door– The Witness was also locked out, But afterwards admitted into Coming's, wheN the Pannel went away, and she did not see him again that night—Herdman was sober, but Geyler was mortal drunk that night.
-
-John Calderwood said, he never was at sea, but was pressed from his own door on the 12th November, and carried to the rendezvous, but was relieved in a short time—He then went to Cuming's, where Geyler came, and insisted on taking the Witness again to the rendezvous—His wife interfered with Geyler for using him badly, when Geyler struck her. Herdman, who was present, interfered, and said it was shameful to strike a woman, and at last put out Geyler, who continued for some time swearing at the back of the door. About an hour after, the Witness left Cuming's by a back door.—Herdman was sober, but does not think Geyler was so.
-
-John Beatson, midshipman, on the Impress at Leith, remembers Calderwood being impressed, but was not present when any scuffle happened. After Geyler was put out of Cuming's, he said to the Witness, "D——n that wooden-legged b——r, I'll do for him, for interrupting me on my duty." Herdman almost immediately came out, when Geyler repeated his words, and struck Herdman on the head with a stick he had in his hand. The Pannel took the Witness as evidence of his being struck, and said he would haVe satisfaction. The quarrel continued between Geyler and him along the shore, when Mr. Waddell opened his window, and asked " what was the matter ?" Herdman said he had abused by Geyler, an would have satisfaction. Waddell advised him to let the matter rest that night, and have recourse to the Civil Law. Herdman went back to Calderwood's, and the Witness saw Mrs. Calder wood home, and Herdman went back to Coming's with a stick in his hand.
-
-James Thomson, one of the press-gang, said he saw Geyler strike the Pannel with a stick, and Herdman took him a witness.
-
-George Alexander, another of the press-gang, said, about eleven o'clock he saw Herdman, and spoke to him. Shortly after Geyler came out of the house, when Herdman struck him on the head, and knocked him down.— That the Witness lifted up Geyler, took him home, and his wife dressed his wound— That he went up the shore again, and met Herdman, who asked him to take a glass. They accordingly went into a public house, when the Pannel told him how he had been used by Geyler striking him on the head, which raised a large lump on it— That he had gone to Mr. Waddell to complain, who advised him to go home ; but he had gone to the watch house, got a stick, and ,having met Geyler near Coming's, had knocked him down.
-
-Mr. Alexander Waddell, Customs, Leith, said, that on the 12th November, the Pannel called at his house about eleven o'clock, much agitated, and said he had been badly used by Geyler— That he had been struck on the head by Geyler with a stick, and wished the Witness to interfere.—That he asked the Pannel the cause of the quarrel, when he told him he had prevented Geyler from using ill a woman of the name of Calder wood, and said he had gone to Cuming's, where Geyler had knocked him down. The witness advised, the Pannel to say no more, but let the Law take its course. The Pannel then went away ; but in a short time the Witness heard a noise in the street, and went to the window, where he saw the Pannel and another man ; when he asked Herdman if that wasthe man who had struck him, Herdman said it was : on which the Witness again advised him to go home, and he would let Captain Nash know the matter in the morning. Next morning he saw the Pannel, who told him he had given Geyler as good a stroke as he had got. The Pannel has been four years in the service. of the Customs ; and he considered him as a sober man, and a steady officer. He had lost his leg at Teneriffe, along with Lord Nelson.
-
-Mr. Charles Anderson, Surgeon in Leith, said, he was called to see Geyler on the 13th November, and found him insensible. He had a wound on the back part of his head, but it was not a large one. He died on the evening of the 14th, when his head was opened.—There was a great effusion of blood under the bone, which he thinks was the occasion of his death, but which had proceeded from the external wound.
-
-Mr. Kellie, surgeon in Leith, concurred with the preceding Witness; but was of opinion, that if the deceased had not been much intoxicated , the wound could not have occasioned his death.
-
-The Pannel's declaration was then read, which closed the evidence on the part of the Crown.
-
-Three Witnesses were examined to the character of the Pannel, who described him as a humane, decent, sober man, and not at all quarrelsome. Two certificates were also read, one from Captain Hutchinson of the Royal Navy, and another from the Physicians at Haslar Hospital, both of which were greatly in favour of the Prisoner.
-
-The LORD ADVOCATE for the Crown, and Mr. F. JEFFREY for the Pannel, each addressed the Jury in very appropriate speeches. —Lord CRAIG, who presided at the Trial, summed up the whole in a candid and humane charge to the Jury. About a quarter after one, the Jury inclosed in the robing room, and in a short time returned a verdict,, all in one voice finding the Pannel *Not Guilty*. The Pannel was then assoilzied *simpliciter*, and dismissed from the bar.
-
-
+```{admonition}
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000287/18951221/008/0003
 Shields Daily Gazette - Saturday 21 December 1895
 
@@ -728,20 +690,4 @@ to rid a sailor of the consequences of being pressed, or saved him from capture.
 JOHN BABBINGTON STODART'S DELIBERATE MURDER  
 by the instruments of a British Government. A bright smart young sailor, a favourite with his captain, the well-beloved of a widowed mother, sisters and aunt, this poor boy's untoward career and ultimate fate is an epitome of the chicanery, outrage and ruffianism with which the best of England's sailors were only too familiar. After being pressed again and again —the last time on January 27th, 1804 —and buying with his hard-won earnings a discharge from the noble lords, arrived in the Tyne in April 1804 and, it being Sunday, straightway proceeded to Newcastle to see his mother and sisters. Dining on board ship he was watched by the press-gang who on his landing instantly gave chase. Hunted along the quay and seeing no other possibilities of escape from his old enemies he jumped into the Tyne and struck out for the opposite shore. Infuriated at the prospect of losing their victim the ruffians threatened to fire upon anyone who attempted to go to the swimmer's assistance. When he had neared the opposite shore he was shot in the head by one of the gang. The bloody business brought in its track no retribution. The poor ill-starred lad who had paid for his "clearance", who had not even been recaptured and broken arrest, was done to death in the face of English people in an English town on the day consecrated to God's service, and his murderers left unmolested to sneer at the execrations of the excited "rabble."— From "The Maister," by George H. Haswell.
 
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000472/18630918/003/0001
-Greenock Telegraph and Clyde Shipping Gazette - Friday 18 September 1863
-PRESS GANG IN GREENOCK
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002659/18741003/043/0004
-Stirling Observer - Saturday 03 October 1874
-
-A TALE OF THE PRESS GANG
-
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000101/18910906/012/0002
-Reynolds's Newspaper - Sunday 06 September 1891
-THE PRESS GANG
+```
