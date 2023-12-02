@@ -188,7 +188,8 @@ The Lord Mayor answered, that he should be always ready to protect the liberties
 
 At other times, freedom was given to the press to retrieve deserters who had made their way into the City:
 
-```{admonition} [], July, 1801
+```{admonition} *Deserters in the City*, July, 1801 
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001475/18010725/008/0002
 London Courier and Evening Gazette - Saturday 25 July 1801
 Mansion-House. Application having been made to the Lord Mayor, in consequence of a number of sailors having deserted from His Majesty’s service, and taken refuge in the City, press warrants were granted on Thursday night last to apprehend all sailors who might found in the City. Two or three press-gangs, assisted some City officers, searched several public-houses, where they found about twenty seamen who were lodged for the night in the different compters, and yesterday morning they were brought before the Lord Mayer, when sixteen of them were found to be press-able, and were sent on board the tender opposite the Tower. The officers made heavy complaints against the mistress of a public house, who had resisted their authority, and obtained a summons against her.
@@ -321,7 +322,7 @@ The Landlord stated, that having ocasion to rise early the next morning, he went
 
 In the following example, it appears as if one landlady was actively going even further, by actively trying to encourage men to desert the Navy!
 
-```{admonition} **, November, 1809
+```{admonition} *Enticing a soldier*, November, 1809
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002433/18091117/017/0003
 
@@ -612,7 +613,7 @@ Sham Press Gang.— Tuesday William Cowper was charged before the Lord Mayor, at
 
 Crying  "murder" in an attempt to gain the attention of a crowd who might come to your support when being pressed was also a strategy used elsewhere:
 
-```{admonition} **, Spetember, 1808
+```{admonition} *Crying murder*, September, 1808
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18080920/010/0003
 Saint James's Chronicle - Tuesday 20 September 1808
