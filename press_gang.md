@@ -655,9 +655,9 @@ Porcupine - Friday 03 April 1801
 On Wednesday se'nnight, the press-gang, on boarding a vessel in the Humber, found a poor boy on board, nearly exhausted with hunger and the most cruel treatment. He was immediately taken on shore, and examined at the Town-hall; when such a scene of villainy and barbarity on the part the master of the vessel was developed, as was almost beyond conception. It appears the inhuman wretch had taken him as apprentice only a short time ago, and with him had received a premium of twelve guineas from the overseers of a parish, in the South. The boy was taken under the care of the Governors of the Workhouse, and every attention paid to him which humanity can suggest. We understand the master is confined in the House of Correction, and that the Magistrates are determined to prosecute him with the utmost rigour of the law.
 ```
 
-By the time the press-gang was strating to fade from personal lived histories, it was being remembered in books and the press:
+By the time the press-gang was starting to fade from personal lived histories, it was being remembered in books and the press:
 
-```{admonition}
+```{admonition} *The Press-Gang in Tyneside*, December, 1895
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000287/18951221/008/0003
 Shields Daily Gazette - Saturday 21 December 1895
