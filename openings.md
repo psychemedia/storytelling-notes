@@ -19,13 +19,13 @@ Come boy, come __girl__
 
 
 
-Once, which is to say always, which is to say never, ..
+Once, which is to say always, which is to say never, which is to say, in truth, ..
 
-There once was a time, not your time, nor my time, nor anybody else's time, when ...
+There once was a time, not your time, nor my time, nor anybody else's time, when ... [things were good, most of the time, or maybe they weren't, not all of the time, at least not for...]
 
 And if I'd never seen it happen like that, I' woul'd never have been able to tell you about it.
 
-And I was there, and I can tell you that the feasting was like no other, and though I had to leave early, it's probably going on still
+And I was there then, and I can tell you here now, that the feasting was like no other, and though I had to leave early, it's probably going on still
 
 ---
 
