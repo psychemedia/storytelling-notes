@@ -1,12 +1,50 @@
 
 # Ace of Spades
 
-The Ace of Spades. If you're a fan of the new wave of British heavy metal bands in the mid-70s and early eighties — I'm talking, decades, here, not averages of the band memebers, though probably that too, actually, at least for the ones who aren't dead yet — that can only mean one thing: Lemmy, Motorhead, heavy metal umlauts, and one of the greatest songs by one of the greatest rock bands, ever. But it's also known as the Death card. And not just because that card is, arguably, one of theblack aces in the dead man's hand...
+The Ace of Spades. If you're a fan of the new wave of British heavy metal bands in the mid-70s and early eighties — I'm talking, decades, here, not averages of the band memebers, though probably that too, actually, at least for the ones who aren't dead yet — that can only mean one thing: Lemmy, Motorhead, heavy metal umlauts, and one of the greatest songs by one of the greatest rock bands, ever.
 
-Ever since the time of Queen Anne, in the early seventeen hundreds, the Ace of Spades was, quite literally, a marked card: becuase that card had to bear an official stamp. Stamp duty, a tax on every pack of playing cards, was levied on the wrapper that sealed each new pack of cards, but a stamp on the ace showed that the duty had been paid on that pack. From the mid-seevnteen hundreds, the hand stamp was replaced by an Ace that was printed by the official Stamp Office. Only the official ace was allowed in a pack, and any printer fraudulently publishing the ace of spades card could be punished seveely for it.
+But it's also known as the Death card.
 
-Take 
+And not just because that card is, arguably, one of the black aces in the dead man's hand of aces and eights that wild-west folk hero and gun-slinger, Wild Bill Hickok, was holding when he was shot in the back of the head in a saloon bar in 1876.
 
+Take, for example, this tragic report from Southsea, in December, 1806:
+
+```{admonotion} *A most melancholy circumstance*, December, 1806
+:class: dropdown
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18061222/001/0001
+Hampshire Chronicle - Monday 22 December 1806
+
+On Wednesday last a most melancholy circumstance occurred on Southsea Common. Mr. W. A. Limerick, in company with Mr. J. Hyde, Mr. W. Hamilton, and Mr. W. Wilkinson, having agreed to shoot at a mark for a wager, assembled near the bathing machines for the purpose of deciding the bet; when, having fixed the ace of spades to a post, they withdrew to a distance of twelve yards. Limerick, by the consent of the party, was to have the first fire; he accordingly pulled the trigger of his pistol, which hung fire, when he removed, and another of the party came up to fire. Limerick had moved but a very short distance, when he received a ball in his right side, which passed through his body, grasing both his arms. The ball came from the pistol of Mr. Hamilton, which accidentally went off as he was about to fire at the card.— Mr. Limerick immediately dropped his pistol, and, after running about 50 yards, fell down. He was taken to the bathing-house, and from thence to the Crown Inn, where he expired early the next morning. The most perfect friendship existed amongst them; and the unfortunate deceased made oath before his death that it was accidental. A coroner's inquest was held on the body, and a verdict of *accidental death* returned. Mr. Limerick had recently got his appointment as a writer in the East India Company's service, and was waiting to take his passage in the General Stuart East Indiaman, to India, where his father is, and from whom he has been absent years. He was buried on Saturday morning in the Garrison Chapel. The other gentlemen belonged to the General Stuart.
+```
+
+A tragedy, for sure. But the Ace of Spades association with death goes back further still.
+
+Ever since the time of Queen Anne, in the early seventeen hundreds, the Ace of Spades was, quite literally, a marked card: becuase that card had to bear an official stamp. Stamp duty, a tax on every pack of playing cards, was levied on the wrapper that sealed each new pack of cards, but a stamp on the ace showed that the duty had been paid on that pack. From the mid-seevnteen hundreds, the hand stamp was replaced by an Ace that was printed by the official Stamp Office. Only the official ace was allowed in a pack, and any printer fraudulently publishing the ace of spades card could be punished severely for it.
+
+Very severely. In an Act of Parliament of 1804 updating stamp duty across a range of items, the act of defrauding the monarch by forging stamps used to identify duty as having been paid was judged to be a felony. Which is to say, if you were convicted, then you could expect to receive a death penalty.
+
+```{admonition} An act to repeal and update stamp duties, Ch. 89. July, 1804
+:class: dropdown
+
+https://archive.org/details/statutesatlarge55britgoog/page/381/mode/1up
+p381
+
+CAP. XCVIII.
+An act to repeal the several duties under the commissioners managing the duties upon stamped vellum, parchment, and paper, in Great Britain, and to grant new and additional duties in lieu thereof.— July 28, 1804.
+
+1804 Anno regi quadragenmo quarto Georgii III C. 98. 381 [Geo. III, 44]
+
+IX. And be it further enacted, That if any person or Persons whatosever shall forge or counterfeit, or cause or procure to be forged or counterfeited, any mark, stamp, or die, which shall be provided, made, or used in pursuance of this act, or shall counterfeit or resemble, or cause or procure to be counterfeited or resembled, the impression of any such mark, stamp, or die, upon any vellum, parchment, paper, or other material, or upon any other matter or thing, or the impresion of the stamp or die, upon any vellum, parchment, or paper, allowed to be issued, used, or applied under the authority of this act, thereby to defraud his Majesty, his heirs or successors, of any of the duties by this act charged or imposed, or if any person or persons shall utter, vend, or sell, any vellum, parchment, paper, or other material, or other matter or thing, with such forged or counterfeit mark, stamp, or impression thereupon, knowing such mark, stamp, or impression to be forged or counterfeit, every such person so offending, being thereof convicted in due form of law, shall be judged a felon, and shall suffer death, as in cases of felony, without benefit of clergy.
+```
+
+With the updated law, the commissioners of His Majesty's Revenue were perhaps reinvigorated in their zeal to pursue potential felons as defined by the act, and so it was, that less thanseven months later, in February, 1804, a certain Mr John Blacklin, along with two others, were .
+
+Three months later, at the end of April, 1805, they separatey stood trial at the Old Bailey:
+
+
+```{admonition} *Feloniously vending playing cards*, May, 1805
+:class: dropdown
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18050502/015/0003
 Saint James's Chronicle - Thursday 02 May 1805
@@ -16,36 +54,40 @@ _ OLD BAILEY—Monday, April 29.
 
 Tuesday, April 30.  
 *Maydewall* and *Knype* were indicted for uttering forged stamps on the Ace of Spades, knowing them to be so. The fact of uttering was completely proved ; but the prisoners in their defence declared their ignorance of the forgery, which the Jury gave credit to by a verdict of acquittal.
+```
 
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002430/18050503/014/0004
-Oracle and the Daily Advertiser - Friday 03 May 1805
-
-OLD BAILEY. Yesterday, Blacklin, who was convicted of uttering a forged stamp on the ace of spades, was again placed in the Dock; Mr. SERGEANT BEST having, at his trial, suggested that, should he be convicted, he would submit to the Court an Arrest of Judgment on the informality of the indictment. Mr. GLEED, yesterday, supported the plea in favour of the Prisoner; and his arguments were replied to by Messrs. FIELDING, DAMPIER, and KNAPP, Counsel for the Crown. The RECORDER, however, did not deem it proper to decide on a point which involved the death of an individual, and the matter was consequently reserved for the opinion of the Twelve Judges. The judgment will of course be respited. 
-
+```{admonition} *Capital conviction*, May, 1805
+:class: dropdown
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000071/18050504/006/0004
 Ipswich Journal - Saturday 04 May 1805
 
 Monday, at the Old Bailey, John Blacklin, of Queen-street, Cheapside was capitally convicted for vendings cards with a forged stamp (as an Ace of Spades.) The trial lasted 5 hours and a half. Two boys indicted with him were acquitted, having acted under his control. Blacklin is supposed to have gained 8000£ a year by this practice.
+```
+
+
+
+```{admonition} *Simply smuggling?*, May, 1805
+:class: dropdown
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000361/18050506/005/0002
 Salisbury and Winchester Journal - Monday 06 May 1805
 Old Bailey. [Yesterday]... ] J. Harding, a dashing swindler, who has sometimes called himself Lord Hawke, was tried on a capital indictment for stealing gold watch from shop Bond-street; but appearing that the shopkeeper's apprentice had entrusted him with the watch, which he said he wished to shew to his brother, his depositing a fictitious bill for double the value, the capital part of the charge was done away, and was found guilty of simple felony.—J. Maydwell and J. Knype were tried for selling cards with a forged stamp of the ace of spades, in connection with Blacklin, capitally convicted on Monday: they declared their defence, that they thought the cards had been of French manufacture, and that they were engaged in a smuggling transaction only : the Jury gave them credit for this assertion, and they were accordingly acquitted.
+```
+
+```{admonition} *Judgement respited*, May, 1805
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002430/18050503/014/0004
+Oracle and the Daily Advertiser - Friday 03 May 1805
+
+OLD BAILEY. Yesterday, Blacklin, who was convicted of uttering a forged stamp on the ace of spades, was again placed in the Dock; Mr. SERGEANT BEST having, at his trial, suggested that, should he be convicted, he would submit to the Court an Arrest of Judgment on the informality of the indictment. Mr. GLEED, yesterday, supported the plea in favour of the Prisoner; and his arguments were replied to by Messrs. FIELDING, DAMPIER, and KNAPP, Counsel for the Crown. The RECORDER, however, did not deem it proper to decide on a point which involved the death of an individual, and the matter was consequently reserved for the opinion of the Twelve Judges. The judgment will of course be respited. 
+```
 
 
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001254/18050520/014/0003
-Public Ledger and Daily Advertiser - Monday 20 May 1805
-
-COURT OF EXCHEQUER. SATURDAY, May 18. Three persons were brought up for judgment under several convictions at country Assizes, for obstructing and assaulting the Revenue Officers in the execution of their duty, and were sentenccd, on motion of the Solicitor-General, to several periods of imprisonmet.
-
-At eleven o’clock, the Judges retired into the Inner Chamber, where they heard Mr. Sergeant Best and Mr. Glead in behalf of the arrest of judgment in the case of Blacklin, convicted for forging the Ace of Spades.
-
-TH: I can find a record of his execution so perhaps his sentence was reduced
-
-
----
+```{admonition} Trial of Isaac Maydwell, 24 April 1805
+:class: dropdown
+https://www.oldbaileyonline.org/record/t18050424-134
 
 ISAAC MAYDWELL. Royal Offences; tax offences. 24th April 1805
 
@@ -119,9 +161,11 @@ The prisoner called two witnesses, who gave him a good character.
 NOT GUILTY .
 
 London Jury, before Mr. Recorder.
+```
 
 
----
+```{admonition} Trial of James Knipe, 24 April 1805
+:class: dropdown
 
 https://www.oldbaileyonline.org/record/t18050424-135?text=knipe
 
@@ -289,8 +333,11 @@ NOT GUILTY .
 
 London Jury, before Mr. Recorder.
 
----
-https://www.oldbaileyonline.org/record/t18050424-108?text=blacklin
+```
+
+```{admonition} Trial of John Blacklin, 24 April 1805
+:class: dropdown
+https://www.oldbaileyonline.org/record/t18050424-108
 
 JOHN BLACKLIN. Royal Offences; tax offences. 24th April 1805.
 
@@ -474,9 +521,8 @@ Mr. Garrow. Q. I observe it is in red ink, 36 dozen W. P. 14 shillings - what is
 
 Cross-examined by Mr. Serjeant Best. Q. This is your hand-writing? - A. It is.
 
-Court. I take it every duty on cards the first sixpence, and then another sixpence, and so on; they were all additional duties till the present Act
+Court. I take it every duty on cards the first sixpence, and then another sixpence, and so on; they were all additional duties till the present Act of Parliament put them all into one, which is now half-a-crown.
 
-of Parliament put them all into one, which is now half-a-crown.
 JOHN RIVETT sworn. - Examined by Mr. Garrow. Q. Did you search the apartment of the last witness, Boddington? - A. I did.
 
 Q. At Mrs. Spalding's, in Coventry-street? - A. Yes.
@@ -665,6 +711,7 @@ Q. Do you know what it contained? - A. Yes.
 Q.What did it contain? - A. Cards.
 
 Q. Did you give the parcel containing cards to Mr. Boddington? - A. Yes, sometimes to Mr. Boddington, and sometimes I left it.
+
 Q. Did you give the square parcel that you have been speaking of to Mr. Boddington? - A. Yes.
 
 Q. Did you take any thing else, besides the packs of cards, from your master to Mr. Boddington? - A. Yes, another parcel, about the size of a pack of cards.
@@ -1023,14 +1070,12 @@ Mr. Serjeant Best. I take this to be the most convenient time to state my object
 
 The evidence that we have heard does not prove any offence within this Act of Parliament upon which this indictment is framed, the 29th of George the Third; the words are, that if any person shall counterfeit, or forge, or procure to be forged or counterfeited, or vend and sell any stamp or mark to be used relating to cards, dice, or newspapers, or shall counterfeit or resemble the same, with such counterfeit marks thereon, knowing the same to be counterfeited, shall be guilty of felony.
 
-Your Lordship will see that they are, by another Act of Parliament, directed to apply this stamp
+Your Lordship will see that they are, by another Act of Parliament, directed to apply this stamp not upon any of the cards, but upon the wrapper; the statute I allude to is the 9th of Ann, chap. 28, sect. 41, there the Commissioners are directed to put this stamp on the wrapper of these cards. I submit to your Lordship, it may be said that subsequent Acts of Parliament have added additional duties, still if the original statute of Ann is not repealed, whatever number of duties may be added, the stamp must be in the same place, and in the same manner, as it is pointed out by the said Act of Parliament; and any stamp put in any other manner, is a stamp which the Commissioners are not authorized to put on. I submit to your Lordship, as it appears to me, this man did not vend any of these stamps upon wrappers, nor any stamp upon cards, and if the Commissioners are authorized, by any subsequent Act of Parliament, to put the stamp upon a particular card, then this indictment has not made out the case, because this indictment is not for the offence of putting the stamp upon a particular card. I desired these two Counts to be read, and your Lordship will find that it is both uttering and vending stamps, not upon a particular card, but stamps upon playing cards.
 
-not upon any of the cards, but upon the wrapper; the statute I allude to is the 9th of Ann, chap. 28, sect. 41, there the Commissioners are directed to put this stamp on the wrapper of these cards. I submit to your Lordship, it may be said that subsequent Acts of Parliament have added additional duties, still if the original statute of Ann is not repealed, whatever number of duties may be added, the stamp must be in the same place, and in the same manner, as it is pointed out by the said Act of Parliament; and any stamp put in any other manner, is a stamp which the Commissioners are not authorized to put on. I submit to your Lordship, as it appears to me, this man did not vend any of these stamps upon wrappers, nor any stamp upon cards, and if the Commissioners are authorized, by any subsequent Act of Parliament, to put the stamp upon a particular card, then this indictment has not made out the case, because this indictment is not for the offence of putting the stamp upon a particular card. I desired these two Counts to be read, and your Lordship will find that it is both uttering and vending stamps, not upon a particular card, but stamps upon playing cards.
 Mr. Gleed. If I understand the meaning of the word cards right, it must be a perfect pack of cards; the uttering of any one card would not be a felony within the meaning of this Act of Parliament, but by making use of the word playing cards. We must likewise see what the Legislature thought proper to impose upon selling such cards. The duty has been imposed upon a pack of playing cards, it is so stated upon the face of this indictment to be playing cards, and the evidence has been, in this case, of uttering cards without the aces of spades. The cards, without the aces of spades, cannot be considered as playing cards, nor can the ace of spades sold by itself at any time be said to be playing cards. In all cases of forgery, it is necessary that the forged instrument should be in all parts the similitude of the true; in this case there arises an objection, namely, it does not appear to be a pack of cards within the meaning of the words in this Act of Parliament, nor is it that which upon the face of the indictment it charges the prisoner with. It charges the prisoner with uttering, vending, and selling playing cards, when, in point of fact, the only evidence that has been introduced on the part of the prosecution have only supported the sale of a parcel of fifty-one cards, and not a pack of cards.
 
-Mr. Solicitor General. It has been stated to your Lordship, that we cannot possibly support this indictment that charges the prisoner with having sold cards with counterfeit stamps, which must mean a counterfeit stamp on the wrapper; for the learned Serjeant says there is no Act justifies any stamp upon these cards. The 9th of Ann, which directs stamps to be put on the wrapper, which is true, but my answer is a positive denial on the fact, from subsequent Acts of Parliament on the case, which he had either forgotten or omitted. The 10th of Ann, chap. 19, sect. 162, it is enacted, that on one card in each pack shall be marked on the spotted side thereof. Your Lordship will go to the 5th of George the Third, chap. 46, sect. 9, which I do not find to be repealed, it there directs the Commissioners to provide a new stamp for the wrapper. No, for the ace of spades, and to make distinction between those meant for home consumption and those for exportation, and then it directs that which has always been observed by the Stamp Office, and which they have been studiously attentive to, that one of the sixpenny duties shall be denoted on the wrapper, and another also is directed to be put on the wrapper, and one of these sixpenny duties is also directed to be denoted on the ace of spades. I am not sure that any former Act mentions the ace of spades, but the 10th of Ann having directed it to be on the spotted side of one of the cards, and practice has continued it on the ace of spades. The next argument that fell from a learned friend of mine was, that the Act which prohibits the selling of playing cards with counterfeit stamps, must mean to prohibit vending packs of cards with counterfeit stamps, and that there is no evidence in this case of the vending a pack of cards, only a parcel of fifty-one, and that therefore this case is not within the Act. Certainly, without deviating from the indulgence which is permitted to the Counsel of a prisoner, I might have interrupted him when he was addressing your Lordship, though in fact he was addressing the Jury, when he was stating that there was not sufficient evidence to go to a Jury. Your Lordship will see there is not only evidence, but decisive evidence, and the fact is most certain, that the packs are sold in this way: - If I was to sell a dozen, containing each fifty-one in one parcel, and I sell another parcel containing twelve aces of spades, which two parcels together make twelve packs, if it was necessary to prove his selling these cards, and delivering them in this way, there is no doubt from the evidence. In the first place, do they bargain for cards containing each fifty-one? No; they bargain for a gross, or packs of cards; what or how much a dozen, for what is a dozen parcels of cards without the aces of spades? No, they include the aces of spades, there is no additional price for the aces of spades that these people were to pay, I will prove it by Boddington, who bought thirty-six dozen, and the evidence has said they would not pay for the cards, they would not pay the man till he had sent out the aces of spades. It is beyond all possibility of a doubt that the prisoner not only sold, but actually delivered packs of cards, and that it is proved beyond
+Mr. Solicitor General. It has been stated to your Lordship, that we cannot possibly support this indictment that charges the prisoner with having sold cards with counterfeit stamps, which must mean a counterfeit stamp on the wrapper; for the learned Serjeant says there is no Act justifies any stamp upon these cards. The 9th of Ann, which directs stamps to be put on the wrapper, which is true, but my answer is a positive denial on the fact, from subsequent Acts of Parliament on the case, which he had either forgotten or omitted. The 10th of Ann, chap. 19, sect. 162, it is enacted, that on one card in each pack shall be marked on the spotted side thereof. Your Lordship will go to the 5th of George the Third, chap. 46, sect. 9, which I do not find to be repealed, it there directs the Commissioners to provide a new stamp for the wrapper. No, for the ace of spades, and to make distinction between those meant for home consumption and those for exportation, and then it directs that which has always been observed by the Stamp Office, and which they have been studiously attentive to, that one of the sixpenny duties shall be denoted on the wrapper, and another also is directed to be put on the wrapper, and one of these sixpenny duties is also directed to be denoted on the ace of spades. I am not sure that any former Act mentions the ace of spades, but the 10th of Ann having directed it to be on the spotted side of one of the cards, and practice has continued it on the ace of spades. The next argument that fell from a learned friend of mine was, that the Act which prohibits the selling of playing cards with counterfeit stamps, must mean to prohibit vending packs of cards with counterfeit stamps, and that there is no evidence in this case of the vending a pack of cards, only a parcel of fifty-one, and that therefore this case is not within the Act. Certainly, without deviating from the indulgence which is permitted to the Counsel of a prisoner, I might have interrupted him when he was addressing your Lordship, though in fact he was addressing the Jury, when he was stating that there was not sufficient evidence to go to a Jury. Your Lordship will see there is not only evidence, but decisive evidence, and the fact is most certain, that the packs are sold in this way: - If I was to sell a dozen, containing each fifty-one in one parcel, and I sell another parcel containing twelve aces of spades, which two parcels together make twelve packs, if it was necessary to prove his selling these cards, and delivering them in this way, there is no doubt from the evidence. In the first place, do they bargain for cards containing each fifty-one? No; they bargain for a gross, or packs of cards; what or how much a dozen, for what is a dozen parcels of cards without the aces of spades? No, they include the aces of spades, there is no additional price for the aces of spades that these people were to pay, I will prove it by Boddington, who bought thirty-six dozen, and the evidence has said they would not pay for the cards, they would not pay the man till he had sent out the aces of spades. It is beyond all possibility of a doubt that the prisoner not only sold, but actually delivered packs of cards, and that it is proved beyond all possibility of a doubt or hesitation, that there were all these packs of cards not only sold, but a specific price to be given for each pack.
 
-all possibility of a doubt or hesitation, that there were all these packs of cards not only sold, but a specific price to be given for each pack.
 Court. I consider it as an offence undoubtedly upon which the Revenue has been defrauded in the strictest sense of the words of the Act of Parliament, that is on record, because there are fifty-one in one parcel, and one in another, which made up the pack of cards.
 
 Jury. Q.(To the Secretary of the Stamp Office.) Whether you know of any cards being sold to the Neckinger Mill Company? - A. There were some sold, but I do not know to whom.
@@ -1049,58 +1094,48 @@ GUILTY , Death , aged 28.
 
 First Middlesex Jury, before Mr. Baron Thompson .
 
-
----
-
+```
 
 
+```{admonition} Blacklin's appeal is heard, 18th May, 1805
+:class: dropdown
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001254/18050520/014/0003
+Public Ledger and Daily Advertiser - Monday 20 May 1805
 
+COURT OF EXCHEQUER. SATURDAY, May 18. Three persons were brought up for judgment under several convictions at country Assizes, for obstructing and assaulting the Revenue Officers in the execution of their duty, and were sentenccd, on motion of the Solicitor-General, to several periods of imprisonmet.
 
-eg Denman speaking on " bill for abolishing death punishment in cases of forgery, June 4, 1821 "
-https://api.parliament.uk/historic-hansard/commons/1821/jun/04/forgery-punishment-mitigation-bill
-HANSARD 1803–2005 → 1820s → 1821 → June 1821 → 4 June 1821 → Commons Sitting
-FORGERY PUNISHMENT MITIGATION BILL.
-HC Deb 04 June 1821 vol 5 cc1099-1141099
-On the order of the day for the third reading of this bill.
+At eleven o’clock, the Judges retired into the Inner Chamber, where they heard Mr. Sergeant Best and Mr. Glead in behalf of the arrest of judgment in the case of Blacklin, convicted for forging the Ace of Spades.
 
-https://archive.org/details/statutesatlarge55britgoog/page/381/mode/1up?q=%22Stamp+act%22
-CAP. XCVIII.
-An act to repeal the several duties under the commissioners managing the duties upon stamped vellum, parchment, and paper, in Great Britain, and to grant new and additional duties in lieu thereof.— July 28, 1804.]
-1804J Anno regi quadragenmo quarto Georgii III C. 98. 381 [Geo. III, 44]
-IX. And be it further enacted, That if any person or Persons whatosever shallforge or counterfeit, or cause or procure to be forged or counterfeited, any mark, stamp, or die, which shall be provided, made, or used in pursuance of this act, or shall counterfeit or resemble, or cause or procure to be counterfeited or resembled, the impresion of any such mark, stamp, or die, upon any vellum, parchment, paper, or other material, or upon any other matter or thing, or the impresion of the stamp or die, upon any vellum, parchment, or paper, allowed to be issued, used, or applied under the authority of this act, thereby to defraud his Majesty, his heirs or successors, of any of the duties by this act charged or imposed, or if any person or persons shall utter, vend, or sell, any vellum, parchment, paper, or other material, or other matter or thing, with such forged or counterfeit mark, stamp, or impression thereupon, knowing such mark, stamp, or impression to be forged or counterfeit, every such person so offending, being thereof convicted in due form of law, shall be judged a felon, and shall suffer death, as in cases of felony, without benefit of clergy.
+```
 
+Blacklin it seems, got off lightly. I found no record of his execution, and we might assume he received a lesser sentence.
 
+But it seems that ater that year, for a certain Mr. John Harding, who was also charged with a similar offence, well, he was not to be so lucky:
+
+```{admonition} *Execution*, November, 1805
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000388/18051119/004/0002
 Chester Courant - Tuesday 19 November 1805
-EXECUTION
-John Harding, for forging the stamp upon the Ace of Spades William Cubitt, groom of the chambers to the Earl of Mansfield, for robbing his master of a gold box, set with diamonds, a portrait of the late Emperor Russia, a present from that Monarch to the late Earl; and Mary Parnell, for forgery upon the Bank of England, were executed this morning, at half-past eight o'clock, at the usual place, in the front of the Old Bailey. Mr. Harding was dressed in black, the woman all in white, white gloves, &c. she was conduced to the scaffold by Mr. Ford, the Ordinary. After Mr. Ford had delivered his pious exhortation to these three unhappy persons, the platform fell, and Mr. Ford, who happened to be standing upon it the time, came to the ground. We are concerned to state, that he was much bruised. He was assisted into Mr. Newman's house immediately. The woman struggled much before she died. Cubitt appeared almost insensible, from the moment he was brought out to the scaffold. The concourse of people that attended the execution was immense. The Sheriffs and City Marshals, Nalder and Holdsworth, were present upon the occasion.— John Burrows, a youth of 17, who was also under sentence of death, has been respited tor 14 days. His unhappy parents left town yesterday, overwhelmed with grief, considering his fate inevitable. 
+EXECUTION. John Harding, for forging the stamp upon the Ace of Spades.
+```
 
-https://archive.org/details/statutesatlarge55britgoog/page/436/mode/2up?q=%22Stamp+act%22
-Playing-Cards, for every pack which (hall be made fit for sale or use in Great Britain 2s 6d.
 
-eg Ace of Spades , playing cards, https://en.wikipedia.org/wiki/Richard_Harding_(forger) , 
-https://www.oldbaileyonline.org/browse.jsp?id=t18050918-62-person589&div=t18050918-62#highlight
-RICHARD HARDING.
-Deception: forgery.
-18th September 1805
-Reference Number	t18050918-62
-Verdict	Guilty
-Sentence	Death
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001254/18051108/008/0003
-Public Ledger and Daily Advertiser - Friday 08 November 1805
-RECORDER'S REPORT. the Recorder made Report to his Majesty of the following convicts under sentence of death in Newgate, viz,—... Richard Harding, for counterfeiting and resembling the impression of a mark used on playing cards, and for vending and selling, cards with such false impressions.
-
+```{admonition} *Capitally convicted*, September, 1805
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000052/18050926/003/0002
 Derby Mercury - Thursday 26 September 1805
 Old Bailey. Saturday, Richard Harding, card-maker, for forging the Ace of Spades; ... w[as] capitally convicted.
+```
 
+```{admonition} *Suicide*, August, 1805
+::class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18050820/011/0003
 Morning Herald (London) - Tuesday 20 August 1805
 SUICIDE.—An elderly Lady, near 70 years of age, put a period to her existence on Wednefday evening last, near Weybridge, in Surrey. She was the wife of Mr. JOHN SKELTON, Tea-dealer, in Green-street, Grosvenor-square, and had been for some time desponding in her mind; in consequence of which, she had been at various places for the recovery of her health, and had latterly been on a visit to the family of Mr. BENNETT, near Weybridge. On Tuesday morning, after partaking of a hearty breakfafi, she observed to the family, that she would take a short walk, being of opinion it would do her good, and with unusual earnestness bid them " Good bye," but returned shortly, and, tbaking them by the hands, said, " God bids you! God bids you!" Expecting her return, the family waited with the utmost anxiety for the space of two hours ; but not returning, they sent messengers after her. After a considerable search, she was found on the following morning sitting upright in a ditch, with her throat cut from ear to ear, and a pen-knife lying by her side, which she generally carried in her pocket. A Coroner's Inquest was summoned, and the evidence adduced proved these facts, with the addition, that the whole of the day on which the disappeared was spent in a hay-field, where some haymakers were at work, who observed her walking backwards and forwards. The Jury refurned a verdict of *Lunacy*.—The unhappy Lady was very much repsected, for the urbanity and gentleness with which on all occasions she conducted herself, and was the mother of a fine family of children, all of whom are arrived at puberty.
+```
 
-
+```{admonition} *Indicted on two counts*, September, 1805
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18050923/016/0004
 Morning Post - Monday 23 September 1805
 OLD BAILEY. — Saturday, Sept. 21. *Richard Harding* was indicted on two counts ; the first charging him with forging, fabricating, and publishing, as true, a stamp on the spade ace ; and second, with selling and uttering the same playing cards, well knowing such stamp to be forged. The case was opened at great length by the Attorney-General.
@@ -1110,7 +1145,10 @@ Mr. Hockley, the printer of the legal spade ace stamps, stated that he had purch
 Rivett, Millar, and Carpmeal, searched the premises occupied by the prisoner, at the back of Skelton's house, where they found a quantity of counterfeit stamp aces, and a quantity of plates tor fabricating stamps, which were concealed under ground. In the counterfeit aces, in the word *Dieu*, in the motto, in the letter R. was substituted for the letter F.
 
 Mr. Justice Heath addressed the Jury, and observed there could be no doubt in the case. The Jury found the prisoner guilty— *Death*.
+```
 
+```{admonition} *A most excellent character*, September, 1805
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18050930/005/0002
 Hampshire Chronicle - Monday 30 September 1805
 Old Bailey, Sept. 21.
@@ -1125,25 +1163,29 @@ The evidence adduced was nearly of the same nature with that brought forward aga
 The prisoner adduced evidence to disprove any one of the charges, but a number of most respectable tradesmen from his own neighbourhood, who knew him for a series of years, gave him most excellent character.
 
 The Jury, after a short consultation, found a verdict of *Guilty*——DEATH.
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000388/18051119/004/0002
-Chester Courant - Tuesday 19 November 1805
-EXECUTION. John Harding, for forging the stamp upon the Ace of Spades.
-
+```{admonition} *Trafficking to a degree exceeding all calculation*, September, 1805
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001254/18050923/009/0003
 Public Ledger and Daily Advertiser - Monday 23 September 1805
 
-OLD BAILEY. Saturday 18 were tried at the Old Bailey, five whom were capitally convicted, viz. R. Harding, for counterfeiting the Ace of Spades, with intent to defraud the revenue. Our Readers must recollect that several persons hare already been tried for Vending playing cards, with forged duty aces, knoWing them to be fraudulent and fabriaceted, and that one Blacklin is now under sentence of death for the same. It appeared in the course of the evidence in this case, that the prisoner, who was some time back a card-maker near Oxford-street, had procured several men to engrave the plates, and to embark in the unlawful practice, by the most deceitful representations, and through their means he had carried on a traffic to a degree exceeding all calculation. He procured and worked off the duty aces, which he sold to other dealers at a rate comparatively nothing with the Government duty, and yet he must have amassed great sums of money.
+OLD BAILEY. Saturday 18 were tried at the Old Bailey, five whom were capitally convicted, viz. R. Harding, for counterfeiting the Ace of Spades, with intent to defraud the revenue. Our Readers must recollect that several persons hare already been tried for Vending playing cards, with forged duty aces, knowing them to be fraudulent and fabricated, and that one Blacklin is now under sentence of death for the same. It appeared in the course of the evidence in this case, that the prisoner, who was some time back a card-maker near Oxford-street, had procured several men to engrave the plates, and to embark in the unlawful practice, by the most deceitful representations, and through their means he had carried on a traffic to a degree exceeding all calculation. He procured and worked off the duty aces, which he sold to other dealers at a rate comparatively nothing with the Government duty, and yet he must have amassed great sums of money.
+```
 
-
+```{admonition} *A genteel man, dressed in black, and full powdered*, September, 1805
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0001286/18050922/027/0007?browse=true
 Bell's Weekly Messenger - Sunday 22 September 1805
 On Friday 18 prisoners were tried, one of whom was capitally convicted. ...
 Yesterday Richard Harding was capitally indicted for forging, fabricating, uttering, and publishing as true, a stamp the spade ace, with intent to defraud the revenue.
 
-The Attorney General opened the case on the part of the prosecution, in a very long speech, in which he stated to the Jury the outline of the prisoner’s transactions. The first witness called was Mr. Hockley, the printer of the legal spade ace at the Stamp-Office. He had very frequently made purchases of packs of cards of the prisoner, as had also his apprentice, and the stamps on the aces of spades were all forges. These purchases, which were very numerous, took place in the month of June 1804. It appeared by the evidence adduced on the part of the prosecution, that the prisoner kept two shops, where these packs of cards were sold, the one in Hereford-street, Oxford-street, and the other in North-row, near Grosvenor-square. The prisoner’s apprentice deposed, that he saw his master making cards on one occasion, and observed him to paste labels on them, which he gave a gloss to by putting some liquid on them. Witness also proved that the prisoner occupied premises behind the 
+The Attorney General opened the case on the part of the prosecution, in a very long speech, in which he stated to the Jury the outline of the prisoner’s transactions. The first witness called was Mr. Hockley, the printer of the legal spade ace at the Stamp-Office. He had very frequently made purchases of packs of cards of the prisoner, as had also his apprentice, and the stamps on the aces of spades were all forges. These purchases, which were very numerous, took place in the month of June 1804. It appeared by the evidence adduced on the part of the prosecution, that the prisoner kept two shops, where these packs of cards were sold, the one in Hereford-street, Oxford-street, and the other in North-row, near Grosvenor-square. The prisoner’s apprentice deposed, that he saw his master making cards on one occasion, and observed him to paste labels on them, which he gave a gloss to by putting some liquid on them. Witness also proved that the prisoner occupied premises behind the house of Mr. Skelton, Green-street, Grosvenor square. A body of evidence was adduced to prove that the prisoner had employed a seal engraver of the name of Leadbeater to execute aces of spades for him. Leadbeater dined with the prisoner two years since, when he asked him if he could engrave on copper. On being answered the negative, the prisoner requested he would find some trusty artist in that branch. Leadbeater recommended a youth of the name of White, who, the prisoner was informed, could be depended on. Four duty aces were given to Leadbeater for White to imitate as closely possible, and if he was asked any questions, was to say they were for a foreigner at Hamburg. White, however, was timid, and all negociations With him was abandoned. In six or seven months after, the prisoner pressed on Leadbeater to learn the art of engraving copper, adding, that he would be at the expence of a master. Mr. Woodthorpe, a respectable engraver in Fetter-lane, waa applied to, and the witness was placed under his tuition. The prisoner's visits to Leadbeater was very frequent, and one day he showed him an old plate of the spade ace, which he wished to be touched up. Witness was unable to do the job, and an apprentice of the name of Bunning was employed, under the impression that the plate was for Mr. Shepherd of the Stamp Office. It was also proved, in evidence, that the prisoner had large dealings with Mr. Skelton for spirits, &c. for which he gave *waste paper*; that is, packs of cards, which Mr. S. sold st a profit. Rivctt, Miliar, and Carpmeal, searched the premises occupied by the prisoner, at tbe back of Mr. Skelton's house. They found a quantity of forged stamps of the spade ace, and also a quantity of forged plates for frabricating the stamps, which were concealed under ground. In the counterfeit aces, in the word"Dieu*", in the motto the letter R. was substituted for the letter E. Mr, Justice Heath addressed the Jury, and observed, there could doubt in the case. The Jury found the prisoner *Guilty*, *Death*. The prisoner is a genteel man, 35 years of age, and he was dressed in black, and full powdered!
 
-house of Mr. Skelton, Green-street, Grosvenor square. A body of evidence was adduced to prove that the prisoner had employed a seal engraver of the name of Leadbeater to execute aces of spades for him. Leadbeater dined with the prisoner two years since, when he asked him if he could engrave on copper. On being answered the negative, the prisoner requested he would find some trusty artist in that branch. Leadbeater recommended a youth of the name of White, who, the prisoner was informed, could be depended on. Four duty aces were given to Leadbeater for White to imitate as closely possible, and if he was asked any questions, was to say they were for a foreigner at Hamburg. White, however, was timid, and all negociations With him was abandoned. In six or seven months after, the prisoner pressed on Leadbeater to learn the art of engraving copper, adding, that he would be at the expence of a master. Mr. Woodthorpe, a respectable engraver in Fetter-lane, waa applied to, and the witness was placed under his tuition. The prisoner's visits to Leadbeater was very frequent, and one day he showed him an old plate of the spade ace, which he wished to be touched up. Witness was unable to do the job, and an apprentice of the name of Bunning was employed, under the impression that the plate was for Mr. Shepherd of the Stamp Office. It was also proved, in evidence, that the prisoner had large dealings with Mr. Skelton for spirits, &c. for which he gave *waste paper*; that is, packs of cards, which Mr. S. sold st a profit. Rivctt, Miliar, and Carpmeal, searched the premises occupied by the prisoner, at tbe back of Mr. Skelton's house. They found a quantity of forged stamps of the spade ace, and also a quantity of forged plates for frabricating the stamps, which were concealed under ground. In the counterfeit aces, in the word"Dieu*", in the motto the letter R. was substituted for the letter E. Mr, Justice Heath addressed the Jury, and observed, there could doubt in the case. The Jury found the prisoner *Guilty*, *Death*. The prisoner is a genteel man, 35 years of age, and he was dressed in black, and full powdered!
+```
+
+```{admonition} *A trial of considerable interest*, September, 1805
+:class: dropdown
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002593/18050924/007/0002
 General Evening Post - Tuesday 24 September 1805
@@ -1152,7 +1194,7 @@ Old Bailey, Saturday, Sept. 21
 
 Richard Harding was capitally indicted for forging and counterfeiting certain stamps, or Stamp Office marks, of the Ace of Spades, on playing cards, and vending and uttering the same knowng them to be forged and counterfeited, contrary to the statute of the 44th of the King.
 
-This was a trial of cosiderable interest, carried on at the prosecution of the Commissioners of Stamp Duties. The prisoner was a cardmaker, in a most eminent and respectable line of trade, and carried on his busienss at two different houses, licensed for the purpose, viz. in Hereford-street, Oxford-road, and in Green0street, Grosvenor-square. The suspicions against the prisoner were excited in the Commissioners by the very small number of stamps he took out, in proportion to the extensive line of business he carried on; in consequence of which they employed persons to purchase different quantities of cards at his hiouse, from the examination of which the forgeries were detected.
+This was a trial of considerable interest, carried on at the prosecution of the Commissioners of Stamp Duties. The prisoner was a cardmaker, in a most eminent and respectable line of trade, and carried on his busienss at two different houses, licensed for the purpose, viz. in Hereford-street, Oxford-road, and in Green0street, Grosvenor-square. The suspicions against the prisoner were excited in the Commissioners by the very small number of stamps he took out, in proportion to the extensive line of business he carried on; in consequence of which they employed persons to purchase different quantities of cards at his hiouse, from the examination of which the forgeries were detected.
 
 The prosecution was opened by Mr, Dampier, and the case stated by the Attorney General; Mr. Garrow and Mr. Knapp qwere also for the prosecution; and Mr. Alley and Mr. Gurney for the prisoner.
 
@@ -1162,7 +1204,7 @@ Stephen Lepine deposed, that he was apprenticed with the prisoner 2 years, endin
 
 A witness, named Leadbeater, deposed, that he lodges at No. 65, Well-stree, Oxford-road, and is a stone seal engraver. has known the prisoner three years; remembers having dined with the prisoner at his house on a Sunday about two years since; after dinner the prisoner called him aside in another room, shut the door, and asked him if he could engrave on copper; witness said no, but he knew a young man who did, named White. The prisoner paused some time, and then asked if he could be depended upon? Witness answered *he* would endeavour to get done for him anything he wanted. Prisoner said he would call on him in a few days, which he did at the witness's lodgings, in Greek-street, and brought with hime four copies of the *Duty Ace of Spades*, with the name of the seller cut off, and told him to take them to White and get them copied as close as he could, and if White should ask any questions, to say they were for a foreginer at Hamburgh. Witness carried them to White, and asked him if he would copy them; White said he would call and let him know next day: when he did see him, and White said, for God's sake Leadbeater take care what you are about; adding, that he could engrave them, but he must give them into the hands of a Magistrate.— Witness then said, it was a cardmaker of his acquaintance that gave them to him, and afterwards went and told the prisoner what passed, and that White said it was a forgery. The prisoner answered it was no such thing, and desired witness to call on White again and tell him to do them, and any money he might ask he should have : but White said he would have nothing to do with them, but thought the witness knew who they were for. Saw White no more; nothing farther passed for six or seven months ; witness afterwards lodged at 42, Great Titchfield-street, whither the prisoner came to him and asked him if he thought he could do the cards himself; witness said NO, but that he thought he might soon learn with instructions; prisoner desired him to look out for and agree with some proper person to instruct him, and he would pay the expence ; and witness accordingly applied to Mr. Woodthorpe, an engraver in Fetter-lane, who agreed, for twenty guineas to instruct him. The prisoner frequently asked him, while under Mr. Woodthorpe's instruction, how he came on ; and at one time asked him if he could not copy the Ace of Spades, as he was much distressed since the poor old *Baronet*, who used to do them for him the last sixteen years was dead. He afterwards brought the witness copper plate with 24 Aces of Spades and asked him if he could *touch it up* (a term used by the engravers for repairing a plate). Witness said he would try, and on the Sunday following went to dine with the prisoner, who after dinner brought him into a room with the plate, and locked the dour. Witness tried to touch it up, but could not. The prisoner came to him in a quarter of an hour. Witness remembers the numbers this plate were 1, 2, 6, 7. Prisoner came again to his lodgings, and asked him if he could engrave on brass, which he answered in the negative ; he brought a plate with him under his coat, with twenty Aces of Spades upon it, and told the witness to copy 14, 15, 19, 20,  which witness said he would, and employed a young man named Bunning, an apprentice to Mr Woodthorpe, to do it ; gave the plate afterwards to the prisoner, who said it was very neatly done, and came shortly afterwards to have another done, but instead of the name of Harding, to put in that of Blanchard, and gave him an Exportation Ace to copy from; this done he came again, and ordered two more with the name Harding, and the duty on, observing, that if he worked too much on one plate, he should be found out. Witness remembers at the time when Harding and Lee were taken taken. The officers had been to his house, and the prisoner gave him instructions, if he was asked any questions, to say he knew nothing about the business. Witness was apprehended in June, and at that time there were two of the prisoner's plates in his house, which the prisoner had brought to have some more printed.
 
-*Cross-examoned by Mr. Gurney.* Witnes said, he had told Bunning, who engraved those plates, that they were for Mr. Shepherd, Engraver to the Stamp Office: that he himself was taken up three times after his first examination, that he was a little afraid for his neck; acknowledged that the first and second accounts he gave to the Magistrates of the transaction were very different, and neither true, but said that he would abide by the last account he had given, as that was the truth. The others he acknowledged to be false, though all taken before the same Magistrate.
+*Cross-examined by Mr. Gurney.* Witnes said, he had told Bunning, who engraved those plates, that they were for Mr. Shepherd, Engraver to the Stamp Office: that he himself was taken up three times after his first examination, that he was a little afraid for his neck; acknowledged that the first and second accounts he gave to the Magistrates of the transaction were very different, and neither true, but said that he would abide by the last account he had given, as that was the truth. The others he acknowledged to be false, though all taken before the same Magistrate.
 
 Christopher Bunning supported the testimony of the last witness, so far as concerned him.
 
@@ -1179,18 +1221,15 @@ The Distributor of Stamps proved that the ace of spaces he delivers out to the c
 Here closed the evidence for the prosecution ; the prisoner adduced no evidence to disprove any one of the charges, but a number of most respectable tradesmen from his own neighbourhood, who knew him for a series of years gave him a most excellent character.
 
 The Jury, after a short consultation, found a verdict *Guilty*, *Death*. —Aged 35.
+```
 
+```{admonition} Trial of Richard Harding, 18 September, 1805
+:class: dropdown
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18061222/001/0001
-Hampshire Chronicle - Monday 22 December 1806
+Trial proceedings: https://www.oldbaileyonline.org/record/t18050918-62
 
-On Wednesday last a most melancholy circumstance occurred on Southsea Common. Mr. W. A. Limerick, in company with Mr. J. Hyde, Mr. W. Hamilton, and Mr. W. Wilkinson, having agreed to shoot at a mark for a wager, assembled near the bathing machines for the purpose of deciding the bet; when, having fixed the ace of spades to a post, they withdrew to a distance of twelve yards. Limerick, by the consent of the party, was to have the first fire; he accordingly pulled the trigger of his pistol, which hung fire, when he removed, and another of the party came up to fire. Limerick had moved but a very short distance, when he received a ball in his right side, which passed through his body, grasing both his arras. The ball came from the pistol of Mr. Hamilton, which accidentally went off as he was about to fire at the card.— Mr. Limerick immediately dropped his pistol, and, after running about 50 yards, fell down. He was taken to the bathing-house, and from thence to the Crown Inn, where he expired early the next morning. The most perfect friendship existed amongst them; and the unfortunate deceased made oath before his death that it was accidental. A coroner's inquest was held on the body, and a verdict of *accidental death* returned. Mr. Limerick had recently got his appointment as a writer in the East India Company's service, and was waiting to take his passage in the General Stuart East Indiaman,  to India, where his father is, and from whom he has been absent years. He was buried on Saturday morning in the Garrison Chapel. The other gentlemen belonged to the General Stuart.
+RICHARD HARDING, Deception ; forgery, 18th September 1805.
 
-
-Trial proceedings: https://www.oldbaileyonline.org/browse.jsp?id=t18050918-62-defend585&div=t18050918-62
-Old Bailey Proceedings Online (www.oldbaileyonline.org, version 8.0, 15 November 2023), September 1805, trial of RICHARD HARDING (t18050918-62).
-Old Bailey Proceedings Online (www.oldbaileyonline.org, version 8.0, 15 November 2023), September 1805, trial of RICHARD HARDING (t18050918-62).
-RICHARD HARDING, Deception > forgery, 18th September 1805.
 583. RICHARD HARDING was indicted for that he, on the 24th of May , feloniously did forge, counterfeit, and resemble, on the spotted side on one of the cards in a certain parcel of playing cards, the impression of a certain mark used and denoted on the spotted side of playing cards, with intention to defraud the duty charged on playing cards .
 
 Second Count. For feloniously vending and selling, on the same day, certain playing cards, with counterfeit impressions of certain marks used and denoted upon playing cards, he at the time knowing the said marks to be counterfeited. And
@@ -1969,9 +2008,52 @@ GUILTY , Death , aged 35.
 
 Second Middlesex Jury, before Mr. Justice Heath.
 
+```
 
----
 
 
-1836 transported for lide
+```{admonition} *The Recorder made Report*, November, 1805
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001254/18051108/008/0003
+Public Ledger and Daily Advertiser - Friday 08 November 1805
+RECORDER'S REPORT. the Recorder made Report to his Majesty of the following convicts under sentence of death in Newgate, viz,—... Richard Harding, for counterfeiting and resembling the impression of a mark used on playing cards, and for vending and selling, cards with such false impressions.
+```
+
+
+```{admonition} An accident on the scaffold? November, 1805
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000388/18051119/004/0002
+Chester Courant - Tuesday 19 November 1805
+EXECUTION
+John Harding, for forging the stamp upon the Ace of Spades William Cubitt, groom of the chambers to the Earl of Mansfield, for robbing his master of a gold box, set with diamonds, a portrait of the late Emperor Russia, a present from that Monarch to the late Earl; and Mary Parnell, for forgery upon the Bank of England, were executed this morning, at half-past eight o'clock, at the usual place, in the front of the Old Bailey. Mr. Harding was dressed in black, the woman all in white, white gloves, &c. she was conduced to the scaffold by Mr. Ford, the Ordinary. After Mr. Ford had delivered his pious exhortation to these three unhappy persons, the platform fell, and Mr. Ford, who happened to be standing upon it the time, came to the ground. We are concerned to state, that he was much bruised. He was assisted into Mr. Newman's house immediately. The woman struggled much before she died. Cubitt appeared almost insensible, from the moment he was brought out to the scaffold. The concourse of people that attended the execution was immense. The Sheriffs and City Marshals, Nalder and Holdsworth, were present upon the occasion.— John Burrows, a youth of 17, who was also under sentence of death, has been respited tor 14 days. His unhappy parents left town yesterday, overwhelmed with grief, considering his fate inevitable.
+```
+
+
+1836 transported for life
 https://www.oldbaileyonline.org/record/t18360104-340?text=%22ace%20of%20spades%22
+
+
+
+eg Denman speaking on " bill for abolishing death punishment in cases of forgery, June 4, 1821 "
+https://api.parliament.uk/historic-hansard/commons/1821/jun/04/forgery-punishment-mitigation-bill
+HANSARD 1803–2005 → 1820s → 1821 → June 1821 → 4 June 1821 → Commons Sitting
+FORGERY PUNISHMENT MITIGATION BILL.
+HC Deb 04 June 1821 vol 5 cc1099-1141099
+On the order of the day for the third reading of this bill.
+
+
+
+https://archive.org/details/statutesatlarge55britgoog/page/436/mode/2up?q=%22Stamp+act%22
+Playing-Cards, for every pack which (hall be made fit for sale or use in Great Britain 2s 6d.
+
+
+
+
+eg Ace of Spades , playing cards, https://en.wikipedia.org/wiki/Richard_Harding_(forger) , 
+https://www.oldbaileyonline.org/browse.jsp?id=t18050918-62-person589&div=t18050918-62#highlight
+RICHARD HARDING.
+Deception: forgery.
+18th September 1805
+Reference Number	t18050918-62
+Verdict	Guilty
+Sentence	Death
