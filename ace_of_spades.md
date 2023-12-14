@@ -1,11 +1,15 @@
-
 # Ace of Spades
 
 The Ace of Spades. If you're a fan of the new wave of British heavy metal bands in the mid-70s and early eighties — I'm talking, decades, here, not averages of the band memebers, though probably that too, actually, at least for the ones who aren't dead yet — that can only mean one thing: Lemmy, Motorhead, heavy metal umlauts, and one of the greatest songs by one of the greatest rock bands, ever.
 
+```{youtube} 3mbvWn1EY6g
+```
+
 But it's also known as the Death card.
 
 And not just because that card is, arguably, one of the black aces in the dead man's hand of aces and eights that wild-west folk hero and gun-slinger, Wild Bill Hickok, was holding when he was shot in the back of the head in a saloon bar in 1876.
+
+## A Tragic Affair in Southsea
 
 Take, for example, this tragic report from Southsea, in December, 1806:
 
@@ -19,6 +23,8 @@ On Wednesday last a most melancholy circumstance occurred on Southsea Common. Mr
 ```
 
 A tragedy, for sure. But the Ace of Spades association with death goes back further still.
+
+## Reaffirming the Law with Regard to Stamp Duty, 1804
 
 Ever since the time of Queen Anne, in the early seventeen hundreds, the Ace of Spades was, quite literally, a marked card: becuase that card had to bear an official stamp. Stamp duty, a tax on every pack of playing cards, was levied on the wrapper that sealed each new pack of cards, but a stamp on the ace showed that the duty had been paid on that pack. From the mid-seevnteen hundreds, the hand stamp was replaced by an Ace that was printed by the official Stamp Office. Only the official ace was allowed in a pack, and any printer fraudulently publishing the ace of spades card could be punished severely for it.
 
@@ -38,10 +44,28 @@ An act to repeal the several duties under the commissioners managing the duties 
 IX. And be it further enacted, That if any person or Persons whatosever shall forge or counterfeit, or cause or procure to be forged or counterfeited, any mark, stamp, or die, which shall be provided, made, or used in pursuance of this act, or shall counterfeit or resemble, or cause or procure to be counterfeited or resembled, the impression of any such mark, stamp, or die, upon any vellum, parchment, paper, or other material, or upon any other matter or thing, or the impresion of the stamp or die, upon any vellum, parchment, or paper, allowed to be issued, used, or applied under the authority of this act, thereby to defraud his Majesty, his heirs or successors, of any of the duties by this act charged or imposed, or if any person or persons shall utter, vend, or sell, any vellum, parchment, paper, or other material, or other matter or thing, with such forged or counterfeit mark, stamp, or impression thereupon, knowing such mark, stamp, or impression to be forged or counterfeit, every such person so offending, being thereof convicted in due form of law, shall be judged a felon, and shall suffer death, as in cases of felony, without benefit of clergy.
 ```
 
-With the updated law, the commissioners of His Majesty's Revenue were perhaps reinvigorated in their zeal to pursue potential felons as defined by the act, and so it was, that less thanseven months later, in February, 1804, a certain Mr John Blacklin, along with two others, were .
 
-Three months later, at the end of April, 1805, they separatey stood trial at the Old Bailey:
+TO DO BENEFIT OF CLERGY
 
+
+## The Case of John Blacklin
+
+With the updated law, the commissioners of His Majesty's Revenue were perhaps reinvigorated in their zeal to pursue potential felons as defined by the act.
+
+```{admonition} , April, 1805
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001664/18050402/006/0001
+Tyne Mercury; Northumberland and Durham and Cumberland Gazette - Tuesday 02 April 1805
+
+Police. —The Commissioners of the Stamp having discovered for a considerdble time past a considerable falling off of the revenue, arising trom the taxation of the Ace of Spades, directed Mr Estcourt, their Solicitor, to endeavour to discover the cause: He employed a number of men for that purpose, and it has been discovercd that forged Aces of Spades in packs have been circulated to an incredible number, particularly in the country. A number of their circulators have been detected and apprehended, and have undergone severak private examinations at the Public Office, Bow-street, before Mr Robinson.— The particulars that transpired are, that they sold them under various pretences, and at different prices, from 14s. to 24s. the dozen packs, and the venders of them by retail had found the sale of them to answer their purposes so well, that one in the country had given the forgers an order for an hundred dozen gross of packs. Several of them were fully committed for trial. It is a capital offence.
+
+```
+
+And so it was, that less than seven months later, in February, 1805, a certain Mr John Blacklin, along with two others, were arrested for selling packs of playing cards that inlcuded a forged Ace of Spades, thereby defrauding the King.
+
+Three months later, at the end of April, 1805, they separately stood trial at the Old Bailey.
+
+Blacklin was found guilty, but his legal representatives argued that the charge was mis-stated:
 
 ```{admonition} *Feloniously vending playing cards*, May, 1805
 :class: dropdown
@@ -49,13 +73,13 @@ Three months later, at the end of April, 1805, they separatey stood trial at the
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18050502/015/0003
 Saint James's Chronicle - Thursday 02 May 1805
 
-_ OLD BAILEY—Monday, April 29.  
+_ OLD BAILEY—Monday, April 29.
+
 *John Blacklin* was indicted for feloniously vending playing cards, having a forged Ace of Spades. It appears that he sold the cards in packs of 51 each; and in another pack he delivered as many forged Aces of Spades. The duty on a pack of cards is 2s. 6d. but the prisoner sold his cards at 14s. per dozen packs. It was argued, that the cards thus disposed of could not be deemed complete packs; but this objection was over-ruled, and the prisoner was found guilty, but was recommended to mercy.
 
 Tuesday, April 30.  
 *Maydewall* and *Knype* were indicted for uttering forged stamps on the Ace of Spades, knowing them to be so. The fact of uttering was completely proved ; but the prisoners in their defence declared their ignorance of the forgery, which the Jury gave credit to by a verdict of acquittal.
 ```
-
 
 ```{admonition} *Capital conviction*, May, 1805
 :class: dropdown
@@ -66,15 +90,17 @@ Ipswich Journal - Saturday 04 May 1805
 Monday, at the Old Bailey, John Blacklin, of Queen-street, Cheapside was capitally convicted for vendings cards with a forged stamp (as an Ace of Spades.) The trial lasted 5 hours and a half. Two boys indicted with him were acquitted, having acted under his control. Blacklin is supposed to have gained 8000£ a year by this practice.
 ```
 
-
+The two boys implicated in the case, Maydwell and Knype, were tried the following day.
 
 ```{admonition} *Simply smuggling?*, May, 1805
 :class: dropdown
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000361/18050506/005/0002
 Salisbury and Winchester Journal - Monday 06 May 1805
-Old Bailey. [Yesterday]... ] J. Harding, a dashing swindler, who has sometimes called himself Lord Hawke, was tried on a capital indictment for stealing gold watch from shop Bond-street; but appearing that the shopkeeper's apprentice had entrusted him with the watch, which he said he wished to shew to his brother, his depositing a fictitious bill for double the value, the capital part of the charge was done away, and was found guilty of simple felony.—J. Maydwell and J. Knype were tried for selling cards with a forged stamp of the ace of spades, in connection with Blacklin, capitally convicted on Monday: they declared their defence, that they thought the cards had been of French manufacture, and that they were engaged in a smuggling transaction only : the Jury gave them credit for this assertion, and they were accordingly acquitted.
+Old Bailey. [Yesterday]... J. Harding, a dashing swindler, who has sometimes called himself Lord Hawke, was tried on a capital indictment for stealing gold watch from shop Bond-street; but appearing that the shopkeeper's apprentice had entrusted him with the watch, which he said he wished to shew to his brother, his depositing a fictitious bill for double the value, the capital part of the charge was done away, and was found guilty of simple felony.—J. Maydwell and J. Knype were tried for selling cards with a forged stamp of the ace of spades, in connection with Blacklin, capitally convicted on Monday: they declared their defence, that they thought the cards had been of French manufacture, and that they were engaged in a smuggling transaction only : the Jury gave them credit for this assertion, and they were accordingly acquitted.
 ```
+
+A few days following Blacklin's hearing, an attempt was made at appealing the decision:
 
 ```{admonition} *Judgement respited*, May, 1805
 :class: dropdown
@@ -84,8 +110,26 @@ Oracle and the Daily Advertiser - Friday 03 May 1805
 OLD BAILEY. Yesterday, Blacklin, who was convicted of uttering a forged stamp on the ace of spades, was again placed in the Dock; Mr. SERGEANT BEST having, at his trial, suggested that, should he be convicted, he would submit to the Court an Arrest of Judgment on the informality of the indictment. Mr. GLEED, yesterday, supported the plea in favour of the Prisoner; and his arguments were replied to by Messrs. FIELDING, DAMPIER, and KNAPP, Counsel for the Crown. The RECORDER, however, did not deem it proper to decide on a point which involved the death of an individual, and the matter was consequently reserved for the opinion of the Twelve Judges. The judgment will of course be respited. 
 ```
 
+```{admonition} *An objection is stated*, May, 1805
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18050501/021/0004
 
-```{admonition} Trial of Isaac Maydwell, 24 April 1805
+Morning Herald (London) - Wednesday 01 May 1805
+
+OLD BAILEY. Monday.
+
+*John Blacklin*  was indicted for feloniouly uttering and vending certain cards, with a forged or counterfeit stamp.—It was proved that the prisoner purchased considerable quantities of cards from a person named Lee, a Card-maker in Fetter-lane, - and resold them. Thecards were made up in packs, without the Ace of Spades, on which the stamp is placed, that card being always delivered separately. The forged stamp had the name Hart on it, and it appeared from the evidence, that no stamps had been issued from the Stamp-Office to that maker, bearing numbers higher than 80; whereas the numbers on the counterfeit stamps found in the possession of the prisoner, or sold by him, were 112, 113, 114; 115, and 116.
+
+Mr. Sergeant Best stated an objection, founded on the Act of the 9th of Queen Ann, which requires the duties to be expressed on the wrapper; and contended that the subsequent Acts which mentioned the Ace of Spades, were only intended to distinguish between cards for exportation and those for home consumption.— Mr. CONST and Mr. GLEAD followed on the same side. The latter Gentleman maintained, thar as there were only 51 cards in each pack, the article charged by the indctment to be forged was imperfect, and therefore did not come within the meaning of the Act.— These objections were replied to by the SOLICITOR-GENERAL and Mr. GARROW, and , finally, over ruled by the Court.
+
+Mr. Baron THOMPSON charged the Jury, who returned a verdict of *Guilty*, but recommended him to mercy, on account of his previous good chataaer.
+
+Tuesday
+
+*John Maydwell*, youth of 19, was indicted for selling and uttering cards with counterfeit stamps, knowing the same to be forged, with intent to defraud the Revenue. The Aces of Spades sold by, or found in the possession of the prisoner, were proved to be counterfeit by the same evidence yesterday adduced in the case of Blacklin.— The prisoner, in his defence, said, that he always understood the cards to have been imported from France, except the Aces of Spades, which, he believed, were procured from waste paper, purchased by the Neckinger Mill Company from the Stamp Office.— The Jury retired for a short time, and a returned a verdict of *Not Guilty*.
+```
+
+```{admonition} The Trial of Isaac Maydwell, 24 April 1805
 :class: dropdown
 https://www.oldbaileyonline.org/record/t18050424-134
 
@@ -127,9 +171,8 @@ Q. Were all these cards made with aces got from the Stamp-office? - A. No, he mi
 
 JOSEPH REYNOLDS sworn. - Examined by Mr. Knapp. I am a card-maker; I worked for Thomas Lee , in Fetter-lane.
 
-Q. What stamps did you use? - A. Stamps that Mr.
+Q. What stamps did you use? - A. Stamps that Mr. Lee procured in general; now and then stamps from the Stamp-office.
 
-Lee procured in general; now and then stamps from the Stamp-office.
 Mr. Alley. Q. Do you know the difference between a forged stamp and a good one? - A. Yes.
 
 Q. And you were so wicked as to do it? - A. I was only a servant.
@@ -164,7 +207,7 @@ London Jury, before Mr. Recorder.
 ```
 
 
-```{admonition} Trial of James Knipe, 24 April 1805
+```{admonition} The Trial of James Knipe, 24 April 1805
 :class: dropdown
 
 https://www.oldbaileyonline.org/record/t18050424-135?text=knipe
@@ -335,7 +378,7 @@ London Jury, before Mr. Recorder.
 
 ```
 
-```{admonition} Trial of John Blacklin, 24 April 1805
+```{admonition} The Trial of John Blacklin, 24 April 1805
 :class: dropdown
 https://www.oldbaileyonline.org/record/t18050424-108
 
@@ -1096,6 +1139,36 @@ First Middlesex Jury, before Mr. Baron Thompson .
 
 ```
 
+```{admonition} *An arrest of judgment*, May, 1805
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000361/18050506/008/0003
+Salisbury and Winchester Journal - Monday 06 May 1805
+
+John Blacklin, who was convictcd in the former part of the Session, for uttering forged stamps cards, was yesterday placed at the bar, an arrest of judgment having been suggested on his trial by Mr. Sergeant Best, in an objection to the form of the indictment. Mr. Gleed supported the plea in favour of the prisoner, and his arguments were replied to by Messrs. Fielding, Dampier, and Knapp, Counsel for the Crown. The Recorder, however, not feeling it his duty to decide the point, arrested judgment until the matter should be decided by the Twelve Judges.
+
+```
+
+
+
+```{admonition} *A point of law*, May, 1805
+:class: dropdown
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000186/18050518/005/0003
+York Herald - Saturday 18 May 1805
+
+A point of law having arisen in the wording of the indictment against John Blacklin, late of Hull, convicted at the Old Bailey sessions for uttering playing cards with forged stamps, the case has been referred to the twelve Judges for their opinions.
+```
+
+
+```{admonition} *The judges rose at an early hour*, May, 1805
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002593/18050514/008/0002
+General Evening Post - Tuesday 14 May 1805
+
+COURT OF KING'S BENCH, WESTMINSTER, MAY 14 
+
+The judges rose at an early hour, and proceeded to the Exchequer-chamber, to hear the argument on the reserved case of the man convicted of forging the Ace of Spades.
+```
+
 
 ```{admonition} Blacklin's appeal is heard, 18th May, 1805
 :class: dropdown
@@ -1111,7 +1184,20 @@ At eleven o’clock, the Judges retired into the Inner Chamber, where they heard
 
 Blacklin it seems, got off lightly. I found no record of his execution, and we might assume he received a lesser sentence.
 
-But it seems that ater that year, for a certain Mr. John Harding, who was also charged with a similar offence, well, he was not to be so lucky:
+As well as the fraudsters, it seems that the smaller fry may also have been getting caught up by the policing operation, if the names recorded below are accurate (as yet, I haven't found them appear anywhere else). Or is this a garbled account, with the names and professions incorrectly recorded?
+
+```{admonition} *Turning King's Evidence*, June, 1805
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000073/18050608/010/0004
+Oxford Journal - Saturday 08 June 1805
+
+Also in [Public Ledger and Daily Advertiser - Monday 03 June 1805
+](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001254/18050603/019/0003).
+
+On Saturday, .... The same day, *V. Rumley*, a Calico Glazier, and *——— Irvine*, a Baker, were examined at Union Hall, for selling packs of cards with forged Aces of Spades, when the former turned King's evidence, and the latter was fully committed.
+
+```
+
+But there were also bigger fish to catch. Such as John Harding. And he would not to be as lucky as Blacklin.
 
 ```{admonition} *Execution*, November, 1805
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000388/18051119/004/0002
@@ -1119,12 +1205,24 @@ Chester Courant - Tuesday 19 November 1805
 EXECUTION. John Harding, for forging the stamp upon the Ace of Spades.
 ```
 
+## The Case of John Harding
 
 ```{admonition} *Capitally convicted*, September, 1805
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000052/18050926/003/0002
 Derby Mercury - Thursday 26 September 1805
 Old Bailey. Saturday, Richard Harding, card-maker, for forging the Ace of Spades; ... w[as] capitally convicted.
+```
+
+```{admonition}
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18050822/010/0003
+Saint James's Chronicle - Thursday 22 August 1805
+
+Also: [Morning Chronicle - Tuesday 20 August 1805](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000082/18050820/007/0003)
+
+Mrs. Skelton, the wife of the man that turned King's evidence against Hardy for forging the ace of spades lately, has been for some time in a distrbed state of mind. On Thursday the 15th inst. she left her lodgings at Weybridge, about 16 miles from Town. Nothing was heard of her until the next morning, when she was found in a ditch about two miles from where she lodged, with her throat cut, and quite lifeless. Some hay-makers had observed her walking about the fields on Thursday, apparently in great agitation. A Coroner's inquest was held on the Body, and brought in their verdict *Lunacy*.
+
 ```
 
 ```{admonition} *Suicide*, August, 1805
@@ -1223,7 +1321,7 @@ Here closed the evidence for the prosecution ; the prisoner adduced no evidence 
 The Jury, after a short consultation, found a verdict *Guilty*, *Death*. —Aged 35.
 ```
 
-```{admonition} Trial of Richard Harding, 18 September, 1805
+```{admonition} The Trial of Richard Harding, 18 September, 1805
 :class: dropdown
 
 Trial proceedings: https://www.oldbaileyonline.org/record/t18050918-62
