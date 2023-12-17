@@ -213,7 +213,7 @@ __Fit the Fourth.__
 To threaten its life with a railway-share;  
 ⁠To charm it with smiles and soap!
 
-*And he explained how the Snark could not be caught in a commonplace way, and that the crew would have to try every trick in the book they, as well as every trick not in the book, (these were the days before there were boxes to think out of) if they were to succeed.*
+*And he explained how the Snark could not be caught in a commonplace way, and that the crew would have to try every trick in the book, as well as every trick not in the book, (these were the days before there were boxes to think out of) if they were to succeed.*
 
 *At this point, the Banker signed and crossed a blank cheque, just in case, and the baker comberd his beard. The Boots and the Broker were sharpening spades, whilst the Beaver just carried on making lace. The barrister started trying to explain just how good an advocate he was, and the Bonnet-maker worked on some attractive bows while the Billiard-marker chalked his nose.*
 
