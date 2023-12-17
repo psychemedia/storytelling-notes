@@ -343,7 +343,7 @@ They threatened its life with a railway-share;
 
 "It's a Snark!" was the sound that first came to their ears,  
 [It] seemed almost too good to be true.  
-Then followed a torrent of laughter and cheers:  
+[There then] followed a torrent of laughter and cheers:  
 ⁠Then the ominous words "It's a Boo—"
 
 Then, silence. Some fancied they heard in the air  
