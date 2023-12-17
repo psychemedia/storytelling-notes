@@ -176,7 +176,7 @@ Fetch it home by all means—you may serve it with greens,
 You may threaten its life with a railway-share;  
 ⁠You may charm it with smiles and soap—'"  
 
-("[Yes, yes, that's] the method," the Bellman bold  
+("[Yes, yes, that's the way]," the Bellman bold  
 ⁠In a hasty parenthesis cried,  
 "That's exactly the way [that I've] always been told  
 ⁠That the [hunting] of Snarks should be tried!")
