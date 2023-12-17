@@ -137,7 +137,7 @@ But never as yet ('tis your Captain who speaks)
 But a Snark,  [of the like] we might lovingly gaze,  
 ⁠We have never beheld till now!
 
-*And at that point, he started to describe the distinguishing features of a Snark: its bland taste. its habit of getting up late, and eating breakfast at tea-time, its inability to take a joke, its peculiar fondness for bathing machines, and its stong sense of ambition, or perhaps, lack of it.*
+*And at that point, he started to describe the distinguishing features of a Snark: its bland taste. its habit of getting up late, and eating breakfast at tea-time, its inability to take a joke, its peculiar fondness for bathing machines, and its strong sense of ambition, or perhaps, lack of it.*
 
 ["Now, listen", he said,] it next will be right  
 ⁠To describe each particular batch:  
@@ -147,15 +147,15 @@ Distinguishing those that have feathers, and bite,
 "For, although common Snarks do no manner of harm,  
 ⁠Yet, I feel it my duty to say,  
 Some are Boojums——" The Bellman broke off in alarm,  
-⁠For the Baker had fainted away.
+[As] the Baker had fainted away.
 
 __Fit the Third.__
 
 *THE BAKER'S TALE.*
 
-*They did what they could to rouse him, broguht him muffins, and tea, and cucumber sandwiches, and even tried telling him riddles. When he eventually came rounnd, he started to tell them a sorrowful tale.*
+*They did what they could to rouse him, broguht him muffins, and tea, and cucumber sandwiches, and even tried telling him riddles. And when he eventually came round, he started to tell them a sorrowful tale.*
 
-*That started way, way back, with his parents...*
+*A tale qith a long introduction, that seemed to start way, way back, with his parents...*
 
 *"We've no time for that", the Bellman said. "If it gets dark we'll stand no chance of finding the Snark".*
 
@@ -188,7 +188,7 @@ You will softly and suddenly vanish away,
 
 "It is this, it is this that oppresses my soul,  
 ⁠When I think of my uncle's last words:  
-And my heart is as nothing so much as a bowl  
+And my heart is like nothing so much as a bowl  
 ⁠Brimming over with quivering curds!  
 
 "It is this, it is this—" "[Yes, we've heard] that before!"  
@@ -351,7 +351,7 @@ Then, silence. Some fancied they heard in the air
 That sounded like "—jum!" but the others [declared]  
 ⁠It was only a breeze that went by.
 
-They hunted till darkness came on, but they found  
+They [searched until] darkness came on, but they found  
 ⁠Not a button, or feather, or mark,  
 By which they could tell that they stood on the ground  
 ⁠Where the Baker had met with the Snark.
