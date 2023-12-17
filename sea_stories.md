@@ -24,6 +24,18 @@ I have a couple of loosely Island-related sea stories: sinking of the *Eurydice*
 
 TO DO
 
+
+Henry Martin / Andrew Bartin ballad
+https://mainlynorfolk.info/lloyd/songs/henrymartin.html
+https://sacred-texts.com/neu/eng/child/ch250.htm
+https://sacred-texts.com/neu/eng/child/ch167.htm
+https://en.wikipedia.org/wiki/Henry_Martin_(song)
+https://www.youtube.com/watch?v=Nx4xkwxI_wU
+https://archive.org/details/in.ernet.dli.2015.52209/page/n259/mode/2up?q=%22andrew+barton%22
+Reliques Of Ancient English Poetry
+by Percy Thoms
+Publication date 1873
+
 https://archive.org/details/oldpetersrussian00rans
 Old Peter's Russian tales
 by Ransome, Arthur, 1884-1967; Mitrokhin, D 1883- ill

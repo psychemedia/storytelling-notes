@@ -69,6 +69,10 @@ cf Grimm Singing bone
 
 ---
 
+
+cante fable - mix narrative prose with elements of verse or song
+
+Jacobs uses a *cante fable*
 https://archive.org/details/englishfairytal00jacogoog
 
 English Fairy Tales

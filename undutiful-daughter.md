@@ -2,6 +2,10 @@
 
 Once there was a girl, a pretty little girl, and she was known, as: "Bonnie Annie"... She grew up to be quite beautiful... and didn't she know it...
 
+??first part feels as if it might have been repurposed from some other tale (the ballad starts off far more abruptly, wuth Captain presumably seducing the maiden)
+
+sbg's version is not very satisfactory, so I have made a start on repairing it so that it works for me, and is perhaps more in keeping with the original ballad.
+
 
 https://archive.org/details/oldenglishfairyt00bari/page/140/mode/2up
 Old English fairy tales
@@ -354,7 +358,7 @@ And when she had sailed the days were not many,
 The sails were outspread, but of miles made not any.
 
 4 And when she had sailed today and tomorrow.  
-She was beating her hands, she was ciying in sorrow ;  
+She was beating her hands, she was crying in sorrow ;  
 And when she had sailed not many a mile, O,  
 The maid was delivered of a beautiful child, O.
 
@@ -492,7 +496,7 @@ NOTES ON BONNIE ANNIE.
 
 *There s fey foiok in our ship, she winna sail for me, —* p. 124, V. 3.
 
-There is a prevalent belief among sea-faring people, that, if a person who has committed any heinous crime be on ship-board, the vessel, as if conscious of its guilty ourden, becomes unmanageable, and will not sail till the offender be removed: to discover whom, they usually resort to the trial of those on board, by casting lots; and the individual upon whom the lot falls is declared the criminal, it being believed that Divine Providence interposes in this manner to point out the guilty person.
+There is a prevalent belief among sea-faring people, that, if a person who has committed any heinous crime be on ship-board, the vessel, as if conscious of its guilty burden, becomes unmanageable, and will not sail till the offender be removed: to discover whom, they usually resort to the trial of those on board, by casting lots `[TH: the casting of the black bullets]`; and the individual upon whom the lot falls is declared the criminal, it being believed that Divine Providence interposes in this manner to point out the guilty person.
 
 *He made his love a coffin off the Goats of Yerrow. —* p. 126, V. 8.
 

@@ -1,13 +1,129 @@
 # Tales to Tell
 
 
+---
+Chap books printed in Scotland
+
+https://digital.nls.uk/chapbooks-printed-in-scotland/archive/
+
+
+
+---
+
+12 days
+
+Partridge and fowler
+https://fablesofaesop.com/the-partridge-and-the-fowler.html
+
+
+Two doves - bird stolen from partner
+
+Three hens
+
+Four calling birds
+
+Five rings
+
+Six geese
+
+Seven Swans
+
+Eight maids
+
+Nine ladies
+
+
+Ten Lords
+
+Eleven Pipers
+
+Twelve drummers
+
+---
+Christmas stories
+
+https://www.tobarandualchais.co.uk/track/178?l=en
+THE WOMAN WHO RAFFLED HER PIG THEN GOT IT BACK.
+
+
+https://www.youtube.com/watch?v=UYLrn8iIYmM
+
+
+https://www.youtube.com/watch?v=wdACwnJ_Ngc
+
+https://www.youtube.com/watch?v=VocpNsFSlvI
+
+https://www.youtube.com/watch?v=Nn7F5yjsA9M
+
+Beira , goddess of winter / the Cailleach
+WIklipedia "n Scotland and Ireland, the first farmer to finish the grain harvest made a corn dolly, representing the Cailleach (also called "the Carlin or Carline"[19]), from the last sheaf of the crop. The figure would then be tossed into the field of a neighbor who had not yet finished bringing in their grain. The last farmer to finish had the responsibility to take in and care for the corn dolly for the next year, with the implication they'd have to feed and house the hag all winter. Competition was fierce to avoid having to take in the Old Woman.[20]"
+
+https://www.jstor.org/stable/pdf/1256390.pdf?casa_token=knPSiBTXw0wAAAAA:Dm34W2PoVFunj4fAMRiXP9s_-pxGFRunFddoNiw-rPVauxA4exyKZyDz4qC9twZTlqKFFpyApuAudnqALB3UOQY9co39Aoq7BWkCVkiKaD2eHxcD6XQV
+Legends and Traditions of the Cailleach Bheara or Old Woman (Hag) of Beare
+Folklore , Sep. 30, 1927, Vol. 38, No. 3 (Sep. 30, 1927), pp. 225-254
+
+Snow maiden
+
+https://archive.org/details/christmasfiresid00asbj
+Christmas fireside stories; or, Round the yule log; Norwegian folk and fairy tales;
+by Asbjørnsen, Peter Christen, 1812-1885; Braekstad, Hans Lien
+Publication date [1919]
+
+
+https://archive.org/details/yuletidestories00thorgoog/page/501/mode/2up
+
+Yule-tide stories : a collection of Scandinavian and North German popular tales and traditions, from the Swedish, Danish, and German
+
+Thorpe, Benjamin, 1782-1870
+
+Publication date 1853
+
+---
 
 Machwhisper for transcription
 
 to get audio file from youtube, eg youtube-dl -i --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=xVLjtO4EkFQ The Golden Balls - Day of the Dead storytelling by Sarah Liisa Wilkinson Crick Crack Club
 
+---
+
+
+
+https://archive.org/details/disobedientkidso001820
+The disobedient kids : and other Czecho-Slovak fairy tales
+by Nemcová, Bozena, 1820-1862; Tille, Václav, 1867-1937; Scheiner, Artus, ill
+Publication date 1921
+
+
+
+---
+https://archive.org/details/dearoldstorytel00adamgoog/page/n10/mode/2up?
+Dear Old story-teller
+by Adams, Oscar Fay 1855-1919
+Publication date 1889
+includes biog of Laboulaye, Grimm etc
+
+
+---
+
+?? Katcha and the Devil https://www.worldoftales.com/European_folktales/Czechoslovak_folktale_6.html#gsc.tab=0
+
+---
+
+Lots of Old English history tales in 
+https://archive.org/details/storiesofearlyen00wilm/page/238/mode/2up 
+by Wilmot-Buxton, E. M. (Ethel Mary)
+
 
 -- 
+
+Rabbi Nachman 
+Lost Princess
+https://en.wikisource.org/wiki/Translation:Tales_of_Rabbi_Nachman/All#Tale_1:_The_Lost_Princess
+
+Emperor and the King ( Prince and Princess elope ; strong woman )
+https://en.wikisource.org/wiki/Translation:Tales_of_Rabbi_Nachman/All#Tale_2:_The_Emperor_and_the_King
+
+---
 
 https://archive.org/details/populartalesfict02clouuoft/page/115/mode/1up?q=%22ROBBERY+OF+THE+KING%27S+TREASURY+%22
 
@@ -89,11 +205,11 @@ Publication date 1920
 incl p243
 
 THE STORY THAT NEVER ENDS
-(To he told very seriously)
+(To be told very seriously)
 ONCE upon a time there was a shepherd who had a great flock of sheep. He used to pasture them in a meadow on the other side of a brook. One day the sun had ah-eady set before he started home. Recent rains had swollen the brook so that he and the sheep had to cross on a little footbridge. The bridge was so narrow that the sheep had to pass over one by one.
 Now we'll wait until he drives them all over. Then I'll go on with my story.
-(When the children grow impatient and heg for a continuation of the story, they are told that there are many sheep and that up to this time only a few have crossed. A little later when their impatience again breaks out, they are told that the sheep are still cross- ing. And so on indefinitely. In concluMon:)
-In fact there were so many sheep that when morn- ing came they were still crossing, and then it was time for the shepherd to turn around and drive them back again to pasture!
+(When the children grow impatient and beg for a continuation of the story, they are told that there are many sheep and that up to this time only a few have crossed. A little later when their impatience again breaks out, they are told that the sheep are still crossing. And so on indefinitely. In conclusion:)
+In fact there were so many sheep that when morning came they were still crossing, and then it was time for the shepherd to turn around and drive them back again to pasture!
 
 ??there is a nasruddin or birbal story with a similar sense
 
@@ -429,6 +545,10 @@ by Albert Ludwig Grimm
 Publication date 1827
 
 
+
+--
+
+Fire bird horse of power and princess vasilissa https://archive.org/details/oldpetersrussian00rans/page/n11/mode/2up Ransome
 
 ---
 
