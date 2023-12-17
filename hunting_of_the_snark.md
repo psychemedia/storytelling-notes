@@ -113,7 +113,7 @@ Had only one notion for crossing the ocean,
 
 [Anyway:] the danger was past— [and they'd] landed at last,  
 ⁠With their boxes, portmanteaus, and bags:  
-[But] at first sight the crew were not pleased with the view,  
+[But] at first sight the crew, were not pleased with the view,  
 ⁠Which consisted of chasms and crags.
 
 *At this point, the Bellman sensed their concern, and so he followed the management training he'd picked up in a self-guiided course he taken just before starting the voyage and tried a few jokes.*
