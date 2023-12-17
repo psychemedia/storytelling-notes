@@ -230,7 +230,7 @@ They sought it with thimbles, they sought it with care;
 They threatened its life with a railway-share;  
 ⁠They charmed it with smiles and soap.
 
-*They made their plans. THe Butcher's plan was a cunning one— to go where no-one else would, into a small, desolate valley he could see, away in the distance. Which just happened to be the same plan as the Beaver's. They both set off, pretending to ignore the other, and with the afternoon turning to evening, both reached the valley at the same time. As it narrowed, they drew closer and closer together until they were walking shoulder to shoulder, each of them still pretending to ignore the other.*
+*They made their plans. The Butcher's plan was a cunning one— to go where no-one else would, into a small, desolate valley he could see, away in the distance. Which just happened to be the same plan as the Beaver's. They both set off, pretending to ignore the other, and with the afternoon turning to evening, both reached the valley at the same time. As it narrowed, they drew closer and closer together until they were walking shoulder to shoulder, each of them still pretending to ignore the other.*
 
 Then a scream, shrill and high, rent the shuddering sky,  
 ⁠And they knew that some danger was near:  
