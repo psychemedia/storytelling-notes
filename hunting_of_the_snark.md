@@ -237,7 +237,7 @@ Then a scream, shrill and high, rent the shuddering sky,
 The Beaver turned pale to the tip of its tail,  
 ⁠And even the Butcher felt queer.
 
-He thought of his childhood, left far far behind—  
+[He thought back to] his childhood, left far far behind—  
 ⁠That blissful and innocent state—  
 [For the] sound so exactly recalled to his mind  
 [The squeak of a pencil] on slate!
