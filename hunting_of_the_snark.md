@@ -318,7 +318,7 @@ He skipped and he hopped, and he floundered and flopped,
 [Until] fainting, he fell to the ground.
 
 [Now,] the Bandersnatch fled, as the others appeared  
-⁠Led on by that fear-stricken yell:  
+[Driven] on by that fear-stricken yell:  
 And the Bellman remarked "It is just as I feared!"  
 [As he] solemnly tolled on his bell.
 
