@@ -1,0 +1,365 @@
+# The Hunting of the Snark
+
+__FIT I.—THE LANDING.__
+
+*Fit the First.*
+
+THE LANDING
+
+"Just the place for a Snark!" the Bellman cried,  
+⁠As he landed his crew with care;  
+Supporting each man on the top of the tide  
+⁠By a finger entwined in his hair.
+
+"Just the place for a Snark! I have said it twice:  
+⁠That alone should encourage the crew.  
+Just the place for a Snark! I have said it thrice:  
+⁠What I tell you three times is true."
+
+The crew was complete: it included a Boots—  
+⁠And maker of Bonnets and Hoods—  
+A Barrister, brought to arrange their disputes—  
+⁠And a Broker, to value their goods.
+
+A Billiard-marker, whose skill was immense,  
+⁠Might perhaps have won more than his share—  
+But a Banker, engaged at enormous expense,  
+`Does nothing ever change?`  
+⁠Had the whole of their cash in his care.
+
+There was also a Beaver, that paced on the deck,  
+⁠Or would sit making lace in the bow:  
+And [who, it was said, often] saved them from wreck,  
+[But] none of the sailors knew how.
+
+There was one who was famed for the number of things  
+⁠He forgot when he entered the ship:  
+His umbrella, his watch, all his jewels and rings,  
+⁠And the clothes he had bought for the trip.
+
+He had forty-two boxes, all carefully packed,  
+⁠With his name painted clearly on each:  
+But, since he omitted to mention the fact,  
+⁠They were all left behind on the beach.
+
+The loss of his clothes hardly mattered, because  
+⁠He had seven coats on when he came,  
+With three pairs of boots—but the worst of it was,  
+⁠He had wholly forgotten his name.
+
+*He'd answer to "oi, you", or "wot's-his-face", but "thing-um-a-jig was probably the most commonly used name for him.*
+
+...
+
+He came as a Baker: but owned, when too late—  
+⁠And it drove the poor Bellman half-mad—  
+He could only bake Bridecake—for which, I may state,  
+⁠No materials were to be had.
+
+The last of the crew needs especial remark,  
+[For he seemed] an incredible dunce:  
+He had just one idea—but, that one being "Snark,"  
+⁠The good Bellman engaged him at once.
+
+He came as a Butcher: but gravely declared,  
+⁠When the ship had been sailing a week,  
+He could only kill Beavers. The Bellman looked scared,  
+⁠And was almost too frightened to speak:
+
+But at length he explained, in a tremulous tone,  
+⁠There was only one Beaver on board;  
+And that was a tame one he had of his own,  
+⁠Whose death would be deeply deplored.
+
+The Beaver, who happened to hear the remark,  
+⁠Protested, with tears in its eyes,  
+That not even the rapture of hunting the Snark  
+⁠Could atone for that dismal surprise!
+
+*It asked the Captain if the Butcher be be transported in a separate ship, or towed behind in a rowing boar, or even left behind altogether, but the logistics were already hard enough, so the Captain refused.*
+
+*The rest of the crew made various suggestions, such as a dagger proof coat, or an insurance policy, but they were no real hellp. So the Beaver just had to keep its distance, and either just look away, or give dagger looks of its own to the Butcher, if ever he came near.*
+
+__Fit the Second.__
+
+*THE BELLMAN'S SPEECH.*
+
+*It has to be said, though, the crew looked up to the Bellman, the Captain, and he, in turn, tried to do his best for them.*
+
+*For example,*
+
+He had bought a large map representing the sea,  
+⁠Without the least vestige of land:  
+And the crew were much pleased when they found it to be  
+⁠A map they could all understand.
+
+What's the good of Mercator's North Poles and Equators,  
+⁠Tropics, Zones, and Meridian Lines?"  
+So the Bellman would cry and the crew would reply  
+⁠"They are merely conventional signs!
+
+*And they all agreed that having a simple map like that meant they could all read it perfectly well when all they could see around them was sea.*
+
+*Now,*
+
+This was charming, no doubt, but [soon they] found out
+⁠That the Captain they trusted so well  
+Had only one notion for crossing the ocean,  
+⁠And that was to tingle his bell.
+
+He also seemed to be rather canfused by the notions of port and starboard, which is to say left and right, and often got the front and the back [technical terms] of the boat confused too.*
+
+*But by some means, and how?, I just donl't know they'd managed to complete their journey.*
+
+... the danger was past— [and they'd] landed at last,  
+⁠With their boxes, portmanteaus, and bags:  
+[But] at first sight the crew were not pleased with the view,  
+⁠Which consisted of chasms and crags.
+
+*At this point, the Bellman sensed their concern, and so he followed the management training he'd picked up in a self-guiided course and tried a few jokes.*
+
+*Which didn't go down well.*
+
+*So he thought back to the "All you need to know about being a great leader" book, cracked open the rum, shared it between them, and started a motivational pep talk.*
+
+"Friends, Romans, and countrymen, lend me your ears!"  
+⁠(They were all of them fond of quotations:  
+So they drank to his health, and they gave him three cheers,  
+⁠While he served out additional rations).
+
+"We have sailed many months, we have sailed many weeks  
+⁠(Four weeks to the month you may mark),  
+But never as yet ('tis your Captain who speaks)  
+⁠Have we caught the least glimpse of a Snark!
+
+"We have sailed many weeks, we have sailed many days  
+⁠(Seven days to the week I allow),  
+But a Snark, on the which we might lovingly gaze,  
+⁠We have never beheld till now!
+
+*And at that point, he started to describe the distinguishing features of a Snark: its bland taste. its habit of getting up late, and having breakfast at tea-time, its inability to take a joke, its peculiar fondness for bathing machines, and its stong sense of ambition, or perhaps, lack of it.*
+
+[Now] t next will be right  
+⁠To describe each particular batch:  
+Distinguishing those that have feathers, and bite,  
+⁠From those that have whiskers, and scratch.
+
+"For, although common Snarks do no manner of harm,  
+⁠Yet, I feel it my duty to say,  
+Some are Boojums——" The Bellman broke off in alarm,  
+⁠For the Baker had fainted away.
+
+__Fit the Third.__
+
+*THE BAKER'S TALE.*
+
+*They did what they could to rouse him, broguht him muffins, and tea, and cucumber sandwiches, and even tried telling him riddles, and eventually he came round. And he told them a tragic tale.*
+
+*That started with his parents...*
+
+*"We've no time for that", said the Bellman, "if it gets dark we'll stand no chance of finding the Snark".*
+
+*"I'll skip forty years, then" said the Baker, with tears in his eyes, and continued his tale.*
+
+"A dear uncle of mine (after whom I was named)  
+⁠Remarked, when I bade him farewell—"  
+"Oh, skip your dear uncle!" the Bellman exclaimed,  
+⁠As he angrily tingled his bell.
+
+"He remarked to me then," said that mildest of men,  
+⁠" 'If your Snark be a Snark, that is right:  
+Fetch it home by all means—you may serve it with greens,  
+⁠And it's handy for striking a light.
+
+"'You may seek it with thimbles—and seek it with care;  
+⁠You may hunt it with forks and hope;  
+You may threaten its life with a railway-share;  
+⁠You may charm it with smiles and soap—'"  
+
+("That's exactly the method," the Bellman bold  
+⁠In a hasty parenthesis cried,  
+"That's exactly the way I have always been told  
+⁠That the capture of Snarks should be tried!")
+
+"'But oh, beamish nephew, beware of the day,  
+⁠If your Snark be a Boojum! For then  
+You will softly and suddenly vanish away,  
+⁠And never be met with again!'
+
+"It is this, it is this that oppresses my soul,  
+⁠When I think of my uncle's last words:  
+And my heart is like nothing so much as a bowl  
+⁠Brimming over with quivering curds!  
+
+"It is this, it is this—" "[Yes, we've] have had that before!"  
+⁠The Bellman indignantly said.  
+And the Baker replied "Let me say it once more.  
+⁠It is this, it is this that I dread!
+
+*And then he told a tragic tale, of how, in his dreams each night, he'd fight with the Snark, and with some success; but he was always fearful that one day it would turn out to be a Boojum, and that he'd simply just disappear away.*
+
+__Fit the Fourth.__
+
+*THE HUNTING.*
+
+*The Bellman was rather put out by the Baker's comments — "Why diodn't you tell me before? It's too late to do anyhting about it now...".*
+
+*"I did", was the Baker's reply. "I told you the day we left — in Hebrew, and Dutch, and German, and Greek, and.. oh... I forgot say it in ENglish, didn't I? I'm guessing you maybe don't speak anything other than English..?"*
+
+*At this point, the Bellman went into something ofg a sulk at having his speech interrupted, and muttered something about finishing it later. Becuase for now, they had to make ready to set out on the hunt.*
+
+"To seek it with thimbles, to seek it with care;  
+⁠To pursue it with forks and hope;  
+To threaten its life with a railway-share;  
+⁠To charm it with smiles and soap!
+
+*And he explained how the Snark could not be caught in a commplace way, and that the crew would have to try every trick they knew if they were to succeed.*
+
+*At this point, the Banker signed and crossed a blank cheque, and the baker comberd his beard. The Boots and the Broker were sharpening spades, whlst the Beaver just carried on making lace. The barrister started trying to explain just how good an advocate he was, and the Bonnet-maker worked on some attractive bows whilt the Billiard-marker chalked his own nose.*
+
+*The Butcher, however, seemed rather nervous and asked the Bellman if he would be so good as to introduce him to the Snark, if they should meet it together, and the Beaver smirked at his shyness.*
+
+*"Man up" said the Bellman, as the Butcher started sobbing: becuase you'll need all you strenght if you happen to meet a Jubjub bird aling the way.*
+
+__Fit the Fifth.__
+
+*THE BEAVER'S LESSON.*
+
+They sought it with thimbles, they sought it with care;  
+⁠They pursued it with forks and hope;  
+They threatened its life with a railway-share;  
+⁠They charmed it with smiles and soap.
+
+*They made their plans. THe Butcher's plan was cunning — to go where no-one else would, into a small, desolate valley. Which just happened to be the same plan as the Beaver's. As the valley narrowed, and the afternoon started to turn to evening, they drew closer and closer together until they were walking shoulder to shoulder, each pretending to ignore the other.*
+
+Then a scream, shrill and high, rent the shuddering sky,  
+⁠And they knew that some danger was near:  
+The Beaver turned pale to the tip of its tail,  
+⁠And even the Butcher felt queer.
+
+He thought of his childhood, left far far behind—  
+⁠That blissful and innocent state—  
+The sound so exactly recalled to his mind  
+⁠A pencil that squeaks on a slate!
+
+"'Tis the voice of the Jubjub!" he suddenly cried.  
+⁠(This man, that they used to call "Dunce.")  
+"As the Bellman would tell you," he added with pride,  
+⁠"I have uttered that sentiment once.
+
+"'Tis the note of the Jubjub! Keep count, I entreat;  
+⁠You will find I have told it you twice.  
+'Tis the song of the Jubjub! The proof is complete,  
+⁠If only I've stated it thrice."
+
+*The Beaver had been trying to keep count, but somehow fumbled its numbers at the last repetition, and decided it would have to try to start over again.*
+
+*"Two plus one is, oh, why is it so difficult", sobbed the Beaver, and the Butcher took pity on them. "Calm down, just calm down. We can work it out," he said. "Now, get some paper, and a pen, and we'll work it through." So the Beaver found some paper, and pen, and as the wild creatures watched, the Butcher began.*
+
+*"Three is the number we're interested in, right? So, start with that, then add seven, and ten. Multiply it out by a thousand diminished by eight, and then divide through by nine hundred and ninety two. If you then subtract seventeen, then we get to the nuimber we want: three. Exactly. And perfectly true."*
+
+*I'd happily explain it", he said, "While I have it so clear in my head, if I had the time, and you if had the brain. But, while I'm on a such a role, how about a Natural History lesson?" and at that point he started to explain about the life of the Jubjub bird. He would gladly have talked on the subject for hours, but eventually felt the lesson should end, and then tha ked the EBaver, for being his friend. The Beaver replied in kind, and said it had never learned so much in it's whole life as it had just learned then. and from that day to this the Butcher and the Beaver became inseparable, and as they started walking again, they joined hands.*
+
+*And such a friendship has never been known before or since. And if ever there was any tension between them, they'd just remember that day and all would be well again.*
+
+__Fit the Sixth.__
+
+*THE BARRISTER'S DREAM.*
+
+They sought it with thimbles, they sought it with care;  
+⁠They pursued it with forks and hope;  
+They threatened its life with a railway-share;  
+⁠They charmed it with smiles and soap.
+
+*For the Barrister, well, he'd fallen into a fitful sleep, and the strangest dream. In which the Snark was dressed as a Barrister, and was defending a pig on a charge of deserting its sty. So eloquent was its defence, the Snark had already been talking for over three hours, and the Jury still had no clue what it was talking about, and each had a separate opinion on the matter.*
+
+*"And so", said the Snark, "the pig is obviously innocent of trason, as well as insolvency, but as to desertion, that is indisputable, except for its alibi. And now you, the Jury must decide."*
+
+*The Snark sat down and waited for the Judge to sum up. But the Judge admitted to never having summed up before, and so the Snark did it for him, so completely in fact he introduced far more evidence than had been presented originally.*
+
+*THe verdict was then called for, but as the Jury had trouble spelling it, they asked the Snark to give the verdict for them.*
+
+*At which point, the Snark shouted "guilty", and half the Jury fainted away. The Judge, being too nervous to pass sentence, left it to the Snark: "Transportation for life, and then fine of forty pound." The Jury cheered,*
+
+but the Judge said he feared  
+⁠That the phrase was not legally sound.
+
+*Unfortunately, the cheers were brought to an end when the Jailer admitted that the sentence would have not the slightest effect, becuase the pig had been dead for some years.*
+
+*And such was the dream of the Barrister, at least until he was woken by the angril ringing bell of the Bellman.*
+
+__Fit the Seventh.__
+
+*THE BANKER'S FATE.*
+
+They sought it with thimbles, they sought it with care;  
+⁠They pursued it with forks and hope;  
+They threatened its life with a railway-share;  
+⁠They charmed it with smiles and soap.
+
+[Now] the Banker, inspired with a courage so new  
+⁠It was matter for general remark,  
+Rushed madly ahead and was lost to their view  
+⁠In his zeal to discover the Snark.
+
+But while he was seeking with thimbles and care,  
+⁠A Bandersnatch swiftly drew nigh  
+And grabbed at the Banker, who shrieked in despair,  
+⁠For he knew it was useless to fly.
+
+He offered large discount—he offered a chec  
+⁠(Drawn "to bearer") for seven-pounds-ten:  
+But the Bandersnatch merely extended its neck  
+⁠And grabbed at the Banker again.
+
+Without rest or pause—while those frumious jaws  
+⁠Went savagely snapping around—  
+He skipped and he hopped, and he floundered and flopped,  
+⁠Till fainting he fell to the ground.
+
+[Now,] the Bandersnatch fled as, the others appeared  
+⁠Led on by that fear-stricken yell:  
+And the Bellman remarked "It is just as I feared!"  
+⁠And solemnly tolled on his bell.
+
+*They all gathered round the Banker. He was black in the face, and barely recognisable, and his shock was so great his waistcoat had turned whit. In full evening dress, he stood up, and gibbered at them - he had lost his mind completely. Sitting down again, he brushed his fingers through his white hair, and rocked himself backwards and forwards.*
+
+*"We must leave him", said the Bellman, "we must leave him. Time is running out, and if we don't get a move on, we won't catch a Snark before nightfall."*
+
+
+__Fit the Eighth.__
+
+*THE VANISHING.*
+
+They sought it with thimbles, they sought it with care;  
+⁠They pursued it with forks and hope;  
+They threatened its life with a railway-share;  
+⁠They charmed it with smiles and soap.
+
+*The whole crew were fearful that the hunt might now end without success, but with the light failingm the Beaver suddenly called out. "Look, look, isn't that thing-um-a-bob [the Baker], there, there, over on that crag. It looks like he's waving, it looks like he's shouting, it looks like he....has he caught a Snark? Has he.. what, wait, where's he gone?*
+
+*And the next thing they knew, it appeared as if the Baker had plunged off the crag and into a deep, dark chasm.*
+
+*But then they heard what the Baker had been calling, from so far away, carried on the wind.*
+
+"It's a Snark!" was the sound that first came to their ears,  
+⁠And seemed almost too good to be true.  
+Then followed a torrent of laughter and cheers:  
+⁠Then the ominous words "It's a Boo—"
+
+Then, silence. Some fancied they heard in the air  
+⁠A weary and wandering sigh  
+That sounded like "—jum!" but the others declare  
+⁠It was only a breeze that went by.
+
+They hunted till darkness came on, but they found  
+⁠Not a button, or feather, or mark,  
+By which they could tell that they stood on the ground  
+⁠Where the Baker had met with the Snark.
+
+In the midst of the word he was trying to say,  
+⁠In the midst of his laughter and glee,  
+He had softly and suddenly vanished away—  
+⁠For the Snark was a Boojum, you see.
+
+THE END.
