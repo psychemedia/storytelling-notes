@@ -188,7 +188,7 @@ You will softly and suddenly vanish away,
 
 "It is this, it is this that oppresses my soul,  
 ⁠When I think of my uncle's last words:  
-And my heart is like nothing so much as a bowl  
+And my heart is as nothing so much as a bowl  
 ⁠Brimming over with quivering curds!  
 
 "It is this, it is this—" "[Yes, we've heard] that before!"  
