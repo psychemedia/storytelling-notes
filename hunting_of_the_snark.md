@@ -102,7 +102,7 @@ So the Bellman would cry and the crew would reply
 
 *Now,*
 
-This was charming, no doubt, but [soon they] found out
+This was charming, no doubt, but [soon they] found out  
 ⁠That the Captain they trusted so well  
 Had only one notion for crossing the ocean,  
 ⁠And that was to tingle his bell.
