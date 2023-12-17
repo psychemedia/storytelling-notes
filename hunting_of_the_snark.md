@@ -240,7 +240,7 @@ The Beaver turned pale to the tip of its tail,
 He thought of his childhood, left far far behind—  
 ⁠That blissful and innocent state—  
 [For the] sound so exactly recalled to his mind  
-⁠[Like a] pencil that squeaks on a slate!
+The squeak of a pencil on slate!
 
 "'Tis the voice of the Jubjub!" he suddenly cried.  
 ⁠(This man, that they used to call "Dunce.")  
