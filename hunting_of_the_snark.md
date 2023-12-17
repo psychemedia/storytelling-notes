@@ -96,7 +96,7 @@ And the crew were [most] pleased when they found it to be
 What's the good of Mercator's North Poles and Equators,  
 ⁠Tropics, Zones, and Meridian Lines?"  
 So the Bellman would cry and the crew would reply  
-⁠"They are merely conventional signs!
+⁠"They are merely conventional signs!"
 
 *And they all agreed that having a simple map like that meant they could all read it perfectly well when all they could see around them was sea.*
 
