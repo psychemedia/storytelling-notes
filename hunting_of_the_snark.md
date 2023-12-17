@@ -107,7 +107,7 @@ This was charming, no doubt, but [soon they] found out
 Had only one notion for crossing the ocean,  
 ⁠And that was to tingle his bell.
 
-*He also seemed to be rather canfused by the notions of port and starboard, which is to say left and right, and often got the front and the back [technical terms] of the boat confused too.*
+*He also seemed to be rather confused by the notions of port and starboard, which is to say left and right, and often got the front and the back [technical terms] of the boat confused too.*
 
 *But by some means — quite how, I don't really know! —  they'd managed to complete their journey.*
 
