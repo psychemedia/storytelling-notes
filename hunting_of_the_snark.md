@@ -179,7 +179,7 @@ You may threaten its life with a railway-share;
 ("[Yes, yes, that's] the method," the Bellman bold  
 ⁠In a hasty parenthesis cried,  
 "That's exactly the way [that I've] always been told  
-⁠That the capture of Snarks should be tried!")
+⁠That the [hunting] of Snarks should be tried!")
 
 "'But oh, beamish nephew, beware of the day,  
 ⁠If your Snark be a Boojum! For then  
