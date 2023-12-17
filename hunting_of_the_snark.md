@@ -206,7 +206,7 @@ __Fit the Fourth.__
 
 *"I thought I did", was the Baker's reply. "I'm sure I told you the day we left — in Hebrew, and in Dutch, and German, and Greek, and.. oh... I forgot to say it in English, didn't I? I assume you don't speak anything other than English..?"*
 
-*At this point, the Bellman went into something of a sulk at having his speech interrupted, and muttered something else about finishing it later. Becuase for now, they had to make ready to set out on the hunt.*
+*At this point, the Bellman went into something of a sulk at having his speech interrupted, and muttered something else about finishing it later. Because for now, they had to make ready to set out on the hunt.*
 
 "To seek it with thimbles, to seek it with care;  
 ⁠To pursue it with forks and hope;  
@@ -215,11 +215,11 @@ To threaten its life with a railway-share;
 
 *And he explained how the Snark could not be caught in a commonplace way, and that the crew would have to try every trick in the book, as well as every trick not in the book, (these were the days before there were boxes to think out of) if they were to succeed.*
 
-*At this point, the Banker signed and crossed a blank cheque, just in case, and the baker comberd his beard. The Boots and the Broker were sharpening spades, whilst the Beaver just carried on making lace. The barrister started trying to explain just how good an advocate he was, and the Bonnet-maker worked on some attractive bows while the Billiard-marker chalked his nose.*
+*At this point, the Banker signed and crossed a blank cheque, just in case, and the baker comberd his beard. The Boots and the Broker sharpening spades, and the Beaver just carried on making lace. The barrister started trying to explain just how good an advocate he was, and the Bonnet-maker worked on some attractive bows while the Billiard-marker chalked his nose.*
 
 *The Butcher, however, seemed rather nervous and asked the Bellman if he would be so good, if they should meet the Snark together, to introduce them, and the Beaver smirked in contempt at his shyness.*
 
-*"Man up" said the Bellman, as the Butcher started sobbing: "becuase you'll need all your strength if you happen to meet a Jubjub bird along the way...*
+*"Man up" said the Bellman, as the Butcher started sobbing: "because you'll need all your strength if you happen to meet a Jubjub bird along the way...*
 
 __Fit the Fifth.__
 
@@ -240,7 +240,7 @@ The Beaver turned pale to the tip of its tail,
 He thought of his childhood, left far far behind—  
 ⁠That blissful and innocent state—  
 The sound so exactly recalled to his mind  
-⁠A pencil that squeaks on a slate!
+⁠[Like a] pencil that squeaks on a slate!
 
 "'Tis the voice of the Jubjub!" he suddenly cried.  
 ⁠(This man, that they used to call "Dunce.")  
@@ -284,7 +284,7 @@ They threatened its life with a railway-share;
 but the Judge said he feared  
 ⁠That the phrase was not legally sound.
 
-*Unfortunately, the cheers were brought to an end when the Jailer admitted that the sentence would not have the slightest effect, becuase the pig had actually been dead for some years. Such was the speed of justice in those times.*
+*Unfortunately, the cheers were brought to an end when the Jailer admitted that the sentence would not have the slightest effect, because the pig had actually been dead for some years. Such was the speed of justice in those times.*
 
 *And such was the dream of the Barrister. At least, that is, until he was rudely awoken by the angrily ringing bell of the Bellman.*
 
@@ -310,7 +310,7 @@ And grabbed at the Banker, who shrieked in despair,
 He offered large discount—he offered a cheque,  
 ⁠(Drawn "to bearer") for seven-pounds-ten:  
 But the Bandersnatch merely extended its neck  
-⁠And grabbed at the Banker again.
+[As he] grabbed at the Banker again.
 
 Without rest or pause—[whilst] those frumious jaws  
 ⁠Went savagely snapping around—  
@@ -320,9 +320,9 @@ He skipped and he hopped, and he floundered and flopped,
 [Now,] the Bandersnatch fled, as the others appeared  
 ⁠Led on by that fear-stricken yell:  
 And the Bellman remarked "It is just as I feared!"  
-⁠And [he] solemnly tolled on his bell.
+[As he] solemnly tolled on his bell.
 
-*They all gathered round the Banker. He was black in the face, and barely recognisable; his shock was so great that his waistcoat had turned completely white. And now lookimg just like he was dressed in full evening dress, he stood up. And gibbered at them - because he had completely lost his mind. Then he sat down again, and brushed his fingers through his hair, and gently rocked himself backwards and forwards, mumbling to himself.*
+*They all gathered round the Banker. He was black in the face, and was barely recognisable; his shock was so great that his waistcoat, as well as his hair, had turned completely white. And lookimg just like he was wearing full evening dress, he stood up, and gibbered at them, because he had completely lost his mind. Then he sat down again, and brushed his fingers through his hair, and gently rocked himself backwards and forwards, muttering to himself.*
 
 *"We must leave him", said the Bellman, "we must leave him. Time is running out. And if we don't get a move on, we won't catch the Snark before nightfall."*
 
@@ -339,7 +339,7 @@ They threatened its life with a railway-share;
 
 *And the next thing they knew, it appeared as if the Baker had plunged off the crag and into a deep, dark chasm.*
 
-*But then they heard what the Baker had been calling, from so far away, carried on the wind.*
+*And they strained to listen.*
 
 "It's a Snark!" was the sound that first came to their ears,  
 [It] seemed almost too good to be true.  
