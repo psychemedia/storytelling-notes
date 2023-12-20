@@ -7,7 +7,7 @@ The gist of the story is this, based on the version in a *Mountain of Gems*, alb
 > Prince Vachagan is out hunting, incognito, with his trusted friend; it's a hot day and they come to a village, where they are strange symbols on the walls; some women are at the well collecting cold water from the well. Vachagan approaches, and one woman offers a jug of water to Vachagan, but another knocks it away; this happens several times; Vachagan asks if they are mocking him in some way, or denying hospitality;l the girl says the men were hot, the cold water would harm them; Vachagan asks the girl her name — Anaot — and what does — daughter of a shepherdess; she asks his, but he cannot tell her. Vachangan pines for Anait, persuades his parents he shopuld be allowed to marry her; Vachagan's loyal freind is sent as envoy; fine rug woven by Anait; she also teaches people how to read; Anait's father says desision to marry is Anait's, she says not in suitor has no trade. Vachangan learns to weave brocade, they are married; loayal freind / adviser goes missing; Vachagan becomes king; Anait says he should go icognito round kingdwom; strange mountain city, powerful Chief Priest; Vachagan imprisoned in temple cellars: concentration camp, vats of boiling body parts for those who canot work/have no trade; Vachagan says he can weave brocade from gold, worth 3 time more than any other brocade because of the desgin, talismans and sigils that only royalty might value; priest takes brocade, tries to sell it to Anait; she's reads message from husband; priest thrown in jail, Anait rescues husband and frees prisoners; thanked for saving them, then Vachagan says she saved him years before by insisting he had a trade.
 
 
-?? maybe twist it to have Anait write a letter to Vachaga - so he must learnt o read - that asks him to write her a letter in response (so he needs to learn to write) telling her his trade? Maybe the letter is read to him - he is embarrassed - and in having the letter written  - he thinks that maybe he should learn to write too... Or maybe he thinks he would like to write / useful so learns to write...
+?? maybe twist it to have Anait write a letter to Vachagan - so he must learn to read - that asks him to write her a letter in response (so he needs to learn to write) telling her his trade? Maybe the letter is read to him - he is embarrassed - and in having the letter written  - he thinks that maybe he should learn to write too... Or maybe he thinks he would like to write / useful so learns to write...
 
 ---
 
@@ -35,4 +35,10 @@ Notes
 
 This story belongs to the tale type ATU 888A* (The basket-weaver). You can read an arab version here. There are also many other versions, among them Russian, Jewish, Irish, and Moroccan.
 Before Christianity, Anahit was an Armenian goddess, the Golden Mother, sometimes compared to the Greek Artemis.
+
 ---
+
+new book
+https://archive.org/details/weaveofwordsarme0000sans_a9x0
+A weave of words : an Armenian tale
+by San Souci, Robert D,  2006
