@@ -2,6 +2,16 @@
 
 *I'm a bit wary pulling this collection together, even though it would make for an excellent set of story notes, in part because of the "prior claim" that Daniel Morden could argue to have over it. For example, his book "Dark Tales from the Woods" retells several of these stories, and at least one of his workshops (on story structure, a workshop I have attended) critiques how his version of one of the tales was transformed from the original. That said, my better half has a family line descended from two Welsh gipsy families, the Woods and the Prices...*
 
+
+
+--
+
+https://archive.org/details/gypsysorceryand02lelagoog/page/n36/mode/2up?q=diabolical+folklore
+Gypsy Sorcery and Fortune Telling: Illustrated by Numerous Incantations ...
+by Charles Godfrey Leland
+
+Publication date 1891
+
 ---
 https://archive.org/details/dli.granth.84831/page/256/mode/1up
 Gypsy Folk-Tales
