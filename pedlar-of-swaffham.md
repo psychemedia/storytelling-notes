@@ -70,6 +70,11 @@ Publication date 1908
 p13-24
 The evidence of historic events
 
+https://archive.org/details/englishfairyothe00hartiala/page/76/mode/1up
+English fairy and other folk tales
+by Hartland, Edwin Sidney, 1848-1927
+Publication date [1906?]
+p76-7
 
 https://archive.org/details/dli.ministry.13083/page/332/mode/2up?q=swaffham
 Folk lore : A quarterly review of myth, tradition, institution , and custom
