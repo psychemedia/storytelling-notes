@@ -20,6 +20,7 @@ The Abbot of Druimenaig: Genderbending in Gaelic Tradition
 Author(s): Barbara Hillers
 Source: Proceedings of the Harvard Celtic Colloquium , 1995, Vol. 15 (1995), pp. 175-197
 Published by: Department of Celtic Languages & Literatures, Harvard University
+Includes example variants of man no story gender swap variants
 Stable URL: https://www.jstor.org/stable/20557303
   https://www.jstor.org/stable/pdf/20557303.pdf
 
