@@ -8,6 +8,15 @@ https://digital.nls.uk/chapbooks-printed-in-scotland/archive/
 
 
 
+SOngs
+OWn grandfather https://genius.com/Willie-nelson-im-my-own-grandpa-lyrics
+
+Walsingham Binham tunnel .
+Fiddler’s Hill
+[ Roud - ; Mudcat 113179 ; words Peter Bellamy, tune trad.]
+https://mainlynorfolk.info/peter.bellamy/songs/fiddlershill.html
+cd Richmond Castle-Easby Abbey
+
 ---
 
 12 days
@@ -486,6 +495,11 @@ https://folklorethursday.com/folktales/fairy-midwife-magic-ointment/
 https://sites.pitt.edu/~dash/midwife.html
 in jacobs, English fairy tales
 
+https://archive.org/details/talesfairiesand00curtgoog/page/n60/mode/2up?q=listowel
+Tales of the fairies and of the ghost world
+by Curtin, Jeremiah, 1835-1906
+Publication date 1895
+Midwife of Listowel
 
 ---
 
