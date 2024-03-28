@@ -3,7 +3,9 @@
 My way in to this story is "In the county of Norfolk, in the the town of Swaffham, there was a pedlar. He lived ..." I also use our our cooking apple-tree as the minds-eye representation of the tree under which the treasure is found...
 
  TO DO
+https://books.google.co.uk/books?id=yFkMAQAAMAAJ&pg=PT4&dq=blomfield+history+norfolk+swaffham+pedlar&hl=en&newbks=1&newbks_redir=0&source=gb_mobile_search&sa=X&ved=2ahUKEwjlqIGTk7ODAxVj9LsIHZYVBKgQ6AF6BAgLEAM#v=onepage&q=blomfield%20history%20norfolk%20swaffham%20pedlar&f=false
 
+alternative versions: arabian nights
 
 ---
 https://archive.org/details/moreenglishfairy00jacoiala/page/90/mode/2up?q=+swaffham
@@ -70,6 +72,11 @@ Publication date 1908
 p13-24
 The evidence of historic events
 
+https://archive.org/details/englishfairyothe00hartiala/page/76/mode/1up
+English fairy and other folk tales
+by Hartland, Edwin Sidney, 1848-1927
+Publication date [1906?]
+p76-7
 
 https://archive.org/details/dli.ministry.13083/page/332/mode/2up?q=swaffham
 Folk lore : A quarterly review of myth, tradition, institution , and custom
