@@ -11,6 +11,30 @@ English fairy and other folk tales
 by Hartland, Edwin Sidney, 1848-1927
 Publication date [1906?]
 
+
+
+---
+
+https://archive.org/details/Kirk1893CommonwealthElves/page/n1/mode/2up
+The Secret Commonwealth of Elves, Fauns and Fairies
+by Robert Kirk; Andrew Lang, 1893
+
+Edition of 550 copies
+
+? Bibliotheque de Carabas VOL. VIII
+
+https://www.publishinghistory.com/bibliotheque-de-carabas-david-nutt.html
+
+
+
+
+
+https://archive.org/details/walker-between-worlds-the-secret-commonwealth-of-elves-fauns-and-fairies/page/n3/mode/2up
+
+Walker Between Worlds The Secret Commonwealth Of Elves, Fauns, And Fairies
+by Robert Kirk BUT 1990
+
+
 ----
 
 https://archive.org/details/folklore04britgoog/page/248/mode/2up?q=Folklore+gutch+pied+piper
