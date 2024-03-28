@@ -458,17 +458,17 @@ Once, on the way home, she let out a sob. Her mother asked what the matter was. 
 
 When they got home, with her mother, she made a plan.
 
-The next market day, the girl went to the young hunter's stall. But despite her smiles, and her feminine wiles and guiles, it was as if he were more interested in his kill, and his craft, than in her.
+The next market day, the girl went to the young hunter's stall. But despite her smiles, her feminine wiles and guiles, it was as if he were more interested in his kill, and his craft, than in her.
 
-"I'll find my own way home" she said, and set of walking home alone through the forest. She felt humiliated, not spurned, but unseen. As she approached the cross-roads, she muttered to herself, under-her breath: "I would do anything to get him, anything at all".
+"I'll find my own way home" she said, and set off walking home alone through the forest. She felt humiliated, not spurned so much as unseen. As she approached the cross-roads, she muttered to herself, under-her breath: "I would do anything to get him, anything at all".
 
 Now if there's one thing, one lesson, that you need to learn from stories, it's to watch out for what not to say when you get to a crossroads.
 
-"Anything?" said a figure that hadn't been there before, appearing out of the shadows .Tall, dark, and as the Brothers Grimm might say, dressed in a long, green coat.  "Anything at all? Then maybe I can help you?" And he smiled.
+"Anything?" said a figure that hadn't been there before, appearing out of the shadows. Tall, dark, and as the Brothers Grimm might say, dressed in a long, green coat.  "Anything at all? Then maybe I can help you?" And he smiled.
 
 And she looked at him.
 
-And he looked at her. And: "It is a him, I assume, that's upset you? Would you give anything for him?" and now rather uncertainly, given the question had actually been asked, the deal apparently offered, she nodded. But thenm the conditions... "Even if it were for just one year, and one day?"
+And he looked at her. And: "It is a him, I assume, that's upset you? Would you give anything for him?" and now rather uncertainly, given the question had actually been asked, the deal apparently offered, she nodded. But then: the conditions... "Even if it were for just a year and a day?"
 
 She looked down to the ground.
 
@@ -486,15 +486,15 @@ The most joy? Was that a fair trade? But when she thought of the joy that should
 
 As she turned and started to walk home, she wondered jsut what it was that brought her most joy...
 
-She rummaged through her things, her old toys - ha, that old doll — her clothes, her hairbrush? Her mirror? She rummaged around, heard her father calling "what are you doing in there?" and made some sort of joke to himself, and as he chuckled to himself, she smiled to herself, and... "Dad? Would you do something for me?"
+She rummaged through her things, her old toys - ha, that old doll — her clothes, her hairbrush? Her mirror? She rummaged around, heard her father calling "what are you doing in there?" and he made some sort of joke to himself, and chuckled to himself. And she smiled to *her*self, and... "Dad? Would you do something for me?"
 
 And as a father of a daughter, what would he *not* do for her, when she asked so nicely...?
 
-"Can you help me, in the woods?", and they left the house together, and set off, hand in hand. And sometimes she went ahead, and sometimes, it was as if she were tryimng to hold him back.
+"Can you help me, in the woods?", and they left the house together, and set off, hand in hand. And sometimes she went ahead, and sometimes, it was as if she were trying to hold him back.
 
-As they came in sight of the cross-roads, the tall dark man in the long green coat came in view. He smiled, and clicked `[click]` his fingers. And where the girl's father had been, there were now just bones. And she looked at them in shock. And gasped. And tears welled up in her eyes.
+As they came in sight of the cross-roads, the tall dark man in the long green coat came in view. He smiled, and — `[click]` — clicked his fingers. And where the girl's father had been, there were now just bones. And she looked at them in shock. And gasped. And tears welled up in her eyes.
 
-Very deliberately, the devil picked up the chest bones and the neck bones and he fashioned them into a hollow box, with a small neck stciking out of one side of it, and the girl said: "oh, my father's bones..." and she dried her eyes... "they have never shone so bright", and she looked at the devil with curiosity now in her eye.
+Very deliberately, the devil picked up the chest bones and the neck bones and he fashioned them into a hollow box, with a small neck sticking out of one side of it, and the girl said: "oh, my father's bones..." and she dried her eyes... "they have never shone so bright", and she looked at the devil with curiosity now in her eye.
 
 And then the devil said: "do you still want this man, even if it were just for one month and one day?"
 
@@ -508,9 +508,9 @@ And as she got back home, she saw her mother, drawing water from the well. And s
 
 "Mother, could you, could you help me. There is some-wo... something I need you to help me with, in the woods..."
 
-And what mother could deny her daughter? And hand in hand they set off, walking back through the woods.
+And what mother could deny her daughter? And hand in hand they set off, walking back through the woods. And sometimes the girl ran ahead, and other times it was as if she didn't want her mother to go.
 
-As they came in sight of the cross-roads, the devil in the long green coat smiled, and clicked `[click]` his fingers. And where the girl's mother had been, there were now just bones, and her mother long gray silvery hair. And the girl looked at them, and then straight back at the devil. With a gleam of anticipation in her eye.
+As they came in sight of the cross-roads, the devil in the long green coat smiled, and clicked `[click]` his fingers. And where the girl's mother had been, there were now just bones, and her mother's long silvery gray hair. And the girl looked at them, and then straight back at the devil. With curious expectation in her eye.
 
 And as the devil took the bones, and the hair, and fashioned them into a long, taught bow, the girl said, "oh, how my mother's hair has never pulled so tight".
 
@@ -520,7 +520,7 @@ And the girl said, "Oh, I do, I really, really do...".
 
 "Then go home, and bring me back what gives you the most hope and the most despair."
 
-And by now, the girl knew how this game was to be played, and she sprinted back all the way home,  because for just one night and one day, there was no time to waste, and when she got back there she called to her brother, and sister, "come with me, come and play, there is someone I want you to meet..."
+And by now, the girl knew how this game was to be played, and she sprinted back all the way home, because for just one night and one day, there was no time to waste, and when she got back there she called to her brother, and sister, "come with me, come and play, there is someone I want you to meet..."
 
 And what younger brother and sister would not go with the sister, so full of excitement, and she led them running, and chatting, and laughing, and as they turned the corner: [click], once, [click], twice.
 
@@ -538,13 +538,15 @@ And if you've ever heard anyone play the violin for the first time, then you kno
 
 And the Devil said, "this may take some time... You'll need some practice..."
 
-And it did take some time. But the girl did practice, and she practiced hard, so hard it made her fingers bleed and her joints ache. And some times she forget just why she was practicing, and other times she didn't. But with the Devil's help, she started to tame that instrument, to make it sing, to speak, of joy, of strength, of hope, and despair.
+And it did take some time. But the girl did practice, and she practiced hard, so hard it made her fingers bleed and her joints ache. And some times she forget just why she was practicing, and other times she didn't. But with the Devil's help, she started to tame that instrument, to make it sing, to speak, of joy, of strength, of hope, and despair, even if it did take a year to do so.
 
 The first time she played in the market square, she was rather nervous, and the people just walked by.
 
-The second time played, she started to play individual people, catching their ear, and their eye, and causing them to stop a moment, and to watch, and to listen.
+The second time played, she started to play particular people, catching their ear, and their eye, and causing them to stop a moment, and to watch, and to listen.
 
-The third time she played, she started to play the crowd that was gathering. She started to play the crowd and she found thay she could make them do whatever she wanted. She played fast, and they danced; she played slow, and they wept. And as she played, she saw the boy. The young hunter. Watching her. And who was huntung who, I could not say.
+But then her day came.
+
+And that third time she played the market square, she started to play the crowd that was gathering. She started to play the crowd and she found thay she could make them do whatever she wanted. She played fast, and they danced; she played slow, and they wept. And as she played, she saw the boy. The young hunter. Watching her. And who was hunting who, I could not say.
 
 When she had finished, she put the violin back in its case, made her way through the crowd. The young hunter watched her approaching, started to follow her as she glanced back behind at him. She held her hand back out towards him, and as he reached out for it, she led him out of the square.
 
@@ -552,9 +554,9 @@ When she had finished, she put the violin back in its case, made her way through
 
 And they kissed, and they touched, and whatever else happened throughout the rest of that day, and that night, happened between two consenting adults, and is perhaps best left unsaid, so that nobody is embarrassed.
 
-The next norning, the young man woke up first... and he went to make breakfast, because he thought that he should. And he remembered something of the night before, and smiled; and then he remmebered something of the day before, and smiled again; and then as he remembered the way the girl had played the violin and played the crowd, he saw the violin case. And he remembered what the girl had said: "do NOT touch the violin".
+The next morning, the young man woke up first... and he went to make breakfast, because he thought that he should. And he remembered something of the night before, and he smiled; and then he remembered something of the day before, and smiled again; and then as he remembered the way the girl had played the violin and played the crowd, he saw the violin case. And he remembered what the girl had said: "do NOT touch the violin".
 
-But looking wasn't touching, so very very gently, very very slowly, carefully, cautiously, he opened the case...
+But looking wasn't touching, so very very gently, very very slowly, very carefully, and very cautiously, he opened the case...
 
 ...and looked...
 
@@ -566,13 +568,13 @@ And before he realised what he was doing, he was lifting the violin out of the c
 
 And then he imagined playing the violin... like she could... and he pretended to play.... air violin style...
 
-And he imagined hearing the crowd... and he imagined hearing the violin... it was almost as if he could really hear it.. Father's bones... Speaking to him.... Mother's bones... Calling him... Brother's and sister's tongues and bones... and he as pretended to play faster and faster, the noise got louder and louder... Father's bones...  Mother's bones... Brother's and sister's tongues and bones.
+And he imagined hearing the crowd... and he imagined hearing the violin... it was almost as if he could really hear it.. Father's bones... Speaking to him.... Mother's bones... Calling him... Brother's and sister's tongues and bones... and as he pretended to play faster and faster, the noise got louder and louder... Father's bones...  Mother's bones... Brother's and sister's tongues and bones.
 
 And he could imagine seeing his fingers bleed as he played, as hers surely did, and then he saw his fingers were actually bleeding, but when he went to wipe the blood off.. the blood was from the violin... from the strings themeselves... from betweem the.. the bones that made up the instrument, that dreadful instrument and he didn't know if it was him, or her, who screamed first... "What the HELL do you think you are you doing....?"
 
 And he dropped the violin, aghast at it, seeing it for what it was... and he looked at the girl.. and she looked at him...
 
-"I... what am I doing? What is that, what is that thing...? What have you done...?"
+"I... what am I doing? What is it that *you've* done? What is that, what is that thing...? What have you done...?"
 
 And he looked around at the cottage, which was fashioned like something your parents would live in (but where were her parents?) and had clutter of younger brothers and sisters about it.... But there was no brother or sister...?
 
@@ -582,16 +584,24 @@ But with that, the young man had fled the cottage, back to the town "I'll tell t
 
 And the girl glared after him. And carefully, very carefully, lifted the violin, wiped it clean, placed it in the case, folded the rich dark cloth over it, closed the lid, and started to walk after him.
 
-When she got to the market square, the young man was feverishly trying to tell anyone who would listen what he had just seen... and as the girl walked to the centre of the square, their eyes were on her... and as she started to play, they started to listen, and as she started to play faster, they started to move faster, and when the boy pushed through the crowd and grabbed the violin and told the crowd what he had seen they stood stock still. And started to boo, and to shout, and...
+When she got to the market square, the young man was feverishly trying to tell anyone who would listen what he had just seen... and as the girl walked to the centre of the square, their eyes were on her... and as she started to play, they started to listen. And amongst the boy, scurrying between them, point, pointing as her. And as she started to play faster, the boy started to move faster. And when the boy finally pushed through the crowd and grabbed the violin and told them, as a crowd, what he had seen, they stood stock still. And started to boo, and to shout, and...
 
 "Yes", he said, "yes, she did those things..."
 
-And they let him know what they thought;
+And they let him know what they thought of that;
 
-"Gerroff"... "Let her play..." And the boy knew whose side they were on.
+"Boo..."... Gerroff... "... "Let her play..." And the boy knew whose side they were on.
 
-The girl smiled at him. Through the crowd, she saw a tall, dark man in a long green coat. He smiled at her, then looked directly at the young hunter. [Click] And with that, the boy was gone, and the violin fell to the floor. The girl bent down to pick it up, and with it, before it rolled away, the last trace of the boy: a tiny scroll, looking for all the world like a tiny skull. And she affixed to the end of the violin.
+And the girl smiled at him.
 
-And once again, she started to play. And as she did so, the man in the green coat smiled one last time, and walked away. His work was done. As for the girl? She looked at the crowd, with fire in her eyes, and the dancing started again... And for all I know — as far as I know — she is playing on still...
+And as she looked to the crowd, she saw a tall, dark man, in a long green coat. And he smiled at her. And looked to his hand `[being raised]`. And she smiled. And the tall dark mark, with the long green coat, and the strange furry boots: [click]
 
-And that is the end of that.
+And with that, the boy was gone, and the violin fell to the floor. The girl bent down to pick it up, and with it, before it rolled away, the last trace of the boy: a tiny scroll, looking for all the world like a tiny skull. And she affixed to the end of the violin.
+
+And once again, she started to play. And as she did so, the man in the green coat smiled one last time, tipped a nod to the girl, and walked away. His work was done.
+
+As for the girl? She looked at the crowd, with fire in her eyes, and the dancing started again...
+
+And for all I know — as far as I know — she is playing on still...
+
+And that is the end of the tale.
