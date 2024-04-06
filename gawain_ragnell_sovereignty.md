@@ -291,7 +291,7 @@ rpi j ., -i ,1 , i , i knights, riding
 
 They rode With them that day, out with the King
 
-And the formost of the eompany  
+And the formost of the company  
 There rode the steward Kay.
 
 1 Sir Steven does not occur (says Madden) in the Round Table romances.
