@@ -1,34 +1,24 @@
 # Binnorie
 
-aka *Twa Sisters*, a Sottish folk song that tales a tale included in jacobs' *English Fairy Tales*.
+I first came across *Binnorie*, also widely known as the *Twa Sisters*, as a traditional Sottish folk song used as the basis for a *cante fable* by Joseph Jacobs in his [English Fairy Tales](https://archive.org/details/englishfairytal00jacogoog/page/n66/mode/2up) collection of 1890;  several verses of the song are used to describe the closing elements of the story, which is otherwise presented in narrative form.
 
-A summary of the tale goes something like this:
+Many variants of the song from the Scottish, English, Scandinavian and Icelandic folk song traditions, and a comparative review of them, can be found in Francis Child's [The English and Scottish popular ballads](https://archive.org/details/englishscottishp11chilrich/page/118/mode/2up), 1882, Vol 1, part 1, pp.118-141, under the heading "the Twa Sisters".
 
-> 
+Contemporary versions, as in the following example, are still being created...
 
+```{youtube} tD3HR0D-Pmg
+```
 
-https://harp.fandom.com/wiki/Binnorie
+Oral collections of the song also continued well into the 20th century, with [John Whyte singing a version](https://www.tobarandualchais.co.uk/track/33039?l=en) of 'The Twa Sisters' he heard from his mother, collected in 1976, "followed by a discussion about the motivation in the story told in this version and another version of the song". *I would embed a version here, but I've received take down notices in the past from the Tobar an Dualchais website publishers so am reluctant to do so for fear of attracting their ire again.*
 
-https://www.worldoftales.com/European_folktales/English_folktale_9.html#gsc.tab=0
+The gist of the tale, combining elements from several versions of the ballad collated by Child, is as follows:
 
-I like this tune and words - https://www.youtube.com/watch?v=OyYzXh9RxBc 10C on sacred texts) / https://www.youtube.com/watch?v=SlB_QPMUWmg (
-
-Another version, words and music - Twa Sisters https://www.youtube.com/watch?v=tD3HR0D-Pmg (10B / 10E, but also other fragments The Twa Sisters on sacred texts)
-
-https://www.tobarandualchais.co.uk/track/33039?l=en
-John Whyte sings 'The Twa Sisters', followed by a discussion about the motivation in the story told in this version and another version of the song.
-
-There is no mention in the song of what happened to the wicked sister. Betsy Whyte insists that John has omitted two verses dealing with "her true lover John". John thinks these verses belong to an entirely different song. The motivation in John's version is that the younger sister wants to take the elder sister's place as heir to her father's lands. The fiddle made from the dead sister's breastbone reveals what happened. John heard the song from his mother.
-See also: https://en.wikipedia.org/wiki/The_Twa_Sisters
+> A
 
 
----
 
-Jacobs presents the tale in the of a *cante fable* - mix narrative prose with elements of verse or song
 
-Jacobs uses a *cante fable*
-
-```{admonition}
+```{admonition} In Joseph Jacobs, *English Fairy Tales*, 1890
 :class: dropdown
 
 Joseph Jacobs, [English Fairy Tales](https://archive.org/details/englishfairytal00jacogoog/page/n66/mode/2up), 1890, pp44-47.
@@ -52,8 +42,7 @@ So one fine morning, fair and clear, she said to her sister, " Let us go and see
 
 " Sink on," cried the cruel princess, " no hand or glove of mine you'll touch. Sweet William will be all mine when you are sunk beneath the bonny mill-stream of Binnorie." And she turned and went home to the king's castle.
 
-And the princess floated down the mill- stream , some times swimming and sometimes sinking, till she came near the mill. Now the miller's daughter was cooking that day,and needed water for her cooking. And as she went to draw it from the stream , she saw something floating
-towards the mill-dam , and she called out, " Father ! father! draw your dam . There's something white - a merrymaid or a milk -white swan — coming down the stream ." So the miller hastened to the dam and stopped the heavy cruel mill-wheels. And then they took out the princess and laid her on the bank .
+And the princess floated down the mill- stream , some times swimming and sometimes sinking, till she came near the mill. Now the miller's daughter was cooking that day,and needed water for her cooking. And as she went to draw it from the stream , she saw something floating towards the mill-dam , and she called out, " Father ! father! draw your dam . There's something white - a merrymaid or a milk -white swan — coming down the stream ." So the miller hastened to the dam and stopped the heavy cruel mill-wheels. And then they took out the princess and laid her on the bank .
 
 Fair and beautiful she looked as she lay there . In her golden hair were pearls and precious stones ; you could not see her waist for her golden girdle, and the golden fringe of her white dress came down over her lily feet.
 
@@ -67,7 +56,7 @@ And this was what the harp sung :
 
 " O yonder sits my father, the king,  
 Binnorie, O Binnorie ;  
-And yonder sits mymother, the queen ;  
+And yonder sits my mother, the queen ;  
 By the bonny mill-dams o' Binnorie,  
 " And yonder stands my brother Hugh,  
 Binnorie, O Binnorie ;  
@@ -83,11 +72,19 @@ By the bonny mill-dams o' Binnorie."
 
 And the harp snapped and broke, and never sang more.
 
-NOTES, p. 232.
+```
 
-Source. — From the ballad of the "Twa Sisters o' Binnorie," I have used the longer version in Roberts's Legendary Ballads with one or two touches from Mr. Allingham's shorter and more powerful variant in The Ballad Book. A tale is the better for length, a ballad for its curtness.
+In Jacobs' notes, (p. 232), the source of the tale is given as follows:
 
-Parallels. — The story is clearly that of Grimm's "Singing Bone" (No. 28), where one brother slays the other and buries him under a bush. Years after a shepherd passing by finds a bone under the bush, and, blowing through this, hears the bone denounce the murderer. For numerous variants in Ballads and Folk Tales, see Prof. Child's English and Scotch Ballads (ed. 1886), i. 125, 493 ; iii. 499.
+> Source. — From the ballad of the "Twa Sisters o' Binnorie," I have used the longer version in Roberts's Legendary Ballads with one or two touches from Mr. Allingham's shorter and more powerful variant in The Ballad Book. A tale is the better for length, a ballad for its curtness.
+
+Jacobs also identifies other parallel tales:
+
+> Parallels. — The story is clearly that of Grimm's "Singing Bone" (No. 28), where one brother slays the other and buries him under a bush. Years after a shepherd passing by finds a bone under the bush, and, blowing through this, hears the bone denounce the murderer. For numerous variants in Ballads and Folk Tales, see Prof. Child's English and Scotch Ballads (ed. 1886), i. 125, 493 ; iii. 499.
+
+In the version given by Roberts, collected from a "recitation of a lady in Fifeshire", we find the song elements used by Jacobs.
+
+```{youtube} SlB_QPMUWmg
 ```
 
 ```{admonition} In Roberts, *Legendary Ballads*, 1868
@@ -251,79 +248,153 @@ By the bonnie mill-dams o' Binnorie.
 
 ```
 
-```{admonition} In Pinkerton, *Scottish tragic ballads*, 1781
+```{admonition}
 :class: dropdown
+William Allingham, [The ballad book; a selection of the choicest British ballads](https://archive.org/details/balladbookselect00alliuoft/page/132/mode/2up), 1865, pp. 132-6
 
-John Pinkerton, [Scottish tragic ballads](https://archive.org/details/scottishtragicba00pinkiala/page/72/mode/2up), 1781, pp. 72-4.
+XXXIV
 
-XIII. BINNORIE.
+The Twa Sisters o' Binnorie.
 
-From TRADITION.
+1  
+THERE were twa sisters sat in a bow'r ;  
+(Binnorie, O Binnorie ! )  
+A knight cam' there, a noble wooer,  
+By the bonny mill-dams o' Binnorie.
 
-*T*o preserve the tone, a well as the sense of this Ballad, the burden should be repeated through the whole, though it is here omitted for the sake of conciseness.*
+2  
+He courted the eldest wi' glove and ring,  
+(Binnorie, O Binnorie !)  
+But he lo'ed the youngest aboon a' thing,  
+By the bonny mill-dams o' Binnorie.
 
-There were twa sisters livd in a bouir;  
-  " Binnorie, O Binnorie !  
-Their father was a baron of pouir,  
-  By the bonnie mildams of Binnorie.  
-The youngest was meek, and fair as the May,  
-Whan she springs in the east wi the gowden day :  
-The eldest austerne as the winter cauld,  
-Ferce was her saul, and her seiming was bauld.  
-A gallant squire cam sweet Isabel to wooe ;  
-Her sister had naething to luve I trow ;  
-But filld was she wi dolour and ire,  
-To dee that to her the comlie squire  
-Preferd the debonair Isabel :  
-Their hevin of luve of spyte was her hell.  
-Till ae ein shie to her sister can say  
-" Sweit sister cum let us wauk and play."  
-They wauked up, and they wauked down,  
-Sweit sang the birdis in the vallie loun !
-Whan they cam to the roaring lin,  
-She drave unweiting Ifabel in.  
-' O sister! sister! tak my hand,  
-' And ye fall hae my silver fan ;  
-' O sister ! sister ! tak my middle  
-' And ye fall hae my gowden girdle. '
-Sumtimes she sank, sumtimes she swam,  
-Till she cam to the miller's dam :  
-The miller's dochter was out that ein  
-And saw her rowing down the streim.  
-" O father deir ! in your mil dam  
-" There is either a lady or a milk white swan!"  
-Twa days were gane whan to her deir  
-Her wraith at deid of nicht cold appeir :  
-' My luve, my deir, how can ye sleip,  
-' Whan your Isabel lyes in the deip ?  
-' My deir, how can ye sleip bot pain,  
-' Whan she by her cruel sister is slain ?'  
-Up raise he sune in frichtru mude,  
-' Bulk ye my meiny and seik the flude.'  
-They socht her up, and they socht her doun,  
-And spyd at last her glisterin gown :  
-They rais'd her wi richt meikle care;  
-Pale was her cheik, and grein was her hair!  
-' Gae, saddle to me my swiftest steid,  
-' Her fere, by my fae, for her dethe sall bleid.'  
-A page cam rinning out owr the lie,  
-" O heavie tydings I bring!" quoth he,  
-" My luvely lady is far awa gane,  
-" We weit the fairy hae her tane :  
-" Her sister gaed wood wi dule and rage;  
-" Nocht cold we do her mind to suage.  
-" O Isabel! my sister!" she wold cry,  
-' For thee will I weip, for thee will I die !'  
-" Till late yestrene in an elric hour  
-" She lap frae aft the hichest touir"———  
-' Now sleip she in peace !' quoth the gallant Squire,  
-Her dethe was the maist that I cold require :  
-' But I'll main for thee my Isabel deir,  
-  ' Binnorie, O Binnorie!  
-' Full mony a dreiry day, bot weir,  
-  'By the bonnie raildams of Binnorie.'
+3  
+The eldest she was vexed sair,  
+(Binnorie, O Binnorie !)  
+And sair envied her sister fair,  
+By the bonny mill-dams o' Binnorie.
+
+4  
+Upon a morning fair and clear,  
+(Binnorie, O Binnorie !)  
+She cried upon her sister dear,  
+By the bonny mill-dams o' Binnorie.
+
+5  
+' O sister, sister, tak' my hand,'  
+(Binnorie, O Binnorie !)  
+' And let's go down to the river-strand,  
+By the bonny mill-dams o' Binnorie.'
+
+6  
+She's ta'en her by the lily hand,  
+(Binnorie, O Binnorie !)  
+And down they went to the river-strand,  
+By the bonny mill-dams o' Binnorie.
+
+7  
+The youngest stood upon a stane,  
+(Binnorie, O Binnorie !)  
+The eldest cam' and pushed her in,  
+By the bonny mill-dams o' Binnorie.
+
+8  
+' O sister, sister, reach your hand !  
+(Binnorie, O Binnorie !)  
+' And ye sail be heir o' half my land ' —  
+By the bonny mill-dams o' Binnorie.
+
+9  
+' O sister, reach me but your glove ! '  
+(Binnorie, O Binnorie !)  
+' And sweet William sail be your love '-  
+By the bonny mill-dams o' Binnorie.
+
+10  
+Sometimes she sank, sometimes she swam,  
+(Binnorie, O Binnorie !)  
+Till she cam' to the mouth o' yon mill-dam,  
+By the bonny mill-dams o' Binnorie.
+
+11  
+Out then cam' the miller's son  
+(Binnorie, O Binnorie !)  
+And saw the fair maid soummin' in,  
+By the bonny mill-dams o' Binnorie.
+
+12  
+' O father, father, draw your dam ! '  
+(Binnorie, O Binnorie !)  
+'There's either a mermaid or a swan,'  
+By the bonny mill-dams o' Binnorie.
+
+13  
+The miller quickly drew the dam,  
+(Binnorie, O Binnorie !)  
+And there he found a drown'd womàn,   
+By the bonny mill-dams o' Binnorie.
+
+14  
+Round about her middle sma'  
+(Binnorie, O Binnorie!)  
+There went a gouden girdle bra' `[' bra',' brave, rich.]`,  
+By the bonny mill-dams o' Binnorie.
+
+15  
+All amang her yellow hair  
+(Binnorie, O Binnorie !)  
+A string o' pearls was twisted rare,  
+By the bonny mill-dams o' Binnorie.
+
+16  
+On her fingers lily-white,  
+(Binnorie, O Binnorie !)  
+The jewel-rings were shining bright,  
+By the bonny mill-dams o' Binnorie.
+
+17 And by there cam' a harper fine,  
+(Binnorie, O Binnorie !)  
+Harped to nobles when they dine,  
+By the bonny mill-dams o' Binnorie.
+
+18  
+And when he looked that lady on,  
+(Binnorie, O Binnorie !)  
+He sigh'd and made a heavy moan,  
+By the bonny mill-dams o' Binnorie.
+
+19  
+He's ta'en three locks o' her yellow hair,  
+(Binnorie, O Binnorie !)  
+And wi' them strung his harp sae rare,  
+By the bonny mill-dams o' Binnorie.
+
+20  
+He went into her father's hall,  
+(Binnorie, O Binnorie !)  
+And played his harp before them all,  
+By the bonny mill-dams o' Binnorie.
+
+21  
+And sune the harp sang loud and clear  
+(Binnorie, O Binnorie !)  
+' Fareweel, my father and mither dear .'  
+By the bonny mill-dams o' Binnorie.
+
+22  
+And neist when the harp began to sing,  
+(Binnorie, O Binnorie !)  
+'Twas ' Fareweel, sweetheart ! ' said the string,  
+By the bonny mill-dams o' Binnorie.
+
+23 And then as plain as plain could be,  
+(Binnorie, O Binnorie !)  
+' There sits my sister wha drowned me ! '  
+By the bonny mill-dams o' Binnorie.
 
 ```
+
+Roberts suggests that the version he collected from the "lady in Fifeshire" is "almost verbatim from Mr. Jamieson's version":
 
 ```{admonition} In Jamieson, *Popular ballads and songs*, 1806
 :class: dropdown
@@ -500,7 +571,7 @@ By the bonny mill-dams o' Binnorie."
 The thirden tune that it playd then,  
 (Binnorie, O Binnorie !)  
 Was, " Wae to my sister, fair Ellen,  
-By the honny mill-dams o' Binnorie !"
+By the bonny mill-dams o' Binnorie !"
 
 [But the lasten tune it play'd sae sma'  
 (Binnorie, O Binnorie!)  
@@ -523,12 +594,90 @@ May ruing Heaven mees thy care,
 By the bonny mill-dams o' Binnorie."]
 ```
 
-Jamieson also includes a version that ??? referes to as a paraody
+The following Pinkerton version was also identified as an alternative by Roberts.
 
+```{admonition} In Pinkerton, *Scottish tragic ballads*, 1781
+:class: dropdown
 
-TO DO cf Grimm Singing bone
+John Pinkerton, [Scottish tragic ballads](https://archive.org/details/scottishtragicba00pinkiala/page/72/mode/2up), 1781, pp. 72-4.
 
-```{admonition} The Miller and the King's Daughter
+XIII. BINNORIE.
+
+From TRADITION.
+
+*T*o preserve the tone, a well as the sense of this Ballad, the burden should be repeated through the whole, though it is here omitted for the sake of conciseness.*
+
+There were twa sisters livd in a bouir;  
+  " Binnorie, O Binnorie !  
+Their father was a baron of pouir,  
+  By the bonnie mildams of Binnorie.  
+The youngest was meek, and fair as the May,  
+Whan she springs in the east wi the gowden day :  
+The eldest austerne as the winter cauld,  
+Ferce was her saul, and her seiming was bauld.  
+A gallant squire cam sweet Isabel to wooe ;  
+Her sister had naething to luve I trow ;  
+But filld was she wi dolour and ire,  
+To dee that to her the comlie squire  
+Preferd the debonair Isabel :  
+Their hevin of luve of spyte was her hell.  
+Till ae ein shie to her sister can say  
+" Sweit sister cum let us wauk and play."  
+They wauked up, and they wauked down,  
+Sweit sang the birdis in the vallie loun !
+Whan they cam to the roaring lin,  
+She drave unweiting Ifabel in.  
+' O sister! sister! tak my hand,  
+' And ye fall hae my silver fan ;  
+' O sister ! sister ! tak my middle  
+' And ye fall hae my gowden girdle. '
+Sumtimes she sank, sumtimes she swam,  
+Till she cam to the miller's dam :  
+The miller's dochter was out that ein  
+And saw her rowing down the streim.  
+" O father deir ! in your mil dam  
+" There is either a lady or a milk white swan!"  
+Twa days were gane whan to her deir  
+Her wraith at deid of nicht cold appeir :  
+' My luve, my deir, how can ye sleip,  
+' Whan your Isabel lyes in the deip ?  
+' My deir, how can ye sleip bot pain,  
+' Whan she by her cruel sister is slain ?'  
+Up raise he sune in frichtru mude,  
+' Bulk ye my meiny and seik the flude.'  
+They socht her up, and they socht her doun,  
+And spyd at last her glisterin gown :  
+They rais'd her wi richt meikle care;  
+Pale was her cheik, and grein was her hair!  
+' Gae, saddle to me my swiftest steid,  
+' Her fere, by my fae, for her dethe sall bleid.'  
+A page cam rinning out owr the lie,  
+" O heavie tydings I bring!" quoth he,  
+" My luvely lady is far awa gane,  
+" We weit the fairy hae her tane :  
+" Her sister gaed wood wi dule and rage;  
+" Nocht cold we do her mind to suage.  
+" O Isabel! my sister!" she wold cry,  
+' For thee will I weip, for thee will I die !'  
+" Till late yestrene in an elric hour  
+" She lap frae aft the hichest touir"———  
+' Now sleip she in peace !' quoth the gallant Squire,  
+Her dethe was the maist that I cold require :  
+' But I'll main for thee my Isabel deir,  
+  ' Binnorie, O Binnorie!  
+' Full mony a dreiry day, bot weir,  
+  'By the bonnie raildams of Binnorie.'
+
+```
+
+In the [John Whyte version on *Tobar an Dualchais*](https://www.tobarandualchais.co.uk/track/33039?l=en) 
+"[the motivation is] that the younger sister wants to take the elder sister's place as heir to her father's lands. [A] fiddle made from the dead sister's breastbone reveals what happened."
+
+The "parody" version Jamieson refers to, which Allingham identifies from *Wit Restor'd* (1658) and considers to be a "burlesque version" ([p. xii](https://archive.org/details/balladbookselect00alliuoft/page/n15/mode/2up)) is a rather graphic ballad called *"The Miller and the King's Daughter"*. Many elements of it are in common with the version of *The Devil's Violin* that I tell, which draws heavily from Sarah Liisa Wilkinson's version of that tale, such as the the use of the finger bones as fiddle pegs. The use of veins as strings is also notable...
+
+*Allingham also notes, again a p. xii, "we believe that many of our best Old Ballads were old ballads in Shakspeare's time, and, considering the conservatism of the commonalty in such matters, that, for all the verbal variations, they are substantially not much altered since then".*
+
+```{admonition} The Miller and the King's Daughter, in Jamieson, 1806
 :class: dropdown
 
 Robert Jamieson, [Popular ballads and songs, from tradition, manuscripts, and scarce editions](https://archive.org/details/popularballadsa06jamigoog/page/n350/mode/2up), 1806, pp. 315-318
@@ -624,21 +773,14 @@ With a hie downe, downe, a downe a."
 
 ```
 
-
-
-
-Child's collection variants, 1882
-
-Francis James Child, [The English and Scottish popular ballads](https://archive.org/details/englishscottishp11chilrich/page/118/mode/2up), 1882, Vol 1, part 1, pp.118-141.
-
-THE TWA SISTERS
+Several more variants of the ballad are collected in Francis James Child  [The English and Scottish popular ballads](https://archive.org/details/englishscottishp11chilrich/page/118/mode/2up), 1882, Vol 1, part 1, pp.118-141, under the heading "the Twa Sisters".
 
 A. a. ' The Miller and the King's Daughter,' broadside of 1656, Notes and Queries, 1st S., v, 591. b. Wit Restor'd, 1658, "p. 51," in the reprint of 1817, p. 153. c. ' The Miller and the King's Daughters,' Wit and Drollery, ed. 1682, p. 87. d. ' The Miller and the King's Daughter,' Jamieson's Popular Ballads, I, 315.
 
 ```{admonition} Child, A. a
 :class: dropdown
 
-A. a. Broadside "printed for Francis Grove, 1656," reprinted in Notes and Queries, Ist S., v, 591. b. Wit Restor'd, 1658, "p. 51," p. 153 of the reprint of 1817. c. Wit and Drollery, ed. 1682, p. 87, = Dry den's Miscellany, Part 3, p. 316, ed. 1716. d. Jamieson's Popular Ballads, i, 315. 
+A. a. Broadside "printed for Francis Grove, 1656," reprinted in Notes and Queries, Ist S., v, 591. b. Wit Restor'd, 1658, "p. 51," p. 153 of the reprint of 1817. c. Wit and Drollery, ed. 1682, p. 87, Dryden's Miscellany, Part 3, p. 316, ed. 1716. d. Jamieson's Popular Ballads, i, 315. 
 
 1. There were two sisters, they went playing,  
 With a hie downe downe a downe-a  
@@ -873,6 +1015,9 @@ A copy in Motherwell's MS., p. 239, is derived from Jamieson's printed edition. 
 ```
 
 C. ' The Cruel Sister,' Scott's Minstrelsy, II, 143 (1802).
+
+```{youtube} OyYzXh9RxBc
+```
 
 ```{admonition} Child, C.
 
@@ -2147,9 +2292,7 @@ He caught her by the petticoat.
 
 ```
 
-This is one of the very few old ballads which are not extinct as tradition in the British Isles. Even drawing-room versions are spoken of as current, "generally traced to some old nurse, who sang them to the young ladies." `[Campbell's Popular Tales of the West Highlands, iv, 126, 1862.]` It has been found in England, Scotland, Wales, and Ireland, and was very early in print. Dr Rimbault possessed and published a broadside of the date 1656 `[Jamieson, in his Popular Ballads, II, 315, prints the ballad, with five inconsiderable variations from the broadside, as from Musarum Deliciae, 2d edition, 1656. The careful reprint of this book, and of the same edition, in " Facetiae," etc., 1817, docs not contain this piece, and the first edition, of 1655, differed in no respect as to contents, according to the editor of " Facetiae." Still it is hardly credible that Jamieson has blundered, and we may suppose that copies, ostensibly of the same edition, varied as to contents, a thing common enough with old books.]` (A a), and the same copy is included in the miscellany called Wit Restor'd, 1658. Both of these name " Mr Smith " as the author ; that is, Dr James Smith, a well-known writer of humorous verses, to whom the larger part of the pieces in Wit Restor'd has been attributed. If the ballad were ever in Smith's hands, he might possibly have inserted the three burlesque stanzas, 11-13 ; but similar verses are found in another copy (L a), and might easily be extemporized by any singer of sufficiently bad taste. Wit and Drollery, the edition of 1682, has an almost identical copy of the ballad, and this is repeated in Dryden's Miscellany, edition of 1716, Part III, p. 316. In 1781 Pinkerton inserted in his Tragic Ballads one with the title ' Binnorie,' purporting to be from Scottish tradition. Of twenty-eight couplets, barely seven are genuine. Scott printed in 1802 a copy (C) compounded from one " in Mrs Brown's MS." (B b) and a fragment of fourteen stanzas which had been transcribed from recitation by Miss Charlotte Brooke, adopting a burden found in neither. `[Cunningham has re- written Scott's version, Songs of 
-Scotland, ii, 109, ' The Two Fair Sisters.' He says, " I was once deeply touched with the singing of this romantic and mournful song. ... I have ventured to print it in the manner I heard it sung." There is, to be sure, no reason why he should not have heard his own s(mg sung, once, and , still less why he should not have been deeply touched with his own pathos. Cunningham adds one genuine stanza, resembling the first of G, J, P : Two fair sisters lived in a bower, Hey ho my nonnie O, There came a knight to be their wooer. While the swan swims bonnie O ]` Jamieson followed, four years after, with a tolerably faithful, though not, as he says, verbatim, publication of his copy of Mrs Brown's ballad, somewhat marred, too, by acknowledged in- 
-terpolations. This text of Mrs Brown's is now correctly given, with the whole or fragments of eleven others, hitherto unpublished.
+This is one of the very few old ballads which are not extinct as tradition in the British Isles. Even drawing-room versions are spoken of as current, "generally traced to some old nurse, who sang them to the young ladies." `[Campbell's Popular Tales of the West Highlands, iv, 126, 1862.]` It has been found in England, Scotland, Wales, and Ireland, and was very early in print. Dr Rimbault possessed and published a broadside of the date 1656 `[Jamieson, in his Popular Ballads, II, 315, prints the ballad, with five inconsiderable variations from the broadside, as from Musarum Deliciae, 2d edition, 1656. The careful reprint of this book, and of the same edition, in " Facetiae," etc., 1817, docs not contain this piece, and the first edition, of 1655, differed in no respect as to contents, according to the editor of " Facetiae." Still it is hardly credible that Jamieson has blundered, and we may suppose that copies, ostensibly of the same edition, varied as to contents, a thing common enough with old books.]` (A a), and the same copy is included in the miscellany called Wit Restor'd, 1658. Both of these name " Mr Smith " as the author ; that is, Dr James Smith, a well-known writer of humorous verses, to whom the larger part of the pieces in Wit Restor'd has been attributed. If the ballad were ever in Smith's hands, he might possibly have inserted the three burlesque stanzas, 11-13 ; but similar verses are found in another copy (L a), and might easily be extemporized by any singer of sufficiently bad taste. Wit and Drollery, the edition of 1682, has an almost identical copy of the ballad, and this is repeated in Dryden's Miscellany, edition of 1716, Part III, p. 316. In 1781 Pinkerton inserted in his Tragic Ballads one with the title ' Binnorie,' purporting to be from Scottish tradition. Of twenty-eight couplets, barely seven are genuine. Scott printed in 1802 a copy (C) compounded from one " in Mrs Brown's MS." (B b) and a fragment of fourteen stanzas which had been transcribed from recitation by Miss Charlotte Brooke, adopting a burden found in neither. `[Cunningham has re- written Scott's version, Songs of Scotland, ii, 109, ' The Two Fair Sisters.' He says, " I was once deeply touched with the singing of this romantic and mournful song. ... I have ventured to print it in the manner I heard it sung." There is, to be sure, no reason why he should not have heard his own s(mg sung, once, and , still less why he should not have been deeply touched with his own pathos. Cunningham adds one genuine stanza, resembling the first of G, J, P : Two fair sisters lived in a bower, Hey ho my nonnie O, There came a knight to be their wooer. While the swan swims bonnie O ]` Jamieson followed, four years after, with a tolerably faithful, though not, as he says, verbatim, publication of his copy of Mrs Brown's ballad, somewhat marred, too, by acknowledged interpolations. This text of Mrs Brown's is now correctly given, with the whole or fragments of eleven others, hitherto unpublished.
 
 The ballad is as popular with the Scandinavians as with their Saxon cousins. Grundtvig, ' Den talende Strengeleg,' No 95, gives nine Danish versions and one stanza of a tenth ; seven, A-E, in II, 507 ff, the remainder, H-K, in III, 875 ff. One more, L, is added by Kristensen, No 96, i, 253. Of these, only E had been previously printed. All are from tradition of this century.
 
@@ -2167,9 +2310,9 @@ The sisters are king's daughters in English A, B, C, H, O (?), P, Q, R a, and in
 
 It is a thing made much of in most of the Norse ballads that the younger sister is fair and the older dark ; the younger is bright as the sun, as white as ermine or as milk, the elder black as soot, black as the earth, Icelandic A, Swedish A, B, G, Danish A, D, etc. ; and this difference is often made the ground for very unhandsome taunts, which qualify our compassion for the younger; such as Wash all day, and you will be no whiter than God made you. Wash as white as you please, you will never get a lover, Faroe A, B, Norwegian A, C, etc. This contrast may possibly be implied in " the youngest was the fairest flower," English F, G, Q [" sweetest," D], but is expressed only in M, " Ye was fair and I was din " (dun), and in P a, " The old was black and the young ane fair."
 
-The scene of action is a seashore in Icelandic and Fiiroe A, B, Norwegian A, Swedish A, B, G, H, and in all the Danish complete copies: a seashore, or a place where ships come in, in English A, B a, D-I, Q, R a, T, but in all save the last of these (the last is only one stanza) we have the absurdity of a body drowned in navigable water being discovered floating down a mill-stream. `[The sisters, D, I, walk by, up, a linn ; Q, go to a sand [strand] ; Q, go to the stream ; R a, walk on the bryn.]` B c has " the deep mill-dam ; " C " the river-strand," perhaps one of Scott's changes ; M, " the dams ; " L, O, P, R b 0, a river, Tweed mill-dam, or the water of Tweed. Norwegian B has a river.
+The scene of action is a seashore in Icelandic and Faroe A, B, Norwegian A, Swedish A, B, G, H, and in all the Danish complete copies: a seashore, or a place where ships come in, in English A, B a, D-I, Q, R a, T, but in all save the last of these (the last is only one stanza) we have the absurdity of a body drowned in navigable water being discovered floating down a mill-stream. `[The sisters, D, I, walk by, up, a linn ; Q, go to a sand [strand] ; Q, go to the stream ; R a, walk on the bryn.]` B c has " the deep mill-dam ; " C " the river-strand," perhaps one of Scott's changes ; M, " the dams ; " L, O, P, R b 0, a river, Tweed mill-dam, or the water of Tweed. Norwegian B has a river.
 
-The pretence for the older sister's taking the younger down to the water is in English A-E, G, H, I, O, Q, to see their father's ships come in ; in Icelandic B to wash their silks ; `[Swedish H begins, " Dear sister, come follow me to the clapping-stone : " " Nay, I have no foul clothes." So F 6, 7, G 4, 5, Faroe A 6, nearly ; and then follows the suggestion that they sho\ild wash themselves. Another of Rancken's copies begins, " Two sisters went to the bucking-stone, to back their clothes snow-white," H ; and so Rancken's S nearly. ]` in most of the Norse ballads to wash themselves, so that, as the elder says, " we may be alike white," Danish C-H, Norwegian A, C, Swedish F, G, Faroe A, B. Malice prepense is attributed to the elder in Swedish B, F, Norwegian C, Danish E, F, G : but in Faroe A, B, Norwegian A, B, and perhaps some other cases, a previous evil intent is not certain, and the provocations of the younger sister may excuse the elder so far.
+The pretence for the older sister's taking the younger down to the water is in English A-E, G, H, I, O, Q, to see their father's ships come in ; in Icelandic B to wash their silks ; `[Swedish H begins, " Dear sister, come follow me to the clapping-stone : " " Nay, I have no foul clothes." So F 6, 7, G 4, 5, Faroe A 6, nearly ; and then follows the suggestion that they sho\ild wash themselves. Another of Rancken's copies begins, " Two sisters went to the bucking-stone, to back their clothes snow-white," H ; and so Rancken's S nearly.]` in most of the Norse ballads to wash themselves, so that, as the elder says, " we may be alike white," Danish C-H, Norwegian A, C, Swedish F, G, Faroe A, B. Malice prepense is attributed to the elder in Swedish B, F, Norwegian C, Danish E, F, G : but in Faroe A, B, Norwegian A, B, and perhaps some other cases, a previous evil intent is not certain, and the provocations of the younger sister may excuse the elder so far.
 
 The younger is pushed from a stone upon which she sits, stands, or steps, in English B, C, E-H, M, O, Q, Icelandic A, B, Faroe A, B, Norwegian A, B, C, Danish A-E, H, L, Swedish G, H, and Rancken's other copies.
 
@@ -2182,19 +2325,17 @@ In this refusal concur Icelandic A, Danish E, H, L, and all the Norwegian versio
 
 Swedish A, G, and Rancken's versions (or two of them) make the younger sister, when she sees that she must drown, send greetings to her father, mother, true-love [also brother, sister, Rancken], and add in each case that she is drinking, or dancing, her bridal in the flood, that her bridal-bed is made on the white-sand, etc.
 
-The body of the drowned girl is discovered, in nearly all the English ballads, by some member of the miller's household, and is taken out of the water by the miller. In L b, which, however, is imperfect at the eginning, a harper finds the body. In the Icelandic ballads it is found on the seashore by the lover ; in all the Norwegian but M by two fishermen, as also in Swedish D [fishermen in Swedish B] ; in all the Faroe versions and Norwegian M by two " pilgrims ; " `[There are, besides the two fishermen, in Norwegian A, two " twadders," i. e., landloupers, possibly (Bugge) a corruption of the word rendered pilgrims, Faroe vallarar, Swedish vallare. The vallarar in these ballads are perhaps more respectable than those whose acquaintance we shall make through the Norse versions of ' Babylon,' and may be allowed to be harmless vagrants, but scarcely better, seeing that they are ranked with " staff-carls " in Norges Gamle Love, cited by Cleasby and Vigf usson at ' vallari.' ]` in Danish A-F, L, and Swedish C by two musicians, Danish H,Swedish A, G, one. Danish G, which is corrupted at the close, has three musicians, but these simply witness and report the drowning.
+The body of the drowned girl is discovered, in nearly all the English ballads, by some member of the miller's household, and is taken out of the water by the miller. In L b, which, however, is imperfect at the beginning, a harper finds the body. In the Icelandic ballads it is found on the seashore by the lover ; in all the Norwegian but M by two fishermen, as also in Swedish D [fishermen in Swedish B] ; in all the Faroe versions and Norwegian M by two " pilgrims ; " `[There are, besides the two fishermen, in Norwegian A, two " twadders," i. e., landloupers, possibly (Bugge) a corruption of the word rendered pilgrims, Faroe vallarar, Swedish vallare. The vallarar in these ballads are perhaps more respectable than those whose acquaintance we shall make through the Norse versions of ' Babylon,' and may be allowed to be harmless vagrants, but scarcely better, seeing that they are ranked with " staff-carls " in Norges Gamle Love, cited by Cleasby and Vigf usson at ' vallari.' ]` in Danish A-F, L, and Swedish C by two musicians, Danish H,Swedish A, G, one. Danish G, which is corrupted at the close, has three musicians, but these simply witness and report the drowning.
 
-According to all complete and uncorrupted forms of the ballad, either some part of the body of the drowned girl is taken to furnisha musical instrument, a harp or a viol, `[A harp in the Icelandic and Norwegian ballads, Faroe A, B, C, Swedish A, B, D, G, H ; a harp in English B, C, G, J. A harp is not named in any of the Danish versions, but a fiddle is mentioned in C, E, H, is plainly meant in A, and may always be intended ; or perhaps two fiddles in all but H (which has only one fiddler), and the corrupted G. D begins with two fiddlers, but concludes with only one. We have a fiddle in Swedish C, and in English A, D, E, F, I, J, K, L, O, P ; both harp and fiddle in H.]` or the instrument is wholly made from the body. This is done in the Norse ballads by those who first find the body, save in Swedish B, wherefishermen draw the body ashore, and a passing " speleman " makes the instrument. In English it is done by the miller, A ; by a harper, B, C, G, L b (the *king*'s harper in B) ; by a fiddler, D, E, I, L a (?), O, P (the *king*'s fiddler, O (?), P) ; by both a fiddler and the king's harper, H ; in P by the father's herdsman, who happens to be a fiddler.
+According to all complete and uncorrupted forms of the ballad, either some part of the body of the drowned girl is taken to furnish a musical instrument, a harp or a viol, `[A harp in the Icelandic and Norwegian ballads, Faroe A, B, C, Swedish A, B, D, G, H ; a harp in English B, C, G, J. A harp is not named in any of the Danish versions, but a fiddle is mentioned in C, E, H, is plainly meant in A, and may always be intended ; or perhaps two fiddles in all but H (which has only one fiddler), and the corrupted G. D begins with two fiddlers, but concludes with only one. We have a fiddle in Swedish C, and in English A, D, E, F, I, J, K, L, O, P ; both harp and fiddle in H.]` or the instrument is wholly made from the body. This is done in the Norse ballads by those who first find the body, save in Swedish B, where fishermen draw the body ashore, and a passing " speleman " makes the instrument. In English it is done by the miller, A ; by a harper, B, C, G, L b (the *king*'s harper in B) ; by a fiddler, D, E, I, L a (?), O, P (the *king*'s fiddler, O (?), P) ; by both a fiddler and the king's harper, H ; in P by the father's herdsman, who happens to be a fiddler.
 
-Perhaps the original conception was the simple and beautiful one which we find in English B and both the Icelandic ballads, that the king's harper, or the girl's lover, takes three locks of her yellow hair to string his harp with. So we find three tets of hair in D, E, I, and three links in P, P, used, or directed to be used, to string the fiddle or the fiddle-bow, and the same, apparently, with Danish A. Infelicitous additions were, perhaps, successively made ; as a harp-frame from the breast-bone in English C, and fiddle-pins formed of the finger-joints, English F, O, Danish B, C, E, P, L. Then we have all three : the frame of the instrument formed from the breast (or trunk), the screws from the finger-joints, the strings from the hair, Swedish A, B, G, Norwegian A, C, M. And so one thing and another is added, or substituted, as fiddle-bows of the arms or legs, Swedish C, D, Danish H, English L a ; a harp-frame from the arms, Norwegian B, Faroe A ; a fiddle-frame from the skull, Swedish C, or from the back-bone, English L b ; a plectrum from the arm, Faroe B ; strings from the veins, English A ; a bridgefrom the nose, English A, L a ; "h0rp0nota" from the teeth, Norwegian B ; till we end with the buffoonery of English A and L a.
+Perhaps the original conception was the simple and beautiful one which we find in English B and both the Icelandic ballads, that the king's harper, or the girl's lover, takes three locks of her yellow hair to string his harp with. So we find three tets of hair in D, E, I, and three links in F, P, used, or directed to be used, to string the fiddle or the fiddle-bow, and the same, apparently, with Danish A. Infelicitous additions were, perhaps, successively made ; as a harp-frame from the breast-bone in English C, and fiddle-pins formed of the finger-joints, English F, O, Danish B, C, E, P, L. Then we have all three : the frame of the instrument formed from the breast (or trunk), the screws from the finger-joints, the strings from the hair, Swedish A, B, G, Norwegian A, C, M. And so one thing and another is added, or substituted, as fiddle-bows of the arms or legs, Swedish C, D, Danish H, English L a ; a harp-frame from the arms, Norwegian B, Faroe A ; a fiddle-frame from the skull, Swedish C, or from the back-bone, English L b ; a plectrum from the arm, Faroe B ; strings from the veins, English A ; a bridgefrom the nose, English A, L a ; "h0rp0nota" from the teeth, Norwegian B ; till we end with the buffoonery of English A and L a.
 
 Swedish H has nothing about the finding of the body. Music is wanted for the bridal, and a man from another village, who undertakes to furnish it, looks three days for a proper tree to make a harp of. The singer of this version supplied the information, lost from the ballad, that the drowned sister had floated ashore and grown up into a linden, and that this was the very tree which was chosen for the harp. (See, further on, a Lithuanian, a Slovak, and an Esthonian ballad.)
 
 All the Norse ballads make the harp or fiddle to be taken to a wedding, which chances to be that of the elder sister with the drowned girl's betrothed. `[Some of the unprinted Norwegian ballads are not completely described, but a departure from the rule of the major part would probably have been alluded to.]` Unfortunately, many of the English versions are so injured towards the close that the full story cannot be made out. There is no wedding-feast preserved in any of them. The instrument, in A, B, C, H, is taken into the king's presence. The viol in A and the harp in H are expressly said to speak. The harp is laid upon a stone in C, J, and plays " its lone ; " the fiddle plays of itself in L b. `[The stanza, 9, in which this is said is no doubt as to its form entirely modern, bat not so the idea. I has " the first spring that he playd, it said," etc.]` B makes the harper play, and D, F, K, O, which say the fiddle played, probably mean that there was a fiddler, and so perhaps with all the Norse versions; but this is not very material, since in either case the instrument speaks " with most miraculous organ."
 
-There are three strings made from the girl's hair in Icelandic A, B, English B [veins, English A], and the three tets or links in English D, E, P, I, P were no doubt taken to make three strings originally. Corresponding to this are three enunciations of the instrument in English A, B, C, Icelandic A, Faroe A,`[The fourth string is said to speak in Faroe A 30, but no utterance is recorded, and this is likely to be a mistake. In many of the versions, and in this, after the strings have spoken individually, they unite in a powerful but inarticulate concord.]` B, Swedish A, B, C, B, G, H, Danish A, D, F, I. These are reduced to two in Icelandic B, Danish B, C, H, L, Swedish D, and even to one in English D, F, I, K, O, but some of these have suffered injury towards the conclusion. The number is increased to four in Norwegian B, to five in Norwegian A, D, and even to six in Norwegian ' C, K, M. The increase is, of course, a later exaggeration, and very detrimental to the ; effect. In those English copies in which the instrument speaks but once, `[I has lost the terminal stanzas.]` D, F, K, O, and we may add P, it expresses a desire for vengeance : Hang my sister, D, F, K ; Ye 'll drown my sister, as she 's dune me, O ; Tell him to burn my sister, P. This is found in no Norse ballad, neither is it found in the earliest English versions. These, and the better forms of the Norse, reveal the awful secret, directly or indirectly, and, in the latter case, sometimes note the effect on the bride. Thus, in Icelandic B, the first string sounds.
-
-The bride is our sister ; the second, The bride is our murderer. In Danish B the first fiddle plays, The bride is my sister ; the second. The bridegroom is my true-love ; in C, H, the first strain is. The bride has drowned her sister, the second. Thy sister is driven [blown] to land. Faroe A, B, have : (1) The bride was my sister ; (2) The bride was my murderer ; (3) The bridegroom was my true-love. The bride then says that the harp disturbs her much, and that she lists to hear it no more. Most impressive of all, with its terse, short lines, is Icelandic A :
+There are three strings made from the girl's hair in Icelandic A, B, English B [veins, English A], and the three tets or links in English D, E, P, I, P were no doubt taken to make three strings originally. Corresponding to this are three enunciations of the instrument in English A, B, C, Icelandic A, Faroe A,`[The fourth string is said to speak in Faroe A 30, but no utterance is recorded, and this is likely to be a mistake. In many of the versions, and in this, after the strings have spoken individually, they unite in a powerful but inarticulate concord.]` B, Swedish A, B, C, B, G, H, Danish A, D, F, I. These are reduced to two in Icelandic B, Danish B, C, H, L, Swedish D, and even to one in English D, F, I, K, O, but some of these have suffered injury towards the conclusion. The number is increased to four in Norwegian B, to five in Norwegian A, D, and even to six in Norwegian ' C, K, M. The increase is, of course, a later exaggeration, and very detrimental to the ; effect. In those English copies in which the instrument speaks but once, `[I has lost the terminal stanzas.]` D, F, K, O, and we may add P, it expresses a desire for vengeance : Hang my sister, D, F, K ; Ye 'll drown my sister, as she 's dune me, O ; Tell him to burn my sister, P. This is found in no Norse ballad, neither is it found in the earliest English versions. These, and the better forms of the Norse, reveal the awful secret, directly or indirectly, and, in the latter case, sometimes note the effect on the bride. Thus, in Icelandic B, the first string sounds The bride is our sister ; the second, The bride is our murderer. In Danish B the first fiddle plays, The bride is my sister ; the second. The bridegroom is my true-love ; in C, H, the first strain is. The bride has drowned her sister, the second. Thy sister is driven [blown] to land. Faroe A, B, have : (1) The bride was my sister ; (2) The bride was my murderer ; (3) The bridegroom was my true-love. The bride then says that the harp disturbs her much, and that she lists to hear it no more. Most impressive of all, with its terse, short lines, is Icelandic A :
 
 The first string made response :  
 ' The bride was my sister once.'
@@ -2216,7 +2357,7 @@ The bride's heart burst with the pang.
 
 This is the wicked sister's end in both of the Icelandic ballads and in Faroe A, B. In Swedish A, G, at the first stroke on the harp she laughs ; at the second she grows pale [has to be undressed] ; upon the third she lay dead in her bed [falls dead on the floor]. She is burned in Danish A, B, C, F, G, Swedish B, Norwegian A, B, C, I, M. In Norwegian K, L, the younger sister (who is restored to life) begs that the elder may not be burned, but sent out of the country (cf. English R b o) ; nevertheless, she is buried alive in L, which is her fate also in E, and in other unprinted versions. A prose comment upon Danish I has her stabbed by the bridegroom.
 
-Norwegian B 21 makes the bride, in her confusion at the revelations of the harp, ask the bridegroom to drive the fiddler out of the house. So far from complying, the bridegroom orders him mead and wine, and the bride to the pile. In Norwegian ??? the bride treads on the harper's foot, then orders the playing to stop ; but the bridegroom springs from the table, and cries. Let the harp have its song out, pays no regard to the lady's alleging that she has so bad a head that she cannot bear it, and finally sends her to the pile. So, nearly, Norwegian A. In Danish A, C, D, H, L, vainly in the first two, the bride tries to hush the fiddler with a bribe. He endeavors to take back what he has said in D, L, declaring himself a drunken fool (the passage is borrowed from another ballad) : still in L, though successful for the nonce, she comes to the stake and wheel some months after. In H the fiddler dashes the instrument against a stone, seemingly to earn his bribe, but this trait belongs to versions which take the turn of the Norwegian. In C 15 the bride springs from the table, and says, Give the fiddlers a trifle, and let them go. This explains the last stanza of English A (cf., Norwegian B 21) :
+Norwegian B 21 makes the bride, in her confusion at the revelations of the harp, ask the bridegroom to drive the fiddler out of the house. So far from complying, the bridegroom orders him mead and wine, and the bride to the pile. In Norwegian C the bride treads on the harper's foot, then orders the playing to stop ; but the bridegroom springs from the table, and cries. Let the harp have its song out, pays no regard to the lady's alleging that she has so bad a head that she cannot bear it, and finally sends her to the pile. So, nearly, Norwegian A. In Danish A, C, D, H, L, vainly in the first two, the bride tries to hush the fiddler with a bribe. He endeavors to take back what he has said in D, L, declaring himself a drunken fool (the passage is borrowed from another ballad) : still in L, though successful for the nonce, she comes to the stake and wheel some months after. In H the fiddler dashes the instrument against a stone, seemingly to earn his bribe, but this trait belongs to versions which take the turn of the Norwegian. In C 15 the bride springs from the table, and says, Give the fiddlers a trifle, and let them go. This explains the last stanza of English A (cf., Norwegian B 21) :
 
 Now pay the miller for his payne,  
 And let him bee gone in the divel's name.
