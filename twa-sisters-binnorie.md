@@ -1,22 +1,16 @@
-# Binnorie
+# Binnorie / Twa Sisters
 
 I first came across *Binnorie*, also widely known as the *Twa Sisters*, as a traditional Sottish folk song used as the basis for a *cante fable* by Joseph Jacobs in his [English Fairy Tales](https://archive.org/details/englishfairytal00jacogoog/page/n66/mode/2up) collection of 1890;  several verses of the song are used to describe the closing elements of the story, which is otherwise presented in narrative form.
 
 Many variants of the song from the Scottish, English, Scandinavian and Icelandic folk song traditions, and a comparative review of them, can be found in Francis Child's [The English and Scottish popular ballads](https://archive.org/details/englishscottishp11chilrich/page/118/mode/2up), 1882, Vol 1, part 1, pp.118-141, under the heading "the Twa Sisters".
 
-Contemporary versions, as in the following example, are still being created...
-
-```{youtube} tD3HR0D-Pmg
-```
+Contemporary versions, as in the following example, are still being created, as for example this version by [Emily Smith](https://www.youtube.com/watch?v=tD3HR0D-Pmg).
 
 Oral collections of the song also continued well into the 20th century, with [John Whyte singing a version](https://www.tobarandualchais.co.uk/track/33039?l=en) of 'The Twa Sisters' he heard from his mother, collected in 1976, "followed by a discussion about the motivation in the story told in this version and another version of the song". *I would embed a version here, but I've received take down notices in the past from the Tobar an Dualchais website publishers so am reluctant to do so for fear of attracting their ire again.*
 
 The gist of the tale, combining elements from several versions of the ballad collated by Child, is as follows:
 
-> A
-
-
-
+> TO DO
 
 ```{admonition} In Joseph Jacobs, *English Fairy Tales*, 1890
 :class: dropdown
@@ -25,7 +19,7 @@ Joseph Jacobs, [English Fairy Tales](https://archive.org/details/englishfairytal
 
 Binnorie
 
-OŃCE upon a time there were two king's daughters lived in a bower near the bonny milldams of Binnorie. And Sir William came wooing the eldest and won her love and plighted troth with glove and with ring. 
+ONCE upon a time there were two king's daughters lived in a bower near the bonny milldams of Binnorie. And Sir William came wooing the eldest and won her love and plighted troth with glove and with ring. 
 
 ![Binnore / Twa Sisters: harper kneeling next to body of maiden](images/binnorie_harp.png)
 
@@ -248,7 +242,7 @@ By the bonnie mill-dams o' Binnorie.
 
 ```
 
-```{admonition}
+```{admonition} In Allingham, *The Ballad Book*, 1965.
 :class: dropdown
 William Allingham, [The ballad book; a selection of the choicest British ballads](https://archive.org/details/balladbookselect00alliuoft/page/132/mode/2up), 1865, pp. 132-6
 
@@ -1020,6 +1014,7 @@ C. ' The Cruel Sister,' Scott's Minstrelsy, II, 143 (1802).
 ```
 
 ```{admonition} Child, C.
+:class: dropdown
 
 Scott's Minstrelsy, 1802, II, 143. Compounded from B b and a fragment of fourteen stanzas transcribed from the recitation of an old woman by Miss Charlotte Brooke. 
 
@@ -2292,6 +2287,14 @@ He caught her by the petticoat.
 
 ```
 
+Child's commentary comparing the various versions he collected, as well as other he referernces, is expansive.
+
+```{admonition} Childs notes and commentary comparing variants, "The Twa Sisters
+:class: dropdown
+Francis James Child, [The English and Scottish popular ballads](https://archive.org/details/englishscottishp11chilrich/page/118/mode/2up), 1882, vol. 1, part 1, pp. 118-126
+
+10 The Twa Sisters
+
 This is one of the very few old ballads which are not extinct as tradition in the British Isles. Even drawing-room versions are spoken of as current, "generally traced to some old nurse, who sang them to the young ladies." `[Campbell's Popular Tales of the West Highlands, iv, 126, 1862.]` It has been found in England, Scotland, Wales, and Ireland, and was very early in print. Dr Rimbault possessed and published a broadside of the date 1656 `[Jamieson, in his Popular Ballads, II, 315, prints the ballad, with five inconsiderable variations from the broadside, as from Musarum Deliciae, 2d edition, 1656. The careful reprint of this book, and of the same edition, in " Facetiae," etc., 1817, docs not contain this piece, and the first edition, of 1655, differed in no respect as to contents, according to the editor of " Facetiae." Still it is hardly credible that Jamieson has blundered, and we may suppose that copies, ostensibly of the same edition, varied as to contents, a thing common enough with old books.]` (A a), and the same copy is included in the miscellany called Wit Restor'd, 1658. Both of these name " Mr Smith " as the author ; that is, Dr James Smith, a well-known writer of humorous verses, to whom the larger part of the pieces in Wit Restor'd has been attributed. If the ballad were ever in Smith's hands, he might possibly have inserted the three burlesque stanzas, 11-13 ; but similar verses are found in another copy (L a), and might easily be extemporized by any singer of sufficiently bad taste. Wit and Drollery, the edition of 1682, has an almost identical copy of the ballad, and this is repeated in Dryden's Miscellany, edition of 1716, Part III, p. 316. In 1781 Pinkerton inserted in his Tragic Ballads one with the title ' Binnorie,' purporting to be from Scottish tradition. Of twenty-eight couplets, barely seven are genuine. Scott printed in 1802 a copy (C) compounded from one " in Mrs Brown's MS." (B b) and a fragment of fourteen stanzas which had been transcribed from recitation by Miss Charlotte Brooke, adopting a burden found in neither. `[Cunningham has re- written Scott's version, Songs of Scotland, ii, 109, ' The Two Fair Sisters.' He says, " I was once deeply touched with the singing of this romantic and mournful song. ... I have ventured to print it in the manner I heard it sung." There is, to be sure, no reason why he should not have heard his own s(mg sung, once, and , still less why he should not have been deeply touched with his own pathos. Cunningham adds one genuine stanza, resembling the first of G, J, P : Two fair sisters lived in a bower, Hey ho my nonnie O, There came a knight to be their wooer. While the swan swims bonnie O ]` Jamieson followed, four years after, with a tolerably faithful, though not, as he says, verbatim, publication of his copy of Mrs Brown's ballad, somewhat marred, too, by acknowledged interpolations. This text of Mrs Brown's is now correctly given, with the whole or fragments of eleven others, hitherto unpublished.
 
 The ballad is as popular with the Scandinavians as with their Saxon cousins. Grundtvig, ' Den talende Strengeleg,' No 95, gives nine Danish versions and one stanza of a tenth ; seven, A-E, in II, 507 ff, the remainder, H-K, in III, 875 ff. One more, L, is added by Kristensen, No 96, i, 253. Of these, only E had been previously printed. All are from tradition of this century.
@@ -2420,3 +2423,5 @@ There is a series of tales which represent a king, or other personage, as being 
 Among the tales of the South African Bechuana, there is one of a younger brother, who has been killed by an older, immediately appearing as a bird, and announcing what has occurred. The bird is twice killed, and the last time burnt and its ashes scattered to the winds, but still reappears, and proclaims that his body lies by a spring in the desert. Grimms, K. u. H. m. Ill, 361. Liebrecht has noted that the fundamental idea is found in a Chinese drama, ' The Talking Dish,' said to be based on a popular tale. An innkeeper and his wife kill one of their guests for his money, and burn the body. The innkeeper collects the ashes and pounds the bones, and makes a sortof mortar and a dish. This dish speaks very distinctly, and denounces the murderers. Journal Asiatique, 1851, 4th Series, vol. 18, p. 523.
 
 Danish A, B are translated by Prior, i, 381, 384. English B, with use of C, is translated by Grundtvig, Engelske og skotske Folkeviser, p. 104, No 15 ; C, by Afzelius, in, 22. C, by Talvj, Versuch, u. s. w., p. 532; by Schubart, p. 133 ; by Gerhard, p. 143 ; by Doenniges, p. 81 ; Arndt, p. 238. C, with use of Aytoun's compounded version, by R. Warrens, Schottische V. L. der Vorzeit, p. 65 ; Allingham's version by Knortz, Lieder u. Romanzen Alt-Englands, p. 180.
+
+```
