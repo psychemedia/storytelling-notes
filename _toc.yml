@@ -8,6 +8,7 @@ parts:
   - file: man-no-story
   - file: knight-york-fish-ring
   - file: three-heads-well
+  - file: twa-sisters-binnorie
 - caption: As Found in "The Royal Hibernian Tales"
   chapters:
   - file: hudden_dudden
