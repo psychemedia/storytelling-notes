@@ -24,27 +24,27 @@ ONCE upon a time there were two king's daughters lived in a bower near the bonny
 ![Binnore / Twa Sisters: harper kneeling next to body of maiden](images/binnorie_harp.png)
 
 But after a time he looked upon the youngest, with her cherry cheeks
-and golden hair, and his love grew towards her till he cared no longer for the eldest one. So she hated her sister for taking away Sir William 's love, and day by day her hate grew upon her, and she plotted and she planned how to get rid of her.
+and golden hair, and his love grew towards her till he cared no longer for the eldest one. So she hated her sister for taking away Sir William's love, and day by day her hate grew upon her, and she plotted and she planned how to get rid of her.
 
 So one fine morning, fair and clear, she said to her sister, " Let us go and see our father 's boats come in at the bonny mill-stream of Binnorie." So they went there hand in hand . And when they got to the river's bank the youngest got upon a stone to watch for the coming of the boats. And her sister, coming behind her, caught her round the waist and dashed her into the rushing mill-stream of Binnorie.
 
-" O sister, sister,reach me your hand !" she cried , as she floated away, " and you shall have half of all I've got or shall get."
+" O sister, sister, reach me your hand !" she cried , as she floated away, " and you shall have half of all I've got or shall get."
 
-" No, sister, I' ll reach you no hand of mine, for I am the heir to all your land . Shame on me if I touch the hand that has come 'twixt me and my own heart's love."
+" No, sister, I'll reach you no hand of mine, for I am the heir to all your land. Shame on me if I touch the hand that has come 'twixt me and my own heart's love."
 
 " O sister, O sister, then reach me your glove !" she cried , as she floated further away, " and you shall have your William again ."
 
 " Sink on," cried the cruel princess, " no hand or glove of mine you'll touch. Sweet William will be all mine when you are sunk beneath the bonny mill-stream of Binnorie." And she turned and went home to the king's castle.
 
-And the princess floated down the mill- stream , some times swimming and sometimes sinking, till she came near the mill. Now the miller's daughter was cooking that day,and needed water for her cooking. And as she went to draw it from the stream , she saw something floating towards the mill-dam , and she called out, " Father ! father! draw your dam . There's something white - a merrymaid or a milk -white swan — coming down the stream ." So the miller hastened to the dam and stopped the heavy cruel mill-wheels. And then they took out the princess and laid her on the bank .
+And the princess floated down the mill-stream , some times swimming and sometimes sinking, till she came near the mill. Now the miller's daughter was cooking that day,and needed water for her cooking. And as she went to draw it from the stream , she saw something floating towards the mill-dam , and she called out, " Father ! father! draw your dam . There's something white - a merrymaid or a milk-white swan — coming down the stream ." So the miller hastened to the dam and stopped the heavy cruel mill-wheels. And then they took out the princess and laid her on the bank.
 
-Fair and beautiful she looked as she lay there . In her golden hair were pearls and precious stones ; you could not see her waist for her golden girdle, and the golden fringe of her white dress came down over her lily feet.
+Fair and beautiful she looked as she lay there. In her golden hair were pearls and precious stones ; you could not see her waist for her golden girdle, and the golden fringe of her white dress came down over her lily feet.
 
-But she was drowned , drowned !
+But she was drowned, drowned !
 
-And as she lay there in her beauty a famous harper passed by the mill-dam of Binnorie, and saw her sweet pale face. And though he travelled on far away he never forgot that face,and after many dayshe came back to the bonny mill-stream of Binnorie. But then all he could find of her where they had put her to rest were her bones and her golden hair. So he made a harp out of her breast-bone and her hair, and travelled on up the hill from the mill-dam of Binnorie, till he came to the castle of the king her father.
+And as she lay there in her beauty a famous harper passed by the mill-dam of Binnorie, and saw her sweet pale face. And though he travelled on far away he never forgot that face, and after many days he came back to the bonny mill-stream of Binnorie. But then all he could find of her where they had put her to rest were her bones and her golden hair. So he made a harp out of her breast-bone and her hair, and travelled on up the hill from the mill-dam of Binnorie, till he came to the castle of the king her father.
 
-That night they were all gathered in the castle hall to hear the great harper — king and queen, their daughter and son , Sir William and all their Court. And first the harper sang to his old harp, making them joy and be glad or sorrow and weep just as he liked . But while he sang he put the harp he had made that day on a stone in the hall. And presently it began to sing by itself, low and clear, and the harper stopped and all were hushed .
+That night they were all gathered in the castle hall to hear the great harper — king and queen, their daughter and son, Sir William and all their Court. And first the harper sang to his old harp, making them joy and be glad or sorrow and weep just as he liked. But while he sang he put the harp he had made that day on a stone in the hall. And presently it began to sing by itself, low and clear, and the harper stopped and all were hushed .
 
 And this was what the harp sung :
 
@@ -54,8 +54,8 @@ And yonder sits my mother, the queen ;
 By the bonny mill-dams o' Binnorie,  
 " And yonder stands my brother Hugh,  
 Binnorie, O Binnorie ;  
-And by him , my William, false and true ;  
-By the bonny mill-damso ’ Binnorie."
+And by him, my William, false and true ;  
+By the bonny mill-dams o’ Binnorie."
 
 Then they all wondered, and the harper told them how he had seen the princess lying drowned on the bank near the bonny mill-dams o' Binnorie, and how he had after wards made this harp out of her hair and breast-bone.
 
@@ -172,7 +172,7 @@ By the bonnie mill-dams o' Binnorie."
 
 The miller hasted and drew his dam,  
 Binnorie, O Binnorie;  
-And there he found a drowu'd woman,  
+And there he found a drown'd woman,  
 By the bonnie mill-dams o' Binnorie.
 
 Ye couldna see her yellow hair ;  
@@ -599,7 +599,7 @@ XIII. BINNORIE.
 
 From TRADITION.
 
-*T*o preserve the tone, a well as the sense of this Ballad, the burden should be repeated through the whole, though it is here omitted for the sake of conciseness.*
+*To preserve the tone, a well as the sense of this Ballad, the burden should be repeated through the whole, though it is here omitted for the sake of conciseness.*
 
 There were twa sisters livd in a bouir;  
   " Binnorie, O Binnorie !  
@@ -620,7 +620,7 @@ Till ae ein shie to her sister can say
 They wauked up, and they wauked down,  
 Sweit sang the birdis in the vallie loun !
 Whan they cam to the roaring lin,  
-She drave unweiting Ifabel in.  
+She drave unweiting Isabel in.  
 ' O sister! sister! tak my hand,  
 ' And ye fall hae my silver fan ;  
 ' O sister ! sister ! tak my middle  
@@ -703,7 +703,7 @@ With a hie downe, downe, a downe a."
 Somtymes she sank, sometimes she swam,  
 With a hie downe, downe, a downe a',  
 Untill she came unto the milldam,  
-With a hie dowQe, downe, a downe a.
+With a hie downe, downe, a downe a.
 
 The miller run hastily down the cliffe,  
 With a hie downe, downe, a downe a,  
@@ -984,7 +984,7 @@ Pale was her cheek and green was her hair.
 25^2. he 's strung.  
 26^1, 27^1, 28^1, for *tune*, *line*, if the copy be right.  
 27^1. The next. 28^1. The last. 28^2. fause Ellen.  
-" Note by Ritson. ' The fragment of a very different copy of this ballad has been communicated to J. R. by a friend at Dublin.' " [J. C. Walker, no doubt.}
+" Note by Ritson. ' The fragment of a very different copy of this ballad has been communicated to J. R. by a friend at Dublin.' " [J. C. Walker, no doubt.]
 
 d. Jamieson, Popular Ballads and Songs, I, 48, says that he gives his text verbatim as it was taken from the recitation of dhe lady in Fifeshire (Mrs Brown), to whom both he and Scott were so much indebted. That this is not to be understood with absolute strictness will appear from the variations which are subjoined. Jamieson adds that he had received another copy from Mrs Arrott of Aberbrothick, " but as it furnished no readings by which the text could have been materially improved," it 
 was not used. Both Jamieson and Scott substitute the " Binnorie " burden, " the most common and popular," says Scott, for the one given by Mrs Brown, with which Mrs Arrott's agreed. It may be added that Jamieson' s interpolations are stanzas 20, 21, 27, etc., and not, as he says (i, 49), 19, 20, 27, etc. These interpolations also occur as such in the manuscript.  
@@ -1317,10 +1317,10 @@ To see wha was the first wad pass her by.
 17 Her ain father's herd was the first man  
 That by this lady gay did gang.
 
-18 He 's taen three links of her yellow hair,  
+18 He's taen three links of her yellow hair,  
 And made it a string to his fiddle there.
 
-19 He 's cut her fingers long and small  
+19 He's cut her fingers long and small  
 To be fiddle-pins that neer might fail.
 
 20 The very first spring that the fiddle did play,  
@@ -1425,13 +1425,13 @@ But her eldest sister has tumbled her down.
 7 ' O sister, sister, give me your hand,  
 And I'll make you lady of all my land.'
 
-8 ' O I 'll not lend to you my hand,  
+8 ' O I'll not lend to you my hand,  
 But I'll be lady of your land.'
 
 9 ' O sister, sister, give me your glove,  
-And I 'll make you lady of my true love.'
+And I'll make you lady of my true love.'
 
-10 * It 's I'll not lend to you my glove,  
+10 ' It's I'll not lend to you my glove,  
 But I'll be lady of your true love.'
 
 11 Sometimes she sank, and sometimes she swam,  
@@ -1441,9 +1441,9 @@ Until she came to a miller's dam.
 For water for to bake some bread.
 
 13 ' O father, father, stop the dam,  
-For it 's either a lady or a milk-white swan.'
+For it's either a lady or a milk-white swan.'
 
-14 He dragged her out vmto the shore,  
+14 He dragged her out unto the shore,  
 And stripped her of all she wore.
 
 15 By cam a fiddler, and he was fair,  
@@ -1491,7 +1491,7 @@ That these twa sisters hae gane astray.
 The eldest dang the youngest in.
 
 7 ' O sister, sister, tak my hand,  
-And ye 'll hae Lud John and aw his land.'
+And ye'll hae Lud John and aw his land.'
 
 8 With a silver wand she pushd her in,  
 * * * * *
@@ -1666,7 +1666,7 @@ They sounded so like human groans
 Their hearts began to quake.
 
 8 They ordered him in ale to swim, —  
-For sorrow 's mighty dry, —  
+For sorrow's mighty dry, —  
 And he to share their wassail fare  
 Essayd right willingly.
 
@@ -1746,7 +1746,7 @@ But weel kent he by her bonnie yallow hair
 
 15 Some o them kent by her goons o silk,  
 But weel kent he by her middle sae jimp,  
-  She 's the bonnie miller's lass o Binorie.
+  She's the bonnie miller's lass o Binorie.
 
 16 Mony ane was at her oot-takin,  
 But mony ane mair at her green grave makin,  
@@ -1844,7 +1844,7 @@ Till late yestrene, in an elric hour,
 She lap frae aft the hichest touir.'  
 ' Now sleip she in peace,' quoth the gallant squire ;  
 ' Her dethe was the maist that I cold require.  
-But I 'll main for the, my Isabel deir.  
+But I'll main for the, my Isabel deir.  
 Fall mony a dreiry day, bot weir.'
 
 20. This stanza occurs also in B c (17), and was perhaps borrowed from Pinkerton by the reviser of that copy. 
@@ -1910,16 +1910,16 @@ The shoes o gowd they were so rare.
 13 Her father's fiddler he came by,  
 Upstarted her ghaist before his eye.
 
-14 ' Ye 'll take a lock o my yellow hair,  
+14 ' Ye'll take a lock o my yellow hair,  
 Ye 'll make a string to your fiddle there.
 
-15 ' Ye 'll take a lith o my little finger bane,  
-And ye 'll make a pin to your fiddle then.'
+15 ' Ye'll take a lith o my little finger bane,  
+And ye'll make a pin to your fiddle then.'
 
 16 He 's taen a lock o her yellow hair,  
 And made a string to his fiddle there.
 
-17 He 's taen a lith o her little finger bane,  
+17 He's taen a lith o her little finger bane,  
 And he 's made a pin to his fiddle then.
 
 18 The firstand spring the fiddle did play,  
@@ -2107,7 +2107,7 @@ And the elder pushed the younger in.
 5 ' Oh sister, oh sister, oh lend me your hand,  
 And I will give you both houses and land.'
 
-6 ' I 'll neither give you my hand nor glove,  
+6 ' I'll neither give you my hand nor glove,  
 Unless you give me your true love.'
 
 7 Away she sank, away she swam,  
@@ -2122,7 +2122,7 @@ Or else it is a fair woman.'
 10 The miller he took up his long crook,  
 And the maiden up from the stream he took.
 
-11 ' I 'll give to thee this gay gold chain,  
+11 ' I'll give to thee this gay gold chain,  
 If you'll take me back to my father again.' 
 
 12 The miller he took the gay gold chain,  
@@ -2143,7 +2143,7 @@ a. The title ' The Three Sisters,' and perhaps the first stanza, belongs rather 
 b. 1. A farmer there lived in the north countree,  
   Bo down  
 And he had daughters one, two, three.  
-  And I 'll be true unto my love, if he 'll be true unto me 
+  And I'll be true unto my love, if he 'll be true unto me 
 
 (The burden is given as *Bo down, bo down, etc.*, in Popular Tales of the West Highlands, IV, 125.) 
 
@@ -2272,7 +2272,7 @@ Communicated by Mr W. W. Newell, as repeated by an ignorant woman in her dotage,
 He loved his youngest daughter best,  
   The bow is bent to me.  
 So you be true to your own true love,  
-  And I 'll be true to thee. 
+  And I'll be true to thee. 
 
 2 These two sisters went out to swim ;  
 The oldest pushed the youngest in.
@@ -2295,7 +2295,7 @@ Francis James Child, [The English and Scottish popular ballads](https://archive.
 
 10 The Twa Sisters
 
-This is one of the very few old ballads which are not extinct as tradition in the British Isles. Even drawing-room versions are spoken of as current, "generally traced to some old nurse, who sang them to the young ladies." `[Campbell's Popular Tales of the West Highlands, iv, 126, 1862.]` It has been found in England, Scotland, Wales, and Ireland, and was very early in print. Dr Rimbault possessed and published a broadside of the date 1656 `[Jamieson, in his Popular Ballads, II, 315, prints the ballad, with five inconsiderable variations from the broadside, as from Musarum Deliciae, 2d edition, 1656. The careful reprint of this book, and of the same edition, in " Facetiae," etc., 1817, docs not contain this piece, and the first edition, of 1655, differed in no respect as to contents, according to the editor of " Facetiae." Still it is hardly credible that Jamieson has blundered, and we may suppose that copies, ostensibly of the same edition, varied as to contents, a thing common enough with old books.]` (A a), and the same copy is included in the miscellany called Wit Restor'd, 1658. Both of these name " Mr Smith " as the author ; that is, Dr James Smith, a well-known writer of humorous verses, to whom the larger part of the pieces in Wit Restor'd has been attributed. If the ballad were ever in Smith's hands, he might possibly have inserted the three burlesque stanzas, 11-13 ; but similar verses are found in another copy (L a), and might easily be extemporized by any singer of sufficiently bad taste. Wit and Drollery, the edition of 1682, has an almost identical copy of the ballad, and this is repeated in Dryden's Miscellany, edition of 1716, Part III, p. 316. In 1781 Pinkerton inserted in his Tragic Ballads one with the title ' Binnorie,' purporting to be from Scottish tradition. Of twenty-eight couplets, barely seven are genuine. Scott printed in 1802 a copy (C) compounded from one " in Mrs Brown's MS." (B b) and a fragment of fourteen stanzas which had been transcribed from recitation by Miss Charlotte Brooke, adopting a burden found in neither. `[Cunningham has re- written Scott's version, Songs of Scotland, ii, 109, ' The Two Fair Sisters.' He says, " I was once deeply touched with the singing of this romantic and mournful song. ... I have ventured to print it in the manner I heard it sung." There is, to be sure, no reason why he should not have heard his own s(mg sung, once, and , still less why he should not have been deeply touched with his own pathos. Cunningham adds one genuine stanza, resembling the first of G, J, P : Two fair sisters lived in a bower, Hey ho my nonnie O, There came a knight to be their wooer. While the swan swims bonnie O ]` Jamieson followed, four years after, with a tolerably faithful, though not, as he says, verbatim, publication of his copy of Mrs Brown's ballad, somewhat marred, too, by acknowledged interpolations. This text of Mrs Brown's is now correctly given, with the whole or fragments of eleven others, hitherto unpublished.
+This is one of the very few old ballads which are not extinct as tradition in the British Isles. Even drawing-room versions are spoken of as current, "generally traced to some old nurse, who sang them to the young ladies." `[Campbell's Popular Tales of the West Highlands, iv, 126, 1862.]` It has been found in England, Scotland, Wales, and Ireland, and was very early in print. Dr Rimbault possessed and published a broadside of the date 1656 `[Jamieson, in his Popular Ballads, II, 315, prints the ballad, with five inconsiderable variations from the broadside, as from Musarum Deliciae, 2d edition, 1656. The careful reprint of this book, and of the same edition, in " Facetiae," etc., 1817, does not contain this piece, and the first edition, of 1655, differed in no respect as to contents, according to the editor of " Facetiae." Still it is hardly credible that Jamieson has blundered, and we may suppose that copies, ostensibly of the same edition, varied as to contents, a thing common enough with old books.]` (A a), and the same copy is included in the miscellany called Wit Restor'd, 1658. Both of these name " Mr Smith " as the author ; that is, Dr James Smith, a well-known writer of humorous verses, to whom the larger part of the pieces in Wit Restor'd has been attributed. If the ballad were ever in Smith's hands, he might possibly have inserted the three burlesque stanzas, 11-13 ; but similar verses are found in another copy (L a), and might easily be extemporized by any singer of sufficiently bad taste. Wit and Drollery, the edition of 1682, has an almost identical copy of the ballad, and this is repeated in Dryden's Miscellany, edition of 1716, Part III, p. 316. In 1781 Pinkerton inserted in his Tragic Ballads one with the title ' Binnorie,' purporting to be from Scottish tradition. Of twenty-eight couplets, barely seven are genuine. Scott printed in 1802 a copy (C) compounded from one " in Mrs Brown's MS." (B b) and a fragment of fourteen stanzas which had been transcribed from recitation by Miss Charlotte Brooke, adopting a burden found in neither. `[Cunningham has re- written Scott's version, Songs of Scotland, ii, 109, ' The Two Fair Sisters.' He says, " I was once deeply touched with the singing of this romantic and mournful song. ... I have ventured to print it in the manner I heard it sung." There is, to be sure, no reason why he should not have heard his own s(mg sung, once, and , still less why he should not have been deeply touched with his own pathos. Cunningham adds one genuine stanza, resembling the first of G, J, P : Two fair sisters lived in a bower, Hey ho my nonnie O, There came a knight to be their wooer. While the swan swims bonnie O ]` Jamieson followed, four years after, with a tolerably faithful, though not, as he says, verbatim, publication of his copy of Mrs Brown's ballad, somewhat marred, too, by acknowledged interpolations. This text of Mrs Brown's is now correctly given, with the whole or fragments of eleven others, hitherto unpublished.
 
 The ballad is as popular with the Scandinavians as with their Saxon cousins. Grundtvig, ' Den talende Strengeleg,' No 95, gives nine Danish versions and one stanza of a tenth ; seven, A-E, in II, 507 ff, the remainder, H-K, in III, 875 ff. One more, L, is added by Kristensen, No 96, i, 253. Of these, only E had been previously printed. All are from tradition of this century.
 
@@ -2315,7 +2315,7 @@ It is a thing made much of in most of the Norse ballads that the younger sister 
 
 The scene of action is a seashore in Icelandic and Faroe A, B, Norwegian A, Swedish A, B, G, H, and in all the Danish complete copies: a seashore, or a place where ships come in, in English A, B a, D-I, Q, R a, T, but in all save the last of these (the last is only one stanza) we have the absurdity of a body drowned in navigable water being discovered floating down a mill-stream. `[The sisters, D, I, walk by, up, a linn ; Q, go to a sand [strand] ; Q, go to the stream ; R a, walk on the bryn.]` B c has " the deep mill-dam ; " C " the river-strand," perhaps one of Scott's changes ; M, " the dams ; " L, O, P, R b 0, a river, Tweed mill-dam, or the water of Tweed. Norwegian B has a river.
 
-The pretence for the older sister's taking the younger down to the water is in English A-E, G, H, I, O, Q, to see their father's ships come in ; in Icelandic B to wash their silks ; `[Swedish H begins, " Dear sister, come follow me to the clapping-stone : " " Nay, I have no foul clothes." So F 6, 7, G 4, 5, Faroe A 6, nearly ; and then follows the suggestion that they sho\ild wash themselves. Another of Rancken's copies begins, " Two sisters went to the bucking-stone, to back their clothes snow-white," H ; and so Rancken's S nearly.]` in most of the Norse ballads to wash themselves, so that, as the elder says, " we may be alike white," Danish C-H, Norwegian A, C, Swedish F, G, Faroe A, B. Malice prepense is attributed to the elder in Swedish B, F, Norwegian C, Danish E, F, G : but in Faroe A, B, Norwegian A, B, and perhaps some other cases, a previous evil intent is not certain, and the provocations of the younger sister may excuse the elder so far.
+The pretence for the older sister's taking the younger down to the water is in English A-E, G, H, I, O, Q, to see their father's ships come in ; in Icelandic B to wash their silks ; `[Swedish H begins, " Dear sister, come follow me to the clapping-stone : " " Nay, I have no foul clothes." So F 6, 7, G 4, 5, Faroe A 6, nearly ; and then follows the suggestion that they should wash themselves. Another of Rancken's copies begins, " Two sisters went to the bucking-stone, to back their clothes snow-white," H ; and so Rancken's S nearly.]` in most of the Norse ballads to wash themselves, so that, as the elder says, " we may be alike white," Danish C-H, Norwegian A, C, Swedish F, G, Faroe A, B. Malice prepense is attributed to the elder in Swedish B, F, Norwegian C, Danish E, F, G : but in Faroe A, B, Norwegian A, B, and perhaps some other cases, a previous evil intent is not certain, and the provocations of the younger sister may excuse the elder so far.
 
 The younger is pushed from a stone upon which she sits, stands, or steps, in English B, C, E-H, M, O, Q, Icelandic A, B, Faroe A, B, Norwegian A, B, C, Danish A-E, H, L, Swedish G, H, and Rancken's other copies.
 
@@ -2392,7 +2392,7 @@ We have had a similar reply, made under like circumstances, in Polish versions o
 
 All the Norse versions of this ballad are in two-line stanzas, and all the English, except L b and in part L a.
 
-Some of the traits of the English and Norse story are presented by an Esthonian ballad, * The Harp,' Neus, Ehstnische Volkslieder, No 13, p. 66. Another version is given in Rosenplanter's Beitrage zur genauern Kenntniss der ehstnischen Sprache, Heft 4, 142, and a third, says Neus, in Ch. H. J. Schlegel's Reisen in mehrere russische Gouvernements, V, 140.
+Some of the traits of the English and Norse story are presented by an Esthonian ballad, ' The Harp,' Neus, Ehstnische Volkslieder, No 13, p. 66. Another version is given in Rosenplanter's Beitrage zur genauern Kenntniss der ehstnischen Sprache, Heft 4, 142, and a third, says Neus, in Ch. H. J. Schlegel's Reisen in mehrere russische Gouvernements, V, 140.
 
 A young woman, who tells her own story, is murdered by her sisters-in-law and buried in a moor. She comes up as a birch, from which, with the jaw-bone of a salmon, the teeth of a pike, and her own hair (the account is somewhat confused) a harp is made. The harp is taken to the hall by the murdered girl's brother, and responds to his playing with tones of sorrow like those of the bride who leaves father and mother for the house of a husband. `[Neus also refers to an Esthonian saga of Rogntaja's wife, and to ' Die Pfeiferin,' a tale, in Das Inland, 1846, No 48, Beilage, col. 1246 ff, 1851, No 14, col. 230 ff; and to a Slovenian ballad in Tielemann, Livona, ein historisch-poetisches Taschenbuch, 1812, p. 187.]`
 
@@ -2418,7 +2418,7 @@ Professor Bugge reports a Norwegian tale, Grundtvig, III, 878, which resembles t
 
 The father, having heard the fiddle's revelation, brought his daughter to confess her act.
 
-There is a series of tales which represent a king, or other personage, as being afflicted with a severe malady, and as promising that whichever of his children, commonly three sons, should bring him something necessary for his cure or comfort should be his heir : (1) 'La Flor del Lilill,' Fernan Caballero, L^rimas, cap. 4 ; (2) ' La cana del riu de arenas,' Mild, Observaciones sobre la poesia popular, p. 178, No 3 ; (3) ' Es kommt doch einmal an den Tag,' Miillenhof, Sagen, u. s. w., p. 495, No 49 ; (4) ' Vom singenden Dudelsack,' Gonzenbach, Sicilianische Marchen, I, 329, No 51. Or the inheritance is promised to whichever of the children finds something lost, or rich and rare, a griffin's feather, a golden branch, a flower : (5) ' Die Greifenfeder,' Schneller, Marchen und Sagen aus Walschtirol, p. 143, No 51 ; (6) ' La Flauuto,' Blad^, Contes et proverbes populaires recueillis en Armagnac, p. 3, No 1 ; (7) Wackernagel, in Haupt's Zeitschrift, ni, 35, No 3, = ' Das Todtebeindli,' Colshorn, C. u. Th., Marchen u. Sagen, p. 193, No 71, = Sutermeister, Kinder-u.-Hausmarchen aus der Schweiz, p. 119, No 39. Or a king promises his daughter to the man who shall capture a dangerous wild beast, and the exploit is undertaken by three brothers [or two] : (8) ' Der singende Knochen,' Grimms, K. u. H. marchen, I, 149, No 28 (1857); (9) 'Die drei Briider,' Curtze, Volksiiberlieferungen aus dem Fiirstenthum Waldeck, p. 53, No 11 ; (10) 'Der Rohrstengel,' Haltrich, Deutsche Volksmarchen aus dem Sachsenlande, u. s. w., p. 225, No 42. With these we may^ group, though divergent in some respects, (11) ' Der goldene Apfel,' Toeppen, Aberglauben aus Masuren, p. 139. `[All these are cited in Eohler's note, Gonzenbach, ii, 235.]` In all these tales the young-est child is successful, and is killed, out of envy, by the eldest or by the two elder. [There are only two children in (6), (7), (8) ; in (4) the second is innocent, as in the Polish tale.] Reeds grow over the spot where the body is buried (1), (2), (10), (11), or an elder bush (3), out of which a herdsman makes a pipe or flute ; or a white bone is found by a herdsman, and he makes a pipe or horn of it (5-9) ; or a bag-pipe is made of the bones and skin of the murdered youth (4). The instru-ment, whenever it is played, attests the murder.
+There is a series of tales which represent a king, or other personage, as being afflicted with a severe malady, and as promising that whichever of his children, commonly three sons, should bring him something necessary for his cure or comfort should be his heir : (1) 'La Flor del Lilill,' Fernan Caballero, Lágrimas, cap. 4 ; (2) ' La cana del riu de arenas,' Mild, Observaciones sobre la poesia popular, p. 178, No 3 ; (3) ' Es kommt doch einmal an den Tag,' Miillenhof, Sagen, u. s. w., p. 495, No 49 ; (4) ' Vom singenden Dudelsack,' Gonzenbach, Sicilianische Marchen, I, 329, No 51. Or the inheritance is promised to whichever of the children finds something lost, or rich and rare, a griffin's feather, a golden branch, a flower : (5) ' Die Greifenfeder,' Schneller, Marchen und Sagen aus Walschtirol, p. 143, No 51 ; (6) ' La Flauuto,' Blad^, Contes et proverbes populaires recueillis en Armagnac, p. 3, No 1 ; (7) Wackernagel, in Haupt's Zeitschrift, ni, 35, No 3, = ' Das Todtebeindli,' Colshorn, C. u. Th., Marchen u. Sagen, p. 193, No 71, = Sutermeister, Kinder-u.-Hausmarchen aus der Schweiz, p. 119, No 39. Or a king promises his daughter to the man who shall capture a dangerous wild beast, and the exploit is undertaken by three brothers [or two] : (8) ' Der singende Knochen,' Grimms, K. u. H. marchen, I, 149, No 28 (1857); (9) 'Die drei Briider,' Curtze, Volksiiberlieferungen aus dem Fiirstenthum Waldeck, p. 53, No 11 ; (10) 'Der Rohrstengel,' Haltrich, Deutsche Volksmarchen aus dem Sachsenlande, u. s. w., p. 225, No 42. With these we may group, though divergent in some respects, (11) ' Der goldene Apfel,' Toeppen, Aberglauben aus Masuren, p. 139. `[All these are cited in Eohler's note, Gonzenbach, ii, 235.]` In all these tales the young-est child is successful, and is killed, out of envy, by the eldest or by the two elder. [There are only two children in (6), (7), (8) ; in (4) the second is innocent, as in the Polish tale.] Reeds grow over the spot where the body is buried (1), (2), (10), (11), or an elder bush (3), out of which a herdsman makes a pipe or flute ; or a white bone is found by a herdsman, and he makes a pipe or horn of it (5-9) ; or a bag-pipe is made of the bones and skin of the murdered youth (4). The instru-ment, whenever it is played, attests the murder.
 
 Among the tales of the South African Bechuana, there is one of a younger brother, who has been killed by an older, immediately appearing as a bird, and announcing what has occurred. The bird is twice killed, and the last time burnt and its ashes scattered to the winds, but still reappears, and proclaims that his body lies by a spring in the desert. Grimms, K. u. H. m. Ill, 361. Liebrecht has noted that the fundamental idea is found in a Chinese drama, ' The Talking Dish,' said to be based on a popular tale. An innkeeper and his wife kill one of their guests for his money, and burn the body. The innkeeper collects the ashes and pounds the bones, and makes a sortof mortar and a dish. This dish speaks very distinctly, and denounces the murderers. Journal Asiatique, 1851, 4th Series, vol. 18, p. 523.
 
