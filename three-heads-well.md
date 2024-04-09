@@ -502,7 +502,7 @@ This the lassie was at her wit's end to know how to do, for she had never seen o
 
 Then the old hag drew out three caskets, one red, one green, and one blue, and of these the lassie was to choose one aa wages for her service. Now she didn't know at all which to choose, but the little birds sung—
 
-" Don't take tbe red, don't take the green,  
+" Don't take the red, don't take the green,  
 But take the blue, where may be seen  
 Three little crosses all in a row,  
 We saw the marks, and so we know."

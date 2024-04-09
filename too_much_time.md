@@ -8,7 +8,7 @@ Time followed the sun.
 
 So when people said "London is ahead of the times", that was true, in a certain sense: daylight gets there before many places in the UK. And if people say, "the folk in the West Country are so behind the times", that could also be true...
 
-Every evening at 9 o'clock "Oxford Time" (which is to say five *past* nine in London time), the bell  at Christ Church College, Great Tom, rings out a hundred and one times, once for each of the college's original 101 students, calling the colleges to lock their gates. Thereupon, it remains silent until it resumes announcing the London hour, every hour from 8am the the next morning. To this day the people of Oxford know their own time.
+Every evening at 9 o'clock "Oxford Time" (which is to say five *past* nine in London time), the bell  at Christ Church College, Great Tom, rings out a hundred and one times, once for each of the college's original 101 students, calling the colleges to lock their gates. Thereupon, it remains silent until it resumes announcing the London hour, every hour from 8am the next morning. To this day the people of Oxford know their own time.
 
 As they do in Bristol. If you're ever on the Big Island, and happen to visit Bristol, and if you find yourself stood in from of the old Corn Exchange, look up to the clock tower: as well as the rather unusual red painted numbers, you'll notice it has *two* minute hands. The red minute hand shows London time, Greenwich Mean Time; but a *second*, __black__ minute hand shows local Bristol time, 10 minutes behind.
 

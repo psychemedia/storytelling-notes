@@ -123,7 +123,8 @@ TO DO
 244
 THOMAS THE RHYMER.
 IN THREE PARTS.
-Few personages are so renowned in tradition as Th o m a a of Erceldoune, known by the appellation of The Rhymer. Uniting, or supposed to unite, in his person, the powers of poetical composition, and of vaticination, his memory, even after the lapse of five hundred years, is regarded with veneration by his countrymen. To give any thing like a certain history of this remarkable man, would be indeed difficult ; but the curious may derive some satis- factipn from the particulars here brought together.
+
+Few personages are so renowned in tradition as Thomas of Erceldoune, known by the appellation of The Rhymer. Uniting, or supposed to unite, in his person, the powers of poetical composition, and of vaticination, his memory, even after the lapse of five hundred years, is regarded with veneration by his countrymen. To give any thing like a certain history of this remarkable man, would be indeed difficult ; but the curious may derive some satis- factipn from the particulars here brought together.
 It is agreed, on all hands, that the residence, and pro- bably the birth place, of this ancient bard, Wjas Erceldoune, a village situated upon the Leader, two miles above its junction with the Tweed. The ruins of an ancient tower are still pointed out as the Rhymer's castle. The uni- form tradition bears, that hissirnamc was Lermont, or
 
 us

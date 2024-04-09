@@ -68,11 +68,11 @@ Carle's daughter called for, pretty, beautifully and expensively dressed. "Where
 
 Comfortable, but simple rooms were found for Kay and the Bishop, Gawain was shown to the Carle's bedchamber and told he should make himself comfortable there. THen the Carle's wife came in and Gawain was told to kiss her while the Carle watched. gawain did as askd, kissed her again, their embrace got more intimate "WHoa" said the Carle, but you did as I asked. So you will not go unrewarded, And he sent for his daughter and said Gawain may snd th night with her.
 
-Kay and the Bishop were up early, and Kay was all for laving, but the Bishop said they should wait for Gawain (it's all a bit Top Gear / Grand Tour, Clarkson,Hammond and May)
+Kay and the Bishop were up early, and Kay was all for laving, but the Bishop said they should wait for Gawain (it's all a bit Top Gear / Grand Tour, Clarkson,Hammond and May).
 
-he Carle had got up early too, checking preparations for breakfast; the bell was rung for mass, and dutiful Gawain got up to go, asking when he would see the Carle's daughter again.
+The Carle had got up early too, checking preparations for breakfast; the bell was rung for mass, and dutiful Gawain got up to go, asking when he would see the Carle's daughter again.
 
-After Mass, Gawain made to go, the the Carle said "stay for breakfast".
+After Mass, Gawain made to go, but the Carle said "stay for breakfast".
 
 > " Twenty winters have passed now, since I made a vow before God, one that has brought me much discredit. I made a pledge that no man should spend the night in my castle unless he did everything I asked him to do, or else he should be slain. Knight, page, earl or squire, I have never found a single man able to survive this pledge, except for you. May God reward you! I am delighted! Through the grace of Mary, Queen of Heaven, my sorrow is turned to joy!’"
 

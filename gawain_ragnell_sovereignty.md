@@ -42,7 +42,7 @@ And thane wolde rise that fayre maye, `[mayd, MS.]`
 'Ye shalle nott.' sir Gawene sayde ;  
 ' We wolle lye, & slepe tylle pryme,  
 [720] And thene lett the kyng calle vs to dyne.'  
-' I ame greed,' then sayde tbe mayde.  
+' I ame greed,' then sayde the mayde.  
 Thus itt passyde forth tylle mid-daye.  
 ' Syrs,' `[Syr, MS.]` quode the kyng, 'lett vs go ande asaye,  
 Yf sir Gawene be one lyve.  

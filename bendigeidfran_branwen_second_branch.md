@@ -100,7 +100,7 @@ The Irish had been killed, to a man. Only their women remained. Of Bendigeidfran
 
 Bendigeidfran, perhaps, would have been one of those who few who survived, were it not for the poison on the tip of the spear that pierced his foot. Poison that had started to spread. "Cut off my head" he said, "I will still be good company for you, for seven years in Harlech, and eighty years after that. But do not open the door that faces Cornwall," he said, rather cryptically, "or sorrow will end it all. And then you must bury my head, on the Bryn Gwyn, the White Hill in London, facing south".
 
-And so they did. And of all the men who had left the Island of the Mighty only seven returned. Only seven, and Branwen. And the chatty head of Bendigeidfran, carried on the the golden platter that had been given to Matholwch several years before.
+And so they did. And of all the men who had left the Island of the Mighty only seven returned. Only seven, and Branwen. And the chatty head of Bendigeidfran, carried on the golden platter that had been given to Matholwch several years before.
 
 Back now, in Wales, Branwen was distraught. In her sorrow, her heart was broken. She died and was buried.
 
@@ -116,7 +116,7 @@ And so he did. And as he did so, the weight of years, and the weight of all the 
 
 And so, they left. They made their way to London. And there, under the Bryn Gwyn, the White Hill, they buried the head of the giant Bendigeidfran, facing south to protect the Island of the Mighty against foreign invaders from France.
 
-And though the story may have been lost to many, in England at least, if not in Wales, a memory of it remains. In the form of the the ravens who inhabit the Tower of London today, the White Tower that stands on the White Hill, the Bryn Gwyn. The ravens who will protect England against invasion as long as they are there. As did Bendigeidfran, Brân the Blessed, the Blessed Crow, or Raven.
+And though the story may have been lost to many, in England at least, if not in Wales, a memory of it remains. In the form of the ravens who inhabit the Tower of London today, the White Tower that stands on the White Hill, the Bryn Gwyn. The ravens who will protect England against invasion as long as they are there. As did Bendigeidfran, Brân the Blessed, the Blessed Crow, or Raven.
 
 And that is the end of the story, the story of Brân and Branwen, the story of the second branch of the Mabinogion.
 

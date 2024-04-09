@@ -21,7 +21,7 @@ Another time, when the King was putting up taxes, "put them up, all of them, all
 
 A third time, there came to the court two tailors. "Your majesty," they said, "your majesty. We have heard tell that you are to lead a procession through the city to celebrate your birthday. We have travelled far, we have travelled wide, and we have learned many things. In particular, we have learned how to weave cloth of the finest thread, a thread so fine, a thread so strong, that even a gossamer thread would be as a thick,  ugly coil of knotted, seaweed encrusted rope beside it. The design of such a cloth, the pattern, will be so finely detailed that it can only be appreciated, that it can only be seen, by the most discerning of people. We would like to make a suit of clothes from this thread for you, for your birthday, sire, for your procession. A suit of clothes the like of which no-one has ever seen before, or is  likely to ever see again."
 
-Well, the King was much pleased by this idea. After all, wasn't he entitled to the the best of everything? And wasn't he the most discerning of all people. And so, with his advisers, judging the King's mood, quickly agreeing that it would be splendid idea, the tailors were hired.
+Well, the King was much pleased by this idea. After all, wasn't he entitled to the best of everything? And wasn't he the most discerning of all people. And so, with his advisers, judging the King's mood, quickly agreeing that it would be splendid idea, the tailors were hired.
 
 "Let them want for nothing", said the King, "let them have whatever they need", and so the two tailors were given an apartment each to stay in and a workshop to work in.
 

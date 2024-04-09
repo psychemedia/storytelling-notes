@@ -479,7 +479,7 @@ Farmhouse, one night; Jamie heard scream, opened door, young farm girl molested 
 
 Braco goes to Nicholas Dunbar, hereditary Sherriff of Banffshire, warrant for arrest issued for sorning. Jamie waylaid messenger with warrant, stole it. Dunbar declares him an outlaw.
 
-Jamie stays wth Laird of Invereshie (cousin). Clans would often go raiding; Jamie joins Donald Macpherson on a raid (?the Laird?), gets caught. Escapes. Continues to meet Mary Gordon. Flaunts local lord, sorning again. States he will parade in Aberdeen. His piper, Jamie Brown, leads the the way. Cheering mob. Arrested. Shut in Tolbooth, Braco Duff informed to take him back to Banff but jurisdiction issue as Jamie no crime in that area; continues to be held, even as Braco wants to take him back to Banff.
+Jamie stays wth Laird of Invereshie (cousin). Clans would often go raiding; Jamie joins Donald Macpherson on a raid (?the Laird?), gets caught. Escapes. Continues to meet Mary Gordon. Flaunts local lord, sorning again. States he will parade in Aberdeen. His piper, Jamie Brown, leads the way. Cheering mob. Arrested. Shut in Tolbooth, Braco Duff informed to take him back to Banff but jurisdiction issue as Jamie no crime in that area; continues to be held, even as Braco wants to take him back to Banff.
 
 Jamie's mother tells Jamie Brown to ride to get help from Invereshie - 3 days; returns with Donald Macpherson (now fifth day after arrest). but Sherriff had authorised release of Jamie to Braco for the following day. Brown broke into council chambers to rescue Jamies sword displayed there.
 

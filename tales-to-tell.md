@@ -471,7 +471,7 @@ I didn't learn the close properly; in fumbling, asked if folk wanted another (th
 
 The verge..
 
-As the bird flies away following an out of body experience, as the self-reassembles, it may not reassemble as it was before. You may haave been a a teacher, a doctor, a lover of X, a doubter of Y, but whqt if the pieces reassemble a different you. This is "the verge".
+As the bird flies away following an out of body experience, as the self-reassembles, it may not reassemble as it was before. You may haave been a teacher, a doctor, a lover of X, a doubter of Y, but whqt if the pieces reassemble a different you. This is "the verge".
 
 ---
 

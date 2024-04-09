@@ -10,7 +10,7 @@ After fledging, the young start their lives on the lower parts of the hillside. 
 
 This adaptation allows them to hunt — or graze — scientists still argue to this day as to whether the original wild haggis were herbivores or carnivourous predators — by cirling their way around the mountaindside.
 
-For the *haggis scoticus dextra*, the the longer right legs, they would make their way anti-clockwise around the hillsisde. For *haggis scoticus sinistra*, they wouild make their way round clockwise. THe two species could not interbreed. So they represent a remarkable example of parallel evolution since the two branches separated many hundreds of thousands of years ago, especially when you consider that each species competes for dominance of each mountain in each and every single generation.
+For the *haggis scoticus dextra*, the longer right legs, they would make their way anti-clockwise around the hillsisde. For *haggis scoticus sinistra*, they wouild make their way round clockwise. THe two species could not interbreed. So they represent a remarkable example of parallel evolution since the two branches separated many hundreds of thousands of years ago, especially when you consider that each species competes for dominance of each mountain in each and every single generation.
 
 The haggis have their young at the top of the hill and then nest right on the edge of the flat top of the hill. The young are born behind the female, who then proceeds around the top of the hill, until they come to the next haggix youn ahead at which point they push the young, curled up in the shape of a ball, until it catches up with its mother. How they young feed is still not known / has still not been observed.
 

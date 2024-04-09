@@ -667,7 +667,7 @@ Her dethe was the maist that I cold require :
 In the [John Whyte version on *Tobar an Dualchais*](https://www.tobarandualchais.co.uk/track/33039?l=en) 
 "[the motivation is] that the younger sister wants to take the elder sister's place as heir to her father's lands. [A] fiddle made from the dead sister's breastbone reveals what happened."
 
-The "parody" version Jamieson refers to, which Allingham identifies from *Wit Restor'd* (1658) and considers to be a "burlesque version" ([p. xii](https://archive.org/details/balladbookselect00alliuoft/page/n15/mode/2up)) is a rather graphic ballad called *"The Miller and the King's Daughter"*. Many elements of it are in common with the version of *The Devil's Violin* that I tell, which draws heavily from Sarah Liisa Wilkinson's version of that tale, such as the the use of the finger bones as fiddle pegs. The use of veins as strings is also notable...
+The "parody" version Jamieson refers to, which Allingham identifies from *Wit Restor'd* (1658) and considers to be a "burlesque version" ([p. xii](https://archive.org/details/balladbookselect00alliuoft/page/n15/mode/2up)) is a rather graphic ballad called *"The Miller and the King's Daughter"*. Many elements of it are in common with the version of *The Devil's Violin* that I tell, which draws heavily from Sarah Liisa Wilkinson's version of that tale, such as the use of the finger bones as fiddle pegs. The use of veins as strings is also notable...
 
 *Allingham also notes, again a p. xii, "we believe that many of our best Old Ballads were old ballads in Shakspeare's time, and, considering the conservatism of the commonalty in such matters, that, for all the verbal variations, they are substantially not much altered since then".*
 
@@ -2263,7 +2263,7 @@ We shall go to the salt sea's brim.'
 U. From Long Island, N. Y., communicated by Mr W. W. Newell.
 
 ```{admonition} Child, U.
-:class: dropdown
+:class: dropdown seealso
 
 Communicated by Mr W. W. Newell, as repeated by an ignorant woman in her dotage, who learned it at Huntington, Long Island, N. Y.
 
@@ -2287,7 +2287,7 @@ He caught her by the petticoat.
 
 ```
 
-Child's commentary comparing the various versions he collected, as well as other he referernces, is expansive.
+Child's commentary comparing the various versions he collected, as well as other he references, is expansive.
 
 ```{admonition} Childs notes and commentary comparing variants, "The Twa Sisters
 :class: dropdown

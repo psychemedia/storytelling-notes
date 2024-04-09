@@ -63,7 +63,7 @@ Home went Mrs. Sullivan, and did as Ellen Leah desired. She put the pot on the f
 
 The child was lying, for a wonder, quite easy and quiet in the cradle, every now and then cocking his eye, that would twinkle as keen as a star on a frosty night, over at the great fire, and the big pot upon it ; and he looked on with great attention at Mrs. Sullivan breaking the eggs, and putting down the eggshells to boil. At last he asked, with the voice of a very old man, "What are you doing, mammy?"
 
-Mrs. Sullivan's heart, as she said herself, was up in her mouth, ready to choke her, at hearing tbe child speak. But she contrived to put the poker in the fire, and to answer without making any wonder at the words, " I'm brewing, *a vick*" (my son).
+Mrs. Sullivan's heart, as she said herself, was up in her mouth, ready to choke her, at hearing the child speak. But she contrived to put the poker in the fire, and to answer without making any wonder at the words, " I'm brewing, *a vick*" (my son).
 
 "And what are you brewing mammy ?" said the little imp :whose supernatural gift of speech now proved beyond question that he was a fairy substitute.
 

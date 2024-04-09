@@ -32,7 +32,7 @@ In *The Mabinogion: From the Llyfr Coch O Hergest, and Other Ancient Welsh Manus
 
 IN times past there lived in Penllyn a man of gentle lineage, named Tegid Voel, and his dwelling was in the midst of the lake Tegid, aud his wife was called Caridwen. And there was born to him of his wife a son named Morvran ab Tegid, and also a daughter named Creirwy, the fairest maiden in the world was she; aud they had a brother, the most ill-favoured man in the world, Avagddu. Now Caridwen his mother thought that he was not likely to be admitted among men of noble birth, by reason of his ugliness, unless he had some exalted merits or knowledge. For it was in the beginning of Arthur's time and of the Round Table.
 
-So she resolved according to the arts of the books of the Fferyllt, to boil a cauldron of Inspiration and Science for her son, that his reception might be honourable because of his knowledge of the mysteries of the future state of tbe world.
+So she resolved according to the arts of the books of the Fferyllt, to boil a cauldron of Inspiration and Science for her son, that his reception might be honourable because of his knowledge of the mysteries of the future state of the world.
 
 Then she began to boil the cauldron, which from the beginning of its boiling might not cease to boil for a year and a day, until three blessed drops were obtained of the grace of inspiration.
 
