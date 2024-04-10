@@ -2,10 +2,52 @@
 
 My way in to this story is "In the county of Norfolk, in the town of Swaffham, there was a pedlar. He lived ..." I also use our our cooking apple-tree as the minds-eye representation of the tree under which the treasure is found...
 
- TO DO
-https://books.google.co.uk/books?id=yFkMAQAAMAAJ&pg=PT4&dq=blomfield+history+norfolk+swaffham+pedlar&hl=en&newbks=1&newbks_redir=0&source=gb_mobile_search&sa=X&ved=2ahUKEwjlqIGTk7ODAxVj9LsIHZYVBKgQ6AF6BAgLEAM#v=onepage&q=blomfield%20history%20norfolk%20swaffham%20pedlar&f=false
 
-alternative versions: arabian nights
+---
+
+https://archive.org/details/bim_eighteenth-century_an-essay-towards-a-topog_blomefield-francis_1739_3/page/505/mode/2up
+
+An essay towards a topographical history of the county of Norfolk, containing a description of the towns, villages, and hamlets, ... By Francis Blomefield, ...  1739: Vol 3
+
+pp. 506-508
+
+The North Isle of this Church
+
+Is generally reported and believed to be built by Jobn Chapman a Tinker, of this Town, the History of it I shall here Transcribe from Sir Roger Twysden's *Remembrances* Ms; P. 299, published by our great English Antiquary Mr. Hearne of Oxford and then shall give my Opinion on it:
+
+The Story `[Tho. Caij. Vindic. Antiq. Acad. Oxen. Vol. I, P. 84, Appendix]` of the PEDLAR of Swaffham Marker is in substance to this.
+
+That Dreaming one Night if he went to *London*, he should certainly meet with a Man upon *London Bridge*, whith would tell him good News; he was so perplext in his Mind, that till he set upon his Journey, he could have no Rest :“ To London therefore he hasts, and Walk'd upon the Bridge for some Hours, where being espyed by a Shopkeeper, and asked what he wanted, he answered, you may well ask me that Question, for truly ( quoth he) I am come hither upon a very vain Errand, & so told the story of his Dream which occasioned the Journey. Whereupon the Shopkeeper reply'd, Alas good Friend! should I have heeded Dreams, I might have proved myself, as very a Fool as thou Hast; for tis not long since that I dreamt, that at a Place called *Swaffham Market* in *Norfolk*, dwells one *John Chapman* a PEDLAR, who hath a Tree, in his Backside unger which is buried a Pot of Money. Now therefore, if I should have made a Journey thither to dig, for such hidden Treasure, judge you whether I should, not have been counted a Fool. To whom the PEDLAR cunningly said " Yes verily ;" I will therefore return home and follow my business, not heeding such Dreams hence forward. But when he came Home, (being satisfied that his Dream was fulfilled, ) he took occasion to dig in that Place, and accordingly found a large Pot full df Money, which he prudently conceal'd, putting the Pot amongst the rest of his Brass, After a Time it happen'd that one, who came to dus House and beholding the Pot, observed an Inscription upon it, which being in *Latin* `[The common Tradition is, it was in English Rhyme, viz. Where this stood, Is another as good. Or as some will have it, Under me dothe lye, Another much richer than I.]`, he Interpreted it, that under that there was another twice as good. Of this Inscription the PEDLAR was before Ignorant, or at least minded it not, but when he heard the Meaning of it he said, tis very true, in the Shop where I bought this Pot, stood another under it, which was twice as big ; but considering that it might tend to his further profit to dig deeper in the same Place where he found that, he fell again to Work, and discoverd such a Pot, as Was intimated by the Inscription, full of old Coine: Notwithstanding which, he so conceal'd his Wealth, that the Neighbours took no Notice of it. But not long after the Inbabitance of *Swaffham* resolving to reedify their Church, and having consulted the Workmen about the Charge, they made a *Levy*, wherein they taxed the PEDLAR, according to no other Rate than what they had formerly done. But he, knowing his own Ability, came to the Church and desired the Workimen to shew him thir Model, and to tell him what they esteemed the Charge of the NORTH-ISLE would amount to; which when they told him, he presently undertook to pay them for Building it, and not only that, but of a very tall and beautifull Tower Steeple. This is the tradition of the *Inhabitants* as it was told me there. And in Testimony thereof, there was then his Picture, with his Wife and three Children, in every Window of the Isle, with an Inscription running through the bottom of all those Windows, viz. Orate pro bono Statu Johannis Chapman, . . . Uroris eius, et Libecorum luorum, qui quidem Johannes hanc Alam cum fenestris, teao et . . . rect fecit.
+
+It was in Henry VII. Time, but the Year I now remember not, my Notes being left with Mr. William Sedgwike, who trickt the Pictures, he being then with me.
+
+In that Isle is his Seat, of an antique Form, and on each Side the Entrance, the Statue of the PEDLAR of about a Foot in Length, with his Pack on his Back, very artificially Cut.
+
+This was sent me from Mr. WILLIAM DUGDALE of Blyth Hall in Warwickshire, in a Letter dated the 29th of January 1652-3, which I have since learnt from others to have been most true.
+
+ROGER TWYSDEN,
+
+And in effect the aame has been found, in the* Histories Admirables de nostre Temps' par Simon Goulart, imprime a Geneve 1614, Tom. 3, P. 366. Soubs ce titre, Songe marveilleus, &c. Et Johannis Fungeri Etimologicon Latino-Græcum, Pag. 1110, et 1111*.
+
+It is somewhat surprizing to find such considerable Persons as Sir William Dugdale, Sir Roger Twysden, &c. to patronize or credit such a Monkish Legend and Tradition favouring so much of the Cloister, and that the Townsmen and Neighbourhood should also believe it. I shall therefore endeavour to clear up this trite Story.
+
+The *Seat* of the PEDLAR observed by *Dugdale* in his Time, to be in the *North Isle*, was taken down with others some Years past, when the greatest part of the Church, with the East End of the said Isle was new Seated and Pew'd in a modern way, but in the North Transept Chapel there is now, a patch'd piece of Woodwork, collected out of the Fragments of antient Stalls and Seats, and here united. On the lower Part of this Work is this Inscription, *Drate pro animabus*, and near the Top, *Johannis Langman . . . Katerine . . .* this Part no doubt belonged to some Seat made at the Charge of John Langman, who appears from an antient Mss, of this Church, call'd the BLACK-BOOk, to have been a considerable Benefactor to it. In the middle of this Work, and between the Inscriptions, is twice represented the Effigies of a Man as busied in his Shop, with a Mark of an I and C. conjoin'd, near it, probably for John Chapman and Catharine his Wife, and the Figure of a Woman also carv'd in two Places, and looking over the Door of a Shop. This Work is supported on each Side by the Heads of the Founders Seat, on both which near the Summit is a PEDLAR carv'd, with a Pack upon his Shoulders, and below him near the Bottom, a Figure which is commonly said to be a Dog, but from his being muzzled and a Chain running croſs his Back, is much more likely to prove a Bear, and so it seems to be in the Window of the North Isle, The uppermost Window but one of this Isle is now the only one, where the Effigies are remaining, here they are represented in two Places in a suppliant Posture, with close round purple Gowns turn'd up, and robed with Furr, tincturd Or. He has a rich Pilgrims Purse or Pouch hanging from a curious Belt or Girdle, and a little Dagger, and from her right Side hangs a string or Lace, at the End of which is something very like to the Shield and Arms of the antient Family of the Knever's in Norfolk, but I believe nothing more than a Buckle; behind her kneels her Son in a close blew Gown furr'd Or, there were two more Children behind him, but they are broken and lost. At the bottom of the Window this fragment of an Inscription now remains,
+
+. . . Fenestre, ad Deict Sanctorum eius gloriam.
+
+Over the Head of the Man in one Pannel as a Label,
+
+petite Petre . . . Paule Beate.
+
+In another.
+
+. . . Christi Baptista Pisca .. . .
+
+That the North Isle of this Church was founded by John Chapman, who was ChurchWarden in 1462, is beyound dispute; but that the *Founder* was a PEDLAR, is very improbable, for the `[These Zonae Stipatae, Pretiosae,Epitogia, Clochae furratae ad oram, Bursae cum imaginibus variis, et sculpti, enemalati et deaurati Cultelli, ad modum Gladiorum dependentes, &c, belonged to the People of Diſtinction, but were forbid the Clergy by John Stratford Archbishop of Cant.  Lindwodj Provinc' Lib. 3T de Vitâet honestate  Clericorum, &c. P. 123. It appears from an Arabick Canon of the 1st Nicene Council, that the bearing of a Purse is very Antient, which Canone enjoyns, that those in Holy Orders should not carry about them a pair of Knives, as if they were quarrelling Fellows, going out to fight and kill, &c. and that they should not hang a Purse at their Girdle. Ridley's View of Civil and Eccle' Law, P. 263.]` Richness of his Habit, &c. shews that he was a Person of Distinction: Now had this CHAPMAN been really a PEDLAR, it would have been more commendable to have had a Pourtraiture suitable to his Calling, (as is the Picture of the PEDLAR who was a Benefactor to the Church of St. Mary Lambeth in Surry) and to have been represented on the Glass, as the PEDLAR is on his Seat. If the carv'd Work was design'd to perpetuate the Memory of his low Degree, the Affectation of a Dress on the Glads so much superior to his Station, being of a Piece with other Benefactors in the Windows, Men of Estate and Worth, must be ridiculous to his own Times, and frustrate the very End and Intent of the Carving, by showing Posterity that he was a Man of Figure and Fortune.
+
+The Truth of the Case seems to be no more than this, the Figures of a Pedlar, and a Man and Woman *busied in their Shop*, were according to the low taste of that Age in a modest Manner to set forth the Name of the Founder CHAPMAN, a Trader or Dealer, the word *Chapman* for a Trader is of great Antiquity, and Pedlars are often called by that Name even to this Day, by some antient People, such *Rebusses* are frequently met with on old Works, but I shall only mention One, and that because it is in the very Church.
+
+Near to the Communion, Table on the North Side is the Altar Monument of Jobn Botwright, D. D. Rector of the Church when it was Rebuilt, on the body of the Tomb are four Shields, two, to represent his Priesthood, bearing the Sacramental Cups, and the Triangilur Emblem of the TRINITY, and two to represent his Name, bearing Boats and Wimbles, Instruments essential to any Wright or Worker in Wood, an *Ænigma* or *Rebus* full as obscure, as `[History of Walter Hemingford, published by Mr. Hearne, Vol. I, Appendix, P. 180.]` Chapman, under the Figure of a Pedlar.
 
 ---
 
