@@ -5,11 +5,7 @@ My way in to this story is "In the county of Norfolk, in the town of Swaffham, t
 
 ---
 
-https://archive.org/details/bim_eighteenth-century_an-essay-towards-a-topog_blomefield-francis_1739_3/page/505/mode/2up
-
-An essay towards a topographical history of the county of Norfolk, containing a description of the towns, villages, and hamlets, ... By Francis Blomefield, ...  1739: Vol 3
-
-pp. 506-508
+Francis Blomefield, [An essay towards a topographical history of the county of Norfolk, containing a description of the towns, villages, and hamlets, ...](https://archive.org/details/bim_eighteenth-century_an-essay-towards-a-topog_blomefield-francis_1739_3/page/505/mode/2up), Vol 3, 1739, pp. 506-508.
 
 The North Isle of this Church
 
@@ -103,10 +99,7 @@ An exemplary version of the story is given by Hugh Lupton in a recording from on
 :url_parameters: ?t=528s
 ```
 
-
 ---
-
-
 
 George Laurence Gomme, [Folklore as an historical science](https://archive.org/details/b24858912/page/n35/mode/2up), 1908, pp.13-24.
 
