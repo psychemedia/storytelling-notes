@@ -8,14 +8,10 @@ https://books.google.co.uk/books?id=yFkMAQAAMAAJ&pg=PT4&dq=blomfield+history+nor
 alternative versions: arabian nights
 
 ---
-https://archive.org/details/moreenglishfairy00jacoiala/page/90/mode/2up?q=+swaffham
-More English fairy tales
-by Jacobs, Joseph, 1854-1916; Batten, John Dickson, 1860-1932, ill
 
-Publication date 1894
-p91-3
+JosephJacobs, [More English fairy tales](https://archive.org/details/moreenglishfairy00jacoiala/page/90/mode/2up), 1894, pp91-3.
 
-[IMAGE]
+![pedlar swaffham london bridge](images/pedlar-swaffham-london-bridge.png)
 
 The Pedlar of Swaffham
 
