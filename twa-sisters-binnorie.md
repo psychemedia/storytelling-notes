@@ -774,7 +774,7 @@ A. a. ' The Miller and the King's Daughter,' broadside of 1656, Notes and Querie
 ```{admonition} Child, A. a
 :class: dropdown
 
-A. a. Broadside "printed for Francis Grove, 1656," reprinted in Notes and Queries, Ist S., v, 591. b. Wit Restor'd, 1658, "p. 51," p. 153 of the reprint of 1817. c. Wit and Drollery, ed. 1682, p. 87, Dryden's Miscellany, Part 3, p. 316, ed. 1716. d. Jamieson's Popular Ballads, i, 315. 
+A. a. Broadside "printed for Francis Grove, 1656," reprinted in [Notes and Queries, Ist S., v, 591](https://archive.org/details/notesqueries05londuoft/notesqueries05londuoft/page/n597/mode/1up). b. Wit Restor'd, 1658, "p. 51," p. 153 of the reprint of 1817. c. [Wit and Drollery, ed. 1682, p. 87](https://archive.org/details/bim_early-english-books-1641-1700_wit-and-drollery-_1682/page/86/mode/2up), Dryden's Miscellany, Part 3, p. 316, ed. 1716. d. Jamieson's [Popular Ballads, i, 315](https://archive.org/details/popularballadsa06jamigoog/page/n350/mode/2up). 
 
 1. There were two sisters, they went playing,  
 With a hie downe downe a downe-a  
@@ -1016,7 +1016,7 @@ C. ' The Cruel Sister,' Scott's Minstrelsy, II, 143 (1802).
 ```{admonition} Child, C.
 :class: dropdown
 
-Scott's Minstrelsy, 1802, II, 143. Compounded from B b and a fragment of fourteen stanzas transcribed from the recitation of an old woman by Miss Charlotte Brooke. 
+[Scott's Minstrelsy, 1802, II, 143](https://archive.org/details/minstrelsyof02scotiala/page/144/mode/2up). Compounded from B b and a fragment of fourteen stanzas transcribed from the recitation of an old woman by Miss Charlotte Brooke. 
 
 1 There were two sisters sat in a bour ;  
   Binnorie, O Binnorie 
