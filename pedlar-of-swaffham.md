@@ -1,9 +1,332 @@
 # The Pedlar of Swaffham
 
-My way in to this story is "In the county of Norfolk, in the town of Swaffham, there was a pedlar. He lived ..." I also use our our cooking apple-tree as the minds-eye representation of the tree under which the treasure is found...
+My way in to this story is "In the county of Norfolk, in the town of Swaffham, there was a pedlar. He lived ..." The tree in the tale is set in an orchard, and is referred to as an oak. But in the *cante fable* telling we're developing for *Stories'n'Harp*, the tree is an apple tree to tie in with the *Apple Tree Wassail* that provides the musical and sung theme. And I also make use our our large apple-tree, which grows on a slant away from the shade of a neighbours much larger willow, which has, very sadly, died, for my minds-eye representation of the tree under which the treasure is found...
+
+```{youtube} v0FMpKUF-3A
+```
+
+An exemplary version of the story is given by Hugh Lupton in a recording from on [online seminar](https://www.youtube.com/watch?v=BDckUYph0-o) on the story itself, as well as the wider storytelling tradition.
+
+```{youtube} BDckUYph0-o
+:url_parameters: ?t=528s
+```
+
+A popular version of the tale appeared in Jacobs' second collection of English fairy tales in 1894.
+
+```{admonition} In Jacobs, *More English Fairy Tales*, 1894
+:class: dropdown
+
+Joseph Jacobs, [More English fairy tales](https://archive.org/details/moreenglishfairy00jacoiala/page/90/mode/2up), 1894, pp91-3.
+
+![pedlar swaffham london bridge](images/pedlar-swaffham-london-bridge.png)
+
+The Pedlar of Swaffham
+
+IN the old days when London Bridge was lined with shops from one end to the other, and salmon swam under the arches, there lived at Swaffham, in Norfolk, a poor pedlar. He'd much ado to make his living, trudging about with his pack at his back and his dog at his heels, and at the close of the day's labour was but too glad to sit down and sleep. Now it fell out that one night he dreamed a dream, and therein he saw the great bridge of London town, and it sounded in his ears that if he went there he should hear joyful news. He made little count of the dream, but on the following night it come back to him, and again on the third night.
+
+, Then he said within himself, " I must needs try the issue of it," and so he trudged up to London town. Long was the way and right glad was he when he stood on the great bridge and saw the tall houses on right hand and left, and had glimpses of the water running and the ships sailing by. All day long he paced to and fro, but he heard nothing that might yield him comfort. And again on the morrow he stood and he gazed he paced afresh the length of London Bridge, but naught did he see and naught did he hear.
+
+Now the third day being come as he still stood and gazed, a shopkeeper hard by spoke to him.
+
+" Friend," said he, " I wonder much at your fruitless standing. Have you no wares to sell ? "
+
+" No, indeed," quoth the pedlar.
+
+" And you do not beg for alms."
+
+" Not so long as I can keep myself."
+
+" Then what, I pray thee, dost thou want here, and what may thy business be ? "
+
+" Well, kind sir, to tell the truth, I dreamed that if I came hither, I should hear good news."
+
+Right heartily did the shopkeeper laugh.
+
+" Nay, thou must be a fool to take a journey on such a silly errand. I'll tell thee, poor silly country fellow, that I myself dream too o' nights, and that last night I dreamt myself to be in Swaffham, a place clean unknown to me, but in Norfolk if I mistake not, and methought I was in an orchard behind a pedlar's house, and in that orchard was a great oak tree. Then meseemed that if I digged I should find beneath that tree a great treasure. But think you I'm such a fool as to take on me a long and wearisome journey and all for a silly dream. No, my good fellow, learn wit from a wiser man than thyself. Get thee home, and mind thy business."
+
+When the pedlar heard this he spoke no word, but was exceeding glad in himself, and returning home speedily, digged underneath the great oak-tree, and found a prodigious great treasure. He grew exceeding rich, but he did not forget his duty in the pride of his riches. For he built up again the church at Swaffham, and when he died they put a statue of him therein all in stone with his pack at his back and his dog at his heels. And there it stands to this day to witness if I lie.
+
+NOTES p 229
+
+LXIII. THE PEDLAR OF SWAFFHAM.
+
+Source. *Diary of Abraham de la Pryme* (Surtees Soc.) under date 10th Nov., 1699, but re-written by Mr. Nutt, who has retained the few characteristic seventeenth century touches of Pryme's dull and colourless narration. There is a somewhat fuller account in Blomfield's *History of Norfolk*, vi. 211-13, from Twysden's Reminiscences, ed. Hearne, p. 299. In this there is a double treasure ; the first in an iron pot with a Latin inscription, which the pedlar, whose name is John Chapman, does not understand. Inquiring its meaning from a learned friend, he is told
+
+Under me doth lie  
+Another much richer than I.
+
+He accordingly digs deeper and finds another pot of gold.
+
+Parallels. Blomfield refers to Fungerus, *Etymologicum Latino Graecum*, pp. 1110-11, where the same story is told of a peasant of Dort, in Holland, who was similarly directed to go to Kempen Bridge. Prof. E. B. Cowell, who gives the passage from Fungerus in a special paper on the subject in the *Journal of Philology*, vi. 189-95, points out that the same story occurs in the *Masnávi* of the Persian port Jalaluddin, whose *floruit* is 1260 A.D. Here a young spendthrift of Bagdad is warned in a dream to repair to Cairo, with the usual result of being referred back.
+
+Remarks. The artificial character of the incident is sufficient to prevent its having occurred in reality or to more than one inventive imagination. It must therefore have been brought to Europe from the East and adapted to local conditions at Dort and Swaffham Prof. Cowell suggests that it was possibly adapted at the latter place to account for the effigy of the pedlar and his dog.
+
+```
 
 
 ---
+The Journal of philology v.6 1876 https://babel.hathitrust.org/cgi/pt?id=mdp.39015039346930&seq=207 pp. 189-195
+
+THE LEGEND OF THE CHAPMAN OF SWAFFHAM
+CHURCH.
+I GIVE the English form of this legend in the words of Sir
+Roger Twysden, as quoted in Blomefield's 'History of Norfolk,'
+8vo. ed. Vol. VI. pp. 211—–213.
+"The north aisle of Swaffham Church is generally reported
+and believed to be built by John Chapman, a tinker of this
+town: the history of it I shall here transcribe from Sir Roger
+Twysden's Remembrances, MS. p. 299, published by our great
+antiquary, Mr Hearne of Oxford, and shall then give my
+opinion on it.
+"The story of the Pedlar of Swaffham Market is in sub-
+stance this': 'That dreaming one night if he went to London,
+he should certainly meet with a man upon London Bridge,
+which would tell him good news; he was so perplext in his
+mind that till he set upon his journey he could have no rest;
+to London therefore he hastes, and walked upon the Bridge for
+some hours, where being espied by a shopkeeper and asked
+what he wanted, he answered, 'You may well ask me that
+question, for truly (quoth he) I am come hither upon a very
+vain errand,' and so told the story of his dream which occa-
+sioned the journey.
+Whereupon the shopkeeper replied, 'Alas,
+good friend, should I have heeded dreams I might have proved
+myself as very a fool as thou hast; for 'tis not long since that I
+dreamt that at a place called Swaffham Market, in Norfolk,
+dwells one John Chapman, a pedlar, who hath a tree in his
+back side, under which is buried a pot of money. Now,
+therefore, if I should have made a journey thither to dig for
+1 Tho. Caii Vindic. Antiq. Acad. Oxon., Vol. 1. p. 84, Append.
+
+such hidden treasure, judge you whether I should not have
+been counted a fool.' To whom the pedlar cunningly said,
+'Yes, verily; I will therefore return home and follow my
+business, not heeding such dreams henceforward.' But when
+he came home (being satisfied that his dream was fulfilled), he
+took occasion to dig in that place, and accordingly found a
+large pot full of money, which he prudently concealed, putting
+the pot among the rest of his brass. After a time it happened
+that one who came to his house and beholding the pot, ob-
+served an inscription upon it, which being in Latin he inter-
+preted it, that under that there was another twice as good'.
+Of this inscription the pedlar was before ignorant, or at least
+minded it not; but when he heard the meaning of it he said,
+"Tis very true, in the shop where I bought this pot stood another
+under it which was twice as big;' but considering that it might
+tend to his further profit to dig deeper in the same place where
+he found that, he fell again to work and discovered such a pot
+as was intimated by the inscription, full of old coin; notwith-
+standing all which, he so concealed his wealth that the neighbours
+took no notice of it. But not long after the inhabitants of
+Swaffham resolving to re-edify their church, and having con-
+sulted the workmen about the charge, they made a levy,
+wherein they taxed the pedlar according to no other rate but
+what they had formerly done. But he knowing his own ability
+came to the church and desired the workmen to show him their
+model, and to tell him what they esteemed the charge of the
+north aisle would amount to; which when they told him, he
+presently undertook to pay them for building it, and not only
+that, but of a very tall and beautiful tower steeple.' This is
+the tradition of the inhabitants, as it was told me there. And
+in testimony thereof, there was then his picture, with his wife
+and three children, in every window of the aisle, with an
+inscription running through the bottom of all those windows,
+viz. 'Orate pro bono statu Johannis Chapman... Uxoris ejus, et
+1 The common tradition is, it was Or as some will have it:
+in English rhyme, viz. :
+"Where this stood
+"Under me doth lie
+Another much richer than I."
+Is another as good;"
+
+Liberorum suorum, qui quidem Johannes hanc alam cum fe-
+nestris tecto et...fieri fecit.'
+"It was in Henry the Seventh's time, but the year I now
+remember not, my notes being left with Mr William Sedgwicke,
+who trickt the pictures, he being then with me. In that aisle
+is his seat, of an antique form, and, on each side the entrance,
+the statue of the pedlar of about a foot in length, with pack on
+his back, very artificially cut. This was sent me from Mr
+William Dugdale, of Blyth Hall, in Warwickshire, in a letter
+dated Jan. 29th, 1652-3, which I have since learned from
+others to have been most true.
+"ROGER TWYSDEN."
+Blomefield remarks that the story is to be found in Johannes
+Fungerus' "Etymologicon Latino-Græcum," pag. 1110, et 1111,
+where it is told of a man of Dort in Holland. Blomefield also
+adds that the north aisle of the church was certainly built by
+John Chapman, who was churchwarden in 1462; but he thinks
+that the figures of the pedlar, &c., were only put "to set forth
+the name of the founder; such rebuses are frequently met with
+on old works."
+The story is also told in Abraham de la Pryme's diary
+(Nov. 10, 1699) as a "constant tradition" concerning a pedlar
+in Soff ham, alias Sopham, in Norfolk.
+As Fungerus' book is not a common one, I subjoin the
+passage to which Blomefield alludes; it occurs in the article
+somnus. The copy of the "Etymologicon Latino-Græcum" in
+the University Library bears the date 'Lugduni, 1607.'
+"Rem quæ contigit patrum memoriâ ut veram ita dignam
+relatu, et sæpenumero mihi assertam ab hominibus fide dignis
+apponam. Juvenis quidam in Hollandia, Dordraci¹ videlicet,
+rem et patrimonium omne prodegerat, conflatoque ære alieno
+non erat solvendo. Apparuit illi quidam per somnium, monens
+ut se conferret Campos: ibi in ponte indicium aliquem fac-
+turum, quid sibi, ut explicare se posset illis difficultatibus,
+instituendum foret. Abiit eo, cumque totum fere diem tristis
+et meditabundus deambulationem supra prædictum pontem
+1 Dort.
+2 Kempen.
+
+insumsisset, misertus ejus publicus mendicus, qui forte stipem
+rogans illic sedebat, quid tu, inquit, adeo tristis? Aperuit illi
+somniator tristem et afflictam fortunam suam, et qua de causa
+eo se contulisset. Quippe somnii impulsu huc se profectum,
+et exspectare Deum velut a machina, qui nodum hunc plus
+quam Gordium evolvat. At mendicus, Adeone tu demens et
+excors, ut fretus somno, quo nihil inanius, huc arriperes iter?
+Si hujuscemodi nugis esset habenda fides, possem et ego me
+conferre Dordracum ad eruendum thesaurum sub cynosbato
+defossum horti cujusdam (fuerat autem hic hortus patris som-
+niatoris hujus,) mihi itidem patefactum in somno. Subticuit
+alter, et rem omnem sibi declaratam existimans rediit magno
+cum gaudio Dordracum, et sub arbore prædicta magnam pe-
+cuniæ vim invenit, quæ ipsum liberavit (ut ita dicam) nexu,
+inque lautiore fortuna, dissoluto omni ære alieno, collocavit."
+We see by this extract that the story is one by no means
+confined to Norfolk, but equally current in Holland and pro-
+bably elsewhere on the continent. It is evidently an old legend,
+located by popular fancy in several widely distant spots (just
+like that of Whittington and his cat), and it has only become
+connected with Swaffham as an attempt to explain the for-
+gotten mystery of the figure of the chapman and his pack in
+the parish church.
+Modern research has shown that a very large proportion of
+the popular legends of Europe can be traced in their oldest
+forms to the East, and especially to the early Buddhist writings,
+as fables and stories were continually used by the Buddhist
+teachers to illustrate and popularize their doctrines. I have
+not succeeded in tracing this at present to India or to a
+Buddhist source; but I have found it in the great Persian
+metaphysical and religious poem called the Masnaví, written
+by Jalaluddin, who died about A.D. 1260, and therefore it may
+very probably have come to him from a still more Eastern
+home.
+I subjoin a translation of the legend as it appears in the
+Masnaví, only slightly compressing it, and omitting the long
+metaphysical and mystical digressions with which the author,
+more suo, continually interrupts the course of the story.
+
+In his prose title prefixed to the chapter, he tells his readers
+that the man is sent to Cairo to learn that "a man's treasure is
+only to be sought in his own house, though he may have to go
+to Egypt to find it."
+A certain heir in Baghdad possessed boundless wealth;
+He wasted it all and was left destitute and forlorn.
+(Hereditary wealth is never faithful,
+For unwillingly it parted from him who is gone.)
+When he became empty, he remembered God,
+And began to say 'O God, look upon me;'
+He said 'O God, thou gavest me wealth and it is gone;
+O give me wealth again or send me death.'
+And one night he saw a dream, and an angel's voice said to him,
+'In Cairo shall thy wealth be found;
+'In a certain place is a great treasure;
+'Thou must go to Cairo in search for it.'
+When from Baghdad he came to Cairo,
+His back became hot as he saw the face of the country,
+In his hope that the heavenly voice would prove true,
+That so he might find a treasure there to banish his sorrow.
+The voice had said that in a certain street in a certain place.
+A treasure of marvellous value lay buried.
+But of provisions, little or much, he had none left;
+And he began to beg of the common people.
+But shame and spirit seized the hem of his garment,
+And he began to gather himself up for endurance;
+And then again his appetite fretted with hunger,
+And he saw no escape from showing his want and begging.
+At last he said 'I will go out softly at night,
+'That in the darkness I may not feel shame at begging.
+'Like a night-mendicant I will pray and beg,
+'That they may throw me half a dánk from the roofs.'
+In this thought he went out into the street,
+With this intent he wandered hither and thither.
+At one moment shame and honour stopped him,
+At another hunger said to him 'beg.'
+One foot forwards, one foot backwards, for a third of the night,
+Journal of Philology. VOL. VI.
+13
+
+Saying, 'shall I beg or shall I lie down with parched lips?"
+Suddenly a watchman seized him,
+And angrily beat him with fist and stick.
+By chance it had happened that in those dark nights
+The inhabitants had been greatly vexed with robbers,
+And the Caliph had said, 'Cut off that man's hand,
+Whoever wanders abroad at night, though he were my own
+kinsman.'
+And the minister had sternly threatened the watchmen,
+'Why are ye so pitiful towards the robbers?'
+It was at such a time that the watchman saw him and smote
+him,
+With blows of stick and fist without number.
+The poor man shrieked and cried aloud for help,
+'Strike me not,' he said, 'that I may tell thee my true story.
+He answered, 'I have given thee a respite, speak on;
+Tell me how thou hast come out by night.
+Thou art not of this place, thou art a stranger and one un-
+known;
+Tell me truly in what treachery art thou engaged.
+The officers of the court have blamed the watchmen,
+Saying, 'why are the thieves now so many?'
+Their number is made up of thee and thy friends,
+Disclose at once thy evil companions.
+If not, I will take on thee the vengeance for all,
+That the men in power may be no longer blamed.'
+The other replied, after many oaths,
+'I am no house-burner or purse-stealer;
+I am no robber or lawless liver:
+I am a stranger to Cairo-a man of Baghdad.'
+Then he told the story of the dream and the hidden treasure of
+gold,
+And the heart of the watchman opened at his truthfulness.
+The heart is at rest in upright speech,
+As a thirsty man finds rest in water.
+He answered, 'thou art no thief or villain,
+Thou art an honest man-only an owl and a fool.
+For such a fancy and dream to take such a journey,
+
+There is not a barley-corn's worth of reason in thy head.
+Times
+upon times have I seen a dream,
+That in Baghdad there is a treasure hidden,
+Buried in such a street, in such a quarter,'
+(And lo! that was the very street of this distressed one,)
+'It is in such a house, go thou and find it,'
+(And lo! the enemy mentioned his own name as that of the
+house,)
+'Times upon times have I seen this dream,
+That there is a treasure in a place in Baghdad;
+But in spite of the vision I never stirred from my place,
+And thou from a dream wilt only find weariness of foot.'
+He said to himself, 'the treasure is in my own house;
+Why then should I have poverty and sorrow here?
+I have been dying of beggary on the top of a treasure,
+Because I was in ignorance and behind a veil.'
+At the good news he became drunk with joy and his pain was
+gone,
+Silently he uttered a hundred times 'Praise to God.'
+Back to Baghdad he returned from Cairo,
+Making prostrations and bowings, and uttering thanks and
+praise;
+All the way amazed and drunk with joy at the wonder,
+At this reverse of fortune and strange journey of search.
+E. B. COWELL.
+13-2
+
+
+---
+
 
 Francis Blomefield, [An essay towards a topographical history of the county of Norfolk, containing a description of the towns, villages, and hamlets, ...](https://archive.org/details/bim_eighteenth-century_an-essay-towards-a-topog_blomefield-francis_1739_3/page/505/mode/2up), Vol 3, 1739, pp. 506-508.
 
@@ -47,57 +370,6 @@ Near to the Communion, Table on the North Side is the Altar Monument of Jobn Bot
 
 ---
 
-Joseph Jacobs, [More English fairy tales](https://archive.org/details/moreenglishfairy00jacoiala/page/90/mode/2up), 1894, pp91-3.
-
-![pedlar swaffham london bridge](images/pedlar-swaffham-london-bridge.png)
-
-The Pedlar of Swaffham
-
-IN the old days when London Bridge was lined with shops from one end to the other, and salmon swam under the arches, there lived at Swaffham, in Norfolk, a poor pedlar. He'd much ado to make his living, trudging about with his pack at his back and his dog at his heels, and at the close of the day's labour was but too glad to sit down and sleep. Now it fell out that one night he dreamed a dream, and therein he saw the great bridge of London town, and it sounded in his ears that if he went there he should hear joyful news. He made little count of the dream, but on the following night it come back to him, and again on the third night.
-
-, Then he said within himself, " I must needs try the issue of it," and so he trudged up to London town. Long was the way and right glad was he when he stood on the great bridge and saw the tall houses on right hand and left, and had glimpses of the water running and the ships sailing by. All day long he paced to and fro, but he heard nothing that might yield him comfort. And again on the morrow he stood and he gazed he paced afresh the length of London Bridge, but naught did he see and naught did he hear.
-
-Now the third day being come as he still stood and gazed, a shopkeeper hard by spoke to him.
-
-" Friend," said he, " I wonder much at your fruitless standing. Have you no wares to sell ? "
-
-" No, indeed," quoth the pedlar.
-
-" And you do not beg for alms."
-
-" Not so long as I can keep myself."
-
-" Then what, I pray thee, dost thou want here, and what may thy business be ? "
-
-" Well, kind sir, to tell the truth, I dreamed that if I came hither, I should hear good news."
-
-Right heartily did the shopkeeper laugh.
-
-" Nay, thou must be a fool to take a journey on such a silly errand. I'll tell thee, poor silly country fellow, that I myself dream too o' nights, and that last night I dreamt myself to be in Swaffham, a place clean unknown to me, but in Norfolk if I mistake not, and methought I was in an orchard behind a pedlar's house, and in that orchard was a great oak tree. Then meseemed that if I digged I should find beneath that tree a great treasure. But think you I'm such a fool as to take on me a long and wearisome journey and all for a silly dream. No, my good fellow, learn wit from a wiser man than thyself. Get thee home, and mind thy business."
-
-When the pedlar heard this he spoke no word, but was exceeding glad in himself, and returning home speedily, digged underneath the great oak-tree, and found a prodigious great treasure. He grew exceeding rich, but he did not forget his duty in the pride of his riches. For he built up again the church at Swaffham, and when he died they put a statue of him therein all in stone with his pack at his back and his dog at his heels. And there it stands to this day to witness if I lie.
-
-NOTES p 229
-
-LXIII. THE PEDLAR OF SWAFFHAM.
-
-Source. Diary of Abraham de la Pryme (Surtees Soc.) under date loth Nov., 1699, but re-written by Mr. Nutt, who has retained the few characteristic seventeenth century touches of Pryme's dull and colourless narration. There is a somewhat fuller account in Blomfield's History of Norfolk, vi. 211-13, from Twysden's Reminiscences, ed. Hearne, p. 299. In this there is a double treasure ; the first in an iron pot with a Latin inscription, which the pedlar, whose name is John Chapman, does not understand. Inquiring its meaning from a learned friend, he is told
-
-Under me doth lie
-
-Another much richer than I.
-
-He accordingly digs deeper and finds another pot of gold.
-
-Parallels. Blomfield refers to Fungerus, Etymologicum LatinoGrcecttm, pp. ino-ii, where the same story is told of a peasant of Dort, in Holland, who was similarly directed to go to Kempen Bridge. Prof. E. B. Cowell, who gives the passage from Fungerus in a special paper on the subject in ti\t Journal of Philology, vi. 189-95, points out that the same story occurs in the Masnd-vi of the Persian port Jalaluddin, whoseyforwz/ is 1260 A.D. Here a young spendthrift of Bagdad is warned in a dream to repair to Cairo, with the usual result of being referred back.
-
-Remarks. The artificial character of the incident is sufficient to prevent its having occurred in reality or to more than one inventive imagination. It must therefore have been brought to Europe from the East and adapted to local conditions at Dort and Swaffham Prof. Cowell suggests that it was possibly adapted at the latter place to account for the effigy of the pedlar and his dog.
-
-An exemplary version of the story is given by Hugh Lupton in a recording from on [online seminar](https://www.youtube.com/watch?v=BDckUYph0-o) on the story istelf, as well as the wider storytelling tradition.
-
-```{youtube} BDckUYph0-o
-:url_parameters: ?t=528s
-```
 
 ---
 
@@ -181,7 +453,7 @@ It is not difficult, by a joint appeal to history and folklore, to trace out fro
 
 E. S. Hartland, [English fairy and other folk tales](https://archive.org/details/englishfairyothe00hartiala/page/76/mode/1up), 1906?, p76-7.
 
-See also: [The diary of Abraham De la Pryme, the Yorkshire antiquary](https://archive.org/details/diaryofabrahamde00delarich/page/218/mode/2up), The publictionos of the Surtees Society, vol. LIV, pp. 219-20, 1869.
+See also: [The diary of Abraham De la Pryme, the Yorkshire antiquary](https://archive.org/details/diaryofabrahamde00delarich/page/218/mode/2up), The publications of the Surtees Society, vol. LIV, pp. 219-20, 1869.
 
 THE PEDLAR OF SWAFFHAM. `[*Diary of Abraham dela Pryme*, p. 220, under date 10 Nov. 1699. (Surtees Society.)]`
 
@@ -207,3 +479,261 @@ In view of these considerations I cannot think that Mr. Gomme is well advised in
 E. Sidney Hartland.
 
 ---
+
+The Antiquary Vol. X (July-December, 1884), October 1884
+https://archive.org/details/antiquary10slsniala/page/202/mode/2up pp. 202-5.
+
+The Two Pedlar Legends of Lambeth and Swaffham
+
+Two very distant and distinct places have two nearly-related traditions — Lambeth in Surrey, and Swaffham in Norfolk. Both the legends are commemorated by memorials in the parish church, and last month we had the mortification to record that the church window at Lambeth, dedicated to the Pedlar, had been removed, to make room for a modern memorial window. We are glad to see that the parishioners of Lambeth have bestirred themselves, and compelled the vicar to promise restoration. So far, good. The restoration is not to be made to the place where the window was removed from, but a new window is to be built nearer to the original spot. If Lambeth people care to accept this compromise, archaeologists will not; if the window may thus be shifted from one place to another, at every one's bidding, there will be no security for its lasting preservation. We shall continue to urge the complete restoration of the window, and we trust that the people of Lambeth will be true to their local celebrities, and insist upon this illegal removal being remedied.
+
+![](images/antiquary-pedlar-swaffham.png)
+
+Let us now consider the history of this famed pedlar of Lambeth. An account is given in Allen's *History of Lambeth*, but the best is that given in Long Ago for September 1873 (vol. i., p. 271), taken from a manuscript in the handwriting of Archdeacon Drune, formerly rector of Lambeth. A descendant of the venerable Archdeacon, the Rev. Bradford Drune Hawkins, Rector of Riverdale, Witham, forwarded the account to the editor of Long Ago; and the following is a literal transcript : —
+
+" Among the estates belonging to the parish of Lambeth is a piece of land, antiently call'd Church Hopys, `[Old Vestry Book, fol. 2-5.]` but since called Pedlar's Acre. For what reasons it was so call'd I cannot learn, finding no historical vouchers to justify what the writer of the New View of London says about it in page 381 ; that a Pedlar gave this acre of land, besides ye following Benefactions in money, viz. : —
+
+To ye Parish . . . jC^d o o
+
+To ye Archbishop . . 100 o o
+
+To ye Rector . . . 20 o o
+
+To ye Clerk and Sexton each 10 o o
+
+for leave (as tradition reports) to bury his dog in ye churchyard. So far is true, that there is a Picture of a Pedlar and his dog in painted glass in ye window over ye Pulpit ; wh suffering by the high wind was renewed at ye Parish expense in 1703 {Vestry Book, fol. 7-19). There appears to have beai a like picture there in 1607 [Old Vestry Book, fol. 171 — 173), tho' this Land was not then call'd by ye name of Pedlar's Acre : nor in the lease granted February 20th, 1656, The first mention of that name, as far as I can find, was in ye lease August 6th, 1690. And might not this story take its rise from another Benefactor? of whom we have ye following account given by Bp. Gibson in his Edition of Camden. * Plenry Smith was once a Silver Smith in London, but he did not follow that trade long. He afterwards went a begging for many years, and was commonly called Dog Smith, because he had a dog wh always followed him — when he dyed, he left a very great estate in ye hands of Trustees upon a general acct of Charity, and more particularly for Surrey — After ye Trustees had made a considerable improvement of ye estate, and purchas'd several farms, they settled sold, per annum or thereabouts upon every market-
+
+town in Surrey, or gave looold. in money upon every Parish excepting one or two they settled a yearly revenue. Among ye rest Lambeth has lold.' {^Camden, vol. i., p. 393.) From this acct I should suspect ye picture of ye Pedlar and his Dog to have been put up in memory of Mr. Smith, and to have no relation to ye Benefactor, who gave Church Hopys ; could I acct for its being put up before his death, as it was in 1607, whereas he dyed in 1627, and was bur. at Wandsworth,— And yet such seems to have been ye Temper of ye man, yt he might do this in his own lifetime (as tradition says of the Pedlar), upon ye burial of his Dog in ye churchyard. He was whipt at Mitcham as a common vagrant for wh reason this parish was excluded from his Benefactions (Aubrey's History, vol. il, p. 142). The Benefactor is unknown ; but it appears to have been ye estate of ye Parish befor ye year 1504, `[Old Vestry Book, fol. 2-5]` for its Rent was then brought into the Church Account; and its Title was defended `[Old Vestry Book, fol. 104, and 108 — no. Mr. Easton's claim was probably from a purchnse of lands, given to superstitious uses under a Statute I. Edward VI., cap. 14, section 5 (1542), wh vested such in ye crown (Gibson, Cod. 2nd vol., p. 1256). The Court Rolls were searched and quit-rent paid for it in 1648. —Old Vestry Book, fol. 2836.]` out of the Church Stock, agst the claim of Mr. Easton in 1581. It was formerly `[So called in 1623 {Old Vestry Book, fol. 223-6225-a), in 1629 {Old Vestry Book, fol. 241), and in 1654 {Vestry Book, fol. i), but in ye lease February 6, 1656, it was served and inclosed as a meadow, having been an osier Hoper. Thus described likewise in ye lease August 6, 1690, though it be also there called Pedlar s Acre, and as containing by estimation one acre more or less, tho' I never found it so call'd in ye Parish Acct Books till 1705.]` an osier ground, and then let at small rack rents, `[At 2s. 8d. in 1504 (C/</ Vestry Book, fol. 2-5) at 4s. in 1514 (fol. 9-19), at 5s. in 1554 (fol. 52-55) at 6s. 8d. in 1557 (fol. 54), at 13s. 4d. in 1565 (fol. 63), at ild. 6s. 8d. in 1581 (fol. 106-6), and at that rent with a fine of 5old. to lien. Price, upon a lease of 21 years in 1620 (fol. 212), but for 61 years commencing from Xmas, 1659, to Edw. Smitli, by lease dated February 24, 1656 {Vestry Book, fol. 14 and lease), which lease came afterwards to Bernard Whalley, Esq., of Bickley, Warwickshire, in right of his wife Lucy, dr to ye said Edw. Smith, who surrendered it in 1690, and had 61 years added to it in a new lease granted August 6, 1690, but to commence at Xmas following, by Geo. Hooper, D.D., John Ac worth, Thomas Rode, and Tho. Walker, then Rector and Churchwardens of the Parish, upon paying a fine of 5old. This lease was assigned to Tho. Wymondegold, December 6, 1690, who paid 25old. for it to Mr. Whalley, probably in consideration of ye 30 years unexpir'd in his former lease.]` but being afterwards severed and inclosed as a meadow, long leases were granted of it, and probably with a view to building; the last whereof dated August 6, 1690, for a term of 61 years at the yearly rent of jQ^, payable quarterly."
+
+This account seems to contain all that is to be found about the Lambeth Pedlar and his acre. In 1851 Mr. John Smith asked in the pages of Willis's Current Notes (p. 59), whether any information could be obtained which connected the pedlar with the Henry Smith mentioned above, but he obtained no reply in response to his query, and we must perforce leave the question where it is, as a local legend which has still some form of attraction in it. But the point to dwell upon is that the present form of the legend is no doubt fragmentary ; and the lost portion may perhajjs be yet regained. The cue to this lost part may be found perhaps in the more perfectly preserved legend of the Pedlar of Swaflfham. The representation of this worthy is carved in wood, and below him is what is commonly called a dog, though Blomefield {Hist, of Norfolk, iii. 507) suggests it is a bear. At all events here is a similar picture to the Lambeth window, and to this is attached a legend of some importance. It would be interesting if the spoliation of the Lambeth window were made the starting-point for an inquiry, which should ultimately result in linking the legend of the Lambeth Pedlar to that class of local legends which the Swaffham Pedlar shows to be of remote antiquity.
+
+It is worth while turning to the legend of the Pedlar of Swaffham. It takes us into the archaic studies of comparative storyology. The earliest account of this story to be found is that by Sir Roger Twysden quoted in Blomefield's History of Norfolk (vol. vi., pp. 21 1-2 13). Another, and it appears an independent version, is given in the Diary of Abraham de la Pry me, published by the Surtees Society. At p. 220 of this volume, under the date 10 Nov. 1699, the following relation occurs, and we quote this because it is less generally known than that given in Blomefield, and should be compared with that version : —
+
+Constant tradition says that there lived in former times, in Soflfham (Swaffham), alias Sopham, in Norfolk, a certain pedlar, who dreamed that if he went to London bridge, and stood there, he should hear veryjoyfuU newse, which he at first sleighted, but afterwards, his dream being dubled and trebled upon him, he resolved to try the issue of it, and accordingly went to London, and stood on the bridge there two or three days, looking about him, but heard nothing that might yield him any comfort. At last it happened that a shopkeeper there, hard by, haveing noted his fruitless standing, seeing that he neither sold any wares nor asked any almes, went to him and most earnestly begged to know what he wanted there, or what his business was ; to which the pedlar honestly answered, that he had dreamed that if he came to London and stood there upon the bridge, he should hear good newse ; at which the shopkeeper laught heartily, asking him if he was such a fool as to take a journey on such a silly errand, adding, " I'll tell thee, country fellow, last night I dreamed that I was at Sopham, in Norfolk, a place utterly unknown to me, where methought behind a pedlar's house in a certain orchard, and under a great oak tree, if I digged I should find a vast treasure ! Now think you," says he, "that I am such a fool to take such along journey upon me upon the instigation of a silly dream ? No, no, I'm wiser. Therefore, good fellow, learn witt from me. and get you home, and mind your business." The pedlar, observing his words, what he had say'd he dream'd and knowing they concenter'd in him, glad of such joyful newse went speedily home, and digged and found a prodigious great treasure, with which he grew exceeding rich, and Soffham (Church) being for the most part fal'n down, he set on workmen and reedifyd it most sumptuously, at his own charges ; and to this day there is his statue therein, but in stone, with his pack at his back, and his dogg at his heels ; and his memory is also preserved by the same form or picture in most of the old glass windows, taverns, and alehouses of that town unto this day.
+
+Now this version from Abraham de la Pryme was certainly obtained from local sources, and it shows the general popularity of the legend, together with the faithfulness of the traditional version. But other evidence of the traditional force of the story is to be found. Observing that Pryme's Diary was not printed until 1870, though certainly the MS. had been lent to antiquaries, it is rather curious that the following almost identical account is told in the St. James's Chronicle, of 28th November, 1786, which shows that the writer had obtained the legend from the same source as Abraham de la Pryme, and that the traditional form had been faithfully preserved : —
+
+A Pedlar who lived many Years ago at Swaffham, in Norfolk, dreamt, that if he came up to London, and stood upon the Bridge, he should hear very joyful News ; which he at first slighted, but afterwards his Dream being doubled and trebled unto him, he resolved to try the Issue of it ; and accordingly to London he came, and stood on the Bridge for two or three Days, but heard nothing which might give him Comfort that the Profits of his Journey would be equal to his Pains. At last it so happened, that a Shopkeeper there, having noted his fruitless standing, seeing that he neither sold any Wares, nor asked any Alms, went to him, and enquired his Business ; to which the Pedlar made Answer, that being a Countryman, he had dreamt a Dream, that if he came up to London, he should hear good News : "And art thou (said the Shopkeeper) such a Fool, to take a Journey on such a foolish Errand ? Why I tell thee this — last Night I dreamt, that I was at Swaffham, in Norfolk, a Place utterly unknown to me, where, methought, behind a Pedlar's House, in a certain Orchard, under a great Oak Tree, if I digged there, I should find a mighty Mass of Treasure.
+
+"Now think you, that I am so unwise, as to take so long a Journey upon me, only by the Instigation of a foolish Dream ! No, no, far be such Folly from me ; therefore, honest Countryman, I advise thee to make haste Home again, and do not spend thy precious Time in the Expectation of the Event of an idle Dream."
+
+The Pedlar, who noted well his Words, glad of such joyful News, went speedily Home, and digged under the Oak, where he found a veiy large Heap of Money ; with Part of which, the Church being then lately fallen down, he very sumptuously rebuilt it ; having his Statue cut therein, in Stone, with his Pack on his Back and his Dog at his Heels, which is to be seen at this Day. And his Memory is also preserved by the same Form, or Picture, on most of the Glass Windows of the Taverns and Alehouses in that Town.
+
+I am not a Bigot in Dreams, yet I cannot help acknowledging the Relation of the above made a strong Impression on me.
+
+Yours, Z.
+
+In Clyde's Norfolk Garland, p. 69, is an account of this legend, but with an additional fact. The box containing the treasure had a Latin inscription on the lid, which, of course, John Chapman could not decipher. He craftily put the lid in his window, and very soon he heard some youths turn the Latin sentence into English :
+
+Under me doth lie Another much richer than I.
+
+And he went to work digging deeper than before, and found a much richer treasure than the former. Another version of this rhyme is found in Transactions of the Cambridge Antiquarian Society, vol. iii., p. 318 :
+
+Where this stood Is another as good.
+
+Now this gives us the history of the story as it is found recorded in English literature. Blomefield in his History of Norfolk points out that the same story is found in Johannes Fungerus' Etyinologicon Latino- Grceciini, pp, iiio-iiii, though it is here narrated of a man at Dort in Holland. This opens the wide door of comparative storyology, as it has sometimes conveniently, though not elegantly, been called. Professor Cowell, in the third volume of the Cambridge Antiquarian Society Transactions, p. 320, has printed a remarkable parallel of the story which is to be found in the great Persian metaphysical and religious poem called the Masnavf, written by Jalaluddin, who died about 1260. No doubt these facts establish the story as one of the great group of stories which folklorists study and carry to such remote antiquity for their origin.
+
+One or two other Pedlar legends exist in England, and if we could get these collected together, so that proper comparison could be made, we might discover, even at this late hour, the earlier form of the Lambeth legend, and we hope our readers will assist this effort. Legends of buried treasure are very numerous, and the pedlars of Old England were a class of men of considerable importance.
+
+
+
+
+The Antiquary
+https://archive.org/details/antiquary11slsniala/page/166/mode/2up
+Vol. XI, (January-June, 1885)  April, 1885, pp. 167-8
+
+A Further Note on the Legend of the Chapman of Swaffham `[This brief note, written in 1880, was intended for the Cambridge Antiquarian Society, but after leaving the writer's hands was, owing to accident, not brought before their meeting until last May. The attention of readers of The Antiquary having been called to the subject by the article in vol. x., p. 202, the note is put before them without alteration.]`
+
+By William E. A. Axon, M.R.S.L.
+
+Irofessor e. b. cowell
+
+read a paper before the Cambridge Antiquarian Society in 1875 o^ the legend of the Chapman of Swaffham, which is printed in the third volume of the *Communications*. In this interesting paper Professor Cowell has shown that the legend of the poor man enriched by a dream has become localized at Swaffham in Norfolk, at Dort in Holland, and is also to be found in the Persian poem called the *Masnavi*, written by Jalkuddin, who died about a.d. 1260. "It is evidently," as Professor Cowell observes, " an old legend, located by popular fancy in several widely different parts, just like that of Whittington and his cat, and it has only become connected with Swaffham as an attempt to explain the forgotten mystery of the figure of the Chapman and his pack in the parish church." The popularity of the legend is evidenced by its insertion into that very popular folk-book the New Help to Discourse, which was often printed between 1619 and 1696. In this occurs the following question and answer : —
+
+Q. Who was it, according to report, that built the Church of Sopham in Norfolk ?
+
+A. Tradition tells us that in former times there lived in that town a certain pedlar, who dreamed if he came up to London, and stood on the bridge there, he should hear very joyful news, which he at first slighted ; but afterwards, his dream being doubled and trebled unto him, he resolved to try the issue of it, and accordingly to London he came, and stood on the bridge there for two or three days, but heard nothing which might give him comfort, that the profits of his journey would be equal to his pains. At last, it so happened that a shopkeeper there hard by, having noted his fruitless standing, seeing that he neither sold any wares nor asked an alms, w^ent to him, and demanded his business ; to which the pedlar made answer, ' ' That being a countryman , he dreamed a dream that if he came up to London he should hear good news." " And art thou," said the shopkeeper, "such a fool to take a journey on such a foolish errand ? Why, I tell thee, last night I dreamed that I was at Sopham in Norfolk, a place utterly unknown to me, where, metbought, behind a pedlar-house in a certain orchard, and under a great oak tree, if I digged there I should find a mighty mass of treasure. Now, think you that I am so unwise to take so long a journey upon me, only by the instigation of a foolish dream ? No, no, far be such folly from me ; therefore, honest countryman, I shall advise thee to make haste home again, and not to spend thy precious time in the expectations of the event of an idle dream." The pedlar, who noted well his words, and knowing all the things he had said to concentre in himself, glad of such joyful news, went speedily home and digged under the oak, where he found an infinite mass of money, with part of which (the church happening to fall down) he very sumptuously re-edificed the same, having his statue therein to this day, cut out in stone, with his pack at his back and his dog at his heels ; his memory being preserved by the same form or picture in most of the glass windows in taverns and alehouses in that town to this day.
+
+The legend has also been current in Lancashire, and in Cornwall.
+
+The Saturday Ranew of December 28th, 1878, contains an amusing article on dreams, in which the following remarks occur : —
+
+To confess the truth, our thoughts have been turned into this channel by a dream we have lately met with, in faded manuscript, whose interest lies a good deal in the teller and the scene in which it was told. Recalling the saying quoted by distinguished authority that in the days of Whately and his noted compeers the Common Room of Oriel "stank of logic," it is pleasant to find that those high-strung spirits did sometimes unbend, and that the atmosphere was occasionally freshened by topics within the scope and interest of meaner intelligences. The story is headed " A Dream told by Mr. Whately in Oriel Common Room." If it has ever found its way into print, we can only say we never saw it there, though there is a family likeness in all dreams that deal with hidden treasure. A cobbler in Somersetshire dreamt that a person told him that if he would go to London Bridge he would meet with something to his advantage. He dreamt the same the next night, and again the night after. He then determined to go to London Bridge, and walked thither accordingly. When arrived there, he walked about the whole of the first day without anything occurring ; the next day was passed in a similar manner. He resumed his place the third day, and walked about till evening, when, giving it up as hopeless, he determined to leave London and return home. At this moment a stranger came up and said to him : " I have seen you for the last three days walking up and down this bridge ; may I ask if you are waiting for anyone?" The answer was "No." "Then what is your object in staying here?" The cobbler then frankly told his reason for being there, and the dream that had visited him three successive nights. The stranger then advised him to go home again to his work, and no more pay any attention to dreams. "I myself," he said, "had about six months ago a dream. I dreamt three nights together that, if I would go into Somersetshire, in an orchard, under an apple tree, I should find a pot of gold ; but I paid no attention to my dream, and have remained quietly at my business." It immediately occurred to the cobbler that the stranger described his own orchard and his own apple tree. He immediately returned home, dug under the apple tree, and found a pot of gold. After this increase of fortune he was enabled to send his son to school, where the boy learnt Latin. When he came home for the holidays, he one day examined the pot which had contained the gold, on which was some writing. He said, " Father, I can show you what I have learnt at school is of some use." He then translated the Latin inscription on the pot thus : "Look under, and you will find better." They did look under, and a larger quantity of gold was found. As the story is a good one, it would be pleasant to fancy it could possibly be true. '
+
+It would be a very hard task to reconcile the truth and edification of this quaint narrative, which at least from the thirteenth to the nineteenth centuries has amused divers and diverse generations of men
+
+The Antiquary
+https://archive.org/details/antiquary12slsniala/page/120/mode/2up Vol. XII (July-December, 1885), September, 1885, pp. 121-2
+
+The Pedlar of Swaffham
+
+PERHAPS you will allow me to add a Yorkshire version of the legend of the Chapman of Swaffham.
+
+T' LEEALHOLM CHAP'S LUCKY DREEAM ; OR, AN AWD THING RENEW'D.
+
+Yah Kessenmas neet, or then aboot, When meeasons all wor frozzen oot, Ah went te see a cuntry frinnd, An hospitubbel hoor te spinnd. Fer gains Ah cut across o' t' moor, Whoor t' snaw seea furosly did stour
+
+T' hoos Ah geeand, an' cnter'd in,
+
+An' wer az welcome az a king.
+
+T' storm ageean t' awd winder patter'd,
+
+An' t' hailsteeans doon t' chimber clatter'd ;
+
+All hands wer in, an' seeam'd content,
+
+An' neean did frost er snaw lament.
+
+T" lasses all wer at ther sewin",
+
+Ther cheeaks wi' hilth an' beauty glowin'.
+
+Aroond t' looa heearth, i' cheerful chat,
+
+Tweea 'r three frinndly nighbers sat ;
+
+Ther travils tellin', — whare tha'd been,
+
+An' what tha hed beeath heeard an' seen ;
+
+Tell yan uz all did mitch amuse,
+
+An' thus a stooary introduce.
+
+"Ah rickollect lang sahn," sezhe,
+
+' ' A stooary 'at wer telt te me,
+
+'At seeams seea strange i' this oor day,
+
+That trew or fause Ah cannut say.
+
+A man liv'd i' this nighberhud,
+
+Neea doot ov reputashin gud,
+
+An' lang tahm straahve wi' stiddy care,
+
+Te keep hiz hooshod i' repair.
+
+At length he hed a euros dream,
+
+(Fer three neets runnin' 't wer all t' seeam,)
+
+'At if on Lunnon Brigg he stud,
+
+He'd hear sum news wad deea him gud.
+
+He laber'd hard beeath neel an' day,
+
+Tryin' te drahve thooas thowts away,
+
+Bud daily grew mair discontent,
+
+Till he at last te Lunnon went.
+
+Bein' quite a stranger te that toon,
+
+Lang tahm he wanner'd oop an' doon,
+
+Tell led biv sum mysterous hand,
+
+On Lunnon Brigg he teeak hiz stand ;
+
+An' just wer boon te cum away,
+
+Seea mitch he thowt he wer te bleeam,
+
+Te gan' seea far aboot a dreeam,
+
+When thus a chap, as he drew near,
+
+Did ax, 'Good friend, what seek you here,
+
+Where I have seen you soon and late ? '
+
+Hiz dreeam liv him he did relate.
+
+' Dreams,' sez the man, ' are empty things,
+
+Mere thoughts that flit on silver'd wings ;
+
+Unheeded we should let them pass.
+
+I've had a dream, and thus it was :
+
+That somewhere round this peopled ball.
+
+There 'z such a place as Lealholm Hall.
+
+Yet, whether such a place there be
+
+Or not, is all unknown to me.
+
+There, 'neath a cellar dark and deep,
+
+Where slimy creatures nightly creep,
+
+And human footsteps never tread,
+
+There is a store of treasure hid.
+
+If it be so, I have no doubt
+
+Some lucky wight will find it out :
+
+Yet true or false is nought to me,
+
+For I shall ne'er go there to see ! '
+
+Oor Leealholm frinnd did twice er thrice
+
+Thenk t' cockney chap fer hiz advice ;
+
+Then heeam ageean withoot delay,
+
+He cheerfully did tak hiz way.
+
+Settin' aboot hiz wark he sped,
+
+Fund ivvery thing az t' man hed sed ;
+
+Wer invor efter seen te florrish,
+
+T' fahnest gentleman i' t' parish.  
+Fooaks wunner'd sair, an' weel tha meet,  
+Whare he gat all hiz ginnees breet !  
+If it wer trew, i' spite o' feeam,  
+It wer te him a lucky dreeam ! "
+
+This will be found in *Poems in the North Yorkshire Dialect*, by the late John Castillo, Stokesley, 1878. William E. A. Axon
+
+
+The Antiquary, Vol. XV (January-June, 1887), [January, 1887](https://archive.org/details/antiquary15slsniala/page/44/mode/2up), pp. 45-48
+
+The Pedlar of Swaffham.
+
+SOME time ago a full account of this tradition was given in the Antiquary,`[Vol. x., pp. 182, 202 ; xi., p. 167; xii., p. 121.]` and Mr. Gomme referred to a paper by Professor Cowell, before the Cambridge Antiquarian Society, on the same subject, in which interesting variants were cited from Dort, in Holland, and also from the Persian poem of the Masnavi. I have not had the pleasure of reading Professor Cowell's remarks, and I do not therefore know whether he has noticed any of the stories I am about to refer to. But even if they are mentioned by him, I have thought that, as the Communications of the learned society in question are inaccessible to a large number of the readers of the Antiquary, it may not be an altogether superfluous labour to add a few more instances to those which have already appeared in these pages. The best known version of the tale is found in the History of Prince Zeyn Aiasnam and the King of the Genii, one of those delightful narratives which Galland inserted — no one knows whence — in his translation of the Arabian Nights, but which are not found in any of the Eastern manuscripts. The Prince, it will be remembered, having dis- sipated his wealth, had fallen into profound melancholy, when one night an old man appeared to him in a dream, and directed him, if he wished to see the end of his affliction, to visit Cairo, where good fortune attended him. Upon the faith of this dream, and in spite of his mother's ridicule, he set out without delay, and on arriving, worn out with his journey, he alighted at the door of a mosque and fell asleep. Again the old man appeared to him, and, declaring himself satisfied with his courage and firmness, commanded him to return to his palace at Balsora, where he would find immense riches, such as no king had ever possessed. Greatly chagrined, the Prince betook himself again to his home, and the night following his arrival the vision was again repeated. The phantom instructed him to take a pickaxe, and dig in the cabinet of the deceased king, his father, where he would discover a treasure. His confidence was revived; he obeyed the instructions, and not only obtained surprising riches, but ultimately, as we know, a wife of perfect beauty and unsullied virtue.
+
+This story reeks with too true an aroma of Oriental imagination to have been the invention of M. Galland. The comparatively commonplace adventure of the Chapman of Swaffham is here enshrined in the glory we are used to find surrounding the good Haroun Alraschid, his compeers, and their doings. But there is another version of the tale undoubtedly found in the manuscripts of the Nights, which in the manner of its telling bears a greater affinity to our own traditions. We are told that a wealthy man of Baghdad who had become poor was one night directed in a dream, " Verily thy fortune is in Cairo ; go thither, and seek it." So he set out, and on arriving there he, too, lay down to sleep in a mosque. During the night some robbers entered through the mosque into an adjoining house ; but an alarm being given they escaped, and the Chief of Police finding our hero asleep in the sacred building laid hold of him, beat him, and cast him into gaoL After three days the Wali sent for him to question him ; and when he learnt whence he came, and what had brought him to Cairo, he burst out laughing and replied, " O man of little wit, thrice have I seen in a dream one who said to me : ' There is in Baghdad a house in such a district and of such a fashion, and its courtyard is laid out gardenwise, at the lower end whereof is a jetting fountain, and under the same a great sum of money lieth buried. Go thither and take it.' Yet I went not ; but thou, of the briefness of thy wit, hast journeyed from place to place on the faith of a dream, which was but an idle galimatias of sleep." And taking compassion on him the Wali gave the poor fellow money to take him home again. Homeward he accordingly went, and found the gold in the situation described by the Wali, which was in his own garden. `[Burton's Arabian Nights, vol. iv., p. 289. Lane's translation, vol. ii., p. 514, ed. 1840 ; p. 460, ed. 1883. In a note Lane mentions that the same anecdote is related by an Arabic writer of the reign of El-Mamoon, son of Haroun Alraschid, who died a.d. 835 ; and the editor of the last edition adds that he has also found it in another Oriental MS. in Mr. Lane's possession, " with the difference that it is there related of an Egyptian saint who travelled to Baghdad, and was, in the same manner as above described, directed to his house in El-Fustat." Just the converse of the story in the text.]`
+
+It will here be seen that, making allowance for the difference of circumstances, the Wali's address to the man of Baghdad is, in tone and substance, a complete parallel with that of the London shopkeeper's advice to the pedlar. But the expression made use of by the apparition, " Verily thy fortune is in Cairo," is much more striking than the simple prediction of "joyful news." This phrase is perhaps tinged with Mohammedan fatalism, and its reappearance in the variant I am about to cite from Palermo may indicate a direct importation of the story by the Saracen conquerors of Sicily. It is related that there was at Palermo a man who gained his living by pickling tunny, and selling it on the Piazza di Ballaro. Three nights successively he dreamed that one appeared to him and said, " Dost thou wish to find thy fortune (sorte) ? Go beneath the bridge of the Teste and thou shalt find it." After the third occasion he goes to the spot, and beneath the bridge he sees a man all in rags, but being frightened he retires. The other, however, calls him back, discloses himself as his fortune, and orders him to look that night at midnight at the place where he has put the barrels of tunny :
+
+" There dig, descend, and that which thou shalt find is thine." The tunny-seller in compliance with this instruction procures a pickaxe, and at midnight he begins to dig. Lifting a large flat stone he finds a staircase, and at the bottom " a magazine all full of golden money, and then jars and pots of alchymy and cheese-horses of gold." He becomes so rich that he lends the King of Spain " a million " to enable him to carry on his wars. The King in return makes him Viceroy of Sicily with plenary powers, and, being unable to repay the money, ultimately raises him to the dignities of prince and duke. The details of this part of the story do not concern us here. `[G. Pitre, Fiabe Novelle e Racconti Popolari Siciliani, vol. iv., p. 11.]` Dr. Pitre, from whose admirable collection of Sicilian folk-lore I take the legend, states that it is very well known throughout the island. This is not unnatural, seeing that it has become attached to the noble family of the Pignatelli, who claim descent from the lucky seller of pickled tunny.
+
+Denmark boasts two traditions of a similar character ; one of these is located at Tanslet, on the island of Alsen, and the other at Erritso, near Fredericia. The latter is given at length by Thorpe, in his Northern Mythology. It is to this effect : Many years ago a very poor man, living at Erritso, said, one day, " If I had a large sum of money, I would build a church for the parish." The following night he dreamed that if he went to the south bridge at Veile he would make his fortune. He took the hint ; but walked to and fro on the bridge until it grew late, without seeing any sign of good fortune. Just as he was about to leave an officer accosted him, inquiring why he had spent the whole day on the bridge. On telling his dream the officer replied that he had also dreamed, the same night, that in a barn at Erritso, belonging to a certain man, a treasure lay buried. The name he mentioned was the man's own. The latter kept his counsel, hastened home, found the treasure, and built the church, `[Thorpe, vol. ii., p. 253, from Danmark,s Folkesagn samlede of J. M. Thiele, 2 vols. Copenhagen, 1843.]`
+
+The building of Dundonald Castle, in Ayrshire, formerly the seat of King Robert II. of Scotland, is connected with a similar legend. The traditional name of the builder is Donald Din, of whom the following rhyme is current :
+
+Donald Din Built his house without a pin.
+
+This alludes to the belief that the castle was constructed entirely of stone, without the use of wood. Donald, originally poor, " dreamed thrice in one night that if he were to go to London Bridge he would become a wealthy man. He went accordingly, saw a man looking over the parapet of the bridge, whom he accosted courteously, and, after a little conversation, intrusted with the secret of the occasion of his visiting London Bridge. The stranger told him that he had made a very foolish errand, for he himself had once had a similar vision, which directed him to go to a certain spot in Ayrshire, in Scotland, where he would find a vast treasure, and, for his part, he had never once thought of obeying the injunction. From his description of the spot, the sly Scotsman at once perceived that the treasure in question must be concealed in no other place than his own humble kailyard at home, to which he immediately repaired, in full expectation of finding it. Nor was he disappointed, for, after destroying many good and promising cabbages, and completely cracking credit with his wife, who esteemed him mad, he found a large potful of gold coin, with the proceeds of which he built a stout castle for himself, and became the founder of a flourishing family." `[R. Chambers, Popular Rhymes of Scotland, p. 236.]` This narrative seems to have taken its present shape in modern and peaceable times, when it had become possible, not only to found a family by means of money, but also to travel to London and back with ease. Robert Chambers, in recording the story, notes further that it "is localized in almost every district of Scotland, *always referring to London Bridge*" for which he assigns the reason that " the fame of Queen Maud's singular erection seems to have reached this remote country at a very early period." But is this the real reason ? Of this more anon.
+
+I was at first inclined to think the Ayrshire peasant's outspoken wife a modern and occidental embellishment, similar to the mention of London Bridge. This hasty conclusion is, however, not in accordance with fact ; for we find that Donald Din's good lady's temper was far from being an unknown thing among an Asiatic and polygamous race at the time when the Turkish History of the Forty Vezirs (or the original Arabic, whence it professes to be adapted) was written. The tale in question is not, indeed, found in the oldest copies of that work, which date back probably to the early part of the fifteenth century. But then these copies are confessedly imperfect ; and after all, unjust conjugal depreciation is a common human experience. The Turkish compiler, at any rate, tells the tale with pointed humour. A water-seller of Cairo gives to his only son's teacher the camel wherewith he carried on his trade as the only fitting recompense for teaching the boy to read the Koran — so great was his respect for that sacred book. Whereupon his wife upbraids him with indescribable clamour for his lavishness in thus reducing himself and his family to want : " Out on thee, husband ! art thou mad ? Where are thy senses gone ?" Nu'man bows his head before the storm, and in his distress falls asleep. A white-bearded, radiant elder appears to him in a dream, and says : " O Nu'man, thy portion is in Damascus ; go, take it." This is thrice repeated, and the hero determines to obey, in spite of his wife's opposition, arising from her fear that he means to desert her because of her complaints. On reaching Damascus he seeks, as usual, a mosque, and receives from a man who has been baking a loaf of new bread. He eats it, and again sleeps, when the elder once more comes to him in a vision and directs him to return — he has received his portion. Not altogether content, he goes back to his home and meets with that reception from his wife which he doubtless expected : "Out on thee, husband ! thou art become mad ; thou art a worthless man. Had thy senses been in thy head, thou hadst not given away our camel, the source of our support, and left us thus friendless and hungry and thirsty ; not a day but thou doest some mad thing." Nu'man's heart was broken by the weariness of the road and the complaining of the woman. But the Friend of Woe comes to his assistance a third time ; and the elder appears thrice again in dreams to him, bidding him dig close by him : his provision is there. As might be supposed, his wife's bitter tongue is again loosened when he takes a pickaxe and shovel and begins to comply with this order. She mocks him and is deaf to his appeals for help, until at length he comes upon a marble slab. Then " the woman saw the marble, and saying in herself, ' This is not empty,' she asked the pickaxe from Nu'man. Nu'man said, ' Have patience a little longer.' The woman said, 'Thou art weary.' Nu'man replied, ' Now I am rested.' Quoth the woman, ' I am sorry for thee ; thou dost not know kindness.'" In the end Nu'man uncovers a well, into which descending he finds a royal vase full of sequins. Thereupon his wife throws her arms around his neck, crying out, " O my noble little husband ! Blessed be God for thy luck and thy fortune !" Her tone changes, however, when Nu'man announces his intention of carrying the treasure to the King, and only asking for a bare subsistence ; but he goes, notwithstanding. The King orders the money to be examined, and it is found to be superscribed : " This is an alms from before God to Nu'man, by reason of his respect towards the Koran." `[E. J. W. Gibb's translation of *The History of the Forty Vezirs*, p. 278. Mr. Gibb, it is understood, proposes to translate another Turkish work dating from the end of the last century, containing another version of the story.]`
+
+In outline this tale approaches more nearly than any other with which I am acquainted to the History ofZeyn Alasnam. Its religious motif is not unlike that of many European narratives of hidden treasure, though it is not usual in those belonging to the present group. The Danish legend cited above is, however, an example. One difference between the Eastern and European variants should be noticed. An Oriental naturally resorts first to a mosque on his arrival in a foreign city ; and therefore it is easy to understand why the vision or adventure causing the hero's return to his house should be connected with the sacred edifice. But wherefore should a bridge be the spot selected for the corresponding incident in Western story ? Not having seen Professor Cowell's paper, I do not know the details of the legend of Dort ; but it is certainly very curious that, so far as they have been recorded, all the other European variants refer to a bridge as the place where the lucky man is to find his fortune, or to hear joyful news. `[Since the above was written, Mr. W. A. Clouston has kindly sent me a transcript of the Dort legend. It also refers to a bridge. Mr. Clouston has also favoured me with an extract from a tale by Musseus, a German novelist of the last century, entitled The Grateful Ghost, embodying a similar legend, the scene of which is laid at Bremen. This points to some German variant as yet untraced.]` In England and Scotland it is almost, if not quite, always London Bridge ; in other countries other and perhaps less remarkable bridges are chosen. A search for some earlier version in the West would perhaps result in the discovery of an explanation for this. Meantime it may not be out of place to remark that in the traditions of many nations the genius of Fate or Fortune is connected with the water. The Teutonic Norns will be in everyone's mind ; but even more unmistakable examples are common, particularly in Sicilian folk-lore.
+
+None of the foregoing variants include the incident of the discovery of the second pot of gold in consequence of the inscription on the first. Chambers gives this as a separate story, mentioning it vaguely as coming from the south of Scotland. In this case the first pot was found in digging after a thricerepeated dream ; but it was empty. The characters encircling its rim were deciphered years afterwards by a pedlar, and the second pot, of course, amply compensated for the previous disappointment. It is easy to believe that this incident really belongs to another and a different tale of a treasure revealed in a dream. Such tales are numerous enough. The peculiarity of " The Pedlar of Swaff ham " and its congeners is, that the hero is directed to go to a distant place, and then sent back to his starting-point to unearth the hoard. This circuitous mode of procedure is explained only in the History of Zeyn Alasnam, which may, therefore, in spite of its literary trappings, really represent a more primitive form than the popular versions. From this point of view it would be specially interesting to have before us the ancient version mentioned by Lane in a note referred to on a previous page.
+
+E. Sidney Hartland.
