@@ -9,6 +9,7 @@ parts:
   - file: knight-york-fish-ring
   - file: three-heads-well
   - file: twa-sisters-binnorie
+  - file: pedlar-of-swaffham
 - caption: As Found in "The Royal Hibernian Tales"
   chapters:
   - file: hudden_dudden
