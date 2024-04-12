@@ -635,11 +635,14 @@ it A En on b cha you nl
 condu vt me do it.
 ```
 
-```{admonition}
+```{admonition} In Burton, Arabian Nights, 1885?
 :class: dropdown
-A plain and literal translation of the Arabian nights entertainments, now entitled The book of the thousand nights and a night
-by Burton, Richard Francis, Sir, 1821-1890
 
+https://archive.org/details/arabiantranslat04burtuoft/page/288/mode/2up
+
+A plain and literal translation of the Arabian nights entertainments, now entitled The book of the thousand nights and a night
+by Burton, Richard Francis, Sir, 1821-1890 vol IV,
+1885?
 pp. 289-90
 
 THE RUINED MAN WHO BECAME RICH AGAIN THROUGH A DREAM. `[The tale is told by Al-Ishaki in the reign of Al-Maamun.]`
