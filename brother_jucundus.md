@@ -355,7 +355,7 @@ The Abbot came up frowning to the spot,
 And asked Jucundus very sternly, "How  
 "He dared behave so;" Ju said, "Go to pot!  
 "Old boy, it's no use kicking up a row,  
-"But if you're game, come on, I'll take the lot!"
+"But if you're game, come on, I'll take the lot!"  
 With this address he doubled up his fist,  
 Aim'd at the Abbot's head a blow, and— missed.
 
@@ -456,7 +456,8 @@ I'll give the third count in the same words as he did.
 "*Tertio et ultimo*,—you are accused  
 "Of having unlawfully mocked and abused  
 "The Lord Abbot, and likewise most shamefully used,  
-"Assaulted, maltreated, beat, battered, and bruised "Brother Cuthbert, whereby  
+"Assaulted, maltreated, beat, battered, and bruised  
+"Brother Cuthbert, whereby  
 "You have blackened his eye."  
 Here Jucundus' dander, as Yankees say, "riz,"  
 And he answered, "Twas he that first damaged my phiz."  
@@ -541,7 +542,7 @@ He at once began praying
 To all the saints, saying,  
 "*Mea culpa — peccavi*," with lots of "*ora*"-ing;  
 *Nota bene*, don't take the above for "huzza"-ing.  
-He didn't sufficiently like his position,
+He didn't sufficiently like his position,  
 To give vent to that species of ebullition;  
 He cried "*miserere*,"  
 Until he grew weary,  
@@ -630,7 +631,7 @@ He went stealthily over and joined the last few
 Who were leaving the chapel, and none of them knew  
 That a stranger had joined them, because he was dressed,  
 As I've just now informed you, the same as the rest;  
-Or if any one saw him no questions were pressed:
+Or if any one saw him no questions were pressed:  
 For the convent in which  
 He had happened to pitch,  
 Was the "Dumb Brotherhood's," as no doubt you have guessed.
@@ -799,7 +800,7 @@ Is dangerous, so they
 Determin'd not even to wait till next day,  
 But that evening to break  
 The vault open, and take  
-Out his "canonised bones," and hold what's called a "wake."
+Out his "canonised bones," and hold what's called a "wake."  
 That is, watch 'em all night  
 By the bright taper's light  
 (In Ireland they usually end with a fight).
@@ -848,7 +849,7 @@ Being certainly less than his love of loquacity:
 "I committed a sin, brothers, two years ago,  
 "For which I was punished as all of you know,  
 "But my penitence being both great and sincere  
-"I resign'd myself to it without any fear,
+"I resign'd myself to it without any fear,  
 "And while counting my beads felt a drowsiness creep  
 "Over me, so that I soon fell asleep.
 
@@ -882,7 +883,7 @@ Laid the whole matter before the consistory;
 They, deeming a man who could live in a wall  
 For two years without eating or drinking at all,  
 And who never felt hungry, or weary, or faint,  
-Must be very holy,-soon made him a saint.
+Must be very holy,-soon made him a saint.  
 If you wish to know more of his life, you must look  
 In the "*Vita Sanctorum*,"—I haven't the book.
 
