@@ -10,7 +10,12 @@ Oral collections of the song also continued well into the 20th century, with [Jo
 
 The gist of the tale, combining elements from several versions of the ballad collated by Child, is as follows:
 
+> Sir William came visiting to meet his friend Sir Hugh, and was much taken by Sir Hugh's elder sister, the dark haired and sultry Lady Helen. He wooed her, and gave her gifts, a penknife and a brooch. But as the days passed, he found his straying, to Lady Helen's younger sister, the fair and innocent Lady Isobel. Helen was not amused, and suggested to her sister they go down to the estuary see their fathers boats come on. The younger sister went towards the bank, but her sister hit her from behind, pushed her into the water. The younger sister reached out for help — "please, take my hand" but the response was curt — "I will not take the hand of one who took everything from me". "Please, please help me, you may have my half of our father's fortune. Please take my hand". "I will be heir to all his fortune when you are dead. And may the hand that took my lover from me." "Oh please take my hand, I will forsake sweet William, and never speak to another man." But Helen walked away, and the youger sister was carried downstream, now sinking, now floating. Down river,  a miller's daughter, dressed simply, was fetching water from the mill-stream, when she called out to her father - "Oh father, stop the mill wheel, there is a swan caught in the flow - not a swan, a mermaid.. oh, father, not a mermaid..." The wheel was stopped, hooked by her golden girdle, dragged out, and placed on the bank. With fair jewels in her hair and rich rings on her fingers, a dress of silk, her fair face, now pale and grey. A passing harper saw the sight, was taken by how beautiful she mush have been, but he had places to be, and left the miller and daughter to attend to the body. And attend to it they did...
+>
+> Some while later, the harper passed that way again, heading up-river to play at a wedding, the daughter of a local Lord. He noticed the mill-owner's daughter, dressed finely, as he passed, then, a little further up the way, a break in the hedgerow, a strip of fine cloth, from a riped golden girdle. He peered through the break — a pile of bones, long strands of golden hair.
+>
 > TO DO
+
 
 ```{admonition} In Joseph Jacobs, *English Fairy Tales*, 1890
 :class: dropdown
@@ -1124,7 +1129,7 @@ And you shall be heir of all my land.
 
 D. ' The Bonnie Milldams of Binnorie,' Kinloch MSS, II, 49.
 
-```{admonition}
+```{admonition} Child D, Kinloch's MSS
 :class: dropdown
 
 Kinloch's MSS, II, 49. From the recitation of Mrs Johnston, a North-country lady.
