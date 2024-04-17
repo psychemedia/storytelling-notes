@@ -1,4 +1,4 @@
-# LLewelyn and Gelert
+# Llewelyn and Gelert
 
 https://archive.org/details/interestinganecd00brow/page/146/mode/1up?q=llewellyn+gelert
 Interesting anecdotes of the animal kingdom classified as to species
@@ -68,14 +68,13 @@ It occurs in the Seven Wise Masters, and in the "Calumnia Novercalis" as well, s
 
 In this ancient Indian book the story runs as follows : —
 
-A Brahmin named Devasaman had a wife, who gave birth to a son, and also to an ichneumon. She loved both her children dearly, giving them alike the breast, and anointing them alike with salves. But she feared the ichneumon might not love his brother. 
+A Brahmin named Devasaman had a wife, who gave birth to a son, and also to an ichneumon. She loved both her children dearly, giving them alike the breast, and anointing them alike with salves. But she feared the ichneumon might not love his brother.
 
 One day, having laid her boy in bed, she took up the water jar, and said to her husband, " Hear me, master ! I am going to the tank to fetch water. Whilst I am absent watch the boy, lest he gets injured by the ichneumon." After she had left the house, the Brahmin went forth begging, leaving the house empty. In crept a black snake, and attempted to bite the child ; but the ichneumon rushed at it, and tore it in pieces. Then proud of its achievement, it sallied forth, all bloody, to meet its mother. She, seeing the creature stained with blood, concluded, with feminine precipitance, that it had fallen on the baby and killed it, and she flung her water jar at it and slew it. Only on her return home did she ascertain her mistake.
 
 The same story is also told in the Hitopadesa (iv. 13), but the animal is an otter, not an ichneumon. In the Arabic version a weasel takes the place of the ichneumon.
 
-The Buddist missionaries carried the story int Mongolia, and in the Mongolian Uligerun, which is a translation of the Tibetian Dsanghen, the story reappears with the pole-cat as the brave and 
-suffering defender of the child.
+The Buddist missionaries carried the story int Mongolia, and in the Mongolian Uligerun, which is a translation of the Tibetian Dsanghen, the story reappears with the pole-cat as the brave and suffering defender of the child.
 
 Stanislaus Julien, the great Chinese scholar, has discovered the same *tale in the Chinese work entitled, " The Forest of Pearls from the Garden of the Law." This work dates from 668 ; and in it the creature is an ichneumon.
 
@@ -87,7 +86,7 @@ But every story has its root. The root of the Gellert tale is this : A man forms
 
 We have tracked this myth under the Gellert form from India to Wales ; but under another form it is the property of the whole Aryan family, and forms a portion of the traditional lore of all nations sprung from that stock.
 
-Thence arose the classic fable of the peasant, who, as he slept, was bitten by a fly. He awoke, and in a rage killed the insect. When too late he observed that the little creature had aroused him, that he might avoid a snake which lay coiled up near his pillow. 
+Thence arose the classic fable of the peasant, who, as he slept, was bitten by a fly. He awoke, and in a rage killed the insect. When too late he observed that the little creature had aroused him, that he might avoid a snake which lay coiled up near his pillow.
 
 In the Anvar-i-Suhaili is the following kindred tale. A king had a falcon. One day, whilst hunting, he filled a goblet with water dropping from a rock. As he put the vessel to his lips, his falcon dashed upon it, and upset it with its wings. The king, in a fury, slew the bird, and then discovered that the water dripped from the jaws of a serpent of the most poisonous description.
 
@@ -117,7 +116,7 @@ It was told in the Gesta Romanorum six hundred years ago, and it was told, may b
 ---
 
 
-https://archive.org/details/populartalesand00unkngoog/page/166/mode/2up?
+https://archive.org/details/populartalesand00unkngoog/page/166/mode/2up
 Popular tales and fictions, their migrations and transformations
 by Clouston, W. A. (William Alexander), 1843-1896
 
@@ -125,58 +124,56 @@ Publication date 1887
 
 p166-186
 
-LLEWELLYN AND HIS DOQ GELLERT, OR KILLHART.
+LLEWELLYN AND HIS DOG GELLERT, OR KILLHART.
 
 In his 'Curious Myths of the Middle Ages', Mr Baring-Gould has conclusively shown that the tradition of Llewellyn and his faithful hound — so glibly related to credulous tourists in North Wales by the officious guides, who show, moreover, the very grave of the dog Gellert, or Killhart — has no more foundation in fact than the story of William Tell's shooting at an apple on his son's head. I purpose, in the present paper, going somewhat more fully into the literary history of this widely-diffused tale, tracing it, if not to its original, at least to an older form than is referred to in Mr Baring-Qould's useful and interesting work.
 
-The Bog Odlert.
+The Dog Gellert.
 
 " There is a general tradition in North Wales," says Edward Jones, in his 'Musical Belies of the Welsh Bards,' vol. i., " that a wolf had entered the house of Prince Llewellyn. Soon after, the prince returned home, and going into the nursery, he met his dog Killhart all bloody and wagging his tail at him. Prince Llewellyn, on entering the room, found the cradle where his chUd lay overturned and the floor strewed ¥rith blood. Imagining that the greyhound had killed the child, he immediately drew his sword and stabbed it ; then turning up the cradle, found under it the chUd alive, and the wolf dead. This so grieved the prince that he erected a tomb over the faithful dog's grave, where afterwards the parish church was built, and goes by the name Bedd Gelbart (the Grave of Killhart), in Caernarvonshire. From this incident is derived a very common Welsh proverb, 'I repent as much as the man who slew his greyhound.' Prince Llewellyn ab Jowerth," adds our author, "married Joan, a daughter of King John, by Agatha, daughter of Bobert Ferrers, Earl of Derby, and this dog was a present to the prince from his father-in-law, about the year 1205." ^
 
-^ The legend of GeUert has been finely versified by Mr Spenoer : when UeweUyn had slain the faithful dog and immediately after discovered his child unhurt —
+```{note}
+The legend of Gellert has been finely versified by Mr Spencer when UeweUyn had slain the faithful dog and immediately after discovered his child unhurt —
 
-Ah, what WM then Llewellyn's pain I
+Ah, what was then Llewellyn's pain ?  
+For now the truth waa clear :  
+The gallant hound the wolf had slain.  
+To save Llewellyn's heir.
 
-For now the truth waa clear : The giUant hound the wolf had elain.
-
-To eave Llewellyn's heir.
-
-Vain, vain was all Llewellyn's woe :
-
-" Best of thy kind, adieu i The fkantie deed which laid thee low
-
+Vain, vain was all Llewellyn's woe :  
+" Best of thy kind, adieu !  
+The frantic deed which laid thee low  
 This heart shall ever me."
 
-And now a gallant tomb they raise,
-
-With oosUy sculpture decked ; And marbles storied with his prsise
-
+And now a gallant tomb they raise,  
+With costly sculpture decked ;  
+And marbles storied with his prsise  
 Poor Gellert's hones protect
 
-Such is the Welsh tradition; but the story was current in Europe, with a snake instead of a wolf, before Prince Llewellyn was presented with his faithful hound It is the first tale in the oldest Latin prose version of *The Seven Wise Masters,' entitled 'Dolopathos; sive, de Eege et Septem Sapientibus,' written by Johannes, a monk of the Abbey of Alta Silva (Dan Jehans of Haute Seille), in France, about the year 1184. Nearly a century previous to that date — circa 1090 — it had existed in ' Syntipas,' a Greek version of the Book of Sindibid, the Eastern prototype of 'The Seven Wise Masters'; and it is probable that it was current orally at a much earlier period. From the Latin * Dolopathos,' or from oral tradition, the story was taken into subsequent versions of the Wise Masters, and also into the *6esta Eomanorum.' ^ It reappears in the * Historia Septem
-
-Here never conld the spearman paas.
-
-Or forester, unmoved ; Here oft the tear^besprinkled gran
-
+Here never conld the spearman pass,  
+Or forester, unmoved ;  
+Here oft the tear-besprinkled grass  
 Llewellyn's sorrow proved.
 
-And here he flung his horn and spear,
+And here he flung his horn and spear,  
+And oft as evening fell,  
+In fancy's piercing sounds would hear  
+Poor Gellert's dying yell.
 
-And oft as evening fell, In fancy's piercing sounds would hear
+```
 
-Poor Gellert's dying yelL
+Such is the Welsh tradition; but the story was current in Europe, with a snake instead of a wolf, before Prince Llewellyn was presented with his faithful hound. It is the first tale in the oldest Latin prose version of 'The Seven Wise Masters,' entitled 'Dolopathos; sive, de Rege et Septem Sapientibus,' written by Johannes, a monk of the Abbey of Alta Silva (Dan Jehans of Haute Seille), in France, about the year 1184. Nearly a century previous to that date — circa 1090 — it had existed in ' Syntipas,' a Greek version of the Book of Sindibid, the Eastern prototype of 'The Seven Wise Masters'; and it is probable that it was current orally at a much earlier period. From the Latin ' Dolopathos,' or from oral tradition, the story was taken into subsequent versions of the Wise Masters, and also into the 'Gesta Romanorum.'
 
-^ The story also occurs in the ' Liber de Donis * of Etienne de Bourbon (No. 370). * * After giving a version of this story, which has become in several places a local legend, Etienne proceeds to say that the dog was considered as a martyr, and its grave was visited by the sick, just like the shrines of wonder-working saints. Sick children especiaUy were brought to the place, and made to pass nine times through an aperture formed in the trunks of two trees growing over the hound's grave, while various pagan rites were performed, and the child was finally left naked at the foot of the tree until two candles an inch long were consumed. Etienne, by virtue of his office as inquisitor
+```{note}
+The story also occurs in the ' Liber de Donis ' of Etienne de Bourbon (No. 370). * * After giving a version of this story, which has become in several places a local legend, Etienne proceeds to say that the dog was considered as a martyr, and its grave was visited by the sick, just like the shrines of wonder-working saints. Sick children especiaUy were brought to the place, and made to pass nine times through an aperture formed in the trunks of two trees growing over the hound's grave, while various pagan rites were performed, and the child was finally left naked at the foot of the tree until two candles an inch long were consumed. Etienne, by virtue of his office as inquisitor [of heresy in the south of France], had the dog exhumed, its bones burnt,, and the grove cut down." — Professor T. F. Crane : 'Mediaeval Sermon-Books and Stories.'
+```
 
-Sapientum Eomse/ from which was derived our English version of the ' History of the Seven Wise Masters of Eome,' first printed by Wynkyn de Worde, about 1505, and reprinted by W. Copland, about 1550. And here I may remark that Sir G. Dasent, following Des Longchamps and others, is in error when he states, in the introduction to his ' Popular Tales from the Norse,* pp. Ixi, Ixii, that the ' Historia Septem Sapientum Bomse ' was derived from the work of Dan Jehans, that is, the Latin ' Dolopathos.' These two works are very different : In ' Dolopathos ' there are eight subordinate stories, seven of which are related by the Wise Masters, and the eighth by the prince's tutor ; in the ' Historia ' there are fifteen stories, seven by the Wise Men, seven by the queen, and one by the prince, and only three of these — the Snake, the King's Treasury, and the Husband Shut Out — ^are found in ' Dolopathos.' Moreover, the ' Historia ' was not composed till after the invention of printing (say, in the latter years of the fifteenth century), while the French 'Boman des Sept Sages,' written about 1284, has all the tales save one which are found in the ' Historia,' and that one does not occur in 'Dolopathos.'
+It reappears in the ' Historia Septem Sapientum Romae' from which was derived our English version of the ' History of the Seven Wise Masters of Rome,' first printed by Wynkyn de Worde, about 1505, and reprinted by W. Copland, about 1550. And here I may remark that Sir G. Dasent, following Des Longchamps and others, is in error when he states, in the introduction to his ' Popular Tales from the Norse,' pp. Ixi, Ixii, that the ' Historia Septem Sapientum Romae ' was derived from the work of Dan Jehans, that is, the Latin ' Dolopathos.' These two works are very different : In ' Dolopathos ' there are eight subordinate stories, seven of which are related by the Wise Masters, and the eighth by the prince's tutor ; in the ' Historia ' there are fifteen stories, seven by the Wise Men, seven by the queen, and one by the prince, and only three of these — the Snake, the King's Treasury, and the Husband Shut Out — are found in ' Dolopathos.' Moreover, the ' Historia ' was not composed till after the invention of printing (say, in the latter years of the fifteenth century), while the French 'Roman des Sept Sages,' written about 1284, has all the tales save one which are found in the ' Historia,' and that one does not occur in 'Dolopathos.'
 
 The story of the Dog and the Snake is thus related in a black-letter copy of the 'Seven Wise Masters,' preserved in the Glasgow University Library :
 
-[of heresy in the south of France], had the dog exhumed, its bones burnt,, and the grove cut down." — Professor T. F. Crane : 'MediteTal Sermon-Books and Stories.'
+*The Knight and the Greyhound.*
 
-The Knight and the Greyhound.
+There was a certain valiant knight which had only one son, the which he loved so much, that he ordained for his keepers three nourishers (i.e., nurses). The first should give him suck, and feed him ; the second should wash him, and keep him clean ; and the third should bring him to his sleep and rest. The knight had also a greyhound and a falcon, which he also loved right well. The greyhound was so good that he never run at any game, but he took it and held it till his master came. And if his master disposed him to go into any battel, if he should not speed therein, anone as he should mount upon his horse, the greyhound would take the horse-tail in his mouth, and draw backward, and would also howl and cry marvellouslie loud. By these signs, and the due observation thereof, the knight did always understand that his journey should have very ill success. The falcon was so gentle and hardy, that he was never cast off to his prey but he took it. The same knight had much pleasure in justing and tourney, so that upon a time under his castle he proclaimed a tournament, to the which came many great lords and knights. The knight entered into the tourney, and his ladie went with her maidens to see it : and as they went out, after went the nourishers, and left the child lying alone there in the cradle in the hall, where the greyhound lay near the wall, and the hawk or falcon standing upon a perch. In this hall there was a serpent lurking, or hid in a hole to all of them in the castle unknown, the which when he perceived that they were all absent; he put his head out of the hole, and when he saw none hut the child lying in the ciadle, he went out of his hole towards the cradle, for to have slain the child. The noble falcon perceiving that, made sach a noise and rustling with her wings presently, that the greyhound awoke and rose up: and when he saw the serpent nigh the child, anone against him he leapt, and they both fought so long together, until that the serpent had grievously hurt and wounded the greyhound, that he bled so sore, that the earth about the cradle was all bloody. The greyhound, when that he felt himself grievously hurt and wounded, starts fiercely upon the serpent, and fought so sore together, and so eagerly, that between them the cradle was overcast with the child, the bottome upward, And because that the cradle had four pomels like feet falling towards the earth, they saved the child's life and his visage from any hurt  What can be more exprest to make good the wonder in the preservation of the child ?  Incontinently thereafter, with great pain the greyhound overcame and slew the serpent, and laid him down again in his place and licked his wounds. And anon after the justs and tumey was done, the nowrishers came first into the castle, and as they saw the cradle turned upside down upon the earth, compassed round about with blood, and that the greyhound was also bloody, they thought and said among themselves that the greyhound had slain the child, and were not so wise as to turn up the cradle again with the child, for to have seen what was thereof befallen ; but they said, Let us run away, lest that our master should put or lay any blame upon us, and so slay us. As they were thus running away, they met the knight's wife, and she said unto them, Wherefore make ye this sorrow, and whither will ye run ? Then said they, O lady, wo and sorrow be to us, and to you. Why, said she, what is there happened ? show me. The greyhound, they said, that our lord and master loved so well, hath devoured and slain your son, and lyeth by the wall all full of blood. As the lady heard this she presently fell to the earth, and began to weep and cry piteously, and said, Alace, O my dear son, are ye slain and dead ? What shall I now do, that I have mine only son thus lost? Wherewithal came in the knight from the tourney, and beholding his lady thus crying and making sorrow, he demanded of her wherefore she made so great sorrow and lamentation. She answered him, O my lord, that greyhound that you have loved so much hath slain your only son, and lyeth by the wall, satiated with the blood of the child. The knight, very exceeding angry, went into the hall, and the greyhound went to meet him, and did fawn upon him, as he was wont to do, and the knight drew out his sword, and with one stroke smote off the greyhound's head, and then went to the cradle where the child lay and found his son all whole, and by the cradle the serpent slain ; and then by diverse signs he perceived that the greyhound had killed the serpent for the defence of the child. Then with great sorrow and weeping he tare his hair, and said, Wo be to me, that for the words of my wife I have slain my good and best greyhound, the which hath saved my child's life, and hath slain the serpent, therefore I will put myself to penance. And so he brake his sword in three pieces, and went towards the Holy Land, and abode all the days of his life.
 
-There was a certain valiant knight which had only one son, the which he loved so much, that he ordained for his keepers three nourishers (i.e., nurses). The first should give him suck, and feed him ; the second should wash him, and keep him clean ; and the third should bring him to his sleep and rest. The knight had also a greyhound and a falcon, which he also loved right well. The greyhound was so good that he never run at any game, but he took it and held it till his master came. And if his master disposed him to go into any battel, if he should not speed therein, anone as he should mount upon his horse, the greyhound would take the horse-tail in his mouth, and draw backward, and would also howl and cry marvellouslie loud. By these signs, and the due observation thereof, the knight did always understand that his journey should have very ill success. The falcon was so gentle and hardy, that he was never cast off to his prey but he took it. The same knight had much pleasure in justing and tourney, so that upon a time under lus castle he proclaimed a tournament, to the which came many great lords and knights. The knight entered into the tourney, and his ladie went with her maidens to see it : and as they went out, after went the nour- ishers, and left the child lying alone there in the cradle in the hall, where the greyhound lay near the wall, and the hawk or falcon standing upon a perch. In this hall there was a serpent lurking, or hid in a hole to all of them in the castle unknown, the which when he perceived that they were all absent; he put his head out of the hole, and when he saw none hut the child lying in the ciadle, he went out of his hole towards the cradle, for to have slain the child. The noble falcon perceiving that, made sach a noise and rustling with her wings presently, that the greyhound awoke and rose up: and when he saw the serpent nigh the child, anone against him he leapt, and they both fought so long together, until that the serpent had grievously hurt and wounded the greyhound, that he bled so sore, that the earth about the cradle was all bloody.  The greyhound, when that he felt himself grievously hurt and wounded, starts fiercely upon the serpent, and fought so sore together, and so eagerly, that between them the cradle was  overcast with the child, the bottome upward  And because that the cradle had four pomels like feet falling towards the earth, they saved the child's life and his visage from any hurt  What can be more exprest to make good the wonder in the preservation of the child ?  Incontinently thereafter, with great pain the greyhound overcame and slew the serpent, and laid him down again in his place and licked his wounds. And anon after the justs and tumey was done, the nowrishers came first into the castle, and as they saw the cradle turned upside down upon the earth, compassed round about with blood, and that the greyhound was also bloody, they thought and said among themselves that the greyhound had slain the child, and were not so wise as to turn up the cradle again with the child, for to have seen what was thereof befallen ; but they said, Let us run away, lest that our master should put or lay any blame upon us, and so slay us. As they were thus running away, they met the knight's wife, and she said unto them, Wherefore make ye this sorrow, and whither will ye run ? Then said they, O lady, wo and sorrow be to us, and to you. Why, said she, what is there happened ? show me. The greyhound, they said, that our lord and master loved so well, hath devoured and slain your son, and lyeth by the wall all full of blood. As the lady heard this she presently fell to the earth, and began to weep and cry piteously, and said, Alace, O my dear son, are ye slain and dead ? What shall I now do, that I have mine only son thus lost? Wherewithal came in the knight from the tourney, and beholding his lady thus crying and making sorrow, he demanded of her wherefore she made so great sorrow and lamentation. She answered him, O my lord, that greyhound that you have loved so much hath slain your only son, and lyeth by the wall, satiated with the blood of the child. The knight, very exceeding angry, went into the hall, and the greyhound went to meet him, and did fawn upon him, as he was wont to do, and the knight drew out his sword, and with one stroke smote off the greyhound's head, and then went to the cradle where the child lay and found his son all whole, and by the cradle the serpent slain ; and then by diverse signs he perceived that the greyhound had killed the serpent for the defence of the child. Then with great sorrow and weeping he tare his hair, and said, Wo be to me, that for the words of my wife I have slain my good and best greyhound, the which hath saved my child's life, and hath slain the serpent, therefore I will put myself to penance. And so he brake his sword in three pieces, and went towards the Holy Land, and abode all the days of his life.
-
-How many generations, "gentle and simple," old and young, have pored over, or listened to, this story of the Enight and his Greyhound ! In the pedlar's pack, among his stock of ballads and chap-books, the 'History of the Seven Wise Masters of Eome' was never wanting; and the reading of it aloud by the " farmer's ingle " has cheered many a winter's night. Gorres, in his ' Folksbuchcr,' bestows extraordinary praise on this Book of the Seven Sages. " It sprang originally," says he, "from the Indian mountains, whence from primeval days it took its course as a little rivulet, and flowed in a westerly direction through Asia's wide field, and, while it proceeded for thousands of years through space and time, always spreading more and more in reaching us. Out of it whole generations and many nations have drank; and, having passed to Europe with the great tide of population, is now also in our day and generation supplied to such a considerable portion of the public, that in regard to its celebrity and the magnitude of its sphere of influence, it reaches the Holy Book, and surpasses all classical ...
+How many generations, "gentle and simple," old and young, have pored over, or listened to, this story of the Knight and his Greyhound ! In the pedlar's pack, among his stock of ballads and chap-books, the 'History of the Seven Wise Masters of Eome' was never wanting; and the reading of it aloud by the " farmer's ingle " has cheered many a winter's night. Gorres, in his ' Folksbuchcr,' bestows extraordinary praise on this Book of the Seven Sages. " It sprang originally," says he, "from the Indian mountains, whence from primeval days it took its course as a little rivulet, and flowed in a westerly direction through Asia's wide field, and, while it proceeded for thousands of years through space and time, always spreading more and more in reaching us. Out of it whole generations and many nations have drank; and, having passed to Europe with the great tide of population, is now also in our day and generation supplied to such a considerable portion of the public, that in regard to its celebrity and the magnitude of its sphere of influence, it reaches the Holy Book, and surpasses all classical ...
