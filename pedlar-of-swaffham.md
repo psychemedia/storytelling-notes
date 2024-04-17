@@ -516,7 +516,7 @@ This will be found in *Poems in the North Yorkshire Dialect*, by the late John C
 
 ```
 
-In January, 1887, we find E. S. Hartland's first communication on the subject, referring to, but not qualifying, a mention of it Cowell's on the topic made by George Gomme. *I've not found a reference to that metntion yet, unless, perhapsm he wrote the otherwise unnamed article on "The Two Pedlar Legends of Lambeth and Swaffham" in The Antiquary of October, 1884?*  Hartland does not appear to have had access to Cowell's paper at this point, and offers several alternatives of the tale, including one in Galland's translation of the Arabian Nights, as well as Scottish and Turkish variants, uncertain as to whether Cowell had described similar variants.
+In January, 1887, we find E. S. Hartland's first communication on the subject, referring to, but not qualifying, a mention of Cowell's paper on the topic made by George Gomme. *I've not found a reference to that Gomme reference yet, unless, perhapsm Gomme was the author of the otherwise uncredited article on "The Two Pedlar Legends of Lambeth and Swaffham" in The Antiquary of October, 1884?*  Hartland does not appear to have had access to Cowell's paper at this point, and offers several alternatives of the tale, including one in Galland's translation of the Arabian Nights, as well as Scottish and Turkish variants, uncertain as to whether Cowell had described similar variants.
 
 ```{admonition} The Pedlar Swaffham, *The Antiquary*, January, 1887
 :class: dropdown
@@ -655,7 +655,7 @@ She said, It hath reached me, O auspicious King, that the Wali gave the Baghdad 
 
 ```
 
-```{admonition} In Lane, *Arabian Nioghts*, vol. 2, 1840
+```{admonition} In Lane, *Arabian Nights*, vol. 2, 1840
 :class: dropdown
 
 https://archive.org/details/thousandandonen01lanegoog/page/514/mode/2up
