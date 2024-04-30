@@ -112,11 +112,10 @@ Under him S. Leonard's jogged along very pleasantly, and he did much in his long
 ```{seealso}
 One way of telling this tale might is to imagine a monastery that has a shared wall with a convent, and then follow through on the comedic potential of that.
 
-I note that also contrsasts with a *Gilbertine order*, where monks and nuns have shared facilities.
+I note that also contrasts with a *Gilbertine order*, where monks and nuns have shared facilities.
 ```
 
-
-Baring-Gould's authority, however, seems to have led to the tale being accepted as legend, with William Andrews' *Yorkshire in olden times* of 1890 citing baring-Gould directly, for example.
+Baring-Gould's authority, however, seems to have led to the tale being accepted as legend, with William Andrews' *Yorkshire in olden times* of 1890 citing Baring-Gould directly, for example.
 
 ```{admonition} In *Yorkshire in olden times*, 1890
 :class: dropdown
@@ -918,3 +917,18 @@ The author, Edward Henry Palmer, republished the poem in 1877 in [*The song of t
 A comprehensive biography of Edward Henry Palmer can be found in *Littell's Living Age*, Fifth Series, Vol. XLIV, No. 2056, -November 17, 1883, [p.390](https://archive.org/details/livingage33littgoog/page/392/mode/2up), which has the following to say about the *Hole in the Wall*:
 
 > The illness which compelled Palmer to give up London had evidently been very serious, and his convalescence was tedious. Nor, when supposed to be well, did he feel any inclination to resume work as a clerk. So he stayed in Cambridge at his aunt's house, with no definite aim in life, but taking up now one thing, now another, after the manner of clever boys when they are at home for the holidays. He did a little literature in the way of burlesques, one of which, '*Ye Hole in ye Walle,*' a legend told after the manner of Ingoldsby, was afterwards published by Messrs. Macmillan; ...
+
+
+For more monkish tales, the following may be of interest:
+
+```{admononition} Fosbroke, manners and customs of British monasticism, 1843
+:class: seealso
+
+Thomas Dudley Fosbroke, [British Monachism: Or, Manners and Customs of the Monks and Nuns of England]() *To which are added ammners ans customs of ancient pilgrims, the consuetudinal of anchorets and hermits, and som accounts of persons who mde vows of chastity*, 1843
+```
+
+A good hagiography might also turn up other interesting tales: maybe something like [The Golden Legend or Lives of the Saints, as englished by William Caxton](https://archive.org/search?query=The+Golden+Legend+or+Lives+of+the+Saints%2C+as+englished+by+William+Caxton&sort=date) (seven vols.).
+
+Heretics might also be interesting? For example, [Nathaniel Lardner, *The historie of the heretics of the two first centuries after Christ: ... To which are prefixed, general observations concerning heretics*](https://archive.org/details/bim_eighteenth-century_the-historie-of-the-here_lardner-nathaniel_1780/), 1780.
+
+I also recall hearing / seeing somewhere, a note that as well as follies in their gardens, the gentry also often quite liked a resident hermit / ornamental hermit in an ornamental hermitage... [Gordon Campbell, *The Hermit in the Garden: From Imperial Rome to Ornamental Gnome*](https://www.cambridge.org/core/journals/journal-of-british-studies/article/abs/gordon-campbell-the-hermit-in-the-garden-from-imperial-rome-to-ornamental-gnome-oxford-oxford-university-press-213-pp-304-2995-cloth/BBAB7E4C6436E7D7B8ED09E93AB23689).
