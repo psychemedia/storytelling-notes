@@ -164,7 +164,7 @@ Butt of his hevyneffe knewe no man,
 His hartt was wonder hevy ;  
 In this hevyneffe he dyd' a-byde,  
 That many of his knyghte m'velyd' that tyde.  
-Tyll att the laft S. Gaweh  
+Tyll att the laft S. Gawen  
 To the kyng he fayd' than,  
 " Syr, me marvaylyth ryght fore,  
 Whate thyng that thou forowyft fore."  
@@ -325,7 +325,7 @@ Butt and' itt be fo, I woll do my labor,
 In favyng of my lyfe to make itt secor,  
 To Gawen woll I make my mone."  
 "Well," fayd' fhe, "nowe go home agayn,  
-And' fayre worde fpeke to S. Gaweh,  
+And' fayre worde fpeke to S. Gawen,  
 For thy lyf? I may faue ;  
 Though I be foull, yett am I gaye,  
 Thourgh me thy lyfe faue he maye,  
@@ -361,186 +361,154 @@ That vnto the kyng thus gan fayn,
 Alas! I am in poynt my felf to fpyll,  
 For nedely I moft be ded'."  
 " Nay," fayd' Gawen, " that may nott be,  
-
-TO DO  
-
 I had' lever my felf be dead', fo mott I the,  
-Thys is itt tydand'."  
-
-" Gawefh, I mett to day with the fowlyft lady  
-
-That ev I fawe, ftenly ;  
+Thys is ill tydand'."  
+" Gawen, I mett to day with the fowlyft lady  
+That ev I fawe, S.tenly ;  
 She fayd' to me my lyfe fhe wold' faue,  
 Butt fyrft fhe wold' the to husbond' haue;  
 Wherfor I aim wo begon,  
 Thus in my hartt I make my mone."  
-" Ys this ait?" theh fayd' Gawef,  
-"1 fhatt wed' her and'? wed' her agayf,  
-Thowgti fhe were a fend' ;  
-Thowgti fhe were as foutt as Belfabub,  
-Her fhatt I wed', by the rood',  
-Or ell€ were not I yo" frende.  
-For ye ar my kyng witti hono',  
+" Ys this all?" theh fayd' Gawen,  
+"I shall wed' her and'? wed' her agayn,  
+Thowgh fhe were a fend' ;  
+Thowgh fhe were as foull as Belfabub,  
+Her fhall I wed', by the rood',  
+Or elle were not I yor frende.  
+For ye ar my kyng with honor,  
 And' haue worfhypt me in many a ftowre,  
-Therfor fhatt I nott lett;  
+Therfor fhall I nott lett;  
 To faue yor lyfe, lord', itt were my parte,  
-Or I were! falfe and' a greatt coward',  
+Or I were `[were I, MS.]` falfe and' a greatt coward',  
 And my worfhypp' is the bett."  
-" I-wys, Gaweh, I mett her in Inglyfwod',  
+" I-wys, Gawen, I mett her in Inglyfwod',  
 She told' me her name, by the rode,  
-That itt was dame Ragnett ;  
+That itt was dame Ragnell ;  
 She told' me butt I had' of her anfwere,  
-Elle alle my laboure is neti the nere,  
-Thus fhe gaf me tett.  
-And butt yf her anfwer' help me wett,  
+Elle alle my laboure is neu the nere,  
+Thus fhe gaf me tell.  
+And butt yf her anfwer' help me well,  
 Elle lett her haue her defyre no dele,  
 This was her coven‘nt ;  
-
 And' yf her anfwere help me, and' none other,  
-Theh wold' fhe haue you, here is alle to-geder,  
-
+Then wold' fhe haue you, here is alle to-geder,  
 That made fhe warraunt."  
-
-" As for this," fayd' Gaweh, " [it] fhatt nott lett,  
-
-I wott wed' her at whate time ye wott fett,  
-
-1 were I, MS.  
-
-[fol. 133.]  
-
-WEDDYNGE OF SYR GAWENE.  
-
+" As for this," fayd' Gawen, " [it] fhall nott lett,  
+I woll wed' her at whate time ye woll fett,  
 I pray you make no care ;  
 For and' fhe were the mofte fowlyft wygit,  
-That et mefi myegiit fe with fygtt,  
-For yo loue I wott nott fpare."  
-" Garam' cy, Gaweii," thefi fayd' kyng Arthor,  
+That eu men myegiit fe with fyght,  
+For yor loue I woll nott fpare."  
+" Garam'cy, Gawen," then fayd' kyng Arthor,  
 " Of alle knygtite thou bereft the flowre,  
-That ev yett I fond';  
+That eu yett I fond';  
 My worfhypp' and' my lyf' thou favyft for eu,  
-Therfore my loue fhait nott frome the dyffevyr,  
+Therfore my loue fhall nott frome the dyffevyr,  
 As I am kyng in lond'."  
-Thef within v. or vj. days,  
+Then within v. or vj. days,  
 The kyng muft nedys goo his ways,  
 To bere his anfwere ;  
-The kyng and' f Gawefi rode oute of touf,  
-No maf with them, butt they alone,  
+The kyng and' S. Gawen rode oute of toun,  
+No man with them, butt they alone,  
 Neder ferre ne nere.  
-Whefi the kyng was witti in the Foreft,—  
-"< Syr Gaweii, fareweit, I muft go weft,  
+Whefi the kyng was with in the Foreft,—  
+" Syr Gawen, farewell, I muft go weft,  
 Thou fhalt no furder goo;"  
-" My lord', God' fpede you oft yor jorney,  
-I wold' I fhold' nowe ryde yo" way,  
-For to departe I am rygtit wo."  
-The kyng had' ryddeii butt a while,  
-Lytett more thef the fpace of a myle,  
-Or he mett dame Ragneit ;—  
-"A, £ kyng, ye arre nowe welcii here,  
-I wott ye ryde to bere yo" anfwere,  
-That woit avaytt you no dele."  
-Nowe fayd' the kyng, " fith itt woit none other be,  
-Tell me yo" anfwere nowe, and' my lyfe faue me,  
-Gawefi fhatt you wed';  
+" My lord', God' fpede you on yor jorney,  
+I wold' I fhold' nowe ryde yor way,  
+For to departe I am ryght wo."  
+The kyng had' rydden butt a while,  
+Lytell more then the fpace of a myle,  
+Or he mett dame Ragnell ;—  
+"A, S. kyng, ye arre nowe welcu here,  
+I wott ye ryde to bere yor anfwere,  
+That woll avayll you no dele."  
+Nowe fayd' the kyng, " fith itt woll none other be,  
+Tell me yor anfwere nowe, and' my lyfe faue me,  
+Gawen fhall you wed';  
 So he hath pmyfed' me my lyf' to faue,  
-And' yor defyre nowe fhatt ye haue,  
+And' yor defyre nowe fhall ye haue,  
 Both in bowre and' in bed'.  
-Therfore tett me nowe alle in haft,  
-Whate wott help now att laft,  
-
-
-WEDDYNGE OF SYR GAWENE.  
-
+Therfore tell me nowe alle in haft,  
+Whate woll help now att laft,  
 Haue done, I may nott tary ;"—  
-" Syr," quod' dame Ragnett, " nowe fhalt thou knowe,  
-Whate wemefi defyrefi mofte, of high and' lowe,  
-From this I wott not varaye.  
-Summe mefi fayfi, we defyre to be fayre,  
+" Syr," quod' dame Ragnell, " nowe fhalt thou knowe,  
+Whate wemen defyren mofte, of high and' lowe,  
+From this I woll not varaye.  
+Summe men fayfi, we defyre to be fayre,  
 Alfo we defyre to haue repayre,  
-Of ditlfe ftraunge mefi ;  
+Of diufe ftraunge men ;  
 Alfo we loue to haue luft in bed',  
-
-[fol. 133>.] And' ofteh we defyre to wed',  
-
-Thus ye mef nott keh}.  
-Yett we defyre a noder man? thyng,  
-To be holdefi nott old', but freffhe and' yong;  
-With flatryng, and' glosyng, and' quaynt gyfi,  
-So ye mefi may vs wemefi el wyft,  
-Of whate ye woit crave.  
-Ye goo futt nyfe, I wott nott lye,  
+And' often we defyre to wed',  
+Thus ye mef nott ken `[Sic MS.]`.  
+Yett we defyre a noder man thyng,  
+To be holden nott old', but freffhe and' yong;  
+With flatryng, and' glosyng, and' quaynt gyn,  
+So ye men may vs wemen eu wyn,  
+Of whate ye woll crave.  
+Ye goo full nyfe, I wott nott lye,  
 Butt there is one thyng is alle oure fantafye,  
-And' that nowe fhatt ye knowe ;  
-We defyref of mefi, aboue alle man? thyng,  
-To haue the fouleynte, woute lefyng,  
+And' that nowe fhall ye knowe ;  
+We defyref of men, aboue alle man thyng,  
+To haue the foueynte, wtoute lefyng,  
 Of alle, both hygh and' lowe.  
 For where we haue foueynte alle is ourys,  
-Though a knyght be new fo ferys,  
-And' et the maftry wynne ;  
+Though a knyght be neu fo ferys,  
+And' eu the maftry wynne ;  
 Of the mofte manlyeft is oure defyre,  
-To haue the foleynte of fuche a fyre,  
+To haue the foueynte of fuche a fyre,  
 Suche is oure crafte and' gynne.  
-Therfore wend', ¢ kyng, on thy way,  
-And' telt that knyght, as I the faye,  
+Therfore wend', S. kyng, on thy way,  
+And' tell that knyght, as I the faye,  
 That itt is as we defyrefi mofte ;  
 He wol be wroth and' vnfought,  
 And' curfe her faft, that itt the taught,  
 For his laboure is loft.  
-Go forth, € kyng, and? hold' pmyfe,  
-
-1 Sic MS,  
-
-
-
-[fol. 134.]  
-
-WEDDYNGE OF SYR GAWENE.  
-
+Go forth, S. kyng, and' hold' pmyfe,  
 For thy lyfe is fure nowe in alle wyfe,  
-That dare I wett vndertake."  
+That dare I well vndertake."  
 The kyng rode forth a greatt fhake,  
-As faft as he myghit gate ;  
+As faft as he myght gate ;  
 Thorowe myre, more, and' fenne,  
-Where as the place was fygnyd' and' fett theh,  
-Evyfi there with £ Grom" he mett.  
-And' fterh word¢ to the king he fpak' with that,—  
-" Com of, f kyng, nowe lett fe,  
+Where as the place was fygnyd' and' fett then,  
+Evyn there with S Gromy he mett.  
+And' ftern worde to the king he fpak' with that,—  
+" Com of, S. kyng, nowe lett fe,  
 Of thyne anfwere whate itt fhal be,  
 For I am redy grathyd'."  
-The kyng pullyd' oute bok€ twayne,—  
-" Syr, ther is myne anfwer', I dare fayi,  
+The kyng pullyd' oute boke twayne,—  
+" Syr, ther is myne anfwer', I dare fayn,  
 For fomme wott help at nede."  
-Syr Grom" lokyd' ofi theym ettychofi,—  
-" Nay, nay, f kyng, thou artt but a dead' mafi,  
+Syr Gromy lokyd' on theym euychon,—  
+" Nay, nay, S. kyng, thou artt but a dead' mafi,  
 Therfor nowe fhalt thou blede."  
-" Abyde, £ Grom'," fayd' kyng Arthoure,  
-" T haue one anfwere fhatt make ait! fure," —  
-" Lett fe," thefi fayd' # Grom" ;  
+" Abyde, S. Gromy," fayd' kyng Arthoure,  
+" I haue one anfwere fhatt make all `[ale, MS.]` fure," —  
+" Lett fe," then fayd' S. Gromy ;  
 " Or els, fo God' me help as I the fay,  
-Thy deti thou fhalt haue wt large paye,  
-I tett the nowe enfure."  
+Thy deth thou fhalt haue wt large paye,  
+I tell the nowe enfure."  
 Now fayd' the kyng, "I fe, as I geffe,  
-In the is butt a lytett gentilneffe,  
+In the is butt a lytell gentilneffe,  
 By God', that ay is helpand'!  
 Here is oure anfwere, and' that is alle,  
-That wemeh defyref mofte fpeciatt,  
-Bott of fre and' bond'.  
+That wemen defyren mofte fpeciall,  
+Both of fre and' bond'.  
 I faye no more, butt aboue al thyng  
-Wemeh defyre folleynte, for that is theyr lykyng,  
+Wemeh defyre fuleynte, for that is theyr lykyng,  
 And' that is ther moft defyre ;  
-To have the rewtt of the manlyeft meh,  
-And' then ar they weit, thus they me dyd' ken,  
+To have the rewll of the manlyeft meh,  
+And' then ar they well, thus they me dyd' ken,  
 
-1 ale, MS.  
+TO DO  
 
-
-298 ° WEDDYNGE OF SYR GAWENE.  
+WEDDYNGE OF SYR GAWENE.  
 
 To rule the, Grom" fyre."  
 " And' fhe that told' the nowe, f Arthoure,  
 I pray to God', I maye fe her bref ofi a fyre,  
-For that was my fufter dame Ragnett ;  
-[fol. 134>,] That old' scott, God' geve her! fhame!  
+For that was my fufter dame Ragnell ;  
+That old' scott, God' geve her! fhame!  
 Elle had' I made the fuit tame,  
 Nowe haue I loft moche travaytt.  
 Go where thou wolt, kyng Arthoure,  
@@ -556,7 +524,7 @@ In fuche a plygtit fhallt thou net me fynde,
 And' yf thou do, lett me bete and' bynde,  
 As is for thy beft prouf?."  
 "‘ Nowe haue good' day," fayd' £ Grom?,  
-" Farewell," fayd' £ Arthoure, "fo mott I the,  
+" Farewell," fayd' S. Arthoure, "fo mott I the,  
 I am glad' I haue fo fped'."—  
 King Arthoure turnyd' hys hors into the playin,  
 And' fone he mett witti dame Ragnelt agayfi,  
@@ -565,7 +533,7 @@ In the fame place and' ftede.
 I told' howe itt wold' be, ely dett,  
 Nowe hold' that ye haue hygitt ;  
 Syf I haue fauyd' yor lyf', and' none other,  
-Gawefi muft me wed', f Arthoure,  
+Gawen muft me wed', S. Arthoure,  
 That is a futt gentitt knyght."  
 "No, lady, that I you hight I fhatt not faytt,  
 So ye wol be rulyd' by my cowncett,  
@@ -581,48 +549,48 @@ CD HO nS.
 
 WEDDYNGE OF SYR GAWENE. 298P  
 
-"Nay, £ kyng, nowe wott I nott foo,  
+"Nay, S. kyng, nowe wott I nott foo,  
 Openly I wol be weddyd' or I parte the froo,  
-[fol. 135.] Elle fhame wott ye haue.  
-Ryde before, and' I woit com after, 510  
-Vnto thy courte, f kynge Arthoure,  
+Elle fhame wott ye haue.  
+Ryde before, and' I woit com after,  
+Vnto thy courte, S. kynge Arthoure,  
 Of no maf I wott fhame ;  
 Be-thynk' you howe I haue fauyd' yor lyf',  
 Therfor witt me nowe fhatt ye nott ftryfe,  
-For and' ye do, ye be to blame." 515  
+For and' ye do, ye be to blame."  
 The kyng of her had' greatt fhame,  
 But forth fhe rood', thougti he were grevyd' ;  
 Tytt they cam to Karlyle fortii they mevyd'.  
 In to the courte fhe rode hym by,  
-For no mafi wold' fhe fpare, fecurly, 520  
+For no mafi wold' fhe fpare, fecurly,  
 Itt likyd' the kyng futt yit.  
 Alle the contraye had' wonder greatt,  
 Fro whens fhe com, that foule vnfwete,  
 They fawe neu of fo fowtt a thyng ;  
-In to the hatt fhe went, in certeh,— 525  
+In to the hatt fhe went, in certeh,—  
 " Arthoure kyng, lett fetche me f Gaweyh,  
 Before the knyght¢, alle in hying.  
 That I may nowe be made fekyr,  
 In welle and' wo trowiti plygtit vs togeder,  
-Before alle thy chyvalry ; 530  
+Before alle thy chyvalry ;  
 This is yo" graunt, lett fe, haue done,  
-Sett forth £ Gawefh, my love, anofi,  
+Sett forth S. Gawen, my love, anofi,  
 For lenger tarying kepe nott I."  
-Theh cam forth f Gawef the knyght,—  
-* Syr, I am redy of that I you hygtt, 535  
+Theh cam forth S. Gawen the knyght,—  
+* Syr, I am redy of that I you hygtt,  
 Alle forwarde¢ to fulfyit ;"  
-* Godhauem' cy," fayd' dame Ragnett thef,  
+* Godhauem' cy," fayd' dame Ragnell thef,  
 " For thy fake I wold' I were a fayre womah,  
-[fol. 185%.) For thou art of fo good' wytt."  
-Ther £ Gawen to her his trowth plygit, 540  
+For thou art of fo good' wytt."  
+Ther S. Gawen to her his trowth plygit,  
 In weit and' in woo, as he was a true knygit,  
-Theh was dame Ragnett fayf ;  
+Theh was dame Ragnell fayf ;  
 2q?  
 
 
 " Alas!" then fayd' dame Gayno',  
 So fayd' alle the ladyes in her bower,  
-And' wept for f Gawef.  
+And' wept for S. Gawen.  
 « Alas!" then fayd' both kyng and' knyght,  
 That eu. he fhold' wed? fuck a wyght,  
 She was fo fowit and' horyble ;  
@@ -661,10 +629,10 @@ Therof the ladyes had' greatt pitey,
 
 Yaa Sa  
 
-The queeh prayd' dame Ragnett, fekerly,  
+The queeh prayd' dame Ragnell, fekerly,  
 
 
-[fol. 136.] To be maryed' in the mornyng erly,  
+To be maryed' in the mornyng erly,  
 As pryvaly as we may ;  
 " Nay," fhe fayd', " by hevyh kyng!  
 That wott I new', for no thyng,  
@@ -678,37 +646,37 @@ qn
 WEDDYNGE OF SYR GAWENE. 298°  
 
 I woit nott to church tytt high maffe tyme,  
-And' in the opefi halle I woit dyne, 580  
+And' in the opefi halle I woit dyne,  
 In myddys of alle the rowte."  
 "JT am greed'," fayd' dame Gayno',  
 « Butt me wold' thynk' more hono',  
 And yo worfhypp' mofte ;"—  
-" Ye, as for that, lady, God' you faue, 585  
+" Ye, as for that, lady, God' you faue,  
 This daye my worfhypp' wott I haue,  
 I teit you withoute bofte."  
 She made her redy to churcfi to fare,  
 And' alle the State that there ware,  
-Syrs, withoute lefyng ; 590  
+Syrs, withoute lefyng ;  
 She was arayd' in the richeft man',  
 More freffher than dame Gayno'.  
 Her arayment was worth ij mM' mark',  
 Of good' red' nobles ftyff and' ftark',  
-So rychely fhe was begoh ; 595  
+So rychely fhe was begoh ;  
 For alle her rayment fhe bare the bett  
 Of fowlneffe, that eu I hard? tett,  
 So fowit a fowe fawe neu mafi.  
 For to make a fhortt conclufioh,  
-[fol. 136.] Whefi fhe was weddyd', they hyed' theym home, 600  
+Whefi fhe was weddyd', they hyed' theym home,  
 To mete alle they went;  
 This fowit lady bygafi the high defe,  
 She was fut foutt, and' nott curteys,  
 So fayd' they alle, verament.  
-Whehi the fuyce cam her before, 605  
+Whehi the fuyce cam her before,  
 She ete as moche as vj. that ther wore,  
 That m'vaylyd' many a maf;  
 Her naylys were long ynchys 1°,  
 Therwith fhe breke her mete vngoodly,  
-Therfore fhe ete alone. 610  
+Therfore fhe ete alone.  
 She ette iij®. capons, and' alfo curlues 1°,  
 And' greatt bake meté fhe ete vp, pde,  
 Al mefi therof had' m'vaytt ;  
@@ -718,12 +686,12 @@ De qed 2.
 
 298 § WEDDYNGE OF SYR GAWENE.  
 
-Butt fhe ete itt vp, leffe and' more, 615  
+Butt fhe ete itt vp, leffe and' more,  
 That praty fowit damefett.  
 Att mefi theft that et: her fawe,  
 Bad' the deviit her bonys gnawe,  
 Botfi knyght and fquyre ;  
-So fhe ete tyit mete was done, 620  
+So fhe ete tyit mete was done,  
 Tyit they drewe clothes, and' had' waffhen,  
 As is the gyfe and' man'.  
 Meny meifi wold? fpeke of ditfe fuice,  
@@ -738,16 +706,16 @@ Ther were mynftrall¢ of dite contrey
 
 Pm  
 
-[fol. 137.] " A, £ Gaweh, fyi I haue you wed',  
+" A, £ Gawen, fyi I haue you wed',  
 Shewe me yot cortefy in bed',  
 With rygthit itt may nott be denyed'.  
-I-wyfe, £ Gaweh," that lady fayd',  
+I-wyfe, £ Gawen," that lady fayd',  
 " And' I were fayre, ye wold' do a noder brayd',  
 Butt of wedlok' ye take no hed';  
 Yett for Arthours fake, kyffe me att the lefte,  
 I pray you do this att my requeft,  
 Lett fe, howe ye caf {pede."  
-£ Gaweh fayd', " I wott do more  
+£ Gawen fayd', " I wott do more  
 Theh for to kyffe, and' God' before! "  
 He turnyd' hym her vntitt;  
 He fawe her the fayreft creature,  
@@ -755,40 +723,40 @@ That eu he fawe, withoute mefure,—
 
 
 
-WEDDYNGE OF SYR GAWENE. 298 ¢  
+WEDDYNGE OF SYR GAWENE. ¢  
 
 She fayd', " whatt is yo" wytt?"  
-" A, Itu!" he! fayd', " whate ar ver 645  
+" A, Itu!" he! fayd', " whate ar ver  
 "£, Iam yot wyf', fecurly,  
 Why ar ye fo unkynde?"  
 " A, lady, I am to blame,  
 I cry you m'cy, my fayre madame,  
-Itt was nott in my mynde. 650  
+Itt was nott in my mynde.  
 A lady ye ar fayre in my fygiit,  
 And' to day ye were the foulyft wygit,  
 That et I fawe with myne ie";  
 Wele is me, my lady, I haue you thus,"—  
-And' brafyd' her in his armys, and' gafi her kyffe, 655  
+And' brafyd' her in his armys, and' gafi her kyffe,  
 And' made greatt joye, fycurly.  
 " Syr," fhe fayd', " thus fhatt ye me haue,  
 Chefe of the one, fo God' me faue,  
 My beawty woit nott hold' ;  
-Wheder ye woit haue me fayre of nyght¢*. 660  
+Wheder ye woit haue me fayre of nyght¢*.  
 And' as foutt of days to alle mefi fight¢ ;  
 [fol.137°.] Or els to haue me fayre of days,  
 And' of nyght¢ on the fowlyft wyfe,  
 The one ye muft ned¢ haue ;  
-Chefe the one or the oder, 665  
+Chefe the one or the oder,  
 Chefe of, f knygtit, which you is led,  
 Yo" worfhypp' for to faue."  
-" Alas!" fayd' Gaweh, "the choyfe is hard',  
+" Alas!" fayd' Gawen, "the choyfe is hard',  
 To chefe the beft itt is froward',  
-Wheder choyfe that I chefe ; 670  
+Wheder choyfe that I chefe ;  
 To haue you fayre on nyght¢ and' no more,  
 That wold' greve my hartt rygfit fore,  
 And' my worfhypp' fhold' I lefe*.  
 And' yf I defyre oft days to haue you fayre,  
-Thefi of nygtite I fhold' haue a fymple repayre, 675  
+Thefi of nygtite I fhold' haue a fymple repayre,  
 Now faynh wold' I chofe the beft ;  
 I ne wott in thys world' whate I fhatt faye,  
 
@@ -820,7 +788,7 @@ Had' wedyd' me, verament.
 And' alfo he fhold' geve me the fouleynte,  
 Of alle his body and' goode, fycurly,  
 Thus was I difformyd' ;  
-And' thou, £ knygtit, curteys Gaweh,  
+And' thou, £ knygtit, curteys Gawen,  
 Has gevyfi me the fotleynte, fteyn,  
 That wott not wrott the erly ne late.  
 Kyffe me, f knygiit, euyfi now here,  
@@ -831,46 +799,46 @@ So was itt reasoh and' co's of kynde,
 They two theym felf alone.  
 She thankyd' God' and' Mary mylde,  
 She was recoud of that that fhe was defoylyd',  
-So dyd' £ Gawefi ;  
+So dyd' S. Gawen ;  
 He made myrtti alle in her boure,  
 
 
 WEDDYNGE OF SYR GAWENE. 298"  
 
 And' thankyd' of alle oure Sauyoure,  
-I tett you, in certeyf. 715  
+I tett you, in certeyf.  
 With joye & myrtt they wakyd' tytt daye,  
 And' thah wold' ryfe that fayre maye',  
-" Ye fhatt nott," £ Gawefi fayd' ;  
+" Ye fhatt nott," S. Gawen fayd' ;  
 "We wott lye, & flepe tyit pryme,  
-And' thefi lett the kyng cait vs to dyne,"— 720  
+And' thefi lett the kyng cait vs to dyne,"—  
 " ] am greed'," thef fayd' the mayd'.  
 Thus itt paffyd' forth tyit mid-daye,—  
 " Syrs'," quod' the kyng, " lett vs go and' afaye,  
-Yf £ Gawefi be of lyve;  
-I am futt ferd' of £ Gawef, 725  
+Yf S. Gawen be of lyve;  
+I am futt ferd' of S. Gawen,  
 Nowe left the fende haue hym flayh,  
 Nowe wold' I fayfi preve.  
 Go we nowe," fayd' Arthoure the kyng,  
 " We wott go fe theyr vpryfyng, |  
-[fol. 138°.] Howe welt that he hath fped' ;"— 730  
+[fol.°.] Howe welt that he hath fped' ;"—  
 They cam to the chambre, alle in certeyfh,  
-" Aryfe," fayd' the kyng to f Gaweh,  
+" Aryfe," fayd' the kyng to S. Gawen,  
 " Why flepyft thou fo long in bed? ?"  
-" Mary," quod' Gawefi, " f kyng, ficurly,  
-I wold' be glad' and' ye wold' lett me be, 735  
+" Mary," quod' Gawen, " S. kyng, ficurly,  
+I wold' be glad' and' ye wold' lett me be,  
 For I am futt weit att eas ;  
 Abyde, ye fhatt fe the dore vndone,  
 I trowe that ye wott fay I am wett goon,  
 I am futt loth to ryfe."  
-Syr Gaweh rofe, and' in his hand' he toke 740  
+Syr Gawen rofe, and' in his hand' he toke  
 His fayr lady, and' to the dore he fhoke,  
 And' opynyd' the dore futt fayre ;  
 She ftod' in her fmok' alle by that fyre,  
 Her her? was to her knees as red' as gold' wyre,—  
-" Lo! this is my repayre. 745  
-Lo!" fayd' Gawefi Arthoure vntitt,  
-« Syr, this is my wyfe, dame Ragnett,  
+" Lo! this is my repayre.  
+Lo!" fayd' Gawen Arthoure vntitt,  
+« Syr, this is my wyfe, dame Ragnell,  
 That fauyd' onys yor lyfe ;'—  
 
 i mayd, MS. 2 Syr, MS. 3 hed, MS.  
@@ -878,34 +846,34 @@ i mayd, MS. 2 Syr, MS. 3 hed, MS.
 298 WEDDYNGE OF SYR GAWENE.  
 
 He told' the kyng and' the queef hem beforf,  
-Howe fodenly from her fhap fhe dyd' torne, 750  
+Howe fodenly from her fhap fhe dyd' torne,  
 " My lord', nowe be yo® leve."  
 And' whate was the caufe fhe forfhapefi was,  
-Syr Gawefi told' the kyng, bott more and' leffe,  
+Syr Gawen told' the kyng, bott more and' leffe,  
 "I thank' God'," fayd' the queef ;  
-" | wenyd', £ Gawefi, fhe wold' the haue myfcaryed', 755  
+" | wenyd', S. Gawen, fhe wold' the haue myfcaryed',  
 Therfore in my hartt I was fore agrevyd',  
 Butt the contrary is here feef."  
 Ther was game, revett, and' playe,  
 And' ely mah to other gafi faye,  
-" She is a fayre wyghit ;" 760  
+" She is a fayre wyghit ;"  
 Tha the kyng theym alle gafi tett,  
-How did' held' hym att nede dame Ragnett,  
+How did' held' hym att nede dame Ragnell,  
 " Or my detti had' bene dygtit."  
 Ther the kyng told' the queefi, by the rood',  
-Howe he was beftad' in Inglefwod', 765  
-[fol.139.] With # Grom? fom' Joure;  
+Howe he was beftad' in Inglefwod',  
+With S. Gromy fom' Joure;  
 And' whate othe the kngyht made hym f{were,  
 " Or elle he had' slay me rygtit there,  
 Wtoute m'cy or mefure.  
-This fame lady, dame Ragnett, 770  
+This fame lady, dame Ragnell,  
 From my det fhe dyd' help me ryght wett,  
-Alle for the love of Gawef ;"—  
-The Gaweh told' the king alle to-geder,  
+Alle for the love of Gawen ;"—  
+The Gawen told' the king alle to-geder,  
 Howe forfhapen fhe was witt her ftepmoder  
-Tytt a knyght had' holpefi her agayf. 77  
+Tytt a knyght had' holpefi her agayf.  
 Ther fhe told' the kyng fayre and' wett,  
-How Gawefi gave her the folleynte ely dett,  
+How Gawen gave her the folleynte ely dett,  
 And' whate choyfe fhe gave to hym ;—  
 " God' thank' hym of his curtesye,  
 He favid' me from chaunce and' vilony,  
@@ -914,68 +882,68 @@ He favid' me from chaunce and' vilony,
 
 780  
 That was futt foutt and' grym.  
-Therfore, curteys knyght and' hend' Gawef,  
+Therfore, curteys knyght and' hend' Gawen,  
 Shatt I ned wrath the, fteyi,  
 That pmyfe nowe here I make;  
-Whille that I lyve I fhal be obayfaunt, 785  
+Whille that I lyve I fhal be obayfaunt,  
 
-WEDDYNGE OF SYR GAWENE. 298 *  
+WEDDYNGE OF SYR GAWENE. *  
 
 To God' aboue I fhatt itt warraunt,  
 And? new with you to debate."  
-" Garam' cy, lady," theft fayd' Gaweh,  
+" Garam' cy, lady," theft fayd' Gawen,  
 " Wt you I hold' me futt weit content,  
-And' that I truft to fynde ;'— 790  
+And' that I truft to fynde ;'—  
 He fayd', " my loue fhatt fhe haue,  
 Therafter nede fhe neti more craue,  
 For fhe hath bene to me fo kynde."  
 The queef fayd', and' the ladyes alle,  
-* She is the fayreft nowe in this halle, 795  
+* She is the fayreft nowe in this halle,  
 I fwere by Seynt Johfi !—  
 My loue, lady, ye fhatt haue eu,  
 For that ye favid' my lord' Arthoure,  
 As I am a gentilwomaf."  
-Syr Gaweh gatt oh her Gyngolyh, 800  
-[fol. 139%.] That was a good' knygiit of {trengti and' kynf,  
+Syr Gawen gatt oh her Gyngolyh,  
+That was a good' knygiit of {trengti and' kynf,  
 And' of the Table Round' ;  
 Att ely greatt feft that lady fhold' be,  
 Of fayrneffe fhe bare away the bewtye,  
-Wher fhe yed' oft the ground'. 805  
-Gaweh louyd' that lady, dame Ragnett,  
+Wher fhe yed' oft the ground'.  
+Gawen louyd' that lady, dame Ragnell,  
 In alle his lyfe he louyd' none fo wett,  
 I tett you, withoute lefyng ;  
 As a coward' he lay by her both day and' nygtht,  
-Neti wold' he haunt justyng aryght, 810  
+Neti wold' he haunt justyng aryght,  
 Ther att m'vaylyd' Arthoure the kyng'.  
 She prayd' the kyng, for his gentilnes,  
-To be good? lord' to £ Grom" i-wyffe,  
+To be good? lord' to S. Gromy i-wyffe,  
 Of that to you he hath offendyd' ;—  
-" Yes, lady, that shait I nowe, for yor fake, 815  
+" Yes, lady, that shait I nowe, for yor fake,  
 For I wott wett he may nott amendf€ make,  
 He dyd' to me futt vnhend'."  
 Nowe for to make you a fhort conclufyoh,  
 I caft me for to make ah end' fuit fone,  
-Of this gentyit lady ; 820  
+Of this gentyit lady ;  
 
 
 
 298 ¥ WEDDYNGE OF SYR GAWENE.  
 
-She lyvyd' with # Gawef butt yerys v.  
-That grevyd' Gawefi alle his lyfe,  
+She lyvyd' with # Gawen butt yerys v.  
+That grevyd' Gawen alle his lyfe,  
 ) i I tett you, fecurly.  
 HP | ‘a In her lyfe fhe grevyd' hym new,  
-: / Therfor was neu womafi to hym lever, 825  
+: / Therfor was neu womafi to hym lever,  
 aA Thus leves my talkyng ;  
 She was the fayreft lady of all `[ale, MS.]` Englond',  
 Whe? fhe was on lyve, I vnderstond',  
 So fayd' Arthoure the kyng.  
-' Thus endyth the aduenture of kyng Arthoure, 830  
+' Thus endyth the aduenture of kyng Arthoure,  
 That oft in his days was grevyd' fore,  
-And' of the weddyng of Gawe? ;  
-Gaweh was weddyd' oft in his days,  
+And' of the weddyng of Gawen? ;  
+Gawen was weddyd' oft in his days,  
 Butt fo welt he net lovyd' womaf always,  
-As I haue hard' mef fayn. 335  
+As I haue hard' mef fayn.  
 This aduenture befett in Inglefwod',  
 As good' kynge Arthoure of huntyng yod',  
 Thus haue I hard' mef tett ;  
@@ -1001,7 +969,7 @@ For paynes he hath ftrong.
 
 Here endyth the weddyng of Syr Gawen and Dame Ragnell, for helpyng of Kyng Arthoure.  
 
-Notes: 
+Notes:
 
 TO DO
 
