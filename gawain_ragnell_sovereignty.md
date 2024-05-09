@@ -6,21 +6,17 @@ The core of the tale is follows:
 
 > King Arthur is out hunting and gets separated from his party;  he meets a knight who would challenge him, say Gawain has taken his lands from him. Arthur must give way, promising to return by the next New Year's Day with the answer to the question "What is it that a woman desire's the most?" else he will cut off his head. Arthur returns to court unhappily, sets out with Gawain for anwsers, but none of them seem satisfactory. On the way to meet the Lord, Arthur meets a hideous hag. She says she has the answer, but the price is that she weds Gawain. Arthur checks with Gawain, ho says he will do what he must for his King. She gives the answer to Arthur and he gives it to the Lord; and the Lord is angry - his sister must have told Arthur.
 >
-> Back at court, the hag arrives, eats noisily, and goes off with Gawain. He is astonished to see she is beautify; she says she is under an enchantment, will he have her fair by day and foul by night, or v.v. He flounders, says is it her choice. She is released from the curse and the next morning the court is surprised to see Gawain with the fair maiden.
+> Back at court, the hag arrives, eats noisily, and goes off with Gawain. He is astonished to see she is beautiful; she says she is under an enchantment, and will he have her foul by day and fair by night, or v.v. He flounders, says it is her choice. She is released from the curse and the next morning the court is surprised to see Gawain with the fair maiden.
 
----
+Structurally, the tale includes two dilemmas (Sir Gromersomer Joure's challenge to Arthur, Dame Ragnell's to Gawain), with the answer to the first needing to be realised to settle the second.
 
+A version of the original romance is given by Madden:
 
+```{admonition}
+:class: dropdown
+Frederic Madden [Syr Gawayne; a collection of ancient romance-poems, by Scotish and English authors, relating to that celebrated knight of the Round Table, with an introduction, notes, and a glossary.](https://archive.org/details/bib_fict_2517737/page/298/mode/2up), 1839
 
----
-https://archive.org/details/bib_fict_2517737/page/298/mode/2up
-
-Syr Gawayne; a collection of ancient romance-poems, by Scotish and English authors, relating to that celebrated knight of the Round Table, with an introduction, notes, and a glossary. By Sir Frederic Madden [...]
-by Madden, Frederic (ed.)
-
-Publication date 1839
-
-pp. 298-y
+pp. 298-298yy
 
 No. VIII.
 
@@ -499,459 +495,380 @@ Wemeh defyre fuleynte, for that is theyr lykyng,
 And' that is ther moft defyre ;  
 To have the rewll of the manlyeft meh,  
 And' then ar they well, thus they me dyd' ken,  
-
-TO DO  
-
-WEDDYNGE OF SYR GAWENE.  
-
-To rule the, Grom" fyre."  
-" And' fhe that told' the nowe, f Arthoure,  
-I pray to God', I maye fe her bref ofi a fyre,  
+To rule the, Grom' fyre."  
+" And' fhe that told' the nowe, S. Arthoure,  
+I pray to God', I maye fe her bren on a fyre,  
 For that was my fufter dame Ragnell ;  
-That old' scott, God' geve her! fhame!  
-Elle had' I made the fuit tame,  
-Nowe haue I loft moche travaytt.  
+That old' scott, God' geve her `[he MS.]` fhame!  
+Elle had' I made the full tame,  
+Nowe haue I loft moche travayll.  
 Go where thou wolt, kyng Arthoure,  
 For of me thou maifte be eu fure,  
 Alas! that I eu fe this day ;  
-Nowe, weit I wott, myne enime thou wolt be,  
-An@ att fuche a pryk' fhatt I ned gett the,  
-My fong may be wett-awaye ! "  
+Nowe, well I wott, myne enime thou wolt be,  
+An@ att fuche a pryk' fhall I ned gett the,  
+My fong may be well-awaye ! "  
 "No," fayd' the kyng, "that make I warraunt,  
-Some harnys I wott haue to make me defendaunt,  
+Some harnys I woll haue to make me defendaunt,  
 That make I God' avowe!  
-In fuche a plygtit fhallt thou net me fynde,  
+In fuche a plyght fhallt thou net me fynde,  
 And' yf thou do, lett me bete and' bynde,  
-As is for thy beft prouf?."  
-"‘ Nowe haue good' day," fayd' £ Grom?,  
+As is for thy beft prouf `[prow?]`."  
+"‘ Nowe haue good' day," fayd' S. Gromy,  
 " Farewell," fayd' S. Arthoure, "fo mott I the,  
 I am glad' I haue fo fped'."—  
-King Arthoure turnyd' hys hors into the playin,  
-And' fone he mett witti dame Ragnelt agayfi,  
+King Arthoure turnyd' hys hors into the playn,  
+And' fone he mett with dame Ragnelt agayn,  
 In the fame place and' ftede.  
-" Syr kyng, I am glad' ye haue fped' weit,  
-I told' howe itt wold' be, ely dett,  
-Nowe hold' that ye haue hygitt ;  
-Syf I haue fauyd' yor lyf', and' none other,  
+" Syr kyng, I am glad' ye haue fped' well,  
+I told' howe itt wold' be, euy dell,  
+Nowe hold' that ye haue hyght ;  
+Syn I haue fauyd' yor lyf', and' none other,  
 Gawen muft me wed', S. Arthoure,  
-That is a futt gentitt knyght."  
-"No, lady, that I you hight I fhatt not faytt,  
-So ye wol be rulyd' by my cowncett,  
-Yor witt thei fhatt ye haue ;"—  
-
-an nn OSS SS =  
-" Sh 7 mintiesenes : = ——— ec cnne na _ =  
-
-CD HO nS.  
-~  
-
-| he, MS. eat}  
-
-WEDDYNGE OF SYR GAWENE. 298P  
-
-"Nay, S. kyng, nowe wott I nott foo,  
+That is a full gentill knyght."  
+"No, lady, that I you hight I fhall not fayll,  
+So ye wol be rulyd' by my cowncell,  
+Yor will then fhall ye haue ;"—  
+"Nay, S. kyng, nowe woll I nott foo,  
 Openly I wol be weddyd' or I parte the froo,  
-Elle fhame wott ye haue.  
-Ryde before, and' I woit com after,  
+Elle fhame woll ye haue.  
+Ryde before, and' I woll com after,  
 Vnto thy courte, S. kynge Arthoure,  
-Of no maf I wott fhame ;  
+Of no man I woll fhame ;  
 Be-thynk' you howe I haue fauyd' yor lyf',  
-Therfor witt me nowe fhatt ye nott ftryfe,  
+Therfor with me nowe fhall ye nott ftryfe,  
 For and' ye do, ye be to blame."  
 The kyng of her had' greatt fhame,  
-But forth fhe rood', thougti he were grevyd' ;  
-Tytt they cam to Karlyle fortii they mevyd'.  
+But forth fhe rood', though he were grevyd' ;  
+Tyll they cam to Karlyle forth they mevyd'.  
 In to the courte fhe rode hym by,  
-For no mafi wold' fhe fpare, fecurly,  
-Itt likyd' the kyng futt yit.  
+For no man wold' fhe fpare, fecurly,  
+Itt likyd' the kyng full yll.  
 Alle the contraye had' wonder greatt,  
 Fro whens fhe com, that foule vnfwete,  
-They fawe neu of fo fowtt a thyng ;  
-In to the hatt fhe went, in certeh,—  
-" Arthoure kyng, lett fetche me f Gaweyh,  
-Before the knyght¢, alle in hying.  
+They fawe neu of fo fowll a thyng ;  
+In to the hall fhe went, in certen,—  
+" Arthoure kyng, lett fetche me S. Gaweyn,  
+Before the knyghte, alle in hying.  
 That I may nowe be made fekyr,  
-In welle and' wo trowiti plygtit vs togeder,  
+In welle and' wo trowith plyght vs togeder,  
 Before alle thy chyvalry ;  
-This is yo" graunt, lett fe, haue done,  
-Sett forth S. Gawen, my love, anofi,  
+This is yor graunt, lett fe, haue done,  
+Sett forth S. Gawen, my love, anon,  
 For lenger tarying kepe nott I."  
-Theh cam forth S. Gawen the knyght,—  
-* Syr, I am redy of that I you hygtt,  
-Alle forwarde¢ to fulfyit ;"  
-* Godhauem' cy," fayd' dame Ragnell thef,  
-" For thy fake I wold' I were a fayre womah,  
-For thou art of fo good' wytt."  
-Ther S. Gawen to her his trowth plygit,  
-In weit and' in woo, as he was a true knygit,  
-Theh was dame Ragnell fayf ;  
-2q?  
-
-
-" Alas!" then fayd' dame Gayno',  
+Then cam forth S. Gawen the knyght,—  
+" Syr, I am redy of that I you hyght,  
+Alle forwarde to fulfyll ;"  
+" Godhauemrcy," fayd' dame Ragnell then,  
+" For thy fake I wold' I were a fayre woman,  
+For thou art of fo good' wyll."  
+Ther S. Gawen to her his trowth plyght,  
+In well and' in woo, as he was a true knyght,  
+Then was dame Ragnell fayn ;  
+" Alas!" then fayd' dame Gaynor,  
 So fayd' alle the ladyes in her bower,  
 And' wept for S. Gawen.  
-« Alas!" then fayd' both kyng and' knyght,  
-That eu. he fhold' wed? fuck a wyght,  
+" Alas!" then fayd' both kyng and' knyght,  
+That eu he fhold' wed' fuch a wyght,  
 She was fo fowit and' horyble ;  
-She had' two tethi on ely fyde,  
-As borys tusk¢, I wott nott hyde,  
-Of length a large handfuit.  
-The one tufk' went up, and the other douh,  
-A mowth futt wyde, and' fowit igrown,  
-With grey herys many of ;  
-Her lyppeé lay lumpryd' on her chyf,  
-Nek' forsoth on her was none ifeeh,  
-She was a lothly of!  
+She had' two teth on euy fyde,  
+As borys tuske, I woll nott hyde,  
+Of length a large handfull.  
+The one tufk' went up, and the other doun,  
+A mowth full wyde, and' fowll igrown,  
+With grey herys many on ;  
+Her lyppe lay lumpryd' on her chyn,  
+Nek' forsoth on her was none ifeen,  
+She was a lothly on!  
 She wold' nott be weddyd' in no man',  
-Butt there were made a krye in alle the fhyre,  
-
-Fite aoe  
-
-Boti in towh and' in borowe;  
+Butt there were made a krye in alle the fhyre,    
+Boti in town and' in borowe;  
 Alle the ladyes nowe of the lond',  
-
-ae  
-
-one earned eT oe ~ a a  
-
 She lett kry to com to hand',  
 To kepe that brydalle thorowe.  
-So itt befyit after of a daye,  
-That maryed' fhold' be that fowit [lady |  
-Vuto £ Gaweyf ;  
-The daye was comyf the daye fhold' be,  
+So itt befyll after on a daye,  
+That maryed' fhold' be that fowll [lady |  
+Vuto S. Gaweyn ;  
+The daye was comyn the daye fhold' be,  
 Therof the ladyes had' greatt pitey,  
-
-
-
-" Alas!" theh gah they fayn.  
-
-Yaa Sa  
-
+" Alas!" then gan they fayn.  
 The queeh prayd' dame Ragnell, fekerly,  
-
-
 To be maryed' in the mornyng erly,  
 As pryvaly as we may ;  
-" Nay," fhe fayd', " by hevyh kyng!  
-That wott I new', for no thyng,  
-For ougfit that ye ca faye.  
+" Nay," fhe fayd', " by hevyn kyng!  
+That woll I neu', for no thyng,  
+For ought that ye can faye.  
 I wol be weddyd' alle openly,  
-For with the kyng fuche covernt made I,  
+For with the kyng fuche covern'nt made I,  
 I putt you oute of dowte ;  
-
-qn  
-
-WEDDYNGE OF SYR GAWENE. 298°  
-
-I woit nott to church tytt high maffe tyme,  
-And' in the opefi halle I woit dyne,  
+I woll nott to church tyll high maffe tyme,  
+And' in the open halle I woll dyne,  
 In myddys of alle the rowte."  
-"JT am greed'," fayd' dame Gayno',  
-« Butt me wold' thynk' more hono',  
-And yo worfhypp' mofte ;"—  
-" Ye, as for that, lady, God' you faue,  
-This daye my worfhypp' wott I haue,  
-I teit you withoute bofte."  
-She made her redy to churcfi to fare,  
+"I am greed'," fayd' dame Gaynor,  
+" Butt me wold' thynk' more honor,  
+And yor worfhypp' mofte ;"—  
+" Ye, as for that, lady, God' you fane,  
+This daye my worfhypp' woll I haue,  
+I tell you withoute bofte."  
+She made her redy to church to fare,  
 And' alle the State that there ware,  
 Syrs, withoute lefyng ;  
 She was arayd' in the richeft man',  
 More freffher than dame Gayno'.  
-Her arayment was worth ij mM' mark',  
+Her arayment was worth iij Ml mark',  
 Of good' red' nobles ftyff and' ftark',  
-So rychely fhe was begoh ;  
-For alle her rayment fhe bare the bett  
-Of fowlneffe, that eu I hard? tett,  
-So fowit a fowe fawe neu mafi.  
-For to make a fhortt conclufioh,  
-Whefi fhe was weddyd', they hyed' theym home,  
+So rychely fhe was begon ;  
+For alle her rayment fhe bare the bell  
+Of fowlneffe, that eu I hard' tell,  
+So fowll a fowe fawe neu man.  
+For to make a fhortt conclufion,  
+When fhe was weddyd', they hyed' theym home,  
 To mete alle they went;  
-This fowit lady bygafi the high defe,  
-She was fut foutt, and' nott curteys,  
+This fowll lady bygan the high defe,  
+She was full foull, and' nott curteys,  
 So fayd' they alle, verament.  
-Whehi the fuyce cam her before,  
+When the fuyee cam her before,  
 She ete as moche as vj. that ther wore,  
-That m'vaylyd' many a maf;  
-Her naylys were long ynchys 1°,  
+That m'vaylyd' many a man;  
+Her naylys were long ynchys iij,  
 Therwith fhe breke her mete vngoodly,  
 Therfore fhe ete alone.  
-She ette iij®. capons, and' alfo curlues 1°,  
-And' greatt bake meté fhe ete vp, pde,  
-Al mefi therof had' m'vaytt ;  
+She ette iij. capons, and' alfo curlues iij,  
+And' greatt bake mete fhe ete vp, pde,  
+Al men therof had' m'vayll ;  
 Ther was no mete ca her before,  
-
-De qed 2.  
-
-298 § WEDDYNGE OF SYR GAWENE.  
-
 Butt fhe ete itt vp, leffe and' more,  
-That praty fowit damefett.  
-Att mefi theft that et: her fawe,  
-Bad' the deviit her bonys gnawe,  
-Botfi knyght and fquyre ;  
-So fhe ete tyit mete was done,  
-Tyit they drewe clothes, and' had' waffhen,  
+That praty fowll damefell.  
+All mefi then that eu her fawe,  
+Bad' the devill her bonys gnawe,  
+Both knyght and fquyre ;  
+So fhe ete tyll mete was done,  
+Tyll they drewe clothes, and' had' waffhen,  
 As is the gyfe and' man'.  
-Meny meifi wold? fpeke of ditfe fuice,  
+Meny mein wold? fpeke of diufe fuice,  
 I trowe ye may wete inowgti ther was,  
 Both of tame and' wylde;  
 In king Arthours courte ther was no wontt,  
-That myght be gotteh with mannys hond',  
+That myght be gotten with mannys hond',  
 Noder in foreft ne in feld'.  
-Ther were mynftrall¢ of dite contrey  
+Ther were mynftralle of diuse contrey  
 
-625  
+* * * * * *
 
-Pm  
+*[A leaf here is wanting.]*
 
-" A, £ Gawen, fyi I haue you wed',  
-Shewe me yot cortefy in bed',  
-With rygthit itt may nott be denyed'.  
-I-wyfe, £ Gawen," that lady fayd',  
+* * * * * *
+
+" A, S. Gawen, fyn I haue you wed',  
+Shewe me yor cortefy in bed',  
+With rygtht itt may nott be denyed'.  
+I-wyfe, S. Gawen," that lady fayd',  
 " And' I were fayre, ye wold' do a noder brayd',  
 Butt of wedlok' ye take no hed';  
 Yett for Arthours fake, kyffe me att the lefte,  
 I pray you do this att my requeft,  
-Lett fe, howe ye caf {pede."  
-£ Gawen fayd', " I wott do more  
-Theh for to kyffe, and' God' before! "  
-He turnyd' hym her vntitt;  
+Lett fe, howe ye can fpede."  
+S. Gawen fayd', " I woll do more  
+Then for to kyffe, and' God' before! "  
+He turnyd' hym her vntill;  
 He fawe her the fayreft creature,  
 That eu he fawe, withoute mefure,—  
-
-
-
-WEDDYNGE OF SYR GAWENE. ¢  
-
-She fayd', " whatt is yo" wytt?"  
-" A, Itu!" he! fayd', " whate ar ver  
-"£, Iam yot wyf', fecurly,  
+She fayd', " whatt is yor wyll?"  
+" A, Ihu!" he `[fhe, MS.]` fayd', " whate ar ye?"  
+"S., I am yor wyf', fecurly,  
 Why ar ye fo unkynde?"  
 " A, lady, I am to blame,  
 I cry you m'cy, my fayre madame,  
 Itt was nott in my mynde.  
-A lady ye ar fayre in my fygiit,  
-And' to day ye were the foulyft wygit,  
-That et I fawe with myne ie";  
+A lady ye ar fayre in my fyght,  
+And' to day ye were the foulyft wyght,  
+That eu I fawe with myne ie `[ien, MS.]`;  
 Wele is me, my lady, I haue you thus,"—  
-And' brafyd' her in his armys, and' gafi her kyffe,  
+And' brafyd' her in his armys, and' gan her kyffe,  
 And' made greatt joye, fycurly.  
-" Syr," fhe fayd', " thus fhatt ye me haue,  
+" Syr," fhe fayd', " thus fhall ye me haue,  
 Chefe of the one, fo God' me faue,  
-My beawty woit nott hold' ;  
-Wheder ye woit haue me fayre of nyght¢*.  
-And' as foutt of days to alle mefi fight¢ ;  
-[fol.137°.] Or els to haue me fayre of days,  
-And' of nyght¢ on the fowlyft wyfe,  
-The one ye muft ned¢ haue ;  
+My beawty woll nott hold' ;  
+Wheder ye woll haue me fayre of nyghte `[nyght, MS.]`.  
+And' as foull of days to alle men fighte ;  
+Or els to haue me fayre on days,  
+And' of nyghte on the fowlyft wyfe,  
+The one ye muft nede haue ;  
 Chefe the one or the oder,  
-Chefe of, f knygtit, which you is led,  
-Yo" worfhypp' for to faue."  
+Chefe of, S. knyght, which you is leu,  
+Yor worfhypp' for to faue."  
 " Alas!" fayd' Gawen, "the choyfe is hard',  
 To chefe the beft itt is froward',  
 Wheder choyfe that I chefe ;  
-To haue you fayre on nyght¢ and' no more,  
-That wold' greve my hartt rygfit fore,  
-And' my worfhypp' fhold' I lefe*.  
+To haue you fayre on nyghte and' no more,  
+That wold' greve my hartt ryght fore,  
+And' my worfhypp' fhold' I lefe `[lofe, MS.]`.  
 And' yf I defyre oft days to haue you fayre,  
-Thefi of nygtite I fhold' haue a fymple repayre,  
-Now faynh wold' I chofe the beft ;  
-I ne wott in thys world' whate I fhatt faye,  
-
-1 fhe, MS. 2 ien, MS. $ nyght, MS. 4 lofe, MS.  
-
-
-WEDDYNGE OF SYR GAWENE.  
-
+Theh of nyghte I fhold' haue a fymple repayre,  
+Now fayn wold' I chofe the beft ;  
+I ne wott in thys world' whate I fhall faye,  
 Butt do as ye lyft nowe, my lady gaye,  
 The choyfe I putt in yor fyft.  
-Euyf as ye wott I putt itt in yo" hand',  
-Lofe me whefi ye lyft, for I am bond',  
+Euyn as ye woll I putt itt in yor hand',  
+Lofe me when ye lyft, for I am bond',  
 I putt the choyfe in you;  
-Botti body and' goode, hartt, and' ely dele,  
-Ys alle yo" oun, for to by and' fett,  
+Both body and' goode, hartt, and' euy dele,  
+Ys alle yor oun, for to by and' fell,  
 That make I God' avowe!"  
-« Garam' cy, corteys knyght," fayd' the lady,  
-" Of alle erthly knygiite blyffyd' mott thou be,  
-For now am I worfhyppy@ ;  
-Thou fhait haue me fayre both day and' nygtit,  
-And@ ett whyle I lyve as fayre and' brygitt,  
+« Garam'cy, corteys knyght," fayd' the lady,  
+" Of alle erthly knygihe blyffyd' mott thou be,  
+For now am I worfhyppyd' ;  
+Thou fhall haue me fayre both day and' nyght,  
+And' eu whyle I lyve as fayre and' bryght,  
 Therfore be nott greuyd'.  
-For I was fhapeh by nygramancy,  
-With my ftepdame, God' haue ofi her m'cy !  
+For I was fhapen by nygramancy,  
+With my ftepdame, God' haue on her m'cy !  
 And' by enchauntement ;  
 And' fhold' haue bene oderwyse vnderftond',  
-Kuyf tyit the beft of Englond'  
+Euyn tyll the beft of Englond'  
 Had' wedyd' me, verament.  
-And' alfo he fhold' geve me the fouleynte,  
+And' alfo he fhold' geve me the foueynte,  
 Of alle his body and' goode, fycurly,  
 Thus was I difformyd' ;  
-And' thou, £ knygtit, curteys Gawen,  
-Has gevyfi me the fotleynte, fteyn,  
-That wott not wrott the erly ne late.  
-Kyffe me, f knygiit, euyfi now here,  
+And' thou, S. knyght, curteys Gawen,  
+Has gevyn me the foueynte, fteyn,  
+That woll not wroth the erly ne late.  
+Kyffe me, S. knyght, euyn now here,  
 I pray the, be glad', and' make ‘good' chere,  
-For welt is me begoh" ;—  
+For well is me begoh" ;—  
 Ther they made joye, oute of mynde,  
-So was itt reasoh and' co's of kynde,  
+So was itt reason and' cors of kynde,  
 They two theym felf alone.  
 She thankyd' God' and' Mary mylde,  
 She was recoud of that that fhe was defoylyd',  
 So dyd' S. Gawen ;  
-He made myrtti alle in her boure,  
-
-
-WEDDYNGE OF SYR GAWENE. 298"  
-
+He made myrth alle in her boure,  
 And' thankyd' of alle oure Sauyoure,  
-I tett you, in certeyf.  
-With joye & myrtt they wakyd' tytt daye,  
-And' thah wold' ryfe that fayre maye',  
-" Ye fhatt nott," S. Gawen fayd' ;  
-"We wott lye, & flepe tyit pryme,  
-And' thefi lett the kyng cait vs to dyne,"—  
-" ] am greed'," thef fayd' the mayd'.  
-Thus itt paffyd' forth tyit mid-daye,—  
-" Syrs'," quod' the kyng, " lett vs go and' afaye,  
+I tell you, in certeyn.  
+With joye & myrth they wakyd' tyll daye,  
+And' than wold' ryfe that fayre maye `[mayd, MS.]`,  
+" Ye fhall nott," S. Gawen fayd' ;  
+"We woll lye, & flepe tyll pryme,  
+And' then lett the kyng call vs to dyne,"—  
+" ] am greed'," then fayd' the mayd'.  
+Thus itt paffyd' forth tyll mid-daye,—  
+" Syrs `[ Syr, MS.]`," quod' the kyng, " lett vs go and' afaye,  
 Yf S. Gawen be of lyve;  
-I am futt ferd' of S. Gawen,  
-Nowe left the fende haue hym flayh,  
-Nowe wold' I fayfi preve.  
+I am full ferd' of S. Gawen,  
+Nowe left the fende haue hym flayn,  
+Nowe wold' I fayn preve.  
 Go we nowe," fayd' Arthoure the kyng,  
-" We wott go fe theyr vpryfyng, |  
-[fol.°.] Howe welt that he hath fped' ;"—  
-They cam to the chambre, alle in certeyfh,  
+" We woll go fe theyr vpryfyng,  
+Howe well that he hath fped' ;"—  
+They cam to the chambre, alle in certeyn,  
 " Aryfe," fayd' the kyng to S. Gawen,  
 " Why flepyft thou fo long in bed? ?"  
 " Mary," quod' Gawen, " S. kyng, ficurly,  
 I wold' be glad' and' ye wold' lett me be,  
-For I am futt weit att eas ;  
-Abyde, ye fhatt fe the dore vndone,  
-I trowe that ye wott fay I am wett goon,  
+For I am full well att eas ;  
+Abyde, ye fhall fe the dore vndone,  
+I trowe that ye woll fay I am well goon,  
 I am futt loth to ryfe."  
 Syr Gawen rofe, and' in his hand' he toke  
 His fayr lady, and' to the dore he fhoke,  
-And' opynyd' the dore futt fayre ;  
+And' opynyd' the dore full fayre ;  
 She ftod' in her fmok' alle by that fyre,  
-Her her? was to her knees as red' as gold' wyre,—  
+Her her `[hed, MS.]` was to her knees as red' as gold' wyre,—  
 " Lo! this is my repayre.  
-Lo!" fayd' Gawen Arthoure vntitt,  
+Lo!" fayd' Gawen Arthoure vntill,  
 « Syr, this is my wyfe, dame Ragnell,  
 That fauyd' onys yor lyfe ;'—  
-
-i mayd, MS. 2 Syr, MS. 3 hed, MS.  
-
-298 WEDDYNGE OF SYR GAWENE.  
-
-He told' the kyng and' the queef hem beforf,  
+He told' the kyng and' the queen hem beforn,  
 Howe fodenly from her fhap fhe dyd' torne,  
-" My lord', nowe be yo® leve."  
-And' whate was the caufe fhe forfhapefi was,  
-Syr Gawen told' the kyng, bott more and' leffe,  
-"I thank' God'," fayd' the queef ;  
-" | wenyd', S. Gawen, fhe wold' the haue myfcaryed',  
+" My lord', nowe be yor leve."  
+And' whate was the caufe fhe forfhapen was,  
+Syr Gawen told' the kyng, both more and' leffe,  
+"I thank' God'," fayd' the queen ;  
+" I wenyd', S. Gawen, fhe wold' the haue myfcaryed',  
 Therfore in my hartt I was fore agrevyd',  
-Butt the contrary is here feef."  
-Ther was game, revett, and' playe,  
-And' ely mah to other gafi faye,  
-" She is a fayre wyghit ;"  
-Tha the kyng theym alle gafi tett,  
+Butt the contrary is here feen."  
+Ther was game, revell, and' playe,  
+And' euy man to other gan faye,  
+" She is a fayre wyght ;"  
+Than the kyng theym alle gan tell,  
 How did' held' hym att nede dame Ragnell,  
-" Or my detti had' bene dygtit."  
-Ther the kyng told' the queefi, by the rood',  
+" Or my deth had' bene dyght."  
+Ther the kyng told' the queen, by the rood',  
 Howe he was beftad' in Inglefwod',  
 With S. Gromy fom' Joure;  
-And' whate othe the kngyht made hym f{were,  
-" Or elle he had' slay me rygtit there,  
+And' whate othe the kngyht made hym fwere,  
+" Or elle he had' slay me ryght there,  
 Wtoute m'cy or mefure.  
 This fame lady, dame Ragnell,  
-From my det fhe dyd' help me ryght wett,  
+From my det fhe dyd' help me ryght well,  
 Alle for the love of Gawen ;"—  
 The Gawen told' the king alle to-geder,  
-Howe forfhapen fhe was witt her ftepmoder  
-Tytt a knyght had' holpefi her agayf.  
-Ther fhe told' the kyng fayre and' wett,  
-How Gawen gave her the folleynte ely dett,  
+Howe forfhapen fhe was with her ftepmoder  
+Tyll a knyght had' holpen her agayf.  
+Ther fhe told' the kyng fayre and' well,  
+How Gawen gave her the foueynte euy dell,  
 And' whate choyfe fhe gave to hym ;—  
 " God' thank' hym of his curtesye,  
 He favid' me from chaunce and' vilony,  
-
-
-
-780  
-That was futt foutt and' grym.  
+That was full foull and' grym.  
 Therfore, curteys knyght and' hend' Gawen,  
-Shatt I ned wrath the, fteyi,  
+Shatt I ned wrath the, fteyn,  
 That pmyfe nowe here I make;  
 Whille that I lyve I fhal be obayfaunt,  
-
-WEDDYNGE OF SYR GAWENE. *  
-
-To God' aboue I fhatt itt warraunt,  
-And? new with you to debate."  
-" Garam' cy, lady," theft fayd' Gawen,  
-" Wt you I hold' me futt weit content,  
+To God' aboue I fhall itt warraunt,  
+And' neu with you to debate."  
+" Garam'cy, lady," then fayd' Gawen,  
+" Wt you I hold' me full well content,  
 And' that I truft to fynde ;'—  
-He fayd', " my loue fhatt fhe haue,  
-Therafter nede fhe neti more craue,  
+He fayd', " my loue fhall fhe haue,  
+Therafter nede fhe neu more craue,  
 For fhe hath bene to me fo kynde."  
-The queef fayd', and' the ladyes alle,  
-* She is the fayreft nowe in this halle,  
-I fwere by Seynt Johfi !—  
-My loue, lady, ye fhatt haue eu,  
+The queen fayd', and' the ladyes alle,  
+" She is the fayreft nowe in this halle,  
+I fwere by Seynt John !—  
+My loue, lady, ye fhall haue eu,  
 For that ye favid' my lord' Arthoure,  
-As I am a gentilwomaf."  
-Syr Gawen gatt oh her Gyngolyh,  
-That was a good' knygiit of {trengti and' kynf,  
+As I am a gentilwoman."  
+Syr Gawen gatt on her Gyngolyn,  
+That was a good' knygiit of strength and' kyng,  
 And' of the Table Round' ;  
-Att ely greatt feft that lady fhold' be,  
+Att euy greatt feft that lady fhold' be,  
 Of fayrneffe fhe bare away the bewtye,  
 Wher fhe yed' oft the ground'.  
 Gawen louyd' that lady, dame Ragnell,  
-In alle his lyfe he louyd' none fo wett,  
-I tett you, withoute lefyng ;  
-As a coward' he lay by her both day and' nygtht,  
-Neti wold' he haunt justyng aryght,  
-Ther att m'vaylyd' Arthoure the kyng'.  
+In alle his lyfe he louyd' none fo well,  
+I tell you, withoute lefyng ;  
+As a coward' he lay by her both day and' nyght,  
+Neu wold' he haunt justyng aryght,  
+Ther att m'vaylyd' Arthoure the kyng `[kyng Arthoure, MS.]`.  
 She prayd' the kyng, for his gentilnes,  
-To be good? lord' to S. Gromy i-wyffe,  
+To be good' lord' to S. Gromy i-wyffe,  
 Of that to you he hath offendyd' ;—  
-" Yes, lady, that shait I nowe, for yor fake,  
-For I wott wett he may nott amendf€ make,  
-He dyd' to me futt vnhend'."  
+" Yes, lady, that shall I nowe, for yor fake,  
+For I wott well he may nott amende make,  
+He dyd' to me full vnhend'."  
 Nowe for to make you a fhort conclufyoh,  
-I caft me for to make ah end' fuit fone,  
-Of this gentyit lady ;  
-
-
-
-298 ¥ WEDDYNGE OF SYR GAWENE.  
-
-She lyvyd' with # Gawen butt yerys v.  
+I caft me for to make ah end' full fone,  
+Of this gentyll lady ;  
+She lyvyd' with S. Gawen butt yerys v.  
 That grevyd' Gawen alle his lyfe,  
-) i I tett you, fecurly.  
-HP | ‘a In her lyfe fhe grevyd' hym new,  
-: / Therfor was neu womafi to hym lever,  
-aA Thus leves my talkyng ;  
+I tell you, fecurly.  
+In her lyfe fhe grevyd' hym neu,  
+Therfor was neu woman to hym lever,  
+Thus leves my talkyng ;  
 She was the fayreft lady of all `[ale, MS.]` Englond',  
-Whe? fhe was on lyve, I vnderstond',  
+When fhe was on Iyve, I vnderstond',  
 So fayd' Arthoure the kyng.  
 ' Thus endyth the aduenture of kyng Arthoure,  
 That oft in his days was grevyd' fore,  
-And' of the weddyng of Gawen? ;  
+And' of the weddyng of Gawen ;  
 Gawen was weddyd' oft in his days,  
-Butt fo welt he net lovyd' womaf always,  
-As I haue hard' mef fayn.  
-This aduenture befett in Inglefwod',  
+Butt fo well he net lovyd' woman always,  
+As I haue hard' men fayn.  
+This aduenture befell in Inglefwod',  
 As good' kynge Arthoure of huntyng yod',  
-Thus haue I hard' mef tett ;  
-Nowe, God', as thou were in Bethleme bori,  
-
-
-DONE
-
+Thus haue I hard' men tell ;  
+Nowe, God', as thou were in Bethleme born,  
 Suffer neu her foules be forlorne,  
 In the brynnyng fyre of hell!  
 And', Ihu, as thou were borne of a virgyn,  
@@ -965,13 +882,52 @@ Help hym oute of daunger that made this tale,
 For therin he hath bene long;  
 And' of greatt pety help thy funt,  
 For body & foull I yeld' into thyne hand',  
-For paynes he hath ftrong. 
+For paynes he hath ftrong.
 
-Here endyth the weddyng of Syr Gawen and Dame Ragnell, for helpyng of Kyng Arthoure.  
+*Here endyth the weddyng of Syr Gawen and Dame Ragnell, for helpyng of Kyng Arthoure.*
+```
 
-Notes:
+Notes pp.358-360
 
-TO DO
+Marriage of Sir Gawaine.
+
+THIS fragment is borrowed from the text of the Percy Manuscript, as given in the *"Reliques of Ancient English Poetry,"* vol. iii. p. 350, edit. 1794. Dr. Percy supplied the deficiencies in a very ingenious manner, and inserted the ballad thus amended in the first edition of his collection, 8vo, 1764, and repeated it in all subsequent impressions ; but this mode of editing ancient poetry having justly been blamed by Ritson and Pinkerton, the Bishop in the fourth edition annexed the fragment, "with all its defects, inaccuracies and errata," in order to show the state of the poem in the MS. Ritson reprinted the genuine and the *amended* texts in parallel columns in the Dissertation prefixed to his *Metrical Romances*, 8vo, 1802, p. ex, and the ballad in its improved form was introduced also by Lewis into his *Tales of Wonder*, vol. ii. p. 362, 8vo, 1802. The Bishop was of opinion that this poem was more ancient than the time of Chaucer, and that he borrowed from it his *Wife of Bathe's tale* (See *Cambro-Briton*, vol. i. p. 256, 8vo, 1820) ; and Sir Walter Scott in a letter to George Ellis writes, that the tale of Sir Gawayne’s Foul Lady is originally Scaldic, as appears in the history of Hrolf Kraka, edited py Torfzeus, 12mo, Havn. 1715, cap. vii. (*Life*, by Lockhart, vol.i. p. 334.) The passage itself is quoted from the *Saga* by Scott in his *Border Minstrelsy*, vol. ii. p. 140, in illustration of the old Scotish ballad of King Henrie, which preserves very remarkably the legend of the Scandinavian monarch, Helgius.
+
+Warton says in a note to his *"History of English Poetry,"* vol. ii. p. 41, ed. 1894, "I must not forget here, that Sir Gawaine, one of Arthur's champions, is celebrated in a separate romance. Among Tanner’s Manuscripts we have *The Weddynge of Sir Gawaine*, Numb. 455, Bibl. Bodl. It begins, ‘ Be ye blythe, and listeneth to the lyf of a lorde riche.’" It would have given me much pleasure to have included this romance in the present volume, but Warton’s reference is erroneous, and although the Rev. Dr. Bandinel with the greatest courtesy undertook a minute and laborious search for the poem in question, it was without success. Warton’s notorious inaccuracy in matters of this sort forms a sad blot in his otherwise very useful and entertaining work, of which a *critical* edition is still much desiderated.
+
+P. 289, 1.32. *Tearne-wadling.*
+
+See previous Note, in p. 330. `[P. 95, st.i.1.2. By the Terne Wahethelyne. This is still the name of a small tarn or lake, which covers about an hundred acres of land in the forest of Inglewood, near Hesketh in Cumberland. Towards the north-east end were the remains, in 1794, of an ancient castle, called popularly Castle Hewin. Hutchinson’s Cumberland, i. 491. The spot is again alluded to in the romance-tale or ballad on the Marriage of Sir Gawayne, printed by Percy, Reliques, iii. 351, ed. 1794, and reprinted in the Appendix to the present volume. Consult Ritson’s King Arthur, p. 93.]`
+
+P. 293, 1. 116. *Sir Lancelott and Sir Steven bold.*
+
+The name of the second of these champions does not occur in the Round Table romances.
+
+*Ibid.* 1. 120.  
+*Soe did Sir Banier and Str Bore,*  
+*Sir Garrett with them, soe gay.*
+
+*Banier* is probably a mistake for *Beduer*, the king’s constable. Sir *Bore* is Bors de Gauves. (See previous Note, p. 313.) Sir *Garett* is *Gareth* or *Gaheriet*, the younger brother of Sir Gawayne ; and his adventures, under the surname of *Beaumayns*, occupy an entire book,—the seventh,—in the *Morte d’ Arthur*, vol. i. pp. 186-245. He took the part of Lancelot against his brothers, but was accidentally killed by him on the occasion of the rescue of queen Guenever. *Ibid.* vol. ii. p. 403. Revenge for his loss prompted Sir Gawayne to induce king Arthur to cross the sea to attack Lancelot, which ultimately proved the destruction of the whole of the *Table Ronde*. Sir Walter Scott in a Note on *Sir Tristrem*, p. 379, ed. 1833, quotes a "romance of Sir *Gaheret*," in which the knight plays at chess with a beautiful fairy, [Floribelle, a *suivante* of the fairy Morgana, ] and is vanquished, but is afterwards liberated from his confinement by his cousin [brother] Gawayne, who wins the game by a move long afterwards called *l’échec de Gauvain*, and now *léchec du berger*, or fool's-mate. In reality there is no such romance, but the adventure here alluded to occurs in an episodical tale of Gawayne and his three brothers, analysed in the *Bibliotheque des Romans, Juillet*, 1777, pp. 87-122. I may here venture to correct another venial error of Scott, who in the same work, p. 416, quotes from Gower the lines,
+
+There was Tristrem, which was beloved  
+With bele Isolde; and Lancelot  
+Stode with Guenor, and *Galahote*  
+With his lady.
+
+Sir Walter argues, that Gower is here incorrect, since *Galahaut* or *Galahad* had no paramour. But Gower is perfectly accurate, and alludes to *Gallehault*, king of the *loingtaines isles* or *de oultre les marches*, whose mistress was Malchault, lady in attendance on queen Guenever, and by whose instrumentality the intrigue of Lancelot with her mistress was brought about. See the *Roman de Lancelot*, vol. i. ff. lxxxiii-v, edit. 1513. Scott confounds this *Gallehault* with *Galaad*, the immaculate son of Lancelot, who accomplished the adventure of the Sangreal.
+
+---
+https://archive.org/details/cu31924072606613/page/n65/mode/2up
+
+The Legend of Sir Gawain; studies upon its original scope and significance
+by Weston, Jessie Laidlay, 1850-1928
+
+Publication date 1897
+
+p48
+
+... In the fragmentary poem of the *The Marriage of Sir Gawayne* `[Sir Gawayne, Madden, p. 288.]` we find the hero, in order to rescue King Arthur from the snares of a powerful enchanter, chivalrously wedding the magician's sister, a lady of unexampled hideousness. On the marriage night she reveals herself as beautiful as she was previously repulsive, and gives her husband the choice whether he will have her beautiful by night, and hideous by day, or vice versA. Gawain, with that courtesy for which he was famous, leaves the decision to the lady ; whereupon she tells him she has been laid under a spell to preserve this repulsive form till she finds a knight courteous enough 'to give her her will.' The spell is now broken, and she will be beautiful alike by night and by day.
+
 
 ---
 https://archive.org/details/originalsanalogu00furnuoft
@@ -1394,6 +1350,425 @@ Other English tellings of it are to be found in Gower's Confessio Amantis, and i
 Both this free version, and the rather closer one of _The Wedding of Sir Gawain_ come from a common original in which Gawain was hero, since Chaucer is unlikely to have added an Arthurian background, and yet, because of the discrepancy in dates, cannot have used the present version of The Wedding. Malory must have known either this or its predecessor, for he mentions Sir Gromersomer Joure. `[Identical with Sir Grummor Grummorson.]`
 
 There is little remarkable in the poem's style, which is very much inferior to _The Wife of Bath's Tale_, although less crude and grotesque than the other works of the ‘primitive' group. Had the Chaucerian version stronger associations with Arthurian literature, it would rank as second only to Sir Gawain and the Green Knight. As it is, it hardly falls within our scope, having no more than a name or two and half a dozen lines of introduction to identify it with Arthur and his court.
+
+---
+
+https://archive.org/details/talesofwonder02lewirich/page/362/mode/2up
+
+Tales of wonder;
+by Lewis, M. G. (Matthew Gregory), 1775-1818; Scott, Walter, Sir, 1771-1832; Southey, Robert, 1774-1843; Leyden, John, 1775-1811
+
+Publication date 1801
+
+Vol. 2
+
+pp. 362-378
+
+No. XLV.
+
+THE MARRIAGE OF SIR GAWAINE.
+
+From " Percy's Reliques of Ancient English Poetry.
+
+PART I.
+
+King Arthur lives in merry Carleile,
+And seemely is to see ;  
+And there with him Queene Guenever,  
+That bride soe bright of blee.
+
+And there with him Queene Guenever,  
+That bride so bright in bowre :  
+And all his barons about him stoode,  
+That were both stiffe and stowre.
+
+The King a royale Christmasse kept,  
+With mirth and princelye cheare ;  
+To him repaired many a knighte,  
+That came both farre and neare.
+
+And when they were to dinner sette,  
+And cups went freely round ;  
+Before them came a faire damselle,  
+And knelt upon the ground.
+
+—" A boone, a boone, O kinge Arthure,  
+" I beg a boone of thee ;  
+" Avenge me of a carlish knighte,  
+" Who hath shent my love and mee.
+
+" At Tearne-Wadling `[Tearne-Wadling is the name of a small lake near Hasketh in Cumberland, on the road from Penrith to Carlisle. There is a tradition, that an old castle once stood near the lake, the remains of which were not long since visible. Tearh, in the dialect of that country, signifies a small lake, and is still in use. ]` his castle stands,  
+" Near to that lake so fair,  
+" And proudlye rise the battlements,  
+" And streamers deck the air.
+
+" Noe gentle knighte, nor ladye gay,  
+" May pass that castle-walle :  
+" But from that foule discurteous knighte,  
+" Mishappe will them befalle.
+
+" Hee's twyce the size of common men,  
+" Wi' thewes, and sinewes stronge,  
+" And on his backe he bears a clubbe,  
+" That is both thicke and longe.
+
+" This grim me Barone 'twas our harde happe,  
+" But yester morne to see ;  
+" When to his bowre he bare my love,  
+" And sore misused mee.
+
+" And when I told him, King Arthure  
+" As lyttle shold him spare ;  
+" Goe tell, say'd hee, that cuckold kinge,  
+" To meete mee if he dare" —
+
+Upp then sterted King Arthure,  
+And sware by hille and dale,  
+He ne'er wolde quitt that grimme Barone,  
+Till he had made him quail.
+
+"Goe fetch my sword Excalibar :  
+" Goe saddle mee my steede ;  
+" Nowe, by my faye, that grimme Barone  
+" Shall rue this ruthfuUe deede.
+
+And when he came to Tearne-Wadlinge  
+Benethe the castle walk :  
+" Come forth; come forth ; thou proude Barone,  
+" Or yielde thyself my thralle."
+
+On magicke grounde that castle stoode,  
+And fenced with many a spelle :  
+Noe valiant knighte could tread thereon,  
+But straite his courage felle.
+
+Forth then rush'd that carlish Knight,  
+King Arthure felte the charme :  
+His sturdy sinewes lost their strengthe,  
+Downe sunke his. feeble arme.
+
+— " Nowe yield thee, yield thee, Kinge Arthure,  
+" Now yield thee unto mee ;  
+" Or fighte with mee, or lose thy lande,  
+" Noe better termes maye bee.
+
+" Unlesse thou sweare upon the rood,  
+" And promise on thy faye,  
+" Here to returne to Tearne-Wadling,  
+" Upon the new-yeare's daye ;
+
+" And bringe me worde what thing it is  
+" All women moste desyre ;  
+" This is thy ransome, Arthur" he sayes,  
+" He have noe other hyre." —
+
+King Arthur then helde up his hande,  
+And sware upon his faye,  
+Then took his leave of the grimme Barone  
+And faste hee rode awaye.
+
+And he rode east, and he rode west,  
+And did of all inquyre,  
+What thing it is all women crave,  
+And what they most desyre.
+
+Some told him riches, pompe, or state ;  
+Some rayment fine and brighte ;  
+Some told him mirthe ; some flatterye ;  
+And some a jollye knighte.
+
+In letters all King Arthur wrote,  
+And seal'd them with his ringe :  
+But still his minde was helde in doubte,  
+Each tolde a different thinge.
+
+As ruthfulle he lode over a more,  
+He saw a Ladye sette  
+Betweene an oke, and a greene holleye,  
+All clad in red scarlette.
+
+Her nose was crookt and turnd outwarde,  
+Her chin stoode all awrye ;  
+And where as sholde have been her mouthe,  
+Lo ! there was set her eye ;
+
+Her haires, like serpents, clung aboute  
+Her cheekes of deadlye hewe :  
+A worse-form'd ladye than she was,  
+No man mote ever viewe.
+
+To hail the King in seemelye sorte  
+This ladye was fulle faine ;  
+But King Arthure all sore amaz'd,  
+No aunswere made againe.
+
+— " What wight art thou," the Ladye say'd,  
+" That wilt not speake to mee ;  
+" Sir, I may chance to ease thy paine,  
+" Though I bee Joule to see.
+
+— " If thou wilt ease my paine," he sayd,  
+" And helpe me in my neede ;  
+" Ask what thou wilt, thou grimme Ladye,  
+" And it shall bee thy meede." — 
+
+— " O sweare mee this upon the roode,  
+" And promise on thy faye ;  
+" And here the secrette I will telle,  
+" That shall thy ransome paye" —
+
+King Arthur promised on his faye,  
+And sware upon the roode :  
+The secrette then the Ladye told,  
+As lightlye well she cou'de.
+
+— " Now this shall be my paye," sir King,  
+" And this my guerdon bee,  
+" That some yong fair and courtlye knight,  
+" Thou bringe to marrye mee," —
+
+Fast then pricked King Arthure  
+Ore hille, and dale, and downe :  
+And soone he founde the Barone's bowre,  
+And soone the grimme Baroune.  
+
+He bare his clubbe upon his backe,  
+Hee stoode bothe stiffe and stronge ;  
+And, when he had the letters reade,  
+Awaye the letters flunge.
+
+— " Nowe yielde thee, Arthur, and thy lands,  
+" All forfeit unto mee ;  
+" For this is not thy paye, sir King,  
+" Nor may thy ransome bee." —
+
+— " Yet hold thy hand, thou proud Barone,  
+" I praye thee hold thy hand ;  
+" And give mee leave to speake once more  
+" In reskewe of my land.
+
+" This morne, as I came over a more,  
+" I saw a Ladye sette  
+" Betwene an oke, and a greene holleye,  
+" All clad in red scarlette ;
+
+" She sayes, all women will have their wille,  
+" This is their chief desyre ;  
+" Now yield, as thou art a Barone true,  
+" That I have payd mine hyre."
+
+— " An earlye vengeaunce light on her !"  
+The carlish Baron swore :  
+" Shee was my sister tolde thee this,  
+" And shee's a misshapen whore.
+
+" But here I will make mine avowe,  
+" To do her as ill a turne :  
+" For an ever I may that foule theefe gette,  
+" In a fyre 1 will her burne"—
+
+PART II.
+
+Homewarde pricked King Arthure,  
+And a wearye man was hee ;  
+And soone he mette Queene Guenever,  
+That bride so bright of blee.  
+
+— " What newes I what newes I thou noble King,  
+" Howe, Arthur, hast thou sped?  
+" Where hast thou hung the carlish Knighte?  
+" And where bestow'd his head ?" —
+
+— " The carlish Knight is safe for mee,  
+" And free fro mortal harme :  
+" On magicke grounde his castle stands,  
+" And fenced with many a charme.
+
+" To bowe to him I was fulle faine,  
+" And yielde mee to his hand ;  
+" And but for a lothly Ladye, there  
+" I sholde have lost my land.  
+
+" And nowe this fills my hearte with woe,  
+" And sorrowe of my life;  
+" I swore a yonge and courtlye knight,  
+" Sholde marry her to his wife." —  
+
+Then bespake him Sir Gawaine,  
+That was ever a gentle knighte :  
+— " That lothly Ladye I will wed ;  
+" Therefore be merrye and lighte"—
+
+— " Nowe naye, nowe naye, good Sir Gawaine;  
+" My sister's sonne yee bee ;  
+" This lothlye Ladye's all too grirame,  
+" And all too foule for yee.
+
+" Her nose is crookt, and turn'd outwardc;  
+" Her chin stands all awrye ;  
+" A worse form'd ladye than shee is  
+" Was never seen with eye." —
+
+— " What though her chin stand all awrye,  
+" And shee be foule to see :  
+" I'll marry her, unkle, for thy sake,  
+" And I'll thy ransome bee."—
+
+— " Nowe thankes, nowe thankes, good Sir Gawaine;  
+" And a blessing thee betyde !  
+" To-morrow wee'll have knights and squires,  
+" And wee'll goe fetch thy bride.
+
+" And wee'll have hawkes, and wee'll have houndes,  
+" To cover our intent ;  
+" And wee'll away to the greene forest,  
+" As wee a hunting went—
+
+Sir Lancelot, Sir Stephen bolde,  
+They rode with them that daye ;  
+And foremoste of the companye  
+There rode the stewarde Kaye :
+
+Soe did Sir Banier and Sir Bore,
+And eke Sir Garratte keene ;  
+Sir Tristram too, that gentle knight,  
+To the forest freshe and greene.
+
+And when they came to the greene forrest,  
+Beneathe a faire holley tree,  
+There sate that Ladye in red scarlette  
+That unseemelye was to see.
+
+Sir Kay beheld that Lady's face,  
+And looked upon her sweere ;  
+— " Whoever kisses that Ladye," he sayes,  
+" Of his kisse he stands in feare." —
+
+Sir Kay beheld that Ladye againe,  
+And looked upon her snout ;  
+— " Whoever kisses that Ladye," he sayes,  
+" Of his kisse he stands in doubt" —
+
+— " Peace, brother Kay," sayde Sir Gawaine,  
+" And amend thee of thy life;  
+" For there is a Knight amongst us all,  
+" Must marry her to his wife,"-—
+
+— " What, marry this foule queane," quoth Kay,  
+" I' the devils name anone ;  
+" Gett mee a wife wherever I maye,  
+" In sooth shee shall be none,"—
+
+Then some tooke up their hawkes in haste,  
+And some tooke up their houndes ;  
+And sayd they wolde not many her,  
+For cities, nor for townes.
+
+Then bespake him King Arthure,  
+And sware there by this daye ;  
+—" For a little foule sighte and mislikinge,  
+" Yee shall not say her naye." —
+
+— " Peace, Lordings, peace;" Sir Gawaine sayd ;  
+" Nor make debate and strife ;  
+" This lothlye Ladye I will take,  
+" And marry her to my wife"—
+
+-— " Nowe thankes, nowe thankes, good Sir Gawaine,  
+" And a blessinge be thy meede !  
+" For as I am thine owne ladye,  
+" Thou never shalt rue this deede." —
+
+Then up they took that lothly Dame,  
+And home anone they bringe :  
+And there Sir Gawaine he her wed,  
+And married her with a ringe.
+
+And when they were in wed-bed laid,  
+And all were done awaye :  
+— " Come turne to mee, mine owne wed-lord,  
+" Come turne to mee I praye." —
+
+Sir Gawaine scant could lift his head,  
+For sorrowe and for care ;  
+When, lo I instead of (hat lothelye Dame,  
+Hee sawe a young Ladye faire.
+
+Sweet blushes stayned her rud-red cheeke,  
+Her eyen were blacke as sloe :  
+The ripening cherrye swellde her lippe,  
+And all her necke was snowe.
+
+Sir Gawaine kiss'd that Lady faire,  
+Lying upon the sheete :  
+And swore, as he was a true Knighte,  
+The spice was never soe sweete.
+
+Sir Gawaine kiss'd that Lady brighter  
+Lying there by his side :  
+— " The fairest flower is not soe faire :  
+" Thou never can st bee my bride."—
+
+— " I am thy bride, mine owne deare Lorde,  
+" The same whiche thou didst knowe,  
+" That was soe lothlye, and was wont  
+" Upon the wild more to goe.
+
+" Nowe, gentle Gawaine, chuse," quoth shee,  
+" And make thy choice with care ;  
+" Whether by night, or else by daye,  
+" Shall I be foule or faire ?" —
+
+— " To have thee foule still in the night,  
+" When I with thee should playe !  
+" I had rather farre, my lady deare,  
+" To have thee foule by daye."—
+
+— " What, when gaye ladyes goe with their lordes  
+" To drinke the ale and wine ;  
+" Alas I then I must hide myself,  
+" I must not goe with mine?"—
+
+— " My faire ladye," Sir Gawaine sayd,  
+" I yield me to thy skille ;  
+" Because thou art mine owne ladye  
+" Thou shalt have all thy wille." —
+
+— " Nowe blessed be thou, sweete Gawaine,  
+" And the daye that I thee see ;  
+" For as thou seest mee at this time,  
+" See shall I ever bee.  
+
+" My father was an aged knighte,  
+" And yet it chanced soe,  
+" He tooke to wife a false ladye,  
+" Whiche broughte me to this woe.  
+
+" Shee witch'd mee, being a faire yonge maidc,  
+" In the greene forest to dwelle ;  
+" And there to abyde in lothlye shape,  
+" Most like a fiend of helle.
+
+" Midst mores and mosses; woods, and wilds;  
+" To lead a lonesome life :  
+" Till some yong faire and courtlye knighte ,  
+" Wolde marrye me to his wife ;
+
+" Nor fully to gaine mine owne trewe shape,  
+" Such was her devilish skille ;  
+" Until he wolde yielde to be ruled by mee,  
+" And let mee have all my wille.
+
+" She witchd my brother to a carlish boore,  
+" And made him stiffe and stronge :  
+" And built him a bowre on magicke grounde,  
+" To live by rapine and wronge.
+
+" But now the spelle is broken throughe,  
+" And wronge is turnde to righte ;  
+" Henceforth 1 shall be a faire ladye,  
+" And hee be a gentle knighte,"—
+
 
 ---
 
