@@ -33,6 +33,11 @@ by Holbein, Hans, 1497-1543; Douce, Francis, 1757-1834
 Publication date 1833
 May be possible to draw on this as a frame tale; eg Death having a conversation with each person as he picks them up, so rsomewone's tale that ends with death arriving.
 
+https://archive.org/details/dancesofdeaththr01holb/page/20/mode/2up
+The Dances of death, through the various stages of human life : wherein the capriciousness of that tyrant is exhibited: in forty-six copper-plates
+by Holbein, Hans, 1497-1543. Totentanz; Deuchar, David, 1743-1808; Mechel, Christian von, 1737-1817
+
+Publication date 1803
 
 https://archive.org/details/TheDanceOfDeathExhibited/page/n285/mode/2up
 Plates apper p263+ on, descriptions p253--262
@@ -54,7 +59,11 @@ by Warthin, Aldred Scott, 1866-1931. n 79062897
 
 Publication date 1931
 
-
+https://archive.org/details/gri_33125008440030/page/n199/mode/2up
+The English dance of death
+by Combe, William, 1742-1823; Rowlandson, Thomas, 1756-1827, illustrator; Ackermann, Rudolph, 1764-1834, publisher; Diggens, John, printer
+Publication date 1815
+Several volumes
 
 https://www.youtube.com/watch?v=3apyEWKLfdA
 Tallinn’s Dance of Death. Workshop of Lübeck master Bernt Notke. End of the 15th century. Art Museum of Estonia
@@ -65,3 +74,8 @@ The Tallinn Dance of Death in St Nicholas’ Church was first mentioned in 1603.
 http://www.dodedans.com/Eluebeck.htm
 
 charnel house
+
+
+
+
+Maybe also: https://archive.org/details/gratefuldeadhist00gerorich The grateful dead; the history of a folk story by Gerould, Gordon Hall, 1877- Publication date 1908
