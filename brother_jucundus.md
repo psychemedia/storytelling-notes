@@ -918,13 +918,18 @@ A comprehensive biography of Edward Henry Palmer can be found in *Littell's Livi
 
 > The illness which compelled Palmer to give up London had evidently been very serious, and his convalescence was tedious. Nor, when supposed to be well, did he feel any inclination to resume work as a clerk. So he stayed in Cambridge at his aunt's house, with no definite aim in life, but taking up now one thing, now another, after the manner of clever boys when they are at home for the holidays. He did a little literature in the way of burlesques, one of which, '*Ye Hole in ye Walle,*' a legend told after the manner of Ingoldsby, was afterwards published by Messrs. Macmillan; ...
 
-
 For more monkish tales, the following may be of interest:
 
-```{admononition} Fosbroke, manners and customs of British monasticism, 1843
+```{admonition} Fosbroke, manners and customs of British monasticism, 1843
 :class: seealso
 
 Thomas Dudley Fosbroke, [British Monachism: Or, Manners and Customs of the Monks and Nuns of England]() *To which are added ammners ans customs of ancient pilgrims, the consuetudinal of anchorets and hermits, and som accounts of persons who mde vows of chastity*, 1843
+```
+
+```{admonition} Gesta Romanorum, or Entertaining Moral Stories Invented By The Monks As A Fireside Recreation
+:class: seealso
+
+*Gesta Romanorum Or, Entertaining Moral Stories Invented By The Monks As A Fireside Recreation; And Commonly Applied In Their Discourses From The Pulpit Whence The Most Celebrated Of Our Own Poets And Others, From The Earliest Times*, 1824, [volume 1](https://archive.org/details/GestaRomanorumV1/), [volume 2](https://archive.org/details/GestaRomanorumV2/)
 ```
 
 A good hagiography might also turn up other interesting tales: maybe something like [The Golden Legend or Lives of the Saints, as englished by William Caxton](https://archive.org/search?query=The+Golden+Legend+or+Lives+of+the+Saints%2C+as+englished+by+William+Caxton&sort=date) (seven vols.).
