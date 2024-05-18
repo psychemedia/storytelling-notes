@@ -37,7 +37,7 @@ As ever, Jacobs provides notes as to his sources:
 
 ```{admonition} Jacons, *The Three Sillies [Notes]*
 Notes, p. 268
-
+:class: dropdown
 *Source.*— From *Folk-Lore Journal*, ii, 40-3; to which it was communicated by Miss C. Burne.
 
 Parallels. — Prof. Stephens gave a variant from his own memory in *Folk-Lore Becord*, iii. 155, as told in Essex at the beginning of the century. Mr. Toulmin Smith gave another version in *The Constitutional*, July 1, 1853, which was translated by his daughter, and contributed to *Mélusine*, t. ii. An Oxfordshire version was given in *Notes and Queries*, April 17, 1852. It occurs also in Ireland, Kennedy, "Fireside Stories," p. 9. It is Grimm's "Kluge Else," No. 34, and is spread through the world. Mr. Clouston devotes the seventh chapter of his "Book of Noodles" to the Quest of the Three Noodles
