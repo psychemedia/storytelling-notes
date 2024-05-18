@@ -1,0 +1,689 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>The Three Sillies &#8212; Storytelling Notes</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.1/css/all.min.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=384b581d" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css?v=0a3b3ea7" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae" />
+  <script src="_static/vendor/fontawesome/6.5.1/js/all.min.js?digest=8d27b9dea8ad943066ae"></script>
+
+    <script src="_static/documentation_options.js?v=a8e58a58"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=f281be69"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=efea14e4"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js?v=36754332"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'three-sillies';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Hudden, and Dudden, and Donald O’Neary" href="hudden_dudden.html" />
+    <link rel="prev" title="The Pedlar of Swaffham" href="pedlar-of-swaffham.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a id="pst-skip-link" class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="preface.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">Storytelling Notes</p>
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="preface.html">
+                    Preface
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales Told</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="the-wish-ring.html">The Wish Ring</a></li>
+<li class="toctree-l1"><a class="reference internal" href="yama-and-yami.html">Yama and Yami</a></li>
+<li class="toctree-l1"><a class="reference internal" href="man-no-story.html">The Man Who Had No Story</a></li>
+<li class="toctree-l1"><a class="reference internal" href="knight-york-fish-ring.html">The Fish and the Ring</a></li>
+<li class="toctree-l1"><a class="reference internal" href="three-heads-well.html">The Three Heads of the Well</a></li>
+<li class="toctree-l1"><a class="reference internal" href="twa-sisters-binnorie.html">Binnorie / Twa Sisters</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pedlar-of-swaffham.html">The Pedlar of Swaffham</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">The Three Sillies</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">As Found in "The Royal Hibernian Tales"</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="hudden_dudden.html">Hudden, and Dudden, and Donald O’Neary</a></li>
+<li class="toctree-l1"><a class="reference internal" href="blacksmith-devil-willy-wisp.html">Blacksmith and the Devil / Willy the Wisp</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Welsh Tales</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="gwion-bach.html">Ceridwen, Gwion Bach and Taliesin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
+<li class="toctree-l1"><a class="reference internal" href="bendigeidfran_branwen_second_branch.html">Bendigeidfran and Branwen</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Gipsy Tales</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="devils-violin.html">The Devil’s Violin</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Show Outlines</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="unforeseen-nonsense.html">Unforeseen Consequences — Verging on Nonsense</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">WIP or Need Telling Again</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="woolpit-green.html">The Green Children of Woolpit</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="too_much_time.html">Too Much Time</a></li>
+<li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Based On Events</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="press_gang.html">Tales of the Press Gang</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Storynotes Collections</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="elsewhere.html">Storynotes Elsewhere</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>The Three Sillies</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="the-three-sillies">
+<h1>The Three Sillies<a class="headerlink" href="#the-three-sillies" title="Link to this heading">#</a></h1>
+<p>This is one of the stories that appears widely in English folk-tale collectoins, although I donlt recall any particular examples of having heard it myself. From the breifest refreshers of the bones of the tale, I told it myself for the first time at &amp;Spoken Word at Monkton Arts* in May, 2024. Coming in at about 11 minutes, the scope for humour is plentiful. The tale ends as a “happiliy ever after”, with an opportunity to say there are fools everywhere, but one comment was that it missed a kicker (a topper, or a twist), at the end.</p>
+<p>The version that seems to appear most commonly in English folk-tale collexctions is the one published by Jacobs in his <em>English Fairy Tales</em>:</p>
+<div class="dropdown admonition">
+<p class="admonition-title">Jacobs, <em>The Three Sillies</em>, 1895</p>
+<p>English Fairy tales;
+Joseph Jacobs, 1895, <a class="reference external" href="https://archive.org/details/englishfairytale00jaco/page/268/mode/1up">pp. 11-17</a>.</p>
+<p>THE THREE SILLIES.</p>
+<p>ONCE upon a time there was a farmer and his wife who had one daughter, and she was courted by a gentleman. Every evening he used to come and see her, and stop to supper at the farmhouse, and the daughter used to be sent down into the cellar to draw the beer for supper. So one evening she had gone down to draw the beer, and she happened to look up at the ceiling while she was drawing, and she saw a mallet stuck in one of the beams. It must have been there a long, long time, but somehow or other she had never noticed it before, and she began a-thinking. And she thought it was very dangerous to have that mallet there, for she said to herself : “ Suppose him and me was to be married, and we was to have a son, and he was to grow up to be a man, and come down into the cellar to draw the beer, like as I’m doing now, and the mallet was to fall on his head and kill him, wliat a dreadful thing it would be !” And she put down the candle and the jug, and sat herself down and began a-crying.</p>
+<p>Well, they began to wonder upstairs how it was that she was so long drawing the beer, and her mother went down to see after her, and she found her sitting on the settle, crying, and the beer running over the floor. “ Why, whatever is the matter ?” said her mother, “ Oh, mother !” says she, “ look at that horrid mallet ! Suppose we was to be married, and was to have a son, and he was to grow up, and was to come down to the cellar to draw the beer, and the mallet was to fall on his head and kill him, what a dreadful thing it would be !” “ Dear, dear ! what a dreadful thing it would be !” said the mother, and she sat her down aside of the daughter and started a-crying, too. Then, after a bit, the father began to wonder that they didn’t come back, and he went down into the cellar to look after them himself, and there they two sat a-crying, and the beer running aU over the floor. “ Whatever is the matter ?” says he. “ Why,” says the mother, “ look at that horrid mallet. Just suppose, if our daughter and her sweetheart was to be married, and was to have a son, and he was to grow up, and was to come down into the cellar to draw the beer, and the mallet was to fall on his head and kill him, what a dreadful, thing it would be!’ “ Dear, dear, dear ! so it would !” said the father, and he sat himself down aside of the other two, and started a-crying.</p>
+<p>Now the gentleman got tired of stopping up in the kitchen by himself, and at last he went down into the cellar too, to see what they were after; and there they three sat a-crying side by side, and the beer running all over the floor. And he ran straight and turned the tap. Then he said : “ Whatever are you three doing, sitting there crying, and letting the beer run all over the floor?” “Oh!” says the father, “ look at that horrid mallet ! Suppose you and our daughter was to be married, and was to have a son, and he was to grow up, and was to come down into the cellar to draw the beer, and the mallet was to fall on his head and kill him !” And then they all started a-crying worse than before. But the gentleman burst out a-laughing, and reached up and pulled out the mallet, and then he said : “I’ve traveled many miles, and I never met three such big sillies as you three before ; and now I shall start out on my travels again, and when I can find three bigger sillies than you three, then I’ll come back and marry your daughter.” So he wished them good-by, and started off on his travels, and left them all crying because the girl had lost; her sweetheart.</p>
+<p>“Well, he set out, and he traveled a long way, and at last he came to a woman’s cottage that had some grass growing on the roof. And the woman was trying to get her cow to go up a ladder to the grass, and the poor thing durst not go. So the gentleman asked the woman what she was doing. “Why, lookye,” she said, “look at all that beautiful grass, I’m going to get the cow on to the roof to eat it. She’ll be quite safe, for I shall tie a string round her neck, and pass it down the chimney, and tie it to my wrist as I go about the house, so she can’t fall off without my knowing it.” “ Oh, you poor silly!” said the gentleman, “you should cut the grass and throw it down to the cow!” But the woman thought it was easier to get the cow up the ladder than to get the grass down, so she pushed her and coaxed her and got her up, and tied a string round her neck, and passed it down the chimney, and fastened it to her own wrist. And the gentleman went on his way, but he hadn’t gone far when the cow tumbled off the roof, and hung by the string tied round her neck, and it strangled her. And the weight of the cow tied to her wrist pulled the woman up the chimney, and she stuck fast halfway and was smothered in the soot.</p>
+<p>Well, that was one big silly.</p>
+<p><img alt="Cow being encouraged onto thatched roof" src="_images/three-sillies-cow.png" /></p>
+<p>And the gentleman went on and on, and he went to an inn to stop the night, and they were so full at the inn that they had to put him in a double-bedded room, and another traveler was to sleep in the other bed. The other man was a very pleasant fellow, and they got very friendly together; but in the morning, when they were both getting up, the gentleman was surprised to see the other hang his trousers on the knobs of the chest of drawers and run across the room and try to jump into them, and he tried over and over again, and couldn’t manage it; and the gentleman wondered whatever he was doing it for. At last he stopped and wiped his face with his handkerchief. “ Oh dear,” he says, “ I do think trousers are the most awkwardest kind of clothes that ever were. I can’t think who could have invented such things. It takes me the best part of an hour to get into mine every morning, and I get so hot ! How do you manage yours ?” So the gentleman burst out a-laughing, and showed him how to put them on ; and he was very much obliged to him, and said he never should have thought of doing it that way.</p>
+<p>So that was another big silly.</p>
+<p>Then the gentleman went on his travels again ; and he came to a village, and outside the village there was a pond, and round the pond was a crowd of people. And they had got rakes, and brooms, and pitchforks, reaching into the pond; and the gentleman asked what was the matter. “Why,” they say, “ matter enough ! Moon’s tumbled into the pond, and we can’t rake her out anyhow !” So the gentleman burst out a-laughing, and told them to look up into the sky, and that it was only the shadow in the water. But they wouldn’t listen to him, and abused him shamefully, and he got away as quick as he could.</p>
+<p>So there was a whole lot of sillies bigger than them three sillies at home. So the gentleman turned back home again and married the farmer’s daughter, and if they didn’t live happy forever after, that’s nothing to do with you or me.</p>
+</div>
+<p>As ever, Jacobs provides notes as to his sources:</p>
+<div class="admonition-jacons-the-three-sillies-notes admonition">
+<p class="admonition-title">Jacons, <em>The Three Sillies [Notes]</em></p>
+<p>Notes, p. 268</p>
+<p><em>Source.</em>— From <em>Folk-Lore Journal</em>, ii, 40-3; to which it was communicated by Miss C. Burne.</p>
+<p>Parallels. — Prof. Stephens gave a variant from his own memory in <em>Folk-Lore Becord</em>, iii. 155, as told in Essex at the beginning of the century. Mr. Toulmin Smith gave another version in <em>The Constitutional</em>, July 1, 1853, which was translated by his daughter, and contributed to <em>Mélusine</em>, t. ii. An Oxfordshire version was given in <em>Notes and Queries</em>, April 17, 1852. It occurs also in Ireland, Kennedy, “Fireside Stories,” p. 9. It is Grimm’s “Kluge Else,” No. 34, and is spread through the world. Mr. Clouston devotes the seventh chapter of his “Book of Noodles” to the Quest of the Three Noodles</p>
+</div>
+<p>Here is a typical retelling:</p>
+<div class="dropdown admonition">
+<p class="admonition-title">In <em>English Fairy tales, retold by Flora Annie Steel</em>, 1918</p>
+<p><em>English Fairy tales, retold by Flora Annie Steel</em>, 1918, <a class="reference external" href="https://archive.org/details/englishfairytale0000noau/page/102/mode/2up">pp. 103-110</a>:</p>
+<p>THE THREE SILLIES</p>
+<p>ONCE upon a time, when folk were not so wise as they are nowadays, there lived a farmer and his wife who had one daughter. And she, being a pretty lass, was courted by the young squire when he came home from his travels.</p>
+<p>Now every evening he would stroll over from the Hall to see her and stop to supper in the farm-house, and every evening the daughter would go down into the cellar to draw the cider for supper.</p>
+<p>So one evening when she had gone down to draw the cider and had turned the tap as usual, she happened to look up at the ceiling, and there she saw a big wooden mallet stuck in one of the beams.</p>
+<p>It must have been there for ages and ages, for it was all covered with cobwebs ; but somehow or another she had never noticed it before, and at once she began thinking how dangerous it was to have the mallet just there.</p>
+<p>“For,” thought she, “supposing him and me was married, and supposing we was to have a son, and supposing he were to grow up to be a man, and supposing he were to come down to draw cider like as I’m doing, and supposing the mallet were to fall on his head and kill him, how dreadful it would be!”</p>
+<p>And with that she put down the candle she was carrying and seating herself on a cask began to cry. And she cried and cried and cried.</p>
+<p>Now, upstairs, they began to wonder why she was so long drawing the cider ; so after a time her mother went down to the cellar to see what had come to her and found her, seated on the cask, crying ever so hard, and the cider running all over the floor.</p>
+<p>“Lawks a mercy me!” cried her mother, “whatever is the matter ?”</p>
+<p>“Oh, mother!” says she between her sobs, “it’s that horrid mallet. Supposing him and me was married and supposing we was to have a son, and supposing he was to grow up to be a man, and supposing he was to come down to draw cider like as I’m doing, and supposing the mallet were to fall on his head and kill him, how dreadful it would be!”</p>
+<p>“Dear heart!” said the mother, seating herself beside her daughter and beginning to cry: “How dreadful it would be!”</p>
+<p>So they both sat a-crying.</p>
+<p>Now after a time, when they did not come back, the farmer began to wonder what had happened, and going down to the cellar found them seated side by side on the cask, crying hard, and the cider running all over the floor.</p>
+<p>“Zounds !” says he, “whatever is the matter ?”</p>
+<p>“Just look at that horrid mallet up there, father,” moaned the mother. “Supposing our daughter was to marry her sweetheart, and supposing they was to have a son, and supposing he was to grow to man’s estate, and supposing he was to come down to draw cider like as we’re doing, and supposing that there mallet was to fall on his head and kill him, how dreadful it would be !”</p>
+<p>“Dreadful indeed!” said the father, and seating him¬ self beside his wife and daughter started a-crying too.</p>
+<p>Now upstairs the young squire wanted his supper ; so at last he lost patience and went down into the cellar to see for himself what they were all after. And there he found them seated side by side on the cask a-crying, with their feet all a-wash in cider, for the floor was fair flooded. So the first thing he did was to run straight and turn off the tap. Then he said :</p>
+<p>“What are you three after, sitting there crying like babies, and letting good cider run over the floor ?”</p>
+<p>Then they all three began with one voice, “Look at that horrid mallet ! Supposing you and me/she was married, and supposing we / you had a son, and supposing he was to grow to man’s estate and supposing he was to come down here to draw cider like as we be, and supposing that there mallet was to fall down on his head and kill him, how dreadful it would be!”</p>
+<p>Then the young squire burst out a-laughing, and laughed till he was tired. But at last he reached up to the old mallet and pulled it out, and put it safe on the floor. And he shook his head and said, “I’ve travelled far, and I’ve travelled fast, but never have I met with three such sillies as you three. Now I can’t marry one of the three biggest sillies in the world. So I shall start again on my travels, and if I can find three bigger sillies than you three, then I’m come back and be married — not otherwise.”</p>
+<p>So he wished them good-bye and started again on his travels, leaving them all crying ; this time because the marriage was off !</p>
+<p>Well, the young man travelled far and he travelled fast, but never did he find a bigger silly, until one day he came upon an old woman’s cottage that had some grass growing on the thatched roof.</p>
+<p>And the old woman was trying her best to cudgel her cow into going up a ladder to eat the grass. But the poor thing was afraid and durst not go. Then the old woman tried coaxing, but it wouldn’t go. You never saw such a sight ! The cow getting more and more flustered and obstinate, the old woman getting hotter and hotter.</p>
+<p>At last the young squire said, “It would be easier if you went up the ladder, cut the grass, and threw it down for the cow to eat.”</p>
+<p>“A likely story that,” says the old woman. “A cow can cut grass for herself. And the foolish thing will be quite safe up there, for I’ll tie a rope round her neck, pass the rope down the chimney, and fasten tother end to my wrist, so as when I’m doing my bit o’ washing, she can’t fall off the roof without my knowing it. So mind your own business, young sir.”</p>
+<p>Well, after a while the old woman coaxed and codgered and bullied and badgered the cow up the ladder, and when she got it on to the roof she tied a rope round its neck, passed the rope down the chimney, and fastened tother end to her wrist. Then she went about her bit of washing, and young squire he went on his way.</p>
+<p>But he hadn’t gone but a bit when he heard the awfullest hullabaloo. He galloped back and found that the cow had fallen off the roof and got strangled by the rope round its neck, while the weight of the cow had pulled the old woman by her wrist up the chimney, where she had got stuck half-way and been smothered by the soot !</p>
+<p>“That is one bigger silly,” quoth the young squire as he journeyed on. “So now for two more !”</p>
+<p>He did not find any, however, till late one night he ar¬ rived at a little inn. And the inn was so full that he had to share a room with another traveller. Now his room-fellow proved quite a pleasant fellow, and they foregathered, and each slept well in his bed.</p>
+<p>But next morning when they were dressing what does the stranger do but carefully hang his breeches on the knobs of the tallboy.</p>
+<p>“What are you doing?” asks young squire.</p>
+<p>“I’m putting on my breeches,” says the stranger; and with that he goes to the other end of the room, takes a little run, and tried to jump into the breeches.</p>
+<p>But he didn’t succeed, so he took another run and another try, and another and another and another, until he got quite hot and flustered, as the old woman had got over her cow that wouldn’t go up the ladder. And all the time young squire was laughing fit to split, for never in his life did he see anything so comical.</p>
+<p>Then the stranger stopped a while and mopped his face with his handkerchief, for he was all in a sweat. It s very well laughing,” says he, “but breeches are the most awkwardest things to get into that ever were. It takes me the best part of an hour every morning before I get them on. How do you manage yours ?”</p>
+<p>Then young squire showed him, as well as he could for laughing, how to put on his breeches, and the stranger was ever so grateful and said he never should have thought of that way.</p>
+<p>“So that,” quoth young squire to himself, “is a second bigger silly.” But he travelled far, and he travelled fast without finding the third, until one bright night when the moon was shining right overhead he came upon a village. And outside the village was a pond, and round about the pond was a great crowd of villagers. And some had got rakes, and some had got pitchforks, and some had got brooms. And they were as busy as busy, shouting out, and raking, and forking, and sweeping away at the pond.</p>
+<p>“What is the matter?” cried young squire, jumping off his horse to help. “Has any one fallen in ?”</p>
+<p>“Aye! Matter enough,” says they. “Can’t ee see moon’s fallen into the pond, an’ we can’t get her out nohow ?”</p>
+<p>And with that they set to again raking, and forking, and sweeping away. Then the young squire burst out laughing, told them they were fools for their pains, and bade them look up over their heads where the moon was riding broad and full. But they wouldn’t, and they wouldn’t believe that what they saw in the water was only a reflection. And when he insisted they began to abuse him roundly and threaten to duck him in the pond. So he got on his horse again as quickly as he could, leaving them raking and forking and sweeping away ; and for all we know they may be at it yet !</p>
+<p>But the young squire said to himself, “There are many more sillies in this world than I thought for ; so I’ll just go back and marry the farmer’s daughter. She is no sillier than the rest.”</p>
+<p>So they were married, and if they didn’t live happy ever after, that has nothing to do with the story of the three sillies.</p>
+</div>
+<div class="warning admonition">
+<p class="admonition-title">TO DO - Date of Hartlands’ <em>English fairy and other folk tales</em></p>
+<p>I properly need to fix the publication date of this…</p>
+</div>
+<p>And by Hartland:</p>
+<div class="dropdown admonition">
+<p class="admonition-title">E.S. HArtland,  <em>English fairy and other folk tales</em></p>
+<p>Edwin Sidney Hartland, <em>English fairy and other folk tales</em>. 1906? 1890?, <a class="reference external" href="https://archive.org/details/englishfairyothe00hartiala/page/260/mode/2up">pp260-4</a></p>
+<p>THE THREE SILLIES. <code class="docutils literal notranslate"><span class="pre">[Folk-Lore</span> <span class="pre">Journal,</span> <span class="pre">vol.</span> <span class="pre">ii.</span> <span class="pre">p.</span> <span class="pre">40.]</span></code></p>
+<p>Once upon a time there was a farmer and his wife who had one daughter, and she was courted by a gentleman. Every evening he used to come and see her, and stop to supper at the farmhouse, and the daughter used to be sent down into the cellar to draw the beer for supper. So one evening she was gone down to draw the beer, and she happened to look up at the ceiling while she was drawing, and she saw an axe stuck into one of the beams. <code class="docutils literal notranslate"><span class="pre">[Miss</span> <span class="pre">Burne,</span> <span class="pre">who</span> <span class="pre">collected</span> <span class="pre">this</span> <span class="pre">story,</span> <span class="pre">informs</span> <span class="pre">me</span> <span class="pre">that</span> <span class="pre">she</span> <span class="pre">finds</span> <span class="pre">the</span> <span class="pre">dangerous</span> <span class="pre">tool</span> <span class="pre">was,</span> <span class="pre">not</span> <span class="pre">an</span> <span class="pre">axe,</span> <span class="pre">but</span> <span class="pre">&quot;a</span> <span class="pre">great</span> <span class="pre">big</span> <span class="pre">wooden</span> <span class="pre">mallet,</span> <span class="pre">as</span> <span class="pre">some</span> <span class="pre">one</span> <span class="pre">had</span> <span class="pre">left</span> <span class="pre">sticking</span> <span class="pre">there</span> <span class="pre">when</span> <span class="pre">they'd</span> <span class="pre">been</span> <span class="pre">making-up</span> <span class="pre">the</span> <span class="pre">beer,&quot;</span> <span class="pre">i.e.,</span> <span class="pre">stopping</span> <span class="pre">up</span> <span class="pre">the</span> <span class="pre">barrels.]</span></code> It must have been there a long, long time, but somehow or other she had never noticed it before, and she began a-thinking. And she thought it was very dangerous to have that axe there, for she said to herself: “ Suppose him and me was to be married, and we was to have a son, and he was to grow up to be a man, and come down into the cellar to draw the beer, like as I’m doing now, and the axe was to fall on his head and kill him, what a dreadful thing it would be ! “ And she put down the candle and the jug, and sat herself down and began a-crying.</p>
+<p>Well, they began to wonder upstairs how it was that she was so long drawing the beer, and her mother went down to see after her, and she found her sitting on the setluss crying, and the beer running over the floor. “ Why whatever is the matter ? “ said her mother. “ Oh, mother ! “ says she, “ look at that horrid axe ! Suppose we was to be married, and was to have a son, and he was to grow up, and was to come down to the cellar to draw the beer, and the axe was to fall on his head and kill him, what a dreadful thing it would be ! “ “ Dear, dear ! what a dreadful thing it would be ! “ said the mother, and she sat her down aside of the daughter and started a-crying too. Then after a bit the father began to wonder that they didn’t come back, and he went down into the cellar to look after them himself, and there they two sat a-crying, and the beer running all over the floor. “Whatever is the matter?” says he. “ Why,” says the mother, “ look at that horrid axe. Just suppose, if our daughter and her sweetheart was to be married, and was to have a son, and he was to grow up, and was to come down into the cellar to draw the beer, and the axe was to fall on his head and kill him, what a dreadful thing it would be ! “ “ Dear, dear, dear ! so it would ! “ said the father, and he sat himself down aside of the other two, and started a-crying.</p>
+<p>Now the gentleman got tired of stopping up in the kitchen by himself, and at last he went down into the cellar too, to see what they were after ; and there they three sat a-crying side by side, and the beer running all over the floor. And he ran straight and turned the tap. Then he said : “ Whatever are you three doing, sitting there crying, and letting the beer run all over the floor ? “ “ Oh I “ says the father, “ look at that horrid axe ! Suppose you and our daughter was to be married, and was to have a son, and he was to grow up, and was to come down into the cellar to draw the beer, and the axe was to fall on his head and kill him!” And then they all started a-crying worse than before. But the gentleman burst out a-laughing, and reached up and pulled out the axe, and then he said: “ I’ve travelled many miles, and I never met three such big sillies as you three before; and now I shall start out on my travels again, and when I can find three bigger sillies than you three, then I’ll come back and marry your daughter.” So he wished them good-bye, and started off on his travels, and left them all crying because the girl had lost her sweetheart</p>
+<p>Well, he set out, and he travelled a long way, and at last he came to an old woman’s cottage that had some grass growing on the roof. And the old woman was trying to get her cow to go up a ladder to the grass, and the poor thing durst not go. So the gentleman asked the old woman what she was doing. “Why, lookye,” she said, “look at all that beautiful grass. I’m going to get the cow on to the roof to eat it. She’ll be quite safe, for I shall tie a string round her neck, and pass it down the chimney, and tie it to my wrist as I go about the house, so she can’t fall off without my knowing it.” “ Oh, you poor old silly ! “ said the gentleman, “you should cut the grass and throw it down to the cow I “ But the old woman thought it was easier to get the cow up the ladder than to get the grass down, so she pushed her and coaxed her and got her up, and tied a string round her neck, and passed it down the chimney, and fastened it to her own wrist. And the gentleman went on his way, but he hadn’t gone far when the cow tumbled off the roof, and hung by the string tied round her neck, and it strangled her. And the weight of the cow tied to her wrist pulled the old woman up the chimney, and she stuck fast half-way, and was smothered in the soot.</p>
+<p>Well, that was one big silly.</p>
+<p>And the gentleman went on and on, and he went to an
+nn to stop the night, and they were so full at the inn that they had to put him in a double-bedded room, and another traveller was to sleep in the other bed. The other man was a very pleasant fellow, and they got very friendly together; but in the morning, when they were both getting up, the gentleman was surprised to see the other hang his trousers on the knobs of the chest of drawers and run across the room and try to jump into them, and he tried over and over again, and couldn’t manage it ; and the gentleman wondered whatever he was doing it for. At last he stopped and wiped his face with his handkerchief. “ Oh dear,” he says, “I do think trousers are the most awkwardest kind of clothes that ever were. I can’t think who could have invented such things. It takes me the best part of an hour to get into mine every morning, and I get so hot ! How do you manage yours?” So the gentleman burst out a-laughing, and showed him how to put them on ; and he was very much obliged to him, and said he never should have thought of doing it that way. So that was another big silly.</p>
+<p>Then the gentleman went on his travels again ; and he came to a village, and outside the village there was a pond, and round the pond was a crowd of people. And they had got rakes, and brooms, and pikels (pitchforks), reaching into the pond ; and the gentleman asked what was the matter. “Why,” they says, “matter enough! Moon’s tumbled into the pond, and we can’t get her out anyhow ! “ So the gentleman burst out a-laughing, and told them to look up into the sky, and that it was only the shadow in the water. But they wouldn’t listen to him, and abused him shamefully, and he got away as quick as he could. <code class="docutils literal notranslate"><span class="pre">[Miss</span> <span class="pre">Burne</span> <span class="pre">writes</span> <span class="pre">to</span> <span class="pre">me</span> <span class="pre">as</span> <span class="pre">follows</span> <span class="pre">:</span> <span class="pre">—</span> <span class="pre">&quot;</span> <span class="pre">I</span> <span class="pre">find</span> <span class="pre">my</span> <span class="pre">sister-in-law,</span> <span class="pre">also</span> <span class="pre">a</span> <span class="pre">Staffordshire</span> <span class="pre">woman,</span> <span class="pre">knew</span> <span class="pre">the</span> <span class="pre">story</span> <span class="pre">when</span> <span class="pre">a</span> <span class="pre">child,</span> <span class="pre">with</span> <span class="pre">the</span> <span class="pre">variation</span> <span class="pre">of</span> <span class="pre">an</span> <span class="pre">old</span> <span class="pre">woman</span> <span class="pre">weeding</span> <span class="pre">by</span> <span class="pre">candlelight</span> <span class="pre">at</span> <span class="pre">noonday,</span> <span class="pre">instead</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">moonrakers.&quot;</span> <span class="pre">The</span> <span class="pre">story</span> <span class="pre">has</span> <span class="pre">many</span> <span class="pre">variants</span> <span class="pre">;</span> <span class="pre">but</span> <span class="pre">I</span> <span class="pre">know</span> <span class="pre">of</span> <span class="pre">none</span> <span class="pre">better</span> <span class="pre">told</span> <span class="pre">than</span> <span class="pre">this.]</span></code></p>
+<p>So there was a whole lot of sillies bigger than them all, and the gentleman turned back home again and married the farmer’s daughter.</p>
+</div>
+<p>Jacob’s credits Charlotte Burne, writing in <em>The Folk-lore journal</em>, 1884, as his source for the story:</p>
+<div class="admonition-collected-by-charlotte-burne-1862 admonition">
+<p class="admonition-title">Collected by Charlotte Burne, 1862</p>
+<p>In <em>The Folk-lore journal</em>, Vol. II (January-December 1884), 1884, <a class="reference external" href="https://archive.org/details/s7274id1398127/page/40/mode/1up">pp. 40-43</a>:</p>
+<p>VARIANT OF THE THREE NOODLES.</p>
+<p>Told in 1862 (and afterwards) by a nursemaid then aged sixteen, a native of Houghton, near Stafford.</p>
+<p>ONCE upon a time there was a farmer and his wife who had one only daughter, and she was courted by a gentleman.</p>
+<p>Every evening he used to come to see her, and stop to supper at the farmhouse, and the daughter used to be sent down into the cellar to draw the beer for supper. So one evening she was gone down to draw the beer, and she happened to look up at the ceiling while she was drawing, and she saw an axe stuck into one of the beams. <code class="docutils literal notranslate"><span class="pre">[I</span> <span class="pre">cannot</span> <span class="pre">feel</span> <span class="pre">certain</span> <span class="pre">whether</span> <span class="pre">it</span> <span class="pre">was</span> <span class="pre">not</span> <span class="pre">a</span> <span class="pre">hammer</span> <span class="pre">or</span> <span class="pre">some</span> <span class="pre">other</span> <span class="pre">tool</span> <span class="pre">in</span> <span class="pre">my</span> <span class="pre">nurse's</span> <span class="pre">story,</span> <span class="pre">and</span> <span class="pre">whether</span> <span class="pre">I</span> <span class="pre">may</span> <span class="pre">not</span> <span class="pre">have</span> <span class="pre">unconsciously</span> <span class="pre">borrowed</span> <span class="pre">the</span> <span class="pre">axe</span> <span class="pre">from</span> <span class="pre">Grimm's</span> <span class="pre">Kluge</span> <span class="pre">Else.]</span></code> It must have been there a long, long time, but somehow or other she had never noticed it before, and she began a-thinking. And she thought it was very dangerous to have that axe there, for she said to herself, “ Suppose him and me was to be married, and we was to have a son, and he was to grow up to be a man, and come down into the cellar to draw the beer, like as I’m doing now, and the axe was to fall on his head and kill him, what a dreadful thing it would be!” And she put down the candle and the jug, and sat herself down and began a-crying.</p>
+<p>Well, they began to wonder upstairs how it was that she was so long drawing the beer, and her mother went down to see after her, and she found her sitting on the setluss crying, and the beer running over the floor. “ Why, whatever is the matter?” said her mother. “Oh, mother!” says she, “look at that horrid axe! Suppose we was to be married, and was to have a son, and he was to grow up, and was to come down into the cellar to draw the beer, and the axe was to fall on his head and kill him, what a dreadful thing it would be!” “Dear, dear! what a dreadful thing it would be!” said the mother, and she sat her down aside of the daughter and started a-crying too.</p>
+<p>Then, after a bit, the father began to wonder that they didn’t come back, and he went down into the cellar to look after them himself, and there they two sat a-crying, and the beer running all over the floor. “ Whatever is the matter?” says he. “Why,” says the mother, “look at that horrid axe. Just suppose, if our daughter and her sweetheart was to be married, and was to have a son, and he was to grow up, and was to come down into the cellar to draw the beer, and the axe was to fall on his head and kill him, what a dreadful thing it would be!” “Dear, dear, dear! so it would!” said the father, and he sat himself down aside of the other two, and started a-crying.</p>
+<p>Now the gentleman got tired of stopping up in the kitchen by himself, and at last he went down into the cellar too to see what they were after; and there they three sat a-crying side by side, and the beer running all over the floor. And he ran straight and turned the tap. Then he said, “Whatever are you three doing, sitting there crying, and letting the beer run all over the floor?” “Oh!” says the father, “look at that horrid axe! Suppose you and our daughter was to be married, and was to have a son, and he was to grow up, and was to come down into the cellar to draw the beer, and the axe was to fall on his head and kill him!” And then they all started a-crying worse than before. But the gentleman burst out a-laughing, and reached up and pulled out the axe, and then he said, “I’ve travelled many miles, and I never met three such big sillies as you three before ; and now I shall start out on my travels again, and when I can find three bigger sillies than you three then I’ll come back and marry your daughter.” So he wished them good-bye, and started off on his travels, and left them all crying because the girl had lost her sweetheart.</p>
+<p>Well, he set out, and he travelled a long way, and at last he came to an old woman’s cottage that had some grass growing on the roof. And the old woman was trying to get her cow to go up a ladder to the grass, and the poor thing durstn’t go. So the gentleman asked the old woman what she was doing. “ Why, lookye,” she said, “look at all that beautiful grass. I’m going to get the cow on to the roof to eat it. She’ll be quite safe, for I shall tie a string round her neck, and pass it down the chimney, and tie it to my wrist as I go about the house, so she can’t fall off without my knowing it.” “Oh, you poor old silly!” said the gentleman, “you should cut the grass and throw it down to the cow!” But the old woman thought it was easier to get the cow up the ladder than to get the grass down, so she pushed her and coaxed her and got her up, and tied a string round her neck, and passed it down the chimney, and fastened it to her own wrist. And the gentlewian went on his way, but he hadn’t gone far when the cow tumbled off the roof, and hung by the string tied round her neck, and it strangled her. And the weight of the cow tied to her wrist pulled the old woman up the chimney, and she stuck fast half-way and was smothered in the soot.</p>
+<p>Well, that was one big silly.</p>
+<p>And the gentleman went on and on, and he went to an inn to stop the night, and they were so full at the inn that they had to put him in a double-bedded room, and another traveller was to sleep in the other bed. The other man was a very pleasant fellow, and they got very friendly together; but in the morning, when they were both getting up, the gentleman was surprised to see the other hang his trousers on the knobs of the chest of drawers <code class="docutils literal notranslate"><span class="pre">[Chests</span> <span class="pre">of</span> <span class="pre">drawers</span> <span class="pre">with</span> <span class="pre">knobbed</span> <span class="pre">handles</span> <span class="pre">are</span> <span class="pre">an</span> <span class="pre">invention</span> <span class="pre">of</span> <span class="pre">this</span> <span class="pre">century</span> <span class="pre">so</span> <span class="pre">this</span> <span class="pre">nust</span> <span class="pre">be</span> <span class="pre">a</span> <span class="pre">very</span> <span class="pre">recent</span> <span class="pre">variation</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">story.]</span></code> and run across the room and try to jump into them, and he tried over and over again and couldn’t manage it, and the gentleman wondered whatever he was doing it for. At last he stopped and wiped his face with his handkerchief. “Oh dear!” he says, “I do think trousers are the. most awkwardest kind of clothes that ever were. I can’t think who could have invented such things. It takes me the best part of an hour to get into mine every morning, and I get so hot! How do you manage yours?” So the gentleman burst out a-laughing, and showed him how to put them on, and he was very much obliged to him, and said he never should have thought of doing it that way.</p>
+<p>So that was another big silly.</p>
+<p>Then the gentleman went on his travels again: and he came to a village, and outside the village there was a pond, and round the pond was a crowd of people. And they had got rakes, and brooms, and pickels [= pitchforks] reaching into the pond, and the gentleman asked what was the matter. “ Why,” they says, “ matter enough ! moon’s tumbled into the pond, and we can’t get her out anyhow !” So the gentleman burst out a-laughing, and told them to look up into the sky, and that it was only the shadow in the water. But they wouldn’t listen to him, and abused him shamefully, and he got away as quick as he could.</p>
+<p>So there was a whole lot of sillies bigger than them all, and the gentleman turned back home. again and married the farmer’s daughter. <code class="docutils literal notranslate"><span class="pre">[References</span> <span class="pre">to</span> <span class="pre">parallel</span> <span class="pre">stories</span> <span class="pre">in</span> <span class="pre">Folk-Lore</span> <span class="pre">Record,</span> <span class="pre">vol.</span> <span class="pre">iii.</span> <span class="pre">p.</span> <span class="pre">156.</span> <span class="pre">See</span> <span class="pre">also</span> <span class="pre">the</span> <span class="pre">&quot;</span> <span class="pre">Three</span> <span class="pre">Goodies,&quot;</span> <span class="pre">[Not</span> <span class="pre">A</span> <span class="pre">Pin</span> <span class="pre">To</span> <span class="pre">Choose</span> <span class="pre">Between</span> <span class="pre">Them]</span> <span class="pre">in</span> <span class="pre">Popular</span> <span class="pre">Tales</span> <span class="pre">from</span> <span class="pre">the</span> <span class="pre">Norse,</span> <span class="pre">and</span> <span class="pre">another</span> <span class="pre">parallel</span> <span class="pre">in</span> <span class="pre">Campbell's</span> <span class="pre">Tales</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">Western</span> <span class="pre">Highlands,</span> <span class="pre">vol.</span> <span class="pre">ii.</span> <span class="pre">No.</span> <span class="pre">xlviii.</span> <span class="pre">Cf.</span> <span class="pre">No.</span> <span class="pre">xx.]</span></code></p>
+<p>Charlotte S. Burne.</p>
+</div>
+<p>Burne (and Jacobs) also credit a parallel version claimed to have been told in Essex around about 1800, that appeared in <em>The Folk-lore record</em>, 1888:</p>
+<div class="dropdown admonition">
+<p class="admonition-title">The Three Noodles, 1878</p>
+<p>In <em>The Folk-lore record</em>, iii., 1878, <a class="reference external" href="https://archive.org/details/folklorerecord3218unse/page/154/mode/2up">p155-6</a></p>
+<p>THE THREE NOODLES, OR THE HEAVEN <em>MIGHT</em> HAVE FALLEN,</p>
+<p>As told in Essex about the Year 1800.</p>
+<p>There was once an old woman who left her daughter at home to get dinner ready when she went to church. On coming back she found nothing in order, and her daughter crying by the fireplace. “Heyday! what now?” said the incomer. “Why, do you know,” replied the girl, “as I was going to cook the dinner a brick fell down the chimney, and, you know, it might have killed me !”</p>
+<p>In a little while the husband came in, and, finding both weeping, began, “What’s the matter here ? All in tears ?” “ Why,” said his wife, “do you know, that as Sally was going to get the dinner ready a brick fell down the chimney, and, you know, it might have killed her !”</p>
+<p>Shortly after entered Sally’s sweetheart, and, seeing the confusion, burst out, “Why ! how now ? What ! all weeping ?” “Why, do you know,” whimpered the father, “as Sally was going to cook the dinner a brick fell down the chimney, and, you know, it might have killed her !”</p>
+<p>“Well,” said the young man, “of all the fools I’ve seen you are the three greatest, and when I find three as great as you I’ll come back and marry your daughter.”</p>
+<p>So away he went, till he came to where an old body should bake, but bewailed her ill fortune, for she was trying in vain to drag the oven with a rope to the table where the dough lay. “Oh ! you ninny !” exclaimed the young man ; “you should take the bread to the oven, and not pull the oven to the bread. Well, that’s indeed fool number one.” “I didn’t think of that,” mumbled she.</p>
+<p>Then he wandered further — a long, long way — till he reached a place where an old wife should feed her cow with grass that grew on the roof of her cottage ; but, instead of throwing down the grass to the cow, she was trying to draw the cow up to the roof. “Hallo ! stupid !” exclaimed he, laughing, “cut the grass and cast it down to the cow, to be sure. Well, that’s fool number two, but it will be long enough ere I meet such another.”</p>
+<p>But, as he jogged along after this, he came to where a man was trying to put his breeches on. But, instead of holding them in his hand, he had propped them up with sticks, and was, to no purpose, taking run after run, to jump right into them. “Well, here indeed I have fool number three,” cried the lass’s sweetheart, turning home-wards. So he went back to her cottage, and married Sally, the old woman’s daughter.</p>
+<p>Parallels: Norse, Asbjornsen and Moe, vol. i. p. 10, <em>Somme Kjaeringer er slige</em>. German, Grimm, <em>Die kluge else</em>. Irish, Gerald Griffin, <em>Collegians</em>, p. 139; Kennedy’s <em>Fireside Stories of Ireland</em>, p. 9. Another English version, from Oxfordshire, in <em>Notes and Queries</em>, April 17, 1852, p. 363.</p>
+</div>
+<p>Another parallel was reported in <em>Notes &amp; Queries</em>, 1852:</p>
+<div class="dropdown admonition">
+<p class="admonition-title">“Thoughtful Moll”, N&amp;Q, 1852</p>
+<p>In <em>Notes and Queries</em>, Vol 5 Iss 129, April 17th, 1852, <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1852-04-17_5_129/page/362/mode/2up">pp.363-4</a></p>
+<p>POPULAR STORIES OF THE ENGLISH PEASANTRY, NO. I.</p>
+<p>Only a few years before the advent of Ambrose Merton, it was the sorrowful lament of Picken that he could find no legendary lore among our English peasantry. The rapid progress of education, according to him, had long ago banished our household traditions. Want of acquaintance with the shy and reserved character of John Bull probably proved a stumbling-block to our collector, for what a rich harvest has been reaped since his day! Our mythic treasures, however, are far from being exhausted ; and if we wish to emulate our brethren of Deutschland, we must do yet more. The popular tales and legends which abound among our rural population, are still for the most part ungarnered. The folk-tales of the sister kingdoms have been ably chronicled in the pages of Croker and Chambers, but our own have been almost entirely neglected. So much indeed is this the case, that we have had recourse to Germany in order to recruit our exhausted nursery literature; and readers of all sizes devour with avidity the charming versions of the Messieurs Taylor, few of them suspecting that stores of like character form the sole imaginative lore of their uneducated countrymen.</p>
+<p>Some years ago while in the country I made a practice of noting down the more curious traditionary stories which came under my notice ; and, with the kind permission of the Editor, will transfer a few portions of my researches to the columns of “N. &amp; Q.,” in the hope of inducing some of your rural correspondents to embark in a similar design. I am aware that certain antiquaries of the old régime still entertain doubts as to the utility of these collections. As vestiges, however, of primitive fiction, they will interest the philosophical inquirer; while their value as contributions to ethnological and philological science has been recognised by all writers on the subject.</p>
+<p>Premising that these tales, however puerile, are not associated with any such idea by the people among whom they were gathered, permit me to introduce your readers to “Thoughtful Moll,” in whom they will trace a remarkable resemblance to <em>Die kluge Else</em> of Grimm. It is from Oxfordshire, and affords no bad specimen of the facetious class of fables which often enliven the winter’s evening hearth-talk. I have endeavoured to preserve the narrators’ style and dialect.</p>
+<p>In a certain village there once lived a young woman so extremely noted for prudence and forethought, that she was known among her neighbours as “Thoughtful Moll.” Now this young lady had a thirsty soul of a sweetheart, who dearly loved a drop of October, and one day when he came a-wooing to her: “O Moll,” says he, “fill us a tot o’yeal <code class="docutils literal notranslate"><span class="pre">[Tot,</span> <span class="pre">a</span> <span class="pre">mug</span> <span class="pre">;</span> <span class="pre">yeal,</span> <span class="pre">ale]</span></code>, I be most mortal dry.” So Moll took a tot from the shelf and went down the cellar, where she tarried so long that her father sent down her sister to see what had come of her. When she got there she found her sister weeping bitterly. “What ails thee, wench?” said she. “O!” sobbed Moll, “don’t ye see that stwon in the arch, that stands out from the mortar like? Now, mayhaps, when I be married an have a bwoy, an he comes down here to draw beer, that big
+stwon’ll fall down on’m and crush’m.” “Thoughtful Moll!” said her admiring sister, and the two sat down and mingled their tears together. The drink not being forthcoming, another sister is despatched, and she also stops. Meantime Dob grew chafed at the delay, and went down himself to look after his love and his beer. When he hears the cause of the stoppage, he falls into a violent rage, and declares he won’t have Moll unless he can find three bigger fools than herself and sisters. It is noonday when Dob sets out on his travels; and the first person he saw was an old woman, who was running about and brandishing her bonnet in the sunshine: “ What bist at, Dame ?” says Dob. “Why,” said the old woman; “I’m  ketchin’ sunshine in this here bonnet to dry me earn as a’ leased in wet.” “ Mass!” quoth Dob, “that’s one fool.” And so on he went till he came to another Gothanite, who was dragging about the corn-fields a huge branch of oak. “What may ye be a-doin’ wi’ that, Measter?” says Dob. “Kaint ye see?” says the man; “I’m a gettin’ the crows to settle on this branch, they’ve had a’most all me crop a’ready.” “The devil you are!” said Dob, as he went on his way. He meets no one else for a long time, and almost despairs of completing his number, when at last he sees an old woman trying all she could to get a cow to go up a ladder. “What are ye arter there, Missus?” says he. “Dwunt ye see, young mon?” says she; “I’ma drivin’ this keow up the lather t’eat the grass aff the thack <code class="docutils literal notranslate"><span class="pre">[lather:</span> <span class="pre">ladder;</span> <span class="pre">thack:</span> <span class="pre">thatch]</span></code>.” “Deary me!” says Dob, “one fool makes many.” And so he turned back, and married Moll; with whom he lived long and happily, if not wisely.</p>
+<p>Besides Grimm’s version, we meet with a somewhat similar fable in Ireland. Vide Gerald Griffin’s <em>Collegians</em>, p. 139.</p>
+<p>Another pretty numerous class of our popular stories consists of those in which animals are made the actors. One of the most common of these relates to the strife between the fox and the hedgehog, who, according to the good people of Northamptonshire, are the two most astute animals in creation. How a couple of these worthies once fell out as to which was the swifter animal; and how, when they had put their speed to the trial, the cunning urchin contrived to defeat Reynard by placing his consort in the furrow which was to form the goal: so that when her mate had made a pretence of starting, she might jump out and feign to be himself just arrived. And how, after three desperate runs, the broken-winded fox fell a victim to the deceit, and was compelled to yield to his adversary ; who, ever since that day, has been his most inveterate enemy. This myth is curious on many accounts, for the hedgehog has always been regarded as an emblem of subtlety. Grimm gives a tale precisely similar, with the exception that it is a hare and not a fox who is deceived by the ruse. Aldrovandus likewise tells us much on the score of his craft; and it was probaby some mythic connexion between the animals which led Archilochus to class them together in the adage:</p>
+<p>Poll ols alapne all exinos en mega</p>
+<p>Your readers will also call to mind the fable of AElian, lib. iv., cap. xviii.</p>
+<p>T. Sternberg</p>
+</div>
+<p>A Scots variant is found in Campbell’s <em>Popular tales of the west Highlands</em>, 1860 (the following is taken from a later edition):</p>
+<div class="dropdown admonition">
+<p class="admonition-title">In Campbell, <em>Popular tales of the west Highlands</em>, 1860</p>
+<p>J. F. (John Francis) Campbell, <em>Popular tales of the west Highlands</em>, 1890, <a class="reference external" href="https://archive.org/details/cu31924080788676/page/388/mode/2up">pp. 388-92</a>:</p>
+<p>XLVIII.</p>
+<p>THE TALE OF SGIRE MO CHEALAG.</p>
+<p>From John Campbell, Strath Gairloch, Ross.</p>
+<p>THERE was once a young lad, and he went to seek a wife to Sgire mo Chealag ; and he married a farmer’s daughter, and her father had but herself. And when the time of cutting the peats came on, they went to the peat hag, the four.</p>
+<p>And the young wife was sent home to seek the food ; and when she had gone in she saw the speckled filly’s packsaddle over her head, and she began to cry, and to say to herself, —</p>
+<p>“What should she do if the packsaddle should fall, and kill herself and all that were to follow.”</p>
+<p>When the people who were gathering the peats found that she was long without coming, they sent her mother away to see what was keeping her, and when the carlin arrived she found the bride crying,</p>
+<p>“That it should come to me!”— Said she, “What came to thee ?”</p>
+<p>“Oh,” said she, “when I came in I saw the speckled filly’s packsaddle over my head, and what should I do if it should fall and kill myself and all that are to follow !”</p>
+<p>The old woman struck her palms. “It came to me this day ! If that should happen, what shouldst thou do, or I with thee !”</p>
+<p>The men who were in the peat-hag were thinking it long that one of the women was not coming, for hunger had struck them. So it was that the old man went home to see what was keeping the women, and when he went in it was so that he found the two crying, and beating their palms.</p>
+<p>“O, uvon !” said he, “what came upon you ?”</p>
+<p>“O!” said the old woman, “when thy daughter came home, did she not see the speckled filly’s packsaddle over her head, and what should she do if it should fall and kill herself and all that were to follow !”</p>
+<p>“ It came upon me !” said the old man, as he struck his palms, “ If that should happen !”</p>
+<p>The young man came at the mouth of night, full of hunger, and he found a leash crying together.</p>
+<p>“Oovoo!” said he, “what came upon you?” and when the old man told him ;</p>
+<p>“But,” said he, “the packsaddle did not fall.”</p>
+<p>When he took his meat he went to lie down ; and in the morning he said, “ My foot shall not stay till I see other three as silly as ye.”</p>
+<p>Then he went through Sgire mo Chealag, and he went into a house in it, and there was no man within but a leash of women, and they were spinning on five wheels.</p>
+<p>“I myself will not believe,” said he, “that it is of the people of this place that you are.”</p>
+<p>“Well, then,” said they, “it is not. We ourselves will not believe that it is of the people of the place that thou art thyself.”</p>
+<p>“It is not,” said he.</p>
+<p>“ Weel,” said they, “the men that there are in this place are so silly, that we can make them believe anything that we please ourselves.”</p>
+<p>“ Weel,” said he, “I have here a gold ring, and I will give it to the one amongst you who will best make her husband believe.”</p>
+<p>The first one that came home of the men, his wife said to him, “Thou art sick.”</p>
+<p>“Am I,” said he.</p>
+<p>“Oh thou art,” said she, “put off thee thy lot of clothes, and be going to lie down.”</p>
+<p>He did this, and when he was in the bed she said to him, “Thou art now dead.”</p>
+<p>“Oh, am I ?” said he.</p>
+<p>“Thou art,” said she, “shut thine eyes and stir not hand or foot.”</p>
+<p>And now he was dead.</p>
+<p>Then there came the second one home, and his wife said to him, “It is not thou.”</p>
+<p>“ O, is it not me ?” said he.</p>
+<p>And he went away and betook himself to the wood.</p>
+<p>Then here came the third to his own house, and he and his wife went to lie down, and a summons went out on the morrow for the burial of the dead man, but this wife would not let her husband get up to go there.</p>
+<p>When they saw the funeral going past the window, she told him to be rising. He arose in great haste, and he was seeking his set of lost clothes, and his wife said to him that his clothes were about him.</p>
+<p>“Are they?” said he.</p>
+<p>“They are,” said she : “Haste thee that thou mayest catch them.”</p>
+<p>Here, then, he went, running hard. And when the funeral company saw the man who was stripped coming, they thought it was a man who was out of his reason, and they themselves fled away, and they left the funeral. And the naked man stood at the end of the dead-chest. And there came down a man out of the wood, and he said to the man who was naked, —</p>
+<p>“Dost thou know me ?”</p>
+<p>“Not I,” said he, “I do not know thee.”</p>
+<p>“Oh, thou dost not ! if I were Tomas my own wife would know me.”</p>
+<p>“But why,” said he, “art thou naked?”</p>
+<p>“ Am I naked ? If I am, my wife told me that the clothes were about me.”</p>
+<p>“It was my wife that said to me that I myself was dead,” said the man in the chest.</p>
+<p>And when the men heard the dead speaking, they took their soles out (of that), and the wives came and they took them home, and it was the wife of the man who was dead that got the ring.</p>
+<p>And then he saw three as silly as the three he left at home, and returned home.</p>
+<p>And then he saw a boat going to fish, and there were twelve men counted going into the boat, and when she came to land, there was within her but eleven men, and there was no knowing which one was lost, for the one who was counting was not counting himself at all. And he was beholding this.</p>
+<p>“What reward would you give me if I should find you the man that is lost by you?”</p>
+<p>“Thou shalt get any reward if thou wilt find the man,” said they.</p>
+<p>“Sit there,” said he, “beside each other ;” and he seized a rung of a stick, and he struck the first one a sharp stroke.</p>
+<p>“ Mind thou that thou wert in her” (the boat).</p>
+<p>He kept on striking them, till he had roused twelve men, and made them bleed on the grass.</p>
+<p>And though they were pounded and wounded, it was no matter, they were pleased, because the man who was lost was found, and after the payment they made a feast for the one who had found the man who was lost.</p>
+<p>The tenants of Sgire mo Chealag had a loch on which they used to put fish, and so it was that they needs must drain the loch, to get fresh fish for the feast ; and when the loch was drained, there was not a single fish found on the loch but one great eel. Then they said, —</p>
+<p>“This is the monster that ate our fish.” Then they caught her, and they went away with her to drown her in the sea. And when he saw this he went home ; and on the way he saw four men putting a cow up to the top of a house that she might eat the grass that was growing on the house-top. Then he saw that the people of Sgire mo Chealag were men without intelligence ; but said he, “What reward will you give me, and I will bring the grass down ?”</p>
+<p>He went and he cut the grass, and he gave it to the cow, and went on before him.</p>
+<p>Then he saw a man coming with a cow in a cart, and the people of the town had found out that the man had stolen the cow, and that MOD a court should be held upon him, and so they did ; and the justice they did was to put the horse to death for carrying the cow.</p>
+<p>And to shew you that this tale is true, it was this that made Iain Lom the bard say :</p>
+<p>“ As law of ages that are not<br />
+As was Sgire mo Cheallag,<br />
+When doomed they the garron in mote.”</p>
+</div>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="pedlar-of-swaffham.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">The Pedlar of Swaffham</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="hudden_dudden.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Hudden, and Dudden, and Donald O’Neary</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Tony Hirst
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2024.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
