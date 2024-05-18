@@ -10,6 +10,7 @@ parts:
   - file: three-heads-well
   - file: twa-sisters-binnorie
   - file: pedlar-of-swaffham
+  - file: three-sillies
 - caption: As Found in "The Royal Hibernian Tales"
   chapters:
   - file: hudden_dudden
