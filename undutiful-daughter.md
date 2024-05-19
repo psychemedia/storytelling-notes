@@ -1,19 +1,19 @@
 # The Undutiful Daughter
 
-Once there was a girl, a pretty little girl, and she was known, as: "Bonnie Annie"... She grew up to be quite beautiful... and didn't she know it...
+*Once there was a girl, a pretty little girl, and she was known, as: "Bonnie Annie"... She grew up to be quite beautiful... and didn't she know it...*
+
+```{youtube}rV4yjHUBIw
+```
+
+I first came across this tale in Sabine Baring-Gould's *Old English Fairy Tales*. I've told it in the course of a sea-shanty evening, with the ending as Baring-Gould described it (the death of the female lead character), and which left the audience... slightly stunned. But the next item in the programme was a shanty band leading some singalong shanties, which brought the mood back up (as I expected it would...)
 
 ??first part feels as if it might have been repurposed from some other tale (the ballad starts off far more abruptly, wuth Captain presumably seducing the maiden)
 
 sbg's version is not very satisfactory, so I have made a start on repairing it so that it works for me, and is perhaps more in keeping with the original ballad.
 
+```{admonition} *The Undutiful Daughter*, 1895
+Sabine Baring-Gould, *Old English fairy tales*, 1895, [p141-156](https://archive.org/details/oldenglishfairyt00bari/page/140/mode/2up).
 
-https://archive.org/details/oldenglishfairyt00bari/page/140/mode/2up
-Old English fairy tales
-by Baring-Gould, S. (Sabine), 1834-1924
-
-Illustration, p140
-
-p141-156
 VII
 
 THE UNDUTIFUL DAUGHTER
@@ -115,6 +115,8 @@ Then the mosquito that was humming and flutter- ing above the tree-top, dropped 
 " That was Midge-Chinese. He said you would sleep under curtains of living green."
 
 Well ! the damsel was well pleased with what she had heard, but she wanted to know more.
+
+![Undutiful daughter title pages - gorl with witch](images/undutiful_daughter.jpeg)
 
 The witch said, " I have no more creatures whom I can ask, except only a worm that burrows in the ground, and he cannot speak."
 
@@ -324,19 +326,24 @@ But the lady in her coffin had got there before.
 
 It was even so. The first thing they saw on coming to land was the gold coffin washed up on the beach. Then they heaved it farther up, to where hung some green willows, and they buried the undutiful daughter under their waving, living green boughs — and so were fulfilled all the words of prophecy told concerning her. She had married a king. She had been driven in a coach by white horses, even by the foaming waves. She had slept in a golden bed, — her coffin, — and been rocked by attendants in blue gowns, even the sea-waves ; and she had now been laid under wavy curtains of living green, the branches of the willow.
 
+```
+
+```{admonition} Barine-Gould's notes, 1895
+:class: dropdown seealso
+
 Note.— The old ballad of "The Undutiful Daughter" is one that I have heard from half a dozen aged singers in the west of England. It is always sung to the melody to which "The Frog and the Crow " is set in Mr. W. Crane's The Bahys Opera. A similar ballad is found in Scotland, " Bonnie Annie " ; it is given by Kinloch, but is more imperfect than the English form of the ballad. In the story I have based on it, all the first part is new ; for obvious reasons I have been unable to follow the ballad exactly — that is to say, for reasons obvious to all who are acquainted with the ballad.
 
 There is an old printed ballad entitled " The Faithless Captain ; or, The Betrayed Virgin," which seems to be a comparatively modern recast of the older story. All the supernatural element has been eliminated from it. Instead of the damsel being cast over-board because the lot is thrown and falls to her, the ship is nearly wrecked, and she accidentally falls overboard. The body still follows the vessel, and, seeing his bride there in the water, the captain, who, after all, is not faithless, jumps overboard, and is drowned as well.
 
----
-https://archive.org/details/englishscottishp08chil/page/452/mode/1up?q=+%22undutiful+daughter%22
-The English and Scottish popular ballads
-by Child, Francis James, 1825-1896; Kittredge, George Lyman, 1860-1941
+```
 
-Publication date 1882
-p452-3
+Several years earlier, Baring-Gould's collection of the ballad in Devon merited a note in Child's collection alongside "Bonnie Annie", which Baring-Gould also likened to the Cornish ballad he had heard:
 
-24. Bonnie Annie.
+```{admonition} As "Bonnie Annie", in Child's *The English and Scottish popular ballads*, 1882
+
+Francis James Child, *The English and Scottish popular ballads*, 1882, [p452-3](https://archive.org/details/englishscottishp08chil/page/452/mode/1up).
+
+[24.] Bonnie Annie.
 
 P. 245 ff. The Rev. S. Baring-Gould has recently found this ballad in South Devon.
 
@@ -417,7 +424,7 @@ But the corpse of the maiden had reachd there before, O.
 b. 1, 1,2. There was a sea-captain came to the seaside, O,  
 He courted a damsel and got her in trouble.
 
-13, 3. coffin of the deepest stoU yellow.
+13, 3. coffin of the deepest stoll yellow.
 
 15, 4. But the mother and baby had got there before, O.
 
@@ -436,11 +443,10 @@ That they took her on board again, both she and her baby.
 
 (The rest forgotten.)
 
+```
 
-
----
-
-
+```{admonition}
+:class: dropdown
 https://archive.org/details/ancientscottishb00kin/page/123/mode/2up
 Ancient Scottish ballads, recoverd from tradition
 by [Kinloch, George Ritchie], 1796?-1877, [from old catalog] ed
@@ -501,6 +507,8 @@ There is a prevalent belief among sea-faring people, that, if a person who has c
 *He made his love a coffin off the Goats of Yerrow. —* p. 126, V. 8.
 
 It would be difficult to ascertain where *Yerrow* is situated; it would seem, however, to be on the seacoast, as "*Goats*" signifies inlets where the sea enters.
+
+```
 
 ----
 
