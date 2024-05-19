@@ -253,7 +253,7 @@ T. Sternberg
 
 ```
 
-A Scots variant is found in Campbell's *Popular tales of the west Highlands*, 1860 (the following is taken from a later edition). This includes elements reminiscent of "wive's with stupid husbands" tales.
+A Scots variant is found in Campbell's *Popular tales of the west Highlands*, 1860 (the following is taken from a later edition). This includes elements reminiscent of the "wives competing as to who has the most foolish husband" tale (see section at end).
 
 ```{admonition} In Campbell, *Popular tales of the west Highlands*, 1860
 :class: dropdown
@@ -411,7 +411,7 @@ Meanwhile the good folks upstairs were waiting for the beer, but as Clever Alice
 
 After a while, and the maid did not return, the good folks above began to feel very thirsty ; and so the husband told the boy to go down into the cellar, and see what had become of Alice and the maid. The boy went down, and there sat Clever Alice and the maid both crying, so he asked the reason ; and Alice told him the same tale of the hatchet that was to fall on her child as she had told the maid. When she had finished, the boy exclaimed, " What a clever Alice we have!" and fell weeping and howling with the others.
 
-Upstairs they were still waiting, and the husband said, when the boy did not return, "Do you go down, wife, into the cellar and see why Alice stops." So she went down, and finding all three sitting there crying, asked the reason, and Alice told her about the hatchet which must inevitably fall upon the head of her son. Then the mother likewise exclaimed, " Oh, what a clever Alice we have !" and, sitting down, began to weep witb the others. Meanwhile the husband waited for his wife’s return, but at last he felt so very thirsty that he said, " I must go myself down into the cellar and see what Alice stops for." As soon as he entered the cellar, there he found the four sitting and crying together, and when he heard the reason, he also exclaimed, "Oh, what a clever Alice we have !" and sat down to cry with the others. All this time the bridegroom above sat waiting, but when nobody returned, he thought they must be waiting for him, and so he went down to see what was the matter. When he entered, there sat the five crying and groaning, each one in a louder key than his neighbour. "What misfortune has happened?" he asked. " Ah, dear Hans," cried Alice, " if we should marry one another, and have a child, and he grow up, and we perhaps send him down here to tap the beer, the hatchet which has been left sticking there may fall on his head, and so kill him ; and do you not think that enough to weep about?"
+Upstairs they were still waiting, and the husband said, when the boy did not return, "Do you go down, wife, into the cellar and see why Alice stops." So she went down, and finding all three sitting there crying, asked the reason, and Alice told her about the hatchet which must inevitably fall upon the head of her son. Then the mother likewise exclaimed, " Oh, what a clever Alice we have !" and, sitting down, began to weep witb the others. Meanwhile the husband waited for his wife's return, but at last he felt so very thirsty that he said, " I must go myself down into the cellar and see what Alice stops for." As soon as he entered the cellar, there he found the four sitting and crying together, and when he heard the reason, he also exclaimed, "Oh, what a clever Alice we have !" and sat down to cry with the others. All this time the bridegroom above sat waiting, but when nobody returned, he thought they must be waiting for him, and so he went down to see what was the matter. When he entered, there sat the five crying and groaning, each one in a louder key than his neighbour. "What misfortune has happened?" he asked. " Ah, dear Hans," cried Alice, " if we should marry one another, and have a child, and he grow up, and we perhaps send him down here to tap the beer, the hatchet which has been left sticking there may fall on his head, and so kill him ; and do you not think that enough to weep about?"
 
 " Now," said Hans, " more prudence than this is not necessary for my housekeeping; because you are such a clever Alice I will have you for my wife." And, taking her hand, he led her home and celebrated the wedding directly.
 
@@ -580,4 +580,131 @@ Well, when the man reached home, who had got the six hundred dollars and the car
 " Oh," she said, " I have always heard that what a man sows he shall reap, so I sowed the salt which our friends the north-country men laid up here with us, and if we only have rain I fancy it will come up nicely."
 
 " Silly you are," said her husband, " and silly you will be so long as you live ; but that is all one now, for the rest are not a bit wiser than you. There is not a pin to choose between you."
+```
+
+## Wives and Foolish Husbands
+
+I'm sure I have several story collections with variants of the tale of three women competing as to who has the most foolish, or gullible, husband, but I can't for the life of me find them at them moment, or recall which they were.
+
+One of the collections that does have them is Lang, whose coloured fairy books include all manner of tales, though the attribution is often sorely lacking, as in the following case, from the *Pink Fairy Book* (the title of the tale Lang provides — *The Merry Wives*— is not the title I remember, nor is the set-up...).
+
+```{admonition} "The Merry Wives", *Pink Fairy Book*, 1904
+:class: dropdown
+
+Andrew Lang (Ed.), *The Pink Fairy Book*, 1904, [pp.297-300]().
+
+The Merry Wives `[From the Danish.]`
+
+THERE lay three houses in a row, in one of which there lived a tailor, in another a carpenter, and in a third a smith. All three were married, and their wives were very good friends. They often talked about how stupid their husbands were, but they could never agree as to which of them had the most stupid one ; each one stuck up for her own husband, and maintained that it was he.
+
+The three wives went to church together every Sunday, and had a regular good gossip on the way, and when they were coming home from church they always turned into the tavern which lay by the wayside and drank half a pint together. This was at the time when half a pint of brandy cost threepence, so that was just a penny from each of them.
+
+But the brandy went up in price, and the taverner said that he must have fourpence for the half-pint.
+
+They were greatly annoyed at this, for there were only the three of them to share it, and none of them was willing to pay the extra penny.
+
+As they went home from the church that day they decided to wager with each other as to whose husband was the most stupid, and the one who, on the following Sunday, should be judged to have played her husband the greatest trick should thereafter go free from paying, and each of the two others would give twopence for their Sunday's half-pint.
+
+Next day the tailor's wife said to her husband, 'I have sorne girls coming to-day to help to card rny wool ; there is a great deal to do, and we must be very busy. I am so annoyed that our watchdog is dead, for in the evening the young fellows will come about to get fun with the girls, and they will get nothing done. If we had only had a fierce watchdog he would have kept them away.'
+
+'Yes,' said the man, 'that would have been a good thing.'
+
+'Listen, good man,' said the wife, 'you must just be the watchdog yourself, and scare the fellows away from the house.'
+
+The husband was not very sure about this, although otherwise he was always ready to give in to her.
+
+' h yes, you will see it will work all right,' said the wife.
+
+And so towards evening she got the tailor dressed up in a shaggy fur coat, tied a black woollen cloth round his head, and chained him up beside the dog's kennel.
+
+There he stood and barked and growled at everyone that moved in his neighbourhood. The neighbour wives knew all about this, and were greatly amused at it.
+
+On the day after this the carpenter had been out at work, and came home quite merry ; but as soon as he entered the house his wife clapped her hands together and cried, 'My dear, what makes you look like that? You are ill.'
+
+The carpenter knew nothing about being ill ; he only thought that he wanted something to eat, so he sat down at the table and began his dinner.
+
+His wife sat straight in front of him, with her hands folded, and shook her head, and looked at him with an anxious air.
+
+'You are getting worse, my dear,' she said; 'you are quite pale now ; you have a serious illness about you ; I can see it by your looks.'
+
+The husband now began to grow anxious, and thought that perhaps he was not quite well.
+
+'No, indeed,' said she ; 'it 's high time that you were in bed.'
+
+She then got him to lie down, and piled above him all the bedclothes she could find, and gave him various medicines, while he grew worse and worse.
+
+'You will never get over it,' said she ; ' I am afraid you are going to die.'
+
+'Do you think so?' said the carpenter; 'I can well believe it, for I am indeed very poorly.'
+
+In a little while she said again, ' Ah, now I must part with you. Here comes Death. Now I must close your eyes.' And she did so.
+
+The carpenter believed everything that his wife said, and so he believed now that he was dead, and lay still and let her do as she pleased.
+
+She got her neighbours summoned, and they helped to lay him in the coffin — it was one of those he himself had made ; but his wife had bored holes in it to let him get some air. She made a soft bed under him, and put a coverlet over him, and she folded his hands over his breast ; but instead of a flower or a psalm-book she gave him a pint-bottle of brandy in his hands. After he had lain for a little he took a little pull at this, and then another and another, and he thought this did him good, and soon he was sleeping sweetly, and dreaming that he was in heaven.
+
+Meanwhile word had gone round the village that the carpenter was dead, and was to be buried next day.
+
+It was now the turn of the smith's wife. Her husband was lying sleeping off the effects of a drinking bout, so she pulled off all his clothes and made him black as coal from head to foot, and then let him sleep till far on in the day.
+
+The funeral party had already met at the carpenter's, and marched off towards the church with the coffin, when the smith's wife came rushing in to her husband.
+
+'Gracious, man,' said she, 'you are lying there yet? You are sleeping too long. You know you are going to the funeral.'
+
+The smith was quite confused ; he knew nothing about any funeral.
+
+'It's our neighbour the carpenter,' said his wife, ' who is to be buried to-day. They are already half-way to church with him.'
+
+'All right,' said the smith, 'make haste to help me on with my black clothes.'
+
+'What nonsense ! ' said his wife, ' you have them on already. Be off with you now.'
+
+The smith looked down at his person and saw that he was a good deal blacker than he usually was, so he caught up his hat and ran out after the funeral. This was already close to the church, and the smith wanted to take part in carrying the coffin, like a good neighbour. So he ran with all his might, and shouted after them, 'Hey ! wait a little ; let me get a hold of him ! '
+
+The people turned round and saw the black figure coming, and thought it was the devil himself, who wanted to get hold of the carpenter, so they threw down the coffin and took to their heels.
+
+The lid sprang off the coffin with the shock, and the carpenter woke up and looked out. He remembered the whole affair; he knew that he was dead and was going to be buried, and recognising the smith, he said to him, in a low voice, 'My good neighbour, if I hadn't been dead already, I should have laughed myself to death now to see you coming like this to rny funeral.'
+
+From that time forth the carpenter's wife drank free of expense every Sunday, for the others had to admit that she had fooled her husband the best.
+
+```
+
+Lang cites *The Merry Wives* as being translated from the Danish, but does not give a source. A few years later, in 1919, J. Grant Cramer included the same tale in his *Danish Faiiry Tales* translation of tales from the Danish collected by Svendt Grundtvig.
+
+```{admonition} In *Danish Fairy Tales*, 1919
+:class: dropdown
+Sven Grundtvig, *Danish fairy tales*, translated byJ. Grant Cramer, 1919, [pp. 59-63](https://archive.org/details/danishfairytales00gruniala/page/58/mode/2up).
+
+THE MERRY WIVES
+
+ONCE there stood three houses in a row, wall to wall. In one lived a tailor, in the next, a carpenter, and in the third, a smith. The three men were married, and their wives were the best of friends. They often told each other what stupid men their husbands were, but they never could agree as to which one of them was the most stupid man; for each one of the women was sure that her husband must be the most stupid.
+
+The three women used to go to church together every Sunday, and on the way they had a good opportunity to chat and gossip together. After the service they always stopped at a little tavern where they had a measure of brandy together. Now at that time a measure cost three shillings, `[The old Danish shilling was worth about three-quarters of a cent.]` so each woman had to pay one shilling. After a time the price of spirits went up so that a measure cost four shillings. That they did not like at all, as there were only three of them, and no one of them wanted to pay the extra shilling.
+
+So one day on the way home from church they talked the matter over and agreed that the woman whose husband was the most stupid and allowed the worst trick to be played on him, need not pay for her drink thereafter.
+
+The next day the tailor's wife said to her husband, "I have engaged some girls to come here tomorrow to card wool, for there is much to be done and we have to hurry. Now in the evening the young men will be sure to come, and the young people will want to have their fun together, so, of course, no work will be done then. If only we had a rather vicious dog we could easily keep the fellows away."
+
+"Yes," said her husband, "that is very true."
+
+"Listen," she continued, "‘you could act as watch-dog and frighten the young men away from the house."
+
+The man hardly thought that he could; nevertheless, he yielded to his wife's entreaties. So towards evening, she fastened some woolly skins about him, drew a wool cap over his head, and fastened him with a chain to their kennel. There he stood and growled and barked at everybody that approached, and his neighbors' wives amused themselves famously with him.
+
+On the following day when the carpenter came home from his work, his wife clasped her hands and exclaimed, "‘For heaven's sake, husband dear, what is the matter with you? you are certainly sick." But he had not the faintest idea that anything was the matter with him; all that he knew was that he was very hungry. So he seated himself at the table and began to eat; but his wife who sat opposite him, shook her head and looked very sad.
+
+"Dear, you are looking worse and worse; you are very pale, and I can see clearly that something serious is the matter with you."' Now the man began to become uneasy himself, and to think that he was not well. "It is really high time that you should go to bed," said his wife; at last she succeeded in getting him to go to bed. She covered him up well and gave him hot drinks, and finally the man said that he really felt wretched. "You will certainly never recover from this illness, my poor husband,"' said the woman, "I am sure that you are going to die." Soon after that she said, "Now we shall have to bid each other farewell, for death has set his seal upon you, and now I must close your eyes for you are dead." And as she spoke, she did so. The foolish carpenter, who believed all that his wife said, believed that he was dead and lay perfectly quiet, letting his wife do what she wished.
+
+She then called in her neighbors, and they helped her put her husband in a coffin—it was one that he had made himself. This the woman had prepared very comfortably; she had bored holes in the lid, so that her husband might have air, made a soft bed for him to lie on, and then covered him up with a warm blanket. She folded his hands on his breast, but instead of putting a bible or a hymn-book in them, she gave him a bottle of brandy. After the man had lain there a short time, he took a swallow of the liquor, then another and yet another, until he fell into a deep sleep and dreamed that he was in heaven.
+
+In the meantime all the people of the village had learned that the carpenter had died and was to be buried on the following day. Meanwhile what did the smith's wife do? Her husband had come home intoxicated, and had fallen asleep. While he was sleeping, his wife daubed him with pitch from top to toe, and let him sleep until late the next forenoon, when the pallbearers and the funeral procession were already on the way to the church with the coffin. Then the smith's wife rushed in to her husband and woke him, saying that he had overslept himself and must hurry if he wanted to reach the church in time to pay his last respects to his friend. The smith was confused for he knew nothing about a funeral, but his wife hurried him, explaining to him the while that the carpenter had died the day before.
+
+"But," said the smith, "I must put on my black suit.
+
+"You fool," said the wife, ""you have it on already, do hurry up and go."
+
+So the smith ran and as he approached the procession, he called to the people to wait for him. They looked around and seeing the black figure running toward them, thought it was the devil. That frightened them nearly to death, so that they threw down the coffin and ran away as fast as they could. As it crashed to the ground the lid flew off, and the carpenter awoke and sat up to look out and see what was going on. Then he remembered what had taken place, and knew that he was dead and had to be buried. He recognized the smith, and said in a feeble voice, "Dear neighbor, if I were not already dead I should certainly laugh myself to death, to see you come to my corpse in that guise."
+
+From that time on, the carpenter's wife never had to pay for her measure of brandy, for they all had to acknowledge that she had made the worst fool of her husband.
+ 
 ```
