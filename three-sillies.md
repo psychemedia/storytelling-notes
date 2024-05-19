@@ -36,7 +36,7 @@ So there was a whole lot of sillies bigger than them three sillies at home. So t
 As ever, Jacobs provides notes as to his sources:
 
 ```{admonition} Jacobs, *The Three Sillies [Notes]*
-:class: dropdown
+:class: dropdown seealso
 Notes, [p. 268].
 
 *Source.*— From *Folk-Lore Journal*, ii, 40-3; to which it was communicated by Miss C. Burne.
@@ -440,7 +440,7 @@ After Hans had had her some time, he said, " Wife, I am going out to work and ea
 The notes give the name of the tale as "Clever Alice", rather than "Clever Elsie", which was the name given for the tale in the contents and body of the collection. So was the translatir working from earlier translations, or did the publisher have a mind to change the name of the tale closer to the original spelling of "Else"?
 
 ```{admonition} Notes, *Clever Alice*, 1884
-:class: dropdown
+:class: dropdown seealso
 34. — Clever Alice.
 
 From Zwehrn. Another story called, *Hansen's Trine*, also from Hesse, likewise begins with lazy Trine asking, "What shall I do; shall I eat, or sleep, or work? " Hans finds her asleep in the room and cuts off her gown as far as her knees, and when she awakes, she is confused about her identity. `[See the well-known nursery rhyme about the little old woman who fell asleep by the King's highway, and whose petticoats were cut off by the pedlar. In Verstegan, Camb. Brit., vol. iii., p. 260, we read, "If either wife or maid were found in dishonesty, her clothes were cut off round about her beneath the girdle-stead, and she was whipped and turned out to be derided of the people." See also Probert's Ancient Laws of Cambria. — Tr.]` On this last point a passage in Joh. Pomarius ; *Sächs Chronik*. (1588), p. 14, should be observed, which says, " Whatsoever maid or wife shall be taken in adultery, her clothes shall be cut off beneath her girdle, and she shall be scourged and driven away from amongst the people." As a whole, the story of *Clever Alice* is allied to that of *Catherlieschen*, No. 59, and in one part is identical.
