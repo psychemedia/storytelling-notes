@@ -35,9 +35,10 @@ So there was a whole lot of sillies bigger than them three sillies at home. So t
 
 As ever, Jacobs provides notes as to his sources:
 
-```{admonition} Jacons, *The Three Sillies [Notes]*
-Notes, p. 268
+```{admonition} Jacobs, *The Three Sillies [Notes]*
 :class: dropdown
+Notes, [p. 268].
+
 *Source.*— From *Folk-Lore Journal*, ii, 40-3; to which it was communicated by Miss C. Burne.
 
 Parallels. — Prof. Stephens gave a variant from his own memory in *Folk-Lore Becord*, iii. 155, as told in Essex at the beginning of the century. Mr. Toulmin Smith gave another version in *The Constitutional*, July 1, 1853, which was translated by his daughter, and contributed to *Mélusine*, t. ii. An Oxfordshire version was given in *Notes and Queries*, April 17, 1852. It occurs also in Ireland, Kennedy, "Fireside Stories," p. 9. It is Grimm's "Kluge Else," No. 34, and is spread through the world. Mr. Clouston devotes the seventh chapter of his "Book of Noodles" to the Quest of the Three Noodles
@@ -165,7 +166,7 @@ So there was a whole lot of sillies bigger than them all, and the gentleman turn
 Jacob's credits Charlotte Burne, writing in *The Folk-lore journal*, 1884, as his source for the story:
 
 ```{admonition} Collected by Charlotte Burne, 1862
-
+:class: dropdown
 In *The Folk-lore journal*, Vol. II (January-December 1884), 1884, [pp. 40-43](https://archive.org/details/s7274id1398127/page/40/mode/1up):
 
 VARIANT OF THE THREE NOODLES.
@@ -439,7 +440,7 @@ After Hans had had her some time, he said, " Wife, I am going out to work and ea
 The notes give the name of the tale as "Clever Alice", rather than "Clever Elsie", which was the name given for the tale in the contents and body of the collection. So was the translatir working from earlier translations, or did the publisher have a mind to change the name of the tale closer to the original spelling of "Else"?
 
 ```{admonition} Notes, *Clever Alice*, 1884
-
+:class: dropdown
 34. — Clever Alice.
 
 From Zwehrn. Another story called, *Hansen's Trine*, also from Hesse, likewise begins with lazy Trine asking, "What shall I do; shall I eat, or sleep, or work? " Hans finds her asleep in the room and cuts off her gown as far as her knees, and when she awakes, she is confused about her identity. `[See the well-known nursery rhyme about the little old woman who fell asleep by the King's highway, and whose petticoats were cut off by the pedlar. In Verstegan, Camb. Brit., vol. iii., p. 260, we read, "If either wife or maid were found in dishonesty, her clothes were cut off round about her beneath the girdle-stead, and she was whipped and turned out to be derided of the people." See also Probert's Ancient Laws of Cambria. — Tr.]` On this last point a passage in Joh. Pomarius ; *Sächs Chronik*. (1588), p. 14, should be observed, which says, " Whatsoever maid or wife shall be taken in adultery, her clothes shall be cut off beneath her girdle, and she shall be scourged and driven away from amongst the people." As a whole, the story of *Clever Alice* is allied to that of *Catherlieschen*, No. 59, and in one part is identical.
@@ -447,9 +448,9 @@ From Zwehrn. Another story called, *Hansen's Trine*, also from Hesse, likewise b
 
 ## Norse Variant
 
-Burne identifies the Norse Tale "Not a Pin to Choose Between Them" as another variant.
+Burne identifies the Norse Tale "Not a Pin to Choose Between Them" as another variant, for example, as included in Asbjørnsen & Moe's *Popular tales from the Norse* of 1859.
 
-```{admonition}
+```{admonition} *Not a pin to choose between them*, 1859
 :class: dropdown
 Peter Christen Asbjørnsen & Jørgen Moe, *Popular tales from the Norse*, 1859, [pp. 178-186](https://archive.org/details/populartalesfro03dasegoog/page/178/mode/2up).
 
