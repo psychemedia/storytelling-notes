@@ -44,7 +44,7 @@ Parallels. — Prof. Stephens gave a variant from his own memory in *Folk-Lore B
 
 ```
 
-Here is a typical retelling:
+Here is a typical retelling, from 1918:
 
 ```{admonition} In *English Fairy tales, retold by Flora Annie Steel*, 1918
 :class: dropdown
@@ -135,17 +135,11 @@ So they were married, and if they didn't live happy ever after, that has nothing
 
 ```
 
+And by Hartland in 1890, citing additional context from Miss Burne:
 
-```{admonition} TO DO - Date of Hartlands' *English fairy and other folk tales*
-:class: warning
-I properly need to fix the publication date of this...
-```
-
-And by Hartland:
-
-```{admonition} E.S. HArtland,  *English fairy and other folk tales*
+```{admonition} E.S. Hartland,  *English fairy and other folk tales*
 :class: dropdown
-Edwin Sidney Hartland, *English fairy and other folk tales*. 1906? 1890?, [pp260-4](https://archive.org/details/englishfairyothe00hartiala/page/260/mode/2up)
+Edwin Sidney Hartland, *English fairy and other folk tales*, 1890, [pp260-4](https://archive.org/details/englishfairyothe00hartiala/page/260/mode/2up)
 
 THE THREE SILLIES. `[Folk-Lore Journal, vol. ii. p. 40.]`
 
@@ -259,7 +253,7 @@ T. Sternberg
 
 ```
 
-A Scots variant is found in Campbell's *Popular tales of the west Highlands*, 1860 (the following is taken from a later edition):
+A Scots variant is found in Campbell's *Popular tales of the west Highlands*, 1860 (the following is taken from a later edition). This includes elements reminiscent of "wive's with stupid husbands" tales.
 
 ```{admonition} In Campbell, *Popular tales of the west Highlands*, 1860
 :class: dropdown
@@ -387,4 +381,203 @@ And to shew you that this tale is true, it was this that made Iain Lom the bard 
 As was Sgire mo Cheallag,  
 When doomed they the garron in mote."
 
+```
+
+## Grimm's Variant, "Kluge Else"
+
+Perhaps unsurprisingly, there is a Grimm variant of the tale, "Kluge Else" (Clever Else). This includes the element of a person being so foolish as to not know whether they are themsleves, as appears in Campbell's version, albeit with respect to a different character.
+
+Grimm's tales were widely published in translation, and include the following versions:
+
+```{admonition} Clever Alice, 1853
+:class: dropdown
+Jacob & Wilhelm Grimm, vol. 1, 1853, [pp. 178-181](https://archive.org/details/germanpopulartal11grim/page/178/mode/2up)
+
+XXXTV.
+
+Clever Alice.
+
+ONCE upon a time there was a man who had a daughter who was called "Clever Alice" and when she was grown up, her father said, "We must see about her marrying." "Yes," replied the mother, "when one comes who may be worthy of her."
+
+At last a certain youth, by name Hans, came from a distance to make a proposal for her, but he put in one condition, that the Clever Alice should also be very prudent. " Oh," said her father, " she has got a head full of brains and the mother added, " Ah, she can see the wind blow up the street, and hear the flies cough !"
+
+"Very well," replied Hans; "but if she is not very prudent, I will not have her." Soon afterwards they sat down to dinner, and her mother said, "Alice, go down into the cellar and draw some beer."
+
+So Clever Alice took the jug down from the wall, and went into the cellar, jerking the lid up and down on her way to pass away the time. As soon as she got down stairs, she drew a stool and placed it before the cask, in order that she might not have to stoop, whereby she might do some injury to her back, and give it an undesirable bend. Then she placed the can before her and turned the tap, and while the beer was running, as she did not wish her eyes to be idle, she looked about upon the wall above and below, and presently perceived, after much peeping into this and that corner, a hatchet, which the bricklayers had left behind sticking out of the ceiling right above her. At the sight of this the Clever Alice began to cry, saying, "Oh, if I marry Hans, and we have a child, and he grows up, and we send him into the cellar to draw beer, the hatchet will fall upon his head and kill him;" and so saying, she sat there weeping with all her might over the impending misfortune.
+
+Meanwhile the good folks upstairs were waiting for the beer, but as Clever Alice did not come, her mother told the maid to go and see what she Avas stopping for. The maid Avent down into the cellar, and found Alice sitting before the cask crying heartily, and she asked, " Alice, what are you weeping about?" "Ah!" she replied, "have I not cause? If I marry Hans, and we have a child, and he grow up, and we send him here to draw beer, that hatchet will fall upon his head and kill him."
+
+"Oh," said the maid, "what a clever Alice we have!" And sitting down, she began to weep too for the misfortune that was to happen.
+
+After a while, and the maid did not return, the good folks above began to feel very thirsty ; and so the husband told the boy to go down into the cellar, and see what had become of Alice and the maid. The boy went down, and there sat Clever Alice and the maid both crying, so he asked the reason ; and Alice told him the same tale of the hatchet that was to fall on her child as she had told the maid. When she had finished, the boy exclaimed, " What a clever Alice we have!" and fell weeping and howling with the others.
+
+Upstairs they were still waiting, and the husband said, when the boy did not return, "Do you go down, wife, into the cellar and see why Alice stops." So she went down, and finding all three sitting there crying, asked the reason, and Alice told her about the hatchet which must inevitably fall upon the head of her son. Then the mother likewise exclaimed, " Oh, what a clever Alice we have !" and, sitting down, began to weep witb the others. Meanwhile the husband waited for his wife’s return, but at last he felt so very thirsty that he said, " I must go myself down into the cellar and see what Alice stops for." As soon as he entered the cellar, there he found the four sitting and crying together, and when he heard the reason, he also exclaimed, "Oh, what a clever Alice we have !" and sat down to cry with the others. All this time the bridegroom above sat waiting, but when nobody returned, he thought they must be waiting for him, and so he went down to see what was the matter. When he entered, there sat the five crying and groaning, each one in a louder key than his neighbour. "What misfortune has happened?" he asked. " Ah, dear Hans," cried Alice, " if we should marry one another, and have a child, and he grow up, and we perhaps send him down here to tap the beer, the hatchet which has been left sticking there may fall on his head, and so kill him ; and do you not think that enough to weep about?"
+
+" Now," said Hans, " more prudence than this is not necessary for my housekeeping; because you are such a clever Alice I will have you for my wife." And, taking her hand, he led her home and celebrated the wedding directly.
+
+After they had been married a little while, Hans said one morning, " Wife, I will go out to work and earn some money; do you go into the field and gather some corn wherewith to make bread."
+
+"Yes," she answered, " I will do so, dear Hans." And when he was gone, she cooked herself a nice mess of pottage, to take with her. As she came to the field, she said to herself, " What shall I do ? Shall I cut first, or eat first? Ay, I will eat first !" Then she ate up the contents of her pot, and when it was finished, she thought to herself, "Now, shall I reap first or sleep first? Well, I think I will have a nap!" and so she laid herself down amongst the corn, and went to sleep. Meanwhile Hans returned home, but Alice did not come, and so he said, " Ob, what a prudent Alice I have ; she is so industrious that she does not even come home to eat any thing." By-and-bye, however, evening came on, and still she did not return ; so Hans went out to see how much she had reaped ; but, behold, nothing at all, and there lay Alice fast asleep among the corn. So home he ran very fast, and brought a net with little bells hanging on it, which he threw over her head while she still slept on. When he had done this he went back again and shut to the house-door, and, seating himself on his stool, began working very industriously.
+
+At last, when it was quite dark, the Clever Alice awoke, and as soon as she stood up the net fell all over her hair, and the bells jingled at every step she took. This quite frightened her, and she began to doubt whether she were really Clever Alice or no, and said to herself, "Am I she, or am I not?" This question she could not answer, and she stood still a long while considering. At last she thought she would go home and ask whether she were really herself — supposing they would be able to tell. When she' came to the house-door it was shut ; so she tapped at the window, and asked, " Hans, is Alice within ?" " Yes," he replied, "she is." Now she was really terrified, and exclaiming, " Ah, heaven, then I am not Alice !" she ran up to another house ; but as soon as the folks within heard the jingling of the bells they would not open their doors, and so nobody would receive her. Then she ran straight away from the village, and no one has ever seen her since.
+```
+
+```{admonition} Clever Elsie, 1884
+:class: dropdown
+Jacob & Wilhelm Grimm, *Grimm's household tales : with the author's notes*, transl. Margaret Hunt, with an introduction by Andrew Lang, 1884, [pp. 138-141](https://archive.org/details/grimmshouseholdt01grim/page/138/mode/2up).
+
+34.— CLEVER ELSIE.
+
+There was once a man who had a daughter who was called Clever Elsie. And when she had grown up her father said, "We will get her married." " Yes," said the mother, "if only any one would come who would have her." At length a man came from a distance and wooed her, who was called Hans ; but he stipulated that Clever Elsie should be really wise. " Oh," said the father, " she's sharp enough ; " and the mother said, " Oh, she can see the wind coming up the street, and hear the flies coughing." " Well," said Hans, " if she is not really wise, I won't have her." When they were sitting at dinner and had eaten, the mother said, " Elsie, go into the cellar and fetch some beer." Then Clever Elsie took the pitcher from the wall, went into the cellar, and tapped the lid briskly as she went that the time might not appear long. W hen she was below she fetched herself a chair, and set it before the barrel so that she had no need to stoop, and did not hurt her back or do herself any unexpected injury. Then she placed the can before her, and turned the tap, and while the beer was running she would not let her eyes be idle, but looked up at the wall, and after much peering here and there, saw a pick-axe exactly above her, which the masons had accidentally left there.
+
+Then Clever Elsie began to weep and said, " If I get Hans, and we have a child, and he grows big, and we send him into the cellar here to draw beer, then the pickaxe will fall on his head and kill him." Then she sat and wept and screamed with all the strength of her body, over the misfortune which lay before her. Those upstairs waited tor the drink, but Clever Elsie still did not come. Then the woman said to the servant, " Just go down into the cellar and see where Elsie is." The maid went and found her sitting in front of the barrel, screaming loudly. " Elsie, why weepest thou ? " asked the maid. " Ah," she answered, " have I not reason to weep ? If I get Hans, and we have a child, and he grows big, and has to draw beer here, the pick-axe will perhaps fall on his head, and kill him." Then said the maid, " What a clever Elsie we have ! " and sat down beside her and began loudly to weep over the misfortune. After a while, as the maid did not come back, and those upstairs were thirsty for the beer, the man said to the boy, " Just go down into the cellar and see where Elsie and the girl are." The boy went down, and there sat Clever Elsie and the girl both weeping together. Then he asked, "Why are ye weeping?" " Ah," said Elsie, " have I not reason to weep ? If I get Hans, and we have a child, and he grows big, and has to draw beer here, the pick-axe will fall on his head and kill him." Then said the boy, " What a clever Elsie we have ! " and sat down by her, and likewise began to howl loudly. Upstairs they waited for the boy, but as he still did not return, the man said to the woman, '* Just go down into the cellar and see where Elsie is ! " The woman went down, and found all three in the midst of their lamentations, and inquired what was the cause; then Elsie told her also that her future child was to be killed by the pickaxe, when it grew big and had to draw beer, and the pick-axe fell down. Then said the mother likewise, " What a clever Elsie we have!" and sat down and wept with them. The man upstairs waited a short time, but as his wife did not come back and his thirst grew ever greater, he said, "I must go into the cellar myself and see where Elsie is." But when he got into the cellar, and they were all sitting together crying, and he heard the reason, and that Elsie's child was the cause, and that Elsie might perhaps bring one into the world some day, and that it might be killed by the pick-axe, if it should happen to be sitting beneath it, drawing beer just at the very time when it fell down, he cried, " Oh, what a clever Elsie ! " and sat down, and likewise wept with them. The bridegroom stayed upstairs alone for a long time ; then as no one would come back he thought, " They must be waiting for me below ; I too must go there and see what they are about." When he got down, live of them were sitting screaming and lamenting quite piteously, each out-doing the other. " What misfortune has happened then ? " asked he. " Ah, dear Hans," said Elsie, " if we marry each other and have a child, and he is big, and we perhaps send him here to draw something to driuk, then the pick-axe which has been left up there might dash his brains out if it were to fall down, so have we not reason to weep ? " " Come," said Hans, " more understanding than that is not needed for my household, as thou art such a clever Elsie, I will have thee," and he seized her hand, took her upstairs with him, and married her.
+
+After Hans had had her some time, he said, " Wife, I am going out to work and earn some money for us ; go into the field and cut the corn that we may have some bread." " Yes, dear Hans, I will do that," After Hans had gone away, she cooked herself some good broth and took it into the field with her. Wlien she came to the field she said to herself, " What shall I do ; shall I shear first, or shall I eat first? Oh, I will eat first." Then she emptied her basin of broth, and when she was fully satisfied, she once more said, " What shall I do ? Shall I shear first, or shall I sleep first ? I will sleep first.'* Then she lay down among the corn and fell asleep. Hans had been at home for a long time, but Elsie did not come ; then said he, "What a clever Elsie I have; she is so industrious that she does not even come home to eat." As, however, she still stayed away, and it was evening, Hans went out to see what she had cut, but nothing was cut, and she was lying among the corn asleep. Then Hans hastened home and brought a fowler's net with little bells and hung it round about her, and she still went on sleeping. Then he ran home, shut the house-door, and sat down in his chair and wt)rked. At length, when it was quite dark, Clever Elsie awoke and when she got up there was a jingling all round about her, and the bells rang at each step which she took. Then she was alarmed, and became uncertain whether she really was Clever Elsie or not, and said, " Is it I, or is it not I ? " But she knew not what answer to make to this, and stood for a time in doubt; at length she thought, "I will go home and ask if it be I, or if it be not I, they will be sure to know."' She ran to the door of her own house, but it was shut ; then she knocked at the window and cried, " Hans, is Elsie within ? " " Yes," answered Hans, " she is within." Hereupon she was terrified, and said, " Ah, heavens ! Then it is not I," and went to another door ; but when the people heard the jingling of the bells they would not open it, and she could get in nowhere. Then she ran out of the village, and no one has seen her since.
+
+```
+
+The notes give the name of the tale as "Clever Alice", rather than "Clever Elsie", which was the name given for the tale in the contents and body of the collection. So was the translatir working from earlier translations, or did the publisher have a mind to change the name of the tale closer to the original spelling of "Else"?
+
+```{admonition} Notes, *Clever Alice*, 1884
+
+34. — Clever Alice.
+
+From Zwehrn. Another story called, *Hansen's Trine*, also from Hesse, likewise begins with lazy Trine asking, "What shall I do; shall I eat, or sleep, or work? " Hans finds her asleep in the room and cuts off her gown as far as her knees, and when she awakes, she is confused about her identity. `[See the well-known nursery rhyme about the little old woman who fell asleep by the King's highway, and whose petticoats were cut off by the pedlar. In Verstegan, Camb. Brit., vol. iii., p. 260, we read, "If either wife or maid were found in dishonesty, her clothes were cut off round about her beneath the girdle-stead, and she was whipped and turned out to be derided of the people." See also Probert's Ancient Laws of Cambria. — Tr.]` On this last point a passage in Joh. Pomarius ; *Sächs Chronik*. (1588), p. 14, should be observed, which says, " Whatsoever maid or wife shall be taken in adultery, her clothes shall be cut off beneath her girdle, and she shall be scourged and driven away from amongst the people." As a whole, the story of *Clever Alice* is allied to that of *Catherlieschen*, No. 59, and in one part is identical.
+```
+
+## Norse Variant
+
+Burne identifies the Norse Tale "Not a Pin to Choose Between Them" as another variant.
+
+```{admonition}
+:class: dropdown
+Peter Christen Asbjørnsen & Jørgen Moe, *Popular tales from the Norse*, 1859, [pp. 178-186](https://archive.org/details/populartalesfro03dasegoog/page/178/mode/2up).
+
+NOT A PIN TO CHOOSE BETWEEN THEM.
+
+^NCE on a time there was a man, and he had a wife.
+
+Now thia couple wanted to sow their fields, hut they had neither seed-corn nor money to buy it with. But they had a cow, and the man was to drive it into town and sell it, t« get money to buy com for seed. But when it came to the pinch, the wife daied not let her husband start for fear he should spend the money in drink, bo she set off herself with the cow, and took besides a hen with her.
+
+Close by the town she met a butcher, who asked, —
+
+" Will you sell that cow. Goody ?"
+
+" Yes, that I will," she answered.
+
+" Well, what do you want for her ?"
+
+" Oh ! I must have five shillings for the cow, but you shall have the ben for ten pound."
+
+" Very good I" sud Uie man ; " I don't wtmt the hen, and you '11 soon get it off your hands in the town, bat I'll give you five ^hilliugs for the cow."
+
+Well, she sold her cow for five shillings, but there was no one in the town who would give ten pound for a lean tough old hen, so she went back to the butcher, and said, —
+
+"Do all I can, I can't get rid of this hen, master I you most take it too, as you took the cow."
+
+" Well," said the butcher, " come along and we'll see about it" Then he treated her both with meat and drink, and gave her so much brandy that she lost her head, and did not know what she was about, and fell fast asleep. But while she slept, the butcher took and dipped her into a tar-barrel, and then laid her down on a heap of feathers ; and when she woke up, ahe was feathered all over, and began to wonder what had befallen her.
+
+" Is it me, or is it not me ? No, it can never be me ; it must be some great strange bird. But what shall I do to find out whether it is me or not. Oh ! I know how I shall be able to tell whether it is me ; if the calves come and lick me, and our dog Tray doesn't bark at me when I get home, then it must be me, and no one else."
+
+Now, Tray, her dog, had scarce set hia eyes on the strange monster which came throngh the gate, than he set up such a barking, one would have thought all the rogues and robbers in the world were in the yard.
+
+" Ah, deary me," said she, " I thought so ; it can't be me surely." So she went to the straw-yard, and the calves wouldnlt lick her, when they snuffed in the strong smell of tar.
+
+" No, no !" she said, " it can't be me ; it must be some strange outlandish bird."
+
+So she crept up on the roof of the safe, and began to flap her arms, as if they had been wings, and was just going to fly off.
+
+When her husband saw all this, out he came with his rifle, and began to take aim at her.
+
+" Oh ! " cried his wife, " don't shoot, don't shoot ! it is only me,"
+
+" If it's you," said her husband, " don't stand up there like a goat on a house-top, but come down and let me hear what you have to say for yourself."
+
+So she crawled down again, but she hadn't a shilling to shew, for the crown she had got from the butcher she had thrown away in her drunkenness. When her husband heard her story, he said, " You 're only twice as silly as you were before," and he got so angry that he made up his mind to go away from her altogether, and never to come back till he had found three other Goodies as silly as his own.
+
+So he toddled off, and when he had walked a little way he saw a Goody, who was running in and out of a newly-built wooden cottage with an empty sieve, and every time she ran in, she threw her apron over the sieve just B8 if she had something in it, and when she got in she turned it upside down on the floor.
+
+" Why, Goody! " heasbed, " what are you doing?"
+
+" Oh," she answered, " I'm only carrying in a little sun ; but I don't know how it is, when I'm outside, I have the sun in my sieve, but when I get inside, somehow or other I've thrown it away. But in my old cottage I had plenty of sun, though I never carried in the least bit. I only wish I knew some one who would bring the sun inside ; I'd give him three hundred dollars and welcome."
+
+" Have you got an axe ? " asked the man. " If you have, I'll soon bring the sun inside."
+
+So he got an axe arid cut windows in the cottage, for the carpenters had forgotten them ; then the sun shone in, and he got his three hundred dollars.
+
+" That was one of them," said the man to himself, as he went on his way.
+
+After a while he passed by a house, out of which came an awful screaming and bellowing ; so he turned in and saw a Goody, who was hard at work banging her husband across the head with a beetle, and over his head she had drawn a shirt without any slit for the neck.
+
+" Why, Goody ? " he asked, " will you beat your husband to death ? "
+
+"No," she said, "I only must have a hole in this shirt for his neck to come through."
+
+All the while the hushaod kept on screaming and calling out, —
+
+" Heaven help and comfort all who try on new shirts. If anyone would teach my Groody another way of making a slit for the neck in my new shirts, I'd give him three hundred dollars down and welcome."
+
+" I'll do it in the twinkling of an eye," said the man, " if you'll only give me a pair of scissors."
+
+So he got a pair of scissors, and snipped a hole in the neck, and went off with his three hundred dollars.
+
+" That was another of them," he said to himself, as he walked along.
+
+Last of all, be came to a farm, where he made up his mind to rest a bit. So when he went in, the mistress asked him, —
+
+"Whence do you come, master?"
+
+" Oh ! " said he, " I come from Paradise Place," for that was the name of his farm.
+
+" From Paradise Place !" she cried, " you don't say so ! Why, then, you must know my second husband Peter, who is dead and gone. God rest his soul."
+
+For you must know this Goody had been married three times, and as her first and last husbands had been bad, she had made up her mind that the second only was gone to heaven.
+
+" Oh yes," said the man ; " I know him very well."
+
+" Well," asked the Goody, " how do things go with him, poor dear soul ?"
+
+" Only middling," was the answer ; " he goes about begging from house to house, and has neither food nor a rag to his back. As for money, he hasn't a sixpence to bless himself with."
+
+" Mercy on me," cried out the Goody ; " he never ought to go about such a figure when he left so much behind him. Why, there's a whole cupboard full of old clothes up-stairs which belonged to him, besides a great chest full of money yonder. Now, if you will take them with you, you shall have a horse and cart to carry them. As for the horse, he can keep it, and sit on the cart, and drive about from house to house, and then he needn't trudge on foot."
+
+So the man got a whole cart-load of clothes, and a chest full of shining dollars, and as much meat and drink as he would ; and when be had got all be wanted, he jumped into the cart and drove off.
+
+" That was the third," be said to himself, as he went along.
+
+Now this Goody's third husband was a littie way off in a field ploughing, and when he saw a strange man driving ofT from the farm with his horse and cart, he went home and asked his wife who that was that had just started with the black horse.
+
+" Oh, do you mean him ?" said the Goody ; " why, that was a man from Paradise, who said that Peter, my dear second husband, who is dead and gone, is in a sad plight, and that he goes from house to honse begging, and has neither clothes nor money ; so I just sent him all those old clothes he left behind him, and the old money box with the dollars in it."
+
+The man saw how the land lay in a trice, so he saddled his horse , and rode off from the farm at full gallop. It wasn't long before he was close behind the man who sat and drove the cart ; but when the latter saw this he drove the cart into a thicket by the side of the road, pulled out a handful of hair from the horse's tail, jumped up on a little rise in the wood, where he tied the hair fast to a birch, and then lay down under it, and began to peer and stare up at the sky.
+
+"Well, well, if I ever!" he said, as Peter the third came riding up. " No ! I never saw the like of this in all my born days ! "
+
+Then Peter stood aud looked at him for some time, wondering what had come over him ; bat at last he asked, —
+
+" What do you lie there staring at ?"
+
+" No," kept on the man, " I never did see aaythinig like it ! — here is a man going straight up to heaven on a black horae, and here you see his horse's tail stiil hanging in this birch ; and yonder up in the sky you see the black horse."
+
+Peter looked first at the man, and then at the sky, and said, —
+
+" I see nothing but the horse hair in the birch; that's all I see ! "
+
+" Of course you can't where you stand," said the man ; " but just come and lie down here, and stare straight up, and mind you don't take your eyes off the sky ; and then you shall see what you shall see."
+
+But while Pet«r the third lay and stared up at the sky till his eyes filled with tears, the man from Paradise Place took his horse and jumped on its back, and rode off both with it and the cart and horse.
+
+When the hoofs thundered along the road Peter the third jumped up ; but he was so taken aback when he found the man had gone off with his horse that he hadn't the sense to run after him till it was too late.
+
+He was rather down in the mouth when he got home to his Goody ; but when she asked him what he had done with the horse, he said, —
+
+" I gave it to the man too for Peter the second, for I thought it wasn't right he should sit in a cart, and scramble about from house to house ; go now he can sell the cart and buy himself a coach to drive about in."
+
+" Thank you heartily ! " said hie wife ; " I never thought you could be so kind."
+
+Well, when the man reached home, who had got the six hundred dollars and the cart-load of clothes and money, he saw that all his fields were ploughed and sown, and the first thing he asked his wife was, where she had got the seed-corn from.
+
+" Oh," she said, " I have always heard that what a man sows he shall reap, so I sowed the salt which our friends the north-country men laid up here with us, and if we only have rain I fancy it will come up nicely."
+
+" Silly you are," said her husband, " and silly you will be so long as you live ; but that is all one now, for the rest are not a bit wiser than you. There is not a pin to choose between you."
 ```
