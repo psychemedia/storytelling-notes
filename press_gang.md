@@ -380,7 +380,7 @@ A sturdy, ragged vagrant, with a venerable full grown beard, lately made his app
 
 In another example, a crippled sailor seems to make a miraculous recovery when spotted by a press-gang:
 
-```{admonition} *An apparent cripple*, Augist, 1807
+```{admonition} *An apparent cripple*, August, 1807
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18070812/012/0003
 Sun (London) - Wednesday 12 August 1807
@@ -608,7 +608,7 @@ Captain Roberts, who resisted the attack of the above-mentioned banditti, in a v
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/18040103/003/0002
 Kentish Gazette - Tuesday 03 January 1804
-Sham Press Gang.— Tuesday William Cowper was charged before the Lord Mayor, at the Mansion-house, with having, in company with five or six others dragged a young along Tower-street, and used him cruelly, pretended that they were a press gang, and as such had a right to impress him. Whitney, the watchhouse keeper, of Billingsgate, and the watchman, said, they were alarmed on Monday night with the cry of " murder," and going into the street, saw the prisoner and his companions dragging the Prosecutor, who appeared to have been much abused, and was covered with blood. They said they were taking him to the tender; that they belonged to a rendezvous house in the Borough; but, being required by the officer to shew their warrant, they all ran off, and all escaped pursuit, except the prisoner. The prisoner said, in his defence, that he belonged to the tender, and gave, in the names of two midshipmen, who, he said, were with him at the same time. The Lieutenant of the real press gang, however attended, and assured his Lordship, the prisoner and his companions had no order from him act such a manner.
+Sham Press Gang.— Tuesday William Cowper was charged before the Lord Mayor, at the Mansion-house, with having, in company with five or six others dragged a young along Tower-street, and used him cruelly, pretended that they were a press gang, and as such had a right to impress him. Whitney, the watchhouse keeper, of Billingsgate, and the watchman, said, they were alarmed on Monday night with the cry of "murder," and going into the street, saw the prisoner and his companions dragging the Prosecutor, who appeared to have been much abused, and was covered with blood. They said they were taking him to the tender; that they belonged to a rendezvous house in the Borough; but, being required by the officer to shew their warrant, they all ran off, and all escaped pursuit, except the prisoner. The prisoner said, in his defence, that he belonged to the tender, and gave, in the names of two midshipmen, who, he said, were with him at the same time. The Lieutenant of the real press gang, however attended, and assured his Lordship, the prisoner and his companions had no order from him act such a manner.
 ```
 
 Crying  "murder" in an attempt to gain the attention of a crowd who might come to your support when being pressed was also a strategy used elsewhere:
@@ -645,7 +645,7 @@ London Courier and Evening Gazette - Saturday 13 April 1805
 
 A whimsical circumstance happened last week off Gravesend. A West Indiaman arrived at that place, and was soon boarded by a press-gang. The crew of the West Indiaman were brought upon deck, and while the Lieutenant was examining them, a health-boat arrived. As no clean bill of health was found on board the West Indiaman, or at least none that was deemed satisfactory, the crew of the West Indiaman, the Lieutenant of the man of war, and all his gang, were ordered to Standgate Creek to perform quarantine for forty days, which they will, no doubt, pass in perfect *harmony* and *good fellowship* with each other.
 
-On at least one occasion, however, it seems that the press-gang discovered even worse conditions suuffered by a potential recruit than they were likely to inflict upon them.
+On at least one occasion, however, it seems that the press-gang discovered even worse conditions suffered by a potential recruit than they were likely to inflict upon them.
 ```
 
 ```{admonition} *Abused apprentice discovered*, April, 1801
@@ -707,7 +707,7 @@ Sun (London) - Tuesday 17 January 1804
 
 EDINBURGH, JAN. 12. HIGH COURT OF JUSTICIARY.
 
-TUESDAY came on before this Court, the trial of *John Herdman*, boatman, in the service of the Customs, Leith, accused of murder, or culpable homicide, by striking Peter Geyler, midshipman, on the Impress ServiCe at Leith, on the head with a bludgeon or stick, on the evening of the 12th of November last, which occasioned his death in three days thereafter.
+TUESDAY came on before this Court, the trial of *John Herdman*, boatman, in the service of the Customs, Leith, accused of murder, or culpable homicide, by striking Peter Geyler, midshipman, on the Impress Service at Leith, on the head with a bludgeon or stick, on the evening of the 12th of November last, which occasioned his death in three days thereafter.
 
 The Pannel plead Not Guilty.
 
@@ -717,7 +717,7 @@ The first Witness called was Mrs. Calderwood, wife of John Calderwood, meal-deal
 
 John Calderwood said, he never was at sea, but was pressed from his own door on the 12th November, and carried to the rendezvous, but was relieved in a short time—He then went to Cuming's, where Geyler came, and insisted on taking the Witness again to the rendezvous—His wife interfered with Geyler for using him badly, when Geyler struck her. Herdman, who was present, interfered, and said it was shameful to strike a woman, and at last put out Geyler, who continued for some time swearing at the back of the door. About an hour after, the Witness left Cuming's by a back door.—Herdman was sober, but does not think Geyler was so.
 
-John Beatson, midshipman, on the Impress at Leith, remembers Calderwood being impressed, but was not present when any scuffle happened. After Geyler was put out of Cuming's, he said to the Witness, "D——n that wooden-legged b——r, I'll do for him, for interrupting me on my duty." Herdman almost immediately came out, when Geyler repeated his words, and struck Herdman on the head with a stick he had in his hand. The Pannel took the Witness as evidence of his being struck, and said he would haVe satisfaction. The quarrel continued between Geyler and him along the shore, when Mr. Waddell opened his window, and asked " what was the matter ?" Herdman said he had abused by Geyler, an would have satisfaction. Waddell advised him to let the matter rest that night, and have recourse to the Civil Law. Herdman went back to Calderwood's, and the Witness saw Mrs. Calder wood home, and Herdman went back to Coming's with a stick in his hand.
+John Beatson, midshipman, on the Impress at Leith, remembers Calderwood being impressed, but was not present when any scuffle happened. After Geyler was put out of Cuming's, he said to the Witness, "D——n that wooden-legged b——r, I'll do for him, for interrupting me on my duty." Herdman almost immediately came out, when Geyler repeated his words, and struck Herdman on the head with a stick he had in his hand. The Pannel took the Witness as evidence of his being struck, and said he would have satisfaction. The quarrel continued between Geyler and him along the shore, when Mr. Waddell opened his window, and asked " what was the matter ?" Herdman said he had abused by Geyler, an would have satisfaction. Waddell advised him to let the matter rest that night, and have recourse to the Civil Law. Herdman went back to Calderwood's, and the Witness saw Mrs. Calder wood home, and Herdman went back to Coming's with a stick in his hand.
 
 James Thomson, one of the press-gang, said he saw Geyler strike the Pannel with a stick, and Herdman took him a witness.
 
