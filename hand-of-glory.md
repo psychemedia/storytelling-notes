@@ -411,7 +411,7 @@ A variation of the same belief prevailed in Belgium. Not far from Bailleul, in W
 
 In a note to the passage quoted above from Southey's ' Thalaba,' it is mentioned that a somewhat similar practice is recorded by Torquemada of Mexican thieves. They used to carry with them the left hand and arm of a woman who had died in her first childbed ; with this they twice struck the ground before the house which they designed to rob, and the door twice, and the threshold twice: the inhabitants, if asleep, were hindered from waking by this charm, and if awake, were stupefied and deprived of speech and motion while the fatal arm was in the house.
 
-[Much of this account was reproduced *verbatim* in E. S. Hartland's [*English fairy and other folk tales*, 1906?](https://archive.org/details/englishfairyothe00hartiala/page/196/mode/2up), p196-199.]
+[Much of this account was reproduced *verbatim* in E. S. Hartland's [*English fairy and other folk tales*, 1890](https://archive.org/details/englishfairyothe00hartiala/page/196/mode/2up), p196-199.]
 
 ```
 
