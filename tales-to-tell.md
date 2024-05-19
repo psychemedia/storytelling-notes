@@ -7,6 +7,13 @@ Chap books printed in Scotland
 https://digital.nls.uk/chapbooks-printed-in-scotland/archive/
 
 
+-0---
+
+Wife who could not keep a secret - Ashliman variants
+https://sites.pitt.edu/~dash/type1381.html
+
+---
+
 
 SOngs
 OWn grandfather https://genius.com/Willie-nelson-im-my-own-grandpa-lyrics
@@ -92,6 +99,12 @@ Publication date 1853
 Machwhisper for transcription
 
 to get audio file from youtube, eg youtube-dl -i --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=xVLjtO4EkFQ The Golden Balls - Day of the Dead storytelling by Sarah Liisa Wilkinson Crick Crack Club
+
+Golden Ball tale (SLW moved the story on a lot; it would be interesting to do a proper comparison to see what work was done, and how)
+https://archive.org/details/englishfairytale0000noau/page/102/mode/2up
+English Fairy tales retold by Flora Annie Steel
+
+I think Jacobs did a version too?
 
 ---
 
