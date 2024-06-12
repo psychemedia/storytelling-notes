@@ -562,15 +562,6 @@ Ventor Fringe was £101 (after £75 min venue fee); VX £81 (went to pay VF book
 
 ---
 
-https://archive.org/details/fairytalesfromg00grimgoog/page/n36/mode/thumb?q=blacksmith
-
-Grimm translation 1827
-
-Fairy tales, from the Germ., with illustr. by [I.R.] Cruikshank
-by Albert Ludwig Grimm
-
-Publication date 1827
-
 
 
 --

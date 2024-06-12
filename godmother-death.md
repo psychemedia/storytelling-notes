@@ -10,18 +10,10 @@ The story of Godfather Death appears in Grimms' collection in two slightly diffe
 
 The following example, taken from a translation in 1853, represents the "settled" version of the tale according to the Grimm brothers.
 
----
+```{admonition} Grimm, *German popular tales and household stories* (transl.), 1853
+:class: dropdown
 
-https://archive.org/details/germanpopulartal11grim/page/216/mode/2up?q=godfather+death
-
-German popular tales and household stories,
-by Grimm, Jacob, 1785-1863; Grimm, Wilhelm, 1786-1859
-
-Publication date 1853
-Topics Fairy tales
-Publisher New York, C.S. Francis and co.
-
-p217-219
+Jacob & Wilhelm Grimm, *German popular tales and household stories*, 1853, [p217-219](https://archive.org/details/germanpopulartal11grim/page/216/mode/2up).
 
 The Godfather Death
 
@@ -29,7 +21,7 @@ A CERTAIN poor man had twelve children, and was obliged to work day and night to
 
 Presently he met Death striding along on his withered legs, who said, "Take me for godfather." The man asked him who he was, and received for reply, "I am Death, who make all things equal." "Then," answered the man, "you are the right person — you make no difference between the rich and poor ; you shall be godfather for my boy."
 
-Death replied, "I will make your child rich and famous ; he who has me for a friend can need nought." Then the man told him the christening was fixed for the following Sunday, and invited him to come ; . and at the right time he did appear, and acted very becomingly on the occasion.
+Death replied, "I will make your child rich and famous ; he who has me for a friend can need nought." Then the man told him the christening was fixed for the following Sunday, and invited him to come ; and at the right time he did appear, and acted very becomingly on the occasion.
 
 When the boy arrived at years of discretion, the godfather came and took him away with him, and leading him into a forest showed him an herb which grew there. "Now," said Death, "you shall receive your christening gift. I make you a famous physician. Every time you are called to a sick person I will appear to you. If I stand at the head of your patient, you may speak confidently that you can restore him, and if you give him a morsel of that vegetable he will speedily get well ; but if I stand at the feet of the sick he is mine, and you must say all medicine is in vain, for the best physician of the world could not cure him. Dare not, however, to use the herb against my will, for then it will go ill with you."
 
@@ -55,11 +47,11 @@ The Physician begged to be shewn his own lamp, and Death pointed to one almost e
 
 Death made as if he would perform his wish, and prepared a large and fresh lamp ; but he did it very slowly, in order to revenge himself, and the little flame died before he finished. Then the Physician sank to the earth, and fell for ever into the hands of Death !
 
----
+```
 
-The version that appears in the original edition is less elaborate, and also differs in the ending: Death shows the Doctor his lamp, and warns the Doctor not to cross him again, but the Doctor continues to live. *In one of my tellings, I used "a chill wind blew between them, and as the doctor's flame spluttered, he clutched his chest in pain. 'Do not cross me again', said Death; and with that, my story ends.". That approach also allows the flame to be blown out...*
+The version that appears in Grimm's original 1812 edition is less elaborate, and also differs in the ending: Death shows the Doctor his lamp, and warns the Doctor not to cross him again, but the Doctor continues to live. *In one of my tellings, I used "a chill wind blew between them, and as the doctor's flame spluttered, he clutched his chest in pain. 'Do not cross me again', said Death; and with that, my story ends.". That approach also allows the flame to be blown out...*
 
-One problem with the tale according to Grimm is the question of how the lamp of the Doctor's actions save lives if the lives are associated with the lamps. What lamp is used to rekindle the lamps of the King and his daughter? Should there be a trade, somewhere, on the Doctor's life, for example? Or perhaps there should be lamps extinguished early before they could rerally shine, miscarried children of the Doctor's wife, for example?
+One problem with the tale according to Grimm is the question of how the Doctor's actions save lives if the lives are associated with the lamps. What lamp is used to rekindle the lamps of the King and his daughter? Should there be a trade, somewhere, on the Doctor's life? Or perhaps other lamps should extinguished earlier than they might otherwise be, their oil used to top up the king's lamp, and his daughters, according to some sort of conservation principle? Or might lamps that would have otherwiese burned be sacrified, miscarried children of the Doctor's wife, for example?
 
 ...
 
@@ -80,15 +72,16 @@ Alternatively, the flame may be blown out, and as it does so, the doctor dies.
 
 Godmother Death:
 
+
+god, devil, death as a potential godparents
+
+---
+
 ---
 
 
-https://archive.org/details/islendzkaeventyr00geriuoft/page/142/mode/2up?q=+tod
 
-Islendzk aeventyri; isländische Legenden, Novellen und Märchen
-by Gering, Hugo, 1847-1925
-
-pp143-152
+Hugo Gering, *Islendzk aeventyri; isländische Legenden, Novellen und Märchen*, 1882, [pp143-152](https://archive.org/details/islendzkaeventyr00geriuoft/islendzkaeventyr00geriuoft/page/n307/mode/2up).
 
 LXXVIII
 
@@ -109,29 +102,18 @@ Writing "German museum for skilful, literature, art and antiquity research" new 
 LXXVI1I. The King's Son and Death. 151
 his godfather the promise to be able to make every sick person well. — Only in four of the parallels cited does the ruse with the Lord's Prayer used in the Icelandic fairy tale appear, namely in Hans Sachs, in the German fairy tale in Wolf's collection, in the Portuguese and the Norwegian. In them, too, the doctor asks Death, who wants to take him away, to let him pray the Lord's Prayer first, and then doesn't finish it. In the tale of the wolf he declares that he will pray to it for 50 years, and death laughingly accepts it; in Hans Sachs and in the other two fairy tales, however, death outwits the doctor after a while, so that he prays an Lord's Prayer. For Hans Sachs, when the doctor has not finished praying the Lord's Prayer for years that have begun, death takes the form of a sick person, lies down in front of the doctor's front door and asks the doctor to help him with an Lord's Prayer, which the doctor says acts innocently and falls for him. In the Portuguese fairy tale, death pretends to be dead; the doctor finds him lying on the street and prays the Lord's Prayer for his soul, whereupon death jumps up and seizes him. In the Norwegian fairy tale, one night Death hangs a large plaque with the Lord's Prayer on it over the doctor's bed, who, when he wakes up, reads the Lord's Prayer and, when he has finished reading it, dies. Then there is the Hungarian fairy tale mentioned above, which is obviously distorted. For in him death proclaimed to his father, when he bestowed on him the power to heal every sick person, at the same time that he should—one does not know why—die immediately if he said the Lord's Prayer or Amen. Years later, the godfather finds a crying child on the street who complains that his father hit him because he didn't know a word during prayer. ' Was it our father? ' asks the godfather, and so one after the other all the words of the Lord's Prayer, and when he asks at last: ' 'Was it Amen?' the child, who was none other than death, replies: 'Yes, that was it; amen for you, godfather, amen/' And immediately the man dies. — Finally, the trick with the Lord's Prayer appears in a Syrian fairy tale: see Syrian sagas and fairy tales, collected from popular speech and translated by E. Prym and A. So ein f Göttingen 1881 ) see 299 rich young man, with whom he has fraternized, when asked that he will take his soul on his wedding night. So Her Reiche only marries after 400 years, and when the angel of death comes, he asks him to let him live until he has said the Lord's Prayer. When the request is granted, he says it
 Our Father not. Only after 20 years does he forget to eat at home and say the prayer. Soon the angel of death appears and takes his soul. E. Prym refers to this in the subject index u. w. 'Todesengel' (p. 406) on Grimm, Kinder- und Hausmär- chen III, 132. There — in a variant of the fairy tale about the Spielhansel — death says to him when Hans Lustig prays an Our Father at a funeral : l So, I'll lift it up, that you say that bedden, nu most du deran."1 But nothing of the Lord's Prayer has occurred before: the fairy tale is obviously distorted. — The beginning of the Icelandic aeventyri is quite peculiar , the appearance of death as the prince's wise and teacher, the bird karadius 1 and finally the lusty king's voluntary prayer of the Lord's Prayer!
+
 A well done Swedish version of the Icelandic aeventyri (according to my text) was provided by G. Cederschiöld in Ny sveusk tidskrift I (1882) pp. 220-226.
 
 
 ---
 
-danish/icelandic https://archive.org/details/islendzkaeventyr00geriuoft/page/n307/mode/2up?q=+todish
 
-    23
+```{admonition} A variant in verse, (1547), 1910
+:class: dropdown
+Hans Sachs, *Merry tales and three Shrovetide plays, *, translated into English Verse by William Leighton, 1910, [p84-7](https://archive.org/details/merrytalesthrees00sach/page/84/mode/2up).
 
----
-
-https://archive.org/details/merrytalesthrees00sach/page/84/mode/2up?q=%22godfather+death%22
-
-Merry tales and three Shrovetide plays
-by Sachs, Hans
-
-Now first done into English Verse by WILLIAM LEIGHTON
-
-1910
-Godfather Death
-p84-7
-
-GODFATHER DEATH
+Godfather Death  
 [November 20, 1547]
 
 FOR his new child, a man would find  
@@ -250,46 +232,39 @@ To find Death's vast and unknown land.
 There is a proverb, Hans Sachs saith,  
 "No human skill can baffle Death."
 
+```
 
 ---
 
-https://archive.org/details/sixtyfolktalesfr00wratrich/page/50/mode/2up?q=%22godmother+death%22
+```{admonition} In *Sixty folk-tales from exclusively Slavonic sources*, 1889
+:class: dropdown
+Albert Henry Wratislaw, 1889, *Sixty folk-tales from exclusively Slavonic sources*, [pp. 52-55](https://archive.org/details/sixtyfolktalesfr00wratrich/page/52/mode/2up?q=%22godmother+death%22).
 
-Sixty folk-tales from exclusively Slavonic sources
-by Wratislaw, Albert Henry, 1822-1892
-
-1889
-
-p51-55
+p51.
 
 MORAVIAN STORIES
 
-MORAVIA is so named from the river Morava (in German the river March), of which, and its affluents, it is the basin. It falls into the Danube a little above Pres- burg. In very early times Moravia appears to have been more civilized and powerful than Bohemia ; but later, Bohemia became a considerable kingdom, and Moravia a dependency of, and eventually a margravate under the Bohemian crown.
+MORAVIA is so named from the river Morava (in German the river March), of which, and its affluents, it is the basin. It falls into the Danube a little above Presburg. In very early times Moravia appears to have been more civilized and powerful than Bohemia ; but later, Bohemia became a considerable kingdom, and Moravia a dependency of, and eventually a margravate under the Bohemian crown.
 
-The Moravian stories differ but little in character from those of Bohemia. The country, unlike Bohemia, abound? in dialects, although the literary language is the Bohemian. On the east the Moravian melts into the Silesian, or ' Water-Polish.'
+The Moravian stories differ but little in character from those of Bohemia. The country, unlike Bohemia, abounds in dialects, although the literary language is the Bohemian. On the east the Moravian melts into the Silesian, or ' Water-Polish.'
 
-No. 8, 'Godmother Death,' is an interesting variant of the Teutonic 'Godfather Death,' which is given by Grimm. The reason why Death is represented as a Godmother, rather than a Godfather, in the Moravian story, is, that Death (Smrt) is feminine in all Slavonic dialects. The story constructed on this basis is more graceful and fuller of incident than the Teutonic tale, in which Death is masculine.
+No. 8, 'Godmother Death,' is an interesting variant of the Teutonic 'Godfather Death,' which is given by Grimm. The reason why Death is represented as a Godmother, rather than a Godfather, in the Moravian story, is, that Death (*Smrt*) is feminine in all Slavonic dialects. The story constructed on this basis is more graceful and fuller of incident than the Teutonic tale, in which Death is masculine.
 
-VIII. GODMOTHER DEATH.
 
-THERE was a man, very poor in this world's goods, whose wife presented him with a baby boy. No one was willing to stand sponsor, because he was so very poor. The father said to himself : ' Dear Lord, I am so poor that no one is willing to be at my service in this matter ; I'll take the baby, I'll go, and I'll ask the first person I meet to act as sponsor, and if I don't meet anybody, perhaps the sexton will help me.' He went and met Death, but didn't know what manner of person she was ; she was a handsome woman, like any other woman. He asked her to be godmother. She didn't make any excuse, and immediately saluted him as parent of her godchild, took the baby in her arms, and carried him to church. The little lad was properly christened. When they came out of church, the child's father took the godmother to an inn, and wanted to give her a little treat as godmother. But she said to him, 'Gossip, `[The Slavonians are rich in terms, both masculine and feminine, expressing the various relationships between godparents and godchildren and their parents. We have only one form, ' gossip,' which thus has to do duty for both the godmother and the father of the godchild.]` leave this alone, and come with me to my abode.' She took him with her to her apartment, which was very handsomely furnished. Afterwards she conducted him into great vaults, and through these vaults they went right into the underworld in the dark. There tapers were burning of three sizes small, large, and middle-sized ; and those which were not yet alight were very-large. The godmother said to the godchild's father : ' Look, Gossip, here I have the duration of everybody's life.' The child's father gazed thereat, found there a tiny taper close to the very ground, and asked her : ' But, Gossip, I pray you, whose is this little taper close to the ground?' She said to him : ' That is yours ! When any taper whatsoever burns down, I must go for that man.' He said to her : 'Gossip, I pray you, give me somewhat additional.' She said to him : ' Gossip, I cannot do that !' Afterwards she went and lighted a large new taper for the baby boy whom they had had christened. Meanwhile, while the godmother was not looking, the child's father took for himself a large new taper, lit it, and placed it where his tiny taper was burning down.
+VIII.— GODMOTHER DEATH.
+
+THERE was a man, very poor in this world's goods, whose wife presented him with a baby boy. No one was willing to stand sponsor, because he was so very poor. The father said to himself : 'Dear Lord, I am so poor that no one is willing to be at my service in this matter ; I'll take the baby, I'll go, and I'll ask the first person I meet to act as sponsor, and if I don't meet anybody, perhaps the sexton will help me.' He went and met Death, but didn't know what manner of person she was ; she was a handsome woman, like any other woman. He asked her to be godmother. She didn't make any excuse, and immediately saluted him as parent of her godchild, took the baby in her arms, and carried him to church. The little lad was properly christened. When they came out of church, the child's father took the godmother to an inn, and wanted to give her a little treat as godmother. But she said to him, 'Gossip, `[The Slavonians are rich in terms, both masculine and feminine, expressing the various relationships between godparents and godchildren and their parents. We have only one form, 'gossip,' which thus has to do duty for both the godmother and the father of the godchild.]` leave this alone, and come with me to my abode.' She took him with her to her apartment, which was very handsomely furnished. Afterwards she conducted him into great vaults, and through these vaults they went right into the under-world in the dark. There tapers were burning of three sizes — small, large, and middle-sized ; and those which were not yet alight were very large. The godmother said to the godchild's father : 'Look, Gossip, here I have the duration of everybody's life.' The child's father gazed thereat, found there a tiny taper close to the very ground, and asked her : 'But, Gossip, I pray you, whose is this little taper close to the ground?' She said to him : 'That is yours ! When any taper whatsoever burns down, I must go for that man.' He said to her : 'Gossip, I pray you, give me somewhat additional.' She said to him : 'Gossip, I cannot do that !' Afterwards she went and lighted a large new taper for the baby boy whom they had had christened. Meanwhile, while the godmother was not looking, the child's father took for himself a large new taper, lit it, and placed it where his tiny taper was burning down.
 
 The godmother looked round at him and said : 'Gossip, you ought not to have done that to me ; but if you have given yourself additional lifetime, you have done so and possess it. Let us go hence, and we'll go to your wife.'
 
-She took a present, and went with the child's father and the child to the mother. She arrived, and placed the boy on his mother's bed, and asked her how she was, and whether she had any pain anywhere. The mother confided her griefs to her, and the father sent for some beer, and wanted to entertain her in his cottage, as godmother, in order to gratify her and show his gratitude. They drank and feasted together. Afterwards the godmother said to her godchild's father : ' Gossip, you are so poor that no one but myself would be at your service in this matter ; but never mind, you shall bear me in memory ! I will go to the houses of various respectable people and make them ill, and you shall physic and cure them. I will tell you all the remedies. I possess them all, and everybody will be glad to recompense you well, only observe this : When I stand at anyone's feet, you can be of assistance to every such person ; but if I stand at anybody's head, don't attempt to aid him.' It came to pass. The child's father went from patient to patient, where the god-mother caused illness, and benefited every one. All at once he became a distinguished physician. A prince was dying nay, he had breathed his last nevertheless, they sent for the physician. He came, he began to anoint him with salves and give him his powders, and did him good. When he had restored him to health, they paid him well, without asking how much they were indebted. Again, a count was dying. They sent for the physician again. The physician came. Death was standing behind the bed at his head. The physician cried: 'It's a bad case, but we'll have a try.' He summoned the servants, and ordered them to turn the bed round with the patient's feet towards Death, and began to anoint him with salves and administer powders into his mouth, and did him good. The count paid him in return as much as he could carry away, without ever asking how much he was indebted ; he was only too glad that he had restored him to health. When Death met the physician, she said to him : ' Gossip, if this occurs to you again, don't play me that trick any more. True, you have done him good, but only for a while; I must, none the less, take him off whither he is due.' The child's father went on in this way for some years ; he was now very old. But at last he was wearied out, and asked Death herself to take him. Death was unable to take him, because he had given himself a long additional taper; she was obliged to wait till it burned out. One day he drove to a certain patient to restore him to health, and did so. Afterwards Death revealed herself to him, and rode with him in his carriage. She began to tickle and play with him, and tap him with a green twig under the throat ; he threw himself into her lap, and went off into the last sleep. Death laid him in the carriage, and took herself off. They found the physician lying dead in his carriage, and conveyed him home. The whole town and all the villages lamented : 'That physician is much to be regretted. What a good doctor he was ! He was of great assistance ; there will never be his like again !' His son remained after him, but had not the same skill.
+She took a present, and went with the child's father and the child to the mother. She arrived, and placed the boy on his mother's bed, and asked her how she was, and whether she had any pain anywhere. The mother confided her griefs to her, and the father sent for some beer, and wanted to entertain her in his cottage, as godmother, in order to gratify her and show his gratitude. They drank and feasted together. Afterwards the godmother said to her godchild's father : 'Gossip, you are so poor that no one but myself would be at your service in this matter ; but never mind, you shall bear me in memory ! I will go to the houses of various respectable people and make them ill, and you shall physic and cure them. I will tell you all the remedies. I possess them all, and everybody will be glad to recompense you well, only observe this : When I stand at anyone's feet, you can be of assistance to every such person ; but if I stand at anybody's head, don't attempt to aid him.' It came to pass. The child's father went from patient to patient, where the godmother caused illness, and benefited every one. All at once he became a distinguished physician. A prince was dying — nay, he had breathed his last — nevertheless, they sent for the physician. He came, he began to anoint him with salves and give him his powders, and did him good. When he had restored him to health, they paid him well, without asking how much they were indebted. Again, a count was dying. They sent for the physician again. The physician came. Death was standing behind the bed at his head. The physician cried: 'It's a bad case, but we'll have a try.' He summoned the servants, and ordered them to turn the bed round with the patient's feet towards Death, and began to anoint him with salves and administer powders into his mouth, and did him good. The count paid him in return as much as he could carry away, without ever asking how much he was indebted ; he was only too glad that he had restored him to health. When Death met the physician, she said to him : 'Gossip, if this occurs to you again, don't play me that trick any more. True, you have done him good, but only for a while; I must, none the less, take him off whither he is due.' The child's father went on in this way for some years ; he was now very old. But at last he was wearied out, and asked Death herself to take him. Death was unable to take him, because he had given himself a long additional taper; she was obliged to wait till it burned out. One day he drove to a certain patient to restore him to health, and did so. Afterwards Death revealed herself to him, and rode with him in his carriage. She began to tickle and play with him, and tap him with a green twig under the throat ; he threw himself into her lap, and went off into the last sleep. Death laid him in the carriage, and took herself off. They found the physician lying dead in his carriage, and conveyed him home. The whole town and all the villages lamented : 'That physician is much to be regretted. What a good doctor he was ! He was of great assistance ; there will never be his like again !' His son remained after him, but had not the same skill. The son went one day into church, and his godmother met him. She asked him : 'My dear son, how are you?' He said to her : 'Not all alike ; so long as I have what my dad saved up for me, it is well with me, but after that the Lord God knows how it will be with me.' His godmother said : 'Well, my son, fear nought. I am your christening mamma ; I helped your father to what he had, and will give you, too, a livelihood. You shall go to a physician as a pupil, and you shall be more skilful than he, only behave nicely.' After this she anointed him with salve over the ears, and conducted him to a physician. The physician didn't know what manner of lady it was, and what sort of son she brought him for instruction. The lady enjoined her son to behave nicely, and requested the physician to instruct him well, and bring him into a good position. Then she took leave of him and departed. The physician and the lad went together to gather herbs, and each herb cried out to the pupil what remedial virtue it had, and the pupil gathered it. The physician also gathered herbs, but knew not, with regard to any herb, what remedial virtue it possessed. The pupil's herbs were beneficial in every disease. The physician said to the pupil : 'You are cleverer than I, for I diagnose no one that comes to me ; but you know herbs counter to every disease. Do you know what ? Let us join partnership. I will give my doctor's diploma up to you, and will be your assistant, and am willing to be with you till death.' The lad was successful in doctoring and curing till his taper burned out in limbo.
 
-The son went one day into church, and his godmother met him. She asked him : 'My dear son, how are you?' He said to her : 'Not all alike ; so long as I have what my dad saved up for me, it is well with me, but after that the Lord God knows how it will be with me.' His godmother said : 'Well, my son, fear nought. I am your christening mamma ; I helped your father to what he had, and will give you, too, a livelihood. You shall go to a physician as a pupil, and you shall be more skilful than he, only behave nicely.' After this she anointed him with salve over the ears, and conducted him to a physician. The physician didn't know what manner of lady it was, and what sort of son she brought him for instruction. The lady enjoined her son to behave nicely, and requested the physician to instruct him well, and bring him into a good position. Then she took leave of him and departed. The physician and the lad went together to gather herbs, and each herb cried out to the pupil what remedial virtue it had, and the pupil gathered it. The physician also gathered herbs, but knew not, with regard to any herb, what remedial virtue it possessed. The pupil's herbs were beneficial in every disease. The physician said to the pupil : 'You are cleverer than I, for I diagnose no one that comes to me; but you know herbs counter to every disease. Do you know what? Let us join partnership. I will give my doctor's diploma up to you, and will be your assistant, and am willing to be with you till death.' The lad was successful in doctoring and curing till his taper burned out in limbo.
+```
 
+```{admonition} In "The shoemaker's apron", 1920
+:class: dropdown
 
----
-https://archive.org/details/shoemakersaprons00filliala/page/198/mode/2up?q=godmother
-
-The shoemaker's apron; a second book of Czechoslovak fairy tales and folk tales
-
-Fillmore, Parker, 1878-1944
-
-1920
-p199-205
+Parker Fillmore, *The shoemaker's apron; a second book of Czechoslovak fairy tales and folk tales*, 1920, [p199-205](https://archive.org/details/shoemakersaprons00filliala/page/198/mode/2up).
 
 THE CANDLES OF LIFE
 
@@ -384,18 +359,18 @@ And so, owing to his godmother's gift, Josef became a great physician of whom it
 
 He lived long and happily until at last his candle burned down and Death, his kind godmother, took him.
 
----
+```
 
-https://archive.org/details/sim_scandinavian-studies_1926-1927_9/page/112/mode/2up
+
 
 Scandinavian Studies 1926 - 1927: Vol 9
 Publication date 1926 - 1927
 
-ALexander H. Krappe
+Alexander H. Krappe
 
 An Oriental Source of the Icelandic version of Godfather Death
 
-p113-115
+[p113-115](https://archive.org/details/sim_scandinavian-studies_1926-1927_9/page/112/mode/2up).
 
 https://www.jstor.org/stable/40915212
 
@@ -532,15 +507,20 @@ by Wlislocki, Heinrich von
 Publication date 1886
 p94-6
 
-38. Death as godfather.
+TIdy up ocr as best I can then prompt into chat gpt, along lines of "his is old german from bad ocr; can you translate it?". Chat GPT helps with correcting the lettering.
 
-@S was once a poor office, about batte febr Biele Sfinber unb tonne fte faum to feed, ben fine §anbwerf was even fdbledbt unb if he also wanted to work, so he bodb no work. Once upon a time there was a nasty punishment in the saddle and all the fine silvers died. Salb barauf but gave birth to fine gray Wieber a Sittb unb ber poor Stann wanted to ben 2Beg to bury a seedbed for his newborn Stinb. 3m ganjen Sorfe he found fine Üwenfdben, over fine Sfinbe fine seeds wanted; ba he went out sadly to ben griebbof unb fefcte fidb next to baS ©rab fine Staber nieber. SllS er ba sad fafj, fam ber Sob p him nnb fpracb: “Su fudbft a seed for His newborn staff? 3hm, because Su doesn't want anyone else to be with him, he wants to
-icf) sir out of ssuperior help unb sweets fine, ©ere only call out unblundered ben SjSopen gur booze, but ask his Ükenfctjen, »he woo sweets fine. SBenn bie Seute overpowers ftnb, "erbe idh fdfjon fommen."
-Ser poor üfiann went after drinking without being ordered to drink. 2118 about Sßope accosted "ar unb bie Seute f"h The had gathered, a fdjön beloved $r entered the room, unb would fidfj öom Sßopen as ißaten accept. 2118 ba8 ®inb baptized »ar unb bie Seute begging had removed, fpradfj about Sab — benn he was a!8 ftf)öngeliebter $err erfdfjenen —: “2118 Sßatengefdhanf »ill I inform Sir golgenbeS: His son, my Sßate, foH 2lrjt "inherit. If he is called to P Äranfen, so foH he can see alone, »O idh ftehe. If I'm standing by to ask for help, he'll work on the same; ftefje idh but at Sfopfe, so he must die. Surdjj bie8 ©eljeimnife he wore reidh unb anfefeen "inherit." Sarauf removed fidh ber Sob.
-Ser SSater undb bi ÜÖtutter died soon unb al8 about son WudfjS, »urbe he Slrgt. SBenn he p Sranfen called Würbe, »he shouted immediately, like e8 um ba8 Seben ftanb, unb asked e8 the same whether over Äranfe stay on Seben or fdie Wirb. Saburcfj he would become so popular and famous, because old fronts only called him and so gefdhah'8, he would bafe in Furger 3«t a lot more 2ftann.
-9tadh floorboards safer but he would also frank, unsuspected ben sob with fine soup flehen. Sa said about 2lgt: "3h banfe sir, bafe Su helped me ftet8 unb me 8" made a rich SD then arrested. I would like to know how you know when a SDtenfdh will die?" Ser Sob said: "I want to fiddle with him right away. And he led ben 2lrjt into a fine, subterranean sweet oven, then he opened a fire and they entered an unencumbered big fairy8 3always, where un* baked seeds were, in which oil was burning. Sa said about Sob: “9tun fell)! biefe Sampen finb ÜHenfcfeenleben; If baS oil is burnt, I'll take care of the relevant ÜJtenfcfjen and pick it up. See, Bi8 ift at Sampe his wife is almost dead, but his bort is leaving soon!" Ser 2rgt said: "I would like to see my8 SSaterS at Sampe!" Saraitf replied about Sob: "She is fdjon long in the room, I beg W'H fetch them sir right away!" 2118 about Sob fine out8ing, gofe over 2lgt fdfenell in fine Sampe unb in bie fine fjrau8 outside of the remaining Sampen for Diel Del , bafe fie Doll
+38. Der Tod als Pate.
 
-became. As soon as death came back, he immediately noticed the betrayal, became very angry and threw out ben Att, who had now been found and lived for a long time with his wife in bliss and peace.
+Es war einmal ein armer Mann, der hatte sehr viele Kinder und konnte sie kaum ernähren, denn sein Handwerf ging gar schlecht und wenn er auch arbeiten wollte, so bekam er doch keine Arbeit.
+
+TO DO OCR USING CHATGPT ON p. 94
+
+
+ich Dir aus der Verlegenheit helfen und Pate sein. Geh nur und lasse den Popen zur Taufe rufen, aber sage keinen Menschen, wer der Pate sein wird. Wenn die Leute versammelt sind, werde ich schon kommen.“
+
+Der arme Mann ging nach Hause und bestellte die Taufe. Als der Pope angekommen war und die Leute sich versammelt hatten, trat ein schön gekleideter Herr in die Stube, und ließ sich vom Popen als Paten annehmen. Als das Kind getauft war und die Leute sich entfernt hatten, sprach der Tod — denn er war als schöngekleideter Herr erschienen —: „Als Patengeschenk will ich Dir Folgendes mitteilen: Dein Sohn, mein Pate, soll Arzt werden. Wenn er zu Kranken gerufen wird, so soll er allein sehen können, wo ich stehe. Stehe ich bei den Füßen des Kranken, so bleibt er am Leben; stehe ich aber beim Kopfe, so muß er sterben. Durch dies Geheimnis wird er reich und angesehen werden.“ Darauf entfernte sich der Tod. Der Vater und die Mutter starben gar bald und als der Sohn heranwuchs, wurde er Arzt. Wenn er zu Kranken gerufen wurde, wußte er gleich, wie es um das Leben stand, und sagte es gleich ob der Kranke am Leben bleiben oder sterben wird. Dadurch wurde er so beliebt und berühmt, daß alle Kranken nur ihn riefen und so geschah’s, daß er in kurzer Zeit ein sehr reicher Mann wurde.
+
+Nach vielen Jahren wurde er aber auch krank, und erblickte den Tod bei seinem Kopfe stehen. Da sagte der Arzt: „Ich danke Dir, daß Du mir stets geholfen und mich zu einem reichen Mann gemacht hast. Aber das möchte ich doch gerne wissen, woher Du weißt, wann ein Mensch sterben soll?“ Der Tod sagte: „Ich will es Dir gleich zeigen, woher ich es weiß, wen ich abholen soll!“ Und er führte den Arzt in seine unterirdische Wohnung, dort öffnete er eine Thür und sie traten in ein unendlich großes Zimmer, wo unzählige Lampen waren, in denen Oel brannte. Da sagte der Tod: „Nun sieh! diese Lampen sind Menschenleben; wenn das Oel verbrennt ist, so komme ich zu dem betreffenden Menschen und hole ihn ab. Sieh, diese ist die Lampe Deiner Frau, die ist beinahe voll, aber Deine dort, geht bald aus!“ Der Arzt sagte: „Ich möchte gerne die Lampe meines Vaters sehen!“ Darauf entgegnete der Tod: „Die ist schon längst in der Kammer; doch ich will Dir gleich holen!“ Als der Tod hinausging, goß der Arzt schnell in seine Lampe und in die seiner Frau aus den übrigen Lampen so viel Oel nach, daß sie voll wurden. Als der Tod zurückkehrte, bemerkte er gleich den Betrug, wurde gar zornig und warf den Arzt hinaus, der nun gesund nach Hause kam und noch lange mit seiner Frau in Glück und Zufriedenheit lebte.
 
 ---
 
@@ -678,6 +658,7 @@ Death wrapped a bony arm around his godson’s shoulders and together they amble
 
 ‘It snuffs out,’ said Godfather Death, and at that precise moment the candle’s light winked out and the physician fell down dead on the stone.
 
+---
 
 TH: there is a variant somewhere Death is merciful and the candle sof reach of them expire at the same time???
 
@@ -904,7 +885,16 @@ slovenskje povesti/ Slovak National Tales ( Dobšinský 1880-1883)
 
 https://archive.org/details/prostonrodniesl00dobgoog/page/n74/mode/2up?q=smrt
 
-p65-
+p65-74
+
+Smrt Kmotra a Zázračný Lekár.
+
+Podali Jonathan Dobroslav Čipka z Malohontu, Pavol Dobsinský z Gemera a Samo Ormis z okolia B. Štiavnice.
+
+Kde bolo, tam bolo, v jednej tesnej doline bolo, do ktorej celý Boží deň leda raz slnce nadopoklo. Stál tam drevenný domček a v tom domčeku oyval ovčiar, čo mal na každý prst dvoje deti ale chleba už nemal, ani čoby za nechet spratal
+
+TO DO
+
 
 ^ finat Godfather and the Miracle I ^ ekár.
 leni I Submitted by Jonathan Dobroslav Čipka from Maloliont, Pavol ..I DobSinsJcý from Gemera and Samo Ormis from the surroundings of B. Štiavnica.

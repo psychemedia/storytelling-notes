@@ -223,6 +223,12 @@ When Gambrinus woke up the next day, things seemed different.
 
 He'd never been much good at games that required any skill, before. He'd never been much good a games that required any luck. He'd been particularly bad at games that required both skill and luck. But now, it seemed, that whatever the game, whatever the challenge, the luck ran his way... and he won. He won A LOT.
 
+Cards, dice, archery competitions, vinkensport, even vinkensport — finch-fighting — which was very popular in Dutch speaking Flanders at the time. This was nothing like the good old English sport of cockfighting, where specially bred birds with a particularly bad attitude are trained to fight each other to the death as their owners bet on the outcome; it was far more refined. For in vinkensport, finch fighting, each owner must count how many times in one hour their bird can sing its song.
+
+And Gambrinus' bird sang its refrains, not just with perfect repetition, but far faster than every other bird; Gambrinus' bird gave a perfect performance of over 900 times in one hour (950). Owner kept count on a chalk board.  First prize and a hefty side bet.
+
+Anyway, Gambrinus won competitions with his finch for miles aroud, and with all the other games of skill and chance, he was soon very wealthy indeed.
+
 When he returned home, he could afford to be seen in all the best places around town. In all the places that Flandrine might be seen. One day he saw her. He was still handsome, although his stare had something of a manic look about it as his eyes darted around the room, looking for any opportunity to try to his luck. But when he saw Flandrine, he was all focus.
 
 "You seem to have done well for yourself" said Flandrine, but when she found out he had come by his wealth from "GAMBLING??? You think I would marry a GAMBLER?", he was left, once again, chastised. And embarrassed.
@@ -253,7 +259,9 @@ After a short walk, they came out of the wood into a wide open field, lined with
 
 With *hops* added to the barley, and the yeast, and the water, you can make a new sort of drink... *beer*. The ambrosia of men, if not of the gods.
 
-Gambrinus took a hearty swig and... his first taste. Bleurghhh... That's horrible...
+"Just crush the barley", said the Devil, "brew it in vats, and *then* mix in the hops... and they will give it a flavour like nothing you've ever tasted. It will age and mature in the barrel. You can make it blonde or brown. And it will make you happy. Andd sociable. And Flandrine, well, who needs Flandrine if you can can be in the company of beer, and the company of other beer drinkers?! Try some..."
+
+So Gambrinus took a hearty swig and... his first taste. Bleurghhh... That's horrible...
 
 He tasted it again... It didn't taste quite so bad this time... Rather than sipping it, he tried quaffing it... And... actually, it wasn't that bad. He started to relax...
 
@@ -307,17 +315,7 @@ And that is the end of the story. Except to say that the Devil had the last laug
 ---
 Unused:
 
-
-Cards, dice, archery competitions, vinkensport, even vinkensport — finch-fighting — which was very popular in Dutch speaking Flanders at the time. This was nothing like the good old English sport of cockfighting, where specially bred birds with a particularly bad attitude are trained to fight each other to the death as their owners bet on the outcome; it was far more refined. For in vinkensport, finch fighting, each owner must count how many times in one hour their bird can sing its song.
-
-And Gambrinus' bird sang its refrains, not just with perfect repetition, but far faster than every other bird; Gambrinus' bird gave a perfect performance of over 900 times in one hour (950). Owner kept count on a chalk board.  First prize and a hefty side bet.
-
-Anyway, Gambrinus won competitions with his finch for miles aroud, and with all the other games of skill and chance, he was soon very wealthy indeed.
-
 ...
-
-
-Crush the barley, brew it in vats, mix it with the hops and they will give it a flavour like nothing you've ever tasted. It will age and mature in the barrel. You can make it blonde or brown. And it will make you happy. Andd sociable. And Flandrine, well, who needs Flandrine if you can can be in the company of beer, and the company of other beer drinkers?! Try some...
 
 
 ---
@@ -384,13 +382,15 @@ The [German Steins](https://www.germansteins.com/gambrinus-the-beer-king/) websi
 >
 > On the strength of this clever idea, the brewers of Brussels appointed him as their honorary leader.  From then on he was the patron of brewers and innkeepers and Jan Primus became Gambrinus, the King of Beer.
 
-Another tale tells of....? battle, climbs on beer barrels and drinks? ??heavey drinker?
+Another tale tells of....? battle, climbs on beer barrels and drinks? ??heavy drinker?
 
-LEgend - hops??
+Legend - hops??
 
 
 ----
 
+
+See other .md 
 
 https://en.wikipedia.org/wiki/Pierce_Penniless
 
