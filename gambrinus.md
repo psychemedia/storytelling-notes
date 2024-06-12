@@ -168,7 +168,7 @@ Deulin translation - TH  summary:
 
 "Cambrinus, King of Beer", from *Tales of a Beer Drinker*, 1868, Charles Deulin
 
-*I bring you a tale of festive cheer*
+*I bring you a tale [of festive good cheer / both of sorrow and cheer]*  
 *Gather round for my story: the invention of beer.*
 
 Cambrinus (Gambrinus) was a handsome young assistant to a glassmaker in Flanders, on the French and Belgian border. There were two reasons why Gambrinus would never become a master glassmaker. For one, a Master would only teach their own sons the real secrets of the craft. For two, Gambrinus was a rubbish apprentice. He couldn't even get the furnace to the correct temperature.
@@ -203,7 +203,7 @@ How did the man knew Gambrinus' name? And:
 
 "All hanged men make their home in hell, Gambrinus."
 
-Ah... Gambrinus hadn't expected THAT sort of end.
+Ah... Gambrinus hadn't expected *that* sort of end.
 
 "And you would be...?"
 
@@ -251,7 +251,7 @@ Eventually, he managed to get half way up to the first branch before falling bac
 
 After a short walk, they came out of the wood into a wide open field, lined with rows and rows of poles and wires and fragrant plants growing up them: hops. "I think this, perhaps, will cure you of your love sickness..."
 
-With hops added barley and yeast and water, you can make a new sort of drink... beer. The ambrosia of men, if not of the gods.
+With *hops* added to the barley, and the yeast, and the water, you can make a new sort of drink... *beer*. The ambrosia of men, if not of the gods.
 
 Gambrinus took a hearty swig and... his first taste. Bleurghhh... That's horrible...
 
@@ -261,9 +261,9 @@ He started thinking...
 
 "This - beer, do you say? — once you get a taste for it, it tastes pretty good. But I also have a taste, for revenge. The people in my home town mocked me. And now I want to mock them. I want revenge..."
 
-THe Devil smiled, and they both sat thinking...
+The Devil smiled, and they both sat thinking...
 
-[t was a Sunday, and all around them was the sound of Church bells, calling people to prayer...
+It was a Sunday, and all around them was the sound of Church bells, calling people to prayer...
 
 "What is it about the sound of bells," said the Devil, "that makes people feel compelled to go to Church?"
 
@@ -273,7 +273,7 @@ Now the devil is nothing if not resourceful, he's always looking for an angle; h
 
 "I have it! Gather some bells, some tubular bells, chimes. Two dozen or more, all properly tuned; then hook up two keyboards: one of keys and one of pedals. The sound will be like nothing anyone has heard before; it will drive them crazy..."
 
-So Gambrinus set to work. With the last of his gambling money, he built a brewery. And the instrument the devil had come up with - a carillon, they're called — he made one of those too; and he set the chimes in the belfry of the brewery.
+So Gambrinus set to work. With the last of his gambling money, he built a brewery. And the instrument the devil had come up with - a *carillon*, they're called — he made one of those too; and he set the chimes in the belfry of the brewery.
 
 For the opening day, he had made two brews: a blond beer, and a brown one. Everyone was invited to the first tasting...
 
@@ -293,13 +293,13 @@ So taken was the King of the Netherlands by the newly invented beer that he made
 
 Every day, Gambrinus would drink, along with his patrons. His nose turned red and his face filled out; to say he became portly would be too generous. But he was a sociable host, and would chat to friends old and new, from dawn to dusk, with ever a pint in his hand.
 
-One day, Flandrine came to visit. Now that he was a Duke, well, he had come up in the world. But he didn't even recognize her, simply offered her a pint, as he would offer anyone a pint. He had compltely forgotten about her. This time it was she who went away dejected.
+One day, Flandrine came to visit. Now that he was a Duke, well, he had come up in the world. But he didn't even recognize her, simply offered her a pint, as he would offer anyone a pint. He had completely forgotten about her. This time it was she who went away dejected.
 
 Eventually, the thirty years from his bargain with the Devil were up. Midwinter. It is said that the Devil sent the corrupt old judge to collect Gambrinus' soul, and that Gambrinus had seen him coming. He'd offered him a drink, the drink had had a drink, and before too long, the drink had had the judge. Gambrinus had wandered over to the bell tower, and started to play the carillon, and before the judge knew what was happening, he was caught up in a whirl of dancers. He'd never been the life and soul of a party before and it was fun. Eventually, he collapsed on the floor, in a dazed and happy stupor, for three days and three nights.
 
-When he came to, he was too embarrassed to go back to collect Gambrinus' soul, or even to return to face the wrath of the devil. He's still wandering, from bar to bar. I met him here once, in this very place, and it was he who me the tale.
+When he came too, he was too embarrassed to go back to collect Gambrinus' soul, or even to return to face the wrath of the devil. He's still wandering, from bar to bar. I met him here once, in this very place, and it was he who me the tale.
 
-And so it was that the Devil would have to wait until Gambrinus' life met a natural end, at the ripe old age of a hundred, By that time, he had become something of a fixture a the end of the bar; he still drank every day, his shape had became ever more rotund, and his conversation ever more wooden. So much so, in fact, that when the Devil himself came to collect Gambrinus' soul, he found that that Gambrinus had turned into a beer barrel.
+And so it was that the Devil would have to wait until Gambrinus' life met a natural end, at the ripe old age of a hundred, By that time, he had become something of a fixture at the end of the bar; he still drank every day, his shape had became ever more rotund, and his conversation ever more wooden. So much so, in fact, that when the Devil himself came to collect Gambrinus' soul, he found that that Gambrinus had turned into a beer barrel.
 
 And that is the end of the story. Except to say that the Devil had the last laugh, as he so often does. Because Gambrinus is as much a nobody today, as he was at the start of the story. Nobody remembers him as the original King of Beer. At least, perhaps until now.
 
