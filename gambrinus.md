@@ -168,22 +168,24 @@ Deulin translation - TH  summary:
 
 "Cambrinus, King of Beer", from *Tales of a Beer Drinker*, 1868, Charles Deulin
 
-*I bring you a tale [of festive good cheer / both of sorrow and cheer]*  
-*Gather round for my story: the invention of beer.*
+*I bring you a tale*  
+*Of [festive good cheer / sorrow and cheer]*  
+*Gather round for my story:*  
+*The invention of beer.*
 
 Cambrinus (Gambrinus) was a handsome young assistant to a glassmaker in Flanders, on the French and Belgian border. There were two reasons why Gambrinus would never become a master glassmaker. For one, a Master would only teach their own sons the real secrets of the craft. For two, Gambrinus was a rubbish apprentice. He couldn't even get the furnace to the correct temperature.
 
 Things were complicated by the fact that he was besotted with his master's beautiful daughter, Flandrine. They would have made an attractive couple, but Flandrine expected rather more of a potential husband than a talentless apprentice of dubious parentage and not a penny to his name: he just was not husband material for a respectable master glassmaker's daughter.
 
-Evem so, the more she ignored him, the more he fell in love with her. Throughout the cold winter months, the teasing he got from the other apprentices grew unbearable, and the dissatisfaction of the master made him realise that he should seek his fortune elsewhere.
+Even so, the more she ignored him, the more he fell in love with her. Throughout the cold winter months, the teasing he got from the other apprentices grew unbearable, and the dissatisfaction of the master made him realise that he should seek his fortune elsewhere.
 
-At the end of the year, he left. As he made his way out of town, he chanced upon a violin, the Devil's favourite instrument. Alhough he'd never played a violin before, it seemed that he was a natural, as talented at music as he wasn't at glassmaking. In no time at all, he was playing to audiences and crowds in towns and villages all over Flanders. Throughout summer, and the Autumn, his reputation grew. Word got back to his hometown, and Cambrinus was invited to play there for the Winter celebrations.
+At the end of the year, he left. As he made his way out of town, he chanced upon a violin, the Devil's favourite instrument. Alhough he'd never played a violin before, it seemed that he was a natural, as talented at music as he wasn't at glassmaking. In no time at all, he was playing to audiences and crowds in towns and villages all over Flanders. Throughout the summer, and the Autumn, his reputation grew. Word got back to his hometown, and Cambrinus was invited to play there for the Winter celebrations.
 
 Things started well enough — who could believe that a failed glassmaker's apprentice could become such a good musician in so short a time? — and as he played, the people danced. As he played faster, they danced faster. As they danced faster, he played faster. It was all going so we... until he saw Flandrine...
 
 At which point, he lost it. He lost it completely... This was his chance to impress her with his virtuosity, and he blew it. Flandrine walked out in disgust. Everyone thought he was making fun of them. They booed and jeered and mocked him. It started to get rowdy and the guards were called.
 
-Gambrinus was hauled before the judge and charged with causing a disturbance. The judge was a surly, corrupt old fellow, who sentenced Gambrinus to the pillory and to be throwm into jail for a month.
+Gambrinus was hauled before the judge and charged with causing a disturbance. The judge was a surly, corrupt old fellow, who sentenced Gambrinus to the pillory and to be thrown into jail for a month.
 
 It was bleak midwinter. He left prison full of shame, with no chance of being able to win the hand of Flandrine. He could see only one way out.
 
@@ -193,9 +195,9 @@ He walked into the forest, the trees still bare of their leaves, and came to a c
 
 Gambrinus felt a little embarrassed.
 
-"Are you, are you waiting for someone?"
+"Are you, erm, are you waiting for someone?"
 
-"It just so happens that I am, Cambrinus," said the main.  "I am waiting for you."
+"It just so happens that I am, Cambrinus," said the man.  "I am waiting for you."
 
 How did the man knew Gambrinus' name? And:
 
@@ -203,33 +205,33 @@ How did the man knew Gambrinus' name? And:
 
 "All hanged men make their home in hell, Gambrinus."
 
-Ah... Gambrinus hadn't expected *that* sort of end.
+Ah... Gambrinus hadn't expected *that* sort of an end.
 
 "And you would be...?"
 
-"Indeed I am,", said the Devil.
+"Indeed, I am", said the Devil.
 
-"Erm... Err... so what if I *don't* hang myself?"
+"Erm... Err... so, so what if I *don't* hang myself?"
 
-The Devil laughed. "Going by the state of you, hell on earth?" And he laughed again.
+The Devil laughed. "Going by the state of you", he said, hell on earth?" And he laughed again.
 
 Now Gambrinus had heard of poeple doing deals with the devil, so perhaps that was his way out? After all, he'd already lost pretty much everything. And he would still give anything to find favour with Flandrine. Now if he were wealthy...?
 
-"I could certainly help you with that" said the Devil. "How about I give you untold wealth for, say, thirty years? And then you give me your soul."
+"I could certainly help you with that" said the Devil. "How about I give you access to untold wealth for, say, thirty years? And then you give me your soul."
 
 It was a good deal. The deal was done.
 
 When Gambrinus woke up the next day, things seemed different.
 
-He'd never been much good at games that required any skill, before. He'd never been much good a games that required any luck. He'd been particularly bad at games that required both skill and luck. But now, it seemed, that whatever the game, whatever the challenge, the luck ran his way... and he won. He won A LOT.
+He'd never been much good at games before, particularly gamnes that required any level of *skill*. And he'd never been much good at games that required any *luck*. He'd been particularly bad at games that required both skill *and* luck. But now, it seemed, that whatever the game, whatever the challenge, the luck ran his way... and he won. He won A LOT.
 
-Cards, dice, archery competitions, vinkensport, even vinkensport — finch-fighting — which was very popular in Dutch speaking Flanders at the time. This was nothing like the good old English sport of cockfighting, where specially bred birds with a particularly bad attitude are trained to fight each other to the death as their owners bet on the outcome; it was far more refined. For in vinkensport, finch fighting, each owner must count how many times in one hour their bird can sing its song.
+Cards, dice, archery competitions, vinkensport, even vinkensport — finch-fighting — which was very popular in Dutch speaking Flanders at the time. Now this was nothing like the good old English sport of cockfighting, either, where specially bred birds with a particularly bad attitude were trained to fight each other to the death, as their owners bet on the outcome. This was far more refined. For in vinkensport, finch fighting, each owner must count how many times in one hour their bird can sing its song, with the score kept on a blackboard.
 
-And Gambrinus' bird sang its refrains, not just with perfect repetition, but far faster than every other bird; Gambrinus' bird gave a perfect performance of over 900 times in one hour (950). Owner kept count on a chalk board.  First prize and a hefty side bet.
+And Gambrinus' bird sang its refrains, not just with perfect repetition, but far faster than any other bird had ever done before, or even been spoken of doing. But more than that, Gambrinus' bird gave a perfect performance of over 900 times in one hour (950, at least). And so even at vinkensport, Gambirnus would always take first prize, as well as the winnings from a hefty side bet he'd always manage to place too.
 
 Anyway, Gambrinus won competitions with his finch for miles aroud, and with all the other games of skill and chance, he was soon very wealthy indeed.
 
-When he returned home, he could afford to be seen in all the best places around town. In all the places that Flandrine might be seen. One day he saw her. He was still handsome, although his stare had something of a manic look about it as his eyes darted around the room, looking for any opportunity to try to his luck. But when he saw Flandrine, he was all focus.
+When he returned home, he could afford to be seen in all the best places around town. In all the places that Flandrine might be seen. One day he saw her. He was still handsome, although his stare had something of a manic look about it as his eyes darted around the room, looking for any opportunity to try out his luck. But when he saw Flandrine, he was all focus.
 
 "You seem to have done well for yourself" said Flandrine, but when she found out he had come by his wealth from "GAMBLING??? You think I would marry a GAMBLER?", he was left, once again, chastised. And embarrassed.
 
@@ -239,7 +241,7 @@ Gambrinus turned round to see the Devil standing there, with the judge in tow. H
 
 "I hear that people drink to forget..." said the Devil, "and we did say you could have thirty years..."
 
-Gambrinus put the rope back in his sack, and set off walking back into towm...
+So Gambrinus put the rope back in his sack— perhaps he wasn't quite ready for hell just yet — and set off walking back into towm...
 
 He stopped at the first ale house he came to; now, at that time, ale was made from barley, water and yeast, and flavoured with herbs. But rather than making him forget, it made Gambrinus even more depressed. "What do I have to do to make her love me? I love her so much...." And he cried into his pint.
 
@@ -257,19 +259,24 @@ Eventually, he managed to get half way up to the first branch before falling bac
 
 After a short walk, they came out of the wood into a wide open field, lined with rows and rows of poles and wires and fragrant plants growing up them: hops. "I think this, perhaps, will cure you of your love sickness..."
 
-With *hops* added to the barley, and the yeast, and the water, you can make a new sort of drink... *beer*. The ambrosia of men, if not of the gods.
+With *hops* added to the barley as well as the yeast, and the water, you can make a new sort of drink... *beer*. The ambrosia of men, if not of the gods.
 
-"Just crush the barley", said the Devil, "brew it in vats, and *then* mix in the hops... and they will give it a flavour like nothing you've ever tasted. It will age and mature in the barrel. You can make it blonde or brown. And it will make you happy. Andd sociable. And Flandrine, well, who needs Flandrine if you can can be in the company of beer, and the company of other beer drinkers?! Try some..."
+"Just crush the barley", said the Devil, "brew it in vats, and *then* mix in the hops... and they will give it a flavour like nothing you've ever tasted before. It will age and mature in the barrel. You can make it blonde or brown. And it will make you happy. And sociable. And Flandrine, well, who needs Flandrine if you can can be in the company of beer, and the company of other beer drinkers?! Here, try some..."
 
-So Gambrinus took a hearty swig and... his first taste. Bleurghhh... That's horrible...
+And he did.
 
-He tasted it again... It didn't taste quite so bad this time... Rather than sipping it, he tried quaffing it... And... actually, it wasn't that bad. He started to relax...
+Gambrinus took a hearty swig and... his first taste. And *bleurghhh*... That's horrible...
 
-He started thinking...
+The Devil gestured that he should try another taste.
 
-"This - beer, do you say? — once you get a taste for it, it tastes pretty good. But I also have a taste, for revenge. The people in my home town mocked me. And now I want to mock them. I want revenge..."
+It didn't taste quite so bad this time...
 
-The Devil smiled, and they both sat thinking...
+Rather than sipping it, he tried quaffing it...
+And, actually, it wasn't that bad. It wasn't that bad at all. And he started to relax. And to start thinking. And to smile to himself.
+
+"This - beer, do you say? — once you get a taste for it, it tastes pretty good. But I also have a taste for something else: for *revenge*. The people in my home town mocked me. And now I want to mock them back, I want revenge..."
+
+The Devil smiled: he liked this sort of thinking, and so together, they both came up with a plan...
 
 It was a Sunday, and all around them was the sound of Church bells, calling people to prayer...
 
@@ -277,39 +284,43 @@ It was a Sunday, and all around them was the sound of Church bells, calling peop
 
 Gambrinus shrugged.
 
-Now the devil is nothing if not resourceful, he's always looking for an angle; he's always looking for a way in... And the Devil also has a sense of humour - Gambrinus had had his chance with the devil's own favourite instrument once before, with the violin. But what if he could use God's bells to cause mischief?
+Now the devil is nothing if not resourceful: he's always looking for an angle, he's always looking for a way in... And the Devil also has a sense of humour - Gambrinus had had his chance with the devil's own favourite instrument once before, with the violin. But what if he could use God's bells to cause mischief?
 
-"I have it! Gather some bells, some tubular bells, chimes. Two dozen or more, all properly tuned; then hook up two keyboards: one of keys and one of pedals. The sound will be like nothing anyone has heard before; it will drive them crazy..."
+"I have it! Gather some bells, some tubular bells, some chimes. Two dozen or more, all properly tuned; then hook up two keyboards: one for keys, one for pedals. The sound will be like nothing anyone has heard before; it will drive them crazy..."
 
-So Gambrinus set to work. With the last of his gambling money, he built a brewery. And the instrument the devil had come up with - a *carillon*, they're called — he made one of those too; and he set the chimes in the belfry of the brewery.
+So Gambrinus set to work. With some of his gambling money, he managed to the instrument the devil had come up with - a *carillon*, they're called. With rather more of it, he built a brewery. And with the last of the money, he made a belfry for the brewery, and set the carillon in it.
 
-For the opening day, he had made two brews: a blond beer, and a brown one. Everyone was invited to the first tasting...
+For the opening day, he had made two brews: a blond beer, and a brown one. *Everyone* was invited to the first tasting...
 
 And everyone hated it... "Erghh... that's so bitter..."
 
-But then Gambrinus started to play the chimes. With some semblance of his previous musical talent, he got the chimes to play sounds and tunes the like of which the people had never heard before. And if they had danced before, back when he had been able to play the violin, they danced now with the passion of a whirling dervishes. And Gambrinus played on...
+But then Gambrinus started to play the chimes. And with some semblance of his previous musical talent, he got the chimes to play sounds and tunes the likes of which the people had never heard before. And if they had danced before, back when he had been able to play the violin, they danced now with the passion of whirling dervishes. And Gambrinus played on...
 
-"Stop...", they pleaded, "We need to rest", but he played on... "Stop" they pleaded, "we need a drink", and Gambrinus smiled.
+"Stop...", they pleaded, "we need to rest", but he played on some more...
 
-As everyone tried the beer this time, they found it to be refreshing. It was good... it was really good... Cheers!
+"Stop" they pleaded, "we need a drink"...
+
+And Gambrinus smiled.
+
+And as everyone tried the beer *this* time, they found it to be refreshing. It was good... it was really good... Cheers!
 
 After a pint or two each, and maybe one or two more for the heavier drinkers amongst them, they were ready to dance again...
 
-Over the following days, the news began to spread. People came from miles around to try the beer and dance to the carillon.
+Over the following days, the news began to spread. People came from miles around to try the beer and to dance to the carillon.
 
-So taken was the King of the Netherlands by the newly invented beer that he made Gambrinus a Duke; but the title Gambrinus preferred to all others was the title that the people gave to him: the "king of beer".
+So taken was the King of the Netherlands by the newly invented beer that he made Gambrinus a Duke; but the title Gambrinus preferred to all others was the title that the people had given to him: the "king of beer".
 
-Every day, Gambrinus would drink, along with his patrons. His nose turned red and his face filled out; to say he became portly would be too generous. But he was a sociable host, and would chat to friends old and new, from dawn to dusk, with ever a pint in his hand.
+Every day, Gambrinus would drink, along with his patrons. His nose turned red and his face filled out; to say he became portly would be too generous. But he was a sociable host, and would chat to friends old and new, from dawn to dusk, and always with a pint in his hand.
 
-One day, Flandrine came to visit. Now that he was a Duke, well, he had come up in the world. But he didn't even recognize her, simply offered her a pint, as he would offer anyone a pint. He had completely forgotten about her. This time it was she who went away dejected.
+One day, Flandrine came to visit. Now that he was a Duke, well, he had come up in the world, hadn't he? But he didn't even recognize her, simply offered her a pint, as he would offer anyone a pint. He had completely forgotten about her. And this time, it was she who went away dejected.
 
-Eventually, the thirty years from his bargain with the Devil were up. Midwinter. It is said that the Devil sent the corrupt old judge to collect Gambrinus' soul, and that Gambrinus had seen him coming. He'd offered him a drink, the drink had had a drink, and before too long, the drink had had the judge. Gambrinus had wandered over to the bell tower, and started to play the carillon, and before the judge knew what was happening, he was caught up in a whirl of dancers. He'd never been the life and soul of a party before and it was fun. Eventually, he collapsed on the floor, in a dazed and happy stupor, for three days and three nights.
+Eventually, the thirty years from his bargain with the Devil were up. Midwinter. It is said that the Devil sent the corrupt old judge to collect Gambrinus' soul, and that Gambrinus had seen him coming. He'd offered him a drink, the drink had had a drink, and before too long, the drink had had the judge. Gambrinus had wandered over to the bell tower, and started to play the carillon, and before the judge knew what was happening, he was caught up in a whirl of dancers. He'd never been the life and soul of a party before, but he found it was fun. And the Dad dancing started in earnest. Eventually, he collapsed on the floor, in a dazed and happy stupor, for three days and three nights.
 
-When he came too, he was too embarrassed to go back to collect Gambrinus' soul, or even to return to face the wrath of the devil. He's still wandering, from bar to bar. I met him here once, in this very place, and it was he who me the tale.
+When he came too, he was too embarrassed to go back to collect Gambrinus' soul, or even to return to face the wrath of the devil. He's still wandering now, from bar to bar. I'm pretty sure I met him here once, in this very place, and it was he who me this tale.
 
-And so it was that the Devil would have to wait until Gambrinus' life met a natural end, at the ripe old age of a hundred, By that time, he had become something of a fixture at the end of the bar; he still drank every day, his shape had became ever more rotund, and his conversation ever more wooden. So much so, in fact, that when the Devil himself came to collect Gambrinus' soul, he found that that Gambrinus had turned into a beer barrel.
+And so it was that the Devil would have to wait until Gambrinus' life met its natural end, at the ripe old age of a hundred. By that time, he had become something of a fixture at the end of the bar; he still drank every day, his shape had became ever more rotund, and his conversation ever more wooden. So much so, in fact, that when the Devil himself came to collect Gambrinus' soul, he found that that Gambrinus had turned into a beer barrel.
 
-And that is the end of the story. Except to say that the Devil had the last laugh, as he so often does. Because Gambrinus is as much a nobody today, as he was at the start of the story. Nobody remembers him as the original King of Beer. At least, perhaps until now.
+And that is the end of the story. Except to say that the Devil had the last laugh, as he so often does. Because Gambrinus is as much a nobody today, as he was at the start of the story. Nobody remembers him as the original King of Beer. Ot at least, perhaps not until now.
 
 
 ---
