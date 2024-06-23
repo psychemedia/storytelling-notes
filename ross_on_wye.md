@@ -297,7 +297,7 @@ https://en.wikipedia.org/wiki/Hafren
 Hafren /  Sabrina Goddess of the River Severn
 
 
-
+## Old Ellen — May Hill Sensation and the Last Witch of Ross-on-Wye
 
 ---
 https://britishnewspaperarchive.co.uk/viewer/bl/0002067/19050511/104/0004
@@ -371,7 +371,7 @@ Birmingham Mail - Friday 26 May 1905
 
 A GLOUCESTERSHIRE WITCH
 
-STRANGE SOTRY FROM THE FOREST OF DEAN
+STRANGE STORY FROM THE FOREST OF DEAN
 
 SUPERSTITTON AND MADNESS.
 
