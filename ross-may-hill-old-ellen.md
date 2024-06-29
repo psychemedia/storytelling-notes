@@ -465,7 +465,7 @@ Mr. Akers Douglas: I have made inquiries into this very curious case. I find tha
 A statement by Ellen Hayward herself was then published in the *Gloucester Citizen* of Friday, 9th June, 1905, and again, with the same headline, in the *Ross Gazette* a week later, on [Thursday 15 June 1905](https://britishnewspaperarchive.co.uk/viewer/bl/0002067/19050615/108/0003).
 
 ```{admonition} Statement by Ellen Hayward, June, 1905
-:class:
+:class: dropdown
 [Gloucester Citizen - Friday 09 June 1905](https://britishnewspaperarchive.co.uk/viewer/bl/0000325/19050609/030/0004)
 
 THE MAY HILL SENSATION.
