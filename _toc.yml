@@ -40,6 +40,7 @@ parts:
 - caption: Based On Events
   chapters:
   - file: press_gang
+  - file: ross-may-hill-old-ellen
 - caption: Additional Storynotes Collections
   chapters:
   - file: elsewhere
