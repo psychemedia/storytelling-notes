@@ -1,0 +1,642 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Without Permission - archive only &#8212; Storytelling Notes</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=87e54e7c" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="_static/documentation_options.js?v=a8e58a58"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=f281be69"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = '._without-permission';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+        
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="preface.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">Storytelling Notes</p>
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="preface.html">
+                    Preface
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales Told</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="the-wish-ring.html">The Wish Ring</a></li>
+<li class="toctree-l1"><a class="reference internal" href="yama-and-yami.html">Yama and Yami</a></li>
+<li class="toctree-l1"><a class="reference internal" href="man-no-story.html">The Man Who Had No Story</a></li>
+<li class="toctree-l1"><a class="reference internal" href="knight-york-fish-ring.html">The Fish and the Ring</a></li>
+<li class="toctree-l1"><a class="reference internal" href="three-heads-well.html">The Three Heads of the Well</a></li>
+<li class="toctree-l1"><a class="reference internal" href="twa-sisters-binnorie.html">Binnorie / Twa Sisters</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pedlar-of-swaffham.html">The Pedlar of Swaffham</a></li>
+<li class="toctree-l1"><a class="reference internal" href="three-sillies.html">The Three Sillies</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">As Found in "The Royal Hibernian Tales"</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="hudden_dudden.html">Hudden, and Dudden, and Donald O’Neary</a></li>
+<li class="toctree-l1"><a class="reference internal" href="blacksmith-devil-willy-wisp.html">Blacksmith and the Devil / Willy the Wisp</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Welsh Tales</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="gwion-bach.html">Ceridwen, Gwion Bach and Taliesin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
+<li class="toctree-l1"><a class="reference internal" href="bendigeidfran_branwen_second_branch.html">Bendigeidfran and Branwen</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Gipsy Tales</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="devils-violin.html">The Devil’s Violin</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Show Outlines</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="unforeseen-nonsense.html">Unforeseen Consequences — Verging on Nonsense</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">WIP or Need Telling Again</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="woolpit-green.html">The Green Children of Woolpit</a></li>
+<li class="toctree-l1"><a class="reference internal" href="undutiful-daughter.html">The Undutiful Daughter</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="too_much_time.html">Too Much Time</a></li>
+<li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Based On Events</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="press_gang.html">Tales of the Press Gang</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ross-may-hill-old-ellen.html">Old Ellen and the May Hill Sensation</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Storynotes Collections</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="elsewhere.html">Storynotes Elsewhere</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Without Permission - archive only</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="without-permission-archive-only">
+<h1>Without Permission - archive only<a class="headerlink" href="#without-permission-archive-only" title="Link to this heading">#</a></h1>
+<p>See the original on the <a class="reference external" href="https://www.mustrad.org.uk/"><em>Musical Traditions</em></a> website: <a class="reference external" href="https://www.mustrad.org.uk/songbook/banks_gw.htm"><em>The Banks of the Green Willow</em></a>.</p>
+<p>Reproduced here without permission (personal archive intention only).</p>
+<p>The Banks of Green Willow
+(Bonnie Annie.  Roud 172, Child 24)
+Staff notation
+play Sound Clip
+It’s of a sea captain, came o’er the salt billow,
+And he has courted a fair maid, by the banks of green willow.
+And he has courted this fair maid, ‘til she’s proved with child O. <code class="docutils literal notranslate"><span class="pre">[A</span> <span class="pre">simple</span> <span class="pre">way</span> <span class="pre">to</span> <span class="pre">get</span> <span class="pre">all</span> <span class="pre">the</span> <span class="pre">necessary</span> <span class="pre">information</span> <span class="pre">into</span> <span class="pre">the</span> <span class="pre">first</span> <span class="pre">verse.</span>&#160; <span class="pre">'By</span> <span class="pre">the</span> <span class="pre">banks</span> <span class="pre">of</span> <span class="pre">green</span> <span class="pre">willow'</span> <span class="pre">is</span> <span class="pre">sung</span> <span class="pre">to</span> <span class="pre">the</span> <span class="pre">tune</span> <span class="pre">of</span> <span class="pre">'came</span> <span class="pre">o'er</span> <span class="pre">the</span> <span class="pre">salt</span> <span class="pre">billow'</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">first</span> <span class="pre">line.]</span></code></p>
+<p>Crying, “Oh my love, what shall I do, and what will become of me,<br />
+For my father and mother, they both will disown me.”</p>
+<p>“Go fetch to me your father’s gold and some of your mother’s money,<br />
+And you can go sailing on the ocean, along with your Johnny.”</p>
+<p>So she’ has fetched to him her father’s gold and some of her mother’s money,<br />
+And they have set foot on board of shipping <code class="docutils literal notranslate"><span class="pre">[Stolen</span> <span class="pre">from</span> <span class="pre">Wiggy</span> <span class="pre">Smith</span> <span class="pre">and</span> <span class="pre">family</span> <span class="pre">-</span> <span class="pre">it</span> <span class="pre">appears</span> <span class="pre">in</span> <span class="pre">their</span> <span class="pre">Lord</span> <span class="pre">Bateman.]</span></code>, both her and her Johnny.</p>
+<p>They had not been a-sailing scarce six weeks nor so many;<br />
+The sails they were outspread, but of miles made not any.</p>
+<p>They had not been kept there <code class="docutils literal notranslate"><span class="pre">['A-sailing',</span> <span class="pre">from</span> <span class="pre">the</span> <span class="pre">previous</span> <span class="pre">verse,</span> <span class="pre">is</span> <span class="pre">repeated</span> <span class="pre">here</span> <span class="pre">in</span> <span class="pre">most</span> <span class="pre">traditional</span> <span class="pre">versions.</span>&#160; <span class="pre">Since</span> <span class="pre">it's</span> <span class="pre">clear</span> <span class="pre">that</span> <span class="pre">the</span> <span class="pre">ship</span> <span class="pre">won't</span> <span class="pre">sail,</span> <span class="pre">I</span> <span class="pre">felt</span> <span class="pre">the</span> <span class="pre">need</span> <span class="pre">to</span> <span class="pre">change</span> <span class="pre">it.]</span></code> scarce six hours nor so many,<br />
+Before she wanted woman’s help, but could not get any.</p>
+<p>“Oh hold your tongue you foolish girl, oh hold your tongue my Annie.<br />
+For we cannot get woman’s help, not for love nor for money.”</p>
+<p>Then a gale came upon them, but of miles they made not any.<br />
+And she was delivered of a beautiful baby.</p>
+<p>And the seas reared above them and the winds roared like thunder;<br />
+But the sails would not fill, which has caused them to wonder.</p>
+<p>“Oh there’s fey folk on our gallant ship”, the Captain, he cried, so boldly.<br />
+“Or there is craftwork on our gallant ship; she will not sail for me.” <code class="docutils literal notranslate"><span class="pre">[This</span> <span class="pre">and</span> <span class="pre">the</span> <span class="pre">preceding</span> <span class="pre">verse</span> <span class="pre">are</span> <span class="pre">largely</span> <span class="pre">my</span> <span class="pre">own</span> <span class="pre">inventions,</span> <span class="pre">I</span> <span class="pre">think.]</span></code></p>
+<p>So he’s cast the black bullets, he’s cast them twice six and forty.<br />
+And it’s all those black bullets fell on his dearest Annie. <code class="docutils literal notranslate"><span class="pre">[The</span> <span class="pre">verse</span> <span class="pre">which</span> <span class="pre">hooked</span> <span class="pre">me</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">first</span> <span class="pre">place</span> <span class="pre">-</span> <span class="pre">it</span> <span class="pre">comes</span> <span class="pre">from</span> <span class="pre">Child;</span> <span class="pre">his</span> <span class="pre">A</span> <span class="pre">text.]</span></code></p>
+<p>“Oh Captain, dearest Captain, here’s fifty pounds for thee,<br />
+If you’ll convoy me safe home again, both me and my baby.”</p>
+<p>“Oh no,” says the Captain, “See, the storm is agin me; <code class="docutils literal notranslate"><span class="pre">[Another</span> <span class="pre">of</span> <span class="pre">my</span> <span class="pre">additions</span> <span class="pre">-</span> <span class="pre">basically</span> <span class="pre">to</span> <span class="pre">compress</span> <span class="pre">about</span> <span class="pre">three</span> <span class="pre">verses</span> <span class="pre">into</span> <span class="pre">one.]</span></code><br />
+And it would be better to loose two lives, than it would to loose so many.”</p>
+<p>So he’s tied a kerchief round her head, he’s tied it soft and easy,<br />
+And he has thrown her right overboard, both her and her baby.</p>
+<p>“See how my love do swim, my boys, see how my love don’t taver.<br />
+See how my love do swim, my boys; that makes my heart quaver.” <code class="docutils literal notranslate"><span class="pre">[Taver:</span> <span class="pre">an</span> <span class="pre">old</span> <span class="pre">word</span> <span class="pre">meaning</span> <span class="pre">to</span> <span class="pre">become</span> <span class="pre">'fatigued</span> <span class="pre">or</span> <span class="pre">exhausted</span> <span class="pre">with</span> <span class="pre">wandering</span> <span class="pre">or</span> <span class="pre">with</span> <span class="pre">toil</span> <span class="pre">or</span> <span class="pre">struggle'.</span>&#160; <span class="pre">The</span> <span class="pre">final</span> <span class="pre">line</span> <span class="pre">shows</span> <span class="pre">the</span> <span class="pre">Captain</span> <span class="pre">worried</span> <span class="pre">about</span> <span class="pre">exactly</span> <span class="pre">what</span> <span class="pre">he</span> <span class="pre">may</span> <span class="pre">find,</span> <span class="pre">at</span> <span class="pre">landfall.</span>&#160; <span class="pre">As</span> <span class="pre">with</span> <span class="pre">the</span> <span class="pre">1st</span> <span class="pre">verse,</span> <span class="pre">this</span> <span class="pre">three-liner</span> <span class="pre">uses</span> <span class="pre">the</span> <span class="pre">same</span> <span class="pre">tune</span> <span class="pre">for</span> <span class="pre">the</span> <span class="pre">latter</span> <span class="pre">half</span> <span class="pre">of</span> <span class="pre">its</span> <span class="pre">first</span> <span class="pre">and</span> <span class="pre">second</span> <span class="pre">lines.]</span></code>
+And I fear she may never cease her swimming ‘til the banks of green willow.</p>
+<p>Then the winds they did veer, and the tide began a-flowing,<br />
+And the sails they did fill at last, with a landward breeze blowing. <code class="docutils literal notranslate"><span class="pre">[Another</span> <span class="pre">invented</span> <span class="pre">verse</span> <span class="pre">of</span> <span class="pre">mine</span> <span class="pre">-</span> <span class="pre">again</span> <span class="pre">to</span> <span class="pre">achieve</span> <span class="pre">some</span> <span class="pre">compression.]</span></code></p>
+<p>They have steered for the land, and at length reached the shore O,<br />
+But the corpse of fair Annie had reached there before O.</p>
+<p>“The bells shall be rung mournful, as well befits a lady,<br />
+And it’s there she shall be buried, both her and her baby.”</p>
+<p>“And my love shall have a coffin of the gold that shines so yellow.<br />
+And she shall be buried on the banks of green willow.”</p>
+<p>Contributed by Rod Stradling (rod &#64; <a class="reference external" href="http://mustrad.org.uk">mustrad.org.uk</a>) - 28.6.04</p>
+<p>Notes:</p>
+<p>A ballad I’ve vaguely known for a very long time, and have often thought about learning - and then haven’t.  The prompt to do so in this case was a single line (so often the way!) in Jon Boden’s version of it - ‘He has cast the black bullets, he’s cast them twice six and forty’.  Sends a shiver, doesn’t it?</p>
+<p>Seemingly, Jon’s version is from Martin Carthy so, as one may imagine, it has already been composited from a number of sources.  I’ve not yet had the opportunity to ask Martin about the details.  The tune is said to be from David Clements, of Basingstoke, Hants, as collected by Vaughan Williams in 1909, and as appears in Bronson - but, having listened to Mr Clements sing it (on the CD A Century of Song), I would suggest that Butterworth’s orchestral rhapsody is the more likely source.  The only other examples I had available were Child, Purslow’s Constant Lovers, where a version mainly from Henry Way appears, collected by Hammond in Bridport Union, and The Penguin Book, supplying one from Emma Overd, of Langport, Somerset.  Purslow makes the point that most collected texts are ‘corrupted or deficient in significant detail’, and admits that he has ‘taken verses from several versions in both the Hammonds’ and Gardiner’s manuscripts’ to construct the one he prints.  Also the Classic English Folk Songs/Penguin one has been compiled from fragments.</p>
+<p>So I did the same, using the Baring-Gould C(a) text in Child as a basis - this is one from John Masters of Bradstone in South Devon, collected by Baring-Gould in 1889.  I then added bits from Boden/Carthy, Purslow, CEFS and, I have to admit, inventing a few odds and ends myself.  It’s quite a long text when all the traditional versions are added together, and there’s a good deal of needless repetition without taking the story much further.  These are the places (as indicated above), where I’ve made up verses or lines which, I hope, do the necessary.</p>
+<p>The Undutiful Daughter
+(from John Masters)
+Staff notation</p>
+<ol class="arabic simple">
+<li><p>It was of a sea-captain came o’er the salt billow,<br />
+He courted a maiden down by the green willow.<br />
+“O take of your father his gold and his treasure,<br />
+O take of your mother her fee without measure.”</p></li>
+<li><p>“I’ll take of my father his gold and his treasure,<br />
+I’ll take of my mother her fee without measure:”<br />
+She has come with the captain unto the seaside O,<br />
+“We’ll sail to lands foreign upon the blue tide O!</p></li>
+<li><p>And when she had sailed today and tomorrow,<br />
+She was beating her hands, she was crying in sorrow;<br />
+And when she had sailed the days were not many,<br />
+The sails were outspread, but of miles made not any.</p></li>
+<li><p>And when she had sailed today and tomorrow,<br />
+She was beating her hands, she was crying in sorrow;<br />
+And when she had sailed not many a mile O,<br />
+The maid was delivered of a beautiful child O.</p></li>
+<li><p>Verse not remembered.</p></li>
+<li><p>“O take a white napkin, about my head bind it!<br />
+O take a white napkin, about my feet wind it!<br />
+Alack! I must sink, both me and my baby,<br />
+Alack! I must sink in the deep salten water.”</p></li>
+<li><p>“O captain, O captain, here’s fifty gold crown O,<br />
+I pray thee to bear me and turn the ship round O;<br />
+O captain, O captain, here’s fifty gold pound, O,<br />
+If thou wilt but set me upon the green ground, O.”</p></li>
+<li><p>“O never, O never! the wind it blows stronger,<br />
+O never, O never! the time it grows longer;<br />
+And better it were that thy baby and thou O,<br />
+Should drown than the crew of the vessel, I vow O.”</p></li>
+<li><p>“O get me a boat that is narrow and thin O,<br />
+And set me and my little baby therein O.”<br />
+“O no, it were better that thy baby and thou O,<br />
+Should drown than the crew of the vessel, I vow O.”</p></li>
+<li><p>They got a white napkin, about her head bound it,<br />
+They got a white napkin, about her feet wound it;<br />
+They cast her then overboard, baby and she O,<br />
+Together to sink in the cruel salt sea O.</p></li>
+<li><p>The moon it was shining, the tide it was running;<br />
+O what in the wake of the vessel was swimming?<br />
+“O see, boys! O see how she floats on the water!<br />
+O see, boys! O see! the undutiful daughter!”</p></li>
+<li><p>“Why swim in the moonlight, upon the sea swaying?<br />
+O what art thou seeking? for what art thou praying?”<br />
+“O captain, O captain, I float on the water;<br />
+For the sea giveth up the undutiful daughter.”</p></li>
+<li><p>“O take of my father the gold and the treasure,<br />
+O take of my mother her fee without measure;<br />
+O make me a coffin of gold that is yellow,<br />
+And bury me under the banks of green willow!”</p></li>
+<li><p>“I will make thee a coffin of gold that is yellow,<br />
+I’ll bury thee under the banks of green willow;<br />
+I’ll bury thee there as becometh a lady,<br />
+I’ll bury thee there, both thou and thy baby.”</p></li>
+<li><p>The sails they were spread, and the wind it was blowing,<br />
+The sea was so salt, and the tide it was flowing;<br />
+They steered for the land, and they reach’d the shore O,<br />
+But the corpse of the maiden had reach’d there before O.</p></li>
+</ol>
+<p>The Banks of Green Willow</p>
+<p>(from Henry Way - plus Purslow’s additions)
+Staff notation</p>
+<p>Oh; it’s of a sea cap-tain lived near the sea - side O’.<br />
+He courted a lady till she prov’d with child O;</p>
+<p>Crying, “What shall I do, my love, what will become of me?<br />
+My mother and father they both will disown me.”</p>
+<p>“Go and fetch some of your father’s gold and some of your mother’s money,<br />
+And you shall sail the ocean along with your Johnny.”</p>
+<p>So she fetch’d some of her father’s gold and some of her mother’s money,<br />
+And she went on board a ship along with her Johnny.</p>
+<p>She had not been a-salling scarce six weeks nor so many,<br />
+Before she wanted women’s help but could not get any.</p>
+<p>“Oh’, hold your tongue, you silly girl, Oh’, hold your tongue my honey,<br />
+For we cannot get women’s help for love nor for money.”</p>
+<p>She had not been a-sailing not miles very many,<br />
+Before she was deliver’d of a beautiful baby.</p>
+<p>“Sea captain, sea captain, here’s fifty pound for thee,<br />
+To see me safe back again, both me and my baby.”</p>
+<p>“Oh; no,” said the captain, “such things never can be,<br />
+For ‘tis better to lose two lives than it is to lose many.”</p>
+<p>“Oh; come tie a handkerchief over my head, come tie it soft and easy<br />
+And throw us right overboard, both me and my baby.”</p>
+<p>He’s tied a handkerchief over her head, he’s tied it soft and easy,<br />
+And he’s thrown them both overboard, both she and her baby.</p>
+<p>“Don’t you see how she swims, my boys, don’t you see how her body quivers,<br />
+She will swim till she comes to the banks of green willow.</p>
+<p>My love shall have a coffin made of the gold that shines so yellow,<br />
+And she shall be buried on the banks of green willow.</p>
+<p>Oh; come toll the bell, come toll the bell, come toll it soft and easy,<br />
+For the pretty girl is dead and gone who I lov’d so dearly.”</p>
+<p>The Banks of Green Willow</p>
+<p>(from Emma Overd - plus Sharp’s additions)</p>
+<p>Go and get your father’s good will, and get your mother’s money,<br />
+And sail right o’er the ocean, along with young Johnny.</p>
+<p>She had not been a-sailing, been sailing many days, O,<br />
+Before she want some woman’s help, and could not get any.</p>
+<p>Oh hush your tongue, you silly girl, oh hush your tongue, you huzzy<br />
+For I can do as much for thee as any woman can for thee.</p>
+<p>Oh, fetch me a silk napkin to tie her head up easy,<br />
+And I’ll throw her overboard, both she and her baby.</p>
+<p>Oh, they fetched him a napkin and bound her head so easy,<br />
+And overboard he threw his love, both she and her baby.</p>
+<p>See how my love do tumble, see how my love do taver,<br />
+See how my love do try to swim, that makes my heart quaver.</p>
+<p>Oh, make my love a coffin of the gold that shines yellow,<br />
+And she shall be buried by the banks of green willow.</p>
+<p>Sources:
+Records:
+David Clements - EFDSS CD02 A Century of Song
+Teresa Maguire - Caedmon TC 1162 / Topic 12T 194 Sailormen &amp; Servingmen
+Books:
+Purslow, Constant Lovers p.4
+Roud, Upton &amp; Taylor, Still Growing (2003) p.61
+Vaughan Williams &amp; Lloyd, Classic English Folk Songs (2003) p.3
+Bronson, Traditional Tunes of the Child Ballads 1 pp.298-304
+Karpeles, Cecil Sharp Collection 1 p.29
+Palmer, Folk Songs Collected by Ralph Vaughan Williams pp.51-52
+Sharp, Folk Songs from Somerset 1 pp.28-29, 63-64
+Dawney, Ploughboy’s Glory p.12
+Child, Vol.1 pp.244-247</p>
+<p>Further information:</p>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Tony Hirst
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2024.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
