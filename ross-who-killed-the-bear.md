@@ -1,6 +1,6 @@
 # Who Killed the Bear?
 
-After hearing a fragment of this local tale from a lifelong resident of Ros-on-Wye — Emma's "Uncle Tim" — and a clue that local writer Dennis Potter had written a (television) play inspired by the tale ([*The Beast with Two Backs*](https://en.wikipedia.org/wiki/A_Beast_With_Two_Backs)), I set out to do a little digging...
+After hearing a fragment of this local tale from a lifelong resident of Ross-on-Wye — Emma's "Uncle Tim" — and a clue that local writer Dennis Potter had written a (television) play inspired by the tale ([*The Beast with Two Backs*](https://en.wikipedia.org/wiki/A_Beast_With_Two_Backs)), I set out to do a little digging...
 
 The misremembered tale went something like the following, which owes rather more to Dennis Potter's play than to its historical origins:
 
