@@ -116,20 +116,20 @@ Several other witnesses were examined; and then the charge of cruelty to the bea
 
 The prank recalls a similar event with more tragic consequences reported in May, 1880.
 
-```{admonition} Dancing bear preventa theft, May 1880
+```{admonition} Dancing bear prevents theft, May 1880
 :class: dropdown
 [Gloucestershire Chronicle - Saturday 08 May 1880](https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18800508/043/0005)
 
 LATEST INTELLIGENCE
 
-Dancing bears are sometimes useful in preventing theft. At Massegros, in France, a bear which had been lodged in the pigsty of a farmer hugged two thieves who came steal the pig so severely that one died, and the second is dangerously ill. A third was so frighiened that it is feared he will lose his reason.
+Dancing bears are sometimes useful in preventing theft. At Massegros, in France, a bear which had been lodged in the pigsty of a farmer hugged two thieves who came steal the pig so severely that one died, and the second is dangerously ill. A third was so frightened that it is feared he will lose his reason.
 ```
 
-```{admonition} A pig0stealing adventure, May 1880
+```{admonition} A pig-stealing adventure, May 1880
 :class: dropdown
 [Gloucester Journal - Saturday 08 May 1880](https://britishnewspaperarchive.co.uk/viewer/bl/0000532/18800508/121/0008)
 
-A PIG-STEALING ADVENTURE— A tragic termination to an amusing incident was witnessed a few days ago at Massegros, France. A man with a dancing bear arrived in the evening, and begged a lodging of a farmer for himself and his charge. The bear was accordingly turned into the pigsty after the pig had been removed to another shelter. In the middle of the night three malefactors appeared on the scene, with the intention of stealing the farmer's pig. The result can easily be imagined. The bear gave the men a warm reception, promptly flooring the two who ventured into the sty before they discovered The third robber was the substitution of the animals. petrified with fright at the fate of his companions, but managed to shout for hel and the farmer and bear-keeper were soon on the spot. I hey found the first man quite dead; the second is still dangerously ill; and it is feared that the pig-stealing adventure has destroyed the reason of the other. 
+A PIG-STEALING ADVENTURE— A tragic termination to an amusing incident was witnessed a few days ago at Massegros, France. A man with a dancing bear arrived in the evening, and begged a lodging of a farmer for himself and his charge. The bear was accordingly turned into the pigsty after the pig had been removed to another shelter. In the middle of the night three malefactors appeared on the scene, with the intention of stealing the farmer's pig. The result can easily be imagined. The bear gave the men a warm reception, promptly flooring the two who ventured into the sty before they discovered the substitution of the animals. The third robber was petrified with fright at the fate of his companions, but managed to shout for help and the farmer and bear-keeper were soon on the spot. They found the first man quite dead; the second is still dangerously ill; and it is feared that the pig-stealing adventure has destroyed the reason of the other. 
 ```
 
 The two tales were perhaps combined in the following tale from the Worcestershire press in January 1893.
@@ -143,11 +143,11 @@ GOSSIP OF THE WEEK.
 
 TOLD BY OUR READERS.
 
-*In this column we rablish the brightest and most interesting local chat received from readers the *Chronicle*. In order to encourage suitable shall award every week, a silver pencil case, or some other article, value 5s., to tne writer of best *original* paragraph, regard being paid leas to literary style than to the attraction and interest of the matter. ...
+*In this column we publish the brightest and most interesting local chat received from readers the *Chronicle*. In order to encourage suitable shall award every week, a silver pencil case, or some other article, value 5s., to the writer of best *original* paragraph, regard being paid less to literary style than to the attraction and interest of the matter. ...
 
 Caught at Last.
 
-Not long ago an innkeeper a certain village had a sow and seven little pigs. One night a thief came and stole one of the pigs. The master inquired of his neighbours if they had seen or heard of the missing squeaker, but they had not, and he determined to inform the police. A few nights after, however, another pig was stolen, then another, and it seemed he was going to lose the lot. One day an Italian came to the inn, and brought a dancing bear with him. He proposed staying for the night, aud the innkeeper not having vacant place for the bear, offered the use of the pig-sty, which the Italian accepted. The last pig and the sow were accordingly removed to other quarters. It happened that the thief came again that night, and was groping in the dark for the last pig when the bear caught hold of him, and hugged him. His cries soon brought the Italian and the landlord on the scene. The thief was terrified, and asked forgiveness, which after a time was granted on condition that he brought back the whole of the porcine family, He was of course thankful to be let off easily. The alarm caused much amusement in the neighbourhood. 
+Not long ago an innkeeper a certain village had a sow and seven little pigs. One night a thief came and stole one of the pigs. The master inquired of his neighbours if they had seen or heard of the missing squeaker, but they had not, and he determined to inform the police. A few nights after, however, another pig was stolen, then another, and it seemed he was going to lose the lot. One day an Italian came to the inn, and brought a dancing bear with him. He proposed staying for the night, and the innkeeper not having vacant place for the bear, offered the use of the pig-sty, which the Italian accepted. The last pig and the sow were accordingly removed to other quarters. It happened that the thief came again that night, and was groping in the dark for the last pig when the bear caught hold of him, and hugged him. His cries soon brought the Italian and the landlord on the scene. The thief was terrified, and asked forgiveness, which after a time was granted on condition that he brought back the whole of the porcine family, He was of course thankful to be let off easily. The alarm caused much amusement in the neighbourhood. 
 
 
 
