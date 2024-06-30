@@ -41,6 +41,7 @@ parts:
   chapters:
   - file: press_gang
   - file: ross-may-hill-old-ellen
+  - file: ross-who-killed-the-bear
 - caption: Additional Storynotes Collections
   chapters:
   - file: elsewhere
