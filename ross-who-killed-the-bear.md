@@ -134,7 +134,7 @@ A PIG-STEALING ADVENTURE— A tragic termination to an amusing incident was witn
 
 The two tales were perhaps combined in the following tale from the Worcestershire press in January 1893.
 
-```{admonition}
+```{admonition} Gossip of the week, January 1893
 :class: dropdown
 
 [Worcestershire Chronicle - Saturday 28 January 1893](https://britishnewspaperarchive.co.uk/viewer/bl/0000350/18930128/033/0004)
@@ -148,8 +148,6 @@ TOLD BY OUR READERS.
 Caught at Last.
 
 Not long ago an innkeeper a certain village had a sow and seven little pigs. One night a thief came and stole one of the pigs. The master inquired of his neighbours if they had seen or heard of the missing squeaker, but they had not, and he determined to inform the police. A few nights after, however, another pig was stolen, then another, and it seemed he was going to lose the lot. One day an Italian came to the inn, and brought a dancing bear with him. He proposed staying for the night, and the innkeeper not having vacant place for the bear, offered the use of the pig-sty, which the Italian accepted. The last pig and the sow were accordingly removed to other quarters. It happened that the thief came again that night, and was groping in the dark for the last pig when the bear caught hold of him, and hugged him. His cries soon brought the Italian and the landlord on the scene. The thief was terrified, and asked forgiveness, which after a time was granted on condition that he brought back the whole of the porcine family, He was of course thankful to be let off easily. The alarm caused much amusement in the neighbourhood. 
-
-
 
 ```
 
