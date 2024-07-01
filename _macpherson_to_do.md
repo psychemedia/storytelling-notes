@@ -314,7 +314,7 @@ Rewarded you shall be.
 
 Various other versions of the song exist.
 
-```{admonition}
+```{admonition} Song variant
 
 https://contemplator.com/scotland/mac2.html
 

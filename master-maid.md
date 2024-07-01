@@ -118,7 +118,7 @@ Brown Bear of Norway, won 't y ou îurn îo me? Encore une observation sur l'ép
 
 Lang's notes give some variants for the story:
 
-```{admonition}
+```{admonition} TO DO
 :class: dropdown
 
 https://archive.org/details/customandmyth03langgoog/page/n104/mode/2up?q=lacuna
