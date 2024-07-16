@@ -13,6 +13,18 @@ https://britishnewspaperarchive.co.uk/viewer/bl/0000328/18310616/002/0001
 North Devon Journal - Thursday 16 June 1831
 Riots in the Forest of Dean
 
+"Monmouth, Friday Morning.
+
+"There is at present a strong popular excitement in the Forest of Dean. A great portion of the Forest was enclosed and planted with oak, under an Act passed in 48th of George III., which plantations are now in a thriving state. The act provides that 11,000 acres are always to be kept inclosed as a nursery for timber: and that the nursery can only be legally opened by order of the Lords of the Treasury,  and that only when the young timber shall be safe for the browsing of the cattle sheep, and swine. An erroneous opinion, however, prevails among the foresters, that the inclosures should' be thrown open at the expiration of 21 years, and as the Act was passed in 1808 several of the enclosures are of a longer standing, and great dissatisfaction has been for some time felt at their continuance, and about a fortnight since a portion of the embankment was secretly destroyed. A large reward was offered for the discovery of the offenders, without effect, and hand bills were circulated, cautioning against the recurrence of similar outrages. On Wednesday morning a body of men, about eighty commenced levelling the embankments. In the course of the day their numbers increased to 500. On Thursday they continued the work of devastation, and their numbers increased to 2,000, parties being sent out in all directions to compel the colliers and other workmen to come and assist in opening the enclosures. Several miles of fences were levelled in these two days. The men worked regularly with suitable implements. Thev offered no injury to persons or private property, anil were particularly careful of the young timber. There was no military force in the neighbourhood beyond a body of about 50 men, consisting of the staff of the Monmouth Militia and a recruiting party. This small body marched towards the forest on Friday morning. There is no political feeling mixed up with the question of supposed local rights. There are reformers and anti reformers both amongst the foresters, and amongst those who were using their best endeavours to check their proceedings. The accounts from Merthyr continue favourable. The men have returned to their work. Mr. Crawshay's family have returned home—a strong indication of the restoration of order. The number killed, as gathered from the best information, is stated at seventeen or eighteen, including those who have died of their wounds."
+
+Extract of a letter from Pontypool, Monmouthshire received in Shrewsbury yesterday by a tradesman, to whom are indebted tor the information it conveys:—
+
+"Pontypool, Tuesday Morning, Two o'Clock.
+
+"An old man has just come running in, sweating and breathless, to say that the rioters were at Nantyglo, nine miles from here. He had escaped from them. If they catch any that refuse to join them they cut off iheir ears. They are now two miles from here at Abersychan and much mischief is expected. They have threatened to pull down an iron master's house; and this town is all up in arms expecting the worst. It is said there are more than six thousand on their way here. The mob have taken several cannon, made a temporary battery, mounted tor regular siege; and built walls across the roads as high as a house. They are gathered from all quarters for a struggle."
+
+There may be some little exaggeration, arising from personal fear, in the above letter. His Majesty's Ministers have given directions to the troops and soldiers in the vicinity, to march to the spot; and have no doubt the affair will soon be ended. What can misguided combinations of workmen expect, but misery, poverty, and death, as the result of combinations–*Shreswbury Chronocle.* 
+
 https://britishnewspaperarchive.co.uk/viewer/bl/0000328/18310616/002/0001
 North Devon Journal - Thursday 16 June 1831
 RIOTS THE FOREST OF DEAN. "Monmouth, Friday Morning here is at present a strong popular excitement in the forest of Dean
@@ -20,7 +32,7 @@ RIOTS THE FOREST OF DEAN. "Monmouth, Friday Morning here is at present a strong 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18310618/024/0003
 Monmouthshire Merlin - Saturday 18 June 1831
 
-FOREST OF DEAN. ARRIVAL OF THE MILITARY-DISPERSION GF THE LEVELLERS AND APPREHENSION OF THE RINGLEADERS. Our account of the proceedings in the Forest of Dean last week was necessarily concluded at a very interesting crisis, like an act in some dramatic entertainment, where the curtain drops upon a scene of great excitement, leaving the imagination upon the fret, until the time arrives for its further development.
+FOREST OF DEAN. ARRIVAL OF THE MILITARY-DISPERSION OF THE LEVELLERS AND APPREHENSION OF THE RINGLEADERS. Our account of the proceedings in the Forest of Dean last week was necessarily concluded at a very interesting crisis, like an act in some dramatic entertainment, where the curtain drops upon a scene of great excitement, leaving the imagination upon the fret, until the time arrives for its further development.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000063/18310628/012/0004
 Hull Packet - Tuesday 28 June 1831
@@ -36,7 +48,7 @@ SHOCKING MURDER in THE FOREST OF DEAN. A powerful sensation has been produced th
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000365/18401010/050/0004
 Carlisle Patriot - Saturday 10 October 1840
-MURDER AND SUICIDE. A most dreadful murder and suicide were committed in the Forest of Dean oh Monday night, about seven by a man of the name of Philip Willis, a fore-man in the employ of Messrs. James and Co., of Lydney. 
+MURDER AND SUICIDE. A most dreadful murder and suicide were committed in the Forest of Dean oh Monday night, about seven by a man of the name of Philip Willis, a fore-man in the employ of Messrs. James and Co., of Lydney.
 
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000532/18421105/030/0003
@@ -57,7 +69,7 @@ SIX INFANTS MURDERED BY THEIR MOTHER (Abridgod from a Gloucester Paper of Saturd
 https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18421112/023/0003
 Gloucestershire Chronicle - Saturday 12 November 1842
 
-FOREST OF DEAN. The Extraordinary Charge of Child-Murder in the Forest of Dean.— The adjourned inquiry into the mysterious and horrible cases of wholesale child-murder Kuardeaii, In the Forest of Dean, the particulars of which published last week, was resumed 
+FOREST OF DEAN. The Extraordinary Charge of Child-Murder in the Forest of Dean.— The adjourned inquiry into the mysterious and horrible cases of wholesale child-murder Kuardeaii, In the Forest of Dean, the particulars of which published last week, was resumed on Wednesday last, before John Cooke, Esq. coroner, and in the presence of several of the magistrates of the district. The evidence adduced was similar to that to which we adverted last week, and no new fact of a material nature transpired. The jury expressed an opinion that if further time were allowed, additional evidence might probably be obtained, and the inquest was consequently again adjourned till Wednesday next, the 16th inst. In the meantime, Thomas Yapp continues in custody, and a policeman also remains in the house where the tragedy was committed, in order to take charge the woman, Frances Bennett, who continues in the same state of ill-health which we reported last week. [The *Times* of Thursday devotes an article to the discussion of the question, of how far the clergyman to whom the woman under the tortures of troubled conscience made certain horrid disclosures, is bound to communicate what she told him. The *Times* arrives at the conclusion that he is not called upon to disclose what was communicated him under such circumstances. We will refer to the arguments in our next]
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000348/18421123/004/0003
 Taunton Courier and Western Advertiser - Wednesday 23 November 1842
@@ -68,11 +80,27 @@ Cork Examiner - Friday 25 November 1842
 [syndicated widely] eg
 - https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18421121/027/0004 Morning Post - Monday 21 November 1842
 
-THE CHILD MURDERS IN THE FOREST OF DEAN. The inquiry into the unparalleled case of the alleged murder of six infants successively by their mother, at Ruardeanhill, in the Forest of Dean, terminated on Wednesday last, before John Cooke, Esq., coroner. Several magistrates of the district attended the inquest. 
+THE CHILD MURDERS IN THE FOREST OF DEAN. The inquiry into the unparalleled case of the alleged murder of six infants successively by their mother, at Ruardeanhill, in the Forest of Dean, terminated on Wednesday last, before John Cooke, Esq., coroner. Several magistrates of the district attended the inquest. Four or five additional witnesses were examined on Wednesday, but with the exception of one, their evidence was not materially important for the ends of justice, inasmuch as there were already abundant facts and circumstances making a too clear case against the wretched woman, Frances Bennett; and the only part of the case which, in a legal point of view, was at all defective was, the question how far the evidence made out the criminality of the man, Thomas Yapp, it being a rule of law that the confession of a criminal is not good against an accomplice except it be corroborated by other testimony. In this instance there is, of course, circumstantial corroboration in the facts of Thomas Yapp living with the woman for the last ten or twelve years, the period during which this long list of murders was perpetrated; as also the finding of the skeletons of the numerous murdered infants in the unhallowed graves where the unnatural mother states that she, with Yapp's assistance, deposited them. On Wednesday last, we understand, another link, connecting him in some degree with the female prisoner, and with a knowledge of her situation at the time when she gave birth to the last of her victims, was supplied under rather singular circumstances. It seems that about last Christmas a person named Watkins, who was known to Yapp, was in the neighbourhood of Ruardean; that Yapp invited him to remain and sleep at the house occupied by him and the female prisoner; that Watkins accepted the invitation, and occupied during the night the same bed as Thomas Yapp, while the female prisoner, Frances Bennett, slept by herself in an adjoining room; that about twelve o'clock at night and from that time till between two and three, the witness heard a suppressed moaning, as of a person in pain, in Frances Bennett's room; that this noise kept him awake for a long time, but at last he dropped off to sleep, and heard nothing more till about five o'clock, when Thomas Yapp got up and went down stairs to get a light, and appeared to be searching for matches, which he said he could not find; that he then returned up stairs and went into Frances Bennett's room, but how long he remained there this witness could not tell, as he again fell asleep and heard no more. This witness, it appears, on Saturday last, again came to Ruardean, and saw the prisoner Frances Bennett, who, in conversation, asked him if he remembered sleeping there last Christmas? He replied that he did; upon which she added, "I deceived you all nicely that night; for that was the very time when my last child was born." The jury, after maturely considering the evidence, returned a verdict of " Wilful murder" against the mother Frances Bennett, as principal, and against Thomas Yapp as accessary; and the coroner issued his warrant for the committal of both prisoners to the county gaol, to take their trial at the next assizes. In pursuance of this warrant, Thomas Yapp, on Thursday morning, and Frances Bennett, in the evening, were brought in custody to this city, and received into the county gaol. Yapp, who has latterly followed the business of an hallier, is about thirty-four years of age, and has the appearance of an illiterate and sullen man. The woman is apparently at least ten years older, and continues in a very weak state ot health, her illness being supposed to be of a consumptive nature; but a surgeon's certificate was given that she was capable of being removed, and there are reports in the neighbourhood that her present indisposition arises from her being again in a situation likely to become a mother. The discovery of these extraordinary and horrible occurrences has created a great sensation in the secluded district of Ruardean.—*Gloucestershite Chronicle.*
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001670/18421203/055/0004
 Warwick and Warwickshire Advertiser - Saturday 03 December 1842
-THE MURDERS AT RUARDEAN. Gloucbstbr, Saturday.— Few
+THE MURDERS AT RUARDEAN. Gloucester, Saturday.— Few occurrences have excited a more painful interest in this quarter than the investigation which terminated in the committal of Frances Bennett from Ruardean, in the Forest of Dean, to the County Gaol in this city, to await her trial at the assizes. The circumstances have been stated, and are shortly these:—Frances Bennett, after the death of her husband, by whom she had several children, lived with man named Yapp, a hauler, the children by marriage having gone to live elsewhere. About a month ago Bennett, under the apprehension that she was about to die, made a disclosure to a clergyman, in the presence of several persons, to the effect that she had had six children by Yapp, but none of them had been allowed to live, she having suffocated them immediately after birth. She told where the remains of the bodies would be found. The latest murder, according to the confession of the woman, was perpetrated about Christmas last year, and the spot which she indicated as containing the remains was found on examination to conceal the most perfect skeleton of any. The truth of this horrid confession having in this way been placed beyond a doubt, information was sent to John Cooke, Esq., one of the County Coroners, who instantly proceeded from Gloucester to Ruardean to institute an investigation. The witnesses examined on the inquest consisted chiefly of persons to whom the woman had made the confession, including the clergyman who had communicated with the Magistrate on the subject, and the person who had found the remains of the bodies. In the course of the examination of the clergyman by the Coroner, it came out that he had had a second interview with the wretched woman, none being present but themselves, and that she had made some additional disclosures. The rev. gentleman, however, on the ground that what he was told upon this occasion was mixed up with his "spiritual" duties, refused to communicate any particulars, although pressed to so by the Coroner. The woman, moreover, began to deny that she had made any such confession as that sworn to by the witnesses; but enough had been proved to justify the Jury in returning a verdict of wilful murder against Bennett and her paramour Yapp. The latter was instantly removed to Gloucester, but the state of Bennett's health was such as to induce the Coroner to delay the order for her removal till it could be effected without danger.
+
+On the afternoon of Thursday, the 17th instant, the miserable woman arrived as the county gaol in a fly, attended by Mr. Bird, a medical man. She was carried up stairs to the hospital, and on being placed on the bed, said, "Now I will die happy." She died early on Friday morning. This day (Saturday) an inquest was held on the body, before John Cooke, Esq., the Coroner, who conducted the investigation at Ruardean. Disease had reduced the body to a perfect skeleton, but the appearance of the features was more pleasing than otherwise. Mr. Cooke, who saw the deceased alive about three weeks ago, remarked that her face had undergone little change.
+
+The first witness examined was Elisa Gansmore, one of the nurses attached to tbe gaol, who stated that she was directed to wait upon deceased shortly after her arrival. Deceased often thanked God that she had been removed, and said that she was much happier in gaol than at home.
+
+The Coroner here stated that a rumour was abroad that the deceased was in the family way, and asked the witness if she could speak to the point?—The witness stated that she asked the question of deceased, and she stated that she was not. Deceased said that she was only 38 years of age.
+
+Maria Nuttal, another nurse, was next examined. She said that she was present when the deceased died on Friday morning, and was with her for some days previous. She asked witness to read and pray to her. Sometimes when she was reading the deceased would say, "Stop; wait till I'm better," and when she recovered she would ask her to go on. As her death approached she seemed to feel contented. She was sensible to the last. She said that she had been ill for about twelve months.
+
+Mr. Hickes, tbe surgeon, stated that the complaint of which the deceased died was pulmonary consumption, and, in his opinion, the removal from Ruardean had neither injured nor benefited her. She seemed to be aware that she could survive only for a few days. She mentioned to him and to others that she had been sent to gaol charged with the murder of her children.
+
+The Jury returned a verdict of "Died from natural causes."
+
+Yapp, on being told of the death of Bennett, wept bitterly. The body was buried the relatives of the deceased.
+
+As to worldly means, the murderers were comfortable. Indeed it is alleged that the only index to their brutal conduct is be found in the circumstauce that Bennett's husband settled his property upon her, but with the restriction that should she marry again the property was to go to his children. It was the desire to retain the property which probably prevented her marriage with Yapp, and every body knows how one crime leads to another.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000077/18421204/019/0008
 Lloyd's Weekly Newspaper - Sunday 04 December 1842
@@ -81,10 +109,24 @@ THE CHILD MURDERS IN THE FOREST OF DEAN.-DEATH OF THE MURDERESS. We last week an
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000090/18421203/046/0013
 Northern Star and Leeds General Advertiser - Saturday 03 December 1842
-THE LATE WHOLESALE INFANTICIDE IN THE FOREST OF DEAN. DE&TH OF FRANCES BENNETT, THE MURDERER OF HER CHILDREN. GLOUCESTER,
+THE LATE WHOLESALE INFANTICIDE IN THE FOREST OF DEAN. DEATH OF FRANCES BENNETT, THE MURDERER OF HER CHILDREN. GLOUCESTER,
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18421121/018/0004
 Morning Chronicle - Monday 21 November 1842
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18430408/037/0003
+Gloucestershire Chronicle - Saturday 08 April 1843
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000311/18430420/020/0004
+Cheltenham Chronicle - Thursday 20 April 1843
+
+GLOUCESTER SPRING ASSIZES. (Continued from last week's Paper.) CROWN COURT. Wednesday, April 12. Child Murders at Ruardean. *Thomas Yapp*, aged 34. charged on the coroner's inquisition with having been accessory to the wilful murder of several infant children, under circumstances already well known, was discharged. Mr. Francillon, on behalf of the prosecution, stated that after an anxious consideration of the case he had resolved not to offer evidence.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000401/18430421/008/0002
+Shrewsbury Chronicle - Friday 21 April 1843
+
+Gloucester Assizes.— ... In the case of Yapp, the paramour of Frances Bennett, the woman who, under the tortures of a guilty conscience, confessed that she had murdered six of their infants, it was expected that moch of the "horrible" would have been developed. The death, however, of the woman had changed the aspect of the case as regarded the accessory, and the able lawyer who was entrusted with the prosecution resolved to abandon the case. The prisoner was consequently discharged.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18420122/033/0003
 Gloucestershire Chronicle - Saturday 22 January 1842
@@ -304,7 +346,7 @@ Beatrix Albinia Wherry.
 
 
 https://archive.org/details/s7274id1338287/page/378/mode/2up
-Folk-lore Journal, i., Jan.-Dec. 1883  pp.378-9 
+Folk-lore Journal, i., Jan.-Dec. 1883  pp.378-9
 
 Monmouthshore Notes
 
@@ -373,7 +415,7 @@ pp295-9
 
 ...
 
-Though now an insignificant cluster of habitations, Grosmont was formerly a town of some note. Many exterior traces of buildings, and raised causeways, constructed like Roman roads with large blocks of stone, diverging from it, prove its antique extent and Irriportance to have been considerable: nor is the legend of the place deficient in asserting its quondam consequence.
+Though now an insignificant cluster of habitations, Grosmont was formerly a town of some note. Many exterior traces of buildings, and raised causeways, constructed like Roman roads with large blocks of stone, diverging from it, prove its antique extent and importance to have been considerable: nor is the legend of the place deficient in asserting its quondam consequence.
 
 But with still higher interest, with more voluble earnestness, the natives recount the exploits of their reputed necromancer, John of Kent. Among a thousand other instances of his magical skill, they confidently assure you, that when he was a hoy, being ordered to protect some corn from the birds, he conjured all the crows in the neighbourhood into a barn without a roof, and by force of his incantations obliged them to remain there while he visited Grosmont fair. A greater service that he performed for the countrywas, his building the bridge over the Monnow in one night by the agency of one of his familiars. Long did his strange actions frighten men out of their wits; and at length, dying, he outwitted the devil; for, in consideration of services while living, he agreed to surrender himself to his satanic majesty after his death, whether he was buried in or out of church; but, by ordering his body to be interred under the church wall, he contrived to slip out of the contract. A stone in the church-yard, near the chancel, is said to mark the spot of this interment.
 
