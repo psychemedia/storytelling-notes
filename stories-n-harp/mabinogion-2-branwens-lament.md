@@ -14,7 +14,7 @@ One day, thirteen fast ships were spied approaching the Pembrokeshire coast. Iri
 
 Matholwch was the first ashore. Matholwch, the King of Ireland. He was immediately taken to meet Bran, the King of the Britains. The Irish king, Matholwch, was seeking marriage with Branwen, Bran's sister, the Princess of the Island of the Mighty, as a marriage treaty between their two kingdoms.
 
-"A splendid idea", said Bran and his advisers, and so it was agreed.
+__"A splendid idea", said Bran and his advisers, and so it was agreed.__
 
 `[VERSE 1]`  
 *When Branwen heard she would be married*  
@@ -54,7 +54,7 @@ Bran called him back, offered him recompense. But the honour price was too high 
 
 Matholwch was persuaded to stay; but the good cheer that had bound the two Kings together the previous night was gone. Bran filled the silence with a promise of another gift - the cauldron of rebirth. If a man that had died that day was put into the cauldron, he would live again the next day, although without the power of speech.
 
-And so Matholwch departed, along with his new wife, Branwen. And the Irishmen swore never to mention the humiliation that Matholwch had suffered on that trip.
+And so Matholwch departed, along with his new wife, Branwen. __And the Irishmen swore never to mention the humiliation that Matholwch had suffered on that trip.__
 
 `[VERSE 3]`  
 *She travelled far across the ocean*  
@@ -80,7 +80,7 @@ And by and by, the bloodlines of the island of Ireland and the Isle of the Might
 *"My son, my son," young Branwen cried,*  
 *"I'll pray for you daily, my baby, my pride."*
 
-At first, the birth of their son, Gwern was him name, had been celebrated. But then the muttering had begun, the whispered asides about how Matholwch had been humiliated. And Matholwch, well, his humiliation started over again, but at home this time. So to reassert his authority, he had to humiliate Branwen in turn. And so she was punished, and forced to work in the kitchens, her head slapped and beaten by the cook and the butcher each day.
+At first, the birth of their son, Gwern was him name, had been celebrated. But then the muttering had begun, the whispered asides about how Matholwch had been humiliated. And Matholwch, well, his humiliation started over again, but at home this time. So to reassert his authority, he had to humiliate Branwen in turn. And so she was punished, and forced to work in the kitchens, __her head slapped and beaten by the cook and the butcher each day.__
 
 `[VERSE 5]`  
 *And as she toiled and baked the court's bread*  
@@ -100,7 +100,7 @@ When he received the message, he was furious, cursing — what brother wouldn't 
 
 On the Irish coast, a pig-herder, tending his... flock? do you have a flock of pigs? A drove? A sounder?... saw something on the horizon he had never witnessed before. A forest; a forest, coming closer;  a forest, and a mountain; a mountain on which there was a high ridge; a high ridge with two lakes, one on either side.
 
-The pig herder rushed to inform the king, who could make no sense of what the babbling idiot was talking about. But Branwen knew: and she told Matholwch. The forest was the masts of the ships of her brother's men, the mountain was Bran himself, the ridge his nose, the two lakes, his eyes.
+The pig herder rushed to inform the king, who could make no sense of what the babbling idiot was talking about. But Branwen knew: and she told Matholwch. __The forest was the masts of the ships of her brother's men, the mountain was Bran himself, the ridge his nose, the two lakes, his eyes.__
 
 `[VERSE 6]`  
 *The king arrived with spears shining*  
@@ -124,14 +124,14 @@ Matholwch, once again, completely out of ideas, turned to Branwen. Was there any
 
 "You know what they say of him,"said Branwen. "'No ship can carry him, no can could give him shelter.' There has never been a house big enough that he could enter", she said, "so make him a house he might fit in".
 
-And so the house was built.
+__And so the house was built.__
 
 `[VERSE 7 (JC)]`  
 *“A house is built, with honour promised.*  
 *An invitation of welcome inside.*  
 *Efnisien’s wary, he senses betrayal.*  
 *Within these sacks, there’s something to hide*  
-*??  Efnisien cries … *  
+*??  Efnisien cries …*  
 …… is in thin disguise  
 ?? Efnisien cries  
 …….before my eyes
@@ -150,9 +150,9 @@ Branwen, rescued from the kitchen, is dressed once again in the finest of clothe
 
 And introduces Gwern, her first born son who will be King of all Ireland, to the King of the Isle of the Mighty. And perhaps now  she can relax a little.
 
-"But what about me?" sneers Efnysien, the sower of discord. "Why does no one introduce the boy to me?"
+"But what about me?" sneers Efnysien, the sower of discord. __"Why does no one introduce the boy to me?"__
 
-`[VERSE 8??]`  
+`[VERSE 8]`  
 *The girl's released but still there's fighting,*  
 *No love can keep these bold soldiers apart,*  
 *Her son is killed, her brother poisoned,*  
@@ -162,4 +162,4 @@ And introduces Gwern, her first born son who will be King of all Ireland, to the
 *"My God, my God," young Branwen cries,*  
 *Her heart splits in two then young Branwen she dies.*
 
-And so it was that Branwen's heart was finally broken, in a terrible and fatal way.  But the story of how that came to pass — of Efnysien's second betrayal, of the terrible fighting that followed, of the poisoning of Bran himself and his unusual return to Wales... well, that is a story for another time, and another place. Because for now, this tale, or this part of it at least, is over.
+And so it was that Branwen's heart was finally broken, in a terrible and fatal way.  But the story of how that came to pass — of Efnysien's second betrayal, of the terrible fighting that followed, of the poisoning of Bran himself and his unusual return to Wales... well, that is a story for another time, and another place. Because for now, this tale, or this part of it at least, is done.
