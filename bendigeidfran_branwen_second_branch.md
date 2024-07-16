@@ -64,9 +64,9 @@ When Bendigeidfran and his men reached the bridge, the giant let out a cry that 
 
 Bendigeidfran lay across the river, and his men walked over him in pursuit of the Irish.
 
-Mathelwch surrendered, offered his son Gwern, Bendigeifren's nephew, to be king of Ireland. But this honour price was not enough for Bendigeidfran, there to avenge the slight against his sister, against his people.
+Matholwch surrendered, offered his son Gwern, Bendigeifren's nephew, to be king of Ireland. But this honour price was not enough for Bendigeidfran, there to avenge the slight against his sister, against his people.
 
-Mathelwch, once again, completely out of ideas, turned to Branwen. Was there anything that would placate him?
+Matholwch, once again, completely out of ideas, turned to Branwen. Was there anything that would placate him?
 
 "You know what they say of him,"said Branwen. "'No ship can carry him, no can could give him shelter.' There has never been a house big enough that he could enter", she said, "so make him a house he might fit in".
 
@@ -154,3 +154,5 @@ Five (up to seven) part telling:
 - the return to Wales, the seven years, the door, the White Castle, the rooks.
 
 Two part telling: split at the point where Branwen sends the starling to her brother...
+
+With *Stories'n'Harp*, we also have a shortened version, "Branwen's Lament", presented as a *cante fable* with verses originally inspired by *The Foxglove Trio*'s "".
