@@ -25,7 +25,6 @@ Some while later, the harper passed that way again. Noted the miller's daughter 
 *Scoured clean by summer and ??.*  
   *By the bonny mill-dams of Binnorie.*
 
-
 As he made his way along the path, a snag of white material caught in a hawthorn bush, an animal run, a scrape, and a small pile of disturbed bones, covered by what looked like long human hair.
 
 Being a resourceful man, he... he reached out for the bones, a breast bone, and fashioned a small harp, a novelty piecel and strung it with the hair.
@@ -64,7 +63,7 @@ It seemed as if it were trying to speak, or to sing, or to, to tell out its own 
 *And by him, my William, false and true;*  
 *By the bonny mill-dams o’ Binnorie."*
 
-*"And there sits my sister who drowned me.* 
+*"And there sits my sister who drowned me.*  
 *By the bonny mill-dams o' Binnorie."*
 
 __`[LOUD CLAP / MUSIC STOPS]`__
