@@ -68,7 +68,7 @@ And so Matholwch departed, along with his new wife, Branwen. __And the Irishmen 
 
 Things went well, at first, and as had been agreed, no mention was made of the great shame that had been brought upon Matholwch by the earlier mutiliation of his horses.
 
-And by and by, the bloodlines of the island of Ireland and the Isle of the Mighty became one.
+__And by and by, the bloodlines of the island of Ireland and the Isle of the Mighty became one.__
 
 `[VERSE 4]`  
 *When two years passed she bore a young son*  
