@@ -126,7 +126,15 @@ Matholwch, once again, completely out of ideas, turned to Branwen. Was there any
 
 And so the house was built.
 
-?? `[VERSE 7 (JC)]`  or 7 and 8
+`[VERSE 7 (JC)]`  
+*“A house is built, with honour promised.*
+*An invitation of welcome inside.*
+*Efnisien’s wary, he senses betrayal.*
+*Within these sacks, there’s something to hide*
+*??  Efnisien cries … *
+…… is in thin disguise
+?? Efnisien cries
+…….before my eyes
 
 But as the house was built, hooks were placed on either side of the hundred great columns that held up the roof of the great hall, and two hundred sacks were hung on the hooks, and in the sacks were hidden Irish soldiers set to ambush Bran's men.
 
