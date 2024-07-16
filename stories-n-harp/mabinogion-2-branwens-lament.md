@@ -1,13 +1,12 @@
 # Mabinogion 2 — Branwen's Lament
 
-*A shortened, shortened retelling, cutting down the second branch of the Mabinogion, and casting it as Brawnwen's Tale.*
+*A partial retelling of the first half of the Second Branch of the mabinogion, casting it as Branwen's Tale.*
 
 Sung verses originally from *The Foxglove Trio*'s ["Branwen"](https://thefoxglovetrio.bandcamp.com/track/branwen).
 
-
 ---
 
-There once was a time when the Island of the Mighty — mainland Great Britain as we know it today — was ruled from Wales by a giant of a man: Bendigeidfran, son of Llyr, also known as Brân, or Bran the Blessed, or in English, as the Blessed Crow. For in Welsh, Brân means "raven", or "crow". No ship could carry him, no house could give him shelter, and, as you mioght expect, the rulers of the other kingdoms sought allegiance, rather than war, with him.
+There once was a time when the Island of the Mighty — mainland Great Britain as we know it today — was ruled from Wales by a giant of a man: Bendigeidfran, son of Llyr, also known as Brân, or Bran the Blessed, or in English, as the Blessed Crow. For in Welsh, Brân means "raven", or "crow". No ship could carry him, no house could give him shelter, and, as you might expect, the rulers of the other kingdoms sought allegiance, rather than war, with him.
 
 Now, Bran had a sister, Branwen, whose name means "white crow"; and there were none so fair as her, not in this world, nor in ay other.
 
@@ -17,18 +16,31 @@ Matholwch was the first ashore. Matholwch, the King of Ireland. He was immediate
 
 "A splendid idea", said Bran and his advisers, and so it was agreed.
 
+`[VERSE 1]`  
 *When Branwen heard she would be married*  
 *Her heart was filled with excitement and fear,*  
 *To be a wife was her desire*  
 *But to her brothers she wished to stay near,*  
 *"My home, my home," young Branwen cried,*  
-*"It's for your bright future I will be a bride"*
+*"It's for your bright future I will be a bride"*  
 *"My home, my home," young Branwen cried,*  
 *"It's for your bright future I will be a bride"*
 
 The feasting, and the drinking, and the carousing began. And that night, as was the custom, Matholwch and Branwen spent together, as the start of what would be their three days of hand-fasting.
 
-As the festivities began, Matholwch's men and horses were billeted far and wide. And it was one of these new billets that was seen by Efnysien, just as he returned from a journey far to the north. Efnysien, Bran and Branwens's half-brother on their mother's side. Efnysien, a man so bitter, a man so twisted, he could pitch two of the most loving brothers into mortal battle with each other.
+__But elsewhere, mischief was afoot...__
+
+`[VERSE 2 (JC)]`  
+*Bendigeidfran gave her hand in marriage*  
+*To bring together two countries in peace*  
+*Half-brother Efnisien stormy and wrathful*  
+*Favoured division and controversy,*
+*"Oh, woe, oh, woe," young Branwen cried,*  
+*"Please put your vengeance and anger aside."*
+*"Oh, woe, oh, woe," young Branwen cried,*  
+*"Please put your vengeance and anger aside."*
+
+As the festivities began, Matholwch's men and horses had been billeted far and wide. And it was one of these new billets that was seen by Efnysien, just as he returned from a journey far to the north. Efnysien, Bran and Branwens's half-brother on their mother's side. Efnysien, a man so bitter, a man so twisted, he could pitch two of the most loving brothers into mortal battle with each other.
 
 "Whose are these horses?", he asked, and he was told: "the horses of Matholwych, King of Ireland, he who is now married to your sister, Branwen".
 
@@ -44,12 +56,13 @@ Matholwch was persuaded to stay; but the good cheer that had bound the two Kings
 
 And so Matholwch departed, along with his new wife, Branwen. And the Irishmen swore never to mention the humiliation that Matholwch had suffered on that trip.
 
+`[VERSE 3]`  
 *She travelled far across the ocean*  
 *With her new husband and silver and gold,*  
 *Away from home and its betrayal*  
 *To live in peace until they both grew old,*  
 *"Fine Sir, fine Sir," young Branwen cried,*  
-*"With our lands united I'll stay by your side"*
+*"With our lands united I'll stay by your side"*  
 *"Fine Sir, fine Sir," young Branwen cried,*  
 *"With our lands united I'll stay by your side"*
 
@@ -57,23 +70,25 @@ Things went well, at first, and as had been agreed, no mention was made of the g
 
 And by and by, the bloodlines of the island of Ireland and the Isle of the Mighty became one.
 
+`[VERSE 4]`  
 *When two years passed she bore a young son*  
 *And for his uncle he's scolded and shamed,*  
 *Efnisien's deeds were not forgotten,*  
 *She bore his penance by being enslaved,*  
 *"My son, my son," young Branwen cried,*  
-*"I'll pray for you daily, my baby, my pride."*
+*"I'll pray for you daily, my baby, my pride."*  
 *"My son, my son," young Branwen cried,*  
 *"I'll pray for you daily, my baby, my pride."*
 
 At first, the birth of their son, Gwern was him name, had been celebrated. But then the muttering had begun, the whispered asides about how Matholwch had been humiliated. And Matholwch, well, his humiliation started over again, but at home this time. So to reassert his authority, he had to humiliate Branwen in turn. And so she was punished, and forced to work in the kitchens, her head slapped and beaten by the cook and the butcher each day.
 
+`[VERSE 5]`  
 *And as she toiled and baked the court's bread*  
 *A little starling became her one friend,*  
 *"O little bird, please take my message,*  
 *Go ask my brother an army to send,*  
 *My friend, my friend," young Branwen cried,*  
-*"You'll be my salvation, the winds are your guide"*
+*"You'll be my salvation, the winds are your guide"*  
 *My friend, my friend," young Branwen cried,*  
 *"You'll be my salvation, the winds are your guide"*
 
@@ -87,10 +102,13 @@ On the Irish coast, a pig-herder, tending his... flock? do you have a flock of p
 
 The pig herder rushed to inform the king, who could make no sense of what the babbling idiot was talking about. But Branwen knew: and she told Matholwch. The forest was the masts of the ships of her brother's men, the mountain was Bran himself, the ridge his nose, the two lakes, his eyes.
 
+`[VERSE 6]`  
 *The king arrived with spears shining*  
 *And ships of soldiers 'cross river and wave,*  
 *"Release the girl, release from prison*  
 *My darling sister, young Branwen the brave"*  
+*"Alive, alive," young Branwen cried,*  
+*"If not for Bran, I'd surely have died"*  
 *"Alive, alive," young Branwen cried,*  
 *"If not for Bran, I'd surely have died"*
 
@@ -100,13 +118,15 @@ When Bran and his men reached the bridge, the giant let out a cry that is still 
 
 Bran lay across the river, and his men walked over him in pursuit of the Irish.
 
-Mathelwch surrendered, offered his son Gwern, Bendigeifren's nephew, to be king of Ireland. But this honour price was not enough for Bran, there to avenge the slight against his sister, against his people.
+Matholwch surrendered, offered his son Gwern, Bendigeifren's nephew, to be king of Ireland. But this honour price was not enough for Bran, there to avenge the slight against his sister, against his people.
 
-Mathelwch, once again, completely out of ideas, turned to Branwen. Was there anything that would placate him?
+Matholwch, once again, completely out of ideas, turned to Branwen. Was there anything that would placate him?
 
 "You know what they say of him,"said Branwen. "'No ship can carry him, no can could give him shelter.' There has never been a house big enough that he could enter", she said, "so make him a house he might fit in".
 
 And so the house was built.
+
+?? `[VERSE 7 (JC)]`  or 7 and 8
 
 But as the house was built, hooks were placed on either side of the hundred great columns that held up the roof of the great hall, and two hundred sacks were hung on the hooks, and in the sacks were hidden Irish soldiers set to ambush Bran's men.
 
@@ -118,38 +138,20 @@ And then he went to the second bag: "and this is...?" "Flour". "Ah ha...". And h
 
 That night, the great house was filled with the men of both armies, seated round a great fire in the center. There was eating; and drinking. A lot of drinking...  And the tension between them lessened, perhaps.
 
-But Efnysien, always Efnysien... "Why doesn't my sister's boy, my very own nephew, come to greet me?" he said. And Gwern was brought forward to meet him... At which point, Efnysien took everyone by surprise,  laughing madly, and calling out: "I bet none of you expected this...?!". At which point he grabbed the boy and threw him into the raging fire, kicking him back into the fire as the boy tried to save himself it, for good measure.
+Branwen, rescued from the kitchen, is dressed once again in the finest of clothes, sits next to her brother.
 
-But it was too late. Gwern was dead.
+And introduces Gwern, her first born son who will be King of all Ireland, to the King of the Isle of the Mighty. And perhaps now  she can relax a little.
 
+"But what about me?" sneers Efnysien, the sower of discord. "Why does no one introduce the boy to me?"
+
+`[VERSE 8??]`  
 *The girl's released but still there's fighting,*  
 *No love can keep these bold soldiers apart,*  
 *Her son is killed, her brother poisoned,*  
 *Then Branwen cries with a pain in her heart,*  
 *"My God, my God," young Branwen cries,*  
-*Her heart splits in two then young Branwen she dies.*
+*Her heart splits in two then young Branwen she dies.*  
 *"My God, my God," young Branwen cries,*  
 *Her heart splits in two then young Branwen she dies.*
 
-The fighting began. The fighting went on all night, and both sides lost many men. Afterwards, in the Irish camp, a smaller fire could be seen, a dull red glow beneath a cauldron, a cauldron into which the Irish dead were thrown, and out of which they stepped again, voiceless, the living undead.
-
-The next day the fighting began again, the losses terrible on both sides.
-
-Efnysien, realising perhaps, the awful consequences of what he had started, saw that with the Cauldron of Rebirth, there would be a never ending stream of Irish soldiers to fight against, no matter how many were killed. So that night, he covered himself with mud, and blood, and lay among the Irish dead as if he were one of them. When he was thrown into the cauldron, the shock of a living body being thrown in to the magical maelstrom it contained, and the strength of him as he pushed against the inside walls cauldron, shattered it into a thousand pieces. And shattered Efnysien with it.
-
-The battle was all but over. The dead were many. The survivors were few.
-
----
-
-The Irish had been killed, to a man. Only their women remained. Of Bran's men, only seven lived through that terrible battle. Seven men, and Branwen.
-
-Bran, perhaps, would have been one of those who few who survived, were it not for the poison on the tip of the spear that pierced his foot. Poison that had started to spread. "Cut off my head" he said, "I will still be good company for you, for seven years in Harlech, and eighty years after that. But do not open the door that faces Cornwall," he said, rather cryptically, "or sorrow will end it all. And then you must bury my head, on the Bryn Gwyn, the White Hill in London, facing south".
-
-And so they did. And of all the men who had left the Island of the Mighty only seven returned. Only seven, and Branwen. And the chatty head of Bran, carried on the golden platter that had been given to Matholwch several years before.
-
-Back now, in Wales, Branwen was distraught. In her sorrow, her heart was broken. She died and was buried.
-
-The story continues, of the head on the plate and the prophecy that would come true, but that is a tale for another day, and one will we be pleased to tell you when we hopefully meet again
-
---
-
+And so it was that Branwen's heart was finally broken, in a terrible and fatal way.  But the story of how that came to pass — of Efnysien's second betrayal, of the terrible fighting that followed, of the poisoning of Bran himself and his unusual return to Wales... well, that is a story for another time, and another place. Because for now, this tale, or this part of it at least, is over.
