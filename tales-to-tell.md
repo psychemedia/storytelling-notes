@@ -15,17 +15,70 @@ https://sites.pitt.edu/~dash/type1381.html
 ---
 
 
+
 SOngs
 OWn grandfather https://genius.com/Willie-nelson-im-my-own-grandpa-lyrics
 
-Walsingham Binham tunnel .
+Via Tony Nicol Waverley
+
+Walsingham Abbey Binham tunnel  gold ?
 Fiddler’s Hill
 [ Roud - ; Mudcat 113179 ; words Peter Bellamy, tune trad.]
 https://mainlynorfolk.info/peter.bellamy/songs/fiddlershill.html
 cd Richmond Castle-Easby Abbey
 
+Tom Bawcock's Eve
+https://en.wikipedia.org/wiki/Tom_Bawcock%27s_Eve
+https://mainlynorfolk.info/folk/songs/tombawcockseve.html
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000331/19280104/143/0007
+Cornishman - Wednesday 04 January 1928
+TOM BAW'COCK'S EVE. Sir.—Part Five of the "Old Cornwall" magazine for April, contains an interesting account of Tom Baw'cocks and his eve. This magazine well worth possessing even if one cannot conveniently be a member of an "Old Cornwall" society. This book will fill to those so placed, real want, recording as it does all such fragments of local history such as "Tom Baw'cock's Eve." Doubtless some one long resident at Mousehole could add to that which has been recorded in "Old Cornwall." CHARLES HOARE, jun. Madron, New Year's Eve. 
+
+
+
 ---
 
+Dreaming - japanese folk tale  - butterfly journey
+
+https://en.wikipedia.org/wiki/The_Dream_of_Akinosuke
+
+
+England dreaming - japanese dreaming
+
+---
+
+Part 1-4 ... https://archive.org/details/old-cornwall-journal-1-4-converted-1 republished
+
+https://mazedtales.org/content/story-sources
+
+
+My Grandfather's Clock
+https://folkopedia.info/wiki/My_Grandfather%27s_Clock
+https://en.wikipedia.org/wiki/My_Grandfather%27s_Clock
+
+---
+https://archive.org/details/the-old-coaching-days-1889
+The old coaching days in Yorkshire; 1889
+by Tom Bradley (1851-1934)
+
+Publication date 1889
+
+
+--
+https://archive.org/details/devilinbritainam00ashtrich/page/n7/mode/2up
+The Devil in Britain and America
+by Ashton, John, b. 1834
+
+Publication date 1896
+
+https://archive.org/details/wondersofinvisib00math_1
+The wonders of the invisible world: being an account of the tryals of several vvitches, lately excuted [sic] in New-England: and of several remarkable curiosities therein occurring. : Together with I. Observations upon the nature, the number, and the operations of the devils. II. A short narrative of a late outrage committed by a knot of witches in Swede-Land, very much resembling, and so far explaining, that under which New-England has laboured. III. Some councels directing a due improvement of the terrible things lately done by the unusual and amazing range of evil-spirits in New-England. IV. A brief discourse upon those temptations which are the more ordinary devices of Satan.
+by Mather, Cotton, 1663-1728
+
+Publication date 1693
+
+---
 12 days
 
 Partridge and fowler
