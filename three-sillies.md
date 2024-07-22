@@ -1,8 +1,8 @@
 # The Three Sillies
 
-This is one of the stories that appears widely in English folk-tale collectoins, although I donlt recall any particular examples of having heard it myself. From the breifest refreshers of the bones of the tale, I told it myself for the first time at &Spoken Word at Monkton Arts* in May, 2024. Coming in at about 11 minutes, the scope for humour is plentiful. The tale ends as a "happiliy ever after", with an opportunity to say there are fools everywhere, but one comment was that it missed a kicker (a topper, or a twist), at the end.
+This is one of the stories that appears widely in English folk-tale collections, although I don't recall any particular examples of having heard it myself. From the briefest refreshers of the bones of the tale, I told it myself for the first time at &Spoken Word at Monkton Arts* in May, 2024. Coming in at about 11 minutes, the scope for humour is plentiful. The tale ends as a "happily ever after", with an opportunity to say there are fools everywhere, but one comment was that it missed a kicker (a topper, or a twist), at the end.
 
-The version that seems to appear most commonly in English folk-tale collexctions is the one published by Jacobs in his *English Fairy Tales*:
+The version that seems to appear most commonly in English folk-tale collections is the one published by Jacobs in his *English Fairy Tales*:
 
 ```{admonition} Jacobs, *The Three Sillies*, 1895
 :class: dropdown
@@ -386,7 +386,7 @@ When doomed they the garron in mote."
 
 ## Grimm's Variant, "Kluge Else"
 
-Perhaps unsurprisingly, there is a Grimm variant of the tale, "Kluge Else" (Clever Else). This includes the element of a person being so foolish as to not know whether they are themsleves, as appears in Campbell's version, albeit with respect to a different character.
+Perhaps unsurprisingly, there is a Grimm variant of the tale, "Kluge Else" (Clever Else). This includes the element of a person being so foolish as to not know whether they are themselves, as appears in Campbell's version, albeit with respect to a different character.
 
 Grimm's tales were widely published in translation, and include the following versions:
 
@@ -437,7 +437,7 @@ After Hans had had her some time, he said, " Wife, I am going out to work and ea
 
 ```
 
-The notes give the name of the tale as "Clever Alice", rather than "Clever Elsie", which was the name given for the tale in the contents and body of the collection. So was the translatir working from earlier translations, or did the publisher have a mind to change the name of the tale closer to the original spelling of "Else"?
+The notes give the name of the tale as "Clever Alice", rather than "Clever Elsie", which was the name given for the tale in the contents and body of the collection. So was the translator working from earlier translations, or did the publisher have a mind to change the name of the tale closer to the original spelling of "Else"?
 
 ```{admonition} Notes, *Clever Alice*, 1884
 :class: dropdown seealso
@@ -670,7 +670,7 @@ From that time forth the carpenter's wife drank free of expense every Sunday, fo
 
 ```
 
-Lang cites *The Merry Wives* as being translated from the Danish, but does not give a source. A few years later, in 1919, J. Grant Cramer included the same tale in his *Danish Faiiry Tales* translation of tales from the Danish collected by Svendt Grundtvig.
+Lang cites *The Merry Wives* as being translated from the Danish, but does not give a source. A few years later, in 1919, J. Grant Cramer included the same tale in his *Danish Fairy Tales* translation of tales from the Danish collected by Svendt Grundtvig.
 
 ```{admonition} In *Danish Fairy Tales*, 1919
 :class: dropdown

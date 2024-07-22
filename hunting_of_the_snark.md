@@ -322,7 +322,7 @@ He skipped and he hopped, and he floundered and flopped,
 And the Bellman remarked "It is just as I feared!"  
 [As he] solemnly tolled on his bell.
 
-*They all gathered round the Banker. He was black in the face, and was barely recognisable; his shock was so great that his waistcoat, as well as his hair, had turned completely white. And lookimg just like he was wearing full evening dress, he stood up, and gibbered at them, because he had completely lost his mind. Then he sat down again, and brushed his fingers through his hair, and gently rocked himself backwards and forwards, muttering to himself.*
+*They all gathered round the Banker. He was black in the face, and was barely recognisable; his shock was so great that his waistcoat, as well as his hair, had turned completely white. And looking just like he was wearing full evening dress, he stood up, and gibbered at them, because he had completely lost his mind. Then he sat down again, and brushed his fingers through his hair, and gently rocked himself backwards and forwards, muttering to himself.*
 
 *"We must leave him", said the Bellman, "we must leave him. Time is running out. And if we don't get a move on, we won't catch the Snark before nightfall."*
 

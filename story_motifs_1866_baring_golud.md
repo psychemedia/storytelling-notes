@@ -6,6 +6,6 @@ by Henderson, William; Baring-Gould, S.
 
 Publication date 1866
 
-STORY RADICALS. ie story motifs , story classification sotry sructure
+STORY RADICALS. ie story motifs , story classification story structure
 
 pp300-311

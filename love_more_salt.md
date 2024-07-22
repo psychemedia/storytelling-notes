@@ -146,7 +146,7 @@ Well, the wedding-day came, and they was married. And after they was married all
 
 ' What is the matter?' said the master's son to him.
 
-'Oh!' says he, 'I had a daughter. And I asked her how much she loved me. And she said, “ As much as fresh meat loves salt.” And I turned her from my door, for I thought she didn't love me. And now I see she loved me best of all. And she may be dead for aught I know.'
+'Oh!' says he, 'I had a daughter. And I asked her how much she loved me. And she said, " As much as fresh meat loves salt.” And I turned her from my door, for I thought she didn't love me. And now I see she loved me best of all. And she may be dead for aught I know.'
 
 'No, father, here she is!' says Cap o' Rushes. And she goes up to him and puts her arms round him.
 

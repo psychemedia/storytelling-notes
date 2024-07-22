@@ -2,7 +2,7 @@
 
 The tale appears to be this:
 
-> end 18th c; tunnel discovered from Richmond Castle to Easby Abbey, a mile or so; entrance discovered by soldiers but narrow, rubble from rockfalls; little drimmer boy lowered in and told to follow the tunnel beating his drum so soldiers above could hear it. All went well, for a while...out of the castle.. across the marketplace... over the river... as far as Easby woods; and then, the drumming stopped.
+> end 18th c; tunnel discovered from Richmond Castle to Easby Abbey, a mile or so; entrance discovered by soldiers but narrow, rubble from rockfalls; little drummer boy lowered in and told to follow the tunnel beating his drum so soldiers above could hear it. All went well, for a while...out of the castle.. across the marketplace... over the river... as far as Easby woods; and then, the drumming stopped.
 
 Was it a monster? Was it a rockfall? Some say the sound of the drum beat changed just before it disappeared, as if the boy had entered a large cavern. THe location of the sleeping King, Arthur, who likes with his soldiers awaiting the time when England needs him most. One of the knights awakes, asks whether England is under attack. No.  "Then it is not yet time to awaken King Arthur " rBut when we do awake, a drummer should lead us. WIll you wait with us? And the by did.
 

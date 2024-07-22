@@ -11,11 +11,9 @@ A watch-word to the city of London, and the armie : wherein you may see that Eng
 
 But that all men may see, we are neither ashamed nor afraid,
 to justi?e that cause we are arrested for, neither to refuse to
-answer to it in a righteous way, therefore we have here deliv-
-ered this up in writing, and we leave it in your hands, disa—
-vowing the proceedings of your Court, because you uphold
-Prerogative oppression, though the Kingly of?ce be taken away,
-and the Parliament hath declared England a Common-VVealth,0
+answer to it in a righteous way, therefore we have here delivered this up in writing, and we leave it in your hands, disavowing the proceedings of your Court, because you uphold
+Prerogative oppression, though the Kingly office be taken away,
+and the Parliament hath declared England a Common-Wealth,0
 so that Prerogative Laws cannot be in force, unlesse you be
 besotted by your covetousnesse and envy.
 We deny that we have trespassed against those three men,
@@ -23,14 +21,13 @@ or Mr. Drake either, or that we should trespasse against any, if
 we should dig up, or plow for a livelihood, upon any the wast   
 Land in England; For thereby we break no particular Law made
 by any Act of Parliament, but only an ancient custome, bred in
-the strength of Kingly Prerogative, which is that old Law or cus-
-tome, by which Lords ofMannours lay claime to the Commons,
+the strength of Kingly Prerogative, which is that old Law or custome, by which Lords ofMannours lay claime to the Commons,
 which is of no force now to bind the people ofEngland, since the
-Kingly power and of?ce was cast out: and the common people,
+Kingly power and office was cast out: and the common people,
 who have cast out the oppressor, by their purse and pelson,
 have not authorized any as yet, to give away from them their
 purchased freedome; and if any assume a power to give away,
-or withhold this purchased fi'eedome, they are Traytors to this
+or withhold this purchased freedome, they are Traytors to this
 Connnon—Wealth of England: and if they imprison, oppresse, or
 put to death any for standing to maintaine the purchased freed-
 ome, they are murderers and thieves, and no just rulers.
@@ -38,20 +35,18 @@ Therefore in the light of reason and equity, and in the light
 of the National] Covenant, which Parliament and people have
 taken, with joynt consent: all such Prerogative customes, which
 by experience we have found to burden the Nation, ought to be
-cast out, with the Kingly of?ce, and the Land ofEnglancl now
-ought to be a free Land, and a common treasury to all her chil—
-dren, otherwise it cannot properly be called a Common—Wealth.
+cast out, with the Kingly office, and the Land of England now
+ought to be a free Land, and a common treasury to all her children, otherwise it cannot properly be called a Common—Wealth.
 Therefore we justi?e our act of digging upon that hill, to
 make the earth a common treasurie. First, because the earth
-was made by Almighty God, to be a common treasury ofliveli-
-hood for whole mankind in all his branches, without respect of
+was made by Almighty God, to be a common treasury of livelihood for whole mankind in all his branches, without respect of
 persons; and that not any one according to the Word of God
 (which is love) the pure Law of righteousnesse, ought to be
 Lord or landlord over another, but whole mankind was made
 equal], and knit into one body by one spirit of love, which is
 Christ in you the hope of glory, even all the members of mans
 body, called the little world, are united into equality of love, to
-preserve the whole body.   
+preserve the whole body. 
 
 
 

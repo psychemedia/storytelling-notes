@@ -4,4 +4,4 @@ Three dolls
 
 Truth and Story, eg Clare Murphy
 
-Shopkeeper's Bag, Hugh Lupton, Dreamikg of place, p19-22
+Shopkeeper's Bag, Hugh Lupton, Dreaming of place, p19-22

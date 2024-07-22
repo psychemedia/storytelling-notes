@@ -18,7 +18,7 @@ A year passed. The full paunch of Brother Jucundus began to subside ; his fat ch
 
 Come what might, Brother Jucundus felt he must have a fling. He should die without it. Just one jollification in the twelvemonth, and then he would put up for the rest of the year with beans and cabbage, small beer and matins before dawn.
 
-York fair approached. York fair ! of all that is ravish- ing ! The shows of dancing dogs, the whirli-go-rounds, the giantesses and dwarfs, the " spice " stalls, the drinking- booths ! To York fair he must, he would go, if condemned to a bean and a thimbleful of water for fasting dinner ever after.
+York fair approached. York fair ! of all that is ravishing ! The shows of dancing dogs, the whirli-go-rounds, the giantesses and dwarfs, the " spice " stalls, the drinking- booths ! To York fair he must, he would go, if condemned to a bean and a thimbleful of water for fasting dinner ever after.
 And go he did. He managed it in this way : — After dinner the whole community took an hour's sleep. As they rose at midnight and dined at mid-day, this was very necessary, and the Priory was silent, save for snores, from one o'clock to two. At half-past one Brother Jucundus stole to the porter's lodge, found the porter asleep in his chair — so took possession of his keys ; went to the Prior's apartment ; the Prior was asleep ; pocketed a crown from his money-box, and left the Priory.
 
 At two o'clock the community awoke. The porter missed his keys. The Prior missed the crown. All the monks were summoned into the chapter-house, and all missed Brother Jucundus.
@@ -401,7 +401,7 @@ Behind his chair
 For waiting there,  
 Were the two lay brothers—and thus he said:  
 "Now one of you haste to the culprit's cell,  
-“Bring him before us, and guard him well;  
+"Bring him before us, and guard him well;  
 "The other, run quickly and bring me a bell,  
 Bring me also the book which in chapel is read,  
 "With a mark at the *Mass for the Souls of the Dead!*"

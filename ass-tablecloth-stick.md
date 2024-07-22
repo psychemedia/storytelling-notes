@@ -25,6 +25,8 @@ collected by S Baring Gould
 
 pp327-331
 
+TO DO
+
 7. THE ASS, THE TABLE, AND THE STICK .
 ( Yorkshire, West Riding .)
 
@@ -38,11 +40,11 @@ Now I must tell you that near the paternal cottage dwelt a poor widow with an on
 
 Never, till you have the money to keep her,' was the reply,' I have that, father' , said the lad, and going to the ass he pulled its long ears. Well, he pulled and he pulled, till one of them came off in his hands; but Neddy, though he brayed lustily, let fall no halfcrowns or guineas. The father picked up a hayfork and beat his son out of the house. I promise you Ah ! he ran and ran till he came bang against the door; and burst it open , and there he was in a joiner's shop.
 
-' You're a likely lad, ' said the joiner ; serve me for a twelvemonth, and I will pay you well.' So he agreed and served the carpenter for a year and a day. “ Now , said the master, ‘ I will give you your wage ;' and he presented him with a table, telling him he had but to say, ' Table, be covered, and at once it would be spread with an abundant feast.
+'You're a likely lad,' said the joiner ; serve me for a twelvemonth, and I will pay you well.' So he agreed and served the carpenter for a year and a day. 'Now,' said the master, ' I will give you your wage;' and he presented him with a table, telling him he had but to say, ' Table, be covered, and at once it would be spread with an abundant feast.
 
-Jack hitched the table on his back, and away he went with it till he came to the inn. 'Well, host, ' shouted he,' my dinner today, and that of the best. '
+Jack hitched the table on his back, and away he went with it till he came to the inn. 'Well, host,' shouted he, 'my dinner today, and that of the best.'
 
-' Very sorry, but there is nothing in the house but ham and eggs for me !' exclaimed Jack. ' I can do better than that. Come, my table, be covered !'
+'Very sorry, but there is nothing in the house but ham and eggs for me!' exclaimed Jack. 'I can do better than that. Come, my table, be covered!'
 
 At once the table was spread with turkey and sausages, roast mutton, potatoes, and greens. The publican opened his eyes, but said nothing.
 
@@ -59,21 +61,21 @@ The lad set it in the middle of the room, and bade it be covered ;but all in vai
 ' Thank you, ' said the man, and now for what you have done I
 will pay you ;' so saying, he tore a branch from the tree, and fettled it up into a club with his knife.
 
-' There,' exclaimed he ; take this stick , and when you say to it, “ Up stick and fell him ," it will knock anyone down who angers you .'
+' There,' exclaimed he ; take this stick , and when you say to it, " Up stick and fell him ," it will knock anyone down who angers you .'
 
 The lad was overjoyed to get this stick — so away he went with it to the inn, and as soon as the publican appeared, Up stick and fell him !' was his cry. At the word the cudgel flew from his hand and battered the old publican on theback, rapped his head, bruised his arms, tickled his ribs, till he fell groaning on the floor; still the stick belaboured the prostrate man , nor would Jack call it off till he had recovered the stolen ass and table. Then he galloped home on the ass, with the table on his shoulders, and the stick in his hand. When he arrived there his father was dead, so he brought his ass into the stable, and pulled its ears till he had filled the manger with money.
 
-It was soon known through the town that Jack had returned rolling in wealth , and accordingly all the girls in the place set their caps at him . “ Now ,' said Jack, “ I shall marry the richest lass in the place; so to -morrow do you all come in front of my house with your money in your aprons.'
+It was soon known through the town that Jack had returned rolling in wealth , and accordingly all the girls in the place set their caps at him . 'Now ,' said Jack, 'I shall marry the richest lass in the place; so to -morrow do you all come in front of my house with your money in your aprons.'
 
 Next morning the street was full of girls with aprons held out, and gold and silver in them ; but Jack's own sweetheart was among them , and she had neither gold nor silver, naught but two copper pennies, that was all she had.
 
-" Stand aside, lass,' said Jack to her, speaking roughly. " Thou hast no silver nor gold - stand off from the rest.' She obeyed, and the tears ran down her cheeks, and filled her apron with diamonds.
+"Stand aside, lass,' said Jack to her, speaking roughly. 'Thou hast no silver nor gold - stand off 'rom the rest.' She obeyed, and the tears ran down her cheeks, and filled her apron with diamonds.
 
-'Up stick and fell them ,' exclaimed Jack ; whereupon the cudgel leaped up, and running along the line of expectant damsels, knocked them all on the heads and left them senseless on the pavement. Jack took all their money and poured it into his truelove's lap. “ Now , lass,' he exclaimed, thou art the richest, and I shall marry thee.
+'Up stick and fell them,' exclaimed Jack; whereupon the cudgel leaped up, and running along the line of expectant damsels, knocked them all on the heads and left them senseless on the pavement. Jack took all their money and poured it into his truelove's lap. "Now , lass,' he exclaimed, thou art the richest, and I shall marry thee.
 
 Another version obtained in the East Riding :
 
-There was once a poor woodcutter who had three sons. They lived in a great forest and worked hard all day making fagots. The eldest of the three one day declared he was tired of his work, and should go and seek his fortune. He flung down his axe and started at once; he walked on and on till he was tired, and then sat down on a hillside to rest. Just as he was falling asleep, a little man, not so high as his knee, stood before him, and asked where he was going . " To seek my fortune, said the lad. “ Well ' , said the little man, ' go on over yon hills, and you will come to a white house.
+There was once a poor woodcutter who had three sons. They lived in a great forest and worked hard all day making fagots. The eldest of the three one day declared he was tired of his work, and should go and seek his fortune. He flung down his axe and started at once; he walked on and on till he was tired, and then sat down on a hillside to rest. Just as he was falling asleep, a little man, not so high as his knee, stood before him, and asked where he was going . 'To seek my fortune,' said the lad. 'Well' , said the little man, 'go on over yon hills, and you will come to a white house.`
 
 Say Harry -cap hassent you, and you will be admitted .' The boy got up and travelled on till he came to the white house . He said what the little man had bade him, and was at once told to enter . He slept well, and on the morrow, when about to come away,
 
@@ -81,13 +83,13 @@ the people of the house brought him as a present a purse, which had, and always 
 
 One evening when drawing homewards he stayed at an inn.
 
-The landlord's daughter,who brought him refreshments, noticed his purse , and being a witch knew its powers and value. She instructed her mother to make one exactly like it, and in the dead of night, while the lad was fast asleep, she stole into his room , and exchanged the purses.
+The landlord's daughter,who brought him refreshments, noticed his purse , and being a witch knew its powers and value. She instructed her mother to make one exactly like it, and in the dead of night, while the lad was fast asleep, she stole into his room, and exchanged the purses.
 
 The counterfeit purse had one piece in it, just what she took care to charge him for breakfast, so that the defrauded lad did not discover his loss. On his arrival at home, he told the household the good news, and they called in the neighbours to hear it too.
 
-The neighbours did not know how to praise him enough, and at last, in a fit of generosity, he said he would give a piece of money to each. This, of course, he was unable to do. Finding out the miserable cheat, the neighbours loaded him with abuse, and, had not his own folk stood up for him , would have maltreated him in other ways. For what is so despicable as an empty purse ?
+The neighbours did not know how to praise him enough, and at last, in a fit of generosity, he said he would give a piece of money to each. This, of course, he was unable to do. Finding out the miserable cheat, the neighbours loaded him with abuse, and, had not his own folk stood up for him , would have maltreated him in other ways. For what is so despicable as an empty purse?
 
-The poor lad had to take to the woods again, but his example stirred up the second son to seek his fortune also . He set out, met Harry -cap in the same place, was directed to the same white house, and received asa parting gift from its inhabitants a round table ,which at his bidding would immediately be covered with all manner of dainty food. Overjoyed with his treasure, he set off home wards, but staying at the same inn where his brother had tarried , he was in a similar way cheated by the witch -daughter.
+The poor lad had to take to the woods again, but his example stirred up the second son to seek his fortune also. He set out, met Harry -cap in the same place, was directed to the same white house, and received as a parting gift from its inhabitants a round table ,which at his bidding would immediately be covered with all manner of dainty food. Overjoyed with his treasure, he set off home wards, but staying at the same inn where his brother had tarried , he was in a similar way cheated by the witch -daughter.
 
 The neighbours were called in as before, and when disappointed of a promised feast, they cudgelled the poor lad unmercifully.
 
@@ -95,4 +97,4 @@ Now the third son was a silent, thinking lad. He mused over the stories of his t
 
 In the dead of the night he spied the witch - daughter creep into the room, and lay her hand on the stick.
 
-' Stick, bang her ! ' he cried, and the cudgel (as if possessed by the whole Irish nation ) began immediately to thrash the witch all round the room . In vain she begged for mercy till she offered him a purse always containing one piece of money, and a table that would always supply a dinner on demand. He took the treasures and set off homewards cheerily enough, stick in hand, purse in pocket, table over shoulder ; and so he entered the house. Summoning the neighbours as before, they were sumptuously regaled, and after dinner he presented each with the piece of money promised them before. Then he said to them : ' When my brothers returned and could not entertain you as they anticipated, you took no heed of their goodwill in offering you a share of their good fortune, but abused them instead of sharing their sorrow, ' and, turning to the stick , he ex claimed ‘ Bang 'em ! ' So out of the house it drove them , through the streets , and over the bridge, till the bridge bended, and my tale's ended.
+'Stick, bang her!' he cried, and the cudgel (as if possessed by the whole Irish nation ) began immediately to thrash the witch all round the room. In vain she begged for mercy till she offered him a purse always containing one piece of money, and a table that would always supply a dinner on demand. He took the treasures and set off homewards cheerily enough, stick in hand, purse in pocket, table over shoulder ; and so he entered the house. Summoning the neighbours as before, they were sumptuously regaled, and after dinner he presented each with the piece of money promised them before. Then he said to them: 'When my brothers returned and could not entertain you as they anticipated, you took no heed of their goodwill in offering you a share of their good fortune, but abused them instead of sharing their sorrow, and, turning to the stick , he exclaimed ‘Bang 'em!' So out of the house it drove them , through the streets, and over the bridge, till the bridge bended, and my tale's ended.

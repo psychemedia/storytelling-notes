@@ -100,7 +100,7 @@ https://rianaeverly.com/2019/05/15/the-devil-made-me-do-it-diabolus-in-musica/
 
 Paganini
 
-https://scholarworks.iu.edu/journals/index.php/cl/article/view/34959/38148 Me and the Devil": Legends of Niccolo Paganini and Robert Johnson HOLLY EVERETT AND PETER NARVAEZ, Contemporary Legend n.s. 4 (2001):20-47 [ interesting descriptins of paganini ]
+https://scholarworks.iu.edu/journals/index.php/cl/article/view/34959/38148 Me and the Devil": Legends of Niccolo Paganini and Robert Johnson HOLLY EVERETT AND PETER NARVAEZ, Contemporary Legend n.s. 4 (2001):20-47 [ interesting descriptions of paganini ]
 
 file:///Users/tonyhirst/Downloads/[15685292%20-%20Religion%20and%20the%20Arts]%20The%20Devil,%20the%20Violin,%20and%20Paganini_%20The%20Myth%20of%20the%20Violin%20as%20Satan%E2%80%99s%20Instrument.pdf
 via https://brill-com.libezproxy.open.ac.uk/view/journals/rart/16/4/article-p305_1.xml

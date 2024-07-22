@@ -73,7 +73,7 @@ by Ashton, John, b. 1834
 Publication date 1896
 
 https://archive.org/details/wondersofinvisib00math_1
-The wonders of the invisible world: being an account of the tryals of several vvitches, lately excuted [sic] in New-England: and of several remarkable curiosities therein occurring. : Together with I. Observations upon the nature, the number, and the operations of the devils. II. A short narrative of a late outrage committed by a knot of witches in Swede-Land, very much resembling, and so far explaining, that under which New-England has laboured. III. Some councels directing a due improvement of the terrible things lately done by the unusual and amazing range of evil-spirits in New-England. IV. A brief discourse upon those temptations which are the more ordinary devices of Satan.
+The wonders of the invisible world: being an account of the tryals of several witches, lately excuted [sic] in New-England: and of several remarkable curiosities therein occurring. : Together with I. Observations upon the nature, the number, and the operations of the devils. II. A short narrative of a late outrage committed by a knot of witches in Swede-Land, very much resembling, and so far explaining, that under which New-England has laboured. III. Some councels directing a due improvement of the terrible things lately done by the unusual and amazing range of evil-spirits in New-England. IV. A brief discourse upon those temptations which are the more ordinary devices of Satan.
 by Mather, Cotton, 1663-1728
 
 Publication date 1693
@@ -125,7 +125,7 @@ https://www.youtube.com/watch?v=VocpNsFSlvI
 https://www.youtube.com/watch?v=Nn7F5yjsA9M
 
 Beira , goddess of winter / the Cailleach
-WIklipedia "n Scotland and Ireland, the first farmer to finish the grain harvest made a corn dolly, representing the Cailleach (also called "the Carlin or Carline"[19]), from the last sheaf of the crop. The figure would then be tossed into the field of a neighbor who had not yet finished bringing in their grain. The last farmer to finish had the responsibility to take in and care for the corn dolly for the next year, with the implication they'd have to feed and house the hag all winter. Competition was fierce to avoid having to take in the Old Woman.[20]"
+Wikipedia "n Scotland and Ireland, the first farmer to finish the grain harvest made a corn dolly, representing the Cailleach (also called "the Carlin or Carline"[19]), from the last sheaf of the crop. The figure would then be tossed into the field of a neighbor who had not yet finished bringing in their grain. The last farmer to finish had the responsibility to take in and care for the corn dolly for the next year, with the implication they'd have to feed and house the hag all winter. Competition was fierce to avoid having to take in the Old Woman.[20]"
 
 https://www.jstor.org/stable/pdf/1256390.pdf?casa_token=knPSiBTXw0wAAAAA:Dm34W2PoVFunj4fAMRiXP9s_-pxGFRunFddoNiw-rPVauxA4exyKZyDz4qC9twZTlqKFFpyApuAudnqALB3UOQY9co39Aoq7BWkCVkiKaD2eHxcD6XQV
 Legends and Traditions of the Cailleach Bheara or Old Woman (Hag) of Beare
@@ -629,21 +629,21 @@ Ring that makes a happy man sad and a sad man happy. "This too shall pass"
 
 Ring of King Solomon eg in http://www.professorsolomon.com/ringofsolomon.html
 
-> King Solomon was sitting on his throne one morning, And he decided that Benaiah, the captain of the Palace Guard, needed a lesson in humility. So the king summoned Benaiah and gave him an impossible mission to fulfill. “I have heard rumors of a fabulous ring,” said Solomon. “It has a unique power. When a sad man gazes upon it, he becomes happy. But when a happy man gazes upon it, he becomes sad. Find this ring and bring it to me.”
+> King Solomon was sitting on his throne one morning, And he decided that Benaiah, the captain of the Palace Guard, needed a lesson in humility. So the king summoned Benaiah and gave him an impossible mission to fulfill. "I have heard rumors of a fabulous ring,” said Solomon. "It has a unique power. When a sad man gazes upon it, he becomes happy. But when a happy man gazes upon it, he becomes sad. Find this ring and bring it to me.”
 >
 > Benaiah set out in search of the ring. He traveled from town to town, inquiring as to its whereabouts. But no one had ever heard of such a ring. And he was about to give up when he spotted a junk shop, whose proprietor was sitting out front. Benaiah approached the man and described the object of his search.
 >
-> “A ring that cheers the sad and saddens the cheerful?” said the junk dealer. “Come inside.”
+> "A ring that cheers the sad and saddens the cheerful?” said the junk dealer. "Come inside.”
 >
 > They entered the shop. From a boxful of baubles the junk dealer took a plain, silver ring. He engraved some words on it and gave it to Benaiah. Benaiah read the inscription, nodded sagely, and headed back to the palace.
 >
 > Solomon was expecting an unsuccessful—and humbled—Benaiah. So when Benaiah strode in and handed him the ring, the king was taken aback. Inspecting it, he read the inscription—and let out a melancholy sigh.
 >
-> King Solomon removed his costly rings and slipped on the ring from the junk shop. “It was I who needed a lesson in humility,” he said. “This ring has reminded me that wealth and power are fleeting things.”
+> King Solomon removed his costly rings and slipped on the ring from the junk shop. "It was I who needed a lesson in humility,” he said. "This ring has reminded me that wealth and power are fleeting things.”
 >
 > For inscribed on the ring was a Yiddish phrase:
 >
-> GAM ZU YAAVOR (“This too shall pass”)
+> GAM ZU YAAVOR ("This too shall pass”)
 
 
 See also

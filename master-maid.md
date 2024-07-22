@@ -654,7 +654,7 @@ And the apple shares on the stairs replied:
 
 Then the giant knew that the voice was outside the bedroom, and rushed up to find Edgar and his bride, but found they were gone. He rushed to the stable and chose his great horse Dapplegrim and rode after Prince Edgar and the Master-Maid.
 
-They had gone on a good way in front ; but after a time they heard the trampHng of the hoofs of the great horse Dapplegrim, and the Master-Maid said to Prince Edgar:
+They had gone on a good way in front ; but after a time they heard the trampling of the hoofs of the great horse Dapplegrim, and the Master-Maid said to Prince Edgar:
 
 "That is the giant; he will soon overtake us if we do not do something." And she jumped off her horse and bade Prince Edgar do the same.
 

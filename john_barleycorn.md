@@ -26,11 +26,11 @@ Now gentlemen, I do beseech you to hear me speak. I am but a poor man, and have 
 
 The Taylor comes in.
 
-And I shall never be sorry if you either hang, drown, or behead him ; for I am sure he has been the greatest enemy to me for many years past, for as I never loved him so I never cared for his company, and I always loved Master Wheat better than Sir John Barleycorn, yet one time as I was coming home from my work I espied Sir John and two or three good fellows quarrelling, I skipped among them thinking to make them good firends; for why, thought I, should neighbours fall out; but as soon as Sir John saw me take my neighbour's part, he straitway began to quarrel with me and gave me such a thump on the teeth that I fell backwards, and all bewrayed me, broke both my elbows and my yardwand. nay, worse than that, the very same day me wife met with him, and he like an ill-conditioned knave, abused her, insomuch that she learned of him some of his mischievous tricks, and came home so drunk, that though she could scarecely stand, she beat my back and sides blue. Nay, she has now got the way so perfect that I am perswaded she will never leave it; and therefore by my consent you shall put him to the same death that many of my enemies have been put to, that is to snap off his head.
+And I shall never be sorry if you either hang, drown, or behead him ; for I am sure he has been the greatest enemy to me for many years past, for as I never loved him so I never cared for his company, and I always loved Master Wheat better than Sir John Barleycorn, yet one time as I was coming home from my work I espied Sir John and two or three good fellows quarrelling, I skipped among them thinking to make them good friends; for why, thought I, should neighbours fall out; but as soon as Sir John saw me take my neighbour's part, he straitway began to quarrel with me and gave me such a thump on the teeth that I fell backwards, and all bewrayed me, broke both my elbows and my yardwand. nay, worse than that, the very same day me wife met with him, and he like an ill-conditioned knave, abused her, insomuch that she learned of him some of his mischievous tricks, and came home so drunk, that though she could scarcely stand, she beat my back and sides blue. Nay, she has now got the way so perfect that I am perswaded she will never leave it; and therefore by my consent you shall put him to the same death that many of my enemies have been put to, that is to snap off his head.
 
 Mr Wheatley.
 
-Head him, aye hang him too if you please, you shall have my consent, for I am sure he doth deserve it; for I am certain he doth daily and hourly abuse me. I am sure I have been a man that hath oftentimes been highly esteemed both with Lords, Knights and Squires, and none could please him so well as James Wheatley the baker. But now the case is altered, Sir John Barelycron is the man that is highly esteemed in every place. I am still but plain james Wheatleym, and he is now Sir John Barleycorn in every one's mouth, though he has undone many an honest man in England; for the company of Sir John Barleycorn I can prove it to be true, has sorely caused many a man to waste and consume all that ever he had, and more if he can but get it. Nay, he hath caused many a man to sell house and land, and all that ever he had to maintain riot with Sir John Barleycorn. Nay, when men have done all that ever they can, sold all, spent all, and left nothing, yet the fancy they bear to Sir John Barleycorn makes them to rob and steal for money to maintainthemselves in his company. Nay robbing and stealing will not serve sometimes but they will kill and slay, murdering one another for money to keep Sir John Barelycorn company till at last the hangman gets part of them. And this Sir John Barleycorn is the great foundation of all this mischief, and therefore he dereves to lose his head.
+Head him, aye hang him too if you please, you shall have my consent, for I am sure he doth deserve it; for I am certain he doth daily and hourly abuse me. I am sure I have been a man that hath oftentimes been highly esteemed both with Lords, Knights and Squires, and none could please him so well as James Wheatley the baker. But now the case is altered, Sir John Barleycorn is the man that is highly esteemed in every place. I am still but plain James Wheatley, and he is now Sir John Barleycorn in every one's mouth, though he has undone many an honest man in England; for the company of Sir John Barleycorn I can prove it to be true, has sorely caused many a man to waste and consume all that ever he had, and more if he can but get it. Nay, he hath caused many a man to sell house and land, and all that ever he had to maintain riot with Sir John Barleycorn. Nay, when men have done all that ever they can, sold all, spent all, and left nothing, yet the fancy they bear to Sir John Barleycorn makes them to rob and steal for money to maintain themselves in his company. Nay robbing and stealing will not serve sometimes but they will kill and slay, murdering one another for money to keep Sir John Barelycorn company till at last the hangman gets part of them. And this Sir John Barleycorn is the great foundation of all this mischief, and therefore he dereves to lose his head.
 
 Old Noll and Old Nick the Judges.
 
@@ -44,15 +44,15 @@ You know gentlemen, every man is willing to make his case as good as he can, alt
 
 These men complain that Sir John Barleycorn hath undone them all which is false, as I doubt not but to make appear.
 
-I confess my name is Sir John Barleycorn, byut you never new Barleycorn do any harm, but always good, and has relieved as many poor people as any man, and will do so still, if they do not abuse me and my name, as they have, and still do, and take away my good name from me, and instead of calling me Sir John Barleycorn, they nick0name me after my friend and neighbour Malt, and so I came to be abused, and basely belied on; fur it is Mr Malt, if anyone, has done us all this wrong, which they say that I have done.
+I confess my name is Sir John Barleycorn, but you never new Barleycorn do any harm, but always good, and has relieved as many poor people as any man, and will do so still, if they do not abuse me and my name, as they have, and still do, and take away my good name from me, and instead of calling me Sir John Barleycorn, they nickname me after my friend and neighbour Malt, and so I came to be abused, and basely belied on; fur it is Mr Malt, if anyone, has done us all this wrong, which they say that I have done.
 
 Mr Malt
 
 Who I, brother John? indeed, but only that thou art my brother, and I love thee well, or I should hit thee one slap on thy teeth, but now time will come when you and I shall meet again.
 
-Gentlemen, as for my own part I will put the matter to the bench. But first I pray you consider with yourselves that all tradesmen should live, and althiugh I Master Malt so sometimes make a cup of good liquor, and many men come to taste it, yet the fault is neither in me, nor my brother John. No, no, the fault is in such as these which makes this complaint against us, as I shall make appear to you all.
+Gentlemen, as for my own part I will put the matter to the bench. But first I pray you consider with yourselves that all tradesmen should live, and although I, Master Malt, so sometimes make a cup of good liquor, and many men come to taste it, yet the fault is neither in me, nor my brother John. No, no, the fault is in such as these which makes this complaint against us, as I shall make appear to you all.
 
-As in the first place, which of you all can say, but Master Malt can make a cup of good liquor, with the help of a good brewer? And when it is made, it must be sold. the fault is not in the drink or the maker; for I pray which of you all can live without it? But when such as these complain of us, find it to be good, when they have such a greedy mind, that they thnk they shall never have enough for their money; and so Will overcame Wit, and then they begin to quarrel first with each other, and then they abuse me and my brother Sir John, so that in the end we are forced to take them by the topp of the head, and lay them down fast asleep. Then I pray you judge whether we or they are in the fault.
+As in the first place, which of you all can say, but Master Malt can make a cup of good liquor, with the help of a good brewer? And when it is made, it must be sold. the fault is not in the drink or the maker; for I pray which of you all can live without it? But when such as these complain of us, find it to be good, when they have such a greedy mind, that they think they shall never have enough for their money; and so Will overcame Wit, and then they begin to quarrel first with each other, and then they abuse me and my brother Sir John, so that in the end we are forced to take them by the topp of the head, and lay them down fast asleep. Then I pray you judge whether we or they are in the fault.
 
 The Judges.
 
@@ -70,7 +70,7 @@ Publication date 1680
 
 y1r Fobn Barley-Corn.
 
-A Man of Noble blood, and well-beloved 1n England,and hath been a great mains tainer of all England, both rich and poor ; yet now is found guilty of many a sinful act and bloody crime, and therefore he 1s Arraigned and Condemned, and stands to the mercy of the Jury; And if any man has any thing to lay to his Charge, let them appear at the sign of the Three Logger-hbeads in Bacch#s-Court, and there they shall be heard by the two Noble Iudges, Oliver, and Old-Nick, his Holy Father, Given under the Hand and Seals of these two above written, at the sign of the three merry Companions in B:alim, that is to say, poor Robin, merry Tom, and Jack Lackmit,
+A Man of Noble blood, and well-beloved in England,and hath been a great mains tainer of all England, both rich and poor ; yet now is found guilty of many a sinful act and bloody crime, and therefore he is Arraigned and Condemned, and stands to the mercy of the Jury; And if any man has any thing to lay to his Charge, let them appear at the sign of the Three Logger-heads in Bacchus-Court, and there they shall be heard by the two Noble Judges, Oliver, and Old-Nick, his Holy Father, Given under the Hand and Seals of these two above written, at the sign of the three merry Companions in B:alim, that is to say, poor Robin, merry Tom, and Jack Lackmit,
 
 The Tune 1s C1 / Sir Fobn R.: ly Cor Or, 1m of all Td,
 
@@ -80,9 +80,9 @@ ii that you keep the Ale-houſe,
 
 and inerry Company :
 
-Arrend unto my Story, which I fear 1s r00 true,
+Attend unto my Story, which I fear is too true,
 
-It makes my hearr full for! and many doth It ruc-
+It makes my heart full for! and many doth It ruc-
 
 "Tis of a gallant Noble Squire, winch wany know foll well,
 
@@ -106,7 +106,7 @@ And Nick the nimble Taylor, doth cow that he ſhail dye :
 
 Amnl 0 tt rhe Weaver doth complain, With ma'ty Tradeſ-nen more,
 
-i hope their Javour 45 1n vain, therelore they may give Ore.
+i hope their Javour 45 in vain, therefore they may give Ore.
 
 Yet now a little white give car, you that ate [Landers by,
 

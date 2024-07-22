@@ -311,13 +311,13 @@ The young archer went back across the courtyard, and the servants made ready to 
 
 Twice he sank below the surface, borne round with the bubbles and foam of the boiling water. Then he leapt from the cauldron and stood before the Tzar and the Princess. He had become so beautiful a youth that all who saw cried aloud in wonder.
 
-" This is a miracle," says the Tzar. And the Tzar looked at the beautiful young archer, and thought of himself — of his age, of his bent back, and his grey beard, and his toothless gums. " I too will become beautiful," thinks he, and he rose from his throne and clambered into the cauldron, and was boiled to death in a moment.
+"This is a miracle," says the Tzar. And the Tzar looked at the beautiful young archer, and thought of himself — of his age, of his bent back, and his grey beard, and his toothless gums. " I too will become beautiful," thinks he, and he rose from his throne and clambered into the cauldron, and was boiled to death in a moment.
 
-And the end of the story ? They buried the Tzar, and made the young archer Tzar in his place. He married the Princess Vasilissa, and lived many years with her in love and good fellowship. And he built a golden stable for the horse of power and never forgot what he owed to him.
+And the end of the story? They buried the Tzar, and made the young archer Tzar in his place. He married the Princess Vasilissa, and lived many years with her in love and good fellowship. And he built a golden stable for the horse of power and never forgot what he owed to him.
 
 ```
 
-The versions have some overlap — in each case, a single feather from the fire bird (or as Magnus translates it, the "Bird of Light") provides an initial temptation that sets a chain of consequential events in motion. However, the challenges presented by each tale differs from the other and a telling of one version would not necessarily prevent a telling of the other to the same audience at a later event, particularly if the "bird of light" was described in different terms to the "fire-bird". That said, it is possible to combine elements of the two tales to make a hybrid version, and also to simplify the longer Prince Ivam variant by removing its "three brothers" wrapper and cutting straight to the Prince's role in the central component of the story.
+The versions have some overlap — in each case, a single feather from the fire bird (or as Magnus translates it, the "Bird of Light") provides an initial temptation that sets a chain of consequential events in motion. However, the challenges presented by each tale differs from the other and a telling of one version would not necessarily prevent a telling of the other to the same audience at a later event, particularly if the "bird of light" was described in different terms to the "fire-bird". That said, it is possible to combine elements of the two tales to make a hybrid version, and also to simplify the longer Prince Ivan variant by removing its "three brothers" wrapper and cutting straight to the Prince's role in the central component of the story.
 
 The second, shorter tale in that collection resembles the version told by Ransome and can be found in .
 
@@ -327,7 +327,7 @@ The second, shorter tale in that collection resembles the version told by Ransom
 - horse says "ask for pavilion and provisions", Princess on lake, comes to Pavilion, drugged;
 - Princess falls in love with Prince; Princess says wants wedding dress under stone in middle of sea;
 - horse stands on crayfish / lobster, says will let it go if fetches dress; summons other crabs / crayfish / lobsters, gets dress;
-- Princess demands man who pbrought her is place in cauldron of boiling water; humnter asks to see horse one last time; horse says it'll be okay;
+- Princess demands man who brought her is place in cauldron of boiling water; hunter asks to see horse one last time; horse says it'll be okay;
 - hunter comes out of cauldron rejuvenated; Tzars gets in, dies; hunter and Princess marry, live happily ever after
 
 THis version has a nice set up of *"beyond the thrice ninth land, in the thrice tenth kingdom"*, but the Ransome version has the more powerful "horse of power" set-up and some stronger refrains:
@@ -336,7 +336,7 @@ THis version has a nice set up of *"beyond the thrice ninth land, in the thrice 
 - __do not weep / grieve / be afraid. The trouble is not yet ; the trouble is [still] to come.__
 - and a possibility of repeating the core of __If (s)he had been beautiful before, (s)he was lovelier still__
 
-The other version has a neater problem/solution set-up *(I think I heard Cliff Eastabrook or Nell Phoenix tell a more polished still version of this version, combined with some elements of the version of above (e.g. the horse of power); or maybe it was Hugh Lupton, though with his link to Ransome I would have expected him to draw from that version?)*. The tale has a three broethers set up, two of whom betray the third in the lead up to the denoument, but that seems unnecessary to me; the horse of power also gets swapped out for an encounter and a partnership with an empowered wolf; so here's the core of the story in terms of the parallel challenge/solution set-up encountered by Prince Ivan (rather than a hunter) and the Princess is Elena rather than Vasilissa; but easier to frame as a hunter, combined with elements of the Ransome tale:
+The other version has a neater problem/solution set-up *(I think I heard Cliff Eastabrook or Nell Phoenix tell a more polished still version of this version, combined with some elements of the version of above (e.g. the horse of power); or maybe it was Hugh Lupton, though with his link to Ransome I would have expected him to draw from that version?)*. The tale has a three brothers set up, two of whom betray the third in the lead up to the denoument, but that seems unnecessary to me; the horse of power also gets swapped out for an encounter and a partnership with an empowered wolf; so here's the core of the story in terms of the parallel challenge/solution set-up encountered by Prince Ivan (rather than a hunter) and the Princess is Elena rather than Vasilissa; but easier to frame as a hunter, combined with elements of the Ransome tale:
 
 - hunter out in forest, no bird song, sees feather; horse suggests leaving it, it will only lead to trouble and if you do take it back, __things will not go well for you__; but does grab feather;
 - Tzar asks him to fetch the bird __by my sword, your head will no longer sit between your shoulders !__; goes to horse of power, who shakes head — __any trouble you may face is still yet to come; but don't worry, I shall take you to where you need to go__ ;
@@ -345,7 +345,7 @@ The other version has a neater problem/solution set-up *(I think I heard Cliff E
 - tells horse, who replies ; white stone stable; goes to where horse is stabled "but do not touch the golden bridle"; gets horse, then bridle, alarms, caught;
 - let you off if you get the Princess, else head; tells horse, etc
 - Princess sees horse, who talks to her, tricks her to get on, cannot control it...hunter saves her, falls in love, but hunter tells her what he must do...that evening, the princess and the horse of power talk, princess shows the horse her necklace;
-- horse of power pretends to be Princeess, hunter gets horse with gold mane; horse of power escapes;
+- horse of power pretends to be Princess, hunter gets horse with gold mane; horse of power escapes;
 - Princess and gold horse now in possession; hunter takes horse of power pretend to be gold mane horse, gets firebird; horse of power changes back;
 - horse changes into firebird, and the young man presented with a reward; horse returns
 

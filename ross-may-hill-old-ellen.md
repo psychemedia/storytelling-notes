@@ -228,7 +228,7 @@ Markey is one of a large family, and married his second wife, a Gloucestershire 
 
 His old parents live at a village called May Hill, on the west side of Gloucester, where they occupied a small farm.
 
-Some time ago this farmer reported the loss of some £50 from his secret store of savings; and when no clue could be obtained to the thief, the services of a “witch " are said to have been called in.
+Some time ago this farmer reported the loss of some £50 from his secret store of savings; and when no clue could be obtained to the thief, the services of a "witch " are said to have been called in.
 
 Madness Begins.
 

@@ -13,7 +13,7 @@ Things were complicated by the fact that he was __besotted__ with his master's b
 
 Even so, the more she ignored him, the more he fell in love with her. Throughout the cold winter months, the __teasing__ he got from the other apprentices grew unbearable, and the dissatisfaction of the master made him realise that he should seek his fortune elsewhere.
 
-At the end of the year, he __left__. As he made his way out of town, he chanced upon a __violin__, the Devil's favourite instrument. Alhough he'd never played a violin before, it seemed that he was a natural, as talented at music as he wasn't at glassmaking. In no time at all, he was playing to audiences and crowds in towns and villages all over Flanders. Throughout the summer, and the Autumn, his __reputation__ grew. Word got back to his hometown, and Cambrinus was invited to play there for the Winter celebrations.
+At the end of the year, he __left__. As he made his way out of town, he chanced upon a __violin__, the Devil's favourite instrument. Although he'd never played a violin before, it seemed that he was a natural, as talented at music as he wasn't at glassmaking. In no time at all, he was playing to audiences and crowds in towns and villages all over Flanders. Throughout the summer, and the Autumn, his __reputation__ grew. Word got back to his hometown, and Cambrinus was invited to play there for the Winter celebrations.
 
 Things started well enough — who could believe that a failed glassmaker's apprentice could become such a good musician in so short a time? — and as he played, the people danced. And as he played faster, they danced faster. And as they danced faster, he played faster. It was all going so we... until he saw Flandrine...
 
@@ -49,7 +49,7 @@ Ah... Gambrinus hadn't expected *that* sort of an end.
 
 The Devil laughed. "Going by the state of you", he said, "hell on earth?" And he laughed again.
 
-Now Gambrinus had heard of poeple doing __deal__s with the devil, so perhaps that was his way out? After all, he'd already lost pretty much everything. And he would still give anything to find favour with Flandrine. Now if he were wealthy...?
+Now Gambrinus had heard of people doing __deal__s with the devil, so perhaps that was his way out? After all, he'd already lost pretty much everything. And he would still give anything to find favour with Flandrine. Now if he were wealthy...?
 
 "I could certainly help you with that" said the Devil. "How about I give you access to __untold wealth__ for, say, thirty years? And then you give me your soul."
 
@@ -63,7 +63,7 @@ Cards, dice, archery competitions, vinkensport, even *vinkensport* — finch-fig
 
 And Gambrinus' bird sang its refrains, not just with perfect repetition, but far faster than any other bird had ever done before, or even been spoken of doing. But more than that, Gambrinus' bird gave a perfect performance of over 900 times in one hour (950, at least). And so even at vinkensport, Gambrinus would always take first prize, as well as the winnings from a hefty side bet he'd always manage to place too.
 
-Anyway, Gambrinus won competitions with his finch for miles aroud, and with all the other games of skill and chance, he was soon very __wealthy__ indeed.
+Anyway, Gambrinus won competitions with his finch for miles around, and with all the other games of skill and chance, he was soon very __wealthy__ indeed.
 
 When he returned home, he could afford to be seen in all the __best places__ around town. In all the places that Flandrine might be seen. One day he saw her. He was still handsome, although his stare had something of a manic look about it as his eyes darted around the room, looking for any opportunity to try out his luck. But when he saw Flandrine, he was all focus.
 
@@ -75,7 +75,7 @@ Gambrinus turned round to see the Devil standing there, with the __judge in tow_
 
 "I hear that people __drink to forget__..." said the Devil, "and we did say you could have thirty years... And as you can see," he gestured to the Judge, "I am rather *busy* at the moment. You *would not believe* how pedantic these legal types can be over the paperwork..."
 
-So Gambrinus put the rope back in his sack— perhaps he wasn't quite ready for hell just yet — and set off walking back into towm...
+So Gambrinus put the rope back in his sack— perhaps he wasn't quite ready for hell just yet — and set off walking back into town...
 
 He stopped at the first ale house he came to; now, at that time, ale was made from barley, water and yeast, and flavoured with herbs. But rather than making him forget, it made Gambrinus even more depressed. "What do I have to do to make her love me? I love her so much...." And he cried into his pint.
 
@@ -157,5 +157,4 @@ When he came too, he was too embarrassed to go back to collect Gambrinus' soul, 
 
 And so it was that the Devil would have to wait until Gambrinus' life met its natural end, at the ripe old age of a hundred. By that time, he had become something of a fixture at the end of the bar; he still drank every day, his shape had became ever more rotund, and his conversation ever more wooden. So much so, in fact, that when the Devil himself came to collect Gambrinus' soul, he found that that Gambrinus had turned into a __beer barrel__.
 
-And that is the end of the story. Except to say that the Devil had the last laugh, as he so often does. Because Gambrinus is as much a __nobody__ today, as he was at the start of the story. Nobody remembers him as the original King of Beer. Ot at least, perhaps not until now.
-
+And that is the end of the story. Except to say that the Devil had the last laugh, as he so often does. Because Gambrinus is as much a __nobody__ today, as he was at the start of the story. Nobody remembers him as the original King of Beer. Or at least, perhaps not until now.

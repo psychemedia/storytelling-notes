@@ -51,7 +51,7 @@ Death made as if he would perform his wish, and prepared a large and fresh lamp 
 
 The version that appears in Grimm's original 1812 edition is less elaborate, and also differs in the ending: Death shows the Doctor his lamp, and warns the Doctor not to cross him again, but the Doctor continues to live. *In one of my tellings, I used "a chill wind blew between them, and as the doctor's flame spluttered, he clutched his chest in pain. 'Do not cross me again', said Death; and with that, my story ends.". That approach also allows the flame to be blown out...*
 
-One problem with the tale according to Grimm is the question of how the Doctor's actions save lives if the lives are associated with the lamps. What lamp is used to rekindle the lamps of the King and his daughter? Should there be a trade, somewhere, on the Doctor's life? Or perhaps other lamps should extinguished earlier than they might otherwise be, their oil used to top up the king's lamp, and his daughters, according to some sort of conservation principle? Or might lamps that would have otherwiese burned be sacrified, miscarried children of the Doctor's wife, for example?
+One problem with the tale according to Grimm is the question of how the Doctor's actions save lives if the lives are associated with the lamps. What lamp is used to rekindle the lamps of the King and his daughter? Should there be a trade, somewhere, on the Doctor's life? Or perhaps other lamps should extinguished earlier than they might otherwise be, their oil used to top up the king's lamp, and his daughters, according to some sort of conservation principle? Or might lamps that would have otherwise burned be sacrificed, miscarried children of the Doctor's wife, for example?
 
 ...
 
@@ -393,7 +393,7 @@ Three Lamps - Polish folk tales, Sergiej Nowikow
 ---
 
 ??? Godmother Death (B. M. Kulda, Moravian "National Fairy Stories," p. 573 )- 
- “Moravian FolkTales, Stories, Customs, and Beliefs,” collected and written down by Benesh Method Kulda.1 Prague, 1874.
+ "Moravian FolkTales, Stories, Customs, and Beliefs,” collected and written down by Benesh Method Kulda.1 Prague, 1874.
 Some tales in: Myths and Folk-tales of the Russians, Western Slavs, and the Magyars Jeremiah Curtin, but not Godfather Death?
 
 --
@@ -516,11 +516,11 @@ Es war einmal ein armer Mann, der hatte sehr viele Kinder und konnte sie kaum er
 TO DO OCR USING CHATGPT ON p. 94
 
 
-ich Dir aus der Verlegenheit helfen und Pate sein. Geh nur und lasse den Popen zur Taufe rufen, aber sage keinen Menschen, wer der Pate sein wird. Wenn die Leute versammelt sind, werde ich schon kommen.“
+ich Dir aus der Verlegenheit helfen und Pate sein. Geh nur und lasse den Popen zur Taufe rufen, aber sage keinen Menschen, wer der Pate sein wird. Wenn die Leute versammelt sind, werde ich schon kommen."
 
-Der arme Mann ging nach Hause und bestellte die Taufe. Als der Pope angekommen war und die Leute sich versammelt hatten, trat ein schön gekleideter Herr in die Stube, und ließ sich vom Popen als Paten annehmen. Als das Kind getauft war und die Leute sich entfernt hatten, sprach der Tod — denn er war als schöngekleideter Herr erschienen —: „Als Patengeschenk will ich Dir Folgendes mitteilen: Dein Sohn, mein Pate, soll Arzt werden. Wenn er zu Kranken gerufen wird, so soll er allein sehen können, wo ich stehe. Stehe ich bei den Füßen des Kranken, so bleibt er am Leben; stehe ich aber beim Kopfe, so muß er sterben. Durch dies Geheimnis wird er reich und angesehen werden.“ Darauf entfernte sich der Tod. Der Vater und die Mutter starben gar bald und als der Sohn heranwuchs, wurde er Arzt. Wenn er zu Kranken gerufen wurde, wußte er gleich, wie es um das Leben stand, und sagte es gleich ob der Kranke am Leben bleiben oder sterben wird. Dadurch wurde er so beliebt und berühmt, daß alle Kranken nur ihn riefen und so geschah’s, daß er in kurzer Zeit ein sehr reicher Mann wurde.
+Der arme Mann ging nach Hause und bestellte die Taufe. Als der Pope angekommen war und die Leute sich versammelt hatten, trat ein schön gekleideter Herr in die Stube, und ließ sich vom Popen als Paten annehmen. Als das Kind getauft war und die Leute sich entfernt hatten, sprach der Tod — denn er war als schöngekleideter Herr erschienen —: „Als Patengeschenk will ich Dir Folgendes mitteilen: Dein Sohn, mein Pate, soll Arzt werden. Wenn er zu Kranken gerufen wird, so soll er allein sehen können, wo ich stehe. Stehe ich bei den Füßen des Kranken, so bleibt er am Leben; stehe ich aber beim Kopfe, so muß er sterben. Durch dies Geheimnis wird er reich und angesehen werden." Darauf entfernte sich der Tod. Der Vater und die Mutter starben gar bald und als der Sohn heranwuchs, wurde er Arzt. Wenn er zu Kranken gerufen wurde, wußte er gleich, wie es um das Leben stand, und sagte es gleich ob der Kranke am Leben bleiben oder sterben wird. Dadurch wurde er so beliebt und berühmt, daß alle Kranken nur ihn riefen und so geschah’s, daß er in kurzer Zeit ein sehr reicher Mann wurde.
 
-Nach vielen Jahren wurde er aber auch krank, und erblickte den Tod bei seinem Kopfe stehen. Da sagte der Arzt: „Ich danke Dir, daß Du mir stets geholfen und mich zu einem reichen Mann gemacht hast. Aber das möchte ich doch gerne wissen, woher Du weißt, wann ein Mensch sterben soll?“ Der Tod sagte: „Ich will es Dir gleich zeigen, woher ich es weiß, wen ich abholen soll!“ Und er führte den Arzt in seine unterirdische Wohnung, dort öffnete er eine Thür und sie traten in ein unendlich großes Zimmer, wo unzählige Lampen waren, in denen Oel brannte. Da sagte der Tod: „Nun sieh! diese Lampen sind Menschenleben; wenn das Oel verbrennt ist, so komme ich zu dem betreffenden Menschen und hole ihn ab. Sieh, diese ist die Lampe Deiner Frau, die ist beinahe voll, aber Deine dort, geht bald aus!“ Der Arzt sagte: „Ich möchte gerne die Lampe meines Vaters sehen!“ Darauf entgegnete der Tod: „Die ist schon längst in der Kammer; doch ich will Dir gleich holen!“ Als der Tod hinausging, goß der Arzt schnell in seine Lampe und in die seiner Frau aus den übrigen Lampen so viel Oel nach, daß sie voll wurden. Als der Tod zurückkehrte, bemerkte er gleich den Betrug, wurde gar zornig und warf den Arzt hinaus, der nun gesund nach Hause kam und noch lange mit seiner Frau in Glück und Zufriedenheit lebte.
+Nach vielen Jahren wurde er aber auch krank, und erblickte den Tod bei seinem Kopfe stehen. Da sagte der Arzt: „Ich danke Dir, daß Du mir stets geholfen und mich zu einem reichen Mann gemacht hast. Aber das möchte ich doch gerne wissen, woher Du weißt, wann ein Mensch sterben soll?" Der Tod sagte: „Ich will es Dir gleich zeigen, woher ich es weiß, wen ich abholen soll!" Und er führte den Arzt in seine unterirdische Wohnung, dort öffnete er eine Thür und sie traten in ein unendlich großes Zimmer, wo unzählige Lampen waren, in denen Oel brannte. Da sagte der Tod: „Nun sieh! diese Lampen sind Menschenleben; wenn das Oel verbrennt ist, so komme ich zu dem betreffenden Menschen und hole ihn ab. Sieh, diese ist die Lampe Deiner Frau, die ist beinahe voll, aber Deine dort, geht bald aus!" Der Arzt sagte: „Ich möchte gerne die Lampe meines Vaters sehen!" Darauf entgegnete der Tod: „Die ist schon längst in der Kammer; doch ich will Dir gleich holen!" Als der Tod hinausging, goß der Arzt schnell in seine Lampe und in die seiner Frau aus den übrigen Lampen so viel Oel nach, daß sie voll wurden. Als der Tod zurückkehrte, bemerkte er gleich den Betrug, wurde gar zornig und warf den Arzt hinaus, der nun gesund nach Hause kam und noch lange mit seiner Frau in Glück und Zufriedenheit lebte.
 
 ---
 
@@ -691,9 +691,9 @@ As he was walking, his stick in his hand, he first met a stranger, who looked li
 
 "So who are you?"
 
-“I am the good Lord.
+"I am the good Lord.
 
-“You just. Lord God!... No I noni Everywhere, I hear people complaining about you, on earth.
+"You just. Lord God!... No I noni Everywhere, I hear people complaining about you, on earth.
 
 "Why so, please?"
 
@@ -707,7 +707,7 @@ A little further on he met a tall old man with a long white beard.
 
 — Looking for a godfather for my newborn son.
 
-“I am quite willing to act as godfather to him, if you like; does that suit you?
+"I am quite willing to act as godfather to him, if you like; does that suit you?
 
 "Yes, but I must tell you first that I want my son's godfather to be a just man."
 
@@ -759,7 +759,7 @@ Death was held at the baptismal font, and afterwards there was a little meal in 
 
 Before leaving, the godfather said to his friend:
 
-“You are very good people, your wife and you; but you are very poor! As you have chosen me to be the godfather of your âls, I want to express my gratitude to you by revealing a secret that will make you earn a lot of money. You, friend, you are going to become a doctor now, and this is how you should behave: when you are called to a sick person, if you see me at the bedside, you can affirm that you will save him, and give him anything as a remedy, clear water, if you like; he will always survive. If, on the contrary, you see me with my scythe at the foot of the bed, there will be nothing to do, and the patient will surely die, whatever you can do to try to save him.
+"You are very good people, your wife and you; but you are very poor! As you have chosen me to be the godfather of your âls, I want to express my gratitude to you by revealing a secret that will make you earn a lot of money. You, friend, you are going to become a doctor now, and this is how you should behave: when you are called to a sick person, if you see me at the bedside, you can affirm that you will save him, and give him anything as a remedy, clear water, if you like; he will always survive. If, on the contrary, you see me with my scythe at the foot of the bed, there will be nothing to do, and the patient will surely die, whatever you can do to try to save him.
 
 Here, then, is our improvised doctor, putting into practice the system of his friend Death, and predicting, always with certainty, when his patients were to recover or die. As he was never mistaken and as, moreover, the remedies did not cost him dear, since he only gave clear water to his clients, whatever the disease, he was highly sought after and became rich in not much time.
 
@@ -773,7 +773,7 @@ One day Death said to him:
 
 'I'll only go too soon,' replied the doctor, 'because I know that once you're at your house, comrade, you don't come back the way you want.
 
-“Don't worry about that, for I won't detain you until your time has come; you know that I am the just man par excellence.
+"Don't worry about that, for I won't detain you until your time has come; you know that I am the just man par excellence.
 
 So the doctor left one night to do visit his friend. They went for a long time from Company, over hill and dale, crossing arid plains, forests, rivers, rivers and regions completely unknown to the doctor.
 
@@ -827,7 +827,7 @@ The nstcoaiine in the Breton tale
 
 Compare two bad tales. germans the coUection 3. W. Wolf, p. 365, and from the Prœhle collection, n® 13.
 Guillaume Grimm, in his remarks, quotes a German farce by Jacques Ayres (in his Opus theatricum, published after his death, in 1605), which closely resembles the Bessois tale; but the episode of lights is missing. He also mentions as an analog a little poem by Hans Sachs, from i)$3.
-In a collection of Hungarian tales (Gaal Stier, n» 4), same introduction. The poor man does not want Jesus as his godfather, “because he only likes the good. » Episode 4^ lights exists. The poor man, and not his godson, becomes a doctor. This part, which seems altered, is inferior to the corresponding part of the Hessian tale.
+In a collection of Hungarian tales (Gaal Stier, n» 4), same introduction. The poor man does not want Jesus as his godfather, "because he only likes the good. » Episode 4^ lights exists. The poor man, and not his godson, becomes a doctor. This part, which seems altered, is inferior to the corresponding part of the Hessian tale.
 
 In a Sicilian tale, collected by Miss Gonzenbach (n^ 19)» different introduction. Some time after Death was godmother (here it is not like in German and Breton, where Death being masculine , she is "godfather"), she comes to fetch the poor man and takes him to a dark vault where a multitude of lamps are burning, etc. In this tale, like in the Breton tale, the godchild does not become a doctor.
 
@@ -936,7 +936,7 @@ Goes, goes, and what goes next, the bigger cloud pad4 | to the mountains. He no 
 
 V8 (on the one hand, no one can get around me, nor could Afsf me once. But don't even worry about her not flying with me. Well, what are you afraid of! "
 And here she took her hand nicely and led My bottom like a palace. There, as in a beautiful church, full of wax candles plowed the walls hanging: they are still eating while they are getting married; the others are already beating, as beautiful as possible; third, half already burned, no longer reach the flames ^ but it burns and burns silently, less; the wells spill over and overheat.
-Our man sighed from the deep here. ) tora laughed and started asking the same kind: “But, godmother, what are you doing here? Why do you have so many candles? "
+Our man sighed from the deep here. ) tora laughed and started asking the same kind: "But, godmother, what are you doing here? Why do you have so many candles? "
 "Hia, my godfather, that's right. In mine
 lots burn for every person the candle of life.
 The Irish are still born only in the world, those candles now
@@ -955,9 +955,9 @@ And the candle kept catching up on him, only a hundred did not go out. The nice 
 the ground that was stuck to him on the mole, under t
 carried and which dust he dissolved in water and so <
 pit gave. The godfather Smrf told him that he himself:
-choriet nikda and will live until he prays “Ot
+choriet nikda and will live until he prays "Ot
 So he never prayed for him. She also reminds him
 ppmodlU with him, but he nothing. The decay flew on four
 j ^ srípácb k ill. Here a child sits in his way, f
 Ä »F jojTBe. ducats - and cries. „Čo ti ie * í ^ o ^ íXä% í
-- «ro says:“ My father beats me that I do not know * help ^ Wt ^
+- «ro says:" My father beats me that I do not know * help ^ Wt ^

@@ -242,7 +242,7 @@ serving ships of any nation in distress.
 
 
 https://www.gov.uk/guidance/wreck-and-salvage-law
-According to section 255 of the Merchant Shipping Act 1995, the definition of wreck includes “jetsam, flotsam, lagan and derelict found in or on the shores of the sea or any tidal water”.
+According to section 255 of the Merchant Shipping Act 1995, the definition of wreck includes "jetsam, flotsam, lagan and derelict found in or on the shores of the sea or any tidal water”.
 Jetsam describes goods cast overboard to lighten a vessel in danger of sinking. The vessel may still perish.
 Flotsam describes goods lost from a ship which has sunk or otherwise perished. Goods are recoverable because they remain afloat.
 Lagan describes goods cast overboard from a ship which afterwards perishes. The goods are buoyed so they can be recovered.
@@ -256,7 +256,7 @@ William Blackstone, at paragraph 292 of his Commentaries on the Laws of England,
 "Ligan is where they are sunk in the sea, but tied to a cork or buoy in order to be found again."
 
 https://www.beachcombingmagazine.com/blogs/news/flotsam-and-jetsam
-Sir William Blackstone (1723-1780) was an English lawyer, judge, and Tory politician who spent a good amount of time researching and studying jurisprudence and was most famous for writing Commentaries on the Laws of England, which was published in four volumes between 1765 and 1769. He penned these eloquent words about his country’s maritime laws, “...in order to constitute a legal wreck, the goods must come to land. If they continue at sea, the law distinguishes them by the barbarous and uncouth appellations of jetsam, flotsam, and ligan.”
+Sir William Blackstone (1723-1780) was an English lawyer, judge, and Tory politician who spent a good amount of time researching and studying jurisprudence and was most famous for writing Commentaries on the Laws of England, which was published in four volumes between 1765 and 1769. He penned these eloquent words about his country’s maritime laws, "...in order to constitute a legal wreck, the goods must come to land. If they continue at sea, the law distinguishes them by the barbarous and uncouth appellations of jetsam, flotsam, and ligan.”
 Why is the difference important? Because under maritime law, salvaged items may or may not be claimed by the finder depending on whether they are flotsam or jetsam. And determining if debris is flotsam or jetsam rests solely on why it ended up in the water.
 Flotsam, because it was unintentionally cast to the sea, may be claimed by its original owner, and not one who recovers it. Goods or items that float to the surface and eventually to the shore from a sunken vessel may be classified as flotsam. Generally, salvagers may keep the items they find if no one comes forward to lay claim to the found objects but they will have little legal claim to them if the original owners stake a claim. Storied sunken treasure ships, when eventually found, usually make the news as court cases certainly follow. Once ownership is established (typically by the country that owned the ships hundreds of years ago), proving the wreckage was unintentional all but guarantees the flotsam will be returned to its original owner, and rarely to the person who found it.
 Jetsam, because it was intentionally tossed into the water—usually thrown overboard to lighten the load when a ship was in distress—may sometimes be claimed by a lucky rescuer who discovers the discarded items. However, there have been instances where legal claims were successfully made by the jettisoning owner to retrieve their property. 
@@ -497,7 +497,7 @@ laws drafted by the French government
 Many of the rules seek to "protect" the goods as property of their owners / merchants.
 
 
-BUT " A longstanding British law claimed cargo could be taken if no “man or beast” from the ship were living." ?? https://www.history.com/news/wreckers-shipwrecks
+BUT " A longstanding British law claimed cargo could be taken if no "man or beast” from the ship were living." ?? https://www.history.com/news/wreckers-shipwrecks
 
 
 Wrecking - oleron
@@ -629,13 +629,13 @@ issued touching a complaint by Elias Biger, Frederick Campanare, and Bernard de 
 May 26 1314 The like to Master John de Everesdon and John de Westecote, on
 Newcastlc-upon-complaint by John Besecu that, whereas a ship of Remigius de Depe,
 Tyne.
-merchant of Bayonne, freighted with white wines in the duchy [of Aqui- taine] to be carried to the ports of Flanders by the said Remigius de Depe and his men, was driven ashore by tempest near Chale in the Isle of Wight and wrecked, by which a great part of the wine was endangered, and the said Remigius de Depe proved that the ship and wines were his, and after- wards obtained that proof and made his profit therein, Robert de Harslade, John le Walshe and Reymund Arnald having made a plot to injure him, and conspired with certain others at Newport in the same island that Elias Byger, Fretheric de Campane and Bernard de Columiners, unknown men, should lay claim to the ship and wines, and that the said John Besecu should be indicted of having committed a theft of the wines from them, as if those wines had been their property when they were not, and as if Remigius de Depe had not proved that the ship and wines were his, procured his capture and detention for a long time in prison at Winchester until accord- ing to the law and custom of the realm he was acquitted : the justices are to enquire fully into these allegations by oath of good men of the county of Southampton. By fine of 40s.
+merchant of Bayonne, freighted with white wines in the duchy [of Aqui- taine] to be carried to the ports of Flanders by the said Remigius de Depe and his men, was driven ashore by tempest near Chale in the Isle of Wight and wrecked, by which a great part of the wine was endangered, and the said Remigius de Depe proved that the ship and wines were his, and after- wards obtained that proof and made his profit therein, Robert de Harslade, John le Walshe and Reymund Arnald having made a plot to injure him, and conspired with certain others at Newport in the same island that Elias Byger, Fretheric de Campane and Bernard de Columiners, unknown men, should lay claim to the ship and wines, and that the said John Besecu should be indicted of having committed a theft of the wines from them, as if those wines had been their property when they were not, and as if Remigius de Depe had not proved that the ship and wines were his, procured his capture and detention for a long time in prison at Winchester until according to the law and custom of the realm he was acquitted: the justices are to enquire fully into these allegations by oath of good men of the county of Southampton. By fine of 40s.
 
 https://archive.org/details/calendarofpatent05grea Calendar of the patent rolls preserved in the Public Record Office : Edward II, A.D. 1307-[1327]
 
 
 
-Calendar of the patent rolls preserved in the Public Record Office : Edward II, A.D. vol 3
+Calendar of the patent rolls preserved in the Public Record Office: Edward II, A.D. vol 3
 Nov. 22. [1318] York.
 The like to William de Hardenne, Richard de Byflet and John de Burton on com^ilaint by Martin de Bek, merchant of Oporto in Portynggale {PortKx dc Porlyniinalc) and of his fellows, merchants of the same place, that whereas they had laden a ship, called Tlw s/iiji of Ji-sits C/irist tif Oporto (iiaris Jc/inK Christi dc Portii) in that port with goods for conveyance to I'higland and the ship was driven ashore at Brighteston in the Isle of Wight and wrecked, John de Presford, John son of William Gilberd, Robert lo Hagger, Robert Stillc and Adam Stille of Ermewo, with others took and carried away thoir merchandise.
 May 8 [1320]Fulmer 

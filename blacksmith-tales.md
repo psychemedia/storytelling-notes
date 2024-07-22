@@ -7,11 +7,13 @@
 Seumas Macmanus in  The Cosmopolitan  1903-04: Vol 34 Iss 6
 Publication date 1903-04 pp673-8
 
+TO DO
+
 THE Tinker of Tamlacht
 
 SEUMAS MACMANUS
 
-THE Tinker of Tamlacht was a lad, long, long ago, who used to make and fix stills. And there was one day he was going across a soft bog to a place where he had to fix a still, and he was sinking over his head in it every other step he took, and the temper got the better of the poor man, and at last says he: ‘‘May the Devil take me if I come this way again.’’ iTowsemever, he got out of the bog all right at length, and he fixed his still, and he got three shillings for the job.
+THE Tinker of Tamlacht was a lad, long, long ago, who used to make and fix stills. And there was one day he was going across a soft bog to a place where he had to fix a still, and he was sinking over his head in it every other step he took, and the temper got the better of the poor man, and at last says he: "May the Devil take me if I come this way again." iTowsemever??, he got out of the bog all right at length, and he fixed his still, and he got three shillings for the job.
 
 On his way back, he met a poor man, who told him he was in great distress and asked him for help; and the Tinker put his hand in his pocket and reached him one of the three shillings. He hadn’t gone half a mile farther on when another poor man appears before him, and had another great story of distress entirely for him, and asked the Tinker for help. Now the Tinker, for he was a good-natured soul, put his hand in his pocket and reached him another of the shillings, and then he trudged on again; and what would you have of it but afor he covered another half mile of the ground a third poor man appears before him, with a tale of distress, too, and a pitiful face, and begged for help.
 
@@ -63,7 +65,7 @@ The first man he met was the landlord, and he asked the Tinker where he was goin
 
 ‘‘Lookin’ for a sponsor for my child,’’ says the Tinker.
 
-‘“*Will you take me as a sponsor?’’ says the landlord.
+‘"*Will you take me as a sponsor?’’ says the landlord.
 
 ‘*T will not, ’’ says the Tinker ‘for you are a sorry man. You’ve smiles for them that are rich, and nothin’ but growls for them that are poor.’’ And he passed on.
 
@@ -81,7 +83,7 @@ And he took Death home with him. And Death stood sponsor for his child.
 
 ‘‘And how,’’ says the Tinker, says he, ‘tam I to know?’’
 
-‘““T’ll tell you that,’’ says Death. ‘*When you’re brought into a sick-room you will always see me standing either at the head or the foot of the bed. If Iam standing at the bed-foot, you are at liberty to use the bottle and cure the patient, but if you see me standing at the bed-head, then you are not to interfere at your peril; for I have come for that sick man.’’
+‘""T’ll tell you that,’’ says Death. ‘*When you’re brought into a sick-room you will always see me standing either at the head or the foot of the bed. If Iam standing at the bed-foot, you are at liberty to use the bottle and cure the patient, but if you see me standing at the bed-head, then you are not to interfere at your peril; for I have come for that sick man.’’
 
 The Tinker agreed to this, and thanked him right heartily. And then, all at once, he set up for a doctor.
 
@@ -121,13 +123,13 @@ He left Death sticking to the tree for forty years, and during all that time he 
 
 And, after forty years, the Tinker was passing by the tree one day, and he looks at Death sticking to the tree, and says he to Death: ‘‘Is it there you are yet?’’
 
-“If you let me down,’’ says Death, says he, ‘‘I will give you sparings for forty years.’’
+"If you let me down,’’ says Death, says he, ‘‘I will give you sparings for forty years.’’
 
 The Tinker, he agreed ; and he let Death go, and there was plenty dying after that.
 
 At the end of the forty years, Death come to the Tinker and told him his time was up.
 
-‘*Very well and good,’’ says the Tinker, “I’m ready to go with you. Only, we'll go home till I bid good-by to my wife and children first.’’
+‘*Very well and good,’’ says the Tinker, "I’m ready to go with you. Only, we'll go home till I bid good-by to my wife and children first.’’
 
 Death agreed to this; and, when they got into the Tinker’s house, Death told him to hurry up and not be long.
 
@@ -143,7 +145,7 @@ And he took the bit of candle away, and he buried it nineteen feet deep in a bog
 
 And then Death watched that bog for forty years more till the bog wore down to where the bit of candle was; and, when he got it, he burned it out and then set off for the Tinker, and said he would have to come with him now.
 
-“I’m dct: ready and willin’ to come now,’’ says the Tinker, ‘‘but,’’ says he, ‘‘as I’m only too afeard I haven’t given much attention to my soul for the last hundred years or so, I would wish, if it’s not too unreasonable, that you give me time to say three Pater and Aves to try and make my peace before I go with you.”’
+"I’m dct: ready and willin’ to come now,’’ says the Tinker, ‘‘but,’’ says he, ‘‘as I’m only too afeard I haven’t given much attention to my soul for the last hundred years or so, I would wish, if it’s not too unreasonable, that you give me time to say three Pater and Aves to try and make my peace before I go with you.”’
 
 ‘Well, it isn’t unreasonable,’’ says Death, ‘‘and I grant it with a heart and a half.’’
 

@@ -1,6 +1,6 @@
 # Yama and Yami
 
-An originin tale, from Hindu mythology recounting the creation of night. By extension, we might also argue we get the reation of not just time, but also the past as a place for forgetting, and the future as a place for hope.
+An origin tale, from Hindu mythology recounting the creation of night. By extension, we might also argue we get the creation of not just time, but also the past as a place for forgetting, and the future as a place for hope.
 
 ## Yama and Yami, as told by Daniel Morden
 
@@ -37,7 +37,7 @@ It begins with the birth of twins, Yama and Yami, (from Surya (also referred to 
 
 Robert Beer's narrative flows well, but it appears to combine and revise several distinct traditions relating to Yama.
 
-It seems that Yama is perhaps best thought of as the first *mortal*; his brother, Manu, was the first man, the "progenitor of humans". If the gods came down to earth to try to console Yami, they should perhaps be described as taking "bodily form"? And Yama and Yami should be described as the first two mortals(?) to walk the Earth (was Yami mortal?). The narratives of different scriptures perhaps relate slightly different mythologies, so we might we need to stick to one, or (less "authentically"), try to create a combined arrative that is internally consistent, even if it then diverges from the orginals (although ideally, doesn't directly or explicitly conflict with them)).
+It seems that Yama is perhaps best thought of as the first *mortal*; his brother, Manu, was the first man, the "progenitor of humans". If the gods came down to earth to try to console Yami, they should perhaps be described as taking "bodily form"? And Yama and Yami should be described as the first two mortals(?) to walk the Earth (was Yami mortal?). The narratives of different scriptures perhaps relate slightly different mythologies, so we might we need to stick to one, or (less "authentically"), try to create a combined narrative that is internally consistent, even if it then diverges from the originals (although ideally, doesn't directly or explicitly conflict with them)).
 
 The conflict between Yami's desires for her brother are described in the Rig Veda. The [Complete Rig Veda in English (Sakala Shakha), 1896](https://archive.org/details/rigvedacomplete) (a single document combining the two original, separate volumes) by Ralph Thomas Hotchkin Griffith, gives from volume I, [RV, Hymn X.10](https://archive.org/details/rigvedacomplete/page/n1032/mode/1up) the following annotated translation:
 

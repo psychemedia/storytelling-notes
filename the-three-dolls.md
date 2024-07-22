@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=cr7V3diS7yQ
 
 # The Three Dolls
 
-I first heard this tale in a story round at FATE, 2022, and unfortunately didnlt get the name of the person who told it.
+I first heard this tale in a story round at FATE, 2022, and unfortunately didn't get the name of the person who told it.
 
 https://spellbinders.org/the-three-dolls-2/
 https://worldstories.org.uk/reader/the-three-dolls/english/459

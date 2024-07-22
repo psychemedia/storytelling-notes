@@ -149,7 +149,7 @@ Finally, the out with the rooks and ravens was really fumbled, in part because I
 Five (up to seven) part telling:
 
 - Bran and Branwen, the arrival of the Matholwch's ships; the betrothal; and the mutilation of the horses by Efnysien; cliffhanger: how would Matholwcyh respond?
-- the blood price, the departure and the promise to never mention the humilation again; (possible break here); the child, the humiliation of Branwen, the sending of the message, its presentation to Bran; cliff hanger: how would he respond? *or* Bran assembles his fleet and sets off to save his sister;
+- the blood price, the departure and the promise to never mention the humiliation again; (possible break here); the child, the humiliation of Branwen, the sending of the message, its presentation to Bran; cliff hanger: how would he respond? *or* Bran assembles his fleet and sets off to save his sister;
 - the fleet, the chase, the hall, (possible break point here...) the battle; the survivors made their way back to Wales; as to what happened then, we will have to wait for the next part of the tale...
 - the return to Wales, the seven years, the door, the White Castle, the rooks.
 

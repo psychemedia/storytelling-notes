@@ -4,7 +4,7 @@ Whilst I prefer telling tales more or less as I remember hearing them told, keep
 
 Several of the stories I tell are thematically grouped, and if perhaps they started out being recorded here, I then migrate them from this collection into the appropriate thematic collection.
 
-I've also started poking around contemporary reports of historical events, looking for the tales as told at the time that might perhaps lead to a story of how the event played out, or was understaood at the time.
+I've also started poking around contemporary reports of historical events, looking for the tales as told at the time that might perhaps lead to a story of how the event played out, or was understood at the time.
 
 Some of my other storynotes collections:
 

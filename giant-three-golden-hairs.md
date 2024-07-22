@@ -122,7 +122,7 @@ Now the lucky youth soon reached home, and his dear bride was very glad when she
 
 " I was ferried over a river," he replied, " and there I picked it up, for it lies upon the shore like sand."
 
-" Can I not fetch some as well?" asked the King, feel- ing quite covetous.
+" Can I not fetch some as well?" asked the King, feeling quite covetous.
 
 " As much as you like ; there is a ferryman who will row you across, and then you can fill your sacks on the other side."
 
