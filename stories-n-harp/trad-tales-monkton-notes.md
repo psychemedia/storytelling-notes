@@ -16,4 +16,4 @@ __*Sir Orfeo / Sir Orpheo*__ — traditional English romance, based on the class
 
 __STORIES'N'HARP AT VENTNOR FRINGE — *"Tales of Ireland and Wales"*, Tuesday, July 23rd, 2024, 2-3pm, Ingrams Yard, and *"Tales of England and Scotland*", Wednesday, July 24th, 2024, 2-3pm, Ingrams Yard — TICKETS ON SALE SOON.__
 
-Further details, storynotes, extras, &c. at https://tistales.org.uk/about/monty/storiesnharp/
+Further details, storynotes, extras, &c. at https://tistales.org.uk/storiesnharp/
