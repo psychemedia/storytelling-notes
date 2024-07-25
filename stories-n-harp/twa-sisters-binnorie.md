@@ -9,20 +9,24 @@ __`[OPENS WITH JENNI SOLO]`__
 
 The two sisters were the daughters of a rich merchant, a Lord, you might say, you might even call him, "a king", such were the times.
 
+And when their brother, Hugh, came how with the handsome Sir William in tow...
+
 ...
 
-Miller's daughter, dressed simply, calls to her father.
+As the younger sister, was carried downstream, the elder sister made her way back home, alone, explaining that her sister had spurned Sir William and run off with another.
+
+Some little while later, downstream, a miller's daughter, dressed simply, calls to her father.
 
 Body dragged ashore. Fine dress, fine rings on her fingers, a fine necklace round her neck. But no sign of where she had come from, or who she might be.
 
 A passing harper saw the dead, bedraggled body, lying there in its ivory white dress, was taken by her beauty, and vowed to make a song for her. But he had business to attend to, a gig to get to that night, and he hastened on his way.
 
-Some while later, the harper passed that way again. Noted the miller's daughter dressed rather more finely than she had been before, noticed the rings on her fingers, the glint of a fine necklace against her breast.
+Some while later, the harper passed that way again. Noted the miller's daughter dressed rather more finely than she had been before, noticed the rings on her fingers, the glint of __a fine necklace against her breast.__
 
 `(JC extra verse)`  
 *Her body lay for twenty days*  
   *Binnorie, O Binnorie*  
-*Scoured clean by summer and ??.*  
+*Scoured clean by summer and time.*  
   *By the bonny mill-dams of Binnorie.*
 
 As he made his way along the path, a snag of white material caught in a hawthorn bush, an animal run, a scrape, and a small pile of disturbed bones, covered by what looked like long human hair.
@@ -41,17 +45,17 @@ After his set, the harper sat to one side, accepted the food that was offered to
 
 But then, what was that?
 
-__HARP INTRO__
+__`HARP INTRO`__
 
 The small bone harp, it seemed as if it was starting to play itself?
 
-__MORE ON HARP__
+__`MORE ON HARP`__
 
 It seemed as is if was trying to find its own voice?
 
-__EVEN MORE ON HARP__
+__`EVEN MORE ON HARP`__
 
-It seemed as if it were trying to speak, or to sing, or to, to tell out its own story...
+It seemed as if it were trying to speak, or to sing, or to, __to tell out its own story...__
 
 *"O yonder sits my father, the king,*  
 *Binnorie, O Binnorie;*  
@@ -72,8 +76,10 @@ There was an almighty CRACK, and the bone harp shattered into pieces.
 
 And everyone looked, in horror, from the shattered bones...
 
-...to the bridal party...
+...to the parents of the bride...
 
-...to the elder sister.
+...to the stunned, staring eyes of Sir William...
+
+...and to the elder sister.
 
 And that is the end of the story.
