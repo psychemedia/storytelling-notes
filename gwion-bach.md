@@ -407,11 +407,11 @@ Although thou thinkest thou hast no gain,
 Too much grief will bring thee no good:  
 Nor doubt the miracles of the Almighty:  
 Although I am but little, I am highly gifted.  
-From seas, and from mountains,
+From seas, and from mountains,  
 And from the depths of rivers,  
 God brings wealth to the fortunate man.
 
-Elphin of lively qualities,
+Elphin of lively qualities,  
 Thy resolution is unmanly;  
 Thou must not be over sorrowful:  
 Better to trust in God than to forbode ill.  
@@ -578,7 +578,7 @@ I am endeavouring to retrieve
 the loss I may have suffered;  
 complete the attempt, I hope,  
 since Elphin endures trouble  
-in the fortress of Teganwy. `[The ruins of the fort of Teganwy: here are still some remains of it on the northern side of the estuary of the Conwy river.]`
+in the fortress of Teganwy. `[The ruins of the fort of Teganwy: here are still some remains of it on the northern side of the estuary of the Conwy river.]`  
 His confinement may not be over much,  
 strengthened by my muse I am powerful;  
 mighty on my part is what I seek;  
@@ -737,7 +737,7 @@ We regret exceedingly our inability, consistently with our limits, to do justice
 
 The author commences with a description of Cantre y Gwaelod in the beginning of the sixth century, under the sovereignty of Gwyddio Garanhir, king of Caredigion:
 
-The most valuable portion of his dominions was the Great Plain of Gwaelod, an extensive tract of level land, stretching along that part of the sea-coast which now belongs to the counties of Merioneth and Cardigan. This district was populous and highly cultivated. 1t contained sixteen fortified towns, superior to all the towns and cities of the Cymry, excepting Caer Lieon upon Usk; and, like Caer Lleon, they bore in their architecture, their languaze, and their manners, vestiges of past intercourse with the Roman lords of the world. It contained also one of the three privileged ports of the isle of Britain, which was called the Port of Gwythno. This port, we may believe if we please, had not been unknown to the Phoenicians and Carthaginians, when they visited the island for metal, accommodating the inhabitants, in return, with luxuries which they would not otherwise have dreamed of, and which they could very well have done without; of course, in arranging the exchange of what they denominated equivalents, imposing on their simplicity, and taking advantage of their ignorance, according to the approved practice of civilised nations; which they called imparting the blessings of Phenician and Carthaginian light.
+The most valuable portion of his dominions was the Great Plain of Gwaelod, an extensive tract of level land, stretching along that part of the sea-coast which now belongs to the counties of Merioneth and Cardigan. This district was populous and highly cultivated. It contained sixteen fortified towns, superior to all the towns and cities of the Cymry, excepting Caer Lieon upon Usk; and, like Caer Lleon, they bore in their architecture, their languaze, and their manners, vestiges of past intercourse with the Roman lords of the world. It contained also one of the three privileged ports of the isle of Britain, which was called the Port of Gwythno. This port, we may believe if we please, had not been unknown to the Phoenicians and Carthaginians, when they visited the island for metal, accommodating the inhabitants, in return, with luxuries which they would not otherwise have dreamed of, and which they could very well have done without; of course, in arranging the exchange of what they denominated equivalents, imposing on their simplicity, and taking advantage of their ignorance, according to the approved practice of civilised nations; which they called imparting the blessings of Phenician and Carthaginian light.
 
 An embankment of massy stone protected this lowland country from the sea, which was said, in traditions older than the embankment, to have, in occasional springtides, paid short but unwelcome visits to the interior inhabitants, and to have, by slow aggressions, encroached considerably on the land. To prevent the repetition of the first of these inconveniences, and to check the progress of the second, the people of Gwaelod had built the stony rampart, which had withstood the shock of the waves for centuries, when Gwythno began his reign.
 
@@ -762,44 +762,44 @@ As they entered the great hall, which was already blazing with torchlight, they 
 THE CIRCLING OF THE MEAD HORNS. 
 
 Fit. the blue horn, the blue buffalo horn:  
-Natural is mead in the buffalo horn: 
+Natural is mead in the buffalo horn:  
 As the cuckoo in spring, as the lark in the morn,  
-So natural is mead in the buffalo horn. 
+So natural is mead in the buffalo horn.
 
-As the cup of the flower to the bee when he sips, 
+As the cup of the flower to the bee when he sips,  
 Is the full cup of mead to the true Briton’s lips:  
 From the flower-cups of summer, on field and on tree,  
-Our mead cups are filled by the vintager bee. 
+Our mead cups are filled by the vintager bee.
 
-Seithenyn `[The accent is on the second syllable: Seithényn]` ap Seithyn, the generous, the bold, 
+Seithenyn `[The accent is on the second syllable: Seithényn]` ap Seithyn, the generous, the bold,  
 Drinks ‘the wine of the stranger hom vessels of gold; `[Gwin ... o eur... . ANEURIN]`  
 But we from the horn, the blue silver-rimmed horn,  
-Drink the ale and the mead in our fields that were born. 
+Drink the ale and the mead in our fields that were born.
 
 The ale-froth is white, and the mead sparkles bright;  
 They both smile apart, and with smiles they unite `[The mixture of ale and mead made *bradawd*, a favorite drink of the Ancient Britons.]`  
 The mead from the flower; and the ale from the corn,  
-Smile, sparkle, and sing in the buffalo horn. 
+Smile, sparkle, and sing in the buffalo horn.
 
 The horn, the blue horn, cannot stand on its tip;  
-Its path is right on from the hand to the lip: 
+Its path is right on from the hand to the lip:  
 Though the bow! and the wine-cup our tables adorn,  
-More natural the draught from the buffalo horn. 
+More natural the draught from the buffalo horn.
 
 But Seithenyn ap Seithyn, the generous, the bold,  
-Drinks the bright-flowing wine from the fon-cleamine rgold  
-The wine, in the bowl by his lip that is worn, 
+Drinks the bright-flowing wine from the far-gleaming gold  
+The wine, in the bowl by his lip that is worn,  
 Shall be glorious as mead in the buffalo horn.
 
 The horns circle fast, but their fountains will last,  
 As the stream passes ever, and never is past:  
-Exhausted so quickly, replenished so soon, 
-They wax and they wane like the horns of the moon. 
+Exhausted so quickly, replenished so soon,  
+They wax and they wane like the horns of the moon.
 
 Fill high the blue horn, the blue buffalo horn;  
 Fill high the long silver-rimmed buffalo horn:  
 While the roof of the hall by our chorus is torn,  
-Fill, fill to the brim, the deep silver-rimmed horn. 
+Fill, fill to the brim, the deep silver-rimmed horn.
 
 Elphin and Teithrin stood some time on the floor of the hall before they attracted the attention of Seithenyn, who, during the chorus, was tossing and flourishing his golden goblet. The chorus had scarcely ended when he noticed them, and immediately roared aloud, "You are welcome all four." 
 
@@ -821,7 +821,7 @@ The following conversation is worthy the attention of antiquarians, and all thos
 
 "The stonework," said Teithrin, "is sapped and mined: the piles are rotten, broken, and dislocated: the floodgates and sluices are leaky and creaky."
 
-"That is the beauty of it," said Seithenyn. ‘ Some parts of it are rotten, and some parts of it are sound."
+"That is the beauty of it," said Seithenyn. ‘Some parts of it are rotten, and some parts of it are sound."
 
 "It is well," said Elphin, "that some parts are sound: it were better that all were so." 
 "So I have heard some people say before," said Seithenyn; "perverse people, blind to venerable antiquity: that very unamiable sort of people, who are in the habit of indulging their reason. But I say, the parts that are rotten give elasticity to those that are sound: they give them elasticity, elasticity, elasticity. If it were all sound, it would break by its own obstinate stiffness; the soundness is checked by the rottenness, and the stiffness is balanced by the elasticity. There is nothing so dangerous as innovation. See the waves in the equinoctial storms, dashing and clashing, roaring and pouring, spattering and battering, rattling and battling against it. I would not be so presumptuous as to say, I could build any thing that would stand against them half an hour; and here this immortal old work, which God forbid the finger of modern mason should bring into jeopardy, this immortal work has stood for centuries, and will stand for centuries more, if we let it alone. It is well: it works well: let well alone. Cupbearer, fill. It was half rotten when I was born, and that is a conclusive reason why it should be three parts rotten when I die."
@@ -832,7 +832,7 @@ The whole body of the High Commission roared approbation.
 
 "The level of the sea," said Teithrin, "is materially altered."
 
-"The level of the sea!" exclaimed Seithenyn. ‘ Who ever heard of such a thing as altering the level of the sea? Alter the level of that bowl of wine before you, in which, as I sit here, I see a very ugly reflection of your very good-looking face. Alter the level of that; drink up the reflection; let me see the face without the reflection, and leave the sea to level itself."
+"The level of the sea!" exclaimed Seithenyn. "Who ever heard of such a thing as altering the level of the sea? Alter the level of that bowl of wine before you, in which, as I sit here, I see a very ugly reflection of your very good-looking face. Alter the level of that; drink up the reflection; let me see the face without the reflection, and leave the sea to level itself."
 
 "Not to level the embankment," said Teithrin. 
 
@@ -842,14 +842,14 @@ At the conclusion of this scene, the effects of the continued draughts of wine, 
 
 The old bard of the palace, inspired by the awen, seized his harp, and mingled his voice and his music with the uproar of the elements. In this place we have a specimen of a numerous class of ancient Welsh poems, in which each stanza begins with a repetition of the predominant idea, and terminates with a proverb. The basis of the poem is in the Englynion of Llywarch Hén. We regret our limits will not allow us to insert more than the first stanza: 
 
-THE SONG OF THE FOUR WINDS. 
+THE SONG OF THE FOUR WINDS.
 
 Wind from the north: the young spring day  
-Is pleasant on the sunny mead; 
-The merry harps at evening play;; 
-The dance gay youths and maidens lead: 
+Is pleasant on the sunny mead;  
+The merry harps at evening play;  
+The dance gay youths and maidens lead:  
 The thrush makes chorus from the thorn:  
-The mighty drinker fills his horn. 
+The mighty drinker fills his horn.
 
 The song is cut short by a tremendous crash: the sea breaks in; the tower, which had its foot in the sea, falls; the plain of Gwaelod is inundated; Seithenyn leaps into the flood; while his daughter, his visitors, his bard, and such of the bacchanalians as are capable of locomotion, escape along the ridge of the embankment.
 
@@ -867,32 +867,32 @@ Teithrin ap Tathral is despatched to the court of Uther Pendragon, to solicit su
 
 THE SONG OF GWYTHNO ON THE INUNDATION OF THE SEA OVER THE PLAIN OF GWAELOD. GWYDDNAU EI CANT 
 
-PAN DDOAI Y MOR DROS CANTREV Y GWAELLAWD. 
+PAN DDOAI Y MOR DROS CANTREV Y GWAELLAWD.
 
 Stand forth, Seithenyn: winds are high:  
 Look down beneath the lowering sky;  
 Look from the rock; what meets thy sight  
-Nought but the breakers rolling white. 
+Nought but the breakers rolling white.
 
-Stand forth, Seithenyn: winds are still: 
-Look from the rock and heathy hill 
+Stand forth, Seithenyn: winds are still:  
+Look from the rock and heathy hill  
 For Gwythno’s realin: what meets thy view  
-Nought but the ocean's desert blue. 
+Nought but the ocean's desert blue.
 
-Curst be the treacherous mound, that gave 
-A passage to the mining wave: 
+Curst be the treacherous mound, that gave  
+A passage to the mining wave:  
 Curst be the cup, with mead-froth crowned,  
-That charmed from thought the trusted mound. 
+That charmed from thought the trusted mound.
 
-A tumult and a cry to heaven! 
+A tumult and a cry to heaven!  
 ‘The white surf breaks; the mound ts riven:  
 Through the wide rift the ocean-spring  
-Bursts with tumultuous ravaging. 
+Bursts with tumultuous ravaging.
 
-The western ocean’s stormy might 
+The western ocean’s stormy might  
 Is curling o’er the rampart’s height:  
-Destruction strikes with want and seorn  
-Presumption, from abundance born. 
+Destruction strikes with want and scorn  
+Presumption, from abundance born.
 
 Elphin espouses Angharad, and constructs a salmon-weir on the Mawddach, where is found, in a coracle, a male child, who turns out to be the famous bard Taliesin. 
 
@@ -902,14 +902,14 @@ In after years, Taliesin, being on the safe side of prophecy, and writing after 
 
 DYHUDDIANT ELFFIN. THE CONSOLATION OF ELPHIN. 
 
-Lament not, Elphin: do not measure 
-By one brief hour thy loss or gain: 
-‘Thy weir tonight has borne a treasure, 
-Will more than pay thee years of pain. 
-St. Cynllo’s aid will not be vain: 
+Lament not, Elphin: do not measure  
+By one brief hour thy loss or gain:  
+‘Thy weir tonight has borne a treasure,  
+Will more than pay thee years of pain.  
+St. Cynllo’s aid will not be vain:  
 Smooth thy bent brow, and cease to mourn;  
-Thy weir will never bear again 
-Such wealth as it tonight has borne. 
+Thy weir will never bear again  
+Such wealth as it tonight has borne.
 
 Two years after this event, Angharad presented Elphin with a daughter, whom they named Melanghel. The fishery prospered; and the progress ol cultivation and population among the more fertile parts of the mountain districts brought in a little revenue to the old king.
 
@@ -1024,7 +1024,7 @@ There lies a virtue in my tongue.
 While I continue thy protector  
 Thou hast not much to fear;  
 Remembering the names of the Trinity,  
-None shall be able to harm thee."  
+None shall be able to harm thee."
 
 And this was the first poem that Taliesin ever sang, being to console Elphin in his grief for that the produce of the weir was lost, and, what was worse, that all the world would consider that it was through his fault and ill luck.
 
@@ -1238,7 +1238,7 @@ And while he was thus singing his verse near the door, there arose a mighty stor
 
 "I adore the Supreme, Lord of all animation, —  
 Him that supports the heavens. Ruler of every extreme,  
-Him that made the water good for all, 
+Him that made the water good for all,  
 Him who has bestowed each gift, and blesses it; —  
 May abundance of mead be given Maelgwn of Anglesey, who supplies us.  
 From his foaming meadhorns, with the choicest pure liquor.  
@@ -1257,7 +1257,7 @@ With large princely steeds, of beautiful appearance;
 May he yet give me; and at the end,  
 May God of his good will grant me, in honor,  
 A succession of numberless ages, in the retreat of tranquillity.  
-Elphin, knight of mead, late be thy dissolution! "
+Elphin, knight of mead, late be thy dissolution!"
 
 And afterwards he sang the ode which is called "The Excellence of the Bards," which ended with the following verses: —
 
@@ -1272,7 +1272,7 @@ Why should a wheel be round;
 Why should the tongue be gifted with speech  
 Rather than another member?  
 If thy bards, Heinin, be competent,  
-Let them reply to me, Taliesin."  
+Let them reply to me, Taliesin."
 
 And after that he sang the address which is called "The Reproof of the Bards."
 
@@ -1299,8 +1299,8 @@ Tithes or offerings to God they do not pay.
 On holidays or Sundays they do not worship;  
 Vigils or festivals they do not heed.  
 The birds do fly, the fish do swim.  
-The bees collect honey, worms do crawl, 
-Every thing travails to obtain its food. 
+The bees collect honey, worms do crawl,  
+Every thing travails to obtain its food.  
 Except minstrels and lazy useless thieves.  
 I deride neither song nor minstrelsy,  
 For they are given by God to lighten thought;  
