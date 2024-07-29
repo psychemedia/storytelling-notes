@@ -6,6 +6,12 @@ https://en.wikipedia.org/wiki/Lord_Saltoun_and_Auchanachie cf old Maid's walk
 https://mainlynorfolk.info/nic.jones/songs/annachiegordon.html
 
 
+https://forestofdeansocialhistory.co.uk/the-forest-of-dean-miners-riot-of-1831/
+
+https://www.brh.org.uk/site/2020/11/the-forest-of-dean-miners-riot-of-1831/
+
+https://www.brh.org.uk/site/pamphleteer/the-forest-of-dean-miners-riot-of-1831/
+
 ---
 
 --
@@ -111,6 +117,48 @@ Carlisle Patriot - Saturday 10 October 1840
 MURDER AND SUICIDE. A most dreadful murder and suicide were committed in the Forest of Dean oh Monday night, about seven o'clock, by a man of the name of Philip Willis, a foreman in the employ of Messrs. James and Co., of Sydney. Willis held the situation of underground agent in some mines in the Forest of Dean. the property of the Cinderford Iron Company, and was very comfortably off, the cottage in which he resideded, and the orchard adjoining, being his own property; he had also two houses at Bream. The unfortunate man had heen for some time in an unsound state of mind, and about six months ago he became an inmate of the lunatic asylum at Whitchurch, from which establishment he was discherged in about six weeks, with a certificate of cure. On the 10th of May last he cut his throat, but through the skilful attention of Mr. Marsh, surgeon, of Coleford, he recovered. For the last fortnight a man had always slept with him, but on Monday, his wife informed this man that she considered her hushand so much better, that she should not be afraid to occupy the same bed with him. During the whole of Monday, he was excited and nervous, seeming to he afraid of everyone who came near him, and about five o'clock on Monday evening, Willis, his wife, and daughter, a very pretty and most amiable girl, and of whom he was most doatingly fond, sat down to tea together; just before tea he kissed his child, and said. "You don't know, my dear Ann, how I love you." He also knelt duwn and prayed, as he often used to do, that the Lord would strengthen his mind. After tea the daughter went outside the cottage door, and was in the act of chopping sticks to light the fire next morning, when her father, who had taken a hacker (an instrument resembling a bill-hook), went quietly behind her, and as she stooped aimed a deadly blow at the back of her head, and buried the hacker in her skull, which was cut through in a most frightful manner. Immediately on receiving the blow she cried out "Oh, dear! oh, dear?" Her mother, hearing this, rushed out, and was met in the doorway by Willis, who attempted to cut her down. A dreadful struggle ensued between the hushand and the terror-stricken wife, in which the latter received a dreadful cut in the arm, and a deep gash was inflicted on the left shoulder, her gown and under garments were cut through, and her faced bruised, both eyes being blackened and much swollen. Whilst the struggle was going on, the poor girl (wonderful to relate) went to a neighbour's cottage, forty yards distant from the scene of blood. Mr. Marsh, of Coleforf, was soon in attendance, but she died in about an hour after having received the injury. She spoke several times, and asked why her father had not come to her? The neighbours being alarmed, ran to Mrs. Willis's assistance, who, on seeing them, exclaimed, "Run, for your lives, into the orchard; my husband is gone there." They immediately went in search of him, and, horrible to relate, found him at the foot of one of the trees, with his throat cut in a most shocking manner, his right hand grasping the razor. The poor wretch was still alive, but he died in a very few minutes after being discovered. The escape of the wife was almost miraculous, and it was a providential occurrence that his other two children were absent from home on a visit, or it is probable that they, too, would have fallen victims to his fury. His wife says he was a most excellent husband and fond father; indeed, his love for the poor girl who fell by his hand was extreme. He would not even let her go to chapel by herself, fearing she might come to harm.
 
 Willis was fifty-two years of age, and his unfortuante daughter only seventeen.
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18310815/035/0004
+Morning Herald (London) - Monday 15 August 1831
+
+TO DO
+
+GLOUCEESTER ASSIZES; (before Mr. Justice PATTESON.)
+
+FOREST OF DEAN RIOTS.
+
+Warren James, a man of extremely respectable appearance, was indicted for the capital offence of remaining with rioters for one hour after the reading of the proclamation contained in the Riot Act.
+
+Mr. JERVIS, Mr. CAMPBELL, Mr. ALEXANDER, and Mr. TALBOT cohducted the prosecution; Mr. C. PHILLIPS and Mr. PHILLPOTTS the defence.
+
+Mr. JERVIS stated that this was a capital offence, and that to make out the case three things must be pro.7ed--hrst, that there was a riot; 2dly, that proclamation t wae ; and 3dly, that the prisoner and others, to the numb'ei . 6f .2 or more, remained together for an hour after such proclamation. It would appear that, by an Act of Parliament, passed is the year 1808, his Majesty was empowered to enclose 11,000 H s cres In the Forest of Dean, and that, when the Commissioners of the Treastr - ry - Were - of opinion that the timber in such enclosures was suffiiently strong net to be injored by cattle, they had the power of throwing down the enclosures, for the benefit of those who had the rights of common. In the month of May the prisoner, who was a free miner, had sent a letter on the behalf of the free mi'llers to the Surveyor-General of the Forest, asking that the indosures should be opened, and consequences insusd as 'detailed by the following witnesses: — Edward Machin, Esq. said, I am a Magistrate ; I am Surveyor-general df the forest of Dean. In consequence of seeing a notice I published another notice or caution, which was generally distributed and circulated. I sent one to the prisoner. I received a letter purporting to come from the prisoner. I saw him on Sunday the sth of June; I said to him "Hew can you think of misleading persons in the way you are doing, you will bring yourself and others into changer; What cab yea Mean by it. He replied—"We are all right, the forest was given up to us in Parliament last year." I replied, "This is so absurd that if you allow yourselves to be drawn on it will be your own fault." The prisoner a:d, "I have the Act of Parliament at home." On the Wednesday following I went to the prisoner's house; I saw him; he was accompanied by about 12 or 14 persons. I asked him how he could continue to mislead the people. I said to him," You tell one person you have an Act, and another,that you have a Charter—lf you have any documents why do you not produce them?" He said, "I have a Charter, and will fetch it." He went to his house for a minute or two, and then returned with a pick-axe on his shoulder; he went towards the Park-hill enclosure, other persons following him. My brother, Mr. Henry Davis, followed theM ; they took up a position on rising ground; we met our special constables at the enclosure, and small parties joined these who were with the prisoner, and they huzzaed as each party joined. The prisoner and party increased to about 200, about 80 of them having spades, pick-axes, and mattocks, which they flourished about. I put myself between the mob aid the enclosure, and forbad them touching the bank. I commanded them in the King's name to disperse. They paid no attention. There were "eighty at work destroying the enclosures. Thinking I was net strong enough, with the woodman, to'slisperse or apprehend them, I took the last volume of "Barn," and read the Riot Act to them. Before I read it, I commanded silence with a land voice ,several times. The persons cried out, "Well done my lads." This was at about half-past seven o'clock in the morning. Al r. Ducarel, a Magistrate, arrived, and I requested him to read the Riot Act again, and he did so. I left them at about a quarter past eight pulling down the tanks. The prisoner was still with them. I returned about ten, and the mob was then about 300 or4oo. I saw the prisoner again in the course of the day, but I do not recollect the particular times. Much damage had been done, and a mile of fencing pulled down. I did not consider it safe to attempt to apprehend any of them, because our constablea were unarmed. I was not alarmed, and did not consider myself in any personal danger as long as they were allowed to pull down the fences. I considered the property in danger.
+
+Cross-examined by Mr. C. PHILLIPS.—The prisoner has always been a peaceable, well conducted man. I received no personal violence of any kind. The special constables were about 40.
+
+The notices stated were read.
+
+Evidence was given that the prisoner continued with the mob nearly the whole of the day.
+
+The prisoner. in his defence, said that he had left the rioters several times in the course of the day.
+
+Mr. Justice PATTESON summed up the evidence.
+
+Verdict—*Guilty*.
+
+Mr. Justice PATTESON informed the prisoner that his life would be spared, but that he must not expect to escape with a very slight punishment, as outrages of this kind must be put a stop to.
+
+There were other charges against the prisoner for rioting on the three following days, but on these Mr. JERVIS declined offering any evidence.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000342/18310826/009/0003
+Chester Chronicle - Friday 26 August 1831
+
+Law & Assize Intelligence. The Dean Forest Rioters.—Warren James, the leader of the Dean Forest Rioters, was found guilty at Gloucester Assizes, on Saturday, of the capital offence of remaining with rioters one hour after the reading be Riot Act. Mr. Justice told the prisoner his life would spared.
+
+Mestiiyr Kioters.—Richard leirh, one of! Mertliy r rioters, was executed on Saturday, to which' had been respited, give time for inquiry into Lord Melbourne having given attentive conderation to all the circumstances biought under his] nine sincethe trial, decided that there was ground; >r oiid'atim; the sentence. ewis, who was found »f stabbing soldier, persisted in asserting his: inocence to the last.
+
+
+---
 
 
 Amusing aside - "devil's Chapels" in:
