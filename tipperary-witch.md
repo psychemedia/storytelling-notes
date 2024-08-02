@@ -13,6 +13,8 @@ A WITCH—MARVELLOUS REVELATION ! Sarurpay.—If Mrs, Mary Doheny lived in the �
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000998/18640910/038/0003
 Newry Telegraph - Saturday 10 September 1864
 
+Also in https://www.britishnewspaperarchive.co.uk/viewer/bl/0000056/18640909/018/0004 Freeman's Journal - Friday 09 September 1864
+
 A STRANGE CASE OF WITCHERY IN TIPPERARY. It would appear from recent revelations in Carrick-on-Suir that witchery has not been exor- cised there. A remarkable case of its power to unseat rationality has just been brought under the judicial cognisance of the local magistracy, through the energy of Mr. Hy 3.1, and the police. No fewer than seven of them members of the Constabulary force of the conntry—are found to be completely subject to the “black art.” But we cannot wonder that even the matter-of fact community of our Irish police are not proof against the power of a vil- age enchantress, When modern dations have shown that no circle has been found too distin guished—no society too learned or too literary be drawn within the spiritual influence of the world-renowned home, or of the possessor of the famous “ Crystal Bull,” even in the heart of London, and in this the nincteenth century. Some fourteen months ago, a woman named Mary Doheny, the wife of a blind man, appeared in the town of Carrick-on-Suir, professing to be able to reveal fto the living the forms of those supposed to he long ago dead, and among her dupes were two policemen, who, strange to say, implicitly believed in her power, and scrupu- lously obeyed her behests, It is stated that she has “drugged” her victims,  LOTS MORE TO DO
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000435/18640910/106/0004
