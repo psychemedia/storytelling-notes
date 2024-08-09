@@ -64,31 +64,31 @@ II
 
 One day, as the Wolf was out hunting in the forest, he came across a cottage. Outside, a young girl was playing.
 
-"What's your name ? " he asked.
+"What's your name?" he asked.
 
 And she told him. "Renelde".
 
-" You must be tired of living in such a run down place all by yourself ? "
+"You must be tired of living in such a run down place all by yourself?"
 
-" I am accustomed to it, sir; and I am not alone: my grandmother looks after me."
+"I am accustomed to it, sir; and I am not alone: my grandmother looks after me."
 
-" That may be so ; but come to the castle, and I will make you my wife's maid."
+"That may be so; but come to the castle, and I will make you my wife's maid."
 
-But before she could respond, her grandmother had come to the door, and shouted at the Wolf: " get away from here, you know you're not welcome. You just leave her alone". And he rode away.
+But before she could respond, her grandmother had come to the door, and shouted at the Wolf: "get away from here, you know you're not welcome. You just leave her alone". And he rode away.
 
 III
 
 Several years later, the Wolf passed by again.
 
-Renelde was by now turning from the young girl she once was into the woman she would become, and as she gathered eggs from the hens around the small yard, he asked her: " What is your name ?"
+Renelde was by now turning from the young girl she once was into the woman she would become, and as she gathered eggs from the hens around the small yard, he asked her: "What is your name?"
 
 And she told him.
 
-" You must be tired of living in such a run down place ? "
+"You must be tired of living in such a run down place?"
 
-" I am accustomed to it, my lord, but I am happy here, with my grandmother."
+"I am accustomed to it, my lord, but I am happy here, with my grandmother."
 
-" That may be so ; but come to the castle, and I shall make you my wife's lady-in-waiting."
+"That may be so; but come to the castle, and I shall make you my wife's lady-in-waiting."
 
 But Renelde knew the stories, and she knew better than to go up to the castle.
 
@@ -96,7 +96,7 @@ IV
 
 A few months more passed before the Wolf next returned. Renelde, in the full flush of maidenhood, was sitting outside the cottage, spinning hemp.
 
-" You are Renelde," he said. "Come up to the castle; I shall send away the Countess and make you my wife."
+"You are Renelde," he said. "Come up to the castle; I shall send away the Countess and make you my wife."
 
 But many years before, as Renelde's mother lay dying, the Countess had shown much kindness, and helped to take away some of her mother's pain. So even if the Wolf really had wished to marry Renelde, she would always have refused.
 
@@ -108,17 +108,17 @@ It was only a few weeks before the Wolf appeared again, but they had been happy 
 
 This time, Renelde was spinning flax, not hemp.
 
-" What are you spinning ? " he asked.
+"What are you spinning?" he asked.
 
 And she replied: "My wedding shift, sir, if it pleases you?"
 
-" So you are going to be married, then ? "
+"So you are going to be married, then?"
 
-" Yes, sir, by your leave."
+"Yes, sir, by your leave."
 
 For at that time, if there was no father in the house, the permission to marry must come from the lord.
 
-" Then I will give you leave to do so... But on one condition. The churchyard is filled with nettles that grow over all the tombs. Go there and gather the nettles, then spin them into two fine shifts. One shall be your bridal shift... and the other shall be my shroud. For you shall only be married on the day that I am laid in my grave." And with that, the Count turned away with a mocking laugh.
+"Then I will give you leave to do so... But on one condition. The churchyard is filled with nettles that grow over all the tombs. Go there and gather the nettles, then spin them into two fine shifts. One shall be your bridal shift... and the other shall be my shroud. For you shall only be married on the day that I am laid in my grave." And with that, the Count turned away with a mocking laugh.
 
 VI
 
@@ -126,13 +126,13 @@ Renelde sobbed. Never had she heard of anyone spinning nettles. Rebelde cried: t
 
 She went back into the cottage, sobbing and crying. Through her tears, she blurted out what the Wolf had demanded she should do.
 
-Sitting in the corner, her grandmother said: "it is many years since I have heard of anyone spinning nettles... but it used to be done once, and so I am sure it can be done again. "
+Sitting in the corner, her grandmother said: "it is many years since I have heard of anyone spinning nettles... but it used to be done once, and so I am sure it can be done again."
 
-And sitting next to her, an old, old woman, older than the hills, who had known the girl's mother, and her grandmother's mother, and her grandmother's grandmother before her. She had recently taken to visiting again, sitting in the shadows, or later in the day, in the flickering candlelight, as if she were waiting, waiting for something, nodding her head and rarely saying a word. But now she said something: " he is foolish to make you such a bargain."
+And sitting next to her, an old, old woman, older than the hills, who had known the girl's mother, and her grandmother's mother, and her grandmother's grandmother before her. She had recently taken to visiting again, sitting in the shadows, or later in the day, in the flickering candlelight, as if she were waiting, waiting for something, nodding her head and rarely saying a word. But now she said something: "he is foolish to make you such a bargain."
 
-That evening, Renelde's young man came to visit, as he did every evening. When Renelde told him what Burchard had said, he was angry, and asked what he should do: " Would you like me to watch for the Wolf, and split his skull with a blow from my axe ? "
+That evening, Renelde's young man came to visit, as he did every evening. When Renelde told him what Burchard had said, he was angry, and asked what he should do: "Would you like me to watch for the Wolf, and split his skull with a blow from my axe?"
 
-"No," replied Renelde, " there must be no blood shed over my bridal gown. And I have told you how good the Countess was to my mother. But maybe, maybe?, if make the broidal shift, that will be enough."
+"No," replied Renelde, "there must be no blood shed over my bridal gown. And I have told you how good the Countess was to my mother. But maybe, maybe?, if make the broidal shift, that will be enough."
 
 VII
 
@@ -144,13 +144,13 @@ And she wove it and she cut out the pattern, and she hoped that it would be enou
 
 Just as she had finished sewing it, the Wolf passed by again:
 
-" Well," said he, " how are you getting on? "
+"Well," said he, "how are you getting on?"
 
-" Very well, sir" she replied, and showed him her wedding shift. It was made of the finest cloth, of the whitest cloth, that the Count had ever seen.
+"Very well, sir" she replied, and showed him her wedding shift. It was made of the finest cloth, of the whitest cloth, that the Count had ever seen.
 
-Now he had thought such a thing would be impossible, and he grew pale at the sight of it. But he was a proud man, and he replied gruffly, " Very good. Now begin the other."
+Now he had thought such a thing would be impossible, and he grew pale at the sight of it. But he was a proud man, and he replied gruffly, "Very good. Now begin the other."
 
-But just as he had started to ride away, he stopped again, and turned, and said: " this is not right" and the girl thought that he had perhaps changed his mind, that her bridal shift would be enough. But it wasn't: "You should not have to do a task alone. Send your young man up to me at the castle; he also should do something for me...".
+But just as he had started to ride away, he stopped again, and turned, and said: "this is not right" and the girl thought that he had perhaps changed his mind, that her bridal shift would be enough. But it wasn't: "You should not have to do a task alone. Send your young man up to me at the castle; he also should do something for me...".
 
 VIII
 
@@ -170,7 +170,7 @@ The following day, Renelde was sent the news. She had already started on Berchar
 
 She worked even harder and faster than she had before. In the castle, a cold shiver passed over the Count when the messenger reported back what he had seen. As the saying goes, it felt almost as if someone was walking over his grave.
 
-He tried to eat his lunch, but he had no appetite ; he tried to warm himself by the fire, but it was as if it burned with a cold, cold flame.
+He tried to eat his lunch, but he had no appetite; he tried to warm himself by the fire, but it was as if it burned with a cold, cold flame.
 
 All that day he got worse; he went to bed shaking with fever. But he did not sleep; and in the morning, he could not manage to rise.
 
@@ -190,7 +190,7 @@ Again the Count sent his guards, this time to tie her hands, and not lose sight 
 
 But the guards fell asleep, the bonds undid themselves, and the Renelde spun on.
 
-A third time the guards were sent. This time, they seized her, tied her arms and legs together, and a stone to her neck and flung her into the river, its waters swollen by the late rains.  But the ropes untied themselves, and Renelde floated up to the surface, and though she could not swim, she was somehow carried to the land.
+A third time the guards were sent. This time, they seized her, tied her arms and legs together, and a stone to her neck and flung her into the river, its waters swollen by the late rains. But the ropes untied themselves, and Renelde floated up to the surface, and though she could not swim, she was somehow carried to the land.
 
 As Renelde spun on, he Count had every nettle rooted up for three leagues round. But scarcely had they been torn from the soil when they sowed themselves afresh, and grew even as you were looking at them.
 
@@ -212,9 +212,9 @@ So so Renelde promised her, and stopped her spinning. And waited for one month, 
 
 XII
 
-One day, at the market, Renelde saw the Count. She clasped her hands as if in prayer, and cried :
+One day, at the market, Renelde saw the Count. She clasped her hands as if in prayer, and cried:
 
-" My lord, have mercy ! Tell me where he went..."
+"My lord, have mercy! Tell me where he went..."
 
 But the Wolf just turned his head away, and passed on by.
 
@@ -340,7 +340,7 @@ And the chair said: "I'm coming now".
 
 But as the witch waited, there was no sign of Anwen. There were no footsteps on the stairs. The old woman waited; and waited, and waited some more. She looked out of the window.
 
-"Aargghhhh...." she screamed. " Bag of Bones, where are you, get up, get up,  the tree is bare: Anwen has discovered our secret. She's stolen the leaves."
+"Aargghhhh...." she screamed. "Bag of Bones, where are you, get up, get up, the tree is bare: Anwen has discovered our secret. She's stolen the leaves."
 
 She ran down the stairs... Saw the rope, and the collar, empty in the pig sty: "arrghh, she's freed the young man. They're escaping to the forest, that's where I'd go. Get up, get up, and set off after them. Get up, get up, and bring me back whatever you can find".
 
@@ -348,7 +348,7 @@ And so Bag o' Bones pulled on her clothes, and as swift as thought, she set off 
 
 Anwen, and the young man, were running, and running, along the path, through the forest; behind them, they could sense, they could *hear*, the sound of pursuit, getting closer, getting closer...
 
-There was no way they could escape; all they could do was hide: Anwen took out a leaf, tapped  the boy and herself: "you, be a pond; I will be a duck..."
+There was no way they could escape; all they could do was hide: Anwen took out a leaf, tapped the boy and herself: "you, be a pond; I will be a duck..."
 
 Just in time. Around the corner, came Bag of Bones. The footsteps she'd been following through the woods had ended. A bit odd...
 
@@ -378,13 +378,13 @@ But the bee said nothing, just buzzed, and disappeared into the rose.
 
 When she got home: "Well, have you brought me what you found?"
 
-But all Bag o'Bones said was, "I found nothing... a bit odd... the pond had disappeared, but then... nothing..." "Nothing?" "nothing... well there was a little rose bush, and a bee,  a bit out of season, but.."
+But all Bag o'Bones said was, "I found nothing... a bit odd... the pond had disappeared, but then... nothing..." "Nothing?" "nothing... well there was a little rose bush, and a bee, a bit out of season, but.."
 
 "Argghh," cried the witch. "That was them, you *stupid* girl! One petal from that rose, and I'd have had them both. Go and get them... and bring back whatever you can find..."
 
 So off went Bag o' Bones, into the forest, as fast as thought. Anwen and the young man, in human form again, running, running, through the forest, finding their way, sensed something behind them, heard something behind them. Anwen took out another leaf: "you be a tree, I will be an apple."
 
-Just in time, Bag o' bones, following the footsteps through the wood, and then  - nothing...
+Just in time, Bag o' bones, following the footsteps through the wood, and then - nothing...
 
 "Little tree, little tree: did you see a young man, and a young woman, pass by this way?"
 
@@ -402,7 +402,7 @@ Anwen and the young man, in human form again, came to the edge of the forest. Th
 
 The young man ran his way, Anwen went hers.
 
-As she ran, she sensed something behind her, heard something behind her, getting closer, closer, faster than thought. At the last moment, Anwen turned, dropped the leaf The witch, running faster, couldn't stop... stepped on the leaf... and was transformed into a sow. And behind: Bag o' Bones. She stopped — she;'d seen what had happened: looked at Anwen. Looked at the sow. Smiled. Licked her lips. And taking the sow, made her way back to the cottage...
+As she ran, she sensed something behind her, heard something behind her, getting closer, closer, faster than thought. At the last moment, Anwen turned, dropped the leaf. The witch, running faster, couldn't stop... stepped on the leaf... and was transformed into a sow. And behind: Bag o' Bones. She stopped — she;'d seen what had happened: looked at Anwen. Looked at the sow. Smiled. Licked her lips. And taking the sow, made her way back to the cottage...
 
 By whatever magical sense it is that leads us home when we are lost, the landscape ingrained in you when you're a child, familiar, home, the young man made his somesuch way...
 
@@ -464,7 +464,7 @@ The next market day, the girl went to the young hunter's stall. But despite her 
 
 Now if there's one thing, one lesson, that you need to learn from stories, it's to watch out for what not to say when you get to a crossroads.
 
-"Anything?" said a figure that hadn't been there before, appearing out of the shadows. Tall, dark, and as the Brothers Grimm might say, dressed in a long, green coat.  "Anything at all? Then maybe I can help you?" And he smiled.
+"Anything?" said a figure that hadn't been there before, appearing out of the shadows. Tall, dark, and as the Brothers Grimm might say, dressed in a long, green coat. "Anything at all? Then maybe I can help you?" And he smiled.
 
 And she looked at him.
 
@@ -568,7 +568,7 @@ And before he realised what he was doing, he was lifting the violin out of the c
 
 And then he imagined playing the violin... like she could... and he pretended to play.... air violin style...
 
-And he imagined hearing the crowd... and he imagined hearing the violin... it was almost as if he could really hear it.. Father's bones... Speaking to him.... Mother's bones... Calling him... Brother's and sister's tongues and bones... and as he pretended to play faster and faster, the noise got louder and louder... Father's bones...  Mother's bones... Brother's and sister's tongues and bones.
+And he imagined hearing the crowd... and he imagined hearing the violin... it was almost as if he could really hear it.. Father's bones... Speaking to him.... Mother's bones... Calling him... Brother's and sister's tongues and bones... and as he pretended to play faster and faster, the noise got louder and louder... Father's bones... Mother's bones... Brother's and sister's tongues and bones.
 
 And he could imagine seeing his fingers bleed as he played, as hers surely did, and then he saw his fingers were actually bleeding, but when he went to wipe the blood off.. the blood was from the violin... from the strings themselves... from between the.. the bones that made up the instrument, that dreadful instrument and he didn't know if it was him, or her, who screamed first... "What the HELL do you think you are you doing....?"
 
