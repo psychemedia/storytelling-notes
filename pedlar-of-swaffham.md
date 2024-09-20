@@ -28,7 +28,7 @@ Then he said within himself, "I must needs try the issue of it," and so he trudg
 
 Now the third day being come as he still stood and gazed, a shopkeeper hard by spoke to him.
 
-"Friend," said he, "I wonder much at your fruitless standing. Have you no wares to sell? "
+"Friend," said he, "I wonder much at your fruitless standing. Have you no wares to sell?"
 
 "No, indeed," quoth the pedlar.
 
@@ -36,7 +36,7 @@ Now the third day being come as he still stood and gazed, a shopkeeper hard by s
 
 "Not so long as I can keep myself."
 
-"Then what, I pray thee, dost thou want here, and what may thy business be? "
+"Then what, I pray thee, dost thou want here, and what may thy business be?"
 
 "Well, kind sir, to tell the truth, I dreamed that if I came hither, I should hear good news."
 
@@ -417,7 +417,7 @@ The legend has also been current in Lancashire, and in Cornwall.
 
 The Saturday Review of December 28th, 1878, contains an amusing article on dreams, in which the following remarks occur:—
 
-To confess the truth, our thoughts have been turned into this channel by a dream we have lately met with, in faded manuscript, whose interest lies a good deal in the teller and the scene in which it was told. Recalling the saying quoted by distinguished authority that in the days of Whately and his noted compeers the Common Room of Oriel "stank of logic," it is pleasant to find that those high-strung spirits did sometimes unbend, and that the atmosphere was occasionally freshened by topics within the scope and interest of meaner intelligences. The story is headed "A Dream told by Mr. Whately in Oriel Common Room." If it has ever found its way into print, we can only say we never saw it there, though there is a family likeness in all dreams that deal with hidden treasure. A cobbler in Somersetshire dreamt that a person told him that if he would go to London Bridge he would meet with something to his advantage. He dreamt the same the next night, and again the night after. He then determined to go to London Bridge, and walked thither accordingly. When arrived there, he walked about the whole of the first day without anything occurring; the next day was passed in a similar manner. He resumed his place the third day, and walked about till evening, when, giving it up as hopeless, he determined to leave London and return home. At this moment a stranger came up and said to him: "I have seen you for the last three days walking up and down this bridge; may I ask if you are waiting for anyone?" The answer was "No." "Then what is your object in staying here?" The cobbler then frankly told his reason for being there, and the dream that had visited him three successive nights. The stranger then advised him to go home again to his work, and no more pay any attention to dreams. "I myself," he said, "had about six months ago a dream. I dreamt three nights together that, if I would go into Somersetshire, in an orchard, under an apple tree, I should find a pot of gold; but I paid no attention to my dream, and have remained quietly at my business." It immediately occurred to the cobbler that the stranger described his own orchard and his own apple tree. He immediately returned home, dug under the apple tree, and found a pot of gold. After this increase of fortune he was enabled to send his son to school, where the boy learnt Latin. When he came home for the holidays, he one day examined the pot which had contained the gold, on which was some writing. He said, "Father, I can show you what I have learnt at school is of some use." He then translated the Latin inscription on the pot thus: "Look under, and you will find better." They did look under, and a larger quantity of gold was found. As the story is a good one, it would be pleasant to fancy it could possibly be true. '
+To confess the truth, our thoughts have been turned into this channel by a dream we have lately met with, in faded manuscript, whose interest lies a good deal in the teller and the scene in which it was told. Recalling the saying quoted by distinguished authority that in the days of Whately and his noted compeers the Common Room of Oriel "stank of logic," it is pleasant to find that those high-strung spirits did sometimes unbend, and that the atmosphere was occasionally freshened by topics within the scope and interest of meaner intelligences. The story is headed "A Dream told by Mr. Whately in Oriel Common Room." If it has ever found its way into print, we can only say we never saw it there, though there is a family likeness in all dreams that deal with hidden treasure. A cobbler in Somersetshire dreamt that a person told him that if he would go to London Bridge he would meet with something to his advantage. He dreamt the same the next night, and again the night after. He then determined to go to London Bridge, and walked thither accordingly. When arrived there, he walked about the whole of the first day without anything occurring; the next day was passed in a similar manner. He resumed his place the third day, and walked about till evening, when, giving it up as hopeless, he determined to leave London and return home. At this moment a stranger came up and said to him: "I have seen you for the last three days walking up and down this bridge; may I ask if you are waiting for anyone?" The answer was "No." "Then what is your object in staying here?" The cobbler then frankly told his reason for being there, and the dream that had visited him three successive nights. The stranger then advised him to go home again to his work, and no more pay any attention to dreams. "I myself," he said, "had about six months ago a dream. I dreamt three nights together that, if I would go into Somersetshire, in an orchard, under an apple tree, I should find a pot of gold; but I paid no attention to my dream, and have remained quietly at my business." It immediately occurred to the cobbler that the stranger described his own orchard and his own apple tree. He immediately returned home, dug under the apple tree, and found a pot of gold. After this increase of fortune he was enabled to send his son to school, where the boy learnt Latin. When he came home for the holidays, he one day examined the pot which had contained the gold, on which was some writing. He said, "Father, I can show you what I have learnt at school is of some use." He then translated the Latin inscription on the pot thus: "Look under, and you will find better." They did look under, and a larger quantity of gold was found. As the story is a good one, it would be pleasant to fancy it could possibly be true.'
 
 It would be a very hard task to reconcile the truth and edification of this quaint narrative, which at least from the thirteenth to the nineteenth centuries has amused divers and diverse generations of men.
 
@@ -483,7 +483,7 @@ When thus a chap, as he drew near,
 Did ax, 'Good friend, what seek you here,  
 Where I have seen you soon and late?'  
 Hiz dreeam liv him he did relate.  
-' Dreams,' sez the man, 'are empty things,  
+'Dreams,' sez the man, 'are empty things,  
 Mere thoughts that flit on silver'd wings;  
 Unheeded we should let them pass.  
 I've had a dream, and thus it was:  
@@ -510,7 +510,7 @@ T' fahnest gentleman i' t' parish.
 Fooaks wunner'd sair, an' weel tha meet,  
 Whare he gat all hiz ginnees breet!  
 If it wer trew, i' spite o' feeam,  
-It wer te him a lucky dreeam! "
+It wer te him a lucky dreeam!"
 
 This will be found in *Poems in the North Yorkshire Dialect*, by the late John Castillo, Stokesley, 1878. William E. A. Axon
 
@@ -730,7 +730,7 @@ The next stage in the history of this legend shows it to belong to the world's c
 
 "Soon the bridge was silent, and the last to cross it had gone home; and he, notwithstanding his losses, tired out and sleepy, lay down and fell into a doze there; and, while he was dozing, there came by two men, and one of them, standing quite close by him, said to the other, 'The night is fine, the wind gentle, the stars clear! On such a night whoever were to collect the dew would be able to heal the blind.'
 
-' It is true,' answered the other; 'but none know of it.' And they passed on, quietly as they had come. Thereupon up rose the beggared farmer, and with basin and cup set about collecting the dew; and in a very short time performed with it the most wonderful cures; finally curing the daughter of a neighbouring Emperor who had been blind from her birth, and whom her grateful father gave to him at once in marriage, since directly she set eyes on him she loved him." `[This story was communicated by "W.F." to the St. James s Gazette, March 15th, 1888. Its continuation, in order to point a moral, does not belong to the real story, which is contained in the part I have quoted.]`
+'It is true,' answered the other; 'but none know of it.' And they passed on, quietly as they had come. Thereupon up rose the beggared farmer, and with basin and cup set about collecting the dew; and in a very short time performed with it the most wonderful cures; finally curing the daughter of a neighbouring Emperor who had been blind from her birth, and whom her grateful father gave to him at once in marriage, since directly she set eyes on him she loved him." `[This story was communicated by "W.F." to the St. James s Gazette, March 15th, 1888. Its continuation, in order to point a moral, does not belong to the real story, which is contained in the part I have quoted.]`
 
 ![Pedlar of Labeth](images/pedlar-lambeth.png)
 

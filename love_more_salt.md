@@ -13,45 +13,45 @@ Column: At the Sign of the Ship, p441-445.
 
 ...
 
-Folklore bores many just persons so terribly that one must apologise for the following legend. English märchen, or *contes populaires*, or nursery tales, are extremely rare, or, at least, they are very seldom found and published by collectors. The English ballads, as compared with the Scotch, are notably poor and trivial, whatever reason we may invent or discover; and of English tales we know few, save Jack the Giant Killer, Jack and the Bean Stalk, Tom Hickathrift, and Tom Thumb. But Mr. Clodd has discovered, in an odd corner of 'Suffolk Notes and Queries' in the Ipswich Journal, the following very remarkable and curious English märchen. It is well worth reading by anyone who likes a story ; above all, by anyone who cares to study national character in traditional tales and the wanderings of tradition.
+Folklore bores many just persons so terribly that one must apologise for the following legend. English märchen, or *contes populaires*, or nursery tales, are extremely rare, or, at least, they are very seldom found and published by collectors. The English ballads, as compared with the Scotch, are notably poor and trivial, whatever reason we may invent or discover; and of English tales we know few, save Jack the Giant Killer, Jack and the Bean Stalk, Tom Hickathrift, and Tom Thumb. But Mr. Clodd has discovered, in an odd corner of 'Suffolk Notes and Queries' in the Ipswich Journal, the following very remarkable and curious English märchen. It is well worth reading by anyone who likes a story; above all, by anyone who cares to study national character in traditional tales and the wanderings of tradition.
 
 CAP O' RUSHES.
 
 (TOLD BY AN OLD SERVANT TO THE WRITER WHEN A CHILD.)
 
-Well, there was once a very rich gentleman, and he'd three daughters, and he thought to see how fond they was of him. So he says to the first, ' How much do you love me, my dear ?'
+Well, there was once a very rich gentleman, and he'd three daughters, and he thought to see how fond they was of him. So he says to the first, 'How much do you love me, my dear?'
 
 'Why,' says she, 'as I love my life.'
 
-' That's good,' says he.
+'That's good,' says he.
 
-So he says to the second, ' How much do you love me, my dear ?'
+So he says to the second, 'How much do you love me, my dear?'
 
-'Why,' says she, ' better nor all the world.'
+'Why,' says she, 'better nor all the world.'
 
-' That's good,' says he.
+'That's good,' says he.
 
 So he says to the third, 'How much do you love me, my dear?'
 
-' Why, I love you as fresh meat loves salt,' says she.
+'Why, I love you as fresh meat loves salt,' says she.
 
-Well, he were that angry. ' You don't love me at all,' says he, 'and in my house you stay no more.' So he drove her out there and then, and shut the door in her face.
+Well, he were that angry. 'You don't love me at all,' says he, 'and in my house you stay no more.' So he drove her out there and then, and shut the door in her face.
 
 Well, she went away on and on till she came to a fen, and there she gathered a lot of rushes and made them into a cloak, kind o', with a hood, to cover her from head to foot, and to hide her fine clothes. And then she went on and on till she came to a great house.
 
-'Do you want a maid ?' says she.
+'Do you want a maid?' says she.
 
 'No, we'don't,' says they.
 
 'I haint nowhere to go,' says she, 'and I'd ask no wages, and do any sort o' work,” says she. Pets taslie)
 
-' Well,' says they, 'if you like to wash the pots and scrape the saucepans you may stay,' says they.
+'Well,' says they, 'if you like to wash the pots and scrape the saucepans you may stay,' says they.
 
-So she stayed there and washed the pots and scraped the saucepans and did all the dirty work. And because she gave no name they called her ' Cap o' Rushes.'
+So she stayed there and washed the pots and scraped the saucepans and did all the dirty work. And because she gave no name they called her 'Cap o' Rushes.'
 
 Well, one day there was to be a great dance a little way off, and the servants was let to go and look at the grand people. Cap o' Rushes said she was too tired to go, so she stayed at home.
 
-' But when they was gone she offed with her cap o' rushes, and cleaned herself, and went to the dance. And no one there was so finely dressed as her.
+'But when they was gone she offed with her cap o' rushes, and cleaned herself, and went to the dance. And no one there was so finely dressed as her.
 
 Well, who should be there but her master's son, and what should he do but fall in love with her the minute he set eyes on her. He wouldn't dance with anyone else.
 
@@ -71,11 +71,11 @@ But, come the evening, Cap o' Rushes said she was too tired to go with them. How
 
 The master's son had been reckoning on seeing her, and he danced with no one else, and never took his eyes off of her. But, before the dance was over, she slipped off, and home she went, and when the maids came back she framed to be asleep with her cap o' rushes on.
 
-Next day they says to her again, ' Well, Cap o' Rushes, you should ha' been there to see the lady. There she was again, gay and ga', and the young master he never took his eyes off of her.'
+Next day they says to her again, 'Well, Cap o' Rushes, you should ha' been there to see the lady. There she was again, gay and ga', and the young master he never took his eyes off of her.'
 
 Well, there,' says she, 'I should ha' liked to ha' seen her.'
 
-'Well, says they, 'there's a dance again this evening, and you must go with us, for she's sure to be there '
+'Well, says they, 'there's a dance again this evening, and you must go with us, for she's sure to be there'
 
 Well, come the evening, Cap o' Rushes said she was too tired to go, and do what they would she stayed at home. But when they was gone she offed with her cap o' rushes and cleaned herself, and away she went to the dance.
 
@@ -83,19 +83,19 @@ The master's son was rarely glad when he saw her. He danced with none but her an
 
 Well, afore the dance was over off she slipped, and home she went, and when the maids came home she was framing to be asleep with her cap o' rushes on.
 
-Well, next day they says to her, ' There, Cap o' Rushes, you didn't come last night, and now you won't see the lady, for there's no more dances.'
+Well, next day they says to her, 'There, Cap o' Rushes, you didn't come last night, and now you won't see the lady, for there's no more dances.'
 
-' Well, I should ha' rarely liked to ha' seen her,' says she.
+'Well, I should ha' rarely liked to ha' seen her,' says she.
 
 The master's son he tried every way to find out where the lady was gone, but go where he might, and ask whom he might, he never heard nothing about her. And he got worse and worse for the love of her till he had to keep his bed.
 
-'Make some gruel for the young master,' they says to the cook. ' He's dying for love of the lady.' The cook she set about making it when Cap o' Rushes came in.
+'Make some gruel for the young master,' they says to the cook. 'He's dying for love of the lady.' The cook she set about making it when Cap o' Rushes came in.
 
-' What are you a doin' on?' says she.
+'What are you a doin' on?' says she.
 
-'I'm going to make some gruel for the young master,' says the cook, ' for he's dying for love of the lady.'
+'I'm going to make some gruel for the young master,' says the cook, 'for he's dying for love of the lady.'
 
-' Let me make it,' says Cap o' Rushes.
+'Let me make it,' says Cap o' Rushes.
 
 Well, the cook wouldn't at first, but at last she said yes, and Cap o' Rushes made the gruel. And when she had made it she slipped the ring into it on the sly before the cook took it up- stairs.
 
@@ -105,7 +105,7 @@ The young man he drank it and he saw the ring at the bottom.
 
 So up she comes.
 
-' Who made this here gruel?' says he.
+'Who made this here gruel?' says he.
 
 'I did,' says the cook, for she were frightened.
 
@@ -113,14 +113,14 @@ And he looked at her.
 
 'No, you didn't,' says he. 'Say who did it, and you shan't be harmed
 
-' Well, then, 'twas Cap o' Rushes,' says she.
+'Well, then, 'twas Cap o' Rushes,' says she.
 
 'Send Cap o' Rushes here,' says he.
 
 So Cap o' Rushes came.
-' Did you make my gruel?' says he.
+'Did you make my gruel?' says he.
 
-' Yes, I did,' says she.
+'Yes, I did,' says she.
 
 'Where did you get this ring?' says he.
 
@@ -136,7 +136,7 @@ But before the wedding she went to the cook and says she,
 
 'I want you to dress every dish without a mite o' salt.'
 
-' That'll be rarely nasty,' says the cook.
+'That'll be rarely nasty,' says the cook.
 
 'That don't signify,' says she.
 
@@ -144,7 +144,7 @@ But before the wedding she went to the cook and says she,
 
 Well, the wedding-day came, and they was married. And after they was married all the company sat down to their vittles. When they began to eat the meat, that was so tasteless *they couldn't eat it. But Cap o' Rushes' father he tried first one dish and then another, and then he burst out crying.
 
-' What is the matter?' said the master's son to him.
+'What is the matter?' said the master's son to him.
 
 'Oh!' says he, 'I had a daughter. And I asked her how much she loved me. And she said, " As much as fresh meat loves salt.” And I turned her from my door, for I thought she didn't love me. And now I see she loved me best of all. And she may be dead for aught I know.'
 
@@ -154,7 +154,7 @@ And so they was happy ever after.
 
 A. W. T. `[Who was Suffolk Notes and Queries contributor A.W.T. ?]`
 
-How many thousands of years has this legend wandered from mouth to mouth of alien men! First take the name 'Cap o' Rushes.' That answers to the Coat of Rushes, Rashin Coatie, which the Scottish Cinderella wears, in Chambers's ' Popular Traditions of Scotland.' But these rushes come nowhere else, as far as I know, among the disguises of Peau d'Ane, for this heroine of Cap o' Rushes is more like Peau d'Ane (the tale La Fontaine and Perrault rhymed) than like Cinderella. Then take the tests of love. Here is a fragment that was caught up from tradition into the highest heaven of poetry in 'King Lear.' Then the girl's answer, ' As fresh meat loves salt,' is found, Mr. Clodd tells me, in Miss Maivé Stokes's Indian fairy tales (Tale 23). But the Suffolk narrator could not read or write, and is little likely to have plagiarised an idea from Miss Maivé Stokes, whose Indian Ayah, again, never plagiarised from Suffolk. The use of a ring, not a slipper, to cause the recognition, is found in Madame Emmy Schreck's Finnish form of ' Cinderella.' Note how Suffolk fancy economises in miracle: Cap o' Rushes has fine clothes of her own, and needs no friendly beast, no fairy godmother, to provide them for her. We have no king here, but 'a very rich gentleman,' and no ' fairy prince with happy eyes and lighter-footed than the fox,' but merely 'the master's son.' Then how different the position of Cap o' Rushes' father! In Peaw d'Ane he has an unholy passion for the girl, and to escape this she flees into the world. But Suffolk takes a 'King Lear' opening, and ends it happily with an idea from Hindostan. The English, too, is very plain and pleasant; it is a work-a-day, unassuming English story, with the romance reduced to the lowest possible power. Certainly there must be more English märchen, if people happy enough to live in the country would only take a little trouble to collect them.
+How many thousands of years has this legend wandered from mouth to mouth of alien men! First take the name 'Cap o' Rushes.' That answers to the Coat of Rushes, Rashin Coatie, which the Scottish Cinderella wears, in Chambers's 'Popular Traditions of Scotland.' But these rushes come nowhere else, as far as I know, among the disguises of Peau d'Ane, for this heroine of Cap o' Rushes is more like Peau d'Ane (the tale La Fontaine and Perrault rhymed) than like Cinderella. Then take the tests of love. Here is a fragment that was caught up from tradition into the highest heaven of poetry in 'King Lear.' Then the girl's answer, 'As fresh meat loves salt,' is found, Mr. Clodd tells me, in Miss Maivé Stokes's Indian fairy tales (Tale 23). But the Suffolk narrator could not read or write, and is little likely to have plagiarised an idea from Miss Maivé Stokes, whose Indian Ayah, again, never plagiarised from Suffolk. The use of a ring, not a slipper, to cause the recognition, is found in Madame Emmy Schreck's Finnish form of 'Cinderella.' Note how Suffolk fancy economises in miracle: Cap o' Rushes has fine clothes of her own, and needs no friendly beast, no fairy godmother, to provide them for her. We have no king here, but 'a very rich gentleman,' and no 'fairy prince with happy eyes and lighter-footed than the fox,' but merely 'the master's son.' Then how different the position of Cap o' Rushes' father! In Peaw d'Ane he has an unholy passion for the girl, and to escape this she flees into the world. But Suffolk takes a 'King Lear' opening, and ends it happily with an idea from Hindostan. The English, too, is very plain and pleasant; it is a work-a-day, unassuming English story, with the romance reduced to the lowest possible power. Certainly there must be more English märchen, if people happy enough to live in the country would only take a little trouble to collect them.
 
 --
 
