@@ -20,7 +20,7 @@ If there was a land dispute, an "action of ejectment" could be brought by someon
 
 *I don't know if the particular case involved the livery of seisin, but it makes for a more colourful story if it does!*
 
-And so it was that on November 25th, at 10 am, the case of Curtis versus Wade, in the matter of an action of ejectment, was called.
+And so it was that on November 25th, at 10 am, the case of Curtis versus March, in the matter of an action of ejectment, was called.
 
 "The plaintiff's counsel commenced his address to the jury, but as the defendant was not present and no one appeared for him, the learned Judge directed a verdict for the plaintiff. The defendant's counsel then entered the Court and claimed to have the cause tried, on the ground that it had been disposed of before 10 o'clock."
 
@@ -42,10 +42,9 @@ The Exchequer of Pleas ruled in favour of the defendant, allowing them to have "
 
 If the trial is set in Dorchester, to be on Thursday at 10 in Dorchester, then the case will be heard, on Thursday, at 10, in Dorchester, using the local time of that place.
 
+Such is the way of the law in Britain and Ireland, a *Common Law* approach, where judges rulings in the absence of statute, or interpretation of enacted laws and statutes, are the law, Curtis versus March defined "standard time" as used in the courts of Great Britain and Ireland.
 
-Such is the way of the law in Britain and Ireland, a *Common Law* approach, where judges rulings in the absence of statute, or interpretation of enacted laws and statutes, are the law, Curtis versus Wade defined "standard time" as used in the courts of Great Britain and Ireland.
-
-Standard time as London time, as Greenwich mean time, GMT, did not enter the statute book until 1880, and the reign of Queen Victoria, in an August 1880 "Act to remove doubts as to the meaning of Expressions relative to Time occurring in Acts of Parliament, deeds, and other legal instruments".
+Standard time as London time, as Greenwich mean time, GMT, did not enter the [statute book](http://statutes.org.uk/site/the-statutes/nineteenth-century/1880-43-44-victoria-c-9-definition-of-time-act/) until 1880, and the reign of Queen Victoria, in an August 1880 "Act to remove doubts as to the meaning of Expressions relative to Time occurring in Acts of Parliament, deeds, and other legal instruments".
 
 > WHEREAS it is expedient to remove certain doubts as to whether expressions of time occurring in Acts of Parliament, deeds, and other legal instruments relate in England and Scotland to Greenwich time, and in Ireland to Dublin time, or to the mean astronomical time in each locality:
 > 
@@ -54,5 +53,28 @@ Standard time as London time, as Greenwich mean time, GMT, did not enter the sta
 > 1. Whenever any expression of time occurs in any Act of Parliament, deed, or other legal instrument, the time referred shall, unless it is otherwise specifically stated, be held in the case of Great Britain to be Greenwich mean time, and in the case of Ireland, Dublin mean time.
 > 2. This Act may be cited as the Statutes (Definition of Time) Act, 1880.
   
-  
-Reference: [vol. iii. of Hurlstone and Norman's `Exchequer Reports,' p. 866 (1858), https://www.google.co.uk/books/edition/The_Exchequer_Reports/edEsAQAAMAAJ?hl=en&gbpv=1]
+Curtis vs March, Nov. 25, can be found in [vol. iii. of Hurlstone and Norman's `Exchequer Reports,' p. 866 (1858), https://www.google.co.uk/books/edition/The_Exchequer_Reports/edEsAQAAMAAJ?hl=en&gbpv=1]
+
+```{admonition} CURTIS v . MARCH . Nov. 25 , 1858
+:class: dropdown
+
+CURTIS v . MARCH . Nov. 25 , 1858
+
+*The time appointed for the sitting of a Court must be understood as the mean time at the place where the Court sits, and not Greenwich time, unless it be so expressed.*
+
+This was an action of ejectment which was entered for trial before Watson , B., at the last Dorchester Assizes. The time appointed for the sitting of the Court was 10 o'clock A. M., and the learned Judge took his seat on the bench punctually at 10 by the clock in Court. The cause was then called on , and the plaintiff's counsel commenced his address to the jury, but as the defendant was not present and no one appeared for him, the learned Judge directed a verdict for the plaintiff. The defendant's counsel then entered the Court and claimed to have the cause tried, on the ground that it had been disposed of before 10 o'clock.
+
+At that time it wanted one minute and a half to 10 by the town clock . The clock in Court was regulated by Greenwich time, which was some minutes before the true time at Dorchester. The learned Judge having refused the application, *Cole* had obtained a rule nisi for a new trial upon affidavits of the above facts, against which *Slade* and *Kingdon* showed cause . — The sitting of the court was properly regulated by Greenwich time.
+
+[ POLLOCK, C. B. - When it is stated that a court will sit at a particular hour, that is understood by all persons as the time at the place where the court sits. We are as much bound to take judicial notice that a particular place lies east or west of Greenwich , and consequently has a different time from it, as we are to know the days of the year. ] A judge may appoint the sittings of the court by Greenwich time.
+
+[POLLOCK, C. B.- No doubt; but that was not done in this case. Suppose a question arises as to whether a person died at 12 o'clock on a particular day, is that to be determined by the time of the place or Greenwich time ? ] The time to be observed at any place is determined by a resolution of the authorities or general course of the parties at that place. Greenwich time is observed at most places in England through which railways pass, and in some the clocks have two sets of hands, the one showing Greenwich time the other the time of the place.
+
+H. T. Cole appeared to support the rule, but was not called upon .
+
+POLLOCK , C. B .--We are all of opinion that the defendant ought to have an opportunity of trying the cause. The rule will therefore be absolute without costs. It seems to me doubtful whether this application is in consequence of mistake on the part of the defendant or his counsel, for it may be that the Dorchester town clock pointed to Dorchester time, although that in court was regulated by Greenwich time, and that this circumstance was not generally known in Dorchester. I cannot assent to the argument that the town council of any place may by their resolution declare that Greenwich , or any other time, shall be the time of the place; for I cannot help seeing the consequences. The difference between Greenwich time and the real time at Carlisle is several  minutes, and therefore if a town council might determine the time, they might make a man born on a different day from that on which he was really born . Or suppose that by act of parliament a person was bound to go out of office on a particular day, the town council by altering the time might put him out of office to-day instead of to-morrow . So, if a person is entitled to a bonus from an insurance office in the event of his living to a certain period , that must be decided , not by the town council adopting Greenwich time, but by the mean time of the place. Ten o'clock is 10 o'clock according to the time of the place, and the town council cannot say that it is not, but that it is 10 o'clock by Greenwich time. Neither can the time be altered by a rail way company whose railway passes through the place, nor by any person who regulates the clock in the town-hall. A person hearing that the court would sit at 10 o'clock would naturally understand that to mean 10 o'clock by the time of the place , unless the contrary was expressed . In this case, looking to the difference of time (of which we are bound to take judicial notice), the defendant was in court before 10 o'clock .
+
+Watson, B. — On the day when the cause was tried, I came into court punctually at 10 by the clock in the judges' room , which was set at Greenwich time. I proceeded at once with the business. A few * 69]minutes afterwards Mr. Cole came in and stated that it was not yet 10, but I did not hear whether he meant by the mean time of the place or by Greenwich time. That is now explained by the affidavits, from which it appears that two times are kept, the clock in the court being regulated by Greenwich time.
+
+CHANNELL, B., concurred . Rule absolute.
+```
