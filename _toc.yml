@@ -4,6 +4,7 @@ parts:
 - caption: Tales Told
   chapters:
   - file: the-wish-ring
+  - file: axe-porridge-stone-soup
   - file: yama-and-yami
   - file: man-no-story
   - file: knight-york-fish-ring
