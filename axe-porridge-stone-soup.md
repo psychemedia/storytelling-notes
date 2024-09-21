@@ -327,6 +327,7 @@ ST. BERNARD'S SOUP.— Will any reader of 'N. & Q.' kindly give me information w
 Brewers *Dictionary Of Phrase and Fable* of 1870 also identifies "stone soup" as a tale relating to Saint Bernard:
 
 ```{admonition} Stone soup or St. Bernard’s soup, Brewer's, 1870
+:class: dropdown
 https://archive.org/details/dli.ernet.15983/page/867/mode/2up
 Brewers Dictionary Of Phrase and Fable (1870)
 
