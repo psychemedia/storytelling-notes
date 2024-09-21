@@ -341,7 +341,7 @@ The story goes that a beggar asked alms at a lordly mansion, but was told by the
 This story, which was a great favourite in the 16th and 17th centuries, was told with many variations, horseshoes, nails, rams-horns, etc., taking the place of the stone as narrated above.
 ```
 
-This ascription was also picked iup in the following article was widely syndicated throughut the local press; the earliest publication date I have found for it dates to February 25th, 1939, in the *Dumfries and Galloway Standard*:
+This ascription was also picked up in the following article, widely syndicated by various local presses; the earliest publication date I have found for it dates to February 25th, 1939, in the *Dumfries and Galloway Standard*:
 
 ```{admonition} "St Bernard's Soup", *Dumfries and Galloway Standard*, Feb. 1939
 :class: dropdown
