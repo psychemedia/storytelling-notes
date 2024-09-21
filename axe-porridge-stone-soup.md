@@ -42,7 +42,7 @@ The old woman raised both hands in astonishment.
 
 "Axe porridge? Who ever heard the like!"
 
-"I wil show you how to make it. Just give me a pot.’*
+"I wil show you how to make it. Just give me a pot."
 
 The old woman brought a pot, and the soldier washed the axe, put it in the pot, and filling the pot with water, placed it on the fire.
 
@@ -50,7 +50,7 @@ The old woman stared at the soldier, never taking her eyes off him.
 
 The soldier got out a spoon and stirred the water and then tasted it.
 
-"It will soon be ready," said he. "A pity there’s no salt."
+"It will soon be ready," said he. "A pity there's no salt."
 
 "Oh, I have salt. Here, take some."
 
@@ -88,7 +88,7 @@ Where he was, where he wasn't, there was once a poor soldier returning home from
 
 ```
 
-We can also find Scandinavian variants:
+We can also find Scandinavian variants, such as in this tsle of *nail broth*:
 
 ```{admonition} "The Old Woman and the Tramp", in *Fairy tales from the Swedish*, Nils Gabriel Djurklou, 1901
 :class: dropdown
@@ -117,7 +117,7 @@ Just then an old woman came towards him.
 
 "My good woman," said the tramp, "you must not be so cross and hard-hearted, for we are both human beings, and should help one another, it is written."
 
-"Help one another?" said the woman, "help? Did you ever hear such a thing ? Who'll help me, do you think ? I haven't got a morsel in the house! No, you'll have to look for quarters elsewhere," she said.
+"Help one another?" said the woman, "help? Did you ever hear such a thing? Who'll help me, do you think? I haven't got a morsel in the house! No, you'll have to look for quarters elsewhere," she said.
 
 But the tramp was like the rest of his kind; he did not consider himself beaten at the first rebuff. Although the old woman grumbled and complained as much as she could, he was just as persistent as ever, and went on begging and praying like a starved dog, until at last she gave in, and he got permission to lie on the floor for the night.
 
@@ -231,7 +231,7 @@ In *The Sack-full of Newes, 1673: Reprinted from the Rare Original*, William Car
 
 Another
 
-There was a fryer in London, which did use to go often to the house of an old woman, but ever when he came to her house, she hid all the meat she had. On a time this fryer came to her house (bringing certain company with him) and demanded of the wife if she had any meat And she said; Nay. Well, quoth the fryer, have you not a whetstone? Yea (qd the woman); what will you do with it ? Marry, qd he, I would make meat thereof. Then she brought a whetstone. He asked her likewise if she had not a frying-pan. Yea, said she, but what the divil will ye do therewith? Marry (said the fryer), you shall see by and by what I will do with it; and when he had the pan, he set it on the fire, and put the whetstone therein. Cocks body, said the woman, you will burn the pan. No, no, qd the fryer, if you will give me some eggs, it will not burn at all. But she would have had the pan from him, when that she saw it was in danger; yet he would not let her, but still urged her to fetch him some eggs, which she did. Tush, said the fryer, here are not enow, go fetch ten or twelve. So the good wife was constrayned to fetch more, for feare lest the pan should burn; and when he had them, he put them in the pan. Now, qd he, if you have no butter, the pan will burn and the eggs too. So the good wife being very loth to have her pan burnt, and her eggs lost, she fetcht him a dish of butter, the which he put into the pan and made good meat thereof, and brought it to the table, saying: much good may it do you, my Masters; now may you say, you have eaten of a buttered whetstone. Whereat all the company laughed, but the woman was exceeding angry, because the fryer had subtilly beguiled her of her meat.
+There was a fryer in London, which did use to go often to the house of an old woman, but ever when he came to her house, she hid all the meat she had. On a time this fryer came to her house (bringing certain company with him) and demanded of the wife if she had any meat And she said; Nay. Well, quoth the fryer, have you not a whetstone? Yea (qd the woman); what will you do with it? Marry, qd he, I would make meat thereof. Then she brought a whetstone. He asked her likewise if she had not a frying-pan. Yea, said she, but what the divil will ye do therewith? Marry (said the fryer), you shall see by and by what I will do with it; and when he had the pan, he set it on the fire, and put the whetstone therein. Cocks body, said the woman, you will burn the pan. No, no, qd the fryer, if you will give me some eggs, it will not burn at all. But she would have had the pan from him, when that she saw it was in danger; yet he would not let her, but still urged her to fetch him some eggs, which she did. Tush, said the fryer, here are not enow, go fetch ten or twelve. So the good wife was constrayned to fetch more, for feare lest the pan should burn; and when he had them, he put them in the pan. Now, qd he, if you have no butter, the pan will burn and the eggs too. So the good wife being very loth to have her pan burnt, and her eggs lost, she fetcht him a dish of butter, the which he put into the pan and made good meat thereof, and brought it to the table, saying: much good may it do you, my Masters; now may you say, you have eaten of a buttered whetstone. Whereat all the company laughed, but the woman was exceeding angry, because the fryer had subtilly beguiled her of her meat.
 
 ```
 
@@ -244,7 +244,7 @@ https://archive.org/details/sim_ladies-weekly-museum-or-polite-repository-of-amu
 
 Anecdotes
 
-Two travellers, ready to die with hunger thirst, came to a churlish farmer's begging some little matter to satisfy their stomachs. The Mistress of the house, some servants, and children only were at home. "Good people," said the dame, (who as churlish as her husband) "it is but six miles to the next town, where you may every thing you, want, and we have neither bread nor victuals in the house." Said one of the travellers 'as for your bread and victuals, we want neither, can you oblige us with a tolerable large flint stone?' "What for?" 'To make us some soup.' 'Oh! if that be ail,' said the ill-natured Jezebel, 'there are flints enough in the yard, but who the deuce told you a soup was made out of stones?" 'If you will have patience' said the traveller, 'and only assist us with a little water, you shall see'. 'How much water do you want?' 'About a gallon." The maid was immediately ordered to put it on the fire. The traveller then went into the yard, and having, with great seeming circumspection, picked up a stone, washed it as clean as possible, and as soon as the water boiled soused it into the pot. After it had lain about a quarter of an hour, he gets a spoon. and tasting it, calls the landlady; 'Here ma'am, only take a drop, has not it a most excellent favour?' 'A flavour?' cries she, 'the water is just as it was before'. The other traveller now put in his word, 'you have forgot to put in the pot herbs' 'Faith, so I did,' cried his comrade, 'I thought it wanted something.' 'Prythee, good dame, let us have a few pot-herbs out of the garden, [and as the maid was going for them] bring also, added he, a cabbage, some onions, and two or three carrots; I know I never failed of making soup out of a stone in my life.' 'I'll be shot', says the farmer's wife, 'if you'll make it now.' 'You shall see. Come let me have a little salt and pepper.' He now seasoned the water, and after the garden stuff had boiled some time, he tasted the soup again, handing the spoon a second time to the farmer's wife, with, 'How is it at present?' "Why," said she, it is something better; but you'll never make soup of it.' 'Faith!' savs he, smacking his lips, 'I think it is excellent already: have you ever a bit of beef in the house?" 'I don't know but there is,' said she, "about two or three ls of a neck." 'Nothing better— let me have it directly, with half a dozen burnt crusts of bread.' These ingredients were allowed him like the rest After a proper time he declared the soup was ready, and calling for a dish, poured it out, the stone appearing in the middle. Every one tasted, and declared it was excellent. 'Heaven bless you,' cried the farmer's wife, 'let me have a receipt— my good man will be pleased'. 'Give me a piece of paper', said the traveller, and I'll write it down fer you," which he did as follows:— *A Receipt to make Stone Soup.* 'Take a large stone, put it into a sufficient quantity of boiling water: properly season it with pepper and salt; and three or four pounds of good beef, a handful of pot herbs, some onions, a cabbage, and three or four carrots; when the soup is made the stone may be thrown away.'
+Two travellers, ready to die with hunger thirst, came to a churlish farmer's begging some little matter to satisfy their stomachs. The Mistress of the house, some servants, and children only were at home. 'Good people,' said the dame, (who as churlish as her husband) 'it is but six miles to the next town, where you may every thing you, want, and we have neither bread nor victuals in the house.' Said one of the travellers 'as for your bread and victuals, we want neither, can you oblige us with a tolerable large flint stone?' 'What for?' 'To make us some soup.' 'Oh! if that be ail,' said the ill-natured Jezebel, 'there are flints enough in the yard, but who the deuce told you a soup was made out of stones?' 'If you will have patience' said the traveller, 'and only assist us with a little water, you shall see'. 'How much water do you want?' 'About a gallon.' The maid was immediately ordered to put it on the fire. The traveller then went into the yard, and having, with great seeming circumspection, picked up a stone, washed it as clean as possible, and as soon as the water boiled soused it into the pot. After it had lain about a quarter of an hour, he gets a spoon. and tasting it, calls the landlady; 'Here ma'am, only take a drop, has not it a most excellent favour?' 'A flavour?' cries she, 'the water is just as it was before'. The other traveller now put in his word, 'you have forgot to put in the pot herbs' 'Faith, so I did,' cried his comrade, 'I thought it wanted something.' 'Prythee, good dame, let us have a few pot-herbs out of the garden, [and as the maid was going for them] bring also, added he, a cabbage, some onions, and two or three carrots; I know I never failed of making soup out of a stone in my life.' 'I'll be shot', says the farmer's wife, 'if you'll make it now.' 'You shall see. Come let me have a little salt and pepper.' He now seasoned the water, and after the garden stuff had boiled some time, he tasted the soup again, handing the spoon a second time to the farmer's wife, with, 'How is it at present?' 'Why,' said she, 'it is something better; but you'll never make soup of it.' 'Faith!' says he, smacking his lips, 'I think it is excellent already: have you ever a bit of beef in the house?' 'I don't know but there is,' said she, 'about two or three ls of a neck.' 'Nothing better— let me have it directly, with half a dozen burnt crusts of bread.' These ingredients were allowed him like the rest. After a proper time he declared the soup was ready, and calling for a dish, poured it out, the stone appearing in the middle. Every one tasted, and declared it was excellent. 'Heaven bless you,' cried the farmer's wife, 'let me have a receipt— my good man will be pleased'. 'Give me a piece of paper', said the traveller, and I'll write it down fer you,' which he did as follows:— *A Receipt to make Stone Soup.* 'Take a large stone, put it into a sufficient quantity of boiling water: properly season it with pepper and salt; and three or four pounds of good beef, a handful of pot herbs, some onions, a cabbage, and three or four carrots; when the soup is made the stone may be thrown away.'
 
 ```
 
@@ -349,7 +349,7 @@ In *Dumfries and Galloway Standard*, Saturday 25 February 1939, [p14](https://ww
 
 STRANGE LEGENDS.
 
-SAINT BERNARD’S SOUP- , Saint Bernard, the Abbot of Clairvaus, lived in the twelfth century, and was famed for his wisdom and kindness. Being a great man as well as good one he discovered that people were on their guard when they spoke to him, so in order to know what they were thinking about he sometimes disguised himself as a beggar and wandered the country.
+SAINT BERNARD’S SOUP- Saint Bernard, the Abbot of Clairvaus, lived in the twelfth century, and was famed for his wisdom and kindness. Being a great man as well as good one he discovered that people were on their guard when they spoke to him, so in order to know what they were thinking about he sometimes disguised himself as a beggar and wandered the country.
 
 On these occasions Saint Bernard like a real beggar. He set out without a penny in his pocket, and suffered all the hardships of the poor. When starving he had to trust to his wits to obtain food. After being refused even a crust in a certain village, he went to the house of the lord of the manor, and knocked at the door. But the servant tried to drive him away.
 
@@ -357,13 +357,13 @@ On these occasions Saint Bernard like a real beggar. He set out without a penny 
 
 "All I ask is a little cold water in which to boil a stone," said St Bernard, showing them a large round stone he carried in his hand.
 
-Thinking that it would be fun to watch a beggar eating a stone, the master told him to come into the kitchen and gave him a saucepan containing cold water. St Bernard rolled his eyes, rubbed his hands, set the saucepan on the fire, popped the stone in, and askd for a spoon with which to stir it.
+Thinking that it would be fun to watch a beggar eating a stone, the master told him to come into the kitchen and gave him a saucepan containing cold water. St Bernard rolled his eyes, rubbed his hands, set the saucepan on the fire, popped the stone in, and asked for a spoon with which to stir it.
 
 "How my mouth waters," he as he stirred the stone round and “ This will bo de-li-ci-ous. Could you spare me little salt and pepper to season it?"
 
 He was given salt and pepper, and went on boiling the stone. Then he asked for some cold vegetables that the cook was keeping for the dogs, and put them into the soup.
 
-"A few fragments of meat improve stone soup tremendously," and a trifle of catsup or sauce of any kind makes it fit for a king. If only I had both, I’d ask you to taste my soup and I know that the master cook would not be ashamed of it."
+"A few fragments of meat improve stone soup tremendously, and a trifle of catsup or sauce of any kind makes it fit for a king. If only I had both, I’d ask you to taste my soup and I know that the master cook would not be ashamed of it."
 
 So they gave him some scraps of meat, a little boiled rice, crust, and some sauce. Ten minutes later St Bernard said his soup was ready. Then all the servants gathered round, tasted it, and declared it to be delicious. As for St. Bernard, he sat down on the doorstep and enjoyed it tremondously, but he slipped the stone into his pocket. 
 
