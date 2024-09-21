@@ -312,6 +312,7 @@ Proud of this discovery, she, in general terms, mentioned it to her neighhours. 
 
 ```
 
+In deeper history, it seems that the tale was often ascribed to the actions of St. Bernard:
 
 ```{admonition} *St Bernard's Soup*, N&Q, Jan. 1892
 :class: dropdown
@@ -324,7 +325,7 @@ ST. BERNARD'S SOUP.— Will any reader of 'N. & Q.' kindly give me information w
 
 ```
 
-Brewers *Dictionary Of Phrase and Fable* of 1870 also identifies "stone soup" as a tale relating to Saint Bernard:
+Brewers *Dictionary Of Phrase and Fable* of 1870 describes Saint Bernard's tale in the following way:
 
 ```{admonition} Stone soup or St. Bernard’s soup, Brewer's, 1870
 :class: dropdown
