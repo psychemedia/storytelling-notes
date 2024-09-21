@@ -250,7 +250,7 @@ Two travellers, ready to die with hunger thirst, came to a churlish farmer's beg
 
 And the again a century later:
 
-```{admonition} THe Stone Eaters (Original Recipe) The European Magazine, 1906
+```{admonition} The Stone Eaters (Original Recipe) The European Magazine, 1906
 :class: dropdown
 In *The European magazine, and London review*, October, 1806, Vol 50, [p268-70](https://archive.org/details/europeanmagazin00goog/page/n293/mode/2up):
 
