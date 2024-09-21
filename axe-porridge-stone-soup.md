@@ -10,7 +10,7 @@ In the first version of my *Unforeseen Consequences: Travelling the Road* set (F
 
 In the second iteration of this set, for the first Isle of Wight Steampunk festival, I embed this tale in the *Wish Ring*, as a tale related to a item in Mary's "box of precious things" — a recipe stone, etchd with the word "soup" — merch from the time of once, when a tinker and his wife came travelling to their village.
 
-*I've also wondered about using this stroy in something like a `plains old people` style frame tale.*
+*I've also wondered about using this story in something like a `plains old people` style frame tale.*
 
 One variant I particularly like can be found in a collection of tales "from Soviet lands":
 
