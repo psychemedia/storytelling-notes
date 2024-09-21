@@ -248,7 +248,7 @@ Two travellers, ready to die with hunger thirst, came to a churlish farmer's beg
 
 ```
 
-And the again a century later:
+And again a century later:
 
 ```{admonition} The Stone Eaters (Original Recipe) The European Magazine, 1906
 :class: dropdown
