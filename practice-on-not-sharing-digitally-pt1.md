@@ -2,7 +2,7 @@
 
 Chatting to Joe Dale after my set at the first *Isle of Wight Steampubk Festival*, I was trying to articulate — and justify — why I am reluctant to start a podcast to try to broaden my reach and, among other things, generate leads for performance bookings. (A lack of) self-belief is possibly a part of it, but I have a couple of philosophical issues too:
 
-- a told is told in a particular place, by a particular person, at a particular time to a particular audience. The story is constructed in the space between the teller and audience. That is not to say a tale can't be told online. Several of the tales I tell now have come from *other peoples'* podcasts. And I learned a lot about to-video performances by watching this video advert for Daniel Mordern's [*Strange Tales*](https://www.youtube.com/watch?v=h8fmjDIk0F4):
+- a tale is told in a particular place, by a particular person, at a particular time to a particular audience. The story is constructed in the space between the teller and audience. That is not to say a tale can't be told online. Several of the tales I tell now have come from *other peoples'* podcasts. And I learned a lot about to-video performances by watching this video advert for Daniel Mordern's [*Strange Tales*](https://www.youtube.com/watch?v=h8fmjDIk0F4):
 
 ```{youtube} h8fmjDIk0F4
 ```
@@ -11,7 +11,7 @@ But the *ephemerality* of performace is important to me.
 
 In the past, I have taped or otherwise recorded live music performances, to create my own personal bootlegs. These are *personal artefacts* and most meaningful to me because of the context in which they were captured.
 
-I have started wondering about creating "found" bootlegs of bits of my own performances, captured from open mic slots using pub CCTV cameras, and then perhaps dubbed with a phone-in-m-pocket poor quality audio track.
+I have started wondering about creating "found" bootlegs of bits of my own performances, captured from open mic slots using pub CCTV/security video cameras, and then perhaps dubbed with a phone-in-m-pocket poor quality audio track.
 
 Joe's comment, perhaps understandably, was *why* you would put out a low quality product. But that's the point... it's not supposed to be a product. It's supposed to be a low quality glimpse of thing that happened once.
 
