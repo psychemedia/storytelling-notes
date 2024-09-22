@@ -1,0 +1,58 @@
+# On not sharing digitally, part 1
+
+Chatting to Joe Dale after my set at the first *Isle of Wight Steampubk Festival*, I was trying to articulate — and justify — why I am reluctant to start a podcast to try to broaden my reach and, among other things, generate leads for performance bookings. (A lack of) self-belief is possibly a part of it, but I have a couple of philosophical issues too:
+
+- a told is told in a particular place, by a particular person, at a particular time to a particular audience. The story is constructed in the space between the teller and audience. That is not to say a tale can't be told online. Several of the tales I tell now have come from *other peoples'* podcasts. And I learned a lot about to-video performances by watching this video advert for Daniel Mordern's [*Strange Tales*](https://www.youtube.com/watch?v=h8fmjDIk0F4):
+
+```{youtube} h8fmjDIk0F4
+```
+
+But the *ephemerality* of performace is important to me.
+
+In the past, I have taped or otherwise recorded live music performances, to create my own personal bootlegs. These are *personal artefacts* and most meaningful to me because of the context in which they were captured.
+
+I have started wondering about creating "found" bootlegs of bits of my own performances, captured from open mic slots using pub CCTV cameras, and then perhaps dubbed with a phone-in-m-pocket poor quality audio track.
+
+Joe's comment, perhaps understandably, was *why* you would put out a low quality product. But that's the point... it's not supposed to be a product. It's supposed to be a low quality glimpse of thing that happened once.
+
+That didnlt seem to convince Joe.
+
+But that's maybe not surprising, becuase I wasn't describing it very well.
+
+But this maybe descrtines it better: I don't want to produce a *commodity* item.
+
+The following was found was searching for other things, specifically the average speed of railways in the eighteenth century, some backround research to tighten up my [*Too much time*](https://psychemedia.github.io/storytelling-notes/too_much_time.html) story, the answer to which I found in this footnote:
+
+> According to H. G. Lewin, The Railway Mania and its Aftermath 1845-52 (London, 1936), the average speed per hour was between 20 and 30 miles, up to the year 1845 (p. 95). The fastest English train, the Great Western Express, had a speed per hour of 46 miles. The average speed of stagecoaches, according to Lardner, was a little below eight miles (Railway Economy, p. 36); the fastest coaches made up to ten miles an hour, according to Lewin. The top speed that English trains achieved in the 1840s, according to Lardner, frequently was up to 60 or 70 miles (Railway Economy, p. 176).
+
+But serendipity played her role, and the paper that footnote was contained in also contained this:
+
+```{admonition} Commodifying events
+:class: dropdown
+
+Railroad Space and Railroad Time
+Author(s): Wolfgang Schivelbusch
+Source: New German Critique , Spring, 1978, No. 14 (Spring, 1978), pp. 31-40
+Published by: Duke University Press
+Stable URL: https://www.jstor.org/stable/488059
+
+The fate wrought upon the landscapes by their conquest by the railroads affects *goods* even sooner: as long as production and consumption are strictly regional — which they were until the beginning of modern transportation — the goods remain part of the local here-and-now of their place of production. Their route of circulation can be perceived at a glance.  Only when modern transportation creates a definite spatial distance between place of production and place of consumption do the commodities become homeless. In the *Grundrisse* Marx makes an observation about the relation between spatial distance and the nature of commodities; it tells us a good deal about how modern transportation has affected our perception of the world of goods: "This locational movement — the bringing of the product to market, which is a necessary condition of its circulation, except when the point of production is itself a market — could more precisely be regarded as the transformation of the product *into a commodity*." `[Karl Marx, Gundrisse: Foundations of the Critique of Political Economy (Rough Draft), trans. Martin Nicololaus (London, 1973), p. 534.]` (Italics original.)
+
+With the spatial distance that the product covers on its way from its place of production to the market it also loses its local identity, its here-and-now. Its concretely sensual properties which are experienced at the place of production as a result of the labor process (or, in the case of the fruits of the land, as a result of natural growth) appear quite different in the distant marketplace. There, the product, now commodity, realizes its economic value, and simultaneously gains new qualities as an object of consumption. No longer is it seen in the original context of the original here-and-now of its place of production but in the new here-and-now of the marketplace: cherries offered for sale in the Paris market seem to be products of that market, just as Normandy seems to be a product of the railroad that takes you there. Pecqueur touches on the notion of the unity of economic realization of value and the biological ripening process of fruit:
+
+> For instance, economically speaking, and for the sake of freshness and their price, the cherries of Montmorency really ripen on the uncultivated summits of the Quartier Lafayette; the roses of Fontenay burst into bloom and fragrance in the flowerbeds of the Jardin du Luxembourgh; the peaches of Montreuil in the Parc de Monceaux, and the grapes of Fontainebleau, too, ripen in some place closer to Paris than the one where the Surenes is still greening. `[Pecqueur, Economie sociale, pp. 34-35.]`
+
+The landscapes, joined to each other and to the metropolis by the railways, and the goods that are torn out of their local relation by modern transportation, share the fate of losing their hereditary place, their traditional here-and-now, or, as Walter Benjamin sums it up in one word, their aura.
+
+The detaching of the landscape from its original isolation, it's opening-up by the railroad, can well be defined as a loss of its aura, considering how Benjamin characterizes the aura and its loss in his essay "The Work of Art in the Age of Mechanical Reproduction." The notions of here-and-now and distance are integral parts of Benjamin's concept of aura. He defines the "aura of natural objects" as the unique phenomenon of a distance, however close it may be." `[Walter Benjamin, Illuminations, trans. Harry Zohn and ed. Hannah Arendt (New York, 1968), p. 224.]` The aura of a work of art is "its unique existence at the place where it happens to be." `[Ibid., p. 222.]` This spatial-temporal singularity, its "happening-but-once-ness," the *genuineness* of the object, according to Benjamin, is destroyed by reproduction. "The situations into which the product of mechanical reproduction can be brought may not touch the actual work of art, yet the quality of its presence is always depreciated." `[Ibid., p. 223.]` It is tempting to apply this statement to the landscapes that have been made accessible by the railroad: while being opened up to tourism they remain, initially at least, untouched in their physicality — but their easy, comfortable, and inexpensive accessibility robs them of their previous value as remote and hard-to-get-to places. "The staple of the district is, in fact, its beauty and its character of seclusion and retirement," `[William Wordsworth, The Prose Works, ed. A. B. Grosart (London, 1876), Vol. 2, p. 326.]` Wordsworth writes in 1844, defending the Lake District against the intrusion of the railways. The *devaluation* of landsapes by their exploitation for mass tourism by means of the railroad in the 19th and air traffic in the 20th century is a familiar occurrence. As soon as the railroad reaches the seaside towns of southern England that had been strongholds of the aristocracy long into the 19th century, the middle classes take them over. Then the upper crust retires to remote localities such as Scotland, Ireland, and the Lake District. `[J. A. R. Pimlott, The Englishman's Holiday. (London, 1947), p. 118.]` Contemporary airplane charter tourism is continuously engaged in further devaluation of formerly exclusive, very remote tourist regions.
+
+The de-auralization of means of reproduction of which Benjamin speaks is an expression of the same trend that brought the masses "closer to" the landscapes in the 19th century: "The desire of contemporary masses to bring things 'closer' spatially and humanly, which is just as ardent as their bent toward overcoming the uniqueness of every reality by accepting its reproduction." `[Benjamin, p. 225.]` The landscapes are made available to the masses by means of tourism: this is merely a prelude, a preparation for making any singular thing available by means of reproduction. When spatial distance is no longer experienced, the differences between original and reproduction diminish. In the filmic perception, i.e. the perception of montage, the juxtaposition of images of the most disparate nature into one unit, the new reality of annihilated spaces-between finds its clearest expression: the film brings things closer to the viewer as well as to each other.
+
+The landscapes lose their Now in an entirely concrete sense: the railroads deprive them of their local time. As long as they remained isolated from each other, they had their individual times: London ran four minutes ahead of time in Reading, seven minutes and thirty seconds ahead of Cirencester time, fourteen minutes ahead of Bridgewater time. `[2. P. S. Bagwell, The Transport Revolution from 1770 (London, 1974)]` This patchwork of time zones was no problem as long as traffic between the places was so slow that the temporal differences really did not matter; but the temporal foreshortening of the distances, effected by the trains, now confronts not only the places but also their differing local times with each other. Under traditional circumstances, a supraregional schedule would be impossible: times of departure and arrival are valid only for the place whose local time is being used. For the next station, with its own time, that previous time is no longer valid. Regular traffic needs standardized time, and this is quite analogous to the way in which the technical collective of rail and carriage undermined individual traffic and brought about the transportation monopoly.
+
+In the 1840's, the individual English railway companies proceed to standardize time, while not coordinating their efforts with each other. Each company institutes a new time on its own line. The process is so novel that it is repeated daily, in the most cumbersome manner, as Bagwell describes, a propos of the Grand Junction Company's procedure:
+
+> Each morning an Admiralty messenger carried a watch bearing the correct time to the guard on the down Irish Mail leaving Euston for Holyhead. On arrival at Holyhead the time was passed on to officials on the Kingston boat who carried it over to Dublin. On the return mail to Euston the watch was carried back to the Admiralty messenger at Euston once more. `[3. Ibid., p. 125.]`
+```
+
+The Walter Benjamin essay referenced — *The Work of Artin the Age of Mechanical Reproduction* — *is* available (for free) online , but instead I've ordered a print copy of *illuminations*, which contains it, and will now wait the however many days it takes for that *phyisical* rendering of it to arrive.
