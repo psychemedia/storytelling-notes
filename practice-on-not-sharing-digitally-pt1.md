@@ -15,7 +15,7 @@ I have started wondering about creating "found" bootlegs of bits of my own perfo
 
 Joe's comment, perhaps understandably, was *why* you would put out a low quality product. But that's the point... it's not supposed to be a product. It's supposed to be a low quality glimpse of thing that happened once.
 
-That didnlt seem to convince Joe.
+That didn't seem to convince Joe.
 
 But that's maybe not surprising, becuase I wasn't describing it very well.
 
@@ -55,4 +55,4 @@ In the 1840's, the individual English railway companies proceed to standardize t
 > Each morning an Admiralty messenger carried a watch bearing the correct time to the guard on the down Irish Mail leaving Euston for Holyhead. On arrival at Holyhead the time was passed on to officials on the Kingston boat who carried it over to Dublin. On the return mail to Euston the watch was carried back to the Admiralty messenger at Euston once more. `[3. Ibid., p. 125.]`
 ```
 
-The Walter Benjamin essay referenced — *The Work of Artin the Age of Mechanical Reproduction* — *is* available (for free) online , but instead I've ordered a print copy of *illuminations*, which contains it, and will now wait the however many days it takes for that *phyisical* rendering of it to arrive.
+The Walter Benjamin essay referenced — *The Work of Art in the Age of Mechanical Reproduction* — *is* available (for free) online , but instead I've ordered a print copy of *illuminations*, which contains it, and will now wait the however many days it takes for that *phyisical* rendering of it to arrive.
