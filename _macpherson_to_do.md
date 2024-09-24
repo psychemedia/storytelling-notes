@@ -118,7 +118,7 @@ Burns
 The national Burns, including the airs of all the songs in the staff and tonic sol-fa notations
  Burns, Robert, 1759-1796; Gilfillan, George, 1813-1878
 Publication date 1800
-p135 - Macpherson's farewell; footnote `[James Macpherson, a noted Norland freebooter, a man of vast strength, executed on Gallows Hill of Banff, 16th November, 1700. He played a tune on the gallows, offered the fiddle to any one who would accept it as a gift : and none accepting it, he indignantly broke the instrument and threw it away.]`
+p135 - Macpherson's farewell; footnote `[James Macpherson, a noted Norland freebooter, a man of vast strength, executed on Gallows Hill of Banff, 16th November, 1700. He played a tune on the gallows, offered the fiddle to any one who would accept it as a gift: and none accepting it, he indignantly broke the instrument and threw it away.]`
 https://archive.org/details/nationalburnsinc02burn/page/135/mode/1up
 
 sol-fa https://archive.org/details/nationalburnsinc02burn/page/14/mode/1up?q=macpherson%27s
@@ -143,7 +143,7 @@ Tune: Macpherson's Rant.
 
 FAREWEIL, ye prisons dark and strong,
 
-The wretch's destinie !  
+The wretch's destinie!  
 Macpherson's time will not be long  
 On yonder gallows tree.
 
@@ -151,7 +151,7 @@ Sae rantingly, sae wantonly,
 
 Sae dantonly gaed he,  
 He play'd a spring, and danced it round,  
-Beneath the gallows tree !
+Beneath the gallows tree!
 
 Oh, what is death, but parting breath ?
 
@@ -162,29 +162,29 @@ I scorn him yet again.
 
 Untie these bands frae aff my hands,
 
-And bring to me my sword ;  
+And bring to me my sword;  
 And there's nae man in a' Scotland
 
 But I'll brave him at a word.  
 
-I've lived a life of sturt and strife ;  
+I've lived a life of sturt and strife;  
 
-I die by treacherie :  
+I die by treacherie:  
 It burns my heart I must depart,
 
 And not avenged be.
 
 Now fareweil, light, thou sunshine bright,
 
-And all beneath the sky !  
+And all beneath the sky!  
 May coward shame distain his name,
 
 The wretch that dares not die I *
 
 TO DO
 
-* The story of Macpherson is thus detailed by a person signing himself B. G., New Monthly Magazine, vol. I. p. 142 : " James Macpherson was born of a beautiful gipsy, who, at a great wedding, attracted the notice of a half-intoxicated Highland gentleman. He acknowledged the child, and had him reared in his house, until he lost his life in bravely pursuing a hostile clan, to recover a spreach of cattle taken from Badenoch. The gipsy woman, hearing of this disaster, in her rambles the following summer, came and took away her boy ; but she often returned with him, to wait upon his relations and clansmen, who never failed to clothe him well, besides giving money to his mother. He grew up to beauty, strength, and stature, rarely equalled. His sword is still preserved at Duff House, a rescience of the Earl of Fife, and few men of our day could carry, far less 
-wield it, as a weapon of war ; and if it must be owned that his prowess was
+* The story of Macpherson is thus detailed by a person signing himself B. G., New Monthly Magazine, vol. I. p. 142: " James Macpherson was born of a beautiful gipsy, who, at a great wedding, attracted the notice of a half-intoxicated Highland gentleman. He acknowledged the child, and had him reared in his house, until he lost his life in bravely pursuing a hostile clan, to recover a spreach of cattle taken from Badenoch. The gipsy woman, hearing of this disaster, in her rambles the following summer, came and took away her boy; but she often returned with him, to wait upon his relations and clansmen, who never failed to clothe him well, besides giving money to his mother. He grew up to beauty, strength, and stature, rarely equalled. His sword is still preserved at Duff House, a rescience of the Earl of Fife, and few men of our day could carry, far less 
+wield it, as a weapon of war; and if it must be owned that his prowess was
 
 
 
@@ -196,15 +196,15 @@ MACPHERSON'S RANT.
 
 I'VE spent my time in rioting, 
 
-Debauch'd my health and strength ; 
+Debauch'd my health and strength; 
 
 I've pillaged, plunder'd, murdered, 
 But now, alas, at length, 
 
-I'm brought to punishment direct ; 
-Pale death draws near to me ; 
+I'm brought to punishment direct; 
+Pale death draws near to me; 
 
-debased by the exploits of a free-booter, it is certain, no act of cruelty, no robbery of the widow, the fatherless, or distressed, and no murder, were ever perpetrated under his command. He often gave the spoils of the rich to relieve the poor ; and all his tribe were restrained from many atrocities of rapine by the awe of his mighty arm. Indeed, it is said that a dispute with an aspiring and savage man of his tribe, who wished to rob a gentleman's house while his wife and two children lay on the bier for interment, was the cause of his being betrayed to the vengeance of the law. The Magistrates of Aberdeen were exasperated at Macphersqn's escape, and bribed a girl in that city to allure and deliver him into their hands. There is a platform before the jail, at the top of a stair, and a door below. When Macpherson's capture was made known to his comrades by the frantic girl, who had been so credulous as to believe the magistrates only wanted to hear the wonderful performer on the violin, his cousin, Donald Macpherson, a gentleman of Herculean powers, did not disdain to come from Badenoch, and to join a gipsy, Peter Brown, in liberating the prisoner. On a market-day they brought several assistants ; and swift horses were stationed at a convenient distance. Donald Macpherson and Peter Brown forced the jail ; and while Peter Brown went to help the heavily-fettered. James Macpherson in moving away, Donald Macpherson guarded the jail-door with a drawn sword. Many persons assembled at the market had experienced James Macpherson's humanity, or had shared his bounty ; and they crowded round the jail as in mere curiosity, but, in fact, to obstruct the civil authorities in their attempts to prevent a rescue. A butcher, however, was resolved to detain Macpherson, expecting a large recompense from the magistrates : he sprung up the stairs, and leaped from the platform upon Donald Macpherson, whom he dashed to the ground by the force and weight of his body. Donald Macpherson soon recovered, to make a desperate resistance ; and the combatants tore off each other's clothes. The butcher got a glimpse of his dog upon the platform, and called him to his aid : but Macpherson, with admirable presence of mind, snatched up his own plaid, which lay near, and threw it over the butcher, thus misleading the instinct of his canine adversary. The dog darted with fury upon the plaid, and terribly lacerated his master's thigh. In the meantime, James Maepherson had been carried out by Peter Brown, and was soon joined by Donald Macpherson, who was quickly covered by some friendly spectator with a hat and great-coat. The magistrates ordered webs from the shops to be drawn across the Gallowgate ; but Donald Macpherson cut them asunder with his sword, and James, the late prisoner, got off on horseback. He was, some time after, betrayed by a man of his own tribe ; and was the last person executed at Banff, previous to the abolition of hereditable jurisdiction. He was an admirable performer on the violin; and his talent for composition is still evidenced by Macpherson's Rant, and Macpherson's Pibroch. He performed these tunes at the foot of the fatal tree ; and then asked if he had any friend in the crowd to whom a last gift of his instrument would be acceptable. No man had hardihood to claim friendship with a delinquent, in whose crimes the acknowledgment might implicate an avowed acquaintance. As no friend came forward, Macpherson said, the companion of so many gloomy hours should perish with him ; and, breaking the violin over his knee, he threw away the fragments. Donald Macpherson picked up the neck of the violin, which to this day is preserved, as a valuable memento, by the family of Cluny, chieftain of the Macphersons."
+debased by the exploits of a free-booter, it is certain, no act of cruelty, no robbery of the widow, the fatherless, or distressed, and no murder, were ever perpetrated under his command. He often gave the spoils of the rich to relieve the poor; and all his tribe were restrained from many atrocities of rapine by the awe of his mighty arm. Indeed, it is said that a dispute with an aspiring and savage man of his tribe, who wished to rob a gentleman's house while his wife and two children lay on the bier for interment, was the cause of his being betrayed to the vengeance of the law. The Magistrates of Aberdeen were exasperated at Macphersqn's escape, and bribed a girl in that city to allure and deliver him into their hands. There is a platform before the jail, at the top of a stair, and a door below. When Macpherson's capture was made known to his comrades by the frantic girl, who had been so credulous as to believe the magistrates only wanted to hear the wonderful performer on the violin, his cousin, Donald Macpherson, a gentleman of Herculean powers, did not disdain to come from Badenoch, and to join a gipsy, Peter Brown, in liberating the prisoner. On a market-day they brought several assistants; and swift horses were stationed at a convenient distance. Donald Macpherson and Peter Brown forced the jail; and while Peter Brown went to help the heavily-fettered. James Macpherson in moving away, Donald Macpherson guarded the jail-door with a drawn sword. Many persons assembled at the market had experienced James Macpherson's humanity, or had shared his bounty; and they crowded round the jail as in mere curiosity, but, in fact, to obstruct the civil authorities in their attempts to prevent a rescue. A butcher, however, was resolved to detain Macpherson, expecting a large recompense from the magistrates: he sprung up the stairs, and leaped from the platform upon Donald Macpherson, whom he dashed to the ground by the force and weight of his body. Donald Macpherson soon recovered, to make a desperate resistance; and the combatants tore off each other's clothes. The butcher got a glimpse of his dog upon the platform, and called him to his aid: but Macpherson, with admirable presence of mind, snatched up his own plaid, which lay near, and threw it over the butcher, thus misleading the instinct of his canine adversary. The dog darted with fury upon the plaid, and terribly lacerated his master's thigh. In the meantime, James Maepherson had been carried out by Peter Brown, and was soon joined by Donald Macpherson, who was quickly covered by some friendly spectator with a hat and great-coat. The magistrates ordered webs from the shops to be drawn across the Gallowgate; but Donald Macpherson cut them asunder with his sword, and James, the late prisoner, got off on horseback. He was, some time after, betrayed by a man of his own tribe; and was the last person executed at Banff, previous to the abolition of hereditable jurisdiction. He was an admirable performer on the violin; and his talent for composition is still evidenced by Macpherson's Rant, and Macpherson's Pibroch. He performed these tunes at the foot of the fatal tree; and then asked if he had any friend in the crowd to whom a last gift of his instrument would be acceptable. No man had hardihood to claim friendship with a delinquent, in whose crimes the acknowledgment might implicate an avowed acquaintance. As no friend came forward, Macpherson said, the companion of so many gloomy hours should perish with him; and, breaking the violin over his knee, he threw away the fragments. Donald Macpherson picked up the neck of the violin, which to this day is preserved, as a valuable memento, by the family of Cluny, chieftain of the Macphersons."
 
 The old ballad, for which Burns substituted the above beautiful verses, is given, in continuation, from Herd's Collection of Scottish Songs [1776.]
 
@@ -213,9 +213,9 @@ The old ballad, for which Burns substituted the above beautiful verses, is given
 This end I never did project, 
 To hang upon a tree. 
 
-To hang upon a tree, a tree ! 
+To hang upon a tree, a tree! 
 
-That cursed unhappy death ! 
+That cursed unhappy death! 
 Like to a wolf, to worried be, 
 
 And choaked in the breath. 
@@ -228,13 +228,13 @@ Bid pensive thoughts begone.
 
 No man on earth, that draweth breath, 
 
-More courage had than I ; 
+More courage had than I; 
 I dared my foes unto their face, 
 
 And would not from them fly. 
 This grandeur stout I did keep out, 
 
-Like Hector, manfully ; 
+Like Hector, manfully; 
 Then wonder one like me so stout 
 
 Should hang upon a tree. 
@@ -247,10 +247,10 @@ Than ever did a general
 His soldiers in the war. 
 Being fear'd by all, both great and small, 
 
-I lived most joyfullie : 
+I lived most joyfullie: 
 Oh, curse upon this fate of mine, 
 
-To hang upon a tree ! 
+To hang upon a tree! 
 
 As for my life I do not care, 
 
@@ -260,13 +260,13 @@ And bring my fellow-plunderers
 Unto the same disgrace. 
 But Peter Brown, that notour loun, 
 
-Escaped, and was made free : 
+Escaped, and was made free: 
 Oh, curse upon this fate of mine, 
 
-To hang upon a tree ! 
+To hang upon a tree! 
 
 Both law and justice buried are, 
-And fraud and guile succeed ; 
+And fraud and guile succeed; 
 
 The guilty pass unpunished, 
 If money intercede. 
@@ -290,14 +290,14 @@ Rewarded me much ill for good,
 And left me no refuge. 
 But Braco Duff, in rage enough, 
 
-He first laid hands on me ; 
+He first laid hands on me; 
 And if that death would not prevent, 
 
 Avenged would I be. 
 
 As for my life, it is but short, 
 
-When I shall be no more ; 
+When I shall be no more; 
 To part with life I am content, 
 
 As any heretofore. 
@@ -461,7 +461,7 @@ James (aka Jamie ) Macpherson
 
 ---
 https://archive.org/details/dictionaryofbritv1pbbrig/page/30/mode/2up?q=%22jamie+Macpherson%22+outlaw
-A dictionary of British folk-tales in the English language : incorporating the F.J. Norton collection
+A dictionary of British folk-tales in the English language: incorporating the F.J. Norton collection
 by Briggs, Katharine Mary
 Publication date 1991
 p31
@@ -634,7 +634,7 @@ James Macpherson, the two Browns, and James Gordon, were brought before the sher
 
 ![](https://dufftown.info/wp-content/uploads/2022/08/verdict-mcpherson.png)![](https://dufftown.info/wp-content/plugins/wccp-pro/images/transparent.gif)
 
- ![](https://dufftown.info/wp-content/uploads/2022/08/verdict-mcpherson.png)
+![](https://dufftown.info/wp-content/uploads/2022/08/verdict-mcpherson.png)
 
 The verdict in the original manuscript account of James MacPhersons trial
 
@@ -670,7 +670,7 @@ One thing is certain amid all the traditions which have come down regarding this
 Not the first time
 ------------------
 
-Before the well-known capture and prosecution James had been taken to a jail before. He was under citation to appear before the Lords of Justiciary at Inverness on a charge of having despoiled John Grant of Conygass of certain oxen, sheep, and other goods in June or July 1689, ' when Dundee was in the hills.' The Laird of Grant being sheriff of Inverness and other Grants engaged in the intended trial, Macpherson, though protesting his entire innocence, professed to have no hope of 'impartial justice' yet he appeared at the citation and was immediately committed close prisoner to the Tollbooth of Inverness where he was denied the use of pen and ink and the access of his friends. So that he 'expected nothing but a summary execution.'
+Before the well-known capture and prosecution James had been taken to a jail before. He was under citation to appear before the Lords of Justiciary at Inverness on a charge of having despoiled John Grant of Conygass of certain oxen, sheep, and other goods in June or July 1689, 'when Dundee was in the hills.' The Laird of Grant being sheriff of Inverness and other Grants engaged in the intended trial, Macpherson, though protesting his entire innocence, professed to have no hope of 'impartial justice' yet he appeared at the citation and was immediately committed close prisoner to the Tollbooth of Inverness where he was denied the use of pen and ink and the access of his friends. So that he 'expected nothing but a summary execution.'
 
 * * *
 
