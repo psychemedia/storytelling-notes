@@ -57,7 +57,7 @@ Every one of the six took a sledge, and the Devil he began to roar inside the bu
 
 The six fellows began to lay on the budget with all the nerves of their heart; and, every time the sledge-hammer came down on him, the Devil gave a yell. And the louder he yelled the louder they hammered.
 
-The whole town was alarmed by the Devil’s screeching ; and, at length and at last, when there was nothing else for it, up the Devil flies, budget and all, and carried away the roof with him in a flame of fire and disappeared.
+The whole town was alarmed by the Devil’s screeching; and, at length and at last, when there was nothing else for it, up the Devil flies, budget and all, and carried away the roof with him in a flame of fire and disappeared.
 
 It was not long till the Tinker’s wife had a young son, and she told him to go out and look for a sponsor for it.
 
@@ -125,7 +125,7 @@ And, after forty years, the Tinker was passing by the tree one day, and he looks
 
 "If you let me down,’’ says Death, says he, ‘‘I will give you sparings for forty years.’’
 
-The Tinker, he agreed ; and he let Death go, and there was plenty dying after that.
+The Tinker, he agreed; and he let Death go, and there was plenty dying after that.
 
 At the end of the forty years, Death come to the Tinker and told him his time was up.
 
