@@ -1,6 +1,6 @@
 # Unforeseen Consequences :: Travelling the Road
 
-*Tony "Monty" Hirst,*
+*Tony "Monty" Hirst*
 
 First Isle of Wight Steampunk Festival, FuBar, Ryde, 3-4pm, Saturday September 21st, 2024.
 
