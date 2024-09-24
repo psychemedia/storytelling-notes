@@ -11,9 +11,9 @@ by Jacob, P. L., 1806-1884
 Publication date [1874]
 
 
-After this period came into vogue a small lantern, built in the shape of a very narrow tower, like a hollow column, from twenty-six to forty feet high, the summit of which was surmounted by arcades, through which glimmered the faint light of a suspended lamp. This small building was called " the lantern of the dead " (Figs. 394 — 396) ; it was also termed a beacon (fanal), a lighthouse (phare), and a little tower (tourniele) . These beacon-towers, intended to indicate from afar during night-time the presence of a cemetery, generally had a door some- what above the ground, which was reached by a ladder or flight of steps.
+After this period came into vogue a small lantern, built in the shape of a very narrow tower, like a hollow column, from twenty-six to forty feet high, the summit of which was surmounted by arcades, through which glimmered the faint light of a suspended lamp. This small building was called " the lantern of the dead " (Figs. 394 — 396); it was also termed a beacon (fanal), a lighthouse (phare), and a little tower (tourniele) . These beacon-towers, intended to indicate from afar during night-time the presence of a cemetery, generally had a door some- what above the ground, which was reached by a ladder or flight of steps.
 
-Upon the side opposite to the door, an altar jutted out at the base of the tower. This altar was never consecrated, as the canons forbid any celebration to be held upon those which were in the open air (sub dio). There are many monuments of this kind in Maine, Berry, Angoumois, and Gas- cony ; they are all of Roman architecture, or of Gothic bordering upon
+Upon the side opposite to the door, an altar jutted out at the base of the tower. This altar was never consecrated, as the canons forbid any celebration to be held upon those which were in the open air (sub dio). There are many monuments of this kind in Maine, Berry, Angoumois, and Gas- cony; they are all of Roman architecture, or of Gothic bordering upon
 
 images 478-83 (Dance of Death), 485 (Toments of Hell), 477 (Knight of Death)
 
@@ -34,7 +34,7 @@ Publication date 1833
 May be possible to draw on this as a frame tale; eg Death having a conversation with each person as he picks them up, so rsomewone's tale that ends with death arriving.
 
 https://archive.org/details/dancesofdeaththr01holb/page/20/mode/2up
-The Dances of death, through the various stages of human life : wherein the capriciousness of that tyrant is exhibited: in forty-six copper-plates
+The Dances of death, through the various stages of human life: wherein the capriciousness of that tyrant is exhibited: in forty-six copper-plates
 by Holbein, Hans, 1497-1543. Totentanz; Deuchar, David, 1743-1808; Mechel, Christian von, 1737-1817
 
 Publication date 1803
@@ -54,7 +54,7 @@ by Combe, William, 1742-1823; Rowlandson, Thomas, 1756-1827 (illus.)
 Publication date 1903 (1815?)
 
 https://archive.org/details/b29826184/page/n7/mode/2up?q=%22dance+of+death%22
-The physician of the dance of death : a historical study of the evolution of the dance of death mythus in art
+The physician of the dance of death: a historical study of the evolution of the dance of death mythus in art
 by Warthin, Aldred Scott, 1866-1931. n 79062897
 
 Publication date 1931
