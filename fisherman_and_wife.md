@@ -39,7 +39,7 @@ For Alice my wife,
 The plague of my life,  
 Hath sent me to beg a boon of thee!"
 
-Then the fish came swimming to him, and said, "Well, what does she want?" " Ah!" answered the fisherman, "my wife says that when I had caught you, I ought to have asked you for something before I let you go again; she does not like living any longer in the ditch, and wants a little cottage." "Go home, then," said the fish, "she is in the cottage already." So the man went home, and saw his wife standing at the door of a cottage. "Come in, come in," said she; "is not this much better than the ditch?" And there was a parlour, and a bed-chamber, and a kitchen; and behind the cottage there was alittle garden with all sorts of flowers and: fruits, and a court-yard full of ducks and chickens. "Ah!" said the fisherman, "how happily we shall live!" "We will try to do so at least," said his wife.
+Then the fish came swimming to him, and said, "Well, what does she want? " "Ah!" answered the fisherman, "my wife says that when I had caught you, I ought to have asked you for something before I let you go again; she does not like living any longer in the ditch, and wants a little cottage." "Go home, then," said the fish, "she is in the cottage already." So the man went home, and saw his wife standing at the door of a cottage. "Come in, come in," said she; "is not this much better than the ditch?" And there was a parlour, and a bed-chamber, and a kitchen; and behind the cottage there was alittle garden with all sorts of flowers and: fruits, and a court-yard full of ducks and chickens. "Ah!" said the fisherman, "how happily we shall live!" "We will try to do so at least," said his wife.
 
 Every thing went right for a week or two, and then Dame Alice said, "Husband, there is not room enough in this cottage, the court-yard and garden are a great deal too small; I should like to have a large stone castle to live m; so go to the fish again, and tell him to give us a. castle." "Wife," said the fisherman, "I don't like to go to him again, for perhaps he will be angry; we ought to be content with the cottage." "Nonsense!" said the wife; "he swill do it very willingly; go along, and try."
 
@@ -63,7 +63,7 @@ For Alice my wife,
 The plague of my life,  
 Hath sent me to beg a boon of thee!"
 
-"Well, what would she have now ?" said the fish. " Alas!" said the man, " my wife wants to be king." "Go home," said the fish; "she is king already."
+"Well, what would she have now?" said the fish. " Alas!" said the man, " my wife wants to be king." "Go home," said the fish; "she is king already."
 
 Then the fisherman went home; and as he came close to the palace, he saw a troop of soldiers, and heard the sound of drums and trumpets; and when he entered in, he saw his wife sitting on a high throne of gold and diamonds, with a golden crown upon her head; and on each side of her stood six beautiful maidens, each a head taller than the other.
 
