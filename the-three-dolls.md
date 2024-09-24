@@ -14,8 +14,8 @@ https://worldstories.org.uk/reader/the-three-dolls/english/459
 
 https://spellbinders.org/the-three-dolls-2/ (Persia?)
 
-https://readandripe.com/tenali-raman-and-the-three-dolls/ "Tenali Raman" ? collection Hindu moral stories ?for children 
-https://en.wikipedia.org/wiki/Tenali_Rama special adviser  1509 to 1529 ;  generally known for the folk tales which focus on his wit ; cf Birbal, Nasruddin
+https://readandripe.com/tenali-raman-and-the-three-dolls/ "Tenali Raman"? collection Hindu moral stories ?for children 
+https://en.wikipedia.org/wiki/Tenali_Rama special adviser  1509 to 1529;  generally known for the folk tales which focus on his wit; cf Birbal, Nasruddin
 
 https://www.rohitghai.com/katha-parampara/
 Tenali Rama version
@@ -43,7 +43,7 @@ version in https://archive.org/details/readytotelltales0000unse ?
 
 ? indian / persian ?
 
-https://archive.org/details/storiesparablessaibaba_202004_25_E/page/n11/mode/2up?q=three+dolls no. 4 "The Three Dolls" ? from Chinna Katha 11 (or II ?), 50 End the Mind ?
+https://archive.org/details/storiesparablessaibaba_202004_25_E/page/n11/mode/2up?q=three+dolls no. 4 "The Three Dolls"? from Chinna Katha 11 (or II ?), 50 End the Mind ?
 
 http://bababooks.org/chinnakatha2/index.html "End the Mind"?
 
