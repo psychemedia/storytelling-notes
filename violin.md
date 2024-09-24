@@ -69,7 +69,7 @@ Publication date 1876
 
 
 https://archive.org/details/cu31924022320216
-Violin-making : as it was and is, being a historical, theoretical, and practical treatise on the science and art of violin-making, for the use of violin makers and players, amateur and professional
+Violin-making: as it was and is, being a historical, theoretical, and practical treatise on the science and art of violin-making, for the use of violin makers and players, amateur and professional
 by Heron-Allen, Edward, 1861-1943
 Publication date 1885
 
