@@ -4,7 +4,7 @@ https://libcat.simmons.edu/Author/Home?author=Williamson%2C+Duncan%2C+1928-2007.
 ---
 
 
-Fireside tales of the Traveller children : twelve Scottish stories / told by Duncan Williamson ; illustrated by Alan B. Herriot.
+Fireside tales of the Traveller children: twelve Scottish stories / told by Duncan Williamson; illustrated by Alan B. Herriot.
 
 https://libcat.simmons.edu/Record/b1030067#toc
 
@@ -24,7 +24,7 @@ The pot that went to the Laird's castle.
 
 --
 
-The broonie, silkies & fairies : Travellers' tales of the other world / by Duncan Williamson ; illustrated by Alan B. Herriot.
+The broonie, silkies & fairies: Travellers' tales of the other world / by Duncan Williamson; illustrated by Alan B. Herriot.
 
 https://libcat.simmons.edu/Record/b1043299#toc
 The silkie's revenge
