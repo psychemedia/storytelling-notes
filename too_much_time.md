@@ -1,16 +1,28 @@
 # Too Much Time
 
-Back in the day, every place had its own time. Not just its own local village fete, its own market day or County Assizes, but its own time. 
+Back in the day, every place had its own time. Not just its own local village fete, its own market day or County Assizes, but its own time of day.
 
-When it was midday in Oxford it was just after five *past* twelve in London (or 5 minutes and two seconds passed twelve to be precise). At the same time, it was five minutes *to* twelve in Bristol.
+Noon was set by the sun dial in the village churchyard. The day started when the cock crowed, and the burning down of a candle marked it out after sunset.
 
-Time followed the sun.
+And then the factories came, and with them the invention of *factory* time. A factory owner would know how many widgets he could make per hour, and how many per day. And that didn't really work with days that were 8 hours long in winter and 16 hours long in summer if you wanted to produce the same numbers of widgets per day *whatever* time of year it was.
 
-So when people said "London is ahead of the times", that was true, in a certain sense: daylight gets there before many places in the UK. And if people say, "the folk in the West Country are so behind the times", that could also be true...
+And *then* came the railways, and faster than local time travel.
 
-Every evening at 9 o'clock "Oxford Time" (which is to say five *past* nine in London time), the bell  at Christ Church College, Great Tom, rings out a hundred and one times, once for each of the college's original 101 students, calling the colleges to lock their gates. Thereupon, it remains silent until it resumes announcing the London hour, every hour from 8am the next morning. To this day the people of Oxford know their own time.
+Now, the Sun travels across the Earth at about a thousand miles an hour: 24,000 miles or so round the Earth, 24 hours in a day: 1000 miles an hour. So thats about fifteen or so miles a minute, to make an engineering appropximation and stick to round numbers.
 
-As they do in Bristol. If you're ever on the Big Island, and happen to visit Bristol, and if you find yourself stood in from of the old Corn Exchange, look up to the clock tower: as well as the rather unusual red painted numbers, you'll notice it has *two* minute hands. The red minute hand shows London time, Greenwich Mean Time; but a *second*, __black__ minute hand shows local Bristol time, 10 minutes behind.
+If you're walking across the country, the sound of the church bells chiming sound out at pretty much the same time all around round. But there's actually a wave of chimes, ringing out from east to west, across the country, taking just a little bit less than half an hour from the furthest point east to the fithest point west.
+
+Now that's a lot faster than walking pace. Or a horse. Or even a train.
+
+But imagine though, for a minute, that you're working for the railway, the Great *Western* Railway, connecting London, with Bristol, then down to the West country, Devon, and Cornwall. You're putting together the timetables, and indulging in a little thought experiment. The early mail coaches may have travelled a little less than 10 miles an hour or so, and the first trains averaged 20-30 miiles per or so, reaching 60-70 miles per hour in the 1840s. But you could probably *imagine* trains getting up to 100 miles an hour — I know that's unmimaginalby fast nowadys, but back then, it looked like it could be a *real* posibility. But what if you could get *another* ten times improvement and go 1000 miles an hour? You'd leave London at midday, and head west. You'd get to Reading at... 12 o'clock. Then on to Swindon — twelve'o'clock — and Bristol, where you'd arrive at... 12 o'clock. It would take you, quite literally, *no time* to get there at all.
+
+![Pages from 'The New Great Western Railway Timetable, Alteration of trains for the summer 1844'. Science Museum Group https://www.sciencemuseum.org.uk/objects-and-stories/standardising-time-railways-and-electric-telegraph](images/gwr-railwaytimetable-1844.png)
+
+But that's not right, is it? It *does* take time, even on the fastest trains, and it takes *forever* on today's trains.
+
+So you need to invent *railway* time, where you do the sums, you take the *actual* speed and the *actual* distance, and you work out how long it will *actually* take. And that's your timetable.
+
+But for everyone else? Well: if it was midday in Oxford it was just after five *past* twelve in London (or 5 minutes and two seconds passed twelve to be precise). At the same time, it was five minutes *to* twelve in Bristol. So you'd have to have people all over the country figuring out their own local timetables — good work if you can get it, presumably — because if you miss a train by a minute, well, you're f*cked, aren't you, as you can try explaining to the people on the speed awareness courses, who try to explain that if you're speeding for an hour you still only get there a couple of minutes earlier and you say: yes, but boatwise, you don't live on a Island where a minute is a couple of hours if you miss it, do you?
 
 Having your own time could lead to problems. In 1858, at the Dorchester Assizes, a hearing was set for 10 o'clock a.m. The case involved an action of ejectment, which is to say a property case. In those days, ownership of land could be transferred by ritual and custom as much as it was by legal document.
 
@@ -46,6 +58,14 @@ Such is the way of the law in Britain and Ireland, a *Common Law* approach, wher
 
 Standard time as London time, as Greenwich mean time, GMT, did not enter the [statute book](http://statutes.org.uk/site/the-statutes/nineteenth-century/1880-43-44-victoria-c-9-definition-of-time-act/) until 1880, and the reign of Queen Victoria, in an August 1880 "Act to remove doubts as to the meaning of Expressions relative to Time occurring in Acts of Parliament, deeds, and other legal instruments".
 
+Every evening at 9 o'clock "Oxford Time" (which is to say five *past* nine in London time), the bell  at Christ Church College, Great Tom, rings out a hundred and one times, once for each of the college's original 101 students, calling the colleges to lock their gates. Thereupon, it remains silent until it resumes announcing the London hour, every hour from 8am the next morning. To this day the people of Oxford know their own time.
+
+As they do in Bristol. If you're ever on the Big Island, and happen to visit Bristol, and if you find yourself stood in from of the old Corn Exchange, look up to the clock tower: as well as the rather unusual red painted numbers, you'll notice it has *two* minute hands. The red minute hand shows London time, Greenwich Mean Time; but a *second*, __black__ minute hand shows local Bristol time, 10 minutes behind.
+
+So when people said "London is ahead of the times", that was true, in a certain sense: daylight gets there before many places in the UK. And if people say, "the folk in the West Country are so behind the times", that could also be true...
+
+
+
 > WHEREAS it is expedient to remove certain doubts as to whether expressions of time occurring in Acts of Parliament, deeds, and other legal instruments relate in England and Scotland to Greenwich time, and in Ireland to Dublin time, or to the mean astronomical time in each locality:
 > 
 > Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows; (that is to say,)
@@ -68,7 +88,7 @@ At that time it wanted one minute and a half to 10 by the town clock . The clock
 
 [ POLLOCK, C. B. - When it is stated that a court will sit at a particular hour, that is understood by all persons as the time at the place where the court sits. We are as much bound to take judicial notice that a particular place lies east or west of Greenwich , and consequently has a different time from it, as we are to know the days of the year. ] A judge may appoint the sittings of the court by Greenwich time.
 
-[POLLOCK, C. B.- No doubt; but that was not done in this case. Suppose a question arises as to whether a person died at 12 o'clock on a particular day, is that to be determined by the time of the place or Greenwich time ? ] The time to be observed at any place is determined by a resolution of the authorities or general course of the parties at that place. Greenwich time is observed at most places in England through which railways pass, and in some the clocks have two sets of hands, the one showing Greenwich time the other the time of the place.
+[POLLOCK, C. B.- No doubt; but that was not done in this case. Suppose a question arises as to whether a person died at 12 o'clock on a particular day, is that to be determined by the time of the place or Greenwich time? ] The time to be observed at any place is determined by a resolution of the authorities or general course of the parties at that place. Greenwich time is observed at most places in England through which railways pass, and in some the clocks have two sets of hands, the one showing Greenwich time the other the time of the place.
 
 H. T. Cole appeared to support the rule, but was not called upon .
 
