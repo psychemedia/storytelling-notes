@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Pierce_Penniless
 https://archive.org/details/bib_fict_1259845/page/n7/mode/2up?q=%22supplication+to+the+devil%22+nashe
 
 Pierce Penniless’s supplication to the Devil. By Thomas Nash. From the first edition of 1592, compared with later impressions. With an introduction and notes, by J. Payne Collier, Esq., F.S.A.
-by Nashe, Thomas ; Collier, J. Payne (John Payne) (ed.)
+by Nashe, Thomas; Collier, J. Payne (John Payne) (ed.)
 
 Publication date 1842
 
