@@ -1032,7 +1032,7 @@ Then came Elphin to the house or court of Gwyddno his father, and Taliesin with 
 
 "A bard," answered Elphin.
 
-Then said Gwyddno, "Alas, what will he profit thee? "
+Then said Gwyddno, "Alas, what will he profit thee?"
 
 And Taliesin himself replied and said, "He will profit him more than the weir ever profited thee."
 

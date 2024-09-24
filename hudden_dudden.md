@@ -237,7 +237,7 @@ I'm not sure if the following is being used as a storyteller's device to help ge
 > The world was very guilty of such a ballad some three ages since; but I think, now 'tis not to be found —  I will have the subject newly writ o'er, that I may example my digression by some mighty precedent.  
 > *Love's Labour's Lost.*
 >
-> The words great and little are sometimes contradictory terms to their own meaning. This is stating the case rather confusedly, but as I am an Irishman, and writing an Irish story, it is the more in character. I might do, perhaps, like a very clever and agreeable friend of mine, who, when he deals in some extravagance which you don't quite understand, says, "Well, you know what I mean." But I will not take that for granted, so what I mean is this — that your great man, as far as size is concerned, is often a nobody; and your little man is often a great man. Nature, as far as the human race is concerned, is at variance with Art, which generally couples greatness with size. The pyramids, the temple of Jupiter Olympus, St. Peter's, and St. Paul's, are vast in their dimensions, and the heroes of Painting and Sculpture are always on a grand scale. In Language, the diminutive is indicative of *endearment* — in Nature, it appears to me, it is the type of distinction. Alexander, Caesar, Napoleon, Wellington, &c. &c, (for I have not room to detail,) are instances. But do we not hear every day that "such-abody is a big booby," while "*a clever little fellow*" has almost passed into a proverb. The poets have been more true to nature than painters, in this particular, and in her own divine art, her happiest votaries have been living evidences of her predilection to "packing her choicest goods in small parcels." Pope was "a crooked little thing that asked questions," and in our own days, our own "little Moore "is a glorious testimony to the fact. The works of fiction abound with instances, that the author does not consider it necessary his hero shall be an eligible candidate for the "grenadier corps ;" the earlier works of fiction in particular: Fairy tales, universally, dedicate some *giant* to destruction at the hands of some "clever little fellow." "Tom Thumb," "Jack and the Bean Stalk," and fifty other such, for instance, and I am now going to add another to the list, a brilliant example I trust, of the unfailing rule, that your *little* man is always a *great* man.
+> The words great and little are sometimes contradictory terms to their own meaning. This is stating the case rather confusedly, but as I am an Irishman, and writing an Irish story, it is the more in character. I might do, perhaps, like a very clever and agreeable friend of mine, who, when he deals in some extravagance which you don't quite understand, says, "Well, you know what I mean." But I will not take that for granted, so what I mean is this — that your great man, as far as size is concerned, is often a nobody; and your little man is often a great man. Nature, as far as the human race is concerned, is at variance with Art, which generally couples greatness with size. The pyramids, the temple of Jupiter Olympus, St. Peter's, and St. Paul's, are vast in their dimensions, and the heroes of Painting and Sculpture are always on a grand scale. In Language, the diminutive is indicative of *endearment* — in Nature, it appears to me, it is the type of distinction. Alexander, Caesar, Napoleon, Wellington, &c. &c, (for I have not room to detail,) are instances. But do we not hear every day that "such-abody is a big booby," while "*a clever little fellow*" has almost passed into a proverb. The poets have been more true to nature than painters, in this particular, and in her own divine art, her happiest votaries have been living evidences of her predilection to "packing her choicest goods in small parcels." Pope was "a crooked little thing that asked questions," and in our own days, our own "little Moore "is a glorious testimony to the fact. The works of fiction abound with instances, that the author does not consider it necessary his hero shall be an eligible candidate for the "grenadier corps;" the earlier works of fiction in particular: Fairy tales, universally, dedicate some *giant* to destruction at the hands of some "clever little fellow." "Tom Thumb," "Jack and the Bean Stalk," and fifty other such, for instance, and I am now going to add another to the list, a brilliant example I trust, of the unfailing rule, that your *little* man is always a *great* man.
 >
 > If any gentleman six feet two inches high gets angry at reading this, I beg him to remember that I am a little man myself, and if he be a person of sense, (which is supposing a great deal,) he will pardon, from his own feeling of indignation at this *exposé* of Patagonian inferiority, the consequent triumph on my part, of Lilliputian distinction. If, however, his inches get the better of him, and he should call me out, I beg of him to remember again, that I have the advantage of him there too, in being a little man. There is a proverb also, that "*little* said is soon mended," and with all my preaching, I fear I have been forgetting the wholesome adage. So I shall conclude this little introduction, which I only thought a becoming flourish of trumpets for introducing my hero, by placing *Little Fairly* before my readers, and I hope they will not think, in the words of another adage, that I have given them great cry and *little* wool.
 
@@ -256,7 +256,7 @@ LITTLE FAIRLY.
 
 You see owld Fairly was a mighty dacent man that lived, as the story goes, out over the back o' the hills beyant there, and was a thrivin' man ever afther he married little Shan Ruadh's `[Red John's]` daughter, and she was little, like her father before her, a dawnshee craythur, but mighty cute, and industhered a power always, and a fine wife she was to a sthrivin' man, up early and down late, and shure if she was doin' nothin' else, the bit iv a stocking was never out iv her hand, and the knittin' needles goin' like mad. Well, sure they thruv like a flag or a bulrush, and the snuggest cabin in the counthry side was owld Fairly's. And, in due coorse, she brought him a son, (throth she lost no time about it either, for she was never given to loitherin',) and he was the picthur o' the mother, the little ottomy that he was, as slim as a ferret and as red as a fox, but a hardy craythur. Well, owld Fairly didn't like the thoughts of havin' sitch a bitiv a brat for a son, and besides he thought he got on so well and prospered in the world with one wife, that by gor, he detarmined to improve his luck and get another. So with that, he ups and goes to one Doody, who had a big daughter — a wopper, by my sowl, throth she was the full of a door, and was called by the neighbours *garran more* [`Big horse]`, for in throth she was a garran, the dirty dhrop was in her, a nasty stag that never done a good turn for any one but herself, the long-sided jack that she was; but her father had a power o money, and above a hundher head o' cattle, and devil a chick nor child he had but herself; so that she was a great catch for whoever could get her, as far as the fortin' went; but throth the boys did not like the looks iv her, and let herself and her fortin' alone. Well, as I was sayin', owld Fairly ups and goes to Doody and puts his *comether* an the girl, and faix she was glad to be ax'd, and so matthers were soon settled, and the ind of it was they wor married.
 
-Now may be it's axin' you'd be, how he could marry two wives at wanst; but I towld you before, it was long ago, in the good owld ancient times, whin a man could have plinty of every thing. So home he brought the dirty garran, and sorra long was she in the place whin she began to breed, (arrah, lave off and don't be laughin' now; I don't mane that at all,) whin she began to breed *ructions* in the fam'ly and to kick up *antagions* from mornin' till night, and put betune owld Fairly and his first wife. "Well, she had a son of her own soon, and he was a big boss iv a divil, like his mother — a great fat lob that had no life in him at all; and while the little daunshee craythur would laugh in your face and play wid you if you cherrup'd to him, or would amuse himself the craythur, crawlin' about the flure and playin' wid the sthraws, and atein' the gravel, the jewel, — the other bosthoon was roarin' from mornin' till night, barrin' he was crammed wid stirabout and dhrownded a'most wid milk. Well, up they grew, and the big chap turned out a *gommoch*, and the little chap was as knowin' as a jailor; and though the big mother was always puttin' up her lob to malthrate and abuse little Fairly, the dickins a one but the little chap used to sarcumvint him, and gev him no pace, and led him the life iv a dog wid the cunnin' thricks he played an him. Now, while all the neighbours a'most loved the ground that little Fairly throd on, they cudn't abide the garran more's foal, good, bad, or indifferent, and many's the sly *malavoguein'* he got behind a hedge, from one or another, when his father or mother wasn't near to purtect him, for owld Fairly was as great a fool about him as the mother, and would give him his eyes a'most to play marvels, while he didn't care three *thraneens* for the darlint little chap. And 'twas the one thing as long as he lived; and at last he fell sick, and sure many thought it was a judgment an him for his unnathrel doin's to his own flesh and blood, and the sayin' through the parish was from one and all, "There's owld Fairly is obleeged *to take to his bed ivith the iceight of his sins*." And sure enough off o' that same bed he never riz, but grew weaker and weaker every day, and sint for the priest to make his sowl, the wicked owld sinner, God forgive me for sayin' the word, and sure the priest done whatever he could for him; but afther the priest wint away he called his two wives beside his bed, and the two sons, and says he, "I'm goin' to lave yiz now," says he, "and sorry I am," says he, "for I'd rather stay in owld Ireland than go anywhere else," says he, "for a raison I have — heigh! heigh! heigh! — Oh, murther, this cough is smotherin' me, so it is. Oh, wurra! wurra! but it's sick and sore I am. Well, come here yiz both," says he to the women, "you wor good wives both o' ye; I have nothin' to say agin it — (Molly, don't forget the whate is to be winny'd the first fine day) — and ready you wor to make and to mend (Judy, there's a hole in the foot of my left stockin'), and "
+Now may be it's axin' you'd be, how he could marry two wives at wanst; but I towld you before, it was long ago, in the good owld ancient times, whin a man could have plinty of every thing. So home he brought the dirty garran, and sorra long was she in the place whin she began to breed, (arrah, lave off and don't be laughin' now; I don't mane that at all,) whin she began to breed *ructions* in the fam'ly and to kick up *antagions* from mornin' till night, and put betune owld Fairly and his first wife. "Well, she had a son of her own soon, and he was a big boss iv a divil, like his mother — a great fat lob that had no life in him at all; and while the little daunshee craythur would laugh in your face and play wid you if you cherrup'd to him, or would amuse himself the craythur, crawlin' about the flure and playin' wid the sthraws, and atein' the gravel, the jewel, — the other bosthoon was roarin' from mornin' till night, barrin' he was crammed wid stirabout and dhrownded a'most wid milk. Well, up they grew, and the big chap turned out a *gommoch*, and the little chap was as knowin' as a jailor; and though the big mother was always puttin' up her lob to malthrate and abuse little Fairly, the dickins a one but the little chap used to sarcumvint him, and gev him no pace, and led him the life iv a dog wid the cunnin' thricks he played an him. Now, while all the neighbours a'most loved the ground that little Fairly throd on, they cudn't abide the garran more's foal, good, bad, or indifferent, and many's the sly *malavoguein'* he got behind a hedge, from one or another, when his father or mother wasn't near to purtect him, for owld Fairly was as great a fool about him as the mother, and would give him his eyes a'most to play marvels, while he didn't care three *thraneens* for the darlint little chap. And 'twas the one thing as long as he lived; and at last he fell sick, and sure many thought it was a judgment an him for his unnathrel doin's to his own flesh and blood, and the sayin' through the parish was from one and all, "There's owld Fairly is obleeged *to take to his bed ivith the iceight of his sins*." And sure enough off o' that same bed he never riz, but grew weaker and weaker every day, and sint for the priest to make his sowl, the wicked owld sinner, God forgive me for sayin' the word, and sure the priest done whatever he could for him; but afther the priest wint away he called his two wives beside his bed, and the two sons, and says he, "I'm goin' to lave yiz now," says he, "and sorry I am," says he, "for I'd rather stay in owld Ireland than go anywhere else," says he, "for a raison I have — heigh! heigh! heigh! — Oh, murther, this cough is smotherin' me, so it is. Oh, wurra! wurra! but it's sick and sore I am. Well, come here yiz both," says he to the women, "you wor good wives both o' ye; I have nothin' to say agin it — (Molly, don't forget the whate is to be winny'd the first fine day) — and ready you wor to make and to mend (Judy, there's a hole in the foot of my left stockin'), and"
 
 "Don't be thinkin' o' your footin' here," says little Judy, the knowledgable craythur, as she was, "but endayvour to make your footin'in heaven" says she, "mavourneen."
 
@@ -296,9 +296,9 @@ So the big old hag of a wife tucked the blankets round him.
 
 "If you say much," says the owld dyin' vagabone, "the divil recave the taste of any thing I'll lave him or you," says he.
 
-"Don't say divil, darlin' "
+"Don't say divil, darlin'"
 
-"How'd your prate I tell you, and listen to me. I say, you little Fairly — "
+"How'd your prate I tell you, and listen to me. I say, you little Fairly —"
 
 "Well, daddy," says the little chap.
 
@@ -356,7 +356,7 @@ Well, little Fairly was the fellow to put the best face upon every thing; and so
 
 "Oh, I'll do betther with the hide nor that," says little Fairly.
 
-"Why what better can you do nor that wid it :" says the neighbour.
+"Why what better can you do nor that wid it:" says the neighbour.
 
 "Oh, I know myself," says little Fairly, for he was as cute as a fox as I said before, and wouldn't tell his saycrets to a stone wall, let alone a companion. And what do you think he done with the hide? Guess now — throth I'd let you guess from this to Christmas, and you'd never come inside it. Faix it was the complatest thing ever you heerd. What would you think but he tuk the hide and cut six little holes in partic'lar places he knew av himself, and thin he goes and he gets his mother's fortin, the six shillin's I told you about, and he hides the six shillin's in the six holes, and away he wint to a fair was convenient, about three days afther, where there was a great sight o' people, and a power o' sellin' and buyin', and dhrinkin' and fightin', by course, *and why nat*?
 
@@ -368,7 +368,7 @@ Well, Fairly ups and he goes right into the very heart o' the fair, an' he sprea
 
 "By gor you talk," says the man, "as if the hide was worth the King's ransom, and I'm thinkin'you must have a great want of a few shillin's," says he, "whin the hide is all you have to the fore, to dipind an."
 
-"Oh, that's all *you* know about it," says Fairly, "shillin's indeed! by gor it's handfuls o' money the hide is worth. Who'll buy a hide — the rale goolden bull's hide!!! "
+"Oh, that's all *you* know about it," says Fairly, "shillin's indeed! by gor it's handfuls o' money the hide is worth. Who'll buy a hide — the rale goolden bull's hide!!!"
 
 "What do you ax for your hide?" says another man.
 
@@ -494,7 +494,7 @@ Well, away he wint home afther the owld woman was buried wid his fifty guineas s
 
 "Whoo! that's the owld schoolmasther's speech you're puttin' an us now," says little Fairly, "and faith it's the only thing you iver larned, I b'lieve, from him."
 
-"Yis, I larned how fine a thing it is to bate a little chap less than myself, and you'll see with a blessin', how good a scholar I am at that same; and you desarve it, for I towld you just now before you intherrupted me, how you made me kill all my cows, (and that was the sore loss,) and afther that whin you could do no more, you made me kill my mother, and divil a good it done me, but nigh hand got me into the watch-house; and so now I'm detarmint you won't play me any more thricks, for I'll hide you snug in the deepest bog-hole in the Bog of Allen, and if you throuble me afther that, faix I think it'll be the wondher;" and with that he made a grab at the little chap, and while you'd be sayin' "thrap stick," he cotch him, and put him body and bones into a sack, and he threwn the sack over the back of a horse was at the door, and away he wint in a tairin' rage, straight for the Bog of Allen. Well, to be sure, he couldn't help stoppin' at a public house by the road-side, *for he was dhry with rage*; an he tuk the sack where little Fairly was tied up, and he lifted it aff o' the horse, an' put it standin' up beside the door goin' into the public-house; an he wasn't well gone in, whin a farmer was comin' by too, and he was as dhry wid the dust as ever big Fairly was with the rage, (an' indeed it's wondherful how aisy it is to make a man dhry ;) and so, as he was goin' by he sthruck agin the sack that little Fairly was in, and little Fairly gev a groan that you'd think kem from the grave; and says he (from inside o' the sack) "God forgive you," says he.
+"Yis, I larned how fine a thing it is to bate a little chap less than myself, and you'll see with a blessin', how good a scholar I am at that same; and you desarve it, for I towld you just now before you intherrupted me, how you made me kill all my cows, (and that was the sore loss,) and afther that whin you could do no more, you made me kill my mother, and divil a good it done me, but nigh hand got me into the watch-house; and so now I'm detarmint you won't play me any more thricks, for I'll hide you snug in the deepest bog-hole in the Bog of Allen, and if you throuble me afther that, faix I think it'll be the wondher;" and with that he made a grab at the little chap, and while you'd be sayin' "thrap stick," he cotch him, and put him body and bones into a sack, and he threwn the sack over the back of a horse was at the door, and away he wint in a tairin' rage, straight for the Bog of Allen. Well, to be sure, he couldn't help stoppin' at a public house by the road-side, *for he was dhry with rage*; an he tuk the sack where little Fairly was tied up, and he lifted it aff o' the horse, an' put it standin' up beside the door goin' into the public-house; an he wasn't well gone in, whin a farmer was comin' by too, and he was as dhry wid the dust as ever big Fairly was with the rage, (an' indeed it's wondherful how aisy it is to make a man dhry;) and so, as he was goin' by he sthruck agin the sack that little Fairly was in, and little Fairly gev a groan that you'd think kem from the grave; and says he (from inside o' the sack) "God forgive you," says he.
 
 "Who's there?" says the farmer startin', and no wondher.
 
@@ -614,7 +614,7 @@ Well, Donald was a shrewd fellow, and downhearted though he was, began to think 
 
 "Some of your best whisky," says he to the landlord. But the landlord didn't like his looks. "Is it fearing I won't pay you, you are?" says Donald; "why I have a hide here that gives me all the money I want." And with that he hit it a whack with his stick and out hopped a penny. The landlord opened his eyes, as you may fancy.
 
-"What'll you take for that hide? "
+"What'll you take for that hide?"
 
 "It's not for sale, my good man."
 
@@ -624,7 +624,7 @@ Well, Donald was a shrewd fellow, and downhearted though he was, began to think 
 
 Well, the long and the short of it was that Donald let the hide go, and, that very evening, who but he should walk up to Hudden's door?
 
-"Good-evening, Hudden. Will you lend me your best pair of scales? "
+"Good-evening, Hudden. Will you lend me your best pair of scales?"
 
 Hudden stared and Hudden scratched his head, but he lent the scales.
 
@@ -672,7 +672,7 @@ Out came the tanner:
 
 Out came the cobbler.
 
-"How much for your hides, my men? "
+"How much for your hides, my men?"
 
 "Their weight in gold."
 
@@ -720,7 +720,7 @@ Donald held his peace, but after a while he heard the glasses clink, and Hudden 
 
 "You're the lucky fellow. I'd give something to be in your shoes."
 
-"Do you see that now! Wouldn't it be a fine thing for a farmer to be marrying a princess, all dressed in gold and jewels? "
+"Do you see that now! Wouldn't it be a fine thing for a farmer to be marrying a princess, all dressed in gold and jewels?"
 
 "Jewels, do you say? Ah, now, couldn't you take me with you?"
 
@@ -1000,7 +1000,7 @@ On the other side of the wood was a great deep river. The water rushed along so 
 
 And he took the chest with one hand, and lifted it up a little, as if he intended to throw it into the river.
 
-"No! let be!" cried the clerk from within the chest; "let me out first! "
+"No! let be!" cried the clerk from within the chest; "let me out first!"
 
 "Hu!" exclaimed Little Claus, pretending to be frightened, "he's in there still! I must make haste and throw him into the river, that he may he drowned."
 
@@ -1028,7 +1028,7 @@ All the shoemakers and tanners came running, and asked how much he wanted for th
 
 "A bushel of money for each!" said Great Claus.
 
-"Are you mad?" said they. "Do you think we have money by the bushel? "
+"Are you mad?" said they. "Do you think we have money by the bushel?"
 
 "Hides! hides!" be cried again; and to all who asked him what the hides would cost he replied, "A bushel of money."
 
@@ -1085,7 +1085,7 @@ It was a long way that he had to travel before he came to the river, and Little 
 
 "Ah, yes! yes!" sighed Little Claus in the sack. And he turned and twisted, but he found it impossible to loosen the cord. Then there came by an old drover with snow-white hair, and a great staff in his hand; he was driving a whole herd of cows and oxen before him, and they stumbled against the sack in which Little Claus was confined, so that it was overthrown.
 
-"Oh, dear!" sighed Little Claus, "I'm so young yet, and am go to heaven directly! "
+"Oh, dear!" sighed Little Claus, "I'm so young yet, and am go to heaven directly!"
 
 "And I, poor fellow," said the drover, "am so old already, and can't get there yet!"
 
@@ -1099,17 +1099,17 @@ Soon afterwards Great Claus came out of the church. He took the sack on his shou
 
 "How light he is to carry now! Yes, that is because I have heard a psalm."
 
-So he went to the river, which was deep and broad, threw the sack with the old drover in it into the water, and called after him, thinking that it was Little Claus, "You lie there! Now you shan't trick me any more! "
+So he went to the river, which was deep and broad, threw the sack with the old drover in it into the water, and called after him, thinking that it was Little Claus, "You lie there! Now you shan't trick me any more!"
 
 Then he went home; but when he came to a place where there was a cross road, he met Little Claus driving all his beasts.
 
-"What's this?" cried Great Claus. "Have I not drowned you? "
+"What's this?" cried Great Claus. "Have I not drowned you?"
 
 "Yes," replied Little Claus, "you threw me into the river less than half an hour ago."
 
 "But wherever did you get all those fine beasts from?" asked Great Claus.
 
-"These beasts are sea-cattle'," replied Little Claus. "I'll tell you the whole, story,— and thank you for drowning me, for now I'm at the top of the tree. I am really rich! How frightened I was when I lay huddled in the sack, and the wind whistled about my ears when you threw me down from the bridge into the cold water! I sank to the bottom immediately; but I did not knock myself, for the most splendid soft grass grows down there. Upon that I fell; and immediately the sack was opened and the loveliest maiden, with snow-white garments and a green wreath upon her wet hair, took me by the hand, and said, 'Are you come. Little Claus? Here you have some cattle to begin with. A mile farther along the road there is a whole herd more, which I shall give to you.' And now I saw that the river formed a great highway for the people of the sea. Down in its bed they walked and drove directly from the sea, and straight into the land, to where the river ends. There it was so beautifully full of flowers and of the freshest grass; the fishes, which swam in the water shot past my ears, just as here the birds in the air. What pretty people there were there, and what fine cattle pasturing on mounds and in ditches! "
+"These beasts are sea-cattle'," replied Little Claus. "I'll tell you the whole, story,— and thank you for drowning me, for now I'm at the top of the tree. I am really rich! How frightened I was when I lay huddled in the sack, and the wind whistled about my ears when you threw me down from the bridge into the cold water! I sank to the bottom immediately; but I did not knock myself, for the most splendid soft grass grows down there. Upon that I fell; and immediately the sack was opened and the loveliest maiden, with snow-white garments and a green wreath upon her wet hair, took me by the hand, and said, 'Are you come. Little Claus? Here you have some cattle to begin with. A mile farther along the road there is a whole herd more, which I shall give to you.' And now I saw that the river formed a great highway for the people of the sea. Down in its bed they walked and drove directly from the sea, and straight into the land, to where the river ends. There it was so beautifully full of flowers and of the freshest grass; the fishes, which swam in the water shot past my ears, just as here the birds in the air. What pretty people there were there, and what fine cattle pasturing on mounds and in ditches!"
 
 "But why did you come up again to us directly?" asked Great Claus. "I should not have done that, if it is so beautiful down there."
 
@@ -1157,7 +1157,7 @@ __The Counsellor__
 
 Well, there was again, an' there was a poor man, who had got some ha'pence, an' he speculated on a dhrove of cattle, an' started up to Dublin with them to sell them, an' make profit on them. As me brave man was dhrivin' the cattle down Dublin sthreet, out comes a man that kep' a tibbacky shop, a cliver lad, an' he saw his chance, an' sez he to the man who owned the cattle, —
 
-"How much," sez he, "will ye take for the best an' worst of them cattle of yours? "
+"How much," sez he, "will ye take for the best an' worst of them cattle of yours?"
 
 Well, the poor man looked at the best baste in the dhrove, an' at the worst baste, an' he prices the two 0' them in his own mind, an' —
 
@@ -1181,7 +1181,7 @@ Now," sez Dan, "come along with me."
 
 An' off both of them started an' never halted till they were in the tibbackinist's shop. An' och, it was welcome Dan was with the lad behind the counther, who was bowin' an' scrapin' to him, an' thankin' him for the honour he done him comin' into his shop.
 
-"Can ye sarve me," sez Dan, sez he, "with a little piece of good tibbacky? "
+"Can ye sarve me," sez Dan, sez he, "with a little piece of good tibbacky?"
 
 "I can," sez the lad, "sarve yer honour with as good tibbacky as ever ye put intil a pipe-head."
 
@@ -1190,7 +1190,7 @@ An' off both of them started an' never halted till they were in the tibbackinist
 
 "More nor you'd care to buy," sez the lad.
 
-"Now what," sez Dan, sez he, "would ye be afther chargin' me for a sizable piece — say as much as would reach from me fren's nose to the small toe of his left foot? "
+"Now what," sez Dan, sez he, "would ye be afther chargin' me for a sizable piece — say as much as would reach from me fren's nose to the small toe of his left foot?"
 
 The lad laughed at the quality of the ordher, but he knew Dan's odd ways. So, he sized the man up and sez he, —
 
@@ -1216,7 +1216,7 @@ But, "Troth, an'," sez he, "I hope ye'll be laughin' when ye've finished misurin
 
 "It's ruinated I am entirely, out an' out," sez the lad.
 
-"It's ruinated ye desarve to be," sez Dan. "Ye thought little of ruinatin' this poor sthranger here beside me, when he come up to Dublin with his little grain of cattle, sthrivin' to make a support for the wife an' childre. It's ruinated ye ought to be, ye low-lifed hang-dog ye! Turn the daicent man out his cattle this instant, in as good condition as you got them, an' moreover nor that, laive with him the price of the two baistes which ye paid him, as a slight compinsation for the mintal throuble you have caused the poor fella. Then I'll forgive ye yer bargain, on condition that, as long as ye live in Dublin, ye'll never again thry to take in the poor an' the stranger, an' bring a bad name on the town! "
+"It's ruinated ye desarve to be," sez Dan. "Ye thought little of ruinatin' this poor sthranger here beside me, when he come up to Dublin with his little grain of cattle, sthrivin' to make a support for the wife an' childre. It's ruinated ye ought to be, ye low-lifed hang-dog ye! Turn the daicent man out his cattle this instant, in as good condition as you got them, an' moreover nor that, laive with him the price of the two baistes which ye paid him, as a slight compinsation for the mintal throuble you have caused the poor fella. Then I'll forgive ye yer bargain, on condition that, as long as ye live in Dublin, ye'll never again thry to take in the poor an' the stranger, an' bring a bad name on the town!"
 
 An' with a light heart, an' a heavy pocket, that poor man went home to his wife an' childre afther all; an' all by raison of Dan's cuteness. 
 
@@ -1243,9 +1243,9 @@ When the old man was very aged, and could no longer manage his stock, they made 
 
 The old man's advice was good, so she acted upon it accordingly. Right early on the Sunday morning the good dame takes the cow and drives it to the village. As she was driving it along, the tithe-takers of the place saw her, and agreed among themselves to cheat the old woman, and get the cow at the price of a goat. So they get up and go to the church. The old dame also takes the cow and goes to the church door, and waits till the people come out, that she may sell it The three tithe-takers, having concerted their plans to cheat the old woman, the first of them comes out, and says to her:
 
-"Good dame, what say you? How much do you want for that goat? "
+"Good dame, what say you? How much do you want for that goat?"
 
-"Good sir," quoth she, "what do you mean, don't you see that this is no goat, but a cow; or are your eyes so dazed that you cannot see well? "
+"Good sir," quoth she, "what do you mean, don't you see that this is no goat, but a cow; or are your eyes so dazed that you cannot see well?"
 
 "My dear good woman," says he, "pray come to your right senses, and don't talk such nonsense, unless you want people to laugh at you. I'll give you thirty piastres, and you give me the goat."
 
@@ -1253,7 +1253,7 @@ The old man's advice was good, so she acted upon it accordingly. Right early on 
 
 But before she had gone further, out comes the second. He also addresses her in the same way:
 
-"Well, my good woman, will you let me have that goat? "
+"Well, my good woman, will you let me have that goat?"
 
 The old woman, who was more or less chuckle-headed, took a good long look at the cow, to see whether it really was a goat after all.
 
@@ -1269,13 +1269,13 @@ The old woman, who was more or less chuckle-headed, took a good long look at the
 
 "Well, you are welcome to keep it, good dame," said he, and went and sat down beside the other, and the two waited for their companion. In a short while he, too, came out. But the poor old woman, hearing first one and then another say it was a goat, almost began to believe it must be so. Then the third rogue also began:
 
-"Good day to you, mother, what are you sitting here for? Do you want to sell that goat of yours? "
+"Good day to you, mother, what are you sitting here for? Do you want to sell that goat of yours?"
 
 Ah, then the old woman believed outright, and simply said:
 
 "I do, my son."
 
-"Well, I'll give you twenty piastres. Can I have it? "
+"Well, I'll give you twenty piastres. Can I have it?"
 
 Says the old woman to herself, "If I ask too much, I shan't get anything at all." So at length she says:
 
@@ -1289,7 +1289,7 @@ Off goes the old woman to her husband, and gives him the thirty piastres, and sa
 
 At that hearing, the old man kindled with anger, and said to her:
 
-"Heart alive, wife, who told you it was a goat? "
+"Heart alive, wife, who told you it was a goat?"
 
 "So-and-so," she replies; "and what's more, they've bought it"
 
@@ -1297,11 +1297,11 @@ At that hearing, the old man kindled with anger, and said to her:
 
 So the next day our old friend goes and finds another farmer, and buys of him a venerable donkey, some hundred years old, and takes and sticks three gold and three silver coins under his tail, and drives him to the village — to the very place where the rascals lived. When they see the old man too, they cluster about him like so many flies, thinking they have found another wind-fall, and that here is a fine opportunity for cheating the old man. But the old man was a match for a thousand like them; so when they address him with: "Well, old man, do you want to sell that donkey?" he replies, "Why, my lads, I scarcely know what to say. I never meant to sell that donkey at all, for there's not another like it to be bought for love or money. But, after all I've made my fortune out of it. Live and let live, say I."
 
-"But why can't you buy its like? "
+"But why can't you buy its like?"
 
-"Well, it does not look a high-bred animal, I admit. But what can you want more of it, when it keeps dropping ducats? "
+"Well, it does not look a high-bred animal, I admit. But what can you want more of it, when it keeps dropping ducats?"
 
-"What! you don't say so, old man. Has it really that advantage? "
+"What! you don't say so, old man. Has it really that advantage?"
 
 "I should rather think so," he replied, "and, if you don't believe me, wait and see."
 
@@ -1313,7 +1313,7 @@ And therewith he began to belabour the wretched ass with his stick. The poor bea
 
 Then he answered, "What are you talking of? Go about your business. Didn't I say it wasn't for sale?" And he makes as though he would go on.
 
-"Don't go away," say they; "we'll give you ten — fifteen thousand, come! "
+"Don't go away," say they; "we'll give you ten — fifteen thousand, come!"
 
 In the end he palms it off on them for twenty thousand piastres.
 
@@ -1329,27 +1329,27 @@ Then our fine fellows walk off with the donkey, and shut it up, as the old man t
 
 Now the old fellow was well aware that all this would follow, and so what do you think he did? He went and bought two hares as like as like could be, and the next day he said to his wife:
 
-"Good wife! look you; mind you cook me such and such things for dinner to-day, and when I come with my guests I shall say to you, 'Wife, have you cooked me anything to-day?' and you must answer, 'Yes, I've cooked what you sent me word by the hare that I was to cook.' "
+"Good wife! look you; mind you cook me such and such things for dinner to-day, and when I come with my guests I shall say to you, 'Wife, have you cooked me anything to-day?' and you must answer, 'Yes, I've cooked what you sent me word by the hare that I was to cook.'"
 
 Then he takes one of the hares and a pipe, and goes into the village, and sits down in a tavern and begins to smoke his pipe.
 
 It chanced that the tithe-takers passed by and saw him inside. Then they enter and sit down near him, and say to him:
 
-"Old man, do you know the donkey is dead, and now we don't know what to do? "
+"Old man, do you know the donkey is dead, and now we don't know what to do?"
 
-The old man, cunning fellow that he was, no sooner heard that the donkey was dead, than he began to weep and wail, and cry and groan.. "Alas! my donkey, why did I sell you? You who made a man of me, and one who sports a pipe and all! And I never kept you to provide for my old age! "
+The old man, cunning fellow that he was, no sooner heard that the donkey was dead, than he began to weep and wail, and cry and groan.. "Alas! my donkey, why did I sell you? You who made a man of me, and one who sports a pipe and all! And I never kept you to provide for my old age!"
 
-At this they were much astonished. "Why, old man!" said they, "why do you go on like that? We have lost our very life's blood, and we don't weep like you! "
+At this they were much astonished. "Why, old man!" said they, "why do you go on like that? We have lost our very life's blood, and we don't weep like you!"
 
 "And what did you give it to eat?" he asked them.
 
 "Well, if you must know, old man, we gave it a bit of barley."
 
-"Ah, murderers!" he cried, "you have killed my poor beast! "
+"Ah, murderers!" he cried, "you have killed my poor beast!"
 
 And the long and the short of it is, that he so bamboozled them that they had to console htm. In a while he says to the hare:
 
-"Do you think you could go to the house, and tell your mother to cook so and so for dinner, for I am going to entertain some friends to-day? "
+"Do you think you could go to the house, and tell your mother to cook so and so for dinner, for I am going to entertain some friends to-day?"
 
 And he let the hare run. Our friend, the hare, no sooner got loose than it took to the hills, and, for what I know, is running still. Then the tithe-takers were much exercised in mind, and wanted to go to the house, to see if the hare really went to take the message home. The old man guessed what was in their thoughts, and said to them:
 
@@ -1377,21 +1377,21 @@ But they besieged the old man with entreaties. "Oh, give it us, pray give it us!
 
 "Ah well, let them have it, husband, as they want it so much; and let us think we never had it."
 
-Then they pay him ten thousand piastres, and take the hare and go. On the way, one of them observed, "I will now send it to my wife, and tell it to order her to cook me such and such dishes, and if you choose, send word by it at the same time tp your wives." So the second said, "Let it go to my wife also, and tell her so and so;" and the third said, "Well, it may say so and so to my wife as well." Then they said to the hare, "Well, did you hear what we told you? "
+Then they pay him ten thousand piastres, and take the hare and go. On the way, one of them observed, "I will now send it to my wife, and tell it to order her to cook me such and such dishes, and if you choose, send word by it at the same time tp your wives." So the second said, "Let it go to my wife also, and tell her so and so;" and the third said, "Well, it may say so and so to my wife as well." Then they said to the hare, "Well, did you hear what we told you?"
 
-The hare shook its ears, and they supposed it meant to say, "Yes!" and let it go, and it took to the hills, and they cried, "Eh, look at it! It's not going straight to the village. It wants to take a turn first! "
+The hare shook its ears, and they supposed it meant to say, "Yes!" and let it go, and it took to the hills, and they cried, "Eh, look at it! It's not going straight to the village. It wants to take a turn first!"
 
 Never fear but the old man will make you open your eyes!
 
 Not to make too long a tale of it, the day passed, and in the evening each goes home.
 
-"Well wife," says the first," did the hare come and tell you to cook? "
+"Well wife," says the first," did the hare come and tell you to cook?"
 
 When his wife heard him say that, she exclaimed, "Mercy on us, husband, what are you thinking of? Are you mad?" and she crossed herself. "Never a hare, nor a leveret did I see."
 
 The same thing happened to the other two.
 
-The first went to the house of the second one. "Well," said he, "did the hare come to your house? "
+The first went to the house of the second one. "Well," said he, "did the hare come to your house?"
 
 "Not a bit of it," he answered, "and I've been abusing my wife."
 
@@ -1409,19 +1409,19 @@ So early in the morning our friends came to the old man's house, and angrily acc
 
 At this dreadful sight they were dumbfounded. At length they said to the old man:
 
-"Old man, old man! have you no fear of God before your eyes, to do such a murderous deed? "
+"Old man, old man! have you no fear of God before your eyes, to do such a murderous deed?"
 
 "What, does that shock you?" said he, and he takes his flute, and, at the first note, the old woman gets up again. When they saw her get up, they were astounded indeed, and said to the old man:
 
 "Good father, will you let us have that flute? We'll give you thirty thousand piastjres for it."
 
-"Stuff" and nonsense! Do you think I am going to let you have it, when I can kill my wife whenever I like, and raise her to life again with it? "
+"Stuff" and nonsense! Do you think I am going to let you have it, when I can kill my wife whenever I like, and raise her to life again with it?"
 
 Says one of them, "Nay, but you must give it to us."
 
 And, to be short, he gives them the flute as well, and they take their departure. As they walked along, they said to one another: "Well, we've bamboozled the old man, and now we'll go, wake the dead with our flute, and become famous men."
 
-So they come to the village, and the first one takes the flute; and no sooner has he entered his house than he picks a quarrel with his wife, and then and there whips out his knife, and without a moment's hesitation, he gives a playful stab in the breast and stretches her dead on the floor. Then he takes his flute, and plays and plays, but in vain; so he weeps and beats his brow, because he has killed his wife. Then he thinks to himself, "If I tell them my wife did not come to life again, they will not kill theirs, and they will take me for a madman. Nay, let them have the same experience as myself." So he went and found number two, and put a bright face, on it; and the other asks him, "Well, what success had you? "
+So they come to the village, and the first one takes the flute; and no sooner has he entered his house than he picks a quarrel with his wife, and then and there whips out his knife, and without a moment's hesitation, he gives a playful stab in the breast and stretches her dead on the floor. Then he takes his flute, and plays and plays, but in vain; so he weeps and beats his brow, because he has killed his wife. Then he thinks to himself, "If I tell them my wife did not come to life again, they will not kill theirs, and they will take me for a madman. Nay, let them have the same experience as myself." So he went and found number two, and put a bright face, on it; and the other asks him, "Well, what success had you?"
 
 "Good, brother," says he, "no sooner did I play, than she stood bolt upright at once."
 
@@ -1429,7 +1429,7 @@ Then the other seizes it, and goes to his wife, and, without any provocation, fi
 
 "Old man," says he, "what is this business you have been doing?"
 
-Then the old man replied, "Cadi, even as they cheated my wife, and took from her her cow at the price of a goat, even so have I cheated them. They should have kept their eyes well opened! "
+Then the old man replied, "Cadi, even as they cheated my wife, and took from her her cow at the price of a goat, even so have I cheated them. They should have kept their eyes well opened!"
 
 So our clever old man got the best of the bargain, and gave our friends, the tithe-takers, a good dressing. And he lived with his old woman a right merry life, and may we live a merrier still.
 
