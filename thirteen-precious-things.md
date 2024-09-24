@@ -13,29 +13,29 @@ The marvellous basket is reckoned amongst the thirteen precious things of the Is
 
 ...
 
-1. Dyrnwyn the sword of Rhydderch Hael ; if any man drew it except himself, it burst into a flame from the cross to the point, and all who asked it received it; but because of this property all shunned it : and therefore was he called Rhydderch Hael.
+1. Dyrnwyn the sword of Rhydderch Hael; if any man drew it except himself, it burst into a flame from the cross to the point, and all who asked it received it; but because of this property all shunned it: and therefore was he called Rhydderch Hael.
 
-2. The basket of Gwyddno Garanhir ; if food for one man were put into it, when opened it would be found to contain food for one hundred.
+2. The basket of Gwyddno Garanhir; if food for one man were put into it, when opened it would be found to contain food for one hundred.
 
-3. The horn of Bran Galed ; what liquor soever was desired was found therein.
+3. The horn of Bran Galed; what liquor soever was desired was found therein.
 
-4. The chariot of Morgan Mwynvawr ; whoever sat in it would be immediately wheresoever he wished.
+4. The chariot of Morgan Mwynvawr; whoever sat in it would be immediately wheresoever he wished.
 
-6. The halter of Clydno Eiddyn, which was in a staple below the feet of his bed ; and whatever horse he wished for in it, he would find it there.
+6. The halter of Clydno Eiddyn, which was in a staple below the feet of his bed; and whatever horse he wished for in it, he would find it there.
 
-6. The knife of Llwfrodded Farchawg ; which would serve four and twenty men at meat all at once.
+6. The knife of Llwfrodded Farchawg; which would serve four and twenty men at meat all at once.
 
-7. The cauldron of Tyrnog ; if meat were put in it to boil for a coward it would never be boiled, but if meat were put in it for a brave man it would be boiled forthwith.
+7. The cauldron of Tyrnog; if meat were put in it to boil for a coward it would never be boiled, but if meat were put in it for a brave man it would be boiled forthwith.
 
-8. The whetstone of Tudwal Tudclud ; if the sword of a braye man were sharpened thereon, and any one were wounded therewith, he would be sure to die, but if it were that of a coward that was sharpened on it, he would be none the worse.
+8. The whetstone of Tudwal Tudclud; if the sword of a braye man were sharpened thereon, and any one were wounded therewith, he would be sure to die, but if it were that of a coward that was sharpened on it, he would be none the worse.
 
-9. The garment of Padarn Beisrudd ; if a man of gentle birth put it on, it suited him well, but if a churl it would not fit him.
+9. The garment of Padarn Beisrudd; if a man of gentle birth put it on, it suited him well, but if a churl it would not fit him.
 
 10. 11. The pan and the platter of Rhegynydd Ysgolhaig; whatever food was required was found therein.
 
-12. The chessboard of Gwenddolen ; when the men were placed upon it, they would play of themselyes. The chessboard was of gold, and the men of silver.
+12. The chessboard of Gwenddolen; when the men were placed upon it, they would play of themselyes. The chessboard was of gold, and the men of silver.
 
-13. The mantle of Arthur ; whosoever was beneath it could see every thing, while no one could see him.
+13. The mantle of Arthur; whosoever was beneath it could see every thing, while no one could see him.
 
 This version is rather different from that given by Jones in his Welsh Bards, `[Jones, Welsg Bards, II p.47]` which omits the halter of Clydno Eiddyn, but adds the mantle of Tegau Eurvron, which would only fit such ladies as were perfectly correct in their conduct, and the ring of Luned, by which she effected the release of Owain the son of Urien, as has already been seen in the story of the Lady of the Fountain; whoever concealed the stone of this ring became invisible.
 
@@ -48,7 +48,7 @@ There is also a list in Brewer's *Reader's handbook of allusions, references, pl
 ```{admonition} *Thirteen Precious Things of Britain*, in Brewer's *Reader's Handbook*, 1890
 :class: dropdown
 
-In *The reader's handbook of allusions, references, plots and stories : with two appendices*, Ebenezer Cobham Brewer, 1880, [p994-5](https://archive.org/details/readershandbook03brewgoog/page/994/mode/1up):
+In *The reader's handbook of allusions, references, plots and stories: with two appendices*, Ebenezer Cobham Brewer, 1880, [p994-5](https://archive.org/details/readershandbook03brewgoog/page/994/mode/1up):
 
 Thirteen Precious Things of Britain.
 
@@ -66,9 +66,9 @@ Thirteen Precious Things of Britain.
 
 7. The Knife of Llawfrodded Farchawg, which would serve twentyfour men simultaneously at any meal.
 
-8. The Caldron of Tyrnog. If meat were put in for a brave man, it waa cooked instantaneously : but meat for a coward would never get boiled therein.
+8. The Caldron of Tyrnog. If meat were put in for a brave man, it waa cooked instantaneously: but meat for a coward would never get boiled therein.
 
-9. The Whetstone of Tudwal Tudclud. If the sword of a brave man were sharpened thereon, its cut was certain deah ; but if of a coward, the cut was harmless.
+9. The Whetstone of Tudwal Tudclud. If the sword of a brave man were sharpened thereon, its cut was certain deah; but if of a coward, the cut was harmless.
 
 10. The Robe of Padarn Beisrudd, which fitted every one of gentle birth, bnt no churl could wear it.
 
@@ -93,7 +93,7 @@ In *Ancient Irish Minstrelsy*, William Hamilton Drummond, 1852, [p50-1 footnote]
 
 The game of chess is repeatedly noticed in connexion with various historical incidents in the early history of Ireland, Theophilus O'Flanagan, in a note to his translation of Deirdri, an ancient Irish tale published in the transactions of the Gaelic Society of Dublin, speaks of it as a " military game that engages the mental faculties, like mathematical science." O'Flaherty's Ogygia states that Cathir, the 120th king of Ireland, left among his bequests to Crimthan "two chess-boards with their chess-men distinguished with their specks and power: on which account he was constituted master of the games in Leinster."
 
-In the first book of Homer's Odyssey the suitors are described as amusing themselves with the game of chess :—
+In the first book of Homer's Odyssey the suitors are described as amusing themselves with the game of chess:—
 
 With rival art and ardour in their mein,  
 At chess they vie to captivate the queen,  
@@ -130,6 +130,6 @@ Morvran the son of Tegid, (no one struck him in the battle of Camlan by reason o
 
 ...
 
-Drem the son of Dremidyd, (when the gnat arose in the morning with the sun, he could see it from Gelli Wic in Cornwall, as far off as Pen Blathaon in North Britain.) And Eidyol the son of Ner, and Glwyddyn Saer, (who constructed Ehangwen, Arthur's Hall.) Kynyr Keinvarvawc, (when he was told he had a son born, he said to his wife, * Damsel, if thy son be mine, his heart will be always cold, and there will be no warmth in his hands; and he will have another peculiarity, if he is my son he will always be stubborn; and he will have another peculiarity, when he carries a burden, whether it be large or small, no one will be able to see it, either before him or at his back ; and he will have another peculiarity, no one will be able to resist water and fire so well as he will; and he will have another peculiarity, there will never be a servant or an officer equal to him). ... Gwallgoyc, (another; when he came to a town, though there were throe hundred houses in it, if he wanted any tiling, he would not let sleep come to the eyes of any one whilst he remained there.) ... Osia Gyllellvawr, (who bore a short broad dagger. When Arthur and his hosts came before a torrent, they would seek for a narrow place where they might pass the water, and would lay the sheathed dagger across the torrent, and it would form a bridge sufficient for the armies of the three Islands of Britain, and of the three Islands adjacent, with their spoil.) ... Gilla Coes Hydd, (he would clear three hundred acres at one bound. The chief leaper of Ireland was he.) Sol, and Gwadyn Ossol, and Gwadyn Odyeith. (Sol could stand all day upon one foot Gwadyn Ossol, if he stood upon the top of the highest mountain in the world, it would become a level plain under his feet Gwadyn Odyeith, the soles of his feet emitted sparks of fire when they struck upon things hard, like the heated mass when drawn out of the forge. He cleared the way for Arthur when he came to any stoppage.) Hirerwm and Hiratnvm. (The day they went on a visit three Cantrevs provided for their entertainment, and they feasted until noon and drank until night, when they went to sleep. And then they devoured the heads of the vermin through hunger, as if they had never eaten any thing. When they made a visit, they left neither the fat nor the lean, neither the hot nor the cold, the sour nor the sweet, the fresh nor the salt, the boiled nor the raw.) ... Sugyn the son Sugnedydd, (who would suck up the sea on which were three hundred ships, so as to leave nothing but a dry strand. He was broad chested.) Rhacymwri, the attendant of Arthur; whatever barn he was shewn, were there the produce of thirty ploughs within it, he would strike it with an iron flail until the rafters, the beams, and the boards, were no better than the small oats in the mow upon the floor of the barn.) ... Uchtryd Varyf Draws, (who spread his red untrimmed beard over the eight and forty rafters which were in Arthur's Hall.) ... Clust the son of Clustyeinad, (though he were buried seven cubits beneath the earthy he would hear the ant, fifty miles off, rise from her nest in the morning.) Medyr the son of Methredydd, (from Gelli Wic he could, in a twinkling, shoot the wren through the two legs upon Esgeir Oervel in Ireland.) Gwiawn Llygad Cath, (who would cut a haw from the eye of the gnat without hurting him.) 01 the son of Olwydd; (seven years before he was bom his father's swine were carried off, and when he grew up a man, he tracked the swine, and brought them back in seven herds.)
+Drem the son of Dremidyd, (when the gnat arose in the morning with the sun, he could see it from Gelli Wic in Cornwall, as far off as Pen Blathaon in North Britain.) And Eidyol the son of Ner, and Glwyddyn Saer, (who constructed Ehangwen, Arthur's Hall.) Kynyr Keinvarvawc, (when he was told he had a son born, he said to his wife, * Damsel, if thy son be mine, his heart will be always cold, and there will be no warmth in his hands; and he will have another peculiarity, if he is my son he will always be stubborn; and he will have another peculiarity, when he carries a burden, whether it be large or small, no one will be able to see it, either before him or at his back; and he will have another peculiarity, no one will be able to resist water and fire so well as he will; and he will have another peculiarity, there will never be a servant or an officer equal to him). ... Gwallgoyc, (another; when he came to a town, though there were throe hundred houses in it, if he wanted any tiling, he would not let sleep come to the eyes of any one whilst he remained there.) ... Osia Gyllellvawr, (who bore a short broad dagger. When Arthur and his hosts came before a torrent, they would seek for a narrow place where they might pass the water, and would lay the sheathed dagger across the torrent, and it would form a bridge sufficient for the armies of the three Islands of Britain, and of the three Islands adjacent, with their spoil.) ... Gilla Coes Hydd, (he would clear three hundred acres at one bound. The chief leaper of Ireland was he.) Sol, and Gwadyn Ossol, and Gwadyn Odyeith. (Sol could stand all day upon one foot Gwadyn Ossol, if he stood upon the top of the highest mountain in the world, it would become a level plain under his feet Gwadyn Odyeith, the soles of his feet emitted sparks of fire when they struck upon things hard, like the heated mass when drawn out of the forge. He cleared the way for Arthur when he came to any stoppage.) Hirerwm and Hiratnvm. (The day they went on a visit three Cantrevs provided for their entertainment, and they feasted until noon and drank until night, when they went to sleep. And then they devoured the heads of the vermin through hunger, as if they had never eaten any thing. When they made a visit, they left neither the fat nor the lean, neither the hot nor the cold, the sour nor the sweet, the fresh nor the salt, the boiled nor the raw.) ... Sugyn the son Sugnedydd, (who would suck up the sea on which were three hundred ships, so as to leave nothing but a dry strand. He was broad chested.) Rhacymwri, the attendant of Arthur; whatever barn he was shewn, were there the produce of thirty ploughs within it, he would strike it with an iron flail until the rafters, the beams, and the boards, were no better than the small oats in the mow upon the floor of the barn.) ... Uchtryd Varyf Draws, (who spread his red untrimmed beard over the eight and forty rafters which were in Arthur's Hall.) ... Clust the son of Clustyeinad, (though he were buried seven cubits beneath the earthy he would hear the ant, fifty miles off, rise from her nest in the morning.) Medyr the son of Methredydd, (from Gelli Wic he could, in a twinkling, shoot the wren through the two legs upon Esgeir Oervel in Ireland.) Gwiawn Llygad Cath, (who would cut a haw from the eye of the gnat without hurting him.) 01 the son of Olwydd; (seven years before he was bom his father's swine were carried off, and when he grew up a man, he tracked the swine, and brought them back in seven herds.)
 
 ```
