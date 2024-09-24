@@ -147,7 +147,7 @@ By the bonnie mill-dams o' Binnorie.
 
 "O sister, sister, reach me your glove,  
 Binnorie, O Binnorie;  
-And sweet William shall be your love ;"  
+And sweet William shall be your love;"  
 By the bonnie mill-dams o' Binnorie.
 
 "Sink on, nor hope for hand or glove,  
@@ -629,7 +629,7 @@ She drave unweiting Isabel in.
 'O sister! sister! tak my hand,  
 'And ye fall hae my silver fan;  
 'O sister! sister! tak my middle  
-'And ye fall hae my gowden girdle. '
+'And ye fall hae my gowden girdle.'
 Sumtimes she sank, sumtimes she swam,  
 Till she cam to the miller's dam:  
 The miller's dochter was out that ein  
@@ -1807,7 +1807,7 @@ Till she cam to the miller's dam.
 And saw her rowing down the streim.
 
 14 'O father deir, in your mil-dam  
-There is either a lady or a milk-white swan! '
+There is either a lady or a milk-white swan!'
 
 15 Twa days were gane, whan to her deir  
 Her wraith at deid of nicht cold appeir.
@@ -1816,7 +1816,7 @@ Her wraith at deid of nicht cold appeir.
 Whan your Isabel lyes in the deip!
 
 17 'My deir, how can ye sleip bot pain  
-Whan she by her cruel sister is slain! '
+Whan she by her cruel sister is slain!'
 
 18 Up raise he sune, in frichtfu mude:  
 'Busk ye, my meiny, and seik the flude.'
@@ -1885,7 +1885,7 @@ The eldest to the youngest did say,
 
 
 4 'Will ye gae to yon Tweed mill-dam,  
-And see our father's ships come to land? '
+And see our father's ships come to land?'
 
 6 They baith stood up upon a stane,  
 The eldest dang the youngest in.
@@ -1959,7 +1959,7 @@ The old was black and the young ane fair.
 The auld ane to the young did say,
 
 3 The auld ane to the young did say,  
-'Will you gae to the green and play? '
+'Will you gae to the green and play?'
 
 4 'O sister, sister, I daurna gang,  
 For fear I file my silver shoon.'
@@ -2033,7 +2033,7 @@ But he gave the youngest all his love.
 But he loved the youngest as his life.
 
 5 'O sister, O sister, will ye come to the stream,  
-To see our father's ships come in? '
+To see our father's ships come in?'
 
 6 The youngest stood upon a stane,  
 Her sister came and pusht her in.
@@ -2342,7 +2342,7 @@ Swedish H has nothing about the finding of the body. Music is wanted for the bri
 
 All the Norse ballads make the harp or fiddle to be taken to a wedding, which chances to be that of the elder sister with the drowned girl's betrothed. `[Some of the unprinted Norwegian ballads are not completely described, but a departure from the rule of the major part would probably have been alluded to.]` Unfortunately, many of the English versions are so injured towards the close that the full story cannot be made out. There is no wedding-feast preserved in any of them. The instrument, in A, B, C, H, is taken into the king's presence. The viol in A and the harp in H are expressly said to speak. The harp is laid upon a stone in C, J, and plays "its lone;" the fiddle plays of itself in L b. `[The stanza, 9, in which this is said is no doubt as to its form entirely modern, bat not so the idea. I has "the first spring that he playd, it said," etc.]` B makes the harper play, and D, F, K, O, which say the fiddle played, probably mean that there was a fiddler, and so perhaps with all the Norse versions; but this is not very material, since in either case the instrument speaks "with most miraculous organ."
 
-There are three strings made from the girl's hair in Icelandic A, B, English B [veins, English A], and the three tets or links in English D, E, P, I, P were no doubt taken to make three strings originally. Corresponding to this are three enunciations of the instrument in English A, B, C, Icelandic A, Faroe A,`[The fourth string is said to speak in Faroe A 30, but no utterance is recorded, and this is likely to be a mistake. In many of the versions, and in this, after the strings have spoken individually, they unite in a powerful but inarticulate concord.]` B, Swedish A, B, C, B, G, H, Danish A, D, F, I. These are reduced to two in Icelandic B, Danish B, C, H, L, Swedish D, and even to one in English D, F, I, K, O, but some of these have suffered injury towards the conclusion. The number is increased to four in Norwegian B, to five in Norwegian A, D, and even to six in Norwegian ' C, K, M. The increase is, of course, a later exaggeration, and very detrimental to the; effect. In those English copies in which the instrument speaks but once, `[I has lost the terminal stanzas.]` D, F, K, O, and we may add P, it expresses a desire for vengeance: Hang my sister, D, F, K; Ye'll drown my sister, as she's dune me, O; Tell him to burn my sister, P. This is found in no Norse ballad, neither is it found in the earliest English versions. These, and the better forms of the Norse, reveal the awful secret, directly or indirectly, and, in the latter case, sometimes note the effect on the bride. Thus, in Icelandic B, the first string sounds The bride is our sister; the second, The bride is our murderer. In Danish B the first fiddle plays, The bride is my sister; the second. The bridegroom is my true-love; in C, H, the first strain is. The bride has drowned her sister, the second. Thy sister is driven [blown] to land. Faroe A, B, have: (1) The bride was my sister; (2) The bride was my murderer; (3) The bridegroom was my true-love. The bride then says that the harp disturbs her much, and that she lists to hear it no more. Most impressive of all, with its terse, short lines, is Icelandic A:
+There are three strings made from the girl's hair in Icelandic A, B, English B [veins, English A], and the three tets or links in English D, E, P, I, P were no doubt taken to make three strings originally. Corresponding to this are three enunciations of the instrument in English A, B, C, Icelandic A, Faroe A,`[The fourth string is said to speak in Faroe A 30, but no utterance is recorded, and this is likely to be a mistake. In many of the versions, and in this, after the strings have spoken individually, they unite in a powerful but inarticulate concord.]` B, Swedish A, B, C, B, G, H, Danish A, D, F, I. These are reduced to two in Icelandic B, Danish B, C, H, L, Swedish D, and even to one in English D, F, I, K, O, but some of these have suffered injury towards the conclusion. The number is increased to four in Norwegian B, to five in Norwegian A, D, and even to six in Norwegian, C, K, M. The increase is, of course, a later exaggeration, and very detrimental to the; effect. In those English copies in which the instrument speaks but once, `[I has lost the terminal stanzas.]` D, F, K, O, and we may add P, it expresses a desire for vengeance: Hang my sister, D, F, K; Ye'll drown my sister, as she's dune me, O; Tell him to burn my sister, P. This is found in no Norse ballad, neither is it found in the earliest English versions. These, and the better forms of the Norse, reveal the awful secret, directly or indirectly, and, in the latter case, sometimes note the effect on the bride. Thus, in Icelandic B, the first string sounds The bride is our sister; the second, The bride is our murderer. In Danish B the first fiddle plays, The bride is my sister; the second. The bridegroom is my true-love; in C, H, the first strain is. The bride has drowned her sister, the second. Thy sister is driven [blown] to land. Faroe A, B, have: (1) The bride was my sister; (2) The bride was my murderer; (3) The bridegroom was my true-love. The bride then says that the harp disturbs her much, and that she lists to hear it no more. Most impressive of all, with its terse, short lines, is Icelandic A:
 
 The first string made response:  
 'The bride was my sister once.'

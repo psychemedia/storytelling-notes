@@ -46,7 +46,7 @@ The conflict between Yami's desires for her brother are described in the Rig Ved
 
 Yama and Yami, son and daughter of Vivasvân, are the Rishis as well as the deities of the hymn which is a dialogue between them.
 
-Yama and Yamî are, says von Roth, 'as their names denote, twin brother and sister, and are the first human pair, the originators of the race. As the Hebrew conception closely connected the parents of mankind by making the woman formed from a portion of the body of the man, so by the Indian tradition they are placed in the relationship of twins. This thought is laid by the hymn in question in the mouth of Yamî herself, when she is made to say : "Even in the womb the Creator made us for husband and wife." ' Professor Muller, on the other hand, says (Lectures on the Science of Language second series, p. 510): 'There is a curious dialogue between her (Yamî) and her brother, where she (the night) implores her brother (the day) to make her his wife, and where he declines her offer, "because" as he says, "they have called it a sin that a brother should marry his sister". Again, p. 521, "There is not a single word in the Veda pointing to *Yama* and *Yamî* as the first couple of mortals, the Indian Adam and Eve... If Yama had been the first created of men, surely the Vedic poets, in speaking of him, could not have passed this over in silence." See, however, the passage from the Atharva-veda, XVIII, 3, 13, to be quoted further on. [Reverence ye with an oblation Yama, the son of Vivasvat, the assembler of men, who was the first of men that died, and the first that departed to this (celestial) world]." Muir, O. S. Texts, V. p. 238. Yama as the first man may perhaps be, as Prof. Max Muller holds, 'a later phase of religious thought.'
+Yama and Yamî are, says von Roth, 'as their names denote, twin brother and sister, and are the first human pair, the originators of the race. As the Hebrew conception closely connected the parents of mankind by making the woman formed from a portion of the body of the man, so by the Indian tradition they are placed in the relationship of twins. This thought is laid by the hymn in question in the mouth of Yamî herself, when she is made to say: "Even in the womb the Creator made us for husband and wife."' Professor Muller, on the other hand, says (Lectures on the Science of Language second series, p. 510): 'There is a curious dialogue between her (Yamî) and her brother, where she (the night) implores her brother (the day) to make her his wife, and where he declines her offer, "because" as he says, "they have called it a sin that a brother should marry his sister". Again, p. 521, "There is not a single word in the Veda pointing to *Yama* and *Yamî* as the first couple of mortals, the Indian Adam and Eve... If Yama had been the first created of men, surely the Vedic poets, in speaking of him, could not have passed this over in silence." See, however, the passage from the Atharva-veda, XVIII, 3, 13, to be quoted further on. [Reverence ye with an oblation Yama, the son of Vivasvat, the assembler of men, who was the first of men that died, and the first that departed to this (celestial) world]." Muir, O. S. Texts, V. p. 238. Yama as the first man may perhaps be, as Prof. Max Muller holds, 'a later phase of religious thought.'
 ```
 
 > *Yami speaks `The Sage; vedhdh`: Yama, whom she wishes to give her a son. `Come`: Sâyana explains the masculine participle `jaganvân` by the feminine `gatavatî`, that is, I, Yami, who have come. `The earth`: which, otherwise, will remain without human inhabitants.*
@@ -70,11 +70,11 @@ Yama and Yamî are, says von Roth, 'as their names denote, twin brother and sist
 > 5 Even in the womb God Tvaṣṭar, Vivifier, shaping all forms, Creator, made us consorts.  
 > None violates his holy ordinances: that we are his the heavens and earth acknowledge.
 >
-> *Yama replies. `To tempt them`: the meaning of víchyâ is uncertain. The S. P. Lexicon explains it by 'deceitfully.' 'Falsely.'—Grassmann, 'What sayest thou, who punishest men with hell ?'—Wilson.*
+> *Yama replies. `To tempt them`: the meaning of víchyâ is uncertain. The S. P. Lexicon explains it by 'deceitfully.' 'Falsely.'—Grassmann, 'What sayest thou, who punishest men with hell?'—Wilson.*
 > 6 Who knows that earliest day whereof thou speakest? Who hath beheld it? Who can here declare it?  
 > Great is the Law of Varuṇa and Mitra. What, wanton! wilt thou say to men to tempt them?
 >
-> *`Same couch` : see Benfey, `Vedica und Verwandtes`, pp. 39—42, for a different explanation of samâné yónau.*
+> *`Same couch`: see Benfey, `Vedica und Verwandtes`, pp. 39—42, for a different explanation of samâné yónau.*
 > 7 I, Yamî, am possessed by love of Yama, that I may rest on the same couch beside him.  
 > I as a wife would yield me to my husband. Like car-wheels let us speed to meet each other.
 >
@@ -82,7 +82,7 @@ Yama and Yamî are, says von Roth, 'as their names denote, twin brother and sist
 > 8 They stand not still, they never close their eyelids, those sentinels of Gods who wander round us.  
 > Not me-go quickly, wanton, with another, and hasten like a chariot wheel to meet him.
 >
-> *Yamî speaks. The meaning seems to he: if there be any guilt let me take it upon myself, and let not Tama's life be shortened by way of punishment. `The kindred Pair` : Day and Night.*
+> *Yamî speaks. The meaning seems to he: if there be any guilt let me take it upon myself, and let not Tama's life be shortened by way of punishment. `The kindred Pair`: Day and Night.*
 > 9 May Sūrya's eye with days and nights endow him, and ever may his light spread out before him.  
 > In heaven and earth the kindred Pair commingle. On Yami be the unbrotherly act of Yama.
 >
@@ -90,7 +90,7 @@ Yama and Yamî are, says von Roth, 'as their names denote, twin brother and sist
 > 10 Sure there will come succeeding times when brothers and sisters will do acts unmeet for kinsfolk.  
 > Not me, O fair one,—seek another husband, and make thine arm a pillow for thy consort.
 >
-> *Yamî speaks. `Destruction` : Nirriti ; the utter extinction of the human race. 'The meaning is, a true brother will not let his sister lack a husband, and a true sister will not let her brother lack a wife.'—Wilson's Translation, Editor's note.*
+> *Yamî speaks. `Destruction`: Nirriti; the utter extinction of the human race. 'The meaning is, a true brother will not let his sister lack a husband, and a true sister will not let her brother lack a wife.'—Wilson's Translation, Editor's note.*
 > 11 Is he a brother when no lord is left her? Is she a sister when Destruction cometh?  
 > Forced by my love these many words I utter. Come near, and hold me in thy close embraces.
 >
@@ -140,7 +140,7 @@ From a BA Thesis, (so not necessarily the strongest piece of scholarship), [*The
 
 X.14.1 is given as:
 
-> *`Yama`: the deified Lord of the Dead : originally the first who died and ao showed the souls of his successors the way to the home of th# departed. See X. 12. `Lofty heights`; of heaven, the abode of the Blest.*
+> *`Yama`: the deified Lord of the Dead: originally the first who died and ao showed the souls of his successors the way to the home of th# departed. See X. 12. `Lofty heights`; of heaven, the abode of the Blest.*
 >
 > Honour the King with thine oblations, Yama, Vivasv&n's Son, who gathers men together,  
 > Who travelled to the lofty heights above us, who searches out * and shows the path to many.

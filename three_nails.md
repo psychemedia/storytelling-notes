@@ -9,30 +9,32 @@ by Groome, Francis Hindes
 
 Publication date 1899
 
-Du Cange's last passage is by far the most interesting:— ' Anonymus de Passione Domini: " And when they arrive at the place, the komodromos coming to crucify him," etc.' Nalls of ' Why so interesting ? there does not seem much in Crucifixion, that,' my readers may exclaim. Why ? because there is a widely- spread superstition that a Gypsy forged the nails for the crucifixion, and that henceforth his race has been accursed of heaven. That superstition was first recorded in an article by Dr. B. Bogisic on 'Die slavisirten Zigeuner in Montenegro' ( Das Ausland, 25th May 1874); and in Le Folklore de Lesbos , by G. Georgeakis and Leon Pineau (Paris, 1891, pp. 273-8), is this 'Chant du Vendredi Saint,' this plaint of Our Lady :—
+TO DO
+
+Du Cange's last passage is by far the most interesting:— 'Anonymus de Passione Domini: "And when they arrive at the place, the komodromos coming to crucify him," etc.' Nalls of 'Why so interesting? there does not seem much in Crucifixion, that,' my readers may exclaim. Why? because there is a widely- spread superstition that a Gypsy forged the nails for the crucifixion, and that henceforth his race has been accursed of heaven. That superstition was first recorded in an article by Dr. B. Bogisic on 'Die slavisirten Zigeuner in Montenegro' ( Das Ausland, 25th May 1874); and in Le Folklore de Lesbos , by G. Georgeakis and Leon Pineau (Paris, 1891, pp. 273-8), is this 'Chant du Vendredi Saint,' this plaint of Our Lady:—
 INTRODUCTION
 xxvn
-For Du Cange's first three quotations I can assign no dates, but Theophanes Isaurus was born in 758 and died in 818; the seven¬ teenth year of Justinian would be 544 a.d. —a very early date at which to find a Gypsy from Italy, ' having with him a blind yellow dog.' The dates of the Emperor Constantinus Porphyrogenitus are 905-959; I own I can make little of this passage from his Liber de adminisirando Lmperio, but themu, bandon, topoteresia, and tourma seem all to be words for administrative divisions.
+For Du Cange's first three quotations I can assign no dates, but Theophanes Isaurus was born in 758 and died in 818; the seven¬ teenth year of Justinian would be 544 a.d. —a very early date at which to find a Gypsy from Italy, 'having with him a blind yellow dog.' The dates of the Emperor Constantinus Porphyrogenitus are 905-959; I own I can make little of this passage from his Liber de adminisirando Lmperio, but themu, bandon, topoteresia, and tourma seem all to be words for administrative divisions.
 
-Du Cange's last passage is by far the most interesting:— ' Anonymus de Passione Domini: " And when they arrive at the place, the komodromos coming to crucify him," etc.' Nalls of ' Why so interesting ? there does not seem much in Crucifixion, that,' my readers may exclaim. Why ? because there is a widely- spread superstition that a Gypsy forged the nails for the crucifixion, and that henceforth his race has been accursed of heaven. That superstition was first recorded in an article by Dr. B. Bogisic on 'Die slavisirten Zigeuner in Montenegro' ( Das Ausland, 25th May 1874); and in Le Folklore de Lesbos , by G. Georgeakis and Leon Pineau (Paris, 1891, pp. 273-8), is this 'Chant du Vendredi Saint,' this plaint of Our Lady :—
-' Our Lady was in a grotto And made her prayer.
+Du Cange's last passage is by far the most interesting:— 'Anonymus de Passione Domini: " And when they arrive at the place, the komodromos coming to crucify him," etc.' Nalls of 'Why so interesting? there does not seem much in Crucifixion, that,' my readers may exclaim. Why? because there is a widely- spread superstition that a Gypsy forged the nails for the crucifixion, and that henceforth his race has been accursed of heaven. That superstition was first recorded in an article by Dr. B. Bogisic on 'Die slavisirten Zigeuner in Montenegro' ( Das Ausland, 25th May 1874); and in Le Folklore de Lesbos , by G. Georgeakis and Leon Pineau (Paris, 1891, pp. 273-8), is this 'Chant du Vendredi Saint,' this plaint of Our Lady:—
+'Our Lady was in a grotto And made her prayer.
 She hears rolling of thunder,
 She sees lightnings,
 She hears a great noise.
-She goes to the window :
-She sees the heaven all black And the stars veiled :
+She goes to the window:
+She sees the heaven all black And the stars veiled:
 The bright moon was bathed in blood.
 She looks to right, she looks to left:
-She perceives St. John ;
-She sees John coming In tears and dejection :
+She perceives St. John;
+She sees John coming In tears and dejection:
 He holds a handkerchief spotted with blood.
 "Good-day, John. Wherefore These tears and this dejection ?
 Has thy Master beaten thee,
 Or hast thou lost the Psalter?"
-" The Master has not beaten me,
+"The Master has not beaten me,
 And I have not lost the Psalter.
 I have no mouth to tell it thee,
-Nor tongue to speak to thee :
+Nor tongue to speak to thee:
 And thine heart will be unable to hear me.
 These miserable Jews have arrested my Master,
 They have arrested him like a thief,
@@ -47,7 +49,7 @@ From three bottles of musk,
 And from four bottles of rose-water,
 Until she comes to herself.
 When she was come to herself, she says,
-" All you who love Christ and adore him,
+"All you who love Christ and adore him,
 Come with me to find him,
 Before they kill him,
 And before they nail him,
@@ -55,46 +57,46 @@ And before they put him to death.
 Let Martha, Magdalene, and Mary come,
 And the mother of the Forerunner."
 These words were still on her lips,
-Lo ! five thousand marching in front,
+Lo! five thousand marching in front,
 And four thousand following after.
 They take the road, the path of the Jews.
 No one went near the Jews except the unhappy mother. The path led them in front of the door of a nail-maker. She finds the nail-maker with his children,
 The nail-maker with his wife.
-" Good-day, workman, what art making there ? "
-"The Jews have ordered nails of me ;
-They have Ordered four of me ;
+"Good-day, workman, what art making there?"
+"The Jews have ordered nails of me;
+They have Ordered four of me;
 But I, 1 am making them five."
 "Tell me, tell me, workman.
 What they will do with them."
 "They will put two nails in his feet,
-Two others in his hands ;
+Two others in his hands;
 And the other, the sharpest.
 Will pierce his lung."
 Our Lady, when she heard it,
 Fell and swooned.
 They sprinkle her from a pitcher of water From three bottles of musk,
-And from four bottles of rose ;
+And from four bottles of rose;
 Until she comes to herself.
-When she had come to herself, she says :
-" Be accursed, O Tziganes !
+When she had come to herself, she says:
+"Be accursed, O Tziganes!
 May there never be a cinder in your forges,
 May there never be bread on your bread-pans,
-Nor buttons to your shirts !"
+Nor buttons to your shirts!"
 They take the road,' etc.
 
 And M. Georgeakis adds in a footnote, 'The Tziganes whom eit sees in the island of Mitylene are all smiths.' It is a far cry frn the Greek Archipelago to the Highlands of Scotland, but in k
 INTRODUCTION
 XXIX
-Gypsy Lore Journal (iii. 1892, p. 190), is this brief unsigned note : * I should be pleased to know if you have the tradition in the South [of Scotland], that the tinkers are descendants of the one who made the nails for the Cross, and are condemned to wander continually without rest.' No answer appeared ; and I know of no other hint of the currency of this belief in Western Europe, unless it be the couplet:—
+Gypsy Lore Journal (iii. 1892, p. 190), is this brief unsigned note: * I should be pleased to know if you have the tradition in the South [of Scotland], that the tinkers are descendants of the one who made the nails for the Cross, and are condemned to wander continually without rest.' No answer appeared; and I know of no other hint of the currency of this belief in Western Europe, unless it be the couplet:—
 'A whistling maid and a crowing hen Are hateful alike to God and men,'
 1 because,' according to Lieut.-Col. A. Fergusson ( Notes and Queries , August 1879, P- 93 )) though he gives no authorities, 'a woman stood by and whistled while she watched the nails for the Cross being forged.' 1
-On the other hand, the Gypsies of Alsace have a legend of their own, opposed to, and probably devised expressly to refute, the gait jo or Gentile version. How there were two Jew brothers, Schmul and Rom-Schmul. The first of them exulted at the Crucifixion; the other would gladly have saved Our Lord from death, and, finding that impossible, did what he could—pilfered one of the four nails. So it came about that Christ's feet must be placed one over the other, and fastened with a single nail. And Schmul remained a Jew, but Rom-Schmul turned Christian, and was the founder of the Rdmani race (' Die Zigeuner in Elsass und in Deutschlothringen,' by Dr. G. Miihl, in Der Salon, r874). In a letter of 16th December 1880, M. Bataillard wrote: 'An Alsatian Gypsy woman, one of the Reinhart family, has been at me for some time past to procure a remission of sentence for one of her relations who has been in gaol since 2d October. "The Manousch " [Gypsies], she urges, "are not bad; they do not murder." And on my answering with a smile that unluckily they are only too prone to take what doesn't belong to them, and that the judges, knowing this, are extra severe towards them, her answer is, " It is true, it's in the blood. Besides, you surely know, you who know all about the Manousch , they have leave to steal once in seven years." " How so ? " " It's a story you surely must know. They were just going to crucify Jesus. One of our women passed by, and she whipped up one of the nails they were going to use. She would have liked to steal all four nails, but couldn't. Anyhow, it was always one, and that's why Jesus was crucified with only three nails, a single one for the two feet. And that's why Jesus
+On the other hand, the Gypsies of Alsace have a legend of their own, opposed to, and probably devised expressly to refute, the gait jo or Gentile version. How there were two Jew brothers, Schmul and Rom-Schmul. The first of them exulted at the Crucifixion; the other would gladly have saved Our Lord from death, and, finding that impossible, did what he could—pilfered one of the four nails. So it came about that Christ's feet must be placed one over the other, and fastened with a single nail. And Schmul remained a Jew, but Rom-Schmul turned Christian, and was the founder of the Rdmani race (' Die Zigeuner in Elsass und in Deutschlothringen,' by Dr. G. Miihl, in Der Salon, r874). In a letter of 16th December 1880, M. Bataillard wrote: 'An Alsatian Gypsy woman, one of the Reinhart family, has been at me for some time past to procure a remission of sentence for one of her relations who has been in gaol since 2d October. "The Manousch " [Gypsies], she urges, "are not bad; they do not murder." And on my answering with a smile that unluckily they are only too prone to take what doesn't belong to them, and that the judges, knowing this, are extra severe towards them, her answer is, " It is true, it's in the blood. Besides, you surely know, you who know all about the Manousch , they have leave to steal once in seven years. " "How so? " "It's a story you surely must know. They were just going to crucify Jesus. One of our women passed by, and she whipped up one of the nails they were going to use. She would have liked to steal all four nails, but couldn't. Anyhow, it was always one, and that's why Jesus was crucified with only three nails, a single one for the two feet. And that's why Jesus
 
 1 It is just worth noting that St. Columbanus (543-615) was accustomed to celebrate the Eucharist in vessels of bronze ( Heris ), alleging as a reason for so doing that Our Lord was affixed to the cross by brazen nails. —Smith's Diet. Christ. Antiqs., s.v. Chalice.
 
 XXX
 GYPSY FOLK-TALES
-gave the Manousch leave to steal once every seven years." ' 1 The Lithuanian Gypsies say, likewise, that ' stealing has been permitted in their favour by the crucified Jesus, because the Gypsies, being pre¬ sent at the Crucifixion, stole one of the four nails. Hence when the hands had been nailed, there was but one nail left for the feet; and therefore God allowed them to steal, and it is not accounted a sin to them.' ('The Lithuanian Gypsies and their Language,' by Mieczyslaw Dowojno-Sylwestrowicz, in Gypsy Lore Journal , i. 1889, P- 253 -
+gave the Manousch leave to steal once every seven years." '1 The Lithuanian Gypsies say, likewise, that 'stealing has been permitted in their favour by the crucified Jesus, because the Gypsies, being present at the Crucifixion, stole one of the four nails. Hence when the hands had been nailed, there was but one nail left for the feet; and therefore God allowed them to steal, and it is not accounted a sin to them.' ('The Lithuanian Gypsies and their Language,' by Mieczyslaw Dowojno-Sylwestrowicz, in Gypsy Lore Journal , i. 1889, P- 253 -
 
 
 
@@ -203,7 +205,7 @@ Outside the gates of Jerusalem they found a Gypsy smith and ordered him to make 
 
 
 https://archive.org/details/welshgypsieschil0000jarm/page/11/mode/1up?q=crucifixion
-The Welsh gypsies : children of Abram Wood
+The Welsh gypsies: children of Abram Wood
 by Jarman, Eldra
 Publication date 1998
 One legend associates the Gypsies with the Crucifixion. It tells of two Roman soldiers who were provided with money and instructed to buy four strong nails. They spent half of the money, however, drinking in a tavern and it was late afternoon before they remembered the mission on which they had been sent. They hurried along to an old Jewish blacksmith who refused to make the nails when he heard of the use to which they were to be put. Angered, the soldiers stabbed and killed him. They then sought out another blacksmith who told them that for the money he could only forge four small nails. The soldiers frightened him by setting his beard alight and he set to work. As he was working one of the soldiers said to him: 'Make them good and strong, Jew; for at dawn we crucify Yeshua ben Miriam.' Hearing the name the Jew hesitated and ceased his work. The voice of the man whom the soldiers had killed came faintly to his ears: 'Aria, do not make the nails. They are for one of our own people, an innocent man.' The smith refused to continue with his work and was put to death. Thereupon, on leaving the city, the soldiers came upon a Gypsy who had set up an anvil by his tent and ordered him to forge the nails. He pocketed the money offered him and made three nails without delay. While he was working on the fourth nail, however, one of the soldiers told him that the nails would be used the following morning to crucify Jesus. The soldier had hardly finished speaking when the trembling voices of the blacksmiths who had been killed were heard pleading with the Gypsy not to make the nails. The frightened soldiers ran away but the Gypsy proceeded to finish the fourth nail, and then waited for it to grow cold. This did not happen, for the nail remained as red-hot as if it were still being held in the furnace. Water poured over it had no effect and it continued to glow, illuminating a wide stretch of the desert. The terrified Gypsy packed his tent on his donkey and fled. After travelling some distance he pitched the tent between two high sand-dunes, but there at his feet he saw the glowing nail as he had left it at the gates of Jerusalem. Throughout the night he poured water and sand upon it, but in vain. Crazed with fear, the Gypsy again packed his belongings and fled further into the desert, arriving presently at an Arab village. However, the nail had followed him. An Arab approached him and asked him to repair the iron hoop of a wheel. Quickly the Gypsy used the glowing nail to do this, and then watched the Arab driving away with it. He now believed that he was rid of the nail but some time later, in Damascus, a man brought him the hilt of a sword for repair. There, within the hilt, was the glowing nail. The Gypsy again packed and fled, but the nail always appeared within the tents of his descendants. Thus the Gypsies were condemned to perpetual wandering. Jesus was crucified with three nails, one of which was used to pierce his two feet drawn together. The fourth nail wanders from one end of the earth to the other, in pursuit of the people whose forefather had forged the other three.
@@ -211,7 +213,7 @@ One legend associates the Gypsies with the Crucifixion. It tells of two Roman so
 
 --
 https://archive.org/details/twilightencounte0000anan/page/n8/mode/1up?q=gypsy+nails+crucifixion
-Twilight encounters : the fourth nail and other stories
+Twilight encounters: the fourth nail and other stories
 by Anand, 1936-
 
 Publication date 2002
