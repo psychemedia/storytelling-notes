@@ -52,11 +52,11 @@ So time passed, and a new birthday drew near. Then her father said to her, "Tell
 
 She answered, "I wish to consult the Old Woman of Norwood as to whom I shall marry."
 
-Her father rejoined, "That is not a wise thing to desire. When it pleases Heaven, the right man will come, one whom I and your mother will approve of, and you will love ; and if he is a man of honour, and character, and family, then the marriage shall take place. You are our only child and our heir, and we do not intend you to be thrown away on anyone."
+Her father rejoined, "That is not a wise thing to desire. When it pleases Heaven, the right man will come, one whom I and your mother will approve of, and you will love; and if he is a man of honour, and character, and family, then the marriage shall take place. You are our only child and our heir, and we do not intend you to be thrown away on anyone."
 
 "Thrown away on anyone!" exclaimed the maiden. "I am not one who will allow of that. I am quite sure I will not marry anyone under a king."
 
-"A king!" exclaimed her father. "You aim very high. I do not know where you will find one. Our king in England has a good queen — God grant him and her a long life ! "
+"A king!" exclaimed her father. "You aim very high. I do not know where you will find one. Our king in England has a good queen — God grant him and her a long life!"
 
 "I did not say that I would marry an English king. There are other kings, and one may come to me from over the sea. I will hear what the Old Woman of Norwood says to me."
 
@@ -68,43 +68,43 @@ So she mounted her milkwhite horse, and she had bells of silver hung to the brid
 
 When she reached Norwood, she found an old woman who lived in a hollow oak tree. A dog lay at her feet, a black cat sat on a branch above her head, and at the top of the tree was perched a raven, and above the tree-top hummed a gnat. Then she put a purse of gold into the old woman's hand, and said to her, "Tell me whom I shall marry, and what shall become of me."
 
-Then the old woman said, "Little dog, little dog ! what do you say?"
+Then the old woman said, "Little dog, little dog! what do you say?"
 
 The dog stood up and barked, "Wow-wow-wow."
 
 "Did you hear what my dog said?" asked the Old Woman of Norwood.
 
-"I heard him say ' Wow-wow,' nothing more."
+"I heard him say 'Wow-wow,' nothing more."
 
 "He said in Dog-Latin, that you would marry a king."
 
 "I knew it would be so," retorted the girl. "Tell me something more?"
 
-"Little cat, little cat ! what do you say?" called the gipsy woman.
+"Little cat, little cat! what do you say?" called the gipsy woman.
 
 Then the black pussy stood up on the branch, stretched itself, and said, "Mi-aw, mi-aw, mi-aw."
 
 "Did you hear what the cat said?" asked the witch.
 
-"I heard him say ' Mi-aw,' nothing more."
+"I heard him say 'Mi-aw,' nothing more."
 
 "He said in Cat-Greek, that you would sleep in a golden bed."
 
 "Of course I shall, if I marry a king. Tell me something more."
 
-"Little crow, little crow ! what do you say?" screamed the old hag.
+"Little crow, little crow! what do you say?" screamed the old hag.
 
 Then the raven flapped his wings, and answered, "Caw-caw-caw."
 
 "Did you hear what the raven said?" asked the gipsy.
 
-"I heard him say ' Caw,' nothing more."
+"I heard him say 'Caw,' nothing more."
 
 "He said in Crow-Indian, that you would be attended by servants dressed in blue, who would rock you in your golden bed."
 
 "That is nothing wonderful," said the maiden. "Tell me something further."
 
-"Little gnat, little gnat ! what do you say?" screamed the old woman.
+"Little gnat, little gnat! what do you say?" screamed the old woman.
 
 Then the mosquito that was humming and fluttering above the tree-top, dropped within hearing of the girl's ear, and with a shrill pipe cried, "Pe-heep."
 
@@ -114,7 +114,7 @@ Then the mosquito that was humming and fluttering above the tree-top, dropped wi
 
 "That was Midge-Chinese. He said you would sleep under curtains of living green."
 
-Well ! the damsel was well pleased with what she had heard, but she wanted to know more.
+Well! the damsel was well pleased with what she had heard, but she wanted to know more.
 
 ![Undutiful daughter title pages - gorl with witch](images/undutiful_daughter.jpeg)
 
@@ -144,7 +144,7 @@ She went into her room lined with looking-glasses, and said, "I shall marry a ki
 
 "Who told you that?" asked her mother.
 
-"It was said by the dog when he uttered ' Wow- wow.' "
+"It was said by the dog when he uttered 'Wow- wow.'"
 
 "I would not believe the bark of a dog," said her mother.
 
@@ -152,7 +152,7 @@ She went into her room lined with looking-glasses, and said, "I shall marry a ki
 
 "Who said that?" asked her mother.
 
-"That was said by the cat when he said ' Mi-aw.' "
+"That was said by the cat when he said 'Mi-aw.'"
 
 "I would not put faith in the mi-aw of a cat," said her mother.
 
@@ -186,11 +186,11 @@ Now drew near this damsel's birthday, when she would be eighteen. And one night 
 
 scribbled the message on a bit of an old crock, that you were to marry on your eighteenth birthday the promised king. You must say nothing to your father or mother. He is now in the harbour with his ship, and the sign of the ship is The Golden Apple. Ask your father to let you go down to see over the barque. The Golden Apple, and the captain is he who will be your husband. I have sent a hedge- priest to the town, and he will marry you on board ship. But mind this — if you say a word to your father or mother about this, all will fall through that has been promised you. I have appeared in dream to the sea-captain, and he will expect you. The priest you will see standing by the capstan. He has been unfrocked by the bishop, but what of that? A priest is always a priest."
 
-The girl's father came to her and said, "Tomorrow is your birthday : ask what you wish, and I will do it for you."
+The girl's father came to her and said, "Tomorrow is your birthday: ask what you wish, and I will do it for you."
 
 Then she said, "There is a ship come lately into harbour, called The Golden Apple. I greatly desire to go over her."
 
-Her father shook his head, and said, "This is a very unwise request. I hear no good account ol this vessel. Some say it is that of a notorious pirate ; but, indeed, no one really knows any certainty about her, nor who her captain is ; but some assert that the crew is made up of runagates, and has on board a hedge-priest lately unfrocked by his bishop for grave misconduct."
+Her father shook his head, and said, "This is a very unwise request. I hear no good account ol this vessel. Some say it is that of a notorious pirate; but, indeed, no one really knows any certainty about her, nor who her captain is; but some assert that the crew is made up of runagates, and has on board a hedge-priest lately unfrocked by his bishop for grave misconduct."
 
 However, as he had promised to let her have her way, he was obliged to grant her request.
 
@@ -250,7 +250,7 @@ Then she saw that she had been deceived, and she cried out —
 
 "O captain! O captain! here's fifty gfld crowns.  
 I pray thee, I pray thee to turn the ship round.  
-O captain ! O captain, here's fifty gold pounds,  
+O captain! O captain, here's fifty gold pounds,  
 If thou wilt but set me again on the ground."
 
 But he would not hear of it.
@@ -286,7 +286,7 @@ To this they agreed. They bound a v/hite kerchief about her head, and they wrapp
 
 They took a white napkin, about her head bound it, They took a white napkin, about her feet wound it, They cast the fair pretty maid over, and she Did sink out of sight in cruel salt sea.
 
-Then at once the beak of the vessel began to cut the waves, they foamed about her sides, and she sped along her course like a gull. That night there was no cloud in the sky, an east wind was blowing, and the moon was full. Then the man at the wheel saw something in the water : —
+Then at once the beak of the vessel began to cut the waves, they foamed about her sides, and she sped along her course like a gull. That night there was no cloud in the sky, an east wind was blowing, and the moon was full. Then the man at the wheel saw something in the water: —
 
 The moon it was shining, the tide it was flowing, Oh, what in the wake of the vessel was swimming?
 
@@ -304,7 +304,7 @@ For the sea giveth up the undutiful daughter.
 
 Oh, take of my father the gold and the treasure.  
 Oh, take of my mother a fee without measure.  
-Oh, make me a coffin of deepest gold `[In the original "deepest stole yellow" : what stole means I do not know.]` yellow.  
+Oh, make me a coffin of deepest gold `[In the original "deepest stole yellow": what stole means I do not know.]` yellow.  
 And bury me under the banks of green willow."
 
 The demand of the dead lady was not so readily granted.  
@@ -315,7 +315,7 @@ It was clear that she could not sink. The sea rejected her, because of her guilt
 
 After three days, the sailors became so alarmed at being thus followed by the dead woman, that they insisted on her demand being complied with. So she was again taken on board.
 
-Now, all the gold was brought forth and melted up, and made into a golden coffin, and in that golden cofBn her body was laid ; and they put in beside her all the jewels she had taken from her parents. Then they lowered the gold coffin into the sea again, and at once it began to float away, with the sun shining on it, and was lost to sight.
+Now, all the gold was brought forth and melted up, and made into a golden coffin, and in that golden cofBn her body was laid; and they put in beside her all the jewels she had taken from her parents. Then they lowered the gold coffin into the sea again, and at once it began to float away, with the sun shining on it, and was lost to sight.
 
 After three days, they were short of water, and so came ashore to fill their casks.
 
@@ -324,16 +324,16 @@ The sea was so salt, and the tide it was flowing—.
 They steered for the land, and they reachèd the shore.  
 But the lady in her coffin had got there before.
 
-It was even so. The first thing they saw on coming to land was the gold coffin washed up on the beach. Then they heaved it farther up, to where hung some green willows, and they buried the undutiful daughter under their waving, living green boughs — and so were fulfilled all the words of prophecy told concerning her. She had married a king. She had been driven in a coach by white horses, even by the foaming waves. She had slept in a golden bed, — her coffin, — and been rocked by attendants in blue gowns, even the sea-waves ; and she had now been laid under wavy curtains of living green, the branches of the willow.
+It was even so. The first thing they saw on coming to land was the gold coffin washed up on the beach. Then they heaved it farther up, to where hung some green willows, and they buried the undutiful daughter under their waving, living green boughs — and so were fulfilled all the words of prophecy told concerning her. She had married a king. She had been driven in a coach by white horses, even by the foaming waves. She had slept in a golden bed, — her coffin, — and been rocked by attendants in blue gowns, even the sea-waves; and she had now been laid under wavy curtains of living green, the branches of the willow.
 
 ```
 
 ```{admonition} Barine-Gould's notes, 1895
 :class: dropdown seealso
 
-Note.— The old ballad of "The Undutiful Daughter" is one that I have heard from half a dozen aged singers in the west of England. It is always sung to the melody to which "The Frog and the Crow" is set in Mr. W. Crane's The Bahys Opera. A similar ballad is found in Scotland, "Bonnie Annie"; it is given by Kinloch, but is more imperfect than the English form of the ballad. In the story I have based on it, all the first part is new ; for obvious reasons I have been unable to follow the ballad exactly — that is to say, for reasons obvious to all who are acquainted with the ballad.
+Note.— The old ballad of "The Undutiful Daughter" is one that I have heard from half a dozen aged singers in the west of England. It is always sung to the melody to which "The Frog and the Crow" is set in Mr. W. Crane's The Bahys Opera. A similar ballad is found in Scotland, "Bonnie Annie"; it is given by Kinloch, but is more imperfect than the English form of the ballad. In the story I have based on it, all the first part is new; for obvious reasons I have been unable to follow the ballad exactly — that is to say, for reasons obvious to all who are acquainted with the ballad.
 
-There is an old printed ballad entitled "The Faithless Captain ; or, The Betrayed Virgin," which seems to be a comparatively modern recast of the older story. All the supernatural element has been eliminated from it. Instead of the damsel being cast over-board because the lot is thrown and falls to her, the ship is nearly wrecked, and she accidentally falls overboard. The body still follows the vessel, and, seeing his bride there in the water, the captain, who, after all, is not faithless, jumps overboard, and is drowned as well.
+There is an old printed ballad entitled "The Faithless Captain; or, The Betrayed Virgin," which seems to be a comparatively modern recast of the older story. All the supernatural element has been eliminated from it. Instead of the damsel being cast over-board because the lot is thrown and falls to her, the ship is nearly wrecked, and she accidentally falls overboard. The body still follows the vessel, and, seeing his bride there in the water, the captain, who, after all, is not faithless, jumps overboard, and is drowned as well.
 
 ```
 
@@ -351,44 +351,44 @@ a. Taken down from a man of above eighty years at Bradstone. b. From a young man
 
 1 'Twas of a sea-captain came oer the salt billow,  
 He courted a maiden down by the green willow:  
-' O take of your father his gold and his treasure,  
+'O take of your father his gold and his treasure,  
 O take of your mother her fee without measure.'
 
-2 ' I 'll take of my father his gold and his treasure,  
-I 'll take of my mother her fee without measure : '  
+2 'I'll take of my father his gold and his treasure,  
+I'll take of my mother her fee without measure:'  
 She has come with the captain unto the seaside, O,  
 "We 'll sail to lands foreign upon the blue tide, O!'
 
 3 And when she had sailed today and tomorrow,  
-She was beating her hands, she was crying in sorrow ;  
+She was beating her hands, she was crying in sorrow;  
 And when she had sailed the days were not many,  
 The sails were outspread, but of miles made not any.
 
 4 And when she had sailed today and tomorrow.  
-She was beating her hands, she was crying in sorrow ;  
+She was beating her hands, she was crying in sorrow;  
 And when she had sailed not many a mile, O,  
 The maid was delivered of a beautiful child, O.
 
 5 . ...
 
-6 ' O take a white napkin, about my head bind it !  
-O take a white napkin, about my feet wind it !  
-Alack ! I must sink, both me and my baby.  
-Alack ! I must sink in the deeji salten water.
+6 'O take a white napkin, about my head bind it!  
+O take a white napkin, about my feet wind it!  
+Alack! I must sink, both me and my baby.  
+Alack! I must sink in the deeji salten water.
 
-7 ' O captain, O captain, here 's fifty gold crown, O,  
-I pray thee to bear me and turn the ship round, O ;  
+7 'O captain, O captain, here 's fifty gold crown, O,  
+I pray thee to bear me and turn the ship round, O;  
 O captain, O captain, here 's fifty gold pound, O,
 If thou wilt but set me upon the green ground, O.'
 
-8 ' O never, O never I the wind it blows stronger,  
-O never, O never ! the time it grows longer ;  
+8 'O never, O never I the wind it blows stronger,  
+O never, O never! the time it grows longer;  
 And better it were that thy baby and thou, O.  
 Should drown than the crew of the vessel, I vow, O.'
 
-9 ' O get me a boat that is narrow and thin, O,  
-And set me and my little baby therein, O : '  
-' O no, it were better that thy baby and thou, O,  
+9 'O get me a boat that is narrow and thin, O,  
+And set me and my little baby therein, O:'  
+'O no, it were better that thy baby and thou, O,  
 Should drown than the crew of the vessel, I vow, O.'
 
 10 They got a white napkin, about her head bound it,  
@@ -398,26 +398,26 @@ Together to sink in the cruel salt sea, O.
 
 11 The moon it was sliining, the tide it was running;  
 O what in the wake of the vessel was swimming?  
-' O see, boys ! O see how she floats on the water!  
+'O see, boys! O see how she floats on the water!  
 O see, boys! O see! the undutiful daughter!
 
-12 ' Why swim in the moonlight, upon the sea swaying ?  
-O what art thou seeking ? for what art thou praying?'  
-' O captain, O captain, I float on the water ;  
+12 'Why swim in the moonlight, upon the sea swaying?  
+O what art thou seeking? for what art thou praying?'  
+'O captain, O captain, I float on the water;  
 For the sea giveth up the undutiful daughter.
 
-13 ' O take of my father the gold and the treasure,  
-O take of my mother her fee without measure ;  
+13 'O take of my father the gold and the treasure,  
+O take of my mother her fee without measure;  
 O make me a coffin of gold that is yellow,  
-And bmy me under the banks of green willow ! '
+And bmy me under the banks of green willow!'
 
-14 ' I will make thee a coffin of gold that is yellow,  
-I 'll bury thee under the banks of green willow ;  
+14 'I will make thee a coffin of gold that is yellow,  
+I 'll bury thee under the banks of green willow;  
 I 'll bury thee there as becoraeth a lady,  
 I 'll bury thee there, both thou and thy baby.'
 
 15 The sails they were spread, and the wind it was blowing,  
-The sea was so salt, and the tide it was flowing ;  
+The sea was so salt, and the tide it was flowing;  
 They steered for the land, and they reachd the shore, O,  
 But the corpse of the maiden had reachd there before, O.
 
@@ -434,9 +434,9 @@ When gone her mother's good will and all her father's money,
 She fled across the wide sea along with her Johnny.
 
 2 They had not been sailing the miles they were many  
-Before she was delivered of a beautiful baby :  
-' O tie up my head ! O and tie it up easy,  
-And throw me overboard, both me and my baby ! '
+Before she was delivered of a beautiful baby:  
+'O tie up my head! O and tie it up easy,  
+And throw me overboard, both me and my baby!'
 
 3 She floated on the waves, and she floated so easy,  
 That they took her on board again, both she and her baby.  
@@ -454,7 +454,7 @@ BONNIE ANNIE.
 
 There was a rich lord, and he lived in Forfar,  
 He had a fair lady, and one only dochter.  
-O, she was fair, O dear ! she was honnie,  
+O, she was fair, O dear! she was honnie,  
 A ship's captain courted her to be his honey.
 
 There cam a ship's captain out owre the sea sailing,  
