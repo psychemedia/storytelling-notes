@@ -3,6 +3,62 @@
 *I'm a bit wary pulling this collection together, even though it would make for an excellent set of story notes, in part because of the "prior claim" that Daniel Morden could argue to have over it. For example, his book "Dark Tales from the Woods" retells several of these stories, and at least one of his workshops (on story structure, a workshop I have attended) critiques how his version of one of the tales was transformed from the original. That said, my better half has a family line descended from two Welsh gipsy families, the Woods and the Prices...*
 
 
+Journal of the Gypsy Lore Society
+https://babel.hathitrust.org/cgi/mb?a=listis;c=778052705
+
+---
+Following two both via inntor Phlip's Watkins English Folktales
+
+https://archive.org/details/journalgypsylore3rdsv1-1922/page/n139/mode/2up
+Journal of the Gypsy Lore Society
+
+Third series, vol 1, part 3, 1922
+
+IV.—THE GYPSY GRAYS AS TALE-TELLERS
+T. W. Thompson  
+
+pp.118-137
+
+
+
+https://archive.org/details/journalgypsylorensv8-1914-15/page/n181/mode/2up?q=+%22other+traditional+stories%22
+
+Journal of the Gypsy Lore Society
+
+Vol. VIII YEAR 1914-15 No. 3
+
+pp.163-232, in the Introduction, p163-177
+ENGLISH GYPSY FOLK-TALES, AND OTHER TRADITIONAL STORIES
+
+Collected by Thomas William Thompson, M.A.
+
+FIRST SERIES pp177-232
+
+TALES COLLECTED FROM NOAH LOCK, TOGETHER WITH ONE FROM JONATHAN AYRES, AND SOME NEW APPY BOSWELL STORIES.
+
+SERIES I.
+
+1. The Robber and the Housekeeper, p202-208
+2. The Two Swans, p.208-211
+3. The King of the Herrings, p211-213
+4. Strong Jack, p213-6
+5. Jack and the Beanstalk, p216-9
+6. Clever Pat, p219-223
+7. The Cave at Rhydwen, p223-4
+8. The Seven Mysteries of the Luck, p224-7
+9. Appy Boswell’s Monkey, p227-8
+10. Appy Boswell’s Monkey. Another Tale, p228
+11. Appy Boswell’s Grinding Barrow— A variant, p228-9
+12. How Appy Boswell’s Grinding Barrow was Sold Twice Over, p229-30
+13. Appy Boswell’s Dog: Variants, p230-1
+14. Appy Boswell’s Donkey : Variants, p232
+15. Appy Boswell’s Donkey : Another tale, p232
+16. What Happened to Appy Boswell in a Public-House, p232-3
+17. Appy Boswell and the Conger Eel, p233
+
+
+
+
 
 --
 
@@ -25,7 +81,7 @@ No. 63.— The Black Lady
 
 A young girl goes to service at an old castle with the Black Lady, who warns her not to look through the window. The Black Lady goes out. The girl gets bored, looks through the window, and sees the Black Lady playing cards with the devil. She falls down frightened. The Black Lady comes in and asks her what she has seen. 'Nothing saw I; nought can I say. Leave me alone; I am weary of my life.' The Black Lady beats her, and asks her again, 'What saw you through the window?' 'Nothing saw I,' etc. The girl runs off and meets a keeper, who takes her home, and after some years marries her. She has a child, and is bedded. Enter the Black Lady. 'What saw you through the window?' 'Nothing saw I,' etc. The Black Lady takes the child, dashes its brains out, and exit. Enter the husband. The wife offers no explanation, and the husband wants to burn her, but his mother intercedes and saves her this time. But the same thing happens again, and the husband makes a fire. As she is being brought to the stake, the Black Lady comes. 'What saw you through the window?' 'Nothing saw I,' etc. 'Take her and burn her,' says the Black Lady. They fasten her up, and bring a light. The same question, the same answer. The Black Lady sees that she is secret, so gives her back her two children, and leaves her in peace.
 
-`A story of the 'Forbidden Room' type (cf. Clouston, i. 198-205 [Popular Tales and Fictions,). An incomplete Italian variant is cited there ; much closer parallels are Grimm's No. 3, 'Our Lady's Child'(i. 7 and 341), and Dasent's 'The Lassie and her Godmother' (p. 198; [?p216 of "Popular Tales from the Norse", 1859; p213 of "A selection from the Norse tales for the use of children", 1862]). For playing cards with the devil, see p. 120 ; and cf. also this passage from the Roumanian-Gypsy story of 'The Vampire' (No. 5, p. 18):—"'Tell me what did you see me doing?" "I saw nothing." And he killed her boy.'`
+`A story of the 'Forbidden Room' type (cf. Clouston, i. 198-205 [Popular Tales and Fictions,). An incomplete Italian variant is cited there; much closer parallels are Grimm's No. 3, 'Our Lady's Child'(i. 7 and 341), and Dasent's 'The Lassie and her Godmother' (p. 198; [?p216 of "Popular Tales from the Norse", 1859; p213 of "A selection from the Norse tales for the use of children", 1862]). For playing cards with the devil, see p. 120; and cf. also this passage from the Roumanian-Gypsy story of 'The Vampire' (No. 5, p. 18):—"'Tell me what did you see me doing?" "I saw nothing." And he killed her boy.'`
 
 TH Notes:
 
@@ -88,7 +144,7 @@ She who lived in the castle was the old Black Lady. She showed the girl all that
 
 The young girl was alone. There was nothing for her to do in the house: she read the books on the table. Then came into her head what the old Black Lady had said to her about the window. Up she got on her feet, and took a little chair. She went to the window and looked through it. She saw the Black Lady and the Devil playing cards. Down fell the young girl terrified.
 
-The Black Lady rose, opened the door, and came out She asked her: 'What didst thou see in the room ?'
+The Black Lady rose, opened the door, and came out She asked her: 'What didst thou see in the room?'
 
 'I saw nothing. Let me alone. I am tired of my life.'
 
@@ -251,7 +307,7 @@ Poor Skinny went below to the galley. There he was cleaning the knives and forks
 
 The Captain was aghast. He went below. He came on deck half an hour later. He saw poor Skinny pacing the deck in front of him.
 
-Next day the Captain asked Skinny to do another little job. He was very, very slow about it The Captain struck him on the head with an axe: he cleft him in twain. Behold a heap of bones upon the deck! The Captain collected them and cast them into the sea. 'He will not return again,' quoth the Captain to himself. Presently he heard something behind him. He looked. 'Why! here is Skin and Bones again! '
+Next day the Captain asked Skinny to do another little job. He was very, very slow about it The Captain struck him on the head with an axe: he cleft him in twain. Behold a heap of bones upon the deck! The Captain collected them and cast them into the sea. 'He will not return again,' quoth the Captain to himself. Presently he heard something behind him. He looked. 'Why! here is Skin and Bones again!'
 
 On the day after there was something else to be done. The Captain called Skinny: 'Do this for me.' Skinny was very, very slow about it. The Captain took a marline-spike in his hand, and struck him down once more.
 
@@ -324,7 +380,7 @@ The witch was furious. She realised that the two had escaped. She called her dau
 
 Lo! the two are speeding on their way. They saw the witch's daughter coming after them like the wind. She has almost over-taken them now. Said the gentleman to the maiden: 'Wish thyself a duck and me a running stream; when she tries to catch thee dive beneath the water.' She did so. The youth was transformed into a running stream and the girl turned herself into a duck.
 
-And now the witch's daughter overtakes them. She approached the duck; she tried to catch her. 'Duck, duck, pretty little duck,' quoth she; 'hast thou seen any one pass this way ? '
+And now the witch's daughter overtakes them. She approached the duck; she tried to catch her. 'Duck, duck, pretty little duck,' quoth she; 'hast thou seen any one pass this way?'
 
 Every time that she came close to the little duck, the little duck dived beneath the water.
 
@@ -400,7 +456,7 @@ The story of the elopement achieved by magical transformations, which we may per
 
 Andrew Lang regarded the tale of Jason and Medea as a variant belonging to the group of stories which we have been examining. It is true that the plot of the Greek story can be reduced to something of the same skeleton, but the similarity is at best vague and general. It does not seem to me in a real sense a variant form of the same story. On the other hand, there are traces of something very like the Transformation Flight in the story of Zeus and Aegina in Schol. A., Iliad, i. 180. Zeus had stolen Aegina, daughter of the river Asopus, had taken her to Phlius, and seduced her, thus begetting Aeacus. 'But Asopus seeking his daughter, learned from Sisyphus both the name of the seducer and the place where he had taken refuge. He therefore hastened off without delay. But Zeus, when about to be caught red-handed, transformed Aegina into the island of that name, and himself was transformed into a stone. Asopus then arriving and not finding anybody, turned back again to his own waters.'
 
-If we turn to the detail of our version, it is at once evident upon internal evidence that the coherence of the plot has suffered in the process of oral transmission. The meeting with the dwarfish man has no consequences. If the black boar could regain his- shape by mentioning the magical leaves, why had he not done so before, and if he knew where they were kept, why had he not earlier taken them ? The elopement has retained only one transformation, and the villain is not done to death, as he usually is. The incidents which follow the kiss of forgetfulness are obviously confused, and, as they stand, inadequately coherent.
+If we turn to the detail of our version, it is at once evident upon internal evidence that the coherence of the plot has suffered in the process of oral transmission. The meeting with the dwarfish man has no consequences. If the black boar could regain his- shape by mentioning the magical leaves, why had he not done so before, and if he knew where they were kept, why had he not earlier taken them? The elopement has retained only one transformation, and the villain is not done to death, as he usually is. The incidents which follow the kiss of forgetfulness are obviously confused, and, as they stand, inadequately coherent.
 
 I should suggest that the opening is due to a confusion between the forms of introduction (a) in which the hero is brought to the villain's house by the search of some magical animal or object, and (b) in which the hero takes service with the villain. I do not know an exact equivalent to the Leaves that hung but never grew. They belong obviously to the kind of magical object the search for which, often in order to cure his royal father of blindness or disease, is frequently the cause of the hero setting out upon his adventures.
 
@@ -408,7 +464,7 @@ The delaying of pursuit by the answering of pieces of furniture, drops of blood,
 
 The canopy with iron spikes, which automatically descends- upon the sleeper, has possibly an ungenuine appearance. But the incident of the escape from murder in bed is sound tradition, though it is misplaced and belongs properly to the part of the story which comes before the flight. Compare, for example, Cosquin, C. L., ii. p. 10, where Jean sleeps, not in the bed which the devil suggests, but in another. 'Pendant toute la nuit, le diable ne cessa de secouer et d'agiter dans tous les sens le lit dans lequel il pensait que le jeune homme s'4tait couch4,' and was very much surprised to find him alive in the morning. Where the introduction takes the stepmother form, the change of beds and the consequent killing of its own child by the ogre is a frequent incident (see examples in B. and P., i. p. 499).
 
-Finally, for comparison with the familiar black pudding of our storyteller, mention may be made of the admirable specimen of the nonsense conclusion with which Grimm, No. 70a, Das Okerlo, ends. 'Wast thou also at the wedding ? Yes, indeed, I was there. My headgear was of butter, but I came into the sun and it was melted off me. My coat was of gossamer, but I came through thorns and they tore it off me. My slippers were of glass, but I trod on a stone and they broke in pieces.' W. R. H.]
+Finally, for comparison with the familiar black pudding of our storyteller, mention may be made of the admirable specimen of the nonsense conclusion with which Grimm, No. 70a, Das Okerlo, ends. 'Wast thou also at the wedding? Yes, indeed, I was there. My headgear was of butter, but I came into the sun and it was melted off me. My coat was of gossamer, but I came through thorns and they tore it off me. My slippers were of glass, but I trod on a stone and they broke in pieces.' W. R. H.]
 
 ---
 https://archive.org/details/journalgypsylore3rdsv3-1924/page/n124/mode/1up
