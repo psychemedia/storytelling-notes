@@ -18,15 +18,15 @@ O yes! O yes! O yes! If any man or woman in country, town, or city, have any sui
 
 Vulcan the Blacksmith appears, and gives in his Bill.
 
-Be it known to you all, Gentleman, that this Sir John Barleycorn hath been a sore enemy to me and many of muy fellows. For many a time, when I have been busy at my work, not thinking of any manner of harm to any man, but having a fire-spark in my throat, and one time going to the sign of the Cup and Can for one pennyworth of ale, there I found Sir John ; and thinking no hurt to anyone, I set me down to spend my two-pence; but in the end Sir John began to pick a quarrel with me, and then I started up, thinking to go about my business ;  but then Sir John had got such fast hold of me by the top of my head, that I had no power of myself; and by his strength and power threw me down, broke my head, and bruised other parts of my purse and left me bever a penny; and therefore he doth deserve to die.
+Be it known to you all, Gentleman, that this Sir John Barleycorn hath been a sore enemy to me and many of muy fellows. For many a time, when I have been busy at my work, not thinking of any manner of harm to any man, but having a fire-spark in my throat, and one time going to the sign of the Cup and Can for one pennyworth of ale, there I found Sir John; and thinking no hurt to anyone, I set me down to spend my two-pence; but in the end Sir John began to pick a quarrel with me, and then I started up, thinking to go about my business;  but then Sir John had got such fast hold of me by the top of my head, that I had no power of myself; and by his strength and power threw me down, broke my head, and bruised other parts of my purse and left me bever a penny; and therefore he doth deserve to die.
 
 Will the Weaver
 
-Now gentlemen, I do beseech you to hear me speak. I am but a poor man, and have a wife, and a charge of children, and am but a poor Weaver by my trade, yet this unkind companion will never let me alone, but is always enticing me up from my work, and will not be quiet till he hath mwe to the alehouse, and when there he always quarrels with me, and abuses me most basely, and sometimes he binds me both hand and foot, and throws me into a ditch, and there stays with me all night, and next morning leaves me, but with never a penny in my pocket ; and therefore, if you hang him I shall never grieve.
+Now gentlemen, I do beseech you to hear me speak. I am but a poor man, and have a wife, and a charge of children, and am but a poor Weaver by my trade, yet this unkind companion will never let me alone, but is always enticing me up from my work, and will not be quiet till he hath mwe to the alehouse, and when there he always quarrels with me, and abuses me most basely, and sometimes he binds me both hand and foot, and throws me into a ditch, and there stays with me all night, and next morning leaves me, but with never a penny in my pocket; and therefore, if you hang him I shall never grieve.
 
 The Taylor comes in.
 
-And I shall never be sorry if you either hang, drown, or behead him ; for I am sure he has been the greatest enemy to me for many years past, for as I never loved him so I never cared for his company, and I always loved Master Wheat better than Sir John Barleycorn, yet one time as I was coming home from my work I espied Sir John and two or three good fellows quarrelling, I skipped among them thinking to make them good friends; for why, thought I, should neighbours fall out; but as soon as Sir John saw me take my neighbour's part, he straitway began to quarrel with me and gave me such a thump on the teeth that I fell backwards, and all bewrayed me, broke both my elbows and my yardwand. nay, worse than that, the very same day me wife met with him, and he like an ill-conditioned knave, abused her, insomuch that she learned of him some of his mischievous tricks, and came home so drunk, that though she could scarcely stand, she beat my back and sides blue. Nay, she has now got the way so perfect that I am perswaded she will never leave it; and therefore by my consent you shall put him to the same death that many of my enemies have been put to, that is to snap off his head.
+And I shall never be sorry if you either hang, drown, or behead him; for I am sure he has been the greatest enemy to me for many years past, for as I never loved him so I never cared for his company, and I always loved Master Wheat better than Sir John Barleycorn, yet one time as I was coming home from my work I espied Sir John and two or three good fellows quarrelling, I skipped among them thinking to make them good friends; for why, thought I, should neighbours fall out; but as soon as Sir John saw me take my neighbour's part, he straitway began to quarrel with me and gave me such a thump on the teeth that I fell backwards, and all bewrayed me, broke both my elbows and my yardwand. nay, worse than that, the very same day me wife met with him, and he like an ill-conditioned knave, abused her, insomuch that she learned of him some of his mischievous tricks, and came home so drunk, that though she could scarcely stand, she beat my back and sides blue. Nay, she has now got the way so perfect that I am perswaded she will never leave it; and therefore by my consent you shall put him to the same death that many of my enemies have been put to, that is to snap off his head.
 
 Mr Wheatley.
 
@@ -70,15 +70,15 @@ Publication date 1680
 
 y1r Fobn Barley-Corn.
 
-A Man of Noble blood, and well-beloved in England,and hath been a great mains tainer of all England, both rich and poor ; yet now is found guilty of many a sinful act and bloody crime, and therefore he is Arraigned and Condemned, and stands to the mercy of the Jury; And if any man has any thing to lay to his Charge, let them appear at the sign of the Three Logger-heads in Bacchus-Court, and there they shall be heard by the two Noble Judges, Oliver, and Old-Nick, his Holy Father, Given under the Hand and Seals of these two above written, at the sign of the three merry Companions in B:alim, that is to say, poor Robin, merry Tom, and Jack Lackmit,
+A Man of Noble blood, and well-beloved in England,and hath been a great mains tainer of all England, both rich and poor; yet now is found guilty of many a sinful act and bloody crime, and therefore he is Arraigned and Condemned, and stands to the mercy of the Jury; And if any man has any thing to lay to his Charge, let them appear at the sign of the Three Logger-heads in Bacchus-Court, and there they shall be heard by the two Noble Judges, Oliver, and Old-Nick, his Holy Father, Given under the Hand and Seals of these two above written, at the sign of the three merry Companions in B:alim, that is to say, poor Robin, merry Tom, and Jack Lackmit,
 
 The Tune 1s C1 / Sir Fobn R.: ly Cor Or, 1m of all Td,
 
-0) L vou that be Good Fellows, come !ilten unto we,
+0) L vou that be Good Fellows, come!ilten unto we,
 
 ii that you keep the Ale-houſe,
 
-and inerry Company :
+and inerry Company:
 
 Attend unto my Story, which I fear is too true,
 
@@ -94,7 +94,7 @@ What jhonld all do which now are born.
 
 it Bar.eyz-Corn were dead?
 
-ror as I abroad did waik, | heard 2 pitcous cry, And many a Man dif talk that BaiJey-Cory muſt Dyc ; His Enemies eucreaſe ſo faſt, at board and cke at Bed
+ror as I abroad did waik, | heard 2 pitcous cry, And many a Man dif talk that BaiJey-Cory muſt Dyc; His Enemies eucreaſe ſo faſt, at board and cke at Bed
 
 ae 74a s
 
@@ -102,7 +102,7 @@ Ps I fear tteir malice will not cesfe, til! ihey?ve CUr off 111 Head,
 
 For 5mvz the honeſt Black-ſmith, aoth make a priecus cry,
 
-And Nick the nimble Taylor, doth cow that he ſhail dye :
+And Nick the nimble Taylor, doth cow that he ſhail dye:
 
 Amnl 0 tt rhe Weaver doth complain, With ma'ty Tradeſ-nen more,
 
@@ -110,7 +110,7 @@ i hope their Javour 45 in vain, therefore they may give Ore.
 
 Yet now a little white give car, you that ate [Landers by,
 
-And vou preſently ſhall hear, Sir John Gor demn'd to dye :
+And vou preſently ſhall hear, Sir John Gor demn'd to dye:
 
 Al] you that love poor Zarlep-Conn, a zcod word for hum give,
 
@@ -122,7 +122,7 @@ If you please but to give so much attention, as to spare a little time, you shal
 
 O yes! O yes! O yes! If any man or woman in country, town, or city, have any suits or bills of indictment, against Sir John Barley-Corn, let them appear this day, and they shall either hear or be heard.
 
-Vulcan the Blacksmith appears, and gives in his Bill. Be it known to you all, Gentleman, that this Sir John Barley-Corn hath been a sore enemy to me and many of my fellows. For many a time, when I have been busie at my work, not thinking of any harm to any man, but having a fire-spark in my throat, I one time going over to the sign of the Cup and Can for one pennyworth of ale, there I found Sir John ; and thinking no hurt to any man, I civlly sat me down to spend my honset two-pence;
+Vulcan the Blacksmith appears, and gives in his Bill. Be it known to you all, Gentleman, that this Sir John Barley-Corn hath been a sore enemy to me and many of my fellows. For many a time, when I have been busie at my work, not thinking of any harm to any man, but having a fire-spark in my throat, I one time going over to the sign of the Cup and Can for one pennyworth of ale, there I found Sir John; and thinking no hurt to any man, I civlly sat me down to spend my honset two-pence;
 
 https://archive.org/details/bim_eighteenth-century_the-dying-groans-of-sir-_1790
 he dying groans of Sir John Barleycorn. Being his grievous complaints against the brewers of bad ale. To which is added, Donal Drouth's reply, with a large...  1790
