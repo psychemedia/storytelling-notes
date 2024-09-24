@@ -9,85 +9,85 @@ p117-122
 
 
 BUTTERCUP.
-ONCE on a time there waa an old wife who sat and baked. Now, you must know that this old wife had a little son, who was so plump and fat, and ao fond of good things, that they called him Buttercup ; she had a dog, too, whose name was Goldtooth, and as she was baking, all at once Goldtooth began to bark.
+ONCE on a time there waa an old wife who sat and baked. Now, you must know that this old wife had a little son, who was so plump and fat, and ao fond of good things, that they called him Buttercup; she had a dog, too, whose name was Goldtooth, and as she was baking, all at once Goldtooth began to bark.
 
-" Run out. Buttercup, there's a dear !" said the old wife, " and see what Goldtooth is barking at."
+"Run out. Buttercup, there's a dear!" said the old wife, " and see what Goldtooth is barking at."
 
 So the boy ran out, and came back crying out, —
 
-" Oh, Heaven help us I here comes a great big witch, with her head under her arm, and a bag at her back."
+"Oh, Heaven help us I here comes a great big witch, with her head under her arm, and a bag at her back."
 
-" Jump under the kneading-trough and hide your-self," said his mother.
+"Jump under the kneading-trough and hide your-self," said his mother.
 
-So in came the old hag !
+So in came the old hag!
 
 "Good day," said she.
 
-" God bless you, " said Buttercup's mother.
+"God bless you, " said Buttercup's mother.
 
-" Isn't your Buttercup at home to-day?" asked the hag.
+"Isn't your Buttercup at home to-day?" asked the hag.
 
-" No, that be isn't. He's out in the wood with his father, shooting ptarmigan."
+"No, that be isn't. He's out in the wood with his father, shooting ptarmigan."
 
-" Plague take it," said the hag, " for I had such a nice little silver knife I wanted to give him.
+"Plague take it," said the hag, " for I had such a nice little silver knife I wanted to give him.
 
-" Pip, pip ! here I am," said Buttercup under the kneading-trough, and out he came.
+"Pip, pip! here I am," said Buttercup under the kneading-trough, and out he came.
 
 "I'm so old, and stiff in the back," said the hag, "you must creep into the bag and fetch it out for yourself."
 
 But when Buttercup was well into the bag, the hag threw it over her back and strode off, and when they had gone a good bit of the way, the old hag got tired, and asked, —
 
-" How far is it off to Snoring ?"
+"How far is it off to Snoring?"
 
-" Half a mile," answered Buttercup.
+"Half a mile," answered Buttercup.
 
-So the hag put down the sack on the road and went aside by herself into the wood, and lay down to sleep. Meantime Buttercup set to work and cut a bole in the sack with his knife ; then he crept out and put a great root of a fir-tree into the sack, and ran home to his mother.
+So the hag put down the sack on the road and went aside by herself into the wood, and lay down to sleep. Meantime Buttercup set to work and cut a bole in the sack with his knife; then he crept out and put a great root of a fir-tree into the sack, and ran home to his mother.
 
 When the hag got home and saw what there was in the sack, you may fancy she was in a fine rage.
 
 Next day the old wife sat and baked again, and her dog began to bark just as he did the day before.
 
-" Run out. Buttercup, my boy," said she, " and see what Goldtooth is barking at."
+"Run out. Buttercup, my boy," said she, " and see what Goldtooth is barking at."
 
-" Well, I never !" cried Buttercup, as soon as he got out ; " if there isn't that ugly old beast coming again with her head under her arm, and a great sack at her back."
+"Well, I never!" cried Buttercup, as soon as he got out; " if there isn't that ugly old beast coming again with her head under her arm, and a great sack at her back."
 
-" Under the kneading-trough with you and hide," said his mother.
+"Under the kneading-trough with you and hide," said his mother.
 
-" Good day ! " said the hag, " is your Buttercup at home to-day ?"
+"Good day!" said the hag, " is your Buttercup at home to-day?"
 
-" I'm sorry to say he isn't," said his mother ; "he's out in the wood with his father shooting ptarmigan."
+"I'm sorry to say he isn't," said his mother; "he's out in the wood with his father shooting ptarmigan."
 
-" What a bore," said the hag ; " here I have a beautiful little silver spoon I want to give him."
+"What a bore," said the hag; " here I have a beautiful little silver spoon I want to give him."
 
-" Pip, pip I here I am," said Buttercup, and crept out.
+"Pip, pip I here I am," said Buttercup, and crept out.
 
-"I'm so stiff in the back" said the old witch, "you must creep into the sack and fetch it out for yourself. "
+"I'm so stiff in the back" said the old witch, "you must creep into the sack and fetch it out for yourself."
 
 So when Buttercup was well into the sack, the hag swung it over her shoulders and set off home as fast as her legs could carry her. But when they had gone a good bit, she grew weary, and asked, —
 
-" How far is it off to Snoring?"
+"How far is it off to Snoring?"
 
-" A mile and a half," answered Buttercup.
+"A mile and a half," answered Buttercup.
 
-So the hag net down the sack, and went aside into the wood to sleep a bit, but while she slept, Buttercup made a hole in the sack and got out, and put a great stone into it. Now, when the old witch got home, she made a great fire on the hearth, and put a big pot on it, and got everything ready to boil Buttercup ; but when she took the sack, and thought she was going to turn out Buttercup into the pot, down plumped the stone and made a hole in the bottom of the pot, so that the water ran out and quenched the fire. Then the old hag was in a dreadful rage, aod said, " If be makes himself ever so heavy; next time, he shan't take me in again."
+So the hag net down the sack, and went aside into the wood to sleep a bit, but while she slept, Buttercup made a hole in the sack and got out, and put a great stone into it. Now, when the old witch got home, she made a great fire on the hearth, and put a big pot on it, and got everything ready to boil Buttercup; but when she took the sack, and thought she was going to turn out Buttercup into the pot, down plumped the stone and made a hole in the bottom of the pot, so that the water ran out and quenched the fire. Then the old hag was in a dreadful rage, aod said, " If be makes himself ever so heavy; next time, he shan't take me in again."
 
-The third day everything went just as it had gone twice before ; Goldtooth began to bark, and Buttercup's mother said to him, —
+The third day everything went just as it had gone twice before; Goldtooth began to bark, and Buttercup's mother said to him, —
 
-" Do run out and see what our dog is barking at."
+"Do run out and see what our dog is barking at."
 
 So out he went, but be soon came back crying out, —
 
-" Heaven save us ! Here comes the old hag again with her head under her arm, and a sack at her back."
+"Heaven save us! Here comes the old hag again with her head under her arm, and a sack at her back."
 
-" Jump under the kneading-trough and hide," said his mother.
+"Jump under the kneading-trough and hide," said his mother.
 
-" Good day !" said the hag, as she came in at the door; "is your Buttercup at home to-day ?"
+"Good day!" said the hag, as she came in at the door; "is your Buttercup at home to-day?"
 
-"You're very kind to ask after him," said his mother ; "but he's out in the wood with his father shooting ptarmigan."
+"You're very kind to ask after him," said his mother; "but he's out in the wood with his father shooting ptarmigan."
 
-" What a bore now," said the old bag ; " here have I got such a beautiful little silver fork for him."
+"What a bore now," said the old bag; " here have I got such a beautiful little silver fork for him."
 
-" Pip, pip I here I am," said Buttercup, as he came out from under the kneading-trough.
+"Pip, pip I here I am," said Buttercup, as he came out from under the kneading-trough.
 
 "I'm so stiff in the back," said the hag, "you must creep into the sack and fetch it out for yourself."
 
@@ -95,34 +95,34 @@ But when Buttercup was well inside the sack, the old hag swung it across her sho
 
 So the old hag said to her daughter, —
 
-" Now you must take Buttercup and kill him, and boil him nicely till I come back, for I'm off to church to bid my guests to dinner."
+"Now you must take Buttercup and kill him, and boil him nicely till I come back, for I'm off to church to bid my guests to dinner."
 
 So, when all in the house were gone to church, the daughter was to take Buttercup and kill him, but then she didn't know how to set about it at all.
 
-" Stop a bit," said Buttercup ; "I'll soon show you how to do it ; just lay your head on the chopping-block, and you'll soon see."
+"Stop a bit," said Buttercup; "I'll soon show you how to do it; just lay your head on the chopping-block, and you'll soon see."
 
-So the poor silly thing laid her head down, and Buttercup took an axe and chopped her head off, just as if she had been a chicken. Then he laid her head in the bed, and popped her body into the pot, and boiled it so nicely ; and when he had done that, he climbed up on the roof, and dragged up with him the fir-tree root and the atone, and put the one over the door, and the other at the top of the chimney.
+So the poor silly thing laid her head down, and Buttercup took an axe and chopped her head off, just as if she had been a chicken. Then he laid her head in the bed, and popped her body into the pot, and boiled it so nicely; and when he had done that, he climbed up on the roof, and dragged up with him the fir-tree root and the atone, and put the one over the door, and the other at the top of the chimney.
 
-So when the household came back &om church, and saw the head on the bed, they thought it was the daughter who lay there asleep ; and then they thought they would just taste the broth.
+So when the household came back &om church, and saw the head on the bed, they thought it was the daughter who lay there asleep; and then they thought they would just taste the broth.
 
-" Good, by my troth !  
+"Good, by my troth!  
 Buttercup broth."
 
 said the old hag.
 
-" Good, by troth !  
+"Good, by troth!  
 Daughter broth."
 
 said Buttercup, but no one heeded him.
 
 So the old hag's husband, who was every bit as bad as she, took the spoon to have a taste.
 
-" Good, by my troth !  
+"Good, by my troth!  
 Buttercup broth."
 
 said he.
 
-" Good, by my troth !  
+"Good, by my troth!  
 Daughter broth."
 
 said Buttercup down the chimney pipe.
@@ -151,7 +151,7 @@ So the men took Jack out of the bag and filled it with thorns, and then Jack gav
 
 When the witch came back from the town she picked up her bag, threw it over her shoulder, and walked away. But she had not gone far before the thorns began to prick her back, and she said, " Jack, I think thou'st got some pins about thee, lad."
 
-As soon as she had got home she emptied the bag upon a clean white sheet that she had ready. But when she found that there was nothing in the bag but thorns she was very angry and said, ' ' Fll catch thee to-morrow, Jack, and I'll boil thee."
+As soon as she had got home she emptied the bag upon a clean white sheet that she had ready. But when she found that there was nothing in the bag but thorns she was very angry and said, "I'll catch thee to-morrow, Jack, and I'll boil thee."
 
 The next day she met Jack again, and asked him for some butter-milk, and told him that if he would not give it her she would put him into her bag again. But Jack said he would give her no butter-milk, so she put him into hor bag, and again she bethought her that she had forgotten something for which she would have to go back to the town.
 

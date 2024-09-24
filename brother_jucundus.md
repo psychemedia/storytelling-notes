@@ -14,20 +14,20 @@ At the close of the fifteenth century, before the Dissolution was thought of, th
 
 Convivial songs floated through his mind when he ought to have been chanting the Psalms of David, and the flavour of old sack rose upon his palate when he looked dolefully down at dinner-time into his mug of " swipes."
 
-A year passed. The full paunch of Brother Jucundus began to subside ; his fat cheeks to fall flabby, like the dew-laps of a cow ; a dispirited expression took the place of the watery twinkle which had once animated his eye.
+A year passed. The full paunch of Brother Jucundus began to subside; his fat cheeks to fall flabby, like the dew-laps of a cow; a dispirited expression took the place of the watery twinkle which had once animated his eye.
 
 Come what might, Brother Jucundus felt he must have a fling. He should die without it. Just one jollification in the twelvemonth, and then he would put up for the rest of the year with beans and cabbage, small beer and matins before dawn.
 
-York fair approached. York fair ! of all that is ravishing ! The shows of dancing dogs, the whirli-go-rounds, the giantesses and dwarfs, the " spice " stalls, the drinking- booths ! To York fair he must, he would go, if condemned to a bean and a thimbleful of water for fasting dinner ever after.
-And go he did. He managed it in this way : — After dinner the whole community took an hour's sleep. As they rose at midnight and dined at mid-day, this was very necessary, and the Priory was silent, save for snores, from one o'clock to two. At half-past one Brother Jucundus stole to the porter's lodge, found the porter asleep in his chair — so took possession of his keys ; went to the Prior's apartment ; the Prior was asleep ; pocketed a crown from his money-box, and left the Priory.
+York fair approached. York fair! of all that is ravishing! The shows of dancing dogs, the whirli-go-rounds, the giantesses and dwarfs, the " spice " stalls, the drinking- booths! To York fair he must, he would go, if condemned to a bean and a thimbleful of water for fasting dinner ever after.
+And go he did. He managed it in this way: — After dinner the whole community took an hour's sleep. As they rose at midnight and dined at mid-day, this was very necessary, and the Priory was silent, save for snores, from one o'clock to two. At half-past one Brother Jucundus stole to the porter's lodge, found the porter asleep in his chair — so took possession of his keys; went to the Prior's apartment; the Prior was asleep; pocketed a crown from his money-box, and left the Priory.
 
 At two o'clock the community awoke. The porter missed his keys. The Prior missed the crown. All the monks were summoned into the chapter-house, and all missed Brother Jucundus.
 
 After long deliberation it was decided that two sedate and trusty brothers should be sent out in quest of him.
 
-It was a bright, sunny afternoon. Jucundus had enjoyed himself amazingly.   The amount of gingerbread horses and men he had consumed was prodigious. He had seen " The Spotted Boy " and " The Bearded Woman " ; he had gone round in the whirligig on the back of a wooden horse ; he had shot for nuts at a mark, and won his pocket full, which he cracked every now and then, and washed down with a draft of really good ale. And now, just now, he was going up in the boat of a great see-saw, with a foaming tankard in his hand, his jolly red face illumined with glee, and his ample throat thundering forth —
+It was a bright, sunny afternoon. Jucundus had enjoyed himself amazingly.   The amount of gingerbread horses and men he had consumed was prodigious. He had seen " The Spotted Boy " and " The Bearded Woman "; he had gone round in the whirligig on the back of a wooden horse; he had shot for nuts at a mark, and won his pocket full, which he cracked every now and then, and washed down with a draft of really good ale. And now, just now, he was going up in the boat of a great see-saw, with a foaming tankard in his hand, his jolly red face illumined with glee, and his ample throat thundering forth —
 
-"In dulce jubilo-o-o, Up, up, up we go-o-o " ;
+"In dulce jubilo-o-o, Up, up, up we go-o-o ";
 
 when his sweet jubilee was cut short by the sight of two monks from his Priory, with grim faces, making their way towards the see-saw.
 
@@ -35,7 +35,7 @@ Brother Jucundus tried to scramble out, and in so doing tumbled down. He was pic
 
 Brother Jucundus looked pleasantly up in his face from out of his conveyance, smiled benignantly, and piped —
 
-" In dulce jubilo-o-o, Up, up, up we go-o-o."
+"In dulce jubilo-o-o, Up, up, up we go-o-o."
 
 The chapter was still sitting, stern and threatening.
 
@@ -47,54 +47,54 @@ He looked round  on  the  chapter  with  an affectionate glance from out of his 
 
 He was asked at once for his defence.   He murmured with a hiccup —
 
-" In dulce jubilo-o-o."
+"In dulce jubilo-o-o."
 
 The sentence was unanimous, and unfalteringly given. He was to be walled alive into a niche in the Priory cellar. The execution was to be carried into effect immediately.
 
 As he was helped down the cellar stairs, some glimmer of his situation came in on the mind of Jucundus, and he sadly trolled out —
 
-" Down, down, down we go-o-o."
+"Down, down, down we go-o-o."
 
 A convenient niche was soon found. A cruse of water and a loaf of bread, with cruel mockery, were placed in the recess. The ready hands of zealous monks mixed the mortar, brought the bricks, and in a quarter of an hour Brother Jucundus was firmly walled in to his living grave.
 
-Now for the first time did the extreme inconvenience ol his position break upon the unfortunate monk. In the wheelbarrow he had been able to sit ; here he was walled upright. It was cramping, intolerable. He kicked, he pressed backwards with all his might ; and suddenly, with a crash, the wall behind him gave way, and he rolled back- wards over a heap of fallen bricks into a cellar.
+Now for the first time did the extreme inconvenience ol his position break upon the unfortunate monk. In the wheelbarrow he had been able to sit; here he was walled upright. It was cramping, intolerable. He kicked, he pressed backwards with all his might; and suddenly, with a crash, the wall behind him gave way, and he rolled back- wards over a heap of fallen bricks into a cellar.
 
-The shock brought him completely to his senses. Where was he? Now he saw the gravity of his offence — the terrible fate that had been prepared for him. Escape was fortunately open to him. He ran up the cellar stairs, and found himself in the Abbey of S. Mary's. The cellars of the two monasteries had adjoined ; a wall alone had divided them. He had tumbled out of S. Leonard's into S. Mary's.
+The shock brought him completely to his senses. Where was he? Now he saw the gravity of his offence — the terrible fate that had been prepared for him. Escape was fortunately open to him. He ran up the cellar stairs, and found himself in the Abbey of S. Mary's. The cellars of the two monasteries had adjoined; a wall alone had divided them. He had tumbled out of S. Leonard's into S. Mary's.
 
-S. Mary's Abbey belonged to the severe Cistercian Order. Complete silence was one of the rules of the society. Except on Easter-day, no monk might speak; on Easter-day every one talked, and nobody listened. When Brother Jucundus accordingly appeared in the cloisters, no monk turned to look at him, or asked him u how the saints he had come there ? " but swept by him like a ghost. Jucundus made himself as much at home as was possible. He took his place at table, ate and drank what was set before him, occupied a pallet in the common dormitory, lifted his voice in concert with the others in the Abbey choir, and nobody meddled with him. The monks, if they thought about him at all — and it was against their rules to think of anything but their own spiritual affairs — thought he was a new monk just joined in the usual accepted manner.
+S. Mary's Abbey belonged to the severe Cistercian Order. Complete silence was one of the rules of the society. Except on Easter-day, no monk might speak; on Easter-day every one talked, and nobody listened. When Brother Jucundus accordingly appeared in the cloisters, no monk turned to look at him, or asked him u how the saints he had come there?" but swept by him like a ghost. Jucundus made himself as much at home as was possible. He took his place at table, ate and drank what was set before him, occupied a pallet in the common dormitory, lifted his voice in concert with the others in the Abbey choir, and nobody meddled with him. The monks, if they thought about him at all — and it was against their rules to think of anything but their own spiritual affairs — thought he was a new monk just joined in the usual accepted manner.
 
-A twelvemonth passed. It had been dull in S. Leonard's ; it was duller in S. Mary's. The day came round on which York fair was held, the day, that happy day, which had ended so dolorously.
+A twelvemonth passed. It had been dull in S. Leonard's; it was duller in S. Mary's. The day came round on which York fair was held, the day, that happy day, which had ended so dolorously.
 
-Now the day before York fair the office of cellarer fell vacant in S. Mary's Abbey by the death of the monk who had presided over the wine and beer. The Abbot by a happy inspiration committed the keys to Brother Jucundus. Here was an opportunity ! If York fair might not be enjoyed in the market-place and the Pavement, he would at least commemorate it in the Abbey cellar.
+Now the day before York fair the office of cellarer fell vacant in S. Mary's Abbey by the death of the monk who had presided over the wine and beer. The Abbot by a happy inspiration committed the keys to Brother Jucundus. Here was an opportunity! If York fair might not be enjoyed in the market-place and the Pavement, he would at least commemorate it in the Abbey cellar.
 
 On York fair-day, accordingly, Brother Jucundus, after having seen all his fellow-monks safe in bed, stole down  the  stone  steps  into  the  vault  where were  the "barrels,  with a tankard in  his one hand and a lantern in the other.
 
 S. Mary's Abbey was often called upon to receive noble, even royal guests, and entertain them nobly and royally. It therefore contained barrels of very prime wine and very strong audit ale. Brother Jucundus went along the range of barrels trying one tipple after another. There is nothing so dangerous as mixing your drink, and this the reverend brother discovered at last, for he sat down, unable to proceed further, by the best cask of Malmsey, and turning the tap, filled his tankard.
 
-Next day at noon the Cistercians assembled in the refectory for their frugal repast, dinner and breakfast in one ; and as they had been up since midnight, and had eaten and drunk nothing for twelve hours, were tolerably hungry and dry. But the mugs were empty. At the Abbot's table even was neither wine nor beer. The silent fraternity bore with this some time, but at last even the rules of the Order could not keep them perfectly silent. They shuffled with their feet, growled and grunted discontentedly. At last the Abbot, in a voice of thunder, shouted —
+Next day at noon the Cistercians assembled in the refectory for their frugal repast, dinner and breakfast in one; and as they had been up since midnight, and had eaten and drunk nothing for twelve hours, were tolerably hungry and dry. But the mugs were empty. At the Abbot's table even was neither wine nor beer. The silent fraternity bore with this some time, but at last even the rules of the Order could not keep them perfectly silent. They shuffled with their feet, growled and grunted discontentedly. At last the Abbot, in a voice of thunder, shouted —
 
-" I want my beer ! " and the example of the head becoming infectious, " Beer, beer, beer ! we all want our beer ! " resounded from every part of the refectory.
+"I want my beer!" and the example of the head becoming infectious, " Beer, beer, beer! we all want our beer!" resounded from every part of the refectory.
 
-" Where was the cellarer ? " Nobody knew. At last two brothers were commissioned to go to the cellar and fetch ale. They presently returned with awe-struck coun- tenances, beckoned to the Abbot to follow them, and led the way along the cloisters down the cellar stairs. Curiosity, though against the rule, was infectious, and all the monks crept en queue after the Abbot. When they reached the vault a shocking sight presented itself to their eyes. Brother Jucundus lay with his head against the butt of Malmsey, flourishing his tankard over his head, and feebly, incoherently, trolling forth —
+"Where was the cellarer?" Nobody knew. At last two brothers were commissioned to go to the cellar and fetch ale. They presently returned with awe-struck coun- tenances, beckoned to the Abbot to follow them, and led the way along the cloisters down the cellar stairs. Curiosity, though against the rule, was infectious, and all the monks crept en queue after the Abbot. When they reached the vault a shocking sight presented itself to their eyes. Brother Jucundus lay with his head against the butt of Malmsey, flourishing his tankard over his head, and feebly, incoherently, trolling forth —
 
-" In dulce jubilo-o-o, Up, up, up we go-o-o."
+"In dulce jubilo-o-o, Up, up, up we go-o-o."
 
 It was too flagrant an offence to be passed over. A chapter of the Order was at once constituted in the cellar itself. All the monks were present. Unanimously it was decided that after solemn excommunication with bell, book, and candle, the guilty brother should be walled up alive on the scene of his crime in that very cellar.
 
 The awful scene of excommunication was proceeded with. It took some time, and during the ceremony Brother Jucundus gradually resumed consciousness — the fumes of Malmsey slowly evaporated. A convenient recess was found, where a heap of crumbling bricks lay prostrate. It was the identical nook out of which a year and a day before Brother Jucundus had escaped into the Cistercian Order and Abbey of S. Mary.
-Into this niche therefore he was built. His terrible position had  not, however, as  yet  forced itself on  the monk's  brain ; he still tasted Malmsey, still was his heart buoyant, and with swelling lungs he roared forth his song —
+Into this niche therefore he was built. His terrible position had  not, however, as  yet  forced itself on  the monk's  brain; he still tasted Malmsey, still was his heart buoyant, and with swelling lungs he roared forth his song —
 
-" In dulce jubilo-o-o  
+"In dulce jubilo-o-o  
 Up, up, up we go-o-o."
 
 Now, it happened that the clocks in S. Leonard's and S. Mary's differed by a quarter of an hour. That of S. Leonard's was slower than that of S. Mary's. Consequently it was only just dinner-time in S. Leonard's Priory, and the cellarer, pitcher in hand, had just descended the stairs, and was filling his vessel with small beer, when he heard close to his ear, from behind the wall, a stentorian voice thunder forth —
 
-" In dulce jubilo-o-o,  
+"In dulce jubilo-o-o,  
 Up, up, up we go-o-o."
 
 The voice, the strain, the words were those of Brother Jucundus, who a year and a day before had been immured at that very spot.
 
-Down went the pitcher, and away fled the monk — amazement, admiration in his countenance, " A miracle ! a miracle !" in his mouth — to the monks, just issuing from the church and the recitation of Sext and the office for the dead around the body of their Prior, lately deceased, and that day to be buried.
+Down went the pitcher, and away fled the monk — amazement, admiration in his countenance, " A miracle! a miracle!" in his mouth — to the monks, just issuing from the church and the recitation of Sext and the office for the dead around the body of their Prior, lately deceased, and that day to be buried.
 
 The whole community rolled like a tidal wave down the cellar-stairs, and stood with breathless awe in a circle about the spot where twelve months and a day before they had walled in Brother Jucundus.
 
@@ -102,7 +102,7 @@ It was a miracle — there could be no doubt of it. Eager hands tore down the wa
 
 There could be no doubt but that this was a special interposition to establish the innocence of the monk, and to indicate to the community who was to be their future Prior.
 
-With one voice they shouted, "Jucundus our Prior! Saint Jucundus our head and father ! "
+With one voice they shouted, "Jucundus our Prior! Saint Jucundus our head and father!"
 
 On the shoulders of the enthusiastic brethren the miraculous monk was carried up-stairs and installed in the Prior's seat in the chapterhouse.
 
@@ -130,9 +130,9 @@ And again, in a memoir of one of the most notable figures of 19th century York, 
 ```{admonition} *If we may rely on what the Rev. S. Baring-Gould says...*, 1908
 :class: dropdown
 
-Phebe Doncaster, *John Stephenson Rowntree: his life and work : memoir*, 1908, [pp.370-1](https://archive.org/details/cu31924006039980/page/n389/mode/2up)
+Phebe Doncaster, *John Stephenson Rowntree: his life and work: memoir*, 1908, [pp.370-1](https://archive.org/details/cu31924006039980/page/n389/mode/2up)
 
-And now, for a moment, let us note the contiguity of the two ecclesiastical buildings of St. Mary's and St. Leonard's ; for though the Multangular Tower and the Museum now divide the two groups of ruins, the buildings of the Abbey and the Hospital must have been so near to each other that some intercourse between the two institutions may have been not infrequent, and the escapades of Brother Jucundus may at least have been possible. If we may rely on what the Rev. S. Baring-Gould says, `[In *Yorkshire Oddities*.]` Brother Jucundus was a monk in the Priory of St. Leonard's about the time when Christopher Columbus was discovering the New World. On the recurrence of a York fair, the temptation was irresistible to steal out, in the siesta hour after dinner, and to see again the dancing dogs, the whirli-go-rounds, the giantesses and dwarfs, the spice stalls and the drinkingbooths. When the brother's departure was perceived, the Prior despatched two monks to see after him, who, alas ! had to wheel back their friend on a barrow, in a state in which too many, both before and since, have been found at fair times. Ecclesiastical judgment, prompt and stem, consigned him to be walled up alive in the Priory cellar. Soon after the builders of this living grave may have sung their requiem, " Sinful brother, part in peace," the seasonable fall of the wall behind Jucundus released him from his uncomfortable position, and enabled him — now sobered — to run up a passage leading into St. Mary's Abbey, where he took his place, no questions being asked, amongst the Benedictine monks. For a year he conducted himself decorously in his new home, but the recurrence of the York fair again led Jucundus into alcoholic excess, for which he suffered in St. Mary's the same penalty he had undergone in St. Leonard's. In nearly the same way he a second time escaped, falling this time out of St. Mary's into St. Leonard's, and timing the event so opportunely that his arrival there, a year and a day after his departure, occurred at the very crisis when a new Prior was needed. It is hardly needful to finish the story. Jucundus, restored to his brethren as by a miracle, was hailed by them as Prior. He ruled many years in that capacity, and it cannot be surprising that the moral state of St. Leonard's Priory at his decease justified its suppression. Its history had then extended over six centuries. According to the ordinary accounts, the kingdom of England had only emerged out of the Heptarchy about a century when King Athelstan granted to certain rehgious persons connected with the Cathedral Church of York, called Colidei or Culdees, a piece of ground on which to erect a hospital. A reference to Mr. Wellbeloved's excellent handbook to the antiquities in the Museum and grounds will inform the reader how successive kings, William the Conqueror, his sons Rufus and Beauclerc, and others, enlarged the possessions of the Hospital, till in the time of Henry VIII., his minister, Thomas Cromwell, found them worth ;f5,ooo per annum reckoned in the currency of to-day. The ruins now standing are the Ambulatory, probably built by John Romanus, treasurer to the Minster, about the time when the Commons representatives were first summoned to Parliament.
+And now, for a moment, let us note the contiguity of the two ecclesiastical buildings of St. Mary's and St. Leonard's; for though the Multangular Tower and the Museum now divide the two groups of ruins, the buildings of the Abbey and the Hospital must have been so near to each other that some intercourse between the two institutions may have been not infrequent, and the escapades of Brother Jucundus may at least have been possible. If we may rely on what the Rev. S. Baring-Gould says, `[In *Yorkshire Oddities*.]` Brother Jucundus was a monk in the Priory of St. Leonard's about the time when Christopher Columbus was discovering the New World. On the recurrence of a York fair, the temptation was irresistible to steal out, in the siesta hour after dinner, and to see again the dancing dogs, the whirli-go-rounds, the giantesses and dwarfs, the spice stalls and the drinkingbooths. When the brother's departure was perceived, the Prior despatched two monks to see after him, who, alas! had to wheel back their friend on a barrow, in a state in which too many, both before and since, have been found at fair times. Ecclesiastical judgment, prompt and stem, consigned him to be walled up alive in the Priory cellar. Soon after the builders of this living grave may have sung their requiem, " Sinful brother, part in peace," the seasonable fall of the wall behind Jucundus released him from his uncomfortable position, and enabled him — now sobered — to run up a passage leading into St. Mary's Abbey, where he took his place, no questions being asked, amongst the Benedictine monks. For a year he conducted himself decorously in his new home, but the recurrence of the York fair again led Jucundus into alcoholic excess, for which he suffered in St. Mary's the same penalty he had undergone in St. Leonard's. In nearly the same way he a second time escaped, falling this time out of St. Mary's into St. Leonard's, and timing the event so opportunely that his arrival there, a year and a day after his departure, occurred at the very crisis when a new Prior was needed. It is hardly needful to finish the story. Jucundus, restored to his brethren as by a miracle, was hailed by them as Prior. He ruled many years in that capacity, and it cannot be surprising that the moral state of St. Leonard's Priory at his decease justified its suppression. Its history had then extended over six centuries. According to the ordinary accounts, the kingdom of England had only emerged out of the Heptarchy about a century when King Athelstan granted to certain rehgious persons connected with the Cathedral Church of York, called Colidei or Culdees, a piece of ground on which to erect a hospital. A reference to Mr. Wellbeloved's excellent handbook to the antiquities in the Museum and grounds will inform the reader how successive kings, William the Conqueror, his sons Rufus and Beauclerc, and others, enlarged the possessions of the Hospital, till in the time of Henry VIII., his minister, Thomas Cromwell, found them worth;f5,ooo per annum reckoned in the currency of to-day. The ruins now standing are the Ambulatory, probably built by John Romanus, treasurer to the Minster, about the time when the Commons representatives were first summoned to Parliament.
 ```
 
 And so it goes, the story then starts to pass into historical guides...
@@ -168,7 +168,7 @@ The Athenaeum  April 20th, 1912, Iss 4408, [p437](https://archive.org/details/si
 
 Geography and Travel.
 
-Beautiful Ireland: Connaught and Munster, by Stephen Gwynn.— Beautiful England: York, by George Benson ; Chester, by Charles Edwardes. 2/ net each.
+Beautiful Ireland: Connaught and Munster, by Stephen Gwynn.— Beautiful England: York, by George Benson; Chester, by Charles Edwardes. 2/ net each.
 
 To Mr. Gwynn belongs an almost passionate love for the districts he describes—a love which radiates through every page of his two new books, and is especially noticeable in the stories and legends he repeats. The tragedy of Finn and Grania, the history of Daniel O'Connell, the story of St. Brendan's pilgrimage into the west—all these, as told by Mr. Gwynn, are not merely good reading, but also breathe the very spirit of Ireland. His two books will do what few guide-books can—awaken a strong desire to see the country they depict. The illustrations by Mr. Alexander Williams are uniformly excellent.
 
@@ -188,7 +188,7 @@ For the "truth" of the tale, however, the [*Tales of Britain and Ireland* podcas
 ```{admonition} Ye hole in ye Walle, 1860
 :class: dropdown
 
-E. H. PALMER, [Ye hole in ye Walle, A Legende of Walthamstowe Abbey ; A Merrie Metrical and Monastical Romaunce*](https://play.google.com/books/reader?id=1VACAAAAQAAJ&pg=GBS.PP10&printsec=frontcover), 1860.
+E. H. PALMER, [Ye hole in ye Walle, A Legende of Walthamstowe Abbey; A Merrie Metrical and Monastical Romaunce*](https://play.google.com/books/reader?id=1VACAAAAQAAJ&pg=GBS.PP10&printsec=frontcover), 1860.
 
 Illustrated by the Author and Arthur J. Bridgman
 
@@ -912,7 +912,7 @@ The author, Edward Henry Palmer, republished the poem in 1877 in [*The song of t
 
 > TO THE READER.
 >  
-> On pseudo-saints, Ignatian divines, The following verses may appear hard Lynes ; Such thin-skinned gentlefolk will hardly fail To vote such railing quite " beyond the pale," Even in this " reading for the road and rail." If any take offence, not mine the sin, it Was his amusement that my muse meant in it. But long preambles damn a work j one looks For curtailed prefaces in dogs-eared books. With this excuse, then, if your views it meets, I'll cut the preface, you can cut the sheets.
+> On pseudo-saints, Ignatian divines, The following verses may appear hard Lynes; Such thin-skinned gentlefolk will hardly fail To vote such railing quite " beyond the pale," Even in this " reading for the road and rail." If any take offence, not mine the sin, it Was his amusement that my muse meant in it. But long preambles damn a work j one looks For curtailed prefaces in dogs-eared books. With this excuse, then, if your views it meets, I'll cut the preface, you can cut the sheets.
 
 A comprehensive biography of Edward Henry Palmer can be found in *Littell's Living Age*, Fifth Series, Vol. XLIV, No. 2056, -November 17, 1883, [p.390](https://archive.org/details/livingage33littgoog/page/392/mode/2up), which has the following to say about the *Hole in the Wall*:
 

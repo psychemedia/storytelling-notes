@@ -60,11 +60,11 @@ Billy was the only son of his father, barring two daughters; but they have nothi
 
 Billy, to do him justice, improved the fortune he got: every day advanced him farther into dishonesty and poverty, until, at the long run, he was acknowledged on all hands to be the complatest swindler and the poorest vagabond in the whole parish.
 
-Billy's father, in his young days, had often been forced to acknowledge the inconvenience of not having a trade, in consequence of some nice point in law, called the " Vagrant Act," that sometimes troubled him. On this account he made up bis mind to give Bill an occupation, and he accordingly bound him to a blacksmith; but whether Bill was to live or die by forgery was a puzzle to his father, — though the neighbours said that both was most likely. At all events, he was put apprentice to a smith for seven years, and a hard card his master had to play in managing him. He took the proper method, however; for Bill was so lazy and roguish that it would vex a saint to keep him in order.
+Billy's father, in his young days, had often been forced to acknowledge the inconvenience of not having a trade, in consequence of some nice point in law, called the "Vagrant Act," that sometimes troubled him. On this account he made up bis mind to give Bill an occupation, and he accordingly bound him to a blacksmith; but whether Bill was to live or die by forgery was a puzzle to his father, — though the neighbours said that both was most likely. At all events, he was put apprentice to a smith for seven years, and a hard card his master had to play in managing him. He took the proper method, however; for Bill was so lazy and roguish that it would vex a saint to keep him in order.
 
-"Bill," says his master to him one day that he had been sunning himself about the ditches, instead of minding his business, " Bill, my boy, I'm vexed to the heart to see you in such a bad state of health. You're very ill with that complaint called an All-overness; however," says he, " I think I can cure you. Nothing will bring you about but three or four sound doses, every day, of a medicine called 'the oil o' the hazel.' Take the first dose now" says he; and he immediately banged him with a hazel cudgel until Bill's bones ached for a week afterwards.
+"Bill," says his master to him one day that he had been sunning himself about the ditches, instead of minding his business, "Bill, my boy, I'm vexed to the heart to see you in such a bad state of health. You're very ill with that complaint called an All-overness; however," says he, "I think I can cure you. Nothing will bring you about but three or four sound doses, every day, of a medicine called 'the oil o' the hazel.' Take the first dose now" says he; and he immediately banged him with a hazel cudgel until Bill's bones ached for a week afterwards.
 
-"If you were my son," said his master, " I tell you, that, as long as I could get a piece of advice growing convenient in the hedges, I'd have you a different youth from what you are. If working was a sin, Bill, devil an innocenter boy ever broke bread than you would be. Good people's scarce you think; but however that may be, I throw it out as a hint, that you must take your medicine till you're cured, whenever you happen to get unwell in the same way."
+"If you were my son," said his master, "I tell you, that, as long as I could get a piece of advice growing convenient in the hedges, I'd have you a different youth from what you are. If working was a sin, Bill, devil an innocenter boy ever broke bread than you would be. Good people's scarce you think; but however that may be, I throw it out as a hint, that you must take your medicine till you're cured, whenever you happen to get unwell in the same way."
 
 From this out he kept Bill's nose to the grinding-stone, and whenever his complaint returned, he never failed to give him a hearty dose for his improvement.
 
@@ -82,43 +82,43 @@ One day he was standing against his own anvil, completely in a brown study, — 
 
 The old man gave a sigh, and raising himself, with great pain, on his staff, he looked at Bill in a very beseeching way.
 
-"Musha, God save you kindly!" says he; "maybe you could give a poor, hungry, helpless ould man a mouthful of something to ait ? You see yourself I'm not able to work; if I was, I'd scorn to be behoulding to any one."
+"Musha, God save you kindly!" says he; "maybe you could give a poor, hungry, helpless ould man a mouthful of something to ait? You see yourself I'm not able to work; if I was, I'd scorn to be behoulding to any one."
 
 "Faith, honest man," said Bill, "if you knew who you're speaking to, you'd as soon ask a monkey for a churn-staff as me for either mate or money. There's not a blackguard in the three kingdoms so fairly on the *shaughran* as I am for both the one and the other. The wife within is sending the curses thick and heavy on me, and the children's playing the cat's melody to keep her in comfort. Take my word for it, poor man, if I had either mate or money I'd help you, for I know particularly well what it is to want them at the present spaking; an empty sack won't stand, neighbour."
 
 So far Bill told him truth. The good thought was in his heart, because he found himself on a footing with the beggar; and nothing brings down pride, or softens the heart, like feeling what it is to want.
 
-"Why you are in a worse state than I am," said the old man; " you have a family to provide for, and I have only myself to support."
+"Why you are in a worse state than I am," said the old man; "you have a family to provide for, and I have only myself to support."
 
-"You may kiss the book on that, my old worthy," replied Bill; " but come, what I can do for you I will; plant yourself up here beside the fire, and I'll give it a blast or two of my bellows that will warm the old blood in your body. It's a cold, miserable, snowy day, and a good heat will be of service."
+"You may kiss the book on that, my old worthy," replied Bill; "but come, what I can do for you I will; plant yourself up here beside the fire, and I'll give it a blast or two of my bellows that will warm the old blood in your body. It's a cold, miserable, snowy day, and a good heat will be of service."
 
 "Thank you kindly," said the old man; I am cold, and a warming at your fire will do me good, sure enough. Oh, it is a bitter, bitter day, God bless it I"
 
 He then sat down, and Bill blew a rousing blast that soon made the stranger edge back from the heat. In a short time he felt quite comfortable, and when the numbness was taken out of his joints, he buttoned himself up and prepared to depart.
 
-"Now," says he to Bill, " you hadn't the food to give me, but *what you could you did*. Ask any three wishes you choose, and be they what they may, take my word for it, they shall be granted."
+"Now," says he to Bill, "you hadn't the food to give me, but *what you could you did*. Ask any three wishes you choose, and be they what they may, take my word for it, they shall be granted."
 
 Now, the truth is, that Bill, though he believed himself a great man in point of 'cuteness, wanted, after all, a full quarter of being square; for there is always a great difference between a wise man and a knave. Bill was so much of a rogue that he could not, for the blood of him, ask an honest wish, but stood scratching his head in a puzzle.
 
-"Three wishes!" said he. " Why, let me see — did you say *three*?"
+"Three wishes!" said he. "Why, let me see — did you say *three*?"
 
-"Ay," replied the stranger, " three wishes — that was what I said."
+"Ay," replied the stranger, "three wishes — that was what I said."
 
-"Well," said Bill, "here goes, — aha! — let me alone, my old worthy! — faith I'll over-reach the parish, if what you say is true. I'll cheat them in dozens, rich and poor, old and young; let me alone, man, — I have it here;" and he tapped his forehead with great glee. " Faith, you're the sort to meet of a frosty morning, when a man wants his breakfast; and I'm sorry that I have neither money nor credit to get a bottle of whiskey, that we might take our *morning* together."
+"Well," said Bill, "here goes, — aha! — let me alone, my old worthy! — faith I'll over-reach the parish, if what you say is true. I'll cheat them in dozens, rich and poor, old and young; let me alone, man, — I have it here;" and he tapped his forehead with great glee. "Faith, you're the sort to meet of a frosty morning, when a man wants his breakfast; and I'm sorry that I have neither money nor credit to get a bottle of whiskey, that we might take our *morning* together."
 
-"Well, but let us hear the wishes," said the old man; " my time is short, and I cannot stay much longer."
+"Well, but let us hear the wishes," said the old man; "my time is short, and I cannot stay much longer."
 
-"Do you see this sledge hammer?" said Bill; " I wish, in the first place, that whoever takes it up in their hands may never be able to lay it down till I give them lave; and that whoever begins to sledge with it may never stop sledging till it's my pleasure to release him."
+"Do you see this sledge hammer?" said Bill; "I wish, in the first place, that whoever takes it up in their hands may never be able to lay it down till I give them lave; and that whoever begins to sledge with it may never stop sledging till it's my pleasure to release him."
 
 "Secondly — I have an arm-chair, and I wish that whoever sits down in it may never rise out of it till they have my consent."
 
 "And thirdly — that whatever money I put into my purse nobody may have power to take it out of it but myself!"
 
-"You devil's rip!" says the old man in a passion, shaking his staff across Bill's nose, " why did you not ask something that would sarve you both here and hereafter ? Sure it's as common as the market-cross, that there's not a vagabone in his Majesty's dominions stands more in need of both."
+"You devil's rip!" says the old man in a passion, shaking his staff across Bill's nose, "why did you not ask something that would sarve you both here and hereafter? Sure it's as common as the market-cross, that there's not a vagabone in his Majesty's dominions stands more in need of both."
 
-"Oh! by the elevens," said Bill, " I forgot that altogether! Maybe you'd be civil enough to let me change one of them ? The sorra a purtier wish ever was made than I'll make, if you'll give me another chance.
+"Oh! by the elevens," said Bill, "I forgot that altogether! Maybe you'd be civil enough to let me change one of them? The sorra a purtier wish ever was made than I'll make, if you'll give me another chance.
 
-"Get out, you reprobate," said the old fellow, still in a passion. " Your day of grace is past. Little you knew who was speaking to you all this time. I'm St. Moroky, you blackguard, and I gave you an opportunity of doing something for yourself and your family; but you neglected it, and now your fate is cast, you dirty, bog-trotting profligate. Sure it's well known what you are! Aren't you a byword in every body's mouth, you and your scold of a wife ? By this and by that, if ever you happen to come across me again, I'll send you to where you won't freeze, you villain!"
+"Get out, you reprobate," said the old fellow, still in a passion. "Your day of grace is past. Little you knew who was speaking to you all this time. I'm St. Moroky, you blackguard, and I gave you an opportunity of doing something for yourself and your family; but you neglected it, and now your fate is cast, you dirty, bog-trotting profligate. Sure it's well known what you are! Aren't you a byword in every body's mouth, you and your scold of a wife? By this and by that, if ever you happen to come across me again, I'll send you to where you won't freeze, you villain!"
 
 He then gave Bill a rap of his cudgel over the head, and laid him at his length beside the bellows, kicked a broken coal-scuttle out of his way, and left the forge in a fury.
 
@@ -128,27 +128,27 @@ He now bethought him how he might turn them to the best account, and here his cu
 
 This was all very good for a time. The fame of his chair, however, soon spread; so did that of his sledge. In a short time neither man, woman, nor child, would darken his door; all avoided him and his fixtures as they would a spring-gun or man-trap. Bill, so long as he fleeced his neighbours, never wrought a hand's turn; so that when his money was out, he found himself as badly off as ever. In addition to all this, his character was fifty times worse than before; for it was the general belief that he had dealings with the devil. Nothing now could exceed his misery, distress, and ill temper. The wife and he and their children all fought among one another like devils; every body hated them, cursed them, and avoided them. The people thought they were acquainted with more than Christian people ought to know; for the family, they said, was very like one that the devil drove. All this, of course, came to Bill's ears, and it vexed him very much.
 
-One day he was walking about the fields, thinking of how he could raise the wind once more; the day was dark, and he found himself, before he stopped, in the bottom of a lonely glen covered by great bushes that grew on each side. " Well," thought he, when every other means of raising money failed him, " it's reported that I'm in league with the devil, and as it's a folly to have the name of the connexion without the profit, I'm ready to make a bargain with him any day; — so," said he, raising his voice, " Nick, you sinner, if you be conv*a*nient and willing, why stand out here; show your best leg, — here's your man."
+One day he was walking about the fields, thinking of how he could raise the wind once more; the day was dark, and he found himself, before he stopped, in the bottom of a lonely glen covered by great bushes that grew on each side. "Well," thought he, when every other means of raising money failed him, "it's reported that I'm in league with the devil, and as it's a folly to have the name of the connexion without the profit, I'm ready to make a bargain with him any day; — so," said he, raising his voice, "Nick, you sinner, if you be conv*a*nient and willing, why stand out here; show your best leg, — here's your man."
 
 The words were hardly out of his mouth, when a dark sober-looking old gentleman, not unlike a lawyer, walked up to him. Bill looked at the foot and saw the hoof.
 
 "Morrow, Nick," says Bill,
 
-"Morrow, Bill," says Nick. " Well, Bill, what's the news?"
+"Morrow, Bill," says Nick. "Well, Bill, what's the news?"
 
-"Devil a much myself hears of late," says Bill, " is there anything *fresh* below?"
+"Devil a much myself hears of late," says Bill, "is there anything *fresh* below?"
 
 "I can't exactly say. Bill; I spend little of my time down now; the Whigs are in office, and my hands are consequently too full of business here to pay much attention to any thing else."
 
-"A fine place this, sir," says Bill, " to take a constitutional walk in; when I want an appetite I often come this way myself, — hem! High feeding is very bad without exercise."
+"A fine place this, sir," says Bill, "to take a constitutional walk in; when I want an appetite I often come this way myself, — hem! High feeding is very bad without exercise."
 
 "High feeding! Come, come. Bill, you know you didn't taste a morsel these four-and-twenty hours."
 
 "You know that's a bounce, Nick. I eat a breakfast this morning that would put a stone of flesh on you, if you only smelt at it."
 
-"No matter; this is not to the purpose. What's that you were muttering to yourself awhile ago ? If you want to come to the brunt, here I'm for you."
+"No matter; this is not to the purpose. What's that you were muttering to yourself awhile ago? If you want to come to the brunt, here I'm for you."
 
-"Nick," said Bill, " you're complate; you want nothing barring a pair of Brian O'Lynn's breeches."
+"Nick," said Bill, "you're complate; you want nothing barring a pair of Brian O'Lynn's breeches."
 
 Bill, in fact, was bent on making his companion open the bargain, because he had often heard, that in that case, with proper care on his own part, he might defeat him in the long run. The other, however, was his match.
 
@@ -156,30 +156,30 @@ Bill, in fact, was bent on making his companion open the bargain, because he had
 
 "Why, you know the song," said Bill —
 
-> " Brian O'Lynn had no breeches to wear,  
+> "Brian O'Lynn had no breeches to wear,  
 > So he got a sheep's skin for to make him a pair;  
 > With the flesliy side out, and the woolly side in,  
 > They'll be pleasant and *cool*, says Brian O'Lynn.
 
 A cool pare would sarve you, Nick."
 
-"You're mighty waggish to-day, misther Duffy. " "And good right I have," said Bill; " I'm a man snug and well to do in the world; have lots of money, plenty of good eating and drinking, and what more need a man wish for?"
+"You're mighty waggish to-day, misther Duffy." "And good right I have," said Bill; "I'm a man snug and well to do in the world; have lots of money, plenty of good eating and drinking, and what more need a man wish for?"
 
-"True," said the other; " in the meantime it's rather odd that so respectable a man should not have six inches of unbroken cloth in his apparel. You are as naked a tatter-demallion as I ever laid my eyes on; in full dress for a party of scare-crows, William."
+"True," said the other; "in the meantime it's rather odd that so respectable a man should not have six inches of unbroken cloth in his apparel. You are as naked a tatter-demallion as I ever laid my eyes on; in full dress for a party of scare-crows, William."
 
 "That's my own fancy, Nick; I don't work at my trade like a gentleman. This is my forge dress, you know."
 
 "Well, but what did you summon me here for?" said the other; "you may as well speak out I tell you; for, my good friend, unless *you* do *I* shan't. Smell that."
 
-"I smell more than that," said Bill; " and by the way, I'll thank you to give me the windy side of you — curse all sulphur I say. There, that's what I call an improvement in my condition. But as you *are* so stiff," says Bill, " why, the short and the long of it is — that — hem — you see I'm — tut — sure you know I have a thriving trade of my own, and that if I like I needn't be at a loss; but in the manetime I'm rather in a kind of a so — so — don't you *take*?"
+"I smell more than that," said Bill; "and by the way, I'll thank you to give me the windy side of you — curse all sulphur I say. There, that's what I call an improvement in my condition. But as you *are* so stiff," says Bill, "why, the short and the long of it is — that — hem — you see I'm — tut — sure you know I have a thriving trade of my own, and that if I like I needn't be at a loss; but in the manetime I'm rather in a kind of a so — so — don't you *take*?"
 
 And Bill winked knowingly, hoping to trick him into the first proposal.
 
-"You must speak above-board, my friend," says the other; " I'm a man of few words, blunt and honest. If you have any thing to say, be plain. Don't think I can be losing my time with such a pitiful rascal as you are."
+"You must speak above-board, my friend," says the other; "I'm a man of few words, blunt and honest. If you have any thing to say, be plain. Don't think I can be losing my time with such a pitiful rascal as you are."
 
-"Well," says Bill, " I want money, then, and am ready to come into terms. What have you to say to that, Nick?"
+"Well," says Bill, "I want money, then, and am ready to come into terms. What have you to say to that, Nick?"
 
-"Let me see — let me look at you," says his companion, turning him about. " Now, Bill, in the first place, are you not as finished a scare-crow as ever stood upon two legs?"
+"Let me see — let me look at you," says his companion, turning him about. "Now, Bill, in the first place, are you not as finished a scare-crow as ever stood upon two legs?"
 
 "I play second fiddle to you there again," says Bill.
 
@@ -189,9 +189,9 @@ And Bill winked knowingly, hoping to trick him into the first proposal.
 
 "Why, what would you bring, you brazen rascal, if you were fau'ly put up at auction '?"
 
-"Faith, I'd bring more bidders that you would," said Bill, " if you were to go off at auction to-morrow. I tell you they should bid *downwards* to come to your value, Nicholas. We have no coin *small* enough to purchase you."
+"Faith, I'd bring more bidders that you would," said Bill, "if you were to go off at auction to-morrow. I tell you they should bid *downwards* to come to your value, Nicholas. We have no coin *small* enough to purchase you."
 
-"Well, no matter," said Nick, " if you are willing to be mine at the expiration of seven years, I will give you more money than ever the rascally breed of you was worth."
+"Well, no matter," said Nick, "if you are willing to be mine at the expiration of seven years, I will give you more money than ever the rascally breed of you was worth."
 
 "Done!" said Bill; "but no disparagement to my family, in the meantime; so down with the hard cash, and don't be a *nager*."
 
@@ -203,15 +203,15 @@ The money was accordingly paid down; but as nobody was present, except the giver
 
 "Is that your gratitude, Billy?"
 
-"Is it gratitude *you* speak of, man ? I wonder you don't blush when you name it. However, when you come again, if you bring a third eye in your head, you will see what I mane, Nicholas, ahagur."
+"Is it gratitude *you* speak of, man? I wonder you don't blush when you name it. However, when you come again, if you bring a third eye in your head, you will see what I mane, Nicholas, ahagur."
 
 The old gentleman, as Bill spoke, hopped across the ditch, on his way to *Downing*-street, where of late 'tis thought he possesses much influence.
 
-Bill now began by degrees to show off; but still wrought a little at his trade to blindfold the neighbours. In a very short time, however, he became a great man. So long indeed as he was a *poor* rascal, no decent person would speak to him; even the proud serving-men at the " Big House" would turn up their noses at him. And he well deserved to be made little of by others, because he was mean enough to make little of himself. But when it was seen and known that he had oceans of money, it was wonderful to think, although he was *now* a greater blackguard than ever, how those who despised him before, began to come round him and court his company. Bill, however, had neither sense nor spirit to make those sunshiny friends know their distance; not he — instead of that he was proud to be seen in decent company, and so long as the money lasted, it was, "hail fellow well met," between himself and every fair-faced *spunger* who had a horse under him, a decent coat to his back, and a good appetite to eat his dinners. With riches and all. Bill was the same man still; but, somehow or other, there is a great difference between a rich profligate and a poor one, and Bill found it so to his cost in *both* cases.
+Bill now began by degrees to show off; but still wrought a little at his trade to blindfold the neighbours. In a very short time, however, he became a great man. So long indeed as he was a *poor* rascal, no decent person would speak to him; even the proud serving-men at the "Big House" would turn up their noses at him. And he well deserved to be made little of by others, because he was mean enough to make little of himself. But when it was seen and known that he had oceans of money, it was wonderful to think, although he was *now* a greater blackguard than ever, how those who despised him before, began to come round him and court his company. Bill, however, had neither sense nor spirit to make those sunshiny friends know their distance; not he — instead of that he was proud to be seen in decent company, and so long as the money lasted, it was, "hail fellow well met," between himself and every fair-faced *spunger* who had a horse under him, a decent coat to his back, and a good appetite to eat his dinners. With riches and all. Bill was the same man still; but, somehow or other, there is a great difference between a rich profligate and a poor one, and Bill found it so to his cost in *both* cases.
 
 Before half the seven years was passed. Bill had his carriage, and his equipages; was hand and glove with my Lord This, and my Lord That; kept hounds and hunters; was the first sportsman at the Curragh; patronized every boxing ruffian he could pick up; and betted night and day on cards, dice, and horses. Bill, in short, *should* be a blood, and except he did all this, he could not presume to mingle with the fashionable bloods of his time.
 
-It's an old proverb, however, that " what is got over the devil's back is sure to go off under it;" and in Bill's case this proved true. In short, the devil himself could not supply him with money so fast as he made it fly; it was " come easy, go easy," with Bill, and so sign was on it, before he came within two years of his time he found his purse empty.
+It's an old proverb, however, that "what is got over the devil's back is sure to go off under it;" and in Bill's case this proved true. In short, the devil himself could not supply him with money so fast as he made it fly; it was "come easy, go easy," with Bill, and so sign was on it, before he came within two years of his time he found his purse empty.
 
 And now came the value of his summer friends to be known. When it was discovered that the cash was no longer flush with him — that stud, and carriage, and hounds were going to the hammer — whish! off they went, friends, relations, pot-companions, dinner-eaters, black-legs and all, like a flock of crows that had smelt gunpowder. Down Bill soon went, week after week, and day after day, until at last, he was obliged to put on the leather apron, and take to the hammer again; and not only that, for as no experience could make him wise, he once more began his tap-room brawls, his quarrels with Judy, and took to his "high feeding" at the dry potatoes and salt. Now, too, came the cutting tongues of all who knew him, like razors upon him. Those that he scorned because they were poor and himself rich, now paid him back his own with interest; and those that he measured himself with, because they were rich, and who only countenanced him in consequence of his wealth, gave him the hardest word in their cheeks. The devil mend him! He deserved it all, and more if he had got it.
 
@@ -223,19 +223,19 @@ At last the seven years became expired, and Bill was one morning sitting in his 
 
 "The devil welcome you!" says Bill; "but you have a fresh memory."
 
-"A bargain's a bargain between two *honest* men, any day," says Satan; " when I speak of *honest* men, I mean *yourself* and *me*, Bill; " and he put his tongue in his cheek to make game of the unfortunate rogue he had come for.
+"A bargain's a bargain between two *honest* men, any day," says Satan; "when I speak of *honest* men, I mean *yourself* and *me*, Bill;" and he put his tongue in his cheek to make game of the unfortunate rogue he had come for.
 
-"Nick, my worthy fellow," said Bill, " have bowels; you wouldn't do a shabby thing; you wouldn't disgrace your own character by putting more weight upon a falling man. You know what it is to get a *come down* yourself, my worthy; so just keep your toe in your pump, and walk off with yourself somewhere else. A *cool* walk will sarve you better than my company, Nicholas."
+"Nick, my worthy fellow," said Bill, "have bowels; you wouldn't do a shabby thing; you wouldn't disgrace your own character by putting more weight upon a falling man. You know what it is to get a *come down* yourself, my worthy; so just keep your toe in your pump, and walk off with yourself somewhere else. A *cool* walk will sarve you better than my company, Nicholas."
 
-"Bill, it's no use in shirking; " said his friend, " your swindling tricks may enable you to cheat others, but you won't cheat *me*, I guess. You want nothing to make you perfect in your way but to travel; and travel you shall under my guidance, Billy. No, no — *I'm* not to be swindled, my good felloAV. I have rather a — a — better opinion of myself, Mr. D. than to think that you could outwit one Nicholas Clutie, Esq. — ehem!"
+"Bill, it's no use in shirking;" said his friend, "your swindling tricks may enable you to cheat others, but you won't cheat *me*, I guess. You want nothing to make you perfect in your way but to travel; and travel you shall under my guidance, Billy. No, no — *I'm* not to be swindled, my good felloAV. I have rather a — a — better opinion of myself, Mr. D. than to think that you could outwit one Nicholas Clutie, Esq. — ehem!"
 
-"You may sneer, you sinner," replied Bill; " but I tell you for your comfort, that I have outwitted men who could buy and sell you to your face. Despair, you villain, when I tell you that *no attorney* could stand before me."
+"You may sneer, you sinner," replied Bill; "but I tell you for your comfort, that I have outwitted men who could buy and sell you to your face. Despair, you villain, when I tell you that *no attorney* could stand before me."
 
 Satan's countenance got blank when he heard this; he wriggled and fidgetted about, and appeared to be not quite comfortable.
 
 "In that case, then," says he, "the sooner I deceive you the better; so turn out for the *Low Countries*."
 
-"Is it come to that in earnest?" said Bill, " and are you going to act the rascal at the long run?"
+"Is it come to that in earnest?" said Bill, "and are you going to act the rascal at the long run?"
 
 "'Pon honour, Bill."
 
@@ -243,7 +243,7 @@ Satan's countenance got blank when he heard this; he wriggled and fidgetted abou
 
 He then gave the bellows a puff that blew half a peck of dust in Club-foot's face, whipped out the red-hot iron, and set Satan sledging away for the bare life.
 
-"Faith," says Bill to him, when the shoe was finished, " it's a thousand pities ever the sledge should be out of your hand; the great *Parra Gow* was a child to you at sledging, you're such an able tyke. Now just exercise yourself till I bid the wife and childhre good-bye, and then I'm off."
+"Faith," says Bill to him, when the shoe was finished, "it's a thousand pities ever the sledge should be out of your hand; the great *Parra Gow* was a child to you at sledging, you're such an able tyke. Now just exercise yourself till I bid the wife and childhre good-bye, and then I'm off."
 
 Out went Bill, of course without the shghtest notion of coming back; no more than Nick had that he could not give up the sledging, and indeed neither could he, but was forced to work away as if he was sledging for a wager. This was just what Bill wanted. He was now compelled to sledge on until it was Bill's pleasure to release him; and so we leave him very industriously employed, while we look after the worthy who outwitted him.
 
@@ -253,9 +253,9 @@ In the meantime. Bill broke cover, and took to the country at large; wrought a l
 
 "Oh!" says Nick, still hammering away — "Oh! you double-distilled villain (hech! ), may the most refined, ornamental (hech! ), double-rectified, super-extra, and original (hech! ) collection of curses that ever was gathered (hech! ) into a single nosegay of ill fortune (hech! ), shine in the button-hole of your conscience (hech! ) while your name is Bill Duffy! I denounce you (hech! ) as a double-milled villain, a finished, hot-pressed knave (hech! ), in comparison of whom all the other knaves I ever knew (hech!), attorneys included, are honest men. I brand you (hech! ) as the pearl of cheats, a tip-top take-in (hech! ) I denounce you, I say again, for the villanous treatment (hech! ) I have received at your hands in this most untoward [(hech! ) and unfortunate transaction between us; for (hech! ) unfortunate, in every sense, is he that has any thing to do with (hech! ) such a prime and finished impostor."
 
-"You're very warm, Nicky," says Bill; " what puts you into a passion, you old sinner ? Sure if it's your own will and pleasure to take exercise at my anvil, I'm not to be abused for it. Upon my credit, Nicky, you ought to blush for using such blackguard language, so unbecoming your grave character. You cannot say that it was I set you a hammering at the empty anvil, you profligate. However, as you are so industrious, I simply say it would be a thousand pities to take you from it. Nick, I love industry in my heart, and I always encourage it; so, work away; it's not often you spend your time so creditably. I'm afraid if you weren't at that you'd be worse employed."
+"You're very warm, Nicky," says Bill; "what puts you into a passion, you old sinner? Sure if it's your own will and pleasure to take exercise at my anvil, I'm not to be abused for it. Upon my credit, Nicky, you ought to blush for using such blackguard language, so unbecoming your grave character. You cannot say that it was I set you a hammering at the empty anvil, you profligate. However, as you are so industrious, I simply say it would be a thousand pities to take you from it. Nick, I love industry in my heart, and I always encourage it; so, work away; it's not often you spend your time so creditably. I'm afraid if you weren't at that you'd be worse employed."
 
-"Bill, have bowels," said the operative;  " you wouldn't go to lay more weight on a falling man, you know; you wouldn't disgrace your character by such a piece of iniquity as keeping an inoffensive gentleman, advanced in years, at such an unbecoming and rascally job as this. Generosity's your top virtue, Bill; not but that you have many other excellent ones, as well as that, among which, as you say yourself, I reckon industry; but still it is in generosity you *shine*. Come, Bill, honour bright, and release me."
+"Bill, have bowels," said the operative;  "you wouldn't go to lay more weight on a falling man, you know; you wouldn't disgrace your character by such a piece of iniquity as keeping an inoffensive gentleman, advanced in years, at such an unbecoming and rascally job as this. Generosity's your top virtue, Bill; not but that you have many other excellent ones, as well as that, among which, as you say yourself, I reckon industry; but still it is in generosity you *shine*. Come, Bill, honour bright, and release me."
 
 "Name the terms, you profligate."
 
@@ -273,7 +273,7 @@ In the meantime. Bill broke cover, and took to the country at large; wrought a l
 
 "Very good; very good. You're rather simple, Bill; rather soft, I must confess. Well, no matter. I shall yet turn the tab — a — hem? You are an exceedingly simple fellow, Bill; still there will come a day, my *dear* Bill — there will come"
 
-"Do you grumble, you vagrant ? Another word, and I double the terms."
+"Do you grumble, you vagrant? Another word, and I double the terms."
 
 "Mum, William — mum; *tace* is Latin for a candle."
 
@@ -283,23 +283,23 @@ In the meantime. Bill broke cover, and took to the country at large; wrought a l
 
 "Well, now drop the hammer, and vanish," says Billy; "but what would you think to take this sledge, while you stay, and give me a —— eh! why in such a hurry?" he added, seeing that Satan withdrew in double quick time.
 
-"Hollo! Nicholas!" he shouted, " come back; you forgot something!" and when the old gentleman looked behind him, Billy shook the hammer at him, on which he vanished altogether.
+"Hollo! Nicholas!" he shouted, "come back; you forgot something!" and when the old gentleman looked behind him, Billy shook the hammer at him, on which he vanished altogether.
 
 Billy now got into his old courses; and what shows the kind of people the world is made of, he also took up with his old company. When they saw that he had the money once more, and was sowing it about him in all directions, they immediately began to find excuses for his former extravagance.
 
-"Say what you will," said one, " Bill Duffy's a spirited fellow, and bleeds like a prince."
+"Say what you will," said one, "Bill Duffy's a spirited fellow, and bleeds like a prince."
 
 "He's as hospitable a man in his own house, or out of it, as ever lived," said another.
 
-"His only fault is," observed a third, " that he is, if any thing, too generous, and doesn't know the value of money; his fault's on the right side, however."
+"His only fault is," observed a third, "that he is, if any thing, too generous, and doesn't know the value of money; his fault's on the right side, however."
 
-"He has the spunk in him," said a fourth; " keeps a capital table, prime wines, and a standing welcome for his friends."
+"He has the spunk in him," said a fourth; "keeps a capital table, prime wines, and a standing welcome for his friends."
 
-"Why," said a fifth, " if he doesn't enjoy his money while he lives, he won't when he's dead; so more power to him, and a wider throat to his purse."
+"Why," said a fifth, "if he doesn't enjoy his money while he lives, he won't when he's dead; so more power to him, and a wider throat to his purse."
 
 Indeed, the very persons who were cramming themselves at his expense despised him at heart. They knew very well, however, how to take him on the weak side. Praise his generosity, and he would do any thing; call him a man of spirit, and you might fleece him to his face. Sometimes he would toss a purse of guineas to this knave, another to that flatterer, a third to a bully, and a fourth to some broken down rake — and all to convince them that *he* was a sterling friend — a man of mettle and liberality. But never was he known to help a virtuous and struggling family — to assist the widow or the fatherless, or to do any other act that was *truly* useful. It is to be supposed the reason of this was, that as he spent it, as most of the world do, in the service of the devil, by whose aid he got it, he was prevented from turning it to a good account. Between you and me, dear reader, there are more persons acting after Bill's fashion in the same world than you dream about.
 
-When his money was out again, his friends played him the same rascally game once more, no sooner did his poverty become plain, than the knaves began to be troubled with small fits of modesty, such as an unwillingness to come to his place when there was no longer any thing to be got there. A kind of virgin bashfulness prevented them from speaking to him when they saw him getting out on the wrong side of his clothes. Many of them would turn away from him in the prettiest and most delicate manner when they thought he wanted to borrow money from them — all for fear of putting him to the blush by asking it. Others again, when they saw him coming towards their houses about dinner hour, would become so confused, from mere gratitude, as to think themselves in another place; and their servants, seized as it were, with the same feeling, would tell Bill that their masters were " not at home."
+When his money was out again, his friends played him the same rascally game once more, no sooner did his poverty become plain, than the knaves began to be troubled with small fits of modesty, such as an unwillingness to come to his place when there was no longer any thing to be got there. A kind of virgin bashfulness prevented them from speaking to him when they saw him getting out on the wrong side of his clothes. Many of them would turn away from him in the prettiest and most delicate manner when they thought he wanted to borrow money from them — all for fear of putting him to the blush by asking it. Others again, when they saw him coming towards their houses about dinner hour, would become so confused, from mere gratitude, as to think themselves in another place; and their servants, seized as it were, with the same feeling, would tell Bill that their masters were "not at home."
 
 At length, after travelling the same villanous round as before, Bill was compelled to betake himself, as the last remedy, to the forge; in other words, he found that there is, after all, nothing in this world that a man can rely on so firmly and surely as his own industry. Bill, however, wanted the organ of common sense; for his experience — and it was sharp enough to leave an impression — run off him like water off a duck.
 
@@ -307,11 +307,11 @@ He took to his employment sorely against his grain; but he had now no choice. He
 
 He was one morning industriously engaged in a quarrel with his wife, who, with a three-legged stool in her hand, appeared to mistake his head for his own anvil; he, in the meantime, paid his addresses to her with his leather apron, when who steps in to jog his memory about the little agreement that was between them, but old Nick. The wife, it seems, in spite of all her exertions to the contrary, was getting the worst of it; and Sir Nicholas, willing to appear a gentleman of great gallantry, thought he could not do less than take up the lady's quarrel, particularly as Bill had laid her in a sleeping posture. Now Satan thought this too bad; and as he felt himself under many obligations to the sex, he determined to defend one of them on the present occasion; so as Judy rose, he turned upon the husband, and floored him by a clever facer.
 
-"You unmanly villain," said he, " is this the way you treat you wife?'Pon honour, Bill, I'll chastise you on the spot. I could not stand by a spectator of such ungentlemanly conduct without giving up all claim to gallant——"
+"You unmanly villain," said he, "is this the way you treat you wife?'Pon honour, Bill, I'll chastise you on the spot. I could not stand by a spectator of such ungentlemanly conduct without giving up all claim to gallant——"
 
 Whack! the word was divided in his mouth by the blow of a churn-staff from Judy, who no sooner saw Bill struck, than she nailed Satan, who "fell" once more.
 
-"What, you villain! that's for striking my husband hke a murderer behind his back," said Judy, and she suited the action to the word, " that's for interfering between man and wife. Would you murder the poor man before my face ? eh ? If *he* bates me, you shabby dog you, who has a better right ? I'm sure its nothing out of your pocket. Must you have your finger in every pie?"
+"What, you villain! that's for striking my husband hke a murderer behind his back," said Judy, and she suited the action to the word, "that's for interfering between man and wife. Would you murder the poor man before my face? eh? If *he* bates me, you shabby dog you, who has a better right? I'm sure its nothing out of your pocket. Must you have your finger in every pie?"
 
 This was any thing but *idle* talk; for at every word she gave him a remembrance, hot and heavy. Nicholas backed, danced, and hopped; she advanced, still drubbing him with great perseverance, till at length he fell into the redoubtable arm chair, which stood exactly behind him. Bill, who had been putting in two blows for Judy's one, seeing that his enemy was safe, now got between the devil and his wife, *a situation that few will he disposed to envy him*.
 
@@ -319,15 +319,15 @@ This was any thing but *idle* talk; for at every word she gave him a remembrance
 
 Satan began to rise, but was rather surprised to find that he could not budge.
 
-"Nicholas," says Bill, " how is your pulse ? you don't look well; that is to say, you look worse than usual."
+"Nicholas," says Bill, "how is your pulse? you don't look well; that is to say, you look worse than usual."
 
 The other attempted to rise, but found it a mistake.
 
-"I'll thank you to come along," said Bill, " I have a fancy to travel under your guidance, and we'll take the *Low Countries* in our way, won't we ? Get to your legs, you sinner; you know a bargain's a bargain between two *honest* men, Nicholas; meaning *yourself* and *me*. Judy, are the tongs hot?"
+"I'll thank you to come along," said Bill, "I have a fancy to travel under your guidance, and we'll take the *Low Countries* in our way, won't we? Get to your legs, you sinner; you know a bargain's a bargain between two *honest* men, Nicholas; meaning *yourself* and *me*. Judy, are the tongs hot?"
 
 Satan's face was worth looking at, as he turned his eyes from the husband to the wife, and then fastened them on the tongs, now nearly at a furnace heat in the fire, conscious at the same time that he could not move out of the chair.
 
-"Billy," said he, " you won't forget that I rewarded your generosity the last time I saw you, in the way of business."
+"Billy," said he, "you won't forget that I rewarded your generosity the last time I saw you, in the way of business."
 
 "Faith, Nicholas, it fails me to remember any generosity I ever. showed you. Don't be womanish. I simply want to see what kind of stuff your nose is made of, and whether it will stretch like a rogue's conscience. If it does, we will flatter it up the *chimly* with the red hot tongs, and when this old hat is fixed on the top of it, let us alone for a weather-cock."
 
@@ -335,13 +335,13 @@ Satan's face was worth looking at, as he turned his eyes from the husband to the
 
 "We know all that," says Billy opening the red hot tongs very coolly."
 
-"Mr. Duffy," said Satan, " if you cannot remember my friendship to yourself, don't forget how often I stood your father's friend, your grandfather's friend, and the friend of all your relations up to the tenth generation. I intended, also, to stand by your children after you, so long as the name of Duffy, and a respectable one it is, might last."
+"Mr. Duffy," said Satan, "if you cannot remember my friendship to yourself, don't forget how often I stood your father's friend, your grandfather's friend, and the friend of all your relations up to the tenth generation. I intended, also, to stand by your children after you, so long as the name of Duffy, and a respectable one it is, might last."
 
-"Don't be blushing, Nick," says Bill, " you are too modest; that was ever your faihng; hould up your head, there's money bid for you, I'll give you such a nose, my good friend, that you will have to keep an outrider before you, to carry the end of it on his shoulder."
+"Don't be blushing, Nick," says Bill, "you are too modest; that was ever your faihng; hould up your head, there's money bid for you, I'll give you such a nose, my good friend, that you will have to keep an outrider before you, to carry the end of it on his shoulder."
 
 "Mr. Duffy, I pledge my honour to raise your children in the world as high as they can go; no matter whether they desire it or not."
 
-"That's very kind of you," says the other, " and I'll do as much for your nose."
+"That's very kind of you," says the other, "and I'll do as much for your nose."
 
 
 ```{admonition} The Three Wishes, Illustration
@@ -354,11 +354,11 @@ Satan's face was worth looking at, as he turned his eyes from the husband to the
 
 He gripped it as he spoke, and the old boy immediately sung out; Bill pulled, and the nose went with him like a piece of warm wax. He then transferred the tongs to Judy, got a ladder, resumed the tongs, ascended the chimney, and tugged stoutly at the nose until he got it five feet above the roof. — He then fixed the hat upon the top of it, and came down.
 
-"There's a weather-cock," said Billy; " I defy Ireland to show such a beauty. Faith, Nick, it would make the purtiest steeple for a church, in all Europe, and the old hat fits it to a shaving."
+"There's a weather-cock," said Billy; "I defy Ireland to show such a beauty. Faith, Nick, it would make the purtiest steeple for a church, in all Europe, and the old hat fits it to a shaving."
 
 In this state, with his nose twisted up the chimney, Satan sat for some time, experiencing the novelty of what might be termed a peculiar sensation. At last the worthy husband and wife began to relent:
 
-"I think," said Bill, " that we have made the most of the nose, as well as the joke; I believe, Judy, it's long enough."
+"I think," said Bill, "that we have made the most of the nose, as well as the joke; I believe, Judy, it's long enough."
 
 "What is?" says Judy.
 
@@ -368,13 +368,13 @@ In this state, with his nose twisted up the chimney, Satan sat for some time, ex
 
 "What do you say yourself, Satan?" said Bill.
 
-"Nothing at all, William," said the other; " but that — ha! ha! — it's a good joke — an excellent joke, and a goodly nose, too, as it *stands*. You were always a gentlemanly man, Bill, and did things with a grace; still, if I might give an opinion on such a trifle —"
+"Nothing at all, William," said the other; "but that — ha! ha! — it's a good joke — an excellent joke, and a goodly nose, too, as it *stands*. You were always a gentlemanly man, Bill, and did things with a grace; still, if I might give an opinion on such a trifle —"
 
-"It's no trifle at all," says Bill, " if you spake of the nose."
+"It's no trifle at all," says Bill, "if you spake of the nose."
 
-"Very well, it is not," says the other; " still, I am decidedly of opinion, that if you could shorten both the joke and the nose without further violence, you would lay me under very heavy obligations, which I shall be ready to acknowledge and *repay* as I ought."
+"Very well, it is not," says the other; "still, I am decidedly of opinion, that if you could shorten both the joke and the nose without further violence, you would lay me under very heavy obligations, which I shall be ready to acknowledge and *repay* as I ought."
 
-"Come," said Bill, " shell out once more, and be off for seven years. As much as you came down with the last time, and vanish."
+"Come," said Bill, "shell out once more, and be off for seven years. As much as you came down with the last time, and vanish."
 
 The words were scarcely spoken, when the money was at his feet, and Satan invisible. Nothing could surpass the mirth of Bill and his wife, at the result of this adventure. They laughed till they fell down on the floor.
 
@@ -382,17 +382,17 @@ It is useless to go over the same ground again. Bill was still incorrigible. The
 
 The old gentleman was sorely puzzled how to get at him. He kept skulking and sneaking about the forge for some time, till he saw that Bill hadn't a cross to bless himself with. He immediately changed himself into a guinea, and lay in an open place where he knew Bill would see him.
 
-"If," said he, " I get once into his possession, I can manage him."
+"If," said he, "I get once into his possession, I can manage him."
 
 The honest smith took the bait, for it was well gilded, he clutched the guinea, put it into his purse, and closed it up.
 
-"Ho! ho!" shouted the devil out of the purse, " you're caught. Bill; I've secured you at last, you knave you. Why don't you despair, you villain, when you think of what's before you."
+"Ho! ho!" shouted the devil out of the purse, "you're caught. Bill; I've secured you at last, you knave you. Why don't you despair, you villain, when you think of what's before you."
 
-"Why you unlucky ould dog," said Bill, " is it there you are ? will you always drive your head into every loop-hole that's set for you ? Faith, Nick achora, I never had you bagged till now."
+"Why you unlucky ould dog," said Bill, "is it there you are? will you always drive your head into every loop-hole that's set for you? Faith, Nick achora, I never had you bagged till now."
 
 Satan then began to swell and tug and struggle with a view of getting out of the purse, but in vain. He found himself fast, and perceived that he was once more in Bill's power.
 
-"Mr. Duffy," said he, " we understand each other. I'll give the seven years additional, and the cash on the nail."
+"Mr. Duffy," said he, "we understand each other. I'll give the seven years additional, and the cash on the nail."
 
 "Be aisey, Nicholas. You know the weight of the hammer, that's enough. It's not a whipping with feathers you're going to get, anyhow. Just be aisey."
 
@@ -410,37 +410,37 @@ He immediately commenced with the sledge, and Satan sang out with a considerable
 
 "Beautifully, William; but a little of the heaviest; strike mee light. Bill, my head's tender. — Oh!"
 
-"Heads or tails, my old boy," exclaimed the other; " I don't care which; it's all the same to me what side of you is up — but here goes to help the impression — hach!"
+"Heads or tails, my old boy," exclaimed the other; "I don't care which; it's all the same to me what side of you is up — but here goes to help the impression — hach!"
 
-"Bill," said Nicholas, " is this gentlemanly treatment in your own respectable shop ? Do you think, if you dropped into my little place, that I'd act this rascally part towards you? Have you no compunction?"
+"Bill," said Nicholas, "is this gentlemanly treatment in your own respectable shop? Do you think, if you dropped into my little place, that I'd act this rascally part towards you? Have you no compunction?"
 
-"I know," replied Bill, sledging away with vehemence, "that you're notorious for giving your friends a *warm* welcome. Divil an ould youth more so; but you must be daling in bad coin, must you ? However, good or bad, you're in for a sweat now, you sinner. Am I doin' it purty?"
+"I know," replied Bill, sledging away with vehemence, "that you're notorious for giving your friends a *warm* welcome. Divil an ould youth more so; but you must be daling in bad coin, must you? However, good or bad, you're in for a sweat now, you sinner. Am I doin' it purty?"
 
 "Lovely, William — but, if possible, a little more delicate."
 
 "Oh, how delicate you are! Maybe a cup o' tay would sarve you, or a little small gruel to compose your stomach."
 
-"Mr. Duffy," said the gentleman in the purse, " hold your hand, and let us understand one another. I have a proposal to make."
+"Mr. Duffy," said the gentleman in the purse, "hold your hand, and let us understand one another. I have a proposal to make."
 
 "Hear the sinner, anyhow," said the wife.
 
-"Name your own sum," said Satan, " only set me free."
+"Name your own sum," said Satan, "only set me free."
 
-"No, the sorra may take the toe you'll budge till you let Bill off," said the wife; " hould him hard, Bill, barrin' he sets you clear of your engagement."
+"No, the sorra may take the toe you'll budge till you let Bill off," said the wife; "hould him hard, Bill, barrin' he sets you clear of your engagement."
 
-"There it is, my posey," said Bill; " that's the condition. If you don't give me up, here's at you once more — and you must double the cash you gave the last time, too. So, if you're of that opinion, say *ay* — leave the cash, and be off."
+"There it is, my posey," said Bill; "that's the condition. If you don't give me up, here's at you once more — and you must double the cash you gave the last time, too. So, if you're of that opinion, say *ay* — leave the cash, and be off."
 
-"Oh, murder;" groaned the old one, " am I to be done by an Irish spalpeen! I who was never done before."
+"Oh, murder;" groaned the old one, "am I to be done by an Irish spalpeen! I who was never done before."
 
-"Keep a mannerly tongue in your head, Nick," said Bill; " if you're not *done* by this time you must be the divil's *tough* morsel, for I'm sure you're long enough *at the fire*, you villain. Do you agree to the terms?"
+"Keep a mannerly tongue in your head, Nick," said Bill; "if you're not *done* by this time you must be the divil's *tough* morsel, for I'm sure you're long enough *at the fire*, you villain. Do you agree to the terms?"
 
-"Ay, ay," replied the other, " let me out — and I hope I have done with you."
+"Ay, ay," replied the other, "let me out — and I hope I have done with you."
 
 The money again immediately appeared in a glittering heap before Bill, upon which he exclaimed —
 
 "The *ay* has it, you dog. Take to your pumps now, and fair weather after you, you vagrant; but Nicholas — Nick — here — here —"
 
-The other looked back, and saw Bill, with a broad grin upon him, shaking the purse at him — " Nicholas, come back," said he, " I'm short a guinea."
+The other looked back, and saw Bill, with a broad grin upon him, shaking the purse at him — "Nicholas, come back," said he, "I'm short a guinea."
 
 The other shook his fist in return, and shouted out, looking over his shoulder as he spoke, but not stopping —
 
@@ -448,7 +448,7 @@ The other shook his fist in return, and shouted out, looking over his shoulder a
 
 It would be useless to stop now, merely to inform our readers that Bill was beyond improvement. In short, he once more took to his old habits, and lived on exactly in the same manner as before. He had two sons — one as great a blackguard as himself, and who was also named after him; the other was a well-conducted, virtuous young man, called James, who left his father, and having relied upon his own industry and honest perseverance in life, arrived afterwards to great wealth, and built the town called Bally James Duff, which is so called from its founder until this day.
 
-Bill, at length, in spite of all his wealth, was obliged, as he himself said, " to travel," — in other words, he fell asleep one day, and forgot to awaken; or, in still plainer terms, he died.
+Bill, at length, in spite of all his wealth, was obliged, as he himself said, "to travel," — in other words, he fell asleep one day, and forgot to awaken; or, in still plainer terms, he died.
 
 Now, it is usual, when a man dies, to close the history of his life and adventures at once; but with our hero this cannot be the case. The moment Bill departed, he very naturally bent his steps towards the residence of St. Moroky, as being, in his opinion, likely to lead him towards the snuggest berth he could readily make out. On arriving he gave a very humble kind of a knock, and St. Moroky appeared.
 
@@ -456,25 +456,25 @@ Now, it is usual, when a man dies, to close the history of his life and adventur
 
 "Be off: there's no admittance here for so pure a youth as you are," said St. Moroky.
 
-He was now so cold and fatigued that he cared little where he went, provided only, as he said himself, " he could rest his bones, and get an air of the fire." Accordingly, after arriving at a large black gate, he knocked, as before, and was told he would get instant admittance the moment he gave his name, in order that they might find out his berth from the registry, taking it for granted that he had been booked for them, as is usual in such cases.
+He was now so cold and fatigued that he cared little where he went, provided only, as he said himself, "he could rest his bones, and get an air of the fire." Accordingly, after arriving at a large black gate, he knocked, as before, and was told he would get instant admittance the moment he gave his name, in order that they might find out his berth from the registry, taking it for granted that he had been booked for them, as is usual in such cases.
 
 "I think your master is acquainted with me," said Billy.
 
-"If he were not, you'd not come here," said the porter; " there are no friendly visits made to us. What's your name?"
+"If he were not, you'd not come here," said the porter; "there are no friendly visits made to us. What's your name?"
 
 "Billy Duffy," he replied.
 
 The porter and several of his companions gave a yell of terror, such as Bill had never heard before, and immediately every bolt was bolted, every chain drawn tight across the gate, and every available weight and bar placed against it, as if those who were inside dreaded a siege.
 
-"Off, instantly," said the porter, " and let his Majesty know that the rascal he dreads so much is here at the gate."
+"Off, instantly," said the porter, "and let his Majesty know that the rascal he dreads so much is here at the gate."
 
 In fact, such a racket and tumult were never heard as the very mention of Billy Duffy created among them.
 
-"Oh," said Bill, with his eye to the bars of the gate, " I doubt I have got a bad name," and he shook his head like an innocent man who did not deserve it.
+"Oh," said Bill, with his eye to the bars of the gate, "I doubt I have got a bad name," and he shook his head like an innocent man who did not deserve it.
 
 In the meantime, his old acquaintance came running towards the gate with such haste and consternation, that his tail was several times nearly tripping up his heels.
 
-"Don't admit that rascal," he shouted; " bar the gate — make every chain, and lock, and bolt, fast — I won't be safe — none of us will be safe — and I won't stay here, nor none of us need stay here, if he gets in — my bones are sore yet after him. No, no — begone you villain — you'll get no entrance here — I know you too well."
+"Don't admit that rascal," he shouted; "bar the gate — make every chain, and lock, and bolt, fast — I won't be safe — none of us will be safe — and I won't stay here, nor none of us need stay here, if he gets in — my bones are sore yet after him. No, no — begone you villain — you'll get no entrance here — I know you too well."
 
 Bill could not help giving a broad, malicious grin at Satan, and, putting his nose through the bars, he exclaimed —
 
@@ -482,7 +482,7 @@ Bill could not help giving a broad, malicious grin at Satan, and, putting his no
 
 He had scarcely uttered the words, when his foe, who stood inside, instantly tweaked him by the nose, and Bill felt as if he had been gripped by the same red-hot tongs with which he himself had formerly tweaked the nose of Nicholas.
 
-"Well," said he, " that's not the way *I* treated *you* once upon a time. Throth you're ondecent — but you know what it is to get tinker's reckoning — to be paid in advance— so I owe you nothing for *that*, Nicholas."
+"Well," said he, "that's not the way *I* treated *you* once upon a time. Throth you're ondecent — but you know what it is to get tinker's reckoning — to be paid in advance— so I owe you nothing for *that*, Nicholas."
 
 Bill then departed, but soon found that in consequence of the inflammable materials which strong drink had thrown into his nose, that organ immediately took fire, and, indeed, to tell the truth, kept burning night and day, winter and summer, without ever once going out, from that hour to this.
 
@@ -622,7 +622,7 @@ To fetch the old man home:
 At Jack's hall door the servant knocks,  
 And bids him come away;  
 Jack opes the door, and asks him in,  
-And says, " Sit down, I pray."
+And says, "Sit down, I pray."
 
 II.
 
@@ -772,7 +772,7 @@ As w'e strode homeward, along the well-known pathway, my uncle, now relieved fro
 
 'Why, uncle, the 'ignis fatus' is only a harmless light — a gaseous vapor arising from putrid vegetable bodies, which, ignited by the damps of the night, wanders on in brightness till the inflamable air is consumed.'
 
-'Eamon a hagur, your hard words have bothered me entirely. Thim nateral phil — what do ye call 'em, have filled your head, a leagh, with nonsense. Jack o' the Lantern a gas light— isn't it, asthore ? Eamon, a chora, (and his tone grew tremulous with feeling). Eamon, if you knew the sufferings of that forsaken craythur, since the time the poor soul was doomed to wandher, with a lanthern in his hand on this cowld earth, without rest for his foot, or shelter for his head, until the day of judgment — ullayone! oh, it 'ud soften the heart of stone, to see him as I once did, the poor ould 'dunawn' — his feet blistered and bleeding, his poneens all flying about him, and the rains of heaven beating on his ould white head.'
+'Eamon a hagur, your hard words have bothered me entirely. Thim nateral phil — what do ye call 'em, have filled your head, a leagh, with nonsense. Jack o' the Lantern a gas light— isn't it, asthore? Eamon, a chora, (and his tone grew tremulous with feeling). Eamon, if you knew the sufferings of that forsaken craythur, since the time the poor soul was doomed to wandher, with a lanthern in his hand on this cowld earth, without rest for his foot, or shelter for his head, until the day of judgment — ullayone! oh, it 'ud soften the heart of stone, to see him as I once did, the poor ould 'dunawn' — his feet blistered and bleeding, his poneens all flying about him, and the rains of heaven beating on his ould white head.'
 
 This burst of emotion would have given me real delight could a reasonable motive be assigned for it; but in his enthusiastic feeling for the fabled being of his commisseration, I really concluded my uncle was beside himself.
 
@@ -851,19 +851,19 @@ We can find a translation of the notes to *82. Gambling Hansel* in Margaret Hunt
 
 In *Grimm's household tales: with the author's notes*, transl. by Margaret Hunt, with an introduction by Andrew Lang, 1884, [pp442-452](https://archive.org/details/grimmshouseholdt01grim/page/442/mode/2up):
 
-From Weitra in German Bohemia. We give a variant from the neighbourhood of Münster, in the patois in use there. Hans Lustig was a rich man, but had gambled away all that he had in card-playing and now had to suffer evil days. It came to pass that the Lord and St. Peter were on earth and went to his door and knocked, and said, " Good evening, Hans Lustig, may we spend the night with you?" "Why not?" said Hans Lustig, "If you will be content with what I have, but my wife and I have nothing but one bundle of straw; if you are willing to lie on that, you shall have it. " "Why not?" said the Lord and Peter, so they sat down and talked of old times. St. Peter said, "Hans Lustig, we are thirsty, fetch us a jug of beer, here is some money." That was what Hans Lustig liked. When he came to the inn, he heard them playing cards and played with them once more, and in an instant his money was lost. " What shall I do now?" thought he, " Now I shall get no beer for those people who are waiting at home, and are so thirsty." He went home and said that he had had a fall and had broken his pitcher. Then St. Peter said, " For this time I will give you more money, but see that you get a pitcher full, for we are terribly thirsty. " "How shall I be able to do that," thought he, " if they are still playing at cards?" He went away with bis pitcher, stopped his ears so that he could not hear the playing, and came back safely to the house with the beer. When the Lord and St. Peter had drunk it, they felt hungry. "What am I to do?" said the woman, "I have no flour; I must bake a pan-cake of ashes." So they sat down together and ate something, but Hans Lustig always spoke of card-playing, and how delightful it was, and thus he talked until it was time to go to bed. The Lord and St. Peter lay upon a bundle of straw, and Hans Lustig and his wife by the fire. In the morning when they arose, and the Lord and St. Peter were about to go away, the Lord gave Hans Lustig three things; a pack of cards with which he would win everything when he played with them; dice with which he would win everything whenever he threw them; and a fiddle which when be began to play on it, would make every one unable to stir. Hans Lustig once more began to gamble merrily, and won everything. He bought back his house and yard, and always carried his cards and fiddle about with him. At last he became ill, and Death came, and said, " Hans Lustig, thou must die. " "Oh," said he, " Good Death, but first gather me some fruit from the tree which stands in front of my door." When Death was in the tree, Hans Lustig began to play the fiddle, and Death was unable to stir from the tree. Then once more he played merrily with the cards and dice, but one of his relations died and he was forced to go to the funeral. When he was buried, Hans Lustig prayed a very devout Paternoster. " So!" said Death, " I have been on the watch to hear thee pray that; now, thou must go." Hans Lustig died, and knocked at the door of heaven. " Who is there? " "Hans Lustig. " "Thou must go to hell." When he got to hell, he knocked. "Who is there? " "Hans Lustig. " "What dost thou want here? " "To play at cards." "For what wouldst thou play, then?" "For souls." Hans Lustig played and won a hundred souls. He took them up on his back and knocked at the door of heaven. " Who is there? " "Hans Lustig with a hundred souls, and not one less. " "No, you may just go away again." He went back to the door of hell and knocked. " Who is there? " "Hans Lustig who wants to play for souls again." He again won a hundred souls, and again went away with them to heaven, and knocked. " Who is there? " "Hans Lustig with two hundred souls, neither less nor more: just let me have one peep of heaven." So St. Peter opened the door of heaven, and then Hans Lustig threw his pack of cards in. " Oh do let me get my pack of cards back," said he, and he is sitting on his cards to this very day.
+From Weitra in German Bohemia. We give a variant from the neighbourhood of Münster, in the patois in use there. Hans Lustig was a rich man, but had gambled away all that he had in card-playing and now had to suffer evil days. It came to pass that the Lord and St. Peter were on earth and went to his door and knocked, and said, "Good evening, Hans Lustig, may we spend the night with you?" "Why not?" said Hans Lustig, "If you will be content with what I have, but my wife and I have nothing but one bundle of straw; if you are willing to lie on that, you shall have it." "Why not?" said the Lord and Peter, so they sat down and talked of old times. St. Peter said, "Hans Lustig, we are thirsty, fetch us a jug of beer, here is some money." That was what Hans Lustig liked. When he came to the inn, he heard them playing cards and played with them once more, and in an instant his money was lost. "What shall I do now?" thought he, "Now I shall get no beer for those people who are waiting at home, and are so thirsty." He went home and said that he had had a fall and had broken his pitcher. Then St. Peter said, "For this time I will give you more money, but see that you get a pitcher full, for we are terribly thirsty." "How shall I be able to do that," thought he, "if they are still playing at cards?" He went away with bis pitcher, stopped his ears so that he could not hear the playing, and came back safely to the house with the beer. When the Lord and St. Peter had drunk it, they felt hungry. "What am I to do?" said the woman, "I have no flour; I must bake a pan-cake of ashes." So they sat down together and ate something, but Hans Lustig always spoke of card-playing, and how delightful it was, and thus he talked until it was time to go to bed. The Lord and St. Peter lay upon a bundle of straw, and Hans Lustig and his wife by the fire. In the morning when they arose, and the Lord and St. Peter were about to go away, the Lord gave Hans Lustig three things; a pack of cards with which he would win everything when he played with them; dice with which he would win everything whenever he threw them; and a fiddle which when be began to play on it, would make every one unable to stir. Hans Lustig once more began to gamble merrily, and won everything. He bought back his house and yard, and always carried his cards and fiddle about with him. At last he became ill, and Death came, and said, "Hans Lustig, thou must die." "Oh," said he, "Good Death, but first gather me some fruit from the tree which stands in front of my door." When Death was in the tree, Hans Lustig began to play the fiddle, and Death was unable to stir from the tree. Then once more he played merrily with the cards and dice, but one of his relations died and he was forced to go to the funeral. When he was buried, Hans Lustig prayed a very devout Paternoster. "So!" said Death, "I have been on the watch to hear thee pray that; now, thou must go." Hans Lustig died, and knocked at the door of heaven. "Who is there?" "Hans Lustig." "Thou must go to hell." When he got to hell, he knocked. "Who is there?" "Hans Lustig." "What dost thou want here?" "To play at cards." "For what wouldst thou play, then?" "For souls." Hans Lustig played and won a hundred souls. He took them up on his back and knocked at the door of heaven. "Who is there?" "Hans Lustig with a hundred souls, and not one less." "No, you may just go away again." He went back to the door of hell and knocked. "Who is there?" "Hans Lustig who wants to play for souls again." He again won a hundred souls, and again went away with them to heaven, and knocked. "Who is there?" "Hans Lustig with two hundred souls, neither less nor more: just let me have one peep of heaven." So St. Peter opened the door of heaven, and then Hans Lustig threw his pack of cards in. "Oh do let me get my pack of cards back," said he, and he is sitting on his cards to this very day.
 
 That this Bohemian and the Low German story are connected with the foregoing story of Brother Lustig is manifest; in the latter the name is even the same. The Youth who went out to learn how to shiver, No. 4, also belongs to this group. A Hessian stoiy from the Schwalm district unites together all three. A poor soldier who has taken in some wayfarers, and shared his black bread with them, receives in return a purse which will never be empty, then a knapsack into which everything that he wishes inside it must go, and thirdly, eternal happiness. The soldier comes to a village where dancing is going on, the inn-keeper's pretty daughter refuses to dance with him, he goes away in a bad temper and meets the Devil, who promises the soldier to change the girl's heart to him so that she shall marry him, and for that the soldier is to give a written promise to be the Devil's property in ten years. The soldier consents, marries the girl, lives happily for a year or two, and has as much money as he wants. Then it occurs to him that the King has never given him a pension which he has earned, and he goes to demand an explanation. The guards will not let him in, but he always wishes them in his knapsack, and gives them a good beating. The King readily consents to let him live in his palace, and eat and drink with him, but secretly hopes to get rid of him, and persuades him to pass a night in a haunted castle in which, up to that time, every one has lost his life. And now the story passes into that of the Youth who went out to learn how to shiver. See notes to that story. He overcomes all the spirits by wishing them in his knapsack. Thus he frees the castle, and discovers a great treasure which he shares with the King. When the ten years are over, the Devil comes, the soldier gives him his child and obtains ten years more. When these are over the Devil comes again, but the soldier wishes him in his knapsack, and now he has him captive. He makes six peasants who were in a barn thresh him furiously; and, not content with that, goes to a smithy where the blacksmith's men have to heat the knapsack red-hot and hammer it out. The Devil is so bruised, that in order to be free, he is glad to promise never to come back again. In the meantime the soldier sees that his end is approaching, and orders his purse and knapsack to be laid in the coffin with him. When after his death he comes to the door of heaven, St. Peter will not allow him to enter. It is true that eternal happiness had been promised him, but he had pledged himself away to the Devil. The soldier goes to hell, but the Devil is terrified, and he too will not let him enter. He goes back to heaven and entreats St. Peter to open the door just wide enough to let him have one peep inside. Hereupon he throws his kuapsack in and wishes himself inside it, and then he is in heaven. The hammering out the Devil which occurs here carries us on to another form of this wide-spread saga according to which a smith himself is the bearer of it. First there is a story from Tachau, in Grerman Bohemia, in the dialect peculiar to that place.
 
-Once on a time when the Lord Jesus and St. Peter were on earth, they came to a village where no one lived but very rich peasants. They went from house to house to ask for a lodging, and everywhere the door was shut in their faces. At last they came to a blacksmith's, who was a merry fellow and not particularly pious, an<i he invited them to come in. They ate and drank, and at day-break when they rose, the Lord told the Smith that he might ask for three things, but that he was not to forget his poor soul, and wish for nothing but temporal things, lest the Devil should some day fetch him. " Let the Lord look after that, for me," said the Smith; " and as you are so good as to grant me three wishes, I wish in the first place that my cherry-tree out there in the garden may always go on bearing cherries, and that whosoever climbs up it, may never be able to come down until I permithim. Next, I wish that whosoever sits down in my chair there, may never be able to get out of it until I am willing. Lastly, that no one who creeps into my stove shall be able to get out ef it.'* The Lord performs what he has promised, but threatens the Smith with hell for being so frivolous, and goes away with St, Peter. The Smith lives merrily until at last the time is up and he has to die. Then the Devil comes to his room and tells him that he must go with him to hell. " Well, then, if it must be so," says the Smith, " I will go with you; but be so good as to go out and climb up my cherry-tree and gather some cherries, that we may have something to eat on our way." Without more ado the good Devil climbs up the tree and picks cherries, but cannot come down again. Then the Smith bursts out laughing, and lets the Devil struggle for a long time in the tree until he promises him that he will never take him away to hell if he will but let him. come down from the tree. The Smith releases him from it, and the Devil goes home to hell, and tells what has happened to him. After a while another Devil comes to the Smith, and says that he is to go away with him immediately, and not to imagine that he can overreach him as he had overreached the first. " Ho ho!" says the Smithy " You need not be quite in such an hurry as that; just wait until I have made myself ready, and in the meantime seat yourself on that chair there." This Devil also allows himself to be persuaded, seats himself in the chair, and is not able to get out of it again, until he, like the first, promises to go back to hell alone. When the Devil returns to Lucifer, bringing no Smith with him, Lucifer is angry, scolds the Devil, and says, " Now, I will go myself and bring the Smith, and in the mean time, open the door of hell until I come with him." Lucifer goes to the Smith, and is about to seize him at once and carry him away. But the Smith says, " Oh, Lord Lucifer, I should have come away at once with your devils if I had not been ashamed. Do not you yourself think it will be a disgrace to me if the people see that the Devil is fetching me ? I will go to hell most willingly, but that no one may see you taking me, creep into my stove, and I will take it on my shoulders and carry you into hell; it will be a hard task for me, but no harm can happen to you inside it." Lucifer thinks what he says is true; and says to himself, " I can get out of this stove when I like, it will" not hold me fast." He creeps in, the Smith takes it on his back, and as he is going through the workshop, he takes the largest hammer with him and walks continually onwards on the road to hell, as Lucifer directs him from the stove. When they are not very far from hell, the Smith puts the stove down on a stone, takes the great hammer, and hammers away most terribly at Lucifer. He cries, " Murder! Murder!" and constantly tries to get out and cannot. But the Smith goes on beating him, and the louder Lucifer cries, the harder the Smith strikes. At length, when the Smith thinks that he has had enough, he opens the stove-door, and lets him out. Lucifer runs off to hell as fast as he caji, and the Smith runs after him with the big hammer. When he devils hear Lucifer screaming, and see him running, they are terrified and run into hell, and Lucifer runs after them and calls to the devils to shut the door of hell quickly behind him, and stop the Smith coming in. In their fright they do not know what kind of bolt to put into the door, and one of them quickly thrusts in his long nose instead of a bolt. The Smith thinks, " As they will not let me into hell, I will go straight to heaven." He knocks at the door of heaven, and when St. Peter comes to the door and sees the good-for-nothing Smith outside it, he is just going to shut it again, but the Smith squeezes himself into the opening and begs St. Peter to let him have just one peep inside. St. Peter lets him look in a little, and then says he is to pack off at once. But when the Smith is once inside, he throws down his leather apron, sits down on it, and says, " Now I am sitting on my own property, and I should like to see any one turn me out." There he is sitting still; and, my dear friends, shall we not be astonished when we get there and see him?
+Once on a time when the Lord Jesus and St. Peter were on earth, they came to a village where no one lived but very rich peasants. They went from house to house to ask for a lodging, and everywhere the door was shut in their faces. At last they came to a blacksmith's, who was a merry fellow and not particularly pious, an<i he invited them to come in. They ate and drank, and at day-break when they rose, the Lord told the Smith that he might ask for three things, but that he was not to forget his poor soul, and wish for nothing but temporal things, lest the Devil should some day fetch him. "Let the Lord look after that, for me," said the Smith; "and as you are so good as to grant me three wishes, I wish in the first place that my cherry-tree out there in the garden may always go on bearing cherries, and that whosoever climbs up it, may never be able to come down until I permithim. Next, I wish that whosoever sits down in my chair there, may never be able to get out of it until I am willing. Lastly, that no one who creeps into my stove shall be able to get out ef it.'* The Lord performs what he has promised, but threatens the Smith with hell for being so frivolous, and goes away with St, Peter. The Smith lives merrily until at last the time is up and he has to die. Then the Devil comes to his room and tells him that he must go with him to hell. "Well, then, if it must be so," says the Smith, "I will go with you; but be so good as to go out and climb up my cherry-tree and gather some cherries, that we may have something to eat on our way." Without more ado the good Devil climbs up the tree and picks cherries, but cannot come down again. Then the Smith bursts out laughing, and lets the Devil struggle for a long time in the tree until he promises him that he will never take him away to hell if he will but let him. come down from the tree. The Smith releases him from it, and the Devil goes home to hell, and tells what has happened to him. After a while another Devil comes to the Smith, and says that he is to go away with him immediately, and not to imagine that he can overreach him as he had overreached the first. "Ho ho!" says the Smithy "You need not be quite in such an hurry as that; just wait until I have made myself ready, and in the meantime seat yourself on that chair there." This Devil also allows himself to be persuaded, seats himself in the chair, and is not able to get out of it again, until he, like the first, promises to go back to hell alone. When the Devil returns to Lucifer, bringing no Smith with him, Lucifer is angry, scolds the Devil, and says, "Now, I will go myself and bring the Smith, and in the mean time, open the door of hell until I come with him." Lucifer goes to the Smith, and is about to seize him at once and carry him away. But the Smith says, "Oh, Lord Lucifer, I should have come away at once with your devils if I had not been ashamed. Do not you yourself think it will be a disgrace to me if the people see that the Devil is fetching me? I will go to hell most willingly, but that no one may see you taking me, creep into my stove, and I will take it on my shoulders and carry you into hell; it will be a hard task for me, but no harm can happen to you inside it." Lucifer thinks what he says is true; and says to himself, "I can get out of this stove when I like, it will" not hold me fast." He creeps in, the Smith takes it on his back, and as he is going through the workshop, he takes the largest hammer with him and walks continually onwards on the road to hell, as Lucifer directs him from the stove. When they are not very far from hell, the Smith puts the stove down on a stone, takes the great hammer, and hammers away most terribly at Lucifer. He cries, "Murder! Murder!" and constantly tries to get out and cannot. But the Smith goes on beating him, and the louder Lucifer cries, the harder the Smith strikes. At length, when the Smith thinks that he has had enough, he opens the stove-door, and lets him out. Lucifer runs off to hell as fast as he caji, and the Smith runs after him with the big hammer. When he devils hear Lucifer screaming, and see him running, they are terrified and run into hell, and Lucifer runs after them and calls to the devils to shut the door of hell quickly behind him, and stop the Smith coming in. In their fright they do not know what kind of bolt to put into the door, and one of them quickly thrusts in his long nose instead of a bolt. The Smith thinks, "As they will not let me into hell, I will go straight to heaven." He knocks at the door of heaven, and when St. Peter comes to the door and sees the good-for-nothing Smith outside it, he is just going to shut it again, but the Smith squeezes himself into the opening and begs St. Peter to let him have just one peep inside. St. Peter lets him look in a little, and then says he is to pack off at once. But when the Smith is once inside, he throws down his leather apron, sits down on it, and says, "Now I am sitting on my own property, and I should like to see any one turn me out." There he is sitting still; and, my dear friends, shall we not be astonished when we get there and see him?
 
-Another story from Hesse runs as follows. The Smith has by his loose life become quite poor, and goes into the forest to hang himself on one of the trees; but a man with a long beard, who has a book in his hand, meets him, and says, "Write thy name in this, and thou shalt have ten years of prosperity, after which thou wilt be mine. " "Who art thou?" asks the Smith. " I am the Devil. " "What canst thou do? " "I can make myself as tall as a fir-tree and as small as a mouse. " "Then let me see thee do it." The Devil exhibits himself as very large and very small, and the Smith inscribes his name in the book. From this time forth he has money in abundance. After a year or two the Devil comes, is satisfied with him, and presents him with a leather bag, which has this property, that whatsoever goes into it cannot get out again until the Smith himself takes it out. When ten years have expired, the Devil appears to take his property into his own possession again. The Smith seems to be ready, and goes out with him, but demands that the Devil, as a proof that he is the right one, shall exhibit himself before him in a large shape and a small one. When he changes himself into a mouse, the Smith seizes him, puts him in the bag, and cudgels him so soundly that he is quite willing to tear the page with the Smith's name out of the great book, if the latter will but take him out of the bag again. Full of rage he goes back to hell, and the Smith is free, and lives happily as long as God permits. When he becomes ill and sees that his death is near, he orders two good long-pointed nails and a hammer to be laid in the coffin with him. When he arrives on high, he knocks at the door of heaven, but St. Peter will not let him in because he had made that compact with the Devil. The Smith turns back, and goes to hell, but the Devil does not want him, because he is sure to do nothing but make an uproar. The Smith now becomes angry, and makes a great noise, and a small devil is curious and puts his nose a little out of the door. The Smith quickly seizes it, and with one of his nails, nails it to the door of hell. The little devil screeches like a lion's whelp, and a second comes and peeps, and the Smith seizes him by the ear, and takes the other nail, and nails him by the first devil. And now the two scream so terribly that the old Devil himself comes running thither, and is so enraged at the sight that he begins to cry with anger, and runs to God and entreats him to take the Smith to himself, for he is nailing up his devils by their noses and ears until he himself is no longer master in hell. In order to get rid of the Devil, God and St. Peter are forced to take the Smith into heaven, and there he is now in rest and peace.
+Another story from Hesse runs as follows. The Smith has by his loose life become quite poor, and goes into the forest to hang himself on one of the trees; but a man with a long beard, who has a book in his hand, meets him, and says, "Write thy name in this, and thou shalt have ten years of prosperity, after which thou wilt be mine." "Who art thou?" asks the Smith. "I am the Devil." "What canst thou do?" "I can make myself as tall as a fir-tree and as small as a mouse." "Then let me see thee do it." The Devil exhibits himself as very large and very small, and the Smith inscribes his name in the book. From this time forth he has money in abundance. After a year or two the Devil comes, is satisfied with him, and presents him with a leather bag, which has this property, that whatsoever goes into it cannot get out again until the Smith himself takes it out. When ten years have expired, the Devil appears to take his property into his own possession again. The Smith seems to be ready, and goes out with him, but demands that the Devil, as a proof that he is the right one, shall exhibit himself before him in a large shape and a small one. When he changes himself into a mouse, the Smith seizes him, puts him in the bag, and cudgels him so soundly that he is quite willing to tear the page with the Smith's name out of the great book, if the latter will but take him out of the bag again. Full of rage he goes back to hell, and the Smith is free, and lives happily as long as God permits. When he becomes ill and sees that his death is near, he orders two good long-pointed nails and a hammer to be laid in the coffin with him. When he arrives on high, he knocks at the door of heaven, but St. Peter will not let him in because he had made that compact with the Devil. The Smith turns back, and goes to hell, but the Devil does not want him, because he is sure to do nothing but make an uproar. The Smith now becomes angry, and makes a great noise, and a small devil is curious and puts his nose a little out of the door. The Smith quickly seizes it, and with one of his nails, nails it to the door of hell. The little devil screeches like a lion's whelp, and a second comes and peeps, and the Smith seizes him by the ear, and takes the other nail, and nails him by the first devil. And now the two scream so terribly that the old Devil himself comes running thither, and is so enraged at the sight that he begins to cry with anger, and runs to God and entreats him to take the Smith to himself, for he is nailing up his devils by their noses and ears until he himself is no longer master in hell. In order to get rid of the Devil, God and St. Peter are forced to take the Smith into heaven, and there he is now in rest and peace.
 
-A third story from Hanover also has its peculiarities. A horseman came to a Smith who had become so poor that he had no longer any iron or coals, and wanted to have his horse shod. The Smith said he would first borrow some iron and coals in the nearest village. " If that is all thou art in need of," said the horseman, " I will soon help thee, only thou must sign this page with thy blood." The Smith agreed to this without any difficulty and went into the room, scratched his finger, and signed it. When he came out again, the yard was filled with iron and coals. He shod the horse, and the horseman rode away again; but the Smith obtained large custom, and soon became a rich man again. One day after this a man came riding on an ass and had it shod. When that was done, the stranger said, " I have no money, but wish for three things and they shall be granted unto thee." So the Smith wished for a chair, in which whosoever sat down should remain sitting; for a pear-tree from which no one who had climbed up should be able to come down without he ordered him to do so; and a bag endowed with the same property. The man on the horse was the Devil, but the one on the ass was St. Peter. When the Devil came and showed the Smith the page which he had signed, and wanted to take him away as his property, the latter made him sit down on the chair, and horsewhipped him until he flew out of the window. He lured the second devil up the pear-tree, and the third into the bag, and drove them both away with blows. When the Smith saw that his death was drawing near, he ordered those near him to tie his leather apron round him. He knocked at the door of hell, but the devils would not have him. He came to the door of heaven, but St. Peter also refused to admit him; he allowed him, however, to look in. Then the Smith threw his leather apron into heaven, seated himself on it, and said that he was sitting on his own property from which no one could drive him.
+A third story from Hanover also has its peculiarities. A horseman came to a Smith who had become so poor that he had no longer any iron or coals, and wanted to have his horse shod. The Smith said he would first borrow some iron and coals in the nearest village. "If that is all thou art in need of," said the horseman, "I will soon help thee, only thou must sign this page with thy blood." The Smith agreed to this without any difficulty and went into the room, scratched his finger, and signed it. When he came out again, the yard was filled with iron and coals. He shod the horse, and the horseman rode away again; but the Smith obtained large custom, and soon became a rich man again. One day after this a man came riding on an ass and had it shod. When that was done, the stranger said, "I have no money, but wish for three things and they shall be granted unto thee." So the Smith wished for a chair, in which whosoever sat down should remain sitting; for a pear-tree from which no one who had climbed up should be able to come down without he ordered him to do so; and a bag endowed with the same property. The man on the horse was the Devil, but the one on the ass was St. Peter. When the Devil came and showed the Smith the page which he had signed, and wanted to take him away as his property, the latter made him sit down on the chair, and horsewhipped him until he flew out of the window. He lured the second devil up the pear-tree, and the third into the bag, and drove them both away with blows. When the Smith saw that his death was drawing near, he ordered those near him to tie his leather apron round him. He knocked at the door of hell, but the devils would not have him. He came to the door of heaven, but St. Peter also refused to admit him; he allowed him, however, to look in. Then the Smith threw his leather apron into heaven, seated himself on it, and said that he was sitting on his own property from which no one could drive him.
 
 A fourth presentment of the saga from Southern Germany is contained in the following book, Sittlich und Seelen nutzlich Beise nach Bethlehem, von E. P. Attanasy von Billing, (Sulzbach, 1700, qto.), p. 153, communicated in tlie Curiosities of Vulpius, 3. 422, 425). Ckrist and St. Peter enter into the house of a "blacksmith. His aged wife entertains them to the best of her ability, for which the departing guests wish her all good things, and promise her that she shall enter the kingdom of heaven. Christ wishes to show his gratitude to her husband also, and grants him four wishes. In the first place the Smith wishes that no one shall ever be able to descend from the pear-tree behind his house against his will; secondly, that no one who sits on the block of his anvil shall be able to get up again unless he gives him permission; and in the third place, that no one shall ever be able to get out of the flue of his stove unless he is willing. St Peter is angry at these requests, for he had expected that the Smith would ask to have his salvation assured; being reproached by St. Peter, the Smith however wishes, in the fourth place, that his green cap may always remain his own property, and that whenever he seats himself upon it no power may be able to drive him away from it. When Death comes to the Smith, he entices him to climb the tree, and does not let him descend again until he promises him a respite of twenty years. The second time he sets him on the block of the anvil, and obtains another twenty years. The Devil comes for the third time, and then the Smith gets him to go into the flue of the stove, and then he and his apprentices hammer him to their heart's delight, so that, howling terribly, the Devil promises that to all eternity he will never have anything to do with the Smith. At length his guardian-angel Gomes and conducts him to hell. The Devil peeps through the small window-pane, shuts it in a great hurry, and will not let him in. Then they go to heaven, where St. Peter also will not allow the Smith to enter. He begs to be allowed to have just the least little peep inside that he may see what it is like. Hardly, however, is the door opened than he throws in his cap, and says, '* It is my property and I must fetch it." But once inside, he seats himself on the cap and then remains in heaven.
 
-A fifth story from the neighbourhood of Münster makes the story a local one and the Smith live at Bielefeld. The conclusion has only one or two special incidents, as for instance, that the Smith when turned away by the Devil also goes for the second time to heaven, and stands by the door to see how the blessed ones are admitted by St. Peter. A horseman comes with boots and spurs and wants to go straight in, but the apostle says to him, "Dost thou suppose that men force their way into the kingdom of heaven with boots and spurs; thou must wait?" Then a pious maiden appears, and to her St. Peter at once opens the door, and the Smith makes use of the opportunity, and throws in his leather apron after her, " Why art thou throwing thy dirty leathern apron into heaven?" says the apostle. " I will fetch it out again," says the Smith, " if it is too bad for you." But when he is in heaven he spreads it out behind the door and seats himself upon it, sayin?, •' Now I am sitting on my own property, and will not stir from it." The apostle says, " After all he has done much good to the poor with his money, so he may stay and sit behind the door."
+A fifth story from the neighbourhood of Münster makes the story a local one and the Smith live at Bielefeld. The conclusion has only one or two special incidents, as for instance, that the Smith when turned away by the Devil also goes for the second time to heaven, and stands by the door to see how the blessed ones are admitted by St. Peter. A horseman comes with boots and spurs and wants to go straight in, but the apostle says to him, "Dost thou suppose that men force their way into the kingdom of heaven with boots and spurs; thou must wait?" Then a pious maiden appears, and to her St. Peter at once opens the door, and the Smith makes use of the opportunity, and throws in his leather apron after her, "Why art thou throwing thy dirty leathern apron into heaven?" says the apostle. "I will fetch it out again," says the Smith, "if it is too bad for you." But when he is in heaven he spreads it out behind the door and seats himself upon it, sayin: "Now I am sitting on my own property, and will not stir from it." The apostle says, "After all he has done much good to the poor with his money, so he may stay and sit behind the door."
 
 A sixth story from the neighbourhood of Paderborn likewise speaks of the little Smith of Bielefeld. The Devil has in his presence to make himself as large as an elephant, and as small as a mouse, and the Smith catches him and thrusts him into his glove, out of which he is not able to come, and then he hammers him on the anvil. Afterwards the devils will not let the Smith into hell, and keep their door shut with iron bars. St. Peter also refuses to let him into heaven, so he hovers between heaven and hell like Gambling Hansel. In the seventh place follows the Saga of the Smith of Jilterhock, which is very well given in the German-French which still prevails in some places. (Leipz. edition of 1736, pp. 110-150 Nuremberg, 1772, pp. 80-95). The pious Smith of Jiiterbock wore a black and white coat, and one night readily and kindly entertained a holy man, who, before his departure, permitted him to make three requests. In the first place, he begged that his favourite seat by the stove might be endowed with the power of holding fast every unbidden guest until he himself set him free; secondly, that his apple-tree in the garden should hkewise hold fast those who should climb up it; thirdly, that no one should be able to get out of his coal-sack whom he himself did not release. Some time afterwards Death comes. He sits upon the chair, and in order to get up again is obliged to bestow ten years more life on the Smith. When this time of truce has expired. Death comes again and climbs the appletree. The Smith calls together his apprentices who beat Death unmercifully with iron bars. This time he is only released on condition that he will let the Smith live for ever. Full of trouble and lame in every limb. Death slowly departs. On his way he meets the Devil and laments his sorrows to him. The Devil mocks him, and thinks he himself could very easily manage the Smith. The Smith, however, refuses the Devil a night's lodging; at least, he will not open the house-door, but the Devil may creep in through the keyhole. That is easy to the Devil, only the Smith has held the coalsack m front of it, and ties up the sack as soon as the Devil is inside it, and then has it well beaten out on the anvil. When they have wearied themselves to their hearts' content with knockinf and hammering, the poor belaboured Devil is set free, but has to° find his way out by the same hole by which he crept in.
 
@@ -871,13 +871,13 @@ Eighthly, there is a similar saga of the Smith of Apolda (compare Talk's Grotesk
 
 In the ninth place, there is a story from the Wetterau, communicated by Professor Wigand. The Smith tempts the Devil to climb a pear-tree from which he is to bring down a couple of beautiful golden pears for him, but in which he is held fast. In order to be able to descend, he has to promise the Smith ten years more. When the Devil reappears, the Smith begs him just to fetch him a riail from his nailbox, that he may nail something firmly, but the Devil s hand sticks fast in the box, and he is not released from it until he has promised the Smith twenty years more. When this time, too, has gone by, and the Devil presents himself, the Smith makes him sit upon a seat from which he is not able to rise until he gives the Smith entire freedom. Hereupon the Devil vanishes, and takes the whole of the roof of the house with him.
 
-Lastly, in the tenth place, there is a Bavarian saga of the Smith of ]\litterbach, see Schmeller's Bavarian Dialects, 4yd-4:Jb, and Panzer's German Mythology, p. 94; this also has a cherry-tree from which no one can descend, a seat on which every one must remain siitinc^ unless the Smith wills otherwise; and lastly, a bag out which no one can come without the Smith's leave. To this group also belong a story in Kuhn, No. 8; one in Colshorn, No. 89; in Prohle s Kindermarchen, Nos. 15 and 16: in Zingerle, p. 43; a Netherlandish «tory in Wolf's Wodana, iso. 2 (compare the notes, p. 54); and a Norwegian, No. 24, in Asbjornsen. Kopitar relates, from his childish recollections of Krain, a saga of Sveti Korant. He had an enchanted tree, and whosoever climbed into it could not come down again by means of which he tricked Death for a long time. When at length, he died, the Devil would not admit him into hell, and held the dSor fast, but the nails on the Devil's fingers projected, and Korant the Smith bent them back, and nailed them last till the Devil screamed loudly for mercy. Then the Smith went to heaven, where St. Peter also would not allow him to enter. Korant, however saw his mantle, which he had once given to a poor man, lying inside, and jumped upon it, crying, " I am on my own land and property." Compare Keller in the Introduction to Li romans des sept sages, cLXXxni. and following, and Hans von Biihel's, Diocletian, p, 54.
+Lastly, in the tenth place, there is a Bavarian saga of the Smith of ]\litterbach, see Schmeller's Bavarian Dialects, 4yd-4:Jb, and Panzer's German Mythology, p. 94; this also has a cherry-tree from which no one can descend, a seat on which every one must remain siitinc^ unless the Smith wills otherwise; and lastly, a bag out which no one can come without the Smith's leave. To this group also belong a story in Kuhn, No. 8; one in Colshorn, No. 89; in Prohle s Kindermarchen, Nos. 15 and 16: in Zingerle, p. 43; a Netherlandish «tory in Wolf's Wodana, iso. 2 (compare the notes, p. 54); and a Norwegian, No. 24, in Asbjornsen. Kopitar relates, from his childish recollections of Krain, a saga of Sveti Korant. He had an enchanted tree, and whosoever climbed into it could not come down again by means of which he tricked Death for a long time. When at length, he died, the Devil would not admit him into hell, and held the dSor fast, but the nails on the Devil's fingers projected, and Korant the Smith bent them back, and nailed them last till the Devil screamed loudly for mercy. Then the Smith went to heaven, where St. Peter also would not allow him to enter. Korant, however saw his mantle, which he had once given to a poor man, lying inside, and jumped upon it, crying, "I am on my own land and property." Compare Keller in the Introduction to Li romans des sept sages, cLXXxni. and following, and Hans von Biihel's, Diocletian, p, 54.
 
-The printed popular book entitled, Das his an den jungsten Tag wdhrende Elende (The History of Misery who will live to the Day of Judgment), or as it appears in the French translation, Histoire nouvelle et divertissement (divertissante ? ) cZw hon homme Misere (Troyes, chez Gamier), agrees for the most part with the story already given in the dialect of Hesse. On the other hand, however, many circumstances point to an Italian origin for this last story, or at all events, De la Eiviere heard it related in Italy. The Apostles Peter and Paul arrive in very bad weather in a village, and stumble on a washerwoman who is thanking heaven because the rain is water, and not wine; they knock at the door of a rich man who haughtily drives them away, and are taken in by poor Misery. He only makes the one wish with respect to the pear-tree, which  has just been plundered by a thief. The thief is caught, and so are other people besides who climb up out of curiosity to set the lamenting thief free. At length Death comes, and Misery begs him to lend him his scythe, that he may take one of the finest pears away with him; Death, like a good soldier, will not let his arms go out of his own hands, and himself undei'takes the task. Misery does not set him free until he has promised to leave him in peace until the day of judgment, and this is why Misery still continues to live on for ever in the world. A fragment from the district of the Maine may be here quoted because it is conceived in the same spirit.
+The printed popular book entitled, Das his an den jungsten Tag wdhrende Elende (The History of Misery who will live to the Day of Judgment), or as it appears in the French translation, Histoire nouvelle et divertissement (divertissante? ) cZw hon homme Misere (Troyes, chez Gamier), agrees for the most part with the story already given in the dialect of Hesse. On the other hand, however, many circumstances point to an Italian origin for this last story, or at all events, De la Eiviere heard it related in Italy. The Apostles Peter and Paul arrive in very bad weather in a village, and stumble on a washerwoman who is thanking heaven because the rain is water, and not wine; they knock at the door of a rich man who haughtily drives them away, and are taken in by poor Misery. He only makes the one wish with respect to the pear-tree, which  has just been plundered by a thief. The thief is caught, and so are other people besides who climb up out of curiosity to set the lamenting thief free. At length Death comes, and Misery begs him to lend him his scythe, that he may take one of the finest pears away with him; Death, like a good soldier, will not let his arms go out of his own hands, and himself undei'takes the task. Misery does not set him free until he has promised to leave him in peace until the day of judgment, and this is why Misery still continues to live on for ever in the world. A fragment from the district of the Maine may be here quoted because it is conceived in the same spirit.
 
-The Devil comes to fetch away a certain man who has pledged himself to him, and whose time is up. At the same time, he brings with him a number of carts laden with old shoes. " What are they?" asks the man. "These shoes have been worn out by my spirits in thy service, but now thou art mine," replies the Devil. But the man desires to see the hand-writing in order ^ to recognize it himself, the Devil comes nearer to show it, on which the man approaches it with his mouth, snatches at it and swallows it, and thus he is freed. Lastly, we must remark that Coreb and Fabel in the Merry Devil of Edmonton (Tieck's altengl: Theater 2), are clearly the characters of our story.
+The Devil comes to fetch away a certain man who has pledged himself to him, and whose time is up. At the same time, he brings with him a number of carts laden with old shoes. "What are they?" asks the man. "These shoes have been worn out by my spirits in thy service, but now thou art mine," replies the Devil. But the man desires to see the hand-writing in order to recognize it himself, the Devil comes nearer to show it, on which the man approaches it with his mouth, snatches at it and swallows it, and thus he is freed. Lastly, we must remark that Coreb and Fabel in the Merry Devil of Edmonton (Tieck's altengl: Theater 2), are clearly the characters of our story.
 
-Here is a very perfect instance of the wide circulation and living diversity of a saga. Of its antiquity there can be no doubt; and if we see, in the smith with his hammer, the god Thor, and in Death and the Devil, a clumsy monstrous giant, the whole gains a wellbased antique Norse aspect. We find references to it among the Greeks also, where the crafty smith is the ?? cunning Sisyphus in a Rtv:)ry which has been preserved by old Pherekydes, and which must have been known to the singer of the Iliad. Zeus, angry with the aged Sisyphus, seizes the opportunity to fetter him with strong bands, and then no one can die. See Welker on Schwenk's Etymological Mythology, Hints, pp. 323, 324. Gruber's Mythological Diet. 3. 522. Com]iare also the Jewish Days of David, and Deaths Helvicus, 1, No. 12. The story of the Poor Man and the Rich One, No. 87, is clearly related to it. (Compare the note). There a good and a bad man made the good and bad wishes. Here a middle-state is depicted. The smith is both good and bad, spiritual and worldly, for which reason he wears a black and white coat. He, in his poverty, gladly entertains the Lord, and stops his ears that he may not for the second time gamble away the money intended for a refreshing draught, and is good-hearted, but sometimes thoughtless. On this account, he is at length allowed to enter into heaven, or, in the more severe instance, placed between heaven and hell. This ending connects the story with the saga of the lansquenets who can find no place in heaven, which is told by Frei in the Oartengesellschaft, No. 44, and by H. Kirchhof, in Wendunmut (1. No. lOd). The Devil will not have them because they bear the red cross on their standards, and St. Peter also will not admit them because they were bloodhounds, robbers of the poor, and blasphemers against God, The captain however reproaches St. Peter with his own treachery to the Lord, until the apostle becomes red with shame, and shows them a village called " Wait a while," between heaven and hell, where they sit and gamble and drink.
+Here is a very perfect instance of the wide circulation and living diversity of a saga. Of its antiquity there can be no doubt; and if we see, in the smith with his hammer, the god Thor, and in Death and the Devil, a clumsy monstrous giant, the whole gains a wellbased antique Norse aspect. We find references to it among the Greeks also, where the crafty smith is the ?? cunning Sisyphus in a Rtv:)ry which has been preserved by old Pherekydes, and which must have been known to the singer of the Iliad. Zeus, angry with the aged Sisyphus, seizes the opportunity to fetter him with strong bands, and then no one can die. See Welker on Schwenk's Etymological Mythology, Hints, pp. 323, 324. Gruber's Mythological Diet. 3. 522. Com]iare also the Jewish Days of David, and Deaths Helvicus, 1, No. 12. The story of the Poor Man and the Rich One, No. 87, is clearly related to it. (Compare the note). There a good and a bad man made the good and bad wishes. Here a middle-state is depicted. The smith is both good and bad, spiritual and worldly, for which reason he wears a black and white coat. He, in his poverty, gladly entertains the Lord, and stops his ears that he may not for the second time gamble away the money intended for a refreshing draught, and is good-hearted, but sometimes thoughtless. On this account, he is at length allowed to enter into heaven, or, in the more severe instance, placed between heaven and hell. This ending connects the story with the saga of the lansquenets who can find no place in heaven, which is told by Frei in the Oartengesellschaft, No. 44, and by H. Kirchhof, in Wendunmut (1. No. lOd). The Devil will not have them because they bear the red cross on their standards, and St. Peter also will not admit them because they were bloodhounds, robbers of the poor, and blasphemers against God, The captain however reproaches St. Peter with his own treachery to the Lord, until the apostle becomes red with shame, and shows them a village called "Wait a while," between heaven and hell, where they sit and gamble and drink.
 
 With this story are connected many others of St. Peter and the lansquenets. Wolfs Zeitschrift fiir deutsche Mythologie, 2. 3, shows how Gambling Hansel belongs to the stormers of heaven. A seat from which no one who has sat down on it can arise again, is already known in the Greek Saga; Hephoestushad such a one made for the witch: see Gruber's Mythological Diet. 2, 57, notes. The cunning which the Smith uses against the Devil in order to catch him while prevailing on him to take the form of a mouse, occurs also in the Story of the Spirit in the Bottle, No. 99, and in the French Bluebeard.
 
@@ -898,9 +898,9 @@ BILLY DUFFY AND THE DEVIL.
 
 BILLY DUFFY was an Irishman, a blacksmith, and a drunkard. He had the Keltic aversion from steady work, and stuck to his forge only long enough to get money for drink; when that was spent, he returned to work.
 
-Billy was coming home one day after one of these drinking-bouts, soberer than usual, when he exclaimed to himself, for the thirst was upon him, " By God! I would sell myself to the devil if I could get some more drink."
+Billy was coming home one day after one of these drinking-bouts, soberer than usual, when he exclaimed to himself, for the thirst was upon him, "By God! I would sell myself to the devil if I could get some more drink."
 
-At that moment a tall gentleman in black stepped up to him, and said, " What did you say?"
+At that moment a tall gentleman in black stepped up to him, and said, "What did you say?"
 
 "I said I would sell myself to the devil if I could get a drink."
 
@@ -918,7 +918,7 @@ At that moment a tall gentleman in black stepped up to him, and said, " What did
 
 When Billy got home he found the money in his smithy. He at once shut the smithy, and began squandering the money, keeping open house.
 
-Amongst the people who flocked to get what they could out of Billy came an old hermit, who said, " I am very hungry, and nearly starved. Will you give me something to eat and drink?"
+Amongst the people who flocked to get what they could out of Billy came an old hermit, who said, "I am very hungry, and nearly starved. Will you give me something to eat and drink?"
 
 "Oh, yes; come in and get what you like."
 
@@ -926,7 +926,7 @@ The hermit disappeared, after eating and drinking, and did not reappear for seve
 
 "Come in, come in!" said Billy.
 
-After he had eaten and drunk his full, the hermit said to Billy: " Well, three times have you been good and kind to me. I'll give you three wishes, and whatever you wish will be sure to come true."
+After he had eaten and drunk his full, the hermit said to Billy: "Well, three times have you been good and kind to me. I'll give you three wishes, and whatever you wish will be sure to come true."
 
 "I must have time to consider," said Billy.
 
@@ -968,7 +968,7 @@ So the devil seized the hammer and began striking the anvil, but he couldn't sto
 
 So Billy laughed, and locked him in, and was away three days. During this time the people collected round the smithy, and peeped through the cracks in the shutter, for they could hear the hammer going night and day.
 
-At the end of three days Billy returned and opened the door, and the devil said, " Oh, Billy, you've played a fine trick to me; let me go."
+At the end of three days Billy returned and opened the door, and the devil said, "Oh, Billy, you've played a fine trick to me; let me go."
 
 "What are you going to give me if I let you go?"
 
@@ -980,13 +980,13 @@ On the last night of the seven years he went to his favourite public-house again
 
 After he wished, a little man entered and spat the sovereigns into the tumbler, and they all drank all night.
 
-Next morning Billy went back to his smithy. The devil, who had grown suspicious, turned himself into a sovereign and appeared on the floor. Billy seized the sovereign and clapped it into his purse. Then he took his purse and lay it upon the anvil, and began to beat it with his sledge-hammer, when the devil began to call out, " Spare my poor limbs, spare my poor limbs!"
+Next morning Billy went back to his smithy. The devil, who had grown suspicious, turned himself into a sovereign and appeared on the floor. Billy seized the sovereign and clapped it into his purse. Then he took his purse and lay it upon the anvil, and began to beat it with his sledge-hammer, when the devil began to call out, "Spare my poor limbs, spare my poor limbs!"
 
-"How much now if I let you go?" asked Billy. " Seven more years, three times the money, and one day in which to wish for what you like."
+"How much now if I let you go?" asked Billy. "Seven more years, three times the money, and one day in which to wish for what you like."
 
 Billy took the sovereign out of his purse and threw it away, when he found his money in the smithy.
 
-Billy carried on worse than ever; gambled and drank and raced, squandering it all before his seven years was gone. On the last day of his term he went to his favourite inn as usual and wished for a tumbler- full of sovereigns. A little man with a big head, a big nose, and big mouth, a little body, and little legs, with clubbed feet and a forked tail, brought them in and put them in the tumbler. The drunkards in the room got scared when they saw the little man, for he looked all glowing with fire as he danced on the table. When he finished, he said, " Billy, to-morrow morning our compact is up."
+Billy carried on worse than ever; gambled and drank and raced, squandering it all before his seven years was gone. On the last day of his term he went to his favourite inn as usual and wished for a tumbler- full of sovereigns. A little man with a big head, a big nose, and big mouth, a little body, and little legs, with clubbed feet and a forked tail, brought them in and put them in the tumbler. The drunkards in the room got scared when they saw the little man, for he looked all glowing with fire as he danced on the table. When he finished, he said, "Billy, to-morrow morning our compact is up."
 
 "I know it, old boy, I know it, old boy!" said Billy. Then the devil ran out and disappeared, and the people began to question Billy:
 
@@ -1002,7 +1002,7 @@ Billy carried on worse than ever; gambled and drank and raced, squandering it al
 
 "But in the name of God, what is it all about?" asked an old man.
 
-"Oh, you'll see by-and-bye," said Billy; " it is nothing at all."
+"Oh, you'll see by-and-bye," said Billy; "it is nothing at all."
 
 Next morning Billy went to his smithy, but the devil would not come near it.
 
@@ -1075,29 +1075,29 @@ A complementary story, in which the Devil tricks the blacksmith into committing 
 
 THE SMITH AND THE DEVIL
 
-ONCE upon a time there was a smith who had a son six years old a sturdy and sensible lad. One day the old man was going into the church, and stood in front of a picture of the Last Judgment. And he saw there was a devil painted there so terrible, so black, with horns and tail!" What a fine devil!" he thought. " I will go and paint such a devil for myself in the smithy." So he sent for a painter and told him to paint on the doors of the smithy a devil who should be exactly the same as the one he had seen in the church. This was done.
+ONCE upon a time there was a smith who had a son six years old a sturdy and sensible lad. One day the old man was going into the church, and stood in front of a picture of the Last Judgment. And he saw there was a devil painted there so terrible, so black, with horns and tail! "What a fine devil!" he thought. "I will go and paint such a devil for myself in the smithy." So he sent for a painter and told him to paint on the doors of the smithy a devil who should be exactly the same as the one he had seen in the church. This was done.
 
-From this time forward, the old man, whenever he went into the smithy, always looked at the devil and said, " Hail, fellow-countryman!" And soon after he would go up to the forge, light the fire, and set to work. So he went on living for some ten years on most excellent terms with the devil. Then he fell ill and died. His son succeeded him and took over the smithy. But he had no such respect for the devil as his father had had. Whether he went early to the smithy or not, nothing prospered; and, instead of greeting the devil kindly, he went and took his very biggest hammer and knocked the devil three times on his forehead, and then set to work. When a holy feast-day came by, he went into the church and lit a taper in front of the saints; but, as he approached the devil he spat on him. For three whole years this went on; and every day he greeted the unclean spirit with a hammer and spat on him.
+From this time forward, the old man, whenever he went into the smithy, always looked at the devil and said, "Hail, fellow-countryman!" And soon after he would go up to the forge, light the fire, and set to work. So he went on living for some ten years on most excellent terms with the devil. Then he fell ill and died. His son succeeded him and took over the smithy. But he had no such respect for the devil as his father had had. Whether he went early to the smithy or not, nothing prospered; and, instead of greeting the devil kindly, he went and took his very biggest hammer and knocked the devil three times on his forehead, and then set to work. When a holy feast-day came by, he went into the church and lit a taper in front of the saints; but, as he approached the devil he spat on him. For three whole years this went on; and every day he greeted the unclean spirit with a hammer and spat on him.
 
-The devil was very patient, and endured all this maltreatment. At last it became beyond bearing, and he would stand it no longer. " Time is up!" he thought. " I must put an end to such contemptuous treatment." So the devil turned himself into a fine lad and came into the smithy.
+The devil was very patient, and endured all this maltreatment. At last it became beyond bearing, and he would stand it no longer. "Time is up!" he thought. "I must put an end to such contemptuous treatment." So the devil turned himself into a fine lad and came into the smithy.
 
 "How do you do, uncle?" he said.
 
 "Very well, thank you!"
 
-"Will you take me into the smithy as an apprentice ? I will heat your coals and will blow the bellows."
+"Will you take me into the smithy as an apprentice? I will heat your coals and will blow the bellows."
 
-Well, the smith was very glad. " I certainly will!" he said. " Two heads are better than one."
+Well, the smith was very glad. "I certainly will!" he said. "Two heads are better than one."
 
 So the devil turned apprentice, and he lived a month with him, and soon got to know all of the smith's work better than the master himself; and, whatever the master could not do, he instantly carried out. Oh, it was a fine sight, and the smith so grew to love him, and was so content with him I cannot tell you how much!
 
 One day he did not come into the smithy, and left his underling to do the work; and it was all done.
 
-Once when the master was not at home, and only the workman was left in the smithy, he saw an old rich lady passing by. He bobbed out his head, and cried: " Hail there ? There is new work to be done old folks to be turned into young!"
+Once when the master was not at home, and only the workman was left in the smithy, he saw an old rich lady passing by. He bobbed out his head, and cried: "Hail there? There is new work to be done old folks to be turned into young!"
 
-Out skipped the old lady from her barouche and into the smithy. " What are you saying you can do ? Is that really true ? Do you mean it ? Are you mad?" she asked the boy.
+Out skipped the old lady from her barouche and into the smithy. "What are you saying you can do? Is that really true? Do you mean it? Are you mad?" she asked the boy.
 
-"No reason to start lecturing me," the Evil Spirit answered. " If I didn't know how I should not have summoned you."
+"No reason to start lecturing me," the Evil Spirit answered. "If I didn't know how I should not have summoned you."
 
 "What would it cost?" the rich woman asked.
 
@@ -1107,15 +1107,15 @@ Out skipped the old lady from her barouche and into the smithy. " What are you s
 
 The Evil Spirit took the money, and sent the coachman into the village to get two buckets of milk. And he seized the lady by the legs with the pinchers, threw her into the forge, and burned her all up. Nothing but her bones were left. When the two tubs of milk came, he emptied them into a pail, collected all the bones, and threw them into the milk. Lo and behold! in three minutes out the lady came, young yes, alive and young, and so beautiful!
 
-She went and sat down in the barouche and drove home, went up to her husband, and he fixed his eyes on her, and didn't know his wife. " What's the matter ? Have you lost your eyesight?" the lady asked. " Don't you see it is I, young and stately; I don't want to have an old husband. Go at once to the smith and ask him to forge you young, and you won't know yourself!"
+She went and sat down in the barouche and drove home, went up to her husband, and he fixed his eyes on her, and didn't know his wife. "What's the matter? Have you lost your eyesight?" the lady asked. "Don't you see it is I, young and stately; I don't want to have an old husband. Go at once to the smith and ask him to forge you young, and you won't know yourself!"
 
-What could the husband do ? Husbands must obey, and so off he drove.
+What could the husband do? Husbands must obey, and so off he drove.
 
 In the meantime, the smith had returned home and went to the smithy. He went, and there was no sign of his man. He looked for him everywhere, asked everybody, questioned them, but it was no good, and all trace had vanished. So he set to work by himself and began hammering.
 
-Then the husband drove up and said straight out to the smith: " Make a young man of me, please!"
+Then the husband drove up and said straight out to the smith: "Make a young man of me, please!"
 
-"Are you in your senses, master ? How can I make a young man of you?"
+"Are you in your senses, master? How can I make a young man of you?"
 
 "Oh! you know how to!"
 
@@ -1127,17 +1127,17 @@ Then the husband drove up and said straight out to the smith: " Make a young man
 
 "Never mind! your young man saw her, and if he understood how to manage the work, surely you, as the craftsman, understand! Set to work quickly, unless you want to taste worse of me and be birched."
 
-So the smith had no choice but to transform the master. So he quietly asked the coachman what his man had done with the lady, and thought: " Well, I don't mind! I will do the same; it may come out to the same tune, or it may not. I must look out for myself."
+So the smith had no choice but to transform the master. So he quietly asked the coachman what his man had done with the lady, and thought: "Well, I don't mind! I will do the same; it may come out to the same tune, or it may not. I must look out for myself."
 
 So he stripped the lord to his skin, clutched his legs up with nippers, threw him into the forge, began to blow up the bellows, and burned him to ashes. Afterwards he threw the bones hurled them all into the milk, and began watching would a young master emerge from the bath. And he waited one hour, and another hour, and nothing happened, looked at the little tub all the little bones were floating about all burned to pieces.
 
-And what was the lady doing ? She sent messengers to the smithy. " When was the master to be turned out?" And the poor smith answered that the master had wished her a long life. And you may imagine what they thought of this. Soon she learned that all the smith had done had been to burn her husband to bits and not to make him young, and she was very angry indeed, sent her body-servants, and ordered them to take the smith to the gallows. The order was given, and the thing was done. The attendants ran to the smith, laid hold of him, and took him to the gallows.
+And what was the lady doing? She sent messengers to the smithy. "When was the master to be turned out?" And the poor smith answered that the master had wished her a long life. And you may imagine what they thought of this. Soon she learned that all the smith had done had been to burn her husband to bits and not to make him young, and she was very angry indeed, sent her body-servants, and ordered them to take the smith to the gallows. The order was given, and the thing was done. The attendants ran to the smith, laid hold of him, and took him to the gallows.
 
-Then the same young man who had acted as a hand to the smith came and asked: " Where are they taking you, master?"
+Then the same young man who had acted as a hand to the smith came and asked: "Where are they taking you, master?"
 
 "They are going to hang me!" the smith said. And he explained what had happened.
 
-"Well, never mind, uncle!" said the Unholy Spirit. " Swear that you will never strike me with your hammer, and I will secure you such honour as your father had. The lady's husband shall arise young and in full health."
+"Well, never mind, uncle!" said the Unholy Spirit. "Swear that you will never strike me with your hammer, and I will secure you such honour as your father had. The lady's husband shall arise young and in full health."
 
 The smith swore and made oath that he would never raise the hammer on the devil and would give him every honour.
 
@@ -1162,7 +1162,7 @@ THE BLACKSMITH'S STOOL
 
 A LONG time ago when Lord Jesus and the blessed St. Peter walked about together on earth, it happened one evening that they stopped at a blacksmith's cottage and asked for a night's lodging. 
 
-"You are welcome," the blacksmith said. " I am a poor man but whatever I have I will gladly share with you."
+"You are welcome," the blacksmith said. "I am a poor man but whatever I have I will gladly share with you."
 
 He threw down his hammer and led his guests into the kitchen. There he entertained them with a good supper and after they had eaten he said to them:
 
@@ -1170,7 +1170,7 @@ He threw down his hammer and led his guests into the kitchen. There he entertain
 
 "And where will you sleep?' St. Peter asked.
 
-"I? Don't think of me," the blacksmith said. " I'll go out to the barn and sleep on the straw."
+"I? Don't think of me," the blacksmith said. "I'll go out to the barn and sleep on the straw."
 
 The next morning he gave his guests a fine breakfast, and then sent them on their way with good wishes for their journey.
 
@@ -1215,11 +1215,11 @@ One night as the blacksmith was putting away his tools, there came a knock at th
 
 "Who's there?"
 
-"It is I, Death," a voice answered. " Open the door, blacksmith. Your time has come."
+"It is I, Death," a voice answered. "Open the door, blacksmith. Your time has come."
 
 The blacksmith threw open the door.
 
-"Welcome," he said to the woman standing there. "I'll be ready in a moment when I put away my tools." He smiled a little to himself. " Won't you sit down on this stool, dear lady, and rest you for a moment? You must be weary going to and fro over the earth."
+"Welcome," he said to the woman standing there. "I'll be ready in a moment when I put away my tools." He smiled a little to himself. "Won't you sit down on this stool, dear lady, and rest you for a moment? You must be weary going to and fro over the earth."
 
 Death, suspecting nothing, seated herself on the stool.
 
@@ -1236,15 +1236,15 @@ But when he tried to slaughter the animal, the blow of his axe had no effect. He
 
 Next he tried to kill a goose. He had a fat one which he had been stuffing for the village fair.
 
-"Since those sausages have escaped me," he said, " I'll have to be satisfied with roast goose."
+"Since those sausages have escaped me," he said, "I'll have to be satisfied with roast goose."
 
 But when he tried to cut the goose's throat, the knife drew no blood. In his surprise he loosened his hold and the goose slipped from his hands and went cackling off after the hog.
 
-"What's come over things today?" the blacksmith asked himself. " It seems I'm not to have sausage or roast goose. I suppose I'll have to be satisfied with a pair of pigeons."
+"What's come over things today?" the blacksmith asked himself. "It seems I'm not to have sausage or roast goose. I suppose I'll have to be satisfied with a pair of pigeons."
 
 He went out to the pigeon-house and caught two pigeons. He put them on the chopping-block and with one mighty blow of his ax cut off both their heads.
 
-"There! " he cried in triumph. " I've got you!'
+"There!" he cried in triumph. "I've got you!'
 
 But even as he spoke the little severed heads returned to their bodies, the heads and bodies grew together as if nothing had happened, and cooing happily the two pigeons flew away.
 
@@ -1262,7 +1262,7 @@ Men and women walked about looking like tor- mented ghosts. They had no desire t
 
 The blacksmith came at last to a realization of all the misery which his foolish wish was bringing upon the world.
 
-"I see now," he said, " that God Almighty did well when He sent Death to the world. She has her work to do and I am wrong to hold her prisoner."
+"I see now," he said, "that God Almighty did well when He sent Death to the world. She has her work to do and I am wrong to hold her prisoner."
 
 So he released Death from the stool and made no outcry when she put her bony fingers to his throat.
 
