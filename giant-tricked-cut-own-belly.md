@@ -19,29 +19,29 @@ ONCE on a time there was a farmer, who had three sons; his means were small, and
 
 Well, after a long talk, he got them to set off, and the eldest was to go first. But when he had got well into the wood, and began to hew at a mossy old fir, what should he see coming up to him but a great sturdy Troll.
 
-" If you hew in this wood of mine," said the Troll, "I'll kill you!"
+"If you hew in this wood of mine," said the Troll, "I'll kill you!"
 
-When the lad heard that, be threw the axe down, and ran off home as fast as he could lay legs to the ground ; so he came in quite out of breath, and told them what had happened, but his father called him " hare-heart," — no Troll would ever have soared him from hewing when he was young, he said.
+When the lad heard that, be threw the axe down, and ran off home as fast as he could lay legs to the ground; so he came in quite out of breath, and told them what had happened, but his father called him " hare-heart," — no Troll would ever have soared him from hewing when he was young, he said.
 
 Next day the second son's turn came, and he fared just the same. He bad scarce hewn three strokes at the fir, before the Troll came to him too, and said, —
 
-" If yon hew in this wood of mine, I 'II kill you."
+"If yon hew in this wood of mine, I 'II kill you."
 
 The lad dared not bo much as look at him, but threw down the axe, took to his heels, and came scampering home just like his brother. So when he got home, his father was angry again, and said no Troll had ever scared him when he was young.
 
 The third day Boots wanted to set off.
 
-" Yon, indeed I " said the two elder brothers ; "you'll do it bravely, no doubt I you, who have scarce ever set your foot out of the door."
+"Yon, indeed I " said the two elder brothers; "you'll do it bravely, no doubt I you, who have scarce ever set your foot out of the door."
 
 Boots said nothing to this, but only begged them to give him a good store of food. His mother had no cheese, so she set the pot on the fire to make him a little, and he put it into a scrip and set off. So when he had hewn a bit, Uie Troll came to him too, and said, —
 
-" If you hew in this wood of mine, I'll kill you."
+"If you hew in this wood of mine, I'll kill you."
 
-Bnt the lad was not slow ; he pulled his cheese ont of the scrip in a trice, and squeezed it till the whey squirted out.
+Bnt the lad was not slow; he pulled his cheese ont of the scrip in a trice, and squeezed it till the whey squirted out.
 
-" Hold your tongue I " he cried to the Troll, " or I'll squeeze yon as I squeeze the water out of this white stone."
+"Hold your tongue I " he cried to the Troll, " or I'll squeeze yon as I squeeze the water out of this white stone."
 
-" Stay, dear friend ," said the Troll, "only spare me, and I'll help you to hew."
+"Stay, dear friend ," said the Troll, "only spare me, and I'll help you to hew."
 
 Wei], on those terms the lad was willing to spare him, and the Troll hewed so bravely, that they felled and cut up many, many fathoms in the day.
 
@@ -49,25 +49,25 @@ But when even drew near, the Troll said, —
 
 "Now you'd better come home with me, for my house is nearer than yours."
 
-So the lad was willing enough ; and when they reached the Troll's house, the Troll was to make up the fire, while the lad went to fetch water for their porridge, and there stood two iron pails so big and heavy, that he couldn't so much aa lift them from the ground.
+So the lad was willing enough; and when they reached the Troll's house, the Troll was to make up the fire, while the lad went to fetch water for their porridge, and there stood two iron pails so big and heavy, that he couldn't so much aa lift them from the ground.
 
 "Pooh!" said the lad," it isn't worth while to touch these finger-basins. I'll just go and fetch the spring itself."
 
-" Nay, nay, dear friend !" said the Troll ; " I can't afford to lose my spring ; just you make up tie fire, and I'll go and fetch the water."
+"Nay, nay, dear friend!" said the Troll; " I can't afford to lose my spring; just you make up tie fire, and I'll go and fetch the water."
 
 So when he came back with the water, they set to and boiled up a great pot of porridge.
 
-" It's all the same to me," said the lad ; " but if you're of my mind, we'll eat a match!"
+"It's all the same to me," said the lad; " but if you're of my mind, we'll eat a match!"
 
-" With all my heart," said the Troll, for he thought he could surely hold his own in eating. So they eat down ; but the lad took his scrip unawares to the Troll, and hung it before him, and so he spooned more into the scrip than he ate himself; and when the scrip was fall, he took up his knife and made a slit in the scrip. The Troll looked on all the while, but said never a word. So when they had eaten a good bit longer, the Troll laid down his spoon, saying, " Nay ! but I can't eat a morsel more."
+"With all my heart," said the Troll, for he thought he could surely hold his own in eating. So they eat down; but the lad took his scrip unawares to the Troll, and hung it before him, and so he spooned more into the scrip than he ate himself; and when the scrip was fall, he took up his knife and made a slit in the scrip. The Troll looked on all the while, but said never a word. So when they had eaten a good bit longer, the Troll laid down his spoon, saying, " Nay! but I can't eat a morsel more."
 
-" But you shall eat," said the youth ; " I'm only half done ; why don't you do as I did, and cut a hole in your paunch ? You'll be able to eat then as much as you please."
+"But you shall eat," said the youth; " I'm only half done; why don't you do as I did, and cut a hole in your paunch? You'll be able to eat then as much as you please."
 
 "Bnt doesn't it hart one cruelly?" asked the Troll.
 
-" Oh," said the youth, " nothing to speak of."
+"Oh," said the youth, " nothing to speak of."
 
-So the Troll did as the lad said, and then you must know very well that he lost his life ; but the lad took all the silver and gold that he found in the hill-side, and went home with it, and you may fancy it went a great way to pay off the debt.
+So the Troll did as the lad said, and then you must know very well that he lost his life; but the lad took all the silver and gold that he found in the hill-side, and went home with it, and you may fancy it went a great way to pay off the debt.
 
 ```
 
