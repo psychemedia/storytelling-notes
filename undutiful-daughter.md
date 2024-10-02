@@ -2,7 +2,7 @@
 
 *Once there was a girl, a pretty little girl, and she was known, as: "Bonnie Annie"... She grew up to be quite beautiful... and didn't she know it...*
 
-```{youtube}rV4yjHUBIw
+```{youtube} rV4yjHUBIw
 ```
 
 I first came across this tale in Sabine Baring-Gould's *Old English Fairy Tales*. I've told it in the course of a sea-shanty evening, with the ending as Baring-Gould described it (the death of the female lead character), and which left the audience... slightly stunned. But the next item in the programme was a shanty band leading some singalong shanties, which brought the mood back up (as I expected it would...)
@@ -12,6 +12,7 @@ I first came across this tale in Sabine Baring-Gould's *Old English Fairy Tales*
 sbg's version is not very satisfactory, so I have made a start on repairing it so that it works for me, and is perhaps more in keeping with the original ballad.
 
 ```{admonition} *The Undutiful Daughter*, 1895
+:class: dropdown
 Sabine Baring-Gould, *Old English fairy tales*, 1895, [p141-156](https://archive.org/details/oldenglishfairyt00bari/page/140/mode/2up).
 
 VII
