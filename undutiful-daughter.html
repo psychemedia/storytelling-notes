@@ -16,17 +16,19 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!-- 
+    this give us a css class that will be invisible only if js is disabled 
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
     <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
@@ -36,10 +38,11 @@
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=26a4bc78f4c0ddb94549"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -64,6 +67,7 @@
     <link rel="prev" title="The Green Children of Woolpit" href="woolpit-green.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -79,19 +83,8 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +92,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,8 +99,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -124,7 +116,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +147,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -337,24 +326,16 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
+</button>
 
 </div></div>
       
@@ -383,13 +364,12 @@ document.write(`
   <section class="tex2jax_ignore mathjax_ignore" id="the-undutiful-daughter">
 <h1>The Undutiful Daughter<a class="headerlink" href="#the-undutiful-daughter" title="Link to this heading">#</a></h1>
 <p><em>Once there was a girl, a pretty little girl, and she was known, as: “Bonnie Annie”… She grew up to be quite beautiful… and didn’t she know it…</em></p>
-<div class="highlight-{youtube}rV4yjHUBIw notranslate"><div class="highlight"><pre><span></span>
-</pre></div>
-</div>
-<p>I first came across this tale in Sabine Baring-Gould’s <em>Old English Fairy Tales</em>. I’ve told it in the course of a sea-shanty evening, with the ending as Baring-Gould described it (the death of the female lead character), and which left the audience… slightly stunned. But the next item in the programme was a shanty band leading some singalong shanties, which brought the mood back up (as I expected it would…)</p>
+<div class="video_wrapper" style="">
+<iframe allowfullscreen="true" src="https://www.youtube.com/embed/rV4yjHUBIw" style="border: 0; height: 345px; width: 560px">
+</iframe></div><p>I first came across this tale in Sabine Baring-Gould’s <em>Old English Fairy Tales</em>. I’ve told it in the course of a sea-shanty evening, with the ending as Baring-Gould described it (the death of the female lead character), and which left the audience… slightly stunned. But the next item in the programme was a shanty band leading some singalong shanties, which brought the mood back up (as I expected it would…)</p>
 <p>??first part feels as if it might have been repurposed from some other tale (the ballad starts off far more abruptly, with Captain presumably seducing the maiden)</p>
 <p>sbg’s version is not very satisfactory, so I have made a start on repairing it so that it works for me, and is perhaps more in keeping with the original ballad.</p>
-<div class="admonition-the-undutiful-daughter-1895 admonition">
+<div class="dropdown admonition">
 <p class="admonition-title"><em>The Undutiful Daughter</em>, 1895</p>
 <p>Sabine Baring-Gould, <em>Old English fairy tales</em>, 1895, <a class="reference external" href="https://archive.org/details/oldenglishfairyt00bari/page/140/mode/2up">p141-156</a>.</p>
 <p>VII</p>
@@ -411,38 +391,38 @@ document.write(`
 <p>Therein the beautiful damsel was happy. She twirled and skipped, and looked at herself from every side, and in every posture, and was quite satisfied that never had there been anyone more beautiful than she, and that there was nothing else worth seeing except herself.</p>
 <p>So time passed, and a new birthday drew near. Then her father said to her, “Tell me what you wish, and I will give it you.”</p>
 <p>She answered, “I wish to consult the Old Woman of Norwood as to whom I shall marry.”</p>
-<p>Her father rejoined, “That is not a wise thing to desire. When it pleases Heaven, the right man will come, one whom I and your mother will approve of, and you will love ; and if he is a man of honour, and character, and family, then the marriage shall take place. You are our only child and our heir, and we do not intend you to be thrown away on anyone.”</p>
+<p>Her father rejoined, “That is not a wise thing to desire. When it pleases Heaven, the right man will come, one whom I and your mother will approve of, and you will love; and if he is a man of honour, and character, and family, then the marriage shall take place. You are our only child and our heir, and we do not intend you to be thrown away on anyone.”</p>
 <p>“Thrown away on anyone!” exclaimed the maiden. “I am not one who will allow of that. I am quite sure I will not marry anyone under a king.”</p>
-<p>“A king!” exclaimed her father. “You aim very high. I do not know where you will find one. Our king in England has a good queen — God grant him and her a long life ! “</p>
+<p>“A king!” exclaimed her father. “You aim very high. I do not know where you will find one. Our king in England has a good queen — God grant him and her a long life!”</p>
 <p>“I did not say that I would marry an English king. There are other kings, and one may come to me from over the sea. I will hear what the Old Woman of Norwood says to me.”</p>
 <p>“The Norwood gipsy may put strange fancies into your head. She can do you no good,” said her father.</p>
 <p>Nevertheless, as he had made the promise to let her have on her birthday what she asked, he was obliged to consent.</p>
 <p>So she mounted her milkwhite horse, and she had bells of silver hung to the bridle, that they might tinkle, and cause people along the way to run out of their houses and look at her, the most beautiful damsel in all England.</p>
 <p>When she reached Norwood, she found an old woman who lived in a hollow oak tree. A dog lay at her feet, a black cat sat on a branch above her head, and at the top of the tree was perched a raven, and above the tree-top hummed a gnat. Then she put a purse of gold into the old woman’s hand, and said to her, “Tell me whom I shall marry, and what shall become of me.”</p>
-<p>Then the old woman said, “Little dog, little dog ! what do you say?”</p>
+<p>Then the old woman said, “Little dog, little dog! what do you say?”</p>
 <p>The dog stood up and barked, “Wow-wow-wow.”</p>
 <p>“Did you hear what my dog said?” asked the Old Woman of Norwood.</p>
-<p>“I heard him say ‘ Wow-wow,’ nothing more.”</p>
+<p>“I heard him say ‘Wow-wow,’ nothing more.”</p>
 <p>“He said in Dog-Latin, that you would marry a king.”</p>
 <p>“I knew it would be so,” retorted the girl. “Tell me something more?”</p>
-<p>“Little cat, little cat ! what do you say?” called the gipsy woman.</p>
+<p>“Little cat, little cat! what do you say?” called the gipsy woman.</p>
 <p>Then the black pussy stood up on the branch, stretched itself, and said, “Mi-aw, mi-aw, mi-aw.”</p>
 <p>“Did you hear what the cat said?” asked the witch.</p>
-<p>“I heard him say ‘ Mi-aw,’ nothing more.”</p>
+<p>“I heard him say ‘Mi-aw,’ nothing more.”</p>
 <p>“He said in Cat-Greek, that you would sleep in a golden bed.”</p>
 <p>“Of course I shall, if I marry a king. Tell me something more.”</p>
-<p>“Little crow, little crow ! what do you say?” screamed the old hag.</p>
+<p>“Little crow, little crow! what do you say?” screamed the old hag.</p>
 <p>Then the raven flapped his wings, and answered, “Caw-caw-caw.”</p>
 <p>“Did you hear what the raven said?” asked the gipsy.</p>
-<p>“I heard him say ‘ Caw,’ nothing more.”</p>
+<p>“I heard him say ‘Caw,’ nothing more.”</p>
 <p>“He said in Crow-Indian, that you would be attended by servants dressed in blue, who would rock you in your golden bed.”</p>
 <p>“That is nothing wonderful,” said the maiden. “Tell me something further.”</p>
-<p>“Little gnat, little gnat ! what do you say?” screamed the old woman.</p>
+<p>“Little gnat, little gnat! what do you say?” screamed the old woman.</p>
 <p>Then the mosquito that was humming and fluttering above the tree-top, dropped within hearing of the girl’s ear, and with a shrill pipe cried, “Pe-heep.”</p>
 <p>“Did you hear what the gnat said?” asked the witch.</p>
 <p>“I heard him give a shrill little cry, like ‘Pe-heep!’”</p>
 <p>“That was Midge-Chinese. He said you would sleep under curtains of living green.”</p>
-<p>Well ! the damsel was well pleased with what she had heard, but she wanted to know more.</p>
+<p>Well! the damsel was well pleased with what she had heard, but she wanted to know more.</p>
 <p><img alt="Undutiful daughter title pages - gorl with witch" src="_images/undutiful_daughter.jpeg" /></p>
 <p>The witch said, “I have no more creatures whom I can ask, except only a worm that burrows in the ground, and he cannot speak.”</p>
 <p>“Then what good is he?”</p>
@@ -457,11 +437,11 @@ document.write(`
 <p>Then she returned home. And if she was a proud woman when she went forth to consult the Old Woman of Norwood, she was a prouder woman when she came home.</p>
 <p>She went into her room lined with looking-glasses, and said, “I shall marry a king.”</p>
 <p>“Who told you that?” asked her mother.</p>
-<p>“It was said by the dog when he uttered ‘ Wow- wow.’ “</p>
+<p>“It was said by the dog when he uttered ‘Wow- wow.’”</p>
 <p>“I would not believe the bark of a dog,” said her mother.</p>
 <p>“And I shall sleep in a golden bed,” continued the girl.</p>
 <p>“Who said that?” asked her mother.</p>
-<p>“That was said by the cat when he said ‘ Mi-aw.’ “</p>
+<p>“That was said by the cat when he said ‘Mi-aw.’”</p>
 <p>“I would not put faith in the mi-aw of a cat,” said her mother.</p>
 <p>“And I shall be rocked to sleep by attendants dressed in gowns of blue,” said the girl.</p>
 <p>“Who said that?” asked her mother. 146</p>
@@ -478,9 +458,9 @@ document.write(`
 <p>But the girl would give no heed to what her mother said. She believed the earthworm, but not her own mother.</p>
 <p>Now drew near this damsel’s birthday, when she would be eighteen. And one night she had a dream, and in that dream she saw the Old Woman of Nor- wood, who said to her, “I have appeared to tell you something. There is a feather on the tail of the gnat that flies above my oak tree, and the feather told the gnat, and the gnat told the raven, and the raven told the cat, and the cat told the dog, and the dog told the earthworm, and the earthworm</p>
 <p>scribbled the message on a bit of an old crock, that you were to marry on your eighteenth birthday the promised king. You must say nothing to your father or mother. He is now in the harbour with his ship, and the sign of the ship is The Golden Apple. Ask your father to let you go down to see over the barque. The Golden Apple, and the captain is he who will be your husband. I have sent a hedge- priest to the town, and he will marry you on board ship. But mind this — if you say a word to your father or mother about this, all will fall through that has been promised you. I have appeared in dream to the sea-captain, and he will expect you. The priest you will see standing by the capstan. He has been unfrocked by the bishop, but what of that? A priest is always a priest.”</p>
-<p>The girl’s father came to her and said, “Tomorrow is your birthday : ask what you wish, and I will do it for you.”</p>
+<p>The girl’s father came to her and said, “Tomorrow is your birthday: ask what you wish, and I will do it for you.”</p>
 <p>Then she said, “There is a ship come lately into harbour, called The Golden Apple. I greatly desire to go over her.”</p>
-<p>Her father shook his head, and said, “This is a very unwise request. I hear no good account ol this vessel. Some say it is that of a notorious pirate ; but, indeed, no one really knows any certainty about her, nor who her captain is ; but some assert that the crew is made up of runagates, and has on board a hedge-priest lately unfrocked by his bishop for grave misconduct.”</p>
+<p>Her father shook his head, and said, “This is a very unwise request. I hear no good account ol this vessel. Some say it is that of a notorious pirate; but, indeed, no one really knows any certainty about her, nor who her captain is; but some assert that the crew is made up of runagates, and has on board a hedge-priest lately unfrocked by his bishop for grave misconduct.”</p>
 <p>However, as he had promised to let her have her way, he was obliged to grant her request.</p>
 <p>Accordingly, on the morrow morning, she and her father and mother went to the ship, and the captain received them very graciously, and invited them to go all over the vessel.</p>
 <p>By the capstan was a man, all shaven and shorn, but with a hang-dog look, and the fair maid was sure this was the priest of whom the Old Woman of Norwood had spoken.</p>
@@ -511,7 +491,7 @@ document.write(`
 <p>Then she saw that she had been deceived, and she cried out —</p>
 <p>“O captain! O captain! here’s fifty gfld crowns.<br />
 I pray thee, I pray thee to turn the ship round.<br />
-O captain ! O captain, here’s fifty gold pounds,<br />
+O captain! O captain, here’s fifty gold pounds,<br />
 If thou wilt but set me again on the ground.”</p>
 <p>But he would not hear of it.</p>
 <p>Now before very long she found that her husband, the sea-captain, was indeed a great pirate, and robbed ships on the sea.</p>
@@ -530,7 +510,7 @@ And set me, undutiful daughter, therein.”</p>
 <p>“Oh, take a white napkin, about my head bind it. Oh, take a white napkin, about my feet wind it. Alack that I must in the deep salten water, Alack! I must sink, an undutiful daug-hter.”</p>
 <p>To this they agreed. They bound a v/hite kerchief about her head, and they wrapped a sheet about her feet.</p>
 <p>They took a white napkin, about her head bound it, They took a white napkin, about her feet wound it, They cast the fair pretty maid over, and she Did sink out of sight in cruel salt sea.</p>
-<p>Then at once the beak of the vessel began to cut the waves, they foamed about her sides, and she sped along her course like a gull. That night there was no cloud in the sky, an east wind was blowing, and the moon was full. Then the man at the wheel saw something in the water : —</p>
+<p>Then at once the beak of the vessel began to cut the waves, they foamed about her sides, and she sped along her course like a gull. That night there was no cloud in the sky, an east wind was blowing, and the moon was full. Then the man at the wheel saw something in the water: —</p>
 <p>The moon it was shining, the tide it was flowing, Oh, what in the wake of the vessel was swimming?</p>
 <p>“Oh, see, boys! oh, see! how she floats in the water!<br />
 Oh, see, boys! oh, see! the undutiful daughter.”</p>
@@ -542,24 +522,24 @@ Oh, what art thou seeking-? for what art thou praying?”<br />
 For the sea giveth up the undutiful daughter.</p>
 <p>Oh, take of my father the gold and the treasure.<br />
 Oh, take of my mother a fee without measure.<br />
-Oh, make me a coffin of deepest gold <code class="docutils literal notranslate"><span class="pre">[In</span> <span class="pre">the</span> <span class="pre">original</span> <span class="pre">&quot;deepest</span> <span class="pre">stole</span> <span class="pre">yellow&quot;</span> <span class="pre">:</span> <span class="pre">what</span> <span class="pre">stole</span> <span class="pre">means</span> <span class="pre">I</span> <span class="pre">do</span> <span class="pre">not</span> <span class="pre">know.]</span></code> yellow.<br />
+Oh, make me a coffin of deepest gold <code class="docutils literal notranslate"><span class="pre">[In</span> <span class="pre">the</span> <span class="pre">original</span> <span class="pre">&quot;deepest</span> <span class="pre">stole</span> <span class="pre">yellow&quot;:</span> <span class="pre">what</span> <span class="pre">stole</span> <span class="pre">means</span> <span class="pre">I</span> <span class="pre">do</span> <span class="pre">not</span> <span class="pre">know.]</span></code> yellow.<br />
 And bury me under the banks of green willow.”</p>
 <p>The demand of the dead lady was not so readily granted.</p>
 <p>The captain did not like to take all the treasure that the maiden had carried off, and convert it into a coffin. But night and day the drowned woman followed the ship, and cried out for the restoration of all that of which she had despoiled her parents.</p>
 <p>It was clear that she could not sink. The sea rejected her, because of her guilt.</p>
 <p>After three days, the sailors became so alarmed at being thus followed by the dead woman, that they insisted on her demand being complied with. So she was again taken on board.</p>
-<p>Now, all the gold was brought forth and melted up, and made into a golden coffin, and in that golden cofBn her body was laid ; and they put in beside her all the jewels she had taken from her parents. Then they lowered the gold coffin into the sea again, and at once it began to float away, with the sun shining on it, and was lost to sight.</p>
+<p>Now, all the gold was brought forth and melted up, and made into a golden coffin, and in that golden cofBn her body was laid; and they put in beside her all the jewels she had taken from her parents. Then they lowered the gold coffin into the sea again, and at once it began to float away, with the sun shining on it, and was lost to sight.</p>
 <p>After three days, they were short of water, and so came ashore to fill their casks.</p>
 <p>The sails they were spread, and the wind it was blowing—,<br />
 The sea was so salt, and the tide it was flowing—.<br />
 They steered for the land, and they reachèd the shore.<br />
 But the lady in her coffin had got there before.</p>
-<p>It was even so. The first thing they saw on coming to land was the gold coffin washed up on the beach. Then they heaved it farther up, to where hung some green willows, and they buried the undutiful daughter under their waving, living green boughs — and so were fulfilled all the words of prophecy told concerning her. She had married a king. She had been driven in a coach by white horses, even by the foaming waves. She had slept in a golden bed, — her coffin, — and been rocked by attendants in blue gowns, even the sea-waves ; and she had now been laid under wavy curtains of living green, the branches of the willow.</p>
+<p>It was even so. The first thing they saw on coming to land was the gold coffin washed up on the beach. Then they heaved it farther up, to where hung some green willows, and they buried the undutiful daughter under their waving, living green boughs — and so were fulfilled all the words of prophecy told concerning her. She had married a king. She had been driven in a coach by white horses, even by the foaming waves. She had slept in a golden bed, — her coffin, — and been rocked by attendants in blue gowns, even the sea-waves; and she had now been laid under wavy curtains of living green, the branches of the willow.</p>
 </div>
 <div class="dropdown seealso admonition">
 <p class="admonition-title">Barine-Gould’s notes, 1895</p>
-<p>Note.— The old ballad of “The Undutiful Daughter” is one that I have heard from half a dozen aged singers in the west of England. It is always sung to the melody to which “The Frog and the Crow” is set in Mr. W. Crane’s The Bahys Opera. A similar ballad is found in Scotland, “Bonnie Annie”; it is given by Kinloch, but is more imperfect than the English form of the ballad. In the story I have based on it, all the first part is new ; for obvious reasons I have been unable to follow the ballad exactly — that is to say, for reasons obvious to all who are acquainted with the ballad.</p>
-<p>There is an old printed ballad entitled “The Faithless Captain ; or, The Betrayed Virgin,” which seems to be a comparatively modern recast of the older story. All the supernatural element has been eliminated from it. Instead of the damsel being cast over-board because the lot is thrown and falls to her, the ship is nearly wrecked, and she accidentally falls overboard. The body still follows the vessel, and, seeing his bride there in the water, the captain, who, after all, is not faithless, jumps overboard, and is drowned as well.</p>
+<p>Note.— The old ballad of “The Undutiful Daughter” is one that I have heard from half a dozen aged singers in the west of England. It is always sung to the melody to which “The Frog and the Crow” is set in Mr. W. Crane’s The Bahys Opera. A similar ballad is found in Scotland, “Bonnie Annie”; it is given by Kinloch, but is more imperfect than the English form of the ballad. In the story I have based on it, all the first part is new; for obvious reasons I have been unable to follow the ballad exactly — that is to say, for reasons obvious to all who are acquainted with the ballad.</p>
+<p>There is an old printed ballad entitled “The Faithless Captain; or, The Betrayed Virgin,” which seems to be a comparatively modern recast of the older story. All the supernatural element has been eliminated from it. Instead of the damsel being cast over-board because the lot is thrown and falls to her, the ship is nearly wrecked, and she accidentally falls overboard. The body still follows the vessel, and, seeing his bride there in the water, the captain, who, after all, is not faithless, jumps overboard, and is drowned as well.</p>
 </div>
 <p>Several years earlier, Baring-Gould’s collection of the ballad in Devon merited a note in Child’s collection alongside “Bonnie Annie”, which Baring-Gould also likened to the Cornish ballad he had heard:</p>
 <div class="admonition-as-bonnie-annie-in-child-s-the-english-and-scottish-popular-ballads-1882 admonition">
@@ -570,36 +550,36 @@ But the lady in her coffin had got there before.</p>
 <p>a. Taken down from a man of above eighty years at Bradstone. b. From a young man at Dartmoor, c. From an old man at Holne.</p>
 <p>1 ‘Twas of a sea-captain came oer the salt billow,<br />
 He courted a maiden down by the green willow:<br />
-‘ O take of your father his gold and his treasure,<br />
+‘O take of your father his gold and his treasure,<br />
 O take of your mother her fee without measure.’</p>
-<p>2 ‘ I ‘ll take of my father his gold and his treasure,<br />
-I ‘ll take of my mother her fee without measure : ‘<br />
+<p>2 ‘I’ll take of my father his gold and his treasure,<br />
+I’ll take of my mother her fee without measure:’<br />
 She has come with the captain unto the seaside, O,<br />
 “We ‘ll sail to lands foreign upon the blue tide, O!’</p>
 <p>3 And when she had sailed today and tomorrow,<br />
-She was beating her hands, she was crying in sorrow ;<br />
+She was beating her hands, she was crying in sorrow;<br />
 And when she had sailed the days were not many,<br />
 The sails were outspread, but of miles made not any.</p>
 <p>4 And when she had sailed today and tomorrow.<br />
-She was beating her hands, she was crying in sorrow ;<br />
+She was beating her hands, she was crying in sorrow;<br />
 And when she had sailed not many a mile, O,<br />
 The maid was delivered of a beautiful child, O.</p>
 <p>5 . …</p>
-<p>6 ‘ O take a white napkin, about my head bind it !<br />
-O take a white napkin, about my feet wind it !<br />
-Alack ! I must sink, both me and my baby.<br />
-Alack ! I must sink in the deeji salten water.</p>
-<p>7 ‘ O captain, O captain, here ‘s fifty gold crown, O,<br />
-I pray thee to bear me and turn the ship round, O ;<br />
+<p>6 ‘O take a white napkin, about my head bind it!<br />
+O take a white napkin, about my feet wind it!<br />
+Alack! I must sink, both me and my baby.<br />
+Alack! I must sink in the deeji salten water.</p>
+<p>7 ‘O captain, O captain, here ‘s fifty gold crown, O,<br />
+I pray thee to bear me and turn the ship round, O;<br />
 O captain, O captain, here ‘s fifty gold pound, O,
 If thou wilt but set me upon the green ground, O.’</p>
-<p>8 ‘ O never, O never I the wind it blows stronger,<br />
-O never, O never ! the time it grows longer ;<br />
+<p>8 ‘O never, O never I the wind it blows stronger,<br />
+O never, O never! the time it grows longer;<br />
 And better it were that thy baby and thou, O.<br />
 Should drown than the crew of the vessel, I vow, O.’</p>
-<p>9 ‘ O get me a boat that is narrow and thin, O,<br />
-And set me and my little baby therein, O : ‘<br />
-‘ O no, it were better that thy baby and thou, O,<br />
+<p>9 ‘O get me a boat that is narrow and thin, O,<br />
+And set me and my little baby therein, O:’<br />
+‘O no, it were better that thy baby and thou, O,<br />
 Should drown than the crew of the vessel, I vow, O.’</p>
 <p>10 They got a white napkin, about her head bound it,<br />
 They got a white napkin, about her feet wound it;<br />
@@ -607,22 +587,22 @@ They cast her then overboard, baby and she, O,<br />
 Together to sink in the cruel salt sea, O.</p>
 <p>11 The moon it was sliining, the tide it was running;<br />
 O what in the wake of the vessel was swimming?<br />
-‘ O see, boys ! O see how she floats on the water!<br />
+‘O see, boys! O see how she floats on the water!<br />
 O see, boys! O see! the undutiful daughter!</p>
-<p>12 ‘ Why swim in the moonlight, upon the sea swaying ?<br />
-O what art thou seeking ? for what art thou praying?’<br />
-‘ O captain, O captain, I float on the water ;<br />
+<p>12 ‘Why swim in the moonlight, upon the sea swaying?<br />
+O what art thou seeking? for what art thou praying?’<br />
+‘O captain, O captain, I float on the water;<br />
 For the sea giveth up the undutiful daughter.</p>
-<p>13 ‘ O take of my father the gold and the treasure,<br />
-O take of my mother her fee without measure ;<br />
+<p>13 ‘O take of my father the gold and the treasure,<br />
+O take of my mother her fee without measure;<br />
 O make me a coffin of gold that is yellow,<br />
-And bmy me under the banks of green willow ! ‘</p>
-<p>14 ‘ I will make thee a coffin of gold that is yellow,<br />
-I ‘ll bury thee under the banks of green willow ;<br />
+And bmy me under the banks of green willow!’</p>
+<p>14 ‘I will make thee a coffin of gold that is yellow,<br />
+I ‘ll bury thee under the banks of green willow;<br />
 I ‘ll bury thee there as becoraeth a lady,<br />
 I ‘ll bury thee there, both thou and thy baby.’</p>
 <p>15 The sails they were spread, and the wind it was blowing,<br />
-The sea was so salt, and the tide it was flowing ;<br />
+The sea was so salt, and the tide it was flowing;<br />
 They steered for the land, and they reachd the shore, O,<br />
 But the corpse of the maiden had reachd there before, O.</p>
 <p>b. 1, 1,2. There was a sea-captain came to the seaside, O,<br />
@@ -634,9 +614,9 @@ He courted a damsel and brought her in trouble;<br />
 When gone her mother’s good will and all her father’s money,<br />
 She fled across the wide sea along with her Johnny.</p>
 <p>2 They had not been sailing the miles they were many<br />
-Before she was delivered of a beautiful baby :<br />
-‘ O tie up my head ! O and tie it up easy,<br />
-And throw me overboard, both me and my baby ! ‘</p>
+Before she was delivered of a beautiful baby:<br />
+‘O tie up my head! O and tie it up easy,<br />
+And throw me overboard, both me and my baby!’</p>
 <p>3 She floated on the waves, and she floated so easy,<br />
 That they took her on board again, both she and her baby.</p>
 <p>(The rest forgotten.)</p>
@@ -647,7 +627,7 @@ That they took her on board again, both she and her baby.</p>
 <p>BONNIE ANNIE.</p>
 <p>There was a rich lord, and he lived in Forfar,<br />
 He had a fair lady, and one only dochter.<br />
-O, she was fair, O dear ! she was honnie,<br />
+O, she was fair, O dear! she was honnie,<br />
 A ship’s captain courted her to be his honey.</p>
 <p>There cam a ship’s captain out owre the sea sailing,<br />
 He courted this young thing till he got her wi’ bairn.—<br />
@@ -784,8 +764,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549"></script>
 
   <footer class="bd-footer">
   </footer>

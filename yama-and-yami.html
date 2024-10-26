@@ -16,17 +16,19 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!-- 
+    this give us a css class that will be invisible only if js is disabled 
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
     <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
@@ -36,10 +38,11 @@
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=26a4bc78f4c0ddb94549"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -64,6 +67,7 @@
     <link rel="prev" title="Stone Soup / Axe Porridge" href="axe-porridge-stone-soup.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -79,19 +83,8 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +92,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,8 +99,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -124,7 +116,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +147,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -337,24 +326,16 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
+</button>
 <button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
@@ -425,7 +406,7 @@ Your browser does not support the audio element.
 <div class="dropdown admonition">
 <p class="admonition-title">Yama and Yami</p>
 <p>Yama and Yami, son and daughter of Vivasvân, are the Rishis as well as the deities of the hymn which is a dialogue between them.</p>
-<p>Yama and Yamî are, says von Roth, ‘as their names denote, twin brother and sister, and are the first human pair, the originators of the race. As the Hebrew conception closely connected the parents of mankind by making the woman formed from a portion of the body of the man, so by the Indian tradition they are placed in the relationship of twins. This thought is laid by the hymn in question in the mouth of Yamî herself, when she is made to say : “Even in the womb the Creator made us for husband and wife.” ‘ Professor Muller, on the other hand, says (Lectures on the Science of Language second series, p. 510): ‘There is a curious dialogue between her (Yamî) and her brother, where she (the night) implores her brother (the day) to make her his wife, and where he declines her offer, “because” as he says, “they have called it a sin that a brother should marry his sister”. Again, p. 521, “There is not a single word in the Veda pointing to <em>Yama</em> and <em>Yamî</em> as the first couple of mortals, the Indian Adam and Eve… If Yama had been the first created of men, surely the Vedic poets, in speaking of him, could not have passed this over in silence.” See, however, the passage from the Atharva-veda, XVIII, 3, 13, to be quoted further on. [Reverence ye with an oblation Yama, the son of Vivasvat, the assembler of men, who was the first of men that died, and the first that departed to this (celestial) world].” Muir, O. S. Texts, V. p. 238. Yama as the first man may perhaps be, as Prof. Max Muller holds, ‘a later phase of religious thought.’</p>
+<p>Yama and Yamî are, says von Roth, ‘as their names denote, twin brother and sister, and are the first human pair, the originators of the race. As the Hebrew conception closely connected the parents of mankind by making the woman formed from a portion of the body of the man, so by the Indian tradition they are placed in the relationship of twins. This thought is laid by the hymn in question in the mouth of Yamî herself, when she is made to say: “Even in the womb the Creator made us for husband and wife.”’ Professor Muller, on the other hand, says (Lectures on the Science of Language second series, p. 510): ‘There is a curious dialogue between her (Yamî) and her brother, where she (the night) implores her brother (the day) to make her his wife, and where he declines her offer, “because” as he says, “they have called it a sin that a brother should marry his sister”. Again, p. 521, “There is not a single word in the Veda pointing to <em>Yama</em> and <em>Yamî</em> as the first couple of mortals, the Indian Adam and Eve… If Yama had been the first created of men, surely the Vedic poets, in speaking of him, could not have passed this over in silence.” See, however, the passage from the Atharva-veda, XVIII, 3, 13, to be quoted further on. [Reverence ye with an oblation Yama, the son of Vivasvat, the assembler of men, who was the first of men that died, and the first that departed to this (celestial) world].” Muir, O. S. Texts, V. p. 238. Yama as the first man may perhaps be, as Prof. Max Muller holds, ‘a later phase of religious thought.’</p>
 </div>
 <blockquote>
 <div><p><em>Yami speaks <code class="docutils literal notranslate"><span class="pre">The</span> <span class="pre">Sage;</span> <span class="pre">vedhdh</span></code>: Yama, whom she wishes to give her a son. <code class="docutils literal notranslate"><span class="pre">Come</span></code>: Sâyana explains the masculine participle <code class="docutils literal notranslate"><span class="pre">jaganvân</span></code> by the feminine <code class="docutils literal notranslate"><span class="pre">gatavatî</span></code>, that is, I, Yami, who have come. <code class="docutils literal notranslate"><span class="pre">The</span> <span class="pre">earth</span></code>: which, otherwise, will remain without human inhabitants.</em></p>
@@ -445,22 +426,22 @@ Gandharva in the floods, the Dame of Waters-such is our bond, such our most loft
 <p><em>Yamî speaks.</em>
 5 Even in the womb God Tvaṣṭar, Vivifier, shaping all forms, Creator, made us consorts.<br />
 None violates his holy ordinances: that we are his the heavens and earth acknowledge.</p>
-<p><em>Yama replies. <code class="docutils literal notranslate"><span class="pre">To</span> <span class="pre">tempt</span> <span class="pre">them</span></code>: the meaning of víchyâ is uncertain. The S. P. Lexicon explains it by ‘deceitfully.’ ‘Falsely.’—Grassmann, ‘What sayest thou, who punishest men with hell ?’—Wilson.</em>
+<p><em>Yama replies. <code class="docutils literal notranslate"><span class="pre">To</span> <span class="pre">tempt</span> <span class="pre">them</span></code>: the meaning of víchyâ is uncertain. The S. P. Lexicon explains it by ‘deceitfully.’ ‘Falsely.’—Grassmann, ‘What sayest thou, who punishest men with hell?’—Wilson.</em>
 6 Who knows that earliest day whereof thou speakest? Who hath beheld it? Who can here declare it?<br />
 Great is the Law of Varuṇa and Mitra. What, wanton! wilt thou say to men to tempt them?</p>
-<p><em><code class="docutils literal notranslate"><span class="pre">Same</span> <span class="pre">couch</span></code> : see Benfey, <code class="docutils literal notranslate"><span class="pre">Vedica</span> <span class="pre">und</span> <span class="pre">Verwandtes</span></code>, pp. 39—42, for a different explanation of samâné yónau.</em>
+<p><em><code class="docutils literal notranslate"><span class="pre">Same</span> <span class="pre">couch</span></code>: see Benfey, <code class="docutils literal notranslate"><span class="pre">Vedica</span> <span class="pre">und</span> <span class="pre">Verwandtes</span></code>, pp. 39—42, for a different explanation of samâné yónau.</em>
 7 I, Yamî, am possessed by love of Yama, that I may rest on the same couch beside him.<br />
 I as a wife would yield me to my husband. Like car-wheels let us speed to meet each other.</p>
 <p><em>Yama replies. <code class="docutils literal notranslate"><span class="pre">Sentinels</span> <span class="pre">of</span> <span class="pre">Gods</span></code>: recording angels who watch men’s actions.</em>
 8 They stand not still, they never close their eyelids, those sentinels of Gods who wander round us.<br />
 Not me-go quickly, wanton, with another, and hasten like a chariot wheel to meet him.</p>
-<p><em>Yamî speaks. The meaning seems to he: if there be any guilt let me take it upon myself, and let not Tama’s life be shortened by way of punishment. <code class="docutils literal notranslate"><span class="pre">The</span> <span class="pre">kindred</span> <span class="pre">Pair</span></code> : Day and Night.</em>
+<p><em>Yamî speaks. The meaning seems to he: if there be any guilt let me take it upon myself, and let not Tama’s life be shortened by way of punishment. <code class="docutils literal notranslate"><span class="pre">The</span> <span class="pre">kindred</span> <span class="pre">Pair</span></code>: Day and Night.</em>
 9 May Sūrya’s eye with days and nights endow him, and ever may his light spread out before him.<br />
 In heaven and earth the kindred Pair commingle. On Yami be the unbrotherly act of Yama.</p>
 <p><em>Yama replies. ‘Make thine arm a pillow’—Wilson.</em>
 10 Sure there will come succeeding times when brothers and sisters will do acts unmeet for kinsfolk.<br />
 Not me, O fair one,—seek another husband, and make thine arm a pillow for thy consort.</p>
-<p><em>Yamî speaks. <code class="docutils literal notranslate"><span class="pre">Destruction</span></code> : Nirriti ; the utter extinction of the human race. ‘The meaning is, a true brother will not let his sister lack a husband, and a true sister will not let her brother lack a wife.’—Wilson’s Translation, Editor’s note.</em>
+<p><em>Yamî speaks. <code class="docutils literal notranslate"><span class="pre">Destruction</span></code>: Nirriti; the utter extinction of the human race. ‘The meaning is, a true brother will not let his sister lack a husband, and a true sister will not let her brother lack a wife.’—Wilson’s Translation, Editor’s note.</em>
 11 Is he a brother when no lord is left her? Is she a sister when Destruction cometh?<br />
 Forced by my love these many words I utter. Come near, and hold me in thy close embraces.</p>
 <p><em>Yama replies.</em>
@@ -499,7 +480,7 @@ They sacrificed Brihaspati the Rishi. Yama delivered up his own dear body.</p>
 </div></blockquote>
 <p>X.14.1 is given as:</p>
 <blockquote>
-<div><p><em><code class="docutils literal notranslate"><span class="pre">Yama</span></code>: the deified Lord of the Dead : originally the first who died and ao showed the souls of his successors the way to the home of th# departed. See X. 12. <code class="docutils literal notranslate"><span class="pre">Lofty</span> <span class="pre">heights</span></code>; of heaven, the abode of the Blest.</em></p>
+<div><p><em><code class="docutils literal notranslate"><span class="pre">Yama</span></code>: the deified Lord of the Dead: originally the first who died and ao showed the souls of his successors the way to the home of th# departed. See X. 12. <code class="docutils literal notranslate"><span class="pre">Lofty</span> <span class="pre">heights</span></code>; of heaven, the abode of the Blest.</em></p>
 <p>Honour the King with thine oblations, Yama, Vivasv&amp;n’s Son, who gathers men together,<br />
 Who travelled to the lofty heights above us, who searches out * and shows the path to many.</p>
 </div></blockquote>
@@ -577,7 +558,8 @@ Since then, night has separated one day from another; now is separated from then
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
   <div class="sidebar-secondary-item">
@@ -637,8 +619,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549"></script>
 
   <footer class="bd-footer">
   </footer>

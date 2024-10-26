@@ -16,17 +16,19 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!-- 
+    this give us a css class that will be invisible only if js is disabled 
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
     <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
@@ -36,10 +38,11 @@
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=26a4bc78f4c0ddb94549"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -64,6 +67,7 @@
     <link rel="prev" title="The Man Who Had No Story" href="man-no-story.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -79,19 +83,8 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +92,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,8 +99,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -124,7 +116,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +147,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -337,24 +326,16 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
+</button>
 <button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
@@ -403,28 +384,28 @@ document.write(`
 <p class="admonition-title">Jacobs, The Fish and the Ring</p>
 <p><em>In <a class="reference external" href="https://archive.org/details/englishfairytal00jacogoog/page/n222/mode/2up">English Fairy Tales</a>,  Joseph Jacobs, 1890, pp190-4. The following is from an equivalent <a class="reference external" href="https://archive.org/details/englishfairytale00jaco/page/222/mode/2up">1895 edition</a>, pp223-8.</em></p>
 <p>XXXV. THE FISH AND THE RING.</p>
-<p>ONCE upon a time there was a mighty Baron in the North Countrie who was a great magician and knew everything that would come to pass. So one day, when his little boy was four years old, he looked into the Book of Fate to see what would happen to him. And to his dismay, he found that his son would wed a lowly maid that had just been born in a house under the shadow of York Minster. Now the Baron knew the father of the little girl was very, very poor, and he had five children already. So he called for his horse, and rode into York, and passed by the father’s house, and saw him sitting by the door, sad and doleful. So he dismounted and went up to him and said : “ What is the matter, my good man?” And the man said : “Well, your honor, the fact is, I’ve five children already, and now a sixth’s come, a little lass, and where to get the bread from to fill their mouths, that’s more than I can say.”</p>
-<p>“ Don’t be downhearted, my man,” said the Baron. “If that’s your trouble, I can help you. I’ll take away the last little one, and you won’t have to bother about her.”</p>
-<p>“ Thank you kindly, sir,” said the man ; and he went in and brought out the lass and gave her to the Baron, who mounted his horse and rode away with her. And when he got by the bank of the River Ouse he threw the little thing into the river, and rode off to his castle.</p>
-<p>But the little lass didn’t sink ; her clothes kept her up for a time, and she floated, and she floated, till she was cast ashore just in front of a fisherman’s hut. There the fisherman found her, and took pity on the poor little thing and took her into his house, and she lived there till she was fifteen years old, and a fine handsome girl.</p>
-<p>One day it happened that the Baron went out hunting with some companions along the banks of the River Ouse, and stopped at the fisherman’s hut to get a drink, and the girl came out to give it to them. They all noticed her beauty, and one of them said to the Baron: “You can read fates, Baron, whom will she marry, d’ye think ?”</p>
+<p>ONCE upon a time there was a mighty Baron in the North Countrie who was a great magician and knew everything that would come to pass. So one day, when his little boy was four years old, he looked into the Book of Fate to see what would happen to him. And to his dismay, he found that his son would wed a lowly maid that had just been born in a house under the shadow of York Minster. Now the Baron knew the father of the little girl was very, very poor, and he had five children already. So he called for his horse, and rode into York, and passed by the father’s house, and saw him sitting by the door, sad and doleful. So he dismounted and went up to him and said: “ What is the matter, my good man?” And the man said: “Well, your honor, the fact is, I’ve five children already, and now a sixth’s come, a little lass, and where to get the bread from to fill their mouths, that’s more than I can say.”</p>
+<p>“Don’t be downhearted, my man,” said the Baron. “If that’s your trouble, I can help you. I’ll take away the last little one, and you won’t have to bother about her.”</p>
+<p>“Thank you kindly, sir,” said the man; and he went in and brought out the lass and gave her to the Baron, who mounted his horse and rode away with her. And when he got by the bank of the River Ouse he threw the little thing into the river, and rode off to his castle.</p>
+<p>But the little lass didn’t sink; her clothes kept her up for a time, and she floated, and she floated, till she was cast ashore just in front of a fisherman’s hut. There the fisherman found her, and took pity on the poor little thing and took her into his house, and she lived there till she was fifteen years old, and a fine handsome girl.</p>
+<p>One day it happened that the Baron went out hunting with some companions along the banks of the River Ouse, and stopped at the fisherman’s hut to get a drink, and the girl came out to give it to them. They all noticed her beauty, and one of them said to the Baron: “You can read fates, Baron, whom will she marry, d’ye think?”</p>
 <p>“Oh! that’s easy to guess,” said the Baron; “ some yokel or other. But I’ll cast her horoscope. Come here, girl, and tell me on what day you were born?”</p>
-<p>“ I don’t know, sir,” said the girl, “ I was picked up just here after having been brought down by the river about fifteen years ago.”</p>
-<p>Then the Baron knew who she was, and when they went away he rode back and said to the girl : “ Hark ye, girl, I will make your fortune. Take this letter to my brother in Scarborough, and you will be settled for life.” And the girl took the letter and said she would go. Now this was what he had written in the letter :</p>
-<p>“ Dear Brother : Take the bearer and put her to death immediately.<br />
-“ Yours affectionately,<br />
-“ Humphrey.”</p>
-<p>So soon after the girl set out for Scarborough and slept for the night at a little inn. Now that very night a band of robbers broke into the inn, and searched the girl, who had no money, and only the letter. So they opened this and read it, and thought it a shame. The captain of the robbers took a pen and paper and wrote this letter :</p>
-<p>“ Dear Brother : Take the bearer and marry her to my son immediately.<br />
-“ Yours affectionately,<br />
-“ Humphrey.”</p>
+<p>“I don’t know, sir,” said the girl, “ I was picked up just here after having been brought down by the river about fifteen years ago.”</p>
+<p>Then the Baron knew who she was, and when they went away he rode back and said to the girl: “ Hark ye, girl, I will make your fortune. Take this letter to my brother in Scarborough, and you will be settled for life.” And the girl took the letter and said she would go. Now this was what he had written in the letter:</p>
+<p>“Dear Brother: Take the bearer and put her to death immediately.<br />
+“Yours affectionately,<br />
+“Humphrey.”</p>
+<p>So soon after the girl set out for Scarborough and slept for the night at a little inn. Now that very night a band of robbers broke into the inn, and searched the girl, who had no money, and only the letter. So they opened this and read it, and thought it a shame. The captain of the robbers took a pen and paper and wrote this letter:</p>
+<p>“Dear Brother: Take the bearer and marry her to my son immediately.<br />
+“Yours affectionately,<br />
+“Humphrey.”</p>
 <p>And then he gave it to the girl, bidding her begone. So she went on to the Baron’s brother at Scarborough, a noble knight, with whom the Baron’s son was staying. When she gave the letter to his brother he gave orders for the wedding to be prepared at once, and they were married that very day.</p>
-<p>Soon after the Baron himself came to his brother’s castle, and what was his surprise to find that the very thing he had plotted against had come to pass. But he was not to be put off that way ; and he took out the girl for a walk, as he said, along the cliffs. And when he got her all alone he took her by the arms, and was going to throw her over. But she begged hard for her life. “ I have not done anything,” she said, “if you will only spare me I will do whatever you wish. I will never see you or your son again till you desire it.” Then the Baron took off his gold ring and threw it into the soa, saying : “ Never let me see your face till you can show me that ring ;” and he let her go.</p>
-<p>The poor girl wandered on and on, till at last she came to a great noble’s castle, and she asked to have some work given to her ; and they made her the scullion girl of the castle, for she had been used to such work in the fisherman’s hut.</p>
-<p>Now one day, who should she see coming up to the noble’s house but the Baron and his brother and his son, her husband. She didn’t know what to do ; but thought they would not see her in the castle kitchen. So she went back to her work with a sigh, and set to cleaning a huge big fish that was to be boiled for their dinner. And, as she was cleaning it, she saw something shine inside it, and what do you think she found ? Why, there was the Baron’s ring, the very one he had thrown over the cliff at Scarborough. She was glad indeed to see it, you may be sure. Then she cooked the fish as nicely as she could, and served it up.</p>
-<p>“Well, when the fish came on the table, the guests liked it so well that they asked the noble who cooked it. He said he didn’t know, but called to his servants : “ Ho, there, send the cook who cooked that fine fish.” So they went down to the kitchen</p>
+<p>Soon after the Baron himself came to his brother’s castle, and what was his surprise to find that the very thing he had plotted against had come to pass. But he was not to be put off that way; and he took out the girl for a walk, as he said, along the cliffs. And when he got her all alone he took her by the arms, and was going to throw her over. But she begged hard for her life. “ I have not done anything,” she said, “if you will only spare me I will do whatever you wish. I will never see you or your son again till you desire it.” Then the Baron took off his gold ring and threw it into the soa, saying: “ Never let me see your face till you can show me that ring;” and he let her go.</p>
+<p>The poor girl wandered on and on, till at last she came to a great noble’s castle, and she asked to have some work given to her; and they made her the scullion girl of the castle, for she had been used to such work in the fisherman’s hut.</p>
+<p>Now one day, who should she see coming up to the noble’s house but the Baron and his brother and his son, her husband. She didn’t know what to do; but thought they would not see her in the castle kitchen. So she went back to her work with a sigh, and set to cleaning a huge big fish that was to be boiled for their dinner. And, as she was cleaning it, she saw something shine inside it, and what do you think she found? Why, there was the Baron’s ring, the very one he had thrown over the cliff at Scarborough. She was glad indeed to see it, you may be sure. Then she cooked the fish as nicely as she could, and served it up.</p>
+<p>“Well, when the fish came on the table, the guests liked it so well that they asked the noble who cooked it. He said he didn’t know, but called to his servants: “ Ho, there, send the cook who cooked that fine fish.” So they went down to the kitchen</p>
 <p>and told the girl she was wanted in the hall. Then she made herself ready and put the Baron’s gold ring on her thumb and went up into the hall.</p>
-<p>When the banqueters saw such a young and beautiful cook they were surprised. But the Baron was in a tower of a temper, and started up as if he would do her some violence. So the girl went up to him with her hand before her with the ring on it ; and she put it down before him on the table. Then at last the Baron saw that no one could fight against Fate, and he handed her to a seat and announced to all the company that this was his son’s true wife ; and he took her and his son home to his castle ; and they all lived as happy as could be ever afterward.</p>
+<p>When the banqueters saw such a young and beautiful cook they were surprised. But the Baron was in a tower of a temper, and started up as if he would do her some violence. So the girl went up to him with her hand before her with the ring on it; and she put it down before him on the table. Then at last the Baron saw that no one could fight against Fate, and he handed her to a seat and announced to all the company that this was his son’s true wife; and he took her and his son home to his castle; and they all lived as happy as could be ever afterward.</p>
 </div>
 <section id="earlier-versions-of-the-fish-and-the-ring">
 <h2>Earlier Versions of <em>The Fish and the Ring</em><a class="headerlink" href="#earlier-versions-of-the-fish-and-the-ring" title="Link to this heading">#</a></h2>
@@ -432,7 +413,7 @@ document.write(`
 <blockquote>
 <div><p>XXXV. THE FISH AND THE RING.</p>
 <p><em>Source.</em> — Henderson, <em>l.c.</em>, p. 326, from a communication by the Rev. S. Baring-Gould.</p>
-<p><em>Parallels.</em> — “Jonah rings” have been put together by Mr. Clouston in his <em>Popular Tales</em>, i. 398, &amp;c. : the most famous are those of Polycrates, of Solomon, and the Sanskrit drama of “ Sakuntala,” the plot of which turns upon such a ring. “ Letters to kill bearer “ have been traced from Homer downwards by Prof. Khöler on Gonzenbach, ii. 220, and “the substituted letter” by the same authority in <em>Occ. u. Orr</em>, ii. 289. Mr. Baring-Gould, who was one of the pioneers of the study of folk-tales in this country, has given a large number of instances of “the pre-ordained marriage” in folk-tales in Henderson, <em>l.c.</em></p>
+<p><em>Parallels.</em> — “Jonah rings” have been put together by Mr. Clouston in his <em>Popular Tales</em>, i. 398, &amp;c.: the most famous are those of Polycrates, of Solomon, and the Sanskrit drama of “ Sakuntala,” the plot of which turns upon such a ring. “ Letters to kill bearer “ have been traced from Homer downwards by Prof. Khöler on Gonzenbach, ii. 220, and “the substituted letter” by the same authority in <em>Occ. u. Orr</em>, ii. 289. Mr. Baring-Gould, who was one of the pioneers of the study of folk-tales in this country, has given a large number of instances of “the pre-ordained marriage” in folk-tales in Henderson, <em>l.c.</em></p>
 </div></blockquote>
 <p>In his “Household Tales” appendix to Henderson’s <em>Folk-Lore of Northern Counties</em>, Sabine Baring-Gould presents a version of the tale:</p>
 <div class="dropdown admonition">
@@ -445,11 +426,11 @@ by William Henderson, with an appendix on <em>Household Tales</em> by Sabine Bar
 </ol>
 <p>There lived in York three hundred years ago a very poor man, who had a little shop under the shadow of the Minster towers. He had already three daughters and two sons when his wife gave him hopes of a sixth child. Nor were these expectations blighted, for in due course of time she presented him with a little girl. The poor man groaned at the sight, took the child, and laid it on the counter before him, shedding tears at the prospect of having another mouth to fill. A knight who was riding by heard his sobs, and inquiring the cause, learned that the new babe was <em>un petit peu de trop</em> in the house. Now, being a sorcerer, the knight opened his great Book of Fate, and as he read therein his hair bristled on his head, and his cheek grew pale, for he saw it plainly written that this nursling babe was to be his son’s wife. Determined to avoid this catastrophe, he offered to adopt the child and endow it with all bis wealth. The delighted father agreed, and gave the babe into the arms of the knigjit, who carried it to the hanks of the Ouse and flung it in. But the little creature did not sink. Its dress buoyed it up, and it was washed ashore near a fisherman’s cottage. This good man, finding the poor wailing child on the river-bank, brought it home, and with his wife’s consent adopted it, and under their roof it grew up to be a handsome girl of fifteen.</p>
 <p>One day the knight came riding along the river with a number of friends. They called at the fisherman’s cottage, and asked for some fish. The girl came to the door, and all the riders were struck by her beauty. As they continued their ride, they praised her much for her courteousness and the loveliness of her face, till the knight jestingly said he would search the Book of Fate to see who should be her husband. He did so, and found, to his terror, that this girl was the same whom he had flung over the bridge and believed to be dead long ago. So, leaving his comrades, he rode back to the cottage and asked the fisherman to allow his daughter to take a letter for him to his brother, a noble knight, at Scarborough. Then he wrote a letter to this effect:—</p>
-<p>‘ Dear Brother, — Take the bearer and put her to death immediately.—Yours affectionately.’</p>
-<p>Sealing this, he gave it to the girl, and she started on her journey. On the way she slept a night in a little inn. Now it fell out that a thief broke into the inn that night and entered the maiden’s room, where he found the letter, and opening it he read it. Then turning his dark lanthorn on the face of the sleeping girl, he thought, ‘How sad that this beautiful damsel should be the bearer of her own sentence of death ! Surely she deserves a better fate.’ Then, taking a pen, he wrote on paper a note, as though from the knight, telling the brother to marry the girl to his son. Having done this, he sealed the letter and placed it in the girl’s purse, whence he had abstracted the real letter. She, waking the next morning, and knowing nothing of what had. taken place during the night, hastened to Scarborough, where she was well received by the knight’s brother. He read the letter, and gave immediate orders for the celebration of her nuptials with the knight’s son, who was then staying at his castle.</p>
-<p>Some days after, the knight arrived at his brother’s mansion, and was much astonished and perplexed to see the course which affairs had taken, and to find that all his attempts to frustrate the purposes of fate had been in vain. However, he was not a bit more disposed than before to take matters quietly, so dragging the poor girl to the shore by her hair, he drew his dagger to stab her. She fell on her knees and implored him to spare her life, on which he so far relented that he plucked a golden ring from his finger and cast it as far as he could into the tumbling waves, saying to her, ‘ Swear to me that you will not come within my sight till that ring is on your finger, and I will spare your life.’ She took the requisite oath and fled the place.</p>
-<p>Far and wide did she wander, begging from door to door, till at last she found a situation as cook in a nobleman’s house. One day, when guests were arriving, she looked from the window and saw the knight, her cruel father-in-law, and his son, her husband. Trembling, she hid herself in the kitchen, and her tears were mingled with the food she dressed. Just before dinner a fisherman came to the door with a magnificent fish for sale. She took it in and began to clean it. Scarcely had she opened it when she saw something glittering in its stomach. She examined the shining substance—and, lo! it was the knight’s ring ! Her heart was now full of joy, and her tears were lost in smiles. She cooked the dinner so well that the knight, her father-in-law, asked his host who was bis cook.</p>
-<p>‘A strange girl,’ replied he, ‘ who came begging to my door, and whom I received into my house from charity. Ho! some of you servants, bid her come up into the dining-hall.’</p>
+<p>‘Dear Brother, — Take the bearer and put her to death immediately.—Yours affectionately.’</p>
+<p>Sealing this, he gave it to the girl, and she started on her journey. On the way she slept a night in a little inn. Now it fell out that a thief broke into the inn that night and entered the maiden’s room, where he found the letter, and opening it he read it. Then turning his dark lanthorn on the face of the sleeping girl, he thought, ‘How sad that this beautiful damsel should be the bearer of her own sentence of death! Surely she deserves a better fate.’ Then, taking a pen, he wrote on paper a note, as though from the knight, telling the brother to marry the girl to his son. Having done this, he sealed the letter and placed it in the girl’s purse, whence he had abstracted the real letter. She, waking the next morning, and knowing nothing of what had. taken place during the night, hastened to Scarborough, where she was well received by the knight’s brother. He read the letter, and gave immediate orders for the celebration of her nuptials with the knight’s son, who was then staying at his castle.</p>
+<p>Some days after, the knight arrived at his brother’s mansion, and was much astonished and perplexed to see the course which affairs had taken, and to find that all his attempts to frustrate the purposes of fate had been in vain. However, he was not a bit more disposed than before to take matters quietly, so dragging the poor girl to the shore by her hair, he drew his dagger to stab her. She fell on her knees and implored him to spare her life, on which he so far relented that he plucked a golden ring from his finger and cast it as far as he could into the tumbling waves, saying to her, ‘Swear to me that you will not come within my sight till that ring is on your finger, and I will spare your life.’ She took the requisite oath and fled the place.</p>
+<p>Far and wide did she wander, begging from door to door, till at last she found a situation as cook in a nobleman’s house. One day, when guests were arriving, she looked from the window and saw the knight, her cruel father-in-law, and his son, her husband. Trembling, she hid herself in the kitchen, and her tears were mingled with the food she dressed. Just before dinner a fisherman came to the door with a magnificent fish for sale. She took it in and began to clean it. Scarcely had she opened it when she saw something glittering in its stomach. She examined the shining substance—and, lo! it was the knight’s ring! Her heart was now full of joy, and her tears were lost in smiles. She cooked the dinner so well that the knight, her father-in-law, asked his host who was bis cook.</p>
+<p>‘A strange girl,’ replied he, ‘who came begging to my door, and whom I received into my house from charity. Ho! some of you servants, bid her come up into the dining-hall.’</p>
 <p>The girl, receiving this command, washed her face, braided her hair, and put on her best array; then, with the ring on her finger, she entered the hall where all were feasting.</p>
 <p>The revellers turned to look at her, for she seemed as fair as the moon, as lovely as a rose. With an exclamation of rage and dismay, the knight rose to his feet. He recognised her at once, and, drawing his sword, rushed forward to cut her down; but she held up her hand with a smile, and there he saw the ring he had east into the sea. Now, at length he acknowledged that he was powerless to resist fate, and suffered her to remain in peace with his son, who loved her dearly, and she became famous through the land for her beauty, her courtesy, and her goodness.</p>
 </div>
@@ -458,11 +439,11 @@ by William Henderson, with an appendix on <em>Household Tales</em> by Sabine Bar
 <p class="admonition-title">Notes</p>
 <p>In <em>Notes on the Folklore of the Northern Counties of England and the Borders</em>
 by William Henderson, with an appendix on <em>Household Tales</em> by Sabine Baring-Gould, 1866, <a class="reference external" href="https://books.google.co.uk/books?id=a0iwAAAAIAAJ">p326-7</a>:</p>
-<p>This story is made up of two story-radicals :</p>
+<p>This story is made up of two story-radicals:</p>
 <p>A. The first as far as to the marriage;</p>
 <p>B. The second from the marriage to the end.</p>
-<p>The first part of the story closely resembles ‘The Devil with the Three Golden Hairs,’ in Grimm’s Kinder-Märchen, No. 29; to which are also related a Swiss story of Vogel Greet (K. M. No. 165), a Swedish tale (Afzelius 2, 161-167), a Norwegian (Asbjörnsen, No. 5), a Wendish tale (Haupt u. Schmaler, No. 17), a Hungarian (Mailan, No. 8), and a Mongolian tale in Gesser Khan, p. 142. In the German story a king takes the place of the knight, and the babe is a boy born with a caul, and therefore fated to marry his daughter. He takes the boy and casts him into the water, and it is saved by a miller. The incident of the change of letters by the thief is the same. After this the German tale branches off in another direction altogether. A modern Greek household tale (Von Halm, No. 20) is to this effect: It is prophesied that a babe will cause the death of a merchant; the merchant takes the child, as in the Yorkshire and German story, and casts it into the river, when it is saved by a shepherd. Then follows the recognition of the boy, when grown up, by the merchant, and the incident of the letter; after which the story goes off on another track. The same story exists in the ‘ Gesta Romanoram.’ <code class="docutils literal notranslate"><span class="pre">[Ed.</span> <span class="pre">Swan,</span> <span class="pre">vol.</span> <span class="pre">i.</span> <span class="pre">Tale</span> <span class="pre">20.]</span></code> It is impossible not to recognise in the myth of Romulus and Remus as an Italian form of the same widespread household tale localised.</p>
-<p>The second part of the same Yorkshire story is founded on a different root, and one which reappears in numerous tales. Tor instance, in ‘ Herodotus,’ it is told of Polycrates ; in the old Provencal romance of ‘ Magelone ‘ it more closely resembles the form in the Yorkshire tale. If I remember aright, it occurs in one of the ‘ Arabian Nights’ Entertainments ; ‘ and if so, it was a relic of Persian romance, and would, in all probability, be found in India as well. I am not sure that it has not a mythical signification, and that the ring apparently lost in the sea, and recovered from it again, does not portray the sun cast, as it were, by the power of darkness into the deep, and recovered again by the virgin Aurora or the dawn. The instances of the reappearance of this root in household tales are too numerous to be specified. I may mention that it occurs in the familiar French tale of ‘ The Fair One with Golden Locks,’ and that we find it in all the kindred tales of the Aryan family.</p>
+<p>The first part of the story closely resembles ‘The Devil with the Three Golden Hairs,’ in Grimm’s Kinder-Märchen, No. 29; to which are also related a Swiss story of Vogel Greet (K. M. No. 165), a Swedish tale (Afzelius 2, 161-167), a Norwegian (Asbjörnsen, No. 5), a Wendish tale (Haupt u. Schmaler, No. 17), a Hungarian (Mailan, No. 8), and a Mongolian tale in Gesser Khan, p. 142. In the German story a king takes the place of the knight, and the babe is a boy born with a caul, and therefore fated to marry his daughter. He takes the boy and casts him into the water, and it is saved by a miller. The incident of the change of letters by the thief is the same. After this the German tale branches off in another direction altogether. A modern Greek household tale (Von Halm, No. 20) is to this effect: It is prophesied that a babe will cause the death of a merchant; the merchant takes the child, as in the Yorkshire and German story, and casts it into the river, when it is saved by a shepherd. Then follows the recognition of the boy, when grown up, by the merchant, and the incident of the letter; after which the story goes off on another track. The same story exists in the ‘Gesta Romanoram.’ <code class="docutils literal notranslate"><span class="pre">[Ed.</span> <span class="pre">Swan,</span> <span class="pre">vol.</span> <span class="pre">i.</span> <span class="pre">Tale</span> <span class="pre">20.]</span></code> It is impossible not to recognise in the myth of Romulus and Remus as an Italian form of the same widespread household tale localised.</p>
+<p>The second part of the same Yorkshire story is founded on a different root, and one which reappears in numerous tales. Tor instance, in ‘Herodotus,’ it is told of Polycrates; in the old Provencal romance of ‘Magelone’ it more closely resembles the form in the Yorkshire tale. If I remember aright, it occurs in one of the ‘Arabian Nights’ Entertainments;’ and if so, it was a relic of Persian romance, and would, in all probability, be found in India as well. I am not sure that it has not a mythical signification, and that the ring apparently lost in the sea, and recovered from it again, does not portray the sun cast, as it were, by the power of darkness into the deep, and recovered again by the virgin Aurora or the dawn. The instances of the reappearance of this root in household tales are too numerous to be specified. I may mention that it occurs in the familiar French tale of ‘The Fair One with Golden Locks,’ and that we find it in all the kindred tales of the Aryan family.</p>
 </div>
 </section>
 </section>
@@ -522,7 +503,8 @@ by William Henderson, with an appendix on <em>Household Tales</em> by Sabine Bar
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
   <div class="sidebar-secondary-item">
@@ -580,8 +562,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549"></script>
 
   <footer class="bd-footer">
   </footer>

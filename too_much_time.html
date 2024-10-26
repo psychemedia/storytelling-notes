@@ -16,17 +16,19 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!-- 
+    this give us a css class that will be invisible only if js is disabled 
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
     <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
@@ -36,10 +38,11 @@
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=26a4bc78f4c0ddb94549"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -64,6 +67,7 @@
     <link rel="prev" title="Macpherson’s Rant" href="macpherson.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -79,19 +83,8 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +92,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,8 +99,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -124,7 +116,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +147,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -337,24 +326,16 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
+</button>
 
 </div></div>
       
@@ -382,12 +363,20 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="too-much-time">
 <h1>Too Much Time<a class="headerlink" href="#too-much-time" title="Link to this heading">#</a></h1>
-<p>Back in the day, every place had its own time. Not just its own local village fete, its own market day or County Assizes, but its own time.</p>
-<p>When it was midday in Oxford it was just after five <em>past</em> twelve in London (or 5 minutes and two seconds passed twelve to be precise). At the same time, it was five minutes <em>to</em> twelve in Bristol.</p>
+<p>One upon a timne, there was <em>too much time</em>. Time was <em>everywhere</em>. Literally.</p>
 <p>Time followed the sun.</p>
-<p>So when people said “London is ahead of the times”, that was true, in a certain sense: daylight gets there before many places in the UK. And if people say, “the folk in the West Country are so behind the times”, that could also be true…</p>
-<p>Every evening at 9 o’clock “Oxford Time” (which is to say five <em>past</em> nine in London time), the bell  at Christ Church College, Great Tom, rings out a hundred and one times, once for each of the college’s original 101 students, calling the colleges to lock their gates. Thereupon, it remains silent until it resumes announcing the London hour, every hour from 8am the next morning. To this day the people of Oxford know their own time.</p>
-<p>As they do in Bristol. If you’re ever on the Big Island, and happen to visit Bristol, and if you find yourself stood in from of the old Corn Exchange, look up to the clock tower: as well as the rather unusual red painted numbers, you’ll notice it has <em>two</em> minute hands. The red minute hand shows London time, Greenwich Mean Time; but a <em>second</em>, <strong>black</strong> minute hand shows local Bristol time, 10 minutes behind.</p>
+<p>Each place had its own time. Not just its own local village fete, its own market day or County Assizes, but its own time of day.</p>
+<p>Noon was set by the sun dial in the village churchyard. The day started when the cock crowed, and the burning down of a candle marked it out after sunset.</p>
+<p>And then the factories came, and with them the invention of <em>factory</em> time. A factory owner would know how many widgets he could make per hour, and how many per day. And that didn’t really work with days that were 8 hours long in winter and 16 hours long in summer if you wanted to produce the same numbers of widgets per day <em>whatever</em> time of year it was.</p>
+<p>And <em>then</em> came the railways, and faster than local time travel.</p>
+<p>Now, the Sun travels across the Earth at about a thousand miles an hour: 24,000 miles or so round the Earth, 24 hours in a day, so a thousand miles an hour. Or about fifteen miles a minute.</p>
+<p>If you’re walking across the country, the sound of the church bells chiming sound out at pretty much the same time all around round. But there’s actually a wave of chimes, ringing out from east to west, across the country, taking just a little bit less than half an hour from the furthest point east to the fithest point west.</p>
+<p>Now that’s a lot faster than walking pace. Or a horse. Or even a train.</p>
+<p>But imagine though, for a minute, that you’re working for the railway, the Great <em>Western</em> Railway, connecting London, with Bristol, then down to the West country, Devon, and Cornwall. You’re putting together the timetables, and indulging in a little thought experiment. The early mail coaches may have travelled a little less than 10 miles an hour or so, and the first trains averaged 20-30 miles per or so, reaching 60-70 miles per hour in the 1840s. But you could probably <em>imagine</em> trains getting up to 100 miles an hour — I know that’s unmimaginalby fast nowadys, but back then, it looked like it could be a <em>real</em> posibility. But what if you could get <em>another</em> ten times improvement and go 1000 miles an hour? You’d leave London at midday, and head west. You’d get to Reading at… 12 o’clock. Then on to Swindon — twelve’o’clock — and Bristol, where you’d arrive at… 12 o’clock. It would take you, quite literally, <em>no time</em> to get there at all.</p>
+<p><img alt="Pages from 'The New Great Western Railway Timetable, Alteration of trains for the summer 1844'. Science Museum Group https://www.sciencemuseum.org.uk/objects-and-stories/standardising-time-railways-and-electric-telegraph" src="_images/gwr-railwaytimetable-1844.png" /></p>
+<p>But that’s not right, is it? It <em>does</em> take time, even on the fastest trains, and it takes <em>forever</em> on today’s trains.</p>
+<p>So you need to invent <em>railway</em> time, where you do the sums, you take the <em>actual</em> speed and the <em>actual</em> distance, and you work out how long it will <em>actually</em> take. And that’s your timetable.</p>
+<p>But for everyone else? Well: if it was midday in Oxford it was just after five <em>past</em> twelve in London (or 5 minutes and two seconds passed twelve to be precise). At the same time, it was five minutes <em>to</em> twelve in Bristol. So you’d have to have people all over the country figuring out their own local timetables — good work if you can get it, presumably — because if you miss a train by a minute, well, you’re f*cked, aren’t you, as you can try explaining to the people on the speed awareness courses, who try to explain that if you’re speeding for an hour you still only get there a couple of minutes earlier and you say: yes, but boatwise, you don’t live on a Island where a minute is a couple of hours if you miss it, do you?</p>
 <p>Having your own time could lead to problems. In 1858, at the Dorchester Assizes, a hearing was set for 10 o’clock a.m. The case involved an action of ejectment, which is to say a property case. In those days, ownership of land could be transferred by ritual and custom as much as it was by legal document.</p>
 <p>The medieval <em>livery of seisin</em>, which remained as valid in law until 1925, fewer than a hundred years ago, when my own grandparents were children, required the original landowner and whoever was being given the land, along with any witnesses to gather somewhere on the land; the owner would then pick up a handful of earth and hand it over, literally handing of the ownership of it.</p>
 <p>If there was a land dispute, an “action of ejectment” could be brought by someone who argued that they had wrongfully been dispossessed of the land or had a better right to it.</p>
@@ -405,6 +394,9 @@ document.write(`
 <p>If the trial is set in Dorchester, to be on Thursday at 10 in Dorchester, then the case will be heard, on Thursday, at 10, in Dorchester, using the local time of that place.</p>
 <p>Such is the way of the law in Britain and Ireland, a <em>Common Law</em> approach, where judges rulings in the absence of statute, or interpretation of enacted laws and statutes, are the law, Curtis versus March defined “standard time” as used in the courts of Great Britain and Ireland.</p>
 <p>Standard time as London time, as Greenwich mean time, GMT, did not enter the <a class="reference external" href="http://statutes.org.uk/site/the-statutes/nineteenth-century/1880-43-44-victoria-c-9-definition-of-time-act/">statute book</a> until 1880, and the reign of Queen Victoria, in an August 1880 “Act to remove doubts as to the meaning of Expressions relative to Time occurring in Acts of Parliament, deeds, and other legal instruments”.</p>
+<p>Every evening at 9 o’clock “Oxford Time” (which is to say five <em>past</em> nine in London time), the bell  at Christ Church College, Great Tom, rings out a hundred and one times, once for each of the college’s original 101 students, calling the colleges to lock their gates. Thereupon, it remains silent until it resumes announcing the London hour, every hour from 8am the next morning. To this day the people of Oxford know their own time.</p>
+<p>As they do in Bristol. If you’re ever on the Big Island, and happen to visit Bristol, and if you find yourself stood in from of the old Corn Exchange, look up to the clock tower: as well as the rather unusual red painted numbers, you’ll notice it has <em>two</em> minute hands. The red minute hand shows London time, Greenwich Mean Time; but a <em>second</em>, <strong>black</strong> minute hand shows local Bristol time, 10 minutes behind.</p>
+<p>So when people said “London is ahead of the times”, that was true, in a certain sense: daylight gets there before many places in the UK. And if people say, “the folk in the West Country are so behind the times”, that could also be true…</p>
 <blockquote>
 <div><p>WHEREAS it is expedient to remove certain doubts as to whether expressions of time occurring in Acts of Parliament, deeds, and other legal instruments relate in England and Scotland to Greenwich time, and in Ireland to Dublin time, or to the mean astronomical time in each locality:</p>
 <p>Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows; (that is to say,)</p>
@@ -421,7 +413,7 @@ document.write(`
 <p>This was an action of ejectment which was entered for trial before Watson , B., at the last Dorchester Assizes. The time appointed for the sitting of the Court was 10 o’clock A. M., and the learned Judge took his seat on the bench punctually at 10 by the clock in Court. The cause was then called on , and the plaintiff’s counsel commenced his address to the jury, but as the defendant was not present and no one appeared for him, the learned Judge directed a verdict for the plaintiff. The defendant’s counsel then entered the Court and claimed to have the cause tried, on the ground that it had been disposed of before 10 o’clock.</p>
 <p>At that time it wanted one minute and a half to 10 by the town clock . The clock in Court was regulated by Greenwich time, which was some minutes before the true time at Dorchester. The learned Judge having refused the application, <em>Cole</em> had obtained a rule nisi for a new trial upon affidavits of the above facts, against which <em>Slade</em> and <em>Kingdon</em> showed cause . — The sitting of the court was properly regulated by Greenwich time.</p>
 <p>[ POLLOCK, C. B. - When it is stated that a court will sit at a particular hour, that is understood by all persons as the time at the place where the court sits. We are as much bound to take judicial notice that a particular place lies east or west of Greenwich , and consequently has a different time from it, as we are to know the days of the year. ] A judge may appoint the sittings of the court by Greenwich time.</p>
-<p>[POLLOCK, C. B.- No doubt; but that was not done in this case. Suppose a question arises as to whether a person died at 12 o’clock on a particular day, is that to be determined by the time of the place or Greenwich time ? ] The time to be observed at any place is determined by a resolution of the authorities or general course of the parties at that place. Greenwich time is observed at most places in England through which railways pass, and in some the clocks have two sets of hands, the one showing Greenwich time the other the time of the place.</p>
+<p>[POLLOCK, C. B.- No doubt; but that was not done in this case. Suppose a question arises as to whether a person died at 12 o’clock on a particular day, is that to be determined by the time of the place or Greenwich time? ] The time to be observed at any place is determined by a resolution of the authorities or general course of the parties at that place. Greenwich time is observed at most places in England through which railways pass, and in some the clocks have two sets of hands, the one showing Greenwich time the other the time of the place.</p>
 <p>H. T. Cole appeared to support the rule, but was not called upon .</p>
 <p>POLLOCK , C. B .–We are all of opinion that the defendant ought to have an opportunity of trying the cause. The rule will therefore be absolute without costs. It seems to me doubtful whether this application is in consequence of mistake on the part of the defendant or his counsel, for it may be that the Dorchester town clock pointed to Dorchester time, although that in court was regulated by Greenwich time, and that this circumstance was not generally known in Dorchester. I cannot assent to the argument that the town council of any place may by their resolution declare that Greenwich , or any other time, shall be the time of the place; for I cannot help seeing the consequences. The difference between Greenwich time and the real time at Carlisle is several  minutes, and therefore if a town council might determine the time, they might make a man born on a different day from that on which he was really born . Or suppose that by act of parliament a person was bound to go out of office on a particular day, the town council by altering the time might put him out of office to-day instead of to-morrow . So, if a person is entitled to a bonus from an insurance office in the event of his living to a certain period , that must be decided , not by the town council adopting Greenwich time, but by the mean time of the place. Ten o’clock is 10 o’clock according to the time of the place, and the town council cannot say that it is not, but that it is 10 o’clock by Greenwich time. Neither can the time be altered by a rail way company whose railway passes through the place, nor by any person who regulates the clock in the town-hall. A person hearing that the court would sit at 10 o’clock would naturally understand that to mean 10 o’clock by the time of the place , unless the contrary was expressed . In this case, looking to the difference of time (of which we are bound to take judicial notice), the defendant was in court before 10 o’clock .</p>
 <p>Watson, B. — On the day when the cause was tried, I came into court punctually at 10 by the clock in the judges’ room , which was set at Greenwich time. I proceeded at once with the business. A few * 69]minutes afterwards Mr. Cole came in and stated that it was not yet 10, but I did not hear whether he meant by the mean time of the place or by Greenwich time. That is now explained by the affidavits, from which it appears that two times are kept, the clock in the court being regulated by Greenwich time.</p>
@@ -527,8 +519,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549"></script>
 
   <footer class="bd-footer">
   </footer>

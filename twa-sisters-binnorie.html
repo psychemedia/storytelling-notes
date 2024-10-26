@@ -16,17 +16,19 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!-- 
+    this give us a css class that will be invisible only if js is disabled 
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
     <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
@@ -36,10 +38,11 @@
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=26a4bc78f4c0ddb94549"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -64,6 +67,7 @@
     <link rel="prev" title="The Three Heads of the Well" href="three-heads-well.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -79,19 +83,8 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +92,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,8 +99,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -124,7 +116,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +147,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -337,24 +326,16 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
+</button>
 
 </div></div>
       
@@ -483,7 +464,7 @@ It has twined me and my world’s make:”<br />
 By the bonnie mill-dams o’ Binnorie.</p>
 <p>“O sister, sister, reach me your glove,<br />
 Binnorie, O Binnorie;<br />
-And sweet William shall be your love ;”<br />
+And sweet William shall be your love;”<br />
 By the bonnie mill-dams o’ Binnorie.</p>
 <p>“Sink on, nor hope for hand or glove,<br />
 Binnorie, O Binnorie;<br />
@@ -869,7 +850,7 @@ She drave unweiting Isabel in.<br />
 ‘O sister! sister! tak my hand,<br />
 ‘And ye fall hae my silver fan;<br />
 ‘O sister! sister! tak my middle<br />
-‘And ye fall hae my gowden girdle. ‘
+‘And ye fall hae my gowden girdle.’
 Sumtimes she sank, sumtimes she swam,<br />
 Till she cam to the miller’s dam:<br />
 The miller’s dochter was out that ein<br />
@@ -1719,13 +1700,13 @@ Till she cam to the miller’s dam.</p>
 <p>13 The miller’s dochtor was out that ein,<br />
 And saw her rowing down the streim.</p>
 <p>14 ‘O father deir, in your mil-dam<br />
-There is either a lady or a milk-white swan! ‘</p>
+There is either a lady or a milk-white swan!’</p>
 <p>15 Twa days were gane, whan to her deir<br />
 Her wraith at deid of nicht cold appeir.</p>
 <p>16 ‘My luve, my deir, how can ye sleip,<br />
 Whan your Isabel lyes in the deip!</p>
 <p>17 ‘My deir, how can ye sleip bot pain<br />
-Whan she by her cruel sister is slain! ‘</p>
+Whan she by her cruel sister is slain!’</p>
 <p>18 Up raise he sune, in frichtfu mude:<br />
 ‘Busk ye, my meiny, and seik the flude.’</p>
 <p>19 They socht her up and they socht her doun,<br />
@@ -1779,7 +1760,7 @@ He courted the eldest wi some other thing.</p>
 <p>3 It fell ance upon a day<br />
 The eldest to the youngest did say,</p>
 <p>4 ‘Will ye gae to yon Tweed mill-dam,<br />
-And see our father’s ships come to land? ‘</p>
+And see our father’s ships come to land?’</p>
 <p>6 They baith stood up upon a stane,<br />
 The eldest dang the youngest in.</p>
 <p>6 She swimmed up, sae did she down,<br />
@@ -1831,7 +1812,7 @@ And the swan swims bonnie O</p>
 <p>2 Once it happened on a day<br />
 The auld ane to the young did say,</p>
 <p>3 The auld ane to the young did say,<br />
-‘Will you gae to the green and play? ‘</p>
+‘Will you gae to the green and play?’</p>
 <p>4 ‘O sister, sister, I daurna gang,<br />
 For fear I file my silver shoon.’</p>
 <p>5 It was not to the green they gaed,<br />
@@ -1880,7 +1861,7 @@ But he gave the youngest all his love.</p>
 <p>4 He courted the eldest with brooch and wi knife,<br />
 But he loved the youngest as his life.</p>
 <p>5 ‘O sister, O sister, will ye come to the stream,<br />
-To see our father’s ships come in? ‘</p>
+To see our father’s ships come in?’</p>
 <p>6 The youngest stood upon a stane,<br />
 Her sister came and pusht her in.</p>
 <p>7 ‘O sister, O sister, come reach me your hand,<br />
@@ -2097,7 +2078,7 @@ But ne’er shalt thou get my dear true-love.’</p>
 <p>Perhaps the original conception was the simple and beautiful one which we find in English B and both the Icelandic ballads, that the king’s harper, or the girl’s lover, takes three locks of her yellow hair to string his harp with. So we find three tets of hair in D, E, I, and three links in F, P, used, or directed to be used, to string the fiddle or the fiddle-bow, and the same, apparently, with Danish A. Infelicitous additions were, perhaps, successively made; as a harp-frame from the breast-bone in English C, and fiddle-pins formed of the finger-joints, English F, O, Danish B, C, E, P, L. Then we have all three: the frame of the instrument formed from the breast (or trunk), the screws from the finger-joints, the strings from the hair, Swedish A, B, G, Norwegian A, C, M. And so one thing and another is added, or substituted, as fiddle-bows of the arms or legs, Swedish C, D, Danish H, English L a; a harp-frame from the arms, Norwegian B, Faroe A; a fiddle-frame from the skull, Swedish C, or from the back-bone, English L b; a plectrum from the arm, Faroe B; strings from the veins, English A; a bridgefrom the nose, English A, L a; “h0rp0nota” from the teeth, Norwegian B; till we end with the buffoonery of English A and L a.</p>
 <p>Swedish H has nothing about the finding of the body. Music is wanted for the bridal, and a man from another village, who undertakes to furnish it, looks three days for a proper tree to make a harp of. The singer of this version supplied the information, lost from the ballad, that the drowned sister had floated ashore and grown up into a linden, and that this was the very tree which was chosen for the harp. (See, further on, a Lithuanian, a Slovak, and an Esthonian ballad.)</p>
 <p>All the Norse ballads make the harp or fiddle to be taken to a wedding, which chances to be that of the elder sister with the drowned girl’s betrothed. <code class="docutils literal notranslate"><span class="pre">[Some</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">unprinted</span> <span class="pre">Norwegian</span> <span class="pre">ballads</span> <span class="pre">are</span> <span class="pre">not</span> <span class="pre">completely</span> <span class="pre">described,</span> <span class="pre">but</span> <span class="pre">a</span> <span class="pre">departure</span> <span class="pre">from</span> <span class="pre">the</span> <span class="pre">rule</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">major</span> <span class="pre">part</span> <span class="pre">would</span> <span class="pre">probably</span> <span class="pre">have</span> <span class="pre">been</span> <span class="pre">alluded</span> <span class="pre">to.]</span></code> Unfortunately, many of the English versions are so injured towards the close that the full story cannot be made out. There is no wedding-feast preserved in any of them. The instrument, in A, B, C, H, is taken into the king’s presence. The viol in A and the harp in H are expressly said to speak. The harp is laid upon a stone in C, J, and plays “its lone;” the fiddle plays of itself in L b. <code class="docutils literal notranslate"><span class="pre">[The</span> <span class="pre">stanza,</span> <span class="pre">9,</span> <span class="pre">in</span> <span class="pre">which</span> <span class="pre">this</span> <span class="pre">is</span> <span class="pre">said</span> <span class="pre">is</span> <span class="pre">no</span> <span class="pre">doubt</span> <span class="pre">as</span> <span class="pre">to</span> <span class="pre">its</span> <span class="pre">form</span> <span class="pre">entirely</span> <span class="pre">modern,</span> <span class="pre">bat</span> <span class="pre">not</span> <span class="pre">so</span> <span class="pre">the</span> <span class="pre">idea.</span> <span class="pre">I</span> <span class="pre">has</span> <span class="pre">&quot;the</span> <span class="pre">first</span> <span class="pre">spring</span> <span class="pre">that</span> <span class="pre">he</span> <span class="pre">playd,</span> <span class="pre">it</span> <span class="pre">said,&quot;</span> <span class="pre">etc.]</span></code> B makes the harper play, and D, F, K, O, which say the fiddle played, probably mean that there was a fiddler, and so perhaps with all the Norse versions; but this is not very material, since in either case the instrument speaks “with most miraculous organ.”</p>
-<p>There are three strings made from the girl’s hair in Icelandic A, B, English B [veins, English A], and the three tets or links in English D, E, P, I, P were no doubt taken to make three strings originally. Corresponding to this are three enunciations of the instrument in English A, B, C, Icelandic A, Faroe A,<code class="docutils literal notranslate"><span class="pre">[The</span> <span class="pre">fourth</span> <span class="pre">string</span> <span class="pre">is</span> <span class="pre">said</span> <span class="pre">to</span> <span class="pre">speak</span> <span class="pre">in</span> <span class="pre">Faroe</span> <span class="pre">A</span> <span class="pre">30,</span> <span class="pre">but</span> <span class="pre">no</span> <span class="pre">utterance</span> <span class="pre">is</span> <span class="pre">recorded,</span> <span class="pre">and</span> <span class="pre">this</span> <span class="pre">is</span> <span class="pre">likely</span> <span class="pre">to</span> <span class="pre">be</span> <span class="pre">a</span> <span class="pre">mistake.</span> <span class="pre">In</span> <span class="pre">many</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">versions,</span> <span class="pre">and</span> <span class="pre">in</span> <span class="pre">this,</span> <span class="pre">after</span> <span class="pre">the</span> <span class="pre">strings</span> <span class="pre">have</span> <span class="pre">spoken</span> <span class="pre">individually,</span> <span class="pre">they</span> <span class="pre">unite</span> <span class="pre">in</span> <span class="pre">a</span> <span class="pre">powerful</span> <span class="pre">but</span> <span class="pre">inarticulate</span> <span class="pre">concord.]</span></code> B, Swedish A, B, C, B, G, H, Danish A, D, F, I. These are reduced to two in Icelandic B, Danish B, C, H, L, Swedish D, and even to one in English D, F, I, K, O, but some of these have suffered injury towards the conclusion. The number is increased to four in Norwegian B, to five in Norwegian A, D, and even to six in Norwegian ‘ C, K, M. The increase is, of course, a later exaggeration, and very detrimental to the; effect. In those English copies in which the instrument speaks but once, <code class="docutils literal notranslate"><span class="pre">[I</span> <span class="pre">has</span> <span class="pre">lost</span> <span class="pre">the</span> <span class="pre">terminal</span> <span class="pre">stanzas.]</span></code> D, F, K, O, and we may add P, it expresses a desire for vengeance: Hang my sister, D, F, K; Ye’ll drown my sister, as she’s dune me, O; Tell him to burn my sister, P. This is found in no Norse ballad, neither is it found in the earliest English versions. These, and the better forms of the Norse, reveal the awful secret, directly or indirectly, and, in the latter case, sometimes note the effect on the bride. Thus, in Icelandic B, the first string sounds The bride is our sister; the second, The bride is our murderer. In Danish B the first fiddle plays, The bride is my sister; the second. The bridegroom is my true-love; in C, H, the first strain is. The bride has drowned her sister, the second. Thy sister is driven [blown] to land. Faroe A, B, have: (1) The bride was my sister; (2) The bride was my murderer; (3) The bridegroom was my true-love. The bride then says that the harp disturbs her much, and that she lists to hear it no more. Most impressive of all, with its terse, short lines, is Icelandic A:</p>
+<p>There are three strings made from the girl’s hair in Icelandic A, B, English B [veins, English A], and the three tets or links in English D, E, P, I, P were no doubt taken to make three strings originally. Corresponding to this are three enunciations of the instrument in English A, B, C, Icelandic A, Faroe A,<code class="docutils literal notranslate"><span class="pre">[The</span> <span class="pre">fourth</span> <span class="pre">string</span> <span class="pre">is</span> <span class="pre">said</span> <span class="pre">to</span> <span class="pre">speak</span> <span class="pre">in</span> <span class="pre">Faroe</span> <span class="pre">A</span> <span class="pre">30,</span> <span class="pre">but</span> <span class="pre">no</span> <span class="pre">utterance</span> <span class="pre">is</span> <span class="pre">recorded,</span> <span class="pre">and</span> <span class="pre">this</span> <span class="pre">is</span> <span class="pre">likely</span> <span class="pre">to</span> <span class="pre">be</span> <span class="pre">a</span> <span class="pre">mistake.</span> <span class="pre">In</span> <span class="pre">many</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">versions,</span> <span class="pre">and</span> <span class="pre">in</span> <span class="pre">this,</span> <span class="pre">after</span> <span class="pre">the</span> <span class="pre">strings</span> <span class="pre">have</span> <span class="pre">spoken</span> <span class="pre">individually,</span> <span class="pre">they</span> <span class="pre">unite</span> <span class="pre">in</span> <span class="pre">a</span> <span class="pre">powerful</span> <span class="pre">but</span> <span class="pre">inarticulate</span> <span class="pre">concord.]</span></code> B, Swedish A, B, C, B, G, H, Danish A, D, F, I. These are reduced to two in Icelandic B, Danish B, C, H, L, Swedish D, and even to one in English D, F, I, K, O, but some of these have suffered injury towards the conclusion. The number is increased to four in Norwegian B, to five in Norwegian A, D, and even to six in Norwegian, C, K, M. The increase is, of course, a later exaggeration, and very detrimental to the; effect. In those English copies in which the instrument speaks but once, <code class="docutils literal notranslate"><span class="pre">[I</span> <span class="pre">has</span> <span class="pre">lost</span> <span class="pre">the</span> <span class="pre">terminal</span> <span class="pre">stanzas.]</span></code> D, F, K, O, and we may add P, it expresses a desire for vengeance: Hang my sister, D, F, K; Ye’ll drown my sister, as she’s dune me, O; Tell him to burn my sister, P. This is found in no Norse ballad, neither is it found in the earliest English versions. These, and the better forms of the Norse, reveal the awful secret, directly or indirectly, and, in the latter case, sometimes note the effect on the bride. Thus, in Icelandic B, the first string sounds The bride is our sister; the second, The bride is our murderer. In Danish B the first fiddle plays, The bride is my sister; the second. The bridegroom is my true-love; in C, H, the first strain is. The bride has drowned her sister, the second. Thy sister is driven [blown] to land. Faroe A, B, have: (1) The bride was my sister; (2) The bride was my murderer; (3) The bridegroom was my true-love. The bride then says that the harp disturbs her much, and that she lists to hear it no more. Most impressive of all, with its terse, short lines, is Icelandic A:</p>
 <p>The first string made response:<br />
 ‘The bride was my sister once.’</p>
 <p>The bride on the bench, she spake:<br />
@@ -2247,8 +2228,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549"></script>
 
   <footer class="bd-footer">
   </footer>
