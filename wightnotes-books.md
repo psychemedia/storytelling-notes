@@ -13,7 +13,7 @@ Mitton, G. E. (Geraldine Edith)
 1911
 https://archive.org/details/isleofwight00mittrich
 
-Isle of Wight : its churches and religious houses
+Isle of Wight: its churches and religious houses
 Cox, J. Charles
 1911
 https://archive.org/details/isleofwightitsch00coxjuoft
@@ -188,7 +188,7 @@ by Hillier, George
 1852
 https://archive.org/details/cu31924028050940
 
-Papal Rome, the foretold and foredoomed apostasy, anathematized of God : and under the ban of divine excommunication; a sermon preached in Ventnor Church, Isle of Wight, Sunday, Nov. 24th, 1850
+Papal Rome, the foretold and foredoomed apostasy, anathematized of God: and under the ban of divine excommunication; a sermon preached in Ventnor Church, Isle of Wight, Sunday, Nov. 24th, 1850
 Coleman, John Noble
 1851
 https://archive.org/details/a629414400coleuoft
@@ -248,7 +248,7 @@ Brettell, Thomas
 1840
 https://archive.org/details/atopographicala00bretgoog
 
-Vectis scenery : being a series of original and select views, exhibiting picturesque beauties of the Isle of Wight, with ample descriptive and explanatory letter-press
+Vectis scenery: being a series of original and select views, exhibiting picturesque beauties of the Isle of Wight, with ample descriptive and explanatory letter-press
 Brannon, George
 1840
 https://archive.org/details/vectisscenerybei00bran
@@ -325,7 +325,7 @@ Brewer, James Norris,
 1801
 https://archive.org/details/beautiesofenglan18brew
 
-Observations on the western parts of England, relative chiefly to picturesque beauty : to which are added, a few remarks on the picturesque beauties of the Isle of Wight
+Observations on the western parts of England, relative chiefly to picturesque beauty: to which are added, a few remarks on the picturesque beauties of the Isle of Wight
 Gilpin, William
 1808
 https://archive.org/details/observationsonwe00gilp

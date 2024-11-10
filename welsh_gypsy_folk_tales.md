@@ -51,8 +51,8 @@ SERIES I.
 11. Appy Boswell’s Grinding Barrow— A variant, p228-9
 12. How Appy Boswell’s Grinding Barrow was Sold Twice Over, p229-30
 13. Appy Boswell’s Dog: Variants, p230-1
-14. Appy Boswell’s Donkey : Variants, p232
-15. Appy Boswell’s Donkey : Another tale, p232
+14. Appy Boswell’s Donkey: Variants, p232
+15. Appy Boswell’s Donkey: Another tale, p232
 16. What Happened to Appy Boswell in a Public-House, p232-3
 17. Appy Boswell and the Conger Eel, p233
 

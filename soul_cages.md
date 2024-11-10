@@ -2,8 +2,11 @@
 
 I first came across this tale whilst searching for "tales of the sea". Starting with a cursory search on mermaids and selkies, a memory of Eddie Lenihan's telling of "The Newhall mermaid" on his *Stoyteller 1 & 2* CD collection came to mind. Trying to track that tale down by searching around *Irish mermaid*, I came across the Irish mermaid equivalent *merrow*, and from that the "Soul Cages" tale. Interestingly, the notes to the tale in the first collection to describe the story, volume 2 of Thomas Crofton Coker's *Fairy Legends and Traditions of the South of Ireland*, 1828, includes a mention of the Newhall mermaid.
 
-The tale itself appears to be "fakelore", inspired by a tale collected Grimm, but written by, and provided to, Crofton Coker, by Thomas Keightley.
+The tale itself appears to be "fakelore", inspired by a tale collected Grimm, but written by, and provided to, Crofton Coker, by Thomas Keightley, although that didnlt stop it also appearing in W. B. Yeats' [*Fairy and Folk Tales of the Irish Peasantry*, 1888, pp. 61-75](https://archive.org/details/fairyfolktalesof00yeatuoft/fairyfolktalesof00yeatuoft/page/60/mode/2up), credited to Crofton Coker.
 
+```{admonition} *The Soul Cages*, in Crofton Coker, Fairy Legends, 1828
+:class: dropdown
+https://archive.org/details/fairylegendsand04crokgoog/page/n50/mode/2up
 
 FAIRY LEGENDS AND TRADITIONS OF THE SOUTH OF IRELAND.
 PART II.
@@ -213,6 +216,18 @@ thing to be impossible, he was obliged to be satisfied.
 Their intercourse continued for several years.
 
 However, one morning, on Jack's throwing in a stone as usual, he got no answer. He flung another, and another; still there was no reply. He went away, and returned the following morning, but it was to no purpose. As he was without the hat, he could not go down to see what had become of old Coo, but his belief was, that the old man, or the old fish, or whatever he was, had either died, or had removed away from that part of the country.
+```
+
+Crofton Croker's notes to the tale, 
+```{admonition} Crofton Croker, notes, 1828
+:class: dropdown
+https://archive.org/details/fairylegendsand04crokgoog/page/n50/mode/2up
+FAIRY LEGENDS AND TRADITIONS OF THE SOUTH OF IRELAND.
+PART II.
+
+T CROFTON CROKER
+
+1828
 
 Notes pp. 52-8
 
@@ -269,35 +284,37 @@ Few need to be informed that the lower orders in Ireland, although their tone is
 "A hair of the dog that bit him," is the common recommendation of an old toper to a young one, on the morning after a debauch.
 
 "Shall we pluck a hair of the same wolf to-day, Proctor John?"—*Ben Jonson's Bartholomew Fair*, Act 1. Scene 1.
+```
 
+In a footnote at the end of his reprining of the tale, Thomas Keightley gave the origins of the story away in his *Fairy Mythology* of 1850.
 
----
+```{admonition} An honest confession, 1850
+:class: dropdown
 
-Also in:
+https://archive.org/details/in.ernet.dli.2015.219456/page/n547/mode/2up
 
-Fairy and Folk Tales of the Irish Peasantry, W. B. Yeats, 1888
-
-
---
 The Fairy Mythology: Illustrative of the Romance and Superstition of Various Countries
 Thomas Keightley, 1850
-pp 527-536
 
-A footnote at the end of the tale on p536:
+The tale *Cages*, with page header *The Soul Cages*, appears in an Appendix, at pp 527-536
+
+A footnote at the end of the tale on p536 describes the tale's origin:
 
 > We must here make an honest confession. This story had no foundation but the German legend in p. 259. All that is not to be found there is our own pure invention. Yet we afterwards found that it was well-known on the coast of Cork and Wicklow. "But," said one of our informants, "It was things like flower-pots he kept them in." So faithful is popular tradition in these matters! In this and the following tale there are some traits by another hand which we are now unable to discriminate.
+```
 
+Keightley cited a German legend as the inspiration for the tale:
+
+```{admonition} A German Legend: The Peasant and the Waterman, 1850
+:class: dropdown
+https://archive.org/details/in.ernet.dli.2015.219456/page/n279/mode/2up
+
+The Fairy Mythology: Illustrative of the Romance and Superstition of Various Countries
+Thomas Keightley, 1850
 
 p259-60
 
 The Peasant and the Waterman
 
 A Water-man once lived on good terms with a peasant who dwelt not far from his lake. He often visited him, and at last begged that the peasant would visit him in his house under the water. The peasant consented, and went down with him. There was everything down under the water as in a stately palace on the land,—halls, chambers, and cabinets, with costly furniture of every description. The Water-man led his guest over the whole, and showed him everything that was in it. They came at length to a little chamber, where were standing several new pots turned upside down. The peasant asked what was in them. "They contain," was the reply, "the souls of drowned people, which I put under the pots and keep them close, so that they cannot get away." The peasant made no remark, and he came up again on the land. But for a long time the affair of the souls continued to give him great trouble, and he watched to find when the Water-man should be from home. When this occurred, as he had marked the right way down, he descended into the water-house, and, having made out the little chamber, he turned up all the pots one after another, and immediately the souls of the drowned people ascended out of the water, and recovered their liberty. `[This legend seems to be connectec with the ancient idea of the water-deities taking the souls of drowned persons to themselves. In the Edda, this is done by the sea goddess Ran.]`
-
-
-
----
-
---- 
-
-https://en.wikipedia.org/wiki/The_Soul_Cages_(story) gives a story behind the story
+```

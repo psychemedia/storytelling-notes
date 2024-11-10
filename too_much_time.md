@@ -1,6 +1,6 @@
 # Too Much Time
 
-One upon a timne, there was *too much time*. Time was *everywhere*. Literally.
+One upon a time, there was *too much time*. Time was *everywhere*. Literally.
 
 Time followed the sun.
 
@@ -14,11 +14,11 @@ And *then* came the railways, and faster than local time travel.
 
 Now, the Sun travels across the Earth at about a thousand miles an hour: 24,000 miles or so round the Earth, 24 hours in a day, so a thousand miles an hour. Or about fifteen miles a minute.
 
-If you're walking across the country, the sound of the church bells chiming sound out at pretty much the same time all around round. But there's actually a wave of chimes, ringing out from east to west, across the country, taking just a little bit less than half an hour from the furthest point east to the fithest point west.
+If you're walking across the country, the sound of the church bells chiming sound out at pretty much the same time all around round. But there's actually a wave of chimes, ringing out from east to west, across the country, taking just a little bit less than half an hour from the furthest point east to the furthest point west.
 
 Now that's a lot faster than walking pace. Or a horse. Or even a train.
 
-But imagine though, for a minute, that you're working for the railway, the Great *Western* Railway, connecting London, with Bristol, then down to the West country, Devon, and Cornwall. You're putting together the timetables, and indulging in a little thought experiment. The early mail coaches may have travelled a little less than 10 miles an hour or so, and the first trains averaged 20-30 miles per or so, reaching 60-70 miles per hour in the 1840s. But you could probably *imagine* trains getting up to 100 miles an hour — I know that's unmimaginalby fast nowadys, but back then, it looked like it could be a *real* posibility. But what if you could get *another* ten times improvement and go 1000 miles an hour? You'd leave London at midday, and head west. You'd get to Reading at... 12 o'clock. Then on to Swindon — twelve'o'clock — and Bristol, where you'd arrive at... 12 o'clock. It would take you, quite literally, *no time* to get there at all.
+But imagine though, for a minute, that you're working for the railway, the Great *Western* Railway, connecting London, with Bristol, then down to the West country, Devon, and Cornwall. You're putting together the timetables, and indulging in a little thought experiment. The early mail coaches may have travelled a little less than 10 miles an hour or so, and the first trains averaged 20-30 miles per or so, reaching 60-70 miles per hour in the 1840s. But you could probably *imagine* trains getting up to 100 miles an hour — I know that's unmimaginbly fast nowadays, but back then, it looked like it could be a *real* possibility. But what if you could get *another* ten times improvement and go 1000 miles an hour? You'd leave London at midday, and head west. You'd get to Reading at... 12 o'clock. Then on to Swindon — twelve'o'clock — and Bristol, where you'd arrive at... 12 o'clock. It would take you, quite literally, *no time* to get there at all.
 
 ![Pages from 'The New Great Western Railway Timetable, Alteration of trains for the summer 1844'. Science Museum Group https://www.sciencemuseum.org.uk/objects-and-stories/standardising-time-railways-and-electric-telegraph](images/gwr-railwaytimetable-1844.png)
 

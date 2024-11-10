@@ -1,7 +1,7 @@
 # Finger Ring Lore
 
 https://archive.org/details/fingerringlorehi00jone_0/page/n13/mode/2up
-Finger-ring lore : historical, legendary, anecdotal
+Finger-ring lore: historical, legendary, anecdotal
 by Jones, William, F.S.A
 
 Publication date 1877

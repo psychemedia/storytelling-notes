@@ -126,13 +126,13 @@ Now it happened that among the crowd gathered about Calvary that day there was a
 
 The crucifixion proceeded, and all went well until the soldiers reached for the fourth nail to pin Our Lord's left foot to the cross. They dug and scraped the entire area, but could not find it. Now in those days a nail was not to be had by purchase in the open market. It had to be ordered to specification from a blacksmith who would pound and shape it from iron on his anvil. Since there was no time to seek out a blacksmith and wait for him to make a duplicate of the missing nail, the soldiers placed one of Our Lord's feet over the other and pounded both to the cross with a single point. This is why Christ was crucified with only three nails.
 
-Now as the Holy Father in Heaven watched over Calvary from above, he had seen the Gypsy's attempt to alleviate the sufferings of the condemned by sharpening the nails even although he also planned to steal one or more of the necessary nails from the execution spot. He knew that the Gypsy people were hopeless thieves, and that they served O Kalo Beng, the Black Devil, but He felt that He must reward anyone who tried to spare the suffering of His Son, and since the Gypsy blacksmith had used thievery to reduce the number of nails driven into Christ's body. He proclaimed that henceforward the Gypsies would be forgiven for any sins of theft. At the same time since the Gypsy blacksmith had run from the place of execution Our Father punished all Gypsies by making them foreever wanderers, never resting but constantly moving from place to place. This is why the Gypsy is nomadic even today.
+Now as the Holy Father in Heaven watched over Calvary from above, he had seen the Gypsy's attempt to alleviate the sufferings of the condemned by sharpening the nails even although he also planned to steal one or more of the necessary nails from the execution spot. He knew that the Gypsy people were hopeless thieves, and that they served O Kalo Beng, the Black Devil, but He felt that He must reward anyone who tried to spare the suffering of His Son, and since the Gypsy blacksmith had used thievery to reduce the number of nails driven into Christ's body. He proclaimed that henceforward the Gypsies would be forgiven for any sins of theft. At the same time since the Gypsy blacksmith had run from the place of execution Our Father punished all Gypsies by making them forever wanderers, never resting but constantly moving from place to place. This is why the Gypsy is nomadic even today.
 
 The second version of the same event was told by an old Gypsy of the Kaldera band named Stefano who was a gifted story teller.
 
 His version is as follows:
 
-The three soldiers set out to find a Blacksmith and pay him the ten picces of money to forge four large nails for the crucifixion. The first smith they encountered was a Jew. When they told him of their needs, he refused saying, "I will not forge nails to crucify the innocent or the insane, and Jesus of Nazareth is either truly the Son of God, or he is insane!" The soldiers became angry, for they had little time to procure the nails and return to Calvary. "Make the nails!" they ordered, but he would not, so they broke his skull with his own hammer.
+The three soldiers set out to find a Blacksmith and pay him the ten pieces of money to forge four large nails for the crucifixion. The first smith they encountered was a Jew. When they told him of their needs, he refused saying, "I will not forge nails to crucify the innocent or the insane, and Jesus of Nazareth is either truly the Son of God, or he is insane!" The soldiers became angry, for they had little time to procure the nails and return to Calvary. "Make the nails!" they ordered, but he would not, so they broke his skull with his own hammer.
 
 They traveled on a short way and found another blacksmith at his forge; this smith was a Greek. They repeated their request to him, and as before, the Greek also refused to make the nails. Now the soldiers were beginning to become afraid, for they would be punished severely if they failed in their mission, and it was very late. But in spite of their threats the Greek blacksmith would not make the nails they required, so they buried his head in his own forge and set out in search of a smith who would make their nails.
 
@@ -158,7 +158,7 @@ $93-394.
 "tapes" were tri-lingual in presentation 
 
 
-6In other languages, the Gypsy is known as Gitano, Zingaro, Ziguener, Cazigan, 
+6 In other languages, the Gypsy is known as Gitano, Zingaro, Ziguener, Cazigan, 
 
 
 
@@ -177,7 +177,7 @@ When the Centurion arrived to collect, the smith said that he had only had time 
 
 The Roman was forced to make do with what he had, securing the three victims to their crosses with only three nails apiece, thus saving them much pain.
 
-The young thief, the three nails safely hidden, passed the foot of the cross as he fled, and Jesus smiled down on him and blessed him, excusing the gypsies ever after from commiting a sin when they stole, and thus theft is not an immoral act for the Romany.
+The young thief, the three nails safely hidden, passed the foot of the cross as he fled, and Jesus smiled down on him and blessed him, excusing the gypsies ever after from committing a sin when they stole, and thus theft is not an immoral act for the Romany.
 
 However, an angry mob, discovering that the nails that executed Jesus were gypsy work, drove the smith and his kin from their land, and they have been doomed to be chased on ever since, wandering and unable to settle until the three missing nails are discovered, and their persecution ends
 
