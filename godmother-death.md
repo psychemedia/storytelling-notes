@@ -378,6 +378,27 @@ AN ORIENTAL SOURCE OF THE ICELANDIC VERSION OF "GODFATHER DEATH"
 
 ---
 
+
+https://archive.org/details/proceedingsdorse14dors/page/187/mode/1up
+
+Proceedings - Dorset Natural History and Archaeological Society
+by Dorset Natural History and Archaeological Society; Dorset Natural History and Archaeological Society. Proceedings - Dorset Natural History and Antiquarian Field Club.
+Vol. 14
+
+Publication date 1893
+
+Dorsetshire Birth, Death, and Marriage Customs and Superstitions
+
+by J. S. Udal, F. R. Hist. Soc.
+
+pp.182-200
+
+p188
+
+(iii) We have the authority of our President, Mr. Mansel Pleydell, for saying that it was sometimes the practice in his own neighbourhood of Whatcombe, near Blandford, for those in attendance on the dying person to observe which way the planks of the floor lay, and if they happened to be cross-ways with the bed they turned the person round so that he would " go with the boards."
+
+(iv.) In West Dorset it is believed that the same difficulty will be experienced if the bed upon which a dying person is lyinghappens to be placed directly under a beam. So recently as the summer of 1891 an old woman lay dying in the parish of Symondsbury, near Bridport, and, being longer in dying than was expected, several of the neighbours noticed that her bed was under a beam, and requested that the bed should be moved or " her 'ill die so hard." I am bound to say, though in this instance, thst although the bedstead was moved accordingly the poor old soul lingered on for some time afterwards.
+
 ---
 
 https://afterlifeinfairytales.blogspot.com/2009/01/in-this-lithuanian-fairy-tale-death.html
