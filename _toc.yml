@@ -44,6 +44,7 @@ parts:
   - file: press_gang
   - file: ross-may-hill-old-ellen
   - file: ross-who-killed-the-bear
+  - file: brean_down_gunner_haines
 - caption: Practice and performance notes
   chapters:
   - file: practice-on-not-sharing-digitally-pt1
