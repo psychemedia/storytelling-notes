@@ -12,6 +12,7 @@ parts:
   - file: twa-sisters-binnorie
   - file: pedlar-of-swaffham
   - file: three-sillies
+  - file: soul_cages
 - caption: As Found in "The Royal Hibernian Tales"
   chapters:
   - file: hudden_dudden
