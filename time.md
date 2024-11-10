@@ -6,7 +6,7 @@ Because time was *everywhere*.
 
 Everywhere had its own time.
 
-When *there* was near *here*, you didnlt really notice the differencem but when *there* was somewhere far off, the time could well be different. Or not. Depending on which way you had to travel to get from *here* to *there*.
+When *there* was near *here*, you didn't really notice the difference, but when *there* was somewhere far off, the time could well be different. Or not. Depending on which way you had to travel to get from *here* to *there*.
 
 When you could only travel at the speed of foot, say, four miles an hour at an even pace, you would be unlikely to travel more that 20 miles in a day. On a good day, a horse powered mail service could travel at double that rate.
 
