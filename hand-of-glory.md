@@ -1,5 +1,11 @@
 # Hand of Glory
 
+A brief report in the *Nottingham Review* of [Friday 15 March 1811](https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18110315/045/0004) records:
+
+> Last week, as some men were emplyed in lowering a hill near Nottingham gallows, they dug up more than twenty human sculls, and a number of other bones of a corresponding nature; but from there not being one entire skeleton found, from the number of limb-bones not being proportionate to the number of sculls, and from the whole being found near the srrface, it is very probbale they were taken thither at some distant period, on the lowering of one of the churchyards.
+
+Or perhaps...perhaps there was *another* reason? Because the body parts of a hanged man were often thought to have magical properties...
+
 The hand of glory is a fantastic device that can be used by thieves to keep people asleep as they go about their nefarious business. How a hand of glory is made also contains a tale. A typical telling of the hand of glory story is as follows:
 
 > It's a dark and stormy night and several travellers were gathered in a remote inn. There was a knock at the door — a beggar seeking shelter. He was welcomed in. Everyone settled down to sleep, except for the serving who had finished her chores and was struggling to to sleep. She noticed the beggar take something out of his bag - it looked like a candle in a misshapen candlestick. He lit the candle and muttered something "Let those who sleep, stay asleep". He proceeded to go through everyone's belongings. A thief. The girl went to raise a maser but he could not be woken. She went downstairs, and the robber heard her. As he tried to make his escape, she tried to douse the flame with water, with beer... ah, with milk. Folk were awoken, the robber caught and hung. The strange enchantment: a hand of glory, a candle in the hand of a dead man, cut from a corpse hanging on a gallows. In some tellings, the candle should be made from the fat of another hanged man. As a ward against the use of the hand of glory, the following is recommended: the application of an unguent composed of the gall of a black cat, the fat of a white hen, and the blood of a screech owl around the threshold of the door and other possible points of entry.
@@ -606,7 +612,7 @@ The light, as if in response to the incantation, shot suddenly up with a brighte
 
 ```
 
-A few years later, tales of the hand of glory is still filling column inches, as in the *Stockton Herald* in 1891:
+A few years later, tales of the hand of glory are still filling column inches, as in the *Stockton Herald* in 1891:
 
 ```{admonition} The Hand of Glory, Stockton Herald, 1891
 :class: dropdown
