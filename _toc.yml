@@ -1,7 +1,7 @@
 format: jb-book
 root: preface
 parts:
-- caption: Tales Told
+- caption: Some Tales Told
   chapters:
   - file: the-wish-ring
   - file: axe-porridge-stone-soup
@@ -13,6 +13,7 @@ parts:
   - file: pedlar-of-swaffham
   - file: three-sillies
   - file: soul_cages
+  - file: too_much_time
 - caption: As Found in "The Royal Hibernian Tales"
   chapters:
   - file: hudden_dudden
@@ -20,7 +21,6 @@ parts:
 - caption: Welsh Tales
   chapters:
   - file: gwion-bach
-  - file: thirteen-precious-things
   - file: bendigeidfran_branwen_second_branch
 - caption: Gipsy Tales
   chapters:
@@ -34,12 +34,13 @@ parts:
   - file: undutiful-daughter
 - caption: Tales to Tell
   chapters:
+  - file: thirteen-precious-things
   - file: molly-whuppie
   - file: hand-of-glory
   - file: macpherson
-  - file: too_much_time
   - file: brother_jucundus
-- caption: Based On Events
+  - file: mr-fox
+- caption: Based On Events - As Yet Untold
   chapters:
   - file: press_gang
   - file: ross-may-hill-old-ellen
