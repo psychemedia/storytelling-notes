@@ -1,5 +1,34 @@
 # Skimmington Ride
 
+I came across this strange custom when searching for court cases involving pubs and inns and disorderly behavior in Berrow and Burnham whilst producing story notes on the tale of Brean Down Fort and Gunner Haines.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0002627/18661229/029/0005
+The Queen - Saturday 29 December 1866
+
+ROUGH JUSTICE
+
+IN DIFFERENT COUNTRIES and at different times cert tain customs have prevailed supplying the want of a *lex scripta*. Whenever, for instance, public morality has been outraged, or domestic dissensions disturb the peace of the neighbourhood, or an incongruous marriage seems likely to turn the holy estate into ridicule, these cases, though beyond the cognisance of the law, come under the notice of a kind of Lynch law, which restrains evil-doers most effectually.
+
+In Africa Mumbo Jumbo takes upon himself the task of chastising faithless wives and tyrannical husbands, and doubtless has his hands pretty full of business; but it is of countries nearer home that I propose to speak. While travelling in the west of France, and reposing for a night in a country village, I was awoke by a most unearthly noise about midnight, the direst combination of shrieks and groans and howling that I ever heard. Hastily dressing myself, I awoke my host, an Englishman, and as he wished me to see all I could of the manners and customs of the people, we sallied out to see what was going on in the village. Guided by the demoniacal uproar, we soon reached the scene of action, and keeping under the shade of some large trees, could look on unperceived. A party of between twenty and thirty young men were amusing themselves by giving one of their neighbours a "*Charivari*." What may be tie meaning of the term I know not; but, in the present instance, the *charivari* was performed to a number of men disguising themselves in the most outlandish costumes and masks, and making night hideous with horns, and bagpipes, and drums, and all kinds of rough music. Some had donned sheep, goat, or wolf skins, heads and all; and one who appeared to be a ringleader, was disguised as a *gendarme*. They carried rude torches, which shed a fitful glare upon the motley assembly, and every now and then they recited doggrel verses in aggravation of the couple whom they had come to serenade.
+
+On inquiring how these people had incurred the anger of their neighbours, I found that the head and front of the old farmer's offending was that, although his wife had been dead only six months, he had that day married again to a young girl on his farm. Second marriages are considered highly objectionable, especially when the wife is young and the husband in the sere and yellow leaf.
+
+The continued noise and the insulting songs had the effect of aggravating the old Benedict at last to such a degree that he appeared at the bedroom window in his nightcap, with an old gun in his hand, which he threatened to fire among his tormentors if they did not disperse; but as these threats were received only with derisive shouts of *vieux cornichon*, &d., he deliberately fired into the "brown" of them, but the small shot did no harm against the thick sheepskins, and after breaking a few of the old chap's windows, the assembly went off to another parish to serenade a termagant wife.
+
+In Wales a similar custom prevails; but, at any rate in Cardiganshire, the fun is more fast and furious, for the offending party is dragged out of bed and mounted on a plank or rail, called the "ceffyl-carfan," and ridden round the village. Here also disparity of age or a second marriage excites the wrath of the populace, and a spitfire or a drunkard is pretty sure to rfide the "ceffyl," and eventually get a cooling in the parish pond.
+
+The ducking-stool is gone out of date, and the gag for unruly tongues is found only in museums; but a custom still obtains in Dorsetshire, called "Skimmington riding," which is of great antiquity and authority. It is practised whenever the morality or temper of married couples become matters of town talk, especially if the husband patiently submits to his wife’s ill conduct. On such occasions two individuals of the baser sort, one armed with a skimmer (from whence the name of Skimmington), the other with a ladle, proceed to ride round the town in a cart or on donkeys in the dusk of the evening. They are dressed to represent the obnoxious husband and wife, and are attended by a mob of followers. Arriving at the house of the parties represented, they go through a dialogue of abuse and recrimination, and belabour each other furiously with their culinary weapons as well as their tongues. The parties who parade the streets with the principal performers sweep with besoms the doorsteps of those who are likely to require a similar visitation.
+
+Our readers will remember that Hudibras meets a Skimmington, canto ii, 685, and mistakes it for a religious procession:
+
+Quoth Ralpho, you mistake the matter,  
+For all the antiquity you smatter  
+Is but a riding used of course,  
+When the grey mare’s the better horse, &c.
+
+Sir Walter Scott says that "a similar ritual of popular interference prevailed in his time in Scotland, in case of gross scandal, or nuptial transgressions and public quarrels in a household. It was called 'riding the stang,' the peccant party being seated across a pole (or stang) in no very comfortable position."  
+J. H.
+
 
 ```{admonition} Skimmington Riding
 :class: dropdown seealso
@@ -64,7 +93,16 @@ Susan Mears, one of the defendants in the last case was also charged with using 
 
 ```
 
-```{admonition}
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000265/18460425/035/0007
+Western Times - Saturday 25 April 1846
+
+Wellington.— *Faux Pas* —An amorous son of St. Crispin, and the frail spouse of a respectable man, were, on Sunday evening last, discovered in a wood not far from this town, studying nature, as they declare, but in very questionable manner. "A Skimmington Procession" is talked of, and it not unlikely that legal proceedings will place the erring party in a very considerable quandary.
+
+
+
+```{admonition} TO DO
 :class: dropdown seealso
 https://britishnewspaperarchive.co.uk/viewer/bl/0002470/18960125/051/0005
 Central Somerset Gazette - Saturday 25 January 1896
@@ -90,7 +128,7 @@ Susan Mears, one of the defendants in the last case, was also charged with using
 ```
 
 
-```{admonition}
+```{admonition}  TO DO
 :class: dropdown seealso
 https://britishnewspaperarchive.co.uk/viewer/bl/0001334/18960125/172/0006
 Weston Mercury - Saturday 25 January 1896
@@ -120,6 +158,156 @@ At the Highbridge petty sessions, on Monday, Alice Ellis and Susan Mears, marrie
 
 ```
 
+```{admonition} *Not* Skimmington Riding, Devon, September, 1837
+https://britishnewspaperarchive.co.uk/viewer/bl/0000265/18370916/011/0003
+Western Times - Saturday 16 September 1837
+
+EXETER POLICE.
+
+GUILDHALL, SATURDAY, SEPTEMBER 9.
+
+Skimmington Riding.—Every Devonian what a skimmington march is. As our paper is filed at the *British Museum*, for the especial enlightenment of future generations, from Queen Victoria's great grandson, even to the verge of the long vista of sovereigns which our prophetic eye traces out, as the extent of her race —we, having an eye to posterity, shall describe it at sufficient length to enable respectable antiquarian chroniclers of the future olden times to understand all its technicalities.
+
+In all ages and climes the condition of wedlock has ever been fenced round with certain privileges and distinctions. A breach of that sacred condition, or infringement of its rites, has invariably entailed on the culprit condign punishment or death. The laws of barbarous people generally inflict summary chastisement if not actual execution: the most refined are content with a simple action for damages, and as much money as the matter injured was supposed to be worth in a sound state. In Eogland fashionable people go to law, and unfashionable people to loggerheads. But this is not skimmington riding. Well, then, here it is. In Devonshire, when a couple, not married to each other, but belonging to the married portion of the community are caught in *flagrante delicto*, the virtuous neighbours, in order to avenge the wounded honour of the respective sufferers, attached to the delinquents, get two persons dressed to imitate the garb of the wicked ones, and mounting them back to back on one donkey, parade them through the neighbourhood which has been shocked by the discovery of such unusual wickedness. The neighbours all open their doors and windows—jealous wives bring out their husbands by way of premonitory caution, and suspected wives are reminded that "if every woman as deserved that 'ere sort of elevation was mounted on donkey's back, Jerusalem ponies would be better occupied than in carrying greens." The "riding" is accompanied by a band of rough music—the swain is decorated with a pair of gilt ram's horns, and the cap of the faithless fair one is bedigbt with a goodly bunch carrots. As they proceed along they are admonished by the elders of the neighbourhood against their faithless wickedness—the matrons advising the male delinquent, and the fathers rebuking the lady. After the tour of the whole neighbourhood has been completed, the criminals are brought back to the scene of their guilt, and the young people of the district solemnly instructed as to the nature of the offence, are duly admonished of the consequence; and Mr. Ram and Mrs Carrots are both dismissed to their several homes to receive that domestic retribution, which if it will not cure the sinner, he may be safely pronounced incorrigible. ...
+```
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000267/18350718/009/0002
+Exeter and Plymouth Gazette - Saturday 18 July 1835
+
+Our worthy friends, "The Grecians," of the famed "parish" of St. Sidwells, who are not often behind-hand in forwarding a lark, on Friday last got up a good practical joke on two Benedicts, who were supposed to have offended against the laws of conjugal fidelity,;— indeed they revived the old and now nearly obsolete practice of "Skimmington," which was in vogue in less refined times, as a mode of punishing, or holding up to contempt, without having recourse to law, those guilty of such immoral offences. A procession was accordingly formed in the foliowing order:—A number of lads with their faces blackened, performing most humorous choruses on old tin kettles; a man with a black face, carrying a pole, on the top of which was placed a large pair of rams' horns, suitably painted and ornamented; then followed a donkey, (always a prominent character in those cavalcades) led by a man with a black face, there being mounted on the animal two men, one attired in the garb of the fair sex, forthe purpose of representing the parties chargd with the offence; a rabble of men and boys brought up the rear. and as the pair on the donkey acted a battle at intervals, the crowd set up sundry jeers, groans, and howlings, which, togetber with the music from the tin kettles, produced an effect beyond our powers of description. Having paraded a certain neighbourhood, and continued this farce for about half-an-hour, the procession broke up, in good order, luckily escaping the police.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0003054/18770420/026/0003
+Blandford and Wimborne Telegram - Friday 20 April 1877
+
+CRANBORNE. PETTY SESSIONS, Thursday.—Before Lord Alington, Mr. Hector Monro, Mr. Henry F. Brouncker, and Mr. G. O. Churchill. 
+
+...
+
+Wiliam Elliott, George Ryman, Henry Ridout, Charles Thorne, James Stevens, John Shergold, Frederick Frampton, George Brewer, William Wicks, Jasper Weeks, Levi Lane, and James Read, all of Handley, were summoned by the police, for wilfully obstructing the highway at the same place on the 28th ult., and for committing a breach of the peace. Mr. Atkinson appeared for the defendants. The Deputy Chief Constable said he should be able to prove that the defendants with divers other persons, assembled on the highway, for the purpose of carrying out the silly practice of what was commonly called "skimmington riding," and the object of bringing them before the Bench, was to prevent a repetition, which might lead to a serious breach of the peace. Mr. Atkinson said in order to save the time of the Bench, the first 10 defendants would plead guilty, and as there seemed to be some mistakes with regard to Lane and Read, they were allowed to go quiet, the other defendants were severely cautioned, and fined 6d. each, and the costs 2s. 4d. each, amounting in the whole to £1 8s 4d.
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000406/18631114/025/0006
+Western Gazette - Saturday 14 November 1863
+
+County Police, November 5.—(Before John Hussey. Esq.)— George Bastable and Luke Ayles, of Marnhull, were summoned at the instance of Superintendent Hammond, for committing a breach of the public peace, at Marnhull, on the evening of the 27th ult. It appeared from the evidence of Police-constable Freeman, that the defendants were at the head of large mob, who had turned out for the purpose performing that silly and disgraceful practice called "skimmington riding," and noise and uproar continued in the street for upwards of an hour. The defendants were unable to make any defence, and magistrates called upon them to enter into their own recognizances in £5, to keep the peace for six momths.
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0004576/18910418/035/0002
+Stalybridge Reporter - Saturday 18 April 1891
+
+SOME MARRIAGE CUSTOMS OF THE BRITISH ISLES.
+
+Hogarth, in his delineation of the "Marriage of the industrious apprentice to his master's daughter," has introduced a set of butchers with marrow bones and cleavers who have pushed aside the legitimate musicians. The custom in question was an old institation of London, and essentially connected with the marriage ceremony. A set of butchers' men having armed themselves with cleavers and marrow bonee, assembled in front of the house containing the married party and performed a sort of rude serenade in the expectation of a fee of requital for their music. The cleavers were generally ground to produce a certain note, and a band of eight produced a complete octave. When fair skill was shown this series of notes would have as fine effect as a peal of bells. The performers were generally neatly dressed in blue sleeves and aprons, each with a portentous wedding favour of white paper in his breast or hat. A merry, roogh affair it was, and not always relished by the party in whose honour it was designed, and sometimes when a band of musicians came upon the scene at the same time, or a party of youngsters would interfere with pebbles rattling in tin cannisters, thus throwing a sort of burlesque on the performance, a few blows would sometimes be interchanged. Yet marrow bones and cleavers seldom failed to diffuse good humour throughont the peighbourhood. The custom is still kept up at a butcher's marriage.
+
+In Lincolnshire rantanning used to be in force. Whenever a wife had beaten her husband a geenral assembly took place, of roughs with bones and cleavers, tin-cans and sticks, pokers and shovels, and amidst the general din occasioned by these instruments they sang the following doggrel:—
+
+Ran-tan. the old tin can,  
+Mrs. Brassy-faced woman has beaten her man.
+
+When the husband had beaten his wife it was customary to procure and old saddle crupper, to tie up some straw in it, and fasten it to the door or window of the offenders dwelling. The custom of rantanning used also to prevail in the West Riding of Yorkshire and some parts of Lancashire. It was customary in Lancashire, when lovers were caught courting on a Friday night, for their neighbours to turn out with frying pans, on which they performed with rolling pins, whilst the abashed lovers slunk away. The custom was evidently to remind the female that Friday was "cleaning up" night. Rantanning was also used when a man or woman was supposed to be unfaithful, and the straw effigy of the offender, seated on a pole, was carried about the streets. The custom of rantanning was also in vogue in Berkshire and Wiltshire under the name of "rough musicing." In Dorsetshire it is called stanging, or skimmington riding. Two men, personating a quarrelsome couple, and seated on a ladder, are borne on the shoulders of five or six of the crowd, amid the rattliog of tin kettles, before the house of some peace-breaking couple, where a mimic quarrel of the unhappy pair is rehearsed for the edification of the crowd.
+
+In the year 1600 the Court Leet of Manchester passed a law that no minstrel should play within the town at weddings, that did not belong to the waits of the town, under a penalty of 3s. 3d.; and thirty-seven years before this it ordered that no person should payabove fourpence at any wedding dinner, under a penalty of 6s. 3d.
+
+...
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000060/18910502/028/0009
+Glasgow Herald - Saturday 02 May 1891
+
+SOME OLD LANARKSHIRE CUSTOMS.
+
+No. II.
+
+...
+
+... Forsyth in his "Beauties of Scotland," published in 1805, alludes to a certain ancient custom as being occasionally practised at Biggar about his time. This was *Ridinq the stang*, corresponding in purpose to the Skimmington riding in the southern counties of Eoglazd. The object of both practices was to bring discredit on those who had made themselves obnoxious to the community. Riding the stang was indeed a kind of lynching. When a man acquired the reputation of maltreatitg his wife, the females of the place, in their indignation, took the law into their own hands. Forsyth thus describes the practice:-"All the women enter into a conspiracy to execute vengeance upon the culprit. Having fixed upon the time when their design is to be put into effect, they suddenly assemble in a great crowd, and seize the offending party. They take care at the same time to provide a stout beam of wood, upon which they set him astride, and, hoisting him aloft, tie his legs beneath. He is thus carried in derision round the village, attended by the hootings, scoffs, and hisses of his numerous attendants, who pull down his legs, so as to render his seat in other respects abundantly uneasy."
+
+In some parts of the country the offender was punisbed vicariously, another person representing him being made to ride the stang. In this case the name of the real offender was proclaimed, in order that the public indignation might be directed to the proper quarter. Though Forsyth does not say so, this riding the stang for another may have been occasionally practiced at Biggar. The doctrine that the offence should be punished in the person of the offeder seems hoever to have been usually acted upon. Andrews in his recently published "Old Time Punishments," mentions that the inhabitants of Northallerton, in Yorkshire, had recourse to the ceremony as late as 1887. In Wales the custom was called *Riding the ceffyl press*, i.e. wooden horse. It has been revivied in the Principality within recent years. ...
+
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0003516/18840315/061/0006
+North British Advertiser & Ladies' Journal - Saturday 15 March 1884
+
+TO DO
+
+RIDING THE STANG.
+
+AN OLD YORKSHIRE CUSTOM.
+
+The ancient custom of riding the stang still lingers in some of the remote parts of Yorkshire. Holding delinquents up to ridicule was a favourite mode of punishment practised by our forefathers, and riding the stang was the means generally employed for punishing husbands who beat their wives, or allowed themselves to be henpecked, or if their conduct was profligate or licentious. There are various designations for the custom:— In our own county riding the stang is the name used; in Scotland the same term is applied; in the south of England skimmington riding is the title generally employed, on the Continent it is known by other appellations.
+
+The mode of carrying out the ceremony is as follows:— A man, having beaten his wife, the young men of the assume the attitude of public censors, arrangements are made for riding the stang three nights in succession. A trumpeter blows his horn loud and long as day gives way to night, and the viilagers are brought together. A pole or a ladder is procured, and the most witty man of the village is placed thereon, mounted shoulder high, and carried in great state through the streets. In one hand he has a large key or stick, and in the other a dripping-pan, and leads the music of the crowd, Men, women, and children join in the fun, and beat kettles, pans, pots, or anything else that will make a noise, tin whistles, horns and trumpets are blown, the noise produced being better imagined than described. As soon as all is ready a start is wade, and about every fifty yards the procession stops, and the mounted man proclaims at the top of his voice a rhyme suited to the nature of the offence, somewhat as under:— 
+
+Ran, tan, tan; ran, tan, tan,  
+To the sound of this pan; 
+This is to give notice that Tom Trotter  
+Has beaten his good wo-man!  
+For what, and for why?  
+‘Cause she ate when she was hungry,  
+And drank when she was dry.  
+Ran, tan, ran, tan, tan;  
+Hurrah—hurrah! for this good wo-man!  
+He beat her, he beat her, he beat her indeed,  
+For spending a penny when she had need.  
+He beat her black, he beat her blue;  
+When Old Nick gets him, he'll give him his due;  
+Ran, tan, tan; ran, tan, tan;  
+We'll send him there in this old frying-pan;  
+Hurrah—hurrah! for his good wo-man!  
+
+Here is another version of the rhyme jotted down in upper Wharfedale:—
+
+Heigh dilly, how dilly, heigh dilly dang.  
+It’s naether for thy part nor my part  
+That I ride the stang,  
+But it is for Jack Solomon  
+His wife he does bang;  
+He bang’d her, he bang’d her,  
+He bang’d her indeed;  
+He bang’d t’ poor woman,  
+Though shoo stood him na need,  
+He naether tuke stick, staen, wire, nor stower,  
+But he up wi’ a besom and knocked her ower,  
+So all ye good nahbers, who live in this row,  
+I pray ye tak warning for this is our law;  
+And all ye cross husbands Who do your wives bang,  
+We'll blow for ye t’ horn,  
+And ride for ye t’ stang,  
+Hip, hip, hip, hurrah.
+
+The house of the culprit is visited several times each night, and the proceedings kept up three nights in succession, and a circuit of the church is also made, as it is believed that those taking part in the ceremony will not be amenable to the law. If the offence is a very serious one, the offender is burnt in effigy before his own door. In the olden days, the culprit himself was often compelled to ride the stang.
+
+Several of the old poets refer to this ancient usage. Allan Ramsay, in his poems published in 1721, says:—
+
+They frae a barn a kaber raught  
+Ane mounted wi’ a bang,  
+Betwisht twa’s shoulders, and sat straught  
+Upon’t, and *rade the stang*  
+*On her* that day.
+
+Mr George Roberts, of Lyme Regis, forwarded to Sir Walter Scett some interesting notes on skimmington riding. He wrote Sir Walter, that in the south of England— "About dusk two individuals, one armed with a skimmer and the other with a ladle, come out of some obscure street attended by a crowd, whose laughter, huzzas, &c., emulate the weil-known *charivari* of the French. The two performers are sometimes in a cart, at other times on a donkey; one personating the wife, the other the husband. They beat each other furiously with the culinary weapons above described, and, warmed by the applause and presence of so many spectators (for all turn out to see a skimmington), their dialogue attains a freedom, except using surnames, only comparable with their gestures. On arriving at the house of the parties represented in this moviog drama, animation is at its height: the crowd usually stay at the spot some minutes, and then traverse the town. The performers are remunerated by the spectators: the parties who parade the streets with the performers sweep with brooms the doors of those who are likely to require a similar visitation."
+
+In Butler's "Hudibras" considerable attention is paid to the custom. We conclude with a few of his lines:—
+
+And now the cause of all their fear  
+By slow degrees approached so near,  
+Of horns, and pans, and dogs, and boys,  
+And kettle-drums, whose sullen dub  
+Sounds like the hooping of a tub; . . .  
+And followed with a world of tall-lads,  
+That merry ditties troll’d, and ballads. . . .  
+Next pans and kettles of all keys,  
+From trebles dows todouble base: . . .  
+And at fit periods the whole route  
+Set up their throats with clamorous shout.
+
+—From the Yorkshire Illustrated Monthly for March.
+
+
+---
+
+
+cf. wife selling
 
 ??? Bridget Cleary?? Skimmington Riding
 
