@@ -2,10 +2,66 @@
 
 I couldn't help but come across this whilst inspecting old indexes of *Notes & Queries*, there are some many references to it...
 
+https://en.wikisource.org/wiki/Portal:Notes_and_Queries#Series_1
+
+1st S. ii. 217.; vii. 429. 602. ; viii. 43. 209.
+
+---
+
+1st S. ii. Aug 31, 1850, p217.
+
+Wives, Custom of Selling. -Has there ever been any foundation in law for the practice of selling of wives, which our neighbours the French persist in believing to be perfectly legal and common at the present day? What was the origin of the custom?
+
+An amusing series of " Notes" might be made, from instances in which the custom is introduced as characteristic of English manners, by French and other foreign writers. G. L. B.
 
 
-TO DO? 3rd series: Wife-selling at Birmingham, ii. 186; notes on, iii. 486; iv. 324, 450; its origin x. 29
+https://archive.org/details/notesqueries07londuoft/notesqueries07londuoft/page/428/mode/2up
+Ist S. vii.,  no. 183, April 30, 1853 , p429-30
 
+Selling a Wife. — What is the origin of the popular idea, that a man may legally dispose of his spouse by haltering her, and exposing her for sale in a public market? Some time ago the custom appears to have been very prevalent; and only a few months back there was a paragraph in The Times, describing an occurrence of the kind at Nottingham.
+
+French romancers and dramatists have seized upon it as a leading trait of English society; and in their remarkably-faithful delineations of English life it is not unusual to find the blue-beard milord Anglais carting milady to Sinithfield, and enlarging upon her points in the cheap-jack style to the admiring drovers. V. T. STEBNBERG
+
+
+https://archive.org/details/notesqueries07londuoft/notesqueries07londuoft/page/602/mode/2up
+Ist S. vii.,  no. 190, June 18, 1853 , p602
+
+SKI-LING A WIFE.
+
+(Vol. vii., p. 429.)
+
+The popular idea that a man may legally dispose of his wife, by exposing her for sale in a public market, may not improbably have arisen from the correlation of the terms buying and selling. Your correspondent V. T. STERNBERG need not be reminded how almost universal was the custom among ancient nations of purchasing wives; and he will admit that it appears natural that the commodity which has been obtained "per aes et libram" — to use the phrase of the old Roman law touching matrimony — is transferable to another for a similar consideration, whenever it may have become useless or disagreeable to its original purchaser. However this may be, the custom is ancient, and moreover appears to have obtained, to some extent, among the higher orders of society. Of this an instance may be found in Grimaldi's *Origines Genealogies*, pp. 22, 23. (London, 1828, 4to.) The deed, by which the transaction was sought to be legalised, runs as follows :
+
+"To all good Christians to whom this writ shall come, John de Camoys, son and heir of Sir Ralph de Camoys, greeting: Know me to have delivered, and yielded up of my own free will, to Sir William de Payne, Knight, my wife Margaret de Camoys, daughter and heiress of Sir John de Gatesden ; and likewise to have given and granted to the said Sir William, and to have made over and quit-claimed all goods and chattels which the said Margaret has or may have, or which I may claim in her right; so that neither I, nor any one in my name, shall at any time hereafter be able to claim any right to the said Margaret, or to her goods and chattels, or their pertinents. And I consent and grant, and by this writ declare, that the said Margaret shall abide and remain with the said Sir William during his pleasure. In witness of which I have placed my seal to this deed, before these witnesses : Thomas de Depeston, John de Ferrings, William de Icombe, Henry le Biroun, Stephen Chamberlayne, Walter le Blound, Gilbert de Batecumbe, Robert de Bosco, and others."
+
+This matter came under the cognisance of Parliament in 1302, when the grant was pronounced to be invalid.
+
+Now, we may fondly believe that this transaction, which occurred five hundred and fifty years ago, was characteristic alone of that dark and distant period, and that no parallel can be found in modern imes (at least in a decent class of society, and recognised by legal sanction) to justify the lively French dramatists in seizing upon it as a trait of modern English manners. A transaction, however, came before the public eye a month or two ago, which, should you think the following record of it •worth preservation as a "curiosity of legal experience," may lead your readers to a different conclusion :
+
+"A young man, named W. C. Capas, was charged at the Public Office, Birmingham, Jan. 31, 1853, with assaulting his wife. The latter, in giving her evidence, stated that her husband was not living with her, but was 'leased' to another female. Upon inquiry by the magistrate into this novel species of contract, the document itself was produced in court, and read. It ran as follows:
+
+'Memorandum of agreement made and entered into this second day of October, in the year of our Lord 1852, between William Charles Capas, of CharlesHenry Street, in the borough of Birmingham, in the county of Warwick, carpenter, of the one part, and Emily Hickson, of Hurst Street, Birmingham aforesaid, spinster, of the other part. Whereas the said William Charles Capas and Emily Hickson have mutually agreed with each other to live and reside together, and to mutually assist in supporting and maintaining each other during the remainder of their lives, and also to sign the agreement hereinafter contained to that effect: now, therefore, it is hereby mutually agreed upon, by and between the said William Charles Capas and Emily Hickson, that they the said, &c., shall live and reside together during the remainder of their lives, and that they shall mutually exert themselves by work and labour, and by following all their business pursuits, to the best of their abilities, skill, and understanding, and by advising and assisting each other, for their mutual benefit and advantage, and also to provide for themselves and each other the best supports and comforts of life which their means and income may afford. And for the true and faithful performance of this agreement, each of the said parties bindeth himself and herself unto the other finally by this agreement, as witness the hands of the said parties, this day and year first above written."
+
+Here follow the signatures of the consenting parties. The girl Hickson was examined, and admitted that she had signed the document at the office of a Mr. Campbell, the lawyer (!) who prepared it, and that his charge for drawing up the same was, she believed, 1l. 15s. The latter promised her, at the same time, that if the wife of Capas gave her any annoyance he would put in that paper as evidence. The magistrates, considering the assault proved, fined Capas 2s. 6d., and "commented in very strong terms on the document which had that day been brought before them." (See Birmingham Journal, Jan. 5th, 1853.) Has a similar transaction come before the notice of your correspondents?
+
+I may add that we are informed by the Birmingham Argus for March, 1834, that in that month a man led his wife by a halter to Smithfield Market in that town, and there publicly offered her for sale. WILLIAM BATES. 
+Birmingham.
+
+https://archive.org/details/notesqueries08londuoft/notesqueries08londuoft/page/43/mode/2up
+Ist S. viii, no. 193, July 9, 1853 p43
+
+Selling a Wife (Vol. vii., p. 602.).— A case of selling a wife actually and *bona fide* happened in the provincial town in which I reside, about eighteen years ago. A man publicly sold his wife at the market cross for 15l.: the buyer carried her away with him some seven miles off, and she lived with him till his death. The seller and the buyer are both now dead, but the woman is alive, and is married to a third (or a second) husband. The legality of the transaction has, I believe, some chance of being tried, as she now claims some property belonging to her first husband (the seller), her right to which is questioned in consequence of her supposed alienation by sale ; and I am informed that a lawyer has been applied to in the case. Of course there can be little doubt as to the result.
+
+Sc.
+
+https://archive.org/details/notesqueries08londuoft/notesqueries08londuoft/page/209/mode/2up
+Ist S. viii, no. 200, Aug 27, 1853 p209
+
+Selling a Wife (Vol.vii., pp. 429. 602.). — There can be no question that this offence is an indictable misdemeanor. I made, at the time, a memorandum of the following case :
+
+"West Riding Yorkshire Sessions, June 28, 1837. Joshua Jackson, convicted of selling his wife, imprisoned for one month with hard labour."  
+S. R.  
+Chiswick
 
 https://archive.org/details/notesandqueries07albugoog/page/420/mode/2up?q=%22wife+selling%22
 2nd S. no. 21, May 24, 1856, p420
@@ -45,6 +101,12 @@ Very quaint all this certainly is, and an admirable paragraph Mr. Froude would h
 
 K. P. D. E.
 
+
+https://archive.org/details/s3notesqueries04londuoft/page/324/mode/2up?q=%22wife+sale%22
+3rd S. IV. OCT. 24, 1863, p324
+
+WIFE SALE. — Some twenty-two years ago a working man living in Gloucester, finding that his wife, with whom he had lived uncomfortably a long time, had been unfaithful to him, obtained an interview with her paramour, to whom he agreed to sell her. Accordingly on the following Saturday (market day), attired in a black gown and a new white bonnet, with a halter round her neck, the frail wife was led by her husband into the market, where, it seems, a sort of auction was got up, and the woman, who was a consenting party to the transaction, was sold to her paramour for half a crown, the money being duly paid down by the "purchaser," who then led the woman away. I believe these particulars, as related to me by an eye-witness of the extraordinary (for so it was) occurrence are perfectly credible. The most singular part of the occurrence remains to be mentioned. The woman, it is averred, proved an excellent manager to her second lord, who frequently congratulated himself on his "bargain." It is possible that the woman is still living, but both the men are dead.  
+F. G. B.
 
 https://archive.org/details/notesqueries33unse/page/486/mode/2up?q=%22wife+selling%22
 3rd S. III. JUNE 20, 1863, no. 77, p486
@@ -316,6 +378,19 @@ It will thus be seen that one at least of the two women who were sold fetched mo
 A. J. M.
 
 
+https://archive.org/details/s7notesqueries12londuoft/page/24/mode/2up
+7th S. xii.  July 11, 1891, p24-5
+
+SMITHFIELD.— French travellers, when describing the moral and social aspects of England, rarely forget to inform their readers that it is customary in this country for men to sell their wives, like any ordinary chattle, in open market — a fact (for fact it appears to be) that we one and all repudiate. The following paragraph appeared in the part of the Wellington Journal published June 6:—
+
+"A WIFE SOLD IN A HALTER.— On Monday, at Wakefield, in a case in which Samuel Eccles, a miner, of Allerton-Bywater, was summoned for the maintenance of his child, it was stated that defendant and his wife had been separated since June, 1887, and that the woman was sold in a halter in the Borough Market Hotel, Wakefield, for half a guinea, and went away with another man."
+
+As a pendant to this I transcribe the following account from the Lady's Magazine for 1816:—
+
+"SMITHFIELD BARGAIN. — One of those scenes which occasionally difgraco even Smithfield, lately took place there— namely, a man exposing his wife for sale. Hitherto we have only seen those moving in the lowest classes of society thus degrading themselves, but the present exhibition was attended with some novel circumstances. The parties, buyer and seller, were persons of property. The lady (the object of sale), young, beautiful, and elegantly dressed, was brought to the market in a coach and exposed to the view of her purchaser, with a silk halter round her shoulders, which were covered with a rich white lace veil. The price demanded for her in the first instance was eighty guineas, but that inally agreed on was fifty guineas, and a valuable hone upon which the purchaser was mounted. The sale and delivery being complete, the laDy with her new lord and master mounted a hand ome curricle which was waiting for them, and drove off, seemingly nothing loth to go. The purchaser in the present care is a celebrated horse-dealer in town and the seller a grazier of cattle residing about six miles from London. The intention of these disgusting bargains in to deprive tbe husband of any right of prosecution for damages."
+
+C. A. WHITE. Preston on the Wild Moors, Salop.
+
 
 
 https://archive.org/details/s8notesqueries06londuoft/page/120/mode/2up?q=%22wife+selling%22
@@ -324,10 +399,45 @@ https://archive.org/details/s8notesqueries06londuoft/page/120/mode/2up?q=%22wife
 EDWARD PEACOCK. ("Wife Selling"). — See 7th S. xii. 24.
 
 
+https://archive.org/details/s10notesqueries09londuoft/s10notesqueries09londuoft/page/206/mode/2up
+10 S. ix. MARCH 14, 1908, p207
+
+"T' WIFE BAZAAR." — This, it would appear from Lady Catherine Milnes Gaskell's ' Prose Idyls of the West Riding' (p. 198), is the outcome of
+
+"'a belief amongst the miners that it is lawful nough, in their own phrase, ' to sworp wives month o' May, and chose afresh for a whole year,' provided, as they put it, 't' other chap's wullin, and chap s missus wull go also.'"
+
+I have read of wife-sales taking place in Yorkshire and elsewhere, and I think the legality of such transactions was maintained by some of my father's women-servants; but the privilege of "t' Wife Bazaar" is, as far as I am concerned, quite a latter-day revelation, and I am surprised that I have been left so long in ignorance. It appears that a contract is drawn up between the exchanging parties, who sign it at a public-house amid many witnesses and much feasting. That being over, the already wedded bridegrooms often bestow the gift of trinkets on their second-hand brides, whom they now maintain, together with the "childers" of the former union, should the agreement run to that effect. I did not know that "childers" could be found in any dialect; but Lady Catherine Milnes Gaskell uses it throughout her book. ST. SWITHIN.
+
+https://archive.org/details/s10notesqueries09londuoft/s10notesqueries09londuoft/page/416/mode/2up
+10 S. ix. MAY 23, 1908, p416
+
+" T WIFE BAZAAR": "CHILDERS " (10 S. ix. 207). — In The Home Counties Magazine, iv. 28, in an article entitled 'Notes on a Custom at Woking,' mention is made of a somewhat similar custom, lasting well into the last century, to that which has astonished ST. SWITHIN. The chief difference, apparently, is that it was the custom of the cottagers at Woking to exchange wives once a week, instead of once a year. The author declares that
+
+"as morality is commonly understood, the district was a peculiarly good one, erring, if anything, on the side of narrow-mindedness;"
+
+and he remarks in conclusion:—
+
+"I venture to think that this is probably as important and complete an instance of the survival of the institution known as tribal marriage as can be found at the same period within the British Isles."  
+ALAN STEWART.
+
+I have never heard of such a "bazaar," but the "sellin'" and "swappin'" of wives amongst miners and others has often been noted in the newspapers in several Midland counties. This disposal or exchange of wives is not nearly so frequent as was the case, and those engaging in the transactions never seemed to doubt about their right to do so. The transactions usually took place at public-houses, and wives have been led the exchange with halters round their necks. In this, however, there is nothing new.  
+THOS. RATCLIFFE.  
+Worksop.
+
+I have heard "childer" used here as the Plural of "child," but not "childers."  
+R. B——R.  
+South Shields.
+
+ST. SWTTHIN will find the word "childer" in common use in the West Riding of Yorkshie. I see it occurs in Hartley's 'Clock Almanac' for 1903, a pamphlet which happens to be at my elbow. Fifty years or so ago a very popular pit-song terminated with a refrain that ran: —
+
+Come home! Come home to yer *childer* and me!  
+L HARRY HEMS.  
+Fair Park, Exeter.
+
 https://archive.org/details/s10notesqueries10londuoft/s10notesqueries10londuoft/page/118/mode/2up?q=%22wife+selling%22
 10 S. X, Aug 8, 1908, p118
 
-"T WIFE BAZAAR" (10 S. ix. 207, 416). — There is an article of some length on wife-selling in the *Daily Mail* of 1 March, 1899. It is quoted, along with extracts from other newspapers, by Prof. Knapp in the notes to his edition of 'The Romany Rye,' p. 384.
+"'T WIFE BAZAAR" (10 S. ix. 207, 416). — There is an article of some length on wife-selling in the *Daily Mail* of 1 March, 1899. It is quoted, along with extracts from other newspapers, by Prof. Knapp in the notes to his edition of 'The Romany Rye,' p. 384.
 
 ALEX RUSSELL. Stromness, Orkney.
 
@@ -476,7 +586,7 @@ Aberdeen Weekly News - Saturday 04 June 1881
 
 *And appearing widely in Scottish newspapers*
 
-WIFE SELLING IN ENGLAND. There - are some British manners and customs which are a puzzle to foreigners, whose ways are not as our ways, and the method in whose madness is rather different from ours. Some of those social problems which we as a nation present to people at a distance are undoubtedly based upon misapprehension as to John Bull and his domestic habits. It is a deep-rooted idea in the minds of our foreign neighbours, for instance, that Englishmen have a most unaccountable tendency to commit suicide, and that the month of November is the period most commonly selected for executing the "happy despatch." Another common notion is that Englishmen, when tired of their better halves, have a short and summary mode of getting rid of them. Putting a halter round the neck of the spouse who has become burdensome to her lord and master, she is led to Smithfield, or any other market where live stock is usually disposed of, and sold for what she will fetch, just as if she were a horse or a pig, the prices commonly current in these transactions being such trifling considerations as a shilling or a pot of beer. It is a fact which is beyond dispute that Englishmen are occasionally rendered so wretched and desperate by the force of circumstances that they are driven to that last resort of the hopeless—self-destruction, but it is assuredly far from being the case that a suicidal tendency can be regarded as a national characteristic. Again, it is a melancholy truth that at wide intervals a man is to be found so lost to all proper feeling as to be prepared to barter his wife in the manner just indicated, and who may perhaps feel that, in receiving a good swig of the English national beverage in exchange for a conjugal partner of whom he has become tired, he has had the best of the bargain. Such an occurrence does seem to have actually occurred recently at Sheffield; and it illustrates the very varied character of the matters with which Parliament is expected to deal, even at a time when Imperial questions of a very important nature are urgently pressing for legislation, that this alleged sale of a wife should have been brought under the notice of the Home Secretary, for the ostensible purpose of having the impression removed that this was a legitimate transaction. Of course it was an Irish Member who took the matter up—one of those irrepressible obstructives who are ever on the alert to bring up any conceivable thing that may have the effect of wasting precious time, and diverting the attention of Parliament from the more important business that presses upon it. Irish representatives do not find enough to engage their attention in the grievances of their own unhappy countrymen, but must also concern themselves in removing erroneous impressions that prevail among their Saxon brethren as to what are and what are not legitimate transactions. Probably Mr Sullivan thought that the calling attention to this Sheffield bargain might lead to one of these amusing episodes which Hibernian Members furnish in such abundance to the present Parliament. If this was his expectation, however, he must have been disappointed, as tho reply of Sir Wm. Harcourt to the question put was brief and pointed, and practically disposed of the matter without leaving an opportunity for further discussion. There was even a tone of severe and well-merited rebuke in the remark with which the Home Secretary closed his reply, that the matter was "unworthy the attention of the House, and the suggestion in the question was an Attempt to cast an undeserved slur upon the nation." This was undoubtedly the tendency which the asking of so silly a question would have, 
+WIFE SELLING IN ENGLAND. There are some British manners and customs which are a puzzle to foreigners, whose ways are not as our ways, and the method in whose madness is rather different from ours. Some of those social problems which we as a nation present to people at a distance are undoubtedly based upon misapprehension as to John Bull and his domestic habits. It is a deep-rooted idea in the minds of our foreign neighbours, for instance, that Englishmen have a most unaccountable tendency to commit suicide, and that the month of November is the period most commonly selected for executing the "happy despatch." Another common notion is that Englishmen, when tired of their better halves, have a short and summary mode of getting rid of them. Putting a halter round the neck of the spouse who has become burdensome to her lord and master, she is led to Smithfield, or any other market where live stock is usually disposed of, and sold for what she will fetch, just as if she were a horse or a pig, the prices commonly current in these transactions being such trifling considerations as a shilling or a pot of beer. It is a fact which is beyond dispute that Englishmen are occasionally rendered so wretched and desperate by the force of circumstances that they are driven to that last resort of the hopeless—self-destruction, but it is assuredly far from being the case that a suicidal tendency can be regarded as a national characteristic. Again, it is a melancholy truth that at wide intervals a man is to be found so lost to all proper feeling as to be prepared to barter his wife in the manner just indicated, and who may perhaps feel that, in receiving a good swig of the English national beverage in exchange for a conjugal partner of whom he has become tired, he has had the best of the bargain. Such an occurrence does seem to have actually occurred recently at Sheffield; and it illustrates the very varied character of the matters with which Parliament is expected to deal, even at a time when Imperial questions of a very important nature are urgently pressing for legislation, that this alleged sale of a wife should have been brought under the notice of the Home Secretary, for the ostensible purpose of having the impression removed that this was a legitimate transaction. Of course it was an Irish Member who took the matter up—one of those irrepressible obstructives who are ever on the alert to bring up any conceivable thing that may have the effect of wasting precious time, and diverting the attention of Parliament from the more important business that presses upon it. Irish representatives do not find enough to engage their attention in the grievances of their own unhappy countrymen, but must also concern themselves in removing erroneous impressions that prevail among their Saxon brethren as to what are and what are not legitimate transactions. Probably Mr Sullivan thought that the calling attention to this Sheffield bargain might lead to one of these amusing episodes which Hibernian Members furnish in such abundance to the present Parliament. If this was his expectation, however, he must have been disappointed, as tho reply of Sir Wm. Harcourt to the question put was brief and pointed, and practically disposed of the matter without leaving an opportunity for further discussion. There was even a tone of severe and well-merited rebuke in the remark with which the Home Secretary closed his reply, that the matter was "unworthy the attention of the House, and the suggestion in the question was an Attempt to cast an undeserved slur upon the nation." This was undoubtedly the tendency which the asking of so silly a question would have, 
 
 whether such formed any part of the intention of tho questioner or not. There are undoubtedly many persons in some of the more benighted districts of England whose ideas of the marital relationship are of the very haziest kind, and who are morally in so benighted a condition as to see nothing particularly objectionable in dealing in wives as in a marketable commodity; but bad as the case may be in this respect, it is certainly far from common to find resort made, even by the most dissolute of husbands, to such an excuse for gross immorality; and certainly there is no ground for supposing the belief anything like prevalent that such a proceeding as selling a wife, even when good grounds exist for putting her away, can afford a legal substitute for the more cumbrous, costlier, and less expeditious mode of bringing an action in the Divorce Court.
 
