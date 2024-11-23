@@ -22,8 +22,8 @@ OWn grandfather https://genius.com/Willie-nelson-im-my-own-grandpa-lyrics
 Via Tony Nicol Waverley
 
 Walsingham Abbey Binham tunnel  gold ?
-Fiddler’s Hill
-[ Roud - ; Mudcat 113179 ; words Peter Bellamy, tune trad.]
+Fiddler's Hill
+[ Roud -; Mudcat 113179; words Peter Bellamy, tune trad.]
 https://mainlynorfolk.info/peter.bellamy/songs/fiddlershill.html
 cd Richmond Castle-Easby Abbey
 
@@ -33,7 +33,7 @@ https://mainlynorfolk.info/folk/songs/tombawcockseve.html
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000331/19280104/143/0007
 Cornishman - Wednesday 04 January 1928
-TOM BAW'COCK'S EVE. Sir.—Part Five of the "Old Cornwall" magazine for April, contains an interesting account of Tom Baw'cocks and his eve. This magazine well worth possessing even if one cannot conveniently be a member of an "Old Cornwall" society. This book will fill to those so placed, real want, recording as it does all such fragments of local history such as "Tom Baw'cock's Eve." Doubtless some one long resident at Mousehole could add to that which has been recorded in "Old Cornwall." CHARLES HOARE, jun. Madron, New Year's Eve. 
+TOM BAW'COCK'S EVE. Sir.—Part Five of the "Old Cornwall" magazine for April, contains an interesting account of Tom Baw'cocks and his eve. This magazine well worth possessing even if one cannot conveniently be a member of an "Old Cornwall" society. This book will fill to those so placed, real want, recording as it does all such fragments of local history such as "Tom Baw'cock's Eve." Doubtless some one long resident at Mousehole could add to that which has been recorded in "Old Cornwall." CHARLES HOARE, jun. Madron, New Year's Eve.
 
 
 
@@ -65,6 +65,28 @@ by Tom Bradley (1851-1934)
 Publication date 1889
 
 
+
+---
+
+Three Daft Monkeys
+
+Dancing plague strasbourg https://archive.org/search?query=%22dancing+plague%22+strasbourg&sin=TXT&sort=date
+
+Dancing plague of 1518 https://en.wikipedia.org/wiki/Dancing_plague_of_1518
+
+https://archive.org/details/epidemicsofmiddlin00heck/page/n5/mode/2up?q=%22dancing+plague%22+strasbourg The epidemics of the Middle Ages
+by Hecker, J. F. C. (Justus Friedrich Carl), 1795-1850; Babington, B. G. (Benjamin Guy), 1794-1866; Caius, John, 1510-1573. A boke, or counseill against the disease commonly called sweate, or sweatyng sicknesse
+Publication date 1844 
+Dancing mania
+
+Fiji Mermaid https://en.wikipedia.org/wiki/Fiji_mermaid  https://archive.org/search?query=%22fiji+mermaid%22&sin=TXT&sort=date eg 
+
+---
+
+Heard from Glenn Koppany - Thoimas Highgate, first solder to be shot / executed in First World War for deserting https://en.wikipedia.org/wiki/Thomas_Highgate
+
+https://web.archive.org/web/20061209094803/http://www.association14-18.org/version%20anglaise/documents-gb/coursbrit-gb/highgate-gb.htm
+
 --
 https://archive.org/details/devilinbritainam00ashtrich/page/n7/mode/2up
 The Devil in Britain and America
@@ -73,7 +95,7 @@ by Ashton, John, b. 1834
 Publication date 1896
 
 https://archive.org/details/wondersofinvisib00math_1
-The wonders of the invisible world: being an account of the tryals of several witches, lately excuted [sic] in New-England: and of several remarkable curiosities therein occurring. : Together with I. Observations upon the nature, the number, and the operations of the devils. II. A short narrative of a late outrage committed by a knot of witches in Swede-Land, very much resembling, and so far explaining, that under which New-England has laboured. III. Some councels directing a due improvement of the terrible things lately done by the unusual and amazing range of evil-spirits in New-England. IV. A brief discourse upon those temptations which are the more ordinary devices of Satan.
+The wonders of the invisible world: being an account of the tryals of several witches, lately excuted [sic] in New-England: and of several remarkable curiosities therein occurring.: Together with I. Observations upon the nature, the number, and the operations of the devils. II. A short narrative of a late outrage committed by a knot of witches in Swede-Land, very much resembling, and so far explaining, that under which New-England has laboured. III. Some councels directing a due improvement of the terrible things lately done by the unusual and amazing range of evil-spirits in New-England. IV. A brief discourse upon those temptations which are the more ordinary devices of Satan.
 by Mather, Cotton, 1663-1728
 
 Publication date 1693
@@ -141,7 +163,7 @@ Publication date [1919]
 
 https://archive.org/details/yuletidestories00thorgoog/page/501/mode/2up
 
-Yule-tide stories : a collection of Scandinavian and North German popular tales and traditions, from the Swedish, Danish, and German
+Yule-tide stories: a collection of Scandinavian and North German popular tales and traditions, from the Swedish, Danish, and German
 
 Thorpe, Benjamin, 1782-1870
 
@@ -164,7 +186,7 @@ I think Jacobs did a version too?
 
 
 https://archive.org/details/disobedientkidso001820
-The disobedient kids : and other Czecho-Slovak fairy tales
+The disobedient kids: and other Czecho-Slovak fairy tales
 by Nemcová, Bozena, 1820-1862; Tille, Václav, 1867-1937; Scheiner, Artus, ill
 Publication date 1921
 
@@ -195,14 +217,14 @@ Rabbi Nachman
 Lost Princess
 https://en.wikisource.org/wiki/Translation:Tales_of_Rabbi_Nachman/All#Tale_1:_The_Lost_Princess
 
-Emperor and the King ( Prince and Princess elope ; strong woman )
+Emperor and the King ( Prince and Princess elope; strong woman )
 https://en.wikisource.org/wiki/Translation:Tales_of_Rabbi_Nachman/All#Tale_2:_The_Emperor_and_the_King
 
 ---
 
 https://archive.org/details/populartalesfict02clouuoft/page/115/mode/1up?q=%22ROBBERY+OF+THE+KING%27S+TREASURY+%22
 
-Popular tales and fictions : their migrations and transformations vol 2
+Popular tales and fictions: their migrations and transformations vol 2
 by Clouston, W. A. (William Alexander), 1843-1896
 
 Publication date 1887
@@ -226,7 +248,7 @@ Not "not for children", but not really for children.
 
 https://archive.org/details/boysmabinogionbe00lani/page/n25/mode/2up
 
-The boy's Mabinogion : being the earliest Welsh tales of King Arthur in the famous Red book of Hergest
+The boy's Mabinogion: being the earliest Welsh tales of King Arthur in the famous Red book of Hergest
 by Lanier, Sidney, 1842-1881; Fredericks, Alfred, ill
 
 Publication date c1881
@@ -260,7 +282,7 @@ Czech tales
 
 
 https://archive.org/details/disobedientkidso001820
-The disobedient kids : and other Czecho-Slovak fairy tales
+The disobedient kids: and other Czecho-Slovak fairy tales
 by Nemcová, Bozena, 1820-1862; Tille, Václav, 1867-1937; Scheiner, Artus, ill
 Publication date 1921
 
@@ -365,15 +387,17 @@ the evil that you do stays with you
 
 (but via Sue) Seems to be a sikh story? popular on web c. 2012
 
-A woman baked chapatti (roti) for members of her family and an extra one for a hungry passerby. She kept the extra chapatti on the window sill, for whosoever would take it away. Every day, a hunchback came and took away the chapatti. Instead of expressing gratitude, he muttered the following words as he went his way: "The evil you do remains with you: The good you do, comes back to you!" This went on, day after day. Every day, the hunchback came, picked up the chapatti and uttered the words: "The evil you do, remains with you: The good you do, comes back to you!" The woman felt irritated. "Not a word of gratitude," she said to herself... 
+A woman baked chapatti (roti) for members of her family and an extra one for a hungry passerby. She kept the extra chapatti on the window sill, for whosoever would take it away. Every day, a hunchback came and took away the chapatti. Instead of expressing gratitude, he muttered the following words as he went his way: "The evil that you do remains with you: The good that you do, comes back to you!" This went on, day after day. Every day, the hunchback came, picked up the chapatti and uttered the words: "The evil you do, remains with you: The good you do, comes back to you!" The woman felt irritated. "Not a word of gratitude," she said to herself... 
 
-"Everyday this hunchback utters this jingle! What does he mean?" One day, exasperated, she decided to do away with him. "I shall get rid of this hunchback," she said. And what did she do? She added poison to the chapatti she prepared for him! As she was about to keep it on the window sill, her hands trembled. "What is this I am doing?" she said. Immediately, she threw the chapatti into the fire, prepared another one and kept it on the window sill. As usual, the hunchback came, picked up the chapatti and muttered the words: "The evil you do, remains with you: The good you do, comes back to you!" The hunchback proceeded on his way, blissfully unaware of the war raging in the mind of the woman. 
+"Everyday this hunchback utters this jingle! What does he mean?" One day, exasperated, she decided to do away with him. "I shall get rid of this hunchback," she said. And what did she do? She added poison to the chapatti she prepared for him! As she was about to keep it on the window sill, her hands trembled. "What is this I am doing?" she said. Immediately, she threw the chapatti into the fire, prepared another one and kept it on the window sill. As usual, the hunchback came, picked up the chapatti and muttered the words: "The evil you do, remains with you: The good you do, comes back to you!" The hunchback proceeded on his way, blissfully unaware of the war raging in the mind of the woman.
 
-Every day, as the woman placed the chapatti on the window sill, she offered a prayer for her son who had gone to a distant place to seek his fortune. For many months, she had no news of him.. She prayed for his safe return. That evening, there was a knock on the door. As she opened it, she was surprised to find her son standing in the doorway. He had grown thin and lean. His garments were tattered and torn. He was hungry, starved and weak. As he saw his mother, he said, "Mom, it's a miracle I'm here. While I was but a mile away, I was so famished that I collapsed. I would have died, but just then an old hunchback passed by. I begged of him for a morsel of food, and he was kind enough to give me a whole chapatti. As he gave it to me, he said, "This is what I eat everyday: today, I shall give it to you, for your need is greater than mine!" " As the mother heard those words, her face turned pale. 
+Every day, as the woman placed the chapatti on the window sill, she offered a prayer for her son who had gone to a distant place to seek his fortune. For many months, she had no news of him. She prayed for his safe return. That evening, there was a knock on the door. As she opened it, she was surprised to find her son standing in the doorway. He had grown thin and lean. His garments were tattered and torn. He was hungry, starved and weak. As he saw his mother, he said, "Mom, it's a miracle I'm here. While I was but a mile away, I was so famished that I collapsed. I would have died, but just then an old hunchback passed by. I begged of him for a morsel of food, and he was kind enough to give me a whole chapatti. As he gave it to me, he said, "This is what I eat everyday: today, I shall give it to you, for your need is greater than mine!" As the mother heard those words, her face turned pale.
 
 She leaned against the door for support. She remembered the poisoned chapatti that she had made that morning. Had she not burnt it in the fire, it would have been eaten by her own son, and he would have lost his life! It was then that she realized the significance of the words:
-"The evil you do remains with you: The good you do, comes back to you!" 
-Do good and Don't ever stop doing good, even if it is not appreciated at that time. 
+
+"The evil you do remains with you: The good you do, comes back to you!"
+
+Do good and Don't ever stop doing good, even if it is not appreciated at that time.
 
 If you like this, share it with others and I bet so many lives would be touched
 
@@ -396,10 +420,6 @@ Devil's bridge - tricking devil - Wales / Welsh legend  https://devilsbridgefall
 
 ---
 
-Notes and queries big index "wife selling"
-
-
-
 ---
 
 
@@ -416,7 +436,7 @@ https://www.enotes.com/topics/old-wives-tale
 
 https://www.youtube.com/watch?v=yZCOSOZRTz4
 Out in the woods... three characters appear, lost in the woods; no fire or candle;
-desperate times... dark.. hide in trees? Start to sing... see a light in the diatance...
+desperate times... dark.. hide in trees? Start to sing... see a light in the distance...
 A smith appears, with a lantern. Who am I? Whor are you 3 abroad at night.
 
 
@@ -427,7 +447,7 @@ https://www.jstor.org/stable/41557146
 
 
 https://archive.org/details/denhamtractscoll00denh/
-The Denham tracts : a collection of folklore : reprinted from the original tracts and pamphlets printed by Mr. Denham between 1846 and 1859
+The Denham tracts: a collection of folklore: reprinted from the original tracts and pamphlets printed by Mr. Denham between 1846 and 1859
 by Denham, Michael Aislabie, d. 1859
 
 Publication date 1895
@@ -439,6 +459,19 @@ Christmas cheer (?!) - Gambrinus King of Beer (2 min option or a 10-12 minute op
 Gambrinus - v short https://www.germansteins.com/gambrinus-the-beer-king/ Longer alternative (feat. the Devil) https://lordsofthedrinks.org/2015/08/13/the-legend-of-gambrinus-the-king-of-beer/
 
 
+
+--
+
+Landlords land agents killed murdered shot
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001713/18801115/024/0003 
+Paisley Daily Express - Monday 15 November 1880
+
+
+
+---
+
+
 ---
 witches
 
@@ -448,12 +481,14 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0000492/18270416/035/0004
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000182/18240510/029/0003
 
-Witch burning dublin https://www.britishnewspaperarchive.co.uk/viewer/bl/0000492/18270709/059/0004
+Witch burning dublin 
 
-clonmel
-A year on from conmel, another example https://www.britishnewspaperarchive.co.uk/viewer/bl/0000162/18960309/044/0005
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000492/18270709/059/0004
 
 
+WITCH BURNING IN DUBLIN, On St. John's Day, Sunday, the Jum*# about four o'clock in the afternoon, crowd of men, women, and children (between persons), were observed rushing down rough-street, near to Thomas's Church, »boutiaf*> yelling, and tossing up something in the air, was sometimes caugl one, and sometimes ther. and occasionally fell on the earth, where was scramble for it, and it was again tossed fra one to another, amidst the most diabolical yells, on nearer approach, were distinguished * "A witch!" witch/" Bum the Drown the witch!** She proved to bo irr l decently dressed, dwarfish, deformed female, vies these monsters had suddenly seized upou; and vJ* ever she fell to the earth, during their tossings, I**- like women rushed upon her with horrid shn*** tearing her clothes to pieces; all parlies crying*; Now have her!" •• Now have her "We'll burn or drown her!" and, directing course to the river. At length young gentle®* apparently about 18, after appealing to severs/** dressed spectators, to aid him in sav\wg woman from being tom pieces, whiclj terror of the mob, declined doing—rushed midst of these hell-hounds, and courageously be® t- helpless female under one arm, while with made his way through the crowd, who then their vengcancu against him crying out, w-itch's husband!" "The witch's pushing, pulling, and tripping him, and with mud, and whatever came to their hands; wtbf he was bedaubed from head to foot.—ln making way down Cumberland-strcet and Mecklenburg* street, appealed to three or four soldiers looking en, who directly surrounded him, and t** gentlemen then aided him, one of them taking* hand, and her rescuer the other of the poor sinl®! dwarf, and pulling her through the increasing to the police-office in Henry'street (nearly quirt* of mile) for safety; the new escort came in forth* share mud and abuse. At the Post-office policemen luckily came up, and were compelled to# ample justice with their sticks on the crowd before they got the poor creature into the Police-e®*' she was not able to speek for some time, fro® usage and terror,—and then returned lively thank* " her deliverers, and gave her name, and said * resided with a relative, Mrs,-r —, Camden-street; and observed, that though been frequently gazed at, so as to distress her feel®# she had never before met with violence. She sent home, the back way, ffler some time, wit® escort of police. The transaction can be borne to by hundreds of persons in the neighbourhood above tioned, for the disturbance was such, that e6f 7 window wus thrown the savages And, this is the Capital Ireland! and m niueteeth century. 
+
+clonmel cleary bridget
 
 ---
 
@@ -610,7 +645,7 @@ Costs:
 VF booking fee
 VF min venue hire
 
-Ventor Fringe was £101 (after £75 min venue fee); VX £81 (went to pay VF booking fee); Boojum event was £92.36;Winter Tales 137.40; Sinister stories 131.01 ; IWLF £150
+Ventor Fringe was £101 (after £75 min venue fee); VX £81 (went to pay VF booking fee); Boojum event was £92.36;Winter Tales 137.40; Sinister stories 131.01; IWLF £150
 
 
 ---
@@ -629,21 +664,21 @@ Ring that makes a happy man sad and a sad man happy. "This too shall pass"
 
 Ring of King Solomon eg in http://www.professorsolomon.com/ringofsolomon.html
 
-> King Solomon was sitting on his throne one morning, And he decided that Benaiah, the captain of the Palace Guard, needed a lesson in humility. So the king summoned Benaiah and gave him an impossible mission to fulfill. "I have heard rumors of a fabulous ring,” said Solomon. "It has a unique power. When a sad man gazes upon it, he becomes happy. But when a happy man gazes upon it, he becomes sad. Find this ring and bring it to me.”
+> King Solomon was sitting on his throne one morning, And he decided that Benaiah, the captain of the Palace Guard, needed a lesson in humility. So the king summoned Benaiah and gave him an impossible mission to fulfill. "I have heard rumors of a fabulous ring," said Solomon. "It has a unique power. When a sad man gazes upon it, he becomes happy. But when a happy man gazes upon it, he becomes sad. Find this ring and bring it to me."
 >
 > Benaiah set out in search of the ring. He traveled from town to town, inquiring as to its whereabouts. But no one had ever heard of such a ring. And he was about to give up when he spotted a junk shop, whose proprietor was sitting out front. Benaiah approached the man and described the object of his search.
 >
-> "A ring that cheers the sad and saddens the cheerful?” said the junk dealer. "Come inside.”
+> "A ring that cheers the sad and saddens the cheerful?" said the junk dealer. "Come inside."
 >
 > They entered the shop. From a boxful of baubles the junk dealer took a plain, silver ring. He engraved some words on it and gave it to Benaiah. Benaiah read the inscription, nodded sagely, and headed back to the palace.
 >
 > Solomon was expecting an unsuccessful—and humbled—Benaiah. So when Benaiah strode in and handed him the ring, the king was taken aback. Inspecting it, he read the inscription—and let out a melancholy sigh.
 >
-> King Solomon removed his costly rings and slipped on the ring from the junk shop. "It was I who needed a lesson in humility,” he said. "This ring has reminded me that wealth and power are fleeting things.”
+> King Solomon removed his costly rings and slipped on the ring from the junk shop. "It was I who needed a lesson in humility," he said. "This ring has reminded me that wealth and power are fleeting things."
 >
 > For inscribed on the ring was a Yiddish phrase:
 >
-> GAM ZU YAAVOR ("This too shall pass”)
+> GAM ZU YAAVOR ("This too shall pass")
 
 
 See also
@@ -668,7 +703,7 @@ https://mythfolklore.blogspot.com/2013/07/greek-legend-alexander-pirates.html
 ( Laura Gibbs )
 
 > Diomedes, so the story tells us, was a notorious pirate who had finally been captured and brought before the emperor for sentencing. Because of the pirate's many criminal deeds, everyone expected that Alexander would sentence the pirate to death.  Before he passed judgment, however, Alexander decided to interview the pirate.
-> 
+>
 > "What could possibly give you the right to sail the seas, taking by force things that do not belong to you?" Alexander asked the pirate.
 >
 > Diomedes boldly replied with some questions of his own. "O Emperor," he said, "what could possibly give you the right to travel the whole world, taking by force things that do not belong to you? What gave you the right to occupy the land of Egypt? Who made you king of Persia? By what authority did you invade the land of India?
