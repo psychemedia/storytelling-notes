@@ -68,9 +68,9 @@ I'm away with the raggle taggle gypsy-o!"
 "I'm away with the raggle taggle gypsy-o!"
 ```
 
-Here's my current-working take on the tale, although as yet still untold:
+My current-working take on the tale, is still in preparation:
 
-> TO DO
+> *TO DO*
 
 By way of comparison, the lyrical content of various versions of the song are reviewed on the [*Irish Music Daily*](https://www.irishmusicdaily.com/raggle-taggle-gypsy) website:
 
@@ -868,6 +868,3 @@ A fair young wanton ladye. `[]"They" is here substituted in place of "we," in li
 ```
 
 I don't see any reference to the story or the ballad the referenced William Chambers' *Exploits and Anecdotes of the Scottish Gypsies: With Traits of Their Origin*, [1886](https://archive.org/details/exploitsandanec00chamgoog/page/n14/mode/2up) (reprint of orginal edition of 1821).
-
-
-TO DO
