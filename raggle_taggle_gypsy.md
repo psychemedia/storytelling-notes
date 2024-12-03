@@ -421,7 +421,7 @@ Such traditional stories as these, which, whether themselves authentic or not, a
 
 One of the works referred to in *Scottish Gypsies under the Stewarts*, William Anderson's *The Scottish nation*, contains one of the most comprehensive bioraphies of the claimed inspiration for song, the Sixth Earl of Cassilis, his wife Lady Jean Hamilton, and the man to whom she was originallyh betrothed, Sir John Faa of Dunbar.
 
-```{admonition}
+```{admonition} Biographies of original cast, 1863
 :class: dropdown
 https://archive.org/details/b21974354_0001/page/606/mode/2up
 The Scottish nation, or, The surnames, families, literature, honours, and biographical history of the people of Scotland/ by William Anderson
