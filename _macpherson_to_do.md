@@ -58,7 +58,7 @@ Than ever did a general
 His soldiers in a war:  
 Being fear'd by all, both great and small,  
 I liv'd most joyfullie;  
-O! curse upon ths fate of mine,  
+O! curse upon this fate of mine,  
 To hang upon a tree!
 
 To part with life I am content,  
