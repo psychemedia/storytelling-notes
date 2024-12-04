@@ -391,7 +391,7 @@ Grimm's tales were widely published in translation, and include the following ve
 
 ```{admonition} Clever Alice, 1853
 :class: dropdown
-Jacob & Wilhelm Grimm, vol. 1, 1853, [pp. 178-181](https://archive.org/details/germanpopulartal11grim/page/178/mode/2up)
+Jacob & Wilhelm Grimm, German popular tales and household stories, vol. 1, 1853, [pp. 178-181](https://archive.org/details/germanpopulartal11grim/page/178/mode/2up)
 
 XXXTV.
 
