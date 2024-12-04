@@ -278,7 +278,7 @@ Many meals of this nature were made by this genius, who is to be honoured for ha
 
 RECIPE TO MAKE STONE SOUP.
 
-A traveller, apparently wearied, arrived one morning at a small village that lies to the north of Schaffhausen, on the road to Zurich, in Switzerland. A good woman sat spinning and singing at the door of her cottage; he came up to her; talked first about tbe roughness of the roads, and then of the prospect of a luxuriant vintage along the banks of the Rhine: at last be asked her if she had any fire?
+A traveller, apparently wearied, arrived one morning at a small village that lies to the north of Schaffhausen, on the road to Zurich, in Switzerland. A good woman sat spinning and singing at the door of her cottage; he came up to her; talked first about the roughness of the roads, and then of the prospect of a luxuriant vintage along the banks of the Rhine: at last be asked her if she had any fire?
 
 "To be sure I have! How should I dress my dinner else?"
 
