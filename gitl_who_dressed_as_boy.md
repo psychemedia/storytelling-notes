@@ -2,9 +2,9 @@
 
 Originally via Holly. Possibly useful class of tales to set up or reflect a trans-gender context.
 
-eg MA thesis:  "SHE WAS REALLY THE MAN SHE PRETENDED TO BE”: CHANGE OF SEX IN FOLK NARRATIVES by Psyche Z. Ready, https://mars.gmu.edu/server/api/core/bitstreams/15c2700d-498e-4371-92f5-0ca6c594ae0b/content
+eg MA thesis:  "SHE WAS REALLY THE MAN SHE PRETENDED TO BE": CHANGE OF SEX IN FOLK NARRATIVES by Psyche Z. Ready, https://mars.gmu.edu/server/api/core/bitstreams/15c2700d-498e-4371-92f5-0ca6c594ae0b/content
 
-See also: The Transgender Imagination in Folk Narratives: The Case of ATU 514, "The Shift of Sex”, Psyche Z. Ready, in Open Cultural Studies https://doi.org/10.1515/culture-2020-0133 https://www.degruyter.com/document/doi/10.1515/culture-2020-0133/html?lang=en
+See also: The Transgender Imagination in Folk Narratives: The Case of ATU 514, "The Shift of Sex", Psyche Z. Ready, in Open Cultural Studies https://doi.org/10.1515/culture-2020-0133 https://www.degruyter.com/document/doi/10.1515/culture-2020-0133/html?lang=en
 
 And bibliograpgy: https://psychezready.com/atu-514-bibliography/
 

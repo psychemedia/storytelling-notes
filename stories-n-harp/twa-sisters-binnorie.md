@@ -65,7 +65,7 @@ It seemed as if it were trying to speak, or to sing, or to, __to tell out its ow
 *"And yonder stands my brother Hugh,*  
 *Binnorie, O Binnorie;*  
 *And by him, my William, false and true;*  
-*By the bonny mill-dams o’ Binnorie."*
+*By the bonny mill-dams o' Binnorie."*
 
 *"And there sits my sister who drowned me.*  
 *By the bonny mill-dams o' Binnorie."*

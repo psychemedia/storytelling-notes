@@ -70,7 +70,7 @@ So when people said "London is ahead of the times", that was true, in a certain 
 
 > WHEREAS it is expedient to remove certain doubts as to whether expressions of time occurring in Acts of Parliament, deeds, and other legal instruments relate in England and Scotland to Greenwich time, and in Ireland to Dublin time, or to the mean astronomical time in each locality:
 > 
-> Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows; (that is to say,)
+> Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows; (that is to say,)
 > 
 > 1. Whenever any expression of time occurs in any Act of Parliament, deed, or other legal instrument, the time referred shall, unless it is otherwise specifically stated, be held in the case of Great Britain to be Greenwich mean time, and in the case of Ireland, Dublin mean time.
 > 2. This Act may be cited as the Statutes (Definition of Time) Act, 1880.

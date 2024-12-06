@@ -52,9 +52,9 @@ Wm. Ashford v. Abraham Thornton, in an appeal of murder
 Dyer, Gary, "Ivanhoe, Chivalry, and the Murder of Mary Ashford" (1997). English Faculty Publications. 12.
 https://engagedscholarship.csuohio.edu/cleng_facpub/12 also as https://core.ac.uk/download/pdf/301543171.pdf
 
-https://www.naomiclifford.com/portfolio/abraham-thornton-gauntlet/ Abraham Thornton’s gauntlet sold for £6,875
+https://www.naomiclifford.com/portfolio/abraham-thornton-gauntlet/ Abraham Thornton's gauntlet sold for £6,875
 10 July 2019 Naomi Clifford
-One of the leather gauntlets used in the last-ever legal challenge to trial by battle in an English court has been sold at Christie’s in London for £6,875 two hundred years after its pair was dramatically thrown down in Westminster Hall.
+One of the leather gauntlets used in the last-ever legal challenge to trial by battle in an English court has been sold at Christie's in London for £6,875 two hundred years after its pair was dramatically thrown down in Westminster Hall.
 Book: https://www.amazon.co.uk/Murder-Mary-Ashford-Changed-English/dp/1473863384
 
 https://special-collections.wp.st-andrews.ac.uk/2017/06/09/copyright-abcs-the-clock-struck-four-ashford-v-thornton-trial-by-combat-and-nineteenth-century-melodrama/

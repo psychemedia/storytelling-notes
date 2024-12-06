@@ -6,7 +6,7 @@ Steampunk philosphy, eg according to https://steampunkengine.net/steampunks-refl
 
 - "retrofuturisitc aesthetic"
 - gender roles, class structures moral dilemmas
-- nostalgia and regret, "a world that never was, a mechanical marvel inspired by the aesthetics of the Victorian era", "a perceived "lost” mechanical world"; "regret for the colonial attitudes and patriarchal values"
+- nostalgia and regret, "a world that never was, a mechanical marvel inspired by the aesthetics of the Victorian era", "a perceived "lost" mechanical world"; "regret for the colonial attitudes and patriarchal values"
 = "Bricolage is the art of constructing something new from a range of available materials, while detournement involves subverting and repurposing existing elements to create a new meaning or message"
 
 What was the response of the people to all the mechanisation going in, in the steampunk driven cities? Imagine forking timelines, of our world and the steampubk workd. In the countryside, the rural poor continue to tell stories, stories the age of reason would show contempt for, as being naive, or "savage". What stories would the folklorisits from the steampunk world, and from our world, have found and collected in common?

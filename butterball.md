@@ -7,11 +7,11 @@ by Asbjørnsen, Peter Christen, 1812-1885; Moe, Jørgen Engebretsen, 1813-1882; 
 Publication date 1859
 p117-122
 
-
 BUTTERCUP.
-ONCE on a time there waa an old wife who sat and baked. Now, you must know that this old wife had a little son, who was so plump and fat, and ao fond of good things, that they called him Buttercup; she had a dog, too, whose name was Goldtooth, and as she was baking, all at once Goldtooth began to bark.
 
-"Run out. Buttercup, there's a dear!" said the old wife, " and see what Goldtooth is barking at."
+ONCE on a time there was an old wife who sat and baked. Now, you must know that this old wife had a little son, who was so plump and fat, and ao fond of good things, that they called him Buttercup; she had a dog, too, whose name was Goldtooth, and as she was baking, all at once Goldtooth began to bark.
+
+"Run out. Buttercup, there's a dear!" said the old wife, "and see what Goldtooth is barking at."
 
 So the boy ran out, and came back crying out, —
 
@@ -135,6 +135,7 @@ ALso in Household tales with other traditional remains, collected in The Countie
 by Addy, Sidney Oldall, 1848-
 Publication date 1895
 p7-9
+
 6.JACK THE BUTTER-MILK `[Such was the title of the story given to me. It comes from Nottinghamshire.]`
 
 JACK was a boy who sold butter-milk. One day as he was going his rounds he met a witch who asked him for some of his butter-milk, and told him that if he refused to give it she would put him into a bag that she carried over her shoulders.
@@ -143,9 +144,7 @@ But Jack would not give the witch any of his butter-milk, so she put him into he
 
 But as she was going on her way she suddenly remembered that she had forgotten a pot of fat that she had bought in the town. Now Jack was too heavy to be carried back to the town, so the witch asked some men who were brushing the hedge by the roadside if they would take care of her bag until she came back.
 
-The men promised to take care of the bag, but when the witch had gone Jack called out to them and said, " 
-
-If you will take me out of this bag and fill it full of thorns I will give you some of my butter-milk."
+The men promised to take care of the bag, but when the witch had gone Jack called out to them and said, "If you will take me out of this bag and fill it full of thorns I will give you some of my butter-milk."
 
 So the men took Jack out of the bag and filled it with thorns, and then Jack gave them some butter-milk, and ran home.
 
@@ -155,16 +154,15 @@ As soon as she had got home she emptied the bag upon a clean white sheet that sh
 
 The next day she met Jack again, and asked him for some butter-milk, and told him that if he would not give it her she would put him into her bag again. But Jack said he would give her no butter-milk, so she put him into hor bag, and again she bethought her that she had forgotten something for which she would have to go back to the town.
 
-This time she left the bag with some men who were mending the road. Now as soon as the witch had gone Jack called out to them and said, " If you will take me out and fill this bag full of stones I will give you some of my butter-milk."
+This time she left the bag with some men who were mending the road. Now as soon as the witch had gone Jack called out to them and said, "If you will take me out and fill this bag full of stones I will give you some of my butter-milk."
 
 Then the men took Jack out of the bag, and he gave them the butter-milk.
 
-When the witch came back she threw the bag over her shoulder as before, and when she heard the stones 
-grinding and rattling she chuckled and said, "My word, Jack, thy bones do crack."
+When the witch came back she threw the bag over her shoulder as before, and when she heard the stones grinding and rattling she chuckled and said, "My word, Jack, thy bones do crack."
 
 When she got home she emptied the bag on the white sheet again. But when she saw the stones she was very angry, and swore that she would boil Jack when she caught him.
 
-The next day she went out as before, and met Jack again, and asked for some butter-milk. But Jack said, " No," again, so she put him into her bag, and went straight home with him, and threw him out upon the white sheet.
+The next day she went out as before, and met Jack again, and asked for some butter-milk. But Jack said, "No," again, so she put him into her bag, and went straight home with him, and threw him out upon the white sheet.
 
 When she had done this she went out of the house and locked Jack in, intending to boil him when she came back. But whilst she was away Jack opened all the cupboards in the house and filled the bag with all the pots that he could find. After he had done this he escaped through the chimney, and got safe home.
 

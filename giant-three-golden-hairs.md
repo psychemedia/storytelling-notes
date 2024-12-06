@@ -18,17 +18,17 @@ p154-161
 
 The Giant with the Three Golden Hairs
 
-THERE was once upon a time a poor woman whose son was born with a caul, and so it was foretold of him that in his fourteenth year he should marry the King’s daughter. As it happened, the King soon after came into the village, quite unknown to any one, and when he asked the people what news there was, they answered, " A few days since a child with a caul was born, which is a sure sign that he will be very lucky; and indeed it has been foretold of him that in his fourteenth year he will marry the King’s daughter."
+THERE was once upon a time a poor woman whose son was born with a caul, and so it was foretold of him that in his fourteenth year he should marry the King's daughter. As it happened, the King soon after came into the village, quite unknown to any one, and when he asked the people what news there was, they answered, " A few days since a child with a caul was born, which is a sure sign that he will be very lucky; and indeed it has been foretold of him that in his fourteenth year he will marry the King's daughter."
 
 The king had a wicked heart, and was disturbed concerning this prophecy, so he went to the parents, and said to them in a most friendly manner, " Give me up your child, and I will take care of him." At first they refused, but the stranger begged for it with much gold, and so at last they consented and gave him the child, thinking, " It is a luck-child, and therefore every thing must go well with it."
 
 The King laid the child in a box, and rode away till he came to a deep water, into which he threw the box, saying to himself, " From this unsought-for bridegroom have I now freed my daughter."
 
-The box, however, did not sink, but floated along like a boat, and not one drop of water penetrated it. It floated at last down to a mill two miles from the King’s palace, and in the mill-dam it stuck fast. The miller’s boy, who was fortunately standing there, observed it, aud drew it ashore with a hook, expecting to find a great treasure.
+The box, however, did not sink, but floated along like a boat, and not one drop of water penetrated it. It floated at last down to a mill two miles from the King's palace, and in the mill-dam it stuck fast. The miller's boy, who was fortunately standing there, observed it, aud drew it ashore with a hook, expecting to find a great treasure.
 
 When, however, he opened the box, he saw a beautiful child, alive and merry. He took it to the people at the mill, who, having no children, adopted it for their own, say- ing, "God has sent it to us." And they took good care of it, and it grew up full of virtues.
 
-It happened one day that the King went into the mill for shelter during a thunder-storm, and asked the people whether the boy was their child. "No," they answered, "he is a foundling, who, fourteen years ago, floated into our dam in a box, which the miller’s boy drew out of the water." The King observed at once that it was no other than the luck-child whom he had thrown into the water, and so said to them, " Good people, could not the youth carry a letter to my wife the Queen? If so, I will give him two pieces of gold for a reward."
+It happened one day that the King went into the mill for shelter during a thunder-storm, and asked the people whether the boy was their child. "No," they answered, "he is a foundling, who, fourteen years ago, floated into our dam in a box, which the miller's boy drew out of the water." The King observed at once that it was no other than the luck-child whom he had thrown into the water, and so said to them, " Good people, could not the youth carry a letter to my wife the Queen? If so, I will give him two pieces of gold for a reward."
 
 "As my lord the King commands," they replied, and bade the youth get ready.
 
@@ -66,7 +66,7 @@ Then he went on further, and came to a rather large city; where the watchman ask
 
 "Then," said. the ferryman, "you can do me a kindness if you tell me why, for ever and ever, I am obliged to row backwards and forwards, and am never to be released. " "You shall learn the reason why," replied the youth; " but wait till I return."
 
-As soon as he got over the water he found the entrance into the Giant’s kingdom. It was black and gloomy, and the Giant was not at home; but his old grandmother was sitting there in an immense arm-chair. " What do you want?" said she, looking at him fixedly. " I want three golden hairs from the head of the King of these regions," replied the youth, " else I cannot obtain my bride. " "That is a bold request," said the woman; " for if he comes home and finds you here it will be a bad thing for you; but still you can remain, and I will see if I can help you."
+As soon as he got over the water he found the entrance into the Giant's kingdom. It was black and gloomy, and the Giant was not at home; but his old grandmother was sitting there in an immense arm-chair. " What do you want?" said she, looking at him fixedly. " I want three golden hairs from the head of the King of these regions," replied the youth, " else I cannot obtain my bride. " "That is a bold request," said the woman; " for if he comes home and finds you here it will be a bad thing for you; but still you can remain, and I will see if I can help you."
 
 Then she changed him into an ant, and told him to creep within the fold of her gown, where he would be quite safe.
 
@@ -74,7 +74,7 @@ Then she changed him into an ant, and told him to creep within the fold of her g
 
 "Those are difficult questions," replied the old wo- man; " but do_you keep quiet and pay attention to what the King says when I pluck each of the three golden hairs."
 
-As soon as evening came the Giant returned; and scarcely had he entered, when he remarked that the air was not quite pure. " I smell, I smell the flesh of man," he exclaimed; " all is not right." Then he peeped into every corner, and looked about, but could find nothing. Presently his old grandmother began to scold, screaming, "There now, just as I have dusted and put every thing in order, you are pulling them all about again: you are for ever having man’s flesh in your nose! Sit down and eat your supper."
+As soon as evening came the Giant returned; and scarcely had he entered, when he remarked that the air was not quite pure. " I smell, I smell the flesh of man," he exclaimed; " all is not right." Then he peeped into every corner, and looked about, but could find nothing. Presently his old grandmother began to scold, screaming, "There now, just as I have dusted and put every thing in order, you are pulling them all about again: you are for ever having man's flesh in your nose! Sit down and eat your supper."
 
 When he had finished he felt tired; and the old woman took his head in her lap, and said she would comb his hair a bit. Presently he yawned; then winked; and at last snored. Then she plucked out a golden hair, and laid it down beside her.
 
@@ -92,7 +92,7 @@ Then the old woman went on combing till he went to sleep again, and snored so th
 
 "Confound it! what are you about?" exclaimed the King in a passion.
 
-"Don’t be angry," said she; " I did it in a dream."
+"Don't be angry," said she; " I did it in a dream."
 
 "What did you dream this time?" he asked.
 
@@ -110,7 +110,7 @@ Now, since the old woman had plucked the three golden hairs, and had received an
 
 As soon as he went out in the morning, the old woman took the ant out of the fold of her gown, and restored him again to his human form.
 
-"There you have the three golden hairs from the King’s head, and what he replied to the three questions you have just heard."
+"There you have the three golden hairs from the King's head, and what he replied to the three questions you have just heard."
 
 "Yes, I have heard and will well remember," said the luck-child; and, thanking the old woman for her assistance in his trouble, he left those regions, well pleased that he had been so lucky in every thing. When he came to the ferryman he had to give him the promised answer. But he said, " First row me over, and then I will tell you how you may be freed and as soon as they reached the opposite side he gave him the advice, " When another comes this way and wants to pass over, give him the oar in his hand."
 

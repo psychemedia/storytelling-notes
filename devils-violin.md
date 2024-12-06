@@ -225,6 +225,6 @@ A deal is struck...
 
 *[I then forget the actual ending? Maybe this?]*
 
-A young woman is found who was dying; the fiddler says he may be able to cure her. He breaks the fiddle, the soul is released, the dying woman is infused with the girl’s soul and they live happily ever after.
+A young woman is found who was dying; the fiddler says he may be able to cure her. He breaks the fiddle, the soul is released, the dying woman is infused with the girl's soul and they live happily ever after.
 
 ```

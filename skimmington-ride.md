@@ -260,7 +260,7 @@ To the sound of this pan;
 This is to give notice that Tom Trotter  
 Has beaten his good wo-man!  
 For what, and for why?  
-‘Cause she ate when she was hungry,  
+'Cause she ate when she was hungry,  
 And drank when she was dry.  
 Ran, tan, ran, tan, tan;  
 Hurrah—hurrah! for this good wo-man!  

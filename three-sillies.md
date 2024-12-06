@@ -687,11 +687,11 @@ The next day the tailor's wife said to her husband, "I have engaged some girls t
 
 "Yes," said her husband, "that is very true."
 
-"Listen," she continued, "‘you could act as watch-dog and frighten the young men away from the house."
+"Listen," she continued, "'you could act as watch-dog and frighten the young men away from the house."
 
 The man hardly thought that he could; nevertheless, he yielded to his wife's entreaties. So towards evening, she fastened some woolly skins about him, drew a wool cap over his head, and fastened him with a chain to their kennel. There he stood and growled and barked at everybody that approached, and his neighbors' wives amused themselves famously with him.
 
-On the following day when the carpenter came home from his work, his wife clasped her hands and exclaimed, "‘For heaven's sake, husband dear, what is the matter with you? you are certainly sick." But he had not the faintest idea that anything was the matter with him; all that he knew was that he was very hungry. So he seated himself at the table and began to eat; but his wife who sat opposite him, shook her head and looked very sad.
+On the following day when the carpenter came home from his work, his wife clasped her hands and exclaimed, "'For heaven's sake, husband dear, what is the matter with you? you are certainly sick." But he had not the faintest idea that anything was the matter with him; all that he knew was that he was very hungry. So he seated himself at the table and began to eat; but his wife who sat opposite him, shook her head and looked very sad.
 
 "Dear, you are looking worse and worse; you are very pale, and I can see clearly that something serious is the matter with you."' Now the man began to become uneasy himself, and to think that he was not well. "It is really high time that you should go to bed," said his wife; at last she succeeded in getting him to go to bed. She covered him up well and gave him hot drinks, and finally the man said that he really felt wretched. "You will certainly never recover from this illness, my poor husband,"' said the woman, "I am sure that you are going to die." Soon after that she said, "Now we shall have to bid each other farewell, for death has set his seal upon you, and now I must close your eyes for you are dead." And as she spoke, she did so. The foolish carpenter, who believed all that his wife said, believed that he was dead and lay perfectly quiet, letting his wife do what she wished.
 

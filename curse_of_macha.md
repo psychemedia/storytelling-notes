@@ -103,7 +103,7 @@ Over this strange story Cuchulain pondered long, wondering who might be the yout
 ```
 
 https://www.dib.ie/biography/macha-a9257
-‘Noínden Ulad’ (‘Debility of the Ulstermen’), has been dated to the ninth century and was integrated into the narrative complex surrounding the epic ‘Táin Bó Cuailnge’
+'Noínden Ulad' ('Debility of the Ulstermen'), has been dated to the ninth century and was integrated into the narrative complex surrounding the epic 'Táin Bó Cuailnge'
 
 
 https://archive.org/details/ulsterjournalofa04ulstiala/page/98/mode/2up?q=%22Debility+of+the+Ulstermen%22
@@ -160,49 +160,49 @@ See also: https://iso.ucc.ie/Noinden-ulad/Noinden-ulad-background.html
 
 The Debility of the Ulstermen
 
-There lived on the heights and in the solitudes of the hills a rich cow-lord of the Ulstermen, Crunnchu mac Agnoman by name. In his solitude great wealth accumulated to him. He had four sons around him. His wife, the mother of his children, died. For a long time he lived without a wife. As he was one day alone on the couch in his house, he saw coming into the mansion a young stately woman, distinguished in her appearance, clothing, and demeanor. Macha was the woman’s name, as scholars say. She sat herself down on a chair near the hearth, and stirred the fire. She passed the whole day there, without exchanging a word with any one. She fetched a kneading-trough and a sieve and began to prepare food. As the day drew to an end she took a vessel and milked the cow, still without speaking.
+There lived on the heights and in the solitudes of the hills a rich cow-lord of the Ulstermen, Crunnchu mac Agnoman by name. In his solitude great wealth accumulated to him. He had four sons around him. His wife, the mother of his children, died. For a long time he lived without a wife. As he was one day alone on the couch in his house, he saw coming into the mansion a young stately woman, distinguished in her appearance, clothing, and demeanor. Macha was the woman's name, as scholars say. She sat herself down on a chair near the hearth, and stirred the fire. She passed the whole day there, without exchanging a word with any one. She fetched a kneading-trough and a sieve and began to prepare food. As the day drew to an end she took a vessel and milked the cow, still without speaking.
 
 When she returned to the house, she turned right about, went into his kitchen and gave directions to his servants; then she took a seat next to Crunnchu. Each one went to his couch; she remained to the last and put out the fire, turned right about again and laid herself down beside him, laying her hand on his side. For a long time they dwelt together. Through his union with her, he increased yet more in wealth. His handsome appearance was delightful to her.
 
-Now the Ulstermen frequently held great assemblies and meet­ings. All, as many as could go, both of men and women, went to the gathering. “I, too,” said Crunnchu, “will go like every one else to the assembly.”
+Now the Ulstermen frequently held great assemblies and meet­ings. All, as many as could go, both of men and women, went to the gathering. "I, too," said Crunnchu, "will go like every one else to the assembly."
 
-“Go not,” said his wife, “lest thou run into danger by speaking of us; for our union will continue only if thou dost not speak of me in the assembly.”
+"Go not," said his wife, "lest thou run into danger by speaking of us; for our union will continue only if thou dost not speak of me in the assembly."
 
-“I will not utter a word,” said Crunnchu.
+"I will not utter a word," said Crunnchu.
 
 The Ulstermen gathered to the festival, Crunnchu also going pith the rest. It was a brilliant festival, not alone in regard to the people, but as to horses and costumes also. There took place races and combats, tournaments, games, and processions.
 
-At the ninth hour the royal chariot was brought upon the ground, and the king’s horses carried the day in the contests. Then bards appeared to praise the king and the queen, the poets and the druids, his household, the people and the whole assembly. The people cried: “Never before have two such horses been seen at the festival as these two horses of the king: in all Ireland there is not a swifter pair!”
+At the ninth hour the royal chariot was brought upon the ground, and the king's horses carried the day in the contests. Then bards appeared to praise the king and the queen, the poets and the druids, his household, the people and the whole assembly. The people cried: "Never before have two such horses been seen at the festival as these two horses of the king: in all Ireland there is not a swifter pair!"
 
-“My wife runs quicker than these two horses,” said Crunnchu. “Seize the man,” said the king, “and hold him until his wife can be brought to the race-contest!”
+"My wife runs quicker than these two horses," said Crunnchu. "Seize the man," said the king, "and hold him until his wife can be brought to the race-contest!"
 
-He was made fast, and messengers were despatched from the king to the woman. She bade the messengers welcome, and asked them what had brought them there. “We have come for you that you may release your husband, kept prisoner by the king’s com­mand, because he boasted that you were swifter of foot than the king’s horses.”
+He was made fast, and messengers were despatched from the king to the woman. She bade the messengers welcome, and asked them what had brought them there. "We have come for you that you may release your husband, kept prisoner by the king's com­mand, because he boasted that you were swifter of foot than the king's horses."
 
-“My husband has spoken unwisely,” said she; “it was not fitting that he should say so. As for me, I am ill, and about to be delivered of a child.”
+"My husband has spoken unwisely," said she; "it was not fitting that he should say so. As for me, I am ill, and about to be delivered of a child."
 
-“Alas for that,” said the messengers, “for thy husband will be put to death if thou dost not come.”
+"Alas for that," said the messengers, "for thy husband will be put to death if thou dost not come."
 
-“Then I must needs go,” she said.
+"Then I must needs go," she said.
 
-Forthwith she went to the assembly. Every one crowded round to see her. “it is not becoming,” said she, “that I should be gazed at in this condition. Wherefore am I brought hither?”
+Forthwith she went to the assembly. Every one crowded round to see her. "it is not becoming," said she, "that I should be gazed at in this condition. Wherefore am I brought hither?"
 
-“To run in contest with the two horses of the king,” shouted the multitude.
+"To run in contest with the two horses of the king," shouted the multitude.
 
-“Alas!” she cried, “for I am close upon my hour.”
+"Alas!" she cried, "for I am close upon my hour."
 
-“Unsheath your swords and hew yonder man to death,” said the king.
+"Unsheath your swords and hew yonder man to death," said the king.
 
-“Help me,” she cried to the bystanders, “for a mother hath borne each one of you. Give me, O King, but a short delay, until I am delivered.”
+"Help me," she cried to the bystanders, "for a mother hath borne each one of you. Give me, O King, but a short delay, until I am delivered."
 
-“It shall not be so,” replied the king.
+"It shall not be so," replied the king.
 
-“Then shame upon you who have shown so little respect for me,” she cried. “Because you take no pity upon me, a heaviei. infamy will fall upon you.”
+"Then shame upon you who have shown so little respect for me," she cried. "Because you take no pity upon me, a heaviei. infamy will fall upon you."
 
-“What is thy name?” asked the king.
+"What is thy name?" asked the king.
 
-“My name,” said she, “and the name of that which I shall bear, will for ever cleave to the place of this assembly. I am Macha, daughter of Sainreth mac Imbaith (Strange son of Ocean). Bring up the horses beside me!” It was done, and she outran the horses and arrived first at the end of the course. Then she gave vent to a cry in her pain, but God helped her, and she bore twins, a son and a daughter, before the horses reached the goal. Therefore is the place called Emain Macha, the "Twins of Macha."
+"My name," said she, "and the name of that which I shall bear, will for ever cleave to the place of this assembly. I am Macha, daughter of Sainreth mac Imbaith (Strange son of Ocean). Bring up the horses beside me!" It was done, and she outran the horses and arrived first at the end of the course. Then she gave vent to a cry in her pain, but God helped her, and she bore twins, a son and a daughter, before the horses reached the goal. Therefore is the place called Emain Macha, the "Twins of Macha."
 
-All who heard that cry were suddenly seized with weakness, so that they had no more strength than the woman in her pain. And she said, “From this hour the ignominy that you have inflicted upon me will redound to the shame of each one of you. When a time of oppression falls upon you, each one of you who dwells in this province will be overcome with weakness, as the weakness of a woman in childbirth, and this will remain upon you for five days and four nights; to the ninth generation it shall be so.”
+All who heard that cry were suddenly seized with weakness, so that they had no more strength than the woman in her pain. And she said, "From this hour the ignominy that you have inflicted upon me will redound to the shame of each one of you. When a time of oppression falls upon you, each one of you who dwells in this province will be overcome with weakness, as the weakness of a woman in childbirth, and this will remain upon you for five days and four nights; to the ninth generation it shall be so."
 
 Thus it was. It continued from the days of Crunnchu to the days of Fergus mac Donnell, or till the time of Forc, son of Dallan, son of Mainech, son of Lugaid. Three classes there were upon whom the debility had no power, namely, the children and the women of Ulster, and Cu Chulainn, because he was not descended from Ulster; none, also, of those who were outside the province were afflicted by it.
 
@@ -240,15 +240,15 @@ p. 471-497
 
 https://celt.ucc.ie/published/T301021.html
 
-Cuchulaind then repeated the conversation from the beginning to his charioteer, explaining it to him, to beguile the length of their way.‘By Intide Emna which I said when she asked me ‘whence hast thou come?’ I meant from Emain Macha. It is called Emain Macha from this, Macha the daughter of Sainreth Mac in Botha, wife of Crundchu, son of Agnomon, ran a race against two steeds of the king, after she had been forced to it by a strong injunction. She beat them, and bare a boy and a girl at one birth. And from those twins (emuin) is called, and from that Macha is named the plain of Macha.’
+Cuchulaind then repeated the conversation from the beginning to his charioteer, explaining it to him, to beguile the length of their way.'By Intide Emna which I said when she asked me 'whence hast thou come?' I meant from Emain Macha. It is called Emain Macha from this, Macha the daughter of Sainreth Mac in Botha, wife of Crundchu, son of Agnomon, ran a race against two steeds of the king, after she had been forced to it by a strong injunction. She beat them, and bare a boy and a girl at one birth. And from those twins (emuin) is called, and from that Macha is named the plain of Macha.'
 
-‘Or again, it is from this that Emain Macha is, as it is in the following tale. Three kings were reigning together over Erinn. They were from Ulster, viz. Dithorba, son of Diman, from Uisnech of Meath, Aed the Red, son of Badurn, son of Aircet the Bald, in the land of Aed, Cimbaeth, son of Findairget, from Finnabair of Mag Inis. It is he who brought up Ugaine the Great, son of Eochu the Victorious. Then the men made an agreement, that each of them was to reign seven years. Three times seven sureties were pledged between them, seven druids to revile them forever; or seven poets to lampoon, and satirise, and upbraid them; seven chiefs to wound them and burn them; unless each man gave up his reign at the end of seven years, having preserved true government, viz. the produce of each year, without decay of any kind, and without the death of a woman from concubinage. Each of them reigned three times in his turn, during sixty-six years. Aed the Red was the first of them to die, or rather he was drowned in Ess Ruaid, and his body was taken into the sid there, whence Sid Aeda, and Ess Ruaid. He left no children, except one daughter, whose name was Macha the Red-haired. She demanded the kingship in its due time. Cimbaeth and Dithorba said they would not give kingship to a woman. A battle was fought between them. Macha routed them. She was sovereign for seven years. Meanwhile Dithorba had fallen. He left five noble sons behind, Baeth and Brass and Betach, Uallach and Borbchass. These now demanded
+'Or again, it is from this that Emain Macha is, as it is in the following tale. Three kings were reigning together over Erinn. They were from Ulster, viz. Dithorba, son of Diman, from Uisnech of Meath, Aed the Red, son of Badurn, son of Aircet the Bald, in the land of Aed, Cimbaeth, son of Findairget, from Finnabair of Mag Inis. It is he who brought up Ugaine the Great, son of Eochu the Victorious. Then the men made an agreement, that each of them was to reign seven years. Three times seven sureties were pledged between them, seven druids to revile them forever; or seven poets to lampoon, and satirise, and upbraid them; seven chiefs to wound them and burn them; unless each man gave up his reign at the end of seven years, having preserved true government, viz. the produce of each year, without decay of any kind, and without the death of a woman from concubinage. Each of them reigned three times in his turn, during sixty-six years. Aed the Red was the first of them to die, or rather he was drowned in Ess Ruaid, and his body was taken into the sid there, whence Sid Aeda, and Ess Ruaid. He left no children, except one daughter, whose name was Macha the Red-haired. She demanded the kingship in its due time. Cimbaeth and Dithorba said they would not give kingship to a woman. A battle was fought between them. Macha routed them. She was sovereign for seven years. Meanwhile Dithorba had fallen. He left five noble sons behind, Baeth and Brass and Betach, Uallach and Borbchass. These now demanded
 
 p.152
 
-the kingship Macha said she would not give it to them, ‘for not by favour did I obtain it,’ said she, ‘but by force in the battlefield.’ A battle was fought between them. Macha routed the sons of Dithorba, who left a slaughter of heads before her, and went into exile in the wilds of Connaught. Macha then took Cimbaeth to her as her husband, and leader of her troops. When now Macha and Cimbaeth were united, Macha went to seek the sons of Dithorba in the shape of a leper, viz. she smeared herself with rye-dough and
+the kingship Macha said she would not give it to them, 'for not by favour did I obtain it,' said she, 'but by force in the battlefield.' A battle was fought between them. Macha routed the sons of Dithorba, who left a slaughter of heads before her, and went into exile in the wilds of Connaught. Macha then took Cimbaeth to her as her husband, and leader of her troops. When now Macha and Cimbaeth were united, Macha went to seek the sons of Dithorba in the shape of a leper, viz. she smeared herself with rye-dough and
 [...]
-. She found them in Buirend Connacht, cooking a wild boar. The men asked tidings of her, and she gave them. And they let her have food by the fire. Said one of them: ‘Lovely is the eye of the girl, let us lie with her.’ He took her with him into the wood. She bound that man by dint of her strength, and left him in the wood. She came back to the fire. ‘Where is the man who went with thee?’ they asked. ‘He is ashamed to come to you,’ she replied, ‘after having lain with a leper.’ ‘There is no shame,’ said they, ‘for we shall all do the same.’ Each man took her into the wood. She bound every one of them, one after the other and brought them all in one chain to Ulster. The men of Ulster wanted to kill them. ‘No,’ said she, ‘for that would be the ruin of my true government. But they shall be thralls, and shall dig a rath round me, and that shall be the eternal seat of Ulster for ever.’ Then she marked out the dun for them with her brooch, viz., a golden pin on her neck, i.e., a brooch on the neck of Macha (eo imma muin Macha). Hence is Emain Macha in truth.’
+. She found them in Buirend Connacht, cooking a wild boar. The men asked tidings of her, and she gave them. And they let her have food by the fire. Said one of them: 'Lovely is the eye of the girl, let us lie with her.' He took her with him into the wood. She bound that man by dint of her strength, and left him in the wood. She came back to the fire. 'Where is the man who went with thee?' they asked. 'He is ashamed to come to you,' she replied, 'after having lain with a leper.' 'There is no shame,' said they, 'for we shall all do the same.' Each man took her into the wood. She bound every one of them, one after the other and brought them all in one chain to Ulster. The men of Ulster wanted to kill them. 'No,' said she, 'for that would be the ruin of my true government. But they shall be thralls, and shall dig a rath round me, and that shall be the eternal seat of Ulster for ever.' Then she marked out the dun for them with her brooch, viz., a golden pin on her neck, i.e., a brooch on the neck of Macha (eo imma muin Macha). Hence is Emain Macha in truth.'
 
 
 ---

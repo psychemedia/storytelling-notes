@@ -136,7 +136,7 @@ The Dog Gellert.
 The legend of Gellert has been finely versified by Mr Spencer when UeweUyn had slain the faithful dog and immediately after discovered his child unhurt —
 
 Ah, what was then Llewellyn's pain?  
-For now the truth waa clear:  
+For now the truth was clear:  
 The gallant hound the wolf had slain.  
 To save Llewellyn's heir.
 

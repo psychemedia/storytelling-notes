@@ -67,7 +67,7 @@ The Adoption of Standard Time https://www.jstor.org/stable/3105430?seq=1
 
 The Railway Journey - Trains and Travel in the 19th Century http://cast.b-ap.net/arc590s14/wp-content/uploads/sites/29/2014/09/Schivelbusch.pdf
 
-Kairos and Mistiming: Clocks, Watches in Thomas Hardy’s Far from the Madding Crowd and Joseph Conrad’s Lord Jim https://journals.openedition.org/fathom/1356
+Kairos and Mistiming: Clocks, Watches in Thomas Hardy's Far from the Madding Crowd and Joseph Conrad's Lord Jim https://journals.openedition.org/fathom/1356
 
 Once upon a time, there wasn't any one time. Or rather, there was too much time, because everywhere had its own time.
 
@@ -176,7 +176,7 @@ Standard time as London time, as Greenwich mean time, GMT, did not enter the sta
 
 > WHEREAS it is expedient to remove certain doubts as to whether expressions of time occurring in Acts of Parliament, deeds, and other legal instruments relate in England and Scotland to Greenwich time, and in Ireland to Dublin time, or to the mean astronomical time in each locality:
 > 
-> Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows; (that is to say,)
+> Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows; (that is to say,)
 > 
 > 1. Whenever any expression of time occurs in any Act of Parliament, deed, or other legal instrument, the time referred shall, unless it is otherwise specifically stated, be held in the case of Great Britain to be Greenwich mean time, and in the case of Ireland, Dublin mean time.
 > 2. This Act may be cited as the Statutes (Definition of Time) Act, 1880.
@@ -192,9 +192,9 @@ Windeyer J  in (1961) 111 CLR 264. (via https://www.wilberforce.co.uk/wp-content
 
 https://staging.hcourt.gov.au/assets/publications/judgments/1961/087--PROWSE_v._McINTYRE--(1961)_111_CLR_264.html
 
-‘4. Time is a local phenomenon. An interesting discussion of this occurred in Curtis v. March (1858) 3 H &N 866 (157 ER 719). Watson B had taken his seat on the bench at Dorchester punctually at ten by the clock in the Court, and the cause being called on and the defendant not appearing had directed a verdict for the plaintiff. Later, counsel appeared and claimed that the Court had sat before the appointed hour; for the Court clock recorded Greenwich time and the town clock Dorchester time, which was some minutes later.
+'4. Time is a local phenomenon. An interesting discussion of this occurred in Curtis v. March (1858) 3 H &N 866 (157 ER 719). Watson B had taken his seat on the bench at Dorchester punctually at ten by the clock in the Court, and the cause being called on and the defendant not appearing had directed a verdict for the plaintiff. Later, counsel appeared and claimed that the Court had sat before the appointed hour; for the Court clock recorded Greenwich time and the town clock Dorchester time, which was some minutes later.
 
-On appeal a new trial was directed because the time of the place should prevail. "We are as much bound”, said Pollock CB, "to take judicial notice that a particular place lies east or west of Greenwich, and consequently has a different time from it, as we are to know the days of the year" (1858) 3 H&N, at p 867 (157 ER, at p 719).
+On appeal a new trial was directed because the time of the place should prevail. "We are as much bound", said Pollock CB, "to take judicial notice that a particular place lies east or west of Greenwich, and consequently has a different time from it, as we are to know the days of the year" (1858) 3 H&N, at p 867 (157 ER, at p 719).
 
 ???how was the court clock time set?
 
@@ -231,7 +231,7 @@ http://statutes.org.uk/site/the-statutes/nineteenth-century/1880-43-44-victoria-
 
 WHEREAS it is expedient to remove certain doubts as to whether expressions of time occurring in Acts of Parliament, deeds, and other legal instruments relate in England and Scotland to Greenwich time, and in Ireland to Dublin time, or to the mean astronomical time in each locality:
 
-Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows; (that is to say,)
+Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows; (that is to say,)
 
 [Meaning of expressions relating to time.]
 1. Whenever any expression of time occurs in any Act of Parliament, deed, or other legal instrument, the time referred shall, unless it is otherwise specifically stated, be held in the case of Great Britain to be Greenwich mean time, and in the case of Ireland, Dublin mean time.
@@ -241,7 +241,7 @@ Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the
 
 
 
-https://mylesdungan.com/tag/curtis-v-march/: "The prominence of local time—i.e. the actual time at a specific location, rather than a centralised version of same—came about in the United Kingdom in 1858. At that time we were members of the august configuration of stroppy nations. On 25 November of that year the defendant in Curtis v March, due to be heard by a judge in Dorchester failed to show up for his hearing and lost his case. He appealed on the basis that he’d been told to be in court at 10.00 am and had turned up on time, according to the local time on the town clock, but not in line with GMT. He won his appeal and that ruling defined ‘time’ in the UK as local, until the 1880 legislation which standardised it in Britain and left us twenty-five minutes adrift."
+https://mylesdungan.com/tag/curtis-v-march/: "The prominence of local time—i.e. the actual time at a specific location, rather than a centralised version of same—came about in the United Kingdom in 1858. At that time we were members of the august configuration of stroppy nations. On 25 November of that year the defendant in Curtis v March, due to be heard by a judge in Dorchester failed to show up for his hearing and lost his case. He appealed on the basis that he'd been told to be in court at 10.00 am and had turned up on time, according to the local time on the town clock, but not in line with GMT. He won his appeal and that ruling defined 'time' in the UK as local, until the 1880 legislation which standardised it in Britain and left us twenty-five minutes adrift."
 
 Two noons - http://historymatters.gmu.edu/d/5748/ - move to standard time cf clocks forward/back.
 
@@ -281,9 +281,9 @@ https://www.academia.edu/10068187/_Our_Time_On_the_Durability_of_the_Alaturka_Ho
 Our Time: On the Durability of the Alaturka Hour System in the Late Ottoman Empire ," International Journal of Turkish Studies, 16 (2010), 47-69.
 ...
 Alaturka Saat and the Spread of Mean Tim
-The Ottoman hour system traced its origins to the ancient scheme of"seasonal” or "temporal” hours, according to which the day and the night were eachdivided into a set of twelve equal units. Daytime hours were counted from sunrise to sunset and night time hours, from sunset to sunrise. As the length of daytime and night time changed throughout the year, the seasonal hours varied in length accordingly.
+The Ottoman hour system traced its origins to the ancient scheme of"seasonal" or "temporal" hours, according to which the day and the night were eachdivided into a set of twelve equal units. Daytime hours were counted from sunrise to sunset and night time hours, from sunset to sunrise. As the length of daytime and night time changed throughout the year, the seasonal hours varied in length accordingly.
 
-According to the system devised by Ottoman astronomers in the fifteenth century, if not earlier, two cycles of twelve equal hours were counted from sunset, reckoned as twelve o’clock palace circles.
+According to the system devised by Ottoman astronomers in the fifteenth century, if not earlier, two cycles of twelve equal hours were counted from sunset, reckoned as twelve o'clock palace circles.
 
 6 It seems safe to assume that by the second half of the eighteenth century, thousands of timepieces were marketed throughout the Ottoman domains every year.
 
@@ -291,7 +291,7 @@ According to the system devised by Ottoman astronomers in the fifteenth century,
 
 8 Since sunset (gurub) was the baseline of this unique Ottoman arrangement, just as it was in the system of seasonal hours, the names gurubi (and ezani) saat remained in use and were in fact at least as common inofficial correspondence as the now better-known term alaturka saat. For the sake of clarity, however, I will use this last term throughout this study and elaborate on the cultural and political meanings it carried in the second half of the article.
 
-9 In order to evaluate correctly the alaturka  system, we need to re-place it in the "temporal culture" from which it emerged. The term "temporal culture” here denotes the vast ensemble of practices, behaviors, and concepts that concern the social organization of time and fill it with meaning. In contrast to modern,artificially lit societies, in the temporal culture of early modern Ottoman society sunset brought an end to the daily cycle of social life, as people withdrew from the public sphere into the safety of their homes. Moreover, sunset marked the beginning of a new calendar day and the beginning of a new cycle of religious ritual.
+9 In order to evaluate correctly the alaturka  system, we need to re-place it in the "temporal culture" from which it emerged. The term "temporal culture" here denotes the vast ensemble of practices, behaviors, and concepts that concern the social organization of time and fill it with meaning. In contrast to modern,artificially lit societies, in the temporal culture of early modern Ottoman society sunset brought an end to the daily cycle of social life, as people withdrew from the public sphere into the safety of their homes. Moreover, sunset marked the beginning of a new calendar day and the beginning of a new cycle of religious ritual.
 10
 It thus made perfect sense to set the clock to start a new cycle at this time, with the call fo
  
@@ -299,7 +299,7 @@ It thus made perfect sense to set the clock to start a new cycle at this time, w
  ---
 
  https://www.academia.edu/4380728/Greenwich_time_and_the_line
- Greenwich, time and ‘the line'
+ Greenwich, time and 'the line'
  On why the prime meridian is where it is...
  ...
  There is a standard account of the genesis of the Prime Meridian in Greenwich. Although Britain had taken the meridian (north
@@ -317,9 +317,9 @@ here were suggestions that watchmakers were encouraging the notion that not just
 7
 Even
  Nature
-, although aware that the 24-h notation was likely only to be used by railway and telegraph companies at present, thought it ‘‘proper
+, although aware that the 24-h notation was likely only to be used by railway and telegraph companies at present, thought it ''proper
  . . .
- to consider in what way ordinary watches and clocks could be best accommodated to such a change in the reckoning’’.
+ to consider in what way ordinary watches and clocks could be best accommodated to such a change in the reckoning''.
 8
 Their suggestions about 24-h movements or double dials and, especially, the raising of the issue of how many times a public clock might strike at night caused a ﬂurry of correspondence with some even more tortuously complicated suggestions as well as dismissive rejections of any such measures
  ...
@@ -362,7 +362,7 @@ before 1969 some of the legislation expressly removed the common law rule. Natio
 ```{admonition} Family Law Reform Act, 1969
 
 Section 9 states:
-‘9 Time at which a person attains a particular age  
+'9 Time at which a person attains a particular age  
 (1) The time at which a person attains a particular age expressed in years shall be the commencement of the relevant anniversary of the date of his birth.  
 (2) This section applies only where the relevant anniversary falls on a date after that on which this section comes into force, and, in relation to any enactment, deed, will or other instrument, has effect subject to any provision therein.
 ```
@@ -375,7 +375,7 @@ Greenwich Mean Time (GMT) now applies throughout the UK by statute (save to the 
 
 This section is apparently derived from the Statutes (Definition of Time) Act 1880, s 1.
 
-The Summer Time Act 1972, s 3(1), as amended, provides that: ‘Wherever any reference to a point of time occurs in any enactment, Order in Council, order, regulation, rule, byelaw, deed, notice or other document whatsoever, the time referred to shall, during the period of summer time, be taken to be the time fixed for general purposes by 'the Summer Time Act 1972'.
+The Summer Time Act 1972, s 3(1), as amended, provides that: 'Wherever any reference to a point of time occurs in any enactment, Order in Council, order, regulation, rule, byelaw, deed, notice or other document whatsoever, the time referred to shall, during the period of summer time, be taken to be the time fixed for general purposes by 'the Summer Time Act 1972'.
 
 However, nothing in the Summer Time Act 1972 affects the use of Greenwich Mean Time for the purposes of astronomy, meteorology or navigation, or affects the construction of any document mentioning or referring to a point of time in connection with any of those purposes: s 3(2). So pension schemes seem likely to need to use Summer Time and probably not GMT even if (I suggest) the scheme relates to astronomers, weather persons or navigators.
 
@@ -387,7 +387,7 @@ What happens if an Act of Parliament relates to actions outside the UK? In R v L
 
 ...
 This defence was dismissed. Lord Goddard held:
-‘If an Act is said to come into force on January 1, it comes into force on the day which is January 1 in the particular place where the Act has to be applied. I can well understand that if an offence were committed in the Western Atlantic the Act might not be in force  there on the same day as it would in London because the date might still be December 31 there, but the fact that it became January 1 in Hong Kong a few hours before the clock would actually show January 1 in England does not make any difference. As the Act comes into force on January 1, 1957, in Hong Kong, it comes into force on the day which is January 1 in Hong Kong. Therefore, this point fails and the appeal is dismissed.
+'If an Act is said to come into force on January 1, it comes into force on the day which is January 1 in the particular place where the Act has to be applied. I can well understand that if an offence were committed in the Western Atlantic the Act might not be in force  there on the same day as it would in London because the date might still be December 31 there, but the fact that it became January 1 in Hong Kong a few hours before the clock would actually show January 1 in England does not make any difference. As the Act comes into force on January 1, 1957, in Hong Kong, it comes into force on the day which is January 1 in Hong Kong. Therefore, this point fails and the appeal is dismissed.
 
 ```
 
@@ -454,7 +454,7 @@ Publication date 1900
 ---
 
 https://www.networkrail.co.uk/stories/180-years-of-railway-time/
- November 1840, The Great Western Railway – on Isambard Kingdom Brunel’s line from London to South West England – told all stations to use London time.
+ November 1840, The Great Western Railway – on Isambard Kingdom Brunel's line from London to South West England – told all stations to use London time.
 
 According to the Science Museum, an 1841 timetable for the GWR line from London to Bridgewater said: "LONDON TIME is kept at all the Stations on the Railway, which is about 4 minutes earlier than READING time; 5½ minutes before STEVENTON time; 7½ minutes before CIRENCESTER time; 8 minutes before CHIPPENHAM time; 11 minutes before BATH and BRISTOL time; and 14 minutes before BRIDGEWATER time."
 
@@ -480,7 +480,7 @@ Local time is the term used to describe the use of local timekeeping. +Een thoug
 
 ---
 file:///Users/tonyhirst/Downloads/greenwich-observatory-time-for-the-public-benefit-standard-time-and-victorian-networks-of-regulation.pdf
-‘Greenwich Observatory Time for the public benefit’: standard time and Victorian networks of regulation
+'Greenwich Observatory Time for the public benefit': standard time and Victorian networks of regulation
 
 --
 
@@ -546,7 +546,7 @@ I observed to the antiquary that I had hoped to have left Southampton in the for
 
 https://en.wikipedia.org/wiki/Roman_timekeeping The English term noon is also derived from the ninth hour. This was a period of prayer initially held at three in the afternoon but eventually moved back to midday for unknown reasons.[10] The change of meaning was complete by around 1300.[11]
 
-https://www.merriam-webster.com/words-at-play/noon-history-ninth-prayer-hour-nones What Time Is 'Noon'? So what was special about that ninth hour? In Christian liturgy, the nones, or ninth hour, was one of the three times of day (along with morning and evening) set aside for prayer. The ninth hour is significant at numerous points in Scripture; in the Gospel of Mark, the hours leading up to the crucifixion of Jesus is described as "darkness over the whole land until the ninth hour” in the King James Version and as lasting "until three in the afternoon” in the New International Version.
+https://www.merriam-webster.com/words-at-play/noon-history-ninth-prayer-hour-nones What Time Is 'Noon'? So what was special about that ninth hour? In Christian liturgy, the nones, or ninth hour, was one of the three times of day (along with morning and evening) set aside for prayer. The ninth hour is significant at numerous points in Scripture; in the Gospel of Mark, the hours leading up to the crucifixion of Jesus is described as "darkness over the whole land until the ninth hour" in the King James Version and as lasting "until three in the afternoon" in the New International Version.
 
 It is believed that the time allotted for this prayer gradually moved up earlier in the day, perhaps at the urgency of monks who would could only end their fast after the prayer was completed. That time known as noon eventually settled on the time when the sun was in the middle of the sky.
 
@@ -604,8 +604,8 @@ those anxieties.
 
 ...
 
-On the one hand, a particular rhythm can create what sociologists of time call ‘temporal
-symmetry’ [16]—the daily cycle, the weekly cycle, the monthly cycle, etc.—with readers
+On the one hand, a particular rhythm can create what sociologists of time call 'temporal
+symmetry' [16]—the daily cycle, the weekly cycle, the monthly cycle, etc.—with readers
 interacting with the media at roughly the same time. This kind of simultaneity becomes
 increasingly signi cant in a collective media culture, and can lead to a form of social
 bonding with a community of readers all engaged in the same activity. In other words,
@@ -615,7 +615,7 @@ those segments or cycles of time—are also socially binding. But we also ought 
 acknowledge that there might equally be temporal asymmetry; that is, because there are
 competing, overlapping cycles of time that confront the reader in the different periodical
 cycles in the nineteenth century, the result could as easily be confusion as cohesion.
-Innes Shand’s uncertainty about the hurried, multitudinous periodicities suggests that one
+Innes Shand's uncertainty about the hurried, multitudinous periodicities suggests that one
 could be out of sync, rather than always in sync. So while there is a repetition of cycles, a regularity to the press in one sense that could lead to a synchronic social experience,
 there is no single cycle, no single motion which somehow contains it all. Magazine Day,
 that much anticipated moment when the monthly magazines were published all at once, was one way of organizing time—it was one ritual of media time, as Brake indicates;
@@ -646,7 +646,7 @@ Alun C Davies
 
 A stick in the ground – or any conspicuous landmark – cast shadows whose lengths varied as the day proceeded. Sundials were a sophisticated version, though cloud cover rendered them useless. Indoors, candles helped, with burnout times approximated.
 
-Better still were hour-glasses, like giant egg timers, standard items for pulpits and navigators. Those with mechanical skills, in ancient Greece and in medieval Europe, puzzled over the construction of time-measuring devices whose motive power derived either from an unwinding spring or falling weights and whose ‘escapements’ might be regulated in some way.
+Better still were hour-glasses, like giant egg timers, standard items for pulpits and navigators. Those with mechanical skills, in ancient Greece and in medieval Europe, puzzled over the construction of time-measuring devices whose motive power derived either from an unwinding spring or falling weights and whose 'escapements' might be regulated in some way.
 
 From the late seventeenth century the accuracy of the mechanisms gradually improved, especially to the benefit of astronomers and other scientists.
 
@@ -658,23 +658,23 @@ These were calibrated to the astronomical readings of an enthusiastic squire or 
 
 The Industrial Revolution changed all that, in two essential ways. The first transformation occurred in how the passage of time was perceived.
 
-People began to behave and organise themselves in a new way. Second, and equally important, there was a revolution in the way in which clocks and watches were made. Ironically, although Great Britain was the home of the Industrial Revolution – it was the ‘first industrial nation’ as one historian famously termed it – the new methods of manufacturing timepieces occurred elsewhere, as the essential features of the Industrial Revolution diffused beyond these islands.
+People began to behave and organise themselves in a new way. Second, and equally important, there was a revolution in the way in which clocks and watches were made. Ironically, although Great Britain was the home of the Industrial Revolution – it was the 'first industrial nation' as one historian famously termed it – the new methods of manufacturing timepieces occurred elsewhere, as the essential features of the Industrial Revolution diffused beyond these islands.
 
-The series What The Industrial Revolution Did for Us directly and indirectly touches on changes in the use and perception of time. We see how Captain Cook pioneered the application of the newly developed chronometers to ‘carry’ Greenwich time with him to the other ends of the earth.
+The series What The Industrial Revolution Did for Us directly and indirectly touches on changes in the use and perception of time. We see how Captain Cook pioneered the application of the newly developed chronometers to 'carry' Greenwich time with him to the other ends of the earth.
 
 This enabled him to determine longitude more easily and accurately than before, and to attain remarkable precision in his charts and maps, (with an exactness barely improved before satellites).
 
-The revolution in ocean navigation proved of incalculable benefit to Britain’s commercial prosperity and national security, as the merchant marine and the Royal Navy became equipped with the equivalents of today’s computers.
+The revolution in ocean navigation proved of incalculable benefit to Britain's commercial prosperity and national security, as the merchant marine and the Royal Navy became equipped with the equivalents of today's computers.
 
-The Clerkenwell district of London, location of Britain’s most skilled horological craftsmen, became the Silicon Valley of the era.
+The Clerkenwell district of London, location of Britain's most skilled horological craftsmen, became the Silicon Valley of the era.
 
 But there is one crucial irony. Its products – beautiful clocks, exquisite watches, and prodigiously accurate chronometers – were handcrafted empiricisms, not the standardised products of a factory. Mass produced timekeepers came later, and not in the country that pioneered factory production, but the United States.
 
-A mention of ‘factory production’ reminds us of one of its pioneers, Thomas Arkwright. The factories of Arkwright and others involved not only housing large new machines but also applying new kinds of business organisation.
+A mention of 'factory production' reminds us of one of its pioneers, Thomas Arkwright. The factories of Arkwright and others involved not only housing large new machines but also applying new kinds of business organisation.
 
-Co-ordination was essential to bring together supplies of raw materials, to organise workers and distribute their output. No point in having workers turn up at any old time, hoping that someone had brought in the cotton or wool to be processed, or hoping that someone had cleared yesterday’s output.
+Co-ordination was essential to bring together supplies of raw materials, to organise workers and distribute their output. No point in having workers turn up at any old time, hoping that someone had brought in the cotton or wool to be processed, or hoping that someone had cleared yesterday's output.
 
-Factories demanded considerable time-management. Workers had to be woken by ‘knockers-up’; shifts needed to be measured by a factory clock.
+Factories demanded considerable time-management. Workers had to be woken by 'knockers-up'; shifts needed to be measured by a factory clock.
 
 As the industrial economy and its transportation network became more and more complex, bulky raw materials and finished products needed synchronised services from canal companies, mail coaches and, later, railways.
 
@@ -689,13 +689,13 @@ But because of a gradual improvement in incomes as a result of the industrial an
 From the middle eighteenth century the impact of the application of the pendulum and other technical improvements to clocks enabled rural craftsmen, often part-time clockmaker-farmers, to manufacture cheap long case clocks that were respectably accurate.
 
 
-More precisely, they assembled and finished the small clock components made in Birmingham’s new ‘toy’ factories after the 1770s. Their cottage grandfather clocks were relatively simple mechanisms in bulky clock cases; they needed winding daily but they cost only a few pounds.
+More precisely, they assembled and finished the small clock components made in Birmingham's new 'toy' factories after the 1770s. Their cottage grandfather clocks were relatively simple mechanisms in bulky clock cases; they needed winding daily but they cost only a few pounds.
 
-They were among the first ‘consumer-durables’ bought at the bottom end of the market. “When any group of workers passed into a phase of improving living standards”, observed the late E. P. Thompson, “the acquisition of timepieces was one of the first things noted by observers.”
+They were among the first 'consumer-durables' bought at the bottom end of the market. "When any group of workers passed into a phase of improving living standards", observed the late E. P. Thompson, "the acquisition of timepieces was one of the first things noted by observers."
 
-So, small farmers and artisans acquired thirty-hour pull-wind clocks for their cottages. And in the new industrial towns some of the skilled, better-paid, workers acquired their own personal status symbols: cheap, bulky (‘turnip-sized’) pocket watches.
+So, small farmers and artisans acquired thirty-hour pull-wind clocks for their cottages. And in the new industrial towns some of the skilled, better-paid, workers acquired their own personal status symbols: cheap, bulky ('turnip-sized') pocket watches.
 
-The parts were made and sometimes assembled in Liverpool and Coventry and, increasingly, Switzerland. They were not invariably accurate or reliable, but they created a demand for a better watch ‘next time’.
+The parts were made and sometimes assembled in Liverpool and Coventry and, increasingly, Switzerland. They were not invariably accurate or reliable, but they created a demand for a better watch 'next time'.
 
 However, neither Switzerland, Great Britain, nor any place else in Europe, developed the quintessential features of factory mass production – standardised, interchangeable parts – and applied them successfully to the production of cheap timepieces.
 
@@ -705,7 +705,7 @@ The clocks were easy to set up, and could be placed anywhere, on a table, mantel
 
 Factory production of watches proved more difficult. Their tolerances were finer. But the stream of technological innovations that shaped the design and production of Yankee clocks led, eventually, to the millions of watches annually produced by the great firms of Waltham, Elgin, Hamilton and Waterbury.
 
-The latter’s price prompted the immortal advertising slogan “The watch that made the dollar famous”. The Industrial Revolution had not only changed our attitude and responses to time. It also revolutionised the way timepieces were produced.
+The latter's price prompted the immortal advertising slogan "The watch that made the dollar famous". The Industrial Revolution had not only changed our attitude and responses to time. It also revolutionised the way timepieces were produced.
 
 Henceforth, there was a clock for every mantelpiece, and a watch for every person.
 
@@ -714,11 +714,11 @@ Henceforth, there was a clock for every mantelpiece, and a watch for every perso
 --
 https://www.proquest.com/docview/2115561525?fromopenview=true&pq-origsite=gscholar&sourcetype=Scholarly%20Journals
 
-“NOTHING IS THE WAY IT SHOULD BE”: GLOBAL TRANSFORMATIONS OF THE TIME REGIME IN THE NINETEENTH CENTURY
+"NOTHING IS THE WAY IT SHOULD BE": GLOBAL TRANSFORMATIONS OF THE TIME REGIME IN THE NINETEENTH CENTURY
 Conrad, Sebastian.  Modern Intellectual History; Cambridge Vol. 15, Iss. 3,  (Nov 2018): 821-848.
 
 
-In Japan, these European products met with high demand, even if, just as in Europe, they remained a luxury good. Only the feudal lords (daimyô) could afford them. They became known as daimyô tokei, ruler clocks, and served primarily as objects of prestige. And yet, even when the clocks survived the long journey fully intact and undamaged, they were put to markedly different use than their designers had intended. Tokugawa Japan followed a flexible time system: day and night were equally divided into six-hour units. An “hour” corresponded to one-sixth of the daytime—with the day beginning at sunrise (the Hour of the Rabbit) and ending at sunset (the Hour of the Rooster). As such, the actual length of the individual units of time varied with the time of the year (ranging between a hundred and 158 minutes), resulting in the daylight “hours” being significantly longer in summer than in winter.
+In Japan, these European products met with high demand, even if, just as in Europe, they remained a luxury good. Only the feudal lords (daimyô) could afford them. They became known as daimyô tokei, ruler clocks, and served primarily as objects of prestige. And yet, even when the clocks survived the long journey fully intact and undamaged, they were put to markedly different use than their designers had intended. Tokugawa Japan followed a flexible time system: day and night were equally divided into six-hour units. An "hour" corresponded to one-sixth of the daytime—with the day beginning at sunrise (the Hour of the Rabbit) and ending at sunset (the Hour of the Rooster). As such, the actual length of the individual units of time varied with the time of the year (ranging between a hundred and 158 minutes), resulting in the daylight "hours" being significantly longer in summer than in winter.
 
 The introduction of the mechanical clock, with all its precision and regularity, did not have any marked effects on customary ways of timekeeping. Quite to the contrary: instead of adapting cosmology, Japanese craftsmen began to modify the technology. Through a complex process, the balance wheel—used to keep the clock's measurement consistent—was adorned with adjustable weights and was additionally recalibrated twice a day, in order to maintain the varying differences between the daytime and nighttime hours. Moreover, season-specific clock faces adjusted the clock to the local time regime. In this way, the Japanese went out of their way to reverse the emancipation from the cycles of nature that the clock seemed to promise. `[Tsunoyama Sakai, Tokei no shakaishi (Tokyo, 1984); Sawada Taira, Wadokei: Edo no haiteku gijutsu (Tokyo, 1996). For time keeping during the Tokugawa periods see also Yulia Frumer, "Translating Time: Habits of Western-Style Timekeeping in Late Edo Japan," Technology and Culture 55 / 4 (2014), 785–820 10.1353/tech.2014.0116. (Also: https://www.jstor.org/stable/24468471)]`
 
@@ -726,7 +726,7 @@ The introduction of the mechanical clock, with all its precision and regularity,
 ---
 
 
-Yulia Frumer, “ Translating Time: Habits of Western-Style Timekeeping in Late Edo Japan,” Technology and Culture 55 / 4 (2014), 785–820 10.1353/tech.2014.0116.
+Yulia Frumer, " Translating Time: Habits of Western-Style Timekeeping in Late Edo Japan," Technology and Culture 55 / 4 (2014), 785–820 10.1353/tech.2014.0116.
 https://www.jstor.org/stable/24468471
 
 ...
@@ -907,7 +907,7 @@ Sacha Stern
 
 An objective date line would only be conceivable in the context of a purely natural calendar. This would apply, for example, to an Islamic calendar, or any other lunar calendar, that would depend strictly on the first sighting of the New Moon crescent, and where the evening when the New Moon is sighted would mark the beginning of the month. In such a calendar, the date line would represent the boundary on the globe between those regions where the New Moon was first sighted on one evening and where (typically, further to the east) the Moon was not sighted until the following evening; consequently, the dates of the month in both regions would be one day apart. This natural, lunar date line would necessarily change (i.e. be located elsewhere on the globe) every month, as from month to month the boundary between sighting and non-sighting is never in the same place. In practice, however, Islamic calendars do not strictly adhere to lunar sighting for the determination of the beginning of the month, so that this movable date line remains no more than theoretical (see http://www.islamicmoon.com/global_hijri_calendar.htm; accessed 23 May 2017). Although this date line would be objective, in the sense that it would not depend on any arbitrary agreement, it would not be free of human agency, inasmuch as it would depend on when people happen to have sighted the New Moon. It might be possible to do away with human agency,and define this date line on the basis of when and where the New Moon has met astronomical conditions of first visibility (regardless of whether the Moon was actually seen). These conditions, however, would have to be agreed upon in advance by scientific consensus.
 
-Similarly, an objective date line would be conceivable in a solar calendar in which the year begins at the point of (for example) the true astronomical spring equinox. In this calendar, however, the date line would still depend on an element of convention, as it would be necessary to reach agreement on when the day unit begins. If midnight (however defined) were taken, for example, as the beginning of the day unit, then time zones where the equinox occurred before and after midnight would differ in their dates by one day. Again, in such a calendar the date line would vary from year to year, and would thus be ‘movable’.
+Similarly, an objective date line would be conceivable in a solar calendar in which the year begins at the point of (for example) the true astronomical spring equinox. In this calendar, however, the date line would still depend on an element of convention, as it would be necessary to reach agreement on when the day unit begins. If midnight (however defined) were taken, for example, as the beginning of the day unit, then time zones where the equinox occurred before and after midnight would differ in their dates by one day. Again, in such a calendar the date line would vary from year to year, and would thus be 'movable'.
 
 ...
 
@@ -926,14 +926,14 @@ began after the six days of Creation, when Adam began to count and name the days
 
 ...
 
-> How can it be that Levi, who lives in the navel of the earth, 5 should be now at midday of the Sabbath, whilst Judah, his neighbour slightly away from him to the east, should disagree and say: ‘Not at all! We are now in the previous day!’
+> How can it be that Levi, who lives in the navel of the earth, 5 should be now at midday of the Sabbath, whilst Judah, his neighbour slightly away from him to the east, should disagree and say: 'Not at all! We are now in the previous day!'
 – can there ever be any mockery or madness such as this?
 
-> In truth, I would generally say that it is completely impossible and unfeasible for people standing together on the same day and seeing together the sun to be calling some of them the day ‘such-and-such a day of the week’, whilst at that time the others call it the day before or theday after.
+> In truth, I would generally say that it is completely impossible and unfeasible for people standing together on the same day and seeing together the sun to be calling some of them the day 'such-and-such a day of the week', whilst at that time the others call it the day before or theday after.
 
 Consequently, Isaac Israeli concludes that there is no date line at all. Instead, he argues that the day begins in the eastern extremity of the inhabited world, wherever exactly this may be, and ends in its western extremity. He is presumably assuming a Ptolemaic model of world geography, in which the inhabited world stretches from China in the Far East to Spain in the far west (Ptolemaic world maps remained dominant in the West throughout the Middle Ages; see Mittenhuber, 2010).
 
-Although the date must change somewhere in the uninhabited hemisphere (west of Spain and east of China), in Israeli’s perspective this is a vast ocean, and the location of this change is therefore irrelevant and in no need of determination.
+Although the date must change somewhere in the uninhabited hemisphere (west of Spain and east of China), in Israeli's perspective this is a vast ocean, and the location of this change is therefore irrelevant and in no need of determination.
 
 ...
 
@@ -948,4 +948,4 @@ My first explanation is that for Jews, the precise definition of the date of Sab
 --
 
 https://www.historicnavalfiction.com/general-hnf-info/naval-facts/the-watch-system
-On Royal Navy ships of the sailing era the ships bell was used to tell everyone on board what the time was. Usually a half hour sand glass was used and as the Midshipman of the Watch turned it over the bell was rung a number of times to let the crew know how long they had been on watch and when the relief was due to take over. To allow for any discrepancies in turning the glass the naval day started at noon when the noon sight (the Captain and senior officers establishing when the Sun reached it’s daily zenith) could be used to start the daily cycle.
+On Royal Navy ships of the sailing era the ships bell was used to tell everyone on board what the time was. Usually a half hour sand glass was used and as the Midshipman of the Watch turned it over the bell was rung a number of times to let the crew know how long they had been on watch and when the relief was due to take over. To allow for any discrepancies in turning the glass the naval day started at noon when the noon sight (the Captain and senior officers establishing when the Sun reached it's daily zenith) could be used to start the daily cycle.

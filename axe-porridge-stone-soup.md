@@ -36,7 +36,7 @@ Now the old woman had plenty of everything, but she was stingy and pretended to 
 
 "Ah, me, I've had nothing to eat myself today, dear heart, there is nothing in the house," she wailed.
 
-"Well, if you’ve nothing, you’ve nothing," the soldier said. Then, noticing an axe without a handle under the bench: "If there’s nothing else, we could make porridge out of that axe."
+"Well, if you've nothing, you've nothing," the soldier said. Then, noticing an axe without a handle under the bench: "If there's nothing else, we could make porridge out of that axe."
 
 The old woman raised both hands in astonishment.
 
@@ -327,7 +327,7 @@ ST. BERNARD'S SOUP.— Will any reader of 'N. & Q.' kindly give me information w
 
 Brewers *Dictionary Of Phrase and Fable* of 1870 describes Saint Bernard's tale in the following way:
 
-```{admonition} Stone soup or St. Bernard’s soup, Brewer's, 1870
+```{admonition} Stone soup or St. Bernard's soup, Brewer's, 1870
 :class: dropdown
 https://archive.org/details/dli.ernet.15983/page/867/mode/2up
 Brewers Dictionary Of Phrase and Fable (1870)
@@ -335,7 +335,7 @@ Brewers Dictionary Of Phrase and Fable (1870)
 Publication date 1870
 p867
 
-Stone soup or St. Bernard’s soup.
+Stone soup or St. Bernard's soup.
 
 The story goes that a beggar asked alms at a lordly mansion, but was told by the servants they had nothing to give him. "Sorry for it," said the man, "but will you let me boil a little water to make some soup of this stone?" This was so novel a proceeding, that the curiosity of the servants was aroused, and the man was readily furnished with saucepan, water, and a spoon. In he popped the stone, and begged for a little salt and pepper for flavouring. Stirring the water and tasting it. he said it would be the better for any fragments of meat and vegetables they might happen to have. These were supplied, and ultimately he asked for a little ketchup or other sauce. When ready the servants tasted it, and declared that "stone soup" was excellent.
 
@@ -350,7 +350,7 @@ In *Dumfries and Galloway Standard*, Saturday 25 February 1939, [p14](https://ww
 
 STRANGE LEGENDS.
 
-SAINT BERNARD’S SOUP- Saint Bernard, the Abbot of Clairvaus, lived in the twelfth century, and was famed for his wisdom and kindness. Being a great man as well as good one he discovered that people were on their guard when they spoke to him, so in order to know what they were thinking about he sometimes disguised himself as a beggar and wandered the country.
+SAINT BERNARD'S SOUP- Saint Bernard, the Abbot of Clairvaus, lived in the twelfth century, and was famed for his wisdom and kindness. Being a great man as well as good one he discovered that people were on their guard when they spoke to him, so in order to know what they were thinking about he sometimes disguised himself as a beggar and wandered the country.
 
 On these occasions Saint Bernard like a real beggar. He set out without a penny in his pocket, and suffered all the hardships of the poor. When starving he had to trust to his wits to obtain food. After being refused even a crust in a certain village, he went to the house of the lord of the manor, and knocked at the door. But the servant tried to drive him away.
 
@@ -360,16 +360,16 @@ On these occasions Saint Bernard like a real beggar. He set out without a penny 
 
 Thinking that it would be fun to watch a beggar eating a stone, the master told him to come into the kitchen and gave him a saucepan containing cold water. St Bernard rolled his eyes, rubbed his hands, set the saucepan on the fire, popped the stone in, and asked for a spoon with which to stir it.
 
-"How my mouth waters," he as he stirred the stone round and “ This will bo de-li-ci-ous. Could you spare me little salt and pepper to season it?"
+"How my mouth waters," he as he stirred the stone round and " This will bo de-li-ci-ous. Could you spare me little salt and pepper to season it?"
 
 He was given salt and pepper, and went on boiling the stone. Then he asked for some cold vegetables that the cook was keeping for the dogs, and put them into the soup.
 
-"A few fragments of meat improve stone soup tremendously, and a trifle of catsup or sauce of any kind makes it fit for a king. If only I had both, I’d ask you to taste my soup and I know that the master cook would not be ashamed of it."
+"A few fragments of meat improve stone soup tremendously, and a trifle of catsup or sauce of any kind makes it fit for a king. If only I had both, I'd ask you to taste my soup and I know that the master cook would not be ashamed of it."
 
 So they gave him some scraps of meat, a little boiled rice, crust, and some sauce. Ten minutes later St Bernard said his soup was ready. Then all the servants gathered round, tasted it, and declared it to be delicious. As for St. Bernard, he sat down on the doorstep and enjoyed it tremondously, but he slipped the stone into his pocket. 
 
-"Well I never," thought when, with many thanks, handed him back the empty saucepan. "The stone’s gone."
+"Well I never," thought when, with many thanks, handed him back the empty saucepan. "The stone's gone."
 
-Off started St Bernard, refreshed and grateful, and he continued to live on stone soup till the story began to get about. Then the good Abbot laughed heartily, but the people laughed uncomfortably, because it showed meanness. To this day in France, the excellent soup made from oddments is called St Bernard’s soup.
+Off started St Bernard, refreshed and grateful, and he continued to live on stone soup till the story began to get about. Then the good Abbot laughed heartily, but the people laughed uncomfortably, because it showed meanness. To this day in France, the excellent soup made from oddments is called St Bernard's soup.
 
 ```

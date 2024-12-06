@@ -27,9 +27,9 @@ So she was taken away to be hanged by t' neck till she were dead, a cause she'd 
 
 [But she had a sweetheart, and he said he would get ball. So he went tu't park-gate, but 't was shut; so he climbed hedge, and when he got tut top of hedge, an old woman rose up out of t' dyke afore him, and said, if he would get ball, he must sleep three nights in t' house. He said he would.
 
-Then he went into t' house, and looked for ball, but could na find it. Night came on and he heard spirits move it courtyard; so he looked out o' t' window, and t’ yard was full of them, like maggots in rotten meat.
+Then he went into t' house, and looked for ball, but could na find it. Night came on and he heard spirits move it courtyard; so he looked out o' t' window, and t' yard was full of them, like maggots in rotten meat.
 
-Presently he heard steps coming upstairs. He hid behind door, and was as still as a mouse. Then in came a big giant five times as tall as he were, and giant looked round but did not see t' lad, so he went tut window and bowed to look out; and as he bowed on his elbows to see spirits it yard , t' lad stepped behind him, and wi’ one blow of his sword he cut him in twain, so that the top part of him fell in the yard, and t bottom part stood looking out of t'window .
+Presently he heard steps coming upstairs. He hid behind door, and was as still as a mouse. Then in came a big giant five times as tall as he were, and giant looked round but did not see t' lad, so he went tut window and bowed to look out; and as he bowed on his elbows to see spirits it yard , t' lad stepped behind him, and wi' one blow of his sword he cut him in twain, so that the top part of him fell in the yard, and t bottom part stood looking out of t'window .
 
 There was a great cry from t' spirits when they saw half the giant come tumbling down to them, and they called out, " There comes half our master, give us t' other half.'
 
@@ -39,9 +39,9 @@ Next night t' lad was at the house again, and now a second giant came in at door
 
 The third night t' lad got into bed , and he heard spirits striving under the bed , and they had t' ball there, and they was casting it to and fro.
 
-Now one of them has his leg thrussen out from under bed, so t’ lad brings his sword down and cuts it off. Then another thrusts his arm out at other side of the bed, and t' lad cuts that off. So at last he had maimed them all , and they all went crying and wailing off, and forgot t' ball, but he took it from under t' bed, and went to seek his truelove.]
+Now one of them has his leg thrussen out from under bed, so t' lad brings his sword down and cuts it off. Then another thrusts his arm out at other side of the bed, and t' lad cuts that off. So at last he had maimed them all , and they all went crying and wailing off, and forgot t' ball, but he took it from under t' bed, and went to seek his truelove.]
 
-Now t’ lass was taken to York to be hanged; she was brought out on t' scaffold , and t' hangman said, 'Now , lass, tha' must hang by t' neck till tha be’st dead .' But she cried out:
+Now t' lass was taken to York to be hanged; she was brought out on t' scaffold , and t' hangman said, 'Now , lass, tha' must hang by t' neck till tha be'st dead .' But she cried out:
 
 Stop, stop, I think I see my mother coming!  
 Oh mother, hast brought my golden ball  
@@ -230,7 +230,7 @@ In Notes and Queries section of Folk-Lore Journal
 
 p144
 
-An old Ballad. —Has the following ballad ever been printed, and if so, where? I heard it from a relative of Dr. Birkbeck Hill’s, in whose family it is tradtiional. A young man on his way to the gallows appeals to his parents and brethren in the following terms:—
+An old Ballad. —Has the following ballad ever been printed, and if so, where? I heard it from a relative of Dr. Birkbeck Hill's, in whose family it is tradtiional. A young man on his way to the gallows appeals to his parents and brethren in the following terms:—
 
 "Hold up, hold up your hands so high,  
 Hold up your hands so high,  

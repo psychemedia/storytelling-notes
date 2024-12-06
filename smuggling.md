@@ -70,14 +70,14 @@ While the Gentlemen go by!
 
 The Listeners
 BY WALTER DE LA MARE
-‘Is there anybody there?’ said the Traveller,
+'Is there anybody there?' said the Traveller,
 Knocking on the moonlit door;
 And his horse in the silence champed the grasses
-Of the forest’s ferny floor:
+Of the forest's ferny floor:
 And a bird flew up out of the turret,
-Above the Traveller’s head:
+Above the Traveller's head:
 And he smote upon the door again a second time;
-‘Is there anybody there?’ he said.
+'Is there anybody there?' he said.
 But no one descended to the Traveller;
 No head from the leaf-fringed sill
 Leaned over and looked into his grey eyes,
@@ -89,15 +89,15 @@ To that voice from the world of men:
 Stood thronging the faint moonbeams on the dark stair,
 That goes down to the empty hall,
 Hearkening in an air stirred and shaken
-By the lonely Traveller’s call.
+By the lonely Traveller's call.
 And he felt in his heart their strangeness,
 Their stillness answering his cry,
 While his horse moved, cropping the dark turf,
-’Neath the starred and leafy sky;
+'Neath the starred and leafy sky;
 For he suddenly smote on the door, even
 Louder, and lifted his head:—
-‘Tell them I came, and no one answered,
-That I kept my word,’ he said.
+'Tell them I came, and no one answered,
+That I kept my word,' he said.
 Never the least stir made the listeners,
 Though every word he spake
 Fell echoing through the shadowiness of the still house
@@ -242,7 +242,7 @@ serving ships of any nation in distress.
 
 
 https://www.gov.uk/guidance/wreck-and-salvage-law
-According to section 255 of the Merchant Shipping Act 1995, the definition of wreck includes "jetsam, flotsam, lagan and derelict found in or on the shores of the sea or any tidal water”.
+According to section 255 of the Merchant Shipping Act 1995, the definition of wreck includes "jetsam, flotsam, lagan and derelict found in or on the shores of the sea or any tidal water".
 Jetsam describes goods cast overboard to lighten a vessel in danger of sinking. The vessel may still perish.
 Flotsam describes goods lost from a ship which has sunk or otherwise perished. Goods are recoverable because they remain afloat.
 Lagan describes goods cast overboard from a ship which afterwards perishes. The goods are buoyed so they can be recovered.
@@ -256,7 +256,7 @@ William Blackstone, at paragraph 292 of his Commentaries on the Laws of England,
 "Ligan is where they are sunk in the sea, but tied to a cork or buoy in order to be found again."
 
 https://www.beachcombingmagazine.com/blogs/news/flotsam-and-jetsam
-Sir William Blackstone (1723-1780) was an English lawyer, judge, and Tory politician who spent a good amount of time researching and studying jurisprudence and was most famous for writing Commentaries on the Laws of England, which was published in four volumes between 1765 and 1769. He penned these eloquent words about his country’s maritime laws, "...in order to constitute a legal wreck, the goods must come to land. If they continue at sea, the law distinguishes them by the barbarous and uncouth appellations of jetsam, flotsam, and ligan.”
+Sir William Blackstone (1723-1780) was an English lawyer, judge, and Tory politician who spent a good amount of time researching and studying jurisprudence and was most famous for writing Commentaries on the Laws of England, which was published in four volumes between 1765 and 1769. He penned these eloquent words about his country's maritime laws, "...in order to constitute a legal wreck, the goods must come to land. If they continue at sea, the law distinguishes them by the barbarous and uncouth appellations of jetsam, flotsam, and ligan."
 Why is the difference important? Because under maritime law, salvaged items may or may not be claimed by the finder depending on whether they are flotsam or jetsam. And determining if debris is flotsam or jetsam rests solely on why it ended up in the water.
 Flotsam, because it was unintentionally cast to the sea, may be claimed by its original owner, and not one who recovers it. Goods or items that float to the surface and eventually to the shore from a sunken vessel may be classified as flotsam. Generally, salvagers may keep the items they find if no one comes forward to lay claim to the found objects but they will have little legal claim to them if the original owners stake a claim. Storied sunken treasure ships, when eventually found, usually make the news as court cases certainly follow. Once ownership is established (typically by the country that owned the ships hundreds of years ago), proving the wreckage was unintentional all but guarantees the flotsam will be returned to its original owner, and rarely to the person who found it.
 Jetsam, because it was intentionally tossed into the water—usually thrown overboard to lighten the load when a ship was in distress—may sometimes be claimed by a lucky rescuer who discovers the discarded items. However, there have been instances where legal claims were successfully made by the jettisoning owner to retrieve their property. 
@@ -319,7 +319,7 @@ As we have noted, however, the vice-admiral and his court were functioning befor
 Medieval Maritime Law from Oléron to
 Wisby: Jurisdictions in the Law of the Sea
 Edda Frankot 
- Regulations regarding maritime law were recorded in compilations like the Rôles d’Oléron [Rolls of Oléron] and the so-called Wisby Sea Law, which
+ Regulations regarding maritime law were recorded in compilations like the Rôles d'Oléron [Rolls of Oléron] and the so-called Wisby Sea Law, which
 in the past have been ascribed a wide-spread validity
 The existence of various town
 laws including maritime regulations suggests, however, that the law of the sea was not
@@ -335,7 +335,7 @@ The clear division between shipowners, skipper,
 freighters and crew which was a result of the thirteenth-century developments, on the
 other hand, has continued until today
 A mention of the laws in a report written in the 12th year of Edward
-III’s reign (1329) confirms that the laws were in use in England in the first half of the
+III's reign (1329) confirms that the laws were in use in England in the first half of the
 14th century1
  In the later 15th century, some articles
 from Lübeck law were added to the text in two stages, resulting in the compilation
@@ -497,7 +497,7 @@ laws drafted by the French government
 Many of the rules seek to "protect" the goods as property of their owners / merchants.
 
 
-BUT " A longstanding British law claimed cargo could be taken if no "man or beast” from the ship were living." ?? https://www.history.com/news/wreckers-shipwrecks
+BUT " A longstanding British law claimed cargo could be taken if no "man or beast" from the ship were living." ?? https://www.history.com/news/wreckers-shipwrecks
 
 
 Wrecking - oleron
@@ -589,7 +589,7 @@ Around 1100, Henry I of England made Richard de Redvers, also from Normandy, Lor
 https://en.wikipedia.org/wiki/Lyre_Abbey Lyre Abbey (French: L'abbaye Notre-Dame de Lyre) was a monastery in Normandy, founded in 1046 at what is now the village of La Vieille-Lyre. From the mid-12th century it was a Benedictine house. It was abolished at the French Revolution and the abbey buildings mostly destroyed.
 
 https://britishfairies.wordpress.com/2019/06/09/there-is-gold-there-fairies-and-buried-treasure/
-The fairies don’t always need a reason to bestow good fortune, though: a man came across the fairies dancing on the beach at Puckaster Cove on the Isle of Wight.  He joined the dance but, after a while, needed to sit and rest.  He sat down on something like a puffball mushroom which burst under his weight, showering gold dust everywhere.  The faeries gave him some of this before he parted from their company.
+The fairies don't always need a reason to bestow good fortune, though: a man came across the fairies dancing on the beach at Puckaster Cove on the Isle of Wight.  He joined the dance but, after a while, needed to sit and rest.  He sat down on something like a puffball mushroom which burst under his weight, showering gold dust everywhere.  The faeries gave him some of this before he parted from their company.
 
 Puckaster http://www.strangehistory.net/2014/06/09/hallucinogenic-fairies/
 https://anchor.fm/thescaredisle/episodes/From-the-Crows-Nest-2019-06-11----Puckaster--Puck-House--Puckpool-and-Goblins-of-the-Isle-of-Wight-e4ef8p
@@ -718,7 +718,7 @@ https://archive.org/details/cu31924011387804/page/n195/mode/2up
 Edward II VOL V-VI cvol V https://archive.org/details/calendarofinquis05grea/page/n5/mode/2up  (hack the URL 05, 06 etc) vol VI https://archive.org/details/calendarofinquis06grea
 
 
-http://tudoraccidents.history.ox.ac.uk/?page_id=177 June 2019. Rock samphire is a succulent coastal plant, nutritious to eat but dangerous to harvest. In Shakespeare’s King Lear, Edgar and Gloucester look down from a cliff and spot ‘one that gathers samphire, dreadful trade’. John Pantridge was practising that trade at Freshwater on the Isle of Wight on 18 June 1576 at a place on the cliffs called ‘peppers mede’, perhaps near Old Pepper Rock. He fell 170 feet onto the rocks below and broke his neck. One month later, on 20 July, the same fleshy, spicy treat lured John Turle to his doom at Fairlight, Sussex. He fell only 13 feet, but it was enough to break ‘his hed and scull’. And women as well as men braved the coast for samphire. At Weston-super-Mare in Somerset on 27 May 1587, Joan Davys fell on a rock and broke her neck when gathering ‘Sampyer’.
+http://tudoraccidents.history.ox.ac.uk/?page_id=177 June 2019. Rock samphire is a succulent coastal plant, nutritious to eat but dangerous to harvest. In Shakespeare's King Lear, Edgar and Gloucester look down from a cliff and spot 'one that gathers samphire, dreadful trade'. John Pantridge was practising that trade at Freshwater on the Isle of Wight on 18 June 1576 at a place on the cliffs called 'peppers mede', perhaps near Old Pepper Rock. He fell 170 feet onto the rocks below and broke his neck. One month later, on 20 July, the same fleshy, spicy treat lured John Turle to his doom at Fairlight, Sussex. He fell only 13 feet, but it was enough to break 'his hed and scull'. And women as well as men braved the coast for samphire. At Weston-super-Mare in Somerset on 27 May 1587, Joan Davys fell on a rock and broke her neck when gathering 'Sampyer'.
 
 https://en.wikipedia.org/wiki/Oyer_and_terminer
 In English law, oyer and terminer (/ˈɔɪ.ər ... ˈtɜːrmɪnər/; a partial translation of the Anglo-French oyer et terminer, which literally means "to hear and to determine"[1]) was the Law French name for one of the commissions by which a judge of assize sat. The commission was also known by the Law Latin name audiendo et terminando, and the Old English-derived term soc and sac.

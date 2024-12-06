@@ -2,7 +2,7 @@
 
 https://www.storymuseum.org.uk/1001-stories/the-three-dolls
 
-David Holt’s Ready to Tell Tales.
+David Holt's Ready to Tell Tales.
 
 https://bababooks.org/chinnakatha2/#partiia Chinna Kattha II 50 ?End the Mind
 

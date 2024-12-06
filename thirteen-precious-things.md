@@ -66,7 +66,7 @@ Thirteen Precious Things of Britain.
 
 7. The Knife of Llawfrodded Farchawg, which would serve twentyfour men simultaneously at any meal.
 
-8. The Caldron of Tyrnog. If meat were put in for a brave man, it waa cooked instantaneously: but meat for a coward would never get boiled therein.
+8. The Caldron of Tyrnog. If meat were put in for a brave man, it was cooked instantaneously: but meat for a coward would never get boiled therein.
 
 9. The Whetstone of Tudwal Tudclud. If the sword of a brave man were sharpened thereon, its cut was certain deah; but if of a coward, the cut was harmless.
 

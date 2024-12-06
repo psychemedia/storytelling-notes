@@ -113,17 +113,17 @@ Phillips Beva, G.
 1881
 https://archive.org/details/touristsguideto05bevagoog
 
-Jenkinson’s practical guide to the Isle of Wight
+Jenkinson's practical guide to the Isle of Wight
 Jenkinson,  Henry Irwin
 1876
 https://archive.org/details/jenkinsonspract00jenkgoog
 
-Briddon’s Illustrated Handbook to the Isle of Wight
+Briddon's Illustrated Handbook to the Isle of Wight
 Harvey Betts, G.
 1875
 https://books.google.co.uk/books?id=P6lYAAAAcAAJ
 
-Nelson’s Handbook to the Isle of Wight: Its History, Topography, and Antiquities
+Nelson's Handbook to the Isle of Wight: Its History, Topography, and Antiquities
 1873
 Davenport Adams, William Henry 
 https://archive.org/details/isleofwightitshi00adam
@@ -138,7 +138,7 @@ Mason, James
 1872
 https://books.google.co.uk/books?id=sAsHAAAAQAAJ
 
-Black’s Picturesque Guide to the Isle of Wight
+Black's Picturesque Guide to the Isle of Wight
 Black, A. and C.
 1871
 https://archive.org/details/blackspicturesq00unkngoog
@@ -168,7 +168,7 @@ Venables Rock, Edmund
 1860
 https://books.google.co.uk/books?id=shMHAAAAQAAJ
 
-The pleasure visitor’s companion in making the tour of the Isle of Wight, pointing out the best plan for seeing in the shortest time every remarkable object
+The pleasure visitor's companion in making the tour of the Isle of Wight, pointing out the best plan for seeing in the shortest time every remarkable object
 Brannon
 1857
 https://books.google.co.uk/books?id=m6lbAAAAQAAJ
@@ -193,12 +193,12 @@ Coleman, John Noble
 1851
 https://archive.org/details/a629414400coleuoft
 
-Barber’s picturesque guide to the Isle of Wight
+Barber's picturesque guide to the Isle of Wight
 Barber, Thomas
 1850
 https://archive.org/details/barberspicturesq00barbuoft
 
-Owen Gladdon’s wanderings in the Isle of Wight
+Owen Gladdon's wanderings in the Isle of Wight
 Old Humphrey
 1850
 https://archive.org/details/owengladdonswan00humpgoog

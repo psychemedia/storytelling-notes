@@ -91,33 +91,33 @@ https://www.irishmusicdaily.com/raggle-taggle-gypsy
 > She abandons her husband and her lavish lifestyle so she can run away with the handsome stranger.
 >
 > Raggle Taggle Gypsy
-> She’s away with the raggle, taggle gypsy-o
-> When the lord returns and can not find his wife, the servants tell him that “she’s away with the raggle taggle gypsy-o”.
+> She's away with the raggle, taggle gypsy-o
+> When the lord returns and can not find his wife, the servants tell him that "she's away with the raggle taggle gypsy-o".
 >
 > Furious, he takes his fastest horse and vows to ride until he finds his wife. When he does find her, however, she refuses to return and says she would prefer to stay with her new gypsy lover.
 >
-> The husband’s reaction to this news is somewhat materialistic and ensures that we don’t have much sympathy with him, even though he has just been abandoned by his wife.
+> The husband's reaction to this news is somewhat materialistic and ensures that we don't have much sympathy with him, even though he has just been abandoned by his wife.
 >
 > How could you leave your house and your land?
-> Instead of coming across as heartbroken or even upset, the husband’s reaction suggests he feels insulted rather than rejected. His main concern is not so much that his wife has left him, but rather that she has left him for an impoverished gypsy.
+> Instead of coming across as heartbroken or even upset, the husband's reaction suggests he feels insulted rather than rejected. His main concern is not so much that his wife has left him, but rather that she has left him for an impoverished gypsy.
 >
-> He fires questions at her, all to do with wealth rather than love. He asks her how could she leave her house, her land, her money and her fine feather bed … “all for a raggle taggle gypsy-o”.
+> He fires questions at her, all to do with wealth rather than love. He asks her how could she leave her house, her land, her money and her fine feather bed … "all for a raggle taggle gypsy-o".
 >
 > These are questions that may be going through the minds of many listeners too but the lady has an answer.
 >
 > What care I for money-o?
-> The wife’s response is that this is all about love. She doesn’t care for money, land, fine beds or anything else. She’d rather sleep out rough in the fields if it means she can be in “the arms of a raggle taggle gypsy-o”.
+> The wife's response is that this is all about love. She doesn't care for money, land, fine beds or anything else. She'd rather sleep out rough in the fields if it means she can be in "the arms of a raggle taggle gypsy-o".
 >
 > Most versions of the Raggle Taggle Gypsy end in this way with the wife happy in her choice and ready to start enjoying her new life. There are, however, several alternative endings.
 >
 > Alternative endings to Raggle Taggle Gypsy
 > In some versions of the song, such as Seven Yellow Gypsies recorded by Nic Jones, the gypsy and his gang are captured by the husband and hanged – denying both us and the wife a happy ending!
 >
-> In other versions, the wife appears to be having second thoughts as she reflects on how last night she slept in a fine feather bed whereas tonight “I will sleep in the cold barren shed”.
+> In other versions, the wife appears to be having second thoughts as she reflects on how last night she slept in a fine feather bed whereas tonight "I will sleep in the cold barren shed".
 >
-> There's nothing stated explicitly but there’s a sense that she is starting to wonder about her decision. This introduction of doubt gives the song more depth as the lady suddenly becomes a more rounded character.
+> There's nothing stated explicitly but there's a sense that she is starting to wonder about her decision. This introduction of doubt gives the song more depth as the lady suddenly becomes a more rounded character.
 >
-> And, of course, these are also the kind of questions that may go through the mind of the listener – will the lady’s new gypsy lover and sleeping rough still seem exciting a few years down the line?
+> And, of course, these are also the kind of questions that may go through the mind of the listener – will the lady's new gypsy lover and sleeping rough still seem exciting a few years down the line?
 ```
 
 ## Chambers' take on the story
@@ -299,7 +299,7 @@ I'm off with the wraggle taggle gipsies, O!
 
 8 Last night you slept on a goose-feather bed,  
 With the sheet turned down so bravely, O!  
-And to-night you’ll sleep in a cold open field,  
+And to-night you'll sleep in a cold open field,  
 Along with the wraggle taggle gipsies, O!
 
 9 What care I for a goose-feather bed,  
@@ -421,7 +421,7 @@ Such traditional stories as these, which, whether themselves authentic or not, a
 
 One of the works referred to in *Scottish Gypsies under the Stewarts*, William Anderson's *The Scottish nation*, contains one of the most comprehensive bioraphies of the claimed inspiration for song, the Sixth Earl of Cassilis, his wife Lady Jean Hamilton, and the man to whom she was originallyh betrothed, Sir John Faa of Dunbar.
 
-```{admonition} Biographies of original cast, 1863
+```{admonition} Biographies of the original cast, 1863
 :class: dropdown
 https://archive.org/details/b21974354_0001/page/606/mode/2up
 The Scottish nation, or, The surnames, families, literature, honours, and biographical history of the people of Scotland/ by William Anderson

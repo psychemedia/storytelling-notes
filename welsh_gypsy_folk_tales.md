@@ -7,7 +7,7 @@ Journal of the Gypsy Lore Society
 https://babel.hathitrust.org/cgi/mb?a=listis;c=778052705
 
 ---
-Following two both via inntor Phlip's Watkins English Folktales
+Following two both via Phlip's Watkins English Folktales
 
 https://archive.org/details/journalgypsylore3rdsv1-1922/page/n139/mode/2up
 Journal of the Gypsy Lore Society
@@ -46,13 +46,13 @@ SERIES I.
 6. Clever Pat, p219-223
 7. The Cave at Rhydwen, p223-4
 8. The Seven Mysteries of the Luck, p224-7
-9. Appy Boswell’s Monkey, p227-8
-10. Appy Boswell’s Monkey. Another Tale, p228
-11. Appy Boswell’s Grinding Barrow— A variant, p228-9
-12. How Appy Boswell’s Grinding Barrow was Sold Twice Over, p229-30
-13. Appy Boswell’s Dog: Variants, p230-1
-14. Appy Boswell’s Donkey: Variants, p232
-15. Appy Boswell’s Donkey: Another tale, p232
+9. Appy Boswell's Monkey, p227-8
+10. Appy Boswell's Monkey. Another Tale, p228
+11. Appy Boswell's Grinding Barrow— A variant, p228-9
+12. How Appy Boswell's Grinding Barrow was Sold Twice Over, p229-30
+13. Appy Boswell's Dog: Variants, p230-1
+14. Appy Boswell's Donkey: Variants, p232
+15. Appy Boswell's Donkey: Another tale, p232
 16. What Happened to Appy Boswell in a Public-House, p232-3
 17. Appy Boswell and the Conger Eel, p233
 

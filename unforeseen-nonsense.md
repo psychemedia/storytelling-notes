@@ -10,7 +10,7 @@ Also performed at:
 
 *Background to traditional storytelling.*
 
-- Hudden, Dudden & Donal O'Leary, which I first heard from Eddie Lenihan (related story note: [*Hudden, and Dudden, and Donald O’Neary*](https://psychemedia.github.io/storytelling-notes/hudden_dudden.html))
+- Hudden, Dudden & Donal O'Leary, which I first heard from Eddie Lenihan (related story note: [*Hudden, and Dudden, and Donald O'Neary*](https://psychemedia.github.io/storytelling-notes/hudden_dudden.html))
 
 The main part of the set uses a frame tale to nest three other tales. The frame tale comes from an 1884 translated work, *Folk-Lore of Modern Greece*, of a set of orally collected tales published in 1879.
 

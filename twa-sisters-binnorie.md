@@ -60,7 +60,7 @@ By the bonny mill-dams o' Binnorie.
 "And yonder stands my brother Hugh,  
 Binnorie, O Binnorie;  
 And by him, my William, false and true;  
-By the bonny mill-dams o’ Binnorie."
+By the bonny mill-dams o' Binnorie."
 
 Then they all wondered, and the harper told them how he had seen the princess lying drowned on the bank near the bonny mill-dams o' Binnorie, and how he had after wards made this harp out of her hair and breast-bone.
 
