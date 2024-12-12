@@ -17,7 +17,7 @@ Joe's comment, perhaps understandably, was *why* you would put out a low quality
 
 That didn't seem to convince Joe.
 
-But that's maybe not surprising, becuase I wasn't describing it very well.
+But that's maybe not surprising, because I wasn't describing it very well.
 
 But this maybe descrtines it better: I don't want to produce a *commodity* item.
 
