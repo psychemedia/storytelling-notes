@@ -70,30 +70,57 @@ I'm away with the raggle taggle gypsy-o!"
 
 My current-working take on the tale, is still in preparation:
 
+```{admonition} A telling
+:class: seealso dropdown
+
 > There is, or was, in the Cassilis family's winter home in Maybole,  a fragment of tapestry, depicting a beautiful young woman astride a majestic white horse, arms clasped round the waist of her hadnsome lover, a party of gaily clothed men riding with them.
+>
 > You can sense their happiness, their excitement at riding together, their love of life, and their love for each other. It is said that those tapestries were stitched by the former Lady Cassilis herself. It is said, that the walls of her room were covered from floor to ceiling with panels of similar scenes.
+>
 > Years before, the young Lady Jean Hamilton was very much in love with dashing young knight. Sir John Faa was his name, of nearby Dunbar. Jean was still too young to marry, but they had betrothed themselves to each other. Even so, Jane's father was less then enamoured of the young knight, and favoured a more advantageous partnership, in the form of a marriage to the Earl of Cassilis. Who know what strategies Lady Jane used to try to put her father off this idea — "I can't marry him; it would not be right; you all saw what the fifth earl did to his wife — he beat her senseless, and suffered the penalty for it; he treated her worse than he would his dog; would you have me, would you have your own daughter, treated that same way?" But the sixth earl was considered a man of great virtue, serious, and grave, and not like his cousin, and Lady Jane's father was insistent, that Lady Jane and Sir John Faa should break off their engagement. To try to buy some time, Sir John Faa departed to the continent to do whatever  "knightly things" men of adventure did at that time; and when he returned in a couple of years, he would surely have achieved such a rank that would him legitimise him as a husband.
+>
 > The time passed slowly. Jane's father began to seek a suitor for her. She did what she could to dissuade him, but it was to no avail. The second anniversary of her parting from Johnny Faa came and went, and then, a letter arrived, from the English ambassador at Madrid. Johnny Faa had been involved in some sort of battle, or fight, and had been killed.
+>
 > If Jane had complained about the age difference — Cassilis was older than she — about how the family fortune would be lost into his estate if — when — he would die before her — it made no difference: a dispensation was made that her fortune would remain hers.
+>
 > So married she would be.
+>
 > And married she was.
+>
 > And as a wife, she did "her duty", bearing the earl a son and two daughters.
+>
 > It is said that the Lady Cassilis was a pious and knowldgheable woman, but she could also be rather outspoken; once, during the Commonwealth, when Cromwell's men were passing by the Castle, she started to taunted them, to lambast them, to call them out as *murderes*. Her maid tried to stop her, but the lady was in full voice, and her maid was only able to pull her away one of the soldiers fired his musket back in response, with the musket ball only narrowly missing both of the women.
+>
 > Another time, when the Earl was away, a party of gypsies passed by; at that time, gypsy bands had a certain *reputation*: whenever they passed by, anything that wasn't tied down would somehow end up in their possession; and if anyhting was tied down, you;d be lucky if you were left with the rope. But this band seemed different. This band seemd more like troubadours than vagabonds, musicians rather then thieves.
+>
 > They'd settled on the mound in front of the Castle, beneath the boughs of the spreading tree that grew there. The Lady Cassilis had a taken a fancy to listen to them sing and play from the battlements. She called her maid to fetch some coins, that she could throw down to them, and called them closer... and recognised, amongst, them, Johnny Faa. Her true love. Her betrothed. The maid was sent to tell the men to go round to the kitchens, where they would be fed. And somehow she managed to meet with them, or at least, one of them in particular.
+>
 > "what happened to you? Where have you been? We had a letter, that you were killed, that you were killed in some battle, or fight? And so I had to marry him, I, I thought you were dead..."
+>
 > "Not dead, just detained. By the Inquisition... there was a little misunderstanding. I may have said something that dodnlt go down too well... but then, eventually, I, well, you know, and then it took some time to get back across Spain, across the mountains, across France... And when I eventually got to London, I saw Cassilis, heard that he had married, heard he'd married you..."
+>
 > "I joined up up with these men, told them my story... And we made a plan... So come with us, come with me... You don't have to stay here any more. We can be together, like we said we would be."
+>
 > It is said, in some versions of the song, that the gypsies beguiled the lady, that she left with them under some enchantment.
+>
 > It is said, or it is sung, that when the Earl returned home to find his wife had left with a raggle taggle band of gypsies, that he saddled his fastest black horse and set off in search of them.
+>
 > That when he eventually found them, he wondered of his wife how she could leave her house, and her lands, her finery and her finances, and then she replied that she was happier with he raggle taggle gypsy, oh.
+>
 > But the story tells a different tale.
+>
 > It tells of how the Earl of Cassilis and his men found them at a ford, a crossing place of stepping stones over the Doon, a place that came to be known as the Gypsies' steps. Cassilis may well have asked his wife what she thought she was doing, but he also took Sir John Faa, and all but one of the gypsy men he was with, as his prisoners.
+>
 > Becuase at this time in Scotland, the Lord of the manor was also the man who determined the law. And he saw fit to punish John Faa.
+>
 > The Lady Cassilis, Lafy Jane Hamilton, as was, was taken up to the castle. Was taken to the window from which she had teased and taunted Cromxell's men, and forced to watch as one by one the gypsy men were hung from the spreading tree on the mound in front of the house. Was forced to watch as the last of the men, her once betrothed knight, Sir John Faa, was hung by the neck, until he was dead. And then cut down.
+>
 > That room, in the Castle of the Cassilis family line, was forever after known as the Countess' room. For a short while, she remained there, but as she sank into melancholoy and despair, a perhaps understandable reaction to what she had been forced to witness. She was then removed to the family house at Maybole and divorced by the Earl of Cassilis.
+>
 > But still her punishment continued. For carved into the stone staircase were fifteen heads, their features the same as those of Johnny Faa's men, and largest amongst them the carved head of Sit John Faa himself.
+>
 > And so the Lady spent her time in isolation, fixated on creating in tapestry another ending to the tale. An ending that is one more commonly found in the song that was written by the man who escaped the clutches of the Earl of Cassilis' mean at the Gypsies' steps. The song that is known as the *Raggle Taggle Gypsy, Oh*.
+```
 
 By way of comparison, the lyrical content of various versions of the song are reviewed on the [*Irish Music Daily*](https://www.irishmusicdaily.com/raggle-taggle-gypsy) website:
 
