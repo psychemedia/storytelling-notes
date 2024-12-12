@@ -41,6 +41,9 @@ parts:
   - file: raggle_taggle_gypsy
   - file: brother_jucundus
   - file: mr-fox
+- caption: Legends As Told
+  chapters:
+  - file: richmond_drummer_boy
 - caption: Based On Events - As Yet Untold
   chapters:
   - file: press_gang
