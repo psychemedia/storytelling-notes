@@ -79,7 +79,7 @@ My current-working take on the tale, is still in preparation:
 >
 > Years before, the young Lady Jean Hamilton was very much in love with a dashing young knight. John Faa was his name, *Sir* John Faa, of nearby Dunbar. Jean was still too young to marry, but still they betrothed themselves to each other.But Jane's father was less than enamoured with the young knight, and favoured a more advantageous partnership, in the form of a marriage to the Earl of Cassilis.
 >
-> Who knows what strategies Lady Jane used to try to put her father off this idea — "I can't marry him; it wouldn't be right; you all saw what the fifth earl did to his wife — he beat her senseless, *and* suffered the penalty for it, so you canlt say he didn't; he treated her worse than he would his dog; would you have me, would you have your own daughter, treated that same way?"
+> Who knows what strategies Lady Jane used to try to put her father off this idea — "I can't marry him; it wouldn't be right; you all saw what the fifth earl did to his wife — he beat her senseless, *and* suffered the penalty for it, so you can't say he didn't; he treated her worse than he would his dog; would you have me, would you have your own daughter, treated that same way?"
 >
 > But the sixth earl was considered a man of great virtue, serious, and grave, and *not* like his cousin, the previous Earl. And Lady Jane's father was insistent: Lady Jane and Sir John Faa should break off their engagement.
 >
