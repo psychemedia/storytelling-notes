@@ -2,6 +2,8 @@
 
 *Tony "Monty" Hirst*
 
+*A young girl and her brother are given a secret that brings a community together, before a King's purchase from a traveling tinker ruins his banqueting table. A family heirloom and a kindly deed bring other stories to mind, set against a world where there was too much time..*
+
 First Isle of Wight Steampunk Festival, FuBar, Ryde, 3-4pm, Saturday September 21st, 2024.
 
 *Storynotes links can be found by adding the link fragments to the end of:*
