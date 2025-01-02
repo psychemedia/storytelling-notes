@@ -906,3 +906,66 @@ offence
 private contract; but these beliefs cling to the uneducated mind, with a tenacity that almost defies legal and logical proof. A case which took place at Dudley illustrates a whole class: a man sold his wife for sixpence, under a firm belief that the smallest coin would suffice to release him from all marital obligations. In 1863, as a local newspaper informs us, "A wife was sold at Cyfarthfa Iron Works by one workman to another; and the wife seemed more amused than pained by the transfer. The price was two pounds ten shillings, with the understanding that an additional ten shillings should be spent in beer." So recently as 1870 one of these transfers took place at Bury in Lancashire; the purchase-price was eight shillings, and the circumstances showed that in this case, at any rate, the "chattel" was worth little to any one.
 
 Our French neighbours have a widely-spread belief that wife-selling is a familiar and general practice in England. Their error consists in supposing it to be anything more than a rare occurrence, and that it is at all countenanced by the law.
+
+
+https://archive.org/details/yorkshirefolklor01turn/page/138/mode/2up?q=%22wife-sales%22
+Yorkshire folk-lore journal
+by Turner, Joseph Horsfall, 1845-
+
+ 1888
+Vol. I
+
+p87
+
+Wipe Sales. — From a copy of the *Leeds Mercury* for June 1st, 1839, we glean the following items of local interest: William Farrar of Stanningley, better known by Duke Farrar, took his wife to the market cross in Bradford, on Monday morning last, at a little after four o'clock, and sold and delivered her in the presence of a witness, named Hainsworth, to a man from the same place, called Green, for the sum of 5s., 2s. 6d. of which was given to the witness for his wages. The parties went from Stanningley to Bradford market-cross, under the idea that the transfer would then be legal.
+
+Amongst the popular errors which have existed in the minds of the most ignorant of the population may be classed the strange belief that the marriage tie could be dissolved by the sale of the wife by public auction; and a good deal of surprise was felt in many villages of ignorant peasantry at the result of a trial at the West Riding Sessions, June 28th, 1837, where a man named Joshua Jackson was convicted of selling his wife, and sentenced to imprisonment for one month with hard labour. In 1858, in a beershop in Little Horton, Bradford, a man named Hartley Thompson put up his wife, described by the local journals at the tintt as "a pretty young woman," for sale; he even announced the sale beforehand by means of a crier or bellman; he brought her in with a ribbon round her neck, by way of halter. These two persons had lived unhappily together and both entertained a belief that by such a process as this they could legally separate for life. In the year 1815, a man held a regular auction in the market-place at Pontefract, offering his wife at a minimum bidding of one shilling, and "knocking her down" for eleven shillings.  
+S. Rayner.
+
+Another case has come under our notice on the authority of old people of Paddock, near Huddersfield. Edward Holt bought a woman, and, after the death of the legitimate husband, married her. Their children were widely known and respected under the name Th———.  
+Ed.
+
+p139
+Wife Sales. — The following are additional notices, see page 47:
+
+*Annual Register*, February 14, 1806: — "A man named John Gorsthorpe exposed his wife for sale in the market, at Hull, about one o'clock; but, owing to the crowd which such an extraordinary occurrence had gathered together, he was obliged to defer the sale, and take her away. About four o'clock, however, he again brought her out, and she was sold for 20 guineas, and delivered, in a halter, to a person named Houseman, who had lodged with them four or five years."
+
+*Morning Post*, October 10, 1807: — "One of those disgraceful scenes, which have, of late, become too common, took place on Friday se'night at Knaresborough. Owing to some jealousy, or other family difference, a man brought his wife, equipped in the usual style, and sold her at the market cross for 6d. and a quid of tobacco!"
+
+In the *Doncaster Gazette* of March 25, 1803, a sale is thus described:— "A fellow sold his wife, as a cow, in Sheffield market place a few days ago. The lady was put into the hands of a butcher, who held her by a halter fastened round her waist! 'What do you ask for your cow?' said a bystander. 'A guinea,' replied the husband.
+
+"'Done!' cried the other, and immediately led away his bargain. We understand that the purchaser and his 'cow' live very happily together.
+
+---
+https://archive.org/details/bub_gb_f3cAAAAAMAAJ/page/n217/mode/2up?q=%22wife-sale%22
+Things Not Generally Known Popular Errors Explained & Illustrated ...
+by John Timbs
+
+Publication date 1858
+
+p205
+
+EXEMPTIONS BY MARRIAGE.
+
+Formerly there was entertained a vulgar notion that a woman’s marrying a man under the gallows would save him from the execution. This probably arose from a wife having brought an appeal against the murderer of her husband ; who afterwards, repenting of the provocation of her lover, not only forgave the offence, but was willing to marry the appellee.
+
+In the Domestic k Intelligence of March 30, 1680, it is stated that, “ at the execution of a woman named Clark, for firing her master’s house in Southwark, there was a fellow who deigned to marry her under the gallows (according to the ancient laudable custom), when she, being in hopes of a reprieve, seemed unwilling ; but when the rope was about her neck she cried she was willing, and then the fellow’s friends dissuaded him from marrying her ; and so she lost her husband and her life together.” There is added, “ We know of no such custome allowed by law, that any man’s offering at a place of execution to marry a woman condemned shall save her.”
+
+In like manner, it was imagined that when a man intended to marry a woman who was in debt, if he took her from the hands of the priest clothed only in her shift, he would not be liable to her engagements. Another version of this error is, that the woman might clear herself of all debts by crossing the street in which she lived only wearing her shift.
+
+There is a vile offence against the law amongst the most profligate of the lower classes, which some of them have magnified into law — of Selling a Wife.
+
+These errors are explained more at length in Things not generally Known , p. 120-123.
+
+
+--
+
+https://archive.org/details/oxfordduringlast00greerich/page/124/mode/2up?q=%22wife-sales%22
+Oxford during the last century : being two series of papers published in the Oxford chronicle & Berks & Bucks gazette during the year 1859
+by Green, John Richard, 1837-1883
+
+Publication date 1859
+
+p124
+
+A curious instance of the low morality of the times may be seen in the frequency of the "Wife Sales." In August, 1786, we find that "one Broom, of Kennington, near this city, sold his wife to a person of the name of Panton, of Little London, for five shillings, to whom she was publicly delivered soon after with a halter about her neck; but it seems Panton was very soon sick of his bargain, for in the afternoon of the same day he generously made a present of her to Sadler, the Woodward of Bagley." And in the year 1789 we find the new Oxford market-place selected as the scene of one of the brutal barters by a "navvy" employed on the canal, who "tied a penny slip round the waist of his wife, the end of which he held fast till he had pocketed three shillings in part payment, the purchaser not abounding in cash; he then put the cord into the hands of the new husband and took a French leave. The woman immediately called for her second wedding ring, which being put on she eagerly kissed the fellow, with whom she walked off."
