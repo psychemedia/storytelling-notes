@@ -12,6 +12,13 @@ Not in https://archive.org/details/mythsfolkloreofi00curtiala Myths and folk-lor
 
 A collection of irish riddles https://babel.hathitrust.org/cgi/pt?id=mdp.39015039507606&seq=7
 
+Roads turnpikes crossroads https://archive.org/details/patersonsroadsbe00pate/page/229/mode/1up 
+
+Paterson's roads; being an entirely original and accurate description of the direct and principal cross roads in England and Wales, with part of the roads of Scotland
+by Paterson, Daniel, 1738-1825; Mogg, Edward
+
+Publication date 1832
+
 Grimm English translations
 
 https://archive.org/details/germanpopulartal11grim/page/216/mode/2up 1853 vol 1
