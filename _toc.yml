@@ -12,6 +12,7 @@ parts:
   - file: twa-sisters-binnorie
   - file: pedlar-of-swaffham
   - file: three-sillies
+  - file: pottle-of-brains
   - file: soul_cages
   - file: too_much_time
 - caption: As Found in "The Royal Hibernian Tales"
@@ -49,6 +50,7 @@ parts:
   - file: press_gang
   - file: ross-may-hill-old-ellen
   - file: ross-who-killed-the-bear
+  - file: ross-ruardean-murder
   - file: brean_down_gunner_haines
 - caption: Practice and performance notes
   chapters:
