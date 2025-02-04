@@ -219,6 +219,9 @@ Collected and Edited by John Sampson
 No. 5. O Puro Petalengro (The Old Smith)
 pp.53-61
 
+[TH: Blacksmith and the Devil]
+
+
 https://archive.org/details/journalofgypsyl02gyps/page/141/mode/1up
 Collected and Edited by John Sampson
 No. 6 Dui Xari To Pos Xara (Twopence Halfpenny)
@@ -290,7 +293,118 @@ pp.99-113
 https://archive.org/details/journalgypsylore3rdsv2-1923/page/n168/mode/1up
 Collected and Edited by John Sampson
 No. 19. I Benesko Paramisus (The Devil's Tale)
-pp.145-149
+pp.145-149 (-156)
+
+[One of the sources of this story, first heard from Harry Wood, and afterwards retold by his lather, is, as we learn from my colleague's note, the well-known tale, ( Are you angry 7 ' And hence it seems appropriate to print with it a Rumanian Gypsy version taken down several years ago by Miss D. E. Yates.]
+
+There was a little cottage where an old woman lived with her son. Her son was a great big man. And a field away stood a fine hall. And this old woman used to go to this hall every hour to get a loaf of barley-bread, and a great potful of buttermilk. And thus it was for three years.
+
+And one morning the squire asked the old woman: 'Whom hast thou to support that thou dost require so much food?' 'I have no one to keep except myself and my son.' 'I will give thee nothing more; send thy son hither, I wish to see him.'
+
+The old woman returned to her cottage. Quoth she to her son: 'He will give me nothing more, go up, he wishes to see thee.' 'What does he want with me?' said the son. And up he went to the hall.
+
+Here was the squire out on the doorstep, and he looked at him. 'Canst thou work?' quoth the gentile. 'What is work?' asked this big man. 'Come here, I will show thee,' and he led him into the shippon. The gentile took a pitchfork in his hand. 'This is the way,' quoth he, and tossed some cow-dung through the door. 'That is the way I want thee to do it.'
+
+'That is naught!' quoth the big man. He seized the fork, and threw all the dung out in one throw. The gentile was amazed to see him.
+
+'1 have a herd of cows on the other side of the river; go and drive them all up to the house. Lead them through the water without wetting the hoofs of a single one.'
+
+The big man took a sack and a carving knife, and crossed the river, and ran after the cows, and caught one. He chopped off her four hoofs and put them in the sack. So he dealt with the whole herd. Now they are hoofless, every one.
+
+He drove them through the water and up to the house. There was the squire at the door. The big man threw the sack down at his feet; all the hoofs tumbled out of it. 'Look,' quoth he, 'are they wet?'
+
+When the gentile saw that, there was a mighty quarrel; but they made it up again after a time.
+
+'Now then,' said the gentile, 'I want thee to do a job for me. Yonder in the forest I have a cart and three horses. There are men there loading the cart with timber, and thou hast naught to do except to say to the horses: "Now then, gee up!"'
+
+The man went. He called out to the horses: 'Gee up.' Not one of them would move. He unharnessed the leader, fastened his four feet together, and flung him into the cart. 'Now then, gee up!' he called out to the other two. Neither of them would move. He unharnessed them both, bound their four feet, and flung them into the cart. Then he went between the shafts himself, and dragged everything— cart, timber, and the three horses— up to the hall.
+
+Out came the old gentile; he was amazed to see this feat. The big man left the cart before the door, and went to get his dinner of buttermilk and barley-bread. The old squire asked him: 'From whence didst thou get thy strength?' No, he would not tell
+
+Said the gentile to him: 'There is a great lake down yonder in the fields. I want thee to drain it for me.'
+
+The big man went, he felled a huge tree. He reached the lake; he thrust the tree into the bank beneath the lake, and let all the water escape.
+
+Early in the morning the old gentleman went down to the lake to look at it. The water was all dried up. He asked him again: 'From whence didst thou get thy strength?' He would not say.
+
+'I will show thee what strength really is.' He seized a great iron chain. He fastened the chain around the hall with all the people in it, and dragged it down, and set it beside his own wretched little hut.
+
+Quoth the great squire to him in the morning: 'If thou wilt tell me where thou didst get thy strength, I will give thee all my sheep, and all my cows, and all my horses.'
+
+The big man said naught. He put his hand in his pocket. He drew out a little white button from his pocket. 'Here, take this,' quoth the big man.
+
+The great squire would believe anything. He put the button in his pocket. He gave all he possessed to the big man, and went away to a distant place.
+
+Three days passed. He saw that nothing was going to come of it. Quoth he to himself: 'That man has cheated me: the devil looks after him. I will make my way back to him, at once.'
+
+He went back, and knocked softly at the door. Out came the big man. The gentile greeted him with the words: 'Thou art the devil!' 'Yes!' answered the big man, ' the devil himself!' And he knocked him down.
+
+And the devil lives there still.
+
+And I deserve a big pudding for telling thee this lie.
+
+ART THOU ANGRY?
+
+A Rumanian Gypsy folk-tale recorded by Dora E. Yates.
+
+[This tale was taken down at Birkenhead on June 11, 1911, from Yanko Leonosko, brother of green-eyed FreStik, and translated into broken French by the chiefs youngest daughter Pavollna, who was somewhat fearful of relating a tale of such sacrilege to 'le bon Dieu!' Compared to others of this Rumanian band, Yanko was a poor narrator, lacking the fire and dramatic gestures of most Gypsy story-tellers; but he spoke clearly, and used far fewer loan-words than any of his brethren.]
+
+They took the priest their horses in expiation, and came home horseless. And their brother, the fool, asks: 'Where, brother, is the horse and cart?' 'The priest took them.'
+
+And the fool went to the priest, and offered himself as servant. And the fool bargained with the priest that the one who made the other angry should skin that one.
+
+And the fool went with the cows to pasture them. And the fool cut the skin from the rumps of the cows, and returned home. And he asks the priest, 'Art thou in a rage, 0 priest?' The priest replied he was not in a rage.
+
+And the fool took cream. And he went into the church, and smeared the mouth of the images [*lit.* gods] with the cream.
+
+And he told the priest how the images had stolen the cream. And the priest went into the church, and smashed the images. And the people came on Sunday to pray; the church was closed.
+
+And the priest went to the fool (to get him) to carry the images into the forest. And the fool took a sack and put the images into the sack. And he carried them into the forest.
+
+[The Devil's Tale appears in fact to be a blend of three stories, viz. A, *The Bargain with the Villainous Master*, B, *The Young Giant*, Grimm No. 90, and C, a particular variation of *The Young Giant*, in which the Devil engages himself as a labourer.
+
+A. See Dawkins, *Modern Greek in Cappadocia*, p. 234, Cosquin, *Contes Populaires de Lorraine*, ii. pp. 47-55, Bolte und Polivka, *Anmerkungen*, ii. p. 293, Jacobs, *Celtic Fairy Tales*, i. p. 181. In this story a master strikes a bargain with those who seek work in his service, that if either of them gets angry with the other, he shall forfeit a piece of skin to be cut off his back, or some similarly drastic penalty. Usually the two elder of three brothers are in turn engaged, lose their tempers, and pay the penalty; the third, however, plays a series of disastrous tricks upon the master, who dare not confess his anger. But the cumulative effect of the various acts of destruction of his property at length becomes un¬ endurable, the master loses his temper and the forfeit, and his former victims are thus revenged. The cutting off of the cow's feet belongs evidently to a story of this type, and there is an un¬ intelligent echo of the bargain in the words, which in our version
+
+have become somewhat meaningless, ' When the farmer saw that, there was a mighty quarrel, but they made it up again after a time.' For deliberately impossible commands analogous to 'lead them through the water without wetting the hoofs of a single one,' see Dawkins, *loc. cit.*
+
+B. See Cosquin, *Contes Populaires de Lorraine*, ii. pp. 107-14, 266-70, Bolte und Polivka, *Anmerkungen*, ii. pp. 285-97. A woman who has been embraced by a bear ( e.g. von Hahn, *Griechische und albanesische Mdrchen*, No. 75) gives birth to a son of giant strength, or the boy owes his miraculous powers to being suckled by a bear or by a giant, or for a prolonged period of years by his mother (see Cosquin, op. cit., ii. p. 110, Bolte und Polfika, op. cit., ii. pp. 286, 287, 293, 296, 317-18, cf. Groome, No. 20, Macdougall, *Folk and Hero Tales from Argyllshire*, p. 187). He has, like our hero, a gigantic appetite corresponding to his strength, and in many versions eats so much that his parents can no longer provide for him, and send him out to work. He bargains with a farmer, either for as much corn as he can carry away after harvest, or for permission to give him a box on the ears at the end of his service. His giant strength soon reveals itself in his feats, of which carrying timber, cart, and horses home is one of the most usual, though more careful raconteurs prefer two horses which are placed one in. each coat-pocket. Ours seems to have forgotten that his cart is overloaded with timber. The farmer, alarmed at so powerful a servant, tries by various tricks to get rid of him. It is possible that the draining of the lake is a faint echo of a very common incident in this series. The strong man is sent down to clean out a well, and the master throws down upon him, with evil intent, first a millstone and then a church bell. The hero, how¬ ever, comes cheerfully to the top with the millstone round his neck and the bell on his head, and demands the admiration of the chagrined master for the fine collar and night-cap which he has acquired.
+
+On the other hand, in an English Gypsy variant which was recorded by Mr. T. W. Thompson from Noah Lock ( J.G.L.S., N.S., viii. pp. 213-16) Strong Jack finds that fetching water in two buckets is too slow work and supplements these puny imple¬ ments with 'a t'emendous big cask.' In this version the hero owes his strength to having been kept in bed by his mother until he was twenty-one, and belongs therefore to the Lazy Strong Man type. His feats of strength embarrass the farmer who employs
+
+
+WELSH GYPSY FOLK-TALES
+
+153
+
+him; he ultimately enlists and single-handed defeats an army, using in the last resort the horse, which has been killed under him, as a club. This feat is rewarded by the hand of the king's daughter.
+
+C. Bolte und Polfvka, *op. cit.*, ii. p. 294, give references to a number of variants of an allied story in which the Devil has to serve a peasant as punishment for having stolen his bread. The Highland story of ' The Farmer of Liddesdale,' Jacobs, *More Celtic Fairy Stories*, p. 106, is a yet closer parallel to ours. There a farmer engages a hand on terms of his taking of the harvest what he could carry away. The hand was the Devil, and when the time came, he made to remove every sheaf of corn, but was foiled by the farmer's despairing appeal to God. *Le Fils du Diable*, Cosquin, *op. cit.*, i. pp. 158 foil., has an introduction borrowed from a different story. A childless man promises the Devil that if he has two sons, the Devil shall have one. Hence the strong hero, who makes Hell too hot to hold him and thereafter pursues adventures of the Young Giant type. *Inter alia* he removes a prison and its contents and sets it down by his master's door.
+
+Le Fils du Diable possesses an old pair of black trousers, the pockets of which inexhaustibly supply money. This, however, like the questions in our version as to the talisman upon which the hero's strength depends, is probably an alien and intrusive element which does not properly belong to this story.
+
+Bolte und Polivka, *op. cit.*, p. 296, notice the connection between the Young Giant and heroes of the Siegfried, Gargantua and Eulenspiegel types, who are distinguished by mischievous pranks at the expense of their associates. We might add to their list, with special reference to our conclusion, where the Devil is selfconfessed, Friar Rush, a character who, for several reasons, in part no doubt because of the opportunity of combining a selection of popular drolls with a dig at monasteries, was once a favourite in this country. *The Historie of Frier Rush*, which had a wide circulation in printed form at the beginning of the seventeenth century, told how a devil disguised as a young man, sought service in a monastery and brought it and its inmates and the neighbour¬ hood into complete moral, spiritual, and physical disorder.
+
+The type, to which the Rumanian story belongs, is distributed throughout the Indo-European area, and is in fact one of the commonest of drolls. References have already been indicated in the note upon the ' Devil's Tale,' Type A (above, p. 151). The
+
+structure of the particular example before us has undergone con¬ siderable disintegration. The villain of the piece is often, though not invariably, a member of some class of person, which is popularly regarded with aversion upon other than economic grounds. Favourites are Jews (e.g. *Arabian Nights* (Burton-Smithers), xL pp. 314 foil.), those popular bugbears of the Nearer East, ' beard-less men ' `[For the /spanos/ or 'beardless man' reference may be made to the notes and references in Dawkins, op. cit., pp. 222, 223.]` (e.g. von Hahn, *Griechische und albanesische Marchen*, Nos. 11 and 34), or, as here, priests (e.g. Schott, *Walachische Marchen*, pp. 229 foil.). In the Indian versions, which are known to me, the villain is usually either a Qazi or one of the rich land¬ owning class.
+
+The pretext upon which the priest acquired the horses is obscurely indicated. More dexterous is the Vlach version in which it is the hero, the fool Bakala, who suggests the terms of service to the priest. He states that he had been to consult an aged and holy man about the vile temper with which he is cursed, and had received the spiritual advice that cure was only possible if he ex¬ piated his sin upon the next occasion of giving way to anger by forfeiting a strip of skin from his back. Perhaps our incident is the result of a conflation of two alternative openings.
+
+With the skin off the rumps of the cows may be compared the removal of the beasts' feet in the 'Devil's Tale.' I suspect, however, that the skin of the rump may be a rudimentary survival of a droll which, though found in other combinations, forms frequently an incident in versions of the *Bargain with the Villainous Master*. The hero disposes of the cows to his own advantage after cutting off their tails. These he sticks in a marsh or a rat-hole and informs the master, according to the circumstances, either that they have sunk in a bog or that they have been carried off by rats. When the master pulls at the tails to recover his beasts, of course they come off in his hands.
+
+I cannot recall an exact parallel to the images and the cream. If our version originated in Rumania the images were probably eikons, i.e. flat painted representations of the Virgin, saints, etc.; for the Orthodox Church, to which over ninety per cent, of the inhabitants of Rumania belong, has no sacred images in the round. The tale might, however, have been picked up in any country in Europe, and 'images,' perhaps, better suits with the priest's smashing them.
+
+It is not self-evident why the priest should want the broken images to be carried into the forest and then wish for their return. It is possible that the order of incidents has been misplaced; some clue to the narrative has evidently dropped out, as far as I am concerned, irrecoverably.
+
+The priest's ultimate admission of anger has completely dis¬ appeared, and indeed he does not, in our version, pay the specified forfeit. In stories where the master, helpless to prevent the ruin of his property because of the terms of the bargain, at length seeks refuge in flight, the attempted escape usually precedes the admission of the loss of temper. The attempted escape not infrequently gives excuse for the introduction of another wellknown droll. A family whose home is infested by a boggart decide as a desperate remedy, when all else has failed, to pack up their goods and desert their home. At the first halt, however, a voice, which is only too familiar, is heard proceeding from the baggage: 'Ay, Georgey, we're flitting you see.' (See the note on an unpublished Cappadocian text of the Bargain with the Villainous Master in Dawkins, op. cit, p. 235, and compare the Ylach variant in which the priest tries to escape by flight, but carries Bak&la with him unbeknownst in his bag of books. Schott, op. cit., p. 233.)
+
+The culminating villainy, which brings about the admission of anger and the consequent payment of the forfeit, is usually the killing of the master's wife or son. Our story owes something perhaps to a form which this not infrequently takes. The family plan to rid themselves of the unwelcome servant, and decide that when they go to sleep side by side upon the roof of the house or upon the brink of a river, it shall be arranged that the servant has the outside place. A concerted push will then do the trick. The servant, however, manages to change places in the dark, and the wife or son of the master gets pushed over to destruction in his place. This ruse is similar to that employed by the clever member of the band of brothers and sisters when sleeping at an ogre's house. Their nightcaps, night-clothes, or positions are changed with those of the ogre's children, whom their parent consequently kills in error (see Bolte und Polfvka, op. cit., i. pp. 124 and 499 foil.). This folk-tale incident occurs in the Milesian version of the Aedon story upon which Euripides drew for the plot of his Ino. In Euripides the night-clothes, in Pherekydes the caps, in an alternative version preserved by the scholiast, the positions of the children, were changed (see the references in Robert, Die griechischen Heldensage, Berlin, 1920, i. pp. 49,125). Though there is a fair number of incidents which are common to classical mythology and Indo-European folk-tales, it is smaller than is sometimes supposed. This very complete coincidence is therefore possibly worth noting.
+
+A very common incident in European versions of the Bargain with the Villainous Master, which does not appear in our story, is the killing of the master's wife when she is pretending to be a cuckoo. In this form of the story the agreement is limited in time 'until the cuckoo sings.' The wife tries to bring their troubles to a close by climbing a tree and imitating the cuckoo, and is killed by the hero, with consequent loss of temper by the master. For this incident see Cosquin, op. cit, ii. p. 52, and Crane, Italian Popular Tales, pp. 297, 380.
+
+W. R. H.]
+
+
 
 https://archive.org/details/journalgypsylore3rdsv3-1924/page/n20/mode/1up
 Collected and Edited by John Sampson
@@ -325,7 +439,7 @@ Skinny was made Captain. He became a wealthy man. After three years he went home
 
 [I fear that I cannot throw much light upon this curious little tale. I know of no exact parallel to it.
 
-In other connections and in a different form the motif of the unwelcome boggart, whose company cannot be eluded, is common enough. To the type mentioned in J. O. L. S., Third Series, iL p. 155, may be added stories like *Yallery Brown*, Jacobs, *More English Fairy Tales*, p. 26, where the victim, as here, was responsible for his troubles because he had invited or released the agent of his persecution:
+In other connections and in a different form the motif of the unwelcome boggart, whose company cannot be eluded, is common enough. To the type mentioned in J. O. L. S., Third Series, ii. p. 155, may be added stories like *Yallery Brown*, Jacobs, *More English Fairy Tales*, p. 26, where the victim, as here, was responsible for his troubles because he had invited or released the agent of his persecution:
 
 'For harm and mischance and Yallery Brown  
 Thou'st let out thyself from under the stone.'
@@ -376,7 +490,7 @@ She went upstairs; she laid her hand upon the wallet, and willed the witch to re
 
 Lo! the witch awakens. She called the girl to come to bed. The poker answered: 'I am raking out the fire.' She called her again. The broom answered: 'I am sweeping the room.' She called her once more. The chair answered: 'I am coming now.' The girl came not. The witch called again. There was no answer.
 
-The witch was furious. She realised that the two had escaped. She called her daughter and told her to follow them, and whatso¬ ever she should see on the road to bring home with her.
+The witch was furious. She realised that the two had escaped. She called her daughter and told her to follow them, and whatso-ever she should see on the road to bring home with her.
 
 Lo! the two are speeding on their way. They saw the witch's daughter coming after them like the wind. She has almost over-taken them now. Said the gentleman to the maiden: 'Wish thyself a duck and me a running stream; when she tries to catch thee dive beneath the water.' She did so. The youth was transformed into a running stream and the girl turned herself into a duck.
 
@@ -410,7 +524,7 @@ The gentleman told the coachman to harness the horse to the carriage. They both 
 
 And thou owest me a big pudding for telling thee this lie.
 
-[The literature dealing with the group of stories to which this belongs is considerable. The following references may be consulted as a guide thereto. Lang, Custom and Myth, pp. 87-102; Jacobs, English Fairy Tales, i. pp. 33-9, 233-4; Cosquin, Contes Populaires de Lorraine, i. pp. 103-7; ii. pp. 9-28; Cosquin, Ptudes Folldoriques, pp. 585-93; Bolte und Polfvka, Anmerkungen zu den Kinder und Hausmarchen der Briider Grimm, i. pp. 442-3, 498-503: ii. pp. 62, 77-9, 140-6, 516-27: iii. pp. 338-9, 406-17. The main part of our story belongs to a group of Marchen of which Grimm, Nos. 51, 56, 79, 113, 186, and 193, are representatives. To these may be added Grimm, No. 70a, Das Okerlo, but this tale, together with the two variants quoted by Bolte und Polivka, appears to be derived from the literary version of Countess D'Aulnoy, which is printed in Cabinet des Fees, ii. p. 313. The essential incidents of the plot may thus be set forth in outline.
+[The literature dealing with the group of stories to which this belongs is considerable. The following references may be consulted as a guide thereto. Lang, Custom and Myth, pp. 87-102; Jacobs, English Fairy Tales, i. pp. 33-9, 233-4; Cosquin, Contes Populaires de Lorraine, i. pp. 103-7; ii. pp. 9-28; Cosquin, Studes Folldoriques, pp. 585-93; Bolte und Polfvka, Anmerkungen zu den Kinder und Hausmarchen der Briider Grimm, i. pp. 442-3, 498-503: ii. pp. 62, 77-9, 140-6, 516-27: iii. pp. 338-9, 406-17. The main part of our story belongs to a group of Marchen of which Grimm, Nos. 51, 56, 79, 113, 186, and 193, are representatives. To these may be added Grimm, No. 70a, Das Okerlo, but this tale, together with the two variants quoted by Bolte und Polivka, appears to be derived from the literary version of Countess D'Aulnoy, which is printed in Cabinet des Fees, ii. p. 313. The essential incidents of the plot may thus be set forth in outline.
 
 A. The performance of difficult tasks by the hero with the
 
@@ -424,13 +538,9 @@ B. Elopement of the lovers which is successfully achieved:—
 
 (B 3) by a combination of both these devices.
 
-C. The heroine is temporarily left alone while the hero visits
+C. The heroine is temporarily left alone while the hero visits his people. In spite of her warning, he is kissed by one of his family and consequently forgets her.
 
-his people. In spite of her warning, he is kissed by one of his family and consequently forgets her.
-
-D. The hero's memory is awakened when he is on the point of
-
-marriage to a suppositious bride:—
+D. The hero's memory is awakened when he is on the point of marriage to a suppositious bride:—
 
 (D 1) by the heroine, who has bought three nights in the bridal chamber from the suppositious bride,
 
@@ -442,7 +552,7 @@ marriage to a suppositious bride:—
 
 This series of incidents may obviously follow after almost any form of introduction which brings the hero into taking up his residence with an ogre's family, and in fact there is great variety in the means by which he is brought there. He may be lured by the pursuit of a green bird or a green hare (Cosquin, C. L., i.' p. 103); he may be handed over as the result of a rash promise of his father (Grimm, Nos. 51, 113); his sojourn maybe the result of gambling with a stranger (Cosquin, C. L., ii. p. 9), or he may merely have taken service with this undesirable master (Cosquin, C. L., it p. 13). In Grimm, No. 79, brother and sister fall into a well and thus come into the service of the water spirit; Grimm, Nos. 51 and 56, employs the witch stepmother device; the Hansel and Gretel story sometimes forms the introduction to our series of incidents (see £. and P., ii. p. 498).
 
-There are three Gypsy variants belonging to this group of stories in Groome. No. 34 opens with the rash promise; then follow incidents A and B 3 (transformations into wheatfield and peasant, church and monk, and magical obstacles, comb, whet¬ stone, and towel). In C the kiss of forgetfulness has dropped out; the heroine requires three years' solitude to expiate her father's death. In D 4 the recognition is by the ring in the goblet. For this incident see Child, Popular Ballads of England and Scotland, i. pp. 190 foil.: B. and P., ii. p. 348. For the alter¬ native key episode see B. and P., ii. p. 59.
+There are three Gypsy variants belonging to this group of stories in Groome. No. 34 opens with the rash promise; then follow incidents A and B 3 (transformations into wheatfield and peasant, church and monk, and magical obstacles, comb, whetstone, and towel). In C the kiss of forgetfulness has dropped out; the heroine requires three years' solitude to expiate her father's death. In D 4 the recognition is by the ring in the goblet. For this incident see Child, Popular Ballads of England and Scotland, i. pp. 190 foil.: B. and P., ii. p. 348. For the alter¬ native key episode see B. and P., ii. p. 59.
 
 In Groome, No. 50, the Swan Maiden story is used to bring the hero to the wizard father's house, a not unusual form of intro¬ duction, for examples of which see B. and P., ii. p. 517: iii. p. 467. There follow A and B 1 , the transformations being into flower and meadow, church and old man, duck and drake. The end of the story is broken down.
 
@@ -501,3 +611,103 @@ pp.145-159
 https://archive.org/details/journalofgypsylo05gypsuoft/page/241/mode/1up
 FIFTY WELSH-GYPSY FOLK-RIDDLES
 pp241-255
+
+...
+
+1. Q. What is it God does not see? A. Another like himself.
+
+2. Q. How is it a man with one eye can see more than a man with two? A. The man with one eye sees both eyes of another man.
+
+3. Q. What is every living creature doing at the same time? A. They grow older.
+
+4. Q. There was a great field full of cows and one bull. A. The great field is the sky, the cows are stars, and the bull is the moon.
+
+4a. Q. A great field full of geese and one gander. A. The sky, the stars, and the moon.
+
+5. Q. Who thrusts his way into the queen's chamber and asks leave of none? A. The sun.
+
+6. Q. A roadful, a barnful, and thou canst not catch a pipeful A. The wind.
+
+7. Q. Brother-in-law to thy mother's brother, what is he to thee? A. Thy father.
+
+8. Q. Who is the man who loves another man's child better than his own? A. The man [who] loves his wife better than his child.
+
+9. Q. Grass, grass in the field, with four eyes and eight legs: tell me what it is. A. A mare in foal.
+
+10. Q. What is it that goes into the water, and under the water, and through the water, and never touches the water? A. An egg in the duck's belly.
+
+11. Q. What goes up white and comes down yellow? A. An egg.
+
+12. Q. What is white and yellow, yet white all over 1 A. An egg.
+
+13. Q. Black as coal, and yet not coal; White as snow, and yet not snow ; It leaps here and there Like a little foal. A. A magpie.
+
+14. Q. In a field I saw ten pulling four. A. A girl's fingers milking.
+
+15. Q. There are ten white horses going under the hill: now they go, now they go; now they stop, now they stop. A. The horses are thy teeth.
+
+16. Q. Four white ladies run after each other, but never catch each other. A. A windmill.
+
+17. Q. A little box down there; one can open it, a field full of men cannot shut it. A. A nut.
+
+17a. Q. High up on the tree: one can pull it down, a hundred cannot put it back; one can break it, a hundred cannot put it together again. A. A nut.
+
+18. Q. Smaller than a mouse and higher than a castle. A. A plum on a tree.
+
+19. Q. Hikki Pikki in the hedge; touch Hikki Pikki and she will bite thee. A. A nettle.
+
+20. Q. What grows head down and feet up? A. An onion.
+
+21. Q. Here he comes: my eye is filled before my belly. A. Mustard.
+
+22, Q. "What lives in a garden and never grows green? A. A mushroom.
+
+23. Q. I went down into the garden and saw old Eustyback: I cut oflf his head and left his body alone. A. Red cabbage.
+
+24. Q. I was going over the bridge; I saw a little yellow man, I lifted him up, I drank his blood, and I threw him down. A. An orange.
+
+25. Q. I went through the trees, I came through the trees, I got a heap of wood; not one [piece] was straight, not one was crooked, not one was fit to burn; yet I got a heap of wood. A. I got a bag of sawdust.
+
+26. Q. Alive in front, dead in the middle, body and soul behind. A. A plough.
+
+27. Q. The dead carries the living. A. A boat.
+
+28. Q. The man that made it sold it, the man that bought it did not want it, the man that got it knew nothing about it. A. A. coffin.
+
+29. Q. What grows bigger the more you cut away from it? A. A hole.
+
+30. Q. There is a little woman dressed in white; the longer she lives, the shorter she grows. A. A candle.
+
+31. Q. As big as a man, as empty as a box ; lift up his tail and his nose will run. A. A pump.
+
+32. Q. Like a ball, like a pan, with a man on one side and a woman on the other. A. A penny.
+
+33. Q. What goes through the hedge and leaves its guts behind it ? A. A needle.
+
+34. Q. Full of bones, full of flesh, one large hole and many little ones. A. A thimble.
+
+35. Q. What goes here and there about the house and [then] stops in one corner ? A. X broom.
+
+36. Q. What is brought to the table, and cut, but none ate it ? A. K pack of cards.
+
+37. Q. What travels through the land, and has neither flesh nor blood 1 J. A letter.
+
+38. Q. What goes along with the cart, but is no use to anybody ? A. The noise.
+
+39. Q. What goes to the village head downwards? A. A nail in thy shoe.
+
+40. Q. What goes to the city with its face turned backwards, and its back forwards? A. A watch in thy pocket.
+
+41. Q. What goes to London, goes and yet stays? A. The road.
+
+42. Q. What goes to London, and looks in at every door? A. The road.
+
+43. Q. I went to the wood and I got it, I cume out, and sat down to look for it; I had it, and yet I could not find it. A. A thorn in the foot.
+
+44. Q. What goes over the water and under the water, and over the wood and under the wood? A. A young woman crossing a wooden bridge, carrying a wooden pail of water on her head.
+
+45. Q. Here is a man on horseback and still he was walking. A. "Still" was the name of the dog.
+
+46. Q. My grandmother used to boil the pudding in her stockings. A. She was wearing stockings when boiling the pudding.
+
+...
