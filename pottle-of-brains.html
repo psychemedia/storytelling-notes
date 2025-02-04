@@ -1,0 +1,831 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>A Pottle of Brains &#8212; Storytelling Notes</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="_static/documentation_options.js?v=a8e58a58"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=f281be69"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'pottle-of-brains';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="The Soul Cages" href="soul_cages.html" />
+    <link rel="prev" title="The Three Sillies" href="three-sillies.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="preface.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">Storytelling Notes</p>
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="preface.html">
+                    Preface
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Some Tales Told</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="the-wish-ring.html">The Wish Ring</a></li>
+<li class="toctree-l1"><a class="reference internal" href="axe-porridge-stone-soup.html">Stone Soup / Axe Porridge</a></li>
+<li class="toctree-l1"><a class="reference internal" href="yama-and-yami.html">Yama and Yami</a></li>
+<li class="toctree-l1"><a class="reference internal" href="man-no-story.html">The Man Who Had No Story</a></li>
+<li class="toctree-l1"><a class="reference internal" href="knight-york-fish-ring.html">The Fish and the Ring</a></li>
+<li class="toctree-l1"><a class="reference internal" href="three-heads-well.html">The Three Heads of the Well</a></li>
+<li class="toctree-l1"><a class="reference internal" href="twa-sisters-binnorie.html">Binnorie / Twa Sisters</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pedlar-of-swaffham.html">The Pedlar of Swaffham</a></li>
+<li class="toctree-l1"><a class="reference internal" href="three-sillies.html">The Three Sillies</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">A Pottle of Brains</a></li>
+<li class="toctree-l1"><a class="reference internal" href="soul_cages.html">The Soul Cages</a></li>
+<li class="toctree-l1"><a class="reference internal" href="too_much_time.html">Too Much Time</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">As Found in "The Royal Hibernian Tales"</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="hudden_dudden.html">Hudden, and Dudden, and Donald O’Neary</a></li>
+<li class="toctree-l1"><a class="reference internal" href="blacksmith-devil-willy-wisp.html">Blacksmith and the Devil / Willy the Wisp</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Welsh Tales</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="gwion-bach.html">Ceridwen, Gwion Bach and Taliesin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="bendigeidfran_branwen_second_branch.html">Bendigeidfran and Branwen</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Gipsy Tales</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="devils-violin.html">The Devil’s Violin</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Show Outlines</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="unforeseen-nonsense.html">Unforeseen Consequences — Verging on Nonsense</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">WIP or Need Telling Again</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="woolpit-green.html">The Green Children of Woolpit</a></li>
+<li class="toctree-l1"><a class="reference internal" href="undutiful-daughter.html">The Undutiful Daughter</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
+<li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
+<li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Legends As Told</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="richmond_drummer_boy.html">The Richmond Drummer Boy</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Based On Events - As Yet Untold</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="press_gang.html">Tales of the Press Gang</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ross-may-hill-old-ellen.html">Old Ellen and the May Hill Sensation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ross-who-killed-the-bear.html">Who Killed the Bear?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ross-ruardean-murder.html">Infanticide at Ruardean</a></li>
+<li class="toctree-l1"><a class="reference internal" href="brean_down_gunner_haines.html">Gunner Haines and the Brean Down Battery Explosion</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Practice and performance notes</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="practice-on-not-sharing-digitally-pt1.html">On not sharing digitally, part 1</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Storynotes Collections</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="elsewhere.html">Storynotes Elsewhere</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
+
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>A Pottle of Brains</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="a-pottle-of-brains">
+<h1>A Pottle of Brains<a class="headerlink" href="#a-pottle-of-brains" title="Link to this heading">#</a></h1>
+<p>This is one of those tales I came across a couple of times, independently of each otehr, in rapid succession, and that jumped out at me both times, which meant it was somthing I felt I needed to tell.</p>
+<p>It’s a noodle tale, with a wise womon pointing out the foolishness of our hero. As I’ve also been pulling together some historical wise woman tales, I think there may be an opportunity to try to a pair up a traditional tale with a historical one and see how they might play off each other.</p>
+<p>As to <em>A Pottle of Brains</em>, I first found it in written form in Jacob’s second collection of English fairy tales (<em>More English Fairy Tales</em>), a version that Hugh Lupton included in his <a class="reference external" href="https://burningshed.com/hugh-lupton_the-mardling-acre_cd"><em>Mardling Acre</em></a> collection.</p>
+<div class="dropdown admonition">
+<p class="admonition-title">“A Pottle of Brains”, jacobs’ <em>More English Fairy Tales</em>, 1894</p>
+<p><a class="reference external" href="https://archive.org/details/moreenglishfairy00jacoiala/page/124/mode/2up">https://archive.org/details/moreenglishfairy00jacoiala/page/124/mode/2up</a>
+Joseph Jacobs, <em>More English fairy tales</em>, 1894</p>
+<p>pp. 125-131</p>
+<p>LXX.</p>
+<p>A Pottle o’ Brains</p>
+<p>ONCE in these parts, and not so long gone neither, there was a fool that wanted to buy a pottle o’ brains, for he was ever getting into scrapes through his foolishness, and being laughed at by every one. Folk told him that he could get everything he liked from the wise woman that lived on the top o’ the hill, and dealt in potions and herbs and spells and things, and could tell thee all as’d come to thee or thy folk. So he told his mother, and asked her if he could seek the wise woman and buy a pottle o’ brains.</p>
+<p>“That ye should,” says she: “thou’st sore need o’ them, my son; and if I should die, who’d take care o’ a poor fool such’s thou, no more fit to look after thyself than an unborn baby? but mind thy manners, and speak her pretty, my lad; for they wise folk are gey and light mispleased.”</p>
+<p>So off he went after his tea, and there she was, sitting by the fire, and stirring a big pot.</p>
+<p>“Good e’en, missis,” says he, “it’s a fine night.”</p>
+<p>“Aye,” says she, and went on stirring.</p>
+<p>“It’ll maybe rain,” says he, and fidgeted from one foot to t’other.</p>
+<p>“Maybe,” says she.</p>
+<p>“And m’appen it won’t,” says he, and looked out o’ the window.</p>
+<p>“M’appen,” says she.</p>
+<p>And he scratched his head and twisted his hat.</p>
+<p>“Well,” says he, “I can’t mind nothing else about the weather, but let me see; the crops are getting on fine.”</p>
+<p>“Fine,” says she.</p>
+<p>“And— and— the beasts is fattening,” says he.</p>
+<p>“They are,” says she.</p>
+<p>“And — and —” says he, and comes to a stop — “I reckon we’ll tackle business now, having done the polite like. Have you any brains for to sell?”</p>
+<p>“That depends,” says she, “if thou wants king’s brains, or soldier’s brains, or schoolmaster’s brains, I dinna keep ‘em.”</p>
+<p>“Hout no,” says he, “jist ordinary brains — fit for any fool — same as every one has about here; something clean common-like.”</p>
+<p>“Aye so,” says the wise woman, “I might manage that, if so be thou’lt help thyself.”</p>
+<p>“How’s that for, missis?” says he.</p>
+<p>“Jest so,” says she, looking in the pot; “bring me the heart of the thing thou likest best of all, and I’ll tell thee where to get thy pottle o’ brains.”</p>
+<p>“But,” says he, scratching his head, “how can I do that?”</p>
+<p>“That’s no for me to say,” says she, “find out for thyself, my lad! if thou doesn’t want to be a fool all thy days. But thou’ll have to read me a riddle so as I can see thou’st brought the right thing, and if thy brains is about thee. And I’ve something else to see to,” says she, “so gode’en to thee,” and she carried the pot away with her into the back place.</p>
+<p>So off went the fool to his mother, and told her what the wise woman said.</p>
+<p>“And I reckon I’ll have to kill that pig,” says he, “for I like fat bacon better than anything.”</p>
+<p>“Then do it, my lad,” said his mother, “for certain ‘twill be a strange and good thing fur thee, if thou canst buy a pottle o’ brains, and be able to look after thy own self.”</p>
+<p>So he killed his pig, and next day off he went to the wise woman’s cottage, and there she sat, reading in a great book.</p>
+<p>“Gode’en, missis,” says he, “I’ve brought thee the heart o’ the thing I like best of all; and I put it hapt in paper on the table.”</p>
+<p>“Aye so?” says she, and looked at him through her spectacles. “Tell me this then, what runs without feet?”</p>
+<p>He scratched his head, and thought, and thought, but he couldn’t tell.</p>
+<p>“Go thy ways,” says she, “thou’st not fetched me the right thing yet. I’ve no brains for thee to-day.” And she clapt the book together, and turned her back.</p>
+<p>So off the fool went to tell his mother.</p>
+<p>But as he got nigh the house, out came folk running to tell him that his mother was dying.</p>
+<p>And when he got in, his mother only looked at him and smiled as if to say she could leave him with a quiet mind since he had got brains enough now to look after himself—and then she died.</p>
+<p>So down he sat and the more he thought about it the badder he felt. He minded how she’d nursed him when he was a tiddy brat, and helped him with his lessons, and cooked his dinners, and mended his clouts, and bore with his foolishness; and he felt sorrier and sorrier, while he began to sob and greet.</p>
+<p>“Oh, mother, mother!” says he, “who’ll take care of me now! Thou shouldn’t have left me alone, for I liked thee better than everything!”</p>
+<p>And as he said that, he thought of the words of the wise woman. “Hi, yi!” says he, “must I take mother’s heart to her?”</p>
+<p>“No! I can’t do that,” says he. “What’ll I do! what’ll I do to get that pottle of brains, now I’m alone in the world?” So he thought and thought and thought, and next day he went and borrowed a sack, and bundled his mother in, and carried it on his shoulder up to the wise woman’s cottage.</p>
+<p>“Gode’en, missis,” says he, “I reckon I’ve fetched thee the right thing this time, surely,” and he plumped the sack down kerflap! in the doorsill.</p>
+<p>“Maybe,” says the wise woman, “but read me this, now, what’s yellow and shining but isn’t gold?”</p>
+<p>And he scratched his head, and thought and thought but he couldn’t tell.</p>
+<p>“Thou’st not hit the right thing, my lad,” says she. “I doubt thou’rt a bigger fool than I thought!” and shut the door in his face.</p>
+<p>“See there!” says he, and set down by the road side and greets.</p>
+<p>“I’ve lost the only two things as I cared for, and what else can I find to buy a pottle of brains with!” and he fair howled, till the tears ran down into his mouth. And up came a lass that lived near at hand, and looked at him. “What’s up with thee, fool?” says she. “Oo, I’ve killed my pig, and lost my mother and I’m nobbut a fool myself,” says he, sobbing.</p>
+<p>“That’s bad,” says she; “and haven’t thee anybody to look after thee?”</p>
+<p>“No,” says he, “and I canna buy my pottle of brains, for there’s nothing I like best left!” “What art talking about!” says she. And down she sets by him, and he told her all about the wise woman and the pig, and his mother and the riddles, and that he was alone in the world.</p>
+<p>“Well,” says she, “I wouldn’t mind looking after thee myself.”</p>
+<p>“Could thee do it?” says he.</p>
+<p>“Ou, ay!” says she; “folk says as fools make good husbands, and I reckon I’ll have thee, if thou’rt willing.” “Can’st cook?” says he. “Ay, I can,” says she. “And scrub?” says he. “Surely,” says she. “And mend my clouts?” says he. “I can that,” says she.</p>
+<p>“I reckon thou’lt do then as well as anybody,” says he; “but what’ll I do about this wise woman?”</p>
+<p>“Oh, wait a bit,” says she, “something may turn up, and it’ll not matter if thou’rt a fool, so long’s thou’st got me to look after thee.”</p>
+<p>“That’s true,” says he, and off they went and got married. And she kept his house so clean and neat, and cooked his dinner so fine, that one night he says to her: “Lass, I’m thinking I like thee best of everything after all.”</p>
+<p>“That’s good hearing,” says she, “and what then?”</p>
+<p>“Have I got to kill thee, dost think, and take thy heart up to the wise woman for that pottle o’ brains?”</p>
+<p>“Law, no!” says she, looking skeered, “I winna have that. But see here; thou didn’t cut out thy mother’s heart, did thou?”</p>
+<p>“No; but if I had, maybe I’d have got my pottle o’ brains,” says he.</p>
+<p>“Not a bit of it,” says she; “just thou take me as I be, heart and all, and I’ll wager I’ll help thee read the riddles.”</p>
+<p>“Can thee so?” says he, doubtful like; “I reckon they’re too hard for women folk.”</p>
+<p>“Well,” says she, “let’s see now. Tell me the first.”</p>
+<p>“What runs without feet?” says he.</p>
+<p>“Why, water!” says she.</p>
+<p>“It do,” says he, and scratched his head.</p>
+<p>“And what’s yellow and shining but isn’t gold?”</p>
+<p>“Why, the sun!” says she.</p>
+<p>“Faith, it be!” says he. “Come, we’ll go up to the wise woman at once,” and off they went. And as they came up the pad, she was sitting at the door, twining straws.</p>
+<p>“Gode’en, missis,” says he.</p>
+<p>“Gode’en, fool,” says she.</p>
+<p>“I reckon I’ve fetched thee the right thing at last,” says he.</p>
+<p>The wise woman looked at them both, and wiped her spectacles.</p>
+<p>“Canst tell me what that isas has first no legs, and then two legs, and ends with four legs?”</p>
+<p>And the fool scratched his head, and thought and thought, but he couldn’t tell.</p>
+<p>And the lass whispered in his ear:</p>
+<p>“It’s a tadpole.”</p>
+<p>“M’appen” says he then, “it may be a tadpole, missis.”</p>
+<p>The wise woman nodded her head.</p>
+<p>“That’s right,” says she, “and thou’st got thy pottle o’ brains already.”</p>
+<p>“Where be they?” says he, looking about and feeling in his pockets.</p>
+<p>“In thy wife’s head,” says she. “The only cure for a fool is a good wife to look after him, and that thou’st got, so gode’en to thee!” And with that she nodded to them, and up and into the house.</p>
+<p>So they went home together, and he never wanted to buy a pottle o’ brains again, for his wife had enough for both.</p>
+</div>
+<p>In his notes, p. 232, Jacobs cites Mrs. Balfour, and relates the tale to <em>Coat o’ Clay”</em>, as well <em>Gobborn Seer</em>.</p>
+<blockquote>
+<div><p>LXX. A POTTLE O’ BRAINS.</p>
+<p>Source.— Contributed by Mrs. Balfour to <em>Folk-Lore</em>, II.</p>
+<p>Parallels. — The fool’s wife is clearly related to the Clever Lass of “Gobborn Seer” where see notes.</p>
+<p>Remarks. — The fool is obviously of the same family as he of the “Coat o’ Clay” (No. lix.), if he is not actually identical with him. His adventures might be regarded as a sequel to the former ones. The Noodle family is strongly represented in English folk-tales, which would seem to confirm Carlyle’s celebrated statistical remark.</p>
+</div></blockquote>
+<p>Mrs. Balfour’s earlier contributed version to <em>FolkLore</em> is given in a dialect form:</p>
+<div class="admonition-a-pottle-o-brains-folklore-1891 admonition">
+<p class="admonition-title">“A Pottle o’ Brains”, FolkLore, 1891</p>
+<p><a class="reference external" href="https://archive.org/details/publications20unkngoog/page/164/mode/2up?q=balfour+pottle">https://archive.org/details/publications20unkngoog/page/164/mode/2up?q=balfour+pottle</a>
+Folklore, vol. II, no. 2, June 1891</p>
+<p>As part of Legends of the Cars, pp.145-70
+pp164-170</p>
+<p>The following story is of a different character, more of what is known among folk-lorists as a Droll. It seems to be a continuation of the story <em>Coat o’ Clay</em>, which I sent to Mr. Lang some time ago, and which was printed by him in <em>Longman’s Magazine</em> and afterwards in FOLK-LORE. It was told to me by the same person.</p>
+<p>A POTTLE O’ BRAINS.</p>
+<p>Once i’ these parts, an’ not so long gone nayther, there was a fool as wanted to buy a pottle o’ brains, for he was iver gettin’ into scrapes through his foolishness, an’ bein’ laughed at by iveryone. Fo’ak tellt him as he could get everything a liked from tha wise woman as lived on the top o’ the hill, an’ dealt in potions an’ herbs an’ spells an’ things, an’ could tell thee all asd come to thee or thy folk. So he tellt ‘s mother, ‘n axed her if a should seek tha wise woman ‘n’ buy a pottle o’ brains.</p>
+<p>“That ye should,” says she: “thou’st sore need o’ them, my son; an’ ef a should dee, who’d take care o’ a poor fool such ‘s thou, no more fit to look arter thysel’ than an unborn babby? but min’ thy manners, an’ speak her pretty, my lad; fur they wise fo’ak are gey’an light mispleased.”</p>
+<p>So off he went after ‘s tea, an’ there she was, sittin’ by tha fire, an’ stirrin’ a big pot.</p>
+<p>“Good e’en, missis,” says he, “its a fine night.”</p>
+<p>“Aye,” says she, an’ went on stirring.</p>
+<p>“It’ll mebbe rain,” says he, an’ fidgetted from one foot to t’other.</p>
+<p>“Mebbe,” says she.</p>
+<p>“An’ mappen’t ‘ull no,” says he, an’ looked out o” the window.</p>
+<p>“Mappen,” says she.</p>
+<p>An’ he scratched ‘s head, an’ twisted ‘s hat.</p>
+<p>“Weel,” says he, “a can’t min’ nuthin’ else aboot tha weather, but lemme see; the crops is gittin’ on fine.”</p>
+<p>“Fine,” says she.</p>
+<p>“An’—an’—tha beasts is fattenin’,” says he.</p>
+<p>“They are,” say’s she.</p>
+<p>“An’—an’—” says he, ‘n comes to a stop—“a reckon we’ll tackle business noo, hevin’ done tha perlite like. Hev’ ye ony brains fur to sell?”</p>
+<p>“That depen’s,” says she, “ef thou wants king’s brains, or sodger’s brains, or schoolme’aster’s brains, a dinna keep ‘em.”</p>
+<p>“Hout no,” says he, “jist ord’nar brains — fit fur any fool — same ‘s every one has ‘bout here; suthin’ clean common-like.”</p>
+<p>“Aye so,” says tha wise woman, “a’ might manage that, ef so be thou’ll help thysel’.”</p>
+<p>“Hoo ‘s that fur, missis?” says he.</p>
+<p>“Jest so,” says she, lookin’ in ‘s pot; “bring me the heart o’ tha thing thou likes best o’ all, an’ a ‘ll tell thee where to get thy pottle o’ brains.”</p>
+<p>“But,” says he, scratching his head, “hoo can a do that?”</p>
+<p>“That ‘s no ‘on fur me to say,” says she, “fin’ oot fur thyser, my lad! ef thou disna want to be a fool a’ thy days. But thou ‘ll hev’ to read me a riddle so ‘s a can see thou ‘st brought the reet thing, an*’ef thy brains is ‘boot thee. An’ a ‘ve suthin’ else to see to,” says she, “so gode’en to ‘ee,” and she carried the pot away wi’ her into tha back place.</p>
+<p>So off goes the fool to ‘s mother, an’ tellt her what, tha wise woman said.</p>
+<p>“An’ a reckon a ‘ll hev to kill that pig,” says he, “fur a like fat bacon better nor iverythin’.”</p>
+<p>“Then do ‘t, my lad,” said ‘s mother, “fur sartain ‘t ‘ull be a stra’ange an’ good thing fur ‘ee, ef thou canst buy a pottle o’ brains, an’ be able to look arter thy ain sel’.”</p>
+<p>So he killed ‘s pig, an’ nex’ day off a went to tha wise woman’s cottage, an’ there she sat, readin’ in a great book.</p>
+<p>“Gode’en, missis,” say he, “a ‘ve brought thee tha heart o’ tha thing a likes best o’ all; an’ a put it hapt i’ paper on tha table.”</p>
+<p>“Aye so?” says she, an’ looked at him through her spec’itals. “Tell me this then, what rins wi’oot feet?”</p>
+<p>He scratched ‘s head, an’ thowt, an’ thowt, but a couldn’t tell.</p>
+<p>“Go thy ways,” says she, “thou’st no fo’t me the reet thing yet. I’se no’on brains fur ‘ee to-day”. An’ she clapt the book togither, an’ t’orned ‘s back.</p>
+<p>So off tha fool went to tell ‘s mother.</p>
+<p>But as a got nigh the hoose, oot came fo’ak runnin’ to’ tell un ‘at ‘s mother was deein’.</p>
+<p>An’ when he got in, ‘s mother ony looked at un, an’ smiled, ‘s if to say she could leave un wi’ a quiet min, sence a’d got brains ‘nuff noo to look arter ‘s sel’ — an’ then she dee’d.</p>
+<p>So doun a sat, an’ the more a thowt aboot it the badder a feeled. He minded hoo she’d nuss’t un when a wor a tiddy brat, an’ he’ped un wi’ ‘s lessons, an’ cooked ‘s dinners, an’ mended ‘s clouts, an’ born wi’ ‘s foolishness; an’ a felt sorrier ‘n’ sorrier, while a began to sob an’ greet.</p>
+<p>“Oh, mother, mother!” says he, “who’ll tak’ care on me noo! Thou shouldn’t hev’ lef me alo’an, fur a liked thee better nor iverything!”</p>
+<p>An’ as he said that, he thowt of the words o’ the wise woman. “Hi, yi!” says he, “must a cut oot mother’s heart an’ tak’ it to her? A disna like the job,” an’ he took oot a knife an’ felt ‘s edge.</p>
+<p>“No! a can’t do ‘t,” says he. “What’ll a do! what’ll a do to get that pottle o’ brains, noo a’m alone i’ the worl’?” So a thowt an’ thowt, an’ next day a went an’ borrowed a sack, an’ bundelt ‘s mother in, an’ carried it on ‘s showther up to th’ wise woman’s cottage.</p>
+<p>“Gode’en, missis,” says he, “a reckon a ‘ve fo’t ‘ee the reet thing this time, sure<em>ly</em>,” an’ he plumped the sack down kerflap! in the doorsil.</p>
+<p>“Mebbe,” says the wise woman,  but read me this, noo, what’s yaller an’ shinin’ but isna goold?”</p>
+<p>An’ he scratched ‘s head, an’ thowt, an’ thowt, but a couldna tell.</p>
+<p>“Thou’st no hit the reet thing, my lad,” says she. “I doubt thou’s a bigger fool nor a thought!” an’ shut the door in ‘s face.</p>
+<p>“See there!” says he, an’ sets doun by tha road side an’ greets.</p>
+<p>“A’ve lost tha on’y twae things as a cared for, an’ what else can a fin’ to buy a pottle o’ brains wi’!” an’ he fair howled, till tha tears ran doun into ‘s mooth. An’ oop came a lass as lived gainhand, an’ looked at un.</p>
+<p>“What’s oop wi’ thee, fool?” says she.</p>
+<p>“Oo a’s killed ma pig, ‘n lost my mother, an’ a’m nobbut a fool mysel’,” says he, sobbin’.</p>
+<p>“That’s bad,” says she; “an’hevna thee anybody to look arter thee?”</p>
+<p>“Naw,” says he, “an’ a canna buy my pottle o’ brains fur thurs nuthin’ a like best lef!”</p>
+<p>“What art ta’alkin’ aboot?” says she.</p>
+<p>An’ doun she sets by him, an’ he tellt her all aboot the wise woman an’ the pig, an’ ‘s mother an’ the riddles, an’ ‘at he was alo’an i’ the warld.</p>
+<p>“Weel,” says she, “a wouldn’t min’ lookin’ arter thee mysel’.”</p>
+<p>“Could thee do ‘t?” says he.</p>
+<p>“Ou, ay!” says she, “fo’ak says as fools mak’ good husban’s, an’ a reckon a’ll hev thee, ef thou’st willin’.”</p>
+<p>“Can’st cook?” says he.</p>
+<p>“Ay, a can,” says she.</p>
+<p>“An’ scrub?” says he.</p>
+<p>“Surely,” says she.</p>
+<p>“An’ men’ ma clouts?” says he.</p>
+<p>“A can that,” says she.</p>
+<p>“A reckon thou’lt do then ‘s weel ‘s anybody,” says he; “but what ‘ll a do ‘bout this wise woman?”</p>
+<p>“Oh, wait a bit,” says she, “suthin’ mowt turn up, an’ it ‘ll no matter ef thou ‘rt a fool, s’ long ‘s thou’st got me to look arter thee.”</p>
+<p>“That’s true,” says he, an’ off tha went and got married.</p>
+<p>An’ she kept ‘s house so clean an’ neat, an’ cooked ‘s dinner so fine, ‘at one night a says to her:</p>
+<p>“Lass, a ‘m thinkin’ a like thee best o’ iverything, arter all.”</p>
+<p>“That’s good hearin’,” says she, “an’ what then?”</p>
+<p>“Hev ‘a got to kill thee, dost think, an’ take thy heart oop to the wise woman for that pottle o’ brains?”</p>
+<p>“Laws, no!” says she, lookin’ skeered, “a winna hev’ that But see here; thou didn’t cut oot thy mother’s heart, did tha?”</p>
+<p>“Naw; but if a had, mebbe a’d a got my pottle o’ brains,” says he.</p>
+<p>“Not a bit o’t,” says she; “jist thou take me ‘s a be, heart ‘n all, ‘n a wager a ‘ll help thee read the riddles.”</p>
+<p>“Can thee so?” says he, doubtful like; “a reckon thon ‘s too hard for wimmen fo’ak.”</p>
+<p>“Weel,” says she, “let ‘s see noo. Tell ‘s the first ‘un.”</p>
+<p>“What rins wi’ oot feet?” says he.</p>
+<p>“Why, watter!” says she.</p>
+<p>“It do,” says he, an’ scratched ‘s head.</p>
+<p>“An’ what ‘s yaller an’ shinin’, but isna goold?”</p>
+<p>“Why, the sun!” says she.</p>
+<p>“Faix, it be!” says he. “Coom, us ‘ll go oop to the wise woman towanst,” and off they went. An’ as they comed oop the pad, she wor sittin’ at the door, twinin’ straws.</p>
+<p>“Gode’en, missis,” says he.</p>
+<p>“Gode’en, fool,” says she.</p>
+<p>“A reckon a ‘s fo’t ‘e the reet thing to last,” says he, “thoff a hevn’t azac’ly cut th’ heart oot, it be so moocky wark.”</p>
+<p>The wise woman looked at ‘em both, an’ wiped her spec’itals.</p>
+<p>“Canst tell me what that be, as has first nae legs, an’ then twae legs, an’ en’s wi’ fower legs?”</p>
+<p>An’ the fool scratched ‘s head, an’ thowt, an’ thowt; but a couldna tell.</p>
+<p>An* the lass whispered in ‘s ear:</p>
+<p>“It be a tadpole.”</p>
+<p>“Mappen,” says he then, “it mout be a tadpole, missis.”</p>
+<p>The wise woman nodded ‘s head.</p>
+<p>“That ‘s reet,” says she, “an’ thou’st got thy pottle o’ brains a’ready.”</p>
+<p>“Wheer be they?” says he, lookin’ aboot, an’ feelin’ in ‘s pockets.</p>
+<p>“In thy wife’s head,” says she. “The on’y cure fur a fool ‘s a good wife to look arter ‘n, an’ that thou’st got; so gode’en to ‘ee!” An’ wi’ that she nodded to ‘em, an’ up and into the hoose.</p>
+<p>So they went ho’am together, an’ a niver wanted to buy a pottle o’ brains age’an, fur ‘s wife ‘ad enuff fur both.</p>
+<p>M. C. Balfour.</p>
+</div>
+<div class="seealso admonition">
+<p class="admonition-title">Investigating the Cars, Maureen James, PhD. Thesis, 2013</p>
+<p>See also the following PhD thesis on Mrs. Balfour’s collected tales of the Cars:</p>
+<p><a class="reference external" href="https://pure.southwales.ac.uk/ws/portalfiles/portal/2641345/M._James_2013_2060302.pdf">https://pure.southwales.ac.uk/ws/portalfiles/portal/2641345/M._James_2013_2060302.pdf</a>
+INVESTIGATING THE LEGENDS OF THE CARRS: A STUDY OF THE TALES AS PRINTED IN FOLK-LORE IN 1891
+Maureen James
+PhD thesis, University of Glamorgan, 2013</p>
+</div>
+<p>In Jacobs’ version of <em>Coat o’ Clay</em>, again borrowed from Mrs. Balfour, we see the same stylised performance note in the pronunciation of <code class="docutils literal notranslate"><span class="pre">sure</span></code><em><code class="docutils literal notranslate"><span class="pre">ly</span></code></em>, complementing Mrs. Balfour’s observation that the two tales came from the same source.</p>
+<div class="admonition-coat-o-clay-in-more-english-fairy-tales-1894 admonition">
+<p class="admonition-title">“Coat o’ Clay”, in *More English Fairy Tales, 1894</p>
+<p><a class="reference external" href="https://archive.org/details/moreenglishfairy00jacoiala/page/74/mode/2up">https://archive.org/details/moreenglishfairy00jacoiala/page/74/mode/2up</a>
+More English fairy tales
+by Jacobs, Joseph, 1854-1916; Batten, John Dickson, 1860-1932, ill</p>
+<p>Publication date 1894
+pp. 75-81</p>
+<p>Coat o’ Clay</p>
+<p>ONCE on a time, in the parts of Lindsey, there lived a wise woman. Some said she was a witch, but they said it in a whisper, lest she should overhear and do them a mischief, and truly it was not a thing one could be sure of, for she was never known to hurt any one, which, if she were a witch, she would have been sure to do. But she could tell you what your sickness was, and how to cure it with herbs, and she could mix rare possets that would drive the pain out of you in a twinkling; and she could advise you what to do if your cows were ill, or if you’d got into trouble, and tell the maids whether their sweethearts were likely to be faithful.</p>
+<p>But she was ill-pleased if folks questioned her too much or too long, and she sore misliked fools. A many came to her asking foolish things, as was their nature, and to them she never gave counsel — at least of a kind that could aid them much.</p>
+<p>Well, one day, as she sat at her door paring potatoes, over the stile and up the path came a tall lad with long nose and goggle eyes and his hands in his pockets.</p>
+<p>“That’s a fool, if ever was one, and a fool’s luck in his face,” said the wise woman to herself with a nod of her head, and threw a potato skin over her left shoulder to keep off ill-chance.</p>
+<p>“Good-day, missis,” said the fool. “I be come to see thee.”</p>
+<p>“So thou art,” said the wise woman; “I see that. How’s all in thy folk this year?”</p>
+<p>“Oh, fairly,” answered he. “But they say I be a fool.”</p>
+<p>“Ay, so thou art,” nodded she, and threw away a bad potato. “I see that too. But what wouldst o’ me? I keep no brains for sale.”</p>
+<p>“Well, see now. Mother says I’ll ne’er be wiser all my born days; but folks tell us thou canst do everything. Can’t thee teach me a bit, so they’ll think me a clever fellow at home?”</p>
+<p>“Hout-tout!” said the wise woman; “thou’rt a bigger fool than I thought. Nay, I can’t teach thee nought, lad; but I tell thee summat. Thou’lt be a fool all thy days till thou gets a coat o’ clay; and then thou’lt know more than me.”</p>
+<p>“Hi, missis; what sort of a coat’s that?” said he.</p>
+<p>“That’s none o’ my business,” answered she. “Thou’st got to find out that.”</p>
+<p>And she took up her potatoes and went into her house.</p>
+<p>The fool took off his cap and scratched his head.</p>
+<p>“It’s a queer kind of coat to look for, sure-<em>ly</em>,” said he</p>
+<p>“I never heard of a coat o’ clay. But then I be a fool, that’s true.”</p>
+<p>So he walked on till he came to the drain near by, with just a pickle of water and a foot of mud in it.</p>
+<p>“Here’s muck,” said the fool, much pleased, and he got in and rolled in it spluttering. “Hi, yi!” said he — for he had his mouth full — “I’ve got a coat o’ clay now to be sure. I’ll go home and tell my mother I’m a wise man and not a fool any longer.” And he went on home.</p>
+<p>Presently he came to a cottage with a lass at the door.</p>
+<p>“Morning, fool,” said she; “hast thou been ducked in the horsepond?”</p>
+<p>“Fool yourself,” said he, “the wise woman says I’ll know more’n she when I get a coat o’ clay, and here it is. Shall I marry thee, lass?”</p>
+<p>“Ay,” said she, for she thought she’d like a fool for a husband, “when shall it be?”</p>
+<p>“I’ll come and fetch thee when I’ve told my mother,” said the fool, and he gave her his lucky penny and went on.</p>
+<p>When he got home his mother was on the doorstep.</p>
+<p>“Mother, I’ve got a coat o’ clay,” said he.</p>
+<p>“Coat o’ muck,” said she; “and what of that?”</p>
+<p>“Wise woman said I’d know more than she when I got a coat o’ clay,” said he, “so I down in the drain and got one, and I’m not a fool any longer.”</p>
+<p>“Very good,” said his mother, “now thou canst get a wife.”</p>
+<p>“Ay,” said he, “I’m going to marry so-an’-so.”</p>
+<p>“What!” said his mother, “that lass? No, and that thou’lt not. She’s nought but a brat, with ne’er a cow or a cabbage o’ her own.”</p>
+<p>“But I gave her my luck penny,” said the fool.</p>
+<p>“Then thou’rt a bigger fool than ever, for all thy coat o’ clay!” said his mother, and banged the door in his face.</p>
+<p>“Dang it!” said the fool, and scratched his head, “that’s not the right sort o’ clay sure-<em>ly</em>.”</p>
+<p>So back he went to the highroad and sat down on the bank of the river close by, looking at the water, which was cool and clear.</p>
+<p>By-and-by he fell asleep, and before he knew what he was about — plump — he rolled off into the river with a splash, and scrambled out, dripping like a drowned rat.</p>
+<p>“Dear, dear,” said he, “I’d better go and get dry in the sun.” So up he went to the highroad, and lay down in the dust, rolling about so that the sun should get at him all over.</p>
+<p>Presently, when he sat up and looked down at himself, he found that the dust had caked into a sort of skin over his wet clothes till you could not see an inch of them, they were so well covered. “Hi, yi!” said he, “here’s a coat o’ clay ready made, and a fine one. See now, I’m a clever fellow this time sure-<em>ly</em>, for I’ve found what I wanted without looking for it! Wow, but it’s a fine feeling to be so smart!”</p>
+<p>And he sat and scratched^his head, and thought about his own cleverness.</p>
+<p>But all of a sudden, round the corner came the squire on horseback, full gallop, as if the boggles were after him; but the fool had to jump, even though the squire pulled his horse back on his haunches.</p>
+<p>“What the dickens,” said the squire, “do you mean by lying in the middle of the road like that?”</p>
+<p>“Well, master,” said the fool, “I fell into the water and got wet, so I lay down in the road to get dry; and I lay down a fool an’ got up a wise man.”</p>
+<p>“How’s that?” said the squire.</p>
+<p>So the fool told him about the wise woman and the coat o’ clay.</p>
+<p>“Ah, ah!” laughed the squire, “whoever heard of a wise man lying in the middle of the highroad to be ridden over? Lad, take my word for it, you are a bigger fool than ever,” and he rode on laughing.</p>
+<p>“Dang it!” said the fool, as he scratched his head. “I’ve not got the right sort of coat yet, then.” And he choked and spluttered in the dust that the squire’s horse had raised.</p>
+<p>So on he went in a melancholy mood till he came to an inn, and the landlord at his door smoking.</p>
+<p>“Well, fool,” said he, “thou’rt fine and dirty.”</p>
+<p>“Ay,” said the fool, “I be dirty outside an’ dusty in, but it’s not the right thing yet.”</p>
+<p>And he told the landlord all about the wise woman and the coat o’ clay.</p>
+<p>“Hout-tout!” said the landlord, with a wink. “I know what’s wrong. Thou’st got a skin o’ dirt outside and all dry dust inside. Thou must moisten it, lad, with a good drink, and then thou’lt have a real all-over coat o’ clay.”</p>
+<p>“Hi,” said the fool, “that’s a good word.”</p>
+<p>So down he sat and began to drink. But it was wonderful how much liquor it took to moisten so much dust; and each time he got to the bottom of the pot he found he was still dry. At last he began to feel very merry and pleased with himself.</p>
+<p>“Hi, yi!” said he. “I’ve got a real coat o; clay now outside and in — what a difference it do make, to be sure. I feel another man now — so smart.”</p>
+<p>And he told the landlord he was certainly a wise man now, though he couldn’t speak over-distinctly after drinking so much. So up he got, and thought he would go home and tell his mother she hadn’t a fool for a son any more.</p>
+<p>But just as he was trying to get through the inn-door which would scarcely keep still long enough for him to find it, up came the landlord and caught him by the sleeve.</p>
+<p>“See here, master,” said he, “thou hastn’t paid for thy score — where’s thy money?”</p>
+<p>“Haven’t any!” said the fool, and pulled out his pockets to show they were empty.</p>
+<p>“What!” said the landlord, and swore; “thou’st drunk all my liquor and haven’t got nought to pay for it with!”</p>
+<p>“Hi!” said the fool. “You told me to drink so as to get a coat o’ clay; but as I’m a wise man now I don’t mind helping thee along in the world a bit, for though I’m a smart fellow I’m not too proud to my friends.”</p>
+<p>“Wise man! smart fellow!” said the landlord, “and help me along, wilt thee? Dang it! thou’rt the biggest fool I ever saw, and it’s I’ll help thee first — out o’ this!”</p>
+<p>And he kicked him out of the door into the road and swore at him.</p>
+<p>“Hum,” said the fool, as he lay in the dust, “I’m not so wise as I thought. I guess I’ll go back to the wise woman and tell her there’s a screw loose somewhere.”</p>
+<p>So up he got and went along to her house, and found her sitting at the door.</p>
+<p>“So thou’rt come back,” said she, with a nod. “What dost thou want with me now?”</p>
+<p>So he sat down and told her how he’d tried to get a coat o’ clay, and he wasn’t any wiser for all of it.</p>
+<p>“No,” said the wise woman, “thou’rt a bigger fool than ever, my lad.”</p>
+<p>“So they all say,” sighed the fool; “but where can I get the right sort of coat o’ clay, then, missis?”</p>
+<p>“When thou’rt done with this world, and thy folk put thee in the ground,” said the wise woman. “That’s the only coat o’ clay as’ll make such as thee wise, lad. Born a fool, die a fool, and be a fool thy life long, and that’s the truth!”</p>
+<p>And she went into the house and shut the door.</p>
+<p>“Dang it,” said the fool. “I must tell my mother she was right after all, and that she’ll never have a wise man for a son!”</p>
+<p>And he went off home.</p>
+<p>Note, p. 227</p>
+<p>LIX. COAT O’ CLAY.</p>
+<p>Source. — Contributed by Mrs. Balfour originally to <em>Longman’s Magazine</em>, and thence to <em>Folk-Lore</em>, Sept. 1890.</p>
+<p>Remarks. — A rustic apologue, which is scarcely more than a prolonged pun on “Coat o’ Clay.” Mrs. Balfour’s telling redeems it from the usual dulness of folk-tales with a moral or a double meaning.</p>
+</div>
+<p>The tale of <em>Gobborn Seer</em> also appears in More English Fairy Tales:</p>
+<div class="dropdown admonition">
+<p class="admonition-title">“Gobborn Seer”, in <em>More English Fairy Tales</em>, 1894</p>
+<p><a class="reference external" href="https://archive.org/details/moreenglishfairy00jacoiala/page/54/mode/2up?q=gobborn">https://archive.org/details/moreenglishfairy00jacoiala/page/54/mode/2up?q=gobborn</a>
+More English fairy tales
+by Jacobs, Joseph, 1854-1916; Batten, John Dickson, 1860-1932, ill</p>
+<p>Publication date 1894
+p54-8</p>
+<p>Gobborn Seer</p>
+<p>ONCE there was a man Gobborn Seer, and he had a son called Jack. One day he sent him out to sell a sheep-skin, and Gobborn said, “You must bring me back the skin and the value it as well.”</p>
+<p>So Jack started, but he could not find any who would leave him the skin and give him its price too. So he came home discouraged.</p>
+<p>But Gobborn Seer said, “Never mind, you must take another turn at it to-morrow.”</p>
+<p>So he tried again, and nobody wished to buy the skin on those terms.</p>
+<p>When he came home his father said, “You must go and try your luck to-morrow,” and the third day it seemed as if it would be the same thing over again. And he had half a mind not to go back at all, his father would be so vexed. As he came to a bridge, like the Creek Road one yonder, he leaned on the parapet thinking of his trouble, and that perhaps it would be foolish to run away from home, but he could not tell which to do; when he saw a girl wash-</p>
+<p>ing her clothes on the bank below. She looked up and said, “If it may be no offence asking, what is it you feel so badly about?”</p>
+<p>“My father has given me this skin, and I am to fetch it back and the price of it beside.”</p>
+<p>“Is that all? Give it here, and it’s easy done.”</p>
+<p>So the girl washed the skin in the stream, took the wool from it, and paid him the value of it, and gave him the skin to carry back.</p>
+<p>His father was well pleased, and said to Jack, “That was a witty woman; she would make you a good wife. Do you think you could tell her again?”</p>
+<p>Jack thought he could, so his father told him to go by-and-by to the bridge, and see if she was there, and if so bid her come home to take tea with them.</p>
+<p>And sure enough Jack spied her and told her how his old father had a wish to meet her, and would she be pleased to drink tea with them.</p>
+<p>The girl thanked him kindly, and said she could come the next day; she was too busy at the moment.</p>
+<p>“All the better,” said Jack, “I’ll have time to make ready.”</p>
+<p>So when she came Gobborn Seer could see she was a witty woman, and he asked her if she would marry his Jack. She said “Yes,” and they were married.</p>
+<p>Not long after, Jack’s father told him he must come with him and build the finest castle that ever was seen, for a king who wished to outdo all others by his wonderful castle.</p>
+<p>And as they went to lay the foundation-stone, Gobborn Seer said to Jack, “Can’t you shorten the way for me?”</p>
+<p>But Jack looked ahead and there was a long road before them, and he said, “I don’t see, father, how I could break a bit off.”</p>
+<p>“You’re no good to me, then, and had best be off home.”</p>
+<p>So poor Jack turned back, and when he came in his wife said, “Why, how’s this you’ve come alone?” and he told her what his father had said and his answer.</p>
+<p>“You stupid,” said his witty wife, “if you had told a tale you would have shortened the road! Now listen till I tell you a story, and then catch up with Gobborn Seer and begin it at once. He will like hearing it, and by the time you are done you will have reached the foundationstone.”</p>
+<p>So Jack sweated and overtook his father. Gobborn Seer said never a word, but Jack began his story, and the road was shortened as his wife had said.</p>
+<p>When they came to the end of their journey, they started building of this castle which was to outshine all others. Now the wife had advised them to be intimate with the servants, and so they did as she said, and it was “Good-morning” and “Good-day to you” as they passed in and out.</p>
+<p>Now, at the end of a twelvemonth, Gobborn, the wise man, had built such a castle thousands were gathered to admire it.</p>
+<p>And the king said: “The castle is done. I shall return to-morrow and pay you all.”</p>
+<p>“I have just a ceiling to finish in an upper lobby,” said Gobborn, “and then it wants nothing.”</p>
+<p>But after the king was gone off, the housekeeper sent for Gobborn and Jack, and told them that she had watched for a chance to warn them, for the king was so afraid they should carry their art away and build some other king as fine a castle, he meant to take their lives on the morrow. Gobborn told Jack to keep a good heart, and they would come off all right.</p>
+<p>When the king had come back Gobborn told him he had been unable to complete the job for lack of a tool left at home, and he should like to send Jack after it.</p>
+<p>“No, no,” said the king, “cannot one of the men do the errand?”</p>
+<p>“No, they could not make themselves understood,” said the Seer, “but Jack could do the errand.”</p>
+<p>“You and your son are to stop here. But how will it do if I send my own son?”</p>
+<p>“That will do.”</p>
+<p>So Gobborn sent by him a message to Jack’s wife. “Give him Crooked and Straight!”</p>
+<p>Now there was a little hole in the wall rather high up, and Jack’s wife tried to reach up into a chest there after “crooked and straight,” but at last she asked the king’s son to help her, because his arms were longest.</p>
+<p>But when he was leaning over the chest she caught him by the two heels, and threw him into the chest, and fastened it down. So there he was, both “crooked and straight!”</p>
+<p>Then he begged for pen and ink, which she brought him, but he was not allowed out, and holes were bored that he might breathe.</p>
+<p>When his letter came, telling the king, his father, he was to be let free when Gobborn and Jack were safe home, the king saw he must settle for the building, and let them come away.</p>
+<p>As they left Gobborn told him: Now that Jack was done with this work, he should soon build a castle for his witty wife far superior to the king’s, which he did, and they lived there happily ever after.</p>
+<p>Notes, p 225</p>
+<p>LIV. GOBBORN SEER.</p>
+<p><em>Source.</em> — Collected by Mrs. Gomme from an old woman at Deptford. It is to be remarked that “Gobborn Seer” is Irish (GobanSaor = free carpenter), and is the Irish equivalent of Wayland Smith, and occurs in several place names in Ireland.</p>
+<p><em>Parallels.</em> — The essence of the tale occurs in Kennedy, I.e., p. 67 scq. Gobborn Seer’s daughter was clearly the clever lass who is found in all parts of the Indo-European world. An instance in my <em>Indian Fairy Tales</em> “Why the Fish laughed” (No. xxiv.). She has been made a special study of by Prof. Child, <em>English and Scotch Ballads</em>, i. 485, while an elaborate monograph by Prof. Benfey under the title “Die Kluge Dime” (reprinted in his <em>Kleine Schriften</em>, ii. 156 seq.), formed the occasion for his first presentation of his now well-known hypothesis of the derivation of all folk-tales from India.</p>
+<p><em>Remarks.</em> — But for the accident of the title being preserved there would have been nothing to show that this tale had been imported into England from Ireland, whither it had probably been carried all Ihe way from India.</p>
+</div>
+<p>*For other tales of fools, see for example <a class="reference internal" href="three-sillies.html"><span class="std std-doc"><em>The Three Sillies</em></span></a>.</p>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="three-sillies.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">The Three Sillies</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="soul_cages.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">The Soul Cages</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Tony Hirst
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2024.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
