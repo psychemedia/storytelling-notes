@@ -4,13 +4,38 @@ A gruesome tale, the result of a perhaps ill-considered will, in which a mother 
 
 ## A Telling
 
-Here's a possible telling:
+One of my motivations for descending into the newspaper archives as part of my *storytelling* research process is two-fold: firstly, to find tales that may be tellable; and secondly, to find areas of social history, as reported in the papers of the day, that might provide some sort of context for the folk tales of the time. Even if the historical context does not feature *explicitly* in the telling of a particular story, it may colour my interpretation of a story, or provide some unstated background or context that fleshes out a character or situation *in my own imagination*. This in turn may influence my own choice of word, or phrase, or even tone of voice, as part of the telling, and as such influence the performance of the tale.
+
+The following anecdote provides some background colour relating to attitudes towards, and the treatment of, mothers of children born out of wedlock. It was reported by John Hassell the second volume of his [*Tour of the Isle of Wight*](https://www.google.co.uk/books/edition/Tour_of_the_Isle_of_Wight/SYUuAAAAMAAJ?hl=en&gbpv=0), published in 1790, and recounts his experience of entering Godshill Church (p.88):
+
+> Upon our entering the porch we observed abstracts from several acts of parliament fixed against the door, and among them one that excited both our curiosity and risibility; — it was from an act made in the seventh of James the First, which enacts, that every female who unfortunately intrudes on the parish a second illegitimate child, shall be liable to imprisonment and hard labour in Bridewell for six months.
+> 
+> Now as the number of females on this island much exceeds that of the males; and as, from the mild temperature of the climate, circumstances frequently arise among the lower ranks that render the intention of this act of no effect; we could not help thinking this public exhibition of the abstract as rather a rigorous exertion of Justice.
+>
+> We found it was not very unusual here for the young men, from the deficiency of numbers just spoken of, to pay their devoirs to more than one young woman at a time; and as it is not possible for him legally to unite himself to all of them, he generally bestows his hand on her who had first presented him with a pledge of their love.
+>  
+> This, however, is seldom done till the approach of a second pledge from the same person renders such an act of compassion needful, in order to avoid the consequences of the tremendous anathema fixed on the church door.
+
+At the time — the late eighteenth century — an unmarried mother could seek "child support" from  the father by identifying him as such to the Parish authorities. They would then attempt to hold the father financially responsible for the child, or at least expect him to contribute to the child's upkeep.If no support was forthcoming, the Parish would then step in to provide support, although the mother may also gfind herself committed to the workhouse. In the case Hassell describes, it seems that the officers of the Godshill parish were attempting to minimise the costs to the parish from supporting women who had had multiple children out of wedlock to different fathers by committing them to a Bridewell — which is to say, a house of correction, or a prison — rather than a workhouse.
+
+But things were to change. The new Poor Law of 1834 made single mothers responsible for the upkeep of their illegitimate children: charges could no longer be made against the unnmarried father for "child support", as had traditionally been the case, and the parish would neither pursue the father for such monies, nor provide support to the mother or child: if a single woman could not support herself and her child, she would have to go to the workhouse.
+
+Opponents of the Bill claimed that such a change in the law would lead to an increase in the concealment of births, neonaticide (the murder of a child during the first day of life following birth) and infanticide: some proportion of mothers unable to look after their illegitimate offspring would now no doubt feel forced into taking this drastic course of action.
+
+```{seealso}
+Cody, Lisa Forman, The politics of illegitimacy in an age of reform: Women, reproduction, and political economy in England's new Poor Law of 1834. *Journal of Women's History* 11.4 (2000): 131-156. *(PDF via Google Scholar)*
+
+Higginbotham, Ann R. "Sin of the Age": Infanticide and Illegitimacy in Victorian London. *Victorian Studies*, Vol. 32, No. 3 (Spring, 1989), pp. 319-33, https://www.jstor.org/stable/3828495
+
+```
+
+This provides some sort of context for the following tale which I came to following a search of news articles relating to the Forest of Dean prompted by Emma's Uncle Tim's allusions to tales of "babby pits" in the Forest, but which he avoided discussing further on the basis that the families still lived in the area. I don't know if this is the tale he was alluding too, but it is a tale that I think is tellable.
 
 > TO DO
 
 ## First reports of infanticide in the Forest
 
-The story played out in the press through November and December, 1842, and was presented almost fully formed in the original announcements of it.
+The facts of the original matter appeared in the local, regional and national press through November and December, 1842. The story was presented almost fully formed in the original announcements of it.
 
 ```{admonition} Horrible infanticides, November 1842
 :class: dropdown
