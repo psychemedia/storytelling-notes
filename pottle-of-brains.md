@@ -2,7 +2,7 @@
 
 This is one of those tales I came across a couple of times, independently of each otehr, in rapid succession, and that jumped out at me both times, which meant it was somthing I felt I needed to tell.
 
-It's a noodle tale, with a wise womon pointing out the foolishness of our hero. As I've also been pulling together some historical wise woman tales, I think there may be an opportunity to try to a pair up a traditional tale with a historical one and see how they might play off each other.
+It's a noodle tale, with a wise woman pointing out the foolishness of our hero. As I've also been pulling together some historical wise woman tales, I think there may be an opportunity to try to a pair up a traditional tale with a historical one and see how they might play off each other.
 
 As to *A Pottle of Brains*, I first found it in written form in Jacob's second collection of English fairy tales (*More English Fairy Tales*), a version that Hugh Lupton included in his [*Mardling Acre*](https://burningshed.com/hugh-lupton_the-mardling-acre_cd) collection.
 
@@ -555,7 +555,7 @@ Source. — Contributed by Mrs. Balfour originally to *Longman's Magazine*, and 
 Remarks. — A rustic apologue, which is scarcely more than a prolonged pun on "Coat o' Clay." Mrs. Balfour's telling redeems it from the usual dulness of folk-tales with a moral or a double meaning.
 ```
 
-The tale of *Gobborn Seer* also appears in More English Fairy Tales:
+The tale of *Gobborn Seer* also appears in *More English Fairy Tales*:
 
 ```{admonition} "Gobborn Seer", in *More English Fairy Tales*, 1894
 :class: dropdown
