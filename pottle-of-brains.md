@@ -6,7 +6,7 @@ It's a noodle tale, with a wise woman pointing out the foolishness of our hero. 
 
 As to *A Pottle of Brains*, I first found it in written form in Jacob's second collection of English fairy tales (*More English Fairy Tales*), a version that Hugh Lupton included in his [*Mardling Acre*](https://burningshed.com/hugh-lupton_the-mardling-acre_cd) collection.
 
-```{admonition} "A Pottle of Brains", jacobs' *More English Fairy Tales*, 1894
+```{admonition} "A Pottle of Brains", Jacobs' *More English Fairy Tales*, 1894
 :class: dropdown
 https://archive.org/details/moreenglishfairy00jacoiala/page/124/mode/2up
 Joseph Jacobs, *More English fairy tales*, 1894
@@ -391,7 +391,7 @@ Maureen James
 PhD thesis, University of Glamorgan, 2013
 ```
 
-In Jacobs' version of *Coat o' Clay*, again borrowed from Mrs. Balfour, we see the same stylised performance note in the pronunciation of `sure`*`ly`*, complementing Mrs. Balfour's observation that the two tales came from the same source.
+In Jacobs' version of *Coat o' Clay*, again borrowed from Mrs. Balfour, we see the same stylised performance note in the pronunciation of `sure`*`ly`*, complementing Mrs. Balfour's observation that the two tales came from the same source. *Coat o' Clay* also opens with some useful scene setting around the character of the wise women, although we might contrast her handling of the fool across both stories.
 
 ```{admonition} "Coat o' Clay", in *More English Fairy Tales*, 1894
 :class: dropdown
