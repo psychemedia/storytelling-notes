@@ -186,7 +186,7 @@ In his notes, p. 232, Jacobs cites Mrs. Balfour, and relates the tale to *Coat o
 
 Mrs. Balfour's earlier contributed version to *FolkLore* is given in a dialect form:
 
-```{admonition} "A Pottle o' Brains", FolkLore, 1891 
+```{admonition} "A Pottle o' Brains", FolkLore, 1891
 :class: dropdown
 https://archive.org/details/publications20unkngoog/page/164/mode/2up?q=balfour+pottle
 Folklore, vol. II, no. 2, June 1891
@@ -226,7 +226,7 @@ An' he scratched 's head, an' twisted 's hat.
 
 "They are," say's she.
 
-"An'—an'—" says he, 'n comes to a stop—"a reckon we'll tackle business noo, hevin' done tha perlite like. Hev' ye ony brains fur to sell?"
+"An'—an'—" says he, 'n comes to a stop— "a reckon we'll tackle business noo, hevin' done tha perlite like. Hev' ye ony brains fur to sell?"
 
 "That depen's," says she, "ef thou wants king's brains, or sodger's brains, or schoolme'aster's brains, a dinna keep 'em."
 
@@ -478,7 +478,7 @@ By-and-by he fell asleep, and before he knew what he was about — plump — he 
 
 Presently, when he sat up and looked down at himself, he found that the dust had caked into a sort of skin over his wet clothes till you could not see an inch of them, they were so well covered. "Hi, yi!" said he, "here's a coat o' clay ready made, and a fine one. See now, I'm a clever fellow this time sure-*ly*, for I've found what I wanted without looking for it! Wow, but it's a fine feeling to be so smart!"
 
-And he sat and scratched^his head, and thought about his own cleverness.
+And he sat and scratched his head, and thought about his own cleverness.
 
 But all of a sudden, round the corner came the squire on horseback, full gallop, as if the boggles were after him; but the fool had to jump, even though the squire pulled his horse back on his haunches.
 
@@ -555,11 +555,7 @@ Source. — Contributed by Mrs. Balfour originally to *Longman's Magazine*, and 
 Remarks. — A rustic apologue, which is scarcely more than a prolonged pun on "Coat o' Clay." Mrs. Balfour's telling redeems it from the usual dulness of folk-tales with a moral or a double meaning.
 ```
 
-<<<<<<< Updated upstream
-The tale of *Gobborn Seer* also appears in *More English Fairy Tales*:
-=======
-The tale of *Gobborn Seer*, as collected by Mrs. Gomme, also appears in More English Fairy Tales:
->>>>>>> Stashed changes
+The tale of *Gobborn Seer*, as collected by Mrs. Gomme, also appears in *More English Fairy Tales*:
 
 ```{admonition} "Gobborn Seer", in *More English Fairy Tales*, 1894
 :class: dropdown
