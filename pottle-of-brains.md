@@ -187,7 +187,7 @@ In his notes, p. 232, Jacobs cites Mrs. Balfour, and relates the tale to *Coat o
 Mrs. Balfour's earlier contributed version to *FolkLore* is given in a dialect form:
 
 ```{admonition} "A Pottle o' Brains", FolkLore, 1891 
-:class dropdown
+:class: dropdown
 https://archive.org/details/publications20unkngoog/page/164/mode/2up?q=balfour+pottle
 Folklore, vol. II, no. 2, June 1891
 
@@ -393,8 +393,8 @@ PhD thesis, University of Glamorgan, 2013
 
 In Jacobs' version of *Coat o' Clay*, again borrowed from Mrs. Balfour, we see the same stylised performance note in the pronunciation of `sure`*`ly`*, complementing Mrs. Balfour's observation that the two tales came from the same source.
 
-```{admonition} "Coat o' Clay", in *More English Fairy Tales, 1894
-:class; dropdown
+```{admonition} "Coat o' Clay", in *More English Fairy Tales*, 1894
+:class: dropdown
 https://archive.org/details/moreenglishfairy00jacoiala/page/74/mode/2up
 More English fairy tales
 by Jacobs, Joseph, 1854-1916; Batten, John Dickson, 1860-1932, ill
@@ -555,7 +555,11 @@ Source. — Contributed by Mrs. Balfour originally to *Longman's Magazine*, and 
 Remarks. — A rustic apologue, which is scarcely more than a prolonged pun on "Coat o' Clay." Mrs. Balfour's telling redeems it from the usual dulness of folk-tales with a moral or a double meaning.
 ```
 
+<<<<<<< Updated upstream
 The tale of *Gobborn Seer* also appears in *More English Fairy Tales*:
+=======
+The tale of *Gobborn Seer*, as collected by Mrs. Gomme, also appears in More English Fairy Tales:
+>>>>>>> Stashed changes
 
 ```{admonition} "Gobborn Seer", in *More English Fairy Tales*, 1894
 :class: dropdown
@@ -650,7 +654,7 @@ LIV. GOBBORN SEER.
 
 *Source.* — Collected by Mrs. Gomme from an old woman at Deptford. It is to be remarked that "Gobborn Seer" is Irish (GobanSaor = free carpenter), and is the Irish equivalent of Wayland Smith, and occurs in several place names in Ireland.
 
-*Parallels.* — The essence of the tale occurs in Kennedy, I.e., p. 67 scq. Gobborn Seer's daughter was clearly the clever lass who is found in all parts of the Indo-European world. An instance in my *Indian Fairy Tales* "Why the Fish laughed" (No. xxiv.). She has been made a special study of by Prof. Child, *English and Scotch Ballads*, i. 485, while an elaborate monograph by Prof. Benfey under the title "Die Kluge Dime" (reprinted in his *Kleine Schriften*, ii. 156 seq.), formed the occasion for his first presentation of his now well-known hypothesis of the derivation of all folk-tales from India.
+*Parallels.* — The essence of the tale occurs in Kennedy, i.e., p. 67 seq. Gobborn Seer's daughter was clearly the clever lass who is found in all parts of the Indo-European world. An instance in my *Indian Fairy Tales* "Why the Fish laughed" (No. xxiv.). She has been made a special study of by Prof. Child, *English and Scotch Ballads*, i. 485, while an elaborate monograph by Prof. Benfey under the title "Die Kluge Dime" (reprinted in his *Kleine Schriften*, ii. 156 seq.), formed the occasion for his first presentation of his now well-known hypothesis of the derivation of all folk-tales from India.
 
 *Remarks.* — But for the accident of the title being preserved there would have been nothing to show that this tale had been imported into England from Ireland, whither it had probably been carried all Ihe way from India.
 ```
