@@ -73,7 +73,7 @@ My current-working take on the tale, is still in preparation:
 ```{admonition} A telling
 :class: seealso dropdown
 
-> There is, or was, in the Cassilis family's winter home in Maybole,  a fragment of tapestry, depicting a beautiful young woman astride a majestic white horse, arms clasped round the waist of her handsome lover, a party of gaily clothed men riding with them.
+> There is, or was, in the Cassilis family's winter home in the small market town of Maybole, once capital of the ancient district of Carrick, 10 miles or so south of Ayr, in south-west Scotland,  a fragment of tapestry, depicting a beautiful young woman astride a majestic white horse, arms clasped round the waist of her handsome lover, a party of gaily clothed men riding with them.
 >
 > You can sense their happiness, their excitement at riding together, their love of life, and their love for each other. It is said that those tapestries were stitched by the former Lady Cassilis herself. It is said, that the walls of her room were covered from floor to ceiling with panels of similar scenes.
 >
@@ -85,7 +85,7 @@ My current-working take on the tale, is still in preparation:
 >
 > To try to buy some time, John Faa departed to the continent to do whatever "knightly things" men of adventure did at that time; and when he should return a few months later, he would surely have achieved such a rank that Lady Jean's father would surely see his merit as a son-in-law.
 >
-> The time passed slowly. Jean's father kept on pushing for her to wed Cassilis. I can easily imagine that she did what she could to dissuade him, but it would be to no avail. The second anniversary of her parting from Johnny Faa came and went; and then a letter arrived, a letter from the English ambassador. In Madrid. Johnny Faa had been involved in some sort of battle, in some sort of fight, and had been killed.
+> The time passed slowly. Jean's father kept on pushing for her to wed Cassilis. I can easily imagine that she did what she could to dissuade him; but it would be to no avail. The second anniversary of her parting from Johnny Faa came and went; and then: a letter arrived, a letter from the English ambassador. In Madrid. Johnny Faa had been involved in some sort of battle, in some sort of fight, and he had been killed.
 >
 > If Jean had complained about the age difference to Cassilis, about how the family fortune would be lost into his estate if — or, *when* — he would surely die before her — it made no difference: a dispensation was made that her fortune would remain hers.
 >
@@ -97,17 +97,17 @@ My current-working take on the tale, is still in preparation:
 >
 > Another time, when the Earl was away, a party of gypsies passed by; now, at that time, gypsy bands had a certain *reputation*: whenever they were in the area, anything that wasn't tied down would somehow end up in their possession; and if anything *was* tied down, well, you'd be lucky if you were left with even just the rope. But this band of men seemed different. This band of men seemed more like troubadours than vagabonds, more like musicians, than thieves.
 >
-> They'd settled on the mound in front of the Castle, beneath the boughs of the spreading tree that grew there. The Lady Cassilis had a taken a fancy to listen to them from the battlements, to their singing and playing. She called her maid to fetch some coins, that she could throw down to them, and called them to come closer... As they approached, she thought she recognised someome amongst them. She thought she could see,... no, no, it couldn't be? No, no, he was de... But it was: it was, Sir John Faa. Her Johnny Faa. Her one, true love. It was her betrothed.
+> They'd settled on the mound in front of the Castle, beneath the boughs of the spreading tree that grew there. The Lady Cassilis had a taken a fancy to listen to them from the battlements, to their singing and playing. She called her maid to fetch some coins, that she could throw down to them, and called them to come closer... As they approached, she thought she recognised one in particular amongst them. She thought she could see,... no, no, it couldn't be? No, no, he was de... But it was: it was, Sir John Faa. Her Johnny Faa. Her one, true love. It was her betrothed.
 >
 > The maid was sent to tell the men to go round to the kitchens, round the back, where they would be fed. Somehow, Lady Jean managed to meet with them; or at least, she managed to meet with *one* of them in particular.
 >
 > "What happened to you? Where have you been? We had a letter... You were killed? You... I thought you were dead..."
 >
-> "Not dead, just, um, *detained*.... By the Inquisition... there was a... little misunderstanding. I may have said something about the Church that didn't go down too well... So not a fight, not really... Eventually, I was released, and then it took some time to get back... Spain's bigger than you think... and the mountains...they're bigger too... And France just took forever... And when I eventually got back to London, I, I saw Cassilis. I heard that he had married; that he'd married you..."
+> "Not dead, just, um, *detained*.... By the Inquisition... there was a... little misunderstanding. I may have said something about the Church that didn't go down too well... So not a fight, not really... Eventually, I was released, and then it took some time to get back... Spain's bigger than you think... and the mountains...they're bigger too... And France just took forever... And when, eventually, I got back to London, I, I saw Cassilis. I heard that he had married; I heard: he'd married you..."
 >
-> "So I joined up with these men, told them my story... And as we travelled around, they we made a plan... To come here. So: come with us, come with *me*... You don't have to stay here any more. We can be together, like we always said we would."
+> "So, I joined up with these men, told them my story... And as we travelled around, we made a plan... To come here. To get you. So come with us; come with *me*... You don't have to stay here any more. We can be together, like we always said we would."
 >
-> It is said, in some versions of the song, that the gypsies beguiled the lady, that she left with them under some enchantment.
+> It is said, or is often sung, that the gypsies beguiled the lady, that she left with them under some enchantment.
 >
 > It is said, or it is sung, that when the Earl returned home to find his wife had left with a raggle taggle band of men, that he'd saddled his fastest black horse and set off in search of them.
 >
@@ -117,13 +117,13 @@ My current-working take on the tale, is still in preparation:
 >
 > It tells of how the Earl of Cassilis and his men found the gypsy gang at a ford, at a crossing place of stepping stones over the river Doon, at a place that came to be known as the Gypsies' steps. Cassilis may well have asked his wife what she thought she was doing, but he also took Sir John Faa and the gypsy men as prisoners. And only one managed escaped.
 >
-> At this time in Scotland, the Lord of the manor was the man who determined the law of the land thereabouts. The Earl of Cassilis was such a landowner; and as the law, personified, he saw fit to punish John Faa.
+> At this time in Scotland, the Lord of the manor was the man who determined the law of the land thereabouts. The Earl of Cassilis was just such a landowner; and as the law, personified, he saw fit to punish John Faa.
 >
 > The Lady Cassilis, Lady Jean Hamilton, as was, was taken up to the castle. Was taken up to the window from which she had teased and taunted Cromwell's men, and forced to watch as one by one the gypsy men were hung from the spreading tree, on the mound in front of the house. And then she was forced to watch as the last of the men, her once betrothed knight, Sir John Faa, was hung by his neck, until he was dead. And then cut down.
 >
-> That room, in the Cassilis Castle, obverlooking the spreading tree on top of the mound in front fo the house, was forever after known as the Countess's room.
+> That room, in the Cassilis Castle, overlooking the spreading tree on top of the mound in front of the house, was forever after known as the Countess's room.
 >
-> For a short while after, she remained there; and sank into a deep depression, PTSD, presumably,triggered by what she'd been forced to witness. After a while, she was removed to the family house at Maybole, and then divorced by her husband, the Earl of Cassilis.
+> For a short while after, she remained there; and sank into a deep depression, PTSD, presumably, triggered by what she'd been forced to witness. After a while, she was removed to the family house at Maybole, and then divorced by her husband, the Earl of Cassilis.
 >
 > But still her punishment continued. Cassilis may not have been physically violent to his wife, he was far more cruel than that. As a lasting reminder, he had carved into the stone staircase in the house at Maybole, fourteen small heads, representing Johnny Faa's men; and a fifteenth, larger head, with the features of Sir John Faa himself.
 >
