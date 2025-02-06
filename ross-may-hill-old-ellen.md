@@ -178,7 +178,7 @@ The latest victim of this drama is the farmer's son. His first wife died about t
 
 It is not surprising to hear, after all this, that the whole country-side is now in a state of foment, and stories are being told of the mysterious smashing of windows and the destruction of other property.
 
-The "witch" who is believed to have wrought all this mischief resides in a  remote part of the Forest of Dean, and pilgrimages are frequently made to her by persons who imagine that the old lady has powers of divination, or, at any rate, can gave a friendly lead in unravelling mysterious matters. After the latest samples of her handiwork her trade may be expected to suffer a decline.
+The "witch" who is believed to have wrought all this mischief resides in a remote part of the Forest of Dean, and pilgrimages are frequently made to her by persons who imagine that the old lady has powers of divination, or, at any rate, can gave a friendly lead in unravelling mysterious matters. After the latest samples of her handiwork her trade may be expected to suffer a decline.
 ```
 
 The still intrigued London press provided a recap of the story so far in the weekend papers, albeit with slightly garbled facts in the case of the *Daily Mirror*:
@@ -481,7 +481,7 @@ Whereas there have been certain cruel and scandalous allegations circulated abou
 The writer adds: "As I am suffering through a cruel attack made upon me in the Press. which has incapacitated me from earning my living, I do hereby appeal to the sympathetic public for their kind consideration and help. Any small subscription will be most thankfully received and acknowledged by Ellen Hayward, or by Mr. W. Leonard French, Eureka House, Bilson Green, Cinderford."
 ```
 
-What looks rather like a specifically placed advertorial immediately preceded the article in the *Ross Gazette*.
+What looks rather like a specifically placed advertorial immediately preceded the appeal when it was reprinted in the *Ross Gazette* a week later.
 
 ```{admonition} The Ross Cures, June 1905
 :class: dropdown
@@ -513,6 +513,14 @@ SUPERSTITION IN DEAN FOREST
 OLD ELLEN'S DENIAL.
 
 Ellen Hayward, the "Old Ellen" referred to in recent report in the Press in reference to some strange happenings in Dean Forest, writes from Pembroke-road, The Meend, Cinderford, to say the statements made in the Press are absolutely false and unfounded, and emphatically denying that she is a witch or fortune-teller or head-reader. "I have no knowledge of such Pagan ideas," she says. "I have no power or ability to bewitch anyone, nor do I believe in any such thing. I have been living in the Forest of Dean for 30 years, and have gained my livelihood for 45 years as a herbalist, also dresser of cuts, sores, and wounds, of which I have cured some hundreds." She denies any interview with any representative of the Press. As the cruel attack made upon her has incapacitated he from earning a living she appeals to the public for help.
+```
+
+```{admonition} Herbalist — Not Witch, June 1905
+[Western Mail - Tuesday 13 June 1905](https://britishnewspaperarchive.co.uk/viewer/bl/0000104/19050613/213/0008)
+
+HERBALIST — NOT WITCH
+
+Ellen Hayward, the woman herbalist, of Cinderford, who has been described as a witch in connection with certain events which have occurred in the Forest of Dean, has issued a statement to the press in which she spiritedly denies the aseertions made concerning her. She states that she has gained her living as a herbalist for 45 years, and is not a fortune-teller or hand-reader, nor has she the poewr of divination.
 ```
 
 And with that, the story fell out of the papers.
