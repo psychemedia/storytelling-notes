@@ -828,7 +828,7 @@ And we were a' put doun for ane,
 A fair young wanton lady.
 ```
 
-As well as the the tale and the song, *The ballad minstrelsy of Scotland* provides extensive notes regarding other editions in which the song may be found:
+As well as the tale and the song, *The ballad minstrelsy of Scotland* provides extensive notes regarding other editions in which the song may be found:
 
 ```{admonition} In *The ballad minstrelsy of Scotland*, 1871
 :class: dropdown
