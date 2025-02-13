@@ -638,9 +638,9 @@ pp241-255
 
 11. Q. What goes up white and comes down yellow? A. An egg.
 
-12. Q. What is white and yellow, yet white all over 1 A. An egg.
+12. Q. What is white and yellow, yet white all over? A. An egg.
 
-13. Q. Black as coal, and yet not coal; White as snow, and yet not snow ; It leaps here and there Like a little foal. A. A magpie.
+13. Q. Black as coal, and yet not coal; White as snow, and yet not snow; It leaps here and there Like a little foal. A. A magpie.
 
 14. Q. In a field I saw ten pulling four. A. A girl's fingers milking.
 
@@ -660,9 +660,9 @@ pp241-255
 
 21. Q. Here he comes: my eye is filled before my belly. A. Mustard.
 
-22, Q. "What lives in a garden and never grows green? A. A mushroom.
+22, Q. What lives in a garden and never grows green? A. A mushroom.
 
-23. Q. I went down into the garden and saw old Eustyback: I cut oflf his head and left his body alone. A. Red cabbage.
+23. Q. I went down into the garden and saw old Eustyback: I cut off his head and left his body alone. A. Red cabbage.
 
 24. Q. I was going over the bridge; I saw a little yellow man, I lifted him up, I drank his blood, and I threw him down. A. An orange.
 
@@ -672,27 +672,27 @@ pp241-255
 
 27. Q. The dead carries the living. A. A boat.
 
-28. Q. The man that made it sold it, the man that bought it did not want it, the man that got it knew nothing about it. A. A. coffin.
+28. Q. The man that made it sold it, the man that bought it did not want it, the man that got it knew nothing about it. A. A coffin.
 
 29. Q. What grows bigger the more you cut away from it? A. A hole.
 
 30. Q. There is a little woman dressed in white; the longer she lives, the shorter she grows. A. A candle.
 
-31. Q. As big as a man, as empty as a box ; lift up his tail and his nose will run. A. A pump.
+31. Q. As big as a man, as empty as a box; lift up his tail and his nose will run. A. A pump.
 
 32. Q. Like a ball, like a pan, with a man on one side and a woman on the other. A. A penny.
 
-33. Q. What goes through the hedge and leaves its guts behind it ? A. A needle.
+33. Q. What goes through the hedge and leaves its guts behind it? A. A needle.
 
 34. Q. Full of bones, full of flesh, one large hole and many little ones. A. A thimble.
 
-35. Q. What goes here and there about the house and [then] stops in one corner ? A. X broom.
+35. Q. What goes here and there about the house and [then] stops in one corner? A. A broom.
 
-36. Q. What is brought to the table, and cut, but none ate it ? A. K pack of cards.
+36. Q. What is brought to the table, and cut, but none ate it? A. A pack of cards.
 
-37. Q. What travels through the land, and has neither flesh nor blood 1 J. A letter.
+37. Q. What travels through the land, and has neither flesh nor blood? A. A letter.
 
-38. Q. What goes along with the cart, but is no use to anybody ? A. The noise.
+38. Q. What goes along with the cart, but is no use to anybody? A. The noise.
 
 39. Q. What goes to the village head downwards? A. A nail in thy shoe.
 
@@ -702,7 +702,7 @@ pp241-255
 
 42. Q. What goes to London, and looks in at every door? A. The road.
 
-43. Q. I went to the wood and I got it, I cume out, and sat down to look for it; I had it, and yet I could not find it. A. A thorn in the foot.
+43. Q. I went to the wood and I got it, I came out, and sat down to look for it; I had it, and yet I could not find it. A. A thorn in the foot.
 
 44. Q. What goes over the water and under the water, and over the wood and under the wood? A. A young woman crossing a wooden bridge, carrying a wooden pail of water on her head.
 
