@@ -4,14 +4,54 @@ TO DO
 
 See also various tales from Ross
 
+https://archive.org/details/in.gov.ignca.31344/page/351/mode/2up?q=monmouth
+p352
+Folk-Lore Vol. XVI
+
+Riddle-Story from the Wye Valley.
+
+(*Ante* p. 178.)
+
+"Gone a-hunting; and all the game he kills he leaves behind, and all as he doesn't kill he brings home alive."
+
+The riddle recorded by Miss Eyre from the Wye Valley must be of venerable antiquity, as Homer himself is said to have "given it up." It is found in the *Homeric Epigrams*, a collecton of odd scraps which are neither Homeric nor epigrammatic; one or two of the poems (notably the Potters Song and the Eiresione) are well-known to folklorists. The story is told in the Pseudo-Herodotean Life of Homer, with variants in other "lives" of Homer (the references are collected by Abel, *Homeric Hymns*, etc., p. 126 f.). In the course of his wanderings Homer met some fishermen, and on asking about their catch received the answer,
+
+MJTT* AiiriJ/AE-CF l?’' DCTQ. 0 OTJ^ cXoflGV, C^EpQjU£flT^CL
+
+"We have left all we caught, and bring all we did not catch." According to one version, which the Pseudo-Herodotean biographer is at pains to reject, Homer died of vexation at his failure to solve the riddle. It is difficult to suppose that the Wye Valley borrowed from Greece; and the riddle may well have been invented independently. Does it occur elsewhere?
+
+E. E. SIKES.
+
+
+
+https://archive.org/details/folklore13folkuoft/page/170/mode/2up
+Folk-lore vol XIII,
+pp. 170-7
+L. M. Eyre. (Margaret Eyre)
+
+Folklore Notes from St. Briavel's.
+
+(Read at Meeting, 26th March, 1902.)
+
+https://archive.org/details/in.gov.ignca.31344/page/n207/mode/2up?q=%22wye+valley%22
+Folk-lore vol XVI,
+
+FOLK-LORE OF THE WYE VALLEY.
+MARGARET EYRE pp. 162-179
+
+
+Beatrix A. Wherry, MISCELLANEOUS NOTES FROM MONMOUTHSHIRE, pp. 63-67 , Folk-lore vol XVI, March 1905, vol. I https://archive.org/details/dli.ministry.13087/page/63/mode/1up?q=monmouthshire , incl. p66 : Burial Customs —To keep a corpse from swelling a saucer of salt or a turf should be put on the breast and a pan of water underneath. Rue, hyssop, and wormwood should be put in the coffin. Before starting for the burial-ground there should be singing in the house. The corpse should be carried out at the front door feet first, and should then be turned with its face to the east. In Ross funeral cakes made like hot cross buns are baked, and a dole is given to the bearers, consisting of a coin, which may be a penny, sixpence, shilling, or upwards, one for each man. (Mrs. Briton says a relative of hers gave eight half-crowns.) These coins are always given in a pair of kid gloves.
+
+Margaret Eyre,  Folk_lore, vol. XVI, no. II, June 1905, Folk-Lore of the Wye Valley, https://archive.org/details/dli.ministry.13087/page/n207/mode/2up?q=monmouthshire. See also: Folk-Lore, Vol. XIII, p. 170-179
 
 
 
 https://archive.org/details/publications08britgoog/page/75/mode/2up?q=jack+kent+sorcerer+welsh
 
 
-Collectane
+Collectanea
 
+FolkLore, vol. XV., p. 75.
 Wizardry on the Welsh Border. Beatrix A. Wherry, pp75-87
 
 Wizardry on the Welsh Border.
@@ -191,8 +231,41 @@ Mrs. Briton says that if you kill an adder, and before sundown hold it over a fl
 Beatrix Albinia Wherry.
 
 
+
+https://archive.org/details/publications08britgoog/page/347/mode/2up?q=monmouthshire
+FolkLore
+p348-9
+
+Monmouthshire Folklore. (Ante, p. 85.)
+
+Miss Wherry's charming Monmouthshire collections are a valuable addition to the lore of a county whose literature is all too undeveloped in this direction. "The mythical person" known as "Jack Kent," who is credited (p. 85) with so many diplomatic triumphs over the Evil One, is no other than Father John of Kentchurch, D.D., Provincial of the Franciscans, an Oxford professor, and a Welsh bard whose poems are yet extant in seventeenth century MSS. He lived in the fifteenth century, and having scientific knowledge, could hardly fail (any more than his brother Bacon) to get credit for magical powers. Some of the feats attributed to him are obviously gigantic, and have no doubt been transferred to him from some forgotten giant Such is his jumping off the Sugarloaf Mountain, near Abergavenny, on to the Skyrrid (the Sgiryd Fawr). His "heel-mark" in the latter mountain is an extensive pre-historic landslip, and is usually ascribed to the earthquake which took place at the Crucifixion. The Sgiryd Fawr was always regarded as sacred and mysterious. More than one Monmouthshire parish church was built on a mound formed of earth brought from this mountain; and it was the custom at the burial of Catholics, right down to the early nineteenth century, to sprinkle on the cofiin earth brought from the chapel of Saint Michael, which stood on the slope near the landslip. Saint Michael's, or the Holy Mountain, were other names for the Great Sgiryd.
+
+The belief (p. 86) that if one kills an adder and holds it over fire its four legs will come out, reminds one of the Jewish tradition that the serpent had legs and walked before Adam's fall. I have heard this belief referred to a "race-memory" of antediluvian reptiles.
+
+The *Book of Baglan*, a celebrated Welsh MS. of Gwentian pedigrees, written 1607, twice mentions a certain giant, "Gigas Orgo" or "Giginn Orgo," to whom it attributes the first building of Abergavenny Castle. I cannot explain the word Giginn unless it be some obsolete Welsh word for *giant*, but in any case the combination "Giginn Orgo" involves a radical form Gorgo, in which one is much inclined to recognise the *Guorguol* or Werwolf of *Arthur and Gorlagon* (see Mr. Nutt's notes, p. 61). I may add that Orgo is the only giant I have met with in the folklore of Monmouthshire.
+
+John Hobson Matthews.
+
+Monmouth.
+
+
 ---
 
+
+https://archive.org/details/countyfolklore00folkuoft/page/n9/mode/2up?q=%22cunning+woman%22+%22forest+of+dean%22
+COUNTY FOLK-LORE.
+
+PRINTED EXTRACTS. No. I.
+
+GLOUCESTERSHIRE.
+
+EDITED,
+
+WITH SUGGESTIONS FOR THE COLLECTION OF THE FOLK-LORE OF THE COUNTY, BY
+
+EDWIN SIDNEY HARTLAND, F.S.A.
+
+(also includes no. 2 Suffolk, np. 3 Leicestershire and Rutland; change the number in the URL to explore further)
 
 
 https://archive.org/details/s7274id1338287/page/378/mode/2up
@@ -204,7 +277,7 @@ Monmouthshore Notes
 
 ...
 
-"Among the early specimens of his [ John of Rent's] magical skill, while a farmer's boy in the vicinity he confined a number of crows, which he was ordered to keep from the corn, in an old barn without a roof, that he might visit Grosmont fair. 'And sure enough,' said the old woman who told me the anecdote, 'they were there, for they made a terrible clatter, and would not fly away till Jack himself came and released them.'"—Vol. i. [TH: actually, vol. ii] p. 337.
+"Among the early specimens of his [ John of Rent's *(sic)*] magical skill, while a farmer's boy in the vicinity he confined a number of crows, which he was ordered to keep from the corn, in an old barn without a roof, that he might visit Grosmont fair. 'And sure enough,' said the old woman who told me the anecdote, 'they were there, for they made a terrible clatter, and would not fly away till Jack himself came and released them.'"—Vol. i. [TH: actually, vol. ii] p. 337.
 
 ...
 
@@ -276,3 +349,10 @@ From a collation of different legends and circumstances, several respectable enq
 Upon our return to Monmouth from this excursion, we had the good fortune to fall into the company of Mr. Wathen of Hereford, the benefit of whose local information apd obliging assiduities has been felt by numerous tourists, as well as ourselves. This gentleman pointed out the most striking beauties of the Wye toward Ross; and of his directions we gladly availed ourselves the following morning, when we bade adieu to Wales and Monmouthshire. But, as it is my object to effect a general delineation of that tract of country, I shall not hesitate to break the thread of my tour, and suspend a description of the Wye's scenery and some further continuance of our route, while I traverse the north-western part of Monmouthshire, and the eastern frontier of South-Wales, which yet remains unexplored. In this part of my work, I must describe things as they appeared to me six years since, when I visited this portion of country in my return from a tour through the North of England and Wales, assisted by the best documents and observations that I have since been able to procure.
 
 ---
+
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000311/18431116/003/0002
+Cheltenham Chronicle - Thursday 16 November 1843
+
+Superstition. —The following anecdote will expose the gross superstition still existing in the county Monmouth: A farmer residing in the district Chepstow Union, about a fortnight ago missed from his desk in the parlour twelve sovereigns; his family suspected a servant girl named Mary Llewellin, about years ago. who had been there only three weeks; every method that could be devised was adopted to find the money, and to induce confession, but without effect: at length the "cunning man" was sent for, who prognosticated that at midnight the evil one would appear, and a strong smell of sulphur would arise, provided the guilty party did not return the stolen property. This had no effect; at midnight the cunning one himself came with his brimstone, but was of use, and the farmer and the cunning man considered the case hopeless. Friday, being Chepstow fair, the farmer visited that town, and related the circumstance his brother, who resides there, and who instantly adopted the plan of despatching a constable to take such methods his experience might suggest. The night was stormy and dreary, and about eleven o'clock the farmer and officer arrived at their destination: when the latter, taking the two servant girls aside, and laving before them his constable's slick and handcuffs, told them, with the sagacity of a judge, his business was to lake some one or more into custody, for stealing twelve sovereigns from the farmer's desk. In about an hour after this, the girls not being permitted to leave the room, the guilty one confessed she had put them in water cask, where, after a search, the farmer's sister found them. - Carmarthen Journal. —[This anecdote appears to to indicate absence of superstitious feeling, rather than its existence, at least in the servant girl, who was proof to the "cunning man" and his midnight brimstone, and did not give way, until influenced by the more practical apparition of constable with handcuffs. Ed. C.C.]
