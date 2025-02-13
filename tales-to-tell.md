@@ -15,6 +15,112 @@ https://sites.pitt.edu/~dash/type1381.html
 ---
 
 
+Sheffield rum Sue Cain song
+https://www.youtube.com/watch?v=Y9Nb4QjKbRQ
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000250/19110113/170/0008
+
+Sheffield Daily Telegraph - Friday 13 January 1911
+
+
+TO DO - CHECK EXTRACT FROM claude.ai
+
+Here's a faithful transcription of the newspaper article:
+
+SPIRITS AT LARGE.
+
+SHEFFIELD HOUSE THAT REEKED WITH RUM.
+
+BARREL OUT OF BARREL INN.
+
+STIPENDIARY'S MYSTERIOUS MEN.
+
+A "rum case" occupied the attention of the Sheffield Stipendiary's Court yesterday for several hours. It was saturated with rum. Bottles of rum were on and around the solicitors' table, and the unfortunate people who were concerned in the inquiry had literally been swamped in rum. It moved the advocates to humour. The Stipendiary himself could not resist the temptation, and wild comedy held sway in the staid court of justice.
+
+Two "mysterious men," as the Stipendiary called them, rolled a barrel of rum away from a licensed house, and on their journey to Bailey Lane the barrel sprung a leak, and the first flow began. Rum ran down the the lane. The "mysterious men" persevered, and the barrel found its way into a house. The rum still leaked.
+
+Pans and bottles were utilised. Neighbouring houses were called upon for utensil assistance. Rum filled the pancheons, ran into the bath, and covered the floor, and the place reeked with the smell of it. There was a "local odour"—a very strong smell of rum, as the detective described it—but with all these facts agreed upon, and with all the attention given to the case, no conclusive decision was arrived at, and the case had a rum ending.
+
+Getting the Christmas Fare.
+
+Michael and Bertha Malloy, a labourer and his wife, of 18, Bailey Lane, and Margaret Malloy, single woman, of 14, Bailey Lane, were summoned for stealing a barrel containing 15½ gallons of rum from the passage of the house of Albert Fidler, licensed victualler, of the Barrel Inn, Broad Lane, and for receiving the same knowing it to be stolen.
+
+Mr. P. Blythe Richardson, for the prosecution, stated that the barrel of rum, which was 30 over proof, arrived at the premises, and on Monday night, December 26th, it was in the passage. The barrel was in the Barrel Inn then, but the next afternoon, the barrel was found to be out of the Barrel Inn. (Laughter.)
+
+On the morning of the 26th, various people saw certain persons removing the barrel down the street, and in their hurry to get the Christmas fare home, they broke the barrel and some of the contents were lost, but they managed to get almost the whole of it to the house at No. 18, where they had a convivial gathering.
+
+The secret got out, and on the evening of the 27th, detectives found a lot of rum in the house. To avoid waste through leakage, pans and bottles had been borrowed to hold the escaping liquor.
+
+Michael, said Mr. Richardson, appeared to have found it was rather too strong for his constitution, and he was spending his time on the couch. Other neighbours annexed a considerable quantity, a lot of it was put in the cellar of another house, and eventually information was given to Mr. Fidler.
+
+The police arrested the male defendant and his wife, and proceeded to 14, Bailey Lane, where they found women removing a considerable quantity of the rum, concealed behind their aprons. The value of the barrel, with its contents, was £17 4s. 5d.
+
+Evidence was given to show that two men, neither of whom was the defendant, were seen taking the barrel to 18, Bailey Lane.
+
+Rum, Rum, Rum.
+
+Mrs. Maclaughan landlady of the Royal Oak, Hollis Croft, and wife of the owner of No. 18, Bailey Lane, said Bertha Malloy came to her, and asked her if she could find the owner of the rum, which had come to the house she knew not whither. Witness said the house reeked with rum, it was all over the house, in nearly every receptacle they possessed—even the bath—and all about the floor. It could be smelt as one was passing the door.
+
+Mr. Richardson: You don't suggest they had been bathing in it? (Laughter.)
+
+Witness said she mentioned the matter to Mr. Fidler, who in evidence said some of the bottles of rum produced were 28 over proof. They were temporarily placed in a cellar at Penton Street, at Mr. Fidler's request, after Mrs. Maclaughan had given him the information.
+
+Detective-Officer Burns said he went with Detective-Sergeant Oates and Detective-Officer Plant to make investigations at 18, Bailey Lane. A saucepan and mug were found in the back kitchen, both receptacles containing rum. When Michael Malloy was asked to explain where the rum came from he became excited, and said, "You can't get blood out of a carrot. You will not get to know much from me."
+
+Mr. Richardson asked one witness whether, at a certain time, she was in the Barrel.
+
+"In the barrel?" queried Mr. Wing, in astonishment.
+
+"In the Barrel Inn," explained Mr. Richardson.
+
+Witness went to 14, Bailey Lane, and there found Margaret Malloy in possession of six bottles of rum and one of whisky. Margaret Malloy told him she was in a Christmas club, and had had a pound's worth of rum.
+
+Mr. Richardson asked Burns whether there was any local odour about the kitchen.
+
+Witness: There was a strong smell of rum. (Laughter.)
+
+Mr. J. E. Wing (for the defence): You recognised it?
+
+Witness: Yes.
+
+Mr. Wing submitted that there was no case proved.
+
+The Stipendiary pointed out that evidence of the men who rolled the cask to 18, Bailey Lane, was Michael Malloy, and when the men got it there, there was the usual carousal, he supposed, but whether it was between the two men, or more, did not appear. Some of the rum got into their heads; some of it got on to the floor—(laughter)—some of it got in the pancheons, then into jars and bottles, and now had arrived at the court. (Laughter.) He wanted to know what happened at Malloy's house.
+
+A Common Trick.
+
+Mr. Wing submitted that there was no evidence at all of defendants having stolen the rum. They had not the slightest idea who were the two men who brought the barrel, and the suggestion for the defence was that the men took it up to 18, Bailey Lane, when they began to think the police were on their track. Defendants never saw the barrel until next morning, and they then began to find out how it had come. There was not the slightest attempt at concealment, and Bertha Malloy was particularly anxious to know where it had all come from.
+
+Michael Molloy said his wife had told him the barrel had been brought during his absence.
+
+Bertha Malloy declared that Mr. Fidler knew who had stolen the rum.
+
+Mr. Richardson: Are people in the habit of bringing spare barrels of rum to your house whenever they find them hanging about?
+
+Bertha Malloy said she knew nothing about it. She had no key to her house.
+
+At Mr. Wing's request, Mr. Fidler was recalled, and he was asked if he did know who stole the barrel.
+
+He said the police had told him who stole it.
+
+Mr. Wing: Did you say in your house, "I have got hold of the wrong people, because I know, as a fact, who has stolen it?" Witness: No.
+
+The Stipendiary said he wished some light could be thrown on the two mysterious men. It was a common trick for defendants to know nothing, and in order to give them an opportunity of bestirring themselves, he adjourned the case until next Tuesday.
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001464/19110120/296/0010
+
+Sheffield Independent - Friday 20 January 1911
+
+THE RUM CASE. ANOTHER SHEFFIELD MAN CHARGED WITH THE THEFT.
+
+What Mr. P. B. Richardson described as "a resuscitation of the rum case" came before the Sheffield Stipendiary (Mr. E. M. E. Welby) yesterday. A few days ago two men and a woman were acquitted of a charge of stealing a barrel of rum from the Barrel Inn, Broad lane. Mr. Richardson said that when that case was heard it was not suggested that the parties then in custody had actually rolled the barrel from the Barrel Inn to a certain house in Bailey lane; but a warrant was issued for the arrest of two men who were said to have actually stolen the barrel.
+
+On that warrant a bookmaker's clerk named Samuel Gorvin (25), of 61, Alfred road, Sheffield, was yesterday placed in the dock on the theft charge. He was remanded on bail until Monday next. Detective-sergeant Oates had arrested the prisoner.
+
+
+--
+
 
 SOngs
 OWn grandfather https://genius.com/Willie-nelson-im-my-own-grandpa-lyrics
@@ -408,6 +514,21 @@ Old man, tree shadow contract
 FATE 2021 storyround
 
 
+--
+
+
+
+Tale of the sun  - hope and resistance
+
+https://multicoloreddiary.blogspot.com/2019/06/the-tale-of-sun-saami-folktale-of-hope.html
+
+-
+Daniel Morden
+
+Mustard seed / dead brother / our turn to know grief, via https://sacred-texts.com/bud/btg/btg85.htm  via 
+
+Yama Yami - how noght cme into being via https://healingstoryalliance.org/how-night-came-into-being/
+
 ---
 
 History of Jack and the Giants, 1800?
@@ -419,6 +540,15 @@ p2 2 https://archive.org/details/historyofjackgia00unse_0
 Devil's bridge - tricking devil - Wales / Welsh legend  https://devilsbridgefalls.co.uk/the-legend/ 
 
 ---
+
+last man to be hanged drawn and quarted - David Tyrie on SOutshea common 1782
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820715/004/0003
+Hampshire Chronicle - Monday 15 July 1782
+
+Winchester, Saturday, July 13.
+
+At our Assizes, which began on Thursday last, ... David Tyrie, for carrying on a treasonable correspondence with the enemy, is to be tried under a special commission, at the Castle of Winchester, on the 10th of August next, for which purpose one of the Judges is to return here, after finishing the other business of the circuit.
 
 ---
 
