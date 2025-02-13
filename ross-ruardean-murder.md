@@ -66,6 +66,7 @@ HORRID DISCLOSURES. — Under this heading we find the following frightful parag
 A couple of weeks later, in a front page article on "Mal-administration of justice", the *Illustrated London News* of December 3rd, 1824, further commented on the case, quoting a leader in *The Times* that appeared to call out something of the process by which the magistrates had attempted to get a restatemnt of France Bennett's confession whilst in the presence of Thomas Yapp:
 
 ```{admonition} A visit from the magistrates, November 1842
+:class: dropdown
 https://archive.org/details/sim_illustrated-london-news_1842-12-03_1_30/mode/2up
 Illustrated London News  1842-12-03: Vol 1 Iss 30
 Publication date 1842-12-03, p1
@@ -221,8 +222,8 @@ GLOUCESTER, SATURDAY.-This day an inquest was held on the body, before John Cook
 
 As well as the horror demonstrated over the reports of Bennett's crimes, there was also considerable levels of debate being rasied over the actions of the curate who had taken her confession not once, but twice, and who had refused to relay anything she had disclosed to him that had not already been made public.
 
-
 ```{admonition} Properly maintaining the sanctity of religious confidence, November 1842
+:class: dropdown
 https://archive.org/details/sim_illustrated-london-news_1842-11-12_1_27/page/422/mode/2up
 Illustrated London News  1842-11-12: Vol 1 Iss 27, p. 422
 Publication date 1842-11-12
