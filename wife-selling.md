@@ -10,6 +10,8 @@ It dates from a time when divorce was not available in as convenient a form as i
 
 TO DO - see also Skimmington Ride / skimmerton ride / riding
 
+Ella Mary Leather , folklore of herefordshire p117-8
+
 
 E.P. THompson chapter in Commons, stopped doing a talk becuase of feminist backlash TO DO need my own interpretation, stance, TO DO
 
