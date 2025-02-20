@@ -111,7 +111,7 @@ My current-working take on the tale, is still in preparation:
 >
 > It is said, or it is sung, that when the Earl returned home to find his wife had left with a raggle taggle band of men, that he'd saddled his fastest black horse and set off in search of them.
 >
-> That when he eventually found them, he wondered of his wife how she could leave her house? and her lands? her finery and her finances? And that she replied that she was happier without them, that all she needed was her raggle taggle gypsy. And that off they then, into the sunset together, and presumably lived happily ever after.
+> That when he eventually found them, he wondered of his wife how she could leave her house? and her lands? her finery and her finances? And that she replied that she was happier without them, that all she needed was her raggle taggle gypsy. And that off they then went, into the sunset together, and presumably lived happily ever after.
 >
 > But the *story* tells a different tale.
 >
