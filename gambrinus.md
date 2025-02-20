@@ -6,7 +6,11 @@ If there's any particular kind of place in which you're likely hear people talki
 
 And so it is with tales of Gambrinus, the King of Beer. Here's one particular story that I heard tell of...
 
-
+A play/musical
+https://archive.org/details/gambrinus00dumo/page/n3/mode/2up
+Gambrinus ..
+by Dumont, Frank. [from old catalog]
+Publication date 1876
 
 
 A summary is provided in John Fiske's *Myths And Mythmakers: Old Tales And Superstitions Interpreted By Comparative Mythology*, 1872, [p173-5](https://archive.org/details/mythsandmythmake003324mbp/page/n187/mode/2up)
