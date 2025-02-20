@@ -2,18 +2,97 @@
 
 I couldn't help but come across this whilst inspecting old indexes of *Notes & Queries*. There are so many references to it over the years — the old English "tradition" of *wife selling* — that it appears in the indexes of all but the 9th series of the first ten series, published between 1850 and 1908.
 
+## References in *Notes & Queries*
+
 ```{admonition} *Notes and Queries* (N&Q)
 *Notes & Queries is a fascinating publication and a mine of interesting information on all sorts of quirky "facts". I reviewed it in some detail in [On the Trail of the Sin Eater](https://psychemedia.github.io/sin-eater-resources/_history_nandq.html).*
 ```
 
-It dates from a time when divorce was not available in as convenient a form as it is today, and in many cases appears to have been a mutually acceptable way for a couple who had perhaps come to realise that they did not realy want to spend their life together until death did them part, but would rather go their own ways, often to another partner they wished to marry.
+Whilst an initial reaction to the very idea of "wife-selling" is probably, quite rightly, one of shock, if not to say disgust, possibly followed by a half-concealed smirk, it is worth bearing in mind practice that the practice dates from a time when divorce was not available in as convenient a form as it is today. Indeed, in many reported cases, it appears to have been a mutually acceptable\* transaction for a couple who had perhaps come to realise that they did not really want to spend their life together until death did them part, but would rather go their own ways, often to another partner they wished to marry.
+
+*\* Yes, I know that the female party was the one traded, and had to accept the ignominy ofd being "sold on", but the divorce court is also a place where ridicule an opprobrium may follow the proceedings of a divorce.*
 
 TO DO - see also Skimmington Ride / skimmerton ride / riding
 
 Ella Mary Leather , folklore of herefordshire p117-8
 
+TO DO - see also Ducking stool
+https://britishnewspaperarchive.co.uk/viewer/bl/0003200/17310922/004/0003
+Kentish Weekly Post or Canterbury Journal - Wednesday 22 September 1731
+On the 10th instant was erected at Oxford, at the Charge of the Corporation, a very handsome Ducking-Stool ever the River Charwell, to cool the Tails and stop the Mouths of several of the Female Sex, observ'd very sonorous of late, which it is hoped will have the wished for effect; and to that End a young Lad, dressed in Woman's Cloaths, hansell'd it; and was afrterwards in that Habit expos'd to the View of a very numerous Assembly met on this most solemn Occasion.
 
-E.P. THompson chapter in Commons, stopped doing a talk becuase of feminist backlash TO DO need my own interpretation, stance, TO DO
+---
+https://britishnewspaperarchive.co.uk/viewer/bl/0000457/18491019/013/0003
+Elgin Courier - Friday 19 October 1849
+
+THE DUCKING STOOL
+
+We have it on record as an incontrovertible fact, that "there is nothing new under the sun"; and really the social history of the world affords ample evidence of the truth this adage. It is a melancholy reflection, however, that man with all his boasted wisdom, backed by the experience of a thousand generations, can arrive at nothing new, but must whirl round in eternal circle, alternately savage and civilised. The present age seems to be one of retrogration: we have arrived at what may be called the climax of refinement and civilisation; and, to all appearances, are just about to return to the usages and modes of thinking of some half dozen of centuries back.
+
+The styles of ancient architecture, with their elaborate modes decoration, are coming fast into repute. The primitive sports and pastimes of our country—— putting-stones, sledge-hammers, and sack-races —are what the men of our day are most in love with; even the little boys indicate a desire to forsake hoops and kites for the noble mystery of archery, and may be seen on all sides practising on lamp-posts, or mayhap shooting their arrows at one another to test their skill. So long as the taste of the age developes itself in reviving the arts and manly sports of'antiquitv, the world will get on gallantly. Our cottages will look like little palaces, and our youth grow up hardy and vigorous; but when the dark spots, the very blotches of a barbarous age are being talked of as desirable to rake up and incorporate with the civilised usages of the present day, then we deem a word in season to be highly desirable.
+
+Our fair readers will be indignant to learn that amid all the changes presently taking place on the surface of society, one is mooted which if it comes into operation will strike at the very root of their respectability and liberties. We allude to the revival of the *Ducking Stool*. What monsters some men are if they dared but show it. It is not a new thing, certainly, to meet with a bad wife; but in ninety-nine cases in the hundred, the husbands are to blame for it. How often does it fall to the lot of the best of women to be sacrificed to tyrannical husbands —unreasonable, snappish, cold as ice, and given to be pleased with everybody and everything except their homes and their own poor wives. And yet, not satisfied with rendering their firesides miserable—often desolate— some men would step at once to the *"ultima, Thule"* of cruelty, and call upon the Legislature to revive the barbarous practice of ducking the wives. Let the matrons therefore look to themselves. This ungallant proposition is not made in a corner, but in the face of day, and in the Parliament of Great Britain. A few days previous to the rising of the last session—
+
+"Lord D. Stuart presented a petition from Mr Mackenzie of Camden Town, setting forth that having contracted an unfortunate marriage and having, consequently, experienced the various ills of the married state —(laughter)— he had turned his attention to the causes which produced disagreements between husband and wife, and he had found that, among other things, the law of settlement had much to do with the matter, ill-conditioned wives taking undue advantage of one-sided settlements to connive with attorneys against their husbands, and to do all sorts of bad things. The petitioner prayed that until the one-sided law settlement was revised, the House would instruct the Secretary of State for the Home Department to despatch orders to all sheriffs, constables, &c. of counties, to repair and reconstruct without delay, the ducking-stools and other implements of good-husbandry —(laughter)—which in ancient times kept down wayward and undutiful and runaway wives. (Laughter.)"
+
+What a parcel of Bluebeards! But if the "ducking stool" is again to have a place in the category of female punishments, we would seriously advise the ladies to agitate at once for the revival of the *Stang*. It is monstrous to talk of either, yet fair play is what both sexes are equally entitled to; and we do not see why "the lords of creation" should have it in their power to cage their unfortunate wives in a *creel*, for the express purpose of sousing them over head in horse-pond at pleasure, without at the same time being required to confer on their "better half" an equally effective weapon of retaliation.
+
+We affirm, without the least particle of hesitation, that were all things properly looked into —the habits of drinking and daubling in public houses, instead of keeping home to assist among the rising generation —the waste of time and money in smoking and snuffing, with the hundreds of other pocket-picking *et ceteras*, the husbands are much more deserving of a sound ducking than their patient plodding guidwives. We believe, however, that there are some viragos who on account of their volubility, and other thorny propensities, would be none the worse a smart cooling now and then. Yet how few there who deserve anything like this usage! After all it is questionable if the cure would not aggravate the disease tenfold. In the days of yore —we mean the barbarous portion of them—it was customary in this part of the country to applv the punishment of the *Joggs* to refractory wives. The following extract from the Burgh Records of Elgin, dated 1637, will testify as to this:—
+
+"The quhilk day, anent the ryott that Marion Winchester, spous to Thomas Warrand, merchant of Elgin, comittet against Janet Stronach, spous to James Sinlm there—be dinging of her in the said Marion, in her awn house, and giving of her sundrie cuffis on the chaftis. Being convenit therefore and having confessed the samyn, the said person is ordenit to remain in ward within the tolbuith four days and four nights fra this Mononday till Friday next, and therefore on the said Friday the 21st of this instant, to goe to the session ot Elgin, and there to sit down on her knees before the elders, and crave pardon of the said Janet and her said spous, and also it has been acted that in case she fall out in any time coming, in any discordure with any person, that case sche is to put in the joggis."
+
+Bad as was this mode of dealing with the wives, we hold it to be of a much more merciful nature than the "ducking stool." For instance, what would any of our Elgin guidwives think of being dragged in a cold frosty morning from their warm bed to the "Hangman's Ford," and there unceremoniously fixed on the point of a long pole turning on pivot, plunged a half dozen of times over heel and neck into Lossie! Nor is this the worst of it: the fact of having to crawl home dripping, shivering, and freezing, amid the jeers of half the town, would, we aver, be a species of punishment absolutely certain to prove the death of the hardiest daughter of Eve. To be pinned up to wall for a few hours with an iron collar (alias the joggs), about one's neck, would be merciful work compared to this. Now, what a cruel monster this Mackenzie must be—and what a depraved assembly entertain such a petition! Touching the author of that document, it was well said by a lady in our hearing: "He ought to be made a marked man—debarred the luxury of female society—victimised day by day in the tender embraces of his favourite the duckingstool, till death wipe the reproach of his existence from the annals of society."
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18410918/037/0004
+Monmouthshire Merlin - Saturday 18 September 1841
+
+ANCIENT CUSTOMS, &c.
+
+A.D. 961.—Land about Shrewsbury sold for 1s. an acre. The price of an ox was 2s. 6d.; a cow, 2s,; a sheep, 1s. ; a swine, 8d.
+
+1347.—Price of a fine horse, 6s. 8d.; the best fed ox, 4s.; a cow, 1s.; a steer or heifer, 6d.; a wether, 4d.; a ewe, 2d.; a lamb, 2d.; a hog, 5d.
+
+1427.—A bye-law was made against swine wandering about the town, under pain of cutting an ear [the pig's of course] for each of the two first offences, and forfeiture for the third.
+
+1454.—Corn was so plentiful that a quarter (8 strikes) of wheat was commonly sold for 12d. or 14d. rye for 10d.; malt for 16d. or 17d.
+
+1492.—Wheat sold for 6d. a bushel.
+
+1519.—Brewers were ordered not to use hops in their brewings, under the penalty of 6s. 8d. Hops were in use some time before this, for in 1428 the parliament was petioned to prevent the use of them, as being a wicked weed.
+
+1535.—Ordered that no one should sell ale for more than one penny per gallon and the meaner sort, for no more than a farthing.
+
+1536.—Agreed to call the burgesses of the town before the bailiffs, to know whether they will serve the town with flesh at the following rates, viz., pork, beef, mutton, and veal, at a farthing a pound, or else they will find other persons to do it. Ordered that the brewers sell the best at one penny farthing a gallon.
+
+1669.—Ordered that a ducking stool be erected for the punishment of all scolds.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18490331/119/0008
+Hampshire Independent - Saturday 31 March 1849
+
+ISLE OF WIGHT COUNTY PETTY SESSIONS
+
+On Saturday last, at the Guildhall, before the Rev. W. White chairman, Samual Sanders, Esq., and Captain Ffarington.
+
+...
+
+BOTH PULLING ONE WAY!— Sergeant Fisher charged a loving couple called *Gardener*, also from Cowes, with having departed from the strict rules of Father Matthew, and being in a glorious state of *beer* at half-past twelve o'clcok on Sunday night.
+
+The deponent said he passed their door at that time, when they bioth abused him in the language that is generally made use of at Cowes, but which was unfit to be repeated in Court, Mrs. Gardener concluding her address by calling him a ————— sergeant, and declaring she would have the coat off his back before long.
+
+The same conduct had disgraced them before, when Mr. G. had been fined, and Mrs. G. was pardoned on pledging herself to drink nothing stronger than gin for the future.
+
+Mr. Beckingsale, who was engaged by the defendants, contended that even If they were intoxicated, they were within the threshold of their own doors, and they had a perfect right to get drunk if theychoosed, so that they did not annoy the public, and at that late hour there was no *public* to annoy, the single policeman constituting the only public visible, and might have went his way if he had chosen.
+ 
+Mr. White: the question is this?—Have drunken people a right to stand within their own doors, and annoy sober people who are passing by? There is no doubt they have a constitional right to get drunk if they please, if they have no moral right.
+
+Mr. Beckingsalis: It is a constitutional wrong to do so, no doubt, but they have a right so to do.
+
+Mr. White: Our ancestors need to have a practice of applying summary justice in these cases. They had a ducking stool; and I think a ducking stool would be of great service amongst the ladies of Cowes; but as the law does not allow it to be used at present, I shall fine the defendants 5s. each, and 7s. 6d.. each costs, and if it is not paid in a week, we shall put them in the stocks instead of on the ducking stool.
+
+---
+---
+
+E.P. Thompson chapter in Commons, stopped doing a talk becuase of feminist backlash TO DO need my own interpretation, stance, TO DO
 
 ## *Wife selling* as referenced in N & Q, 1850-1908
 
@@ -484,6 +563,7 @@ J. Holden MacMichael.
 
 ## A Brief History of Wife Selling from the Local and Regional Press
 
+Many of the mentions of wife selling in *Notes & Queries* makre reference to related newspaper reports. So let's also look to the local and regional press to see what we can find, not just in terms of the original sources that may have been quoted in *N&Q*, but also other reports that perhaps missed the gaze of its correspondents.
 
 TO DO
 
