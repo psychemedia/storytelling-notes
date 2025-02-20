@@ -4,7 +4,7 @@ This is one of those tales I came across a couple of times, independently of eac
 
 It's a noodle tale, with a wise woman pointing out the foolishness of our hero. As I've also been pulling together some historical wise woman tales, I think there may be an opportunity to try to a pair up a traditional tale with a historical one and see how they might play off each other.
 
-As to *A Pottle of Brains*, I first found it in written form in Jacob's second collection of English fairy tales (*More English Fairy Tales*), a version that Hugh Lupton included in his [*Mardling Acre*](https://burningshed.com/hugh-lupton_the-mardling-acre_cd) collection.
+As to *A Pottle of Brains*, I first found it in written form in Jacob's second collection of English fairy tales (*More English Fairy Tales*), then came across a version that Hugh Lupton included in his [*Mardling Acre*](https://burningshed.com/hugh-lupton_the-mardling-acre_cd) collection.
 
 ```{admonition} "A Pottle of Brains", Jacobs' *More English Fairy Tales*, 1894
 :class: dropdown
