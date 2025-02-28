@@ -256,7 +256,7 @@ Once there was a house, a happy house. A house that had known the sound of child
 
 Now, it was known as the weeping house. A dog wept in the yard outside. The birds wept in the gutters.
 
-Inside, the master of the house sat at his table, despairing over the state of his son. Upstairs, a young man sat at the end of his bed, crying for something he could no longer remember.
+Inside, the master of the house sat at his table, mourning for the loss of his son, a son who was sat in a room upstairs, crying for the life he could no longer remember.
 
 One day, a young woman walked up the drive. Her hair was matted with twigs and leaves, her clothes were no more than rags. She was barefoot. The dog didn't growl, it just whined into a muddy puddle. The girl knocked on the door, once, twice. She was led in to see the master.
 
@@ -294,7 +294,7 @@ One half of the room was as you might expect: a fire, a table, a comfortable cha
 
 As soon as it saw Anwen, it squealed, and scuffed at the ground, and shook the chain around its neck.
 
-The old woman snarled: "Bag of bones, do something right for once. Go and get some water from the well" and a skeletal figure, made of little more than skin and bone, with a complexion as grey as a wintry sky, scurried past. The old woman's daughter. When she returned, she was dragging a cauldron, which slopped water onto the cold stone floor. Her mother chastised her, made as if to hit her, and the girl cowered away.
+The old woman snarled: "Rhoswen, do something right for once. Go and get some water from the well" and a skeletal figure, made of little more than skin and bone, with a complexion as grey as a wintry sky, scurried past. The old woman's daughter. When she returned, she was dragging a cauldron, which slopped water onto the cold stone floor. Her mother chastised her, made as if to hit her, and the girl cowered away.
 
 But if she was harsh towards her daughter, the old woman was politeness itself to Anwen: "Ah, Anwen, I'm sure you're tired after your journey. Please sit down, eat, drink."
 
@@ -306,9 +306,9 @@ So Anwen sat; and she ate, and she drank; and they talked about this, and they t
 
 Anwen said she was grateful. She said she was glad to stay. The days turned into weeks. The weeks turned into months. Each morning, she swept the floor and tended the fire. Each night, she fed the boar. And every day, three times a day, the old woman gave her a plate piled high with good things to eat. And each time, insisted that Anwen clear the plate.
 
-For the first time in her life, Anwen found there was flesh on her bones, instead of just skin. But she notice that, if ever Bag of Bones, the daughter of this house, asked for another morsel, another mouthful, her mother would shout at at, and chastise — what are you, eating me out of house and home?! — and would beat her daughter across her back.
+For the first time in her life, Anwen found there was flesh on her bones, instead of just skin. But she notice that, if ever Rhoswem, the daughter of this house, asked for another morsel, another mouthful, her mother would shout at at, and chastise — what are you, eating me out of house and home?! — and would beat her daughter across her back.
 
-It was hard for Anwen to eat when Bag of Bones was across the room, watching her, following every fork full.
+It was hard for Anwen to eat whenever Rhoswen was across the room, watching her, following every fork full.
 
 Each night, when the house quiet, Anwen would look out at the tree with its seven bony branches, a single, solitary leaf hanging from each one. But she never spoke of them.
 
@@ -326,7 +326,7 @@ She went back to the cottage, and took the first magic leaf. She tapped the boar
 
 But Anwen hesitated. She took the poker from the fire, placed it on the chair, and leant the broom against them both. With the second leaf, she gave them a tap. And when she was done, she fled with the young man, away from the hill and away from the cottage.
 
-As dawn broke, the sky glowed red. The witch woke up, the cottage was quiet. Her morning cup of tea was not there. "Anwen", she called, "where are you?"
+Dawn broke. As the witch woke up, the cottage was quiet. Her morning cup of tea was not there. "Anwen", she called, "where are you?"
 
 Downstairs, the poker replied: "I'm poking the fire."
 
@@ -340,17 +340,17 @@ And the chair said: "I'm coming now".
 
 But as the witch waited, there was no sign of Anwen. There were no footsteps on the stairs. The old woman waited; and waited, and waited some more. She looked out of the window.
 
-"Aargghhhh...." she screamed. "Bag of Bones, where are you, get up, get up, the tree is bare: Anwen has discovered our secret. She's stolen the leaves."
+"Aargghhhh...." she screamed. "Rhoswen, where are you, get up, get up, the tree is bare: Anwen has discovered our secret. She's stolen the leaves."
 
 She ran down the stairs... Saw the rope, and the collar, empty in the pig sty: "arrghh, she's freed the young man. They're escaping to the forest, that's where I'd go. Get up, get up, and set off after them. Get up, get up, and bring me back whatever you can find".
 
-And so Bag o' Bones pulled on her clothes, and as swift as thought, she set off on the chase, up, and out of the house.
+Rhoswen pulled on her clothes, setting off on the chase, as swift as thought, up, and out of the house.
 
 Anwen, and the young man, were running, and running, along the path, through the forest; behind them, they could sense, they could *hear*, the sound of pursuit, getting closer, getting closer...
 
 There was no way they could escape; all they could do was hide: Anwen took out a leaf, tapped the boy and herself: "you, be a pond; I will be a duck..."
 
-Just in time. Around the corner, came Bag of Bones. The footsteps she'd been following through the woods had ended. A bit odd...
+Just in time. Around the corner, came Rhoswen. The footsteps she'd been following through the woods had ended. A bit odd...
 
 "Little duck! Little duck? did you see a young woman, and a young man, come by this way."
 
@@ -358,41 +358,49 @@ The duck said nothing, just dipped its head beneath the surface of the water.
 
 [Sigh...]
 
-Bag o'bones turned round, went back to the cottage the way she'd come. When she got back home, her mother, the witch, asked: "Well? Did you find them?
+Rhoswen turned round, went back to the cottage the way she'd come. When she got back home, her mother, the witch, asked: "Well? Did you find them?
 
-Bag o' Bones replied: "I found nothing. I went into the forest, and followed their footprints; but then they stopped. And there was nothing there...." Nothing?" "Nothing,... well... a pond, and on the pond, there was a duck; but nothing else...".
+Rhoswen replied: "I found nothing. I went into the forest, and followed their footprints; but then they stopped. And there was nothing there.... "Nothing?" "Nothing,... well... a pond, and on the pond, there was a duck; but nothing else...".
 
 "Arghh, that was them, you *stupid* girl. One feather from that duck and I'd have had them both".
 
-And she sent Bag o'Bones off again, in pursuit, to bring them back.
+And she sent Rhoswen off again, in pursuit, to bring them back.
 
-Anwen and the young man, back in human form, were running, running through the forest. Once again, they sensed they were being chased, they *heard* the sound of pursuit. Anwen took out another leaf, the fourth one. "We must hide again", she said, "but this time: you be a bush, and I will be a bee."
+Anwen and the young man, back in human form, were running, running through the forest. Once again, they sensed they were being chased, they *heard* the sound of pursuit. Anwen took out another leaf, the fourth one. "We must hide again", she said, "but this time: I will be a rose bush, and you will be a bee."
 
 The footprints on the path had disappeared again. A bit odd, a rose bush, out of season... and a bee...
 
+Rhoswen leaned towards the rose bush, recognising something within it, perhaps, becuase in Welsh, Rhosen means "whote rose".
+
+The bee buzzed angrily, and Rhosewen stepped back.
+
 "Little bee, little bee, did you see a young woman, and young man, pass by this way?"
 
-But the bee said nothing, just buzzed, and disappeared into the rose.
+But the bee said nothing, just buzzed some more, and disappeared into the rose.
 
-"Pfft". Bag o' Bones turned round, went back the way she'd came.
+Rhoswen turned round, went back the way she'd came.
 
 When she got home: "Well, have you brought me what you found?"
 
-But all Bag o'Bones said was, "I found nothing... a bit odd... the pond had disappeared, but then... nothing..." "Nothing?" "nothing... well there was a little rose bush, and a bee, a bit out of season, but.."
+But all Rhoswen said was, "Nothing. I found nothing..." "Nothing? What about the pond, and the duck...." "Gone. Disappeared.. but there was, a bit firther on, a bush. A beautiful rose bush; and a bee..."
 
 "Argghh," cried the witch. "That was them, you *stupid* girl! One petal from that rose, and I'd have had them both. Go and get them... and bring back whatever you can find..."
 
-So off went Bag o' Bones, into the forest, as fast as thought. Anwen and the young man, in human form again, running, running, through the forest, finding their way, sensed something behind them, heard something behind them. Anwen took out another leaf: "you be a tree, I will be an apple."
+So off went Rhoswen again, into the forest, as fast as thought. Anwen and the young man, in human form again, running, running, through the forest, finding their way, sensed something behind them, heard something behind them. Anwen took out another leaf: "you be a tree, I will be an apple."
 
-Just in time, Bag o' bones, following the footsteps through the wood, and then - nothing...
+Just in time, Rhoswen, following the footsteps through the wood, and then - nothing...
+
+Rhoswen looked up at the apple. A mishievous smile. And a glisten in her eye.
 
 "Little tree, little tree: did you see a young man, and a young woman, pass by this way?"
 
-Bag of Bones turned round, went back the way she'd came, back to the cottage.
+But eevm in stories, apples do not talk...
+
+Rhoswen turned round, went back the way she'd came, back to the cottage.
 
 "Have you brought me what you found?"
 
-"I didn't find anything. No pond, no bush... Nothing." "Nothing?" "Well, there was a tree, with an apple on it, a bit late, but..."
+"I didn't find anything. No pond, no bush... Nothing." "Nothing?" "Well, no... except... A tree. With a single red apple on it..."
 
 "Arghhh... You *stupid* girl. If you wanna do something, you gotta do it yourself. Get out of the way". And off went the witch, even faster than thought.
 
@@ -402,17 +410,9 @@ Anwen and the young man, in human form again, came to the edge of the forest. Th
 
 The young man ran his way, Anwen went hers.
 
-As she ran, she sensed something behind her, heard something behind her, getting closer, closer, faster than thought. At the last moment, Anwen turned, dropped the leaf. The witch, running faster, couldn't stop... stepped on the leaf... and was transformed into a sow. And behind: Bag o' Bones. She stopped — she;'d seen what had happened: looked at Anwen. Looked at the sow. Smiled. Licked her lips. And taking the sow, made her way back to the cottage...
+As she ran, she sensed something behind her, heard something behind her, getting closer, closer, faster than thought. At the last moment, Anwen turned, dropped the leaf. The witch, running faster, couldn't stop... stepped on the leaf... and was transformed into a sow. And behind: Rhoswen. Who stopped. And stared at Anwen. She'd seen what had happened: looked at Anwen. She looked at the sow.  Stepped forwards. Smiled. And licked her lips. Taking the sow, she turned, a d made her way back to the cottage... It would be the first proper meal she had had in ages...
 
-By whatever magical sense it is that leads us home when we are lost, the landscape ingrained in you when you're a child, familiar, home, the young man made his somesuch way...
-
-He came upon a house, a drive leading up to it. A dog in the yard. The boy recognised the house. The dog recognised it's old master... ran to greet him.. The boy bent down [arms outstretched], and the dog jumped up, gave a great big, wet doggy slobbery...
-
-The man's father looked out of the window. Surely that wasn't..? It was... He ran, racing the dog, to greet his child... the dog got there first. As the old man reached out to hug his child, the young man drew away...
-
-"I? Who are you? Get away from me... Where am I? Who am I?"
-
-But what now of Anwen? She had returned home, back to the home where she'd lived with her mother. But as she'd approached the cottage, she saw no smoke coming out from the chimney; there were no hens scratching in the yard.
+Anwen returned home, back to the home where she'd lived with her mother. But as she'd approached the cottage, she saw no smoke coming out from the chimney; there were no hens scratching in the yard.
 
 Anwen pushed open the door, saw her grandmother on the bed in the corner of the room, cold and still.
 
@@ -428,15 +428,29 @@ In the distance, a solitary bell started to ring, sounding out the death of a lo
 
 The girl placed one shift by the door. "I will see he gets it", said the old, old woman, as old as the hills. "I will take it to him." The girl took the other.
 
-After a week, Anwen returned to the crossroads. No-one came to meet her. She took to wandering. She had no family, she had no money, she had: no-one; nothing. She had to sleep under hedges, in sheds and in outhouses. She walked until her hair was matted with twigs and leaves, until her clothes were no more than rags, once white, now grey, until her shoes were worn away.
+After a week, Anwen returned to the crossroads. No-one came to meet her.
+
+Where was he? What had happened to him? Surely he coiuldnlt of forgotten? Surely he hadn't...?
+
+By whatever sense it is that leads us home when we are lost, the landscape ingrained in you when you're a child, the young man somhow made his way back home...
+
+Some movement through the window caught the eye of his father; the sight of his son, who had been lost these last few years, comuin up the drive. As the older man made he way outside, the family dog recognised its young master and ran to greet him. The boy bent down [arms outstretched], and the dog jumped up... gave a great big, doggy slobbery wet...
+
+As the old man reached out to hug his child, the young man drew away...
+
+"I? What? Who are you? Get away from me... Where am I? Who am I?"
+
+But what, now of Anwen? She had returned home, back to the home where she'd lived with her mother. But as she'd approached the cottage, she saw no smoke coming out from the chimney; there were no hens scratching in the yard
+
+Anwen took to wandering. She had no family, she had no money, she had: no-one; nothing. She had to sleep under hedges, in sheds and in outhouses. She walked until her hair was matted with twigs and leaves, until her clothes were no more than rags, once white, now grey, until her shoes were worn away.
 
 At last, she came to a village, where an old man took pity on her, gave her tea to drink, and some food to eat.
 
-The old man told her stories of that place. Of a house, just outside the village, that used to be a happy house, but now was known as the weeping house. He said there was a tale told about that house, that if any young woman could make the young man who lived there smile, she could marry him. But that was just a story.
+The old man told her tales and legends of that place. Stories you may have heard before, or may yet hear. And he spoke of the strange goings on at the local manor house, what used to be a happy house; but then the Lord of the Manor's son had gone missing, a year or two back; and when he'dreturned, he wasn't himself. There was a story that if anyone could help him return to the happy person he had been, that if any young woman could help him smile again, them she could have his nad in marriage. But that was just a story.
 
-And so it was that that the young girl had finished her story. Outside, in the distance, a bell tolled.
+And as the young lasss finished her story, outside, in the distance, a bell tolled.
 
-She looked at the young man, still sat at the end of his bed, with a bucket between his feet, but he wasn't crying any more. He looked at the girl. He dried his eyes, raised up his clenched fist, and opened his hand. In it, a single, solitary leaf.
+At the end of the bed, the young man watched her, transfixed. He wiped the drying tears from his face. Held out his hand, his first still clenched. Openend it. And there, in the palm of his hand, a leaf. A single, solitary leaf.
 
 And that *is* the end of the story.
 
