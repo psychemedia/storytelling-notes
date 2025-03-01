@@ -35,29 +35,78 @@ TO DO
 ```
 
 
-## On the Trail of David Tyrie
+### Setting the Scene
 
-The story starts, perhaps, or at least I have heard it said, with a bankruptcy.
+1792. England is at war with France, and America is fighting for independence from the British Crown. Although it's still a year or two before what is often referred to as the *Regency period* in England, descriptions of the Queen's official birthday celebrations that year hint at what is to come.
 
-```{admonition} Bankrupts, September 1778
-:class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/17780921/013/0004
-Northampton Mercury - Monday 21 September 1778
+https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820121/005/0003
+Hampshire Chronicle - Monday 21 January 1782
 
-BANKRUPTS. John Parker, of St. James's, Westminster, Middlesex, Robert Crowe, and David Tyrie, both of Chads-Row, St. James's, Middlesex, Merchants: To surrender Sept. 14, 26, and Oct. 24, at Guildhall, London. Attorney, Mr. Daniel, Fenchurch-Stteet.
-```
+LONDON, Saturday, January 19.
 
-But David Tyrie, it seems, was a creative soul.
+Yesterday being the anniversary of her Majesty's birth-day, there was a splendid and numerous drawing room, at which the Duke of Cumberland, archbishops of Canterbury and York, and all the foreign ministers, were present, The Princess Royal had a separate drawing-room to receive the compliments of the nobility; after which their Majesties, the Prince of Wales, and Princess Royal, retired to their apartments to dinner about six o'clock.
 
-```{admonition} False witnesses, July 1780
-:class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000246/17800715/001/0004
-Norfolk Chronicle - Saturday 15 July 1780
+The Prince of Wales was dressed in a pink coloured velvet, richly trimmed with gold, silver, and variegated colours, down the seams of the coat and sleeves.
 
-On Wednesday last, at Guildhall, came on to be tried before Earl Mansfield, and a special jury, the long depending and remarkable cause between Mess. John and Benjamin Cooper, plaintiffs, and Robert Crowe, Esq; defendant. It was an issue directed the Court of Chancery, to try the validity of a commission of bankrupt issued by the plaintiffs as petitioning creditors against the defendant, and John Parker, Esq. The points in issue were, "Whether the defendant, and the said Mr. Parker, were in trade or partnarlhip;" and it appeared, in the clearest manner, that they were private gentlemen, never concerned in any business, and that the commission was taken out in order to fix their estates with the debts of one David Tyrie, to the amount of 20,000*l.* the pretended partner in this fraudulent commission. In the course of the evidence it came out, that Tyrie, in combination with the supporters of the commission, had procured two sets of false witnesses, one set to get the commission awarded, and the other to procure a verdict against Mr. Crowe, when its validity was tried in the Court of Common Pleas, on the 25th of June, 1779. This last set of hired witnesses, called the FAMILY COMPACT, attracted the particular notice of the Court, from the very extraordinary circumstances that marked it, viz. That Michael Green, one of those family men, and a material witness for the plaintiffs on the trial in the Court of Common Pleas, having sworn himself an Ipswich contractor, who had bought and sold corn, tin, copper, and pigs, for Mr. Crowe and Mr. Parker, was dressed up for the purpose, with suitable apparel, such as boots, &c. &c. and that those boots were bought for him, and specifically charged in a tavern bill, where he and the rest of his gang dined the day of trial, and that this bill was paid by the plaintiff's attorney. It also came out, that another of those hired witnesses wanted shoes to appear in, and a pair of new shoes was bought for him, and paid for in the same manner. The plaintiffs produced but two witnesses to support their case (most of their hired ones having been previously convicted and indicted for perjury at the Old Bailey); the first, on his own testimony and letter, was, by Lord Mansfield, totally set aside, and the other, his cross examination, having in the most clear and express terms proved the fallacy of the commission, his Lordship, without requiring the defendent to go into his case, or to call a single witness, recommended to the jusry to find a verdict for him; and the jury instantly, without going out of Court, found accordingly, against the commission. The verdict was received with the warmest approbation of the Court, and a respectable audience; and by it a conspiracy of singular fraud and villainy was exposed and defeated.
-```
+The dress of the ladies chiefly consisted of white and coloured satins, trimmed with gold, silver, fringe and tassels; some few ladies had silver gauze trimming, intermixed with artificial flowers and foil; they seemed not to confine themselves to any particularity of dress, but to outvie each other elegance and taste.
 
-From later news reports, it appears that in the meantime he became "a lottery-office keeper... at one time set up for a member of parliament, by standing candidate for the borough of Hindon. He was also frequently employed by the borough-hunters, and other electioneering schemes, in which generally contrived to cheat both parties" ([The Scots Magazine -  August 1782](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000545/17820801/002/0001)) and then "procured himself a place in the navy-office at Portsmouth" ([Caledonian Mercury - Saturday 17 August 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000045/17820817/009/0002)).
+The Duchess of Argyll, Ladies. Hertford and Effingham, waited yesterday as ladies of the bedchamber; Miss Tryon, Miss Vernon, Miss Boscawen, and Miss Gunning, as maids of honour.
+
+The Royal offspring were all at the windows, to be seen by spectators, who experienced great satisfaction at the sight of so fine a family.
+
+https://britishnewspaperarchive.co.uk/viewer/BL/0000554/17820121/010/0003
+Salisbury and Winchester Journal - Monday 21 January 1782
+
+LONDON, SATURDAY, *Jan.* 19
+
+Yesterday being the Queen's Birth-day, the morning was ushered in with the ringing of bells, as usual on that occasion, and at noon the Park and Tower guns were fired: afterwards the Royal Family went from the Queen's House to St. James's, where there was a drawing-room, at which the principal nobility and gentry of the kingdom, of both sexes, were present.
+
+His Majesty having been extremely indisposed on Tuesday, was twice let blood on that day, and yesterday he was seized with a bleeding at the nose in the drawing-room, which obliged him to retire very soon after three o'clock, before half the customary ceremony of the day was gone through. His Majesty continued so much indisposed, that he did not appear in the ball-room in the evening, but the Queen, the Prince of Wales, the Princess-Royal, and the Duke of Cumberland, were present.
+
+The company in the drawing-room was numerous and extremely brilliant, and the ball-room was uncommonly crowded. The Prince of Wales and Princess Royal opened the ball, and minuets were danced by the Duke of Dorset, the Marquis of Graham, Lord Rochford, Col. North, Col. St. Leger, the Hon. Capt. Greville, the Hon. Mr. West, Mr. Beckford, Lady Augusta Campbell, Lady Talbot, Miss Cooper, Miss Moore, Miss Asgill, and various others of the young nobility and gentry, till near eleven, when the country dances began, and after two were gone down, the Queen and the Princess Royal retired.
+
+The dresses of the ladies were eminently well-chosen, and beautifully adapted to the season. They chiefly consisted of suits of sattin, plain and figured, trimmed with fur or lace, and gold and silver fringe; with petticoats, fancifully ornamented with embroidery in colours of silk, or flounces of muslin and white crape, spotted with gold in the shape of pearls and dots, or enlivened with spangles, and small tufts of variegated flowers. The ladies heads were chiefly decorated with artificial flowers.
+
+Her Majesty was superbly, but gravely dressed; but the general affability of her manners, and the known benignity of her mind, threw a lustre round her person which no effect of art could have bestowed. The Prince of Wales wore a rich pink velvet coat and breeches, with a light-coloured sattin waistcoat, the whole most splendidly embroidered with silver. The seams of the coat were likewise covered with an extensive embroidery, which rather disgusted the eye, and gave an idea of expence without conveying the least sensation of taste or elegance; in plain English, it was rather fine than well fancied, and a vulgar beholder would not have hesitated to have said, it looked more like the dress of a French footman in the Antichamber of Versailles, than the birth-day suit of the heir apparent of England, as promising a prince as ever raised the hope of this country to the most flattering pitch of expectation! His Royal Highness wore a white feather in his hat, which was adorned with three double strings of brilliants to each side, and a most beautiful button and tassel of the same sparkling composition. The Princess Royal's dress was a perfect pattern of a happy union of neatness, elegance, and ornament.
+
+In the first country dance the Princess Royal's shoe slipped off, which occasioned a pause of the music for a moment, and a good-natured smile from her Majesty and the Prince of Wales.
+
+The Ladies' heads in general were of a very moderate altitude. It was observable, that the Cypress powder was most worn in the morning, and the Artois powder in the evening.
+
+The dancing did not cease till one in the morning, and the Prince did not quit the ball-room before half after one.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17820124/009/0002
+Stamford Mercury - Thursday 24 January 1782
+
+LONDON, Jan. 19.
+
+Yesterday being the anniversary appointed to be kept in honour of the Queen's Birth-day, at noon the Park and Tower guns were fired, and about two o'clock there was a very numerous and splendid drawing-room at St. James's, where the principal Nobility and Gentry of both sexes, assembled to pay their compliments to their Majesties, and the rest of Royal Family on the occasion.—The King and Queen followed by the Princess Royal and Prince of Wales, entered the drawing-room about a quarter after two. His Majesty wore a rich suit of dark Velvet, decorated with a brilliant Star and Garter Loop.—The Queen, as usual, was plainly dressed, in a *Boue de Paris* Sattin, &c.—The Princess Royal in a White and Gold, with a green spot, the manufacture of this country, superbly ornamented with a profusion of jewels.—The Prince of Wales in a faint Peach-coloured Velvet, most elegantly embroidered with gold, foil, &c.
+
+The Princess Royal had a separate drawing-room to receive the compliments of the Nobility; and about six o'clock their Majesties, the Prince of Wales, and Princess Royal, retired to the Queen's House to dinner.
+
+In the evening the Ball-room began to fill by seven o'clock, and was entirely full at half past eight. The Queen, Prince of Wales, Princess Royal, and Duke of Cumberland, all arrived about nine o'clock, and in ten minutes after the Ball was opened by the Prince of Wales and Princess Royal; his Royal Highness then danced a second minuet with Lady Augusta Campbell. The Duke of Cumberland danced two minuets; the one with Lady Willoughby, the other with Lady Berkeley. The minuets continued till past ten o'clock, when the country dances began: The Prince of Wales retained his sister for his partner, and the Duke of Cumberland Lady Augusta Campbell. After two of the country dances were finished, the Queen and Princess Royal retired, but the dances were continued without intermission till between two and three o'clock this morning, when the rest of the company retired.
+
+His Majesty having been extremely indisposed on Thursday, was twice let blood on that day, and was yesterday seized with a bleeding at the nose in the Drawing-room, which obliged him to retire very soon after three o'clock, before half the customary ceremony of the day was gone through. His Majesty continued so much indisposed, that he did not appear at the Ball in the evening.
+
+The company in the Drawing-room was numerous and extremely brilliant, and the Ball-room, contrary to the general expectation (as it was known in the Drawing-room that the King did not mean to be present) was uncommonly crowded.
+
+The dresses of the Ladies chiefly consisted of Sattins, plain and figured, trimmed with fur or lace, and gold and silver fringe; with petticoats fancifully ornamented with embroidery in colours of silk, or flounces of muslin and white crape, spotted with gold in the shape of pearls and dots, or enlivened with spangles and small tufts of variegated feathers. The Ladies heads were chiefly decorated with artificial flowers.
+
+The general run of dress among the Gentlemen was dark Velvets, with fur linings.
+
+The Ladies of the Bed-chamber in general were dressed in gold and silver silks, The Maids of Honour had previously concerted a plans of economy, and therefore all appeared in plain or figured sattins, moderately trimmed.
+
+The generality of the female heads were very elegantly dressed for the Drawing-room and last night's Ball; the red powder was not so prevalent as last season: The Cypress powder was chiefly worn in the morning, and the Artois in the evening.
+
+At the Ball the Prince of Wales wore a rich Pink Velvet coat and breeches, lined with white Sattin, with a light-coloured Sattin waistcoat, the whole most splendidly embroidered with Silver. The seams of the Coat and Sleeves were likewise covered with an extensive embroidery. His Star was worked in Steel, and valued at 200*l.* His Royal Highness wore a white Feather in his Hat, which was adorned with three double strings of brilliants to each side, and had a most beautiful Button and Tassel of the same.
+
+The carriage of the Prince of Wales yesterday was deemed the most superb of any his Highness has before appeared with at Court; on the top was placed a Crown and Cushion, the pannels were very richly gilded, and otherwise so ornamented in a new taste, that it was a perfect piece of admiration.
+
+In the first country dance the Princess Royal's shoe slipped off, which occasioned a pause of the music for a moment.
+
+The Duchess of Argyll, Ladies Hertford and Effingham, attended yesterday as Ladies in waiting to the Queen; Miss Tryon, Miss Vernon, Miss Boscawen, Miss Jeffryes, and Miss Gunning, as Maids of Honour.
+
+Yesterday Lord North, the Secretaries of State, and Lord Waldegrave, Master of the Horse to the Queen gave each grand entertainments to the Nobility and Foreign Ministers on the above occasion.
 
 ### Capture
 
@@ -157,24 +206,26 @@ Since our last were committed to the county gaol, the Rev. Mr. Obourn, John Fulk
 
 TO DO
 
-
+```{admonition} Capital convictions
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820715/004/0003
 Hampshire Chronicle - Monday 15 July 1782
 
 Winchester, Saturday, July 13.
 
 At our Assizes, which began on Tuesday last, the following prisoners were capitally convicted, and received sentence of death, viz. Wm. Dedman and Wm. Marshall for sheep stealing; Wm. Waterman for breaking open the shop of Mr. Hooper, silversmith in this city and stealing silver plate;and John Fox for breaking open the dwelling-house of Mr. Adams at Portsea. They are since all reprieved. David Tyrie, for carrying on a treasonable correspondence with the enemy, is to be tried under a special commission, at the Castle of Winchester, on the 10th of August next, for which purpose one of the Judges is to return here, after finishing the other business of the circuit. John Fulker, for stealing lead from the summer-house of Freemantle Park, near Kingsclear, is to be transported to Africa for seven years, and James Cant. his accomplice, to suffer three months imprisonment. Jacob Joel, for vending counterfeit half-pence at Portsmouth, is fined 20 *l.* and to suffer six months imprisonment. Richard Elliott and Martha Jordan, for stealing money, four gold rings, and sundry wearing apparel, from Mrs. Dudman and Mr. Collins of Andover, are be privately whipt, and to suffer twelve months imprisonment. Robert Geary and Mary Weston, for thefts, are to imprisoned six months each. Peggy Murray, Mary Crabb, Michael Woodward, Matthew Townsend, Mary Webb, Pamela Webb, and Robert Parless, for sundry felonies, were acquitted. Thomas Tandy, convicted at a former Assizes for stealing a considerabie sum of money from his master, Mr. Morgan of Gosport, is to remain in gaol according to former orders.
-
-
----
+```
 
 ### An Aside — Mr John Graham
 
 As well as a report of proceedings at the Assizes, the *Hampshire Chronicle* of *Monday 15 July 1782* also included the following news item:
 
-
+```{admonition} Graham apprehended, July 1782
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820715/004/0003
 Hampshire Chronicle - Monday 15 July 1782
+
+Also in eg https://britishnewspaperarchive.co.uk/viewer/bl/0000073/17820720/007/0002 Oxford Journal - Saturday 20 July 1782
 
 Winchester, Saturday, July 13.
 
@@ -183,62 +234,27 @@ This morning was apprehended, and taken into custody some of the people belongin
 Graham, on Friday last `[July 5th?]`, went to see Tyrie, who under confinement in our goal *(sic)* for carrying on a treasonable and traiterous correspondence with our enemies, and was near four hours in conversation with him; and it is remarkable that in the trunk was found a letter from Tyrie, while under confinement London, addressed to Graham, informing him that he was to be conveyed to Winchester on such a day, in order to take his trial, at the assizes, and desired him to get certain others of their confederates to lay wait on Bagshot or Farnham Heath, disguised in carter's frocks, &c. to rescue him; recommending also that they should be prepared with quantities of snuff to throw in the eyes of the persons who guarded him; and to have the necessary implements ready to take off his irons.— This request however does not seem to have had any weight with Graham, as no rescue was attempted on his journey to this place. The woman, soon after she was committed to gaol, offered the Turnkey a guinea to let her jump out of a one pair of Stairs window into the Street.
 
 It is really to be lamented, that even the most cautious and circumspect people are so liable to be imposed upon by this kind of fraud; we therefore recommend to every body to be very careful of taking Bank Notes from persons who are entire strangers, however plausible and specious may be the allurements thrown in their way.
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/17820722/005/0003
-Hampshire Chronicle - Monday 22 July 1782
 
-This morning the noted Graham and his wife, taken up as mentioned in our last, for negotiating counterfeited bank notes, were removed from our prison to Newgate, in order to take their trial at the next sessions at the Old Baily.
 
-### On Trial
+TO DO
 
-Tyrie's trial, at a special commission, took place on 
+https://britishnewspaperarchive.co.uk/viewer/bl/0000085/17800715/010/0004
+Newcastle Courant - Saturday 15 July 1780
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000189/17820808/012/0003
-Derby Mercury - Thursday 15 August 1782
+The prisoners in Newgate return sincere thanks to Mr John Graham, for hi* seasonable benefaction of one guinea.
 
-*The British Newspaper Archive incorrectly gives the date as 10 August, incorrectly parsing the date "From Thursday August 8 to Thursday August 15, 1782."*
 
-A Letter from Salisbury, dated Aug. 12, says,, "Saturday came on at the Castle of Winchester, the Trial of Mr. David Tyrie, of Gosport, for holding a treasonable Correspondence with the French Ministry. The Trial lasted near eight Hours, when he was convicted upon the clearest Evidence, and received Sentence to be executed at Portsmouth on the 24th Inst. When asked by the Clerk of Arraigns, what he had to say why Sentence of Death should not be pronounced upon him, he replyed, 'He did not suppose any Thing he could say would avail him, but he had a Hope beyond the Grave, and despised the Malice of bis Enemies.' He is about 30 Years of Age, by Birth a Scotchman, went up to London as a Servant, and lived with Mr. Vowell the Stationer, as a Clerk, above five Years, gaining the Esteem and Confidence of his Master."
+https://britishnewspaperarchive.co.uk/viewer/bl/0000189/17811018/005/0001
+Derby Mercury - Thursday 25 October 1781 (incorrectly dated Thursday 25 October in British Newspapers online)
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820812/004/0003
-Hampshire Chronicle - Monday 12 August 1782
+LONDON, (Monday) Oct. 22.
 
-WINCHESTER, Saturday, August 10.
+...
 
-At twelve o'clock on this day came one the tryal of David Tyrie, for High Treason, at the Castle of this city, before Justice Heath, under a special commission held for that purpose.
+At the Sessions this Day at the Old Bailey, John Graham, was tried for a Misdemeanour committed on the 4th of October last, by procuring a blank Note of the Bank of England, to be engraved, with the Words TEN in Mezzotinto, which is made punishable by the 13th of his present Majesty, with six Months imprisonment; he was found guilty.
 
-Previous to opening the cause, the prisoner begged permission of the Judge to state some reasons why his tryal should be postponed till the next Lent Assizes. These reasons were, that the short notice he had had of tryal, did not give him time to procure those witnesses on his behalf, from whose evidence he had no doubt of being acquitted. But it happened that one of them was now confined Tothillfields-Bridewell, and he had not the means to procure an Habeas Corpus to bring her down. Another witness was on a cruise, on board one of his Majesty's ships of war.– One was at this time at Brussells, and another at Ostend. He therefore prayed the indulgence of the Court to put off his tryal till the next assizes, in order to give him time to collect these witnesses, and prepare himself for tryal. After the Judge and counsel had investigated the matter, the motion was over-ruled, on its appearing that the prisoner had not hitherto made use of any endeavours to procure this evidence, though he had been six months in custody.
-
-The cause was then opened on the part of the crown by Mr. Morris, who in a very able, humane, and comprehensive detail of the grounds of the prosecution, begged leave to call the attention of the Jury to the circumstances of an offence big with every fatal consequence to society, and destructive to the good government and well-being of a great and commercial nation.
-
-The first witness called, was a Mrs. Harvey, who keeps a School near Scotland-yard, London.—She deposed that a Mrs. Askew, understood to be the wife of the prisoner, brought to her house on the 13th of Feb. last, a bundle of papers, requesting her to take particular care of them, and not on any account to let any person see them—struck with the singularity of the circumstance, and the tremour and anxiety of Mrs. Askew, she was induced, after her departure, to examine the papers, and finding them of a very particular nature, she carried them the same evening to a Mr. Page, a friend hers, to desire he would examine them, and let her know his opinion of their contents.
-
-Mr. Page was then sworn— He confirmed the evidence of Mrs. Hervey *[sic]*, and said, that on finding the papers of a treasonable nature, he went the next morning and placed a constable at Mrs. Harvey's, to take the person into custody who should come to enquire for them— By this means Mrs. Askew, alias Mrs. Tyrie, was taken into custody; and after a few days search, Tyrie himself was also apprehended. By these papers it appeared that Tyrie had been at very great pains in collecting lists of all the English ships war in and out of commission; their different situations and appointments; their present and intended stations; number of Ships building, and under repair, in all the different dock-yards, and merchants yards in the kingdom, all drawn out in the hand writing of the prisoner, which was proved by two witnesses.
-
-A Captain James was then sworn, who deposed, that in February last he met Tyrie, the prisoner, on the beach at Gosport, who, after some conversation, hired him to go to a port in France, at a premium of 15 guineas, to bring home a cargo of wines. That he met Tyrie and his wife by appointment at the Crown Inn at Gosport the same evening, where he finally engaged to undertake the voyage, and received a packet from Tyrie, which he was to deliver at Cherbourg, or Boulogne, which ever port he could soonest make. The packet, he said, was made up and sealed in his presence by Tyrie, at the Crown, and was directed and delivered by the prisoner into his own hand. That when he awoke the next morning, and considered the agreement he had made, he thought it had a very suspicious appearance, and went to an acquaintance of his, a Capt. Harrison, at Portsmouth, and related the circumstance, producing the packet, and expressing his dislike to undertake the voyage.
-
-Capt. Harrison was then examined. He confirmed the testimony of Mr. James, and deposed, that when he received the packet out of his hand, and observed the direction to the Commandant at Cherbourg, he concluded there was treachery somewhere, and therefore broke open the letter; when being confirmed in his opinion, he set off immediately for London, and delivered the packet to Mr. Frazer, then Secretary at Lord Stormont's Office, where it remained till the prsioner was ordered for trial.
-
-Mr. Frazer was then sworn. He proved the receipt of the packet from the hand of Capt. Harrison, and deposed that the packet thus produced in Court was identically the same delivered by Harrison; and James proved it be the same as he had received from Tyrie, and had delivered to Harrison. The contents of the packet were next examined, and found to contain five letters, one which, to the Commandant at Cherbourg, set forth and specified by name a squadron of English ships, just then sent over to hover on the French coast, to intercept a fleet of victuallers and merchantmen expected to sail from Cherbourg, and to rendezvous off La Hogue. Another letter the Minister of Marine at Paris, contained the most comprehensive account of the sailing the East and West India fleets from Spithead, in February last, with the names of all the men of war appointed to convoy them. With a variety of other particulars relative to the sailing and stations of a variety of ships, then under orders on different services.—Thus, after a most fair and candid trial, which lasted near eight hours, the Jury, without hesitation, on the clearest evidence, brought in their verdict, GUILTY.
-
-On the verdict being notified to the prisoner, he was asked if he had any reason to shew why the sentence of the law should not be inflicted, as in all cases of the kind? He replied, That it was totally unnecessary for him to say any thing, since it had been put out of his power to provide those witnesses who would have proved his innocence—but he had a hope beyond the grave, and he despised all that this world could to him!
-
-The Judge then, after a most pathetic and moving charge, passed the following sentence upon the prisoner,— "That you be taken to the place from whence you came, and from thence drawn upon hurdle to the place of execution; you are there to be hung by the neck, but not till you are dead; your privy-member shall be cut off, and your bowels taken out while yet alive, and burnt before your face; your head shall severed from your body, and your body divided into four quarters, and disposed as his Majesty shall think fit; and the Lord have mercy on your soul."
-
-The Judge was pleased to order that he should be executed on Saturday the 24th of August instant, PORTSMOUTH.
-
-We hear, that the prisoner had found means to conceal a razor, with which, after his condemnation, he attempted to destroy himself, but was fortunately prevented.
-
-The above important TRIAL will be published at LARGE, in the course of a few days, by J. WILKES, at the Printing Office in Winchester, and may be had of the Booksellers in Portsmouth and Gosport, and of the other Agents for this paper.
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17820815/009/0004
-Stamford Mercury - Thursday 15 August 1782
-
-COUNTRY NEWS. Salisbury, August 12.
-
-Saturday came on at the Castle at Winchester, the trial of Mr. David Tyrie, Gosport, for holding treasonable correspondence with the French. The trial, began about twelve o'clock at noon, and lasted till near eight o'clock at night, when upon the clearest evidence he was convicted of the offence, and received sentence to be executed at Portsmouth the 24th instant. A great number papers were produced in the handwriting of the prisoner and a woman he lived with, which had been deposited with a Gentleman, who delivered them up to Government; and a packet was intercepted which he had delivered to the Captain of a swift-sailing vessel to carry either to Bologn or Cherbourg, which ever port he could best make, to be delivered to the Commandant, to be forwarded with all dispatch to the Minister of the Marine at Paris. The papers contained accurate accounts of all the navy of Great Britain, both in and out of commission—a copy from the weekly returns to the Navy Office from the several Dock-yards, of the progress made in the building and repairing the Royal Navy—authentic accounts of the destination of our fleets and cruisers—a proposal to furnish the French Ministry,for the sum of 700*l.*. with our signals—a plan for obtaining intelligence from all the Boards and Offices of Government, by bribing a Clerk in each Office, with the exact sum required to accomplish such corruption—and a proposal to fix Spies at Portsmouth and Plymouth, to obtain intelligence of the operations our fleets. He appears to be a mast artful, indefatigable, and enterprising man. During the trial he wrote a great number of notes to his Counsel, of questions which he wished to put to the witnesses, and was astonishingly collected in his mind throughout the whole. After conviction, when he was asked by the Clerk of Arraigns, what he had to say why sentence of death should not pronounced upon him, he replied, "He did not suppose any thing he could say would avail him, but he had a hope beyond the grave, and despised the malice of his enemies." He is a likely man, about 30 years age.
-
-Tyrie is by birth a Scotchman, went to London as a servant, and lived with Mr. Vowell the Stationer, as a Clerk, above five years, gaining the esteem and confidence of his Master: He afterwards entered into business in the mercantile life, and had his integrity been equal to his abilities, must have done very well. A few years since he offered himself a Candidate for Hindon, in this County, and afterwards, failing in his views of a Merchant, procured himself a place in the Navy-Office at Portsmouth, which led him to his last fatal employment.
 
 
 
@@ -271,8 +287,12 @@ Winchester: Printed and sold by J. WILKES and may be had of the booksellers at G
 
 --
 
+Gurney's shorthand record of the trial was also reprinted several years later in volume XXI of *Cobbett's complete collection of state trials and proceedings for high treason and other crimes and misdemeanors*
 
-https://archive.org/details/acompletecollec03cobbgoog/page/n417/mode/2up?q=%22david+tyrie%22+ (incomplete; pages 835-8 missing)
+
+--
+
+https://archive.org/details/acompletecollec03cobbgoog/page/n417/mode/2up (incomplete; pages 835-8 missing)
 
 https://books.google.co.uk/books?id=waMrAQAAMAAJ&pg=PA7#v=onepage&q&f=false
 
@@ -285,9 +305,9 @@ Vol. XXI Reign of George the Third
 
 pp815-846
 
-665. The Trial `[Taken in shorthand by Jsoeph Gurney]` of David Tyrie, for High Treason, at the Assizes at Winchester, held by Adjournment on Saturday, August the 10th; Before the Hon. John Heath, esq. one of the Justices of his Majesty's Court of Common-Pleas: 22 George III A. D. 1782.
+665. The Trial `[Taken in shorthand by Jsoeph Gurney]` of David Tyrie, for High Treason, at the Assizes at Winchester, held by Adjournment on Saturday, August the 10th; Before the Hon. John Heath, esq. one of the Justices of his Majesty's Court of Common-Pleas: 22 George III A.*d.* 1782.
 
-David TYRIE was indicted for falsely, wickedly, and traitorously, (being a subject of Great Britain) compassing, imagining, and intending, the king of and from the royal state, crown, title, power, and government of Great Britain, to depose and wholly deprive; and the king to kill, and bring and put to death; and to fulfil, perfect, and bring to effect, his treason, compassings, and imaginations, as such false traitor, falsely, wickedly, and traitorously composing and writing, and causing to be composed and wrote, divers letters and instructions in writing, to shew and inform Lewis the French king, (who for a long time, and still carries on and prosecutes, by land and by sea, an open and public war against our present king) and his subjects, enemies of our king, of the stations of divers squadrons of ships of war of our king, employed in prosecuting and carrying on said war; and also of the service in which divers other ships of war of our king were then employed in prosecuting and carrying on said war; and also of the times of sailing of divers ships of war of our king, and the destination of said $hips, and the services in which such ships were employed; and of the times when other ships of war of our king were then expected to sail from this kingdom, and the voyages, cruises, and services, upon which such ships were expected to sail; and also of the times when other ships of war of our king, employed in the prosecution and carrying on of said war, were expected to arrive in this kingdom; and also the number and force of divers ships of war of our king, within certain ports of this kingdom, and of the state and condition of several of said ships; and also of the times of sailing of divers other ships and vessels of our king, from this kingdom, to the dominions of our king, and other places, in parts beyond the seas; and during said war, as such false traitor, in prosecution of his treason and treasonable purposes, falsely, wickedly, and traitorously composing and writing, and causing and procuring to be composed and wrote, a letter to be sent to subjects of said French king, in parts beyond the seas, enemies of our king; in which said letter said David Tyrie (among other things) wickedly, falsely, and traitorously notified, disclosed, and revealed, to said enemies of our king, that a squadron of ships of war of our king, consisting of the Arethusa, La Prudente, Monsiear, and Recovery, frigates, had sailed from Spithead, on second of February, (meaning second of February last) and were then employed in prosecuting and carrying on said war off Cape La Hogue in France: and in another of said accounts or lists, said David Tyrie, falsely, wickedly, and traitorously, notified, disclosed, and revealed, to said enemies of our king, the times of the sailing and destination of divers other ships of war of our king, which had lately before that time sailed from this kingdom for the purpose of convoying the East and West India fleets, and other ships belonging to subjects of our king; and also the stations of divers ships of war of our king, then cruizing on the French coast, against the enemies of our king: and in another of said accounts or lists, said David Tyrie falsely, wickedly, and traitorously, notified, disclosed, and revealed, to said enemies of our king, the number, state, condition, and force, of divers other ships of war of our king, employed in prosecuting and carrying on said war, and the times when such ships were expected to sail from this kingdom, and the voyages, cruizes, and services, upon which such ships were expected to sail; and also the times when divers other ships of war of our king, employed in prosecuting and carrying on said war, were expected to arrive in this kingdom; and also the number and force the ships of war of our king then repairing in ports within this kingdom: and during said war, said David Tyrie, as such false traitor, in prosecution of his treason and treasonable purposes, falsely, wickedly, and traitorously, composed and wrote, and caused and procured to be composed and wrote, an account or state, to be sent to subjects of said French king; in which said account or state, said David Tyrie notified, disclosed, and revealed, to said enemies of our king, the number, and times of sailing, of ships or vessels of our king, employed as transports, store ships, and victuallers, for the purpose of prosecuting and carrying on said war; and during said war, said David Tyrie, as such false traitor, in prosecution of his treason and treasonable purposes, falsely, maliciously, wickedly, and traitorously, composed and wrote, and caused and procured to be composed and wrote, another letter, to be sent to subjects of said French king, in parts beyond the seas, enemies of our king, in which last-mentioned letter said David Tyrie (amongst other things) falsely, wickedly, and traitorously, notified, disclosed, and revealed, to said enemies of our king, the number, and times of sailing, of certain ships or vessels belonging to subjects of our king, from this kingdom to the dominions of our king and other places in parts beyond the seas: and said David Tyrie, in prosecution of, and to promote his treason, imaginations, and compassings aforesaid, falsely, wickedly, and traitorously, did send, and procure to be sent, all and singular said several letters, instructions in writing, accounts, lists and states, to be delivered in parts beyond the seas, to several subjects of the said French king, enemies of king, `[That the writing and sending of such letters, &c. with such an intent, although the letters, &c. were intercepted, and did not reach their destination, are overt acts of compaasing and imagining the death of the king, and also of adhering to the king's enemies, see Gregg's Case, vol. 14, p. 1371; Hensey's Case, vol. 19, p. 1341; De la Motte's Case, vol. 21, p. 687; add East's Pleas of the Crown, ch. 2, s. 58.]` and that during said war, said David Tyrie, as such false traitor, and in prosecution of his said treason and treasonable purposes, falsely, wickedly, and traitorously, did retain, hire, and procure, and cause to be retained, hired, and procured, William James, to carry and convey from this kingdom unto the kingdom of France, and there to deliver to subjects of said French king, enemies of our king, certain letters, instructions in writing, to inform said French king and his subjects, enemies of our king, of the state, condition, destination, and stations, of the naval forces of the kingdom, and other advice and intelligence, to enable and assist said French king, and his subjects, in the prosecution and carrying on of said war against our king and his subjects—against his duty, and allegiance, &c. and against the statute, at Gosport, 10th of February last, and on other days and times, as well before as after.
+David TYRIE was indicted for falsely, wickedly, and traitorously, (being a subject of Great Britain) compassing, imagining, and intending, the king of and from the royal state, crown, title, power, and government of Great Britain, to depose and wholly deprive; and the king to kill, and bring and put to death; and to fulfil, perfect, and bring to effect, his treason, compassings, and imaginations, as such false traitor, falsely, wickedly, and traitorously composing and writing, and causing to be composed and wrote, divers letters and instructions in writing, to shew and inform Lewis the French king, (who for a long time, and still carries on and prosecutes, by land and by sea, an open and public war against our present king) and his subjects, enemies of our king, of the stations of divers squadrons of ships of war of our king, employed in prosecuting and carrying on said war; and also of the service in which divers other ships of war of our king were then employed in prosecuting and carrying on said war; and also of the times of sailing of divers ships of war of our king, and the destination of said $hips, and the services in which such ships were employed; and of the times when other ships of war of our king were then expected to sail from this kingdom, and the voyages, cruises, and services, upon which such ships were expected to sail; and also of the times when other ships of war of our king, employed in the prosecution and carrying on of said war, were expected to arrive in this kingdom; and also the number and force of divers ships of war of our king, within certain ports of this kingdom, and of the state and condition of several of said ships; and also of the times of sailing of divers other ships and vessels of our king, from this kingdom, to the dominions of our king, and other places, in parts beyond the seas; and during said war, as such false traitor, in prosecution of his treason and treasonable purposes, falsely, wickedly, and traitorously composing and writing, and causing and procuring to be composed and wrote, a letter to be sent to subjects of said French king, in parts beyond the seas, enemies of our king; in which said letter said David Tyrie (among other things) wickedly, falsely, and traitorously notified, disclosed, and revealed, to said enemies of our king, that a squadron of ships of war of our king, consisting of the Arethusa, La Prudente, Monsiear, and Recovery, frigates, had sailed from Spithead, on second of February, (meaning second of February last) and were then employed in prosecuting and carrying on said war off Cape La Hogue in France: and in another of said accounts or lists, said David Tyrie, falsely, wickedly, and traitorously, notified, disclosed, and revealed, to said enemies of our king, the times of the sailing and destination of divers other ships of war of our king, which had lately before that time sailed from this kingdom for the purpose of convoying the East and West India fleets, and other ships belonging to subjects of our king; and also the stations of divers ships of war of our king, then cruizing on the French coast, against the enemies of our king: and in another of said accounts or lists, said David Tyrie falsely, wickedly, and traitorously, notified, disclosed, and revealed, to said enemies of our king, the number, state, condition, and force, of divers other ships of war of our king, employed in prosecuting and carrying on said war, and the times when such ships were expected to sail from this kingdom, and the voyages, cruizes, and services, upon which such ships were expected to sail; and also the times when divers other ships of war of our king, employed in prosecuting and carrying on said war, were expected to arrive in this kingdom; and also the number and force the ships of war of our king then repairing in ports within this kingdom: and during said war, said David Tyrie, as such false traitor, in prosecution of his treason and treasonable purposes, falsely, wickedly, and traitorously, composed and wrote, and caused and procured to be composed and wrote, an account or state, to be sent to subjects of said French king; in which said account or state, said David Tyrie notified, disclosed, and revealed, to said enemies of our king, the number, and times of sailing, of ships or vessels of our king, employed as transports, store ships, and victuallers, for the purpose of prosecuting and carrying on said war; and during said war, said David Tyrie, as such false traitor, in prosecution of his treason and treasonable purposes, falsely, maliciously, wickedly, and traitorously, composed and wrote, and caused and procured to be composed and wrote, another letter, to be sent to subjects of said French king, in parts beyond the seas, enemies of our king, in which last-mentioned letter said David Tyrie (amongst other things) falsely, wickedly, and traitorously, notified, disclosed, and revealed, to said enemies of our king, the number, and times of sailing, of certain ships or vessels belonging to subjects of our king, from this kingdom to the dominions of our king and other places in parts beyond the seas: and said David Tyrie, in prosecution of, and to promote his treason, imaginations, and compassings aforesaid, falsely, wickedly, and traitorously, did send, and procure to be sent, all and singular said several letters, instructions in writing, accounts, lists and states, to be delivered in parts beyond the seas, to several subjects of the said French king, enemies of king, `[That the writing and sending of such letters, &c. with such an intent, although the letters, &c. were intercepted, and did not reach their destination, are overt acts of compaasing and imagining the death of the king, and also of adhering to the king's enemies, see Gregg's Case, vol. 14, p. 1371; Hensey's Case, vol. 19, p. 1341; De la Motte's Case, vol. 21, p. 687; add East's Pleas of the Crown, ch. 2,*s.* 58.]` and that during said war, said David Tyrie, as such false traitor, and in prosecution of his said treason and treasonable purposes, falsely, wickedly, and traitorously, did retain, hire, and procure, and cause to be retained, hired, and procured, William James, to carry and convey from this kingdom unto the kingdom of France, and there to deliver to subjects of said French king, enemies of our king, certain letters, instructions in writing, to inform said French king and his subjects, enemies of our king, of the state, condition, destination, and stations, of the naval forces of the kingdom, and other advice and intelligence, to enable and assist said French king, and his subjects, in the prosecution and carrying on of said war against our king and his subjects—against his duty, and allegiance, &c. and against the statute, at Gosport, 10th of February last, and on other days and times, as well before as after.
 
 *Second Count.* For unlawfully and traitorously adhering to the king's enemies.
 
@@ -674,7 +694,7 @@ No II.— (The prisoner's hand-writing.)
 
 "Sir; This will be delivered to you by capt William James, to whom you may advance the sum of 50*l.* for which I will be answerable. Please to load, on the vessel that brings him, 80 dozen claret, in four dozen hampers, 40 ditto champagne, two dozen ditto, 300lb. hyson tea, in 25 bags, and 150 tubs brandy.
 
-"Take his receipts for the whole, and transmit to me by post.— I am respectfully. Sir, your most obedient servant, D. Tyrie."  
+"Take his receipts for the whole, and transmit to me by post.— I am respectfully. Sir, your most obedient servant,*d.* Tyrie."  
 "London, Feb. 9, 1782."  
 "Mr. John Totterell, merchant, Ostend.  
 Per fav. capt Wm. James."
@@ -730,7 +750,7 @@ No VII.— (The prisoner's hand-writing.)
 
 "Gosport, Feb. 10, 1782.  
 "Mons. Bonnier,  
-"Sir; Please to send by the bearer the wine left under your care by L. P. with forty or fifty dozen more of the same quality, if it can be got: this last let Mr. B. charge to my account. Give the captain all possible dispatch, and supply with what he may want for the cutter's use. I recommend him to your protection, and am, Sir, your most obedient servant, D. Tyrie."  
+"Sir; Please to send by the bearer the wine left under your care by*l.* P. with forty or fifty dozen more of the same quality, if it can be got: this last let Mr. B. charge to my account. Give the captain all possible dispatch, and supply with what he may want for the cutter's use. I recommend him to your protection, and am, Sir, your most obedient servant,*d.* Tyrie."  
 "A Monsieur Bonnier, chez M. Dufour, Sellier, Rue de la Cue, à Boulogne."
 
 *Moses Morant* sworn.
@@ -1083,6 +1103,13 @@ It is given out, that his accomplices are discovered, and that a certain America
 *Winchester, Aug. 24.* The crowd people of all ranks assembled by four o'clock this morning at the gates of the gaol, to see Tyrie set off for the place of execution, was very great. About five o'clock he was put into a coach with six horses, attended by the ordinary, under-sheriff, gaoler, &c. and conveyed to Portsmouth, where being delivered to the Mayor and police of the town, he was drawn on a sledge to the place of execution. After praying a little time, he was turned off, and hanged till almost dead; he was then cut down, his head severed from his body, his bowels taken out, and his heart shewed to the surrounding multitude, and then thrown into a fire made for that purpose; the body was then quartered and put into coffin. The concourse of people was immense, and beyond description, and such the singular conduct of many who were near the body, that happy was he who could procure a finger, or some vestige the criminal. Tyrie supported to the last the same hardened and intrepid conduct as marked him on his condemnation, boldly leaping into the coach at his leaving Winchester; on his journey to Portsmouth, by his words and conduct expressing great indifference at his approaching fate, and even laughing at the place execution.
 
 
+---
+
+https://britishnewspaperarchive.co.uk/viewer/BL/0000230/17830120/014/0003?browse=true
+Hampshire Chronicle - Monday 20 January 1783
+
+George Maynard was indicted for aiding, abetting, and procuring instruments to enable Tyrie and others to break out of his Majesty's gaol in this city, when, after a very long and full hearing, he was acquitted.
+
 
 ---
 
@@ -1131,6 +1158,21 @@ Notwithstanding the late David Tyrie's seeming contempt of death, both at his tr
 *`As quoted previously.`*
 ```
 
+https://britishnewspaperarchive.co.uk/viewer/bl/0000045/17820923/003/0001
+Caledonian Mercury - Monday 23 September 1782
+
+Also in https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17820919/012/0003 Stamford Mercury - Thursday 19 September 1782
+
+On Saturday, 19 prisoners were tried at the Old Bailey, four of whom were capitally convicted, viz. John Graham and Jane Graham, for forging, counterfeiting, and publishing as true, knowing it to be forged, a certain promissory note for payment of money, viz. for 15*l.* thereby, purporting to be the promissory note of John Boult, for the Governor and Company of the Bank of England, for payment of 50*l.* to Mr Allan Cowper, or bearer, on demand, with intent to defraud Christopher Alderson. ...
+
+On the trial of John Graham, and Jane his wife, the first for altering and forging a letter in a bank-note, and the latter for uttering the said note, knowing it to be forged. It appeared from the evidence produced in support of the prosecution, that Mr Graham had applied to Mr Huxton, to cut him the letter Y in wood, suitable to a specimen which he gave him; not liking the impression which it made, he desired to have some more cut a smaller sort, this was done, and the woman at the bar came and took them away. He was shewn some wooden letters that were found in the possession of the prisoners, and was of opinion they were the same which they had from him. A bank-note was produced, and being proved to have been tendered by Mrs Graham, in payment of some goods, for which she received the difference; this note; and others found upon Graham when he was taken, were produced, and appeared to have been originally struck for fifteen pounds, but by the help of a liquid, the letters below the T had been erasd, and the letter Y being added, the notes were, to all appearance, for 50 *l.* each. A variety of different implements, evidently of use in this iniquitous purpose, were produced, and proved to have belonged to the prifoners. Being called upon for their defence, they complained bitterly that their witnesses had been sent out of the way, to prevent them from having the benefit of their testimony. A witness was examined to prove that the prisoners had been married many years; and Mr Morgan their counsel objected, that, in point of law, the Jury could not convict the prisoner, even if they believed they evidence proved; because, in all cases short of treason or murder, where it appeared that a criminal action had been performed by a man and his wife, the woman was acquitted, from a presumption, that what she had done was by the influence and direction of the husband. The Judge summed up the evidence with great accuracy and precision; and, in regard to the point of law, he toid the Jury, that in all such cases as where the husband and wife acted in coercion, then, indeed, the law was so tender in behalf of the woman as to presume she acted under an influence and compulsive force from the husband; but then she had no such advantage in the present case; what she had done appeared to have beeh a voluntary act; her huioand was not present; and although he might have commanded her to utter the note in question, yet as soon as she was out of his sight she was out of his power; and might have claimed the protection of the Magistrate to defend herself.— The Jury withdrew a few minutes, and returned a vverdict that the prisoners were guilty, but in consideration of a most pathetic address, made to them by the prisoners, representing their being the unhappy parents of nine children, the Jury was pleased to recommend the woman to his Majesty's mercy.
+
+--
+
+TH: worth bnearing the above in mind wrt Mrs Tyrie; also implied threat (to support her defence?) re taking his name etc?
+
+
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/17821014/003/0002
 Northampton Mercury - Monday 14 October 1782
 
@@ -1160,7 +1202,7 @@ This morning John Graham, Charlotte Goodall, John Edmonds, Henry Berthaud, Wm. J
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000554/17821021/003/0001
 Salisbury and Winchester Journal - Monday 21 October 1782
 
-London, Tuesday Ocober 15,.
+London, Tuesday Ocober 15.
 
 This morning the following convicts were carried from Newgate to Tyburn, and there executed, pursuant to their senrences. John Graham, Charlotte Goodall, and John Edmonds, in the first cart; Henry Berthaud, Wiiliam Jones, and Peter Verrier, in the second ; Wm. Odem, Thomas Claddenboul, and Charles Woollett, in the third cart. John Weatherby, and John Lafee, tor coining, were drawn on a sledge. They all behaved very penitently.
 
@@ -1169,6 +1211,10 @@ Hampshire Chronicle - Monday 21 October 1782
 
 A correspondent who was present at the interview between the unhappy Graham and his wife, the evening previous to his execution on Tuesday last, declares he never saw or heard a more affectng spectacle. Callous as the sight of frequent scenes of human woe might be supposed to make the people Newgate, there was not one of them who beheld the wretched husband take his last farewell of his disconsolate wife, who did not join in the lamentations of the woman. As for the man, his deportment beggared description. They have *nine* children, the eldest not fifteen. Reflection on this circumtance, more than on his own approaching fate, had reduced him to a skeleton. He had kept an academy, but that business not succeeding, unhappily, his tenderness for his children is said to have drove him to the measure that ended in his condemnation. At the interview with his wife, he seemed to have made up all his earthly accounts. There was an awful composure in his manner, a thousand times more moving than the looks of desperation and shrieks of the miserable woman. He soothed her in the most affectionate manner; he very tenderly charped her not to give way to grief, but to take care of her health for the sake ot their poor little ones, who *shortly*—(here the unhappy man paused—a tear trickled down his cheek—he could proceed no farther.) His wife fainted, and in that condition was carried off, while the husbaud resigned himself solemn silence into the hands of the keepers.
 
+https://britishnewspaperarchive.co.uk/viewer/bl/0000863/17821012/022/0002
+Newcastle Chronicle - Saturday 12 October 1782
+
+Graham, the forger, convicted las sessions at the Old Bailey, was a schoolmaster at Kilmarnock; and, prior to his settlement there, had kept an English school at Douglas in Ayrshire; he was reputed a man of nobility; but his conduct never procured respect.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000554/17821028/036/0003
 Salisbury and Winchester Journal - Monday 28 October 1782
@@ -1182,7 +1228,7 @@ The five following convicts were conducted to London Thursday last, in order to 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/17821028/004/0003
 Hampshire Chronicle - Monday 28 October 1782
 
-Thursday last, five cvnvicts were sent to the port of London, to be shipped for Africa, viz. John Fulker, John Fox, William Deadman, Wm. Marshall, and Simon Waterman.
+Thursday last, five convicts were sent to the port of London, to be shipped for Africa, viz. John Fulker, John Fox, William Deadman, Wm. Marshall, and Simon Waterman.
 
 
 https://archive.org/details/navalmilitaryhis_07mant/page/286/mode/2up?q=%22david+tyrie%22
@@ -1220,6 +1266,15 @@ From the Police.— Public-Office, Bow-street, April, 1787.
 
 RETURNED from transportation before the end of his term, JOHN FULKER, by trade  a chair maker and turner, a native of Kingsclere, in Hants; thirty two years old, five feet eight or nine inches high, light hair, pale complexion, grey eyes, has a small scar on his lip, (supposed to be his under lip) occasioned by a cut; stout made upwards, but not quite well made in his legs, walking somewhat weak in his knees.—Five Guineas Reward.
 
+
+
+--
+https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17830626/009/0003
+Stamford Mercury - Thursday 26 June 1783
+
+Also appeared in Derby Mercury -  https://britishnewspaperarchive.co.uk/viewer/bl/0000189/17830619/009/0002 Thursday 26 (incorrectly shown by BNO as 19) June 1783; https://britishnewspaperarchive.co.uk/viewer/bl/0000572/17830630/008/0003 Aberdeen Press and Journal - Monday 30 June 1783
+
+To the disgrace of the police of this country, the head of the unfortunate Tyrie, who was executed at Portsmouth last summer, as a spy, and whose body was dissected by the barbarous and inhuman multitude that surrounded him, is made a shew of to this very hour, by the keeper of Gosport Bridewell. The number of unthinking people that have paid one shilling for seeing it, is truly astonishing; but the dreadful accident that has happened in consequence of its being made a public will, it is hoped, be the means of its being immediately ordered to be buried, to prevent such dismal catasrophes in future.—A sailor, lately arrived from the West-Indies, hearing such a sight was to be seen, went to satisfy his curiosity, taking his girl with him without letting ber know where he was going, On their arrival at Bridewell, he called for some wine, at the same time whispering the gaoler, to bing the head, which being suddenly and unexpectedly placed upon the table before the girl, had such an effect upon the poor young creature, that she fainted away. With great difficulty she was conveyed home, and put to bed, from whence she never rose. The sailor, knowing himself to be the author of this melancholy event, has more than once endeavoured to make away with himself. It is to be hoped that the Judges at the ensuing affizes will make it their business to enquire into this shameful traffic.
 
 ---
 
