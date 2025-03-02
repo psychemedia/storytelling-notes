@@ -1,10 +1,10 @@
 # A Giant Tricked into Slashing His Own Belly
 
-There are various version of this tale, (I have a noe that the same eating competition appears in a Jack and the North Wind variant, but I can't find the story that I presumably made that note about)
+There are various version of this tale, (The same eating competition appears in a Jack and the North Wind variant, but I can't find the story that I presumably made that note about...)
 
 Giant tricked cut own belly / stomach
 
-Asbjornsen Moe
+Asbjornsen Moe Ashladden
 
 Boots is also Ash lad - youngest son; 
 

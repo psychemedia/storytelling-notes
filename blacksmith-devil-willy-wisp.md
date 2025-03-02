@@ -1048,6 +1048,7 @@ Emerson also includes another blacksmith related tale (p. 10-11), which he had "
 THE CRAIG-Y-DON BLACKSMITH.
 
 ONCE upon a time an old blacksmith lived in an old forge at Craig-y-don, and he used to drink a great deal too much beer.
+
 One night he was coming home from an alehouse very tipsy, and as he got near a small stream a lot of little men suddenly sprang up from the rocks, and one of them, who seemed to be older than the rest, came up to him, and said:
 
 "If you don't alter your ways of living you'll die soon; but if you behave better and become a better man you 'll find it will be to your benefit," and they all disappeared as quickly as they had come.
