@@ -21,10 +21,10 @@ TO DO
 - came down from Scotland
 - got a job as a servant, apprenticed(?), befriended his master
 - became a merchant, but some bad investment, and was bankrupted;
-- BUT, tried to salvage somehting..
+- BUT, tried to salvage something..
 - took various jobs (lottery runner, electoral fixer, even standing (unsuccessfully) for MP (or was that also part of a fix), then joinednaval office)
 - after some time, saw an opportunity to make his own income from the sea;
-- implicatoon of smugglingl; but also information; at that time, navy office info was poor so he implied people who worked for him he was providing better information;
+- implication of smugglingl; but also information; at that time, navy office info was poor so he implied people who worked for him he was providing better information;
 - as well as liquor and lace, he also egan to trade in information
 - one day, his boat runner unavailable;
 - up in London, wife dropped off papers, went back down to Portsmouth;
@@ -35,10 +35,12 @@ TO DO
 ```
 
 
-### Setting the Scene
+## Setting the Scene
 
-1792. England is at war with France, and America is fighting for independence from the British Crown. Although it's still a year or two before what is often referred to as the *Regency period* in England, descriptions of the Queen's official birthday celebrations that year hint at what is to come.
+It's 1792. England is at war with France, and America is fighting for independence from the British Crown. Although it's still a year or two before what is often referred to as the *Regency period* in England, descriptions of the Queen's official birthday celebrations that year hint at what is to come.
 
+```{admonition} Being the anniversary of her Majesty's birth-day, January, 1782
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820121/005/0003
 Hampshire Chronicle - Monday 21 January 1782
 
@@ -53,7 +55,12 @@ The dress of the ladies chiefly consisted of white and coloured satins, trimmed 
 The Duchess of Argyll, Ladies. Hertford and Effingham, waited yesterday as ladies of the bedchamber; Miss Tryon, Miss Vernon, Miss Boscawen, and Miss Gunning, as maids of honour.
 
 The Royal offspring were all at the windows, to be seen by spectators, who experienced great satisfaction at the sight of so fine a family.
+```
 
+Whilst the Queen's dress appears to have been quite muted, the Prince Regent seems to have rather more gaudily, expensively, and even, to some, *tastelessly* attired.
+
+```{admonition} The Queen was gravely dressed
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0000554/17820121/010/0003
 Salisbury and Winchester Journal - Monday 21 January 1782
 
@@ -74,7 +81,10 @@ In the first country dance the Princess Royal's shoe slipped off, which occasion
 The Ladies' heads in general were of a very moderate altitude. It was observable, that the Cypress powder was most worn in the morning, and the Artois powder in the evening.
 
 The dancing did not cease till one in the morning, and the Prince did not quit the ball-room before half after one.
+```
 
+```{admonition} A most superb carriage, January 1872
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17820124/009/0002
 Stamford Mercury - Thursday 24 January 1782
 
@@ -107,10 +117,18 @@ In the first country dance the Princess Royal's shoe slipped off, which occasion
 The Duchess of Argyll, Ladies Hertford and Effingham, attended yesterday as Ladies in waiting to the Queen; Miss Tryon, Miss Vernon, Miss Boscawen, Miss Jeffryes, and Miss Gunning, as Maids of Honour.
 
 Yesterday Lord North, the Secretaries of State, and Lord Waldegrave, Master of the Horse to the Queen gave each grand entertainments to the Nobility and Foreign Ministers on the above occasion.
+```
 
-### Capture
+## Early Life
 
-And then, there was an arrest:
+TO DO - see bankruptcy tale
+
+From later news reports, it appears that in the meantime he became "a lottery-office keeper... at one time set up for a member of parliament, by standing candidate for the borough of Hindon. He was also frequently employed by the borough-hunters, and other electioneering schemes, in which generally contrived to cheat both parties" ([The Scots Magazine -  August 1782](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000545/17820801/002/0001)) and then "procured himself a place in the navy-office at Portsmouth" ([Caledonian Mercury - Saturday 17 August 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000045/17820817/009/0002)).
+
+
+## Reports of Tyrie's Arrest
+
+In terms of our story, the first inkling we get from the press is the widely syndicated report of an arrest:
 
 ```{admonition} Two People have been taken up, March 1782
 :class: dropdown
@@ -138,7 +156,7 @@ The Person who has been taken into Custody for conveying Intelligence to the Fre
 The Circumstances of these Reports having frequently been lost for several Days together, immediately rushed into his Mind, and the Handwriting of the Copy of the Report, found returned instead of the Original, being examined, it was soon perceived to have been written by the Person in custody, who, upon being sent for, and charged with having traitorously corresponded with the Court of France, immediately confessed the Crime, and implored Forgiveness. Such are the Particulars of this very extraordinary Transaction. With respect to the Name of the Person, out of Pity to his Family, we will conceal it, at least for the present.
 ```
 
-### An Attempted Escape
+## An Attempted Escape
 
 Around this time, Tyrie was held in Newgate prison. The discovery of a letter around about Saturday, July 13, 1782, as reported in the [Hampshire Chronicle - Monday 15 July 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820715/004/0003), suggested that he had conspired to attempt an escape whilst imprisoned there.
 
@@ -160,7 +178,7 @@ Your ever faithful and obliged friend."
 "Mr John Graham."
 ```
 
-### Called to Trial
+## Called to Trial
 
 But no escape was effected, and Tyrie was transported from Newegate to Winchester to take his trial.
 
@@ -216,7 +234,7 @@ Winchester, Saturday, July 13.
 At our Assizes, which began on Tuesday last, the following prisoners were capitally convicted, and received sentence of death, viz. Wm. Dedman and Wm. Marshall for sheep stealing; Wm. Waterman for breaking open the shop of Mr. Hooper, silversmith in this city and stealing silver plate;and John Fox for breaking open the dwelling-house of Mr. Adams at Portsea. They are since all reprieved. David Tyrie, for carrying on a treasonable correspondence with the enemy, is to be tried under a special commission, at the Castle of Winchester, on the 10th of August next, for which purpose one of the Judges is to return here, after finishing the other business of the circuit. John Fulker, for stealing lead from the summer-house of Freemantle Park, near Kingsclear, is to be transported to Africa for seven years, and James Cant. his accomplice, to suffer three months imprisonment. Jacob Joel, for vending counterfeit half-pence at Portsmouth, is fined 20 *l.* and to suffer six months imprisonment. Richard Elliott and Martha Jordan, for stealing money, four gold rings, and sundry wearing apparel, from Mrs. Dudman and Mr. Collins of Andover, are be privately whipt, and to suffer twelve months imprisonment. Robert Geary and Mary Weston, for thefts, are to imprisoned six months each. Peggy Murray, Mary Crabb, Michael Woodward, Matthew Townsend, Mary Webb, Pamela Webb, and Robert Parless, for sundry felonies, were acquitted. Thomas Tandy, convicted at a former Assizes for stealing a considerabie sum of money from his master, Mr. Morgan of Gosport, is to remain in gaol according to former orders.
 ```
 
-### An Aside — Mr John Graham
+## An Aside — Mr John Graham
 
 As well as a report of proceedings at the Assizes, the *Hampshire Chronicle* of *Monday 15 July 1782* also included the following news item:
 
@@ -240,12 +258,18 @@ It is really to be lamented, that even the most cautious and circumspect people 
 
 TO DO
 
+```{admonition} A seasonable benefaction, July 1780
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000085/17800715/010/0004
 Newcastle Courant - Saturday 15 July 1780
 
-The prisoners in Newgate return sincere thanks to Mr John Graham, for hi* seasonable benefaction of one guinea.
+The prisoners in Newgate return sincere thanks to Mr John Graham, for his seasonable benefaction of one guinea.
+```
 
+TO DO
 
+```{admonition} Tried for a misdemeanour, October 1781
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000189/17811018/005/0001
 Derby Mercury - Thursday 25 October 1781 (incorrectly dated Thursday 25 October in British Newspapers online)
 
@@ -254,11 +278,13 @@ LONDON, (Monday) Oct. 22.
 ...
 
 At the Sessions this Day at the Old Bailey, John Graham, was tried for a Misdemeanour committed on the 4th of October last, by procuring a blank Note of the Bank of England, to be engraved, with the Words TEN in Mezzotinto, which is made punishable by the 13th of his present Majesty, with six Months imprisonment; he was found guilty.
+```
 
 
+TO DO
 
-
----
+```{admonition} A special commission at the Town-hall, August 1782
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000204/17820817/002/0002
 Leicester Journal - Saturday 17 August 1782
 
@@ -268,6 +294,7 @@ Caledonian Mercury - Saturday 17 August 1782
 On Saturday came on by a special commission at the Town-hall in Winchester, the trial of David Tyrie, before Hon. Mr Justice Heath, for high treason, in sending intelligence to the French. BY ten o’clock in the morning the court was uncommonly crouded, but the judge not make his appearance ’till after twelve. A motion was made to put off the trial, which was grounded on an affidavit of the prisoner, that four of his witnesses were not ready; one is a woman now in Tothil-fields bridewell, two sailors who are abroad, and a man residing at Ostend. The court, however, thinking he had a sufficient time to be prepared, granted nothing for the motion. Mr. Morris, for the crown, opened the case,and enlarged on the dangerous effects produced by the permission of such persons escaping punishment. Maria Harvey proved that a bundle of papers, had been her delivered to her by Mrs. Askew, about the 13th of February; that the particular charge given with them raised her curiosity to enquire into the contents of the bundle. She had been induced in consequence to open them, and being of opinion that the contents were of a dangerous nature, she carried them to a Mr. Page, in Westminster, who being of the opinion, carried them to the Secretary of State's Office. The papers were produced and proved——they consisted of copies of papers called Navy Progresses, being a list of all the ships of the navy, the situation and state of repair of each, &c. &c. To these were added remarks of their destination, a description of the dock-yards at Portsmouth, Plymouth, and all the public, and even several of the private docks. They also contained a plan, by which it was proposed to furnish a person in France  with intelligence on very moderate terms, when the importance of the object was considered;——the particulars were an express to be employed, which would travel 450 miles, to be paid at 13d per mile; a monthly salary of five or six guineas to a person at each of the dock yards, and also a salary of two or three guineas to a man in the lesser yars. Several other papers were produced, all going to the purpose of giving information to the enemy. Mr. Vowel, a stationer in London, knew the prisoner, he had been a clerk to him five years; he proved most of the papers produced to be the hand-writing of the prisoner. Captain William James proved, that Tyrie had bargained with him to go to Boulogne, to purchase wines. He had agreed to pay him fifteen guineas for the voyage, and also to give him a letter of credit for 50*l.* more to trade with. He also delivered to him a packet for the commandant of the port, and a passport for Boulogne or  Cherburg. The witness felt that carrying letters to France in time of war was improper; he had, in consequence thereof, communicated his thoughts to an acquaintance, one Captain Harrison. The Captain opened the packet; it contained five letters, which gave an account of the departure of the East India fleet, the same of the West India fleet, the strength and names of their respective convoys, &c. One of those letters was signed with the prisoner's own name, and another with the name of Croix. These papers were all proved to be in the hand-writing of the prisoner. On behalf of the prisoner one witness was produced, who said nothing as to the matter in question. Mr. Watson, counsel for the prisoner, made a very ingenious speech in his behalf, which was ably replied to by Mr. Morris. The judge then summed up the evidence in a most able charge to the jury, who after a few minutes deliberation, brought in their verdict guilty.——— Mr. Justice Heath, with that humanity which so peculiarly masks his character in all situations, made a most excellent speech to the prisoner, advising him to prepare for that fate injured laws of his country exacted him to suffer. He adjured him therefore to prepare for appearing before that tribunal where alone he might expect mercy; for such acts as these made it impossible for him to hope for any of his sovereign; who, however merciful he might be, could not, in tenderness to his subjects, permit such offenders to escape. He then proceeded to pass the following sentence: "The sentence that the law awards against you, and that this court adjudges is, that you, David Tyrie, be taken back to that place whence you came; that you be taken from thence on a hurdle to the place of execution, there to be hung by the neck but not till you are dead, but that you be cut down while yet alive, your bowels be taken out, and burnt before your face: that your head be severed from your body, and your body be divided into four quarters, your head and body to be disposed of as the King shall think fit, and the Lord have mercy upon your soul." The prisoner heard this sentence without any apparent emotion, and during the whole trial was employed in writing notes to his counsel. The prisoner is by birth a Scotchman, he went to London as a servant, he lived with Mr. Vowel as a clerk about five years, and gained the esteem and confidence of his master. He afterwards went into business in the mercantile line, with Messrs. Parker and Crowe, with whom some time since he became a bankrupt. It is, however, supposed, that if his integrity had been equal to his abilities, he might have had very good success in his business. He some few years ago offered himself a candidate for the borough of Hindon, and having failed in his views as a merchant, procured himself a place in the navy-office at Portsmouth, which led him to this fatal enterprize. The trial did not conclude until eight o’clock on Saturday evening.
 
 David Tyrie, who was convicted of high-treason on Saturday last at Winchester for holding a correspondence with the French, was the projector of that late gold coinage, for which it was said, he was offered a place of about 200*l.* a year, which he refused, considering it inadequate to his services.—— After he was taken from to the bar the gaoler found a razor concealed under the knee-band of his breeches.— After conviction when he was asked by the Clerk of Arraigns why sentence of death should not be pronounced upon him, he replied "he did not suppose any thing he could say would avail him, but he had a hope beyond the grave, and he despised the malice of his enemies".
+```
 
 ---
 
@@ -912,10 +939,10 @@ The following Letter, in Tyrie's hand-writing was found upon the person to whom 
 
 (Copy.)
 
-"My dearest Sir; The things are ready, not in. To-morrow evening I hope to make my push.—If I fail in this, what you propose is certainly a safe and practicable mode; but, good God! you amaze me so much, that I scarcely know what to think. I really doubted if there was such a man as you living.— Our acquaintance is but short and casual. How then, that am but a stranger to you, can I expect you will run such a hazard for me? There are people in London who owe their fortunes to me, but have not once looked near me. God send I was out! I think I would convince you I was worth serving. Except yourself, I believe few men have more resolution. I have but few words; but, once in action, neck or nothing! Depend on it, if nothing unforeseen happens, dead or alive, I'll be delivered to-morrow night: it may be a night later before the tools come in, but not more. If I am detected, and you think you can accomplish a rescue in the journey to Winchester, the attempt will be safe, easy, and certain: but the most difficult thing will be to find out when I am to be removed. I am in great confidence with the turnkeys; they say there is no talk of going; they are certain it won't be this week, and promise to give me notice the day before.— This cannot be depended on; but I will tell you how I think it might be reduced to a certainty.—When I am removed, it will be either in the Winchester stage, or a post-chaise; and, in either case, I will go out of the gaol about five o'clock in the morning, or rather half an hour sooner. Suppose then a person was to wait about the Old Bailey and Newgate-street every morning, from about half after three till about six o'clock: let him first come into the gaol, and see my face and person. If I am removed suddenly, he can then come and give you notice; first following to see whether I go by the stage, or in a chaise: if in a chaise, I'll go from the door; if by the stage, I'll go to the inn.—You can enquire where the Winchester stage inns. Bill Lee, and another creature like himself, are all that goes with me, at least so I am told; and them it is only who go with the prisoners removed at assize time. Knowing my time and mode of conveyance, all that's wanted would be three or four men disguised with smock or waggoner's frocks, and well mounted, as if smugglers; they might have crapes for the face. Nothing should be attempted this side Hounslow; but immediately on the other side of it, or not again till you come to Bagshot-Heath,
-just about the 23 mile stone. A horse or a chaise ought to be ready; I would prefer the former; and a frock also to disguise me after I got away.—There are a great many ways which we could double from both of these places.—And, however ridiculous you may think it, plenty of snuff should be provided, to throw in their eyes:—you should also get a punch and an iron, for knocking off the bazils from my legs. We will reach Hounslow about seven o'clock in the morning, and Bagshot-heath about eleven; each about an hour and a half sooner, if in a chaise. If all the parties were ready, a watch would do just as well at Hyde-Park-corner turnpike as at Newgate; only whoever does it must first know my person. Now, suppose I was to get notice about six, seven, or eight o'clock on the evening before I am removed; how could I contrive to let you know? I wish you and Jack would settle some place about this; I
-could get a person perhaps to go a mile or two, but not further; and it would be imprudent to trust every one with where you live. Turn all this in your mind, my dear friend, as the dernier, in case my first should be frustrated.
+"My dearest Sir; The things are ready, not in. To-morrow evening I hope to make my push.—If I fail in this, what you propose is certainly a safe and practicable mode; but, good God! you amaze me so much, that I scarcely know what to think. I really doubted if there was such a man as you living.— Our acquaintance is but short and casual. How then, that am but a stranger to you, can I expect you will run such a hazard for me? There are people in London who owe their fortunes to me, but have not once looked near me. God send I was out! I think I would convince you I was worth serving. Except yourself, I believe few men have more resolution. I have but few words; but, once in action, neck or nothing! Depend on it, if nothing unforeseen happens, dead or alive, I'll be delivered to-morrow night: it may be a night later before the tools come in, but not more. If I am detected, and you think you can accomplish a rescue in the journey to Winchester, the attempt will be safe, easy, and certain: but the most difficult thing will be to find out when I am to be removed. I am in great confidence with the turnkeys; they say there is no talk of going; they are certain it won't be this week, and promise to give me notice the day before.— This cannot be depended on; but I will tell you how I think it might be reduced to a certainty.—When I am removed, it will be either in the Winchester stage, or a post-chaise; and, in either case, I will go out of the gaol about five o'clock in the morning, or rather half an hour sooner. Suppose then a person was to wait about the Old Bailey and Newgate-street every morning, from about half after three till about six o'clock: let him first come into the gaol, and see my face and person. If I am removed suddenly, he can then come and give you notice; first following to see whether I go by the stage, or in a chaise: if in a chaise, I'll go from the door; if by the stage, I'll go to the inn.—You can enquire where the Winchester stage inns. Bill Lee, and another creature like himself, are all that goes with me, at least so I am told; and them it is only who go with the prisoners removed at assize time. Knowing my time and mode of conveyance, all that's wanted would be three or four men disguised with smock or waggoner's frocks, and well mounted, as if smugglers; they might have crapes for the face. Nothing should be attempted this side Hounslow; but immediately on the other side of it, or not again till you come to Bagshot-Heath, just about the 23 mile stone. A horse or a chaise ought to be ready; I would prefer the former; and a frock also to disguise me after I got away.—There are a great many ways which we could double from both of these places.—And, however ridiculous you may think it, plenty of snuff should be provided, to throw in their eyes:—you should also get a punch and an iron, for knocking off the bazils from my legs. We will reach Hounslow about seven o'clock in the morning, and Bagshot-heath about eleven; each about an hour and a half sooner, if in a chaise. If all the parties were ready, a watch would do just as well at Hyde-Park-corner turnpike as at Newgate; only whoever does it must first know my person. Now, suppose I was to get notice about six, seven, or eight o'clock on the evening before I am removed; how could I contrive to let you know? I wish you and Jack would settle some place about this; I could get a person perhaps to go a mile or two, but not further; and it would be imprudent to trust every one with where you live. Turn all this in your mind, my dear friend, as the dernier, in case my first should be frustrated.
+
 If you can get men who know the road, they may know a better place nearer London. I doubt you will find it difficult to get the men.—You must tell them it is to rescue a person about smuggling. Adieu! God bless you!
+
 I'll expect to hear from you to-morrow.—Your ever faithful and obliged friend."
 
 "Wednesday morning.  
@@ -937,7 +964,7 @@ After Tyrie was tried, and under sentence of death, no communication ciuld be ha
 
 This morning at four o'clock, David Tyrie was conveyed from hence in coach and six, under a strong guard, to Portsmouth, where he was executed pursuant to his sentence. His behaviour to the last, even when surrounded by the horrible apparatus of death, used in cases such as this, was undaunted and bold to an extreme.
 
-
+## The Execution of David Tyrie
 
 ```{admonition} Sentences of hanging, drawing and quartering thereafter
 :class: dropdown seealso
@@ -1231,17 +1258,10 @@ Hampshire Chronicle - Monday 28 October 1782
 Thursday last, five convicts were sent to the port of London, to be shipped for Africa, viz. John Fulker, John Fox, William Deadman, Wm. Marshall, and Simon Waterman.
 
 
-https://archive.org/details/navalmilitaryhis_07mant/page/286/mode/2up?q=%22david+tyrie%22
-Naval and military history of the wars of England: including the wars of Scotland and Ireland ..
-by Mante, Thomas
+TO DO
 
-Publication date 1795
-
-pp286-7
-
-During the whole course of the war, only one other person was detected in any act of treason; and he appears to have been actuated merely by mercenary motives, though La Motte and John the Painter probably acted from principle. This was one David Tyrie, a native of Edinburgh. Having been bred in the mercantile line, and engaged in a number of speculations with a view to gain money, in all of which he discovered considerable abilities, he at last engaged in the dangerous one of conveying intelligence to the French of the ships of war fitted out in Britain, the time of their sailing, &c. For this he was apprehended in February 1782. The discovery was made by means of one Mrs. Askew, who passed for his wife, having delivered a bundle of papers in a hurry to a school mistress, and desiring her not to show them to any body. Instead of this, however, she not only inspected them herself, but showed them to another, by whom they were sent to the Secretary at war. By this, and another packet discovered by William James, who had been employed to carry it to France, Tyrie was convicted and executed in the month of August 1782. He behaved with great resolution, and at last showed rather an indecent levity and unconcern, by laughing at the place of execution. The sentence not only took place in the dreadful manner appointed by law, but the crowd behaved with the most shameful and unexampled barbarity. "Such (says the accounts of his execution) being the *singular conduct* of many who were near the body, that happy was he who could procure a finger, or some vestige of the criminal!" — This unhappy man, while in prison, had, with his companions, contrived a method of effecting their escape, by working through a brick-wall three feet thick, and covering the hole with a plank coloured like the bricks; but the scheme was discovered by the imprudence of Tyrie himself asking the keeper how thick the wall was.
-
-
+```{admonition} Tyrie's lament, 1790
+:class: dropdown
 https://archive.org/details/bim_eighteenth-century_a-new-universal-and-im_raymond-george-frederic_1790/page/18/mode/2up?q=%22david+tyrie%22
 
 A new, universal, and impartial history of England, from the earliest authentic records, and most genuine historical evidence, to the end of the present year. ... Embellished with upwards of 120 beautiful copper-plate engravings, ... By George Frederick Raymond, Esq. Assisted by Alexander Gordon and Hugh Owen, Esqrs. and others, ...  1790
@@ -1252,11 +1272,28 @@ Publication date 1790
 Book XVI. p.596
 
 On the tenth of August one David Tyrie was indicted at the assizes held at Winchester for traiterously corresponding with his majesty's enemies. After taking the depositions of the several evidences, and reading a variety of papers in court, tending to criminate the culprit; when the clerk of arraigns put the usual question, he made this very extraordinary reply, "It is in vain for me to say any thing. Poverty has been the cause of my conviction, because I had not the means to bring my witnesses here. However, I have a hope beyond the grave, and despise every thing that has been done to me." The judge then pronounced sentence of death, and he was accordingly executed, as usual in cases of high treason.
+```
+
+TO DO
+
+```{admonition} Actuated by mercenary motives, 1795
+:class: dropdown
+https://archive.org/details/navalmilitaryhis_07mant/page/286/mode/2up?q=%22david+tyrie%22
+Naval and military history of the wars of England: including the wars of Scotland and Ireland ..
+by Mante, Thomas
+
+Publication date 1795
+
+pp286-7
+
+During the whole course of the war, only one other person was detected in any act of treason; and he appears to have been actuated merely by mercenary motives, though La Motte and John the Painter probably acted from principle. This was one David Tyrie, a native of Edinburgh. Having been bred in the mercantile line, and engaged in a number of speculations with a view to gain money, in all of which he discovered considerable abilities, he at last engaged in the dangerous one of conveying intelligence to the French of the ships of war fitted out in Britain, the time of their sailing, &c. For this he was apprehended in February 1782. The discovery was made by means of one Mrs. Askew, who passed for his wife, having delivered a bundle of papers in a hurry to a school mistress, and desiring her not to show them to any body. Instead of this, however, she not only inspected them herself, but showed them to another, by whom they were sent to the Secretary at war. By this, and another packet discovered by William James, who had been employed to carry it to France, Tyrie was convicted and executed in the month of August 1782. He behaved with great resolution, and at last showed rather an indecent levity and unconcern, by laughing at the place of execution. The sentence not only took place in the dreadful manner appointed by law, but the crowd behaved with the most shameful and unexampled barbarity. "Such (says the accounts of his execution) being the *singular conduct* of many who were near the body, that happy was he who could procure a finger, or some vestige of the criminal!" — This unhappy man, while in prison, had, with his companions, contrived a method of effecting their escape, by working through a brick-wall three feet thick, and covering the hole with a plank coloured like the bricks; but the scheme was discovered by the imprudence of Tyrie himself asking the keeper how thick the wall was.
+```
 
 
+TO DO
 
---
-
+```{admonition} Fulker returned from transportation before his time, April 1787
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000950/17870418/018/0003
 Cumberland Pacquet, and Ware's Whitehaven Advertiser - Wednesday 18 April 1787
 
@@ -1265,10 +1302,12 @@ THE PUBLIC HUE-AND-CRY
 From the Police.— Public-Office, Bow-street, April, 1787.
 
 RETURNED from transportation before the end of his term, JOHN FULKER, by trade  a chair maker and turner, a native of Kingsclere, in Hants; thirty two years old, five feet eight or nine inches high, light hair, pale complexion, grey eyes, has a small scar on his lip, (supposed to be his under lip) occasioned by a cut; stout made upwards, but not quite well made in his legs, walking somewhat weak in his knees.—Five Guineas Reward.
+```
 
+TO DO
 
-
---
+```{admonition} Tyrie's head on display, June 1783
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17830626/009/0003
 Stamford Mercury - Thursday 26 June 1783
 
@@ -1276,7 +1315,7 @@ Also appeared in Derby Mercury -  https://britishnewspaperarchive.co.uk/viewer/b
 
 To the disgrace of the police of this country, the head of the unfortunate Tyrie, who was executed at Portsmouth last summer, as a spy, and whose body was dissected by the barbarous and inhuman multitude that surrounded him, is made a shew of to this very hour, by the keeper of Gosport Bridewell. The number of unthinking people that have paid one shilling for seeing it, is truly astonishing; but the dreadful accident that has happened in consequence of its being made a public will, it is hoped, be the means of its being immediately ordered to be buried, to prevent such dismal catasrophes in future.—A sailor, lately arrived from the West-Indies, hearing such a sight was to be seen, went to satisfy his curiosity, taking his girl with him without letting ber know where he was going, On their arrival at Bridewell, he called for some wine, at the same time whispering the gaoler, to bing the head, which being suddenly and unexpectedly placed upon the table before the girl, had such an effect upon the poor young creature, that she fainted away. With great difficulty she was conveyed home, and put to bed, from whence she never rose. The sailor, knowing himself to be the author of this melancholy event, has more than once endeavoured to make away with himself. It is to be hoped that the Judges at the ensuing affizes will make it their business to enquire into this shameful traffic.
 
----
+```
 
 
 The last man to suffer the completed sentence of being hung and quartered, on Southsea Common
