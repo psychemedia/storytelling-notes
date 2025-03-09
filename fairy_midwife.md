@@ -3,6 +3,41 @@
 
 TO DO
 
+--
+
+
+https://www.duchas.ie/en/cbes/4649692/4647750/4659237
+
+The Fairy Ointment
+
+One night a 'midwife' was called by a man to attend his wife. He took her behind him on a beautiful horse to a beautiful house. She remained there for a week. A few days after the child was born he gave her a special ointment to rub to one of the child's eyes, telling her be sure not to get it on her hands or any other part of her. But being used to rubbing on ointment with her hand she rubbed on the ointment with her hand, and rubbed her hand to her eye.
+
+When she looked around with this eye everything was changed. Instead of a beautiful house she saw a wretched hut, and instead of a beautiful woman and child in the bed she saw a wrinkled old hag and a horrible looking child. When the week was up the man left her back. With her own eye she saw a beautiful horse and with the one on which she rubbed the ointment she saw only a cabbage stump.
+
+Some time after as she was having her tea in a hotel she saw the same man come in. He walked over to another man and while talking to him he stuck something up his nose. The man started to sneeze and go off in a swoon. When she heard him sneeze she said "God bless us," and he came to.
+
+The man seeing her and knowing what she did was angry. He came over to her and struck her in the eye she had rubbed the ointment to, and blinded her and said "You will never be able to give away any more secrets on us."
+
+
+https://www.duchas.ie/en/cbes/4921757/4903942/5167059
+
+A Fairy Story
+
+One night last Winter on old man came to my house and told us fairy tales of the local district. We listened enraptured to his tales but I remember this one specially as I knew the place names he mentioned. He began thus:
+
+About a century and a half ago there lived in a house near the bridge spanning the Araglen at Kiskeam a midwife name was Nellie O Connor. One night she was rudely awakened from her repose be a loud rapping on the door. She inquired of the stranger who presented himself and asked, what she could do for him. The stranger was riding on a snow white horse. He told her to come with him to attend to a sick person who was gravely ill. She at once readily assented and got up on the horse behind the stranger
+They journeyed about two miles along the river bank till they came to a mansion which the nurse did not remember having seen before.
+
+She attended the patient and while she was anointing him with ointment her eye got itchy and she rubbed some of the ointment to it. When she looked again, with one eye she could see the mansion and with the eye to which the ointment was rubbed she could see a circular old ditch which she recognised as Ring's Fort down in Doon. The people who were flitting around her were only fairies.
+She feigned complete ignorance of the situation and when she was being driven home by the stranger she happened to look at the horse. To her surprise and indignation, instead of being riding on a horse, she found she was riding on a plough.
+
+About a week after she went to a fair in Newmarket. She saw a number of fairies sticking straws into peoples' noses to make them sneeze. Any person who sneezed and did not say "God bless us" would be in the power of the fairies. She saw one fairy going up to a pretty Cailin and made her sneeze. She did not invoke the blessing but the nurse invoked it for her. The fairy turned on her very angrily and asked her which eye she saw him with. She pointed it out to him and he stuck the straw into the eye and blinded her for life. Thus the adventure of Nellie O Connor and the fairies.
+
+
+
+---
+
+
 ---
 https://archive.org/details/folklore01folkuoft/page/206/mode/2up?q=godiva
 
