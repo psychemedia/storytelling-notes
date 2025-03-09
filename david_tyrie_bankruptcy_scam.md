@@ -154,6 +154,8 @@ To begin with, and to give a further sense of the dubious character of the busin
 
 On one occasion, in a plan devised by Crowe, *"they had sent a Ship, called the Mary, commanded by a Captain Snelling to Leghorn `[Livorno, on the North-West coast of Italy, in Tuscany, not far from Pisa]`, from whence she returned to England with the Manufactures of that Country, to the Value of about 1,400l."*
 
+Crowe had also written to a certain Mr. Vowell, as well as referencing him another letter, who we might recall to the man Tyrie worked for when he first moved to London.
+
 As was customary, and to ensure they didn't lose everything if the ship was lost, they insured the goods. For 8000*l.*
 
 It was intended as a simple insurance scam. The Captain was encouraged to land the goods in Cornwall, and then put back out to sea and sink the ship. In the event, "through Fear", the Captain apparently declined to do so.

@@ -17,6 +17,17 @@ bargain with devil to play violin
 Devil's tritone diabolus in musica
 
 
+---
+
+https://www.duchas.ie/en/cbes/transcripts?SearchText=devil+fiddler&SearchLanguage=ga
+
+eg riddles
+https://www.duchas.ie/en/cbes/4922223/4862072/5019166?
+A fiddler in Dublin had a brother a fiddler in Cork; but the fiddler in Cork had no brother a fiddler in Dublin. The fiddler in Dublin was a girl.
+
+
+?? https://www.duchas.ie/en/cbes/4811604/4800974/4938455 The Fairy Fiddler
+
 ----
 http://www.diabolus.org/guide/viols.htm
 

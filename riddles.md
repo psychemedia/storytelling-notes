@@ -8,6 +8,65 @@ A collection of irish riddles https://babel.hathitrust.org/cgi/pt?id=mdp.3901503
 https://archive.org/details/bim_early-english-books-1641-1700_the-booke-of-merry-riddl_1660
 
 
+
+---
+
+Lots of riddles in the Duchas schools collection
+
+eg
+
+https://www.duchas.ie/en/cbes/4602674/4594371/4615686
+
+Riddles
+
+Why is the letter K like a pig's tail?  
+Because it is the end of pork.
+
+What date of the year are soldier most tired?  
+The 1 of April because they are after a long March.
+
+__Two sticks on the ocean all covered with sheets walks on the water without any feet?__  
+*A Boat.*
+
+If one reef of turf comes to a half crown what will two come to?  
+Ashes.
+
+__Why is a pig in a kitchen like a house on fire?__  
+*The sooner if goes out the better.*
+
+Two long legs, and no thigh a small head no legs?  
+a Tongs
+
+Around the house and around the house and it lies at the back door?  
+a Brush.
+
+As round as an apple as deep as a cup all the kings horses could never draw it?  
+A Well.
+
+__As high as a wall, as red as blood, as white as milk, and as sweet as honey.__  
+*An apple*
+
+As flat as a pan one side a woman and the other a man?  
+A penny.
+
+Wears its heart in its head and stands on one leg?  
+a head of cabbage.
+
+miss nellie with her red head and white petticoat, the longer she stands the quicker she goes?   
+A candle.
+
+What goes to Dublin and never stirs?  
+The road
+
+How is a bar of toffee like a race horse?  
+The more you lick it the quicker it goes.
+
+miss Nora had a long tail of which she let fly and everytime she went out a gap a piece of her tail got caught in a yaps.
+A needle.
+
+The man that made it never wore it, the man that wore it never saw it?  
+A coffin.
+
 ---
 
 https://archive.org/details/jstor-456635/page/n17/mode/2up?q=riddles

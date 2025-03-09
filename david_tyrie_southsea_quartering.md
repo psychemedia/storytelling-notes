@@ -34,7 +34,6 @@ TO DO
 
 ```
 
-
 ## Setting the Scene
 
 It's 1792. England is at war with France, and America is fighting for independence from the British Crown. Although it's still a year or two before what is often referred to as the *Regency period* in England, descriptions of the Queen's official birthday celebrations that year hint at what is to come.
@@ -121,10 +120,11 @@ Yesterday Lord North, the Secretaries of State, and Lord Waldegrave, Master of t
 
 ## Early Life
 
-TO DO - see bankruptcy tale
+Originally hailing from Scotland, David Tyrie served as an apprentice in Leith before heading down to London as a servant. He lived with Mr. Vowel, as a clerk, for about five years and then went into business with Messrs. Parker and Crowe, as joint Traders, and Partners in a Distillery in Compton street, Clerkenwell, as well as other trading Business. They also appear to have considered insurance fraud, and after being declared bankrupt, engaged in debatable practices associated with a mortage against which some of Tyrie's debts had been secured.
 
-From later news reports, it appears that in the meantime he became "a lottery-office keeper... at one time set up for a member of parliament, by standing candidate for the borough of Hindon. He was also frequently employed by the borough-hunters, and other electioneering schemes, in which generally contrived to cheat both parties" ([The Scots Magazine -  August 1782](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000545/17820801/002/0001)) and then "procured himself a place in the navy-office at Portsmouth" ([Caledonian Mercury - Saturday 17 August 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000045/17820817/009/0002)).
+*See [A Curious Business](./david_tyrie_bankruptcy_scam.md) for more details.*
 
+From various news reports published throughout his life, it appears that following his bankruptcy he became "a lottery-office keeper... at one time set up for a member of parliament, by standing candidate for the borough of Hindon. He was also frequently employed by the borough-hunters, and other electioneering schemes, in which generally contrived to cheat both parties" ([The Scots Magazine -  August 1782](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000545/17820801/002/0001)) and then "procured himself a place in the navy-office at Portsmouth" ([Caledonian Mercury - Saturday 17 August 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000045/17820817/009/0002)).
 
 ## Reports of Tyrie's Arrest
 
@@ -180,9 +180,9 @@ Your ever faithful and obliged friend."
 
 ## Called to Trial
 
-But no escape was effected, and Tyrie was transported from Newegate to Winchester to take his trial.
+But no escape appears to have even been attempted, and Tyrie was transported from Newegate to Winchester to take his trial.
 
-```{admoniotion} Eemoved by habeas corpus from New gate, July 1782
+```{admonition} Removed by habeas corpus from New gate, July 1782
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820708/004/0003
 Hampshire Chronicle - Monday 08 July 1782
@@ -222,7 +222,9 @@ Hampshire Chronicle - Monday 10 June 1782
 Since our last were committed to the county gaol, the Rev. Mr. Obourn, John Fulker and John Grant, charged with stealing a large quantity of lead from off the summer-house belonging Thomas Kennett, Esq. at Kingsclear.
 ```
 
-TO DO
+At the assizes, David Tyrie's case was held over, to instead be tried at a Special Commission the following month. But for several others, their cases were heard, and sentences passed.
+
+In particular, we might note the name of William Dedman (Deadman), who plays a further bit part in this tale a little further on.
 
 ```{admonition} Capital convictions
 :class: dropdown
@@ -231,7 +233,7 @@ Hampshire Chronicle - Monday 15 July 1782
 
 Winchester, Saturday, July 13.
 
-At our Assizes, which began on Tuesday last, the following prisoners were capitally convicted, and received sentence of death, viz. Wm. Dedman and Wm. Marshall for sheep stealing; Wm. Waterman for breaking open the shop of Mr. Hooper, silversmith in this city and stealing silver plate;and John Fox for breaking open the dwelling-house of Mr. Adams at Portsea. They are since all reprieved. David Tyrie, for carrying on a treasonable correspondence with the enemy, is to be tried under a special commission, at the Castle of Winchester, on the 10th of August next, for which purpose one of the Judges is to return here, after finishing the other business of the circuit. John Fulker, for stealing lead from the summer-house of Freemantle Park, near Kingsclear, is to be transported to Africa for seven years, and James Cant. his accomplice, to suffer three months imprisonment. Jacob Joel, for vending counterfeit half-pence at Portsmouth, is fined 20 *l.* and to suffer six months imprisonment. Richard Elliott and Martha Jordan, for stealing money, four gold rings, and sundry wearing apparel, from Mrs. Dudman and Mr. Collins of Andover, are be privately whipt, and to suffer twelve months imprisonment. Robert Geary and Mary Weston, for thefts, are to imprisoned six months each. Peggy Murray, Mary Crabb, Michael Woodward, Matthew Townsend, Mary Webb, Pamela Webb, and Robert Parless, for sundry felonies, were acquitted. Thomas Tandy, convicted at a former Assizes for stealing a considerabie sum of money from his master, Mr. Morgan of Gosport, is to remain in gaol according to former orders.
+At our Assizes, which began on Tuesday last, the following prisoners were capitally convicted, and received sentence of death, viz. Wm. Dedman and Wm. Marshall for sheep stealing; Wm. Waterman for breaking open the shop of Mr. Hooper, silversmith in this city and stealing silver plate; and John Fox for breaking open the dwelling-house of Mr. Adams at Portsea. They are since all reprieved. David Tyrie, for carrying on a treasonable correspondence with the enemy, is to be tried under a special commission, at the Castle of Winchester, on the 10th of August next, for which purpose one of the Judges is to return here, after finishing the other business of the circuit. John Fulker, for stealing lead from the summer-house of Freemantle Park, near Kingsclear, is to be transported to Africa for seven years, and James Cant. his accomplice, to suffer three months imprisonment. Jacob Joel, for vending counterfeit half-pence at Portsmouth, is fined 20 *l.* and to suffer six months imprisonment. Richard Elliott and Martha Jordan, for stealing money, four gold rings, and sundry wearing apparel, from Mrs. Dudman and Mr. Collins of Andover, are be privately whipt, and to suffer twelve months imprisonment. Robert Geary and Mary Weston, for thefts, are to imprisoned six months each. Peggy Murray, Mary Crabb, Michael Woodward, Matthew Townsend, Mary Webb, Pamela Webb, and Robert Parless, for sundry felonies, were acquitted. Thomas Tandy, convicted at a former Assizes for stealing a considerabie sum of money from his master, Mr. Morgan of Gosport, is to remain in gaol according to former orders.
 ```
 
 ## An Aside — Mr John Graham
@@ -254,9 +256,9 @@ Graham, on Friday last `[July 5th?]`, went to see Tyrie, who under confinement i
 It is really to be lamented, that even the most cautious and circumspect people are so liable to be imposed upon by this kind of fraud; we therefore recommend to every body to be very careful of taking Bank Notes from persons who are entire strangers, however plausible and specious may be the allurements thrown in their way.
 ```
 
+John Graham, we might remember, had previously communicated with Tyrie when Tyrie was in Newgate prison in London regarding a possible escape attempt either from Newgate gaol itself, or when en route from there to Winchester.
 
-
-TO DO
+An earlier press mention for him can be found back in July 1780, when he appears, for whatver reason, to have already been getting in the good books of prisoners at Newgate.
 
 ```{admonition} A seasonable benefaction, July 1780
 :class: dropdown
@@ -266,7 +268,7 @@ Newcastle Courant - Saturday 15 July 1780
 The prisoners in Newgate return sincere thanks to Mr John Graham, for his seasonable benefaction of one guinea.
 ```
 
-TO DO
+The following year, he was on trial himself for a minor forgery offence.
 
 ```{admonition} Tried for a misdemeanour, October 1781
 :class: dropdown
@@ -280,8 +282,16 @@ LONDON, (Monday) Oct. 22.
 At the Sessions this Day at the Old Bailey, John Graham, was tried for a Misdemeanour committed on the 4th of October last, by procuring a blank Note of the Bank of England, to be engraved, with the Words TEN in Mezzotinto, which is made punishable by the 13th of his present Majesty, with six Months imprisonment; he was found guilty.
 ```
 
+*The trial of John Graham, as well as his wife, provides yet another tale, but that is one that I will have to tell elsewhere...*
 
-TO DO
+```{admonition} John Graham, trial and memoir
+
+See also [John Graham, trial and memoir](./john_graham_memoir.md).
+```
+
+## The Special Commission Comes On
+
+On Saturdaym, August 10th, the Special Commission met at Winchester Town Hall to try David Tyrie on a charge of High Treason.
 
 ```{admonition} A special commission at the Town-hall, August 1782
 :class: dropdown
@@ -296,8 +306,10 @@ On Saturday came on by a special commission at the Town-hall in Winchester, the 
 David Tyrie, who was convicted of high-treason on Saturday last at Winchester for holding a correspondence with the French, was the projector of that late gold coinage, for which it was said, he was offered a place of about 200*l.* a year, which he refused, considering it inadequate to his services.—— After he was taken from to the bar the gaoler found a razor concealed under the knee-band of his breeches.— After conviction when he was asked by the Clerk of Arraigns why sentence of death should not be pronounced upon him, he replied "he did not suppose any thing he could say would avail him, but he had a hope beyond the grave, and he despised the malice of his enemies".
 ```
 
----
+It didnlt take long for a transcript of the trial to be published.
 
+```{admonition} This day is published, August 1782
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820819/005/0003
 Hampshire Chronicle - Monday 19 August 1782
 
@@ -310,23 +322,20 @@ Convicted of High Treason, at the Castle of Winchester, held by adjournment on S
 Taken in Short-Hand by JOSEPH GURNEY.
 
 Winchester: Printed and sold by J. WILKES and may be had of the booksellers at Gosport and Portsmouth, and of Skelton and Mills, Southampton.
+```
 
+Gurney's shorthand record of the trial was also reprinted several years later in volume XXI of *Cobbett's complete collection of state trials and proceedings for high treason and other crimes and misdemeanors*.
 
---
-
-Gurney's shorthand record of the trial was also reprinted several years later in volume XXI of *Cobbett's complete collection of state trials and proceedings for high treason and other crimes and misdemeanors*
-
-
---
-
-https://archive.org/details/acompletecollec03cobbgoog/page/n417/mode/2up (incomplete; pages 835-8 missing)
-
+```{admonition} Cobbett's complete collection of state trials, 1809
+:class: dropdown
 https://books.google.co.uk/books?id=waMrAQAAMAAJ&pg=PA7#v=onepage&q&f=false
 
 Cobbett's complete collection of state trials and proceedings for high treason and other crimes and misdemeanors from the earliest period to the present time
 by Cobbett, William, 1763-1835; Howell, Thomas Bayly, 1768-1815; Howell, Thomas Jones, 1793-1858
 
 Publication date 1809
+
+*The [Internet Archive version](https://archive.org/details/acompletecollec03cobbgoog/page/n417/mode/2up) is incompletem and is missing pages 835-8 missing.*
 
 Vol. XXI Reign of George the Third
 
@@ -511,7 +520,7 @@ No. XI.— (Proved to be the prisoner's handwriting). It contained a rough draug
 
 No. XIV. and XV.— (The prisoner's handwriting). They contained a list of the navy of Great Britain, in numerical order, to No. 221 ships, from the Britannia of 100 guns, down to the Seaford, with the number of guns they carry.
 
-No. X VIII.--A list of ships, not in the prisoner's hand-writing; but a remark against one of them in the prisoner's hand-writing, in which he says, "Going to Mahon or Africa, to be met by the convoy with troops."
+No. X VIII.— A list of ships, not in the prisoner's hand-writing; but a remark against one of them in the prisoner's hand-writing, in which he says, "Going to Mahon or Africa, to be met by the convoy with troops."
 
 No. XIX.— (The prisoner's hand-writing).— It contained a list of the particulars of a great number of ships. At the bottom, "4th Jan. to Mr. Bonnier. 8th Jan. to Mr. Brodelet."
 
@@ -947,121 +956,12 @@ I'll expect to hear from you to-morrow.—Your ever faithful and obliged friend.
 
 "Wednesday morning.  
 Mr. John Graham."
-
-
----
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820826/004/0003
-Hampshire Chronicle - Monday 26 August 1782
-
-WINCHESTER, *Saturday*, August 24.
-
-In consequence of the attempt lately made by the felons in our county gaol to break out of prison, and to release Tyrie, as mentioned particularly in our last week's paper, a meeting was held the White-Hart-Inn in this city on Monday last, by several of the county Justices, in order to the aiders and abettors of the above business. John Fulker, who was condemned at our last assizes, and since reprieved, related that about six weeks ago Tyrie applied to him and Fox, another malefactor, to desire they would assist him in procuring tools to break out of prison, and that for their secresy and diligence in the business he would take them to France, and settle one hundred pounds per annum on them. Tyrie had previously engaged with Captain Maynard, a prisoner for debt, who some ago kept the Vine Inn, at Cowes, to keep a constant look out at night, and to inform in case any watch was kept upon them, or any circumstance happening to impede their design for which service David Tyrie had promised pay Maynard's debts, and extricate him from all his troubles. Deadman, who was confined at the last assizes for horse stealing, but reprieved, was also let into the secret, and was prevaled upon to send for his brother to purchase tools for them, for which he was to be greatly rewarded. On his arrival, he received half a guinea from Tyrie, and was desired to go to some neighbouring town to buy  the tools, for fear of a discovery; but he went and purchased them in the town and put them up the sink-hole of the prison, from whence they were taken by Fulker and carried into the Dungeon.—Maynard furnished them with candle, and prevailed upon the Baker, J. Godwin, to procure two center bitts, for the of boring thro' the plank, which Maynard gave to Tyrie, with a wig, and a pair of trowsers to go off in.. It was also intended to procure a quantity of oil and spitits, in order to set fire to the prison at the time they were to leave it, which horrid business, if put in execution, must have been fatal to about twenty debtors, who were connaed in a room over the Dungeon, and who must have been burnt alive, had not the plot thus been fortunately discovered.
-
-Deadman's brother was committed to take his trial at the next assizes; a detainer was also lodged against Maynard for the same purpose, and Godwin was bound over to appear at the same time — aiding and abetting convicts to make their escape, is punishable by law with transportation for seven years.
-
-After Tyrie was tried, and under sentence of death, no communication ciuld be had with him by the other conspirators, as he was locked in the condemned cell, and no one suffered be with him. Maynard, however, in order to have further consultations with him, pretended it was in his power to get some very important discoveries from Tyrie, provided Mr. White, keeper of the prison, would suffer him to be alone with him: and on Mr. White's refusing to give him leave, Maynard wrote to the Secretary of State's Office, to the same effect, and absolutely procured an order to have as much private conversation with Tyrie as he pleased.— The above discovery being made in the mean while, when the order came down it was not complied with, as the intention was obviously to forward their escape, instead of making discoveries of such importance to the nation.
-
-This morning at four o'clock, David Tyrie was conveyed from hence in coach and six, under a strong guard, to Portsmouth, where he was executed pursuant to his sentence. His behaviour to the last, even when surrounded by the horrible apparatus of death, used in cases such as this, was undaunted and bold to an extreme.
-
-## The Execution of David Tyrie
-
-```{admonition} Sentences of hanging, drawing and quartering thereafter
-:class: dropdown seealso
-
-Whilst the Despard plot conspirators in 1803, the Pentridge rebels in 1817, and the Cato Street conspirators in 1820, were also sentenced to hanging, beheading and quartering, their sentences differed in that they were to be hung until dead; the quartering part of the sentence was also commuted in each case by the Prince Regent.
 ```
 
+Unsurpisingly, there was consider interest in the story norht of the border, so it's not surprising that a reasonably comprehensive report of the trial also appeared in *The Scots Magazine*.
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000239/17820827/004/0004
-Manchester Mercury - Tuesday 27 August 1782
-
-Tyrie has written to Mr. Vowel, the Gentleman with whom he lived as a Clerk in London, requesting to see him before his Execution. We understand that Mr. V. communicated this to one of the Ministry, who expects that this unfortunate Man may make Discoveries of other Parties concerned in his late treasonable Correspondence.
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000254/17820829/013/0003
-Stamford Mercury - Thursday 29 August 1782
-
-By a Gentleman who arrived in town last night from Portsmouth, we are informed that David Tyrie, who was convicted at the last Winchester assize, for holding a treasonable correspondence with the French Ministry, was taken from the prison of that city, early on Saturday morning last, to Portsmouth, where he was executed on a gibbet erected for the purpose, in the presence of an immense crowd of people. The unhappy man it is said behaved throughout with such a decent fortitude that most of the spectators seemed sensibly affected at his misfortunes, and treated him with great tenderness at the place of execution. His body is to be hung in chains at the Gosport side, near Blockhouse fort.
-
-Tyrie, a short time before execution, made a full discovery of his accomplices, one of them is in custody, and remains to be tried; but the prisoner has discovered, that his employment was a regular and well digested system of information, in the conveying of which no pains or expence was spared. It appears, that a certain American, who lately took a trip over to Paris, has been the principal planner and conductor of the scheme, and got his neck out of the halter, by suffering La Motte, Tyrie, and others, to be apprehended and executed, when he himself was the greater culprit. By some means or other these incendiaries not only got at the Admiralty orders, but they informed the French Court of the actual force and destination of our fleets long before they were equipped, and by such means rendered their expeditions abortive.
-
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820902/004/0003
-Hampshire Chronicle - Monday 02 September 1782
-
-HOME NEWS.
-
-PORTSMOUTH. Aug. 31.
-
-On Thursday morning, between nine and ten o'clock, the Royal George man of war of 100 guns, on board of which Admiral Kempenfelt had hoisted his flag, nearly in the center of Lord Howe's fleet at Spithead, most unfortunately and instantaneously went to the bottom. The melancholy accident was occasioned by the being heeled upon her side, in order to have the water-pipe of her cistern repaired, at which instant of time a strong squall of wind at N. N. W. threw her further upon her side, and the lower port holes being unluckily open, she filled and went down in less than three minutes. The alarm and confusion at an event so unexpected and so horrid, is indescribable. A victualling sloop, and several wherries full of people, which had just put off in order to go ashore, were drawn down by the prodigious whirlpool and suction occasioned by the sinking of the ship. Of about fourteen hundred men, women, and boys which were on board, not more than 320 were saved; and it must give unspeakable concern to every lover of his country, as well as to the humane heart, that the brave and able veteran Admiral Kempenfelt is amongst the drowned.— Major Graham, and several other officers of marines, the surgeon, the master, three lieutenants, several midshipmen, and some ladies who had gone on board to see the ship, were also lost. Captain Waghorn, Admiral Kempenfelt's Captain, was fortunately gone on duty for few hours on board another ship. The ship's complement was 900 men, and she was completely manned with the best seamen, victualled and ready for sea at an hour's notice. There were also a number of carpenters from the yard, at work in her; and several of the officers, with the whole of the marines, had only come on board from Portsmouth the preceding evening. The unspeakable distress of this fatal catastrophe has occasioned is inconceivable. The shore for a length of time exhibited scenes of the most poignant grief, being lined with persons lamenting their fathers, or their children, who had perished in this calamity. And every one will read with added concern that the brave Admiral Kempenfelt, who had hold of the same rope with a marine, was so exhausted and fatigued, that he let go but a few minutes before a boat reached the unhappy spot where he sunk, and picked up the marine alive.
-
-Though the depth in which she now lies, about fourteen fathom, is not considerable, it seems to be the general opinion here, that she cannot be raised, as no purchase can be obtained equal to the immense weight. But if this ship, so long the pride of our navy, and so essential a part of the strength of this country, at this most critical period, could be recovered, the loss of so many brave and able seamen is irremediable, and never sufficiently to be lamented.
-
-An accident of this kind to a capital ship, is unpredented *[sic]* in the annals of the Navy.
-
-The Royal George man of war is the oldest first rate in the service; she was built at Woolwich, her keel was laid down in 1751, and she was hauled out of the dock in July 1755, it being unusual to build such large ships on slips to launch; she was pierced for 100 guns, but having lately had two additional ports, including the carronades, mounted 108 guns; she was rather short and high, as all the old first rates are, but so good a sailer, that she has had more flags on board her than any vessel in the service. Lord Anson, Admiral Boscawen, Lord Hawke, Lord Rodney, Lord Howe, and several other principal officers, have repeatedly commanded in her. Lord Hawke commanded the squadron in her which fought the French under Conflans, when the Suberb of 70 guns, was sunk by her cannon and the Soliel Royal of 84, burnt on shore: she carried the tallest masts and canvas of any English built ship in the navy, and originally the heaviest metal, viz. 52, 40, and 28 pounders, but they were lately changed, account of her age, to 40, 32, and 18 pounders.
-
-...
-
-WINCHESTER, Saturday, August 31.
-
-David Tyrie, who was executed at Portsmouth on Saturday last, for carrying on a treasonable correspondence with the French, could not be prevailed upon to make any discovery of his colleagues in the above iniquitous business. A few days before his execution, he sent up an offer to the Secretary of State's Office, to discover a person in an elevated line of life, who is caressed by the first people in the country, whose connexions and situation enable him to give our enemies the best information, and who has for some time followed this business together with several others in an inferior situation, provided Government would enter into an engagement that they should not prosecuted for any overt act up to the present time—but this offer is seems was rejected. It was hinted to him, whether, on condition of saving his own life, he would give up the above people to a due course of law; but he declined it, saying, he despised life upon any terms where that of another person was involved, and that, whether he lived died, no blood should lay at his door.—He conducted himself from the prison here to the place of execution, and during the whole of the preparation for his miserable dissolution, with the most singular composure and magnanimity,
-
-From the time he was put upon the sledge, till he came to the gibbet, he continued an unconcerned conversation with the gaoler, in which he expressed that he thought there were not three better, sounder, or honester hearts this kingdom, than his own, which was just going to be burnt. That there was only thing which gave him concern, which was, that his father was living, and that he feared this misfortune would bring his grey hairs with sorrow to the grave. He declined saying a word to the populace, observing, that he knew not why he was to feed or gratify the idle curiosity of the multitude. He never hung his head the whole time.—When arrived at the place of execution, no halter was provided, upon which he smiled, and expressed astonishment at the inattention and neglect of his executioners; and indeed the business would have been retarded for some time, had not a rope and pulley been procured out of a lugger that lay under shore, during which time he read several passages in a bible he carried in his hand.—Before he was drawn up, he delivered a paper, setting forth, that he had authorised no person to publish any account of his life, nor was there any one who knew sufficiently of him to give any genuine particular of his transactions to the world.
-
-After hanging exactly twenty-two minutes, he was lowered upon the sledge, and the sentence literally put in execution. His head was severed from his body, his heart taken out and burnt, his privities cut off, and his body quartered. He was then put into a coffin, and buried among the pebbles by the sea-side; hut no sooner had the officers retired, but the sailors dug up the coffin, took out the body, and cut it in a thousand pieces, every one carrying away a piece of his body to shew their messmates on board.—A more dreadful, affecting execution was perhaps never seen. It was computed by many intelligent persons on the spot, that there were not less than a hundred `[sic]` thousand spectators present on the occasion.
-
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820902/015/0003
-Hampshire Chronicle - Monday 02 September 1782
-
-DECLARATION of DAVID TYRIE, concerning the HISTORY of his LIFE.
-
-"If after my death, any person should attempt to impose a HISTORY of my LIFE upon the public, leave this to serve as a declaration, that I have left neither instructions nor materials for any person to write a history from, and that *no man living* had my confidence so far as to be able to give any thing like a genuine account of my actions to the world. I was sincerely disposed to have done it myself, for the benefit of mankind, and my poor orphan babes; but the time allowed after my conviction was not sufficient.— I leave this therefore as *a caution to the public*, in the hands of Mr. John Vowell, jun. whom I request to make it publicly known, *should any publications respecting me be attempted*."
-
-Winchester Gaol, Aug. 23, Signed DAVID TYRIE.
-
-Witnesses: Robert Serle, Under Sheriff of Hants.  
-J. White, jun. Deputy Keeper Winchester Gaol.
-
-*To Mr. John Vowell, jun.*
-
-From hence it becomes obvious, that the Book now advertised under the title of *"A true and concise account of the Life and Trial of David Tyrie"*, to be had of Messrs. Sadler and Burdon in Winchester, Collins and Johnson in Salisbury, Dawkins in Gosport, Breadhower in Portsmouth, Skelton and Mills and Baker in Southampton, is no other than a *spurious publication*, compiled from mere imagination, to answer mercenary purposes.
-
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/17820902/001/0004
-Northampton Mercury - Monday 02 September 1782
-Also in https://www.britishnewspaperarchive.co.uk/viewer/bl/0000236/17820903/001/0001# Leeds Intelligencer - Tuesday 03 September 1782 etc
-
-The Crowd of People of all Ranks assembled by Four o'clock this Morning at the Gates of the Gaol, to see Tyrie set off for the Place of Execution, was very great. About Five o'Clock he was put into a Coach with six Horses, attended by the Ordinary, Under-Sheriff, Gaoler, Sec. and conveyed to Portsmouth, where, being delivered up to the Mayor and Police of the Town, he was drawn on a Sledge the Place of Execution; after praying a little Time he was turned off, and hanging till almost dead, he was then cut down, his Head severed from his Body, his Bowels taken out, and his Heart shewn, to the surrounding Multitude, and then thrown into Fire made for the Purpose; the Body was then quartered and put into a Coffin.—The Concourse of People was immense, and beyond Description! and such was the Angular Avarice of many who were near the Body, that happy was he who could procure a Finger, or fome Vestige of the Criminal.—Tyrie supported to the last the same hardened Conduct as marked him his Condemnation, boldly leaping into the Coach at his leaving Winchester; and on his Journey to Portsmouth, his Words and Conduct, expressing great Indifference at his approaching Fate. Liverpool, Aug. 22.
-
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0003222/17820903/020/0002
-Chester Courant - Tuesday 03 September 1782
-
-Also in https://www.britishnewspaperarchive.co.uk/viewer/bl/0000397/17820829/007/0003  Hereford Journal - Thursday 29 August 1782, https://www.britishnewspaperarchive.co.uk/viewer/bl/0000045/17820831/007/0002 Caledonian Mercury - Saturday 31 August 1782 etc
-
-TYRIE'S EXECUTION FOR HIGH TREASON.
-
-Saturday Morning David Tyrie was brought from Winchester Gaol in a Coach and Six, accompanied by the Sheriff of Hants and his Attendants, he was met by the Officers and Constables of Portsmouth at the Green Post, and came in solemn Procession to the White-house, when he was taken out, and immediately put on a Hurdle with a Sledge, drawn by four Horses, and proceeded to South Sea Beach, where after some little Time spent in Reading, he suffered the whole Punishment according to the dreadful Sentence pronounced upon him.—We cannot help observing the Steadiness of Behaviour throughout the Whole, even from his Trial to his last Moments. The Annals of England cannot furnish a Circumstance wherein a Criminal launched into Eternity with so much Composure, not shewing the least Timidity, but seemed to think, to the last Moment, he acted in a right Cause. He said nothing material at the Place of Execution, nor gave the least Hint that any other Person was concerned with him. The Concourse of People assembled on this Occasion was great indeed; according to moderate Calculation, there could not be less than twenty thousand Persons. After hanging 22 Minutes and a Half, he was lowered down, his Heart was taken out and held up to the Populace, and the Hangman declared it to be the Heart of a Traitor: It was then thrown into the Fire, and his Body (the little Remains of it) was put into a Coffin, and buried near the Gallows.
-
-It astonished every Spectator to see the horrid Inhumanity that was suffered on the remaining Part of the Carcase. The Populace had the Liberty of cutting and hacking any Part they thought proper, such as Fingers, Toes, and Ribs. This abominable Shock to human Nature, must certainly have been the Neglect of the Sheriff; and what was most palpable, to suffer the Gaoler of Gosport to take away Tyrie's Head, and which he is now making a Show of at his own Dungeon. Many of the Body-snatchers, as they are called, bid high for the Head; however, *Buck———* either having more Interest, or being quicker than the Rest, whipt it into a Bag, and some of his *worthy* Emisaries conveyed it away. It is sincerely to be hoped that such horrid Behaviour will not pass without exemplary Punishment.
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000254/17820905/002/0001
-Stamford Mercury - Thursday 05 September 1782
-
-*Extract of a letter from Portsmouth, Aug. 24.*
-
-"A crowd of people of all ranks assembled at four o'clock in the morning at the gates of the gaol, to see Tyrie set off to the place execution, was very great. About five o'clock he was put into coach with six horses, attended by the Ordinary, Under Sheriff, Jailor, &c. and conveyed to Portsmouth, where being delivered up to the Mayor and Police of the town, he was drawn on sledge to the place of execution. After praying a little time, he was turned off, and hanged till almost dead, when he was cut down, his head severed from his body, his bowels taken out, and his heart shown to the surrounding multitude, and then thrown into a fire made for that purpose; the body was then quartered, and put into a coffin. Tyrie supported to the last the same hardened conduct as marked him on his condemnation, boldly leaping, into the coach his leaving Winchester; and on his journey to Portsmouth, by words and conduct expressing great indifference at his approaching fate.
-
-"It astonished every spectator to see the horrid inhumanity that was suffered on the remaining part of the carcase of Tyrie. The populace had the liberty of cutting and hacking any part they thought proper, such as fingers, toes and ribs. This abominable shock to human nature must certainly have been the neglect of the sheriffs; and what was most culpable, to suffer the Jailer of Gosport to take away Tyrie's head, and which he is now making a shew of in his own dungeon."
-
-
---
-
+```{admonition} The Trial of David Tyrie, August 1782
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000545/17820801/002/0001?browse=true
 The Scots Magazine -  August 1782
 
@@ -1127,21 +1027,190 @@ Tyrie in his person is rather under the middle size, pretty well made, fair hair
 
 It is given out, that his accomplices are discovered, and that a certain American, who lately took a trip over to Paris, has been the principal planner and conductor of the schemes for giving intelligence to the enemy, and who got his neck out of the halter, by suffering La Motte, Tyrie, and others, to be apprehended and executed, when he himself was the greater culprit. By some means or other, these traitors not only got at the Admiralty orders, but they informed the French court of the force and destination of our fleets long before they were equipped.
 
+...
+
+```
+
+
+TO DO
+
+```{admonition} An attempted prison break, August 1782
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820826/004/0003
+Hampshire Chronicle - Monday 26 August 1782
+
+WINCHESTER, *Saturday*, August 24.
+
+In consequence of the attempt lately made by the felons in our county gaol to break out of prison, and to release Tyrie, as mentioned particularly in our last week's paper, a meeting was held the White-Hart-Inn in this city on Monday last, by several of the county Justices, in order to discover the aiders and abettors of the above business. John Fulker, who was condemned at our last assizes, and since reprieved, related that about six weeks ago Tyrie applied to him and Fox, another malefactor, to desire they would assist him in procuring tools to break out of prison, and that for their secresy and diligence in the business he would take them to France, and settle one hundred pounds per annum on them. Tyrie had previously engaged with Captain Maynard, a prisoner for debt, who some ago kept the Vine Inn, at Cowes, to keep a constant look out at night, and to inform in case any watch was kept upon them, or any circumstance happening to impede their design for which service David Tyrie had promised pay Maynard's debts, and extricate him from all his troubles. Deadman, who was confined at the last assizes for horse stealing, but reprieved, was also let into the secret, and was prevaled upon to send for his brother to purchase tools for them, for which he was to be greatly rewarded. On his arrival, he received half a guinea from Tyrie, and was desired to go to some neighbouring town to buy  the tools, for fear of a discovery; but he went and purchased them in the town and put them up the sink-hole of the prison, from whence they were taken by Fulker and carried into the Dungeon.—Maynard furnished them with candle, and prevailed upon the Baker, J. Godwin, to procure two center bitts, for the of boring thro' the plank, which Maynard gave to Tyrie, with a wig, and a pair of trowsers to go off in. It was also intended to procure a quantity of oil and spitits, in order to set fire to the prison at the time they were to leave it, which horrid business, if put in execution, must have been fatal to about twenty debtors, who were connaed in a room over the Dungeon, and who must have been burnt alive, had not the plot thus been fortunately discovered.
+
+Deadman's brother was committed to take his trial at the next assizes; a detainer was also lodged against Maynard for the same purpose, and Godwin was bound over to appear at the same time — aiding and abetting convicts to make their escape, is punishable by law with transportation for seven years.
+
+After Tyrie was tried, and under sentence of death, no communication could be had with him by the other conspirators, as he was locked in the condemned cell, and no one suffered be with him. Maynard, however, in order to have further consultations with him, pretended it was in his power to get some very important discoveries from Tyrie, provided Mr. White, keeper of the prison, would suffer him to be alone with him: and on Mr. White's refusing to give him leave, Maynard wrote to the Secretary of State's Office, to the same effect, and absolutely procured an order to have as much private conversation with Tyrie as he pleased.— The above discovery being made in the mean while, when the order came down it was not complied with, as the intention was obviously to forward their escape, instead of making discoveries of such importance to the nation.
+
+This morning at four o'clock, David Tyrie was conveyed from hence in coach and six, under a strong guard, to Portsmouth, where he was executed pursuant to his sentence. His behaviour to the last, even when surrounded by the horrible apparatus of death, used in cases such as this, was undaunted and bold to an extreme.
+```
+
+## The Execution of David Tyrie
+
+TO DO
+
+```{admonition} Winchester, August 24, 1782
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000545/17820801/002/0001?browse=true
+The Scots Magazine -  August 1782
+
 *Winchester, Aug. 24.* The crowd people of all ranks assembled by four o'clock this morning at the gates of the gaol, to see Tyrie set off for the place of execution, was very great. About five o'clock he was put into a coach with six horses, attended by the ordinary, under-sheriff, gaoler, &c. and conveyed to Portsmouth, where being delivered to the Mayor and police of the town, he was drawn on a sledge to the place of execution. After praying a little time, he was turned off, and hanged till almost dead; he was then cut down, his head severed from his body, his bowels taken out, and his heart shewed to the surrounding multitude, and then thrown into a fire made for that purpose; the body was then quartered and put into coffin. The concourse of people was immense, and beyond description, and such the singular conduct of many who were near the body, that happy was he who could procure a finger, or some vestige the criminal. Tyrie supported to the last the same hardened and intrepid conduct as marked him on his condemnation, boldly leaping into the coach at his leaving Winchester; on his journey to Portsmouth, by his words and conduct expressing great indifference at his approaching fate, and even laughing at the place execution.
+```
+
+TO DO
+
+```{admonition} Tyrie writes to Mr. Vowel, 1782
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000239/17820827/004/0004
+Manchester Mercury - Tuesday 27 August 1782
+
+Tyrie has written to Mr. Vowel, the Gentleman with whom he lived as a Clerk in London, requesting to see him before his Execution. We understand that Mr. V. communicated this to one of the Ministry, who expects that this unfortunate Man may make Discoveries of other Parties concerned in his late treasonable Correspondence.
+```
+
+```{admonition} A certain American, August 1782
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000254/17820829/013/0003
+Stamford Mercury - Thursday 29 August 1782
+
+By a Gentleman who arrived in town last night from Portsmouth, we are informed that David Tyrie, who was convicted at the last Winchester assize, for holding a treasonable correspondence with the French Ministry, was taken from the prison of that city, early on Saturday morning last, to Portsmouth, where he was executed on a gibbet erected for the purpose, in the presence of an immense crowd of people. The unhappy man it is said behaved throughout with such a decent fortitude that most of the spectators seemed sensibly affected at his misfortunes, and treated him with great tenderness at the place of execution. His body is to be hung in chains at the Gosport side, near Blockhouse fort.
+
+Tyrie, a short time before execution, made a full discovery of his accomplices, one of them is in custody, and remains to be tried; but the prisoner has discovered, that his employment was a regular and well digested system of information, in the conveying of which no pains or expence was spared. It appears, that a certain American, who lately took a trip over to Paris, has been the principal planner and conductor of the scheme, and got his neck out of the halter, by suffering La Motte, Tyrie, and others, to be apprehended and executed, when he himself was the greater culprit. By some means or other these incendiaries not only got at the Admiralty orders, but they informed the French Court of the actual force and destination of our fleets long before they were equipped, and by such means rendered their expeditions abortive.
+```
+
+TO DO -  who was La Motte ?
+
+```{admonition} Some Account of the Trial of Francis Henry de la Motte, *for High Treason*, July 1781
+:class: dropdown seealso
+https://britishnewspaperarchive.co.uk/viewer/bl/0000221/17810719/006/0002
+Bath Chronicle and Weekly Gazette - Thursday 19 July 1781
+
+...
+
+```
+
+```{admonition} The life and trial of F. H. de la Motte, 1781
+:class: dropdown seealso
+https://archive.org/details/bim_eighteenth-century_the-life-and-trial-of-f_de-la-motte-francis-hen_1781
+The life and trial of F. H. de la Motte, a French spy, for high treason, at the Sessions-House in the Old-Bailey, on Saturday the 14th of July 1781, and was hang'd, drawn, and quartered at Tyburn, on Friday the 27th following. Taken in short hand by
+by J. Williams
+
+Publication date 1781
+```
+
+```{admonition} The Sinking of the Royal George, September, 1782
+:class: dropdown seealso
+https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820902/004/0003
+Hampshire Chronicle - Monday 02 September 1782
+
+HOME NEWS.
+
+PORTSMOUTH. Aug. 31.
+
+On Thursday morning, between nine and ten o'clock, the Royal George man of war of 100 guns, on board of which Admiral Kempenfelt had hoisted his flag, nearly in the center of Lord Howe's fleet at Spithead, most unfortunately and instantaneously went to the bottom. The melancholy accident was occasioned by the being heeled upon her side, in order to have the water-pipe of her cistern repaired, at which instant of time a strong squall of wind at N. N. W. threw her further upon her side, and the lower port holes being unluckily open, she filled and went down in less than three minutes. The alarm and confusion at an event so unexpected and so horrid, is indescribable. A victualling sloop, and several wherries full of people, which had just put off in order to go ashore, were drawn down by the prodigious whirlpool and suction occasioned by the sinking of the ship. Of about fourteen hundred men, women, and boys which were on board, not more than 320 were saved; and it must give unspeakable concern to every lover of his country, as well as to the humane heart, that the brave and able veteran Admiral Kempenfelt is amongst the drowned.— Major Graham, and several other officers of marines, the surgeon, the master, three lieutenants, several midshipmen, and some ladies who had gone on board to see the ship, were also lost. Captain Waghorn, Admiral Kempenfelt's Captain, was fortunately gone on duty for few hours on board another ship. The ship's complement was 900 men, and she was completely manned with the best seamen, victualled and ready for sea at an hour's notice. There were also a number of carpenters from the yard, at work in her; and several of the officers, with the whole of the marines, had only come on board from Portsmouth the preceding evening. The unspeakable distress of this fatal catastrophe has occasioned is inconceivable. The shore for a length of time exhibited scenes of the most poignant grief, being lined with persons lamenting their fathers, or their children, who had perished in this calamity. And every one will read with added concern that the brave Admiral Kempenfelt, who had hold of the same rope with a marine, was so exhausted and fatigued, that he let go but a few minutes before a boat reached the unhappy spot where he sunk, and picked up the marine alive.
+
+Though the depth in which she now lies, about fourteen fathom, is not considerable, it seems to be the general opinion here, that she cannot be raised, as no purchase can be obtained equal to the immense weight. But if this ship, so long the pride of our navy, and so essential a part of the strength of this country, at this most critical period, could be recovered, the loss of so many brave and able seamen is irremediable, and never sufficiently to be lamented.
+
+An accident of this kind to a capital ship, is unpredented *[sic]* in the annals of the Navy.
+
+The Royal George man of war is the oldest first rate in the service; she was built at Woolwich, her keel was laid down in 1751, and she was hauled out of the dock in July 1755, it being unusual to build such large ships on slips to launch; she was pierced for 100 guns, but having lately had two additional ports, including the carronades, mounted 108 guns; she was rather short and high, as all the old first rates are, but so good a sailer, that she has had more flags on board her than any vessel in the service. Lord Anson, Admiral Boscawen, Lord Hawke, Lord Rodney, Lord Howe, and several other principal officers, have repeatedly commanded in her. Lord Hawke commanded the squadron in her which fought the French under Conflans, when the Suberb of 70 guns, was sunk by her cannon and the Soliel Royal of 84, burnt on shore: she carried the tallest masts and canvas of any English built ship in the navy, and originally the heaviest metal, viz. 52, 40, and 28 pounders, but they were lately changed, account of her age, to 40, 32, and 18 pounders.
+
+```
+
+A little further on was a report of Tyrie's execution:
+
+```{admonition} Regret for his father, September 1782
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820902/004/0003
+Hampshire Chronicle - Monday 02 September 1782
+WINCHESTER, Saturday, August 31.
+
+David Tyrie, who was executed at Portsmouth on Saturday last, for carrying on a treasonable correspondence with the French, could not be prevailed upon to make any discovery of his colleagues in the above iniquitous business. A few days before his execution, he sent up an offer to the Secretary of State's Office, to discover a person in an elevated line of life, who is caressed by the first people in the country, whose connexions and situation enable him to give our enemies the best information, and who has for some time followed this business together with several others in an inferior situation, provided Government would enter into an engagement that they should not prosecuted for any overt act up to the present time—but this offer is seems was rejected. It was hinted to him, whether, on condition of saving his own life, he would give up the above people to a due course of law; but he declined it, saying, he despised life upon any terms where that of another person was involved, and that, whether he lived died, no blood should lay at his door.—He conducted himself from the prison here to the place of execution, and during the whole of the preparation for his miserable dissolution, with the most singular composure and magnanimity,
+
+From the time he was put upon the sledge, till he came to the gibbet, he continued an unconcerned conversation with the gaoler, in which he expressed that he thought there were not three better, sounder, or honester hearts this kingdom, than his own, which was just going to be burnt. That there was only thing which gave him concern, which was, that his father was living, and that he feared this misfortune would bring his grey hairs with sorrow to the grave. He declined saying a word to the populace, observing, that he knew not why he was to feed or gratify the idle curiosity of the multitude. He never hung his head the whole time.—When arrived at the place of execution, no halter was provided, upon which he smiled, and expressed astonishment at the inattention and neglect of his executioners; and indeed the business would have been retarded for some time, had not a rope and pulley been procured out of a lugger that lay under shore, during which time he read several passages in a bible he carried in his hand.—Before he was drawn up, he delivered a paper, setting forth, that he had authorised no person to publish any account of his life, nor was there any one who knew sufficiently of him to give any genuine particular of his transactions to the world.
+
+After hanging exactly twenty-two minutes, he was lowered upon the sledge, and the sentence literally put in execution. His head was severed from his body, his heart taken out and burnt, his privities cut off, and his body quartered. He was then put into a coffin, and buried among the pebbles by the sea-side; hut no sooner had the officers retired, but the sailors dug up the coffin, took out the body, and cut it in a thousand pieces, every one carrying away a piece of his body to shew their messmates on board.—A more dreadful, affecting execution was perhaps never seen. It was computed by many intelligent persons on the spot, that there were not less than a hundred `[sic]` thousand spectators present on the occasion.
+```
+
+```{admonition} No authorised biographies, September 1782
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820902/015/0003
+Hampshire Chronicle - Monday 02 September 1782
+
+DECLARATION of DAVID TYRIE, concerning the HISTORY of his LIFE.
+
+"If after my death, any person should attempt to impose a HISTORY of my LIFE upon the public, leave this to serve as a declaration, that I have left neither instructions nor materials for any person to write a history from, and that *no man living* had my confidence so far as to be able to give any thing like a genuine account of my actions to the world. I was sincerely disposed to have done it myself, for the benefit of mankind, and my poor orphan babes; but the time allowed after my conviction was not sufficient.— I leave this therefore as *a caution to the public*, in the hands of Mr. John Vowell, jun. whom I request to make it publicly known, *should any publications respecting me be attempted*."
+
+Winchester Gaol, Aug. 23, Signed DAVID TYRIE.
+
+Witnesses: Robert Serle, Under Sheriff of Hants.  
+J. White, jun. Deputy Keeper Winchester Gaol.
+
+*To Mr. John Vowell, jun.*
+
+From hence it becomes obvious, that the Book now advertised under the title of *"A true and concise account of the Life and Trial of David Tyrie"*, to be had of Messrs. Sadler and Burdon in Winchester, Collins and Johnson in Salisbury, Dawkins in Gosport, Breadhower in Portsmouth, Skelton and Mills and Baker in Southampton, is no other than a *spurious publication*, compiled from mere imagination, to answer mercenary purposes.
+```
+
+```{admonition} Tyrie's Last Journey, September 1782
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/17820902/001/0004
+Northampton Mercury - Monday 02 September 1782
+Also in https://www.britishnewspaperarchive.co.uk/viewer/bl/0000236/17820903/001/0001# Leeds Intelligencer - Tuesday 03 September 1782 etc
+
+The Crowd of People of all Ranks assembled by Four o'clock this Morning at the Gates of the Gaol, to see Tyrie set off for the Place of Execution, was very great. About Five o'Clock he was put into a Coach with six Horses, attended by the Ordinary, Under-Sheriff, Gaoler, Sec. and conveyed to Portsmouth, where, being delivered up to the Mayor and Police of the Town, he was drawn on a Sledge the Place of Execution; after praying a little Time he was turned off, and hanging till almost dead, he was then cut down, his Head severed from his Body, his Bowels taken out, and his Heart shewn, to the surrounding Multitude, and then thrown into Fire made for the Purpose; the Body was then quartered and put into a Coffin.—The Concourse of People was immense, and beyond Description! and such was the Angular Avarice of many who were near the Body, that happy was he who could procure a Finger, or fome Vestige of the Criminal.—Tyrie supported to the last the same hardened Conduct as marked him his Condemnation, boldly leaping into the Coach at his leaving Winchester; and on his Journey to Portsmouth, his Words and Conduct, expressing great Indifference at his approaching Fate. Liverpool, Aug. 22.
+```
+
+```{admonition} Tyrie's Execution, September, 1782
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0003222/17820903/020/0002
+Chester Courant - Tuesday 03 September 1782
+
+Also in https://www.britishnewspaperarchive.co.uk/viewer/bl/0000397/17820829/007/0003  Hereford Journal - Thursday 29 August 1782, https://www.britishnewspaperarchive.co.uk/viewer/bl/0000045/17820831/007/0002 Caledonian Mercury - Saturday 31 August 1782 etc
+
+TYRIE'S EXECUTION FOR HIGH TREASON.
+
+Saturday Morning David Tyrie was brought from Winchester Gaol in a Coach and Six, accompanied by the Sheriff of Hants and his Attendants, he was met by the Officers and Constables of Portsmouth at the Green Post, and came in solemn Procession to the White-house, when he was taken out, and immediately put on a Hurdle with a Sledge, drawn by four Horses, and proceeded to South Sea Beach, where after some little Time spent in Reading, he suffered the whole Punishment according to the dreadful Sentence pronounced upon him.—We cannot help observing the Steadiness of Behaviour throughout the Whole, even from his Trial to his last Moments. The Annals of England cannot furnish a Circumstance wherein a Criminal launched into Eternity with so much Composure, not shewing the least Timidity, but seemed to think, to the last Moment, he acted in a right Cause. He said nothing material at the Place of Execution, nor gave the least Hint that any other Person was concerned with him. The Concourse of People assembled on this Occasion was great indeed; according to moderate Calculation, there could not be less than twenty thousand Persons. After hanging 22 Minutes and a Half, he was lowered down, his Heart was taken out and held up to the Populace, and the Hangman declared it to be the Heart of a Traitor: It was then thrown into the Fire, and his Body (the little Remains of it) was put into a Coffin, and buried near the Gallows.
+
+It astonished every Spectator to see the horrid Inhumanity that was suffered on the remaining Part of the Carcase. The Populace had the Liberty of cutting and hacking any Part they thought proper, such as Fingers, Toes, and Ribs. This abominable Shock to human Nature, must certainly have been the Neglect of the Sheriff; and what was most palpable, to suffer the Gaoler of Gosport to take away Tyrie's Head, and which he is now making a Show of at his own Dungeon. Many of the Body-snatchers, as they are called, bid high for the Head; however, *Buck———* either having more Interest, or being quicker than the Rest, whipt it into a Bag, and some of his *worthy* Emisaries conveyed it away. It is sincerely to be hoped that such horrid Behaviour will not pass without exemplary Punishment.
+```
+
+TO DO
+
+the following seems more like the rabble descended on the bosdy than other reports? eg where the buried body was dug up and shared about...
+
+```{admonition} An abominable shock to human nature, September 1782
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000254/17820905/002/0001
+Stamford Mercury - Thursday 05 September 1782
+
+*Extract of a letter from Portsmouth, Aug. 24.*
+
+"A crowd of people of all ranks assembled at four o'clock in the morning at the gates of the gaol, to see Tyrie set off to the place execution, was very great. About five o'clock he was put into coach with six horses, attended by the Ordinary, Under Sheriff, Jailor, &c. and conveyed to Portsmouth, where being delivered up to the Mayor and Police of the town, he was drawn on sledge to the place of execution. After praying a little time, he was turned off, and hanged till almost dead, when he was cut down, his head severed from his body, his bowels taken out, and his heart shown to the surrounding multitude, and then thrown into a fire made for that purpose; the body was then quartered, and put into a coffin. Tyrie supported to the last the same hardened conduct as marked him on his condemnation, boldly leaping, into the coach his leaving Winchester; and on his journey to Portsmouth, by words and conduct expressing great indifference at his approaching fate.
+
+"It astonished every spectator to see the horrid inhumanity that was suffered on the remaining part of the carcase of Tyrie. The populace had the liberty of cutting and hacking any part they thought proper, such as fingers, toes and ribs. This abominable shock to human nature must certainly have been the neglect of the sheriffs; and what was most culpable, to suffer the Jailer of Gosport to take away Tyrie's head, and which he is now making a shew of in his own dungeon."
+```
 
 
----
 
+TO DO
+
+
+```{admonition} Indicted for Aiding and Abetting an Escape Attempt, January 1783
 https://britishnewspaperarchive.co.uk/viewer/BL/0000230/17830120/014/0003?browse=true
 Hampshire Chronicle - Monday 20 January 1783
 
 George Maynard was indicted for aiding, abetting, and procuring instruments to enable Tyrie and others to break out of his Majesty's gaol in this city, when, after a very long and full hearing, he was acquitted.
+```
+
+TO DO
 
 
----
-
-
----
+```{admonition} Correspondence from Portsmouth, September 1782
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000254/17820912/007/0002
 Stamford Mercury - Thursday 12 September 1782
 
@@ -1174,6 +1243,7 @@ Total, without considering the water in her body. 30799 1/2 tons.
 He concludes with asserting that he can form a machine upon a simple construction, whereby she may be unloaded of her ordnance and stores.
 
 As Tyrie was conducting to execution, he said the gaoler, "At this place I was to have been rescued, could I have raised money enough, for the Smugglers had offered do it, but demanded a sum greater than was in my power to give." He afterwards said, there was one man living yet, who furnished intelligence to the French, and while he lived, the navy of Great Britain would never be successful. After he was executed and buried in the sand, the sailors dug him up, pulled him to pieces, lapped his fingers and toes in rags to make tobacco-stoppers of, and carried his entrails in triumph on a stick.
+```
 
 ```{admonition} A life well worth preserving, September 1782
 :class: dropdown
@@ -1185,6 +1255,8 @@ Notwithstanding the late David Tyrie's seeming contempt of death, both at his tr
 *`As quoted previously.`*
 ```
 
+```{admonition} John and Jane Graham tried at the Old Bailey, September 1782
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000045/17820923/003/0001
 Caledonian Mercury - Monday 23 September 1782
 
@@ -1193,56 +1265,85 @@ Also in https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17820919/012/000
 On Saturday, 19 prisoners were tried at the Old Bailey, four of whom were capitally convicted, viz. John Graham and Jane Graham, for forging, counterfeiting, and publishing as true, knowing it to be forged, a certain promissory note for payment of money, viz. for 15*l.* thereby, purporting to be the promissory note of John Boult, for the Governor and Company of the Bank of England, for payment of 50*l.* to Mr Allan Cowper, or bearer, on demand, with intent to defraud Christopher Alderson. ...
 
 On the trial of John Graham, and Jane his wife, the first for altering and forging a letter in a bank-note, and the latter for uttering the said note, knowing it to be forged. It appeared from the evidence produced in support of the prosecution, that Mr Graham had applied to Mr Huxton, to cut him the letter Y in wood, suitable to a specimen which he gave him; not liking the impression which it made, he desired to have some more cut a smaller sort, this was done, and the woman at the bar came and took them away. He was shewn some wooden letters that were found in the possession of the prisoners, and was of opinion they were the same which they had from him. A bank-note was produced, and being proved to have been tendered by Mrs Graham, in payment of some goods, for which she received the difference; this note; and others found upon Graham when he was taken, were produced, and appeared to have been originally struck for fifteen pounds, but by the help of a liquid, the letters below the T had been erasd, and the letter Y being added, the notes were, to all appearance, for 50 *l.* each. A variety of different implements, evidently of use in this iniquitous purpose, were produced, and proved to have belonged to the prifoners. Being called upon for their defence, they complained bitterly that their witnesses had been sent out of the way, to prevent them from having the benefit of their testimony. A witness was examined to prove that the prisoners had been married many years; and Mr Morgan their counsel objected, that, in point of law, the Jury could not convict the prisoner, even if they believed they evidence proved; because, in all cases short of treason or murder, where it appeared that a criminal action had been performed by a man and his wife, the woman was acquitted, from a presumption, that what she had done was by the influence and direction of the husband. The Judge summed up the evidence with great accuracy and precision; and, in regard to the point of law, he toid the Jury, that in all such cases as where the husband and wife acted in coercion, then, indeed, the law was so tender in behalf of the woman as to presume she acted under an influence and compulsive force from the husband; but then she had no such advantage in the present case; what she had done appeared to have beeh a voluntary act; her huioand was not present; and although he might have commanded her to utter the note in question, yet as soon as she was out of his sight she was out of his power; and might have claimed the protection of the Magistrate to defend herself.— The Jury withdrew a few minutes, and returned a vverdict that the prisoners were guilty, but in consideration of a most pathetic address, made to them by the prisoners, representing their being the unhappy parents of nine children, the Jury was pleased to recommend the woman to his Majesty's mercy.
+```
 
---
+
+TO DO
+
 
 TH: worth bnearing the above in mind wrt Mrs Tyrie; also implied threat (to support her defence?) re taking his name etc?
 
 
-
+```{admonition} Ordered for execution, respited during His Majesty's Pleasure, October, 1782
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/17821014/003/0002
 Northampton Mercury - Monday 14 October 1782
 
 Yesterday the Report was made to His Majesty in Council of the Prisoners under Sentence of Death at Newgate, convicted last September Session, when the following were ordered for Execution on Tuesday next, viz ... John Graham, for forging and publishing as true, knowing it to be forged, a Promissory Note for 15*l.* purporting to be the Pomissory Note of John Boult, for the Governor and Company of the Bank of England, for Payment of 50*l.* to Mr. Allen Cowper, Bearer, on Demand, with Intent to defraud Chr. Anderson. ...
 
 The following are respited during His Majesty's Pleasure, viz. ... Jane Graham, for being concerned with John Graham in the Forgery above-mentioned. ...
+```
 
+```{admonition} Sentenced to death; and respited, October 1782
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000254/17821017/003/0001
 Stamford Mercury - Thursday 17 October 1782
 
-Yesterday the report was made to his Majesty in Council of the prisoners under sentnce of death in Newgate, convicted last September session, when the following were ordered tor execution on Tuesday next, viz. ... John Graham for forgery; ...
+Yesterday the report was made to his Majesty in Council of the prisoners under sentence of death in Newgate, convicted last September session, when the following were ordered tor execution on Tuesday next, viz. ... John Graham for forgery; ...
 
 The following are respited during his Majesty's pleasure, viz. ... Jane Graham (wife of Graham ordered for execution) ... 
+```
 
+```{admonition} John Graham et al. executed, October 11782
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000189/17821010/016/0004
 Derby Mercury - Thursday 17 October 1782 (in BNA, given as 10 October)
 
-This Day the ten following covicts were excecuted pursuant to their Sentence, viz. Charlotte Goodhail, John Edmonds, and John Graham, who went in the first Cart.— Wm. Odom, Thomas Claddenboul, P. Verrier, and John Price, in the Second. — In the Third, Wm Jones, alias Parker, alias Filch, a Jew. Wm. Weatherby, and John Lyfee, being for Coining, were drawn on a Sledge. They all behaved with Decency, and were attended by the Sheriffs and under Sheriff, the City Marshall, &c.
+This Day the ten following convicts were excecuted pursuant to their Sentence, viz. Charlotte Goodhail, John Edmonds, and John Graham, who went in the first Cart.— Wm. Odom, Thomas Claddenboul, P. Verrier, and John Price, in the Second. — In the Third, Wm Jones, alias Parker, alias Filch, a Jew. Wm. Weatherby, and John Lyfee, being for Coining, were drawn on a Sledge. They all behaved with Decency, and were attended by the Sheriffs and under Sheriff, the City Marshall, &c.
 
 At the fatal Tree Charlotte Goodhall swooned away Twice, so that she was obliged to be supported by the Executioner till she was turned off: A Scaffold broke down whh upwards of 200 People upon it; and Two Pickpockets were detected, who were left to the Mercy of the Mob.
+```
 
+```{admonition} Executed at Tyburn, October, 1782
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000191/17821019/004/0002
 Ipswich Journal - Saturday 19 October 1782
 
-This morning John Graham, Charlotte Goodall, John Edmonds, Henry Berthaud, Wm. Jones, Peter Verrier, Wm. Odem, Tho. Claddenboul, Charles Woollet, John Weatherby, and John Lafee, were, executed at Tyburn. 
+This morning John Graham, Charlotte Goodall, John Edmonds, Henry Berthaud, Wm. Jones, Peter Verrier, Wm. Odem, Tho. Claddenboul, Charles Woollet, John Weatherby, and John Lafee, were, executed at Tyburn.
+```
 
+```{admonition} Carried from Newgate to Tyburn, October 1782
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000554/17821021/003/0001
 Salisbury and Winchester Journal - Monday 21 October 1782
 
 London, Tuesday Ocober 15.
 
 This morning the following convicts were carried from Newgate to Tyburn, and there executed, pursuant to their senrences. John Graham, Charlotte Goodall, and John Edmonds, in the first cart; Henry Berthaud, Wiiliam Jones, and Peter Verrier, in the second ; Wm. Odem, Thomas Claddenboul, and Charles Woollett, in the third cart. John Weatherby, and John Lafee, tor coining, were drawn on a sledge. They all behaved very penitently.
+```
 
+```{admonition} The Tragic Last Meeting of Graham and His Wife, October, 1782
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/17821021/004/0003
 Hampshire Chronicle - Monday 21 October 1782
 
-A correspondent who was present at the interview between the unhappy Graham and his wife, the evening previous to his execution on Tuesday last, declares he never saw or heard a more affectng spectacle. Callous as the sight of frequent scenes of human woe might be supposed to make the people Newgate, there was not one of them who beheld the wretched husband take his last farewell of his disconsolate wife, who did not join in the lamentations of the woman. As for the man, his deportment beggared description. They have *nine* children, the eldest not fifteen. Reflection on this circumtance, more than on his own approaching fate, had reduced him to a skeleton. He had kept an academy, but that business not succeeding, unhappily, his tenderness for his children is said to have drove him to the measure that ended in his condemnation. At the interview with his wife, he seemed to have made up all his earthly accounts. There was an awful composure in his manner, a thousand times more moving than the looks of desperation and shrieks of the miserable woman. He soothed her in the most affectionate manner; he very tenderly charped her not to give way to grief, but to take care of her health for the sake ot their poor little ones, who *shortly*—(here the unhappy man paused—a tear trickled down his cheek—he could proceed no farther.) His wife fainted, and in that condition was carried off, while the husbaud resigned himself solemn silence into the hands of the keepers.
+A correspondent who was present at the interview between the unhappy Graham and his wife, the evening previous to his execution on Tuesday last, declares he never saw or heard a more affectng spectacle. Callous as the sight of frequent scenes of human woe might be supposed to make the people Newgate, there was not one of them who beheld the wretched husband take his last farewell of his disconsolate wife, who did not join in the lamentations of the woman. As for the man, his deportment beggared description. They have *nine* children, the eldest not fifteen. Reflection on this circumtance, more than on his own approaching fate, had reduced him to a skeleton. He had kept an academy, but that business not succeeding, unhappily, his tenderness for his children is said to have drove him to the measure that ended in his condemnation. At the interview with his wife, he seemed to have made up all his earthly accounts. There was an awful composure in his manner, a thousand times more moving than the looks of desperation and shrieks of the miserable woman. He soothed her in the most affectionate manner; he very tenderly charped her not to give way to grief, but to take care of her health for the sake ot their poor little ones, who *shortly*—(here the unhappy man paused—a tear trickled down his cheek—he could proceed no farther.) His wife fainted, and in that condition was carried off, while the husband resigned himself solemn silence into the hands of the keepers.
+```
 
+TO DO
+
+```{admonition} Graham Previously a Schoolmaster, October 1782
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000863/17821012/022/0002
 Newcastle Chronicle - Saturday 12 October 1782
 
-Graham, the forger, convicted las sessions at the Old Bailey, was a schoolmaster at Kilmarnock; and, prior to his settlement there, had kept an English school at Douglas in Ayrshire; he was reputed a man of nobility; but his conduct never procured respect.
+Graham, the forger, convicted last sessions at the Old Bailey, was a schoolmaster at Kilmarnock; and, prior to his settlement there, had kept an English school at Douglas in Ayrshire; he was reputed a man of nobility; but his conduct never procured respect.
+```
 
+TO DO
+
+```{admonition} Conducted to London..., October, 1782
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000554/17821028/036/0003
 Salisbury and Winchester Journal - Monday 28 October 1782
 
@@ -1251,12 +1352,15 @@ WINCHESTER, October 26.
 ...
 
 The five following convicts were conducted to London Thursday last, in order to be put on board the ship to be sent to the coast of Africa, viz. John Fox, John Fulker, Wlliam Dedman *(sic)*, William Marshal, and Simon Waterman.
+```
 
+```{admonition} ...To Be Shipped to Africa, October 1782
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/17821028/004/0003
 Hampshire Chronicle - Monday 28 October 1782
 
 Thursday last, five convicts were sent to the port of London, to be shipped for Africa, viz. John Fulker, John Fox, William Deadman, Wm. Marshall, and Simon Waterman.
-
+```
 
 TO DO
 
@@ -1304,6 +1408,7 @@ From the Police.— Public-Office, Bow-street, April, 1787.
 RETURNED from transportation before the end of his term, JOHN FULKER, by trade  a chair maker and turner, a native of Kingsclere, in Hants; thirty two years old, five feet eight or nine inches high, light hair, pale complexion, grey eyes, has a small scar on his lip, (supposed to be his under lip) occasioned by a cut; stout made upwards, but not quite well made in his legs, walking somewhat weak in his knees.—Five Guineas Reward.
 ```
 
+
 TO DO
 
 ```{admonition} Tyrie's head on display, June 1783
@@ -1317,5 +1422,12 @@ To the disgrace of the police of this country, the head of the unfortunate Tyrie
 
 ```
 
+TO DO
 
-The last man to suffer the completed sentence of being hung and quartered, on Southsea Common
+The last man to suffer the completed sentence of being hung and quartered, on Southsea Common.
+
+
+```{admonition} Sentences of hanging, drawing and quartering thereafter
+:class: dropdown seealso
+
+Whilst the Despard plot conspirators in 1803, the Pentridge rebels in 1817, and the Cato Street conspirators in 1820, were also sentenced to hanging, beheading and quartering, their sentences differed in that they were to be hung until dead; the quartering part of the sentence was also commuted in each case by the Prince Regent.
