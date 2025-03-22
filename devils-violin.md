@@ -138,6 +138,31 @@ Ritter von Zielinski.
 
 ```
 
+Here's another take on the tale, heavily influenced by a version I heard Daniel Morden tell, but it's also a tale I've heard told widely elsewhere.
+
+> Once, there was a fiddler. A gypsy fiddler. He used to make his way from village to town, playing for his living. When he turned up, people turned out. When he played the fast, and happy tunes, they danced and wheeled and generally misbehaved themselves in all sorts of joyful ways; and when he played the sad songs, he tugged at their heart strings. One day, as he was walking from one place to another, through a forest, no doubt, he came to a crossroads. Where a man appeared to be waiting for him. Smartly dressed. Tapping his... foot? Or his... cloven hoof?
+>
+> I've been waiting for you. I've seen what you can do. You can bend people to your will, make them do things I can only dream of making them do. So sell me your fiddle, and let me play with them, like you play with them.
+>
+> As any musician will tell you, your instrument is a part of you. Not something you would part with lightly. "It's not for sale."
+>
+> "I will pay you well for it..." Now the devil, for it was, indeed the devil, is not someone you necessarily want to cross. So the gypsy thought hard, and thought that if he asked for a riduculous amount of money for the fiddle, the Devil would balk at the price, and then that would be that, and he could carry on his way. "It is worth more to me than my pockets full of of gold. Worth more even than my bag full of gold." "Then I will pay you more than that." And the gypsy felt his pockets sag. And his bag was suddenly very heavy indeed. And his hat, he suddenly noticed the weight of his hat. Just as a gold coin slipped from underneath it. And even though the gypsy felt as if he had been tricked, he handed over his fiddle. Because the devil is the devil, after all. And not someone you want to make an enemy of.
+>
+> The gypsy walked on. He had money for food, he had money for drink, but he would rather be making his way the way he always had done. So he bought another fiddle. But it wasn't the same. He could still play a tune, he could still entertain a crowd, but it felt as if a part of him was missing.
+>
+> One day, he was walking back through the forest when he came again to the crossroads. Where someone was waiting for him. Tapping his cloven hoof. "I've been waiting for you. I've been waiting for you to come back this way. You sold me a dud..." and he waved the fiddle in his hand. "How did you do it? Whenever I play this, this thing, people don't follow me the way they followed you? What did you do to it? Is that it?" and he pointed to the fiddle strung across the gypsy's back. "Did you swap it?"
+>
+> The gypsy reached out for his old fiddle, took it in his hands, started to play it. It was like being reunited with a long lost friend, a long lost lover. He played as he had always managed to play, and even the devil fell under his magic for a moment.
+>
+> "How? How did you do that? WHy can't I do that?"
+>
+> And the Gypsy looked at him. "I may have sold you my fiddle", he said, "but the fiddle does not make the real music. For that you need something more. Something I would not sell to anyone, not even to you."
+>
+> And the devil looked at him.
+>
+> "My soul."
+
+
 ## Entertaining the Devil
 
 Another set of tales involve a fiddler entertaining the devil, or the devil's friends.
