@@ -28,7 +28,11 @@ So you need to invent *railway* time, where you do the sums, you take the *actua
 
 But for everyone else? Well: if it was midday in Oxford it was just after five *past* twelve in London (or 5 minutes and two seconds passed twelve to be precise). At the same time, it was five minutes *to* twelve in Bristol. So you'd have to have people all over the country figuring out their own local timetables — good work if you can get it, presumably — because if you miss a train by a minute, well, you're f*cked, aren't you, as you can try explaining to the people on the speed awareness courses, who try to explain that if you're speeding for an hour you still only get there a couple of minutes earlier and you say: yes, but boatwise, you don't live on a Island where a minute is a couple of hours if you miss it, do you?
 
-Having your own time could lead to problems. In 1858, at the Dorchester Assizes, a hearing was set for 10 o'clock a.m. The case involved an action of ejectment, which is to say a property case. In those days, ownership of land could be transferred by ritual and custom as much as it was by legal document.
+Having your own time could lead to problems.
+
+It had been a particularly stressful morning for the clerk of the magistrates court at the Dorchester Assizes, somewhen in 1858. There were a lot of cases on trial that day, and things needed to strat promptly. But when he'd got up that morning and gone to set his watch by the clock in the hall, the clock he set from the chiming of the Church clock, which in turn was set by the sundial in the church yard, his clock had stopped. He had only only just made the train on the new railway line into town, and had then set his watch by the clock in the station-master's office at Dorchester. And when he'd got to the court, he'd noticed that *that* clock appeared to be running particularly slowly, so he'd put it right.
+
+The first hearing was set for 10 o'clock a.m. The case involved an action of ejectment, which is to say a property case. In those days, ownership of land could be transferred by ritual and custom as much as it was by legal document.
 
 The medieval *livery of seisin*, which remained as valid in law until 1925, fewer than a hundred years ago, when my own grandparents were children, required the original landowner and whoever was being given the land, along with any witnesses to gather somewhere on the land; the owner would then pick up a handful of earth and hand it over, literally handing of the ownership of it.
 
