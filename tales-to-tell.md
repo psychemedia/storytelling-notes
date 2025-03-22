@@ -14,6 +14,13 @@ https://sites.pitt.edu/~dash/type1381.html
 
 ---
 
+Ballad to story
+
+https://en.wikipedia.org/wiki/Matty_Groves
+Matty Groves / Little Musgrave and Lady Barnard ? Nick Hennessey ?
+
+---
+
 
 Sheffield rum Sue Cain song
 https://www.youtube.com/watch?v=Y9Nb4QjKbRQ
@@ -541,16 +548,6 @@ Devil's bridge - tricking devil - Wales / Welsh legend  https://devilsbridgefall
 
 ---
 
-last man to be hanged drawn and quarted - David Tyrie on SOutshea common 1782
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820715/004/0003
-Hampshire Chronicle - Monday 15 July 1782
-
-Winchester, Saturday, July 13.
-
-At our Assizes, which began on Thursday last, ... David Tyrie, for carrying on a treasonable correspondence with the enemy, is to be tried under a special commission, at the Castle of Winchester, on the 10th of August next, for which purpose one of the Judges is to return here, after finishing the other business of the circuit.
-
----
 
 
 ---
