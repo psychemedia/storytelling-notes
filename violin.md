@@ -23,7 +23,7 @@ https://www.duchas.ie/en/cbes/transcripts?SearchText=devil+fiddler&SearchLanguag
 
 eg riddles
 https://www.duchas.ie/en/cbes/4922223/4862072/5019166?
-A fiddler in Dublin had a brother a fiddler in Cork; but the fiddler in Cork had no brother a fiddler in Dublin. The fiddler in Dublin was a girl.
+A fiddler in Dublin had a brother, a fiddler in Cork; but the fiddler in Cork had no brother, a fiddler in Dublin. The fiddler in Dublin was a girl.
 
 
 ?? https://www.duchas.ie/en/cbes/4811604/4800974/4938455 The Fairy Fiddler
@@ -44,8 +44,11 @@ https://www.hearandplay.com/main/devil-music-tritones-vs-augmented-4ths-diminish
 https://en.wikipedia.org/wiki/Tritone
 
 https://emadion.it/en/music/diabolus-in-musica-devils-tritone/
+
 Diabolus in Musica (The Devil in Music), also known as Tritone, is a musical interval with a three-tone pause between one note and another. It creates a dissonant sound, a screech that we could compare to a cry, a nocturnal squeaking, a solitary pendulum, depending on the use. For this reason, the Tritone, since the Middle Ages, has earned the reputation of Devil in Music.
+
 It is necessary to remember the role of music in a Church that held the study and diffusion of it. It is not uncommon to read astonishing apotheosis of the art of music by theologians and clergymen. Music, without body and pure harmony, could only refer to God, often more effectively than the doctrine itself.
+
 But if a chord in three parts, such as the Tritone, which only brings to mind the Holy Trinity when it is read, freezed the blood of the listeners, then something was wrong. The superstition spread that the Diabolus in Musica was actually an artifice of the devil, a sort of evil foot against the divine art of composition. Needless to say, the Tritone was branded as a forbidden chord more because of its difficulty – especially in singing – than because of religious warnings.
 
 
