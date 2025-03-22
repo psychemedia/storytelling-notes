@@ -8,6 +8,19 @@ https://digital.nls.uk/chapbooks-printed-in-scotland/archive/
 
 
 -0---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0003114/18500107/009/0002
+Liverpool Albion - Monday 07 January 1850
+
+AN INGENIOUS SUICIDE.—Sir Wiliiam Hankford had been a well-conducted man, but he was of a melancholy temperament, and he became tired of life, notwithstanding the high position which he occupied and the respect in which he was held. He wisled to "shuffle off this mortal coil", but he was afraid to commit suicide in any vulgar way at the time when a verdict of *felo de se* always followed such an act, and the body of the supposed delinquent was buried in a crossroad, with a stake thrust through it. He at last resorted to this novel expedient, by which he hoped not only that the forfeiture of his goods would be saved, but that his family would escape the anguish and the shame arising from the beiief that he had fallen by his own hand. Several of his deer having been stolen, he gave strict orders to his keeper to shoot any person he met with in or near the park at night who would not stand when challenged. He then in the dark night threw himself in the keeper's way and, refusing to stand when challenged, was shot dead on the spot.—Campbell's Chief-Justices of England.
+
+
+TH: felo de se - estatae forfeited to the Crown
+
+Abolished by Burial of Suicides Act 1823 
+ https://en.wikipedia.org/wiki/Burial_of_Suicides_Act_1823
+
+
+---
 
 Wife who could not keep a secret - Ashliman variants
 https://sites.pitt.edu/~dash/type1381.html
