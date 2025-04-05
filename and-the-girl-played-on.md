@@ -434,7 +434,7 @@ Where was he? What had happened to him? Surely he couldn't have forgotten? Surel
 
 By whatever sense it is that leads us home when we are lost, the landscape ingrained in you when you're a child, the young man somhow made his way back home...
 
-Some movement through the window caught the eye of his father; the sight of his son, who had been lost these last few years, coming up the drive. As the older man made he way outside, the family dog recognised its young master and ran to greet him. The boy bent down [arms outstretched], and the dog jumped up... gave a great big, doggy, slobbery wet...
+Some movement through the window had caught the eye of his father; the sight of his son, who had been lost these last few years, coming up the drive. As the older man made he way outside, the family dog recognised its young master and ran to greet him. The boy bent down [arms outstretched], and the dog jumped up... gave a great big, doggy, slobbery wet...
 
 As the old man reached out to hug his child, the young man drew away...
 
@@ -444,11 +444,11 @@ Anwen took to wandering. She had no family, she had no money, she had: no-one; n
 
 At last, she came to a village, where an old man took pity on her, gave her tea to drink, and some food to eat.
 
-The old man told her tales and legends of that place. Stories you may have heard before, or may yet hear. And he spoke of the strange goings on at the local manor house, what used to be a happy house; but then the Lord of the Manor's son had gone missing, a year or two back; and when he'dreturned, he wasn't himself. There was a story that if anyone could help him return to the happy person he had been, that if any young woman could help him smile again, them she could have his nad in marriage. But that was just a story.
+The old man told her tales and legends of that place. Stories you may have heard before, or may yet hear. And he spoke of the strange goings on at the local manor house, what used to be a happy house; but then the Lord of the Manor's son had gone missing, a year or two back; and when he'dreturned, he wasn't himself. There was a story that if anyone could help him return to the happy person he had been, that if any young woman could help him smile again, them she could have his hand in marriage. But that was just a story.
 
-And as the young lasss finished her story, outside, in the distance, a bell tolled.
+And with that, the young woman finished her story. And outside, in the distance, a bell tolled.
 
-At the end of the bed, the young man watched her, transfixed. He wiped the drying tears from his face. Held out his hand, his first still clenched. Openend it. And there, in the palm of his hand, a leaf. A single, solitary leaf.
+At the end of the bed, the young man watched her, transfixed. He wiped the drying tears from his face. Held out his hand, his first still clenched. Opened it. And there, in the palm of his hand, a leaf. A single, solitary leaf.
 
 And that *is* the end of the story.
 
