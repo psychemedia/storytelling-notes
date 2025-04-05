@@ -68,11 +68,11 @@ Sadko thought, and said to himself: Well, there is no harm done in casting out a
 
 He sat down again and played on his dulcimer and sang, and when he had finished his singing the dusk had fallen and the moon shone over the lake. He put down his dulcimer and took hold of the ropes of the net, and began to draw it up out of the silver water. Easily the ropes came, and the net, dripping and glittering in the moonlight.
 
-"I was dreaming," said Sadko; " I was asleep when I saw the Tzar of the Sea, and there is nothing in the net at all."
+"I was dreaming," said Sadko; "I was asleep when I saw the Tzar of the Sea, and there is nothing in the net at all."
 
 And then, just as the last of the net was coming ashore, he saw something in it, square and dark. He dragged it out, and found it was a coffer. He opened the coffer, and it was full of precious stones green, red, gold gleaming in the light of the moon. Diamonds shone there like little bundles of sharp knives.
 
-"There can be no harm in taking these stones," says Sadko, " whether I dreamed or not."
+"There can be no harm in taking these stones," says Sadko, "whether I dreamed or not."
 
 He took the coffer on his shoulder, and bent under the weight of it, strong though he was. He put it in a safe place. All night he sat and watched by the nets, and played and sang, and planned what he would do.
 
@@ -100,7 +100,7 @@ And suddenly the ship stopped. In the middle of the sea, far from land, the ship
 
 "We are aground!" cry the sailors; and the captain, the great one, tells them to take soundings. Seventy fathoms by the bow it was, and seventy fathoms by the stern.
 
-"We are not aground," says the captain, " unless there is a rock sticking up like a needle in the middle of the Caspian Sea!'
+"We are not aground," says the captain, "unless there is a rock sticking up like a needle in the middle of the Caspian Sea!'
 
 "There is magic in this," say the sailors.
 
@@ -116,7 +116,7 @@ The sailors cut pieces of string, all of a length, as many as there were souls i
 
 "Magician, sorcerer, unclean one!" shouted the sailors.
 
-"Not so," said Sadko. " I remember now an old promise I made, and I keep it willingly."
+"Not so," said Sadko. "I remember now an old promise I made, and I keep it willingly."
 
 He took his dulcimer in his hand, and leapt from the ship into the blue Caspian Sea. The waves had scarcely closed over his head before the ship shot forward again, and flew over the waves like a swan's feather, and came in the end safely to her harbour.
 
@@ -132,7 +132,7 @@ Sadko walked between the sturgeons and through the gates of the palace. Inside t
 
 "Ah, Sadko," says the Tzar of the Sea, "you took what the sea gave you, but you have been a long time in coming to sing in the palaces of the sea. Twelve years I have lain here waiting for you."
 
-"Great Tzar, forgive," says Sadko. " Sing now," says the Tzar of the Sea, and his voice was like the beating of waves.
+"Great Tzar, forgive," says Sadko. "Sing now," says the Tzar of the Sea, and his voice was like the beating of waves.
 
 And Sadko played on his dulcimer and sang.
 
@@ -150,7 +150,7 @@ Great was that dancing. The sea boiled, and ships went down. The waves rolled as
 
 He danced till he was tired, and then he came back to the palace of green wood, and passed the sturgeons, and shrank into himself and came through the gates into the hall, where Sadko still played on his dulcimer and sang.
 
-"You have played well and given me pleasure," says the Tzar of the Sea. " I have thirty daughters, and you shall choose one and marry her, and be a Prince of the Sea."
+"You have played well and given me pleasure," says the Tzar of the Sea. "I have thirty daughters, and you shall choose one and marry her, and be a Prince of the Sea."
 
 "Better than all maidens I love my little river," says Sadko; and the Tzar of the Sea laughed and threw his head back, with his blue hair floating all over the hall.
 
@@ -164,15 +164,15 @@ She laughed, and her voice was like the flowing of the river.
 
 "It is the little river Volkhov that flows by Novgorod," says Sadko; "but your daughter is as fair as the little river, and I would gladly marry her if she will have me."
 
-"It is a strange thing," says the Tzar, " but Volkhov is the name of my youngest daughter."
+"It is a strange thing," says the Tzar, "but Volkhov is the name of my youngest daughter."
 
 He put Sadko's hand in the hand of his youngest daughter, and they kissed each other. And as they kissed, Sadko saw a necklace round her neck, and knew it for one he had thrown into the river as a present for his sweetheart.
 
-She smiled, and " Come!" says she, and took him away to a palace of her own, and showed him a coffer; and in that coffer were bracelets and rings and earrings all the gifts that he had thrown into the river.
+She smiled, and "Come!" says she, and took him away to a palace of her own, and showed him a coffer; and in that coffer were bracelets and rings and earrings all the gifts that he had thrown into the river.
 
 And Sadko laughed for joy, and kissed the youngest daughter of the Tzar of the Sea, and she kissed him back.
 
-"O my little river!" says he; " there is no girl in all the world but thou as pretty as my little river."
+"O my little river!" says he; "there is no girl in all the world but thou as pretty as my little river."
 
 Well, they were married, and the Tzar of the Sea laughed at the wedding feast till the palace shook and the fish swam off in all directions.
 
@@ -186,7 +186,7 @@ And after the feast Sadko and his bride went off together to her palace. And bef
 
 "O grandfather! And what happened to him after that?" asked Maroosia.
 
-"There are many tales," said old Peter. " Some say he went into the town, and lived on alone until he died. But I think with those who say that he took his dulcimer and swam out into the middle of the river, and sank under water again, looking for his little Princess. They say he found her, and lives still in the green palaces of the bottom of the sea; and when there is a big storm, you may know that Sadko is playing on his dulcimer and singing, and that the Tzar of the Sea is dancing his tremendous dance down there, on the bottom, under the waves."
+"There are many tales," said old Peter. "Some say he went into the town, and lived on alone until he died. But I think with those who say that he took his dulcimer and swam out into the middle of the river, and sank under water again, looking for his little Princess. They say he found her, and lives still in the green palaces of the bottom of the sea; and when there is a big storm, you may know that Sadko is playing on his dulcimer and singing, and that the Tzar of the Sea is dancing his tremendous dance down there, on the bottom, under the waves."
 
 "Yes, I expect that's what happened," said Ivan. "He'd have found it very dull in Novgorod, even though it is a big town."
 

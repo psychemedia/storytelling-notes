@@ -10,23 +10,23 @@ Aleksandr Nikolaevich Afanasev, *Russian folk-tales: (translated from the Russia
 
 THE TALE OF IVAN TSAREVICH, THE BIRD OF LIGHT, AND THE GREY WOLF
 
-There was once, in a certain kingdom, a certain state, where there lived Tsar Vyslav Andronovich, who had three sons: the first was called Dmitri Tsarevich, the second Vasili Tsarevich, and the third Ivan Tsarevich. This Tsar had a garden so rich that in no other kingdom was there any better, and in that garden many rare trees grew with fruits and without fruits. And the Tsar had an apple-tree which he especially loved, and on that apple-tree all the apples that grew were of gold. But it happened that the Bird of Light began to fly to visit Tsar Vyslav. The feathers of the bird were all gold, but the eyes were like crystal of the East. It flew into the garden every night and sat on the apple-tree beloved of Tsar Vyslav, and used to pluck down the golden apples and fly away. Tsar Vyslav Andronovich was deeply afflicted, and he called to him his three sons and said to them: " My beloved children, which of you will go into my garden and catch the Bird of Light? He who captures it alive, I will in my lifetime give him the half of my kingdom, and at my death he shall have it all."
+There was once, in a certain kingdom, a certain state, where there lived Tsar Vyslav Andronovich, who had three sons: the first was called Dmitri Tsarevich, the second Vasili Tsarevich, and the third Ivan Tsarevich. This Tsar had a garden so rich that in no other kingdom was there any better, and in that garden many rare trees grew with fruits and without fruits. And the Tsar had an apple-tree which he especially loved, and on that apple-tree all the apples that grew were of gold. But it happened that the Bird of Light began to fly to visit Tsar Vyslav. The feathers of the bird were all gold, but the eyes were like crystal of the East. It flew into the garden every night and sat on the apple-tree beloved of Tsar Vyslav, and used to pluck down the golden apples and fly away. Tsar Vyslav Andronovich was deeply afflicted, and he called to him his three sons and said to them: "My beloved children, which of you will go into my garden and catch the Bird of Light? He who captures it alive, I will in my lifetime give him the half of my kingdom, and at my death he shall have it all."
 
-Then his children, the Tsarevichi, said in a single voice: " Gracious lord, our father. Your Imperial Majesty, we will, with the greatest pleasure, try to catch the Bird of Light alive."
+Then his children, the Tsarevichi, said in a single voice: "Gracious lord, our father. Your Imperial Majesty, we will, with the greatest pleasure, try to catch the Bird of Light alive."
 
 On the first night Dmitri Tsarevich went into the garden and sat under the apple-tree from which the Bird of Light used to steal the apples; but he went to sleep, and he never heard when the Bird of Light flew up and again plucked off many apples.
 
-In the morning Tsar Vyslav Andronovich called his son Dmitri to him, and he asked him: " Well, my beloved son, did you see the Bird of Light, or did you not?" And he answered: " Father, gracious lord, this night it did not come."
+In the morning Tsar Vyslav Andronovich called his son Dmitri to him, and he asked him: "Well, my beloved son, did you see the Bird of Light, or did you not?" And he answered: "Father, gracious lord, this night it did not come."
 
 So the next night Vasili Tsarevich went to keep watch in the garden. He sat under the same apple-tree, and sat there one hour and went to sleep so soundly that he never heard the coming of the Bird of Light, which flew on to the tree, perched on it, and plucked many apples.
 
-In the morning the Tsar called his second son and questioned him, and he answered: " Gracious lord, my father, this night the Bird of Light did not come."
+In the morning the Tsar called his second son and questioned him, and he answered: "Gracious lord, my father, this night the Bird of Light did not come."
 
 And on the third night Ivan Tsarevich went into the garden to watch, and sat under the same apple-tree; and he waited one hour, a second hour, and a third hour; and then the whole garden lit up as though it shone with many fires, and the Bird of Light flew in and sat on the apple-tree and began to pluck the apples. Ivan Tsarevich stole under it so warily, and seized it by its tail, only he could not keep hold of it; and had only one feather out of its tail.
 
 In the morning, when Tsar Vyslav awoke from his sleep, Ivan Tsarevich went to him, and gave him the feather of the Bird of Light. Tsar Vyslav was very glad that his youngest son had succeeded, although he had only a single feather; and this feather was so marvellous and bright that you had only to take it into some dark attic and it shone as bright as the red sun. Tsar Vyslav put the feather into his cabinet as an article which he must keep for ever; and from that time forward the Bird of Light never flew into the garden.
 
-Tsar Vyslav once again called his children unto him and said, " My beloved sons, do ye journey forth: I will give you my blessing. You must seek for the Bird of Light and bring it to me alive; and what I promised you before, he who captures the Bird of Light shall have."
+Tsar Vyslav once again called his children unto him and said, "My beloved sons, do ye journey forth: I will give you my blessing. You must seek for the Bird of Light and bring it to me alive; and what I promised you before, he who captures the Bird of Light shall have."
 
 Dmitri and Vasili were envious of their younger brother Ivan that he had succeeded in pulling the feather out of the Bird of Light's tail. But Ivan Tsarevich asked leave of his father and his blessing. Tsar Vyslav tried to keep Ivan back, but he could not, and he let him go at his unrelaxing prayer. Ivan Tsarevich received his father's blessing, took his horse, and went on his journey, journeying forth, not knowing whither he was going.
 
@@ -34,25 +34,25 @@ And as he went on the road and way — it may be near, it may be far, it may be 
 
 "Whosoever goes on straight from this column, he shall have hunger and cold. Whosoever goes to the right, he shall have health and life, but his horse shall be slain. And whosoever goes to the left, he shall himself be slain, but his horse shall have life and be healthy."
 
-Ivan Tsarevich read this inscription, and he went to the right, bethinking himself, if his horse were to be slain, anyhow he would remain alive. So he went on one day, and a second and a third day, and suddenly a fierce grey Wolf met him and said: " All hail to thee, warrior! Doughty of might, Ivan Tsarevich, hast thou read how it is written on the column that thy horse shall be slain? So why hast thou ridden this way?" And the Wolf, speaking these words, cleft the horse of the young Ivan Tsarevich in two and went far aside.
+Ivan Tsarevich read this inscription, and he went to the right, bethinking himself, if his horse were to be slain, anyhow he would remain alive. So he went on one day, and a second and a third day, and suddenly a fierce grey Wolf met him and said: "All hail to thee, warrior! Doughty of might, Ivan Tsarevich, hast thou read how it is written on the column that thy horse shall be slain? So why hast thou ridden this way?" And the Wolf, speaking these words, cleft the horse of the young Ivan Tsarevich in two and went far aside.
 
-Ivan Tsarevich wept bitterly for his horse, and he went on on foot. And he went one whole day and grew very, very tired; and when he wanted to sit down and to rest, suddenly the grey Wolf came up to him and said: " I have pity for you, Ivan Tsarevich, that you are tiring yourself going on foot. Come, sit on me — on the grey Wolf — and say whither I shall take you and wherefore." Ivan Tsarevich told the grey Wolf where he wanted to go, and the grey Wolf flew off with him swifter than any horse; and, in a short time, as it might be in a single night, he conducted Ivan Tsarevich to a stone wall, stopped, and said: " Now, Ivan Tsarevich, jump off me — off the grey Wolf — and go through this stone wall. There is a garden behind the wall, and in that garden the Bird of Light is sitting in a golden cage. You must take the Bird of Light, but you must not touch the golden cage, or they will capture you at once."
+Ivan Tsarevich wept bitterly for his horse, and he went on on foot. And he went one whole day and grew very, very tired; and when he wanted to sit down and to rest, suddenly the grey Wolf came up to him and said: "I have pity for you, Ivan Tsarevich, that you are tiring yourself going on foot. Come, sit on me — on the grey Wolf — and say whither I shall take you and wherefore." Ivan Tsarevich told the grey Wolf where he wanted to go, and the grey Wolf flew off with him swifter than any horse; and, in a short time, as it might be in a single night, he conducted Ivan Tsarevich to a stone wall, stopped, and said: "Now, Ivan Tsarevich, jump off me — off the grey Wolf — and go through this stone wall. There is a garden behind the wall, and in that garden the Bird of Light is sitting in a golden cage. You must take the Bird of Light, but you must not touch the golden cage, or they will capture you at once."
 
-Ivan Tsarevich slipped through the stone wall into the garden, saw the Bird of Light in the golden cage, and was very pleased. He took the Bird out of the cage, and was going back, and then he thought and said to himself: " Why should I take the Bird of Light without the cage? Where shall I put it?" So he turned back, and as soon as ever he had taken the golden cage there was a clamour and a clangour in the garden as though there were ropes attached to the cage. All the watchmen woke up, ran up into the garden, seized Ivan Tsarevich with the Bird of Light, and took him to their Tsar, who was called Dolmat.
+Ivan Tsarevich slipped through the stone wall into the garden, saw the Bird of Light in the golden cage, and was very pleased. He took the Bird out of the cage, and was going back, and then he thought and said to himself: "Why should I take the Bird of Light without the cage? Where shall I put it?" So he turned back, and as soon as ever he had taken the golden cage there was a clamour and a clangour in the garden as though there were ropes attached to the cage. All the watchmen woke up, ran up into the garden, seized Ivan Tsarevich with the Bird of Light, and took him to their Tsar, who was called Dolmat.
 
-Tsar Dolmat was very angry with Ivan Tsarevich, and shrieked in a wrathful tone: " Are you not ashamed of yourself, young man, to come stealing? Who are you — of what land? Who was your father? How do they call you on earth?"
+Tsar Dolmat was very angry with Ivan Tsarevich, and shrieked in a wrathful tone: "Are you not ashamed of yourself, young man, to come stealing? Who are you — of what land? Who was your father? How do they call you on earth?"
 
-Ivan Tsarevich answered him: " I am the son of Tsar Vyslav Andronovich, and they call me Ivan Tsarevich. Your Bird of Light flew into the garden every night and stole the golden apples from the apple-tree my father loved, and for that reason my father sent me to seek the Bird of Light and to take it to him."
+Ivan Tsarevich answered him: "I am the son of Tsar Vyslav Andronovich, and they call me Ivan Tsarevich. Your Bird of Light flew into the garden every night and stole the golden apples from the apple-tree my father loved, and for that reason my father sent me to seek the Bird of Light and to take it to him."
 
 "Oh, thou brave youth, Ivan Tsarevich!" Tsar Dolmat cried. I would certainly have given you the bird, but what did you do? If you had come to me, 1 should have given you the Bird of Light as an honour; but, now, would it be well, were I to send you into all kingdoms to proclaim how you came into my realm and dealt dishonourably? Now listen, Ivan Tsarevich. If you will do me this service, if you will go across thrice nine kingdoms into the thrice-tenth realm, and will there obtain me from Tsar Af ron the golden-maned horse, I will forgive your sin, and I will give you the Bird of Light, and will do you great honour."
 
 And Ivan Tsarevich became very sorrowful, and left Tsar Dolmat, found the grey Wolf, and told him of everything.
 
-Hail to thee, warrior, doughty of might!" the grey Wolf said to him. " Why did you not listen to my words? Why did you take the golden cage?"
+Hail to thee, warrior, doughty of might!" the grey Wolf said to him. "Why did you not listen to my words? Why did you take the golden cage?"
 
 "I am guilty," Ivan Tsarevich said to the Wolf.
 
-"Well, so be it," said the grey Wolf. " Sit on me — on the grey Wolf. I will take you wherever you wish."
+"Well, so be it," said the grey Wolf. "Sit on me — on the grey Wolf. I will take you wherever you wish."
 
 Ivan Tsarevich sat on the grey Wolf's back, and the Wolf chased as fast as a dart and ran may-be far, may-be near, and at last he reached the kingdom of Tsar Afron at night-time; and when he had come to the whitestoned stables of the Tsar, the grey Wolf said to Ivan Tsarevich: "Get down, Ivan, go into the whitestoned stables, and take the golden-maned horse; only there hangs a golden bridle on the wall which you are not to touch, or it vv^ill go ill with you."
 
@@ -62,71 +62,71 @@ Tsar Afron was very angry with Ivan Tsarevich, and asked him who he was, who was
 
 Ivan Tsarevich went out of the palace and began to weep bitterly: then he came to the grey Wolf and related how it had gone with him.
 
-"Hail to thee, brave warrior, doughty of might!" the grey Wolf said. " Why did you not listen to my words, and take the golden bridle?"
+"Hail to thee, brave warrior, doughty of might!" the grey Wolf said. "Why did you not listen to my words, and take the golden bridle?"
 
 "I have been guilty before you," said Ivan Tsarevich.
 
-"Well, so be it," the grey Wolf went on. " Sit on my back, on the grey Wolf: I will take you wherever you require."
+"Well, so be it," the grey Wolf went on. "Sit on my back, on the grey Wolf: I will take you wherever you require."
 
-So Ivan Tsarevich sat on the grey Wolf's back, and the grey Wolf scoured as fast as a dart, and at last he arrived at the kingdom of Princess Elena the Fair, to the golden palisade which surrounded the wonderful garden; and the Wolf said to the Tsarevich: " Ivan Tsarevich, slip off my back, off the grey Wolf, and go behind on that road and wait for me in the open field under the green oak." Ivan Tsarevich went as he was bidden, and the grey Wolf sat near the golden palisade, waiting until Princess Elena the Fair should come into the garden to walk.
+So Ivan Tsarevich sat on the grey Wolf's back, and the grey Wolf scoured as fast as a dart, and at last he arrived at the kingdom of Princess Elena the Fair, to the golden palisade which surrounded the wonderful garden; and the Wolf said to the Tsarevich: "Ivan Tsarevich, slip off my back, off the grey Wolf, and go behind on that road and wait for me in the open field under the green oak." Ivan Tsarevich went as he was bidden, and the grey Wolf sat near the golden palisade, waiting until Princess Elena the Fair should come into the garden to walk.
 
-In the evening, when the little sun was setting fast to the West, Princess Elena the Fair went into the garden to take a walk with all of her maids of honour and servants and attendants and all the boyáryni `[Countesses]` around. When she came to the place where the grey Wolf sat behind the railing, suddenly the grey Wolf leapt across the grating to the garden, seized Princess Elena the Fair, leapt back and ran away with all his might and strength. He then went into the open field under the green oak where Ivan Tsarevich was waiting, and said, " Ivan Tsarevich, come sit on my back, on the grey Wolf swiftly." Ivan Tsarevich sat on him, and the grey Wolf scoured off with them both fast to the kingdom of Tsar Afron.
+In the evening, when the little sun was setting fast to the West, Princess Elena the Fair went into the garden to take a walk with all of her maids of honour and servants and attendants and all the boyáryni `[Countesses]` around. When she came to the place where the grey Wolf sat behind the railing, suddenly the grey Wolf leapt across the grating to the garden, seized Princess Elena the Fair, leapt back and ran away with all his might and strength. He then went into the open field under the green oak where Ivan Tsarevich was waiting, and said, "Ivan Tsarevich, come sit on my back, on the grey Wolf swiftly." Ivan Tsarevich sat on him, and the grey Wolf scoured off with them both fast to the kingdom of Tsar Afron.
 
 All the maids of honour and servants and attendants and boydryni ran swiftly into the palace and began to set a hunt on foot, but however many the hunters that hunted, they could not hunt down the grey Wolf, and so they all turned back home again frustrated.
 
 Ivan Tsarevich, seated on the grey Wolf's back with Princess Elena the Fair, fell in love with her and she with him: and when the grey Wolf arrived at the garden of Tsar Afron, the Tsarevich grew very sad and began to weep tears.
 
-The grey Wolf asked him, " Why are you weeping, Tsarevich?"
+The grey Wolf asked him, "Why are you weeping, Tsarevich?"
 
-And Ivan Tsarevich answered him, " O my friend, the grey Wolf, how shall it be to me, the doughty youth, not to weep, not to be afflicted? I love Princess Elena the Fair with all my heart, and now I must give her up to Tsar Afron in exchange for the golden-maned horse: and, if I do not give her up, then Tsar Afron will dishonour me throughout all the kingdoms."
+And Ivan Tsarevich answered him, "O my friend, the grey Wolf, how shall it be to me, the doughty youth, not to weep, not to be afflicted? I love Princess Elena the Fair with all my heart, and now I must give her up to Tsar Afron in exchange for the golden-maned horse: and, if I do not give her up, then Tsar Afron will dishonour me throughout all the kingdoms."
 
-"I have served you well, Ivan Tsarevich," the greyWolf replied, " and I will serve you yet this service. Listen, Ivan Tsarevich, I will turn myself into the fair Princess Elena, and you will take me to Tsar Afron and be given the golden-maned horse: he will then take me as his queen, and when you sit on the golden-maned horse and you ride far away, then I will ask Tsar Afron leave to walk in the open field, and when he lets me go with the maids of honour and servants and servingmaids and attendants and the boydryni, then think of me, and I shall be with you once again."
+"I have served you well, Ivan Tsarevich," the greyWolf replied, "and I will serve you yet this service. Listen, Ivan Tsarevich, I will turn myself into the fair Princess Elena, and you will take me to Tsar Afron and be given the golden-maned horse: he will then take me as his queen, and when you sit on the golden-maned horse and you ride far away, then I will ask Tsar Afron leave to walk in the open field, and when he lets me go with the maids of honour and servants and servingmaids and attendants and the boydryni, then think of me, and I shall be with you once again."
 
 His speech finished, the grey Wolf struck the grey earth and he turned himself into Princess Elena.
 
 Ivan Tsarevich took the grey Wolf and went into the palace of Tsar Afron together with the supposed Elena the Fair. Then the Tsar was very joyous in his heart that he had received such a treasure, which he had been desiring for long, and he gave the golden-maned horse to Ivan Tsarevich. Ivan Tsarevich sat on the horse, and he went behind the town and he placed Elena the Fair on it, and they went away, taking their road to the kingdom of Tsar Dolmat.
 
-The grey Wolf stayed one day with Tsar Afron, and a second day and a third in the stead of fair Princess Elena. And then he asked leave of Tsar Afron to go and walk in the open field, that he might drive out the ravening sorrow from his heart. Then Tsar Afron said to him: " O my fair Queen Elena, I will do anything for you," and he promptly bade the maids of honour, the servants, the attendants and the boyáryni to go with him and the fair Princess into the open field to walk.
+The grey Wolf stayed one day with Tsar Afron, and a second day and a third in the stead of fair Princess Elena. And then he asked leave of Tsar Afron to go and walk in the open field, that he might drive out the ravening sorrow from his heart. Then Tsar Afron said to him: "O my fair Queen Elena, I will do anything for you," and he promptly bade the maids of honour, the servants, the attendants and the boyáryni to go with him and the fair Princess into the open field to walk.
 
-Ivan Tsarevich went on his way and rode with Elena the Fair, and they had almost forgotten the grey Wolf, when he suddenly recollected: " Oh, where is my grey Wolf?"
+Ivan Tsarevich went on his way and rode with Elena the Fair, and they had almost forgotten the grey Wolf, when he suddenly recollected: "Oh, where is my grey Wolf?"
 
-Then, from some source unknown, he stood in front of Ivan Tsarevich and said, " Sit on me, Ivan Tsarevich, on the grey Wolf, and the fair Princess can go on the golden-maned steed."
+Then, from some source unknown, he stood in front of Ivan Tsarevich and said, "Sit on me, Ivan Tsarevich, on the grey Wolf, and the fair Princess can go on the golden-maned steed."
 
-Ivan Tsarevich sat on the grey Wolf, and so they went on to the realm of Tsar Dolmat, may-be far or near; and when they reached that kingdom then they stopped three versts out of the town, and Ivan began to beseech the grey Wolf: " Listen to me, my beloved friend, the grey Wolf; you have served me so many services, serve me a last: can you not turn yourself into the golden-maned horse?"
+Ivan Tsarevich sat on the grey Wolf, and so they went on to the realm of Tsar Dolmat, may-be far or near; and when they reached that kingdom then they stopped three versts out of the town, and Ivan began to beseech the grey Wolf: "Listen to me, my beloved friend, the grey Wolf; you have served me so many services, serve me a last: can you not turn yourself into the golden-maned horse?"
 
 Then the grey Wolf struck the grey earth and became the golden-maned horse; and Ivan Tsarevich left the Fair Elena in the green meadow, sat on the grey Wolf and went into the palace to Tsar Dolmat; and as soon as ever Tsar Dolmat saw Ivan Tsarevich, that he was riding the golden-maned horse, he came out of his palace, met the Tsarevich in the open courtyard, kissed him on his smooth cheeks, took him by his right hand and led him into the white-stoned palace. Tsar Dolmat for such a joy bade a feast be prepared, and they sat at the oaken tables by the chequered table-cloths, and they ate, drank and made merry for two days. On the third day Tsar Dolmat delivered to Ivan the Bird of Light with the golden cage. The Tsarevich took the golden Bird, went outside the town, sat on the golden-maned horse together with the Princess Elena, and went back to his own country.
 
 Tsar Dolmat thought the next day he would take his golden-maned horse into the open fields, and as soon as ever he had angered the horse, it reared and was turned into a great grey Wolf who raced off.
 
-When it came up with Ivan Tsarevich it said, " Sit on me, on the grey Wolf, and Princess Elena the Fair she can ride on the golden-maned horse."
+When it came up with Ivan Tsarevich it said, "Sit on me, on the grey Wolf, and Princess Elena the Fair she can ride on the golden-maned horse."
 
 Ivan Tsarevich sat on the grey Wolf and they went a third journey. Soon the grey Wolf took Ivan Tsarevich to the place where he had cleft his horse in two, and said: Now, Ivan Tsarevich, I have served you well, faithfully and truly: on this spot I cleft your horse in two, and up to this spot I have brought you again: slip off me, off the grey Wolf; now you have your golden-maned horse, I can serve you no more."
 
 The grey Wolf spoke these words and went into the forest; and Ivan Tsarevich wept bitterly for the grey Wolf, and went on his road with the fair Elena on the golden-maned horse. And before he reached his own kingdom and when he was only twenty versts off, he stopped, got off his horse, and together with the fair Elena went under a tree: he tied the golden-maned horse to that same tree, and he took the cage with the Bird of Light with him; and lying on the grass engaged in loving conversations they went to sleep.
 
-Now it happened at this time that the brothers of Ivan Tsarevich, Dmitri and Vasili, were riding out in different states and could not find the Bird of Light. They were just returning to their kingdom with empty hands, and they were provoked. And they lit upon their sleeping brother with the fair Princess Elena. When they saw the golden-maned horse and the Bird of Light in the golden cage on the grass they were delighted, and thought that they would slay their brother Ivan Tsarevich. Dmitri took his sword out of his sheath and cleft Ivan Tsarevich, and then he roused the fair Princess Elena and began to ask her: " Fair maiden, from what kingdom art thou, who was thy father, how do they call thee on earth?"
+Now it happened at this time that the brothers of Ivan Tsarevich, Dmitri and Vasili, were riding out in different states and could not find the Bird of Light. They were just returning to their kingdom with empty hands, and they were provoked. And they lit upon their sleeping brother with the fair Princess Elena. When they saw the golden-maned horse and the Bird of Light in the golden cage on the grass they were delighted, and thought that they would slay their brother Ivan Tsarevich. Dmitri took his sword out of his sheath and cleft Ivan Tsarevich, and then he roused the fair Princess Elena and began to ask her: "Fair maiden, from what kingdom art thou, who was thy father, how do they call thee on earth?"
 
-And the fair Princess Elena, seeing Ivan Tsarevich dead, was sore afraid, and with bitter tears spake. " I m Princess Elena the Fair; and Ivan Tsarevich found me, whom ye have slain, whom ye have given over to an evil death: if ye were good champions, ye would have gone with him into the open field and have slain him in fair fight. But ye have slain him in his sleep, and how shall ye receive praise? Is not a man asleep as one dead?"
+And the fair Princess Elena, seeing Ivan Tsarevich dead, was sore afraid, and with bitter tears spake. "I am Princess Elena the Fair; and Ivan Tsarevich found me, whom ye have slain, whom ye have given over to an evil death: if ye were good champions, ye would have gone with him into the open field and have slain him in fair fight. But ye have slain him in his sleep, and how shall ye receive praise? Is not a man asleep as one dead?"
 
-Then Dmitri Tsarevich put his sword to the breast of fair Princess Elena: " Listen, Elena the Fair, you are now in our hands: we will take you to our father, Tsar Vyslav Andronovich, and you are to tell him that we found you and the Bird of Light and the golden-maned steed. If you do not say this, we will slay you at once."
+Then Dmitri Tsarevich put his sword to the breast of fair Princess Elena: "Listen, Elena the Fair, you are now in our hands: we will take you to our father, Tsar Vyslav Andronovich, and you are to tell him that we found you and the Bird of Light and the golden-maned steed. If you do not say this, we will slay you at once."
 
 Princess Elena the Fair was frightened to death, and swore by all the holy relics that she would do as she was bidden. Then Dmitri Tsarevich and Vasili Tsarevich began to cast lots who should have the fair Princess Elena and who should have the golden-maned horse, and the lot fell that the fair Princess Elena should belong to Vasili and the horse to Dmitri.
 
-Ivan Tsarevich lay down dead on that spot for thirty days, and in that time the grey Wolf ran up to him and he recognised Ivan Tsarevich by his breath, and he wished to help him and revive him, but he did not know how. Then at that time he saw a crow and two nestlings flying round the body, who wished to land there and to eat the flesh of Ivan Tsarevich. The grey Wolf sprang from behind the bush, laid hold of one of the nestlings and was going to tear it in two. Then the crow flung himself on earth and sat not far from the grey Wolf on the fields. " Don't touch my child; it has not done you any harm!"
+Ivan Tsarevich lay down dead on that spot for thirty days, and in that time the grey Wolf ran up to him and he recognised Ivan Tsarevich by his breath, and he wished to help him and revive him, but he did not know how. Then at that time he saw a crow and two nestlings flying round the body, who wished to land there and to eat the flesh of Ivan Tsarevich. The grey Wolf sprang from behind the bush, laid hold of one of the nestlings and was going to tear it in two. Then the crow flung himself on earth and sat not far from the grey Wolf on the fields. "Don't touch my child; it has not done you any harm!"
 
 "Listen, Voron Voronovich: I will not touch your son if you will do me a service; to fly across thrice-nine lands into the thrice-tenth realm and bring me the waters of Life and Death."
 
-Then the crow said, " Grey Wolf, I will do this service; only do not touch my son." And the crow spoke these words and flew away.
+Then the crow said, "Grey Wolf, I will do this service; only do not touch my son." And the crow spoke these words and flew away.
 
 On the third day the crow flew back and brought with him two phials: in one was the water of Life and in the other the water of Death. And he gave these to the grey Wolf; and the grey Wolf took the phials, cut the nestling into two, sprinkled him with the dead water, and the nestling grew together; then he sprinkled him with the water of Life, and the nestling shook himself and flew away.
 
-Then the grey Wolf sprinkled Ivan Tsarevich with the water of Death, and his body clove together; and he sprinkled him then with the water of Life, and Ivan Tsarevich stood up alive and said: " Oh, what a long sleep I have had!"
+Then the grey Wolf sprinkled Ivan Tsarevich with the water of Death, and his body clove together; and he sprinkled him then with the water of Life, and Ivan Tsarevich stood up alive and said: "Oh, what a long sleep I have had!"
 
-And the grey Wolf said to him, " Yes, Ivan Tsarevich, you might have slept for ever if I had not been here: for your brothers have plundered you, and they have taken Princess Elena the Fair and the golden-maned horse and the Bird of Light with them. Now listen, and return to your kingdom as fast as you can: your brother Vasili is to-day going to marry your bride. Princess Elena the Fair. You must hasten there as fast as possible. Sit on me, on the grey Wolf, and I will take you there."
+And the grey Wolf said to him, "Yes, Ivan Tsarevich, you might have slept for ever if I had not been here: for your brothers have plundered you, and they have taken Princess Elena the Fair and the golden-maned horse and the Bird of Light with them. Now listen, and return to your kingdom as fast as you can: your brother Vasili is to-day going to marry your bride. Princess Elena the Fair. You must hasten there as fast as possible. Sit on me, on the grey Wolf, and I will take you there."
 
 Ivan Tsarevich sat on the grey Wolf, and the Wolf ran with him into the kingdom of Tsar Vyslav Andronovich, and, whether it be long or whether it be far or whether it be near, they reached the town. Ivan Tsarevich slipped off the grey Wolf and w^ent into the town and arrived at the palace, and waited until his brother had returned with the Princess from the crowning; and they were sitting down at table.
 
-When Elena the Fair saw Ivan Tsarevich, she jumped up at once from her chair and began to kiss his sweet lips and to cry out, " O my beloved bridegroom, Ivan Tsarevich: this is he, and not that other who sits at table."
+When Elena the Fair saw Ivan Tsarevich, she jumped up at once from her chair and began to kiss his sweet lips and to cry out, "O my beloved bridegroom, Ivan Tsarevich: this is he, and not that other who sits at table."
 
 Then Tsar Vyslav Andronovich stood up from his place and began to ask, and began to question the Princess Elena the Fair what this might mean. Then the fair Princess told him all the real truth, how it had been.
 
@@ -153,7 +153,7 @@ Well, one day long ago, in the green time of the year, the young archer rode thr
 
 He had scarcely said this before he saw a big curving feather lying in the path before him. The feather was larger than a swan's, larger than an eagle's. It lay in the path, glittering like a flame; for the sun was on it, and it was a feather of pure gold. Then he knew why there was no singing in the forest. For he knew that the fire-bird had flown that way, and that the feather in the path before him was a feather from its burning breast. The horse of power spoke and said: 'Leave the golden feather where it lies. __If you take it you will be sorry for it, and know the meaning of fear__."
 
-But the brave young archer sat on the horse of power and looked at the golden feather, and wondered whether to take it or not. He had no wish to learn what it was to be afraid, but he thought, " If I take it and bring it to the Tzar my master, he will be pleased; and he will not send me away with empty hands, for no tzar in the world has a feather from the burning breast of the fire-bird." And the more he thought, the more he wanted to carry the feather to the Tzar. And in the end he did not listen to the words of the horse of power. He leapt from the saddle, picked up the golden feather of the fire-bird, mounted his horse again, and galloped back through the green forest till he came to the palace of the Tzar.
+But the brave young archer sat on the horse of power and looked at the golden feather, and wondered whether to take it or not. He had no wish to learn what it was to be afraid, but he thought, "If I take it and bring it to the Tzar my master, he will be pleased; and he will not send me away with empty hands, for no tzar in the world has a feather from the burning breast of the fire-bird." And the more he thought, the more he wanted to carry the feather to the Tzar. And in the end he did not listen to the words of the horse of power. He leapt from the saddle, picked up the golden feather of the fire-bird, mounted his horse again, and galloped back through the green forest till he came to the palace of the Tzar.
 
 He went into the palace, and bowed before the Tzar and said:
 
@@ -161,15 +161,15 @@ He went into the palace, and bowed before the Tzar and said:
 
 The Tzar looked gladly at the feather, and then at the young archer.
 
-"Thank you," says he; " but if you have brought me a feather of the fire-bird, you will be able to bring me the bird itself. I should like to see it. A feather is not a fit gift to bring to the Tzar. Bring the bird itself, or, __I swear by my sword, your head shall no longer sit between your shoulders!__"
+"Thank you," says he; "but if you have brought me a feather of the fire-bird, you will be able to bring me the bird itself. I should like to see it. A feather is not a fit gift to bring to the Tzar. Bring the bird itself, or, __I swear by my sword, your head shall no longer sit between your shoulders!__"
 
 The young archer bowed his head and went out. Bitterly he wept, for he knew now what it was to be afraid. He went out into the courtyard, where the horse of power was waiting for him, tossing its head and stamping on the ground.
 
-"Master," says the horse of power, " why do you weep?"
+"Master," says the horse of power, "why do you weep?"
 
 "The Tzar has told me to bring him the firebird, and no man on earth can do that," says the young archer, and he bowed his head on his breast.
 
-"I told you," says the horse of power, " that if you took the feather you would learn the meaning of fear. Well, do not be frightened yet, and __do not weep. The trouble is not now; the trouble is to come. Go to the Tzar and ask him__ to have a hundred sacks of maize scattered over the open field, and let this be done at midnight."
+"I told you," says the horse of power, "that if you took the feather you would learn the meaning of fear. Well, do not be frightened yet, and __do not weep. The trouble is not now; the trouble is to come. Go to the Tzar and ask him__ to have a hundred sacks of maize scattered over the open field, and let this be done at midnight."
 
 The young archer went back into the palace and begged the Tzar for this, and the Tzar ordered that at midnight a hundred sacks of maize should be scattered in the open field.
 
@@ -209,7 +209,7 @@ At last the Princess Vasilissa came up to the tent and looked in. The young arch
 
 And the Princess Vasilissa came into the tent and sat down with the young archer, and ate sweetmeats with him, and drank his health in a golden goblet of the wine the Tzar had given him. Now this wine was heavy, and the last drop from the goblet had no sooner trickled down her little slender throat than her eyes closed against her will, once, twice, and again.
 
-"Ah me!" says the Princess, " it is as if the night itself had perched on my eyelids, and yet it is but noon."
+"Ah me!" says the Princess, "it is as if the night itself had perched on my eyelids, and yet it is but noon."
 
 And the golden goblet dropped to the ground from her little fingers, and she leant back on a cushion and fell instantly asleep. __If she had been beautiful before, she was lovelier still__ when she lay in that deep sleep in the shadow of the tent.
 
@@ -217,13 +217,13 @@ Quickly the young archer called to the horse of power. Lightly he lifted the Pri
 
 They came to the Tzar's palace, and the young archer leapt from the horse of power and carried the Princess into the palace. Great was the joy of the Tzar; but it did not last for long.
 
-"Go, sound the trumpets for our wedding," he said to his servants; " let all the bells be rung."
+"Go, sound the trumpets for our wedding," he said to his servants; "let all the bells be rung."
 
 The bells rang out and the trumpets sounded, and at the noise of the horns and the ringing of the bells the Princess Vasilissa woke up and looked about her.
 
-"What is this ringing of bells," says she, " and this noise of trumpets? And where, oh, where is the blue sea, and my little silver boat with its golden oars?" And the Princess put her hand to her eyes.
+"What is this ringing of bells," says she, "and this noise of trumpets? And where, oh, where is the blue sea, and my little silver boat with its golden oars?" And the Princess put her hand to her eyes.
 
-"The blue sea is far away," says the Tzar, " and for your little silver boat I give you a golden throne. The trumpets sound for our wedding, and the bells are ringing for our joy."
+"The blue sea is far away," says the Tzar, "and for your little silver boat I give you a golden throne. The trumpets sound for our wedding, and the bells are ringing for our joy."
 
 But the Princess turned her face away from the Tzar; and there was no wonder in that, for he was old, and his eyes were not kind.
 
@@ -231,13 +231,13 @@ And she looked with love at the young archer; and there was no wonder in that ei
 
 The Tzar was angry with the Princess Vasilissa, but his anger was as useless as his joy.
 
-"Why, Princess," says he, " will you not marry me, and forget your blue sea and your silver boat ?
+"Why, Princess," says he, "will you not marry me, and forget your blue sea and your silver boat ?
 
-"In the middle of the deep blue sea lies a great stone," says the Princess, " and under that stone is hidden my wedding dress. If I cannot wear that dress I will marry nobody at all."
+"In the middle of the deep blue sea lies a great stone," says the Princess, "and under that stone is hidden my wedding dress. If I cannot wear that dress I will marry nobody at all."
 
 Instantly the Tzar turned to the young archer, who was waiting before the throne.
 
-"Ride swiftly back," says he, " to the land of Never, where the red sun rises in flame. There — do you hear what the Princess says; — a great stone lies in the middle of the sea. Under that stone is hidden her wedding dress. Ride swiftly. Bring back that dress, __or, by my sword, your head shall no longer sit between your shoulders!__"
+"Ride swiftly back," says he, "to the land of Never, where the red sun rises in flame. There — do you hear what the Princess says; — a great stone lies in the middle of the sea. Under that stone is hidden her wedding dress. Ride swiftly. Bring back that dress, __or, by my sword, your head shall no longer sit between your shoulders!__"
 
 The young archer wept bitter tears, and went out into the courtyard, where the horse of power was waiting for him, champing its golden bit.
 
@@ -261,7 +261,7 @@ Nearer and nearer came the lobster, and it was a giant among lobsters, the tzar 
 
 "Let me live, and I will do whatever you ask of me."
 
-"Very well," says the horse of power; " we will let you live," and he slowly lifted his foot. "But this is what you shall do for us. In the middle of the blue sea lies a great stone, and under that stone is hidden the wedding dress of the Princess Vasilissa. Bring it here."
+"Very well," says the horse of power; "we will let you live," and he slowly lifted his foot. "But this is what you shall do for us. In the middle of the blue sea lies a great stone, and under that stone is hidden the wedding dress of the Princess Vasilissa. Bring it here."
 
 The lobster groaned with the pain in his tail. Then he cried out in a voice that could be heard all over the deep blue sea. And the sea was disturbed, and from all sides lobsters in thousands made their way towards the bank. And the huge lobster that was the oldest of them all and the tzar of all the lobsters that live between the rising and the setting of the sun, gave them the order and sent them back into the sea. And the young archer sat on the horse of power and waited.
 
@@ -273,7 +273,7 @@ The young archer went into the palace and gave the casket into the hands of the 
 
 The Tzar held out his hand to the Princess, and looked at her with his old eyes. But she would not take his hand.
 
-"No," says she; " I will marry nobody until the man who brought me here has done penance in boiling water."
+"No," says she; "I will marry nobody until the man who brought me here has done penance in boiling water."
 
 Instantly the Tzar turned to his servants and ordered them to make a great fire, and to fill a great cauldron with water and set it on the fire, and, when the water should be at its hottest, to take the young archer and throw him into it, to do penance for having taken the Princess Vasilissa away from the land of Never.
 
@@ -281,23 +281,23 @@ There was no gratitude in the mind of that Tzar.
 
 Swiftly the servants brought wood and made a mighty fire, and on it they laid a huge cauldron of water, and built the fire round the walls of the cauldron. The fire burned hot and the water steamed. The fire burned hotter, and the water bubbled and seethed. They made ready to take the young archer, to throw him into the cauldron.
 
-"Oh, misery!" thought the young archer. " Why did I ever take the golden feather that had fallen from the fire-bird's burning breast? Why did I not listen to the wise words of the horse ot power?" And he remembered the horse of power, and he begged the Tzar:
+"Oh, misery!" thought the young archer. "Why did I ever take the golden feather that had fallen from the fire-bird's burning breast? Why did I not listen to the wise words of the horse ot power?" And he remembered the horse of power, and he begged the Tzar:
 
 "O lord Tzar, I do not complain. I shall presently die in the heat of the water on the fire. Suffer me, before I die, once more to see my horse."
 
 "Let him see his horse," says the Princess.
 
-"Very well," says the Tzar. " Say good-bye to your horse, for you will not ride him again. But let your farewells be short, for we are waiting."
+"Very well," says the Tzar. "Say good-bye to your horse, for you will not ride him again. But let your farewells be short, for we are waiting."
 
 The young archer crossed the courtyard and came to the horse of power, who was scraping the ground with his iron hoofs.
 
-"Farewell, my horse of power," says the young archer. " I should have listened to your words of wisdom, for now the end is come, and we shall never more see the green trees pass above us and the ground disappear beneath us, as we race the wind between the earth and the sky."
+"Farewell, my horse of power," says the young archer. "I should have listened to your words of wisdom, for now the end is come, and we shall never more see the green trees pass above us and the ground disappear beneath us, as we race the wind between the earth and the sky."
 
 "Why so?" says the horse of power.
 
 "The Tzar has ordered that I am to be boiled to death — thrown into that cauldron that is seething on the great fire."
 
-"Fear not," says the horse of power, " for the Princess Vasilissa has made him do this, and the end of these things is better than I thought. Go back, and when they are ready to throw you in the cauldron, do you run boldly and leap yourself into the boiling water."
+"Fear not," says the horse of power, "for the Princess Vasilissa has made him do this, and the end of these things is better than I thought. Go back, and when they are ready to throw you in the cauldron, do you run boldly and leap yourself into the boiling water."
 
 The young archer went back across the courtyard, and the servants made ready to throw him into the cauldron.
 
@@ -311,7 +311,7 @@ The young archer went back across the courtyard, and the servants made ready to 
 
 Twice he sank below the surface, borne round with the bubbles and foam of the boiling water. Then he leapt from the cauldron and stood before the Tzar and the Princess. He had become so beautiful a youth that all who saw cried aloud in wonder.
 
-"This is a miracle," says the Tzar. And the Tzar looked at the beautiful young archer, and thought of himself — of his age, of his bent back, and his grey beard, and his toothless gums. " I too will become beautiful," thinks he, and he rose from his throne and clambered into the cauldron, and was boiled to death in a moment.
+"This is a miracle," says the Tzar. And the Tzar looked at the beautiful young archer, and thought of himself — of his age, of his bent back, and his grey beard, and his toothless gums. "I too will become beautiful," thinks he, and he rose from his throne and clambered into the cauldron, and was boiled to death in a moment.
 
 And the end of the story? They buried the Tzar, and made the young archer Tzar in his place. He married the Princess Vasilissa, and lived many years with her in love and good fellowship. And he built a golden stable for the horse of power and never forgot what he owed to him.
 

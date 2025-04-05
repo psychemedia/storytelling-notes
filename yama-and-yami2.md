@@ -15,7 +15,7 @@ The text of the Rig-Veda is quite explicit on her propositions, where Yami says:
 
 To which Yama replies: "The sentinels of the gods, which wander around us, never stand still, never close their eyes. Associate yourself with someone other than me, and exert yourselves in union, like the two wheels of a wagon. The succeeding times will come when brothers and sisters will perform acts that are unmeet for kinsfolk. But not so for me, O fair one! Seek another husband other than me, and make your arm a pillow for your consort."
 
-Yami then says: " Is he a brother whose sister has no lord? Is she a sister when destruction comes? Overcome by love these words I utter, come near me and hold me in your close embrace."
+Yami then says: "Is he a brother whose sister has no lord? Is she a sister when destruction comes? Overcome by love these words I utter, come near me and hold me in your close embrace."
 
 To which Yama replies: "I will not entwine my arms around your body. They call it a sin when one draws near to his sister. Enjoy your pleasure with someone other than me; for your brother, auspicious one, has no such desire."
 

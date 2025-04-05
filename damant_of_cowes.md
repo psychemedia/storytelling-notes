@@ -66,13 +66,13 @@ Leprosy Stones in Fiji. By Dr. Corney.
 
 https://archive.org/details/publications11britgoog/page/223/mode/2up?q=Damant
 p225
-Two notes on "Ashey Pelt," and "The Three Golden Balls " (infra, p. 305), communicated by Mrs. Damant, of Cowes, were read.
+Two notes on "Ashey Pelt," and "The Three Golden Balls" (infra, p. 305), communicated by Mrs. Damant, of Cowes, were read.
 
 Folktales. Ashey Pelt.
 
 The following tale was told me by a woman now living, a native of Ulster, aged about sixty: —
 
-Well, my grandmother she told me that in them auld days a ewe might be your mother. It is a very lucky thing to have a black ewe. A man married again, and his daughter, Ashey Pelt, was unhappy. She cried alone, and the black ewe came to her from under the greyslone in the field and said, " Don't cry, go and find a rod behind the stone and strike it three times, and whatever you want will come." So she did as she was bid. She
+Well, my grandmother she told me that in them auld days a ewe might be your mother. It is a very lucky thing to have a black ewe. A man married again, and his daughter, Ashey Pelt, was unhappy. She cried alone, and the black ewe came to her from under the greyslone in the field and said, "Don't cry, go and find a rod behind the stone and strike it three times, and whatever you want will come." So she did as she was bid. She
 
 
 3c6 Miscellanea.
@@ -83,9 +83,9 @@ She was most lovely. At the party the Prince fell in love with her, and she forg
 
 The sisters they drove Ashey Pelt out bye to be out of the road, and they bid her mind the cows. They pared down their feet till one o' them could just squeeze it on. But she was in the quare agony I'm telling you.
 
-So off they rode away ; but when he was passing the field the voice of the auld ewe cried on him to stop, and she says, says she —
+So off they rode away; but when he was passing the field the voice of the auld ewe cried on him to stop, and she says, says she —
 
-" Nippet foot, and clippet foot Behind the king's son rides, But bonny foot, and pretty foot Is with the cathering hides."
+"Nippet foot, and clippet foot Behind the king's son rides, But bonny foot, and pretty foot Is with the cathering hides."
 
 So he rode back and found her among the cows, and he married her, and if they lived happy, so may you and me.
 
@@ -93,33 +93,33 @@ The Three Golden Balls.
 
 Told by a young woman, a native of Romsey, aged about 21.
 
-There was once an old woman who lived with her husband and her three little daughters. One was named Pepper, one Salt, and one Mustard. One day their father told them he was going to the fair, and he asked them what he should bring them home, and they all said, " A golden ball each." Their father then wished them good-bye, and set off. In the evening he returned, and brought each of them a golden ball, which they got up early next morning to play with. Their mother told them that if they lost them she would hang them up on the gallows-tree. They were very happy playing, when little Pepper began to cry. Her sisters asked her what was the matter, and she told them she had lost her ball. They dared not go home because of their mother. But, alas ! it got so late that they went home. Their mother, seeing that little Pepper was crying, asked what ailed her ; and she said, " I have lost my ball." And the mother, in her anger, hung her up on the gallows-tree. Next day the father went to her, and she said —
+There was once an old woman who lived with her husband and her three little daughters. One was named Pepper, one Salt, and one Mustard. One day their father told them he was going to the fair, and he asked them what he should bring them home, and they all said, "A golden ball each." Their father then wished them good-bye, and set off. In the evening he returned, and brought each of them a golden ball, which they got up early next morning to play with. Their mother told them that if they lost them she would hang them up on the gallows-tree. They were very happy playing, when little Pepper began to cry. Her sisters asked her what was the matter, and she told them she had lost her ball. They dared not go home because of their mother. But, alas ! it got so late that they went home. Their mother, seeing that little Pepper was crying, asked what ailed her; and she said, "I have lost my ball."And the mother, in her anger, hung her up on the gallows-tree. Next day the father went to her, and she said —
 
-" Oh, father, have you found my ball, Or have you paid my fee, Or have you come to take me down From this old gallows-tree? "
+"Oh, father, have you found my ball, Or have you paid my fee, Or have you come to take me down From this old gallows-tree?"
 
 And he replied —
 
-" I have not found your golden ball, Nor have I paid your fee, Nor have I come to take you down From this old gallows-tree."
+"I have not found your golden ball, Nor have I paid your fee, Nor have I come to take you down From this old gallows-tree."
 
 Bye-and-bye her two sisters came to see her, and she said —
 
-" Oh, sisters, have you found my ball, Or have you paid my fee, Or have you come to take me down From this old gallows-tree? "
+"Oh, sisters, have you found my ball, Or have you paid my fee, Or have you come to take me down From this old gallows-tree? "
 
 And they made the very same answer as the father had given.
 
 So poor little Pepper had to stop there all night. The next day brought her better luck. Her sweetheart came to see her, and she asked —
 
-" Oh, Charlie ! have you found my ball? " &&, &c.
+"Oh, Charlie! have you found my ball?" &&, &c.
 
 and he replied —
 
-" 'Tis I have found your golden ball, And I have paid your fee, And I am come to take you down From this old gallows-tree."
+"'Tis I have found your golden ball, And I have paid your fee, And I am come to take you down From this old gallows-tree."
 
 Then her sweetheart cut her down, and they were changed into two little birds. Soon after her father came and heard two little voices up in the tree asking —
 
-" Oh, lather ! have you found my ball," &c, &c
+"Oh, lather! have you found my ball," &c, &c
 
-On hearing this, the father ran away very frightened ; and his wicked wife and two little daughters came against the tree, and heard the little voices say the same words. All of a sudden they
+On hearing this, the father ran away very frightened; and his wicked wife and two little daughters came against the tree, and heard the little voices say the same words. All of a sudden they
 
 
 308 Miscellanea.

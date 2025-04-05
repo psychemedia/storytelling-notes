@@ -48,7 +48,7 @@ But since the Lady Princess will not speak with us — will not you, per chance,
 
 "Thanks, little shelf!"
 
-"What will you have? — a song, a jest, or a little tale?" "Well, to pass the time, let's say — a tale. " "But allow me to say, master, that I shall ask you to deliver a fair judgment thereon?"
+"What will you have? — a song, a jest, or a little tale?" "Well, to pass the time, let's say — a tale." "But allow me to say, master, that I shall ask you to deliver a fair judgment thereon?"
 
 Tale... need a get out to prompt speaking.
 
@@ -74,7 +74,7 @@ __THE GOLDEN CASKET.__
 
 (ASTYPALEA.) 
 
-Once on a time there was a King and a Queen who had an only son. His father said to him, " My child, you see that we have no other son; all that I have depends on you. Therefore I desire to see you married, with children growing up to console me before I die, that I may have some joy in my old age, for you are my only hope."
+Once on a time there was a King and a Queen who had an only son. His father said to him, "My child, you see that we have no other son; all that I have depends on you. Therefore I desire to see you married, with children growing up to console me before I die, that I may have some joy in my old age, for you are my only hope."
 
 The Prince was by no means willing to be married in spite of all his father could say to him; it simply went in at one ear and out at the other.
 
@@ -86,7 +86,7 @@ He seeks the intercession of kinswomen; they talk to him again and again; but wi
 
 Well, the fancy seized the Prince that he would essay the wager to win the maiden in question.
 
-Accordingly, one day, when his father was repeating his entreaties, he answered, " Well, Father, as you will have me married, give me that fair maid?"
+Accordingly, one day, when his father was repeating his entreaties, he answered, "Well, Father, as you will have me married, give me that fair maid?"
 
 "Goodness gracious, my son, bethink you!" cried the King. "Would that it were in my power! But have not you heard what wagers she lays, and how many fine young fellows she has slain? Do you want her to take your life as well? Why there are princesses and vizier's daughters plentiful as running waters, and not one of them can be found to suit you! But so it is! It's a wise saying, 'Joy to the man, whose name is destined to good luck!'"
 
@@ -115,7 +115,7 @@ One son alone was born to us, the light of our eyes, whom everyone was gladdened
 
 Word for word, he told her, and it was a sad hour when she heard the story. The two mourn together like a pair of ring-doves, and cannot be consoled.
 
-When they see that with all their efforts they can make no advance, they say to one another, " Come, come, what's the good of behaving so childishly in the sight of everyone? He has said it, and he will do it. Only let us give him our blessing, and bid him farewell. 'None can escape his fate.'"
+When they see that with all their efforts they can make no advance, they say to one another, "Come, come, what's the good of behaving so childishly in the sight of everyone? He has said it, and he will do it. Only let us give him our blessing, and bid him farewell. 'None can escape his fate.'"
 
 So they summon him on the day that he was preparing to depart, and say to him:
 
@@ -128,7 +128,7 @@ Thy lot be cast, may nothing us from thy remembrance sever.'"
 
 Then the pair fall on his neck, and embrace him fondly, and bedew him with their tears, and can hardly tear themselves away from him. At length they let him go, and tell him he has full power to take what he will along with him.
 
-So he goes and chooses a good horse, takes a little money, and other necessaries, receives the blessing of his father and mother, and, with a " God bless you, dearest parents," is off and away.
+So he goes and chooses a good horse, takes a little money, and other necessaries, receives the blessing of his father and mother, and, with a "God bless you, dearest parents," is off and away.
 
 The hapless King and Queen plunged themselves in mourning, and so did the whole country.
 
@@ -136,21 +136,21 @@ The Prince journeyed on for several days, till at length he reached a town.
 
 He dismounts, and goes to refresh himself at a little coffee-house, in order that he may learn something about the place.
 
-There enters a hawker with a beautiful golden casket, and cries it, saying, " This casket for sale! whoever buys it will rue it; and again, whoever does not buy it, will rue it: the price is a thousand ducats, no more and no less."
+There enters a hawker with a beautiful golden casket, and cries it, saying, "This casket for sale! whoever buys it will rue it; and again, whoever does not buy it, will rue it: the price is a thousand ducats, no more and no less."
 
-Then all who were in the coffee-house turned and looked at the Prince, and he says to himself, "Halloa, here is a start: 'whosoever buys it, shall rue it: and again, whosoever does not buy it shall rue it.' Well, I'll try my luck with it, anyhow, as I see all eyes are turned on me." Then he calls to the man: " Here, sir, what is the price of that casket?"
+Then all who were in the coffee-house turned and looked at the Prince, and he says to himself, "Halloa, here is a start: 'whosoever buys it, shall rue it: and again, whosoever does not buy it shall rue it.' Well, I'll try my luck with it, anyhow, as I see all eyes are turned on me." Then he calls to the man: "Here, sir, what is the price of that casket?"
 
 "A thousand ducats, neither more nor less."
 
-Then the Prince takes out his purse, and — chink, chink! he counts a thousand ducats into our good hawker's hands, and takes the casket, and puts it in his pocket, with the words, " Time will show its worth."
+Then the Prince takes out his purse, and — chink, chink! he counts a thousand ducats into our good hawker's hands, and takes the casket, and puts it in his pocket, with the words, "Time will show its worth."
 
-He sits a while in the coffee-house, then he gets up and goes, after treating everyone all round, and that twice over. Well, what do you think? What are you expecting ?
+He sits a while in the coffee-house, then he gets up and goes, after treating everyone all round, and that twice over. Well, what do you think? What are you expecting?
 
-To make a short tale of it, he came to the town where the Fair One dwelt. He asks for information, and is told as follows: " My brave lad, have you no care for your young life? she is a monster without her like. Her heart knows no relenting. Many and many a fine young fellow has she slain, and think you she will spare you? However, as you are determined, go to the King, and let him tell you what to do."
+To make a short tale of it, he came to the town where the Fair One dwelt. He asks for information, and is told as follows: "My brave lad, have you no care for your young life? she is a monster without her like. Her heart knows no relenting. Many and many a fine young fellow has she slain, and think you she will spare you? However, as you are determined, go to the King, and let him tell you what to do."
 
 So the Prince arose, and came to the King, and made his obeisance to him; and the latter rises and bids him sit down beside him. And at once he took a fancy to him, for he was a fine-looking youth, and very accomplished. He asks him, what is his pleasure ?
 
-And the lad replies, " I have come for your daughter."
+And the lad replies, "I have come for your daughter."
 
 "Ah, my son, that's a bad business. She's a witch, and wants to devour the world. I pray you begone!"
 
@@ -162,7 +162,7 @@ Then the Prince's heart failed him, and he began to doubt of what he had done.
 
 "But," said he (in the words of the proverb):
 
-"' Oh! last and latest thought of mine, why wast thou not my earliest?'
+"'Oh! last and latest thought of mine, why wast thou not my earliest?'
 
 Farewell, oh King!"
 
@@ -170,20 +170,20 @@ Farewell, oh King!"
 
 He departs, and goes to a coffee-house, full of thought, and rests his head on his hand.
 
-As he did so, the casket was underneath; it struck against his elbow, and bruised his arm, so that it smarted a good deal. Then said he, " It is good for me to suffer. Did I not hear the hawker say, 'Whoever buys it, will rue it?'"
+As he did so, the casket was underneath; it struck against his elbow, and bruised his arm, so that it smarted a good deal. Then said he, "It is good for me to suffer. Did I not hear the hawker say, 'Whoever buys it, will rue it?'"
 
-Then the casket answers, and says to him, " Tush, if you did not want me, why did you take me?"
+Then the casket answers, and says to him, "Tush, if you did not want me, why did you take me?"
 
 The Prince was like to lose his wits on hearing the casket talk.
 
-"Don't be astonished," it continued, " I am your salvation. Only listen to what I tell you, and never fear. In the evening you will go to the Fair One's house. As soon as you enter, say, 'Good evening to you,' and see that you put me down somewhere, and afterwards begin to tell as many lies and stories as you can. She, meanwhile, will be sitting aloft by the glass cupboard, she sees you, and you don't see her, and she is as silent as a rock. Then you must say, 'Well, as the Princess doesn't deign to speak to us, won't you speak to us?' naming the object on which you have placed me. Then I will begin to talk to you, and you must ask me to tell you a tale, and I shall answer, 'I will, but on your honour, wall you pronounce a right judgement thereon?' and you must take good care and pronounce one that is altogether wrong. Then she will be indignant, and will speak.
+"Don't be astonished," it continued, "I am your salvation. Only listen to what I tell you, and never fear. In the evening you will go to the Fair One's house. As soon as you enter, say, 'Good evening to you,' and see that you put me down somewhere, and afterwards begin to tell as many lies and stories as you can. She, meanwhile, will be sitting aloft by the glass cupboard, she sees you, and you don't see her, and she is as silent as a rock. Then you must say, 'Well, as the Princess doesn't deign to speak to us, won't you speak to us?' naming the object on which you have placed me. Then I will begin to talk to you, and you must ask me to tell you a tale, and I shall answer, 'I will, but on your honour, wall you pronounce a right judgement thereon?' and you must take good care and pronounce one that is altogether wrong. Then she will be indignant, and will speak.
 
 "These, my words, do you obey,  
 Write on paper what I say."
 
 Then the Prince took heart, and longed for the evening to come. Till night drew on, the day seemed like a year, and when it grew dark — before you could count two, he was with the Princess.
 
-A crowd hurried thither to watch the result from outside, and stood agape. The Prince entered with all politeness, and said, " Good evening, fair lady, light of my eyes! How are you? Won't you speak a word to me, the stranger ?
+A crowd hurried thither to watch the result from outside, and stood agape. The Prince entered with all politeness, and said, "Good evening, fair lady, light of my eyes! How are you? Won't you speak a word to me, the stranger ?
 
 "'Open thy lips, I pray thee, and speak but two words unto me,  
 To ease me of these heartfelt pang?, that send their anguish through me.'"
@@ -197,9 +197,9 @@ However, while he was scraping and bowing, he managed to place the casket on the
 
 "But, in the name of Heaven, is there no one here, not a soul to speak to me? I shall burst! I cannot stand it." He makes a cigarette; he makes another. No improvement!
 
-"Ha! what a heartless creature!" they shout from outside. " How many braves have perished, and she does not loose her tongue! Why a saint under vow of silence would speak!"
+"Ha! what a heartless creature!" they shout from outside. "How many braves have perished, and she does not loose her tongue! Why a saint under vow of silence would speak!"
 
-"Troth," continues the Prince, " was it not I that used to have any number of men who would cudgel their brains to despair and tax their conversational powers to the utmost, just to amuse me; and now I have come to this nest of savages, to lose my life for nought! Well spake my sire and my mother! But since the Lady Princess will not speak with us — will not you, per chance, little shelf, speak a word with us, who are here all alone, and have no one to talk to?"
+"Troth," continues the Prince, "was it not I that used to have any number of men who would cudgel their brains to despair and tax their conversational powers to the utmost, just to amuse me; and now I have come to this nest of savages, to lose my life for nought! Well spake my sire and my mother! But since the Lady Princess will not speak with us — will not you, per chance, little shelf, speak a word with us, who are here all alone, and have no one to talk to?"
 
 "Gladly, master," answers the shelf; "if I would not speak for your sake, do you think I would for the sake of yonder wretch?"
 
@@ -250,9 +250,9 @@ And then we return to the frame tale:
 
 "Bless me, what a lot I know! Wasn't that a fine story? Now it's your turn to tell me (for I fain would know) which of the three ought to marry her? and I wish you joy of your answer."
 
-He pretends to reflect, and says at length, " Which should marry her? Which should marry her? Why the astrologer should marry her!"
+He pretends to reflect, and says at length, "Which should marry her? Which should marry her? Why the astrologer should marry her!"
 
-Then the Princess was in such a torment of indignation, that she uttered such shrieks as made the windows shake. It was, " Spill egg, or burst!"
+Then the Princess was in such a torment of indignation, that she uttered such shrieks as made the windows shake. It was, "Spill egg, or burst!"
 
 "I have you now!" says the Prince.
 
@@ -260,13 +260,13 @@ Then the Princess was in such a torment of indignation, that she uttered such sh
 
 "What are you thinking of? Why, if it had not been for that swift runner, of what avail would have been the astrology and the medicine? So let the last one take her!" And she was silent again.
 
-Then you might have heard the clap! clap! clap! of many hands. " The Princess has spoken!" They run to the King. On hearing the news, the King distributed bounties wholesale, and cried, " Glory be to God for changing her mind!"
+Then you might have heard the clap! clap! clap! of many hands. "The Princess has spoken!" They run to the King. On hearing the news, the King distributed bounties wholesale, and cried, "Glory be to God for changing her mind!"
 
-Then the Prince, on his part, secretly takes away the casket, and with the words, " That scores one for us!" departs, — for the wager was to make her speak three times. This was the condition of success. The Prince goes to the King, who embraces him, and says, " Henceforth you are my son. As she has spoken the first time, the others will follow of themselves." And now there was nothing but rejoicings and carousals. Well, what next? The second evening came; but now he had more courage, and said again, " Good evening to you!" and much else, as on the first occasion, and a great deal more beside. But I forgot to tell you one curious circumstance. When they were all gone, and the Princess was left alone, she got up and descended from her perch, and was in such a passion that the very stones were an offence to her. She went to the shelf, and said to it, " Come, little shelf, won't you speak to me?" But why expect words from wood? Then she nearly choked with passion. " You precious torment! I have had you all these years, and I never remember to have heard you speak a single word to please me; and that fellow that you only saw last night, with him you began to chatter! — take that for your pains, with my compliments." And smash! smash! she breaks the shelf into a thousand splinters, and all the things upon it are sent about their business. You see it was enough to put a saint into a fury. Confusion seize upon her, the silly wench!
+Then the Prince, on his part, secretly takes away the casket, and with the words, "That scores one for us!" departs, — for the wager was to make her speak three times. This was the condition of success. The Prince goes to the King, who embraces him, and says, "Henceforth you are my son. As she has spoken the first time, the others will follow of themselves." And now there was nothing but rejoicings and carousals. Well, what next? The second evening came; but now he had more courage, and said again, "Good evening to you!" and much else, as on the first occasion, and a great deal more beside. But I forgot to tell you one curious circumstance. When they were all gone, and the Princess was left alone, she got up and descended from her perch, and was in such a passion that the very stones were an offence to her. She went to the shelf, and said to it, "Come, little shelf, won't you speak to me?" But why expect words from wood? Then she nearly choked with passion. "You precious torment! I have had you all these years, and I never remember to have heard you speak a single word to please me; and that fellow that you only saw last night, with him you began to chatter! — take that for your pains, with my compliments." And smash! smash! she breaks the shelf into a thousand splinters, and all the things upon it are sent about their business. You see it was enough to put a saint into a fury. Confusion seize upon her, the silly wench!
 
-On that evening he placed the casket on a chair, and he spoke and spoke again, for his tongue was bolder than before. " Talk! talk!" said he. " Ah, I shall burst with anger again this evening. I have no company. Last night I had my little shelf; but this evening I see it nowhere. Has that turned against me, too?"
+On that evening he placed the casket on a chair, and he spoke and spoke again, for his tongue was bolder than before. "Talk! talk!" said he. "Ah, I shall burst with anger again this evening. I have no company. Last night I had my little shelf; but this evening I see it nowhere. Has that turned against me, too?"
 
-"' All wish me ill! the stocks and stones their humnan malice aiding.  
+"'All wish me ill! the stocks and stones their humnan malice aiding.  
 And if 1 lean against a tree, the leaves do fall a fading;.'
 
 Well, the Princess will speak to me no more! But you, my little chair, have not. you a word to say to me?"
@@ -315,37 +315,35 @@ Once again, the casket has broken the fourth wall *within the story* and directe
 
 At hearing this again, the Princess calls out, "I want to speak once more! For I can't understand such absurdity. Alas, for you, young man! I am sorry for the honour of your name, but you don't seem to know how many days there are in a year I Why look at the absurdity of the thing! While he doesn't know the evil things his destiny has in store for him, he speaks big boastful words; but that's a wise saying:
 
-"' Where you hear of many cherries,  
+"'Where you hear of many cherries,  
 Hold small baskets for the berries.'
 
 [i.e. Much cry, little wool]
 
 "Only I beg you will not come near me again to vex my soul with any more of your nonsense."
 
-Then he says to her, " Since your ladyship has spoken, I am content."
+Then he says to her, "Since your ladyship has spoken, I am content."
 
 So he puts the casket in his bosom and — catch him if you can — he's off in a jiffey to the King. Our fair damsel comes down from her perch; and falls to fighting with the chair until she has reduced it to atoms. Ah, well, let's see what happens on the following evening; as everything now depends on that, lest we lose all our labour now, and the fruits of our labour in the past. From early morn she washes herself, combs her hair, puts on her best attire, and when evening was come —
 
 "Tree of beauty, cypress tree, accept me for your peer!"
 
-Again he says, " Good evening to you. Princess! Peradventure you are still angry with me from last evening. I made a mistake, but afterwards I recognised it myself, so pray forgive me for offending you. Only speak to me one word, to heal my wounded heart. Nay, wait a bit. It is as though I understood to-night, how to turn my very soul inside out. What shall I say to my fate that wrote so many bitter things against me! But here is that will tell me."
+Again he says, "Good evening to you. Princess! Peradventure you are still angry with me from last evening. I made a mistake, but afterwards I recognised it myself, so pray forgive me for offending you. Only speak to me one word, to heal my wounded heart. Nay, wait a bit. It is as though I understood to-night, how to turn my very soul inside out. What shall I say to my fate that wrote so many bitter things against me! But here is that will tell me."
 
 He places the casket on the candle-stick and as he poured forth these complaints the candle-stick replied, "Patience, Prince!"
 
-"' What patience, patience, ever more? how long is that to be?  
+"'What patience, patience, ever more? how long is that to be?  
 Behold the work of patience, what it has done to me! '"
 
 answers the Prince.
 
-"Never mind her up there," it replies, " and I will sing and dance for you the live-long night, end don't trouble yourself four rushes about yonder witch, only tell me what I can do for you."
+"Never mind her up there," it replies, "and I will sing and dance for you the live-long night, end don't trouble yourself four rushes about yonder witch, only tell me what I can do for you."
 
 "What shall I say? Will you tell me a tale to pass the night away?"
 
 "As you like master, but I want you to pass a just judgement on it."
 
 "Never fear!"
-
-
 ```
 
 And so begins the casket's third tale:
@@ -353,27 +351,27 @@ And so begins the casket's third tale:
 ```{admonition} The Golden Casket's Third Tale
 :class: dropdown seealso
 
-"Well then: once on a time (may the Holy Virgin protect you, Prince) there was a King and a Queen. They had a daughter, whom they gave to a foster mother to bring it up in a castle. The girl grew up, and one day, when her wet-nurse was combing her hair, she finds a lady-bird. Do you suppose such as she would know a ladybird when they saw it ?
+"Well then: once on a time (may the Holy Virgin protect you, Prince) there was a King and a Queen. They had a daughter, whom they gave to a foster mother to bring it up in a castle. The girl grew up, and one day, when her wet-nurse was combing her hair, she finds a lady-bird. Do you suppose such as she would know a ladybird when they saw it?
 
-"' What's that?' says she? when the nurse showed it her.
+"'What's that?' says she? when the nurse showed it her.
 
-"' Why my darling it's a lady-bird.'
+"'Why my darling it's a lady-bird.'
 
-"' Let's keep it, mama, to see if it will grow ver}' large.'
+"'Let's keep it, mama, to see if it will grow very large.'
 
-"' Oh, they don't grow child!'
+"'Oh, they don't grow child!'
 
-"' Well but I insist tKat you put it in that vessel that we may see what it comes to.'
+"'Well but I insist that you put it in that vessel that we may see what it comes to.'
 
 "So they put it in and kept it, and lo and behold it got so big it filled the whole jug, and they put in a larger one; then into a cask — and to make a short tale of a long one — it grew into an ox. Then they thought it was time to slaughter it and to pre- serve its skin, so that no one would know what it was. They call a butcher and say to him:
 
-"' Slay this beast for us, and skin it, and throw the remains away.'
+"'Slay this beast for us, and skin it, and throw the remains away.'
 
-"So he slaughters it and skins it without knowing what manner of beast it was. They pay him oif, and he goes about his business. They pickle, dry and preserve the skin. Some years passed away, and the maiden was of age to marry. But the Devil put it into her head that she would not marry, and in order that her father might not bother her every day with proposals, she tells him that she has a skin, and whoever can find out what animal it belonged to, him she«will marry: otherwise he must lose his head.
+"So he slaughters it and skins it without knowing what manner of beast it was. They pay him oif, and he goes about his business. They pickle, dry and preserve the skin. Some years passed away, and the maiden was of age to marry. But the Devil put it into her head that she would not marry, and in order that her father might not bother her every day with proposals, she tells him that she has a skin, and whoever can find out what animal it belonged to, him she will marry: otherwise he must lose his head.
 
 "'So be it,' said he.
 
-"For he supposed that would be the easiest thing in the world, and how was he to know what was in the wind? So the King issues a proclamation, 'Whoever shall be found to guess my daughter's riddle " (a similar case to yours and that of this lady now, who arches her neck like a gipsy's billhook!); but it remained impossible for any one to guess it, and many and many were slain daily, princes and sons of viziers. Neither God nor the Devil desired such bloodshed for the sake of one woman; but the Devil took the shape of a handsome young fellow, and he straightway goes and sues for the hand of the maiden; a youth so fair to look on that whoever beheld him, his eyes would be enchained by his beauty.
+"For he supposed that would be the easiest thing in the world, and how was he to know what was in the wind? So the King issues a proclamation, 'Whoever shall be found to guess my daughter's riddle" (a similar case to yours and that of this lady now, who arches her neck like a gipsy's billhook!); but it remained impossible for any one to guess it, and many and many were slain daily, princes and sons of viziers. Neither God nor the Devil desired such bloodshed for the sake of one woman; but the Devil took the shape of a handsome young fellow, and he straightway goes and sues for the hand of the maiden; a youth so fair to look on that whoever beheld him, his eyes would be enchained by his beauty.
 
 "The King sees him, the Queen sees him, the nurse sees him.
 
@@ -424,9 +422,9 @@ Again, the cask breaks out of the story and returns out attention to the Prince.
 ```{admonition} The Princess' Third and Final Response
 :class: dropdown note
 
-He thought and thought and at length he said, " It is right that he should take her who carried her such a way."
+He thought and thought and at length he said, "It is right that he should take her who carried her such a way."
 
-At hearing this again the Princess took fire and was in a burning rage. Then she said, " Now that is too bad! I am doomed to lose my life for this brat of a foreign woman! Good sir, didn't I tell you not to presume to show your face again in my presence to set my heart aflame? Why do you come and drivel away in here, and spoil other people's humour, for I'm blessed if you know a hen's tail from its beak!"
+At hearing this again the Princess took fire and was in a burning rage. Then she said, "Now that is too bad! I am doomed to lose my life for this brat of a foreign woman! Good sir, didn't I tell you not to presume to show your face again in my presence to set my heart aflame? Why do you come and drivel away in here, and spoil other people's humour, for I'm blessed if you know a hen's tail from its beak!"
 
 "All right, my lady, now the whole thing is over."
 

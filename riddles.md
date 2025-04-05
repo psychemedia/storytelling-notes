@@ -725,7 +725,7 @@ A. a woman sewing
 
 A. the mans name is His.
 
-[119] Q. j saw a sight the other day, a damsell did begin the fray : she with her dayly friend did meet, then standing in the open street she gave such hard & sturdy blowes he bled 10 gallons at the nose : yet neith r seem to faint nor fall, nor gave her any abuse at all.
+[119] Q. j saw a sight the other day, a damsell did begin the fray: she with her dayly friend did meet, then standing in the open street she gave such hard & sturdy blowes he bled 10 gallons at the nose: yet neither seem to faint nor fall, nor gave her any abuse at all.
 
 A. a pumpe.
 
@@ -768,7 +768,7 @@ are trees men say that oysters beare that oisters should be bred so high me thin
 
 A. euery man & woman is a tree & by such trees you know w' fruit are born in London & other cittyes.
 
-[128] Q. As j was walking late at night, j through a window chanced to spy : a gallant with his hearts delight he knew not that j was so nigh : he kissed her & close did sit to little pretty wanton Gill untill he did her favour get & likewise did obtaine his wille.
+[128] Q. As j was walking late at night, j through a window chanced to spy: a gallant with his hearts delight he knew not that j was so nigh : he kissed her & close did sit to little pretty wanton Gill untill he did her favour get & likewise did obtaine his wille.
 
 A. a yong man in a tavern drinking a Gill of sack to chear up his spirits & so obtaind his will.
 
@@ -820,7 +820,7 @@ A. on[e] of the sons had a son, thus he was a father & standeth both for father 
 
 [137] Q. there was a King met a King in a narrow lane,
 
-said the King to the King wher hast thou Bin ? j have Bin in the wood hunting a doe, j pray thee lend me the Dog j may do soe : call him to thee & tell me his name, j count him a wise man that tells me the same.
+said the King to the King wher hast thou Bin? I have Bin in the wood hunting a doe, j pray thee lend me the Dog j may do soe : call him to thee & tell me his name, j count him a wise man that tells me the same.
 
 A. the mens names were King & the dogs name was Bin.
 

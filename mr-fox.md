@@ -31,7 +31,7 @@ The tale was then perhaps re-popularised by Halliwell-Phillips in his *Popular r
 ```{admonition} A simple, but very curious tale, 1849
 :class: dropdown
 https://archive.org/details/popularrhymesnur0000unse/page/46/mode/2up
-Popular rhymes and nursery tales : a sequel to the Nursery rhymes of England
+Popular rhymes and nursery tales: a sequel to the Nursery rhymes of England
 by Halliwell-Phillipps, J. O. (James Orchard), 1820-1889
 
 Publication date 1849
@@ -43,7 +43,7 @@ Once upon a time there was a young lady called Lady Mary, who had two brothers. 
 
 Be bold, be bold, but not too bold.
 
-She advanced, and found the same inscription over the staircase ; again at the entrance of a gallery; and lastly, at the door of a chamber, with the addition of a line:
+She advanced, and found the same inscription over the staircase; again at the entrance of a gallery; and lastly, at the door of a chamber, with the addition of a line:
 
 Be bold, be bold, but not too bold,  
 Lest that your heart's blood should run cold!
@@ -71,7 +71,7 @@ The tale is followed by another related one, of a student who sought seduced a m
 ```{admonition} *The Oxford Student*, 1849
 :class: dropdown
 https://archive.org/details/popularrhymesnur0000unse/page/48/mode/2up
-Popular rhymes and nursery tales : a sequel to the Nursery rhymes of England
+Popular rhymes and nursery tales: a sequel to the Nursery rhymes of England
 by Halliwell-Phillipps, J. O. (James Orchard), 1820-1889
 
 Publication date 1849
@@ -130,7 +130,7 @@ By way of comparison, consider this telling of Bluebeard, from 1846. I don't fin
 ```{admonition} The popular story of Blue Beard, or, Female curiosity, 1846
 :class: dropdown
 https://archive.org/details/McGillLibrary-PN970_R9_P67_1846-2022/page/n1/mode/2up
-The popular story of Blue Beard, or, Female curiosity : embellished with beautiful cuts
+The popular story of Blue Beard, or, Female curiosity: embellished with beautiful cuts
 by Perrault, Charles,1628-1703.Barbe bleue.English
 
 Publication date 1846
@@ -165,7 +165,7 @@ In the mean while Blue Beard, holding a great cimeter in his hand, cried out, as
 
 The distressed wife came down, and threw herself at his feet, all in tears, with her hair about her shoulders. "This signifies nothing," says Blue Beard, "you must die then, taking hold of her hair with one hand, and lifting up his cimeter with the other, he was going to take off her head. The poor gentlewoman, turning about to him and looking at him with dying eyes, desired him to afford her one little moment to recollect herself. "No, no," said he, "recommend thyself to God and was just ready to strike. At this very instant, there was such a loud knocking at the gate, that Blue Beard made a sudden stop. The gate was opened, and presently entered two horsemen, who, drawing their swords, ran directly to Blue Beard.
 
-He knew them to he his wife's brothers, one a dragoon, the other a musketeer ; so he ran immediately to save himself; but the two brothers pursued so closely, that they overtook him before he could get to the steps of the porch, when they ran their swords through his body, and left him dead.
+He knew them to he his wife's brothers, one a dragoon, the other a musketeer; so he ran immediately to save himself; but the two brothers pursued so closely, that they overtook him before he could get to the steps of the porch, when they ran their swords through his body, and left him dead.
 
 The poor wife was almost as dead as her husband, and had not strength enough to rise and welcome her brothers. Blue Beard had no heirs, and so his wife became mistress ot all his estate. She made use of one part of it to marry her sister Anne to a young gentleman, who had loved her a longwhile; another part, to buy captains' commissions for her brothers; and the rest, to marry herself to a very worthy gentleman, who made her forget the ill time she had passed with Blue Beard.
 ```
@@ -245,7 +245,7 @@ Whatever to you, the robber as had run away an' missed getting killed, he put a 
 
 Afoare long this robber gets on wid the housekeeper, and goes courting her very strong. An' she gets rale sweet on him, her not knowing like who he is, for he was a very good-looking man, an' pleasant spoken enough when it suited his parpose. A'ter a bit he axes her, will she marry him. She doesn't say 'yes,' nor yet she doesn't say 'no,' but she goes straight to her master an' tells him all, an' axes him: 'what shall I do?' 'Oh! that's soon answered,' he says. 'If you 're fond 'n him,' he says, 'then marry him. But if you don't like him,' he says, 'then don't marry him.'
 
-'Oh! I love him,' she says. 'Well then,' he says, 'that being the state o' 'fairs you go an tell him you 'll have him.' So she did, and afoare long they got married, an' went to live in the house what the gentleman'd had builded for her.
+'Oh! I love him,' she says. 'Well then,' he says, 'that being the state o' 'fairs you go an tell him you'll have him.' So she did, and afoare long they got married, an' went to live in the house what the gentleman'd had builded for her.
 
 At first they was very happy of course like everybody is. About six months passed, an' then one day the robber tells his wife as he's going to take her to see his delations. 'You know, my dear, he says, 'we now been married this long time, an' I ha'n't as much as set eyes on one 'n my own people from that day to this.
 
@@ -263,9 +263,9 @@ The owld man laughs to hisself an' goes on agen, an' he gets a long way on afoar
 
 Whatever to you, the first thing the housekeeper does is to go an' tell her owld master everythink what has happened to her, an' she begs him to save her from the robber. 'My dear,' he says very kind-like, 'don't you think no moare about it. You must stay here,' he says, 'in my house, an' you shall have everythink what you wants—plenty to eat an' to drink, an' plenty o' grand clothes to wear, an' a lady companion to be wid you always. And as for the robber,' he says,'just leave him to me; I'll see to it as he don't do you no harm. I got a plan for catching him,' he says; 'it's just now come into my head.'
 
-An' wid that he goes off, an' orders bills to be put out everywheres, on every barn-doar, and every tree, and every gate-post for miles an' miles round, saying as on sich-an'-sich a day' he'll give a big feast, and as everybody is axed to it, rich an' poor, they 'll all be made welcome. Now it gets on an' gets on 'till it's only but two days afoare the feast is to be gi'ed, when the robber he comes back agen into them parts, an' of course it's not long till he sees the bills. He goes to his wife's house, but it's empty. Well, he thinks it over to hisself, as the best he can do is to reguise hisself an' go to this feast; she is sure to be there, he thinks, an' he can watch her where she goes a'ter when it is over.
+An' wid that he goes off, an' orders bills to be put out everywheres, on every barn-doar, and every tree, and every gate-post for miles an' miles round, saying as on sich-an'-sich a day' he'll give a big feast, and as everybody is axed to it, rich an' poor, they'll all be made welcome. Now it gets on an' gets on 'till it's only but two days afoare the feast is to be gi'ed, when the robber he comes back agen into them parts, an' of course it's not long till he sees the bills. He goes to his wife's house, but it's empty. Well, he thinks it over to hisself, as the best he can do is to reguise hisself an' go to this feast; she is sure to be there, he thinks, an' he can watch her where she goes a'ter when it is over.
 
-On the night 'n the feast there is the housekeeper, all dressed in silks an' satins, an' her lady companion at her side, walking up an' down, up an' down, in the grand hall where the supper is laid. An' the master he is standing at the doar shaking hands wid everybody as they comes in. Of course they're both 'n they looking out for the robber. Now it's a curious thing that though they seen everybody as come in they didn't see the robber among 'em, neither the one nor yet the tother didn't. And agen when all the guests is sat down to the tables they both walks back'ards an' for'ards, an' back'ards an' for'ards, an' they has a good look at everybody, an' yet they can't find him, though they knew as he must be in the room somewheres. 'Well, this is ancominon strange/ says the master; 'but I 'll find him yet afoare the night is out, just you see.'
+On the night 'n the feast there is the housekeeper, all dressed in silks an' satins, an' her lady companion at her side, walking up an' down, up an' down, in the grand hall where the supper is laid. An' the master he is standing at the doar shaking hands wid everybody as they comes in. Of course they're both 'n they looking out for the robber. Now it's a curious thing that though they seen everybody as come in they didn't see the robber among 'em, neither the one nor yet the tother didn't. And agen when all the guests is sat down to the tables they both walks back'ards an' for'ards, an' back'ards an' for'ards, an' they has a good look at everybody, an' yet they can't find him, though they knew as he must be in the room somewheres. 'Well, this is ancominon strange/ says the master; 'but I'll find him yet afoare the night is out, just you see.'
 
 Now a'ter when they'd all eaten till they couldn't eat no moare, an' drunk most all the wine, the master he g6ts up from his place, an' he begins to make a bit 'n a speech. 'I been greatly pleased,' he says, 'wid your comp'ny here to-night. An' now,' he says, 'afoare you go—and I shall be very sorry to have to part from you —the's just one thing. I'm now going to call for a toast,' he says, 'which I wants all 'n you here present, *every one 'n you*, to drink standing up, *wid yowr left hands flat open above your heads, so*.' It was a cunning trick this was, for the robber you see had the two first fingers 'n his left hand cut off by the middle joints, so that when they all stood up an' raised their hands to drink the toast he was fun' out. The master tells his sarvants to seize him, an' he sends to fatch a rigiment o' soldiers, an' they comes, an' they shoots him. An' that was the end 'n the robber.
 ```

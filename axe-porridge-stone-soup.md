@@ -360,7 +360,7 @@ On these occasions Saint Bernard like a real beggar. He set out without a penny 
 
 Thinking that it would be fun to watch a beggar eating a stone, the master told him to come into the kitchen and gave him a saucepan containing cold water. St Bernard rolled his eyes, rubbed his hands, set the saucepan on the fire, popped the stone in, and asked for a spoon with which to stir it.
 
-"How my mouth waters," he as he stirred the stone round and " This will bo de-li-ci-ous. Could you spare me little salt and pepper to season it?"
+"How my mouth waters," he as he stirred the stone round and "This will bo de-li-ci-ous. Could you spare me little salt and pepper to season it?"
 
 He was given salt and pepper, and went on boiling the stone. Then he asked for some cold vegetables that the cook was keeping for the dogs, and put them into the soup.
 

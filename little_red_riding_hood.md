@@ -26,7 +26,7 @@ LRRH now grandmother. Her daughter sends grand-daughter grand daughter rushes, s
 Variant (Zipes book, Goldflower & Bear, Chiang Mi) where LRRH u tree, reflection; maybe tie rope round stone, use reflection trick wolf, dive into water, climb down tree, push stone into lake.
 
 
-Also: Calvino "The False Grandmother " via https://jwaroich.wordpress.com/category/red-riding-hood-2/
+Also: Calvino "The False Grandmother" via https://jwaroich.wordpress.com/category/red-riding-hood-2/
 
 
 https://www.jstor.org/stable/41388448?read-now=1&seq=23#page_scan_tab_contents

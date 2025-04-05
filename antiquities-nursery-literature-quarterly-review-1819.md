@@ -227,15 +227,15 @@ Before we dismiss the Giganticide, we must remark that most
 
 of his giants rest upon good romance authority: or, to speak
 
-* « Now the son of the Chan and his trusty servant travelled along a river and arrived in a wood, where they met many children who were quarrelling with each other. " Why do you thus dispute?" said they.
+* « Now the son of the Chan and his trusty servant travelled along a river and arrived in a wood, where they met many children who were quarrelling with each other. "Why do you thus dispute?" said they.
 
-* We have found a cap in this wood, and each of us wishes to keep it.
+"We have found a cap in this wood, and each of us wishes to keep it."
 
-* What is the use of the cap?
+"What is the use of the cap?"
 
-* The cap hath this virtue, he who wears it is seen neither by the gods, nor men, nor the Tchadkurvs.
+"The cap hath this virtue, he who wears it is seen neither by the gods, nor men, nor the Tchadkurvs."
 
-* Now go all of ye to the end of the forest, and runhither. And I will keep thecap and I will give it to him who first reaches this spot and wins the race.
+"Now go all of ye to the end of the forest, and runhither. And I will keep thecap and I will give it to him who first reaches this spot and wins the race.
 
 'So spake the son of the Chan, and the children ran, but when they came back they could not find the cap, for he had placed it on the head of his companion, and they sought for it in vain. -
 
@@ -263,7 +263,7 @@ It is worthy of remark that the Danish Rus is made to travel
 
 through the air to England, where he possesses the king's daughter.
 
-* « Now when the magistrates who employed John heard that the job was over, they sent for him, declaring he should henceforth be called " Jack tHe Giant Kituen," and in honour thereof presented him with a sword and embroidered belt, upon which these words were written in letters of gold:—
+* « Now when the magistrates who employed John heard that the job was over, they sent for him, declaring he should henceforth be called "Jack the Giant Killer," and in honour thereof presented him with a sword and embroidered belt, upon which these words were written in letters of gold:—
 
 * Here's the valiant Cornish man, Who slew the giant Corinoran.'
 
@@ -273,7 +273,7 @@ Cortnevs estoit moult grant Hardis et grant come yaiant,
 
 There has been a fair exchange of nursery tales between the two countries, for in return for Brother Russ, we gave them the 'history of the lucky Richard Whittington, Lord Mayor of London,' whose life has been translated into Danish, and whose good fortune is now as well known in Bergen and Drontheim as in his own native land of Cockney. Puss has thus sailed half round the world, from the Gulf of Persia to the Northern Sea.
 
-How ectass stands as the leader of a merry troop; Tom TRAM, the son-in-law of Mother Winter, Tom Striteu, the tailor, and Tom Longe, the carrier of the Men of Gotham, follow in his train, whose penny 'histories,' all imitated from his 'merrye jeste,' are now introuvables. 'They all belong to the ancient and noble and widely dispersed family of Tom Foot, which has obtained such pre-eminence and dignity in church and state throughout all Christendom. 'Yn the land of Sassen,' says old Copland, in the village of Keeling, 'there dwelled a man that was named Nicholas Howleglass, that had a wyfe named Wyneke, that laye a child bed in the same village, and that childe was borne to Christening and named Tyell Howleglass.' It were long to detail his fearful jokes which sometimes brought him to the gallows, yet saved him from the halter. He was buried with his coffin standing on one end, as the visitants at the Abbey believe of Ben Jonson, at Mollen, near Lubeck: and you may see his grave-stone under the great lime tree in the church-yard; and his rebus, to wit an owl and a looking glass, cut upon the stone. Ulenspiegel, as he is called in German, has almost made the tour of Europe: his life was first published in the Nether-Saxon dialect in 1483. Our English translation of the 'merrye jeste of a man that was called Howleglass, and of many marveylous thinges and jestes that he did in his lyfe in Eastland,' was 'Imprinted at London in Tamestreete, at the Vintre, in Three Craned Warfe, by Wyllyam Copland.' According to the technical phrase, it was done into English from the High Dutch. There is also a Flemish translation, which, well purified from all aspersions on holy church, is now a chap book in armen The Flemish faithful are earnestly warned not to purchase the 'shameful edition printed at Amsterdam, by Brother Jansz, in the Burgwal, at the sign of the " Silver Can," the same being calculated to vex and scandalize all good Catholics.'
+How ectass stands as the leader of a merry troop; Tom TRAM, the son-in-law of Mother Winter, Tom Striteu, the tailor, and Tom Longe, the carrier of the Men of Gotham, follow in his train, whose penny 'histories,' all imitated from his 'merrye jeste,' are now introuvables. 'They all belong to the ancient and noble and widely dispersed family of Tom Foot, which has obtained such pre-eminence and dignity in church and state throughout all Christendom. 'Yn the land of Sassen,' says old Copland, in the village of Keeling, 'there dwelled a man that was named Nicholas Howleglass, that had a wyfe named Wyneke, that laye a child bed in the same village, and that childe was borne to Christening and named Tyell Howleglass.' It were long to detail his fearful jokes which sometimes brought him to the gallows, yet saved him from the halter. He was buried with his coffin standing on one end, as the visitants at the Abbey believe of Ben Jonson, at Mollen, near Lubeck: and you may see his grave-stone under the great lime tree in the church-yard; and his rebus, to wit an owl and a looking glass, cut upon the stone. Ulenspiegel, as he is called in German, has almost made the tour of Europe: his life was first published in the Nether-Saxon dialect in 1483. Our English translation of the 'merrye jeste of a man that was called Howleglass, and of many marveylous thinges and jestes that he did in his lyfe in Eastland,' was 'Imprinted at London in Tamestreete, at the Vintre, in Three Craned Warfe, by Wyllyam Copland.' According to the technical phrase, it was done into English from the High Dutch. There is also a Flemish translation, which, well purified from all aspersions on holy church, is now a chap book in armen The Flemish faithful are earnestly warned not to purchase the shameful edition printed at Amsterdam, by Brother Jansz, in the Burgwal, at the sign of the "Silver Can," the same being calculated to vex and scandalize all good Catholics.'
 
 'SimpLe Simon's misfortunes' are such as are incident to all the human race, since they arose 'from his wife Margery's cruelty, which began the very morning after their marriage,' and we therefore do not know whether it is necessary to seek out for a 'Teutonic or Northern original of this once popular book. 'The Fifteen Joys of Matrimony' being also diffused pretty equally
 

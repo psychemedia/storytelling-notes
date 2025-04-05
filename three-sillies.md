@@ -469,7 +469,7 @@ Close by the town she met a butcher, who asked, —
 
 "Oh! I must have five shillings for the cow, but you shall have the ben for ten pound."
 
-"Very good I" sud Uie man; "I don't wtmt the hen, and you 'll soon get it off your hands in the town, bat I'll give you five ^hilliugs for the cow."
+"Very good I" sud Uie man; "I don't wtmt the hen, and you'll soon get it off your hands in the town, bat I'll give you five ^hilliugs for the cow."
 
 Well, she sold her cow for five shillings, but there was no one in the town who would give ten pound for a lean tough old hen, so she went back to the butcher, and said, —
 

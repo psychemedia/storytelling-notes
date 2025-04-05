@@ -473,7 +473,7 @@ After the mechanical clock was invented, a sundial would still be needed to adju
 
 Local time is the term used to describe the use of local timekeeping. +Een though a used clock show mean time, it still had to be set at noon each day, which gives unique time on each possible location. As a result of the flexion of the Earth, time differs four minutes every degree of longitude, which gives a 6 minutes of time difference across Britain /chivelbusch, %0&&, p @(1
 
- " number of companies operated the British railways and they all used their own timetables which were often based on the local time where the company4s office was located. ??erubavel identified how 8much inconvenience was involved in using a single supra-local timetable without having a single uniform standard of time8%056, p&1. This inconsistency inorganisation would cause confusion for the passengers. /chivelbusch describes how this might have picturedA 8In stations used by several different lines there were clocks showing different times, three of these at one station, si$ at the ne$t8%0&&, p @@1
+ "number of companies operated the British railways and they all used their own timetables which were often based on the local time where the company4s office was located. ??erubavel identified how 8much inconvenience was involved in using a single supra-local timetable without having a single uniform standard of time8%056, p&1. This inconsistency inorganisation would cause confusion for the passengers. /chivelbusch describes how this might have picturedA 8In stations used by several different lines there were clocks showing different times, three of these at one station, si$ at the ne$t8%0&&, p @@1
 
  Gatty 1872 The Book of Sun Dials
 
@@ -537,11 +537,11 @@ WITH  THE  ADVENTURES  OF  THE  AUTHOR  IN  SEARCH  OF  THEM. BY  ABRAHAM  ELDER
 
 I observed to the antiquary that I had hoped to have left Southampton in the forenoon.
 
-"There was a time," he replied, " when two o'clock was in the forenoon.
+"There was a time," he replied, "when two o'clock was in the forenoon."
 
 "How can that be possible?" said I.
 
-"Noon," he replied, " was anciently the *hora nona*, or ninth hour of the Romans, which corresponded with our three o'clock. But the *hora nona*, or noon, was gradually changed, till at length it got put back to mid-day. The reason of this change is rather singular: the monks by their rules could not eat their dinner until they had chaunted their noon-song, which was a service regularly said at three o'clock; but they, after a while, anticipated their devotions and their dinner, by chaunting their noon-song immediately after their mid-day song; by which means they got their dinners three hours earlier. Look! what a number of jelly-fish there are swimming about, looking like large bubbles in the water."
+"Noon," he replied, "was anciently the *hora nona*, or ninth hour of the Romans, which corresponded with our three o'clock. But the *hora nona*, or noon, was gradually changed, till at length it got put back to mid-day. The reason of this change is rather singular: the monks by their rules could not eat their dinner until they had chaunted their noon-song, which was a service regularly said at three o'clock; but they, after a while, anticipated their devotions and their dinner, by chaunting their noon-song immediately after their mid-day song; by which means they got their dinners three hours earlier. Look! what a number of jelly-fish there are swimming about, looking like large bubbles in the water."
 
 
 https://en.wikipedia.org/wiki/Roman_timekeeping The English term noon is also derived from the ninth hour. This was a period of prayer initially held at three in the afternoon but eventually moved back to midday for unknown reasons.[10] The change of meaning was complete by around 1300.[11]
@@ -726,7 +726,7 @@ The introduction of the mechanical clock, with all its precision and regularity,
 ---
 
 
-Yulia Frumer, " Translating Time: Habits of Western-Style Timekeeping in Late Edo Japan," Technology and Culture 55 / 4 (2014), 785–820 10.1353/tech.2014.0116.
+Yulia Frumer, "Translating Time: Habits of Western-Style Timekeeping in Late Edo Japan," Technology and Culture 55 / 4 (2014), 785–820 10.1353/tech.2014.0116.
 https://www.jstor.org/stable/24468471
 
 ...

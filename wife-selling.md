@@ -48,7 +48,7 @@ Monmouthshire Merlin - Saturday 18 September 1841
 
 ANCIENT CUSTOMS, &c.
 
-A.D. 961.—Land about Shrewsbury sold for 1s. an acre. The price of an ox was 2s. 6d.; a cow, 2s,; a sheep, 1s. ; a swine, 8d.
+A.D. 961.—Land about Shrewsbury sold for 1s. an acre. The price of an ox was 2s. 6d.; a cow, 2s,; a sheep, 1s.; a swine, 8d.
 
 1347.—Price of a fine horse, 6s. 8d.; the best fed ox, 4s.; a cow, 1s.; a steer or heifer, 6d.; a wether, 4d.; a ewe, 2d.; a lamb, 2d.; a hog, 5d.
 
@@ -110,7 +110,7 @@ For a list of links to back issues of archival copies of *Notes and Queries* (*N
 
 Wives, Custom of Selling. -Has there ever been any foundation in law for the practice of selling of wives, which our neighbours the French persist in believing to be perfectly legal and common at the present day? What was the origin of the custom?
 
-An amusing series of " Notes" might be made, from instances in which the custom is introduced as characteristic of English manners, by French and other foreign writers. G. L. B.
+An amusing series of "Notes" might be made, from instances in which the custom is introduced as characteristic of English manners, by French and other foreign writers. G. L. B.
 
 
 https://archive.org/details/notesqueries07londuoft/notesqueries07londuoft/page/428/mode/2up
@@ -130,7 +130,7 @@ SKI-LING A WIFE.
 
 The popular idea that a man may legally dispose of his wife, by exposing her for sale in a public market, may not improbably have arisen from the correlation of the terms buying and selling. Your correspondent V. T. STERNBERG need not be reminded how almost universal was the custom among ancient nations of purchasing wives; and he will admit that it appears natural that the commodity which has been obtained "per aes et libram" — to use the phrase of the old Roman law touching matrimony — is transferable to another for a similar consideration, whenever it may have become useless or disagreeable to its original purchaser. However this may be, the custom is ancient, and moreover appears to have obtained, to some extent, among the higher orders of society. Of this an instance may be found in Grimaldi's *Origines Genealogies*, pp. 22, 23. (London, 1828, 4to.) The deed, by which the transaction was sought to be legalised, runs as follows :
 
-"To all good Christians to whom this writ shall come, John de Camoys, son and heir of Sir Ralph de Camoys, greeting: Know me to have delivered, and yielded up of my own free will, to Sir William de Payne, Knight, my wife Margaret de Camoys, daughter and heiress of Sir John de Gatesden; and likewise to have given and granted to the said Sir William, and to have made over and quit-claimed all goods and chattels which the said Margaret has or may have, or which I may claim in her right; so that neither I, nor any one in my name, shall at any time hereafter be able to claim any right to the said Margaret, or to her goods and chattels, or their pertinents. And I consent and grant, and by this writ declare, that the said Margaret shall abide and remain with the said Sir William during his pleasure. In witness of which I have placed my seal to this deed, before these witnesses : Thomas de Depeston, John de Ferrings, William de Icombe, Henry le Biroun, Stephen Chamberlayne, Walter le Blound, Gilbert de Batecumbe, Robert de Bosco, and others."
+"To all good Christians to whom this writ shall come, John de Camoys, son and heir of Sir Ralph de Camoys, greeting: Know me to have delivered, and yielded up of my own free will, to Sir William de Payne, Knight, my wife Margaret de Camoys, daughter and heiress of Sir John de Gatesden; and likewise to have given and granted to the said Sir William, and to have made over and quit-claimed all goods and chattels which the said Margaret has or may have, or which I may claim in her right; so that neither I, nor any one in my name, shall at any time hereafter be able to claim any right to the said Margaret, or to her goods and chattels, or their pertinents. And I consent and grant, and by this writ declare, that the said Margaret shall abide and remain with the said Sir William during his pleasure. In witness of which I have placed my seal to this deed, before these witnesses: Thomas de Depeston, John de Ferrings, William de Icombe, Henry le Biroun, Stephen Chamberlayne, Walter le Blound, Gilbert de Batecumbe, Robert de Bosco, and others."
 
 This matter came under the cognisance of Parliament in 1302, when the grant was pronounced to be invalid.
 
@@ -221,7 +221,7 @@ I have met with the following instances of this crime during the last week. They
 
 "Our friends in the Principality are commonly supposed to have many strange customs, but to their credit we must state that the brutal custom of selling a wife is, as in England, a rare occurrence. Last week, however, a wife was sold at Cyfarthfa Iron Works, by one of the workmen to another, and the wife seemed more amused than, pained by the transfer. The price was 2l. 10s., and the understanding that an additional 10s. was to be devoted to beer. This arrangement having been carried out the parties separated, neither husband nor wife apparently regretting the termination of their marriage state." — *Leeds Mercury*, March, 1863.
 
-"This barbarous occurrence actually took place in Merthyr Tydvil a few days ago between a workman of the Cyfarthfa Iron Works and another. The price for which the workman sold his wife was 3l. : 2l. 10s. in cash and 10s. worth of beer, the latter to be drunk by the principal parties in the transaction. The husband seemed very well satisfied that he had not only got rid of his wife, but also gained something in the bargain. As for the woman, she exhibited few symptoms of either shame or sorrow, and drank her share of the beer." — *Stamford Mercury*, March 27, 1863.  
+"This barbarous occurrence actually took place in Merthyr Tydvil a few days ago between a workman of the Cyfarthfa Iron Works and another. The price for which the workman sold his wife was 3l.: 2l. 10s. in cash and 10s. worth of beer, the latter to be drunk by the principal parties in the transaction. The husband seemed very well satisfied that he had not only got rid of his wife, but also gained something in the bargain. As for the woman, she exhibited few symptoms of either shame or sorrow, and drank her share of the beer." — *Stamford Mercury*, March 27, 1863.  
 K. P. D. E.
 
 https://archive.org/details/s3notesqueries04londuoft/page/450/mode/2up
@@ -250,7 +250,7 @@ K. P. D. E
 https://archive.org/details/notesqueries410unse/page/310/mode/2up
 4th S. X, Oct. 19, 1872, nop. 251, p311
 
-Wife Selling.— -In Mr. W. C. Hazlitt's edition of Brand's *Popular Antiquities of Great Britain* (ii. 63) is the following : —
+Wife Selling.— -In Mr. W. C. Hazlitt's edition of Brand's *Popular Antiquities of Great Britain* (ii. 63) is the following:—
 
 "The superstition that a wife is a marketable commodity was entertained, to his misfortune, by one parson Cheken in the reign of Queen Mary; for in his Diary Henry Machyn notes, under the year 1553, 'The xxiiij of November, dyd ryd in a cart, Cheken, parson of Sant Necolas Coldabbay, round about London, for he sold ys wyff to a bowcher.'"
 
@@ -285,7 +285,7 @@ https://archive.org/details/notesqueries410unse/page/378/mode/2up
 
 "Wife Selling" (4th S. x. 311.) — Another version of the old ballad is given in *The Vocal Library*, 1818 (No. 1756), differing in several lines from your correspondent's copy, and containing two more stanzas, which bring the ballad to a satisfactory conclusion.
 
-It is as follows : —
+It is as follows:—
 
 John Hobbs.
 
@@ -344,7 +344,7 @@ There is a wittily written book, by a French visitor, entitled *Six Mois a Londr
 
 France, itself, would appear to be not wholly innocent of the custom. According to the *Birmingham Journal*, of March 25th, 1865, a case of wife-selling had recently occurred at Maratz, near Lille. The price was a decent one, 126 francs, and a deed of sale and bill of exchange for the purchasemoney were duly drawn up. It appeared that neither buyer nor seller had any doubt of the legality of the transaction, and were much astonished when informed that they would have to answer for their conduct before the *Tribunal Correctionnel*.
 
-For a case of wife-selling at Tipton, in Staffordshire, see the *Birmingham Daily Gazette*, June 5th, 1869, p. 5, col. 2. See also *Birmingham Daily Mail*, April 29th, 1871, for report of a case heard before Mr. Bruce, the stipendiary magistrate for Leeds. Here the wife had been sold to a man, with whom she had then lived for twenty-five years. In this case the customary ceremony of the "rope " had been omitted, and the purchaser was stated to "have stepped into the husband's shoes," a phrase, which may be taken metaphorically or literally, as the reader thinks fit.
+For a case of wife-selling at Tipton, in Staffordshire, see the *Birmingham Daily Gazette*, June 5th, 1869, p. 5, col. 2. See also *Birmingham Daily Mail*, April 29th, 1871, for report of a case heard before Mr. Bruce, the stipendiary magistrate for Leeds. Here the wife had been sold to a man, with whom she had then lived for twenty-five years. In this case the customary ceremony of the "rope" had been omitted, and the purchaser was stated to "have stepped into the husband's shoes," a phrase, which may be taken metaphorically or literally, as the reader thinks fit.
 
 Lastly, for it is useless to multiply cases, the *Daily Telgraph*, May 20th, 1872, records an instance, where it turned out that a wife had been bought "for the modest sum of one sovereign." The charge was for an assault, but the magistrate said that the conduct of all parties was disgraceful, and dismissed the summons.
 
@@ -417,7 +417,7 @@ A. J. M.
 https://archive.org/details/notesqueries65unse/page/58/mode/2up
 6th S. V. Jan. 21, 1882, no. 108, p58
 
-Wife Selling (6th S. iii. 487, 512; iv. 133). — The Brighton Herald of May 27, 1826, states that the Brighton Market Book recorded: " May 17, 1826, Mr. Hilton, of Lodsworth, publicly sold his wife for 30s., upon which the toll of one shilling was paid." The matter came to the knowledge of the magistrates, who sent for the toll collector to justify his strange conduct in charging toll; when he at once referred the bench to the market byelaws: "Any article not enumerated in the byelaws pays one shilling" !
+Wife Selling (6th S. iii. 487, 512; iv. 133). — The Brighton Herald of May 27, 1826, states that the Brighton Market Book recorded: "May 17, 1826, Mr. Hilton, of Lodsworth, publicly sold his wife for 30s., upon which the toll of one shilling was paid." The matter came to the knowledge of the magistrates, who sent for the toll collector to justify his strange conduct in charging toll; when he at once referred the bench to the market byelaws: "Any article not enumerated in the byelaws pays one shilling" !
 
 Frederick E. Sawyer.
 
@@ -435,7 +435,7 @@ A. J. M.
 https://archive.org/details/notesqueries65unse/page/296/mode/2up
 6th S. V, April 15, 1882, no. 120, p. 296-7
 
-Wife Selling (6th S. iii. 487, 512; iv. 133; V. 58, 98). — Mr. Rayner, in the first volume of Old Yorkshire (p. 135), gives the five following instances of wife selling in Yorkshire : —
+Wife Selling (6th S. iii. 487, 512; iv. 133; V. 58, 98). — Mr. Rayner, in the first volume of Old Yorkshire (p. 135), gives the five following instances of wife selling in Yorkshire:—
 
 "At the West Riding Sessions, June 28th. 1837 a man named Joshua Jackson was convicted of selling his wife, and sentenced to imprisonment for one month with hard labour. — On the 4th of Feb., 1806, a man named George Gowthorp, of Patrington, sold his wife in the Market-place of Hull for the sum of 20 guineas, and with a halter delivered her to a person named Houseman.— In 1815 a man held a regular auction in the Market-place at Pontefract, offering his wife at the minimum bidding of one shilling, and 'knocked her down' for 11 shillings. — In 1858, in a beershop in Little Horton, Bradford, a man named Hartley Thompson put up his wife, described by the local journals at the time as a 'pretty young woman,' for sale; he even announced the sale betorehand by means of a cider or bellman, and brought her in with a ribbon round her neck, by way of halter.... At Selby, in the month of December, 1862, a man publicly sold his wife on the steps of the marketcross for a pint of ale."  
 G. R. R. B.
@@ -514,7 +514,7 @@ I have read of wife-sales taking place in Yorkshire and elsewhere, and I think t
 https://archive.org/details/s10notesqueries09londuoft/s10notesqueries09londuoft/page/416/mode/2up
 10 S. ix. MAY 23, 1908, p416
 
-"'T WIFE BAZAAR": "CHILDERS " (10 S. ix. 207). — In The Home Counties Magazine, iv. 28, in an article entitled 'Notes on a Custom at Woking,' mention is made of a somewhat similar custom, lasting well into the last century, to that which has astonished ST. SWITHIN. The chief difference, apparently, is that it was the custom of the cottagers at Woking to exchange wives once a week, instead of once a year. The author declares that
+"'T WIFE BAZAAR": "CHILDERS" (10 S. ix. 207). — In The Home Counties Magazine, iv. 28, in an article entitled 'Notes on a Custom at Woking,' mention is made of a somewhat similar custom, lasting well into the last century, to that which has astonished ST. SWITHIN. The chief difference, apparently, is that it was the custom of the cottagers at Woking to exchange wives once a week, instead of once a year. The author declares that
 
 "as morality is commonly understood, the district was a peculiarly good one, erring, if anything, on the side of narrow-mindedness;"
 
@@ -645,7 +645,7 @@ Hampshire Advertiser - Saturday 11 February 1865
 
 THE WIFE SELLING CASE AT WOLVERHAMPTON.
 
-It will no doubt be in the recollection of onr readers that a few weeks ago a paragraph went the round of the papers, to the effect that a man named Samnel Jones, residing at Wolverhampton, had sold his wife and three blooming children to an American adventurer for the moderate sum of £150. As was then mentioned the wife left her lawful husband, and with the three children went to live with her American admirer. It would appear, however, that a few days ago she repented of her bargain, and returned to the protection of Mr. Samuel Jones. Upon finding himself deserted, the American communicated with the husband, and informed him that if he conld persuade his wife to return to him he would give the husband an additional fifty pounds. The husband accordingly tried all his powers of persuasion to get the wife to leave him, and finding her quite willing communicated with our American cousin, who was in London. He went down to Wolverhampton on Saturday. He there saw the husband and wife, and it was arranged that the American, with the wife and three children, should leave Wolverhampton on Saturday for London, by the 7.15 p.m. train. The Yankee, to make sure of his prize, arranged with Mr. Jones that he should see them to the station, and upon the signal being given for the train to start he would hand him a £50 Bank of England note. The husband accordingly saw the American, his wife, and three children safe in the train, and upon it leaving the platform received a Bank of England note from his Yankee friend. The train had hardly left the station, when upon looking at the note he found that it was a simple £5 note. Finding he was duped out of £45 his wife and three children, he at once sent the following graphic telegraphic message to the police in this town:— " Tall thin man run away with my wife and three children, two boxes, two band-boxes, and a carpet-bag. He is an American, with a belt round him, with a bowie-knife in the belt and a revolver. They are going to London, but husband will be at Birmingham by the next train booked from Wolverhampton to New-street station. To be detained."
+It will no doubt be in the recollection of onr readers that a few weeks ago a paragraph went the round of the papers, to the effect that a man named Samnel Jones, residing at Wolverhampton, had sold his wife and three blooming children to an American adventurer for the moderate sum of £150. As was then mentioned the wife left her lawful husband, and with the three children went to live with her American admirer. It would appear, however, that a few days ago she repented of her bargain, and returned to the protection of Mr. Samuel Jones. Upon finding himself deserted, the American communicated with the husband, and informed him that if he conld persuade his wife to return to him he would give the husband an additional fifty pounds. The husband accordingly tried all his powers of persuasion to get the wife to leave him, and finding her quite willing communicated with our American cousin, who was in London. He went down to Wolverhampton on Saturday. He there saw the husband and wife, and it was arranged that the American, with the wife and three children, should leave Wolverhampton on Saturday for London, by the 7.15 p.m. train. The Yankee, to make sure of his prize, arranged with Mr. Jones that he should see them to the station, and upon the signal being given for the train to start he would hand him a £50 Bank of England note. The husband accordingly saw the American, his wife, and three children safe in the train, and upon it leaving the platform received a Bank of England note from his Yankee friend. The train had hardly left the station, when upon looking at the note he found that it was a simple £5 note. Finding he was duped out of £45 his wife and three children, he at once sent the following graphic telegraphic message to the police in this town:— "Tall thin man run away with my wife and three children, two boxes, two band-boxes, and a carpet-bag. He is an American, with a belt round him, with a bowie-knife in the belt and a revolver. They are going to London, but husband will be at Birmingham by the next train booked from Wolverhampton to New-street station. To be detained."
 
 Upon Detective Inspector Tandy receiving the telegram he directed Detective Sergeants Spokes and Jenns to meet the train from Wolverhampton and look out for the American, the wife, and three children. These two active officers accordingly went to the station, and upon making inquiries of the railway officials found the husband in the cloak room, he having arrived from Wolverhampton by the express which reaches Birmingham about ten minutes after the ordinary train. The officers made further inquiries and found the American had arrived. They then went to the Dudley-street side of the station, where the husband saw the American, with his wife and children and the luggage, he being in the act of putting the latter in a cab. The husband, going up to the Yankee, said, "Well, John, how are you getting on?" to which he replied, "All right, I guess." Upon this the husband informed him that he had given him at Wolverhampton station a £5 note instead of £50 note, and he wanted the latter sum. Said the American, "Well, I guess it was a mistake," and taking a bundle of notes from his pocket handed Mr. Jones a £50 Bank of England note, which was passed to the detectives, who foumd it to be quite genuine. The husband then shook hands with his wife, and kissing his children wished them "good-bye," and, with a friend who was with him, went to the nearest liquor vaults, where he "liquored" with his friend. The last that was seen of the American was that he, with the purchased wife and three children, were "making tracks" for the London train, where, we believe, they safely arrived. —*Birmingham Gazette*.
 
@@ -789,7 +789,7 @@ Mr. Whitfeld, in his Plymouth and Devonport, in *Times of War and Peace*, mentio
 
 Expectation was whetted by the intimation that the lady would attend the sale herself, that all might judge of her personal charm, and that she would be mounted on horseback. A curious and babbling crowd assembled to witness the transaction, and precisely at midday, according to the announcement, she rode up, attended by the ostler of the "Lord Exmouth." The husband, James Brooks, officiated as auctioneer. The first bid was five shillings, then the sums offered mounted to ten and to fifteen; but none rose, and that slowly, over two pound. Whereupon the ostler called out "Three pounds," and she would have been knocked down to him had not at this conjuncture a couple of watchmen intervened, one laying hands on the husband and the other on the wife, and escorted the pair to the Guildhall, followed by the rabble.
 
-When the mayor took them to task, the husband declared that for the life of him he could not see that he was doing wrong. He and his wife had agreed to the sale, as they had not lived together for long, and were ill-assorted, and therefore desired fresh partners. The ostler was prepared to pay twenty pounds for her — three pounds down and the balance at Christmas — and the woman was quite agreeable. What, then, was wrong? He assured the mayor that there was nothing "below board" in the transaction; the auction had been "called " three times in Modbury Market, and the wife also considered that she ought and would like to be sold in a public fair.
+When the mayor took them to task, the husband declared that for the life of him he could not see that he was doing wrong. He and his wife had agreed to the sale, as they had not lived together for long, and were ill-assorted, and therefore desired fresh partners. The ostler was prepared to pay twenty pounds for her — three pounds down and the balance at Christmas — and the woman was quite agreeable. What, then, was wrong? He assured the mayor that there was nothing "below board" in the transaction; the auction had been "called" three times in Modbury Market, and the wife also considered that she ought and would like to be sold in a public fair.
 
 The mayor now examined the woman. She admitted that the ostler was buying her in at a reserved price, at which she had valued herself. There was a gentleman, a Mr. K., who she expected would have attended and bid for her, and with whom she had intended to go. But Mr. K. had not turned up, much to her annoyance. "I was very much annoyed," said she, "to find that he had not kept his promise. But I was so determined to be loosed from Mr. Brooks, that when Mr. K. did not attend, I asked the ostler to buy me with my own money, unless I went for more than twenty pounds."
 
@@ -860,9 +860,9 @@ whipping women—but whether husbands
 
 ever had a legal right to beat their wives. Many thousands of hapless women have realised the stern fact in their own persons,
 
-let the rights of men and the rights of women be what they may. The Russians in past ages were very much distinguished as wife-beaters, and Purchas went so far as to say that, " If in Muscovy the women are not beaten once a week, they will not be good, therefore they look for
+let the rights of men and the rights of women be what they may. The Russians in past ages were very much distinguished as wife-beaters, and Purchas went so far as to say that, "If in Muscovy the women are not beaten once a week, they will not be good, therefore they look for
 
-it weekly; and the women say, if their husbands did not beat them, they should not love them." Did Purchas ever hear Russian women say this ? in his volume on the State of Russia (1716), said, " It is a common thing in Russia to beat their wives in a most barbarous manner, very often so inhumanely that they die with the blows: and yet they do not suffer for the murder, being a thing interpreted by the law to be done by way of correction." Alas! correction had an elastic meaning to those much-bruised women ! fathers sometimes insisted on clauses being put into the marriage settlements of their daughters, prohibiting the marital use of the knout, whip, or stick.
+it weekly; and the women say, if their husbands did not beat them, they should not love them." Did Purchas ever hear Russian women say this? in his volume on the State of Russia (1716), said, "It is a common thing in Russia to beat their wives in a most barbarous manner, very often so inhumanely that they die with the blows: and yet they do not suffer for the murder, being a thing interpreted by the law to be done by way of correction." Alas! correction had an elastic meaning to those much-bruised women ! fathers sometimes insisted on clauses being put into the marriage settlements of their daughters, prohibiting the marital use of the knout, whip, or stick.
 
 wife-beating in Russia—Marie and Alfred forbid! And yet, what are we to say to
 
@@ -1029,9 +1029,9 @@ p205
 
 EXEMPTIONS BY MARRIAGE.
 
-Formerly there was entertained a vulgar notion that a woman’s marrying a man under the gallows would save him from the execution. This probably arose from a wife having brought an appeal against the murderer of her husband ; who afterwards, repenting of the provocation of her lover, not only forgave the offence, but was willing to marry the appellee.
+Formerly there was entertained a vulgar notion that a woman’s marrying a man under the gallows would save him from the execution. This probably arose from a wife having brought an appeal against the murderer of her husband; who afterwards, repenting of the provocation of her lover, not only forgave the offence, but was willing to marry the appellee.
 
-In the Domestic k Intelligence of March 30, 1680, it is stated that, “ at the execution of a woman named Clark, for firing her master’s house in Southwark, there was a fellow who deigned to marry her under the gallows (according to the ancient laudable custom), when she, being in hopes of a reprieve, seemed unwilling ; but when the rope was about her neck she cried she was willing, and then the fellow’s friends dissuaded him from marrying her ; and so she lost her husband and her life together.” There is added, “ We know of no such custome allowed by law, that any man’s offering at a place of execution to marry a woman condemned shall save her.”
+In the Domestic k Intelligence of March 30, 1680, it is stated that, "at the execution of a woman named Clark, for firing her master’s house in Southwark, there was a fellow who deigned to marry her under the gallows (according to the ancient laudable custom), when she, being in hopes of a reprieve, seemed unwilling; but when the rope was about her neck she cried she was willing, and then the fellow’s friends dissuaded him from marrying her; and so she lost her husband and her life together." There is added, "We know of no such custome allowed by law, that any man’s offering at a place of execution to marry a woman condemned shall save her."
 
 In like manner, it was imagined that when a man intended to marry a woman who was in debt, if he took her from the hands of the priest clothed only in her shift, he would not be liable to her engagements. Another version of this error is, that the woman might clear herself of all debts by crossing the street in which she lived only wearing her shift.
 
@@ -1043,7 +1043,7 @@ These errors are explained more at length in Things not generally Known , p. 120
 --
 
 https://archive.org/details/oxfordduringlast00greerich/page/124/mode/2up?q=%22wife-sales%22
-Oxford during the last century : being two series of papers published in the Oxford chronicle & Berks & Bucks gazette during the year 1859
+Oxford during the last century: being two series of papers published in the Oxford chronicle & Berks & Bucks gazette during the year 1859
 by Green, John Richard, 1837-1883
 
 Publication date 1859

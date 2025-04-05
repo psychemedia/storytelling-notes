@@ -20,9 +20,9 @@ https://en.wikipedia.org/wiki/Tenali_Rama special adviser  1509 to 1529;  genera
 https://www.rohitghai.com/katha-parampara/
 Tenali Rama version
 
-http://tlhjournal.com/uploads/products/13.rajpal-article.pdf Folk and Feudal Crossover at the Imperial Court " comparative critical reading of anecdotes
-of Akbar-Birbal and King Krishan Dev Rai-Tenali Raman with specific emphasis primarily on
-two aspects: (a) how these folk fools enter the royal courts and (b) how these courtiers treat the irrational in a so called „democratic space‟ protecting themselves" 
+http://tlhjournal.com/uploads/products/13.rajpal-article.pdf Folk and Feudal Crossover at the Imperial Court: comparative critical reading of anecdotes
+of Akbar-Birbal and King Krishan Dev Rai-Tenali Raman with specific emphasis primarily on two aspects: (a) how these folk fools enter the royal courts and (b) how these courtiers treat the irrational in a so called „democratic space‟ protecting themselves"
+
 
 https://www.youtube.com/watch?v=cr7V3diS7yQ
 

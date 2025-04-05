@@ -10,7 +10,7 @@ Steampunk philosophy:
 
 - community
 - welcoming
-- "wonder and potential mixed with fear", "mystified fascination", and age when "machines were visible, human, fallible, and above all, accessible" [TH: itself  reaction to the hidden mysteries of myth and legend?]; " Steampunk ... focuses on the positive aspects associated with the Industrial Revolution" "Steampunks hope to recapture the Victorian sense of wonder surrounding new technology", works are "optimisitic", "Steampunk worlds are warm and whimsical, and the technology in them has a sense of soul"; "these stories project a future that captures readers' imaginations rather than predictions that fill them with dread" -> so tales need to capture that sense of wonder looking back?  https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1114&context=forum
+- "wonder and potential mixed with fear", "mystified fascination", and age when "machines were visible, human, fallible, and above all, accessible" [TH: itself  reaction to the hidden mysteries of myth and legend?]; "Steampunk ... focuses on the positive aspects associated with the Industrial Revolution" "Steampunks hope to recapture the Victorian sense of wonder surrounding new technology", works are "optimisitic", "Steampunk worlds are warm and whimsical, and the technology in them has a sense of soul"; "these stories project a future that captures readers' imaginations rather than predictions that fill them with dread" -> so tales need to capture that sense of wonder looking back?  https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1114&context=forum
 - https://steampunkengine.net/steampunks-reflection-on-victorian-morals-and-ethics/
 
 -> in many ways, the old stories harkened back to an age before steam

@@ -114,7 +114,7 @@ Jack ate and drank till he could eat no more: then taking up a shell of brandy, 
 
 "And a mighty decent name it is," cried Jack, taking another shellful: "here's to your good health, Coomara, and may you live these fifty years to come!"
 
-"Fifty years!" repeated Coomara; " I'm obliged to you, indeed! If you had said five hundred, it would have been something worth the wishing."
+"Fifty years!" repeated Coomara; "I'm obliged to you, indeed! If you had said five hundred, it would have been something worth the wishing."
 
 "By the laws, sir," cries Jack, "*youz* live to a powerful great age here under the water! You knew my grandfather, and he's dead and gone better than these sixty years. I'm sure it must be a mighty healthy place to live in."
 
@@ -129,7 +129,7 @@ Old Coomara got exceedingly comfortable, and sung several songs; but Jack, if hi
 
 It was the chorus to one of them; and to say the truth, nobody that I know has ever been able to pick any particular meaning out of it; but that, to be sure, is the case with many a song now-a-days.
 
-At length said he to Jack, " Now, my dear boy, if you folow me, I'll show you my *curosities*!" He opened a little door and led Jack into a large room, where Jack saw a great many odds and ends that Coomara had picked up at one time or another. What chiefly took his atention, however, were things like lobster pots ranged on the ground along the wall.
+At length said he to Jack, "Now, my dear boy, if you folow me, I'll show you my *curosities*!" He opened a little door and led Jack into a large room, where Jack saw a great many odds and ends that Coomara had picked up at one time or another. What chiefly took his atention, however, were things like lobster pots ranged on the ground along the wall.
 
 "Well, Jack, how do you like my *curosities*?" said old Coo.
 
@@ -159,7 +159,7 @@ Jack knew better manners than to refuse the parting glass. "I wonder," said he, 
 
 Out they went before the house, and Coomara took one of the cocked hats, and put it upon Jack's head the wrong way, and then lifted him up on his shoulder that he might launch him up into the water.
 
-"Now," says he, giving him a heave, "you 'll come up just in the same spot you came down in, and, Jack, mind and throw me back the hat."
+"Now," says he, giving him a heave, "you'll come up just in the same spot you came down in, and, Jack, mind and throw me back the hat."
 
 He canted Jack off his shoulder, and up he shot like a bubble whirr, whirr, whiz-away he went up through the water, till he came to the very rock he had jumped off, where he found a landing-place, and then in he threw the hat, which sunk like a stone.
 
@@ -191,7 +191,7 @@ Jack asked Coo again, and Coo laughed at him for having no better head, telling 
 
 "Any thing in my power," said Co, "to oblige you."
 
-At this dinner, Jack took care to have his own liquor well watered, and to give the strongest brandy he had to Coo. At last, says he; " Pray, sir, did you ever drink any poteen?—any real Mountain dew ?"
+At this dinner, Jack took care to have his own liquor well watered, and to give the strongest brandy he had to Coo. At last, says he; "Pray, sir, did you ever drink any poteen?—any real Mountain dew ?"
 
 "No," says Coo; "what's that, and where does it come from?"
 
@@ -205,8 +205,7 @@ All was as still as a church-yard at midnight— not a Merrow old or young was t
 air! Having now done all that he could do for them, he set the pots as they were before, and sent a blessing after the poor souls, to speed them on their journey wherever they were going. Jack now began to think of returning; he put the hat on, as was right, the wrong way; but when he got out, he found the water so high over his head, that he had no hopes of ever geting up into it, now that he had not old Coomara to give him a lift. He walked about looking for a ladder, but not one could he find, and not a rock was
 there in sight. At last he saw a spot where the sea hung rather lower than any where else, so he resolved to try there. Just as he came to it, a big cod happened to put down his tail. Jack made a jump. and caught hold of it, and the cod, all in amazement, gave a bounce and pulled Jack up. The minute the hat touched the water, pop away Jack was whisked, and up he shot like a cork, dragging the poor cod, that he forgot to let go, up with him, tail foremost. He got to the rock in no time, and without a moment's delay hurried home, rejoicing in the good deed he had done. But, meanwhile, there was fine work at home; for our friend Jack had hardly left the house on his soul-freeing expedition, when back came Biddy from her soul-saving one to the well. When she entered the house and saw the things lying *thrie-na helah* on the table before her.
 
-"Here's a pretty job!" said she " that blackguard of mine— what ill-luck I had ever to marry him! He has picked up some vagabond or other, while I was praying for the good of his soul, and they've been drinking all the *poteen* that my own brother gave him, and all the spirits, to be sure, that he was to have sold to his honour." —Then hearing an outlandish kind of grunt, she looked
-down, and saw Coomars lying under the table.— " The blessed Virgin help me," shouted she, "if he has not made a real beast of himself! Well, well, I've often heard of a man making a beast of himself with drink!—Oh hone oh hone—Jack, honey, what will I do with you, or what will I do without you? How can any decent woman ever think of living with a beast?"—
+"Here's a pretty job!" said she "that blackguard of mine— what ill-luck I had ever to marry him! He has picked up some vagabond or other, while I was praying for the good of his soul, and they've been drinking all the *poteen* that my own brother gave him, and all the spirits, to be sure, that he was to have sold to his honour." —Then hearing an outlandish kind of grunt, she looked down, and saw Coomars lying under the table.— "The blessed Virgin help me," shouted she, "if he has not made a real beast of himself! Well, well, I've often heard of a man making a beast of himself with drink!—Oh hone oh hone—Jack, honey, what will I do with you, or what will I do without you? How can any decent woman ever think of living with a beast?"—
 
 With such like lamentations Biddy rushed out of the house, and was going, she knew not where, when she heard the well-known voice of Jack singing a mery tune. Glad enough was Biddy to find him safe and sound, and not turned into a thing that was like neither fish nor flesh. Jack was obliged to tell her all, and Biddy, though she had half a mind to be angry with him for not telling her before, owned that he had done a great service to the poor souls. Back they both went most lovingly to the house, and Jack wakened up Coomars; and perceiving the old fellow to be rather dull, he bid him not be cast down, for 'twez many a good man's case; said it al came of his not being used to the *poteen*, and recommended him, by way of cure, to swallow a hair of the dog that bit him. Coo, however, seemed to think he had had quite enough: he got up, quite out of sorts, and without having the manners to say one word in the way of civility, he sneaked off to cool himself by a jaunt through the salt water.
 

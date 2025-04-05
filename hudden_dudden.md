@@ -1004,7 +1004,7 @@ And he took the chest with one hand, and lifted it up a little, as if he intende
 
 "Hu!" exclaimed Little Claus, pretending to be frightened, "he's in there still! I must make haste and throw him into the river, that he may he drowned."
 
-"Oh, no, no!" screamed the clerk. "I will give you a whole bushel-full of money if you 'll let me go."
+"Oh, no, no!" screamed the clerk. "I will give you a whole bushel-full of money if you'll let me go."
 
 "Why, that's another thing!" said Little Claus; and he opened the chest.
 
@@ -1022,7 +1022,7 @@ So he sent a boy to Great Claus to ask for a bushel measure.
 
 "That 's really being well paid," said Great Claus. And he ran home in a hurry, took an axe, and killed all his four horses; then he flayed them, and carried off their skins to the town."
 
-"Hides! hides! who 'll buy any hides?" he cried through the streets.
+"Hides! hides! who'll buy any hides?" he cried through the streets.
 
 All the shoemakers and tanners came running, and asked how much he wanted for them.
 

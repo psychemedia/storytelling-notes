@@ -40,7 +40,7 @@ CASTLE LEGENDS.
 
 Was it a monster? Was it a rockfall? Some say the sound of the drum beat changed just before it disappeared, as if the boy had entered a large cavern.
 
-And so the tale easily transforms in a "sleeping Arthur" type tale, in which the sleeping King, King Arthur, lies with his soldiers awaiting the time when England needs him most. One of the knights awakes, asks whether England is under attack. No. "Then it is not yet time to awaken King Arthur " But when we do awake, a drummer should lead us. Will you wait with us? And so he did.
+And so the tale easily transforms in a "sleeping Arthur" type tale, in which the sleeping King, King Arthur, lies with his soldiers awaiting the time when England needs him most. One of the knights awakes, asks whether England is under attack. No. "Then it is not yet time to awaken King Arthur. But when we do awake, a drummer should lead us. Will you wait with us?" And so he did.
 
 At this point, the tale often turns again, and whilst the sleeping King remains, the protagonist transforms from a frummer boy to a local potter.
 

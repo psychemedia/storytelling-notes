@@ -307,7 +307,7 @@ Here was the squire out on the doorstep, and he looked at him. 'Canst thou work?
 
 'That is naught!' quoth the big man. He seized the fork, and threw all the dung out in one throw. The gentile was amazed to see him.
 
-'1 have a herd of cows on the other side of the river; go and drive them all up to the house. Lead them through the water without wetting the hoofs of a single one.'
+'I have a herd of cows on the other side of the river; go and drive them all up to the house. Lead them through the water without wetting the hoofs of a single one.'
 
 The big man took a sack and a carving knife, and crossed the river, and ran after the cows, and caught one. He chopped off her four hoofs and put them in the sack. So he dealt with the whole herd. Now they are hoofless, every one.
 

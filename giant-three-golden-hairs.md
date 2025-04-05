@@ -179,7 +179,7 @@ Then the king was exceeding terrified, and said presently, 'I will write a lette
 
 So he wrote this letter: 'Dear wife, have this lad put forthwith to death, else he will undo us all.'
 
-Nameless set out with the letter for the queen, but on his way to the city lost himself in a forest, and there met a lady in white who said to him, 'You have lost yourself. Come to my hut, and rest a bit; then I 'll soon bring you to the queen.'
+Nameless set out with the letter for the queen, but on his way to the city lost himself in a forest, and there met a lady in white who said to him, 'You have lost yourself. Come to my hut, and rest a bit; then I'll soon bring you to the queen.'
 
 She led Nameless to her hut, and there he fell fast asleep. The old lady took the letter from his pocket, burnt it, and put another in its stead. When the lad awoke, to his great amazement he found himself in front of the king's house. So he went in to the queen and gave her the letter, in which stood written: 'Dear wife, at once call the pope, and let him plight this lad to our daughter. I wish him to marry her, else a great ill will befall us.'
 
@@ -187,13 +187,13 @@ The queen did as her husband, the king, desired. She bade call the pope, and Nam
 
 Sorrowfully Nameless set out, for he loved his young wife, and she too loved him dearly. As he wandered on he came to a great black lake, and saw a white boat floating on the water. He cried to the old man in it, 'Boat ahoy! come and ferry me over.'
 
-The old man answered, 'I will take you across if you 'll promise to bring me word how to escape out of this boat, for only then can I die.'
+The old man answered, 'I will take you across if you'll promise to bring me word how to escape out of this boat, for only then can I die.'
 
 Nameless promised, and the old man ferried him over the black water. Soon after Nameless came to a great city, where an old man asked him, 'Whither away?'
 
 'To the Sun-King,' said Nameless.
 
-'Couldn't be better. Come, I'll bring you to our king, who 'll have something to say to you.'
+'Couldn't be better. Come, I'll bring you to our king, who'll have something to say to you.'
 
 The king, when Nameless stood before him, said, 'Twenty years ago there was in our city a spring whose water made every one that drank of it grow young. The spring has vanished, and only the Sun-King knows where it is gone to. You are journeying to him, so ask him where it is gone to, and bring us word.'
 
@@ -201,7 +201,7 @@ Nameless promised him to bring word on his return, and departed. Some days after
 
 'To the Sun-King,' said Nameless.
 
-'That's capital. Come, I'll bring you to our king, who 'll have something to say to you.'
+'That's capital. Come, I'll bring you to our king, who'll have something to say to you.'
 
 When they came to the king, the king said, 'Twenty years ago a tree in this city bore golden apples; whoso ate of those apples grew strong and healthy, and died not. But now for twenty years this tree has put forth no more fruit, and only the Sun-King knows the reason why. So when you come to him, ask him about it, and bring us word.'
 
@@ -213,7 +213,7 @@ Nameless promised him to bring word on his return, and departed. Some days after
 
 She brought Nameless into the house, and made him tell her his story. He told her of the man on the black lake, of the spring, and of the tree that used to bear golden apples.
 
-Then said the old lady, 'I will ask my son all about that But come, let me hide you; for if my son finds you here he 'll burn you up.'
+Then said the old lady, 'I will ask my son all about that But come, let me hide you; for if my son finds you here he'll burn you up.'
 
 She hid Nameless in a great vessel of water, and bade him keep quiet. At evening the Sun-King came home, a feeble old man with golden head, and got victuals and drink from his mother. When he had eaten and drunk, he laid his golden head in his mother's lap and fell fast asleep. Then the old lady twitched out a golden hair, and he cried,"
 

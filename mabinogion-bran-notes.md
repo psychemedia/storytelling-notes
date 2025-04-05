@@ -51,7 +51,7 @@ Some swineherds, who were on the sea shore, discover his approach, and go with a
 
 "O yes; we could perceive a great mountain by the side of the wood, sir," they replied; "and that mountain was moving, and there was a very high ridge on the mountain, with a lake on each side of the ridge. The wood, the mountain, the whole seemed in motion."
 
-"Well," said the king, " there is no body here who knows any thing of all this unless it be Bronwen; inquire if she knows?"
+"Well," said the king, "there is no body here who knows any thing of all this unless it be Bronwen; inquire if she knows?"
 
 Thereupon messengers repaired to Bronwen.
 

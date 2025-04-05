@@ -940,7 +940,7 @@ Next morning Billy told the hermit he was ready.
 
 "Oh, that 's a bad wish, Billy."
 
-"Oh, no; you 'll see it 's good. Next thing I wish for is a purse so that no one can take out whatever I put into it."
+"Oh, no; you'll see it 's good. Next thing I wish for is a purse so that no one can take out whatever I put into it."
 
 "Oh, Billy, Billy! that 's a bad wish. Be careful now about the third wish," said the hermit.
 
@@ -1051,7 +1051,7 @@ ONCE upon a time an old blacksmith lived in an old forge at Craig-y-don, and he 
 
 One night he was coming home from an alehouse very tipsy, and as he got near a small stream a lot of little men suddenly sprang up from the rocks, and one of them, who seemed to be older than the rest, came up to him, and said:
 
-"If you don't alter your ways of living you'll die soon; but if you behave better and become a better man you 'll find it will be to your benefit," and they all disappeared as quickly as they had come.
+"If you don't alter your ways of living you'll die soon; but if you behave better and become a better man you'll find it will be to your benefit," and they all disappeared as quickly as they had come.
 
 The old blacksmith thought a good deal about what the fairies had told him, and he left off drinking, and became a sober, steady man.
 

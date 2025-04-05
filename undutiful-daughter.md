@@ -358,7 +358,7 @@ O take of your mother her fee without measure.'
 2 'I'll take of my father his gold and his treasure,  
 I'll take of my mother her fee without measure:'  
 She has come with the captain unto the seaside, O,  
-"We 'll sail to lands foreign upon the blue tide, O!'
+"We'll sail to lands foreign upon the blue tide, O!'
 
 3 And when she had sailed today and tomorrow,  
 She was beating her hands, she was crying in sorrow;  
@@ -413,9 +413,9 @@ O make me a coffin of gold that is yellow,
 And bmy me under the banks of green willow!'
 
 14 'I will make thee a coffin of gold that is yellow,  
-I 'll bury thee under the banks of green willow;  
-I 'll bury thee there as becoraeth a lady,  
-I 'll bury thee there, both thou and thy baby.'
+I'll bury thee under the banks of green willow;  
+I'll bury thee there as becoraeth a lady,  
+I'll bury thee there, both thou and thy baby.'
 
 15 The sails they were spread, and the wind it was blowing,  
 The sea was so salt, and the tide it was flowing;  

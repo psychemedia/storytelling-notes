@@ -166,7 +166,7 @@ The debt of Nature. To him came
 Our doctor, who would win much fame  
 By such a cure; he looked around.  
 And Death, beside the feet, he found.  
-"He will get well; " he instant cried;  
+"He will get well;" he instant cried;  
 "I answer for him if be tried  
 My remedies; and, for a fee.  
 Twelve gulden shall be paid to me."  
@@ -191,7 +191,7 @@ For Death was standing by his head.
 Quoth Death, "My godson, come with me;  
 Thy course is run, as thou may'st see."
 
-The doctor said, " I will not stay  
+The doctor said, "I will not stay  
 Thee long; but, ere I go away.  
 Let me, I pray thee, say a prayer,  
 For future welfare to prepare;  
@@ -204,9 +204,9 @@ Of the Lord's prayer one word to say;
 But then he paused, nor did intend  
 His prayer should ever have an end.  
 Often came Death to see him there.  
-And asked, " Hast thou yet done thy prayer ?
+And asked, "Hast thou yet done thy prayer ?
 
-"Nay!" said the doctor, " such an end,  
+"Nay!" said the doctor, "such an end,  
 I pray the Lord will never send."
 
 At length Death made a cunning plan;  
@@ -220,7 +220,7 @@ Then Death unmasked his grinning head;
 With fleshless hand he clutched him fast,  
 His helpless victim now at last."  
 Full six long years thou'st cheated me,"  
-He cried; " I now take charge of thee;  
+He cried; "I now take charge of thee;  
 Thy ended prayer hath loosed my hand.  
 So come at once at my command."
 
@@ -270,7 +270,7 @@ THE CANDLES OF LIFE
 
 THERE was once a poor man named Martin. He was so very poor that when his wife gave birth to a little boy, he could find no one who would stand godmother to the child.
 
-"No," he told his wife, " there's no one that I've asked who is willing to hold this infant at the christening."
+"No," he told his wife, "there's no one that I've asked who is willing to hold this infant at the christening."
 
 The poor mother wept and moaned and he tried to comfort her as best he could.
 
@@ -289,7 +289,7 @@ After the christening she invited Martin home with her. She showed him through t
 
 Martin was frightened and begged Death to lengthen his candle, but Death shook her head.
 
-"No, my friend," she said, " I can't do that."
+"No, my friend," she said, "I can't do that."
 
 She reached for a fresh candle to light it for the baby just christened. While her back was turned, Martin snatched a tall candle, lighted it, and then pressed it on the stub of his own candle that was nearly burned out.
 When Death turned and saw what he had done, she frowned reprovingly.
@@ -309,9 +309,9 @@ Time went by and Martin's fame as a great physician spread far and wide. Whereve
 
 He always remembered Death's warning not to treat a sick man if she stood at his head. Once, however, he disobeyed. He was called to prescribe to a duke of enormous wealth. When he entered the room he saw Death standing at the duke's head.
 
-"Can you cure him? " they asked Martin.
+"Can you cure him?" they asked Martin.
 
-"I can't promise," Martin said, " but I'll do what I can."
+"I can't promise," Martin said, "but I'll do what I can."
 
 He had the servants turn the duke's bed around until the foot instead of the head was in front of Death. The duke recovered and rewarded Martin richly.
 
@@ -321,7 +321,7 @@ But Death when next she met Martin reproved him:
 
 The years went by and Martin grew old. His hair whitened and his muscles stiffened. The infirmities of age came upon him and life was no longer a joy.
 
-"Dear Godmother Death," he cried, " I am old and tired! Take me!"
+"Dear Godmother Death," he cried, "I am old and tired! Take me!"
 But Death shook her head.
 
 "No, my friend, I can't take you yet. You lengthened the candle of your life and now you must wait until it burns down."
@@ -337,9 +337,9 @@ His son, whose name was Josef, was a stupid fellow. One day as he was going to c
 
 "Oh, pretty well, thank you. I can live along for a while on what my father saved. When that's gone, I don't know what I'll do."
 
-"Tut! Tut! "said Death. " That's no way to talk. If you only knew it, I'm your godmother who held you at your christening. I helped your father to wealth and fame and now I'll help you. I tell you what I'll do: I'll apprentice you to a successful doctor and I'll see to it that soon you'll know more than he knows."
+"Tut! Tut! "said Death. "That's no way to talk. If you only knew it, I'm your godmother who held you at your christening. I helped your father to wealth and fame and now I'll help you. I tell you what I'll do: I'll apprentice you to a successful doctor and I'll see to it that soon you'll know more than he knows."
 
-Death rubbed some salve over Josef's ears and led him to a doctor. " I wish you to take this youth as an apprentice," she said. " He's a likely lad and will do you credit. Teach him all you know."
+Death rubbed some salve over Josef's ears and led him to a doctor. "I wish you to take this youth as an apprentice," she said. "He's a likely lad and will do you credit. Teach him all you know."
 
 The doctor accepted Josef as an apprentice and when he went out into the fields to gather herbs and simples, he took the youth with him.
 
@@ -353,7 +353,7 @@ Now the magic salve with which Godmother Death had anointed Josef enabled him to
 
 The doctor was amazed at his apprentice's knowledge of herbs.
 
-"You know them better than I do," he said. " You never make a mistake. It is I should be apprentice, not you. Let us go into partnership. I will work under you and together we will make wonderful cures."
+"You know them better than I do," he said. "You never make a mistake. It is I should be apprentice, not you. Let us go into partnership. I will work under you and together we will make wonderful cures."
 
 And so, owing to his godmother's gift, Josef became a great physician of whom it was said that there was no illness for which he could not find a remedial herb.
 
@@ -395,9 +395,9 @@ pp.182-200
 
 p188
 
-(iii) We have the authority of our President, Mr. Mansel Pleydell, for saying that it was sometimes the practice in his own neighbourhood of Whatcombe, near Blandford, for those in attendance on the dying person to observe which way the planks of the floor lay, and if they happened to be cross-ways with the bed they turned the person round so that he would " go with the boards."
+(iii) We have the authority of our President, Mr. Mansel Pleydell, for saying that it was sometimes the practice in his own neighbourhood of Whatcombe, near Blandford, for those in attendance on the dying person to observe which way the planks of the floor lay, and if they happened to be cross-ways with the bed they turned the person round so that he would "go with the boards."
 
-(iv.) In West Dorset it is believed that the same difficulty will be experienced if the bed upon which a dying person is lyinghappens to be placed directly under a beam. So recently as the summer of 1891 an old woman lay dying in the parish of Symondsbury, near Bridport, and, being longer in dying than was expected, several of the neighbours noticed that her bed was under a beam, and requested that the bed should be moved or " her 'ill die so hard." I am bound to say, though in this instance, thst although the bedstead was moved accordingly the poor old soul lingered on for some time afterwards.
+(iv.) In West Dorset it is believed that the same difficulty will be experienced if the bed upon which a dying person is lyinghappens to be placed directly under a beam. So recently as the summer of 1891 an old woman lay dying in the parish of Symondsbury, near Bridport, and, being longer in dying than was expected, several of the neighbours noticed that her bed was under a beam, and requested that the bed should be moved or "her 'ill die so hard." I am bound to say, though in this instance, thst although the bedstead was moved accordingly the poor old soul lingered on for some time afterwards.
 
 ---
 
@@ -824,7 +824,7 @@ They entered. The master of the gloomy manor at first entertained his guest magn
 
 "Here's one that's going to go extinct, at a loss of food." *
 
-— It is an old man who is dying. " And mine, where is it too? I would like to see it.
+— It is an old man who is dying. "And mine, where is it too? I would like to see it.
 
 "Here he is near you."
 

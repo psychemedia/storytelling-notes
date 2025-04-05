@@ -48,7 +48,7 @@ Jack hitched the table on his back, and away he went with it till he came to the
 
 At once the table was spread with turkey and sausages, roast mutton, potatoes, and greens. The publican opened his eyes, but said nothing.
 
-That night he fetched down from his attic a table very similar to that of Jack , and exchanged the two. Jack, none the wiser, next morning hitched the worthless table on his back and carried it home. " Now, father, may I marry my lass?" he asked .
+That night he fetched down from his attic a table very similar to that of Jack , and exchanged the two. Jack, none the wiser, next morning hitched the worthless table on his back and carried it home. "Now, father, may I marry my lass?" he asked .
 
 'Not unless you can keep her,' replied the father.
 
@@ -61,7 +61,7 @@ The lad set it in the middle of the room, and bade it be covered;but all in vain
 'Thank you,' said the man, and now for what you have done I
 will pay you;' so saying, he tore a branch from the tree, and fettled it up into a club with his knife.
 
-'There,' exclaimed he; take this stick , and when you say to it, " Up stick and fell him ," it will knock anyone down who angers you .'
+'There,' exclaimed he; take this stick , and when you say to it, "Up stick and fell him," it will knock anyone down who angers you .'
 
 The lad was overjoyed to get this stick — so away he went with it to the inn, and as soon as the publican appeared, Up stick and fell him!' was his cry. At the word the cudgel flew from his hand and battered the old publican on theback, rapped his head, bruised his arms, tickled his ribs, till he fell groaning on the floor; still the stick belaboured the prostrate man , nor would Jack call it off till he had recovered the stolen ass and table. Then he galloped home on the ass, with the table on his shoulders, and the stick in his hand. When he arrived there his father was dead, so he brought his ass into the stable, and pulled its ears till he had filled the manger with money.
 

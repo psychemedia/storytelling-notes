@@ -236,15 +236,15 @@ An' he scratched 's head, an' twisted 's hat.
 
 "Hoo 's that fur, missis?" says he.
 
-"Jest so," says she, lookin' in 's pot; "bring me the heart o' tha thing thou likes best o' all, an' a 'll tell thee where to get thy pottle o' brains."
+"Jest so," says she, lookin' in 's pot; "bring me the heart o' tha thing thou likes best o' all, an' a'll tell thee where to get thy pottle o' brains."
 
 "But," says he, scratching his head, "hoo can a do that?"
 
-"That 's no 'on fur me to say," says she, "fin' oot fur thyser, my lad! ef thou disna want to be a fool a' thy days. But thou 'll hev' to read me a riddle so 's a can see thou 'st brought the reet thing, an*'ef thy brains is 'boot thee. An' a 've suthin' else to see to," says she, "so gode'en to 'ee," and she carried the pot away wi' her into tha back place.
+"That 's no 'on fur me to say," says she, "fin' oot fur thyser, my lad! ef thou disna want to be a fool a' thy days. But thou'll hev' to read me a riddle so 's a can see thou 'st brought the reet thing, an*'ef thy brains is 'boot thee. An' a 've suthin' else to see to," says she, "so gode'en to 'ee," and she carried the pot away wi' her into tha back place.
 
 So off goes the fool to 's mother, an' tellt her what, tha wise woman said.
 
-"An' a reckon a 'll hev to kill that pig," says he, "fur a like fat bacon better nor iverythin'."
+"An' a reckon a'll hev to kill that pig," says he, "fur a like fat bacon better nor iverythin'."
 
 "Then do 't, my lad," said 's mother, "fur sartain 't 'ull be a stra'ange an' good thing fur 'ee, ef thou canst buy a pottle o' brains, an' be able to look arter thy ain sel'."
 
@@ -314,9 +314,9 @@ An' doun she sets by him, an' he tellt her all aboot the wise woman an' the pig,
 
 "A can that," says she.
 
-"A reckon thou'lt do then 's weel 's anybody," says he; "but what 'll a do 'bout this wise woman?"
+"A reckon thou'lt do then 's weel 's anybody," says he; "but what'll a do 'bout this wise woman?"
 
-"Oh, wait a bit," says she, "suthin' mowt turn up, an' it 'll no matter ef thou 'rt a fool, s' long 's thou'st got me to look arter thee."
+"Oh, wait a bit," says she, "suthin' mowt turn up, an' it'll no matter ef thou 'rt a fool, s' long 's thou'st got me to look arter thee."
 
 "That's true," says he, an' off tha went and got married.
 
@@ -332,7 +332,7 @@ An' she kept 's house so clean an' neat, an' cooked 's dinner so fine, 'at one n
 
 "Naw; but if a had, mebbe a'd a got my pottle o' brains," says he.
 
-"Not a bit o't," says she; "jist thou take me 's a be, heart 'n all, 'n a wager a 'll help thee read the riddles."
+"Not a bit o't," says she; "jist thou take me 's a be, heart 'n all, 'n a wager a'll help thee read the riddles."
 
 "Can thee so?" says he, doubtful like; "a reckon thon 's too hard for wimmen fo'ak."
 
@@ -348,7 +348,7 @@ An' she kept 's house so clean an' neat, an' cooked 's dinner so fine, 'at one n
 
 "Why, the sun!" says she.
 
-"Faix, it be!" says he. "Coom, us 'll go oop to the wise woman towanst," and off they went. An' as they comed oop the pad, she wor sittin' at the door, twinin' straws.
+"Faix, it be!" says he. "Coom, us'll go oop to the wise woman towanst," and off they went. An' as they comed oop the pad, she wor sittin' at the door, twinin' straws.
 
 "Gode'en, missis," says he.
 

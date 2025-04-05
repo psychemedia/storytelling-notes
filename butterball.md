@@ -23,13 +23,13 @@ So in came the old hag!
 
 "Good day," said she.
 
-"God bless you, " said Buttercup's mother.
+"God bless you," said Buttercup's mother.
 
 "Isn't your Buttercup at home to-day?" asked the hag.
 
 "No, that be isn't. He's out in the wood with his father, shooting ptarmigan."
 
-"Plague take it," said the hag, " for I had such a nice little silver knife I wanted to give him.
+"Plague take it," said the hag, "for I had such a nice little silver knife I wanted to give him.
 
 "Pip, pip! here I am," said Buttercup under the kneading-trough, and out he came.
 
@@ -47,17 +47,17 @@ When the hag got home and saw what there was in the sack, you may fancy she was 
 
 Next day the old wife sat and baked again, and her dog began to bark just as he did the day before.
 
-"Run out. Buttercup, my boy," said she, " and see what Goldtooth is barking at."
+"Run out. Buttercup, my boy," said she, "and see what Goldtooth is barking at."
 
-"Well, I never!" cried Buttercup, as soon as he got out; " if there isn't that ugly old beast coming again with her head under her arm, and a great sack at her back."
+"Well, I never!" cried Buttercup, as soon as he got out; "if there isn't that ugly old beast coming again with her head under her arm, and a great sack at her back."
 
 "Under the kneading-trough with you and hide," said his mother.
 
-"Good day!" said the hag, " is your Buttercup at home to-day?"
+"Good day!" said the hag, "is your Buttercup at home to-day?"
 
 "I'm sorry to say he isn't," said his mother; "he's out in the wood with his father shooting ptarmigan."
 
-"What a bore," said the hag; " here I have a beautiful little silver spoon I want to give him."
+"What a bore," said the hag; "here I have a beautiful little silver spoon I want to give him."
 
 "Pip, pip I here I am," said Buttercup, and crept out.
 
@@ -69,7 +69,7 @@ So when Buttercup was well into the sack, the hag swung it over her shoulders an
 
 "A mile and a half," answered Buttercup.
 
-So the hag net down the sack, and went aside into the wood to sleep a bit, but while she slept, Buttercup made a hole in the sack and got out, and put a great stone into it. Now, when the old witch got home, she made a great fire on the hearth, and put a big pot on it, and got everything ready to boil Buttercup; but when she took the sack, and thought she was going to turn out Buttercup into the pot, down plumped the stone and made a hole in the bottom of the pot, so that the water ran out and quenched the fire. Then the old hag was in a dreadful rage, aod said, " If be makes himself ever so heavy; next time, he shan't take me in again."
+So the hag net down the sack, and went aside into the wood to sleep a bit, but while she slept, Buttercup made a hole in the sack and got out, and put a great stone into it. Now, when the old witch got home, she made a great fire on the hearth, and put a big pot on it, and got everything ready to boil Buttercup; but when she took the sack, and thought she was going to turn out Buttercup into the pot, down plumped the stone and made a hole in the bottom of the pot, so that the water ran out and quenched the fire. Then the old hag was in a dreadful rage, and said, "If he makes himself ever so heavy; next time, he shan't take me in again."
 
 The third day everything went just as it had gone twice before; Goldtooth began to bark, and Buttercup's mother said to him, —
 
@@ -85,7 +85,7 @@ So out he went, but be soon came back crying out, —
 
 "You're very kind to ask after him," said his mother; "but he's out in the wood with his father shooting ptarmigan."
 
-"What a bore now," said the old bag; " here have I got such a beautiful little silver fork for him."
+"What a bore now," said the old bag; "here have I got such a beautiful little silver fork for him."
 
 "Pip, pip I here I am," said Buttercup, as he came out from under the kneading-trough.
 
@@ -148,7 +148,7 @@ The men promised to take care of the bag, but when the witch had gone Jack calle
 
 So the men took Jack out of the bag and filled it with thorns, and then Jack gave them some butter-milk, and ran home.
 
-When the witch came back from the town she picked up her bag, threw it over her shoulder, and walked away. But she had not gone far before the thorns began to prick her back, and she said, " Jack, I think thou'st got some pins about thee, lad."
+When the witch came back from the town she picked up her bag, threw it over her shoulder, and walked away. But she had not gone far before the thorns began to prick her back, and she said, "Jack, I think thou'st got some pins about thee, lad."
 
 As soon as she had got home she emptied the bag upon a clean white sheet that she had ready. But when she found that there was nothing in the bag but thorns she was very angry and said, "I'll catch thee to-morrow, Jack, and I'll boil thee."
 

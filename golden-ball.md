@@ -31,7 +31,7 @@ Then he went into t' house, and looked for ball, but could na find it. Night cam
 
 Presently he heard steps coming upstairs. He hid behind door, and was as still as a mouse. Then in came a big giant five times as tall as he were, and giant looked round but did not see t' lad, so he went tut window and bowed to look out; and as he bowed on his elbows to see spirits it yard , t' lad stepped behind him, and wi' one blow of his sword he cut him in twain, so that the top part of him fell in the yard, and t bottom part stood looking out of t'window .
 
-There was a great cry from t' spirits when they saw half the giant come tumbling down to them, and they called out, " There comes half our master, give us t' other half.'
+There was a great cry from t' spirits when they saw half the giant come tumbling down to them, and they called out, 'There comes half our master, give us t' other half.'
 
 So the lad said , 'It's no use of thee, thou pair of legs , standing aloan at window , as thou hast no een to see with, so go join thy brother;' and he cast the bottom part of t giant after top part. Now when the spirrits had gotten all t' giant they were quiet .
 
@@ -52,7 +52,7 @@ Nor come to set thee free,
 But I have come to see thee hung  
 Upon this gallows-tree.
 
-Then the hangman said, " Now, lass, say thy prayers, for tha must dee. " But she said:
+Then the hangman said, "Now, lass, say thy prayers, for tha must dee." But she said:
 
 Stop, stop, I think I see my father coming!  
 O father, hast brought my golden ball  
@@ -65,7 +65,7 @@ Upon this gallows -tree.
 
 Then the hangman said, 'Hast thee done thy prayers? Now ,lass, putthy head intut noo-is.'
 
-But she answered, " Stop, stop, I think I see my brother coming! &c. After which, she excused herself because she thought she saw her sister coming, then her uncle, then her aunt, then her cousin, each of which was related in full; after which the hangman said, 'I wee-nt stop no longer, tha's making gam of me. Tha must be hung at once.'
+But she answered, "Stop, stop, I think I see my brother coming! &c. After which, she excused herself because she thought she saw her sister coming, then her uncle, then her aunt, then her cousin, each of which was related in full; after which the hangman said, 'I wee-nt stop no longer, tha's making gam of me. Tha must be hung at once.'
 
 But now she saw her sweetheart coming through the crowd, and he had over head i' t' air her own golden ball; so she said:
 
@@ -127,7 +127,7 @@ The same text appears in *The Gentleman's magazine*, January, 1890, in an articl
 
 and with a slightly different *addendum*:
 
-> In this very curious story, the portion within brackets reminds one of the German story of " Fearless John," in Grimm (K. M. 4), of which I remember obtaining an English variant in a chap-book in Exeter when I was a child, alas! now lost. It is also found in Iceland,' and is indeed a widely-spread tale. The verses are like others found in Essex in connection with the child's game of" Mary Brown," and those of the Swedish " Fair Gundela." But these points we must pass over. Our interest attaches specially to the golden ball. I'he story is almost certainly the remains of an old religious myth. The golden ball which one sister has is the sun, the silver ball of the other sister is the moon. The sun is lost; it sets, and the trolls, the spirits of darkness, play with it under the bed, that is, in the house of night, beneath the earth.
+> In this very curious story, the portion within brackets reminds one of the German story of "Fearless John," in Grimm (K. M. 4), of which I remember obtaining an English variant in a chap-book in Exeter when I was a child, alas! now lost. It is also found in Iceland,' and is indeed a widely-spread tale. The verses are like others found in Essex in connection with the child's game of" Mary Brown," and those of the Swedish "Fair Gundela." But these points we must pass over. Our interest attaches specially to the golden ball. I'he story is almost certainly the remains of an old religious myth. The golden ball which one sister has is the sun, the silver ball of the other sister is the moon. The sun is lost; it sets, and the trolls, the spirits of darkness, play with it under the bed, that is, in the house of night, beneath the earth.
 >
 > But the sun is not only a golden ball, but it is also a shining stone; and here at the outset we tell our secret; the sun is the truePhilosopher's Stone, that turns all to gold, that gives health, that fills with joy.
 
@@ -159,17 +159,17 @@ Then he went into the house, and looked for the ball, but could not find it. Nig
 
 Presently he heard steps coming upstairs. He hid behind the door, and was as still as a mouse. Then in came a big giant five times as tall as he, and the giant looked round but did not see the lad, so he went to the window and bowed to look out; and as he bowed on his elbows to see the bogles in the yard, the lad stepped behind him, and with one blow of his sword he cut him in twain, so that the top part of him fell in the yard, and the bottom part stood looking out of the window.
 
-There was a great cry from the bogles when they saw half the giant come tumbling down to them, and they called out, " There comes half our master, give us the other half."
+There was a great cry from the bogles when they saw half the giant come tumbling down to them, and they called out, "There comes half our master, give us the other half."
 
-So the lad said, " It's no use of thee, thou pair of legs, standing alone at the window, as thou hast no eye to see with, so go join thy brother "; and he cast the lower part of the giant after the top part. Now when the bogles had gotten all the giant they were quiet.
+So the lad said, "It's no use of thee, thou pair of legs, standing alone at the window, as thou hast no eye to see with, so go join thy brother "; and he cast the lower part of the giant after the top part. Now when the bogles had gotten all the giant they were quiet.
 
-Next night the lad was at the house again, and now a second giant came in at door, and as he came in the lad cut him in twain, but the legs walked on to the chimney and went up them. " Go, get thee after thy legs," said the lad to the head, and he cast the head up the chimney too.
+Next night the lad was at the house again, and now a second giant came in at door, and as he came in the lad cut him in twain, but the legs walked on to the chimney and went up them. "Go, get thee after thy legs," said the lad to the head, and he cast the head up the chimney too.
 
 The third night the lad got into bed, and he heard the bogles striving under the bed, and they had the ball there, and they were casting it to and fro.
 
 Now one of them has his leg thrust out from under bed, so the lad brings his sword down and cuts it off. Then another thrusts his arm out at other side of the bed, and the lad cuts that off. So at last he had maimed them all, and they all went crying and wailing off, and forgot the ball, but he took it from under the bed, and went to seek his truelove.
 
-Now the lass was taken to York to be hanged; she was brought out on the scaffold, and the hangman said, " Now, lass, thou must hang by the neck till thou be'st dead." But she cried out:
+Now the lass was taken to York to be hanged; she was brought out on the scaffold, and the hangman said, "Now, lass, thou must hang by the neck till thou be'st dead." But she cried out:
 
 'Stop, stop, I think I see my mother coming!  
 Oh mother, hast brought my golden ball  
@@ -180,7 +180,7 @@ Nor come to set thee free,
 But I have come to see thee hung  
 Upon this gallows-tree."
 
-Then the hangman said, " Now, lass, say thy prayers for thou must die." But she said:
+Then the hangman said, "Now, lass, say thy prayers for thou must die." But she said:
 
 "Stop, stop, I think I see my father coming!
 
@@ -192,9 +192,9 @@ Nor come to set thee free,
 But I have come to see thee hung  
 Upon this gallows-tree."
 
-Then the hangman said, " Hast thee done thy prayers? Now, lass, put thy head into the noose."
+Then the hangman said, "Hast thee done thy prayers? Now, lass, put thy head into the noose."
 
-But she answered, " Stop, stop, I think I see my brother coming!" And again she sang, and then she thought she saw her sister coming, then her uncle, then her aunt, then her cousin; but after this the hangman said, " I will stop no longer, thou'rt making game of me. Thou must be hung at once."
+But she answered, "Stop, stop, I think I see my brother coming!" And again she sang, and then she thought she saw her sister coming, then her uncle, then her aunt, then her cousin; but after this the hangman said, "I will stop no longer, thou'rt making game of me. Thou must be hung at once."
 
 But now she saw her sweetheart coming through the crowd, and he held over his head in the air her own golden ball; so she said:
 
@@ -213,9 +213,9 @@ p221 Note:
 
 Source. Contributed to the first edition of Henderson's Folk-Lore of the Northern Counties, pp. 333-5, by Rev. S. Baring-Gould.
 
-Parallels. Mr. Nutt gave a version in Folk-Lore Journal, vi. 144. The man in instalments occurs in "The Strange Visitor " (No. xxxii.). The latter part of the tale has been turned into a game for English children, " Mary Brown," given in Miss Plunket's Merry Games, but not included in Newell, Games and Songs of American Children.
+Parallels. Mr. Nutt gave a version in Folk-Lore Journal, vi. 144. The man in instalments occurs in "The Strange Visitor" (No. xxxii.). The latter part of the tale has been turned into a game for English children, "Mary Brown," given in Miss Plunket's Merry Games, but not included in Newell, Games and Songs of American Children.
 
-Remarks. This story is especially interesting as having given rise to a game. Capture and imprisonment are frequently the gruesome motif "of children's games, as in " Prisoner's base." Here it has been used with romantic effect.
+Remarks. This story is especially interesting as having given rise to a game. Capture and imprisonment are frequently the gruesome motif "of children's games, as in "Prisoner's base." Here it has been used with romantic effect.
 
 ```
 
@@ -404,7 +404,7 @@ Then her sweetheart cut her down, and they were changed into two little birds. S
 
 "Oh, father! have you found my ball," &c, &c
 
-On hearing this, the father ran away very frightened ; and his wicked wife and two little daughters came against the tree, and heard the little voices say the same words. All of a sudden they heard a great rustling of leaves, and looking up, they saw the forms of little Pepper and her sweetheart flying to the ground. And they all went home, and lived a great many years.
+On hearing this, the father ran away very frightened; and his wicked wife and two little daughters came against the tree, and heard the little voices say the same words. All of a sudden they heard a great rustling of leaves, and looking up, they saw the forms of little Pepper and her sweetheart flying to the ground. And they all went home, and lived a great many years.
 
 M. Damant.
 

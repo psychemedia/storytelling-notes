@@ -42,7 +42,7 @@ In the meantime, the farmer reached home in high spirits and showed the ring to 
 
 The farmer's wife, of course, proffered advice. "Suppose," said she, "that we wish for that bit of land that lies between our two fields?"
 
-"That isn't worth while," her husband replied. "If we work hard for a year, we 'll earn enough money to buy it."
+"That isn't worth while," her husband replied. "If we work hard for a year, we'll earn enough money to buy it."
 
 So the two worked very hard, and at harvest time they had never raised such a crop before. They had earned money enough to buy the coveted strip of land and still have a bit to spare. "See," said the man, "we have the land and the wish as well."
 
@@ -92,7 +92,7 @@ The farmer didn't need to be told twice, took his hatchet and set off. After two
 
 Then the eagle flew high in the air, hovered for a long time in large strips over the farmer's head, and then shot like an arrow towards the morning.
 
-The farmer took the ring, put it on his finger and started to go home. When it was evening he arrived at a town; there the goldsmith stood in the shop and had many princely rings for sale. Then the farmer showed him his ring and asked him what it was worth. " A cardboard stick!" said the goldsmith. Then the farmer laughed out loud and told him that it was a wishing ring and was worth more than all the rings together that Fener had for sale. But the oldsmith was a wrong, big man. He invited the farmer to come over Staying with him at night said: "To shelter a man like you with such treasures brings good luck; stay with me!" took the ring off his finger unnoticed and put an ordinary ring of the same kind on him instead.
+The farmer took the ring, put it on his finger and started to go home. When it was evening he arrived at a town; there the goldsmith stood in the shop and had many princely rings for sale. Then the farmer showed him his ring and asked him what it was worth. "A cardboard stick!" said the goldsmith. Then the farmer laughed out loud and told him that it was a wishing ring and was worth more than all the rings together that Fener had for sale. But the oldsmith was a wrong, big man. He invited the farmer to come over Staying with him at night said: "To shelter a man like you with such treasures brings good luck; stay with me!" took the ring off his finger unnoticed and put an ordinary ring of the same kind on him instead.
 
 The next morning the goldsmith could hardly wait for the farmer to leave. He woke him up early in the morning and said: "You still have a long way to go. It is better if you get up early ."
 

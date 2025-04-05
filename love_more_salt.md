@@ -146,7 +146,7 @@ Well, the wedding-day came, and they was married. And after they was married all
 
 'What is the matter?' said the master's son to him.
 
-'Oh!' says he, 'I had a daughter. And I asked her how much she loved me. And she said, " As much as fresh meat loves salt." And I turned her from my door, for I thought she didn't love me. And now I see she loved me best of all. And she may be dead for aught I know.'
+'Oh!' says he, 'I had a daughter. And I asked her how much she loved me. And she said, "As much as fresh meat loves salt." And I turned her from my door, for I thought she didn't love me. And now I see she loved me best of all. And she may be dead for aught I know.'
 
 'No, father, here she is!' says Cap o' Rushes. And she goes up to him and puts her arms round him.
 
@@ -277,7 +277,7 @@ Finally came the king's favorite dish, and it was served first to him. He tried 
 
 The cook entered the magnificent hall, and the king addressed her, "You have ruined my favorite dish. You have spoiled my pleasure by not putting any salt in my favorite dish!"
 
-Then the cook fell at the king's feet, saying with humility, "Have mercy, your majesty, my royal lord, and forgive me! How could I have dared to mix salt into your food? Did I not once hear from a lofty king's own mouth the words, " One does not need salt. Salt is not indispensable. Salt shows only the sense of a peasant, not the sense of a king!"
+Then the cook fell at the king's feet, saying with humility, "Have mercy, your majesty, my royal lord, and forgive me! How could I have dared to mix salt into your food? Did I not once hear from a lofty king's own mouth the words, "One does not need salt. Salt is not indispensable. Salt shows only the sense of a peasant, not the sense of a king!"
 
 With shame the king recognized these words as his own and the cook as his daughter. Lifting her from the floor where she was kneeling, he drew her to his heart. He then told all the wedding guests her story and had his youngest daughter once again be seated by his side.
 

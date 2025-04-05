@@ -92,16 +92,15 @@ I . Voici le trait dont il s'agit. L'héroïne du conte trouve le mari qu'elle a
 Aux paroles par lesquelles la fille du géant dans notre conte cherche à éveiller le prince (/ cleaned the stable, etc.) on peut comparer les vers suivants dans le conte The Black Bull of Norroway dans Chambers, Popular Rhymes of Scotland, p. 98:
 
 
+Seven lang years I served for thee^
 
-Seven lang years I served for ihee^
+The glassy hill I clamb for thee,
 
-The glassy hill I clamb for îhee,
-
-The bluidy shirt I wrang for îhee.
+The bluidy shirt I wrang for thee.
 
 And wilt thon not wauken and îurn îo me? et cette variante p. loi, ibid.
 
-Far hae 1 sought ye, near am I broiight îo ye; Dear Duke 0' Norroway, will ye no îurn and speak îo me? et aussi dans le conte irlandais The Brown Bear of Norway, dans Kennedy, Legendary Ficîions of îhe Irish Celîs, p. $7:
+Far hae I sought ye, near am I broiight îo ye; Dear Duke 0' Norroway, will ye no îurn and speak îo me? et aussi dans le conte irlandais The Brown Bear of Norway, dans Kennedy, Legendary Ficîions of îhe Irish Celîs, p. $7:
 
 Four long years I was married îo îhee,
 
@@ -153,11 +152,11 @@ https://archive.org/details/englishfairytale00jaco/page/38/mode/2up?q=nix
 
 NIX NOUGHT NOTHING.
 
-THERE once lived a king and a queen as many a one has been. They were long married and had no children; but at last a baby-boy came to the queen when the king was away in the far countries. The queen would not christen the boy till the king came back, and she said, " We will just call him Nix Nought Nothing until his father comes home." But it was long before he came home, and the boy had grown a fine, bonny laddie. At length the king was on his way back; but he had a big river to cross, and there was a whirlpool, and he could not get over the water. But a giant came up to him, and said: " I'll carry you over." But the king said: " What's your pay? " "Oh, give me Nix, Nought, Nothing, and I will carry you over the water on my back." The king had never heard that his son was called Nix Nought Nothing, and so he said: " Oh, I'll give you that, and my thanks into the bargain." When the king got home again he was very happy to see his wife again, and his young son. She told him that she had not given the child any name, but just Nix Nought Nothing, until he should come home again himself. The poor king was in a terrible case. He said: " What have I done? I promised to give the giant who carried me over the river on his back Nix Nought Nothing." The king and the queen were sad and sorry, but they said: "When the giant comes we will give him the hen-wife's boy; he will never know the difference." The next day the giant came to claim the king's promise, and he sent for the hen-wife's boy; and the giant went away with the boy on his back. He traveled till he came to a big stone, and there he sat down to rest. He said:
+THERE once lived a king and a queen as many a one has been. They were long married and had no children; but at last a baby-boy came to the queen when the king was away in the far countries. The queen would not christen the boy till the king came back, and she said, "We will just call him Nix Nought Nothing until his father comes home." But it was long before he came home, and the boy had grown a fine, bonny laddie. At length the king was on his way back; but he had a big river to cross, and there was a whirlpool, and he could not get over the water. But a giant came up to him, and said: "I'll carry you over." But the king said: "What's your pay?" "Oh, give me Nix, Nought, Nothing, and I will carry you over the water on my back." The king had never heard that his son was called Nix Nought Nothing, and so he said: "Oh, I'll give you that, and my thanks into the bargain." When the king got home again he was very happy to see his wife again, and his young son. She told him that she had not given the child any name, but just Nix Nought Nothing, until he should come home again himself. The poor king was in a terrible case. He said: "What have I done? I promised to give the giant who carried me over the river on his back Nix Nought Nothing." The king and the queen were sad and sorry, but they said: "When the giant comes we will give him the hen-wife's boy; he will never know the difference." The next day the giant came to claim the king's promise, and he sent for the hen-wife's boy; and the giant went away with the boy on his back. He traveled till he came to a big stone, and there he sat down to rest. He said:
 
 "Hidge, Hodge, on my back, what time of day is that?"
 
-The poor little lad said: " It is the time that my mother, the hen-wife, takes up the eggs for the queen's breakfast."
+The poor little lad said: "It is the time that my mother, the hen-wife, takes up the eggs for the queen's breakfast."
 
 Then the giant was very angry, and dashed the boy on the stone and killed him.
 
@@ -165,17 +164,17 @@ Back he went in a tower of a temper and this time they gave him the gardener's b
 
 "Hidge, Hodge, on my back, what time of day do you make that?"
 
-The gardener's boy said: " Sure it's the time that my mother takes up the vegetables for the queen's dinner."
+The gardener's boy said: "Sure it's the time that my mother takes up the vegetables for the queen's dinner."
 
 Then the giant was as wild as could be, and killed him, too.
 
-Then the giant went back to the king's house in a terrible temper and said he would destroy them all if they did not give him Nix Nought Nothing this time. They had to do it; and when he came to the big stone the giant said: "What time of day is that?" Nix Nought Nothing said: " It is the time that my father, the king, will be sitting down to supper." The giant said: " I've got the right ont now;" and took Nix Nought Nothing to his own house and brought him up till he was a man.
+Then the giant went back to the king's house in a terrible temper and said he would destroy them all if they did not give him Nix Nought Nothing this time. They had to do it; and when he came to the big stone the giant said: "What time of day is that?" Nix Nought Nothing said: "It is the time that my father, the king, will be sitting down to supper." The giant said: "I've got the right ont now;" and took Nix Nought Nothing to his own house and brought him up till he was a man.
 
-The giant had a bonny daughter, and she and the lad grew very fond of each other. The giant said one day to Nix Nought Nothing: " I've work for you to-morrow. There is a stable seven miles long and seven miles broad, and it has not been cleaned for seven years, and you must clean it to- morrow, or I will have you for my supper."
+The giant had a bonny daughter, and she and the lad grew very fond of each other. The giant said one day to Nix Nought Nothing: "I've work for you to-morrow. There is a stable seven miles long and seven miles broad, and it has not been cleaned for seven years, and you must clean it to- morrow, or I will have you for my supper."
 
-The giant's daughter went out next morning with the lad's breakfast, and found him in a terrible state, for always as he cleaned out a bit it just fell in again. The giant's daughter said she would help him, and she cried all the beasts in the field, and all the fowls of the air, and in a minute they all came, and carried away everything that was in the stable and made it all clean before the giant came home. He said: " Shame on the wit that helped you; but I have a worse job for you to-morrow." Then he said to Nix Nought Nothing: " There's a lake seven miles long, and seven miles deep, and seven miles broad, and you must drain it to-morrow by night- fall, or else I'll have you for my supper." Nix Nought Nothing began early next morning and tried to lave the water with his pail, but the lake was never getting any less, and he didn't know what to do; but the giant's daughter called on all the fish in the sea to come and drink the water, and very soon they drank it dry. When the giant saw the work done he was in a rage, and said: " I've a worse job for you to-morrow; there is a tree, seven miles high, and no branch on it, till you get to the top, and there is a nest with seven eggs in it, and you must bring down all the eggs without breaking one, or else I'D. have you for my supper." At first the giant's daughter did not know how to help Nix Nought Nothing; but she cut off first her fingers and then her toes, and made steps of them, and he 'iomb the tree and got all the eggs safe till he came just to the bottom, and then one was broken. So they determined to run away together, and after the giant's daughter had gone back to her room, and got her magic flask they set out together as fast as they could run. And they hadn't got but three fields away when they looked back and saw the giant walking along at full speed after them. " Quick, quick," called out the giant's daughter, " take my comb from my hair and throw it down." Nix Nought Nothing took her comb from her hair and threw it down, and out of every one of its prongs there sprung up a fine thick briar in the way of the giant. You may be sure it took him a long time to work his way through the briar bush, and by the time he was well through Nix Nought Nothing and his sweetheart had run far far away from him. But he soon came along after them and was just like to catch 'em up when the giant's daughter called out to Nix Nought Nothing: " Take my hair dagger and thrown it down, quick, quick." So Nix Nought Nothing threw down the hair dagger and out of it grew as quick as lightning a thick hedge of sharp razors placed criss cross. The giant had to tread very cautiously to get through all this and meanwhile they both ran hard, and on, and on, and on, till they were nearly out of sight. But at last the giant was through, and it wasn't long before he was like to catch them up. But just as he was stretching out his hand to catch Nix Nought Nothing his daughter took out her magic flask and dashed it on the ground. And as it broke out of it welled a big, big wave that grew, and that grew, till it reached the giant's waist and then his neck, and when it got to his head he was drowned dead, and dead, and dead indeed.
+The giant's daughter went out next morning with the lad's breakfast, and found him in a terrible state, for always as he cleaned out a bit it just fell in again. The giant's daughter said she would help him, and she cried all the beasts in the field, and all the fowls of the air, and in a minute they all came, and carried away everything that was in the stable and made it all clean before the giant came home. He said: "Shame on the wit that helped you; but I have a worse job for you to-morrow." Then he said to Nix Nought Nothing: "There's a lake seven miles long, and seven miles deep, and seven miles broad, and you must drain it to-morrow by night- fall, or else I'll have you for my supper." Nix Nought Nothing began early next morning and tried to lave the water with his pail, but the lake was never getting any less, and he didn't know what to do; but the giant's daughter called on all the fish in the sea to come and drink the water, and very soon they drank it dry. When the giant saw the work done he was in a rage, and said: "I've a worse job for you to-morrow; there is a tree, seven miles high, and no branch on it, till you get to the top, and there is a nest with seven eggs in it, and you must bring down all the eggs without breaking one, or else I'D. have you for my supper." At first the giant's daughter did not know how to help Nix Nought Nothing; but she cut off first her fingers and then her toes, and made steps of them, and he 'iomb the tree and got all the eggs safe till he came just to the bottom, and then one was broken. So they determined to run away together, and after the giant's daughter had gone back to her room, and got her magic flask they set out together as fast as they could run. And they hadn't got but three fields away when they looked back and saw the giant walking along at full speed after them. "Quick, quick," called out the giant's daughter, "take my comb from my hair and throw it down." Nix Nought Nothing took her comb from her hair and threw it down, and out of every one of its prongs there sprung up a fine thick briar in the way of the giant. You may be sure it took him a long time to work his way through the briar bush, and by the time he was well through Nix Nought Nothing and his sweetheart had run far far away from him. But he soon came along after them and was just like to catch 'em up when the giant's daughter called out to Nix Nought Nothing: "Take my hair dagger and thrown it down, quick, quick." So Nix Nought Nothing threw down the hair dagger and out of it grew as quick as lightning a thick hedge of sharp razors placed criss cross. The giant had to tread very cautiously to get through all this and meanwhile they both ran hard, and on, and on, and on, till they were nearly out of sight. But at last the giant was through, and it wasn't long before he was like to catch them up. But just as he was stretching out his hand to catch Nix Nought Nothing his daughter took out her magic flask and dashed it on the ground. And as it broke out of it welled a big, big wave that grew, and that grew, till it reached the giant's waist and then his neck, and when it got to his head he was drowned dead, and dead, and dead indeed.
 
-But Nix Nought Nothing fled on till where do you think they came to? Why, to near the castle of Nix Nought Nothing's father and mother. But the giant's daughter was so weary that she couldn't move a step further. So Nix Nought Nothing told her to wait there while he went and found out a lodging for the night. And he went on toward the lights of the castle, and on the way he came to the cottage of the hen-wife whose boy, you'll remember, had been killed by the giant. Kow she knew Nix Nought Nothing in a moment, and hated him be- cause he was the cause of her son's death. So when he asked his way to the castle she put a spell upon him, and when he got to the castle, no sooner was he let in than he fell down dead asleep upon a bench in the hall. The king and queen tried all they could do to wake him up, but all in vain. So the king promised that if any maiden could wake him she should marry him. Meanwhile the giant's daughter was waiting and waiting for him to come back. And she went up into a tree to watch for him. The gardener's daughter, going to draw water in the well, saw the shadow of the lady in the water and thought it was herself, and said: " If I'm so bonny, if I'm so brave, why do you send me to draw water?" So she threw down her pail and went to see if she could wed the sleeping stranger. And she went to the hen-wife, who taught her an unspelling charm which would keep Nix Nought Nothing awake as long as the gardener's daughter liked. So she went up to the castle and sang her charm and Nix Nought Nothing was wakened for awhile and they promised to wed him to the gardener's daughter. Meanwhile the gardener went down to draw water from the well and saw the shadow of the lady in the water. So he looked up and found her, and he brought the lady from the tree, and led her into his house. And he told her that a stranger was to marry his daughter, and took her up to the castle and showed her the man: and it was Nix Nought Nothing asleep in a chair. And she saw him, and cried to him: " Waken, waken, and speak to me!" But he would not waken, and soon she cried:
+But Nix Nought Nothing fled on till where do you think they came to? Why, to near the castle of Nix Nought Nothing's father and mother. But the giant's daughter was so weary that she couldn't move a step further. So Nix Nought Nothing told her to wait there while he went and found out a lodging for the night. And he went on toward the lights of the castle, and on the way he came to the cottage of the hen-wife whose boy, you'll remember, had been killed by the giant. Kow she knew Nix Nought Nothing in a moment, and hated him be- cause he was the cause of her son's death. So when he asked his way to the castle she put a spell upon him, and when he got to the castle, no sooner was he let in than he fell down dead asleep upon a bench in the hall. The king and queen tried all they could do to wake him up, but all in vain. So the king promised that if any maiden could wake him she should marry him. Meanwhile the giant's daughter was waiting and waiting for him to come back. And she went up into a tree to watch for him. The gardener's daughter, going to draw water in the well, saw the shadow of the lady in the water and thought it was herself, and said: "If I'm so bonny, if I'm so brave, why do you send me to draw water?" So she threw down her pail and went to see if she could wed the sleeping stranger. And she went to the hen-wife, who taught her an unspelling charm which would keep Nix Nought Nothing awake as long as the gardener's daughter liked. So she went up to the castle and sang her charm and Nix Nought Nothing was wakened for awhile and they promised to wed him to the gardener's daughter. Meanwhile the gardener went down to draw water from the well and saw the shadow of the lady in the water. So he looked up and found her, and he brought the lady from the tree, and led her into his house. And he told her that a stranger was to marry his daughter, and took her up to the castle and showed her the man: and it was Nix Nought Nothing asleep in a chair. And she saw him, and cried to him: "Waken, waken, and speak to me!" But he would not waken, and soon she cried:
 
 "I cleaned the stable, I laved the lake, and I clomb the tree, And all for the love of thee. And thou wilt not waken and speak to me."
 
@@ -183,7 +182,7 @@ The king and the queen heard this, and came to the bonny young lady, and she sai
 
 "I cannot get Nix Nought Nothing to speak to me for all that I can do."
 
-Then were they greatly astonished when she spoke of Nix Nought Nothing, and asked where he was, and she said: " He that sits there in the chair." Then they ran to him and kissed him and called him their own dear son; so they called for the gardener's daughter and made her sing her charm, and he wakened, and told them all that the giant's daughter had done for him, and of all her kindness. Then they took her in their arms and kissed her, and said she should now be their daughter, for their son. should marry her. But as for the hen wife, she was put to death. And they lived happy all their days.
+Then were they greatly astonished when she spoke of Nix Nought Nothing, and asked where he was, and she said: "He that sits there in the chair." Then they ran to him and kissed him and called him their own dear son; so they called for the gardener's daughter and made her sing her charm, and he wakened, and told them all that the giant's daughter had done for him, and of all her kindness. Then they took her in their arms and kissed her, and said she should now be their daughter, for their son. should marry her. But as for the hen wife, she was put to death. And they lived happy all their days.
 
 ```
 
@@ -213,10 +212,9 @@ by Asbjørnsen, Peter Christen, 1812-1885; Moe, Jørgen Engebretsen, 1813-1882; 
 Publication date 1859
 pp62-85
 
-
 THE MASTERMAID.
 
-ONCE on a time there was a king who had seven sons — I don't know how many there were — bnt the youngest had no rest at home, for nothing eke would please him but to go out into the world and try his luck, and after a long time the king was forced to give him leave to go. Now, after he had travelled some days, he came one night to a Giant's house, and there he got a place in the Giant's service. In the morning the Giant went off to herd his goats, and as he left the yard, he told the Prince to clean out the stable; " and after you have done that, you needn't do anything else to-day; for you must know that it is an easy master you have come to. But what is set you to do you must do well, and you mustn't think of going into any of the rooms which are beyond that in which you slept, for if you do, I'll take your life."
+ONCE on a time there was a king who had seven sons — I don't know how many there were — bnt the youngest had no rest at home, for nothing eke would please him but to go out into the world and try his luck, and after a long time the king was forced to give him leave to go. Now, after he had travelled some days, he came one night to a Giant's house, and there he got a place in the Giant's service. In the morning the Giant went off to herd his goats, and as he left the yard, he told the Prince to clean out the stable; "and after you have done that, you needn't do anything else to-day; for you must know that it is an easy master you have come to. But what is set you to do you must do well, and you mustn't think of going into any of the rooms which are beyond that in which you slept, for if you do, I'll take your life."
 
 "Sure enough, it is an easy master I have got," said the Prince to himself, as he walked up and down the room, and caroused and sang, for he thought there was plenty of time to clean out the stable.
 
@@ -224,17 +222,17 @@ ONCE on a time there was a king who had seven sons — I don't know how many the
 
 So he went into the first room, and there was a pot boiling, but die Prince saw no fire underneath it I wonder what is under it, he thought; and then he dipped a lock of his hair into it, and the hair seemed as if it were all turned to copper.
 
-"What a dainty broth," he said; " if one tasted it, he'd look grand inside his gullet;" and with that he went into the next room. There, too, was a pot hanging by a hook, which bubbled and boiled; but there was no fire under that either.
+"What a dainty broth," he said; "if one tasted it, he'd look grand inside his gullet;" and with that he went into the next room. There, too, was a pot hanging by a hook, which bubbled and boiled; but there was no fire under that either.
 
 "I may as well try this too," said the Prince, as he put another lock into the pot, and it came out all silvered.
 
-"They haven't such rich broth in my father's house," said the Prince; " but it all depends on how it tastes," and with that he went on into the third room. There, too, hung a pot, and boiled just as he had seen in the two other rooms, and the Prince had a mind to try this too, so he dipped a lock of hair into it, and it came out gilded, so that the light gleamed from it.
+"They haven't such rich broth in my father's house," said the Prince; "but it all depends on how it tastes," and with that he went on into the third room. There, too, hung a pot, and boiled just as he had seen in the two other rooms, and the Prince had a mind to try this too, so he dipped a lock of hair into it, and it came out gilded, so that the light gleamed from it.
 
-"'Worse and worse,' said the old wife; but I say, better and better," said the Prince; " but if he boils gold here, I wonder what he boils in yonder."
+"'Worse and worse,' said the old wife; but I say, better and better," said the Prince; "but if he boils gold here, I wonder what he boils in yonder."
 
 He thought he might as well see; so he went through the door into the fourth room. Well, there was no pot in there, but there was a Princess, seated on a bench, so lovely, that the Prince had never seen anything like her in his born days.
 
-"Oh! in Heaven's name," she said, " what do you want here?"
+"Oh! in Heaven's name," she said, "what do you want here?"
 
 "I got a place here yesterday," said the Prince.
 
@@ -252,35 +250,35 @@ He thought he might as well see; so he went through the door into the fourth roo
 
 "I'll soon see if it is," growled the Giant, and strode off to the stable, where he found it just as the Prince had said,
 
-"You've been talking to my Mastermaid, I can see," said the Giant; " for you've not sucked this knowledge out of your own breast."
+"You've been talking to my Mastermaid, I can see," said the Giant; "for you've not sucked this knowledge out of your own breast."
 
-"Mastermaid?" said the Prince, who looked as stupid as an owl, " what sort of thing is that, master? I'd be very glad to see it."
+"Mastermaid?" said the Prince, who looked as stupid as an owl, "what sort of thing is that, master? I'd be very glad to see it."
 
-"Well, well!" said the Giant; " you'll see her soon enough."'
+"Well, well!" said the Giant; "you'll see her soon enough."'
 
 Next day the Giant set off with his goats again, and before he went he told the Prince to fetch home his horse, which was out at grass on the hill-side, and when he had done that he might rest all the day.
 
-"For you most know, it is an easy master you have come to," said the Giant; " but if yon go into any of the rooms I spoke of yesterday, I'll wring your head off."
+"For you most know, it is an easy master you have come to," said the Giant; "but if yon go into any of the rooms I spoke of yesterday, I'll wring your head off."
 
-So off he went with his flock of goats. " An easy master you are indeed," said the Prince; " but for all that, I'll just go in and have a chat with your Mastermaid; may be she'll be as soon mine as yours." So he went in to her, and she asked him what he had to do that day.
+So off he went with his flock of goats. "An easy master you are indeed," said the Prince; "but for all that, I'll just go in and have a chat with your Mastermaid; may be she'll be as soon mine as yours." So he went in to her, and she asked him what he had to do that day.
 
-"Oh! nothing to be afraid of," said he; " I've only to go up to the hill-side to fetch his horse."
+"Oh! nothing to be afraid of," said he; "I've only to go up to the hill-side to fetch his horse."
 
-"Very well, and how will you set about it? " "Well, for that matter, there's no great art in riding a horse home. I fancy I've ridden fresher horses before now," said the Prince.
+"Very well, and how will you set about it?" "Well, for that matter, there's no great art in riding a horse home. I fancy I've ridden fresher horses before now," said the Prince.
 
 "Ah, but this isn't so easy a task as you think; bnt I'll teach you how to do it. When you get near it, fire and flame will come out of its nostrils, as out of a tar barrel; but look out, and take the bit which hangs behind the door yonder, and throw it right into his jaws, and he will grow so tame that you may do what you like with him."
 
-Yes! the Prince would mind and do that; and so he sat in there the whole day, talking aod chattering with the Maatermaid about one thing and another, but they always came back to how happy they would be if they could only have one another, and get well away from the Giant; and, to tell the truth, the Prince would have clean forgotten both the horse and the hill-side, if the Maatermaid hadn't put him in mind of them when evening drew on, telling him he had better set out to fetch the horse before the Giant came home. So he set off, and took the bit which hung in the comer, ran up the hill, and it wasn't long before he met the horse, with fire and flame streaming out of its nostrils. But he watched his time, and, as the horse came open-jawed up to him, he threw the bit into its mouth, and it stood as quiet as a lamb. After that, it was no great matter to ride it home and put it up, you may fancy; and then the Prince went into his room again, and began to carol and sing.
+Yes! the Prince would mind and do that; and so he sat in there the whole day, talking and chattering with the Maatermaid about one thing and another, but they always came back to how happy they would be if they could only have one another, and get well away from the Giant; and, to tell the truth, the Prince would have clean forgotten both the horse and the hill-side, if the Maatermaid hadn't put him in mind of them when evening drew on, telling him he had better set out to fetch the horse before the Giant came home. So he set off, and took the bit which hung in the comer, ran up the hill, and it wasn't long before he met the horse, with fire and flame streaming out of its nostrils. But he watched his time, and, as the horse came open-jawed up to him, he threw the bit into its mouth, and it stood as quiet as a lamb. After that, it was no great matter to ride it home and put it up, you may fancy; and then the Prince went into his room again, and began to carol and sing.
 
 So the Giant came home again at even with his goats; and the first words he said were, —
 
 "Have yon  brought my horse  down  from  the hill?"
 
-"Yes, master, that I have," said the Prince; "and a better horse I never bestrode; but for all that I rode him straight home, and put him up safe and sound. " "I'll soon see to that," said the Giant, and ran out to the stable, and there stood the horse just as the Prince had said.
+"Yes, master, that I have," said the Prince; "and a better horse I never bestrode; but for all that I rode him straight home, and put him up safe and sound." "I'll soon see to that," said the Giant, and ran out to the stable, and there stood the horse just as the Prince had said.
 
 "You've talked to my Mastermaid, I'll be bound, for you haven't sucked this out of your own breast," said the Giant again.
 
-"Yesterday master talked of this Mastermaid, and to-day it's the same story," said the Prince, who pretended to be silly and stupid. " Bless you, master! why don't you show me the thing at once? I should so like to see it only once in my life."
+"Yesterday master talked of this Mastermaid, and to-day it's the same story," said the Prince, who pretended to be silly and stupid. "Bless you, master! why don't you show me the thing at once? I should so like to see it only once in my life."
 
 "Oh, if that's all," said the Giant, "you'll see her soon enough."
 
@@ -288,15 +286,15 @@ The third day, at dawn, the Giant went off to the wood again with his goats; but
 
 "To-day you must go to Hell and fetch my fire-tax. When you have done that you can rest yourself all day, for you must know it is an easy master yon have come to;" and with that off he went.
 
-"Easy master, indeed!" said the Prince. "You may be easy, but you set me hard tasks all the same. But I may as well see if I can find your Mastermaid, as you call her. I daresay she'll tell me what to do; " and so in he went to her again.
+"Easy master, indeed!" said the Prince. "You may be easy, but you set me hard tasks all the same. But I may as well see if I can find your Mastermaid, as you call her. I daresay she'll tell me what to do;" and so in he went to her again.
 
 So when the Mastermaid asked what the Giant had set him to do that day, he told her how he was to go to Hell and fetch the fire-tax.
 
 "And how will you set about it?" asked the Mastermaid.
 
-"Oh, that yoa mnat tell me," said the Prince. " I have never been to Hell in my life; and even if I knew the way, I don't know how mach I am to ask for."
+"Oh, that yoa mnat tell me," said the Prince. "I have never been to Hell in my life; and even if I knew the way, I don't know how mach I am to ask for."
 
-"Well, I'll soon tell you," said Mastermaid; " you must go to the steep rock away yonder, under the hill-side, and take the club that lies there, and knock on the face of the rock. Then there will come out one all glistening with fire; to him yon must tell your errand; and when he asks you how much you will have, mind you say, as much as I can carry."
+"Well, I'll soon tell you," said Mastermaid; "you must go to the steep rock away yonder, under the hill-side, and take the club that lies there, and knock on the face of the rock. Then there will come out one all glistening with fire; to him yon must tell your errand; and when he asks you how much you will have, mind you say, as much as I can carry."
 
 Yes; he would be sure to say that; so he sat in there with the Mastermaid all that day too; and though evening drew on, he would have sat there till now, had not the Mastermaid put him in mind that it was high time to be off to Hell to fetch the Giant's fire-tax before he came home. So he went on his way, and did just as the Mastermaid had told him; and when he reached the rock, he took up the club and gave a great thump. Then the rock opened, and out came one whose face glistened, and out of whose eyes and nostrils flew sparks of fire.
 
@@ -308,7 +306,7 @@ Yes; he would be sure to say that; so he sat in there with the Mastermaid all th
 
 "I never wish for more than I am able to carry," said the Prince.
 
-"Lucky for you that you did not ask for a whole cart-load," said he who came out of the rock; " but come now into the rock with me, and you shall have it."
+"Lucky for you that you did not ask for a whole cart-load," said he who came out of the rock; "but come now into the rock with me, and you shall have it."
 
 So the Prince went in with him, and you may fancy what heaps and heaps of gold and silver he saw lying in there, just like stones in a gravel-pit; and he got a load just as big as he was able to carry, and set off home with it. Now, when the Giant came home with hie goats at even, the Prince went into his room, and began to carol and sing as he had done the evening before.
 
@@ -324,11 +322,11 @@ So the Prince went in with him, and you may fancy what heaps and heaps of gold a
 
 "You've been talking to my Mastermaid, that I can see," said the Giant; "but if you have, I'll wring your head off."
 
-"Mastermaid? " said the Prince; " yesterday master talked of this Mastermaid, and to-day he talks of her again, and the day before yesterday it was the same story. I only wish I could see what sort of thing she is; that I do."
+"Mastermaid?" said the Prince; "yesterday master talked of this Mastermaid, and to-day he talks of her again, and the day before yesterday it was the same story. I only wish I could see what sort of thing she is; that I do."
 
-"Well, well, wait till to-morrow," sud the Giant, " and then I'll take you in to her myself."
+"Well, well, wait till to-morrow," sud the Giant, "and then I'll take you in to her myself."
 
-"Thank you kindly, master," said the Prince; " but it's only a joke of master's, I'll be bound."
+"Thank you kindly, master," said the Prince; "but it's only a joke of master's, I'll be bound."
 
 So next day the Giant took him in to the Mastermaid, and said to her, —
 
@@ -336,9 +334,9 @@ So next day the Giant took him in to the Mastermaid, and said to her, —
 
 After that, he laid him down on the bench to sleep, and began to snore so, that it sounded like thunder on the hills.
 
-So the Mastermaid took a knife and cut the Prince in his little finger, and let three drops of blood fall on a three-legged stool; and after that she took all the old rags, and soles of shoes, and all the rubbish she could lay bands on, and put them into the pot; and then she filled a chest full of ground gold, and took a lump of salt, aod a flask of water that hung behind the door, and she took, besides, a golden apple, and two golden chickens, and off she set with the Prince from the Giant's house as fast as they could; and when they had gone a little way, they came to the sea, and after that they sailed over the sea; bnt where they got ihe ship from, I have never heard tell.
+So the Mastermaid took a knife and cut the Prince in his little finger, and let three drops of blood fall on a three-legged stool; and after that she took all the old rags, and soles of shoes, and all the rubbish she could lay bands on, and put them into the pot; and then she filled a chest full of ground gold, and took a lump of salt, and a flask of water that hung behind the door, and she took, besides, a golden apple, and two golden chickens, and off she set with the Prince from the Giant's house as fast as they could; and when they had gone a little way, they came to the sea, and after that they sailed over the sea; bnt where they got ihe ship from, I have never heard tell.
 
-So when the Giant had slumbered a good bit, he began to stretch himself as he lay on the bench, and called out, " Will it be soon done?"
+So when the Giant had slumbered a good bit, he began to stretch himself as he lay on the bench, and called out, "Will it be soon done?"
 
 "Only just begun," answered the first drop of blood on the stool.
 
@@ -358,7 +356,7 @@ Then the Giant rose up and began to rub his eyes, but he couldn't see who it was
 
 "Ah, well! I dare say she's just run out of doors for a bit," he thought, and took up a spoon and went up to the pot to taste the broth; but he found nothing but shoe-soles, and rags, and such stuff, and it was all boiled up together, so that he couldn't tell which was thick and which was thin. As soon as he saw this, he could tell how things had gone, and he got so angry that he scarce knew which leg to stand upon. Away he went after the Prince and the Mastermaid, till the wind whistled behind him; but before long, he came to the water and couldn't cross it.
 
-"Never mind," he said; " I know a cure for this. I've only got to call on my stream-sucker."
+"Never mind," he said; "I know a cure for this. I've only got to call on my stream-sucker."
 
 So he called on his stream-sucker, and he came and stooped down, and took one, two, three gulps; and then the water fell so much in the sea, that the Giant could see the Mastermaid and the Prince sailing in their ship.
 
@@ -366,15 +364,15 @@ So he called on his stream-sucker, and he came and stooped down, and took one, t
 
 So the Prince threw it overboard, and it grow up into a mountain so high, right across the sea, that the Giant couldn't pass it, and the stream-sucker couldn't help him by swilling any more water.
 
-"Never mind I" cried the Giant; " there's a cure for this too." So he called on his hill-borer to come and bore through the mountain, that the stream-sucker might creep through and take another swill; but just as they had made a hole through the hill, and the stream-sucker was about to drink, the Mastermaid told the Prince to throw overboard a drop or two out of the flask, and then the sea was just as full as ever, and before the stream-sucker could take another gulp, they reached the land and were saved from the Giant
+"Never mind I" cried the Giant; "there's a cure for this too." So he called on his hill-borer to come and bore through the mountain, that the stream-sucker might creep through and take another swill; but just as they had made a hole through the hill, and the stream-sucker was about to drink, the Mastermaid told the Prince to throw overboard a drop or two out of the flask, and then the sea was just as full as ever, and before the stream-sucker could take another gulp, they reached the land and were saved from the Giant
 
 So they made up their minds to go home to the Prince's father, but the Prince would not hear of the Mastermaid's walking, for he thought it seemly neither for her nor for him.
 
-"Just wait here ten minutes," he said, " while I go home after the seven horses which stand in my father's stall. It's no great way off, and I shan't be long about it; but I will not hear of my sweetheart walking to my father's palace."
+"Just wait here ten minutes," he said, "while I go home after the seven horses which stand in my father's stall. It's no great way off, and I shan't be long about it; but I will not hear of my sweetheart walking to my father's palace."
 
-"Ah!" said the Mastermaid, " pray don't leave me, for if you once get home to the palace, you'll forget me outright; I know you will."
+"Ah!" said the Mastermaid, "pray don't leave me, for if you once get home to the palace, you'll forget me outright; I know you will."
 
-"Oh!" said he, " how can I forget you; you with whom I have gone through so much, and whom I love so dearly?"
+"Oh!" said he, "how can I forget you; you with whom I have gone through so much, and whom I love so dearly?"
 
 There was no help for it, he must and would go home to fetch the coach and seven horses, and she was to wait for him by the sea-side. So at last the Mastermaid was forced to let him have his way; she only said, —
 
@@ -388,7 +386,7 @@ Now, just as he came home to the palace, one of his brothers was thinking of hol
 
 So he took up the apple and bit a piece out of it; but he had scarce done so, before he forgot the Master- maid, and how he was to drive back for her.
 
-"Well, I think I must be mad," he swd; " what am I to do with this coach and horses?"
+"Well, I think I must be mad," he swd; "what am I to do with this coach and horses?"
 
 So he put the horses up ag^n, and went along with the others into the palace, and it was soon settled that he should have the bride's sister, who had rolled the apple over to him.
 
@@ -402,7 +400,7 @@ Yes, for that matter, he said, he was not so badly off, and off he went home to 
 
 "For I have forgotten to make up the fire,"
 
-"Pray, don't stir out of bed," said the Constable; " I'll see to it."
+"Pray, don't stir out of bed," said the Constable; "I'll see to it."
 
 So he jumped out of bed, and stood on the hearth in a trice.
 
@@ -420,15 +418,15 @@ Next day the Attorney passed by the place where the Mastermaid lived, and he too
 
 Well, the Mastermaid asked him, as she had asked the Constable, if he had a good lot of money? and the Attorney said he wasn't so badly off; and as a proof he went home to fetch his money. So at even he came back with a great fat sack of money — I think it was a whole bushel sack — and set it down on the bench; and the long and the short of the matter was, that he was to have her, and they went to bed. But all at once the Mastermaid had forgotten to shut the door of the porch, and she most get up and make it fast for the night.
 
-"What, you do that!" said the Attorney, " while I lie here; that can never be; lie still, while I go and do it."
+"What, you do that!" said the Attorney, "while I lie here; that can never be; lie still, while I go and do it."
 
 So up he jumped, like a pea on a drum-head, and ran out into the porch.
 
-"Tell me," said the Mastermaid, " when you have hold of the door-latch."
+"Tell me," said the Mastermaid, "when you have hold of the door-latch."
 
 "I've got hold of it dow," said the Attorney.
 
-"God graot, then," said the Mastermaid, " that you may hold the door, and the door you, and that you may go from wall to wall till day dawns."
+"God graot, then," said the Mastermaid, "that you may hold the door, and the door you, and that you may go from wall to wall till day dawns."
 
 So you may fancy what a dance the Attorney had all night long; such a waltz he never had before, and I don't think he would much care if he never had such a waltz again. Now he pulled the door forward, and then the door pulled him back, and so he went on, now dashed into one corner of the porch, and now into the other, till he was almost battered to death. At first he began to curse and swear, and then to beg and pray, but the door cared for nothing but holding its own till break of day. As soon as it let go its hold, off set the Attorney, leaving behind him his money to pay for his night's lodging, and forgetting his courtship altogether, for to tell the truth, he was afraid lest the house-door should come dancing after him. All who met him stared and gaped at him, for he too cut capers like a madman, and he could not have looked in worse plight if he had spent the whole night in butting against a flock of rams.    '
 
@@ -438,7 +436,7 @@ The third day the Sheriff passed that way, and he too saw the golden hut, and tu
 
 "Now I have hold of it," said the Sheriff.
 
-"God grant," said the Mastermaid, " that you may hold the calf's tail, and the calf's tail you, and that you may make a tour of the world together till day dawns."
+"God grant," said the Mastermaid, "that you may hold the calf's tail, and the calf's tail you, and that you may make a tour of the world together till day dawns."
 
 Well you may just fancy how the Sheriff had to stretch his legs; away they went, the calf and he, over high and low, across hill and dale, and the more the Sheriff cursed and swore, the faster the calf ran and jumped. At dawn of day the poor Sheriff was well nigh broken-winded, and so glad was he to let go the calf's tail, that he forgot his sack of money and everything else. As he was a great man, he went a little slower than the Attorney and the Constable, but the slower he went the more time people had to gape and stare at him; and I must say, they made good use of their time, for he was terribly tattered and torn, after his dance with the calf.
 
@@ -446,31 +444,31 @@ Next day was fixed for the wedding at the palace, and the eldest brother was to 
 
 "And if you can only get her to lend you the handle of her shovel with which she makes up her fire, I know very well it will hold,"
 
-Well I they sent a messenger on the spot, with such a pretty message to the maiden, to know if they couldn't get the loan of her shovel which the Constable had spoken of; and the maiden said " yes," they might have it; so they got a trace-pin which wasn't likely to snap.
+Well I they sent a messenger on the spot, with such a pretty message to the maiden, to know if they couldn't get the loan of her shovel which the Constable had spoken of; and the maiden said "yes," they might have it; so they got a trace-pin which wasn't likely to snap.
 
-But all at once, just as they were driving off, the bottom of the coach tumbled to bits. So they set to work to make a new bottom as they best might; but it mattered not how many nails they put into it, nor of what wood they made it, for as soon as ever they got the bottom well into the coach and were driving off, snap it went in two again, and they were even worse off than when they lost the trace-pin. Just then the Attorney said — "for if the Constable was there, you may fancy the Attorney was there too — " Away yonder, in the copse, lives a maiden, and if you could only get her to lend you one-half of her porch-door, I know it can hold together."
+But all at once, just as they were driving off, the bottom of the coach tumbled to bits. So they set to work to make a new bottom as they best might; but it mattered not how many nails they put into it, nor of what wood they made it, for as soon as ever they got the bottom well into the coach and were driving off, snap it went in two again, and they were even worse off than when they lost the trace-pin. Just then the Attorney said — "for if the Constable was there, you may fancy the Attorney was there too — "Away yonder, in the copse, lives a maiden, and if you could only get her to lend you one-half of her porch-door, I know it can hold together."
 
 Well, they sent another message to the copse, and asked so prettily if they couldn't have the loan of the gilded porch-door which the Attorney had talked of; and they got it on the spot. So they were just setting out; but now the horses were not strong enough to draw the coach, though there were six of them; then they put on eight, and ten, and twelve, but the more they put on, and the more the coachman whipped, the more the coach wouldn't stir an inch. By this time it was far on in the day, and every one about the palace was in doleful dumps; for to church they must go, and yet it looked as if they should never get there. So at last the Sheriff said, that yonder in the gilded hut, in the copse, lived a maiden, and if they could only get the loan of her calf, —
 
 "I know it can drag the coach, though it were as heavy as a mountain."
 
-Well, they all thought it would look silly to be drawn to church by a calf, but there was no help for it, so they had to send a third time, and ask so prettily in the King's name, if he couldn't get the loan of the calf the Sheriff had spoken of, and the Mastermaid let them have it on the spot, for she was not going to say " no " this time either. So they put the calf on before the horses, and waited to see if it would do any good, and away went the coach over high and low, and stock and stone, so that they could scarce draw their breath; sometimes they were on the ground, and sometimes up in the air, and when they reached the church, the calf began to run round and round it like a spinning jenny, so that they had hard work to get out of the coach, and into the church. When they went back, it was the same story, only they went faster, and they reached the palace almost before they knew they had set out.
+Well, they all thought it would look silly to be drawn to church by a calf, but there was no help for it, so they had to send a third time, and ask so prettily in the King's name, if he couldn't get the loan of the calf the Sheriff had spoken of, and the Mastermaid let them have it on the spot, for she was not going to say "no" this time either. So they put the calf on before the horses, and waited to see if it would do any good, and away went the coach over high and low, and stock and stone, so that they could scarce draw their breath; sometimes they were on the ground, and sometimes up in the air, and when they reached the church, the calf began to run round and round it like a spinning jenny, so that they had hard work to get out of the coach, and into the church. When they went back, it was the same story, only they went faster, and they reached the palace almost before they knew they had set out.
 
 Now when they sat down to dinner, the Prince who had served with the Giant said he thought they ought to ask the maiden who bad lent them her shovel-handle and porch-door, and calf, to come ap to the palace.
 
-"For," said he, " if we hadn't got these three things, we should have been sticking here still."
+"For," said he, "if we hadn't got these three things, we should have been sticking here still."
 
 Yes; the King thought that only fair and right, so he sent five of his best men down to the gilded hut to greet the maiden from the King, and to ask her if she wouldn't be so good as to come up and dine at the palace.
 
-"Greet the King from me," said the Mastermaid, " and tell him, if he's too good to come to me, so am I too good to go to him."
+"Greet the King from me," said the Mastermaid, "and tell him, if he's too good to come to me, so am I too good to go to him."
 
 So the King had to go himself, and then the Mastermaid went up with him without more ado; and as the King thought she was more than she seemed to be, he sat her down in the high seat by the side of the youngest bridegroom.
 
 Now, when they had sat a little while at table, the Mastermaid took out her golden apple, and the golden cock and hen, which she had carried off from the Giant, and put them down on the table before her, and the cock and hen began at once to peck at one another, and to fight for the golden apple."
 
-"Oh! only look," said the Prince; " see how those two strive for the apple."
+"Oh! only look," said the Prince; "see how those two strive for the apple."
 
-"Yes!" said the Mastermaid; " so we two strove to get away that time when we were together in the hillside.
+"Yes!" said the Mastermaid; "so we two strove to get away that time when we were together in the hillside.
 
 Then the spell was broken, and the Prince knew her again, and yon may fancy how glad he was. But as for the witch who had rolled the apple over to him, he had her torn to pieces between twenty-four horses, so that there was not a bit of her left, and after that they held on with the wedding in real earnest; and though they were still stiff and footsore, the Constable, the Attorney, and the Sheriff, kept it up with the best of them.
 
@@ -542,7 +540,7 @@ Then the giant knew that he had got the right Prince and took him home to his ca
 
 Next day the giant took Edgar into the giant's stable, which was full of straw and dirt and all huddled up, and pointing to a pitchfork said:
 
-"Clear all of this straw out of this stable by tonight, " and left him to his task.
+"Clear all of this straw out of this stable by tonight," and left him to his task.
 
 The Prince thought this was an easy thing to do, and before starting went to get a drink at the well, and there he saw a most beautiful maiden sitting by the well and knitting.
 
@@ -552,7 +550,7 @@ And so he told her all that had happened and said:
 
 "At any rate I have an easy master; all he has given me to do is to clear out the stable."
 
-"That is not so easy as you think, " said the maid "How are you going to do it.^"
+"That is not so easy as you think," said the maid "How are you going to do it.^"
 
 "With a pitchfork."
 
@@ -584,11 +582,11 @@ When the giant came home, the first thing he did was to go to the clump of trees
 
 "Who is she?" said the Prince.
 
-"You know well enough, " said the giant. " But for her you could not have cut down those trees with that glass axe."
+"You know well enough," said the giant. "But for her you could not have cut down those trees with that glass axe."
 
-"I do not know what you mean, " said the Prince. "But at any rate, there you have your trees cut down, what more do you want?"
+"I do not know what you mean," said the Prince. "But at any rate, there you have your trees cut down, what more do you want?"
 
-"Well, well," grumbled the giant, "we'll see to- morrow whether you can do what I tell you then, " and would not say what his task should be next day.
+"Well, well," grumbled the giant, "we'll see to- morrow whether you can do what I tell you then," and would not say what his task should be next day.
 
 When the morning came, the giant pointed to the tallest tree in the forest near them, and said:
 
@@ -598,7 +596,7 @@ At that Prince Edgar did not feel so happy, for there were no branches to the tr
 
 "That is the hardest of all," said the Master-Maid. "There is only one way to do the task. You must cut me up into small pieces and take out my bones, and out of the bones you must make a ladder, and with that ladder you can reach the top."
 
-"That I will never do, " said the Prince. You've been so good to me, shall I do you harm? Before that, I should suffer whatever punishment the giant will give me for not carrying out the task."
+"That I will never do," said the Prince. You've been so good to me, shall I do you harm? Before that, I should suffer whatever punishment the giant will give me for not carrying out the task."
 
 "But all will be well," said the Master-Maid. "As soon as you have brought down the nest, all that you will have to do is to put the bones together and sprinkle on them the water from this flask, and then I shall be whole again just as before."
 
@@ -694,7 +692,7 @@ Now the Master-Maid had put on that day a beautiful dress of rich silk, and when
 
 At first the Princess would not think of such a thing; but after thinking the matter over she thought of a plan, and said:
 
-"Well, you shall have your wish, " and took away with her the silken dress.
+"Well, you shall have your wish," and took away with her the silken dress.
 
 But at night, when the Master-Maid came to the palace and claimed her promise, the Princess put a sleep-giving drug in Edgar's cup.
 
