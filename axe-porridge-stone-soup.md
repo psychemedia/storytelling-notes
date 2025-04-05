@@ -296,7 +296,7 @@ A traveller, apparently wearied, arrived one morning at a small village that lie
 
 "I will show you in an instant," said the man. So untying his wallet, he produced a large smooth pebble. "Here," he cried, "is the *principal* ingredient. Now toast me a large slice of bread, hard and brown. Well now, attend to me."
 
-The stone was infused in warm water; the bread was toasted, aud put into the pot with it. "Now," said the Traveller, "let me have a bit of bacon, a small quantity, of four krout, pepper, and salt, onions, celery, thyme." In short, he demanded all the necessary materials. The good woman had a store cupboard and a well cropped garden; so that these were procured in an instant, and the cookery proceeded with great success.
+The stone was infused in warm water; the bread was toasted, and put into the pot with it. "Now," said the Traveller, "let me have a bit of bacon, a small quantity, of four krout, pepper, and salt, onions, celery, thyme." In short, he demanded all the necessary materials. The good woman had a store cupboard and a well cropped garden; so that these were procured in an instant, and the cookery proceeded with great success.
 
 When it was finished, the kind hostess, who had watched the operation with some anxiety, and from time to time longed to taste the soup, was indulged. She found it excellent. She had never before tasted any that was so good. She produced all the edibles that her cottage afforded; and spreading her table, she, with the Traveller, made a hearty meal, of which the stone soup formed the principal part.
 

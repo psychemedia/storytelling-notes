@@ -472,7 +472,7 @@ So she walked on a long, long way, and then she came to a great farm-house, wher
 
 "Oh!" said the old hag; " it's no use your trying. We've had ever ao many maids, but none of them was worth her salt."
 
-But she begged so prettily that they would just take her on trial, that at last they let her stay. So the old hag gave her a sieve, and hade her go and fetch water in it. She thought it strange to feteh water in a sieve, but still she went, aud when she came to the well, the little birds began to sing —
+But she begged so prettily that they would just take her on trial, that at last they let her stay. So the old hag gave her a sieve, and hade her go and fetch water in it. She thought it strange to feteh water in a sieve, but still she went, and when she came to the well, the little birds began to sing —
 
 "Daub in clay,  
 Stuff in straw.  

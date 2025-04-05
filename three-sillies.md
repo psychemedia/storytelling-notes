@@ -553,7 +553,7 @@ The man saw how the land lay in a trice, so he saddled his horse , and rode off 
 
 "Well, well, if I ever!" he said, as Peter the third came riding up. "No! I never saw the like of this in all my born days!"
 
-Then Peter stood aud looked at him for some time, wondering what had come over him; bat at last he asked, —
+Then Peter stood and looked at him for some time, wondering what had come over him; bat at last he asked, —
 
 "What do you lie there staring at?"
 

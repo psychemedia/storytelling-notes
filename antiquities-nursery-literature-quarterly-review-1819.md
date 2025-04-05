@@ -52,7 +52,7 @@ an ancient Swedish ee it was placed in the hands of the God Thor. Thor Gud
 
 * er nacken som ett barn .: Siw Stjernor i Handen och Karlewagn.
 
-+, Arthur, according to Mr, Owen, is a mythological personage. 'Arthur,' he says, ¢ is the Great Bear, as the name actually implies: (it is odd he did not think of Arctos aud Arcturus to strengthenhiishypothesis.) 'And perhaps this constellation, being so near the pole, and sensibly describing a circle in so stall a space, is the origin of the round. table.', 's. Preface to the History of Arthur, p. 3.
+Arthur, according to Mr, Owen, is a mythological personage. 'Arthur,' he says, is the Great Bear, as the name actually implies: (it is odd he did not think of Arctos and Arcturus to strengthen his hypothesis.) 'And perhaps this constellation, being so near the pole, and sensibly describing a circle in so stall a space, is the origin of the round. table.', 's. Preface to the History of Arthur, p. 3.
 
 ¢ He is in the account of the siege of Huesca in the Cronica General, ——Avia un infanson que era sobrino de Don Lorenzo Xuarez quel Hamaron Me
 
@@ -93,7 +93,7 @@ place: those who choose may consult the Volsunga Saga,' and the: Second Part of 
 
 1 had often heard repeated in infancy, and which [ had often repeated myself when the song or the tale repeated by turns, amused the tedious evenings of winter. From. this circumstance I am. inclined to think that many of the Scottish popular stories may have been common to the, Norman French: hether these tales be derived immediately from the French during their long and intimate intercourse with the Scotch nation, or whether both nations borrowed them from the Celtic, may admit of some doubt.'
 
-In ascribing a common origin to the popular fictions of our island and the continent we cannot be far from the truth; but since the people of England and the Scottish Lowlands are undoubtedly offsets and grafts from the Teutonic stock, it is probable that our popular fables also are chiefly of Teutonic origin. These idle stories boast a higher aytiquity than romances and poems of much greater pretensions. Our proud baronial families-can trace their line only up to Battle Abbey-Roll, whilst the yeomen. and franklins of Essex and Sussex, aud Kent, the Spongs and-the Pungs, and the Wapshotts and the Eppses, bear in.their names the evidence of their de~ scent from the Saxon and Danish rors of Britain: and even peng of. the romances of the Table in their present
+In ascribing a common origin to the popular fictions of our island and the continent we cannot be far from the truth; but since the people of England and the Scottish Lowlands are undoubtedly offsets and grafts from the Teutonic stock, it is probable that our popular fables also are chiefly of Teutonic origin. These idle stories boast a higher aytiquity than romances and poems of much greater pretensions. Our proud baronial families-can trace their line only up to Battle Abbey-Roll, whilst the yeomen. and franklins of Essex and Sussex, and Kent, the Spongs and-the Pungs, and the Wapshotts and the Eppses, bear in.their names the evidence of their de~ scent from the Saxon and Danish rors of Britain: and even peng of. the romances of the Table in their present
 
 ormrare mere striplings when compared to the acquaintance of our early childhood, who troop along pte side of the.go-cart and help to.rock the cradle. Jack, commonly called the Giant Killer, and Thomas Thumb landed, in England from the very. same keels and warships which conveyed Hengist and Horsa,and Ebba the Saxon,
 

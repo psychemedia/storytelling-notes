@@ -24,7 +24,7 @@ The king had a wicked heart, and was disturbed concerning this prophecy, so he w
 
 The King laid the child in a box, and rode away till he came to a deep water, into which he threw the box, saying to himself, " From this unsought-for bridegroom have I now freed my daughter."
 
-The box, however, did not sink, but floated along like a boat, and not one drop of water penetrated it. It floated at last down to a mill two miles from the King's palace, and in the mill-dam it stuck fast. The miller's boy, who was fortunately standing there, observed it, aud drew it ashore with a hook, expecting to find a great treasure.
+The box, however, did not sink, but floated along like a boat, and not one drop of water penetrated it. It floated at last down to a mill two miles from the King's palace, and in the mill-dam it stuck fast. The miller's boy, who was fortunately standing there, observed it, and drew it ashore with a hook, expecting to find a great treasure.
 
 When, however, he opened the box, he saw a beautiful child, alive and merry. He took it to the people at the mill, who, having no children, adopted it for their own, say- ing, "God has sent it to us." And they took good care of it, and it grew up full of virtues.
 
