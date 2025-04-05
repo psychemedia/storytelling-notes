@@ -306,7 +306,7 @@ So Anwen sat; and she ate, and she drank; and they talked about this, and they t
 
 Anwen said she was grateful. She said she was glad to stay. The days turned into weeks. The weeks turned into months. Each morning, she swept the floor and tended the fire. Each night, she fed the boar. And every day, three times a day, the old woman gave her a plate piled high with good things to eat. And each time, insisted that Anwen clear the plate.
 
-For the first time in her life, Anwen found there was flesh on her bones, instead of just skin. But she notice that, if ever Rhoswem, the daughter of this house, asked for another morsel, another mouthful, her mother would shout at at, and chastise — what are you, eating me out of house and home?! — and would beat her daughter across her back.
+For the first time in her life, Anwen found there was flesh on her bones, instead of just skin. But she notice that, if ever Rhoswen, the daughter of this house, asked for another morsel, another mouthful, her mother would shout at at, and chastise — what are you, eating me out of house and home?! — and would beat her daughter across her back.
 
 It was hard for Anwen to eat whenever Rhoswen was across the room, watching her, following every fork full.
 
@@ -332,7 +332,7 @@ Downstairs, the poker replied: "I'm poking the fire."
 
 The witch rolled over, and went back to sleep. Some little time later, the witch woke up again. The cottage was still, and quiet, and her tea was still not there: "Anwen, what are you doing now?"
 
-And the broom replied: "I am sweeping the floor."
+And the broom replied: "I'm sweeping the floor."
 
 The witch rolled over, she fell back to sleep. She woke up for the third time: and still no tea: "Anwen, come here".
 
@@ -348,7 +348,7 @@ Rhoswen pulled on her clothes, setting off on the chase, as swift as thought, up
 
 Anwen, and the young man, were running, and running, along the path, through the forest; behind them, they could sense, they could *hear*, the sound of pursuit, getting closer, getting closer...
 
-There was no way they could escape; all they could do was hide: Anwen took out a leaf, tapped the boy and herself: "you, be a pond; I will be a duck..."
+There was no way they could escape; all they could do was hide: Anwen took out a leaf, tapped the boy and herself: "you, be a pond; I, will be a duck..."
 
 Just in time. Around the corner, came Rhoswen. The footsteps she'd been following through the woods had ended. A bit odd...
 
@@ -370,7 +370,7 @@ Anwen and the young man, back in human form, were running, running through the f
 
 The footprints on the path had disappeared again. A bit odd, a rose bush, out of season... and a bee...
 
-Rhoswen leaned towards the rose bush, recognising something within it, perhaps, becuase in Welsh, Rhosen means "whote rose".
+Rhoswen leaned towards the rose bush, recognising something within it, perhaps, because in Welsh, Rhosen means "white rose".
 
 The bee buzzed angrily, and Rhosewen stepped back.
 
@@ -394,7 +394,7 @@ Rhoswen looked up at the apple. A mishievous smile. And a glisten in her eye.
 
 "Little tree, little tree: did you see a young man, and a young woman, pass by this way?"
 
-But eevm in stories, apples do not talk...
+But even in stories, apples do not talk...
 
 Rhoswen turned round, went back the way she'd came, back to the cottage.
 
@@ -410,7 +410,7 @@ Anwen and the young man, in human form again, came to the edge of the forest. Th
 
 The young man ran his way, Anwen went hers.
 
-As she ran, she sensed something behind her, heard something behind her, getting closer, closer, faster than thought. At the last moment, Anwen turned, dropped the leaf. The witch, running faster, couldn't stop... stepped on the leaf... and was transformed into a sow. And behind: Rhoswen. Who stopped. And stared at Anwen. She'd seen what had happened: looked at Anwen. She looked at the sow.  Stepped forwards. Smiled. And licked her lips. Taking the sow, she turned, a d made her way back to the cottage... It would be the first proper meal she had had in ages...
+As she ran, she sensed something behind her, heard something behind her, getting closer, closer, faster than thought. At the last moment, Anwen turned, dropped the leaf. The witch, running faster, couldn't stop... stepped on the leaf... and was transformed into a sow. And behind: Rhoswen. Who stopped. And stared at Anwen. She'd seen what had happened: looked at Anwen. She looked at the sow.  Stepped forwards. Smiled. And licked her lips. Taking the sow, she turned, and made her way back to the cottage... It would be the first proper meal she had had in ages...
 
 Anwen returned home, back to the home where she'd lived with her mother. But as she'd approached the cottage, she saw no smoke coming out from the chimney; there were no hens scratching in the yard.
 
@@ -430,17 +430,15 @@ The girl placed one shift by the door. "I will see he gets it", said the old, ol
 
 After a week, Anwen returned to the crossroads. No-one came to meet her.
 
-Where was he? What had happened to him? Surely he coiuldnlt of forgotten? Surely he hadn't...?
+Where was he? What had happened to him? Surely he couldn't have forgotten? Surely he hadn't...?
 
 By whatever sense it is that leads us home when we are lost, the landscape ingrained in you when you're a child, the young man somhow made his way back home...
 
-Some movement through the window caught the eye of his father; the sight of his son, who had been lost these last few years, comuin up the drive. As the older man made he way outside, the family dog recognised its young master and ran to greet him. The boy bent down [arms outstretched], and the dog jumped up... gave a great big, doggy slobbery wet...
+Some movement through the window caught the eye of his father; the sight of his son, who had been lost these last few years, coming up the drive. As the older man made he way outside, the family dog recognised its young master and ran to greet him. The boy bent down [arms outstretched], and the dog jumped up... gave a great big, doggy, slobbery wet...
 
 As the old man reached out to hug his child, the young man drew away...
 
-"I? What? Who are you? Get away from me... Where am I? Who am I?"
-
-But what, now of Anwen? She had returned home, back to the home where she'd lived with her mother. But as she'd approached the cottage, she saw no smoke coming out from the chimney; there were no hens scratching in the yard
+"I? What? Who are you? Get away from me... Where am I? *Who* am I?"
 
 Anwen took to wandering. She had no family, she had no money, she had: no-one; nothing. She had to sleep under hedges, in sheds and in outhouses. She walked until her hair was matted with twigs and leaves, until her clothes were no more than rags, once white, now grey, until her shoes were worn away.
 
