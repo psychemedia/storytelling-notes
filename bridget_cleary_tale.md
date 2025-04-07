@@ -325,3 +325,14 @@ by Campbell, J. F. (John Francis), 1822-1885 comp. and tr
 
 Publication date 1860
 Several volumes
+
+
+
+Changelings in 
+
+Popular romances of the west of England, or, The drolls, traditions, and superstitions of old Cornwall
+by Hunt, Robert, 1807-1887; Cruikshank, George, 1792-1878
+
+Publication date 1865
+
+pp71+
