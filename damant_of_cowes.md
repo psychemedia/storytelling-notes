@@ -103,7 +103,7 @@ And he replied —
 
 Bye-and-bye her two sisters came to see her, and she said —
 
-"Oh, sisters, have you found my ball, Or have you paid my fee, Or have you come to take me down From this old gallows-tree? "
+"Oh, sisters, have you found my ball, Or have you paid my fee, Or have you come to take me down From this old gallows-tree?"
 
 And they made the very same answer as the father had given.
 

@@ -64,7 +64,7 @@ Here the only punishment suffered is the deprivation of the power of seeing fair
 
 woman's apron. The fairy instantly turned round and tore out her eye. "Thieves!" bawled another on a similar occasion, with the same result.^ In a Cornish tale a woman is entrusted in her own house with the care of an elf-child. The child brought remarkable prosperity to the house, and his foster-mother grew very fond of him. Finding that a certain water in which she was required to wash his face made it very bright, she determined to try it on her own, and splashed some of it into her eye. This conferred the gift of seeing the little people, who played with her boy, but had hitherto been invisible to her; and one day she was surprised to meet her nursling's father in the market — stealing. Recognition followed, and the stranger exclaimed :
 
-" Water for elf, not water for self, You've lost your eye, your child, and yourself.'*
+"Water for elf, not water for self, You've lost your eye, your child, and yourself.'*
 
 From that hour she was blind in the right eye. When she got home the boy was gone; and she and her husband, who had once been so happy, became poor and wretched.^ Here poverty and wretchedness, as well as the loss of an eye, were inflicted. In a Northumbrian case the fosterparent lost his charge and both eyes.^ So in a story from Guernsey, the midwife, on the Saturday following her attendance on the lady, meets the husband and father in a shop filling his basket to right and left. She at once comprehends the plenty that reigned in his mysterious dwelling. "Ah, you wicked thief, I see you !" she cried. "You see me; how?" he inquired. "With my eyes," she replied. "In that case I will soon put you out of power to play the spy," he answered. So saying, he spat in her face, and she
 
@@ -88,11 +88,11 @@ Such was the punishment of curiosity; nor is it by fairies alone that curiosity 
 
 1 Sdbillot, Litt. Orale, 24.
 
-" All water is wine, And thy two eyes are mine."
+"All water is wine, And thy two eyes are mine."
 
 A variant of the story relates that the woman herself disappeared, and gives the rhyme as
 
-" All water is wine. And what is thereby is mine."^
+"All water is wine. And what is thereby is mine."^
 
 It is thus obviously a common belief that supernatural beings, without distinction, dislike being watched, and are only willing to be manifested to humanity at their own pleasure and for their own purposes. In the stories of the magical ointment it is not so much the theft as the contravention of the implicit prohibition against prying into fairy business that rouses elfin anger. This will appear more clearly from the fuller consideration of cases like those mentioned in the last paragraph, in which punishment follows directly upon the act of spying. In Northamptonshire, we learn that a man whose house was frequented by fairies, and who had received many favours from them, became smitten with a violent desire to behold his invisible benefactors. Accordingly, he one night stationed himself behind a knot in the door, which divided the living-room of his cottage from the sleepingapartment. True to their custom, the elves came to disport themselves on his carefully-swept hearth, and to render to the household their usual good offices. But no sooner had the man glanced upon them than he became blind; and so provoked were the fairies at this breach of hospitality that they deserted his dwelling, and never more returned to it.^ In Southern Germany and Switzerland, a mysterious lady known as Dame Berchta is reputed to be abroad on Twelfth Night. She is doubtless the relic of a heathen goddess, one of whose attributes was to be a leader of the souls of the dead, and as such she is followed by a band of
 
