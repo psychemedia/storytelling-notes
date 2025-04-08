@@ -55,6 +55,7 @@ parts:
 - caption: Practice and performance notes
   chapters:
   - file: practice-on-not-sharing-digitally-pt1
+  - file: setlists
 - caption: Additional Storynotes Collections
   chapters:
   - file: elsewhere
