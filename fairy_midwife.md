@@ -1,15 +1,13 @@
 # Fairy Midwife
 
-*The Fairy Midwife*., also often referred to as *The Fairy Ointment* is a widely collectly, and frequently localised, tale of dealings with the fairies, in which a midwife is called upon to help deliver a fairy child, and wipe a special ointement into its eyes as soon as it is born. Mistakenly wiping some of the ointment into one of her own eye's, the midwife sees into the fairy otherworld. After unwittingly revealing the glamour, the midwife is punished by the loss of her glamoury eye.
+*The Fairy Midwife*., also often referred to as *The Fairy Ointment* is a widely collectly, and frequently localised, tale of dealings with the fairies, in which a midwife is called upon to help deliver a fairy child and asked to wipe a special ointement over its eyes as soon as it is born. Mistakenly getting some of the ointment into one of her own eyes, the midwife becomes able to see into the fairy otherworld. After unwittingly revealing herself to be so enchanted, the midwife is punished with the loss of her glamoury eye.
 
-Hugh Lupton tells a version of the tale (*Fairy Ointment*) on [*The Sleeping King* [CD]](https://burningshed.com/Hugh_Lupton_Daniel_Morden_and_Nick_Hennessey-The_Sleeping_King-CD), with an opening formed from a separate folk tale that situates the events in Norfolk, identifies the faery folk as *ferishers*, and provides a slightly dark backstory for the (human) mother of the new-born child.
+Hugh Lupton tells a version of the tale (*Fairy Ointment*) on [*The Sleeping King* [CD]](https://burningshed.com/Hugh_Lupton_Daniel_Morden_and_Nick_Hennessey-The_Sleeping_King-CD), with an opening formed from a separate folk tale that situates the events in Norfolk, identifies the faery folk as *ferishers*, and provides a slightly dark back-story for the (human) mother of the new-born child.
 
-TO DO
+The gist of the tale can be found in two versions contained in the Irish Schools Collection:
 
---
-
-in the Irish Schools' collection
-
+```{admonition} The Fairy Ointment, Irish Schools Collection
+:class: dropdown
 https://www.duchas.ie/en/cbes/4649692/4647750/4659237
 
 The Fairy Ointment
@@ -21,8 +19,10 @@ When she looked around with this eye everything was changed. Instead of a beauti
 Some time after as she was having her tea in a hotel she saw the same man come in. He walked over to another man and while talking to him he stuck something up his nose. The man started to sneeze and go off in a swoon. When she heard him sneeze she said "God bless us," and he came to.
 
 The man seeing her and knowing what she did was angry. He came over to her and struck her in the eye she had rubbed the ointment to, and blinded her and said "You will never be able to give away any more secrets on us."
+```
 
-
+```{admonition} A Fairy Story, Irish Schools Collection
+:class: dropdown
 https://www.duchas.ie/en/cbes/4921757/4903942/5167059
 
 A Fairy Story
@@ -33,17 +33,124 @@ About a century and a half ago there lived in a house near the bridge spanning t
 They journeyed about two miles along the river bank till they came to a mansion which the nurse did not remember having seen before.
 
 She attended the patient and while she was anointing him with ointment her eye got itchy and she rubbed some of the ointment to it. When she looked again, with one eye she could see the mansion and with the eye to which the ointment was rubbed she could see a circular old ditch which she recognised as Ring's Fort down in Doon. The people who were flitting around her were only fairies.
+
 She feigned complete ignorance of the situation and when she was being driven home by the stranger she happened to look at the horse. To her surprise and indignation, instead of being riding on a horse, she found she was riding on a plough.
 
 About a week after she went to a fair in Newmarket. She saw a number of fairies sticking straws into peoples' noses to make them sneeze. Any person who sneezed and did not say "God bless us" would be in the power of the fairies. She saw one fairy going up to a pretty Cailin and made her sneeze. She did not invoke the blessing but the nurse invoked it for her. The fairy turned on her very angrily and asked her which eye she saw him with. She pointed it out to him and he stuck the straw into the eye and blinded her for life. Thus the adventure of Nellie O Connor and the fairies.
+```
 
+
+
+
+https://archive.org/details/b33282419_0001 vol 1
+https://archive.org/details/b33282419_0002 vol 2
+https://archive.org/details/b33282419_0003 vol 3
+
+
+https://archive.org/details/b33282419_0001/page/182/mode/2up?q=%22Dame+Somebody%22
+
+Traditions, legends, superstitions, and sketches of Devonshire on the borders of the Tamar and the Tavy, illustrative of its manners, customs, history, antiquities, scenery, and natural history
+by Bray, Mrs. (Anna Eliza), 1790-1883
+
+Publication date 1838
+
+Vol. I, p183-8
+
+
+LETTER X.
+
+TO ROBERT SOUTHEY, ESQ.
+
+Vicarage, Tavistock, April 24th, 1832.
+
+...
+
+Once upon a time there was, in this celebrated town `[Tavistock]`, a Dame Somebody, I do not know her name, and as she is a real character, I have no right to give her a fictitious one. All I with truth can Say, IS, that she was old, and nothing the worse for that; for age is, or ought to be, held in honour as the source of wisdom and experience. Now this good old woman lived not in vain, for she had passed her. days in the useful capacity of a nurse; and as she approached the term of going out of the world herself, she was still useful in her generation, by help-. ing others into it—she was, in fact, the *Sage-femme* of the village; for though I have the utmost dislike to mixing up French, or any foreign words, with the good, plain English of my native land, I here for once venture on a French expression, because it is, in certain particulars, considered as a refinement so much in fashion, that I must not venture to neglect it.
+
+One night, about twelve o'clock in the morning, as the good folks say who tell this tale, Dame Somebody had just got comfortably into bed, when rap, rap, rap came on her cottage door, with such bold, loud, and continued noise, that there was a sound of authority in every individual knock. Startled and | alarmed by the call, she arose from her bed, and soon learnt that the summons was a hasty one to bid her attend on a patient who needed her help. She opened her door; when the summoner appeared to be a strange, squint-eyed, little, ugly, old fellow, who had a look, as she said, very like a certain dark personage, who ought not at all times to be called by his proper name. Not at all prepossessed in favour of the errand by the visage of the messenger, she nevertheless could not, or dared not resist the command to follow him straight, and attend upon "his wife."
+
+"Thy wife!" thought the good dame: "Heaven. forgive me; but as sure as I live I be going to the birth of a little divel." A large coal-black horse, with eyes like balls of fire, stood at the door. The ill-looking old fellow, without more ado, whisked her up on a high pillion in a minute, seated himself before her, and away went horse and riders, as if sailing through the air, rather than trotting on the ground. How Dame Somebody got to the place of her destination she could not tell; but it was a great relief to her fears when she found herself set down at the door of a neat cottage, saw a couple of tidy children, and remarked her patient to be a decent-looking woman, having all things about her fitting the time and the occasion.
+
+A fine, bouncing babe soon made its appearance, who seemed very bold on its entry into, life, for it gave the good dame a box on the ear, as, with the coaxing and cajolery of all good old nurses, she declared the "sweet little thing to be very like its father." The mother said nothing to this, but gave nurse a certain ointment with directions that she should "strike the child's eyes with it." Now you must know that this word strike in our Devonshire vocabulary, does not exactly mean to give a blow, but rather what is opposite, to rub, smooth down, or touch gently. The nurse performed her task, though she thought it an odd one: and as it is nothing new that old nurses are generally very curious, she wondered what it could be for; and thought that, as no doubt it was a good thing, she might just as well try it upon her own eyes as well as those of the baby; so she made free to strike one of them by way of trial; when, O! ye powers of fairy land, what a change was there!
+
+The neat, but homely cottage, and all who were in it, seemed all on a sudden to undergo a mighty transformation; some for the better, some for the worse. ‘Che new-made mother appeared as a beautiful lady attired in white; the babe was seen wrapped in swaddling clothes of a silvery gauze. It looked much prettier than before, but still maintamed the elfish cast of the eye, like his redoubted father: whilst two or three children more had undergone a metamorphosis as uncouth as that recorded by Ovid when the Cercopians were transformed into apes. For there sat on either side the bed's head, a couple of little flat-nosed imps, who with "mops and mows," and with many a grimace and grin, were "busied to no end" in scratching their own polls, or in pulling the fairy lady's ears with their long and hairy paws.
+
+The dame, who beheld all this, fearing she knew not what in the house of enchantment, got away as fast as she could, without saying one word about "striking" her own eye with the magic ointment, and what she had beheld in consequence of doing so. `[It has been the popular belief of all ages that no mortal can see a fairy without his eyes being rubbed with a magic ointment. Cornelus Agrippa, if I remember right, though it is long since I have seen his,book, gives a very amusing receipt for compounding such a salve,]` ‘The sour-looking old fellow once more handed her up on the coal-black horse, and sent her home in a whip-sissa. Now what a whip-sissa means is more than I can tell, though I consider myself to be tolerably well acquainted with the tongues of this « West Countrie." It may mean, perhaps, " Whip, says he," in allusion to some gentle intimation being feelingly given by the rider to the horse's sides with a switch, that he should use the utmost dispatch; but my derivation of the word, like that of some better etymologists on difficult occasions, may be a little far fetched; I, therefore, leave the point to be settled. by the learned. Certain it is, the old woman returned home much faster than she went. But mark the event.
+
+On the next market-day, when she sallied forth to sell her eggs, who should she see but the same, wicked-looking old fellow, busied, like a rogue as he was, in pilfermg sundry articles from stall to stall.
+
+"Ho! ho!" thought the dame, "have I caught you, you old thief? But I'll let you see I could set master mayor and the two town constables on your back, if I chose to be telling." So up she went, and with that bold free sort of air, which persons, who have learnt secrets that ought not to be known, are apt to assume when they address any great rogue hitherto considered as a superior, she inquired carelessly after his wife and child, and hoped both were as well as could be expected.
+
+"What!" exclaimed the old pixy thief, "do you see me to day?"
+
+"See you! to be sure I do, as plain as I see the sun in the skies; and I see you are busy into the bargain."
+
+"Do you so!" cried he: "Pray with which eye do you see all this?"
+
+"With the right eye to be sure."
+
+"The ointment! the ointment!" exclaimed the old fellow: "take that for meddling with what did not belong to you—you shall see me no more."
+
+He struck her eye as he spoke, and from that hour till the day of her death she was blind on the right side; thus dearly paying for having gratified an idle curiosity in the house of a pixy.
+
+...
+
+I remain, my dear sir,  
+very faithfully yours,  
+ANNA ELIZA BRAY.
+
+
+---
+
+https://archive.org/details/sim_university-magazine_1849-05_33_197/page/558/mode/2up?q=%22Biddy+Mannion%22
+
+pp. 558-560
+
+The University Magazine, 1849-05: Vol 33 Iss 197
+
+Irish Popular Superstitions
+
+There lived a woman in Innis Shark, one Biddy Mannion, as handsome and likely a fisherman's wife as you would meet in a day's walk. She was tall, and fair in the face, with skin like an egg, and hair that might vie with the gloss of the raven's wing. She was married about a twelyemonth, when the midwife presented her husband, Patsy-Andrew M‘Intire,t with as fine a man-child as could be found between Shark and America, and sure they are the next parishes, with only the Atlantic for a mearing between them. The young one throve apace, and all the women and gossips said, that Biddy Manion was the lucky woman, and the finest nurse seen in the island for many a day. Now the king of the fairies had a child about the same age or a little older, but the queen was not able to nurse it, for she was mighty weakly after her lying-in, as her husband had a falling out with another fairy potentate that lives down one side of the Giant's Causeway, who, by the force of magic and pishrogues, banished the suck from the Connaught princess for spite. The gentry had their eye upon Biddy Mannion for a long time, but as she always wore a gospel round her neck, and kept an errub sewed up iv her clothes, she was proof against all their machinations and seductions. At long run, however, she lost this herb, and one fine summer's night the young gaurlought being mighty cross with the teeth wouldn't sleep in the cradle at all, but was ever more starting and crying, as if the life was leaving him, so she got up at last, determined to take him to bed to herself, and she went down to the kitchen to light a candle. Well, just as she was blowing a coal, three men caught a hold of her, before she could bless herself, and she was unable to shout or say a- word, so they brought her out of the house quite easy, and put her upon a pillion, behind one of themselves, on a fine black horse that was ready waiting outside the door. She was no sooner seated behind one of the men, than away they all galloped without saying aword. It was as calm and beautiful a night as ever came out of the sky, just before the moon rose "between day and dark," with the gloom of parting twilight, softening every break upon the surrounding landscape, and not a breath of air was to be felt. They rode on a long time, and she didn't know where they were going to; but she thought to herself they must be on the mainland, for she heard the frogs croaking in the ditches; the *bunnaun lena* was sounding away in the bogs, and the *minnaun airigh* `[There are no frogs in these small islands. The bunnaun lena is the bittern, and the minnaun airigh (the airy kid,) is the clocking snipe, so called from the noise which it makes like the bleating of a kid, while wheeling in the air during the twilight of a summer's evening. Neither of these birds are found in the small islands of the west.]` was wheeling over their heads. At last the horse stopped of itself all of a sudden before the gate of a "big house," `[The word "big house" is applied by the peasantry to most gentlemen's seats.]` at the butt of a great hill with trees growing all round it, where she had never been before in her life. There was much light in the house, and presently a grand-looking gentleman dressed all in scarlet, with a cocked hat on his head, and a sword by his side, and his fingers so covered with rings that they shone "like *lassar lena* in a bog hole," `[This, though a homely simile, is one very frequently used in many parts of Connaught, to express any bright shining appearance. The lassar lena, which grows in bogs and marshy places, is the ranunculus flammea, so called, from its brilliant yellow colour. It is a plant possessing many medicinal virtues, and will claim a special notice when we come to treat of the herb cures, and popular botany of the Irish.]` lifted her off the pillion as polite as possible, handed her into the house, and bid her a *cead mile failte*, just the same as if he had known her all his lifetime.
+
+The gentleman left her sitting in one of the rooms, and when he was gone she saw a young woman standing at the *thrashal* of the door, and looking very earnestly at her, as if she wanted to speak to her. "Troth I'll speak, any way," says Biddy Mannion, "for if I didn't, I'm sure I'd burst." And with that she bid her the time of day, and asked her why she was looking at her so continuously. The woman then /gave 4 great sigh, and whispered to her, "If you take my advice, Biddy Mannion, you'll not taste bit, bite, or sup, while you are in this house, for if you do you'll be sorry for it, and maybe never get home again to your child or husband. I eat and drank my fill,* forrior geraugh*, `[Literally, bitter grief, woe, or sorrow; it is an expression denoting great regret.]` the first night I came, and that's the reason that I am left here now in this enchanted place where every thing you meet is bewitched even to the mate itself. But when you go home send word to them that's after me, Tim Conneely that lives one side of the Killaries, that I am here, and may be he'd try what Father Pat Prendergast, the blessed abbot of Cong, could do to get me out of it." Biddy was just going to make further inquiries of the strange woman, when in the clapping of your hand she was gone, and the man with the scarlet coat came back, and the same woman bringing in a young child in her arms. The man took the child from the woman, and gave it to Biddy to put it to the breast, and when it had drank its *fill* he took it away and invited her into another room where the queen—a darling, fine-looking lady, as you'd meet in a day's walk—was seated in an arm-chair, surrounded by a power of quality, dressed up for all the world like judges with big wigs, and red gowns upon them. There was a table laid out with all sorts of eating, of which the man in the cocked hat pressed her to take something; she made answer that she was no ways hungry, but that if they could give her a cure for a little girl belonging to one of her neighbours, who was mighty *daune*, and never well in herself since she had a fit of the *feur-gurtagh*, `[Feur gortac, literally, "the hungry grass" a weakness, the result of sudden hunger, said to come on persons during a long journey, or in particular places, in consequence of treading on a particular kind of fairy-enchanted grass, called the feur gorlac, by the native Irish. A bit of oaten cake is said to be the best cure for it.]` and to send herself home to Shark, she would be for ever obliged to them. The king, for that was the gentleman with the cocked hat, said he had ne'er a cure.
+
+"Indeed, then," said the mother of the child, "as I was the cause of your coming here, honest woman, you must get the cure; go home," says she, speaking for all the world like an Englishwoman, "and get ten green rishes from the side of the well of Aughavalla, `[A holy well, in the barony of Murrisk, not far from Croagh Patrick, celebrated for its "cures," and its blessed trout.]` throw the tenth away, `[The antiquity of tithes is instanced in numberless examples in our "cures," and fairy lore. For example, ten gooseberry thorns are plucked to cure "the stye;" nine are pointed at the part effected, and the tenth thrown over the left shoulder. Nine was the mystic number, but the additional one was added by the church for wise purpoes.]` and squeeze the juice of the rest of them into the bottom of a taycup, and give it to the colleen to drink, and she will get well in no time."
+
+The king then put a ring on her finger and told her not to lose it by any manner of means, and that as long as she wore this ring no person could hurt or harm her. He then rubbed a sort of an ointment on her eyes, and no sooner had he done so than she found herself in a frightful eave where she couldn't see her hand before her. "Don't be any ways afeard," says he; "this is to let you know what kind of a people we are that took you away. We are the fallen angels that the people up above upon the earth call the fairies.;" and then after a while she began to see about her, and the place was full of dead men's bones, and had a terrible nasty smell: and after a while he took her into another room where there was more light, and here she found a wonderful sight of young children, and them all blindfolded, and doing nothing but sitting upon *pookauns*. `[Mushrooms, fairy-stools, or puff-balls; the term is applied to all the family of fungi.]` These were the souls of infants that were never baptised. After that he shewed her a beautiful garden, and at the end of it there was a large gate which he opened with a key that was hung to his watchchain. "Now," says he, "you are not far from your own house;" so he let her out; and then says he, "who is that, that is coming down the boreen?" and when she turned her back to look who it was, behold the man with the red coat and the cocked hat had disappeared. Biddy Mannion could not see anybody, but she knew full well the place where she was in a minute, and that it was the little road that led down to the *annagh* `[A cut away bog.]` just beside her own house, and when she went up to the door she met another woman the very *nurral* of herself, just as fair as if she saw her in the looking-glass, who said to her as she passed, "What a *gomal* your husband is that didn't know the difference between you and me." She said no more, but Biddy went in and found her child in a beautiful sleep, with his face smiling, like the buttercups in May.
 
 
 ---
 
 
 
+
 ---
+Thomas Keightley, The Fairy Mythology, Originally in two volumes, then in a single volume eg 
+
+https://archive.org/details/fairymythologyi06keiggoog/page/300/mode/2up?q=ointment The fairy mythology
+by Keightley, Thomas, 1789-1872
+
+Publication date 1860 : A NEW EDITION, REVISED AND GREATLY ENLARGED.
+
+p301-303
+
+The Pixy Labour
+
+One night, about twelve o'clock in the morning, as the good folks say, who tell this good tale, Dame ———— the *sage femme* of Tavistock, had just got comfortably into bed, when rap, rap, rap, came on her cottage door, with such bold and continued noise, that there was a sound of authority in every individual knock. Startled and alarmed by the call, she arose from her bed, and soon learnt that the summons was a hasty one to bid her attend on a patient who needed her help. She opened her door, when the summoner appeared to be a strange, squint-eyed, little, ugly old fellow, who had a look, as she said, very like a certain dark personage, who ought not at all times to be called by his proper name. Not at all prepossessed in favour of the errand by the visage of the messenger, she nevertheless could not, or dared not, resist the command to follow him straight, and attend on "his wife."
+
+"Thy wife!" thought the good dame; "Heaven forgive me, but aa sure as I live I be going to the birth of a little divil." A large coal-black horse, with eyes like balls of fire, stood at the door. The ill-looking old fellow, without more ado, whisked her up on a high pillion in a minute, seated himself before her, and away went horse and riders as if sailing through the air rather than trotting on the ground. How she got to the place of her destination she could not tell; but it was a great relief to her fears when she found herself set down at the door of a neat cottage, saw a couple of tidy children, and remarked her patient to be a decent looking woman, having all things about her fitting the time and occasion. A fine bouncing babe soon made its appearance, who seemed very bold on its entry into life, for it gave the good dame a box on the ear, as, with the coaxing and cajolery of all good old nurses, she declared the "sweet little thing to be very like its father." The mother said nothing to this, but gave nurse a certain ointment, with directions that she should strike (i. e. *rub*) the child's eyes with it. The nurse performed her task, considering what it could be for. She thought that, as no doubt it was a good thing, she might just as well try it upon her own eyes as well as those of the baby; so she made free to strike one of them by way of trial, when, O ye powers of fairy land! what a change was there!
+
+The neat, but homely cottage, and all who were in it, seemed all on a sudden to undergo a mighty transformation; some for the better, some for the worse. The newmade mother appeared as a beautiful lady attired in white; the babe was seen wrapped in swaddling clothes of a silvery gauze. It looked much prettier than before, but still maintained the elfish cast of the eye, like his father, whilst two or three children more had undergone a strange metamorphosis. For there sat on either side the bed's hem, a couple of little flat-nosed imps, who with "mops and mows", and with many a grimace and grin, were busied to no end in scratching their own polls, or in pulling the faiiy lady's ears with their long and hairy paws. The dame who beheld all this, fearing she knew not what, in the house of enchantment, got away as fast as she could, without saying one word about *striking* her own eye with the magic ointment and what she had seen. The sour-looking old feUow once more handed her up on the coal-black-horse, and sent her home in a *whip sissa* `["Whip says he", as Mrs, Bray conjectures.]` much faster than she came.
+
+On the next market-day, when she sallied forth to sell her eggs, she saw the same old fellow busy pilfering sundry articles from stall to stall, and going up to mm she enquired about his wife and child. "What!" exclaimed he, "do you see me to-day?" "See you! to be sure I do, as plain as I see the sun in the sky; and I see you are busy, too." "Do you?" says he, "and pray with which eye do you see all this?" ""With the right eye to be sure."
+
+"The ointment! the ointment!" cried he. "Take that, for meddliag with what did not belong to you; you shall see me no more."
+
+He struck her eye as he spoke, and from that hour till the day of her death she was blind of that eye.
+
+---
+
+
 
 https://archive.org/details/fairymythologyi06keiggoog/page/388/mode/2up?q=midwife
 
@@ -57,7 +164,11 @@ The Fairy Labour.
 
 Many years ago there dwelt in Strathspey a midwife of great repute. One night just as she was going to bed, she heard a loud knocking at the door, and on opening it she saw there a man and a grey horse, *both out of breath*. The rider requested her to jump up behind him and come away to assist a lady who was in great danger. He would not even consent to her stopping to change her dress, as it would cause delay. She mounted and away they went at full speed. On the way she tried to learn from the rider whither she was going, but all she coiild get from him was, that she would be well paid. At length he let out that it was to a fairy-lady he was taking her. Nothing daunted, however, she went on, and on reaching the Shian, she found that her services were really very much needed. She succeeded in bringing a fine boy to the light, which caused so much joy, that the fairies desired her to ask what she would, and if it was in their power, it should be granted. Her desire was that success might attend herself and her posterity in all similar operations. The gift was conferred and it continued, it was said, with her great-grandson, at the time the collector of these legends wrote.
 
+
+
 --
+
+https://archive.org/details/s1popularromance00huntuoft/page/69/mode/2up
 
 Popular romances of the west of England, or, The drolls, traditions, and superstitions of old Cornwall
 by Hunt, Robert, 1807-1887; Cruikshank, George, 1792-1878
@@ -140,6 +251,50 @@ They got the miserable woman home between them. The Squire charged her with havi
 
 ---
 
+
+
+---
+
+Re: the below - match it to Bridget Cleary???
+
+https://archive.org/details/legendaryfictio00kenngoog/page/n104/mode/2up
+
+Legendary Fictions of the Irish Celts
+by Patrick Kennedy
+
+Publication date 1866
+
+p. 106-110
+
+THE FAIRY NURSE.
+
+There was once a little farmer and his wife living near Coolgairow. They had three children, and my story happened while the youngest was on the breast. The wife was a good wife enough, but her mind was all on ker fiunily md her farm, and she hardly ever went to her
+
+knees without falling asleep, and she thought the time spent in the chapel was twice as long as it need be. So, begonies, she let her man and her two children go before her one day to Mass, while she called to consult a fairyman about a disorder one of her cows had. She was late at the chapel, and was sorry all the day after, for her husband was in grief about it, and she was very fond of him.
+
+Late that night he was wakened up by the cries of his children calling out, " Mother, mother ! " When he sat up and rubbed his eyes, there was no wife by his side, and when he asked the little ones what was become of their mother, they said they saw the room full of nice little men and women, dressed in white, and red, and green, and their mother in the middle of them, going out by the door as if she was walking in her sleep. Out he ran, and searched everywhere round the house, but neither tale nor tidings did he get of her for many a day.
+
+Well, the poor man was miserable enough, for he was as fond of his woman as she was of him. It used to bring the salt tears down his cheeks to see his poor children neglected and dirty, as they often were, and they'd be bad enough only for a kind neighbour that used to look in whenever she could spare time. The infant was out with a wet nurse.
+
+About six weeks after — just as he was going out to his work one morning — a neighbour, that used to mind women at their lying-in, came up to him, and kept step by step with him to the field, and this is what she told him.
+
+"Just as I was falling asleep last night, I hears a horse's tramp in the bawn, and a knock at the door, and there, when I came out, was a fine-looking dark man, mounted on a black horse, and he told me to get ready in all haste, for a lady was in great want of me. As soon as I put on my cloak and things, he took me by the hand, and I was sitting behind him before I felt myself stirring. 'Where are we going, sir?' says I. 'You'll soon know,' says he; and he drew his fingers across my eyes, and not a *stim* remained in them. I kept a tight grip of him, and the dickens a knew I knew whether he was going backwards or forwards, or how long we were about it, till my hand was taken again, and I felt the ground under me. The fingers went the other way across my eyes, and there we were before a castle door, and in we went through a big hall and great rooms all painted in fine green colours, with red and gold bands and ornaments, and the finest carpets and chairs and tables and window-curtains, and fine ladies and gentlemen walking about At last we came to a bedroom, with a beautiful lady in bed, and there he left me with her; and, bedad, it was not long till a fine bouncing boy came into the world. The lady clapped her hands, and in came *Fir Dhorocha* `[Correctly, Fear Doirche.]` (Dark Man), and kissed her and his son, and praised me, and gave me a bottle of green ointment to rub the child all over.
+
+"Well, the child I rubbed, sure enough; but my right eye began to smart me, and I put up my finger and gave it a rub, and purshuin to me if ever I was so frightened. The beautiful room was a big rough cave, with water oozing over the edges of the stones, and through the clay; and the lady, and the lord, and the child, weazened, poverty-bitten crathurs — nothing but skin and bone, and the rich dresses were old rags. I didn't let on that I found any difference, and after a bit says Fir Dhorocha, 'Go before me to the hall-door, and I will be with you in a few moments, and see you safe home.' Well, just as I turned into the outside cave, who should I see watching near the door but poor Molly. She looked round all frightened, and says she to me in a whisper — 'I'm brought here to give suck to the child of the king and queen of the fairies; but there is one chance of saving me. All the court will pass the cross near Templeshambo, next Friday night, on a visit to the fairies of Old Ross. If John can catch me by hand or cloak when I ride by, and has courage not to let go his grip, I'll be safe. Here's the king. Don't open your mouth to answer. I saw what happened with the ointment.'
+
+"Fir Dhorocha didn't once cast his eye towards Molly, and he seemed to have no suspicion of me. When we came out I looked about me, and where do you think we were but in the dyke of the Rath of Cromogue. I was on the horse again, which was nothing but a big *booliän bui* (rag-weed), and I was in dread every minute I'd fall off; but nothing happened till I found myself in my own bawn. The king slipped five guineas into my hand as soon as I was on the ground, and thanked me, and bade me good night I hope I'll never see his face again. I got into bed, and couldn't sleep for a long time; and when I examined my five guineas this morning, that I left in the table-drawer the last thing, I found five withered leaves of oak — bad scran to the giver!"
+
+Well, you may all think the fright, and the joy, and the grief the poor man was in when the woman finished her story. They talked, and they talked, but we needn't mind what they said till Friday night came, when both were standing where the mountain road crosses the one going to Ross.
+
+There they stood looking towards the bridge of Thuar, and I won't keep you waiting, as they were in the dead of the night, with a little moonlight shining firom over Kilachdiarmid. At last she gave a start, and "By this and by that," says she, "here they come, bridles jingling, and feathers tossing." He looked, but could see nothing; and she stood trembling, and her eyes wide open, looking down the way to the ford of Ballinacoola. "I see your wife," says she, "riding on the outside just so as to rub against us. We'll walk on promiskis-like, as if we suspected nothing, and when we are passing I'll give you a shove. If you don't do *your* duty then, dickens cure you!"
+
+Well, they walked on easy, and the poor hearts beating in both their breasts; and though he could see nothing, he heard a faint jingle, and tramping, and rustling, and at last he got the push that she promised. He spread out his arms, and there was his wife's waist within them, and he could see her plain, but such a huUabulloo rose as if there was an earthquake; and he found himself surrounded by horrible-looking things, roaring at him, and striving to pull his wife away. But he made the sign of the cross, and bid them begone in God's name, and held his wife as if it was iron his arms were made of. Bedad, in one moment everything was as silent as the grave, and the poor woman lying in a faint in the arms of her husband and her good neighbour. Well, all in good time she was minding her family and her business again, and I'll go bail, after the fright she got, she spent more time on her knees, and avoided fairy-men all the days of the week, and particularly Sunday.
+
+It is hard to have anything to do with the good people without getting a mark from them. My brave midwife didn't escape no more nor another. She was one Thursday at the market of Enniscorthy, when what did she see walking among the tubs of butter but Fir Dhorocha, very hungry-looking, and taking a scoop out of one tub and out of another. "Oh, sir," says she, very foolish, "I hope your lady is well, and the young heir" "Pretty well, thank you," says he, rather frightened like. "How do I look in this new suit?" says he, getting to one side of her. "I can't see you plain at all, sir," says she. "Well, now," says he, getting round her back to the other side. "Musha, indeed, sir, your coat looks no better nor a withered dock-leaf." "Maybe, then," says he, "it will be different now," and he struck the eye next him with a switch.
+
+Begonies, she never saw a stim after with that one till the day of her death.
+
+---
 
 https://archive.org/details/goblintalesoflan00bowkiala/page/160/mode/2up?q=ointment
 Goblin tales of Lancashire
@@ -344,122 +499,97 @@ These traditions lead us naturally to the legend of Lady Godiva. As generally to
 ---
 
 
+
+---
+
+https://archive.org/details/bookofwestbeingi00bari/page/188/mode/2up?q=ointment
+A Book of the West: Being an Introduction to Devon and Cornwall
+by Sabine Baring-Gould
+1890
+
+pp187-193
+
+What I am now about to mention is a story I have received from Mr. T. W. Whiteway, brother of Sir William Whiteway; he was brought up on the confines of the moor. The story is of the Fairies' ointment, as Nurse Warren told it.
+
+"You have many times asked me to tell you about the Fairies' ointment. Now I don't suppose you will believe me, but I have heard Granny say that a very long time ago there were Pixies scattered all over the country. The Pixies were good and kind to some people, but to others they would play all sorts of tricks. You must never spy on a Pixy, for they would be sure to pay you out if you did. Now the story I am going to tell you was told to me by my grandmother, who died in her eighty-seventh year, and she heard it from her mother. So this all happened before there was any King George. Granny used to say that she believed it was when there was a King Henry, who had a number of wives.
+
+"There was a wonderfully clever midwife, called Morada, who lived a little way out of Holne village, close to Dartmoor. You know in those days doctors were not so plentiful as they be now, nor so clever; so the people all around used to send for Nurse Morada. Now she was a widow woman and a foreigner. Folks did say she was a witch, and a sight of money she got, for folks was afraid to offend her.
+
+"One night just before harvest Nurse had gone to bed early, for it was a dark, dismal evening, likely for a thunderstorm, and Nurse was much afraid of lightning.
+
+"She had not been long asleep when she was awakened by such a clatter at the door as if it was  being broken down, and it was thundering and lightning frightful. Nurse was greatly frightened, but lay still, hoping the knocking would cease, but it only got worse and worse. At last she rose and opened the window, when she saw by the lightning flashing, which almost blinded her, a little man sitting on a big horse, hammering at the door.
+
+"'Come down, woman,' he said; 'my wife is ill, and wants you.'
+
+"'Do you think I'm mad?' she called out. 'I would not go out for the queen herself such a night as this,' and was going to shut the window.
+
+"'Stop!' he cried out; 'will you come with me for ten golden guineas?'
+
+"Now this was a sight of money in those days, and Nurse was very greedy for money; so she told the man to wait, and she would be dressed as soon as possible.
+
+"The man jumped down from his horse, and pointing to a shed said two words in a foreign language, whereupon the horse cleverly walked in out of the rain. The man entered the house, and when Nurse saw him she was that frightened she almost fainted away. He was not old at all, but a very handsome young man. He was small, to be sure, but he looked a real little gentleman, with such beautiful fine clothes, and eyes that fairly looked through you. He laughed to see how frightened the woman was.
+
+"'Now listen to me,' he said in a voice as sweet as a thrush's, 'and be sure that if you do what I tell you, and never speak of what you may see or hear, no harm will happen to you, and I will give you ten guineas now and ten more when you return home. If you keep your promise all will be well, but if you do not I will punish you very severely. Now to show you what power I have, I tell you that although you say that you are a widow and call yourself Morada, that is not your name, for you never were married. Shall I tell you some more of your past life?'
+
+"'No, sir, no!' she called out. 'I will do all that you tell me.'
+
+"'That's right and sensible. Now the first thing I do is to blindfold you, and you must not try to take off the bandage from your eyes. Take these ten guineas and put them away.'
+
+"This the woman did, and hid them behind the mantelpiece. They both left the house, the woman locking the door. He took the woman behind him on the horse, and tied her with a strap round her waist. Away went the horse like the wind across the moor; Nurse thought from the time they took they must have gone pretty near as far as Lydford. When he got off from the horse he made sure that she had not moved the handkerchief. Unlocking a door, he led her up through a long passage, and, unlocking another door, pulled her inside.
+
+"'Now take off your handkerchief,' said he, and she found herself in a queer-looking place all lighted up with beautiful lamps. A little squint-eyed man came and said something the Nurse could not understand. The little gentleman then hurried off Nurse into another room, where, lying on a beautiful velvet bed, was the prettiest little lady anybody ever did see.
+
+"Well, before many hours there was a sweet little dot of a boy born. Then the gentleman brought the Nurse a box of ointment and told her to rub some over the baby's eyelids. When nurse had done so she put the box in her pocket and forgot all about it. This got her into great trouble, as I'll tell you about presently. Nurse stayed some days with the little lady, and got to love her very much, she was that kind and good. The little lady liked Nurse, and told her that she herself was a princess; that her husband was a prince; that they lived in a beautiful country where there was no frost or snow, and that they were fairies, not Pixies. Her father was the king of all the fairies, and he was very angry because she ran away and married the prince, who was not of so high a rank as she was, although he was her cousin, and that to punish them he sent 'em both to Dartmoor for a year. That time was now up, and they were all going home in a few days.
+
+"The fairy prince took Nurse to her home blindfolded on the big horse, in the same way as he brought her there, and on parting gave her the other ten guineas as he had promised. The next morning Nurse was in a great quandary when she found the box of ointment in her pocket. 'Well,' she thought, 'he will be sure to come for this ointment, as they will all be going away to-morrow or the next day.'
+
+"Nurse stayed up all that night, but the prince did not come, and the next day and night passed without seeing him. Then Nurse felt certain that they were all gone, and had forgotten the ointment, and she could scarcely eat, drink, or sleep for thinking what virtue there might be in it.
+
+"When the fourth night had passed without his coming Nurse could wait no longer, but opened the box and rubbed in a little of the ointment on her left eye ; but she only felt the eye prick and sting a bit, so the woman thought the ointment must be only good for fairy babies, and she went to bed quite satisfied.
+
+"The next morning she thought she must have died and awakened up in another world. Everything about her looked as if it had grown ever so much. The cat, which always slept in her room, looked as large as a great dog. Then remembering the ointment, she covered her left eye, and all was as it used to be. The woman now got very frightened, and started off after breakfast to go to Ashburton to consult a friend of hers, a Mr. Stranger, who was very clever about herbs.
+
+"As she walked along she would now and again cover up her right eye, and then everything would look so grand and beautiful; and looking up, she saw stars, although the sun was shining brightly, she could see that wonderfully far off. Now, she had not gone very far when suddenly the fairy prince, sitting on his horse, appeared before her.
+
+"'Good morning, sir,' she said, dropping a curtsy.
+
+"'Ah!' he cried, 'the ointment! Which eye do you see me with?'
+
+"'The left, sir.'
+
+"Instantly she felt something like a blow on that eye. The fairy prince vanished, and appeared again as the little man she had first seen.
+
+"'Nurse,' said he, 'you are blinded in your left eye as a punishment for having used the ointment, I am sorry, for you were kind to my wife. Here is a present she has sent you.'
+
+"He then gave her ten guineas, and she returned him the box. He then vanished. This is all the story that Granny told me about the fairy ointment."
+
+
+
 --
 
 
+https://archive.org/details/cu31924092530496/page/n153/mode/2up?q=ointment
 
-https://www.duchas.ie/en/cbes/4649692/4647750/4659237?HighlightText=fairy+midwife&Route=stories&SearchLanguage=ga
 
-English fairy and other folk tales
-by Hartland, Edwin Sidney, 1848-1927
+The Denham tracts: a collection of folklore : reprinted from the original tracts and pamphlets printed by Mr. Denham between 1846 and 1859
+by Denham, Michael Aislabie, d. 1859
 
-Publication date [1906?]
+Publication date 1892
 
-pp.91-4
+Vol. II
 
-THE FAIRY'S MIDWIFE. `[Mrs. Bray, The Borders of the Tamar and the Tavy, vol i. p. 174.]`
+pp138-9
 
-Once upon a time there was, in this celebrated town, a Dame Somebody. I do not know her name. All I with truth can say is that she was old, and nothing the worse for that; for age is, or ought to be, held in honour as the source of wisdom and experience. Now this good old woman lived not in vain, for she had passed her days in the useful capacity of a nurse; and as she approached the term of going out of the world herself, she was still useful in her generation by helping others into it — she was in fact the *Sage-femme* of the village.
+A fairy man and woman once entrusted the up-bringing of one of their offspring to a man in Netherwitton. He received along with it a box of ointment, with which he was enjoined regularly to rub its eyes, but he was to be careful not to touch his own with it, otherwise he would incur a heavy penalty. Curiosity overcame his scruples, and he anointed one of his eyes with the ointment without experiencing any inconvenience. Having gone to Long Horsley fair, he saw both the man and woman moving about among the fair people, and thinking there could be no harm in it he accosted them. Surprised to be thus recognised, they inquired with what eye he saw thera, and he told them, whereupon they blew into his eye and it became blinded. The child was removed before his return home.
 
-One night about twelve o'clock in the morning, as the good folks say who tell the tale. Dame Somebody had just got comfortably into bed, when rap, rap, rap, came on her cottage door, with such bold, loud, and continued noise, that there was a sound of authority in every individual knock. Startled and alarmed by the call, she arose, and soon learnt that the summons was a hasty one to bid her attend on a patient who needed her help. She opened her door; when the summoner appeared to be a strange, squint-eyed, little, ugly, old fellow, who had a look, as she said, very like a certain dark personage, who ought not at all times to be called by his proper name. Not at all prepossessed in favour of the errand by the visage of the messenger, she nevertheless could not, or dared not, resist the command to follow him straight and attend upon "his wife."
-
-"Thy wife!" thought the good dame: "Heaven forgive me; but as sure as I live I be going to the birth of a little divel." A large coal-black horse, with eyes like balls of fire, stood at the door. The ill-looking old fellow, without more ado, whisked her up on a high pillion in a minute, seated himself before her, and away went horse and riders, as if sailing through the air rather than trotting on the ground. How Dame Somebody got to the place of her destination she could not tell; but it was a great relief to her fears when she found herself set down at the door of a neat cottage, saw a couple of tidy children, and remarked her patient to be a decent-looking woman, having all things about her fitting the time and the occasion.
-
-A fine bouncing babe soon made its appearance, and seemed very bold on its entry into life, for it gave the good dame a box on the ear, as, with the coaxing and cajolery of all good old nurses, she declared the "sweet little thing to be very like its father." The mother said nothing to this, but gave nurse a certain ointment with directions that she should "strike the child's eyes with it." Now you must know that this word "strike," in our Devonshire vocabulary, does not exactly mean to give a blow, but rather what is opposite, to "rub, smooth down, or touch gently." The nurse performed her task, though she thought it an odd one; and as it is nothing new that old nurses are generally very curious, she wondered what it could be for; and thought that, as no doubt it was a good thing, she might just as well try it upon her own eyes as those of the baby, so she made free to strike one of them by way of trial; when, oh ye powers of fairyland, what a change was there! The neat but homely cottage, and all who were in it, seemed all on a sudden to undergo a mighty transformation, some for the better, some for the worse. The new-made mother appeared as a beautiful lady attired in white ; the babe was seen wrapped in swaddling clothes of a silvery gauze. It looked much prettier than before, but still maintained the elfish cast of the eye, like its redoubted father; whilst two or three children more had undergone a metamorphosis as uncouth as that recorded by Ovid when the Cercopians were transformed into apes. For there sat on either side of the bed's head a couple of little flat-nosed imps, who with "mops and mows," and with many a grimace and grin, were "busied to no end" in scratching their own polls, or in pulling the fairy lady's ears with their long and hairy paws. The dame, who beheld all this, fearing she knew not what in the house of enchantment, got away as fast as she could without saying one word about " striking " her own eye with the magic ointment, and what she had beheld in consequence of doing so. The sour-looking old fellow once more handed her up on the coal-black horse, and sent her home in a whip-sissa. Now what a whip-sissa means is more than I can tell, though I consider myself to be tolerably well acquainted with the tongues of this "West Countrie." It may mean perhaps, "Whip, says he," in allusion to some gentle intimation being feelingly given by the rider to the horse's sides with a switch, that he should use the utmost despatch. Certain it is, the old woman returned home much faster than she went. But mark the event. On the next market-day, when she sallied forth to sell her eggs, whom should she see but the same wicked-looking old fellow, busied, like a rogue as he was, in pilfering sundry articles from stall to stall. "Oh! oh!" thought the dame, "have I caught you, you old thief? But I'll let you see I could set Master Mayor and the two town constables on your back, if I chose to be telling." So up she went, and with that bold, free sort of air which persons who have learnt secrets that ought not to be known are apt to assume when they address any great rogue hitherto considered as a superior, she inquired carelessly after his wife and child, and hoped both were as well as could be expected.
-
-"What!" exclaimed the old pixy thief, "do you see me to-day?"
-
-"See you! to be sure I do, as plain as I see the sun in the skies; and I see you are busy into the bargain."
-
-"Do you so?" cried he. "Pray with which eye do you see all this?"
-
-"With the right eye, to be sure."
-
-"The ointment! the ointment!" exclaimed the old fellow. "Take that for meddling with what did not belong to you — you shall see me no more,"
-
-He struck her eye as he spoke, and from that hour till the day of her death she was blind on the right side, thus dearly paying for having gratified an idle curiosity in the house of a pixy.
-
+A midwife in Northumberland was one night summoned by a man to go out and perform her office to a sufferer "in the straw," to which she consented. Mounted on horseback behind him, she was carried with incredible rapidity over an immense space to a cottage, where the woman was soon after delivered of a healthy child. An attendant brought to the midwife ointment in a box, with which she was to anoint the child all over, but she was to beware of putting any of it on her own eyes. Involuntarily, while executing her task, she happened to draw her fingers across her eyes to remove some obstruction of sight, and immediately her eyes were opened and she saw that she was not in a cottage at all, but in the midst of a wild waste, where all the fairy population was assembled round her. She had the presence of mind not to betray any alarm, and having done all that was required, she was conveyed back to her dwelling with the same dispatch with which she had been taken from it. Subsequently, being at a market, she observed among the crowd the man and woman with whom she had formed this singular acquaintance, as well as other agents invisible to man, passing from stall to stall and purloining bits of butter and other edibles. She addressed them and asked them their reasons for these proceedings. " Which eye do you see us with ? " asked they. "With both," said she; and they blow into them and both were blinded. Of this and the previous story there are many variations.
 
 
 ---
 
-https://archive.org/details/sim_university-magazine_1849-05_33_197/page/558/mode/2up?q=%22Biddy+Mannion%22
-
-pp. 558-560
-
-The University Magazine, 1849-05: Vol 33 Iss 197
-
-Irish Popular Superstitions
-
-There lived a woman in Innis Shark, one Biddy Mannion, as handsome and likely a fisherman's wife as you would meet in a day's walk. She was tall, and fair in the face, with skin like an egg, and hair that might vie with the gloss of the raven's wing. She was married about a twelyemonth, when the midwife presented her husband, Patsy-Andrew M‘Intire,t with as fine a man-child as could be found between Shark and America, and sure they are the next parishes, with only the Atlantic for a mearing between them. The young one throve apace, and all the women and gossips said, that Biddy Manion was the lucky woman, and the finest nurse seen in the island for many a day. Now the king of the fairies had a child about the same age or a little older, but the queen was not able to nurse it, for she was mighty weakly after her lying-in, as her husband had a falling out with another fairy potentate that lives down one side of the Giant's Causeway, who, by the force of magic and pishrogues, banished the suck from the Connaught princess for spite. The gentry had their eye upon Biddy Mannion for a long time, but as she always wore a gospel round her neck, and kept an errub sewed up iv her clothes, she was proof against all their machinations and seductions. At long run, however, she lost this herb, and one fine summer's night the young gaurlought being mighty cross with the teeth wouldn't sleep in the cradle at all, but was ever more starting and crying, as if the life was leaving him, so she got up at last, determined to take him to bed to herself, and she went down to the kitchen to light a candle. Well, just as she was blowing a coal, three men caught a hold of her, before she could bless herself, and she was unable to shout or say a- word, so they brought her out of the house quite easy, and put her upon a pillion, behind one of themselves, on a fine black horse that was ready waiting outside the door. She was no sooner seated behind one of the men, than away they all galloped without saying aword. It was as calm and beautiful a night as ever came out of the sky, just before the moon rose "between day and dark," with the gloom of parting twilight, softening every break upon the surrounding landscape, and not a breath of air was to be felt. They rode on a long time, and she didn't know where they were going to; but she thought to herself they must be on the mainland, for she heard the frogs croaking in the ditches; the *bunnaun lena* was sounding away in the bogs, and the *minnaun airigh* `[There are no frogs in these small islands. The bunnaun lena is the bittern, and the minnaun airigh (the airy kid,) is the clocking snipe, so called from the noise which it makes like the bleating of a kid, while wheeling in the air during the twilight of a summer's evening. Neither of these birds are found in the small islands of the west.]` was wheeling over their heads. At last the horse stopped of itself all of a sudden before the gate of a "big house," `[The word "big house" is applied by the peasantry to most gentlemen's seats.]` at the butt of a great hill with trees growing all round it, where she had never been before in her life. There was much light in the house, and presently a grand-looking gentleman dressed all in scarlet, with a cocked hat on his head, and a sword by his side, and his fingers so covered with rings that they shone "like *lassar lena* in a bog hole," `[This, though a homely simile, is one very frequently used in many parts of Connaught, to express any bright shining appearance. The lassar lena, which grows in bogs and marshy places, is the ranunculus flammea, so called, from its brilliant yellow colour. It is a plant possessing many medicinal virtues, and will claim a special notice when we come to treat of the herb cures, and popular botany of the Irish.]` lifted her off the pillion as polite as possible, handed her into the house, and bid her a *cead mile failte*, just the same as if he had known her all his lifetime.
-
-The gentleman left her sitting in one of the rooms, and when he was gone she saw a young woman standing at the *thrashal* of the door, and looking very earnestly at her, as if she wanted to speak to her. "Troth I'll speak, any way," says Biddy Mannion, "for if I didn't, I'm sure I'd burst." And with that she bid her the time of day, and asked her why she was looking at her so continuously. The woman then /gave 4 great sigh, and whispered to her, "If you take my advice, Biddy Mannion, you'll not taste bit, bite, or sup, while you are in this house, for if you do you'll be sorry for it, and maybe never get home again to your child or husband. I eat and drank my fill,* forrior geraugh*, `[Literally, bitter grief, woe, or sorrow; it is an expression denoting great regret.]` the first night I came, and that's the reason that I am left here now in this enchanted place where every thing you meet is bewitched even to the mate itself. But when you go home send word to them that's after me, Tim Conneely that lives one side of the Killaries, that I am here, and may be he'd try what Father Pat Prendergast, the blessed abbot of Cong, could do to get me out of it." Biddy was just going to make further inquiries of the strange woman, when in the clapping of your hand she was gone, and the man with the scarlet coat came back, and the same woman bringing in a young child in her arms. The man took the child from the woman, and gave it to Biddy to put it to the breast, and when it had drank its *fill* he took it away and invited her into another room where the queen—a darling, fine-looking lady, as you'd meet in a day's walk—was seated in an arm-chair, surrounded by a power of quality, dressed up for all the world like judges with big wigs, and red gowns upon them. There was a table laid out with all sorts of eating, of which the man in the cocked hat pressed her to take something; she made answer that she was no ways hungry, but that if they could give her a cure for a little girl belonging to one of her neighbours, who was mighty *daune*, and never well in herself since she had a fit of the *feur-gurtagh*, `[Feur gortac, literally, "the hungry grass" a weakness, the result of sudden hunger, said to come on persons during a long journey, or in particular places, in consequence of treading on a particular kind of fairy-enchanted grass, called the feur gorlac, by the native Irish. A bit of oaten cake is said to be the best cure for it.]` and to send herself home to Shark, she would be for ever obliged to them. The king, for that was the gentleman with the cocked hat, said he had ne'er a cure.
-
-"Indeed, then," said the mother of the child, "as I was the cause of your coming here, honest woman, you must get the cure; go home," says she, speaking for all the world like an Englishwoman, "and get ten green rishes from the side of the well of Aughavalla, `[A holy well, in the barony of Murrisk, not far from Croagh Patrick, celebrated for its "cures," and its blessed trout.]` throw the tenth away, `[The antiquity of tithes is instanced in numberless examples in our "cures," and fairy lore. For example, ten gooseberry thorns are plucked to cure "the stye;" nine are pointed at the part effected, and the tenth thrown over the left shoulder. Nine was the mystic number, but the additional one was added by the church for wise purpoes.]` and squeeze the juice of the rest of them into the bottom of a taycup, and give it to the colleen to drink, and she will get well in no time."
-
-The king then put a ring on her finger and told her not to lose it by any manner of means, and that as long as she wore this ring no person could hurt or harm her. He then rubbed a sort of an ointment on her eyes, and no sooner had he done so than she found herself in a frightful eave where she couldn't see her hand before her. "Don't be any ways afeard," says he; "this is to let you know what kind of a people we are that took you away. We are the fallen angels that the people up above upon the earth call the fairies.;" and then after a while she began to see about her, and the place was full of dead men's bones, and had a terrible nasty smell: and after a while he took her into another room where there was more light, and here she found a wonderful sight of young children, and them all blindfolded, and doing nothing but sitting upon *pookauns*. `[Mushrooms, fairy-stools, or puff-balls; the term is applied to all the family of fungi.]` These were the souls of infants that were never baptised. After that he shewed her a beautiful garden, and at the end of it there was a large gate which he opened with a key that was hung to his watchchain. "Now," says he, "you are not far from your own house;" so he let her out; and then says he, "who is that, that is coming down the boreen?" and when she turned her back to look who it was, behold the man with the red coat and the cocked hat had disappeared. Biddy Mannion could not see anybody, but she knew full well the place where she was in a minute, and that it was the little road that led down to the *annagh* `[A cut away bog.]` just beside her own house, and when she went up to the door she met another woman the very *nurral* of herself, just as fair as if she saw her in the looking-glass, who said to her as she passed, "What a *gomal* your husband is that didn't know the difference between you and me." She said no more, but Biddy went in and found her child in a beautiful sleep, with his face smiling, like the buttercups in May.
-
 
 ---
 
-https://archive.org/details/b33282419_0001 vol 1
-https://archive.org/details/b33282419_0002 vol 2
-https://archive.org/details/b33282419_0003 vol 3
-
-
-https://archive.org/details/b33282419_0001/page/182/mode/2up?q=%22Dame+Somebody%22
-
-Traditions, legends, superstitions, and sketches of Devonshire on the borders of the Tamar and the Tavy, illustrative of its manners, customs, history, antiquities, scenery, and natural history
-by Bray, Mrs. (Anna Eliza), 1790-1883
-
-Publication date 1838
-
-Vol. I, p183-8
-
-
-LETTER X.
-
-TO ROBERT SOUTHEY, ESQ.
-
-Vicarage, Tavistock, April 24th, 1832.
-
-...
-
-Once upon a time there was, in this celebrated town `[Tavistock]`, a Dame Somebody, I do not know her name, and as she is a real character, I have no right to give her a fictitious one. All I with truth can Say, IS, that she was old, and nothing the worse for that; for age is, or ought to be, held in honour as the source of wisdom and experience. Now this good old woman lived not in vain, for she had passed her. days in the useful capacity of a nurse; and as she approached the term of going out of the world herself, she was still useful in her generation, by help-. ing others into it—she was, in fact, the *Sage-femme* of the village; for though I have the utmost dislike to mixing up French, or any foreign words, with the good, plain English of my native land, I here for once venture on a French expression, because it is, in certain particulars, considered as a refinement so much in fashion, that I must not venture to neglect it.
-
-One night, about twelve o'clock in the morning, as the good folks say who tell this tale, Dame Somebody had just got comfortably into bed, when rap, rap, rap came on her cottage door, with such bold, loud, and continued noise, that there was a sound of authority in every individual knock. Startled and | alarmed by the call, she arose from her bed, and soon learnt that the summons was a hasty one to bid her attend on a patient who needed her help. She opened her door; when the summoner appeared to be a strange, squint-eyed, little, ugly, old fellow, who had a look, as she said, very like a certain dark personage, who ought not at all times to be called by his proper name. Not at all prepossessed in favour of the errand by the visage of the messenger, she nevertheless could not, or dared not resist the command to follow him straight, and attend upon "his wife."
-
-"Thy wife!" thought the good dame: "Heaven. forgive me; but as sure as I live I be going to the birth of a little divel." A large coal-black horse, with eyes like balls of fire, stood at the door. The ill-looking old fellow, without more ado, whisked her up on a high pillion in a minute, seated himself before her, and away went horse and riders, as if sailing through the air, rather than trotting on the ground. How Dame Somebody got to the place of her destination she could not tell; but it was a great relief to her fears when she found herself set down at the door of a neat cottage, saw a couple of tidy children, and remarked her patient to be a decent-looking woman, having all things about her fitting the time and the occasion.
-
-A fine, bouncing babe soon made its appearance, who seemed very bold on its entry into, life, for it gave the good dame a box on the ear, as, with the coaxing and cajolery of all good old nurses, she declared the "sweet little thing to be very like its father." The mother said nothing to this, but gave nurse a certain ointment with directions that she should "strike the child's eyes with it." Now you must know that this word strike in our Devonshire vocabulary, does not exactly mean to give a blow, but rather what is opposite, to rub, smooth down, or touch gently. The nurse performed her task, though she thought it an odd one: and as it is nothing new that old nurses are generally very curious, she wondered what it could be for; and thought that, as no doubt it was a good thing, she might just as well try it upon her own eyes as well as those of the baby; so she made free to strike one of them by way of trial; when, O! ye powers of fairy land, what a change was there!
-
-The neat, but homely cottage, and all who were in it, seemed all on a sudden to undergo a mighty transformation; some for the better, some for the worse. ‘Che new-made mother appeared as a beautiful lady attired in white; the babe was seen wrapped in swaddling clothes of a silvery gauze. It looked much prettier than before, but still maintamed the elfish cast of the eye, like his redoubted father: whilst two or three children more had undergone a metamorphosis as uncouth as that recorded by Ovid when the Cercopians were transformed into apes. For there sat on either side the bed's head, a couple of little flat-nosed imps, who with "mops and mows," and with many a grimace and grin, were "busied to no end" in scratching their own polls, or in pulling the fairy lady's ears with their long and hairy paws.
-
-The dame, who beheld all this, fearing she knew not what in the house of enchantment, got away as fast as she could, without saying one word about "striking" her own eye with the magic ointment, and what she had beheld in consequence of doing so. `[It has been the popular belief of all ages that no mortal can see a fairy without his eyes being rubbed with a magic ointment. Cornelus Agrippa, if I remember right, though it is long since I have seen his,book, gives a very amusing receipt for compounding such a salve,]` ‘The sour-looking old fellow once more handed her up on the coal-black horse, and sent her home in a whip-sissa. Now what a whip-sissa means is more than I can tell, though I consider myself to be tolerably well acquainted with the tongues of this « West Countrie." It may mean, perhaps, " Whip, says he," in allusion to some gentle intimation being feelingly given by the rider to the horse's sides with a switch, that he should use the utmost dispatch; but my derivation of the word, like that of some better etymologists on difficult occasions, may be a little far fetched; I, therefore, leave the point to be settled. by the learned. Certain it is, the old woman returned home much faster than she went. But mark the event.
-
-On the next market-day, when she sallied forth to sell her eggs, who should she see but the same, wicked-looking old fellow, busied, like a rogue as he was, in pilfermg sundry articles from stall to stall.
-
-"Ho! ho!" thought the dame, "have I caught you, you old thief? But I'll let you see I could set master mayor and the two town constables on your back, if I chose to be telling." So up she went, and with that bold free sort of air, which persons, who have learnt secrets that ought not to be known, are apt to assume when they address any great rogue hitherto considered as a superior, she inquired carelessly after his wife and child, and hoped both were as well as could be expected.
-
-"What!" exclaimed the old pixy thief, "do you see me to day?"
-
-"See you! to be sure I do, as plain as I see the sun in the skies; and I see you are busy into the bargain."
-
-"Do you so!" cried he: "Pray with which eye do you see all this?"
-
-"With the right eye to be sure."
-
-"The ointment! the ointment!" exclaimed the old fellow: "take that for meddling with what did not belong to you—you shall see me no more."
-
-He struck her eye as he spoke, and from that hour till the day of her death she was blind on the right side; thus dearly paying for having gratified an idle curiosity in the house of a pixy.
-
-...
-
-I remain, my dear sir,  
-very faithfully yours,  
-ANNA ELIZA BRAY.
-
----
 
 https://archive.org/details/cu31924029910563/page/n57/mode/2up
 Tales of the fairies and of the ghost world, collected from the oral tradition in South-west Munster
@@ -512,47 +642,105 @@ A little later the fairy made his way to the old woman.
 The moment she said that he struck her left eye and took the sight from it. She went home blind of one eye, and was that way the rest of her life.
 
 
+--
+
+
+
+https://archive.org/details/tracesofelderfai02woodiala/page/12/mode/2up?q=ointment
+
+Traces of the elder faiths in Ireland: a folklore sketch: a handbook of Irish pre-Christian traditions
+by Wood-Martin, W. G. (William Gregory), 1847-1917
+
+Publication date 1901
+
+p12
+
+... Having rubbed a special ointment on the eyelids, the fairies will become visible as the fairy troop sweeps past the spot, and the gazer be enabled to recognise the prisoner by a peculiarity of dress, or by some token. ...
+
+p19
+
+The picturesque and beautiful appearance of the "wee folk," their splendid halls and magnificent feasts, are, it is alleged, mere illusions. If you procure a box of fairy ointment, and rub it on the eyelids, you instantly see everything as it really is. The finely-dressed little people are wizened and deformed imps, the splendid halls are damp earth-floored caverns, the sumptuous feasts are a meagre supply of squalid food, and their treasure chests are filled, not with gold, but with mere heaps of withered leaves and other rubbish.
+
+
+
 
 ---
 
-Re: the below - match it to Bridget Cleary???
+https://archive.org/details/cu31924092530645/page/n5/mode/2up vol 1
+https://archive.org/details/cu31924092530652/page/n5/mode/2up vol 2
 
-https://archive.org/details/legendaryfictio00kenngoog/page/n104/mode/2up
+Celtic folklore : Welsh and Manx
+by Rhys, John, Sir, 1840-1915
 
-Legendary Fictions of the Irish Celts
-by Patrick Kennedy
+Publication date 1901
 
-Publication date 1866
+https://archive.org/details/cu31924092530645/page/n113/mode/2up
+vol I, p63
 
-p. 106-110
+Next comes a story about a midwife who lived at Corwrion. 'One of the fairies called to ask her to come and attend on his wife. Off she went with him, and she was astonished to be taken into a splendid palace. There she continued to go night and morning to dress the baby for some time, until one day the husband asked her to rub her eyes with a certain ointment he offered her. She did so, and found herself sitting on a tuft of rushes, and not in a palace. There was no baby: all had disappeared. Some time afterwards she happened to go to the town, and whom should she there see busily buying various wares, but the fairy on whose wife she had been attending. She addressed him with the question, "How are you to-day?" Instead of answering her, he asked, "How do you see me?" "With my eyes," was the prompt reply. "Which eye?" he asked. "This one," said the woman, pointing to it; and instantly he disappeared, never more to be seen by her.' This tale, as will be seen on comparison later, is incomplete, and probably incorrect.
 
-THE FAIRY NURSE.
+vol I, p98-100
+https://archive.org/details/cu31924092530645/page/n149/mode/2up
 
-There was once a little farmer and his wife living near Coolgairow. They had three children, and my story happened while the youngest was on the breast. The wife was a good wife enough, but her mind was all on ker fiunily md her farm, and she hardly ever went to her
+A tale which partially reminds one of that given by Dewi Glan Ffrydlas respecting the Corwrion midwife, referred to at p. 63 above, was published by Mr. W. Jones in the fourth volume of the Brython, p. 251: freely rendered into English, it runs thus:—
 
-knees without falling asleep, and she thought the time spent in the chapel was twice as long as it need be. So, begonies, she let her man and her two children go before her one day to Mass, while she called to consult a fairyman about a disorder one of her cows had. She was late at the chapel, and was sorry all the day after, for her husband was in grief about it, and she was very fond of him.
+'Once on a time, when a midwife from Nanhwynan had newly got to the Hafodyd Brithion to pursue her calling, a gentleman came to the door on a fine grey steed and bade her come with him at once. Such was the authority with which he spoke, that the poor midwife durst not refuse to go, however much it was her duty to stay where she was. So she mounted behind him, and off they went, like the flight of a swallow, through Cwmttan, over the Bwlch, down Nantyr Aran, and over the Gader to Cwm Hafod Ruffyd, before the poor woman had time even to say Oh! When they reached there, she saw before her a magnificent mansion, splendidly ht up with such lamps as she had never seen before. They entered the court, and a crowd of servants in expensive liveries came to meet them, and she was at once led through the great hall into a bedchamber, the like of which she had never seen. There the mistress of the house, to whom she had been fetched, was awaiting her. The midwife got through her duties successfully, and stayed there until the lady had completely recovered, nor had she spent any part of herlife so merrily, for there nought but festivity went on day and night ; dancing, singing, and endless rejoicing reigned there. But merry as it was, she found that she must go, and the nobleman gave her a large purse, with the order not to open it until she had got into her own house. Then he bade one of his servants escort her the same way that she had come. When she reached home she opened the purse, and, to her great joy, it was full of money: she lived happily on those earnings to the end of her life.'
 
-Late that night he was wakened up by the cries of his children calling out, " Mother, mother ! " When he sat up and rubbed his eyes, there was no wife by his side, and when he asked the little ones what was become of their mother, they said they saw the room full of nice little men and women, dressed in white, and red, and green, and their mother in the middle of them, going out by the door as if she was walking in her sleep. Out he ran, and searched everywhere round the house, but neither tale nor tidings did he get of her for many a day.
+With this ending of the story, one should contrast Dewi Glan Ffrydlas' tale to which I have already alluded; and I may here refer to Mr. Sikes' British Goblins, pp. 86-8, for a tale differing from both Dewi's and Jones', in that the fairies are there made to appear as devils to the nurse, who had accidentally used a certain ointment which she was not to place near her own eyes. Instead of being rewarded for her services she was only too glad to be deposited anyhow near her home. ' But,' as the story goes on to relate, 'very many years afterwards, being at a fair, she saw a man stealing something from a stall, and, with one corner of her eye, beheld her old master pushing the man's elbow. Unthinkingly she said, "How are you, master? how are the children?" He said, "How did you see me?" She answered, "With the corner of my left eye." From that moment she was bUnd of her left eye, and lived many years with only her right.' Such is the end of this tale given by Mr. Sikes.
 
-Well, the poor man was miserable enough, for he was as fond of his woman as she was of him. It used to bring the salt tears down his cheeks to see his poor children neglected and dirty, as they often were, and they'd be bad enough only for a kind neighbour that used to look in whenever she could spare time. The infant was out with a wet nurse.
+'But the fair family did not,' Mr. William Jones goes on to say, 'always give mortals the means of good living : sometimes they made no little fun of them. Once on a time the Drws y Coed man was going home from Bedgelert Fair, rather merry than sad, along the old road over the Gader, when he saw, on coming near the top of the Gader, a fine, handsome house near the road, in which there was a rare merrymaking. He knew perfectly well that there was no such a building anywhere on his way, and it made him think that he had lost his way and gone astray; so he resolved to turn into the house to ask for lodgings, which were given him. At once, when he entered, he took it to be a nuptial feast [neithior) by reason of the jollity, the singing, and the dancing. The house was full of young men, young women, and children, all merry, and exerting themselves to the utmost. The company began to disappear one by one, and he asked if he might go to bed, whereupon he was led to a splendid chamber, where there was a bed of the softest down with snowwhite clothes on it. He stripped at once, went into it, and slept quietly enough till the morning. The first thing to come to his mind when he lay half asleep, half awake, was the jollity of the night before, and the fact of his sleeping in a splendid chamber in the strange house. He opened his eyes to survey his bedroom, but it was too wide: he was sleeping on the bare swamp, with a clump of rushes as his pillow, and the blue sky as his coverlet.'
 
-About six weeks after — just as he was going out to his work one morning — a neighbour, that used to mind women at their lying-in, came up to him, and kept step by step with him to the field, and this is what she told him.
+---
 
-"Just as I was falling asleep last night, I hears a horse's tramp in the bawn, and a knock at the door, and there, when I came out, was a fine-looking dark man, mounted on a black horse, and he told me to get ready in all haste, for a lady was in great want of me. As soon as I put on my cloak and things, he took me by the hand, and I was sitting behind him before I felt myself stirring. 'Where are we going, sir?' says I. 'You'll soon know,' says he; and he drew his fingers across my eyes, and not a *stim* remained in them. I kept a tight grip of him, and the dickens a knew I knew whether he was going backwards or forwards, or how long we were about it, till my hand was taken again, and I felt the ground under me. The fingers went the other way across my eyes, and there we were before a castle door, and in we went through a big hall and great rooms all painted in fine green colours, with red and gold bands and ornaments, and the finest carpets and chairs and tables and window-curtains, and fine ladies and gentlemen walking about At last we came to a bedroom, with a beautiful lady in bed, and there he left me with her; and, bedad, it was not long till a fine bouncing boy came into the world. The lady clapped her hands, and in came *Fir Dhorocha* `[Correctly, Fear Doirche.]` (Dark Man), and kissed her and his son, and praised me, and gave me a bottle of green ointment to rub the child all over.
 
-"Well, the child I rubbed, sure enough; but my right eye began to smart me, and I put up my finger and gave it a rub, and purshuin to me if ever I was so frightened. The beautiful room was a big rough cave, with water oozing over the edges of the stones, and through the clay; and the lady, and the lord, and the child, weazened, poverty-bitten crathurs — nothing but skin and bone, and the rich dresses were old rags. I didn't let on that I found any difference, and after a bit says Fir Dhorocha, 'Go before me to the hall-door, and I will be with you in a few moments, and see you safe home.' Well, just as I turned into the outside cave, who should I see watching near the door but poor Molly. She looked round all frightened, and says she to me in a whisper — 'I'm brought here to give suck to the child of the king and queen of the fairies; but there is one chance of saving me. All the court will pass the cross near Templeshambo, next Friday night, on a visit to the fairies of Old Ross. If John can catch me by hand or cloak when I ride by, and has courage not to let go his grip, I'll be safe. Here's the king. Don't open your mouth to answer. I saw what happened with the ointment.'
 
-"Fir Dhorocha didn't once cast his eye towards Molly, and he seemed to have no suspicion of me. When we came out I looked about me, and where do you think we were but in the dyke of the Rath of Cromogue. I was on the horse again, which was nothing but a big *booliän bui* (rag-weed), and I was in dread every minute I'd fall off; but nothing happened till I found myself in my own bawn. The king slipped five guineas into my hand as soon as I was on the ground, and thanked me, and bade me good night I hope I'll never see his face again. I got into bed, and couldn't sleep for a long time; and when I examined my five guineas this morning, that I left in the table-drawer the last thing, I found five withered leaves of oak — bad scran to the giver!"
 
-Well, you may all think the fright, and the joy, and the grief the poor man was in when the woman finished her story. They talked, and they talked, but we needn't mind what they said till Friday night came, when both were standing where the mountain road crosses the one going to Ross.
+https://www.duchas.ie/en/cbes/4649692/4647750/4659237?HighlightText=fairy+midwife&Route=stories&SearchLanguage=ga
 
-There they stood looking towards the bridge of Thuar, and I won't keep you waiting, as they were in the dead of the night, with a little moonlight shining firom over Kilachdiarmid. At last she gave a start, and "By this and by that," says she, "here they come, bridles jingling, and feathers tossing." He looked, but could see nothing; and she stood trembling, and her eyes wide open, looking down the way to the ford of Ballinacoola. "I see your wife," says she, "riding on the outside just so as to rub against us. We'll walk on promiskis-like, as if we suspected nothing, and when we are passing I'll give you a shove. If you don't do *your* duty then, dickens cure you!"
+English fairy and other folk tales
+by Hartland, Edwin Sidney, 1848-1927
 
-Well, they walked on easy, and the poor hearts beating in both their breasts; and though he could see nothing, he heard a faint jingle, and tramping, and rustling, and at last he got the push that she promised. He spread out his arms, and there was his wife's waist within them, and he could see her plain, but such a huUabulloo rose as if there was an earthquake; and he found himself surrounded by horrible-looking things, roaring at him, and striving to pull his wife away. But he made the sign of the cross, and bid them begone in God's name, and held his wife as if it was iron his arms were made of. Bedad, in one moment everything was as silent as the grave, and the poor woman lying in a faint in the arms of her husband and her good neighbour. Well, all in good time she was minding her family and her business again, and I'll go bail, after the fright she got, she spent more time on her knees, and avoided fairy-men all the days of the week, and particularly Sunday.
+Publication date [1906?]
 
-It is hard to have anything to do with the good people without getting a mark from them. My brave midwife didn't escape no more nor another. She was one Thursday at the market of Enniscorthy, when what did she see walking among the tubs of butter but Fir Dhorocha, very hungry-looking, and taking a scoop out of one tub and out of another. "Oh, sir," says she, very foolish, "I hope your lady is well, and the young heir" "Pretty well, thank you," says he, rather frightened like. "How do I look in this new suit?" says he, getting to one side of her. "I can't see you plain at all, sir," says she. "Well, now," says he, getting round her back to the other side. "Musha, indeed, sir, your coat looks no better nor a withered dock-leaf." "Maybe, then," says he, "it will be different now," and he struck the eye next him with a switch.
+pp.91-4
 
-Begonies, she never saw a stim after with that one till the day of her death.
+THE FAIRY'S MIDWIFE. `[Mrs. Bray, The Borders of the Tamar and the Tavy, vol i. p. 174.]`
+
+Once upon a time there was, in this celebrated town, a Dame Somebody. I do not know her name. All I with truth can say is that she was old, and nothing the worse for that; for age is, or ought to be, held in honour as the source of wisdom and experience. Now this good old woman lived not in vain, for she had passed her days in the useful capacity of a nurse; and as she approached the term of going out of the world herself, she was still useful in her generation by helping others into it — she was in fact the *Sage-femme* of the village.
+
+One night about twelve o'clock in the morning, as the good folks say who tell the tale. Dame Somebody had just got comfortably into bed, when rap, rap, rap, came on her cottage door, with such bold, loud, and continued noise, that there was a sound of authority in every individual knock. Startled and alarmed by the call, she arose, and soon learnt that the summons was a hasty one to bid her attend on a patient who needed her help. She opened her door; when the summoner appeared to be a strange, squint-eyed, little, ugly, old fellow, who had a look, as she said, very like a certain dark personage, who ought not at all times to be called by his proper name. Not at all prepossessed in favour of the errand by the visage of the messenger, she nevertheless could not, or dared not, resist the command to follow him straight and attend upon "his wife."
+
+"Thy wife!" thought the good dame: "Heaven forgive me; but as sure as I live I be going to the birth of a little divel." A large coal-black horse, with eyes like balls of fire, stood at the door. The ill-looking old fellow, without more ado, whisked her up on a high pillion in a minute, seated himself before her, and away went horse and riders, as if sailing through the air rather than trotting on the ground. How Dame Somebody got to the place of her destination she could not tell; but it was a great relief to her fears when she found herself set down at the door of a neat cottage, saw a couple of tidy children, and remarked her patient to be a decent-looking woman, having all things about her fitting the time and the occasion.
+
+A fine bouncing babe soon made its appearance, and seemed very bold on its entry into life, for it gave the good dame a box on the ear, as, with the coaxing and cajolery of all good old nurses, she declared the "sweet little thing to be very like its father." The mother said nothing to this, but gave nurse a certain ointment with directions that she should "strike the child's eyes with it." Now you must know that this word "strike," in our Devonshire vocabulary, does not exactly mean to give a blow, but rather what is opposite, to "rub, smooth down, or touch gently." The nurse performed her task, though she thought it an odd one; and as it is nothing new that old nurses are generally very curious, she wondered what it could be for; and thought that, as no doubt it was a good thing, she might just as well try it upon her own eyes as those of the baby, so she made free to strike one of them by way of trial; when, oh ye powers of fairyland, what a change was there! The neat but homely cottage, and all who were in it, seemed all on a sudden to undergo a mighty transformation, some for the better, some for the worse. The new-made mother appeared as a beautiful lady attired in white ; the babe was seen wrapped in swaddling clothes of a silvery gauze. It looked much prettier than before, but still maintained the elfish cast of the eye, like its redoubted father; whilst two or three children more had undergone a metamorphosis as uncouth as that recorded by Ovid when the Cercopians were transformed into apes. For there sat on either side of the bed's head a couple of little flat-nosed imps, who with "mops and mows," and with many a grimace and grin, were "busied to no end" in scratching their own polls, or in pulling the fairy lady's ears with their long and hairy paws. The dame, who beheld all this, fearing she knew not what in the house of enchantment, got away as fast as she could without saying one word about " striking " her own eye with the magic ointment, and what she had beheld in consequence of doing so. The sour-looking old fellow once more handed her up on the coal-black horse, and sent her home in a whip-sissa. Now what a whip-sissa means is more than I can tell, though I consider myself to be tolerably well acquainted with the tongues of this "West Countrie." It may mean perhaps, "Whip, says he," in allusion to some gentle intimation being feelingly given by the rider to the horse's sides with a switch, that he should use the utmost despatch. Certain it is, the old woman returned home much faster than she went. But mark the event. On the next market-day, when she sallied forth to sell her eggs, whom should she see but the same wicked-looking old fellow, busied, like a rogue as he was, in pilfering sundry articles from stall to stall. "Oh! oh!" thought the dame, "have I caught you, you old thief? But I'll let you see I could set Master Mayor and the two town constables on your back, if I chose to be telling." So up she went, and with that bold, free sort of air which persons who have learnt secrets that ought not to be known are apt to assume when they address any great rogue hitherto considered as a superior, she inquired carelessly after his wife and child, and hoped both were as well as could be expected.
+
+"What!" exclaimed the old pixy thief, "do you see me to-day?"
+
+"See you! to be sure I do, as plain as I see the sun in the skies; and I see you are busy into the bargain."
+
+"Do you so?" cried he. "Pray with which eye do you see all this?"
+
+"With the right eye, to be sure."
+
+"The ointment! the ointment!" exclaimed the old fellow. "Take that for meddling with what did not belong to you — you shall see me no more,"
+
+He struck her eye as he spoke, and from that hour till the day of her death she was blind on the right side, thus dearly paying for having gratified an idle curiosity in the house of a pixy.
+
+---
+
+---
+
+https://archive.org/details/b33292048/page/n3/mode/2up
+
+Cambrian superstitions, comprising ghosts, omens, witchcraft, traditions, &c. To which are added, a concise view of the manners and customs of the Principality, and some fugitive pieces
+by Howells, W. (William), active 1831
+
+Publication date 1831
+
+
+---
+
+
 
 ---
 https://archive.org/details/lilacfairybook00lang/page/54/mode/2up?q=nurse
@@ -595,46 +783,7 @@ Friends, she never saw a glimmer after with that one till the day of her death.
 
 ![How John got his wife back from the Fairies](images/wife_back_from_fairies_lang_lilac.png)
 
-
-
----
-
-https://archive.org/details/cu31924092530645/page/n5/mode/2up vol 1
-https://archive.org/details/cu31924092530652/page/n5/mode/2up vol 2
-
-Celtic folklore : Welsh and Manx
-by Rhys, John, Sir, 1840-1915
-
-Publication date 1901
-
-https://archive.org/details/cu31924092530645/page/n113/mode/2up
-vol I, p63
-
-Next comes a story about a midwife who lived at Corwrion. 'One of the fairies called to ask her to come and attend on his wife. Off she went with him, and she was astonished to be taken into a splendid palace. There she continued to go night and morning to dress the baby for some time, until one day the husband asked her to rub her eyes with a certain ointment he offered her. She did so, and found herself sitting on a tuft of rushes, and not in a palace. There was no baby: all had disappeared. Some time afterwards she happened to go to the town, and whom should she there see busily buying various wares, but the fairy on whose wife she had been attending. She addressed him with the question, "How are you to-day?" Instead of answering her, he asked, "How do you see me?" "With my eyes," was the prompt reply. "Which eye?" he asked. "This one," said the woman, pointing to it; and instantly he disappeared, never more to be seen by her.' This tale, as will be seen on comparison later, is incomplete, and probably incorrect.
-
-vol I, p98-100
-https://archive.org/details/cu31924092530645/page/n149/mode/2up
-
-A tale which partially reminds one of that given by Dewi Glan Ffrydlas respecting the Corwrion midwife, referred to at p. 63 above, was published by Mr. W. Jones in the fourth volume of the Brython, p. 251: freely rendered into English, it runs thus:—
-
-'Once on a time, when a midwife from Nanhwynan had newly got to the Hafodyd Brithion to pursue her calling, a gentleman came to the door on a fine grey steed and bade her come with him at once. Such was the authority with which he spoke, that the poor midwife durst not refuse to go, however much it was her duty to stay where she was. So she mounted behind him, and off they went, like the flight of a swallow, through Cwmttan, over the Bwlch, down Nantyr Aran, and over the Gader to Cwm Hafod Ruffyd, before the poor woman had time even to say Oh! When they reached there, she saw before her a magnificent mansion, splendidly ht up with such lamps as she had never seen before. They entered the court, and a crowd of servants in expensive liveries came to meet them, and she was at once led through the great hall into a bedchamber, the like of which she had never seen. There the mistress of the house, to whom she had been fetched, was awaiting her. The midwife got through her duties successfully, and stayed there until the lady had completely recovered, nor had she spent any part of herlife so merrily, for there nought but festivity went on day and night ; dancing, singing, and endless rejoicing reigned there. But merry as it was, she found that she must go, and the nobleman gave her a large purse, with the order not to open it until she had got into her own house. Then he bade one of his servants escort her the same way that she had come. When she reached home she opened the purse, and, to her great joy, it was full of money: she lived happily on those earnings to the end of her life.'
-
-With this ending of the story, one should contrast Dewi Glan Ffrydlas' tale to which I have already alluded; and I may here refer to Mr. Sikes' British Goblins, pp. 86-8, for a tale differing from both Dewi's and Jones', in that the fairies are there made to appear as devils to the nurse, who had accidentally used a certain ointment which she was not to place near her own eyes. Instead of being rewarded for her services she was only too glad to be deposited anyhow near her home. ' But,' as the story goes on to relate, 'very many years afterwards, being at a fair, she saw a man stealing something from a stall, and, with one corner of her eye, beheld her old master pushing the man's elbow. Unthinkingly she said, "How are you, master? how are the children?" He said, "How did you see me?" She answered, "With the corner of my left eye." From that moment she was bUnd of her left eye, and lived many years with only her right.' Such is the end of this tale given by Mr. Sikes.
-
-'But the fair family did not,' Mr. William Jones goes on to say, 'always give mortals the means of good living : sometimes they made no little fun of them. Once on a time the Drws y Coed man was going home from Bedgelert Fair, rather merry than sad, along the old road over the Gader, when he saw, on coming near the top of the Gader, a fine, handsome house near the road, in which there was a rare merrymaking. He knew perfectly well that there was no such a building anywhere on his way, and it made him think that he had lost his way and gone astray; so he resolved to turn into the house to ask for lodgings, which were given him. At once, when he entered, he took it to be a nuptial feast [neithior) by reason of the jollity, the singing, and the dancing. The house was full of young men, young women, and children, all merry, and exerting themselves to the utmost. The company began to disappear one by one, and he asked if he might go to bed, whereupon he was led to a splendid chamber, where there was a bed of the softest down with snowwhite clothes on it. He stripped at once, went into it, and slept quietly enough till the morning. The first thing to come to his mind when he lay half asleep, half awake, was the jollity of the night before, and the fact of his sleeping in a splendid chamber in the strange house. He opened his eyes to survey his bedroom, but it was too wide: he was sleeping on the bare swamp, with a clump of rushes as his pillow, and the blue sky as his coverlet.'
-
-
----
-
-https://archive.org/details/b33292048/page/n3/mode/2up
-
-Cambrian superstitions, comprising ghosts, omens, witchcraft, traditions, &c. To which are added, a concise view of the manners and customs of the Principality, and some fugitive pieces
-by Howells, W. (William), active 1831
-
-Publication date 1831
-
-
----
+--
 
 
 https://archive.org/details/folkloreofwestmi00daviuoft/folkloreofwestmi00daviuoft/page/134/mode/2up?q=midwife
@@ -703,69 +852,6 @@ XL. FAIRY OINTMENT.
 
 ---
 
-https://archive.org/details/bookofwestbeingi00bari/page/188/mode/2up?q=ointment
-A Book of the West: Being an Introduction to Devon and Cornwall
-by Sabine Baring-Gould
-1890
-
-pp187-193
-
-What I am now about to mention is a story I have received from Mr. T. W. Whiteway, brother of Sir William Whiteway; he was brought up on the confines of the moor. The story is of the Fairies' ointment, as Nurse Warren told it.
-
-"You have many times asked me to tell you about the Fairies' ointment. Now I don't suppose you will believe me, but I have heard Granny say that a very long time ago there were Pixies scattered all over the country. The Pixies were good and kind to some people, but to others they would play all sorts of tricks. You must never spy on a Pixy, for they would be sure to pay you out if you did. Now the story I am going to tell you was told to me by my grandmother, who died in her eighty-seventh year, and she heard it from her mother. So this all happened before there was any King George. Granny used to say that she believed it was when there was a King Henry, who had a number of wives.
-
-"There was a wonderfully clever midwife, called Morada, who lived a little way out of Holne village, close to Dartmoor. You know in those days doctors were not so plentiful as they be now, nor so clever; so the people all around used to send for Nurse Morada. Now she was a widow woman and a foreigner. Folks did say she was a witch, and a sight of money she got, for folks was afraid to offend her.
-
-"One night just before harvest Nurse had gone to bed early, for it was a dark, dismal evening, likely for a thunderstorm, and Nurse was much afraid of lightning.
-
-"She had not been long asleep when she was awakened by such a clatter at the door as if it was  being broken down, and it was thundering and lightning frightful. Nurse was greatly frightened, but lay still, hoping the knocking would cease, but it only got worse and worse. At last she rose and opened the window, when she saw by the lightning flashing, which almost blinded her, a little man sitting on a big horse, hammering at the door.
-
-"'Come down, woman,' he said; 'my wife is ill, and wants you.'
-
-"'Do you think I'm mad?' she called out. 'I would not go out for the queen herself such a night as this,' and was going to shut the window.
-
-"'Stop!' he cried out; 'will you come with me for ten golden guineas?'
-
-"Now this was a sight of money in those days, and Nurse was very greedy for money; so she told the man to wait, and she would be dressed as soon as possible.
-
-"The man jumped down from his horse, and pointing to a shed said two words in a foreign language, whereupon the horse cleverly walked in out of the rain. The man entered the house, and when Nurse saw him she was that frightened she almost fainted away. He was not old at all, but a very handsome young man. He was small, to be sure, but he looked a real little gentleman, with such beautiful fine clothes, and eyes that fairly looked through you. He laughed to see how frightened the woman was.
-
-"'Now listen to me,' he said in a voice as sweet as a thrush's, 'and be sure that if you do what I tell you, and never speak of what you may see or hear, no harm will happen to you, and I will give you ten guineas now and ten more when you return home. If you keep your promise all will be well, but if you do not I will punish you very severely. Now to show you what power I have, I tell you that although you say that you are a widow and call yourself Morada, that is not your name, for you never were married. Shall I tell you some more of your past life?'
-
-"'No, sir, no!' she called out. 'I will do all that you tell me.'
-
-"'That's right and sensible. Now the first thing I do is to blindfold you, and you must not try to take off the bandage from your eyes. Take these ten guineas and put them away.'
-
-"This the woman did, and hid them behind the mantelpiece. They both left the house, the woman locking the door. He took the woman behind him on the horse, and tied her with a strap round her waist. Away went the horse like the wind across the moor; Nurse thought from the time they took they must have gone pretty near as far as Lydford. When he got off from the horse he made sure that she had not moved the handkerchief. Unlocking a door, he led her up through a long passage, and, unlocking another door, pulled her inside.
-
-"'Now take off your handkerchief,' said he, and she found herself in a queer-looking place all lighted up with beautiful lamps. A little squint-eyed man came and said something the Nurse could not understand. The little gentleman then hurried off Nurse into another room, where, lying on a beautiful velvet bed, was the prettiest little lady anybody ever did see.
-
-"Well, before many hours there was a sweet little dot of a boy born. Then the gentleman brought the Nurse a box of ointment and told her to rub some over the baby's eyelids. When nurse had done so she put the box in her pocket and forgot all about it. This got her into great trouble, as I'll tell you about presently. Nurse stayed some days with the little lady, and got to love her very much, she was that kind and good. The little lady liked Nurse, and told her that she herself was a princess; that her husband was a prince; that they lived in a beautiful country where there was no frost or snow, and that they were fairies, not Pixies. Her father was the king of all the fairies, and he was very angry because she ran away and married the prince, who was not of so high a rank as she was, although he was her cousin, and that to punish them he sent 'em both to Dartmoor for a year. That time was now up, and they were all going home in a few days.
-
-"The fairy prince took Nurse to her home blindfolded on the big horse, in the same way as he brought her there, and on parting gave her the other ten guineas as he had promised. The next morning Nurse was in a great quandary when she found the box of ointment in her pocket. 'Well,' she thought, 'he will be sure to come for this ointment, as they will all be going away to-morrow or the next day.'
-
-"Nurse stayed up all that night, but the prince did not come, and the next day and night passed without seeing him. Then Nurse felt certain that they were all gone, and had forgotten the ointment, and she could scarcely eat, drink, or sleep for thinking what virtue there might be in it.
-
-"When the fourth night had passed without his coming Nurse could wait no longer, but opened the box and rubbed in a little of the ointment on her left eye ; but she only felt the eye prick and sting a bit, so the woman thought the ointment must be only good for fairy babies, and she went to bed quite satisfied.
-
-"The next morning she thought she must have died and awakened up in another world. Everything about her looked as if it had grown ever so much. The cat, which always slept in her room, looked as large as a great dog. Then remembering the ointment, she covered her left eye, and all was as it used to be. The woman now got very frightened, and started off after breakfast to go to Ashburton to consult a friend of hers, a Mr. Stranger, who was very clever about herbs.
-
-"As she walked along she would now and again cover up her right eye, and then everything would look so grand and beautiful; and looking up, she saw stars, although the sun was shining brightly, she could see that wonderfully far off. Now, she had not gone very far when suddenly the fairy prince, sitting on his horse, appeared before her.
-
-"'Good morning, sir,' she said, dropping a curtsy.
-
-"'Ah!' he cried, 'the ointment! Which eye do you see me with?'
-
-"'The left, sir.'
-
-"Instantly she felt something like a blow on that eye. The fairy prince vanished, and appeared again as the little man she had first seen.
-
-"'Nurse,' said he, 'you are blinded in your left eye as a punishment for having used the ointment, I am sorry, for you were kind to my wife. Here is a present she has sent you.'
-
-"He then gave her ten guineas, and she returned him the box. He then vanished. This is all the story that Granny told me about the fairy ointment."
-
----
-
 Northern mythology, comprising the principal popular traditions and superstitions of Scandinavia, north Germany, and the Netherlands
 by Thorpe, Benjamin, 1782-1870, comp
 
@@ -793,71 +879,4 @@ pp. 175-6
 *The Nurse and the Ointment.*— "I used to hear about a Zennor girl who came to Newlyn as nurse to the child of a gentleman living at Zimmerman-Cot. The gentleman warned her never to touch a box of ointment which he guarded in a special room, nor even to enter that room; but one day in his absence she entered the room and took some of the ointment. Suspecting the qualities of the ointment, she put it on her eyes with the wish that she might see where her master was. She immediately found herself in the higher part of the orchard amongst the pixies, where they were having much *junketing* (festivity and dancing); and there saw the gentleman whose child she had nursed. For a time she managed to evade him, but before the *junketing* was at an end he discovered her and requested her to go home; and then, to her intense astonishment, she learned that she had been away twenty years, though she was unchanged. The gentleman scolded her for having touched the ointment, paid her wages in full, and sent her back to her people. She always had the one regret, that she had not gone into the forbidden room at first.'
 
 
----
-??
-
-
-??
-
---
-
-
-https://archive.org/details/cu31924092530496/page/n153/mode/2up?q=ointment
-
-
-The Denham tracts: a collection of folklore : reprinted from the original tracts and pamphlets printed by Mr. Denham between 1846 and 1859
-by Denham, Michael Aislabie, d. 1859
-
-Publication date 1892
-
-Vol. II
-
-pp138-9
-
-A fairy man and woman once entrusted the up-bringing of one of their offspring to a man in Netherwitton. He received along with it a box of ointment, with which he was enjoined regularly to rub its eyes, but he was to be careful not to touch his own with it, otherwise he would incur a heavy penalty. Curiosity overcame his scruples, and he anointed one of his eyes with the ointment without experiencing any inconvenience. Having gone to Long Horsley fair, he saw both the man and woman moving about among the fair people, and thinking there could be no harm in it he accosted them. Surprised to be thus recognised, they inquired with what eye he saw thera, and he told them, whereupon they blew into his eye and it became blinded. The child was removed before his return home.
-
-A midwife in Northumberland was one night summoned by a man to go out and perform her office to a sufferer "in the straw," to which she consented. Mounted on horseback behind him, she was carried with incredible rapidity over an immense space to a cottage, where the woman was soon after delivered of a healthy child. An attendant brought to the midwife ointment in a box, with which she was to anoint the child all over, but she was to beware of putting any of it on her own eyes. Involuntarily, while executing her task, she happened to draw her fingers across her eyes to remove some obstruction of sight, and immediately her eyes were opened and she saw that she was not in a cottage at all, but in the midst of a wild waste, where all the fairy population was assembled round her. She had the presence of mind not to betray any alarm, and having done all that was required, she was conveyed back to her dwelling with the same dispatch with which she had been taken from it. Subsequently, being at a market, she observed among the crowd the man and woman with whom she had formed this singular acquaintance, as well as other agents invisible to man, passing from stall to stall and purloining bits of butter and other edibles. She addressed them and asked them their reasons for these proceedings. " Which eye do you see us with ? " asked they. "With both," said she; and they blow into them and both were blinded. Of this and the previous story there are many variations.
-
-
-https://archive.org/details/tracesofelderfai02woodiala/page/12/mode/2up?q=ointment
-
-Traces of the elder faiths in Ireland: a folklore sketch: a handbook of Irish pre-Christian traditions
-by Wood-Martin, W. G. (William Gregory), 1847-1917
-
-Publication date 1901
-
-p12
-
-... Having rubbed a special ointment on the eyelids, the fairies will become visible as the fairy troop sweeps past the spot, and the gazer be enabled to recognise the prisoner by a peculiarity of dress, or by some token. ...
-
-p19
-
-The picturesque and beautiful appearance of the "wee folk," their splendid halls and magnificent feasts, are, it is alleged, mere illusions. If you procure a box of fairy ointment, and rub it on the eyelids, you instantly see everything as it really is. The finely-dressed little people are wizened and deformed imps, the splendid halls are damp earth-floored caverns, the sumptuous feasts are a meagre supply of squalid food, and their treasure chests are filled, not with gold, but with mere heaps of withered leaves and other rubbish.
-
-
-
-
----
-Thomas Keightley, The Fairy Mythology, Originally in two volumes, then in a single volume eg 
-
-https://archive.org/details/fairymythologyi06keiggoog/page/300/mode/2up?q=ointment The fairy mythology
-by Keightley, Thomas, 1789-1872
-
-Publication date 1860 : A NEW EDITION, REVISED AND GREATLY ENLARGED.
-
-p301-303
-
-The Pixy Labour
-
-One night, about twelve o'clock in the morning, as the good folks say, who tell this good tale, Dame ———— the *sage femme* of Tavistock, had just got comfortably into bed, when rap, rap, rap, came on her cottage door, with such bold and continued noise, that there was a sound of authority in every individual knock. Startled and alarmed by the call, she arose from her bed, and soon learnt that the summons was a hasty one to bid her attend on a patient who needed her help. She opened her door, when the summoner appeared to be a strange, squint-eyed, little, ugly old fellow, who had a look, as she said, very like a certain dark personage, who ought not at all times to be called by his proper name. Not at all prepossessed in favour of the errand by the visage of the messenger, she nevertheless could not, or dared not, resist the command to follow him straight, and attend on "his wife."
-
-"Thy wife!" thought the good dame; "Heaven forgive me, but aa sure as I live I be going to the birth of a little divil." A large coal-black horse, with eyes like balls of fire, stood at the door. The ill-looking old fellow, without more ado, whisked her up on a high pillion in a minute, seated himself before her, and away went horse and riders as if sailing through the air rather than trotting on the ground. How she got to the place of her destination she could not tell; but it was a great relief to her fears when she found herself set down at the door of a neat cottage, saw a couple of tidy children, and remarked her patient to be a decent looking woman, having all things about her fitting the time and occasion. A fine bouncing babe soon made its appearance, who seemed very bold on its entry into life, for it gave the good dame a box on the ear, as, with the coaxing and cajolery of all good old nurses, she declared the "sweet little thing to be very like its father." The mother said nothing to this, but gave nurse a certain ointment, with directions that she should strike (i. e. *rub*) the child's eyes with it. The nurse performed her task, considering what it could be for. She thought that, as no doubt it was a good thing, she might just as well try it upon her own eyes as well as those of the baby; so she made free to strike one of them by way of trial, when, O ye powers of fairy land! what a change was there!
-
-The neat, but homely cottage, and all who were in it, seemed all on a sudden to undergo a mighty transformation; some for the better, some for the worse. The newmade mother appeared as a beautiful lady attired in white; the babe was seen wrapped in swaddling clothes of a silvery gauze. It looked much prettier than before, but still maintained the elfish cast of the eye, like his father, whilst two or three children more had undergone a strange metamorphosis. For there sat on either side the bed's hem, a couple of little flat-nosed imps, who with "mops and mows", and with many a grimace and grin, were busied to no end in scratching their own polls, or in pulling the faiiy lady's ears with their long and hairy paws. The dame who beheld all this, fearing she knew not what, in the house of enchantment, got away as fast as she could, without saying one word about *striking* her own eye with the magic ointment and what she had seen. The sour-looking old feUow once more handed her up on the coal-black-horse, and sent her home in a *whip sissa* `["Whip says he", as Mrs, Bray conjectures.]` much faster than she came.
-
-On the next market-day, when she sallied forth to sell her eggs, she saw the same old fellow busy pilfering sundry articles from stall to stall, and going up to mm she enquired about his wife and child. "What!" exclaimed he, "do you see me to-day?" "See you! to be sure I do, as plain as I see the sun in the sky; and I see you are busy, too." "Do you?" says he, "and pray with which eye do you see all this?" ""With the right eye to be sure."
-
-"The ointment! the ointment!" cried he. "Take that, for meddliag with what did not belong to you; you shall see me no more."
-
-He struck her eye as he spoke, and from that hour till the day of her death she was blind of that eye.
 
