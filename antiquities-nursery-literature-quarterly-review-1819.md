@@ -239,17 +239,17 @@ of his giants rest upon good romance authority: or, to speak
 
 'So spake the son of the Chan, and the children ran, but when they came back they could not find the cap, for he had placed it on the head of his companion, and they sought for it in vain. -
 
-* And the son of the Chan and his companion travelled onwards, and they came to a forest wherein they met many Tchadkurrs who were quarrelling with each other. "Why do you thus dispute?" said they.
+And the son of the Chan and his companion travelled onwards, and they came to a forest wherein they met many Tchadkurrs who were quarrelling with each other. "Why do you thus dispute?" said they.
 
-* It is I, exclaimed each Tchadkurr, to whom these boots belong.
+"It is I", exclaimed each Tchadkurr, "to whom these boots belong."
 
-« What is the use of the boots?
+"What is the use of the boots?"
 
-'© He who wears these boots," answered the Tchadkurrs, " is conveyed to any country wherein he wishes himself."
+"He who wears these boots," answered the Tchadkurrs, "is conveyed to any country wherein he wishes himself."
 
-* « Now," unswerred the son of the Chan, " go all of you that way, and he who first runs hither shall obtain the boots."
+"Now," answered the son of the Chan, "go all of you that way, and he who first runs hither shall obtain the boots."
 
-* And the Tchadkurrs ran their race accordingly. But the Chan's son had concealed the boots in the bosom of his companion, who at the same time had the cap upon his head. And the Tchadkurrs sought for the boots, but they found them not, and they went away.'—Second Relation of Ssidi Kur, 
+"And the Tchadkurrs ran their race accordingly. But the Chan's son had concealed the boots in the bosom of his companion, who at the same time had the cap upon his head. And the Tchadkurrs sought for the boots, but they found them not, and they went away.'—Second Relation of Ssidi Kur, 
 
 more correctly, Jack's history is a popular and degraded version of the traditions upon which our earliest romances are founded. 'The Mount of Cornwall,' which was kept by a large and monstrous Giant, is St. Michael's Mount; and the Giant Corinoran, whom Jack dispatched there, and who 'was eighteen feet high and about three yards round, is the same who figures in the romance of Tristan. It was by killing this Corimoran, (the Corineeus probably of Jeffery of Monmouth and the Brut,) that Jack acquired his triumphal epithet of the Giant-Killer.*
 
@@ -257,15 +257,15 @@ In order that students of British gigantology may not be misled in their researc
 
 Of rarer occurrence than the heroic narratives to which our attention has hitherto been directed, is the 'history of Friar Rusu the devil's brother.' 'The friar was known to Reginald Scott before the history of his pranks was published. Scott ranks him in the same category with Robin Goodfellow, so that Robin and the Friar were alike the heroes of popular and traditionary tales. There is an ancient Danish poem, which treats 'of brother Rus, how he did service as cook and monk in the monastery of Esserom.' There is reason to suppose that the English story-book and the Danish history are derived from one common original, well known on the continent in times previous to the reformation, for, as Bruno Seidelius sings,
 
-* Quis non legit, que Frater Rauschius egit?"
+"Quis non legit, que Frater Rauschius egit?"
 
 It is worthy of remark that the Danish Rus is made to travel
 
 through the air to England, where he possesses the king's daughter.
 
-* « Now when the magistrates who employed John heard that the job was over, they sent for him, declaring he should henceforth be called "Jack the Giant Killer," and in honour thereof presented him with a sword and embroidered belt, upon which these words were written in letters of gold:—
+Now when the magistrates who employed John heard that the job was over, they sent for him, declaring he should henceforth be called "Jack the Giant Killer," and in honour thereof presented him with a sword and embroidered belt, upon which these words were written in letters of gold:—
 
-* Here's the valiant Cornish man, Who slew the giant Corinoran.'
+"Here's the valiant Cornish man, Who slew the giant Corinoran."
 
 In the last London edition of Jack the Giant Killer, the printer's devil who corrected the sheets has arbitrarily chosen to read Cormoran. We have not scrupled to réstore the true reading, although the spurious reading gives a smoother verse. According to the Brat it is Corineus who kills the giant, but as he was a giant himself, tradition has only changed sides, .
 
