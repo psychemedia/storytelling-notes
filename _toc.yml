@@ -26,6 +26,8 @@ parts:
 - caption: Gipsy Tales
   chapters:
   - file: devils-violin
+  - file: macpherson
+  - file: raggle_taggle_gypsy
 - caption: Show Outlines
   chapters:
   - file: unforeseen-nonsense
@@ -38,8 +40,6 @@ parts:
   - file: thirteen-precious-things
   - file: molly-whuppie
   - file: hand-of-glory
-  - file: macpherson
-  - file: raggle_taggle_gypsy
   - file: brother_jucundus
   - file: mr-fox
 - caption: Legends As Told
