@@ -1406,6 +1406,38 @@ The next morning, Christmas morning, I called at the picturesque roadside home o
 
 *A Midwife s Strange Experience.*— 'A strange man took a nurse to a place where a baby boy was born. After the birth, the man set out on a table two cakes, one of them broken and the other one whole, and said to the nurse: "Eat, eat; but don't eat of the cake which is broken nor of the cake which is whole." And the nurse said: "What in the name of the Lord am I going to eat? " At that all the fairies in the house disappeared; and the nurse was left out on a mountain-side alone.'
 
+
+https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/140/mode/2up?q=nurse
+
+p.139-40
+
+Testimony from Two Anglesey Centenarians
+
+Perhaps nowhere else in Celtic lands could there be found as witnesses two sisters equal in age to Miss Mary Owen and Mrs. Betsy Thomas, in their hundred and third and hundredth year respectively (in 1909). They live a quiet life on their mountain-side farm overlooking the sea, in the beautiful country near Pentraeth, quite away from the rush and noise of the great world of commercial activity; and they speak only the tongue which their prehistoric Kimric ancestors spoke before Roman, or Saxon, or Norman came to Britain. Mr. W. Jones, of Plas Tinon, their neighbour, who knows English and Welsh well, acted as interpreter. The elder sister testified first:—
+
+...
+
+*Fairy Midwife and Magic Oil.*— 'The *Tylwyth Teg* had a kind of magic oil, and I remember this story about it:— A farmer went to Llangefni to fetch a woman to nurse his wife about to become a mother, and he found one of the *Tylwyth Teg*, who came with him on the back of his horse. Arrived at the farm-house, the fairy woman looked at the wife, and giving the farmer some oil told him to wash the baby in it as soon as it was born. Then the fairy woman disappeared. The farmer followed the advice, and what did he do in washing the baby but get some oil on one of his own eyes. Suddenly he could see the *Tylwyth Teg*, for the oil had given him the second-sight. Some time later the farmer was in Llangefni again, and saw the same fairy woman who had given him the oil. "How is your wife getting on?" she asked him. "She is getting on very well," he replied. Then the fairy woman added, "Tell me with which eye you see me best." "With this one," he said, pointing to the eye he had rubbed with the oil. And the fairy woman put her stick in that eye, and the farmer never saw with it again.' `[This is the one tale I have found in North Wales about a midwife and fairies — a type of tale common to West Ireland, Isle of Man, Cornwall, and Brittany, but in a reverse version, the midwife there being (as she is sometimes in Welsh versions) one of the human race called in by fairies. If evidence of the oneness of the Celtic mind were needed we should find it here (cf. pp. 50, 54, 127, 175, 182, 205). There are in this type of fairy-tale, as the advocates of the Pygmy Theory may well hold, certain elements most likely traceable to a folk-memory of some early race, or special class of some early race, who knew the secrets of midwifery and the use of medicines when such knowledge was considered magical. But in each example of this midwife story there is the germ idea — ^no matter what other ideas cluster round it — that fairies, like spirits, are only to be seen by an extrahuman vision, or, as psychical researchers might say, by clairvoyance.]`
+
+
+https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/180/mode/2up?q=nurse
+
+
+p181-2
+
+*[VI. IN CORNWALL]*
+
+Testimony from a Sennen Cove Fisherman
+
+John Gilbert Guy, seventy-eight years old, a retired fisherman of Sennen Cove, offers very valuable testimony, as follows:—
+
+...
+
+*Danger of Seeing the 'Little People'*—'I heard that a woman set out water to wash her baby in, and that before she had used the water the small people came and washed their babies in it. She didn't know about this, and so in washing her baby got some of the water in her eyes, and then all at once she could see crowds of little people about her. One of them came to her and asked if she was able to see their crowd, and when she said "Yes," the little people wanted to take her eyes out, and she had to clear away from them as fast as she could.'
+
+
+
+
 https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/204/mode/2up
 
 The fairy-faith in Celtic countries
@@ -1420,4 +1452,3 @@ pp. 204-5
 The following midwife story, as told by J. M. Comault, of Gouray, in 1881, is quite a parallel to the one we have recorded (on p. 54) as coming from Grange, Ireland:—
 
 A midwife who delivered a *Margot la fée* carelessly allowed some of the fairy ointment to get on one of her own eyes. The eye at once became clairvoyant, so that she beheld the *fées* in their true nature. And, quite like a midwife in a similar story about the *fées des houles*, this midwife happened to see a *fée* in the act of stealing, and spoke to her. Thereupon the *fée* asked the midwife with which eye she beheld her, and when the midwife indicated which one it was, the *fée* pulled it out. `[Cf. Sebillot, Traditions et superstitions de la Haute-Bretagne, i. 1]`
-
