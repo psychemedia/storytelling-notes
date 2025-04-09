@@ -1,6 +1,45 @@
 # The Fairy Midwife
 
-*The Fairy Midwife*, also often referred to as *The Fairy Ointment* or *Fairy Nurse* *(Aarne-Thompson-Uther (ATU) type 476\*)* is a widely collectly, and frequently localised, tale of dealings with the fairies. It's liat at night, and there's a knock at the door. A midwife, or nurse, is called upon to help in the delivery or care of a fairy child. As part of their duties, thet are told to wipe a special ointement over the child's eyes. Mistakenly getting some of the ointment into their own eye, the midwife/nurse becomes capable of seeing into the fairy otherworld from that eye. After unwittingly revealing herself to be so enchanted, the midwife/nurse is punished with the loss of the glamoury eye.
+In an introduction to the fairy lore in Wales given in W. Y. Evans-Wentz's *The fairy-faith in Celtic countries*, 1911, by Sir John Rhys, we find a brief categorisation of the more common tales types, the fifth of which describes a tale in which *"[a] fairy husband procur[es] for his wife the attendance of a human midwife"*.
+
+```{admonition} The fairy faith in Wales, 1911
+:class: dropdown
+
+https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/134/mode/2up
+
+W. Y. (Walter Yeeling) Evans-Wentz, *The fairy-faith in Celtic countries*, 1911
+
+p135-7
+
+V. IN WALES
+
+Introduction by The Right Hon. Sir John Rhys, M.A.; D.Litt., F.B.A., Hon. LL.D. of the University of Edinburgh; Professor of Celtic in the University of Oxford; Principal of Jesus College; author of Celtic Folklore, Welsh and Manx, &c.
+
+The folk-lore of Wales in as far as it concerns the Fairies consists of a very few typical tales, such as:—
+
+(i) The Fairy Dance and the usual entrapping of a youth, who dances with the Little People for a long time, while he supposes it only a few minutes, and who if not rescued is taken by them.
+
+(2) There are other ways in which recruits may be led into Fairyland and induced to marry fairy maidens, and any one so led away is practically lost to his kith and kin, for even if he be allowed to visit them, the visit is mostly cut short in one way or another.
+
+(3) A man catches a fairy woman and marries her. She proves to be an excellent housewife, but usually she has had put into the marriage-contract certain conditions which, if broken, inevitably release her from the union, and when so released she hurries away instantly, never to return, unless it be now and then to visit her children. One of the conditions, especially in North Wales, is that the husband should never touch her with iron. But in the story of the Lady of Llyn y Fan Each, in Carmarthenshire, the condition is that he must not strike the wife without a cause three times, the striking being interpreted to include any slight tapping, say, on the shoulder. This story is one of the most remarkable on record in Wales, and it recalls the famous tale of Undine, published in German many years ago by De La Motte Fouqué. It is not known where he found it, or whether the people among whom it was current were pure Germans or of Celtic extraction.
+
+(4) The Fairies were fond of stealing nice healthy babies and of leaving in their place their own sallow offspring. The stories of how the right child might be recovered take numerous forms ; and some of these stories suggest how weak and sickly children became the objects of systematic cruelty at the hands of even their own parents. The changeling was usually an old man, and many were the efforts made to get him to betray his identity.
+
+(5) There is a widespread story of the fairy husband procuring for his wife the attendance of a human midwife. The latter was given a certain ointment to apply to the baby's eyes when she dressed it. She was not to touch either of her own eyes with it, but owing to an unfailing accident she does, and with the eye so touched she is enabled to see the fairies in their proper shape and form. This has consequences: The fairy husband pays the midwife well, and discharges her. She goes to a fair or market one day and observes her old master stealing goods from a stall, and makes herself known to him. He asks her with which eye she sees him. She tells him, and the eye to which he objects he instantly blinds.
+
+(6) Many are the stories about the fairies coming into houses at night to wash and dress their children after everybody is gone to bed. A servant-maid who knows her business leaves a vessel full of water for them, and takes care that the house is neat and tidy, and she then probably finds in the morning some fairy gift left her, whereas if the house be untidy and the water dirty, they will pinch her in her sleep, and leave her black and blue.
+
+(7) The fairies were not strong in their household arrangements, so it was not at all unusual for them to come to the farm-houses to borrow what was wanting to them.
+
+In the neighbourhood of Snowdon the fairies were believed to live beneath the lakes, from which they sometimes came forth, especially on misty days, and children used to be warned not to stray away from their homes in that sort of weather, lest they should be kidnapped by them. These fairies were not Christians, and they were great thieves. They were fond of bright colours. They were sharp of hearing, and no word that reached the wind would escape them. If a fairy's proper name was discovered, the fairy to whom it belonged felt baffled. `[ Sir John Rhys tells me that this Snowdon fairy-lore was contributed by the late Lady Rhys, who as a girl lived in the neighbourhood of Snowdon and heard very much from the old people there, most of whom believed in the fairies ; and she herself then used to be warned, in the manner mentioned, against being carried away into the under-lake Fairyland.]`
+
+Some characteristics of the fairies seem to argue an ancient race, while other characteristics betray their origin in the workshop of the imagination ; but generally speaking, the fairies are heterogeneous, consisting partly of the divinities of glens and forests and mountains, and partly of an early race of men more or less caricatured and equipped by fable with impossible attributes. `[Cf. Celtic Folklore, Welsh and Manx, pp. 683-4 n., where Sir John Rhys says of his friend. Professor A. C. Haddon:— 'I find also that he, among others, has anticipated me in my theory as to the origins of the fairies: witness the following extract from the syllabus of a lecture delivered by him at Cardiff in 1894 on Fairy Tales:— "What are the fairies? — Legendary origin of the fairies. It is evident from fairy literature that there is a mixture of the possible and the impossible, of fact and fancy. Part of fairydom refers to (i) spirits that never were embodied: other fairies are (2) spirits of environment, nature or local spirits, and household or domestic spirits; (3) spirits of the organic world, spirits of plants, and spirits of animals; (4) spirits of men, or ghosts; and (5) witches and wizards, or men possessed with other spirits. All these, and possibly other elements, enter into the fanciful aspects of Fairyland, but there is a large residuum of real occurrences; these point to a clash of races, and we may regard many of these fairy sagas as stories told by men of the Iron Age of events which happtaed to men of the Bronze Age in their conflicts with men of the Neolithic Age, and possibly these, too, handed on traditions of the Paleolithic Agej" ']`
+
+Jesus College, Oxford, October 1910
+
+```
+
+*The Fairy Midwife*, also often referred to as *The Fairy Ointment* or *Fairy Nurse* *(Aarne-Thompson-Uther (ATU) type 476\*)* is a widely collectly, and frequently localised, tale of dealings with the fairies. Typically, we might imagine a scene late at nigh. There's a knock at the door. A midwife, or nurse, is called upon to help in the delivery or care of a fairy child. As part of their duties, thet are told to wipe a special ointement over the child's eyes. Mistakenly getting some of the ointment into their own eye, the midwife/nurse becomes capable of seeing into the fairy otherworld from that eye. After unwittingly revealing herself to be so enchanted, the midwife/nurse is punished with the loss of the glamoury eye.
 
 The gist of the tale can be found in the following versions taken from the Irish Schools Collection. In each case, the human visitor is taken to a sumptuous location, and application of the ointment then reveals a terrible scene.
 
@@ -1307,62 +1346,78 @@ At Breitenburg fifty golden pennings are carefully preserved in a silver box, on
 
 TO DO
 
-provides some wider context; the tale type we are particulalry interested in is type 5. TO DO ?use this at beginning?
+also TO DO
 
 ```{admonition} TO DO
 :class: dropdown
-
-https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/134/mode/2up
-
-W. Y. (Walter Yeeling) Evans-Wentz, *The fairy-faith in Celtic countries*, 1911
-
-TO DO
-
-p135-7
-
-V. IN WALES
-
-Introduction by The Right Hon. Sir John Rhys, M.A.; D.Litt., F.B.A., Hon. LL.D. of the University of Edinburgh ; Professor of Celtic in the University of Oxford ; Principal of Jesus College ; author of Celtic Folklore, Welsh and Manx, &c.
-
-The folk-lore of Wales in as far as it concerns the Fairies consists of a very few typical tales, such as : —
-
-(i) The Fairy Dance and the usual entrapping of a youth, who dances with the Little People for a long time, while he supposes it only a few minutes, and who if not rescued is taken by them.
-
-(2) There are other ways in which recruits may be led into Fairyland and induced to marry fairy maidens, and any one so led away is practically lost to his kith and kin, for even if he be allowed to visit them, the visit is mostly cut short in one way or another.
-
-(3) A man catches a fairy woman and marries her. She proves to be an excellent housewife, but usually she has had put into the marriage-contract certain conditions which, if broken, inevitably release her from the union, and when so released she hurries away instantly, never to return, unless it be now and then to visit her children. One of the conditions, especially in North Wales, is that the husband should never touch her with iron. But in the story of the Lady of Llyn y Fan Each, in Carmarthenshire, the condition is that he must not strike the wife without a cause three times, the striking being interpreted to include any slight tapping, say, on the shoulder. This story is one of the most remarkable on record in Wales, and it recalls the famous tale of Undine, published in German many years ago by
-
-De La Motte Fouque. It is not known where he found it, or whether the people among whom it was current were pure Germans or of Celtic extraction.
-
-(4) The Fairies were fond of stealing nice healthy babies and of leaving in their place their own sallow offspring. The stories of how the right child might be recovered take numerous forms ; and some of these stories suggest how weak and sickly children became the objects of systematic cruelty at the hands of even their own parents. The changeling was usually an old man, and many were the efforts made to get him to betray his identity.
-
-(5) There is a widespread story of the fairy husband procuring for his wife the attendance of a human midwife. The latter was given a certain ointment to apply to the baby's eyes when she dressed it. She was not to touch either of her own eyes with it, but owing to an unfailing accident she does, and with the eye so touched she is enabled to see the fairies in their proper shape and form. This has consequences: The fairy husband pays the midwife well, and discharges her. She goes to a fair or market one day and observes her old master stealing goods from a stall, and makes herself known to him. He asks her with which eye she sees him. She tells him, and the eye to which he objects he instantly blinds.
-
-(6) Many are the stories about the fairies coming into houses at night to wash and dress their children after everybody is gone to bed. A servant-maid who knows her business leaves a vessel full of water for them, and takes care that the house is neat and tidy, and she then probably finds in the morning some fairy gift left her, whereas if the house be untidy and the water dirty, they will pinch her in her sleep, and leave her black and blue.
-
-(7) The fairies were not strong in their household arrangements, so it was not at all unusual for them to come to the farm-houses to borrow what was wanting to them.
-
-In the neighbourhood of Snowdon the fairies were believed to live beneath the lakes, from which they sometimes came forth, especially on misty days, and children used to be warned not to stray away from their homes in that sort of
-
-weather, lest they should be kidnapped by them. These fairies were not Christians, and they were great thieves. They were fond of bright colours. They were sharp of hearing, and no word that reached the wind would escape them. If a fairy's proper name was discovered, the fairy to whom it belonged felt baffled. `[ Sir John Rhys tells me that this Snowdon fairy-lore was contributed by the late Lady Rhys, who as a girl lived in the neighbourhood of Snowdon and heard very much from the old people there, most of whom believed in the fairies ; and she herself then used to be warned, in the manner mentioned, against being carried away into the under-lake Fairyland.]`
-
-Some characteristics of the fairies seem to argue an ancient race, while other characteristics betray their origin in the workshop of the imagination ; but generally speaking, the fairies are heterogeneous, consisting partly of the divinities of glens and forests and mountains, and partly of an early race of men more or less caricatured and equipped by fable with impossible attributes. `[Cf. Celtic Folklore, Welsh and Manx, pp. 683-4 n., where Sir John Rhys says of his friend. Professor A. C. Haddon : — ' I find also that he, among others, has anticipated me in my theory as to the origins of the fairies : witness the following extract from the syllabus of a lecture delivered by him at Cardiff in 1894 on Fairy Tales : — " What are the fairies ? — Legendary origin of the fairies. It is evident from fairy literature that there is a mixture of the possible and the impossible, of fact and fancy. Part of fairydom refers to (i) spirits that never were embodied : other fairies are (2) spirits of environment, nature or local spirits, and household or domestic spirits ; (3) spirits of the organic world, spirits of plants, and spirits of animals ; (4) spirits of men, or ghosts ; and (5) witches and wizards, or men possessed with other spirits. All these, and possibly other elements, enter into the fanciful aspects of Fairyland, but there is a large residuum of real occurrences ; these point to a clash of races, and we may regard many of these fairy sagas as stories told by men of the Iron Age of events which happtaed to men of the Bronze Age in their conflicts with men of the Neolithic Age, and possibly these, too, handed on traditions of the Paleolithic Agej" ']`
-
-Jesus College, Oxford, October 1910
-
-also TO DO
 
 https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/174/mode/2up
 
 W. Y. (Walter Yeeling) Evans-Wentz, *The fairy-faith in Celtic countries*, 1911
 
+TO DO
+
 pp. 174-6
 
 In Penzance: An Architect's Testimony
 
-Penzance from earliest times has undoubtedly been, as it is now, the capital of the Land's End district, the Sacred Land of Britain. And in Penzance I had the good fortune to meet those among its leading citizens who still cherish and keep alive the poetry and the mystic lore of Old Cornwall ; and to no one of them am I more indebted than to Mr. Henry Maddern, F.LA.S. Mr. Maddern tells me that he was initiated into the mysteries of the Cornish folk-lore of this region when a boy in Newlyn, where he was born, by his old nurse Betty Grancan, a native Zennor woman, of stock probably the most primitive and pure in the British Islands. At his home in Penzance, Mr. Maddern dictated to me the very valuable evidence which follows:—
+Penzance from earliest times has undoubtedly been, as it is now, the capital of the Land's End district, the Sacred Land of Britain. And in Penzance I had the good fortune to meet those among its leading citizens who still cherish and keep alive the poetry and the mystic lore of Old Cornwall; and to no one of them am I more indebted than to Mr. Henry Maddern, F.I.A.S. Mr. Maddern tells me that he was initiated into the mysteries of the Cornish folk-lore of this region when a boy in Newlyn, where he was born, by his old nurse Betty Grancan, a native Zennor woman, of stock probably the most primitive and pure in the British Islands. At his home in Penzance, Mr. Maddern dictated to me the very valuable evidence which follows:—
+
+*Two Kinds of Pixies.* — 'In this region there are two kinds of pixies, one purely a land-dwelling pixy and the other a pixy which dwells on the sea-strand between high and low water mark. `['About Forth Curnow and the Logan Rock there are little spots of earth in the face of the granite cliffs where sea-daisies (thrift) and other wild flowers grow. These are referred to the sea pisky, and are known as "piskies' gardens."' — Henry Jenner.]` The land-dwelling pixy was usually thought to be full of mischievous fun, but it did no harm. There was a very prevalent belief, when I was a boy, that this seastrand pixy, called *Bucca*, `[I was told by another Cornishman that, in a spirit of municipal rivalry and fun, the Penzance people like to taunt the people of Newlyn (now almost a suburb of Penzance) by calling them Buccas, and that the Newlyn townsmen very much resent being so designated. Thus what no doubt was originally an ancient cult to some local sea-divinity called Bucca, has survived as folk-humour. (See Mr. Jenner's Introduction, p. 164.)]` had to be propitiated by a cast (three) of fish, to ensure the fishermen having a good shot (catch) of fish. The land pixy was supposed to be able to render its devotees invisible, if they only anointed their eyes with a certain green salve made of secret herbs gathered from Kerris-moor. `[' Another version, which is more usual, is that the pisky anointed the person's eyes and so rendered itself visible.' — Henry Jenner.]` In the invisible condition thus induced, people were able to join the pixy revels, during which, according to the old tradition, time slipped away very, very rapidly, though people returned from the pixies no older than when they went with them.*
+
+*The Nurse and the Ointment.*— 'I used to hear about a Zennor girl who came to Newlyn as nurse to the child of a gentleman living at Zimmerman-Cot. The gentleman warned her never to touch a box of ointment which he guarded in a special room, nor even to enter that room; but one day in his absence she entered the room and took some of the ointment. Suspecting the qualities of the ointment, she put it on her eyes with the wish that she might see where her master was. She immediately found herself in the higher part of the orchard amongst the pixies, where they were having much *junketing* (festivity and dancing); and there saw the gentleman whose child she had nursed. For a time she managed to evade him, but before the *junketing* was at an end he discovered her and requested her to go home; and then, to her intense astonishment, she learned that she had been away twenty years, though she was unchanged. The gentleman scolded her for having touched the ointment, paid her wages in full, and sent her back to her people. She always had the one regret, that she had not gone into the forbidden room at first.'
+```
+
+
+
+https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/54/mode/2up?q=midwife
+
+W. Y. (Walter Yeeling) Evans-Wentz, *The fairy-faith in Celtic countries*, 1911
+
+
+
+*[II. IN IRELAND]*
+
+p. 53-4
+
+Bridget O'Conner's Testimony
+
+Our next witness is Bridget O'Conner, a near neighbour to Patrick Waters, in Cloontipruckilish. When I approached her neat little cottage she was cutting sweet-pea blossoms with a pair of scissors, and as I stopped to tell her how pretty a garden she had, she searched out the finest white bloom she could find and gave it to me. After we had talked a little while about America and Ireland, she said I must come in and rest a few minutes, and so I did; and it was not long before we were talking about fairies:—
 
 ...
 
-*The Nurse and the Ointment.*— "I used to hear about a Zennor girl who came to Newlyn as nurse to the child of a gentleman living at Zimmerman-Cot. The gentleman warned her never to touch a box of ointment which he guarded in a special room, nor even to enter that room; but one day in his absence she entered the room and took some of the ointment. Suspecting the qualities of the ointment, she put it on her eyes with the wish that she might see where her master was. She immediately found herself in the higher part of the orchard amongst the pixies, where they were having much *junketing* (festivity and dancing); and there saw the gentleman whose child she had nursed. For a time she managed to evade him, but before the *junketing* was at an end he discovered her and requested her to go home; and then, to her intense astonishment, she learned that she had been away twenty years, though she was unchanged. The gentleman scolded her for having touched the ointment, paid her wages in full, and sent her back to her people. She always had the one regret, that she had not gone into the forbidden room at first."
-```
+*A Midwife Story.* — 'A country nurse was requested by a strange man on horseback to go with him to exercise her profession; and she went with him to a castle she didn't know. When the baby was born, every woman in the place where the event happened put her finger in a basin of water and rubbed her eyes, and so the nurse put her finger in and rubbed it on one of her eyes. She went home and thought no more about it. But one day she was at the fair in Grange and saw some of the same women who were in the castle when the baby was born; though, as she noticed, she only could see them with the one eye she had wet with the water from the basin. The nurse spoke to the women, and they wanted to know how she recognized them; and she, in reply, said it was with the one eye, and asked, "How is the baby?" "Well," said one of the fairy women; "and what eye do you see us with?" "With the left eye," answered the nurse. Then the fairy woman blew her breath against the nurse's left eye, and said, "You'll never see me again." And the nurse was always blind in the left eye after that.'
+
+https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/126/mode/2up?q=midwife
+
+
+The fairy-faith in Celtic countries
+by Evans-Wentz, W. Y. (Walter Yeeling), 1878-1965
+
+Publication date 1911
+
+p127
+
+*[IV. IN THE ISLE OF MAN]*
+
+Fairy Tales on Christmas Day
+
+The next morning, Christmas morning, I called at the picturesque roadside home of Mrs. Dinah Moore a Manxwoman living near Glen Meay ; and she contributed the best single collection of Manx folk-legends I discovered on the island. ...
+
+*A Midwife s Strange Experience.*— 'A strange man took a nurse to a place where a baby boy was born. After the birth, the man set out on a table two cakes, one of them broken and the other one whole, and said to the nurse: "Eat, eat; but don't eat of the cake which is broken nor of the cake which is whole." And the nurse said: "What in the name of the Lord am I going to eat? " At that all the fairies in the house disappeared; and the nurse was left out on a mountain-side alone.'
+
+https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/204/mode/2up
+
+The fairy-faith in Celtic countries
+by Evans-Wentz, W. Y. (Walter Yeeling), 1878-1965
+
+Publication date 1911
+
+pp. 204-5
+
+*[Fairies of Upper Brittany.]*
+
+The following midwife story, as told by J. M. Comault, of Gouray, in 1881, is quite a parallel to the one we have recorded (on p. 54) as coming from Grange, Ireland:—
+
+A midwife who delivered a *Margot la fée* carelessly allowed some of the fairy ointment to get on one of her own eyes. The eye at once became clairvoyant, so that she beheld the *fées* in their true nature. And, quite like a midwife in a similar story about the *fées des houles*, this midwife happened to see a *fée* in the act of stealing, and spoke to her. Thereupon the *fée* asked the midwife with which eye she beheld her, and when the midwife indicated which one it was, the *fée* pulled it out. `[Cf. Sebillot, Traditions et superstitions de la Haute-Bretagne, i. 1]`
+
