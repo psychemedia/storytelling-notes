@@ -2,9 +2,9 @@
 
 A brief report in the *Nottingham Review* of [Friday 15 March 1811](https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18110315/045/0004) records:
 
-> Last week, as some men were emplyed in lowering a hill near Nottingham gallows, they dug up more than twenty human sculls, and a number of other bones of a corresponding nature; but from there not being one entire skeleton found, from the number of limb-bones not being proportionate to the number of sculls, and from the whole being found near the surface, it is very probable they were taken thither at some distant period, on the lowering of one of the churchyards.
+> Last week, as some men were employed in lowering a hill near Nottingham gallows, they dug up more than twenty human sculls, and a number of other bones of a corresponding nature; but from there not being one entire skeleton found, from the number of limb-bones not being proportionate to the number of sculls, and from the whole being found near the surface, it is very probable they were taken thither at some distant period, on the lowering of one of the churchyards.
 
-Or how about the following case, which starts in Dececember, 1812, with reports in Worcester of a *"daring robbery and attempt at murder"*.
+Or how about the following case, which starts in December, 1812, with reports in Worcester of a *"daring robbery and attempt at murder"*.
 
 ```{admonition} Daring Robbery and attempt at Murder, December 1812
 :class: dropdown
@@ -730,7 +730,7 @@ One of the most curious and widespread instances of deception and credulity is t
 
 ```
 
-## Appearances in Notes & Queries
+## Appearances in *Notes & Queries*
 
 Over the years, the hand of glory, and related matters, made several appearances in *Notes & Queries*, that veritable "medium of inter‐communication for literary men, artists, antiquaries, genealogists, etc." in which you can chase down all manner of idle curiosities.
 
@@ -1084,4 +1084,15 @@ In *Notes and Queries*, 1872-11-09: Vol 10 Iss 254, [p382-3](https://archive.org
 
 Gibbeting Alive (4th S. x. 332.)—This "horrible tale" of the year 1805 is but a repetition of a story told of the same county, but dated 1683. In that year the body of a man, named Andrew Mills, who had been executed at Durham for the murder of his master's three children, was hung chains near to Ferry Hill. Yet the tale goes that he was gibbeted alive — that a girl who loved him contrived to keep him in existence for several days, and that his dying shrieks could be heard for miles around. Is this traditionary story peculiar
 to the county of Durham? CUTHBERT BEDE
+```
+
+## Witches Ointment
+
+From Benjamin thorpe's *Northern mythology, comprising the principal popular traditions and superstitions of Scandinavia, north Germany, and the Netherlands*, 1851,vol III, p. 276, we also hear of another gruesome salve made from dead body parts:
+
+```{admonition} Witches' ointment, 1851
+
+WITCHES' OINTMENT.
+
+Sorceresses destroy with their ceremonies both baptized and unbaptized children (especially the former, when a cross has not been made or a prayer said over them), as well in the cradle as by the side of their parents, whence the latter often think that they have smothered the child. When the infant is buried, the witches steal the corpse out of the coffin, put it into a kettle, and boil it until the flesh falls from the bones. From the more solid parts of this decoction they make an ointment, by means of which they exercise their arts, transform themselves, etc. The fluid they pour into bottles, and whoever drinks of it and lets certain ceremonies be performed over him by the sorceresses, becomes initiated in their arts and a master thereof.
 ```
