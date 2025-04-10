@@ -23,7 +23,7 @@ The folk-lore of Wales in as far as it concerns the Fairies consists of a very f
 
 (3) A man catches a fairy woman and marries her. She proves to be an excellent housewife, but usually she has had put into the marriage-contract certain conditions which, if broken, inevitably release her from the union, and when so released she hurries away instantly, never to return, unless it be now and then to visit her children. One of the conditions, especially in North Wales, is that the husband should never touch her with iron. But in the story of the Lady of Llyn y Fan Each, in Carmarthenshire, the condition is that he must not strike the wife without a cause three times, the striking being interpreted to include any slight tapping, say, on the shoulder. This story is one of the most remarkable on record in Wales, and it recalls the famous tale of Undine, published in German many years ago by De La Motte Fouqué. It is not known where he found it, or whether the people among whom it was current were pure Germans or of Celtic extraction.
 
-(4) The Fairies were fond of stealing nice healthy babies and of leaving in their place their own sallow offspring. The stories of how the right child might be recovered take numerous forms ; and some of these stories suggest how weak and sickly children became the objects of systematic cruelty at the hands of even their own parents. The changeling was usually an old man, and many were the efforts made to get him to betray his identity.
+(4) The Fairies were fond of stealing nice healthy babies and of leaving in their place their own sallow offspring. The stories of how the right child might be recovered take numerous forms; and some of these stories suggest how weak and sickly children became the objects of systematic cruelty at the hands of even their own parents. The changeling was usually an old man, and many were the efforts made to get him to betray his identity.
 
 (5) There is a widespread story of the fairy husband procuring for his wife the attendance of a human midwife. The latter was given a certain ointment to apply to the baby's eyes when she dressed it. She was not to touch either of her own eyes with it, but owing to an unfailing accident she does, and with the eye so touched she is enabled to see the fairies in their proper shape and form. This has consequences: The fairy husband pays the midwife well, and discharges her. She goes to a fair or market one day and observes her old master stealing goods from a stall, and makes herself known to him. He asks her with which eye she sees him. She tells him, and the eye to which he objects he instantly blinds.
 
@@ -31,9 +31,9 @@ The folk-lore of Wales in as far as it concerns the Fairies consists of a very f
 
 (7) The fairies were not strong in their household arrangements, so it was not at all unusual for them to come to the farm-houses to borrow what was wanting to them.
 
-In the neighbourhood of Snowdon the fairies were believed to live beneath the lakes, from which they sometimes came forth, especially on misty days, and children used to be warned not to stray away from their homes in that sort of weather, lest they should be kidnapped by them. These fairies were not Christians, and they were great thieves. They were fond of bright colours. They were sharp of hearing, and no word that reached the wind would escape them. If a fairy's proper name was discovered, the fairy to whom it belonged felt baffled. `[ Sir John Rhys tells me that this Snowdon fairy-lore was contributed by the late Lady Rhys, who as a girl lived in the neighbourhood of Snowdon and heard very much from the old people there, most of whom believed in the fairies ; and she herself then used to be warned, in the manner mentioned, against being carried away into the under-lake Fairyland.]`
+In the neighbourhood of Snowdon the fairies were believed to live beneath the lakes, from which they sometimes came forth, especially on misty days, and children used to be warned not to stray away from their homes in that sort of weather, lest they should be kidnapped by them. These fairies were not Christians, and they were great thieves. They were fond of bright colours. They were sharp of hearing, and no word that reached the wind would escape them. If a fairy's proper name was discovered, the fairy to whom it belonged felt baffled. `[Sir John Rhys tells me that this Snowdon fairy-lore was contributed by the late Lady Rhys, who as a girl lived in the neighbourhood of Snowdon and heard very much from the old people there, most of whom believed in the fairies; and she herself then used to be warned, in the manner mentioned, against being carried away into the under-lake Fairyland.]`
 
-Some characteristics of the fairies seem to argue an ancient race, while other characteristics betray their origin in the workshop of the imagination ; but generally speaking, the fairies are heterogeneous, consisting partly of the divinities of glens and forests and mountains, and partly of an early race of men more or less caricatured and equipped by fable with impossible attributes. `[Cf. Celtic Folklore, Welsh and Manx, pp. 683-4 n., where Sir John Rhys says of his friend. Professor A. C. Haddon:— 'I find also that he, among others, has anticipated me in my theory as to the origins of the fairies: witness the following extract from the syllabus of a lecture delivered by him at Cardiff in 1894 on Fairy Tales:— "What are the fairies? — Legendary origin of the fairies. It is evident from fairy literature that there is a mixture of the possible and the impossible, of fact and fancy. Part of fairydom refers to (i) spirits that never were embodied: other fairies are (2) spirits of environment, nature or local spirits, and household or domestic spirits; (3) spirits of the organic world, spirits of plants, and spirits of animals; (4) spirits of men, or ghosts; and (5) witches and wizards, or men possessed with other spirits. All these, and possibly other elements, enter into the fanciful aspects of Fairyland, but there is a large residuum of real occurrences; these point to a clash of races, and we may regard many of these fairy sagas as stories told by men of the Iron Age of events which happtaed to men of the Bronze Age in their conflicts with men of the Neolithic Age, and possibly these, too, handed on traditions of the Paleolithic Agej" ']`
+Some characteristics of the fairies seem to argue an ancient race, while other characteristics betray their origin in the workshop of the imagination; but generally speaking, the fairies are heterogeneous, consisting partly of the divinities of glens and forests and mountains, and partly of an early race of men more or less caricatured and equipped by fable with impossible attributes. `[Cf. Celtic Folklore, Welsh and Manx, pp. 683-4 n., where Sir John Rhys says of his friend. Professor A. C. Haddon:— 'I find also that he, among others, has anticipated me in my theory as to the origins of the fairies: witness the following extract from the syllabus of a lecture delivered by him at Cardiff in 1894 on Fairy Tales:— "What are the fairies? — Legendary origin of the fairies. It is evident from fairy literature that there is a mixture of the possible and the impossible, of fact and fancy. Part of fairydom refers to (i) spirits that never were embodied: other fairies are (2) spirits of environment, nature or local spirits, and household or domestic spirits; (3) spirits of the organic world, spirits of plants, and spirits of animals; (4) spirits of men, or ghosts; and (5) witches and wizards, or men possessed with other spirits. All these, and possibly other elements, enter into the fanciful aspects of Fairyland, but there is a large residuum of real occurrences; these point to a clash of races, and we may regard many of these fairy sagas as stories told by men of the Iron Age of events which happtaed to men of the Bronze Age in their conflicts with men of the Neolithic Age, and possibly these, too, handed on traditions of the Paleolithic Agej" ']`
 
 Jesus College, Oxford, October 1910
 
@@ -209,7 +209,7 @@ You 've lost your eye, your child, and yourself,"
 said the gentleman. From that hour she was blind in the right eye. When she got home the boy was gone. She grieved sadly, but she never saw him more, and this once happy couple became poor and wretched.
 ```
 
-The second variation, set between Pendeen and Penzance, TO DO
+The second variation, set between Pendeen and Penzance, describes how a certain Nancy Tregier, whop,  on visiting a local wise woman, was tempted to try an ointment she had seen the wise woman administering to someone else. But the ointment that appears to have had a dual purpose. And there were consequences...
 
 ```{admonition} "The Fairy Ointment", in *Popular romances of the west of England*, Robert Hunt, 1865
 :class: dropdown
@@ -233,7 +233,9 @@ On her way home, Nancy was always going off the road on her blind side; but the 
 
 ```
 
-The third, TO DO ?slightly different?
+*In passing, it is worth notig that the tale could be turned into something of a droll, playing on the "so had Nancy had a drink?" interpretation. The smuggling elements also add a nice bit of colour and could form the basis of a side-story.*
+
+The third tale is a variant of the second, with housekeeper renamed and the squire identified.
 
 ```{admonition} "How Joan Lost the Sight of Her Eye", in *Popular romances of the west of England*, Robert Hunt, 1865
 :class: dropdown
@@ -293,11 +295,9 @@ They got the miserable woman home between them. The Squire charged her with havi
 
 ### An Aside — Bottrell's Cornish Traditions, 1870-1880
 
-In passing, the *Nancy Tregier* tale is also mentioned in passing a review of 
+In passing, the *Nancy Tregier* tale is also mentioned in passing a review of a collection of Cornish tales self-published by William Bottrell in 1871.
 
-TO O
-
-```{admonition} TO DO
+```{admonition} Bottrell's *Traditions of West Cornwall*, 1871
 :class: dropdown seealso
 
 https://archive.org/details/sim_saturday-review-uk_the-saturday-review-of-p_1871-02-25_31_800/mode/2up
@@ -306,14 +306,13 @@ The Saturday Review of Politics, Literature, Science and Art  1871-02-25: Vol 31
 
 p.250
 
-
 BOTTRELL'S TRADITIONS OF WEST CORNWALL. `[Traditions and_Hearthside Stories of West Cornwall. By William Bottrell. London: Trübner & Co. Penzance: W. Cornish. 1870.]` ALTHOUGH traversing to some extent the same ground asMr. Hawker's *Ballads and Traditions*, and Mr. Hunt's charming *Romances and Drolls of the West of England*, this volume by "An Old Celt," whom internal evidence proves to be familiar from his youth up with the places and people he describes, has a speciality of its own, in that it describes the legends of West Cornwall in the *ipsissima verba* of the local droll-tellers. To read them is to get a lesson in the dialect of the districts to which they are seculiar. A little abridged — as indeed there was need they should be — to suit the rarer leisure of readers who have something else to do than listen to interminable tales about giants, fairies, piskies, and demons that never were, these hearthside stories bear in all else the strongest impress of orally transmitted legends which it has been the "labour of love" of one born in the midst of the region whence they sprung to collect and commit to writing. And hence, though Tom the Giant and Jack the Tinkard, the giants Bolster and Wrath, the Mayor of Market-Jew, and Nancy Tregier who experimented with the fairy ointment, have met us before in the "Drolls" which Mr. Hunt published some five years ago, a still greater interest invests the introduction to them with which Mr. Bottrell has favoured us, inasmuch as we now hear them talk, and hear their descendants and followers talk about them, in the "lingo" understanded in those parts where they played their pranks, as is "well attested, and as well believed."
 
 ```
 
-TH: But I find no variant of the Nancy Tregier tale in any of the volumes, let alone the first.
+But on inspection, I find no variant of the Nancy Tregier tale in any of the volumes, let alone the first.
 
-```{admonition} Bottrell's *Traditions and Hearthside Stories of West Cornwall*
+```{admonition} Bottrell's *Traditions and Hearthside Stories of West Cornwall*, three volumes
 :class: dropdown seealso
 
 William Bottrell, [*Traditions and Hearthside Stories of West Cornwall*](https://sacred-texts.com/neu/celt/swc1/index.htm), 1870
@@ -323,7 +322,6 @@ William Bottrell, [*Traditions and hearthside stories of West Cornwall [Second S
 William Bottrell, [*Stories and folk-lore of West Cornwall [Third Series]*](https://archive.org/details/cu31924029890559/page/n3/mode/2up), 1880
 
 ```
-
 
 ## The Tale According to Mrs. Bray
 
@@ -353,7 +351,7 @@ There is apparently a moral bearing in this legend; viz. the delusive splendor o
 
 But the version of the tale that the English folkorists seem, to have picked up on was originally communicated by historical novelist Anna Eliza Bray, wife of the Vicar of Tavistock, to one time poet Lauareate Robert Southey. In the early 1830s, she had maintained a regular correspondence with him, her letters covering a wide range of subjects of local interest. The letters were later collected and published in a three volume work, *Traditions, legends, superstitions, and sketches of Devonshire on the borders of the Tamar and the Tavy*.
 
-```{admonition} TO DO
+```{admonition} Nearly ready, *The Tamar and the Tavy*, 1836
 :class: dropdown
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001652/18360125/013/0001
@@ -363,8 +361,6 @@ Globe - Monday 25 January 1836
 Nearly ready, 3 vols. post 8vo. DESCRIPTION of that part of DEVONSHIRE bordering on the Tamar and the Tavy; its Natural History, Manners, and Customs, Superstitionn, Scenery, Antiquities, Biographv of Eminent Persons, &c. &c. In a Series Letters to R. Southey, Esq. Mrs. BRAY, Author of 'Travels in Normandy,' 'Fitz of Fitzford,' 'The Talba,' and 'De Foix.' John Murray. Albemarle-street.
 
 ```
-
-
 
 ```{admonition} Traditions of the Tamar and the Tavy, 3 vols, Mrs. Bray, 1838
 :class: seesalso dropdown
@@ -376,7 +372,7 @@ Traditions, legends, superstitions, and sketches of Devonshire on the borders of
 - volume III: https://archive.org/details/b33282419_0003
 ```
 
-In the tenth letter, in the first volume, dated *Vicarage, Tavistock, April 24th, 1832*, Mrs. Bray gives the version of the tale that would be reprinted by Hartland and Jacobs almost sixty years later.
+In the tenth letter of the first volume, dated *Vicarage, Tavistock, April 24th, 1832*, Mrs. Bray gives the version of the tale that would be reprinted by Hartland and Jacobs almost sixty years later.
 
 ```{admonition} Letter to Robert Southey, April, 1832
 :class: dropdown
@@ -487,7 +483,7 @@ In *The Examiner* [Sunday 11 May 1828](https://britishnewspaperarchive.co.uk/vie
 
 The collection was and reprinted several times and then appeared in a single volume — *A New Edition, Revised amd Greatly Enlarged* — in 1860. This revised edition included two variants of the the fairy midwife tale that did not appear in the earlier, two volume edition.
 
-The first, unacknowledged, tale is a shortened form of the one told by Mrs. Bray:
+The first, unattributed, tale is a shortened form of the one told by Mrs. Bray:
 
 ```{admonition} The Pixy Labour, in *The Fairy Mythology* (revised and expanded), Thomas Keightley, 1860
 :class: dropdown
@@ -511,10 +507,10 @@ On the next market-day, when she sallied forth to sell her eggs, she saw the sam
 He struck her eye as he spoke, and from that hour till the day of her death she was blind of that eye.
 ```
 
-The second, also unacknowledge, claims a Scottish origin:
+The second, also unattributed, claims a Scottish origin:
 
 ```{admonition} The Fairy Labour, in *The Fairy Mythology* (revised and expanded), Thomas Keightley, 1860
-:dropdown
+:class: dropdown
 
 https://archive.org/details/fairymythologyi06keiggoog/page/388/mode/2up
 
@@ -528,43 +524,36 @@ Many years ago there dwelt in Strathspey a midwife of great repute. One night ju
 
 ```
 
-## References in Popular Superstition
+## In the Dublin University Magazine
 
-TO DO
+In a two chapter article, and part of a longer series, on *"Irish Popular Superstitions"*, in the May, 1849, issue of the Dublin University magazine (Vol 33 Iss 197), the unnamed author relates the tale of Biddy Mannion, a fisherman's wife, and a fine nurse, who is kidnapped one night to nurse the Queen of the Fairies' child. A woman entreats her not to eat anything or she will be stranded in the Other World. In return for for nursing the Queen's child, she is given a cure for her own child's toothache, and shown the true nature of the fairies (fallen angels). On returning home, she passes her changeling doppleganger leaving her house.
 
-
-
-TO DO
-
-Dublin University Magazine
+```{admonition} The Tale of Biddy Mannion, 1852
+:class: dropdown
 
 https://archive.org/details/sim_university-magazine_1849-05_33_197/page/558/mode/2up
 
+The University Magazine, 1849-05: Vol 33 Iss 197
 pp. 558-560
 
-
-The University Magazine, 1849-05: Vol 33 Iss 197
-
-```{admonition} TO DO
-:class: dropdown
-
-The University Magazine, 1849-05: Vol 33 Iss 197
-
-*Later as Irish Popular Superstitions, W. R. Wilde, pp. 131-5 https://books.google.co.uk/books?id=Zz1kAAAAcAAJ&printsec=frontcover&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q&f=false
+Later as *Irish Popular Superstitions*, 1852, W. R. Wilde, pp. 131-5 https://books.google.co.uk/books?id=Zz1kAAAAcAAJ&printsec=frontcover&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q&f=false
 
 Irish Popular Superstitions
 
-There lived a woman in Innis Shark, one Biddy Mannion, as handsome and likely a fisherman's wife as you would meet in a day's walk. She was tall, and fair in the face, with skin like an egg, and hair that might vie with the gloss of the raven's wing. She was married about a twelyemonth, when the midwife presented her husband, Patsy-Andrew M'Intire,t with as fine a man-child as could be found between Shark and America, and sure they are the next parishes, with only the Atlantic for a mearing between them. The young one throve apace, and all the women and gossips said, that Biddy Manion was the lucky woman, and the finest nurse seen in the island for many a day. Now the king of the fairies had a child about the same age or a little older, but the queen was not able to nurse it, for she was mighty weakly after her lying-in, as her husband had a falling out with another fairy potentate that lives down one side of the Giant's Causeway, who, by the force of magic and pishrogues, banished the suck from the Connaught princess for spite. The gentry had their eye upon Biddy Mannion for a long time, but as she always wore a gospel round her neck, and kept an errub sewed up iv her clothes, she was proof against all their machinations and seductions. At long run, however, she lost this herb, and one fine summer's night the young gaurlought being mighty cross with the teeth wouldn't sleep in the cradle at all, but was ever more starting and crying, as if the life was leaving him, so she got up at last, determined to take him to bed to herself, and she went down to the kitchen to light a candle. Well, just as she was blowing a coal, three men caught a hold of her, before she could bless herself, and she was unable to shout or say a- word, so they brought her out of the house quite easy, and put her upon a pillion, behind one of themselves, on a fine black horse that was ready waiting outside the door. She was no sooner seated behind one of the men, than away they all galloped without saying aword. It was as calm and beautiful a night as ever came out of the sky, just before the moon rose "between day and dark," with the gloom of parting twilight, softening every break upon the surrounding landscape, and not a breath of air was to be felt. They rode on a long time, and she didn't know where they were going to; but she thought to herself they must be on the mainland, for she heard the frogs croaking in the ditches; the *bunnaun lena* was sounding away in the bogs, and the *minnaun airigh* `[There are no frogs in these small islands. The bunnaun lena is the bittern, and the minnaun airigh (the airy kid,) is the clocking snipe, so called from the noise which it makes like the bleating of a kid, while wheeling in the air during the twilight of a summer's evening. Neither of these birds are found in the small islands of the west.]` was wheeling over their heads. At last the horse stopped of itself all of a sudden before the gate of a "big house," `[The word "big house" is applied by the peasantry to most gentlemen's seats.]` at the butt of a great hill with trees growing all round it, where she had never been before in her life. There was much light in the house, and presently a grand-looking gentleman dressed all in scarlet, with a cocked hat on his head, and a sword by his side, and his fingers so covered with rings that they shone "like *lassar lena* in a bog hole," `[This, though a homely simile, is one very frequently used in many parts of Connaught, to express any bright shining appearance. The lassar lena, which grows in bogs and marshy places, is the ranunculus flammea, so called, from its brilliant yellow colour. It is a plant possessing many medicinal virtues, and will claim a special notice when we come to treat of the herb cures, and popular botany of the Irish.]` lifted her off the pillion as polite as possible, handed her into the house, and bid her a *cead mile failte*, just the same as if he had known her all his lifetime.
+[A few, however, of those who have been carried away have returned, and have left us faithful records of all they saw, and what was said and done in the court of his elfin majesty.] There lived a woman in Innis Shark, one Biddy Mannion, as handsome and likely a fisherman's wife as you would meet in a day's walk. She was tall, and fair in the face, with skin like an egg, and hair that might vie with the gloss of the raven's wing. She was married about a twelvemonth, when the midwife presented her husband, Patsy-Andrew M'Intire, `[Patsy, Pad, Paddy, Parra, Pauric, Paddeny, Paurikeen, and Paudeen, are all abreviations, synonymes, or short names for our patron saint.]` with as fine a man-child as could be found between Shark and America, and sure they are the next parishes, with only the Atlantic for a mearing between them. The young one throve apace, and all the women and gossips said, that Biddy Manion was the lucky woman, and the finest nurse seen in the island for many a day. Now the king of the fairies had a child about the same age or a little older, but the queen was not able to nurse it, for she was mighty weakly after her lying-in, as her husband had a falling out with another fairy potentate that lives down one side of the Giant's Causeway, who, by the force of magic and *pishrogues*, banished the suck from the Connaught princess for spite. The gentry had their eye upon Biddy Mannion for a long time, but as she always wore a gospel round her neck, and kept an *errub* sewed up in her clothes, she was proof against all their machinations and seductions. At long run, however, she lost this herb, and one fine summer's night the young *gaurlough* `[A very young infant.]` being mighty cross with the teeth wouldn't sleep in the cradle at all, but was ever more starting and crying, as if the life was leaving him, so she got up at last, determined to take him to bed to herself, and she went down to the kitchen to light a candle. Well, just as she was blowing a coal, three men caught a hold of her, before she could bless herself, and she was unable to shout or say a word, so they brought her out of the house quite easy, and put her upon a pillion, behind one of themselves, on a fine black horse that was ready waiting outside the door. She was no sooner seated behind one of the men, than away they all galloped without saying aword. It was as calm and beautiful a night as ever came out of the sky, just before the moon rose "between day and dark," with the gloom of parting twilight, softening every break upon the surrounding landscape, and not a breath of air was to be felt. They rode on a long time, and she didn't know where they were going to; but she thought to herself they must be on the mainland, for she heard the frogs croaking in the ditches; the *bunnaun lena* was sounding away in the bogs, and the *minnaun airigh* `[There are no frogs in these small islands. The bunnaun lena is the bittern, and the minnaun airigh (the airy kid,) is the clocking snipe, so called from the noise which it makes like the bleating of a kid, while wheeling in the air during the twilight of a summer's evening. Neither of these birds are found in the small islands of the west.]` was wheeling over their heads. At last the horse stopped of itself all of a sudden before the gate of a "big house," `[The word "big house" is applied by the peasantry to most gentlemen's seats.]` at the butt of a great hill with trees growing all round it, where she had never been before in her life. There was much light in the house, and presently a grand-looking gentleman dressed all in scarlet, with a cocked hat on his head, and a sword by his side, and his fingers so covered with rings that they shone "like *lassar lena* in a bog hole," `[This, though a homely simile, is one very frequently used in many parts of Connaught, to express any bright shining appearance. The lassar lena, which grows in bogs and marshy places, is the ranunculus flammea, so called, from its brilliant yellow colour. It is a plant possessing many medicinal virtues, and will claim a special notice when we come to treat of the herb cures, and popular botany of the Irish.]` lifted her off the pillion as polite as possible, handed her into the house, and bid her a *cead mile failte*, just the same as if he had known her all his lifetime.
 
-The gentleman left her sitting in one of the rooms, and when he was gone she saw a young woman standing at the *thrashal* of the door, and looking very earnestly at her, as if she wanted to speak to her. "Troth I'll speak, any way," says Biddy Mannion, "for if I didn't, I'm sure I'd burst." And with that she bid her the time of day, and asked her why she was looking at her so continuously. The woman then /gave 4 great sigh, and whispered to her, "If you take my advice, Biddy Mannion, you'll not taste bit, bite, or sup, while you are in this house, for if you do you'll be sorry for it, and maybe never get home again to your child or husband. I eat and drank my fill, *forrior geraugh*, `[Literally, bitter grief, woe, or sorrow; it is an expression denoting great regret.]` the first night I came, and that's the reason that I am left here now in this enchanted place where every thing you meet is bewitched even to the mate itself. But when you go home send word to them that's after me, Tim Conneely that lives one side of the Killaries, that I am here, and may be he'd try what Father Pat Prendergast, the blessed abbot of Cong, could do to get me out of it." Biddy was just going to make further inquiries of the strange woman, when in the clapping of your hand she was gone, and the man with the scarlet coat came back, and the same woman bringing in a young child in her arms. The man took the child from the woman, and gave it to Biddy to put it to the breast, and when it had drank its *fill* he took it away and invited her into another room where the queen—a darling, fine-looking lady, as you'd meet in a day's walk—was seated in an arm-chair, surrounded by a power of quality, dressed up for all the world like judges with big wigs, and red gowns upon them. There was a table laid out with all sorts of eating, of which the man in the cocked hat pressed her to take something; she made answer that she was no ways hungry, but that if they could give her a cure for a little girl belonging to one of her neighbours, who was mighty *daune*, and never well in herself since she had a fit of the *feur-gurtagh*, `[Feur gortac, literally, "the hungry grass" a weakness, the result of sudden hunger, said to come on persons during a long journey, or in particular places, in consequence of treading on a particular kind of fairy-enchanted grass, called the feur gorlac, by the native Irish. A bit of oaten cake is said to be the best cure for it.]` and to send herself home to Shark, she would be for ever obliged to them. The king, for that was the gentleman with the cocked hat, said he had ne'er a cure.
+The gentleman left her sitting in one of the rooms, and when he was gone she saw a young woman standing at the *thrashal* of the door, and looking very earnestly at her, as if she wanted to speak to her. "Troth I'll speak, any way," says Biddy Mannion, "for if I didn't, I'm sure I'd burst." And with that she bid her the time of day, and asked her why she was looking at her so continuously. The woman then gave a great sigh, and whispered to her, "If you take my advice, Biddy Mannion, you'll not taste bit, bite, or sup, while you are in this house, for if you do you'll be sorry for it, and maybe never get home again to your child or husband. I eat and drank my fill, *forrior geraugh*, `[Literally, bitter grief, woe, or sorrow; it is an expression denoting great regret.]` the first night I came, and that's the reason that I am left here now in this enchanted place where every thing you meet is bewitched even to the mate itself. But when you go home send word to them that's after me, Tim Conneely that lives one side of the Killaries, that I am here, and may be he'd try what Father Pat Prendergast, the blessed abbot of Cong, could do to get me out of it." Biddy was just going to make further inquiries of the strange woman, when in the clapping of your hand she was gone, and the man with the scarlet coat came back, and the same woman bringing in a young child in her arms. The man took the child from the woman, and gave it to Biddy to put it to the breast, and when it had drank its *fill* he took it away and invited her into another room where the queen — a darling, fine-looking lady, as you'd meet in a day's walk — was seated in an arm-chair, surrounded by a power of quality, dressed up for all the world like judges with big wigs, and red gowns upon them. There was a table laid out with all sorts of eating, of which the man in the cocked hat pressed her to take something; she made answer that she was no ways hungry, but that if they could give her a cure for a little girl belonging to one of her neighbours, who was mighty *daune*, and never well in herself since she had a fit of the *feur-gurtagh*, `[Feur gortac, literally, "the hungry grass" a weakness, the result of sudden hunger, said to come on persons during a long journey, or in particular places, in consequence of treading on a particular kind of fairy-enchanted grass, called the feur gorlac, by the native Irish. A bit of oaten cake is said to be the best cure for it.]` and to send herself home to Shark, she would be for ever obliged to them. The king, for that was the gentleman with the cocked hat, said he had ne'er a cure.
 
 "Indeed, then," said the mother of the child, "as I was the cause of your coming here, honest woman, you must get the cure; go home," says she, speaking for all the world like an Englishwoman, "and get ten green rishes from the side of the well of Aughavalla, `[A holy well, in the barony of Murrisk, not far from Croagh Patrick, celebrated for its "cures," and its blessed trout.]` throw the tenth away, `[The antiquity of tithes is instanced in numberless examples in our "cures," and fairy lore. For example, ten gooseberry thorns are plucked to cure "the stye;" nine are pointed at the part effected, and the tenth thrown over the left shoulder. Nine was the mystic number, but the additional one was added by the church for wise purpoes.]` and squeeze the juice of the rest of them into the bottom of a taycup, and give it to the colleen to drink, and she will get well in no time."
 
-The king then put a ring on her finger and told her not to lose it by any manner of means, and that as long as she wore this ring no person could hurt or harm her. He then rubbed a sort of an ointment on her eyes, and no sooner had he done so than she found herself in a frightful eave where she couldn't see her hand before her. "Don't be any ways afeard," says he; "this is to let you know what kind of a people we are that took you away. We are the fallen angels that the people up above upon the earth call the fairies.;" and then after a while she began to see about her, and the place was full of dead men's bones, and had a terrible nasty smell: and after a while he took her into another room where there was more light, and here she found a wonderful sight of young children, and them all blindfolded, and doing nothing but sitting upon *pookauns*. `[Mushrooms, fairy-stools, or puff-balls; the term is applied to all the family of fungi.]` These were the souls of infants that were never baptised. After that he shewed her a beautiful garden, and at the end of it there was a large gate which he opened with a key that was hung to his watchchain. "Now," says he, "you are not far from your own house;" so he let her out; and then says he, "who is that, that is coming down the boreen?" and when she turned her back to look who it was, behold the man with the red coat and the cocked hat had disappeared. Biddy Mannion could not see anybody, but she knew full well the place where she was in a minute, and that it was the little road that led down to the *annagh* `[A cut away bog.]` just beside her own house, and when she went up to the door she met another woman the very *nurral* of herself, just as fair as if she saw her in the looking-glass, who said to her as she passed, "What a *gomal* your husband is that didn't know the difference between you and me." She said no more, but Biddy went in and found her child in a beautiful sleep, with his face smiling, like the buttercups in May.
+The king then put a ring on her finger and told her not to lose it by any manner of means, and that as long as she wore this ring no person could hurt or harm her. He then rubbed a sort of an ointment on her eyes, and no sooner had he done so than she found herself in a frightful cave where she couldn't see her hand before her. "Don't be any ways afeard," says he; "this is to let you know what kind of a people we are that took you away. We are the fallen angels that the people up above upon the earth call the fairies;" and then after a while she began to see about her, and the place was full of dead men's bones, and had a terrible nasty smell: and after a while he took her into another room where there was more light, and here she found a wonderful sight of young children, and them all blindfolded, and doing nothing but sitting upon *pookauns*. `[Mushrooms, fairy-stools, or puff-balls; the term is applied to all the family of fungi.]` These were the souls of infants that were never baptised. After that he shewed her a beautiful garden, and at the end of it there was a large gate which he opened with a key that was hung to his watchchain. "Now," says he, "you are not far from your own house;" so he let her out; and then says he, "who is that, that is coming down the boreen?" and when she turned her back to look who it was, behold the man with the red coat and the cocked hat had disappeared. Biddy Mannion could not see anybody, but she knew full well the place where she was in a minute, and that it was the little road that led down to the *annagh* `[A cut away bog.]` just beside her own house, and when she went up to the door she met another woman the very *nurral* of herself, just as fair as if she saw her in the looking-glass, who said to her as she passed, "What a *gomal* your husband is that didn't know the difference between you and me." She said no more, but Biddy went in and found her child in a beautiful sleep, with his face smiling, like the buttercups in May.
 ```
 
+The same series of articles, as published in the Dublin University Magazine, would also appear three years later, in 1852, in book form, as W. R. Wilde's *Irish popular superstitions*.
 
-```{admonition} TO DO
+A decade or so later, another paper appearing in the *Dublin University Magazine*, this time the October, 1862, issue, was reviewed in the *Dublin Weekly Nation*, the reviewer being pleased to note a paper on Irish folklore that included a version of the tale of the Fairy Nurse.
+
+```{admonition} We are pleased to find..., 1862
 :class: dropdown
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001424/18621018/063/0010
@@ -574,15 +563,18 @@ Dublin Weekly Nation - Saturday 18 October 1862
 The Dublin University Magazine for October. G. Herbert, 1862.—
 
 ... We are pleased to find the series of papers on "Leinster Folk Lore" continued, several of the legends in the present number, such as the "Fairy Nurse" &c, being interesting as examples of Celtic fancy in the old Pagan times. ...
+```
 
+The tale TO DO
 
-
-```{admonition} TO DO
+```{admonition} "The Fairy Nurse", in Dublin University Magazine, 1862
 :class: dropdown
 
 https://archive.org/details/sim_university-magazine_1862-10_60_358/page/436/mode/2up
 
 Dublin University Magazine  1862-10: Vol 60 Iss 358
+
+*Leinster Folk-Lore, Part IV*
 
 pp. 436-450
 
@@ -615,14 +607,19 @@ THE FAIRY NURSE.
 "Begonies, she never saw a stim after with that one till the day of her death."
 ```
 
+Re: the above - match it to Bridget Cleary???
+TO DO bridget cleary breakout box
 
-ALSO 
+```{admonition} The Tragic Case of Bridget Cleary
+:class: dropdown seealso
 
-TO DO In the same way that X appeared later as Y, so Z etc
+TO DO
 
-Re: the below - match it to Bridget Cleary???
+```
 
-```{admonition} TO DO
+In the same way that the series on *"Irish Popular Superstitions"* would later appear in book form, so too did material from the *"Leinster Folk-Lore"* series, this time as Patrick Kennedy's *Legendary Fictions of the Irish Celts*, published in 1866.
+
+```{admonition} "The Fairy Nurse", in *Legendary Fictions of the Irish Celts*, Patrick Kennedy, 1866
 :class: dropdown
 
 https://archive.org/details/legendaryfictio00kenngoog/page/n126/mode/2up
@@ -658,16 +655,16 @@ It is hard to have anything to do with the good people without getting a mark fr
 Begonies, she never saw a stim after with that one till the day of her death.
 ```
 
+A comprehensive review of Kennedy's book appeared in the *Morning Post* in November, 1866.
 
-
-```{admonition} TO DO
+```{admonition} Legends of the Irish Celts, review, November 1866
 :class: dropdown seealso
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18661116/009/0003
 
 Morning Post - Friday 16 November 1866
 
-LEGENDS OF THE IRISH CELTS. `[Legendary Fictions of the Irish Celts. Collected and narrated by Patrick Kennedy. Londomn Macmillan and Co.]` From a very remote antiquity all branches of the Celtic race have inherited a multitude of traditions of the wild and wonderful, relating to the exploits of fabulous heroes, the mystic agencies of unseen spiritual beings, or the ghostly re-appearance of the dead. Originating in rude ages, when the untutored mind is peculiarly liable to superstition and exaggeration, such legends still preserve a marvellous vitality, and yield but slowly and reluctantly to the enlightenment of knowledge and philosophy. They are often cherished, even by the educated and sceptical, as possessing the charm associated with venerable auntiquity, and the romance inseparable from the mystical unknown; while by the uninstructed and imaginative Celtic peasant traditional tales of mythical heroes, and supernatural beiugs and appearances, are told and wondered at with a thrilling belief in their reality. The Irish peasantry, in particular, cling with affectionate tenacity to their immemorial traditions of visionary heroes, fairy influences, and warning apparitions from the grave. One of the chief amusements of their festive gatherings is the narration of such stories; and, when they are related with the solemnity, pathos, or humour of the practised storyteller, they never fail to amuse the old, while they are listened to with ecstatic delight by tha young. Mr. Kennedy lias collected in a thick vollume a great variety of those legends, ranging through every imaginable phase of wonder and superstition; and yet he concludes the work with the observation that what he presents is a mere fraction of the wealth of Celtic fiction. The collection has been made with an industry stimulated by the author's taste for antiquarian investigations, but the greater part of the volume consists of stories related to him by word of mouth in his visits to persons capable of enriching its pages. Some of the oral narratives he corrected from improved versions of them in the Bardic historians and aucient manuscripts, and no story is copied from any writer of the present or past generation. The Ossianic portion of the volume preserves numerous legends of Fion, son of Cumhail, King of Leinster. Fion, popularly called Fann or Finn MacCuil, was a real personage of military fame, slain at the Boyne, A.D. 233. He is invested by the romantic historians of Ireland with the command of the national militia, the Fianna Eirionn, or Fians of Erin. The term Fians is supposed to mean giants or heroes, and is applied to the warriors of Albanach (Scotland) as well as to those of Ireland. Their chief employment was to defend the country from invaders, and for that purpose they were generally stationed in the neighbourhood of harbours. They were men of free birth, and a postulant for admission into the order was required to be so expert in military exercises that, merely armed with a stick and shield, he could defend his otherwise unguarded body from half-a-dozen men darting spears at him from a distance of nine ridges. The institution does not appear to have been long-lived, no records being left of it of greater extent than three generations. Most of the chiefs of this militia were killed at a battle with King Cairbre. Oisin, or Ossian, the son of Fion MacCuil — probably equivalent to Fin-gal — survived the fight, and lived till the arrival of St. Patrick. Some of his poems relating to Fion and his knights are preserved in the Book of Leinsttr. Oisin is especially eloquent in praise of his own son Oscur the Invincible, whom he mentions as treacherously slain by Kiug Cairbre:—
+LEGENDS OF THE IRISH CELTS. `[Legendary Fictions of the Irish Celts. Collected and narrated by Patrick Kennedy. London Macmillan and Co.]` From a very remote antiquity all branches of the Celtic race have inherited a multitude of traditions of the wild and wonderful, relating to the exploits of fabulous heroes, the mystic agencies of unseen spiritual beings, or the ghostly re-appearance of the dead. Originating in rude ages, when the untutored mind is peculiarly liable to superstition and exaggeration, such legends still preserve a marvellous vitality, and yield but slowly and reluctantly to the enlightenment of knowledge and philosophy. They are often cherished, even by the educated and sceptical, as possessing the charm associated with venerable auntiquity, and the romance inseparable from the mystical unknown; while by the uninstructed and imaginative Celtic peasant traditional tales of mythical heroes, and supernatural beiugs and appearances, are told and wondered at with a thrilling belief in their reality. The Irish peasantry, in particular, cling with affectionate tenacity to their immemorial traditions of visionary heroes, fairy influences, and warning apparitions from the grave. One of the chief amusements of their festive gatherings is the narration of such stories; and, when they are related with the solemnity, pathos, or humour of the practised storyteller, they never fail to amuse the old, while they are listened to with ecstatic delight by tha young. Mr. Kennedy has collected in a thick volume a great variety of those legends, ranging through every imaginable phase of wonder and superstition; and yet he concludes the work with the observation that what he presents is a mere fraction of the wealth of Celtic fiction. The collection has been made with an industry stimulated by the author's taste for antiquarian investigations, but the greater part of the volume consists of stories related to him by word of mouth in his visits to persons capable of enriching its pages. Some of the oral narratives he corrected from improved versions of them in the Bardic historians and aucient manuscripts, and no story is copied from any writer of the present or past generation. The Ossianic portion of the volume preserves numerous legends of Fion, son of Cumhail, King of Leinster. Fion, popularly called Fann or Finn MacCuil, was a real personage of military fame, slain at the Boyne, A.D. 233. He is invested by the romantic historians of Ireland with the command of the national militia, the Fianna Eirionn, or Fians of Erin. The term Fians is supposed to mean giants or heroes, and is applied to the warriors of Albanach (Scotland) as well as to those of Ireland. Their chief employment was to defend the country from invaders, and for that purpose they were generally stationed in the neighbourhood of harbours. They were men of free birth, and a postulant for admission into the order was required to be so expert in military exercises that, merely armed with a stick and shield, he could defend his otherwise unguarded body from half-a-dozen men darting spears at him from a distance of nine ridges. The institution does not appear to have been long-lived, no records being left of it of greater extent than three generations. Most of the chiefs of this militia were killed at a battle with King Cairbre. Oisin, or Ossian, the son of Fion MacCuil — probably equivalent to Fin-gal — survived the fight, and lived till the arrival of St. Patrick. Some of his poems relating to Fion and his knights are preserved in the Book of Leinsttr. Oisin is especially eloquent in praise of his own son Oscur the Invincible, whom he mentions as treacherously slain by Kiug Cairbre:—
 
 "My sou urged his course  
 Through the battalions of Tare,  
@@ -695,10 +692,9 @@ Shall ne'er by woman's feet be trod."
 The reader will miss among the legends of witchery all mention of the terrific Banshee, who has so often shrieked forth the infallible portent of impending fate to the representatives of some ancient Irish families; to whom the appalling hereditary omen is said to occur in each successive generation. Among the household stories is one of "the three advices which the king with the red soles gave to his son." The first was never to bring home a beast from a fair after having been offered a fair price for it; the second, never to call in ragged clothes on a friend when he wanted a favour from him; the third, not to marry a wife with whose family he was not well acquainted. After the father's death the son puts those counsels to the test, and verifies their wisdom in an amusing manner. For instance, riding to a fair, he asked twenty "rings" for his horse. He was offered nineteen, but refused them, and on his return his horse, (and nearly himself) was killed. The volume is rich in tales of bewilderment and terror, many of them related in the droll colloquial style characteristic of the imaginative and superstitious Irish peasant. A glossary of Irish words employed in the narratives is added at the end of the book. There are tales of battles, cattle-raids, courtships, and elopements; and legends of the Irish lakes, to most of which traditions of the supernatural are attached. Many of the stories are purposeless; others deduce a moral of more or less moment, but most Celtic fictions appear to have been devised and preserved for amusement rather than instruction. The author has taken great pains in the compilation, and his style of narration is animated and varied. He has produced an ample store of narratives calculated to amuse a fireside circle by exciting alternate curiosity and wonder, awe and laughter.
 ```
 
+On being reprinted in [1891](https://archive.org/details/cu31924029911017/page/n11/mode/2up), *Legendary Fictions of the Irish Celts* was reviewed once again, as in this example from *The Queen*.
 
-Reprinted [1891](https://archive.org/details/cu31924029911017/page/n11/mode/2up) TO DO
-
-```{admonition} TO DO
+```{admonition} Good service to the history of mankind, April 1892
 :class: dropdown seealso
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0002627/18920416/376/0064
@@ -709,23 +705,38 @@ Legendary Fictions of the Irish Celts. Collected and narrated by PATRICK KENNEDY
 Anyone who collects the oral traditions of a race does good service to the history of mankind. This method of communication of a race's beliefs, superstitions. and history has been so effectively killed by the School Board, and other so-called instructive agencies, that even by the next generation these hearthside stories of so great interest and antiquity will have wholly faded into oblivion. Tales which have wandered all over Asia and Europe can be picked up, mutilated, and distorted often, but with their original germ underneath, by the fireside of many an unlettered Irishman's hut, or heard amidst the winter stories in a snug Iceland dwelling. Many of these toles date back into a remote past, long before the Christian era, and are of incalculable value to the philologist, historian, and ethnologist. With the tremendous spread of the rubbishy penny and halfpenny journals these old tales fade into oblivion, and it is a gracious and goodly task to rescue them before they sink into forgetfulness. Mr Kennedy has divided his very interesting book into five portions: (1) "Household Stories," which refer to such domestic events as a bad stepmother, and a father's advice to his son; (2) "Legends of the Good People," a fascinating collection of tales of changelings, fairy nurses, and enchanted palaces; (3) "Witchcraft. Sorcery, Ghosts, and Fetches;" (4) "Ossianic and other Early Legends," stories which take us back into that dim and shadowy past wrapped in such impenetrable gloom; (5) "Legends of the Celtic Saints," which contain the beautiful and romantic stories of St. Brendain and the island of the birds, and the legends of St. Patrick. So much more remains to be done in the way of collecting old stories before they pass away for ever, that, though, as Mr Kennedy says, his volume presents but a mere fraction of the wealth of Celtic fiction, he should be warmly thanked for his present volume. One blemish should, however, be pointed out, and that is that Mr Kennedy should have preserved one uniform system in the spelling of his Irish names. It does not matter if they are spelt phonetically, or according to classical Irish spelling; but the same method should have been used throughout, and names should not be spelt phonetically in one story, and according to Irish orthography in another.
 ```
 
----
+
+## TO DO find a title for this section
+
+
+
+In the [Saturday 12 September 1874](https://britishnewspaperarchive.co.uk/viewer/BL/0003226/18740912/018/0004) edition of *Ben Brierley's Journal*, an article appeared entitled *"Goblin Tales of Lancashire by James Bowker"*. The introductory piece was *"[t]o be followed weekly by the first of twenty-four stories, occasionally illustrated."*
+
+```{admonition} "Brierley, Benjamin", *Encyclopedia Britannia*, 1911
+:class: dropdown seealso
+
+https://archive.org/details/encyclopedia-britannica-volume-4/mode/2up
+
+Encyclopedia Britannica, Volume 4
+
+1911
+
+p. 563
+
+BRIERLEY, BENJAMIN (1825-1806), English weaver and writer in Lancashire dialect, was born near Manchester, the son of humble parents, and started life in a textile factory, educating himself in his spare time. At about the age of thirty he began to contribute articles to local papers, and the republication of some of his sketches of Lancashire character in *A Summer Day in Daisy Nook* (1859) attracted attention. In 1863 he definitely took to journalism and literature as his work, publishing in 1863 his *Chronicles of Waverlow*, and in 1864 a long story called *The Layrock of Langley Side* (afterwards dramatized), followed by others. He started in 1869 Ben Brierley’s Journal, a weekly, which continued till 1891, and he gave public readings from his own writings, visiting America in 1880 and 1884. His various *Ab-o'-th'- Yate* sketches (about America, London, &c.), and his pictures of Lancashire common life were very pepular, and were collected after his death. In 1884 he lost his savings by the failure of a building society, and a fund was raised for his support. He died on the 18th of January 1896, and two years later a statue was erected to him in Queen's Park, Manchester.
+
+```
+
+In the [Saturday 17 October 1874](https://britishnewspaperarchive.co.uk/viewer/bl/0003226/18741017/061/0003) edition, in a column entitled *The Story-Teller*, the continuation of Bowker's *Goblin Tales* serialisation included two stories: *No. VI—The Little Man's Gift*, and *No. VII.— Mother and Child*. The first of these tales includes a variant of the Fairy Nurse in which a mother visiting a healing well (the Fairies' Well, near Blackpool) is presented with a cure for her child's failing eyesight, which she then tries on her own eye with the typical consequence.
+
+```{admonition}
+:class: dropdown
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0003226/18741017/061/0003
+
 Ben Brierley's Journal - Saturday 17 October 1874
 
-Column called "The Story-Teller"
-
-
-
-First appeared with an introeuction in 
-
-https://britishnewspaperarchive.co.uk/viewer/BL/0003226/18740912/018/0004
-Ben Brierley's Journal - Saturday 12 September 1874
-
-and then *"[t]o be followed weekly by the first of twenty-four stories, occasionally illustrated."*
-
-The XXX appears as
+Then republished in:
 
 https://archive.org/details/goblintalesoflan00bowkiala/page/160/mode/2up
 
@@ -746,6 +757,16 @@ When she reached home and told the strange story to her wondering husband, the n
 Some years had passed, — and, as the girl had never had a relapse, the strange gift was almost forgotten, — when one day, in the market-place at Preston, the woman, who was haggling about the price of a load of potatoes, saw before her the identical little fellow in green attire from whom, long before, she had received the box of wonder-working ointment. Although he was busily engaged in a pursuit in which, perhaps, few gentlemen would care to be interrupted, that of stealing corn from an open sack, the thoughtless woman, regardless of etiquette, and yielding to the sudden impulse which prompted her to thank him, stepped forward, and, grasping the fairy's hand, gave utterance to her gratitude.
 
 To her surprise, however, the little fellow seemed very angry with her, and, instead of acknowledging her thanks, hastily asked if she could see him with both eyes, and if she had used the ointment intended for her child. The frightened woman at once said that she saw him with only one eye, and was entering into a long account of the circumstances under which, with maternal instinct, she had tested the value of the gift, when, without more ado, the irritated fairy struck her a violent blow and vanished, and from that time forward the poor woman, instead of being able to see better than her neighbours, was blind of one eye. The daughter, however, often saw the fairies, but, profiting by her mother's painful experience, she was wise enough to refrain from speaking to them either when they gathered by moonlight beneath the trees or in broad daylight broke the Eighth Commandment, utterly unconscious that they were observed by a mortal to whom had been given the wondrous gift of fairy vision."
+```
+
+The series was republished several years later, in 1878, in book form, as James Bowker's, *Goblin tales of Lancashire*. As well as including *The Little Man'S Gift*, an appendix providing notes on each of the tales added some commentary relating to wider spread beliefs on the effects of fairy ointment.
+
+```{admonition} The belief in the efficacy of fairy ointment, 1878
+:class: dropdown
+
+https://archive.org/details/goblintalesoflan00bowkiala/page/160/mode/2up
+
+James Bowker, *Goblin tales of Lancashire*, 1878
 
 p259-60
 
@@ -765,6 +786,7 @@ she becomes blind. In another Cornish legend a green ointment, made with four-le
 The Scandinavian belief appears to have been that, although the hill folk could bestow the gift of this sight upon whom they chose, all children born on Sunday possessed the faculty. This superstition seems to survive in a slightly altered from in the Lancashire one that children born during twilight can see spirits and foretell deaths, the latter faculty, probably, having been substituted for the prophetic power of the chosen of the elves in the Northern mythology.
 
 It is more than probable that these ointment stories came from the East. Who does not remember the charming history of the blind man, Baba Abdalla, whose sight was destroyed by a little miraculous ointment, and afterwards as wonderfully restored by a box on the ear?
+```
 
 ---
 
@@ -855,7 +877,7 @@ With regard to Mr. D. E. Davies's tale of the Corwrion midwife, and the referenc
 
 TO DO
 
-```{admonition} TO DO
+```{admonition} Fairy Births and Human Midwifes, December 1889
 :class: dropdown
 
 https://archive.org/details/archaeologicalre04londuoft/page/328/mode/2up
@@ -951,7 +973,7 @@ FAIRY BIRTHS AND HUMAN MIDWIVES.
 
 TO DO
 
-```{admonition} TO DO
+```{admonition} The typical tale, June 1890
 :class: dropdown
 
 https://archive.org/details/folklore01folkuoft/page/206/mode/2up
@@ -1000,13 +1022,13 @@ These traditions lead us naturally to the legend of Lady Godiva. As generally to
 
 ```
 
-[Do Lady Godiva elsewhere?]
+[Do Lady Godiva elsewhere?] as see also?
  
 
 ---
 
 ```{admonition} TO DO
-:dropdown: class
+:class: dropdown
 
 https://archive.org/details/bookofwestheingi00bari/page/188/mode/2up
 
@@ -1092,7 +1114,7 @@ TO DO
 
 
 
-```{admonition} TO DO
+```{admonition} *Tales of the Fairies and of the Ghost World*, review, 1895
 :class: dropdown seealso
 
 https://britishnewspaperarchive.co.uk/viewer/BL/0005839/18950518/086/0025?browse=true
@@ -1158,11 +1180,10 @@ A little later the fairy made his way to the old woman.
 The moment she said that he struck her left eye and took the sight from it. She went home blind of one eye, and was that way the rest of her life.
 ```
 
---
+
 
 TO DO
 
----
 
 https://archive.org/details/cu31924092530645/page/n5/mode/2up vol 1
 https://archive.org/details/cu31924092530652/page/n5/mode/2up vol 2
@@ -1174,8 +1195,11 @@ vol I, p63
 
 Next comes a story about a midwife who lived at Corwrion. 'One of the fairies called to ask her to come and attend on his wife. Off she went with him, and she was astonished to be taken into a splendid palace. There she continued to go night and morning to dress the baby for some time, until one day the husband asked her to rub her eyes with a certain ointment he offered her. She did so, and found herself sitting on a tuft of rushes, and not in a palace. There was no baby: all had disappeared. Some time afterwards she happened to go to the town, and whom should she there see busily buying various wares, but the fairy on whose wife she had been attending. She addressed him with the question, "How are you to-day?" Instead of answering her, he asked, "How do you see me?" "With my eyes," was the prompt reply. "Which eye?" he asked. "This one," said the woman, pointing to it; and instantly he disappeared, never more to be seen by her.' This tale, as will be seen on comparison later, is incomplete, and probably incorrect.
 
-vol I, p98-100
+
 https://archive.org/details/cu31924092530645/page/n149/mode/2up
+Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
+
+vol I, p98-100
 
 A tale which partially reminds one of that given by Dewi Glan Ffrydlas respecting the Corwrion midwife, referred to at p. 63 above, was published by Mr. W. Jones in the fourth volume of the Brython, p. 251: freely rendered into English, it runs thus:—
 
@@ -1185,29 +1209,86 @@ With this ending of the story, one should contrast Dewi Glan Ffrydlas' tale to w
 
 'But the fair family did not,' Mr. William Jones goes on to say, 'always give mortals the means of good living'; sometimes they made no little fun of them. Once on a time the Drws y Coed man was going home from Bedgelert Fair, rather merry than sad, along the old road over the Gader, when he saw, on coming near the top of the Gader, a fine, handsome house near the road, in which there was a rare merrymaking. He knew perfectly well that there was no such a building anywhere on his way, and it made him think that he had lost his way and gone astray; so he resolved to turn into the house to ask for lodgings, which were given him. At once, when he entered, he took it to be a nuptial feast (neithior) by reason of the jollity, the singing, and the dancing. The house was full of young men, young women, and children, all merry, and exerting themselves to the utmost. The company began to disappear one by one, and he asked if he might go to bed, whereupon he was led to a splendid chamber, where there was a bed of the softest down with snowwhite clothes on it. He stripped at once, went into it, and slept quietly enough till the morning. The first thing to come to his mind when he lay half asleep, half awake, was the jollity of the night before, and the fact of his sleeping in a splendid chamber in the strange house. He opened his eyes to survey his bedroom, but it was too wide: he was sleeping on the bare swamp, with a clump of rushes as his pillow, and the blue sky as his coverlet.'
 
----
 
 
-TO DO
+https://archive.org/details/cu31924092530645/page/n197/mode/2up
+
+Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
+
+Vol. I, pp147
+
+... A story current at ILanuwchllyn, concerning a midwife who attends on a fairy mother, resembles the others of the same group: for one of them see p. 63 above. In the former, however, one misses the ointment, and finds instead of it that the midwife was not to touch her eyes with the water with which she washed the fairy baby. But as might be expected one of her eyes happened to itch, and she touched it with her fingers straight from the water. It appears that thenceforth she was able to see the fairies with that eye; at any rate she is represented some time afterwards recognizing the father of the fairy baby at a fair at Bala, and inquiring of him kindly about his family. The fairy asked with which eye she saw him, and when he had ascertained this, he at once blinded it, so that she never could see with it afterwards. Hywel also has it that the *Tylwyth Teg* formerly used to frequent the markets at Bala, and that they used to swell the noise in the market-place without anybody being able to see them: this was a sign that prices were going to rise.
+
+
+
+https://archive.org/details/cu31924092530645/page/n263/mode/2up
+
+Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
+
+Vol. I, pp211-214
+
+'An old man and his wife lived at the Garth Dorwen in some period a long while ago. They went to Carnarvon to hire a servant maid at the Allhallows'  fair; `[The hiring time in Wales is the beginning; of winter and of summer; or, as one would say in Welsh, at the Calends of Winter and the Calends of May respectively. In North Cardiganshire the great hiring fair was held at the former date when I was a boy, and so, as I learn from my wife, it was in Carnarvonshire.]` and it was the custom then for young men and women who stood out for places to station themselves at the top of the present *Maes*, by a little green eminence which was where the present Post-office stands. The old man and his wife went to that spot, and saw there a lass with yellow hair, standing a little apart from all the others ; the old woman went to her and asked her if she wanted a place. She replied that she did, and so she hired herself at once and came to her place at the time fixed. In those times it was customary during the long winter nights that spinning should be done after supper. Now the maid servant would go to the meadow to spin by the light of the moon, and the *Tylwyth Teg* used to come to her to sing and dance. But some time in the spring, when the days had grown longer, Eilian escaped with the *Tylwyth Teg*, so that she was seen no more. The field where she was last seen is to this day called Eilian's Field, and the meadow is known as the Maid's Meadow. The old woman of Garth Dorwen was in the habit of putting women to bed, and she was in great request far and wide. Some time after Eilian's escape there came a gentleman on horseback to the door one night when the moon was full, while there was a slight rain and just a little mist, to fetch the old woman to his wife. So she rode off behind the stranger on his horse, and came to Rhos y Cowrt. Now there was at that time, in the centre of the *rhos*, somewhat of a rising ground that looked like an old fortification, with many big stones on the top, and a large cairn of stones on the northern side: it is to be seen there to this day, and it goes by the name of Bryn y Pibion, but I have never visited the spot. When they reached the spot, they entered a large cave, and they went into a room where the wife lay in her bed; it was the finest place the old woman had seen in her life. When she had successfully brought the wife to bed, she went near the fire to dress the baby; and when she had done, the husband came to the old woman with a bottle of ointment `[n a Cornish story mentioned in Choice Notes, p. 77, we have, instead of ointment, simply soap. See also Mrs. Bray's Banks of the Tamar, pp. 174-7, where she alludes to H. Cornelius Agrippa's statement how such ointment used to be made — the reference must, I think, be to his book De Occulta PhUosophia Libri III (Paris, 1567), i. 45 (pp. 81-2).]` that she might anoint the baby's eyes; but he entreated her not to touch her own eyes with it. Somehow after putting the bottle by, one of the old woman's eyes happened to itch, and she rubbed it with the same finger that she had used to rub the babys eyes. Then she saw with that eye how the wife lay on a bundle of rushes and withered ferns in a large cave, with big stones all round her, and with a little fire in one corner; and she saw also that the lady was only Eilian, her former servant girl, whilst, with the other eye, she beheld the finest place she had ever seen. Not long afterwards the old midwife went to Carnarvon to market, when she saw the husband, and said to him, "How is Eilian?" "She is pretty well," said he to the old woman, "but with what eye do you see me?" "With this one," was the reply; and he took a bulrush and put her eye out at once.'
+
+That is exactly the tale, my informant tells me, as he heard it from his mother, who heard it from an old woman who lived at Garth Dorwen when his mother was a girl, about eighty-four years ago, as he guessed it to have been; but in his written version he has omitted one thing which he told me at Glynllifon, namely, that, when the servant girl went out to the fairies to spin, an enormous amount of spinning used to be done. I mention this as it reminds me of the tales of other nations, where the girl who cannot spin straw into gold is assisted by a fairy, on certain conditions which are afterwards found very inconvenient. It may be guessed that in the case of Eilian the conditions involved her becoming a fairy's wife, and that she kept to them. Lastly, I should like the archaeologists of Carnarvonshire to direct their attention to Bryn y Pibion; for they might be expected to come across the remains there of a barrow or of a fort.
+
+
+TH: the above is close to many of the elements of Hugh Lupton's telling? TO DO
+
+
+https://archive.org/details/cu31924092530645/page/n269/mode/2up
+
+Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
+
+Vol. I, pp119-220
+
+One day in August of the same summer I went to have another look at the old inscribed stone at Gesail Gyfarch `[As it stands now this would be unmutated Cesel Gyfarch, 'Cyfarch's Nook,' but there never was such a name. There was, however, Elgyfarch or Aelgyfarch and Rhygyfarch, and in such a combination as Césel Elgyfarch there would be every temptation to drop one unaccented el.]` near Tremadoc, and, instead of returning the same way, I walked across to Criccieth Station; but on my way I was directed to call at a farm house called ILwyn y Mafon Uchaf, where I was to see Mr. Edward ILewelyn, a bachelor then seventy-six years of age. He is a native of the neighbourhood, and has always lived in it ; moreover, he has now been for some time blind. He had heard a good many fairy tales.
+
+... Mr. ILewelyn was also acquainted with the tale of the midwife that went to a fairy family, and how the thieving husband had deprived her of the use of one eye. He also spoke of the fairies changing children, and how one of these changelings, supposed to be a baby, expressed himself to the effect that he had seen the acorn before the oak, and the egg before the chick, but never anybody who brewed ale in an egg-shell: see p. 62 above.
+
+
+
+https://archive.org/details/cu31924092530645/page/n273/mode/2up
+
+Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
+
+Vol. I, pp222-3
+
+When I was staying at Pwttheli the same summer, I went out to the neighbouring village of Four Crosses, and found a native of the place, who had heard a great many curious things from his mother. His name was Lewis Jones: he was at the time over eighty, and he had formerly been a saddler. Among other things, his mother often told him that her grandmother had frequently been with the fairies, when the latter was a child. She lived at Plas Du, and once she happened to be up near Carn Bentyrch when she saw them. ...
+
+... Lewis Jones related to me the story of the midwife — he pronounced it in Welsh 'midwaith ' — who attended on a fairy. As in the other versions, she lost the sight of one eye in consequence of her discovering the gentleman fairy thieving; but the fair at which this happened was held in this instance at Nefyn.
+
+
+
+https://archive.org/details/cu31924092530645/page/n277/mode/2up?q=midwife
+
+Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
+
+Vol. I, pp226-8
+
+At Nefyn, in ILeyn, `[In medieval Welsh poetry this name was still a dissyllable; but now it is pronounced ILyn, in conformity with the habit of the Gwyndodeg, which makes into porfeyd what is written porfeyd, 'pastures,' and pronounced porfëid in North Cardiganshire. So in the ILeyn name Sam FyVieym the second vocable represents Maelteyrn, in the Record of Carnarvon (p. 38) Mayltern: it is now sounded Mylltyrn with the second y short and accented. ILeyn is a plural of the people (genitive ILaen in Porth Dinllaen), used as a singular of their country, like Cymru = Cymry, and Prydyn. The singular is llain, 'a spear,' in the Book of Aneurin: see Skene, ii. 64, 88, 92.]` I had some stories about the *Tylwyth Teg* from Lowri Hughes, the widow of John Hughes, who lives in a cottage at Pen Isa'r Dref, and is over seventy-four years of age.
+
+... My informant had also heard the midwife story, and she was aware that the fairies changed people's children ; in fact, she mentioned to me a farm house not far off where there was a daughter of this origin then, not to mention that she knew all about Elis Bach. ...
+
+At Nefyn, Mr. John Williams (Alaw ILeyn) got from his mother the tale of the midwife. It stated that the latter lost the sight of her right eye at Nefyn Fair, owing to the fairy she there recognized, pricking her eye with a green rush.
+
+
 
 ```{admonition} TO DO
 :class: dropdown
 
-https://archive.org/details/folkloreofwestmi00daviuoft/folkloreofwestmi00daviuoft/page/134/mode/2up
+https://archive.org/details/cu31924092530645/page/n297/mode/2up
 
-Jonathan Ceredig Davies, *Folk-lore of west and mid-Wales*, 1911
+Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
 
-pp. 134-5
+Vol. I, pp246-8
 
-FAIRY MOTHERS AND HUMAN MIDWIVES.
+... Besides the usual tales concerning men enticed into the ring and retained in Faery for a year and a day, and concerning the fairies' dread of *pren cerdingen* or mountain ash, I had the midwife tale in two or three forms, differing more or less from the versions current in North Wales. For the most complete of them I am indebted to one of the young men studying at the Grammar School, Mr. D. ILedrodian Davies. It used to be related by an old woman who died some thirty years ago at the advanced age of about 100. She was Pàli, mother of old Rachel Evans, who died seven or eight years ago, when she was about eighty. The latter was a curious character, who sometimes sang *maswed*, or rhymes of doubtful propriety, and used to take the children of the village to see fairy rings. She also used to see the *Tylwyth*, and had many tales to tell of them. But her mother, Pàli, had actually been called to attend at the confinement of one of them. The beginning of the tale is not very explicit; but, anyhow, Pàli one evening found herself face to face with the fairy lady she was to attend upon. She appeared to be the wife of one of the princes of the country. She was held in great esteem, and lived in a very grand palace. Everything there had been arranged in the most beautiful and charming fashion. The wife was in her bed with nothing about her but white, and she fared sumptuously. In due time, when the baby had been born, the midwife had all the care connected with dressing it and serving its mother. Pàli could see or hear nobody in the whole place but the mother and the baby. She had no idea who attended on them, or who prepared all the things they required, for it was all done noiselessly and secretly. The mother was a charming person, of an excellent temper and easy to manage. Morning and evening, as she finished washing the baby, Pàli had a certain ointment given her to rub the baby with. She was charged not to touch it but with her hand, and especially not to put any near her eyes. This was carried out for some time, but one day, as she was dressing the baby, her eyes happened to itch, and she rubbed them with her hand. Then at once she saw a great many wonders she had not before perceived; and the whole place assumed a new aspect to her. She said nothing, and in the course of the day she saw a great deal more. Among other things, she observed small men and small women going in and out, following a variety of occupations. But their movements were as light as the morning breeze. To move about was no trouble to them, and they brought things into the room with the greatest quickness. They prepared dainty food for the confined lady with the utmost order and skill, and the air of kindness and affection with which they served her was truly remarkable. In the evening, as she was dressing the baby, the midwife said to the lady, 'You have had a great many visitors to-day.' To this she replied, 'How do you know that? Have you been putting the ointment to your eyes?' Thereupon she jumped out of bed, and blew into her eyes, saying, 'Now you will see no more.' She never afterwards could see the fairies, however much she tried, nor was the ointment entrusted to her after that day. According, however, to another version which I heard, she was told, on being found out, not to apply the ointment to her eyes any more. She promised she would not; but the narrator thought she broke that promise, as she continued to see the fairies as long as she lived.
 
-The following story is to be found in Welsh in an interesting little book entitled "Ystraeon y Gwyll" by the late Mr. D. Lledrod Davies; and in English by Sir John Rhys in his great work "Celtic Folk-Lore":— The locality of the tale is Swyddffynon, near Ystrad Meurig, in Cardiganshire.
-
-"It used to be related by an old woman who died some thirty years ago at the advanced age of about 100. She was Pali, mother of old Rachel Evans, who died seven or eight years ago, when she was about eighty. The latter was a curious character, who sometimes sang "Maswedd," or rhymes of doubtful propriety, and used to take the children of the village to see fairy rings. She also used to see the "Tylwyth (Fairies), and had many tales to tell of them. But her mother, Pali, had actually been called to attend at the confinement of one of them. The beginning of the tale is not very explicit; but, anyhow, Pali one evening found herself face to face with the Fairy lady she was to attend upon. She appeared to be the wife of one of the princes of the country. She was held in great esteem, and lived in a very grand palace. Everything there had been arranged in the most beautiful and charming fashion. The wife was in her bed with nothing about her but white, and she fared sumptuously. In due time, when the baby had been born, the midwife had all the care connected with dressing it and serving its mother. Pali could see or hear nobody in the whole place, but the mother and the baby. She had no idea who attended on them, or who prepared all the things they required, for it was all done noiselessly and secretly. The mother was a charming person, of an excellent temper and easy to manage. Morning and evening, as she finished washing the baby, Pali had a certain ointment given her to rub the baby with. She was charged not to touch it, but with her hand, and especially not to put any near her eyes. This was carried out for some time, but one day, as she was dressing the baby, her eyes happened to itch, and she rubbed them with her hand. Then at once she saw a great many wonders she had not before perceived; and the whole place assumed a new aspect to her. She said nothing, and in the course of the day she saw a great deal more. Among other things, she observed small men and small women going in and out following a variety of occupations. But their movements were as light as the morning breezes. To move about was no trouble to them, and they brought things into the room with the greatest quickness. They prepared dainty food for the confined lady with the utmost order and skill, and the air of kindness and affection with which they served her was truly remarkable. In the evening, as she was dressing the baby, the midwife said to the lady, "You have had a great many visitors to-day." To this she replied, "How do you know that? Have you been putting this ointment to your eyes?" Thereupon she jumped out of bed, and blew into her eyes, saying, "Now you will see no more." She never afterwards could see the fairies, however much she tried, nor was the ointment entrusted to her after that day."
-
-There is a version of this story located in the neighbourhood of Llanuwchllyn, Merionethshire, and indeed in several other parts of Wales.
+Mr. D. IL. Davies has also a version like the North Wales ones. He obtained it from a woman of seventy eight at Bronnant, near Aberystwyth, who had heard it from one of her ancestors. According to her, the midwife went to the fair called Ffair Rhos, which was held between Ystrad Meurig and Pont Rhyd Fendigaid. `[This name means the Bridge of the Blessed Ford, but how the ford came to be so called I know not. The word hendigaid, 'blessed,' comes from the Latin verb benedico, 'I bless,' and should, but for the objection to nd in book Welsh, be bendigaid, which, in fact, it is approximately in the northern part of the county, where it is colloquially sounded Pont Rhyd Fyndiged, Fydiged, or even Fdiged, also Pont Rhyd mdiged, which represents the result of the unmutated form Bdiged coming directly after the d of rhyd. Somewhat the same is the case with the name of the herb Dail y Fendigaid, literally 'the Leaves of the Blessed' (in the feminine singular without any further indication of the noun to be supplied). This name means, I find, 'hypericum androsaemum, tutsan,' and in North Cardiganshire we call it Dail y Fyndiged or Fdiged, but in Carnarvonshire the adjective is made to qualify dail, so that it sounds Dail Bydigad or Bdigad, 'Blessed Leaves.']` There she saw a great many of the *Tylwyth* very busily engaged, and among others the lady she had been attending upon. That being so, she walked up to her and saluted her. The fairy lady angrily asked how she saw her, and spat in her face, which had the result of putting an end for ever to her power of seeing her or anybody of her race.
 
 ```
+
+The former tale is also reprinted in Jonathan Ceredig Davies, *Folk-lore of west and mid-Wales*, 1911, [pp. 134-5](https://archive.org/details/folkloreofwestmi00daviuoft/folkloreofwestmi00daviuoft/page/134/mode/2up), entitled *"Fairy Mothers and Human Midwives"*, and where the locality in which the tale is set is introduced as *"Swyddffynon, near Ystrad Meurig, in Cardiganshire"*. Davis also suuggests that *"[t]here is a version of this story located in the neighbourhood of Llanuwchllyn, Merionethshire, and indeed in several other parts of Wales"*.
 
 
 ## Variants in Northern Mythology
@@ -1239,32 +1320,23 @@ p11-13 (Norwegian Traditions)
 
 THE MIDWIFE.
 
-TO DO
+There was once a man and his wife that had an only daughter. Suddenly she disappeared, and notwithstand ing that her parents — who took the loss of their dear child sorely to heart — sought for her in every direction, they could not discover the faintest trace of her. A considerable time had elapsed, when late one evening there came a stranger to the house and asked the woman, who was at home alone, whether she would visit her daughter, who abode in the neighbourhood, and was in labour, and required her aid. The mother, who was both glad and grieved at this unexpected intelligence, instantly made herself ready, and by means of a thread, which the stranger gave her, was in one moment with her daughter, who gave birth to a lively, well-formed child. Before it was dressed, the man gave her a liquid, desiring her to rub it over the infant's body, at the same time cautioning her not to let any of it come in contact with herself. But her eye beginning to itch, she inadvertently rubbed it, and thus got some of the liquid in her eye. When her help was no longer required, the man — who was her daughter's husband and a Troll — told her she might depart, when by means of the thread she found herself in a few seconds again at home. The following day, while at work with her husband in the field, she on a sudden saw her daughter with her subterranean spouse walking close at her side. On her addressing them, her son-in-law asked her with astonishment, whether she really could see them? "Yes, surely, I can see you with my right eye," said the woman; but at the same instant the Troll touched her eye, and from that time she saw no more with it.
 
-There was once a man and his wife that had an only daughter. Suddenly she disappeared, and notwithstand ing that her parents — who took the loss of their dear child sorely to heart — sought for her in every direction, they could not discover the faintest trace of her. A con siderable time had elapsed, when late one evening there came a stranger to the house and asked the woman, who was at home alone, whether she would visit her daughter, who abode in the neighbourhood, and was in labour, and required her aid. The mother, who was both glad and grieved at this unexpected intelligence, instantly made herself ready, and by means of a thread, which the stranger gave her, was in one moment with her daughter, who gave birth to a lively, well-formed child. Before it was dressed, the man gave her a liquid, desiring her to rub it over the infant's body, at the same time cautioning her not to let any of it come in contact with herself. But her eye be ginning to itch, she inadvertently rubbed it, and thus got some of the liquid in her eye. When her help was no longer required, the man — who was her daughter's hus band and a Troll — told her she might depart, when by means of the thread she found herself in a few 'seconds again at home. The following day, while at work with her husband in the field, she on a sudden saw her daughter with her subterranean spouse walking close at her side. On her addressing them, her son-in-law asked her with astonishment, whether she really could see them? "Yes, surely, I can see you with my right eye," said the woman; but at the same instant the Troll touched her eye, and from that time she saw no more with it.
+The superstition of anointing the eyes, and being thereby enabled to see what would else be invisible, appears to have been generally current among the inhabitants of western Europe, both Keltic and Germanic. Instances of its prevalence in Denmark we shall see hereafter; of its existence in other countries, our own included, we give the following proofs.
 
-The superstition of anointing the eyes, and being thereby enabled to see what would else be invisible, appears to have been generally current among the inhabitants of western Europe, both Keltic and Germanic. Instances of its prevalence in Denmark we shall see hereafter; of its ex istence in other countries, our own included, we give the following proofs.
-
-Mrs. Bray (Letters to Southey) relates a story of the sage femme of Tavistock, who was one night summoned to a fairy labour, and who, on receiving an ointment to rub the child's eyes with (thinking, no doubt, that what was good for the baby must be equally so for herself), applied a little of it to one of her own eyes, when lo! all things around her suddenly ap peared in their true form, all delusion was dissipated. On the next market day she saw the old fellow who had conveyed her, pilfering from the stalls in the market, and accosted him. "What," exclaimed he, "do you see me to-day?" "See you! to be sure I do, and I see you are busy too." "And pray with which eye do you see all this?" "With my right." "Take that for meddling with what did not belong to you : you shall see me no more." He then struck her eye, and from that hour till the day of her death she was blind of that eye. `[Keightley, F. M. p. 301. 2 i^, p< 293. TO DO ]`
+Mrs. Bray (Letters to Southey) relates a story of the *sage femme* of Tavistock, who was one night summoned to a fairy labour, and who, on receiving an ointment to rub the child's eyes with (thinking, no doubt, that what was good for the baby must be equally so for herself), applied a little of it to one of her own eyes, when lo! all things around her suddenly appeared in their true form, all delusion was dissipated. On the next market day she saw the old fellow who had conveyed her, pilfering from the stalls in the market, and accosted him. "What," exclaimed he, "do you see me to-day?" "See you! to be sure I do, and I see you are busy too." "And pray with which eye do you see all this?" "With my right." "Take that for meddling with what did not belong to you: you shall see me no more." He then struck her eye, and from that hour till the day of her death she was blind of that eye. `[Keightley, F. M. p. 301.]`
 
 A similar story is related of a cottager and his wife at Nether Whitton.
 
-The author of 'Round about our Coal fire' (quoted by Brand, Pop. Antiq.) says, "The moment any one saw them (the fairies), and took no tice of them, they were struck blind of an eye2." ?? TO DO 2??
+The author of 'Round about our Coal fire' (quoted by Brand, Pop. Antiq.) says, "The moment any one saw them (the fairies), and took notice of them, they were struck blind of an eye." `[Keightley, F. M. p. 298.]`
 
-Ritson (Fairy Tales) relates that a woman who had been in their (the
+Ritson (Fairy Tales) relates that a woman who had been in their (the fairies') society, challenged one of the guests, whom she espied in the market selling fairy-butter. This freedom was deeply resented, and cost her the eye she first saw him with. `[Keightley, F. M. p. 309.]`
 
-
-airies') society, challenged one of the guests, whom she espied in the market selling fairy-butter. This freedom was deeply resented, and cost her the eye she first saw him with. `[Keightley, F. M. p. 309.]`
-
-In a Scottish tradition it is related that a fairy left a child to be suckled with a young woman of Nithsdale, and rubbed her eyes with a wonderful salve, by virtue of which she could discern the otherwise invisible fairy folk. Some of the salve she contrived to secure. Happening one day to meet the fairy lady, she attempted to shake hands with her. "What ee d' ye see me wi?" whispered she. "Wi them baith," said the woman. The fairy breathed on her eyes, and the salve lost its efficacy. `[Cromek's Remains of Nithsdale and Galloway Song, quoted by Keight ley, p. 353.]`
+In a Scottish tradition it is related that a fairy left a child to be suckled with a young woman of Nithsdale, and rubbed her eyes with a wonderful salve, by virtue of which she could discern the otherwise invisible fairy folk. Some of the salve she contrived to secure. Happening one day to meet the fairy lady, she attempted to shake hands with her. "What ee d' ye see me wi?" whispered she. "Wi them baith," said the woman. The fairy breathed on her eyes, and the salve lost its efficacy. `[Cromek's Remains of Nithsdale and Galloway Song, quoted by Keightley, p. 353.]`
 
 Mr. Keightley relates (F. M. p. 417), from a communication made to him by a lady in North Wales, of a gipsy, that desired the narrator, who wished to see fairies, to meet her by moonlight on the top of Craig y Dim's. She there washed his eyes with the contents of a phial which she had, and he instantly saw thousands of fairies, all in white, dancing to the sound of numerous harps.
 
-Gervase of Tilbury, who lived in the 12th century (I quote from Dobeneck, i. 45), speaks of certain water-sprites in the south of France called Drakes. These assume a human form and appear in the public market. They are said to inhabit the caverns of rivers, and to allure women and children while bathing, under the form of gold rings and cups, striving to obtain which they are suddenly dragged down to the bottom. This oftenest happens to women giving suck, whom the Drakes seize to suckle their own unblest offspring. These, after seven years thus past, sometimes return rewarded to our hemisphere. They relate that with the Drakes and their wives they dwelt in spacious palaces in the caverns and banks of the
-
-rivers On men thus seized the Drakes are said to feed. One day
-
-a Drake having given a woman in his service some eel-pasty, she happened to draw her fingers, greasy with the fat, over one eye and one side of her face, and thereby acquired a most clear and sharp power of vision under water. Having completed the third year of her servitude, and being re turned home, she one morning early met the Drake in the market-place of Beaucaire, whom she accosted, and inquired after her mistress and nursling. "With which eye did you recognise me?" asked the Drake. She pointed to the eye she had greased with the fat of the pasty. Having ascertained this, the Drake thrust his finger into that eye, and thus con tinued thenceforth unseen and unknown by all.
+Gervase of Tilbury, who lived in the 12th century (I quote from Dobeneck, i. 45), speaks of certain water-sprites in the south of France called Drakes. These assume a human form and appear in the public market. They are said to inhabit the caverns of rivers, and to allure women and children while bathing, under the form of gold rings and cups, striving to obtain which they are suddenly dragged down to the bottom. This oftenest happens to women giving suck, whom the Drakes seize to suckle their own unblest offspring. These, after seven years thus past, sometimes return rewarded to our hemisphere. They relate that with the Drakes and their wives they dwelt in spacious palaces in the caverns and banks of the rivers .... On *men* thus seized the Drakes are said to feed. One day a Drake having given a woman in his service some eel-pasty, she happened to draw her fingers, greasy with the fat, over one eye and one side of her face, and thereby acquired a most clear and sharp power of vision under water. Having completed the third year of her servitude, and being returned home, she one morning early met the Drake in the market-place of Beaucaire, whom she accosted, and inquired after her mistress and nursling. "With which eye did you recognise me?" asked the Drake. She pointed to the eye she had greased with the fat of the pasty. Having ascertained this, the Drake thrust his finger into that eye, and thus con tinued thenceforth unseen and unknown by all.
 
 A story somewhat similar is told of a Countess Ranzau.
 
@@ -1278,21 +1350,20 @@ https://archive.org/details/northernmytholog02thoruoft/page/n159/mode/2up
 
 Benjamin Thorpe, *Northern mythology, comprising the principal popular traditions and superstitions of Scandinavia, north Germany, and the Netherlands*, 1851, vol. II
 
-TO DO
-
 pp.128-130 (Danish Traditions)
 
 THE UNDERGROUND FOLK FETCH A MIDWIFE.
 
-One Christmas eve, as a woman was preparing meat for the family, an Elf-man came to her, begging her to ac company him and help his wife who was in labour. The woman having consented to accompany him, he took her on his back and descended with her into the earth through a fountain. Here the woman learned that the Elf-wife could not be delivered without the aid of a Christian woman, she being herself a Christian, but had been carried off by the Elf-man.
+One Christmas eve, as a woman was preparing meat for the family, an Elf-man came to her, begging her to accompany him and help his wife who was in labour. The woman having consented to accompany him, he took her on his back and descended with her into the earth through a fountain. Here the woman learned that the Elf-wife could not be delivered without the aid of a Christian woman, she being herself a Christian, but had been carried off by the Elf-man.
 
-When the child was born, the Elf-man took it in his arms and went away with it, which, as the mother told the woman, he did for the reason, that if he could find two newly married persons, in the bridal bed, before they had repeated their Paternoster, he could, by laying the child between them, procure for it all the good fortune that was designed for the newly married pair. The wife then instructed her helper as to what she had to do when the Elf-man returned: "First" said she, "you must eat nothing, if he asks you; for I ate, and therefore never returned. Next, if he will make you a present, and gives you the choice between something that looks like silver and something that looks like potsherds, do you choose the latter. And when he again bears you hence, seize, if you can, on a gooseberry bush, and say : Now, in the name of God, now I am on my own!"
+When the child was born, the Elf-man took it in his arms and went away with it, which, as the mother told the woman, he did for the reason, that if he could find two newly married persons, in the bridal bed, before they had repeated their Paternoster, he could, by laying the child between them, procure for it all the good fortune that was designed for the newly married pair. The wife then instructed her helper as to what she had to do when the Elf-man returned: "First" said she, "you must eat nothing, if he asks you; for I ate, and therefore never returned. Next, if he will make you a present, and gives you the choice between something that looks like silver and something that looks like potsherds, do you choose the latter. And when he again bears you hence, seize, if you can, on a gooseberry bush, and say: Now, in the name of God, now I am on my own!"
 
-In an hour the man returned with the child, quite angry that he had not found what he had been seeking after. He then offered the stranger woman some refection, and on her refusal to take any, said: "They did not strike thee on the mouth who taught thee that." He then offered her a present, but she accepted only some black potsherds ; and when she again found herself on the face of the earth, she did as she had been directed. With the potsherds in her apron, she now proceeded to her dwelling, but before she entered she cast them into the ash-hole, and refused to tell her husband where she had been. But when the maid-servant came running into the room, say ing that something shone like silver in the ash-hole, and when she herself saw that it was pure silver, she told her husband where she had been, and they came into good circumstances through that Christmas eve.
+In an hour the man returned with the child, quite angry that he had not found what he had been seeking after. He then offered the stranger woman some refection, and on her refusal to take any, said: "They did not strike thee on the mouth who taught thee that." He then offered her a present, but she accepted only some black potsherds; and when she again found herself on the face of the earth, she did as she had been directed. With the potsherds in her apron, she now proceeded to her dwelling, but before she entered she cast them into the ash-hole, and refused to tell her husband where she had been. But when the maid-servant came running into the room, say ing that something shone like silver in the ash-hole, and when she herself saw that it was pure silver, she told her husband where she had been, and they came into good circumstances through that Christmas eve.
 
 One night a Troll came to a midwife in Bingsbierg and requested her to accompany him down through a mound to help his wife. She followed him into the earth, without suffering any injury; but having afterwards divulged what she had seen in the mound, she lost her sight.
 
-An Elf-wife who was in labour sent a message to a mid wife, requesting her aid. Having received the child, the Elf-folk gave her an ointment to rub over its eyes ; but in doing which some adhered to her fingers, so that she inadvertently anointed her own eyes with it. On her way home she remarked that something had happened to her sight; for as she passed by a rye-field she saw that it swarmed with small Elf-folk, who went about clipping off the ears. "What are ye doing there?" cried the woman, on seeing them steal the corn from the field; and got for answer: "If thou canst see us, thus thou shalt be served." They then thronged about her and put out her eyes.
+An Elf-wife who was in labour sent a message to a midwife, requesting her aid. Having received the child, the Elf-folk gave her an ointment to rub over its eyes; but in doing which some adhered to her fingers, so that she inadvertently anointed her own eyes with it. On her way home she remarked that something had happened to her sight; for as she passed by a rye-field she saw that it swarmed with small Elf-folk, who went about clipping off the ears. "What are ye doing there?" cried the woman, on seeing them steal the corn from the field; and got for answer: "If thou canst see us, thus thou shalt be served." They then thronged about her and put out her eyes.
+
 ```
 
 
@@ -1303,50 +1374,47 @@ https://archive.org/details/northernmytholog03thoruoft/page/n63/mode/2up
 
 Benjamin Thorpe, *Northern mythology, comprising the principal popular traditions and superstitions of Scandinavia, north Germany, and the Netherlands*, 1851, vol. III
 
-TO DO
-
 pp. 50-4  (North German Traditions)
 
 OF THE KANZAUS. I.
 
-Of the very old arid ducal- Sleswig family of Ranzau it is recorded, that to an ancestress of their house there came one night, as she lay in bed by her husband's side, a little man bearing a lantern, who having waked her, prayed her to follow him. She did so (every door and gate opening spontaneously as they passed) and arrived at length in a hollow mount, in which there lay a little woman in the pains of labour. When the said noble dame Von Ranzau, at the earnest entreaty of the little woman, had laid her hand upon her head, she was instantly delivered. The lady, who had been standing in great fear, now hastened
+Of the very old and ducal-Sleswig family of Ranzau it is recorded, that to an ancestress of their house there came one night, as she lay in bed by her husband's side, a little man bearing a lantern, who having waked her, prayed her to follow him. She did so (every door and gate opening spontaneously as they passed) and arrived at length in a hollow mount, in which there lay a little woman in the pains of labour. When the said noble dame Von Ranzau, at the earnest entreaty of the little woman, had laid her hand upon her head, she was instantly delivered. The lady, who had been standing in great fear, now hastened back, and was attended home by her said diminutive companion. At parting she received from the little man, in recompense for her service, a large piece of gold, of which, at his suggestion, she caused to be made fifty counters, a herring, and two spindles for her daughter. At the same time he gave her also this notice: That her posterity must carefully preserve those articles, if, from being affluent, they would not in time become needy persons; for that as long as none of them were lost, they would increase in honour and repute. I think that the person who related to me this remarkable anecdote, at the same time informed me, that either the herring or one of the golden counters had disappeared from among these treasures.
 
-back, and was attended home by her said diminutive com panion. At parting she received from the little man, in recompense for her service, a large piece of gold, of which, at his suggestion, she caused to be made fifty counters, a herring, and two spindles for her daughter. At the same time he gave her also this notice : That her posterity must carefully preserve those articles, if, from being affluent, they would not in time become needy persons ; for that as long as none of them were lost, they would increase in honour and repute. I think that the person who related to me this remarkable anecdote, at the same time informed me, that either the herring or one of the golden counters had disappeared from among these treasures.
-
-According to an oral tradition in Thiele (i. 134), the little man con ducts the countess into the cellar of the castle of Breitenburg. She re ceives from him a golden spinning-wheel for her daughter and a golden sabre for her son, together with the prediction, that as long as those things were preserved in the family, it should flourish in wealth and con sideration. Both presents are, it is said, still preserved in the mansion.
+According to an oral tradition in Thiele (i. 134), the little man conducts the countess into the cellar of the castle of Breitenburg. She receives from him a golden spinning-wheel for her daughter and a golden sabre for her son, together with the prediction, that as long as those things were preserved in the family, it should flourish in wealth and consideration. Both presents are, it is said, still preserved in the mansion.
 
 According to another account, the gifts consisted in a table-cloth, a spool, and gold, of which a chain was made, and some coined into money. Dame Sophia Ranzau of Seeholm related this of her grandfather Henry Ranzau's wife.
 
-The tradition of a Frau von Hahn, who was fetched by a water-nix, agrees (as I have heard it related) with the Ranzau tradition. The coun tess is conducted into a cellar, receives a present of shavings, which turn to gold, a large beaker made from which is still shown at Neuhaus. Other things made from the same are lost.
+The tradition of a Frau von Hahn, who was fetched by a water-nix, agrees (as I have heard it related) with the Ranzau tradition. The countess is conducted into a cellar, receives a present of shavings, which turn to gold, a large beaker made from which is still shown at Neuhaus. Other things made from the same are lost.
 
 II.
 
-The newly married countess, who was of a Danish family, was sleeping by her husband's side, when a noise was heard, the bed-curtains were drawn aside, and she saw a little woman of extraordinary beauty, not more than a cubit high, standing before her holding a light. " Fear not," she said, " I will do you no harm, but bring you good luck, if you afford the assistance which I require. Kise up and follow me ; but take heed to eat nothing that
+The newly married countess, who was of a Danish family, was sleeping by her husband's side, when a noise was heard, the bed-curtains were drawn aside, and she saw a little woman of extraordinary beauty, not more than a cubit high, standing before her holding a light. "Fear not," she said, "I will do you no harm, but bring you good luck, if you afford the assistance which I require. Rise up and follow me; but take heed to eat nothing that may be offered you, nor accept any other gift than what I shall present to you, and which you may safely receive."
 
-may be offered you, nor accept any other gift than what I shall present to you, and which you may safely receive."
+The countess accompanied her, and the way led under the earth. They came into an apartment that was resplendent with gold and precious stones, and full of little men and women. Before long their king appeared, and conducted the countess to a bed, in which lay the queen in the pains of child-birth, beseeching her to give her assistance. The countess did her best, and the queen was safely delivered of a son. At this there was great rejoicing among the guests; the countess was led to a table covered with the choicest viands, and pressed to partake of them; but she touched nothing, neither would she accept any of the precious stones, which lay in golden dishes. At length she was led forth by her first conductress, and brought back to her bed.
 
-The countess accompanied her, and the way led under the earth. They came into an apartment that was re splendent with gold and precious stones, and full of little men and women. Before long their king appeared, and conducted the countess to a bed, in which lay the queen in the pains of child-birth, beseeching her to give her assistance. The countess did her best, and the queen was safely delivered of a son. At this there was great rejoicing among the guests ; the countess was led to a table covered with the choicest viands, and pressed to partake of them ; but she touched nothing, neither would she accept any of the precious stones, which lay in golden dishes. At length she was led forth by her first conductress, and brought back to her bed.
+The little woman then said: "You have rendered a great service to our realm, for which you shall be rewarded. Here are three wooden staves; lay them under your pillow, and to-morrow morning they will be changed to gold. From the first of these let there be made a herring; from the second, counters; from the third, a spindle; and reveal this whole affair to no one in the world, except your husband. You will have three children, who will form the three branches of a house. The one that gets the herring will be very successful in war, both himself and his posterity; the one that gets the counters will, together with his children, fill high offices of state; the one that gets the spindle will be blessed with a numerous offspring."
 
-The little woman then said : " You have rendered a great service to our realm, for which you shall be re warded. Here are three wooden staves ; lay them under your pillow, and to-morrow morning they will be changed to gold. From the first of these let there be made a herring; from the second, counters; from the third, a spindle ; and reveal this whole affair to no one in the world, except your husband. You will have three chil dren, who will form the three branches of a house. The one that gets the herring will be very successful in war, both himself and his posterity; the one that gets the counters will, together with his children, fill high offices of state ; the one that gets the spindle will be blessed with a numerous offspring/'
-
-After these words the little hill- woman departed, and the countess fell asleep. When she woke she related to her husband the events of the night. The count laughed at her, regarding the whole as a dream ; but when she put her hand under the pillow, there lay three gold bars.
+After these words the little hill-woman departed, and the countess fell asleep. When she woke she related to her husband the events of the night. The count laughed at her, regarding the whole as a dream; but when she put her hand under the pillow, there lay three gold bars.
 
 Both were astonished, and employed them precisely in the manner prescribed.
 
-The prediction was accurately fulfilled : those branches of the house which carefully preserved the treasures, still exist, while others, who were less careful, are extinct. Of the branch that got the coined money it is related, that a king of Denmark once desired to have one of the pieces \ but at the moment the king received it, the individual who gave it to him was seized with a violent stomach ache.
+The prediction was accurately fulfilled: those branches of the house which carefully preserved the treasures, still exist, while others, who were less careful, are extinct. Of the branch that got the coined money it is related, that a king of Denmark once desired to have one of the pieces; but at the moment the king received it, the individual who gave it to him was seized with a violent stomach ache.
 
 In 'L'Amant oisif,' Bruxelles, 1711, 405-411, the foregoing tradition is told under the title of ' La Comtesse de Falinsperk.'
 
 III.
 
-A benevolent countess (Ranzau) at Breitenburg, who was frequently herself the bearer of her household medi cines to the sick, was one stormy evening called to the house of an old woman, who dwelt at the other extremity of the village. She was in the act of going, but was pre vented by her husband. While sitting alone in the twi light, she heard a noise, and before her stood the housegoblin with herbs and potions, who bade her take them and carry them to the sick, and rather to obey the voice of her own heart than the prohibition of her husband. The countess followed the goblin's bidding, and through her care and the medicaments the sick woman speedily re covered. On the following evening, as the countess was again sitting alone in the twilight, she saw the goblin standing by the hearth and stirring the fire. When the fire had blazed up, he threw into it an apronful of shavings, and said to the countess : " When the fire is burnt out, look among the ashes, and what you find there preserve carefully. As long as those things continue in your family, so long will fortune favour the counts of Ranzau.'7 When the fire was out the countess made a search, and found a golden spindle, a golden beaker, and something besides. The last-mentioned fell to a younger branch, who lost it, and is now without property ; but the spindle is still at Breitenburg, and the beaker at Rastorf.
+A benevolent countess (Ranzau) at Breitenburg, who was frequently herself the bearer of her household medicines to the sick, was one stormy evening called to the house of an old woman, who dwelt at the other extremity of the village. She was in the act of going, but was prevented by her husband. While sitting alone in the twilight, she heard a noise, and before her stood the housegoblin with herbs and potions, who bade her take them and carry them to the sick, and rather to obey the voice of her own heart than the prohibition of her husband. The countess followed the goblin's bidding, and through her care and the medicaments the sick woman speedily recovered. On the following evening, as the countess was again sitting alone in the twilight, she saw the goblin standing by the hearth and stirring the fire. When the fire had blazed up, he threw into it an apronful of shavings, and said to the countess: "When the fire is burnt out, look among the ashes, and what you find there preserve carefully. As long as those things continue in your family, so long will fortune favour the counts of Ranzau." When the fire was out the countess made a search, and found a golden spindle, a golden beaker, and something besides. The last-mentioned fell to a younger branch, who lost it, and is now without property; but the spindle is still at Breitenburg, and the beaker at Rastorf.
 
 At Breitenburg fifty golden pennings are carefully preserved in a silver box, on which are the arms of John Ranzau and Dame Anna Walstorf, his wife. The inscription on these pennings is engraved and filled in with black.
+
 ```
+
+
+## Other Regional Variants
 
 TO DO
 
-also TO DO
 
 ```{admonition} TO DO
 :class: dropdown
@@ -1354,8 +1422,6 @@ also TO DO
 https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/174/mode/2up
 
 W. Y. (Walter Yeeling) Evans-Wentz, *The fairy-faith in Celtic countries*, 1911
-
-TO DO
 
 pp. 174-6
 
@@ -1369,12 +1435,12 @@ Penzance from earliest times has undoubtedly been, as it is now, the capital of 
 ```
 
 
+```{admonition} TO DO
+:class: dropdown
 
-https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/54/mode/2up?q=midwife
+https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/54/mode/2up
 
 W. Y. (Walter Yeeling) Evans-Wentz, *The fairy-faith in Celtic countries*, 1911
-
-
 
 *[II. IN IRELAND]*
 
@@ -1388,8 +1454,12 @@ Our next witness is Bridget O'Conner, a near neighbour to Patrick Waters, in Clo
 
 *A Midwife Story.* — 'A country nurse was requested by a strange man on horseback to go with him to exercise her profession; and she went with him to a castle she didn't know. When the baby was born, every woman in the place where the event happened put her finger in a basin of water and rubbed her eyes, and so the nurse put her finger in and rubbed it on one of her eyes. She went home and thought no more about it. But one day she was at the fair in Grange and saw some of the same women who were in the castle when the baby was born; though, as she noticed, she only could see them with the one eye she had wet with the water from the basin. The nurse spoke to the women, and they wanted to know how she recognized them; and she, in reply, said it was with the one eye, and asked, "How is the baby?" "Well," said one of the fairy women; "and what eye do you see us with?" "With the left eye," answered the nurse. Then the fairy woman blew her breath against the nurse's left eye, and said, "You'll never see me again." And the nurse was always blind in the left eye after that.'
 
-https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/126/mode/2up?q=midwife
+```
 
+```{admonition} TO DO
+:class: dropdown
+
+https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/126/mode/2up
 
 The fairy-faith in Celtic countries
 by Evans-Wentz, W. Y. (Walter Yeeling), 1878-1965
@@ -1402,12 +1472,17 @@ p127
 
 Fairy Tales on Christmas Day
 
-The next morning, Christmas morning, I called at the picturesque roadside home of Mrs. Dinah Moore a Manxwoman living near Glen Meay ; and she contributed the best single collection of Manx folk-legends I discovered on the island. ...
+The next morning, Christmas morning, I called at the picturesque roadside home of Mrs. Dinah Moore a Manxwoman living near Glen Meay; and she contributed the best single collection of Manx folk-legends I discovered on the island. ...
 
 *A Midwife s Strange Experience.*— 'A strange man took a nurse to a place where a baby boy was born. After the birth, the man set out on a table two cakes, one of them broken and the other one whole, and said to the nurse: "Eat, eat; but don't eat of the cake which is broken nor of the cake which is whole." And the nurse said: "What in the name of the Lord am I going to eat? " At that all the fairies in the house disappeared; and the nurse was left out on a mountain-side alone.'
 
+```
 
-https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/140/mode/2up?q=nurse
+
+```{admonition} TO DO
+:class: dropdown
+
+https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/140/mode/2up
 
 p.139-40
 
@@ -1419,9 +1494,12 @@ Perhaps nowhere else in Celtic lands could there be found as witnesses two siste
 
 *Fairy Midwife and Magic Oil.*— 'The *Tylwyth Teg* had a kind of magic oil, and I remember this story about it:— A farmer went to Llangefni to fetch a woman to nurse his wife about to become a mother, and he found one of the *Tylwyth Teg*, who came with him on the back of his horse. Arrived at the farm-house, the fairy woman looked at the wife, and giving the farmer some oil told him to wash the baby in it as soon as it was born. Then the fairy woman disappeared. The farmer followed the advice, and what did he do in washing the baby but get some oil on one of his own eyes. Suddenly he could see the *Tylwyth Teg*, for the oil had given him the second-sight. Some time later the farmer was in Llangefni again, and saw the same fairy woman who had given him the oil. "How is your wife getting on?" she asked him. "She is getting on very well," he replied. Then the fairy woman added, "Tell me with which eye you see me best." "With this one," he said, pointing to the eye he had rubbed with the oil. And the fairy woman put her stick in that eye, and the farmer never saw with it again.' `[This is the one tale I have found in North Wales about a midwife and fairies — a type of tale common to West Ireland, Isle of Man, Cornwall, and Brittany, but in a reverse version, the midwife there being (as she is sometimes in Welsh versions) one of the human race called in by fairies. If evidence of the oneness of the Celtic mind were needed we should find it here (cf. pp. 50, 54, 127, 175, 182, 205). There are in this type of fairy-tale, as the advocates of the Pygmy Theory may well hold, certain elements most likely traceable to a folk-memory of some early race, or special class of some early race, who knew the secrets of midwifery and the use of medicines when such knowledge was considered magical. But in each example of this midwife story there is the germ idea — ^no matter what other ideas cluster round it — that fairies, like spirits, are only to be seen by an extrahuman vision, or, as psychical researchers might say, by clairvoyance.]`
 
+```
 
-https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/180/mode/2up?q=nurse
+```{admonition} TO DO
+:class: dropdown
 
+https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/180/mode/2up
 
 p181-2
 
@@ -1434,9 +1512,11 @@ John Gilbert Guy, seventy-eight years old, a retired fisherman of Sennen Cove, o
 ...
 
 *Danger of Seeing the 'Little People'*—'I heard that a woman set out water to wash her baby in, and that before she had used the water the small people came and washed their babies in it. She didn't know about this, and so in washing her baby got some of the water in her eyes, and then all at once she could see crowds of little people about her. One of them came to her and asked if she was able to see their crowd, and when she said "Yes," the little people wanted to take her eyes out, and she had to clear away from them as fast as she could.'
+```
 
 
-
+```{admonition} TO DO
+:class: dropdown
 
 https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/204/mode/2up
 
@@ -1452,3 +1532,4 @@ pp. 204-5
 The following midwife story, as told by J. M. Comault, of Gouray, in 1881, is quite a parallel to the one we have recorded (on p. 54) as coming from Grange, Ireland:—
 
 A midwife who delivered a *Margot la fée* carelessly allowed some of the fairy ointment to get on one of her own eyes. The eye at once became clairvoyant, so that she beheld the *fées* in their true nature. And, quite like a midwife in a similar story about the *fées des houles*, this midwife happened to see a *fée* in the act of stealing, and spoke to her. Thereupon the *fée* asked the midwife with which eye she beheld her, and when the midwife indicated which one it was, the *fée* pulled it out. `[Cf. Sebillot, Traditions et superstitions de la Haute-Bretagne, i. 1]`
+```

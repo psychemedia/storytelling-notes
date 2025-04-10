@@ -91,7 +91,8 @@ North Devon Journal - Thursday 21 September 1848
 Another Old Betty
 
 ```{admonition} Witchcraft in Warwickshire — trial for murder, December 1875
-:dropdown
+:class: dropdown
+
 https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18751218/036/0005
 Gloucestershire Chronicle - Saturday 18 December 1875
 
@@ -171,6 +172,7 @@ Rev. Geo. Roberts, Coleford.
 
 ```{admonition} TO DO
 :class: dropdown
+
 https://britishnewspaperarchive.co.uk/viewer/bl/0003358/18360703/032/0005
 Weekly Dispatch (London) - Sunday 03 July 1836
 
