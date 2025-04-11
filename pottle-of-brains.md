@@ -274,7 +274,7 @@ An' as he said that, he thowt of the words o' the wise woman. "Hi, yi!" says he,
 
 "Gode'en, missis," says he, "a reckon a 've fo't 'ee the reet thing this time, sure*ly*," an' he plumped the sack down kerflap! in the doorsil.
 
-"Mebbe," says the wise woman,  but read me this, noo, what's yaller an' shinin' but isna goold?"
+"Mebbe," says the wise woman, but read me this, noo, what's yaller an' shinin' but isna goold?"
 
 An' he scratched 's head, an' thowt, an' thowt, but a couldna tell.
 

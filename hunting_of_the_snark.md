@@ -109,7 +109,7 @@ Had only one notion for crossing the ocean,
 
 *He also seemed to be rather confused by the notions of port and starboard, which is to say left and right, and often got the front and the back [technical terms] of the boat confused too.*
 
-*But by some means — quite how, I don't really know! —  they'd managed to complete their journey.*
+*But by some means — quite how, I don't really know! — they'd managed to complete their journey.*
 
 [Anyway:] the danger was past— [and they'd] landed at last,  
 ⁠With their boxes, portmanteaus, and bags:  

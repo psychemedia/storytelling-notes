@@ -101,7 +101,7 @@ gave the Manousch leave to steal once every seven years." '1 The Lithuanian Gyps
 
 
 https://archive.org/details/sim_new-york-folklore-quarterly_spring-1960_16_1/page/32/mode/1up?q=gypsy+%22three+nails%22
-New York Folklore Quarterly  Spring 1960: Vol 16 Iss 1
+New York Folklore Quarterly, Spring 1960: Vol 16 Iss 1
 p32-6
 TWO TALES OF THREE NAILS
 GEORGE A. AGOGINO ano DAVID W. PICKETT

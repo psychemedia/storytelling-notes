@@ -54,7 +54,7 @@ When he received the message, he was furious, cursing — what brother wouldn't 
 
 ---
 
-On the Irish coast, a pig-herder, tending his... flock? do you have a flock of pigs? A drove? A sounder?... saw something on the horizon he had never witnessed before. A forest; a forest, coming closer;  a forest, and a mountain; a mountain on which there was a high ridge; a high ridge with two lakes, one on either side.
+On the Irish coast, a pig-herder, tending his... flock? do you have a flock of pigs? A drove? A sounder?... saw something on the horizon he had never witnessed before. A forest; a forest, coming closer; a forest, and a mountain; a mountain on which there was a high ridge; a high ridge with two lakes, one on either side.
 
 The pig herder rushed to inform the king, who could make no sense of what the babbling idiot was talking about. But Branwen knew: and she told Matholwch. The forest was the masts of the ships of her brother's men, the mountain was Bendigeidfran himself, the ridge his nose, the two lakes, his eyes.
 
@@ -80,9 +80,9 @@ When Efnysien came to inspect the hall, he saw the sacks on the hooks, and he as
 
 And then he went to the second bag: "and this is...?" "Flour". "Ah ha...". And he squeezed, and he squeezed some more. And then it squished. And so it went on...
 
-That night, the great house was filled with the men of both armies, seated round a great fire in the center. There was eating; and drinking. A lot of drinking...  And the tension between them lessened, perhaps.
+That night, the great house was filled with the men of both armies, seated round a great fire in the center. There was eating; and drinking. A lot of drinking... And the tension between them lessened, perhaps.
 
-But Efnysien, always Efnysien... "Why doesn't my sister's boy, my very own nephew, come to greet me?" he said. And Gwern was brought forward to meet him... At which point, Efnysien took everyone by surprise,  laughing madly, and calling out: "I bet none of you expected this...?!". At which point he grabbed the boy and threw him into the raging fire, kicking him back into the fire as the boy tried to save himself it, for good measure.
+But Efnysien, always Efnysien... "Why doesn't my sister's boy, my very own nephew, come to greet me?" he said. And Gwern was brought forward to meet him... At which point, Efnysien took everyone by surprise, laughing madly, and calling out: "I bet none of you expected this...?!". At which point he grabbed the boy and threw him into the raging fire, kicking him back into the fire as the boy tried to save himself it, for good measure.
 
 But it was too late. Gwern was dead.
 

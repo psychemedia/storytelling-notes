@@ -39,7 +39,7 @@ Hugh Lupton provides a very readable - and tellable - take on that variant in th
 
 See also: John D. Niles (2006) Bede's Cædmon, "The Man Who Had No Story" (Irish Tale-Type 2412B), Folklore, 117:2, 141-155, DOI: 10.1080/00155870600707821 ([PDF via Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22The+Man+Who+Had+No+Story%22&btnG) or [via Internet Archive](https://archive.org/details/sim_folklore_2006-08_117_2)), which claims that [Book IV, chapter XXIV](https://www.gutenberg.org/files/38326/38326-h/38326-h.html#toc233) of *Bede's Ecclesiastical History of England* is also an example of the same tale type.
 
-Several other versions of *The Man Who Had No Story* / Tale Type AT2412B (The Types of the Irish Folktale (O´ Su´illeabha´in and Christiansen 1963, 343–4))  can be found, in both English and Irish collected variants, in the [Irish Schools Collection](https://www.duchas.ie/en/cbes/volumes), as published by Dúchas / the National Folklore Collection, UCD.
+Several other versions of *The Man Who Had No Story* / Tale Type AT2412B (The Types of the Irish Folktale (O´ Su´illeabha´in and Christiansen 1963, 343–4)) can be found, in both English and Irish collected variants, in the [Irish Schools Collection](https://www.duchas.ie/en/cbes/volumes), as published by Dúchas / the National Folklore Collection, UCD.
 
 ```{admonition} Man Who Had No Story, vol. 0106, p. 540
 :class: dropdown
@@ -71,7 +71,7 @@ End.
 
 ```
 
-```{admonition} Man Who Had No Story,  vol. 1302, p. 315-319
+```{admonition} Man Who Had No Story, vol. 1302, p. 315-319
 :class: dropdown
 
 https://www.duchas.ie/en/cbes/4428273/4390606/4458746
@@ -111,7 +111,7 @@ Two months passed and Pat had wandered far, and wide over the county Donegal, wh
 
 ```
 
-```{admonition} Man Who Had No Story,  vol. 1101, p. 176-8
+```{admonition} Man Who Had No Story, vol. 1101, p. 176-8
 :class: dropdown
 
 https://www.duchas.ie/en/cbes/4493728/4414480/4528666

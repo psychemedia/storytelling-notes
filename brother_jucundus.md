@@ -26,7 +26,7 @@ At two o'clock the community awoke. The porter missed his keys. The Prior missed
 
 After long deliberation it was decided that two sedate and trusty brothers should be sent out in quest of him.
 
-It was a bright, sunny afternoon. Jucundus had enjoyed himself amazingly.   The amount of gingerbread horses and men he had consumed was prodigious. He had seen "The Spotted Boy" and "The Bearded Woman "; he had gone round in the whirligig on the back of a wooden horse; he had shot for nuts at a mark, and won his pocket full, which he cracked every now and then, and washed down with a draft of really good ale. And now, just now, he was going up in the boat of a great see-saw, with a foaming tankard in his hand, his jolly red face illumined with glee, and his ample throat thundering forth —
+It was a bright, sunny afternoon. Jucundus had enjoyed himself amazingly. The amount of gingerbread horses and men he had consumed was prodigious. He had seen "The Spotted Boy" and "The Bearded Woman "; he had gone round in the whirligig on the back of a wooden horse; he had shot for nuts at a mark, and won his pocket full, which he cracked every now and then, and washed down with a draft of really good ale. And now, just now, he was going up in the boat of a great see-saw, with a foaming tankard in his hand, his jolly red face illumined with glee, and his ample throat thundering forth —
 
 "In dulce jubilo-o-o, Up, up, up we go-o-o ";
 
@@ -44,9 +44,9 @@ The helpless monk was trundled in his barrow into the midst of the assembled fat
 
 He had been caught, flagrante delicto, in a see-saw, drunk, riotous, and incapable. Nevertheless, Brother Jucundus was not disposed to view his case unfavourably.
 
-He looked round  on  the  chapter  with  an affectionate glance from out of his watery eye, and the kindest, most winsome smile on his ruddy cheeks.
+He looked round on the chapter with an affectionate glance from out of his watery eye, and the kindest, most winsome smile on his ruddy cheeks.
 
-He was asked at once for his defence.   He murmured with a hiccup —
+He was asked at once for his defence. He murmured with a hiccup —
 
 "In dulce jubilo-o-o."
 
@@ -68,7 +68,7 @@ A twelvemonth passed. It had been dull in S. Leonard's; it was duller in S. Mary
 
 Now the day before York fair the office of cellarer fell vacant in S. Mary's Abbey by the death of the monk who had presided over the wine and beer. The Abbot by a happy inspiration committed the keys to Brother Jucundus. Here was an opportunity! If York fair might not be enjoyed in the market-place and the Pavement, he would at least commemorate it in the Abbey cellar.
 
-On York fair-day, accordingly, Brother Jucundus, after having seen all his fellow-monks safe in bed, stole down  the  stone  steps  into  the  vault  where were  the "barrels,  with a tankard in  his one hand and a lantern in the other.
+On York fair-day, accordingly, Brother Jucundus, after having seen all his fellow-monks safe in bed, stole down the stone steps into the vault where were the "barrels, with a tankard in his one hand and a lantern in the other.
 
 S. Mary's Abbey was often called upon to receive noble, even royal guests, and entertain them nobly and royally. It therefore contained barrels of very prime wine and very strong audit ale. Brother Jucundus went along the range of barrels trying one tipple after another. There is nothing so dangerous as mixing your drink, and this the reverend brother discovered at last, for he sat down, unable to proceed further, by the best cask of Malmsey, and turning the tap, filled his tankard.
 
@@ -83,7 +83,7 @@ Next day at noon the Cistercians assembled in the refectory for their frugal rep
 It was too flagrant an offence to be passed over. A chapter of the Order was at once constituted in the cellar itself. All the monks were present. Unanimously it was decided that after solemn excommunication with bell, book, and candle, the guilty brother should be walled up alive on the scene of his crime in that very cellar.
 
 The awful scene of excommunication was proceeded with. It took some time, and during the ceremony Brother Jucundus gradually resumed consciousness — the fumes of Malmsey slowly evaporated. A convenient recess was found, where a heap of crumbling bricks lay prostrate. It was the identical nook out of which a year and a day before Brother Jucundus had escaped into the Cistercian Order and Abbey of S. Mary.
-Into this niche therefore he was built. His terrible position had  not, however, as  yet  forced itself on  the monk's  brain; he still tasted Malmsey, still was his heart buoyant, and with swelling lungs he roared forth his song —
+Into this niche therefore he was built. His terrible position had not, however, as yet forced itself on the monk's brain; he still tasted Malmsey, still was his heart buoyant, and with swelling lungs he roared forth his song —
 
 "In dulce jubilo-o-o  
 Up, up, up we go-o-o."
@@ -165,7 +165,7 @@ Benson's take on the tale was also noted in a review his book in the Athenaeum a
 ```{admonition} More the character of a guide-book, 1912
 :class: dropdown
 
-The Athenaeum  April 20th, 1912, Iss 4408, [p437](https://archive.org/details/sim_athenaeum-uk_1912-04-20_4408/page/436/mode/2up).
+The Athenaeum April 20th, 1912, Iss 4408, [p437](https://archive.org/details/sim_athenaeum-uk_1912-04-20_4408/page/436/mode/2up).
 
 Geography and Travel.
 
@@ -180,9 +180,9 @@ Mr. Charles Edwardes has written a book about Chester and its environs which is 
 
 For the "truth" of the tale, however, the [*Tales of Britain and Ireland* podcast](https://talesofbritainandireland.com/episode-27-brother-jucundus/) suggests we should look to Walthamstowe Abbey, and a metrical romance originally produced purely as a personal amusement — *Ye Hoel in Ye Walle, A Legende of Walthamstowe Abbey*.
 
-> THE following was written some two years ago , without any view to publication , but merely to beguile a few leisure moments. having shown the manuscript to some friends, I was so strongly urged by them, that I have at last ventured to lay it before a discriminating Public, trusting they will not be too severe  upon the defects of a young author.
+> THE following was written some two years ago , without any view to publication , but merely to beguile a few leisure moments. having shown the manuscript to some friends, I was so strongly urged by them, that I have at last ventured to lay it before a discriminating Public, trusting they will not be too severe upon the defects of a young author.
 >  
-> With this short apology, I leave my little book (my first literary bantling) to its trial; and should the verdict be favourable,  you and I, my "gentle Public", will perhaps meet again
+> With this short apology, I leave my little book (my first literary bantling) to its trial; and should the verdict be favourable, you and I, my "gentle Public", will perhaps meet again
 >  
 > E. H. PALMER , March , 1860. Hoop Hotel, Cambridge
 

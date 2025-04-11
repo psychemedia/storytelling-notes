@@ -133,7 +133,7 @@ Susan Mears, one of the defendants in the last case, was also charged with using
 ```
 
 
-```{admonition}  TO DO
+```{admonition} TO DO
 :class: dropdown seealso
 https://britishnewspaperarchive.co.uk/viewer/bl/0001334/18960125/172/0006
 Weston Mercury - Saturday 25 January 1896

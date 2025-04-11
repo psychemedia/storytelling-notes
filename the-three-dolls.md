@@ -15,7 +15,7 @@ https://worldstories.org.uk/reader/the-three-dolls/english/459
 https://spellbinders.org/the-three-dolls-2/ (Persia?)
 
 https://readandripe.com/tenali-raman-and-the-three-dolls/ "Tenali Raman"? collection Hindu moral stories ?for children 
-https://en.wikipedia.org/wiki/Tenali_Rama special adviser  1509 to 1529;  generally known for the folk tales which focus on his wit; cf Birbal, Nasruddin
+https://en.wikipedia.org/wiki/Tenali_Rama special adviser  1509 to 1529; generally known for the folk tales which focus on his wit; cf Birbal, Nasruddin
 
 https://www.rohitghai.com/katha-parampara/
 Tenali Rama version

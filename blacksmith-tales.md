@@ -1,10 +1,10 @@
 # Blacksmith Tales
 
-- Devil and the Blacksmith / Smith and the Blacksmith, ATY0330A https://www.duchas.ie/en/cbes/stories?AaThTypeID=0330A  eg https://www.duchas.ie/en/cbes/4605930/4603376
+- Devil and the Blacksmith / Smith and the Blacksmith, ATY0330A https://www.duchas.ie/en/cbes/stories?AaThTypeID=0330A eg https://www.duchas.ie/en/cbes/4605930/4603376
 - Christ and Smith (horse legs into fire, old woman into fire etc) AT0753 https://www.duchas.ie/en/cbes/stories?AaThTypeID=0753&Page=1&PerPage=20
 - blacksmith and St Dunstan (via Tony folk night)
 
-Seumas Macmanus in  The Cosmopolitan  1903-04: Vol 34 Iss 6
+Seumas Macmanus in The Cosmopolitan, 1903-04: Vol 34 Iss 6
 Publication date 1903-04 pp673-8
 
 TO DO

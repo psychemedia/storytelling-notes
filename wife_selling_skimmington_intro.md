@@ -10,7 +10,9 @@ So that's one of the reasons I've started delving deeper into news reports and s
 
 TO DO - Thompson, Commons, what I see..
 
-TO DO thise things that everybody knew that either wasn't mentioned, becuase everybody would have know that was part of the context, was alluded to, but you only recondgnise that if you are sensitsed to it, or that is alluded to, but you don't know what it it (like online news stories todays that obliquely but obviiously refer to something that can't be reported in the news media for legal reasons but can be easily discoverd if you do a web search for it, and may even be a trending story on algorithmically driven web sites. )  TO DO
+TO DO thise things that everybody knew that either wasn't mentioned, becuase everybody would have know that was part of the context, was alluded to, but you only recondgnise that if you are sensitsed to it, or that is alluded to, but you don't know what it it (like online news stories todays that obliquely but obviiously refer to something that can't be reported in the news media for legal reasons but can be easily discoverd if you do a web search for it, and may even be a trending story on algorithmically driven web sites. )
+
+ TO DO
 
 > THERE is no myth relative to the manners and customs of the English that in my experience is more tenaciously held by the ordinary Frenchman than that the sale of a wife in the market-place is an habitual and an accepted fact in English life.
 >

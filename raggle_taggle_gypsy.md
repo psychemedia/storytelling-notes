@@ -73,7 +73,7 @@ My current-working take on the tale, is still in preparation:
 ```{admonition} A telling
 :class: seealso dropdown
 
-> There is, or was, in the Cassilis family's winter home in the small market town of Maybole, once capital of the ancient district of Carrick, 10 miles or so south of Ayr, in south-west Scotland,  a fragment of tapestry, depicting a beautiful young woman astride a majestic white horse, arms clasped round the waist of her handsome lover, a party of gaily clothed men riding with them.
+> There is, or was, in the Cassilis family's winter home in the small market town of Maybole, once capital of the ancient district of Carrick, 10 miles or so south of Ayr, in south-west Scotland, a fragment of tapestry, depicting a beautiful young woman astride a majestic white horse, arms clasped round the waist of her handsome lover, a party of gaily clothed men riding with them.
 >
 > You can sense their happiness, their excitement at riding together, their love of life, and their love for each other. It is said that those tapestries were stitched by the former Lady Cassilis herself. It is said, that the walls of her room were covered from floor to ceiling with panels of similar scenes.
 >

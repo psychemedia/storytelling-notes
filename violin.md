@@ -394,7 +394,7 @@ Saw violin, and picked it up.
 
 > (you could perhaps act this? or I could air act it.)
 
-Looked at it. It  certainly was a strange instrument, like nothing he had seen before. Imagined starting to play it. Imagined starting to play it like she played it (air violin) and the crowds roaring and then he heard... he heard the violin: father's bones, mother's bones, brother's and sister's guts and tongues.
+Looked at it. It certainly was a strange instrument, like nothing he had seen before. Imagined starting to play it. Imagined starting to play it like she played it (air violin) and the crowds roaring and then he heard... he heard the violin: father's bones, mother's bones, brother's and sister's guts and tongues.
 
 
 ??Brother and sister's guts and bones
@@ -409,7 +409,7 @@ WHAT THE HELL DO YOU THINK YOU ARE DOING?
 He looked at her and she looked at him: anger flared and fear responded.
 
 WHat evil is this/
-Don't you know what sacrifice I had to make to get you here.  What sacrifice MY FAMILY had to make?
+Don't you know what sacrifice I had to make to get you here. What sacrifice MY FAMILY had to make?
 
 He put the fiddle down ran into town.
 
@@ -452,7 +452,7 @@ To link to this article: https://doi.org/10.1016/j.soscij.2006.04.003
 ---
 
 https://babel.hathitrust.org/cgi/mb?c=778052705;q1=crucifixion%20nails%20blacksmith;a=listsrch;pn=1;sort=rel_d
-Journal of the Gypsy Lore Society  search
+Journal of the Gypsy Lore Society : search
 
 
 https://archive.org/details/ingipsytents00groogoog/page/n300/mode/1up

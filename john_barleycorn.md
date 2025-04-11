@@ -18,7 +18,7 @@ O yes! O yes! O yes! If any man or woman in country, town, or city, have any sui
 
 Vulcan the Blacksmith appears, and gives in his Bill.
 
-Be it known to you all, Gentleman, that this Sir John Barleycorn hath been a sore enemy to me and many of muy fellows. For many a time, when I have been busy at my work, not thinking of any manner of harm to any man, but having a fire-spark in my throat, and one time going to the sign of the Cup and Can for one pennyworth of ale, there I found Sir John; and thinking no hurt to anyone, I set me down to spend my two-pence; but in the end Sir John began to pick a quarrel with me, and then I started up, thinking to go about my business;  but then Sir John had got such fast hold of me by the top of my head, that I had no power of myself; and by his strength and power threw me down, broke my head, and bruised other parts of my purse and left me bever a penny; and therefore he doth deserve to die.
+Be it known to you all, Gentleman, that this Sir John Barleycorn hath been a sore enemy to me and many of muy fellows. For many a time, when I have been busy at my work, not thinking of any manner of harm to any man, but having a fire-spark in my throat, and one time going to the sign of the Cup and Can for one pennyworth of ale, there I found Sir John; and thinking no hurt to anyone, I set me down to spend my two-pence; but in the end Sir John began to pick a quarrel with me, and then I started up, thinking to go about my business; but then Sir John had got such fast hold of me by the top of my head, that I had no power of myself; and by his strength and power threw me down, broke my head, and bruised other parts of my purse and left me bever a penny; and therefore he doth deserve to die.
 
 Will the Weaver
 
@@ -138,7 +138,7 @@ COllection National Airs https://www.google.co.uk/books/edition/A_Collection_of_
 
 https://www.google.co.uk/books/edition/Old_Ballads_Historical_and_Narrative_wit/SnJVAAAAcAAJ?hl=en&gbpv=1&dq=%22Pleasant+new+Ballad%22+barleycorn&pg=PA214&printsec=frontcover Old Ballads Historical and Narrative, with Some of Modern ... Thomas Evans 1810
 
-1624 London broadside entitled A Pleasant new Ballad.  To be sung evening and morn, of the bloody murder of Sir John Barleycorn, 
+1624 London broadside entitled A Pleasant new Ballad. To be sung evening and morn, of the bloody murder of Sir John Barleycorn, 
 aka
 The Pleasant Ballad of John Barleycorn
 

@@ -519,11 +519,11 @@ Learned the ways of the outlaw; took over from mother; prevented murder.
 
 "Aberdeenshire freebooter." Looked after the poor, gold coins on the doorstep of a poor farmer.
 
-Prevented men from robbing a castle occupied by woman and her daughter while father was at a funeral. One of gang informed on him: arrested. Due to be hung; a large crowd gathered, suddenly, door open: "run". Local butcher (who was the hangman) jumped on one of men, called hs dog over, but in melee,  plaid thrown over butcher and dog attacked its owner. Escaped on horses.
+Prevented men from robbing a castle occupied by woman and her daughter while father was at a funeral. One of gang informed on him: arrested. Due to be hung; a large crowd gathered, suddenly, door open: "run". Local butcher (who was the hangman) jumped on one of men, called hs dog over, but in melee, plaid thrown over butcher and dog attacked its owner. Escaped on horses.
 
-Met a girl, dishevelled, limping, whose horse had thrown her. Gave her a lift (daughter of a farmer/landowner). Meet again? Not here. Meeting place; met, played violin. Suggested eloping. Jamie had raid to go on. A young man hidden in bushes heard them; time of next meeting, girl accosted by her father, sent home; Jmaie caught.  Lord Braco of Kilbride.
+Met a girl, dishevelled, limping, whose horse had thrown her. Gave her a lift (daughter of a farmer/landowner). Meet again? Not here. Meeting place; met, played violin. Suggested eloping. Jamie had raid to go on. A young man hidden in bushes heard them; time of next meeting, girl accosted by her father, sent home; Jmaie caught. Lord Braco of Kilbride.
 
-Imprisoned; no charges of bloodshed;  but theft enough.
+Imprisoned; no charges of bloodshed; but theft enough.
 
 ?played lament?
 
@@ -606,9 +606,11 @@ https://en.wikipedia.org/wiki/Jamie_Macpherson
 https://dufftown.info/2022/02/02/the-clock-that-hung-macpherson/
 THe Clock that hung macpherson
 
-*   Post author:[Anne Jan Zandstra](https://dufftown.info/author/annejan/ "Posts by Anne Jan Zandstra")
-*   Post published:February 2, 2022
-*   Post category:[Folklore](https://dufftown.info/category/folklore/)
+- Post author:[Anne Jan Zandstra](https://dufftown.info/author/annejan/ "Posts by Anne Jan Zandstra")
+
+- Post published:February 2, 2022
+
+- Post category:[Folklore](https://dufftown.info/category/folklore/)
 
 Anyone visiting Dufftown or looking into the history of its Clock Tower will come across a story that is told many times about James Macpherson, a Highland Freebooter, who got hanged in Banff in 1700. According to the folklore tale that's told today the clock that was set forward was removed from the Banff tower and transferred to the Clock Tower in Dufftown. But, in an 1878[\[1\]](#_ftn1) journal the following text can be found: "It is said that his death was hurried on by the Magistrates, and that they also caused the messenger entrusted with a reprieve to be stopped by the way, in consequence of which acts of injustice it is alleged the town of Banff was deprived of the power of trying and executing malefactors". There's no mention of a clock being set forward. Also, when reading through all the documents, there's no mention of a clock being transferred from Banff to the Dufftown Clock Tower. If the clock was indeed transferred, and knowing the Clock Tower was built in 1839, it was after more than 139 years the clock was installed. As we learned in a previous chapter the first clock was installed in the 1850's. This original clock had a black face and has been replaced in the past years, making the story very unlikely.  
   
@@ -672,7 +674,6 @@ Not the first time
 
 Before the well-known capture and prosecution James had been taken to a jail before. He was under citation to appear before the Lords of Justiciary at Inverness on a charge of having despoiled John Grant of Conygass of certain oxen, sheep, and other goods in June or July 1689, 'when Dundee was in the hills.' The Laird of Grant being sheriff of Inverness and other Grants engaged in the intended trial, Macpherson, though protesting his entire innocence, professed to have no hope of 'impartial justice' yet he appeared at the citation and was immediately committed close prisoner to the Tollbooth of Inverness where he was denied the use of pen and ink and the access of his friends. So that he 'expected nothing but a summary execution.'
 
-* * *
 
 [\[1\]](#_ftnref1) Celtic Magazine Office, Inverness, September 1878, James Macpherson, the famous Musician and Freebooter.
 

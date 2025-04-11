@@ -114,7 +114,7 @@ Phillips Beva, G.
 https://archive.org/details/touristsguideto05bevagoog
 
 Jenkinson's practical guide to the Isle of Wight
-Jenkinson,  Henry Irwin
+Jenkinson, Henry Irwin
 1876
 https://archive.org/details/jenkinsonspract00jenkgoog
 
@@ -330,7 +330,7 @@ Gilpin, William
 1808
 https://archive.org/details/observationsonwe00gilp
 
-Journey From London To The Isle Of Wight.  Vol. 2
+Journey From London To The Isle Of Wight. Vol. 2
 Pennant, Thomas
 1801
 https://archive.org/details/in.ernet.dli.2015.43052

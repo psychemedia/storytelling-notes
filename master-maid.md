@@ -272,7 +272,7 @@ Yes! the Prince would mind and do that; and so he sat in there the whole day, ta
 
 So the Giant came home again at even with his goats; and the first words he said were, —
 
-"Have yon  brought my horse  down  from  the hill?"
+"Have yon brought my horse down from the hill?"
 
 "Yes, master, that I have," said the Prince; "and a better horse I never bestrode; but for all that I rode him straight home, and put him up safe and sound." "I'll soon see to that," said the Giant, and ran out to the stable, and there stood the horse just as the Prince had said.
 
@@ -731,4 +731,4 @@ So the Princess was sent back to her home, and Edgar married the Master-Maid and
 
 --
 
-Asbjornsen Moe ( also giant no heart  and BOOTS WHO ATE A MATCH WITH THE TROLL )
+Asbjornsen Moe ( also giant no heart and BOOTS WHO ATE A MATCH WITH THE TROLL )

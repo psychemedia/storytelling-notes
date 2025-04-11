@@ -156,7 +156,7 @@ The Black Lady went away, and the young woman went out, and with nothing on her 
 
 'Get up,' said the man. 'Come behind me upon the horse's back!'
 
-The young woman did so, and they went to his mother's house. The man told his mother that ho had found the young woman sitting down.  The old woman led her into the house. She made her the servant. She was a handsome young woman.
+The young woman did so, and they went to his mother's house. The man told his mother that ho had found the young woman sitting down. The old woman led her into the house. She made her the servant. She was a handsome young woman.
 
 Now she had been there years. And the young man wanted to court her. He told his mother that he loved her. The keeper took her as his wife. She had a child. And she lay abed. Now comes the Black Lady. 'What didst thou see through the window?'
 
@@ -594,17 +594,17 @@ pp.1-11
 
 https://archive.org/details/journalgypsylore3rdsv4-1925/page/n72/mode/1up
 Collected and Edited by John Sampson
-No. 25.  O Drukerimasko Murs (The Soothsayer)
+No. 25. O Drukerimasko Murs (The Soothsayer)
 pp.51-58
 
 https://archive.org/details/journalgypsylore3rdsv4-1925/page/n124/mode/1up
 Collected and Edited by John Sampson
-No. 26.  O Grai Ka Xindas o Sunakai (The Horse That Dropped Gold)
+No. 26. O Grai Ka Xindas o Sunakai (The Horse That Dropped Gold)
 pp.99-102
 
 https://archive.org/details/journalgypsylore3rdsv4-1925/page/n172/mode/1up
 Collected and Edited by John Sampson
-No. 27.  O Dragonus (The Dragon)
+No. 27. O Dragonus (The Dragon)
 pp.145-159
 
 

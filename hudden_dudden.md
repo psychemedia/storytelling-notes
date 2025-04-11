@@ -53,7 +53,7 @@ A little further on, at p162, Thackeray hints at the title of the work in which 
 > 
 > These Hibernian novels, too, are evidently intended for the hedge-school universities. They have the old tricks and some of the old plots that one has read in many popular legends of almost all countries, European and Eastern: successful cunning is the great virtue applauded; and the heroes pass through a thousand wild extravagant dangers, such as could only have been invented when art was young and faith was large. And as the honest old author of the tales says "they are suited to the meanest as well as the highest capacity, tending both to improve the fancy and enrich the mind," let us conclude the night's entertainment by reading one or two of them, and reposing after the doleful tragedy which has been represented. The "Black Thief" is worthy of the Arabian Nights, I think, — as wild and odd as an Eastern tale.
 
-Over the years, the story would appear in various formas, often credited to Thackeray. For example, it appears in the Roscommon Herald of [Saturday 28th October, 1922](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001717/19221028/052/0003) under the heading *How Thieves Were Caught Long Ago —  The Feats of Malden and Dudden and Donald O'Leary.* and credited as follows: *Thackeray in his "Irish Sketch Book," gives the following amusing extracts from an old story book, known as "The Hibernian Nights' Entertainment*.
+Over the years, the story would appear in various formas, often credited to Thackeray. For example, it appears in the Roscommon Herald of [Saturday 28th October, 1922](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001717/19221028/052/0003) under the heading *How Thieves Were Caught Long Ago — The Feats of Malden and Dudden and Donald O'Leary.* and credited as follows: *Thackeray in his "Irish Sketch Book," gives the following amusing extracts from an old story book, known as "The Hibernian Nights' Entertainment*.
 
 ## The Royal Hibernian Tales
 
@@ -234,7 +234,7 @@ Another version of the tale can be found in an extended form, in an Irish vernac
 
 I'm not sure if the following is being used as a storyteller's device to help get the audience into a state where they are primed and ready to receive a story, but I know that I am often most comfortable telling a tale if I can provide some introductory context that helps me settle my own voice, as well as helping shift the audience from their chatting-to-the-person-next-to-them frame of mind to one where they are ready to listen to a tale.
 
-> The world was very guilty of such a ballad some three ages since; but I think, now 'tis not to be found —  I will have the subject newly writ o'er, that I may example my digression by some mighty precedent.  
+> The world was very guilty of such a ballad some three ages since; but I think, now 'tis not to be found — I will have the subject newly writ o'er, that I may example my digression by some mighty precedent.  
 > *Love's Labour's Lost.*
 >
 > The words great and little are sometimes contradictory terms to their own meaning. This is stating the case rather confusedly, but as I am an Irishman, and writing an Irish story, it is the more in character. I might do, perhaps, like a very clever and agreeable friend of mine, who, when he deals in some extravagance which you don't quite understand, says, "Well, you know what I mean." But I will not take that for granted, so what I mean is this — that your great man, as far as size is concerned, is often a nobody; and your little man is often a great man. Nature, as far as the human race is concerned, is at variance with Art, which generally couples greatness with size. The pyramids, the temple of Jupiter Olympus, St. Peter's, and St. Paul's, are vast in their dimensions, and the heroes of Painting and Sculpture are always on a grand scale. In Language, the diminutive is indicative of *endearment* — in Nature, it appears to me, it is the type of distinction. Alexander, Caesar, Napoleon, Wellington, &c. &c, (for I have not room to detail,) are instances. But do we not hear every day that "such-abody is a big booby," while "*a clever little fellow*" has almost passed into a proverb. The poets have been more true to nature than painters, in this particular, and in her own divine art, her happiest votaries have been living evidences of her predilection to "packing her choicest goods in small parcels." Pope was "a crooked little thing that asked questions," and in our own days, our own "little Moore "is a glorious testimony to the fact. The works of fiction abound with instances, that the author does not consider it necessary his hero shall be an eligible candidate for the "grenadier corps;" the earlier works of fiction in particular: Fairy tales, universally, dedicate some *giant* to destruction at the hands of some "clever little fellow." "Tom Thumb," "Jack and the Bean Stalk," and fifty other such, for instance, and I am now going to add another to the list, a brilliant example I trust, of the unfailing rule, that your *little* man is always a *great* man.
@@ -870,7 +870,7 @@ So he said he'ld show them the place and they could drive home as many of them a
 
 "Then he threw the stone into a deep part of the river, and he said: 'One of you jump in there now, and if you find more of the cattle than you can manage, just come to the top and call for help, and the other two of us will come in and help you.'
 
-"So Hudden jumped in first and he went straight to the bottom. In a minute he came up to the top and shouted:  Help! help!'
+"So Hudden jumped in first and he went straight to the bottom. In a minute he came up to the top and shouted: Help! help!'
 
 "'He's calling for help,' says Donald; 'wait now till I go in and help him.'
 
@@ -880,7 +880,7 @@ So he said he'ld show them the place and they could drive home as many of them a
 
 ```
 
-*`[TH: in passing, it's worth noting that a second well known story follows on immediately: Lusmore /  Monday, Tuesday...p168-176]`*
+*`[TH: in passing, it's worth noting that a second well known story follows on immediately: Lusmore / Monday, Tuesday...p168-176]`*
 
 ## A Scandinavian Telling — *Great Claus and Little Claus*
 
@@ -907,7 +907,7 @@ But when no one was passing Little Claus forgot that he was not to say this, and
 
 "I will certainly not say it any more," said Little Claus.
 
-But when people came by soon afterwards, and nodded "good day"  to him, he became very glad, and thought it looked very well, after all, that he had five horses to plough his field; and so he smacked his whip again, and cried, "Gee up, all my Horses!"
+But when people came by soon afterwards, and nodded "good day" to him, he became very glad, and thought it looked very well, after all, that he had five horses to plough his field; and so he smacked his whip again, and cried, "Gee up, all my Horses!"
 
 "I'll 'gee up' your horses!" said Great Claus. And he took the hatchet and hit the only horse of Little Claus on the head, so that it fell down, and was dead immediately.
 

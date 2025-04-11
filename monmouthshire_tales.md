@@ -42,7 +42,7 @@ MARGARET EYRE pp. 162-179
 
 Beatrix A. Wherry, MISCELLANEOUS NOTES FROM MONMOUTHSHIRE, pp. 63-67 , Folk-lore vol XVI, March 1905, vol. I https://archive.org/details/dli.ministry.13087/page/63/mode/1up?q=monmouthshire , incl. p66 : Burial Customs —To keep a corpse from swelling a saucer of salt or a turf should be put on the breast and a pan of water underneath. Rue, hyssop, and wormwood should be put in the coffin. Before starting for the burial-ground there should be singing in the house. The corpse should be carried out at the front door feet first, and should then be turned with its face to the east. In Ross funeral cakes made like hot cross buns are baked, and a dole is given to the bearers, consisting of a coin, which may be a penny, sixpence, shilling, or upwards, one for each man. (Mrs. Briton says a relative of hers gave eight half-crowns.) These coins are always given in a pair of kid gloves.
 
-Margaret Eyre,  Folk_lore, vol. XVI, no. II, June 1905, Folk-Lore of the Wye Valley, https://archive.org/details/dli.ministry.13087/page/n207/mode/2up?q=monmouthshire. See also: Folk-Lore, Vol. XIII, p. 170-179
+Margaret Eyre, Folk-lore, vol. XVI, no. II, June 1905, Folk-Lore of the Wye Valley, https://archive.org/details/dli.ministry.13087/page/n207/mode/2up?q=monmouthshire. See also: Folk-Lore, Vol. XIII, p. 170-179
 
 
 
@@ -269,7 +269,7 @@ EDWIN SIDNEY HARTLAND, F.S.A.
 
 
 https://archive.org/details/s7274id1338287/page/378/mode/2up
-Folk-lore Journal, i., Jan.-Dec. 1883  pp.378-9
+Folk-lore Journal, i., Jan.-Dec. 1883, pp.378-9
 
 Monmouthshore Notes
 

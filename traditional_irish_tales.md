@@ -14,7 +14,10 @@ Finn Cycle:
 - Oisin birth - Syvuh
 - Cottage; speed of Oisin;
 - birth of Bran and Sceolan; Muirne and Tuiren. Yullon and Uct Djulv. Fergus. Louis.
-  -  Fionn's mother, Muirne came visiting, with the beautiful Tuiren. Iollan managed to woo her and marry her. But Iollan had previously been seeing a lady of the Shi, Uct Dealv, she of the Fair Breast. They originally met occasionally, Iollan announcing his arrival with a whistle. In her jealousy, Uct Dealv turned the pregnant Tuiren into a dog, and gave her to Fergus, a man who *hated* dogs. But the dog charmed the man, and he came to love her. By and by, she had two pups. Fionn wondered where Tuiren was and ordered Iollan to get her back. Iollan suspected Uct Dealv, and pleaded for Tuiren's return. Uct Dealv agreed, as long as Iollan would marry her (Uct Dealv). Tuiren was transformed back to human form and married the man, who despite being in love with her himself, had given her away at her wedding. The pups retained their canine form: Bran and Sceolan.]
+
+TO DO
+
+  - Fionn's mother, Muirne came visiting, with the beautiful Tuiren. Iollan managed to woo her and marry her. But Iollan had previously been seeing a lady of the Shi, Uct Dealv, she of the Fair Breast. They originally met occasionally, Iollan announcing his arrival with a whistle. In her jealousy, Uct Dealv turned the pregnant Tuiren into a dog, and gave her to Fergus, a man who *hated* dogs. But the dog charmed the man, and he came to love her. By and by, she had two pups. Fionn wondered where Tuiren was and ordered Iollan to get her back. Iollan suspected Uct Dealv, and pleaded for Tuiren's return. Uct Dealv agreed, as long as Iollan would marry her (Uct Dealv). Tuiren was transformed back to human form and married the man, who despite being in love with her himself, had given her away at her wedding. The pups retained their canine form: Bran and Sceolan.]
 
 
 https://archive.org/details/bim_eighteenth-century_a-genuine-history-of-the_cosgrave-j_1747/page/2/mode/2up?q=devil+%22playing+cards%22

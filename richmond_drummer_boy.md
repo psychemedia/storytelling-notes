@@ -91,4 +91,4 @@ This provides us with an opportunity for an alternative telling, which *starts* 
 >
 > The soldiers themselves were too large to try to follow the drummer boy - the hole had been barely big enough to get the drum through, and despite their calling, there was no response from the boy.
 >
-> Whether he too met with Arthur's knights, stayed with them to lead  them out in the time of *our* need, or met some other end, we may never know. But what is certain that if you go to Richmond, and set of to walk to Easby Abbey, you see a board near the spot where the drum beat stopped. And if you stop there, and wait, and listen very carefully, you may occasionally hear the beat of his drumming still.
+> Whether he too met with Arthur's knights, stayed with them to lead them out in the time of *our* need, or met some other end, we may never know. But what is certain that if you go to Richmond, and set of to walk to Easby Abbey, you see a board near the spot where the drum beat stopped. And if you stop there, and wait, and listen very carefully, you may occasionally hear the beat of his drumming still.

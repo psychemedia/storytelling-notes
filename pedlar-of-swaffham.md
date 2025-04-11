@@ -63,7 +63,7 @@ Remarks. The artificial character of the incident is sufficient to prevent its h
 
 ```
 
-In the notes, Jacobs mentions a variant where a second pot, hidden rather deeper than the first, is revealed from a Latin inscription on the first pot. This variant also appears in a brief telling of the legend in  John Glyde's collection of Norfolk tales, *The Norfolk Garland*, from 1872.
+In the notes, Jacobs mentions a variant where a second pot, hidden rather deeper than the first, is revealed from a Latin inscription on the first pot. This variant also appears in a brief telling of the legend in John Glyde's collection of Norfolk tales, *The Norfolk Garland*, from 1872.
 
 ```{admonition} Version in *The Norfolk Garland*, John Glyde, 1872
 :class: dropdown
@@ -146,7 +146,7 @@ In another.
 
 . . . Christi Baptista Pisca .. . .
 
-That the North Isle of this Church was founded by John Chapman, who was ChurchWarden in 1462, is beyound dispute; but that the *Founder* was a PEDLAR, is very improbable, for the `[These Zonae Stipatae, Pretiosae,Epitogia, Clochae furratae ad oram, Bursae cum imaginibus variis, et sculpti, enemalati et deaurati Cultelli, ad modum Gladiorum dependentes, &c, belonged to the People of Diſtinction, but were forbid the Clergy by John Stratford Archbishop of Cant.  Lindwodj Provinc' Lib. 3T de Vitâet honestate  Clericorum, &c. P. 123. It appears from an Arabick Canon of the 1st Nicene Council, that the bearing of a Purse is very Antient, which Canone enjoyns, that those in Holy Orders should not carry about them a pair of Knives, as if they were quarrelling Fellows, going out to fight and kill, &c. and that they should not hang a Purse at their Girdle. Ridley's View of Civil and Eccle' Law, P. 263.]` Richness of his Habit, &c. shews that he was a Person of Distinction: Now had this CHAPMAN been really a PEDLAR, it would have been more commendable to have had a Pourtraiture suitable to his Calling, (as is the Picture of the PEDLAR who was a Benefactor to the Church of St. Mary Lambeth in Surry) and to have been represented on the Glass, as the PEDLAR is on his Seat. If the carv'd Work was design'd to perpetuate the Memory of his low Degree, the Affectation of a Dress on the Glads so much superior to his Station, being of a Piece with other Benefactors in the Windows, Men of Estate and Worth, must be ridiculous to his own Times, and frustrate the very End and Intent of the Carving, by showing Posterity that he was a Man of Figure and Fortune.
+That the North Isle of this Church was founded by John Chapman, who was ChurchWarden in 1462, is beyound dispute; but that the *Founder* was a PEDLAR, is very improbable, for the `[These Zonae Stipatae, Pretiosae,Epitogia, Clochae furratae ad oram, Bursae cum imaginibus variis, et sculpti, enemalati et deaurati Cultelli, ad modum Gladiorum dependentes, &c, belonged to the People of Diſtinction, but were forbid the Clergy by John Stratford Archbishop of Cant. Lindwodj Provinc' Lib. 3T de Vitâet honestate Clericorum, &c. P. 123. It appears from an Arabick Canon of the 1st Nicene Council, that the bearing of a Purse is very Antient, which Canone enjoyns, that those in Holy Orders should not carry about them a pair of Knives, as if they were quarrelling Fellows, going out to fight and kill, &c. and that they should not hang a Purse at their Girdle. Ridley's View of Civil and Eccle' Law, P. 263.]` Richness of his Habit, &c. shews that he was a Person of Distinction: Now had this CHAPMAN been really a PEDLAR, it would have been more commendable to have had a Pourtraiture suitable to his Calling, (as is the Picture of the PEDLAR who was a Benefactor to the Church of St. Mary Lambeth in Surry) and to have been represented on the Glass, as the PEDLAR is on his Seat. If the carv'd Work was design'd to perpetuate the Memory of his low Degree, the Affectation of a Dress on the Glads so much superior to his Station, being of a Piece with other Benefactors in the Windows, Men of Estate and Worth, must be ridiculous to his own Times, and frustrate the very End and Intent of the Carving, by showing Posterity that he was a Man of Figure and Fortune.
 
 The Truth of the Case seems to be no more than this, the Figures of a Pedlar, and a Man and Woman *busied in their Shop*, were according to the low taste of that Age in a modest Manner to set forth the Name of the Founder CHAPMAN, a Trader or Dealer, the word *Chapman* for a Trader is of great Antiquity, and Pedlars are often called by that Name even to this Day, by some antient People, such *Rebusses* are frequently met with on old Works, but I shall only mention One, and that because it is in the very Church.
 
@@ -401,7 +401,7 @@ A further note, by William Axon, appeared a few months later, although this appe
 ```{admonition} A Further Note on the Legend of the Chapman of Swaffham, *The Antiquary*, April, 1885
 :class: dropdown
 
-The Antiquary, Vol. XI, (January-June, 1885)  April, 1885, [pp. 167-8](https://archive.org/details/antiquary11slsniala/page/166/mode/2up).
+The Antiquary, Vol. XI, (January-June, 1885), April, 1885, [pp. 167-8](https://archive.org/details/antiquary11slsniala/page/166/mode/2up).
 
 A Further Note on the Legend of the Chapman of Swaffham `[This brief note, written in 1880, was intended for the Cambridge Antiquarian Society, but after leaving the writer's hands was, owing to accident, not brought before their meeting until last May. The attention of readers of The Antiquary having been called to the subject by the article in vol. x., p. 202, the note is put before them without alteration.]`
 
@@ -516,7 +516,7 @@ This will be found in *Poems in the North Yorkshire Dialect*, by the late John C
 
 ```
 
-In January, 1887, we find E. S. Hartland's first communication on the subject, referring to, but not qualifying, a mention of Cowell's paper on the topic made by George Gomme. *I've not found a reference to that Gomme reference yet, unless, perhaps, Gomme was the author of the otherwise uncredited article on "The Two Pedlar Legends of Lambeth and Swaffham" in The Antiquary of October, 1884?*  Hartland does not appear to have had access to Cowell's paper at this point, and offers several alternatives of the tale, including one in Galland's translation of the Arabian Nights, as well as Scottish and Turkish variants, uncertain as to whether Cowell had described similar variants.
+In January, 1887, we find E. S. Hartland's first communication on the subject, referring to, but not qualifying, a mention of Cowell's paper on the topic made by George Gomme. *I've not found a reference to that Gomme reference yet, unless, perhaps, Gomme was the author of the otherwise uncredited article on "The Two Pedlar Legends of Lambeth and Swaffham" in The Antiquary of October, 1884?*, Hartland does not appear to have had access to Cowell's paper at this point, and offers several alternatives of the tale, including one in Galland's translation of the Arabian Nights, as well as Scottish and Turkish variants, uncertain as to whether Cowell had described similar variants.
 
 ```{admonition} The Pedlar Swaffham, *The Antiquary*, January, 1887
 :class: dropdown

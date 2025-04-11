@@ -68,7 +68,7 @@ For reference, here is the complete version of frame tale, along with the tales 
 ```{admonition} The Golden Casket
 :class: dropdown note
 
-in E. M. Geldart, [*Folk-lore of modern Greece: the tales of the people*](https://archive.org/details/folkloremoderng00geldgoog/page/n110/mode/2up), 1884,  p106-125.
+in E. M. Geldart, [*Folk-lore of modern Greece: the tales of the people*](https://archive.org/details/folkloremoderng00geldgoog/page/n110/mode/2up), 1884, p106-125.
 
 __THE GOLDEN CASKET.__
 

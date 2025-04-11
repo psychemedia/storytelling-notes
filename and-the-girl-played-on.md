@@ -410,7 +410,7 @@ Anwen and the young man, in human form again, came to the edge of the forest. Th
 
 The young man ran his way, Anwen went hers.
 
-As she ran, she sensed something behind her, heard something behind her, getting closer, closer, faster than thought. At the last moment, Anwen turned, dropped the leaf. The witch, running faster, couldn't stop... stepped on the leaf... and was transformed into a sow. And behind: Rhoswen. Who stopped. And stared at Anwen. She'd seen what had happened: looked at Anwen. She looked at the sow.  Stepped forwards. Smiled. And licked her lips. Taking the sow, she turned, and made her way back to the cottage... It would be the first proper meal she had had in ages...
+As she ran, she sensed something behind her, heard something behind her, getting closer, closer, faster than thought. At the last moment, Anwen turned, dropped the leaf. The witch, running faster, couldn't stop... stepped on the leaf... and was transformed into a sow. And behind: Rhoswen. Who stopped. And stared at Anwen. She'd seen what had happened: looked at Anwen. She looked at the sow. Stepped forwards. Smiled. And licked her lips. Taking the sow, she turned, and made her way back to the cottage... It would be the first proper meal she had had in ages...
 
 Anwen returned home, back to the home where she'd lived with her mother. But as she'd approached the cottage, she saw no smoke coming out from the chimney; there were no hens scratching in the yard.
 

@@ -287,7 +287,7 @@ Struggled with twisted arms in hideous fray."
 
 ---
 https://en.wikipedia.org/wiki/Hafren
-Hafren /  Sabrina Goddess of the River Severn
+Hafren / Sabrina Goddess of the River Severn
 
 
 
@@ -296,7 +296,7 @@ Hafren /  Sabrina Goddess of the River Severn
 https://archive.org/details/folklore02croogoog/page/n30/mode/2up
 
 Folk-Lore
-Vol XV March 1904,  no. 1 
+Vol XV March 1904, no. 1
 
 TO DO
 

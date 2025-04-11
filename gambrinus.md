@@ -168,7 +168,7 @@ https://books.google.co.uk/books?id=XWoAAAAAYAAJ&pg=PA652&redir_esc=y#v=onepage&
 
 *The following tale is not historically accurate. The carillon was invented much later than beer. I havenlt found other folk tales regarding its invention. The story could also include another anachronism, regarding the blowing of glass baubles, which were invented later again, but then the story loses something of its efficiency, and its already not as lean as a it could be, the carillon getting in the way of the beer story.*
 
-Deulin translation - TH  summary: see gambrinus-telling.md
+Deulin translation - TH summary: see gambrinus-telling.md
 
 
 ---
@@ -237,9 +237,9 @@ The [German Steins](https://www.germansteins.com/gambrinus-the-beer-king/) websi
 
 > Around the year 1100, the brewers of Brussels deliberated which strong and courageous man should be their leader. They organized a contest, at which a large beer barrel was placed on the ground. The one who could carry it to a spot two stone's throws away would become their head brewer.
 >
-> Among many who registered for the contest was a Duke from Brabent, whose name was Jan Primus, a man of great strength and considerable intellect.  With obvious joy, he followed the futile efforts of the numerous competitors to move the beer barrel.  When his turn came, he ordered the servant to beat a spigot into the bunghole.  He then lied down under the barrel, opened the tap and drank until the barrel was empty.  Having done this, he carried the barrel effortlessly to the winning post.
+> Among many who registered for the contest was a Duke from Brabent, whose name was Jan Primus, a man of great strength and considerable intellect. With obvious joy, he followed the futile efforts of the numerous competitors to move the beer barrel. When his turn came, he ordered the servant to beat a spigot into the bunghole. He then lied down under the barrel, opened the tap and drank until the barrel was empty. Having done this, he carried the barrel effortlessly to the winning post.
 >
-> On the strength of this clever idea, the brewers of Brussels appointed him as their honorary leader.  From then on he was the patron of brewers and innkeepers and Jan Primus became Gambrinus, the King of Beer.
+> On the strength of this clever idea, the brewers of Brussels appointed him as their honorary leader. From then on he was the patron of brewers and innkeepers and Jan Primus became Gambrinus, the King of Beer.
 
 Another tale tells of....? battle, climbs on beer barrels and drinks? ??heavy drinker?
 
