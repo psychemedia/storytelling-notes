@@ -55,23 +55,23 @@ What to do the councillors did not know, when suddenly there came amongst them a
 
 "I will go and meet him," said he, "and stop him coming here."
 
-"You stop him!" cried they all; " it 's mad you must be to think of it."
+"You stop him!" cried they all; "it 's mad you must be to think of it."
 
 "I'll go all the same," said the cobbler, and without saying a word more he goes out and begins to make ready for his journey.
 
 First of all he collected together as many old boots and shoes as he could find, and when he had got them all in a bundle, he finds out the man who had seen the devil coming on, and inquired of him the way he should go to meet hiin. The man told him the road, and the cobbler set out. He walked, and walked, and walked, till at last he came to the devil, who was sitting by the roadside resting himself and trying to get cool, for the day was warm, and he was nearly worn out with carrying the big rock which lay beside him.
 
-"Do you know such-and-such a place % " asks he of the man, naming the town he would be at.
+"Do you know such-and-such a place?" asks he of the man, naming the town he would be at.
 
 "I do, indeed," says the man, "for I ought to, seeing I have lived in its neighbourhood these many years, and have only left there to travel here."
 
 "And how many days have you been getting here?" asked the devil anxiously, for he had hoped he was near the end of his journey.
 
-"Oh, days and days," replies the man. "See here," and he opens his bundle of old boots that he had ready, — " see here," says he, " these are the boots I Ve worn out on the hard road in coming from the place here."
+"Oh, days and days," replies the man. "See here," and he opens his bundle of old boots that he had ready, — "see here," says he, "these are the boots I Ve worn out on the hard road in coming from the place here."
 
-"Have you, indeed!" says the devil, looking at them amazed, little thinking that the man was lying as he showed him pair after pair, all in holes and shreds. " Well, indeed, it must be a long way off," and he looks around him, and then at the rock, and thinks what a terrible long way he has had to bring it, and begins to doubt whether, after all, since he 's still got so far to go, it 's worth all the trouble.
+"Have you, indeed!" says the devil, looking at them amazed, little thinking that the man was lying as he showed him pair after pair, all in holes and shreds. "Well, indeed, it must be a long way off," and he looks around him, and then at the rock, and thinks what a terrible long way he has had to bring it, and begins to doubt whether, after all, since he 's still got so far to go, it 's worth all the trouble.
 
-"If it had been near," says he, " it would have been a different thing, and I would have shown them what it is to treat me as they did, but as it 's so far off it 's another matter, and I don't think it 's worth the trouble."
+"If it had been near," says he, "it would have been a different thing, and I would have shown them what it is to treat me as they did, but as it 's so far off it 's another matter, and I don't think it 's worth the trouble."
 
 So he just takes up the rock and flings it aside in a field, and goes off back again. So the cobbler came home, and told all the townsfolk what he had done, and how he had cheated the devil, and I can assure you that they all admired his cleverness, and the joke of tricking the devil as he had, nor did they allow him to lose in consequence of missing his day's work.
 

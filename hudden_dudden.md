@@ -992,7 +992,7 @@ as you like for him: I will give you a whole bushel of money directly."
 
 Little Claus gave the farmer his sack with the dry hide in it, and got in exchange a whole bushel of money, and that heaped up. The farmer also gave him a big truck, on which to carry off his money and chest.
 
-"Farewell!" said Little Claus; and he went off with his money and the big chest, in which ihe clerk was still sitting.
+"Farewell!" said Little Claus; and he went off with his money and the big chest, in which the clerk was still sitting.
 
 On the other side of the wood was a great deep river. The water rushed along so rapidly that one could scarcely swim against the stream. A fine new bridge had been built over it. Little Claus stopped on the centre ol the bridge, and said quite loud, so that the clerk could hear it,
 

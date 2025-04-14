@@ -7,7 +7,7 @@ The Statute of Labours Act of 1405 required towns to have stocks: https://archiv
 ?Repealed 8 H 6 C. II; 12 H 7 C I, 5 Eliz C 4 sect 27 by https://en.wikipedia.org/wiki/Statute_Law_Revision_Act_1863
 eg https://archive.org/stream/statutesunitedk37britgoog#page/n654/mode/2up 
 
-(in passing, CAP XVII s"No man shall put his son or his daughter to he an apprentice unless he have twenty shillings in land or rent  but every person may put his son or daughter to school." 1405, Henry IV)
+(in passing, CAP XVII s"No man shall put his son or his daughter to he an apprentice unless he have twenty shillings in land or rent but every person may put his son or daughter to school." 1405, Henry IV)
 
 
 https://en.wikipedia.org/wiki/Statute_of_Labourers_1351
@@ -21,7 +21,7 @@ People who were punished with the use of stocks included traveling musicians, fo
 
 https://www.villagenet.co.uk/reference/stocks.php
 The stocks were a mild medieval restraining device for minor offenders
-Details :-
+Details:-
 They usually consist of two pieces of wood or iron, hinged at one corner with a lock at the other. The two planks have holes cut so that an offenders ankles were locked in place when the stocks are closed.
-Use :-
+Use:-
 stocks have been used from Anglo-Saxon times until 1837 as a means of punishing minor offences such as drunkenness, resisting a constable or drinking alcohol during church services. The offender was forced to sit with his ankles imprisoned for a specified number of hours as decreed by the magistrate. Unlike the pillory, his hands were free to defend himself from the crowd. In 1405 a law was passed that required every town and village to have a set of stocks, usually placed by the side of a public highway or village green, some examples still exist in the area but are unused.

@@ -334,7 +334,7 @@ So next day the Giant took him in to the Mastermaid, and said to her, —
 
 After that, he laid him down on the bench to sleep, and began to snore so, that it sounded like thunder on the hills.
 
-So the Mastermaid took a knife and cut the Prince in his little finger, and let three drops of blood fall on a three-legged stool; and after that she took all the old rags, and soles of shoes, and all the rubbish she could lay bands on, and put them into the pot; and then she filled a chest full of ground gold, and took a lump of salt, and a flask of water that hung behind the door, and she took, besides, a golden apple, and two golden chickens, and off she set with the Prince from the Giant's house as fast as they could; and when they had gone a little way, they came to the sea, and after that they sailed over the sea; bnt where they got ihe ship from, I have never heard tell.
+So the Mastermaid took a knife and cut the Prince in his little finger, and let three drops of blood fall on a three-legged stool; and after that she took all the old rags, and soles of shoes, and all the rubbish she could lay bands on, and put them into the pot; and then she filled a chest full of ground gold, and took a lump of salt, and a flask of water that hung behind the door, and she took, besides, a golden apple, and two golden chickens, and off she set with the Prince from the Giant's house as fast as they could; and when they had gone a little way, they came to the sea, and after that they sailed over the sea; bnt where they got the ship from, I have never heard tell.
 
 So when the Giant had slumbered a good bit, he began to stretch himself as he lay on the bench, and called out, "Will it be soon done?"
 

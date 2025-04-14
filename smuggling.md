@@ -262,7 +262,7 @@ Flotsam, because it was unintentionally cast to the sea, may be claimed by its o
 Jetsam, because it was intentionally tossed into the water—usually thrown overboard to lighten the load when a ship was in distress—may sometimes be claimed by a lucky rescuer who discovers the discarded items. However, there have been instances where legal claims were successfully made by the jettisoning owner to retrieve their property. 
 
 "Flotsam" refers to goods that are floating on the surface of the water as the result of a wreck or an accident. As there is no clear way of defining ownership, one who discovers flotsam is allowed to claim it, unless someone claims ownership to the items in question.
-Jetsam  designates any cargo that is intentionally discarded from a ship or wreckage. Legally jetsam also floats, although floating is not part of the etymological meaning.[8] Generally, "jettisoning" connotes the action of throwing goods overboard to lighten the load of the ship if it is in danger of sinking.Per maritime law, one who discovers these artifacts is not required to return them to their rightful owner except in the case that the latter makes a legally abiding claim
+Jetsam designates any cargo that is intentionally discarded from a ship or wreckage. Legally jetsam also floats, although floating is not part of the etymological meaning.[8] Generally, "jettisoning" connotes the action of throwing goods overboard to lighten the load of the ship if it is in danger of sinking.Per maritime law, one who discovers these artifacts is not required to return them to their rightful owner except in the case that the latter makes a legally abiding claim
 
 
 If the items are washed ashore, however, then the laws of the land come into play.
@@ -374,7 +374,7 @@ https://en.wikipedia.org/wiki/Black_Book_of_the_Admiralty
 a compilation of English admiralty law created over the course of several English monarchs' reigns, including the most important decisions of the High Court of Admiralty. Its starting point is the Rolls of Oléron
 The book itself states that the High Court of Admiralty was established during the reign of Edward I (1272–1307), although more recent scholarship places the establishment at c. 1360 during the reign of Edward III.[1] Apart from the Rolls of Oléron, the earliest statute referred to is the Liber memorandorum (1338), of which a separate manuscript copy is available in the archives of the City of London.[1]
 
-Black_Book_of_the_Admiralty Liber Niger Admiralitatis,  https://discovery.nationalarchives.gov.uk/details/r/C8610 c1450
+Black_Book_of_the_Admiralty Liber Niger Admiralitatis, https://discovery.nationalarchives.gov.uk/details/r/C8610 c1450
 https://archive.org/details/monumentajuridi00twisgoog
 law maritime jettison p. ix
 The law of Maritime Jetison, for instance, as set forth in the thirty-eighth chapter of the compilation of Laws published in the fourth year of William the Conqueror (A.D. 1070) as the Laws of King Edward the Confessor, is the affirmation of a rule by which questions of maritime jetison were then governed, which is not identical with the ancient Law of Rome (Digest, 1. xiv. t. 11), but accords with a more modem usage, such &s we find subsequently reduced into writing in the Rolls ofOlero
@@ -497,7 +497,7 @@ laws drafted by the French government
 Many of the rules seek to "protect" the goods as property of their owners / merchants.
 
 
-BUT " A longstanding British law claimed cargo could be taken if no "man or beast" from the ship were living." ?? https://www.history.com/news/wreckers-shipwrecks
+BUT "A longstanding British law claimed cargo could be taken if no "man or beast" from the ship were living." ?? https://www.history.com/news/wreckers-shipwrecks
 
 
 Wrecking - oleron
@@ -556,7 +556,7 @@ On the Sunday after Easter 1313, which was 22nd April, a wreck occurred under Ch
 Walter de Goditon and his cronies, when standing before a jury in Southampton on 8th June 1313, had audaciously removed some 57 casks of white wine from the SAINTE MARIE after she had been wrecked in Chale Bay. (4)
 '1313. June 8, Westminster. The like to Thomas de Warblinton, John de Grimestede and John le Flemyng, on complaint by Elias Biger, Frederick Campanare and Bernard de Columers, merchants of the duchy [of Aquitaine], who had laden a ship, the ST MARY of Bayonne, with 174 tuns of white wine at Tonnay, upon the River Charrante, in Poitou, for export to England, and whose ship was wrecked on the Isle of Wyght, and the wine was cast ashore at divers places in the island, that divers men of the county of Southampton seized and carried away the wine, although it was not wreck of sea, as many of the mariners of the ship had escaped alive to the land. Witness: J Bishop of Bath and Wells. By the Bishop of Worcester.' (5)
 '1313. July 24. Westminster. Association of John Randolf with Thomas de Warblinton, John de Grymstede, and John le Flemyng in a commission of oyer and terminer issued touching a complaint by Elias Biger, Frederick Campanare, and Bernard de Columers, merchants of the duchy [of Aquitaine]. They had freighted a ship called the ST MARY of Bayonne with 174 tuns of white wine at the town of Tormay [sic] on the river Charrante in Poitou for conveyance to England, and on the voyage the ship was driven ashore on the coast of the Isle of Wight, where the wine was seized as wreck of sea by divers men of the county of Southampton, notwithstanding that many of the mariners escaped alive to land.' (6)
-'1314, May 26, Newcastle-upon-Tyne. The like [commission of oyer and terminer] to Master John de Everesdon and John de Westecote, on complaint by John Besecu that, whereas a ship of Remigius de Depe, merchant of Bayonne, freighted with white wines in the duchy [of Aquitaine] to be carried to the ports fo Flanders by the said Remigius de Depe and his men, was driven ashore by tempest near Chale in the Isle of Wight and wrecked, by which a great part of the wine was endangered, and the said Remigius de Depe proved that the ship and wines were his, and afterwards obtained that proof and made his profit therein, Robert de Harslade, John le Walshe and Reymund Arnald having made a plot to injure him, and conspired with certain others at Newport in the same island that Elias Byger, Fretheric de Campane and Bernard de Columiners, unknown men, should lay claim to the ship and wines, and that the said John Besecu should be indicted of having committed a theft of these wines from them, as if those wines had been their property when they were not, and as if Remigius de Depe had not proved that the ship and wines were his, procured his capture and detention for a long time in prison at Winchester until according to the law and custom of the realm he was acquitte: the justices are to enquire fully into these allegations by oath of good men of the county of Southampton. By fine of 40s.' (7)
+'1314, May 26, Newcastle-upon-Tyne. The like [commission of oyer and terminer] to Master John de Everesdon and John de Westecote, on complaint by John Besecu that, whereas a ship of Remigius de Depe, merchant of Bayonne, freighted with white wines in the duchy [of Aquitaine] to be carried to the ports of Flanders by the said Remigius de Depe and his men, was driven ashore by tempest near Chale in the Isle of Wight and wrecked, by which a great part of the wine was endangered, and the said Remigius de Depe proved that the ship and wines were his, and afterwards obtained that proof and made his profit therein, Robert de Harslade, John le Walshe and Reymund Arnald having made a plot to injure him, and conspired with certain others at Newport in the same island that Elias Byger, Fretheric de Campane and Bernard de Columiners, unknown men, should lay claim to the ship and wines, and that the said John Besecu should be indicted of having committed a theft of these wines from them, as if those wines had been their property when they were not, and as if Remigius de Depe had not proved that the ship and wines were his, procured his capture and detention for a long time in prison at Winchester until according to the law and custom of the realm he was acquitte: the justices are to enquire fully into these allegations by oath of good men of the county of Southampton. By fine of 40s.' (7)
 NB: There is a record for a French cargo vessel which was reported in the Privy Council Papers in 1314 as stranded in Chale Bay, en route from Bayonne to Flanders with wine. Enough of the details are consistent with the ST MARY to suspect that this may be an alternative account of the same vessel, particularly as wrecks tend to turn up in State Papers several months or even years after the initial incident, and this would appear to sound close to the account in source (6). Alternatively, there may be two wrecks in question, the ST MARY, which was definitively bound for England, according to source (5), and the other vessel bound for Flanders. Byger, Campan[ar]e and Colum[in]ers appear to have been involved in the former, (5) and appear as fraudulent claimants in the latter (7). It is therefore possible that these may be one and the same wreck, but it is also possible that if they had not obtained restitution for their wreck, they instead claimed a stake in another wreck nearby. (8)
 Ship owner: Regimus de Depe (1); Remigius de Depe (7)
 Cargo owners: Elie Byger or Elias Biger, Frederick Campanare, Bernard Columers, Gascony (1)(3)(5)(6), these appear spelt Elias Byger, Fretheric de Campane and Bernard de Columiners, as fraudulent claimants in (7); Remigius de Depe, rightful claimant (7)
@@ -589,7 +589,7 @@ Around 1100, Henry I of England made Richard de Redvers, also from Normandy, Lor
 https://en.wikipedia.org/wiki/Lyre_Abbey Lyre Abbey (French: L'abbaye Notre-Dame de Lyre) was a monastery in Normandy, founded in 1046 at what is now the village of La Vieille-Lyre. From the mid-12th century it was a Benedictine house. It was abolished at the French Revolution and the abbey buildings mostly destroyed.
 
 https://britishfairies.wordpress.com/2019/06/09/there-is-gold-there-fairies-and-buried-treasure/
-The fairies don't always need a reason to bestow good fortune, though: a man came across the fairies dancing on the beach at Puckaster Cove on the Isle of Wight.  He joined the dance but, after a while, needed to sit and rest.  He sat down on something like a puffball mushroom which burst under his weight, showering gold dust everywhere.  The faeries gave him some of this before he parted from their company.
+The fairies don't always need a reason to bestow good fortune, though: a man came across the fairies dancing on the beach at Puckaster Cove on the Isle of Wight. He joined the dance but, after a while, needed to sit and rest. He sat down on something like a puffball mushroom which burst under his weight, showering gold dust everywhere. The faeries gave him some of this before he parted from their company.
 
 Puckaster http://www.strangehistory.net/2014/06/09/hallucinogenic-fairies/
 https://anchor.fm/thescaredisle/episodes/From-the-Crows-Nest-2019-06-11----Puckaster--Puck-House--Puckpool-and-Goblins-of-the-Isle-of-Wight-e4ef8p
@@ -610,12 +610,12 @@ Coram Rege Chief Justice's roll, venue: Westminster, 8 Edw II Hilary term. http:
 ? Calendar of the patent rolls preserved in the Public Record Office: Edward II, A.D. 1307-1327 https://archive.org/details/calendarofpatent02grea_0 (? https://www.british-history.ac.uk/cal-close-rolls/edw2/vol2-0/pp254-285 )
 
 part 1 p604
-June 8, 1313  Westminster The like to Thomas de Warbhnton, John de Grimestede and John le Westminster. Flemyng, on complaint by Elias Biger, Frederick Campanare and Bernard de Columers, merchants of the duchy [of Aquitaine], who had laden a ship, the St. Mary of Bayonne, with 174 tuns of white wine at the town of Tonuay, upon the river Charrante, in Poitou, for export to England, and whose ship was wrecked on the Isle of Wyght, and the wine was cast ashore at divers places in the island, that divers men of the county of Southampton seized and carried away the wine, although it was not wreck of sea, as
+June 8, 1313 Westminster The like to Thomas de Warbhnton, John de Grimestede and John le Westminster. Flemyng, on complaint by Elias Biger, Frederick Campanare and Bernard de Columers, merchants of the duchy [of Aquitaine], who had laden a ship, the St. Mary of Bayonne, with 174 tuns of white wine at the town of Tonuay, upon the river Charrante, in Poitou, for export to England, and whose ship was wrecked on the Isle of Wyght, and the wine was cast ashore at divers places in the island, that divers men of the county of Southampton seized and carried away the wine, although it was not wreck of sea, as
 many of the mariners of their ship had escaped alive to the land. Witness: J. bishop of Bath and Wells. By the bishop of Worcester. 
 
 ??calendar change??
 
-p55  part2
+p55, part2
 Association of John Randolf with Thomas de Warbliuton, John do
 7 EDWARD II.—Part I. 55
 July 24. [1313]
@@ -705,7 +705,7 @@ m    mark    2/3 £ or 13s 4d
 
 https://archive.org/details/toilersinlondon00commgoog
 Toilers in London: Or, Inquiries Concerning Female Labour in the Metropolis ...
-by "British weekly " Commissioners , British Weekly Commissioners
+by "British weekly" Commissioners , British Weekly Commissioners
 Publication date 1889
 
 

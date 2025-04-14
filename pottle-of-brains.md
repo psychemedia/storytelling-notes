@@ -652,7 +652,7 @@ LIV. GOBBORN SEER.
 
 *Parallels.* — The essence of the tale occurs in Kennedy, i.e., p. 67 seq. Gobborn Seer's daughter was clearly the clever lass who is found in all parts of the Indo-European world. An instance in my *Indian Fairy Tales* "Why the Fish laughed" (No. xxiv.). She has been made a special study of by Prof. Child, *English and Scotch Ballads*, i. 485, while an elaborate monograph by Prof. Benfey under the title "Die Kluge Dime" (reprinted in his *Kleine Schriften*, ii. 156 seq.), formed the occasion for his first presentation of his now well-known hypothesis of the derivation of all folk-tales from India.
 
-*Remarks.* — But for the accident of the title being preserved there would have been nothing to show that this tale had been imported into England from Ireland, whither it had probably been carried all Ihe way from India.
+*Remarks.* — But for the accident of the title being preserved there would have been nothing to show that this tale had been imported into England from Ireland, whither it had probably been carried all the way from India.
 ```
 
 *For other tales of fools, see for example [*The Three Sillies*](three-sillies.md).
