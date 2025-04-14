@@ -88,7 +88,7 @@ In his telling of the tale (*Fairy Ointment*) on [*The Sleeping King* [CD]](http
 Online, we can find a face to camera telling by Irish storyteller Clare Murphy:
 
 ```{admonition} The Fairy Midwife (a telling), Clare Murphy
-:class: seealso
+:class: dropdown seealso
 
 https://vimeo.com/848688609 ("free" login required)
 ```
