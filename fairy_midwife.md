@@ -1,6 +1,6 @@
 # The Fairy Midwife
 
-In an introduction to the fairy lore in Wales given in W. Y. Evans-Wentz's *The fairy-faith in Celtic countries*, 1911, by Sir John Rhys, we find a brief categorisation of the more common tales types, the fifth of which describes a tale in which *"[a] fairy husband procur[es] for his wife the attendance of a human midwife"*.
+In an introduction to the fairy lore in Wales given in W. Y. Evans-Wentz's *The fairy-faith in Celtic countries*, 1911, by Pofessor Sir John Rhys (Rhŷs; he was knighted in 1907), we find a brief categorisation of the more common tales types, the fifth of which describes a tale in which *"[a] fairy husband procur[es] for his wife the attendance of a human midwife"*.
 
 ```{admonition} The fairy faith in Wales, 1911
 :class: dropdown
@@ -578,20 +578,41 @@ THE FAIRY NURSE.
 
 "Well, they walked on easy, and the poor hearts beating in both their breasts; and though he could see nothing, he heard a faint jingle, and tramping, and rustling, and at last he got the push that she promised. He spread out his arms, and there was his wife's waist within them, and he could see her plain, but such a hullibulloo rose as if there was an earthquake; and he found himself surrounded by horrible-looking things, roaring at him, and striving to pull his wife away. But he made the sign of the cross, and bid them begone in God's name, and held his wife as if it was iron his arms were made of. Bedad, in one moment every thing was as silent as the grave, and the poor woman lying in a faint in the arms of her husband and her good neighbour. Well, all in good time she was minding her family and her business again, and I'll go bail, after the fright she got, she spent more time on her knees, and avoided fairy-men all the days of the week, and particularly Sunday.
 
-"It is hard to have any thing to do with the good-people without getting a mark from them. My brave midwife didn't escape no more nor another. She was one Thursday at the market of Enniscorthy, when what did she see walking among the tubs of butter but Fir Dorocha, very hungry-looking, and taking a scoop out of one tub and out of another. 'Oh, sir,' says she, very foolish, 'I hope your lady is well, and the young heir.' 'Pretty well, thank you,' says he, rather frightened like. 'How do I look in this new suit?' says he, getting to one side of her. 'I can't see you plain at all, sir,' says she. ' Well, now,' says he, getting round her back to the other side. 'Musha, indeed, sir, your coat looks no better than a withered dock-leaf.' 'Maybe, then,' says he, 'it will be different now,' and he struck the eye next him with a switch.
+"It is hard to have any thing to do with the good-people without getting a mark from them. My brave midwife didn't escape no more nor another. She was one Thursday at the market of Enniscorthy, when what did she see walking among the tubs of butter but Fir Dorocha, very hungry-looking, and taking a scoop out of one tub and out of another. 'Oh, sir,' says she, very foolish, 'I hope your lady is well, and the young heir.' 'Pretty well, thank you,' says he, rather frightened like. 'How do I look in this new suit?' says he, getting to one side of her. 'I can't see you plain at all, sir,' says she. 'Well, now,' says he, getting round her back to the other side. 'Musha, indeed, sir, your coat looks no better than a withered dock-leaf.' 'Maybe, then,' says he, 'it will be different now,' and he struck the eye next him with a switch.
 
 "Begonies, she never saw a stim after with that one till the day of her death."
 ```
-
-Re: the above - match it to Bridget Cleary???
-TO DO bridget cleary breakout box
 
 The abduction and rescue element of the tale has much about it that resonates with a tragic case over thirty years later: the killing of Bridget Cleary. But a more complete look at fairy kidnappings and fairy changelings is best left for another storynote.
 
 ```{admonition} The Tragic Case of Bridget Cleary
 :class: dropdown seealso
 
-TO DO
+In April 1895, in Clonmel, County Tipperary, at the midpoint between Cork and Kilkenny, Limerick and Waterford, a young woman, Bridget Cleary, was killed by husband and neighbours. The trial was headlined as a "witch burning" case, although it is more identified as a tragedy based on a belief that Cleary was a changeling.
+
+> https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18950408/046/0004
+> Portsmouth Evening News - Monday 08 April 1895
+>
+> "WITCH-BURNING" CASE. COMMITTAL OF THE PRISONERS. At the resumed hearing on Saturday of the charges against the prisoners accused of burning Bridget Cleary Clonmel, the evidence of the deceased woman's father incriminating the husband was read over. Cleary meanwhile became terribly excited, denying that the fathers evidence was true. He called the other prisonere a "rotten crowd," and said that if he did not get justice there he would get it in heaven.
+>
+> The prisoners, Mary Kennedy, John Dunne, and Pat Kennedy made statements supporting what had been said by the father. They declared that Cleary went out and dug a hole as a grave. Pat Kennedy at first refused to help, but on being threatened with a knife consented. They rolled the body in a sheet and bag and put it in hole, Cleary forcing down the body with his foot. Next day he said to John Dunne it was not his wife, but a witch he had burned.
+>
+> During the making of the several statements the other prisoners stood apart from Cleary in the dock.
+>
+> All the prisoners were committed for trial the capital charge.
+>
+> "R.A.," writing the *Spectator*, referring to the above case, maintains that Mrs. Cleary did not meet with her end owing to the belief witchcraft or demoniacal expression, which has real hold in Ireland. "She perished," "R, A." says, "owing to the belief in the fairies.
+>
+> "In Munster, when a child appears delicate, or a young woman consumptive or hysterical, the conclusion often is that the child or the woman has bean carried off by the fairies, to be made playmate or nurse to the young fairies, and that a fairy substitute resembling the person taken away is deposited in their place, which gradually declines, and ultimately dies. The belief is that if the changeling be tortured by fire its fairy parents will hear its cries, rush to its aid, carry it to fairyland, and at the same moment restore the real person, who will be found sleeping calmly the bed.
+>
+> "Cleary and 'the neighbours' evidently believed that the being they tortured was not Cleary's wife, but a changeling. He addressed her, 'In the name of God, are you Bridget Boland?' (her maiden name), believing that thus adjured the being would confess it was fairy. Again, after the burning, many of the men of the locality sa£ up all night in a 'fort' (earth embankment of ancient Irish village), armed with black-handled knives. These poor people thought that fairy procession would pass by, that in the midst would be Mrs. Cleary riding on a grey horse, and that if anyone rushed forward and cut her bonds with a black-handled knife (a potent weapon against all evil spirits), she would at once be restored to the world. In the 'Tales of Terror and Wonder' it was thus that Fair Janet rescued Tam Lin from the fairies. She sat at Giles Cross on Halloween, at the 'murk and midnight hour', when she sees the fairy host go by:
+> 
+> First she let the black pass by,  
+> And next she let the brown,  
+> But quickly ran to the milk-white steed.  
+> And drew its rider down.
+> 
+> Thus Fair Janet rescued Lin; thus the poor dwellers on the slope of Saere-na-mon (the 'Witches Hill,' a haunted mountain) believed that they would rescue Bridget.
 
 ```
 
@@ -683,10 +704,7 @@ Legendary Fictions of the Irish Celts. Collected and narrated by PATRICK KENNEDY
 Anyone who collects the oral traditions of a race does good service to the history of mankind. This method of communication of a race's beliefs, superstitions. and history has been so effectively killed by the School Board, and other so-called instructive agencies, that even by the next generation these hearthside stories of so great interest and antiquity will have wholly faded into oblivion. Tales which have wandered all over Asia and Europe can be picked up, mutilated, and distorted often, but with their original germ underneath, by the fireside of many an unlettered Irishman's hut, or heard amidst the winter stories in a snug Iceland dwelling. Many of these toles date back into a remote past, long before the Christian era, and are of incalculable value to the philologist, historian, and ethnologist. With the tremendous spread of the rubbishy penny and halfpenny journals these old tales fade into oblivion, and it is a gracious and goodly task to rescue them before they sink into forgetfulness. Mr Kennedy has divided his very interesting book into five portions: (1) "Household Stories," which refer to such domestic events as a bad stepmother, and a father's advice to his son; (2) "Legends of the Good People," a fascinating collection of tales of changelings, fairy nurses, and enchanted palaces; (3) "Witchcraft. Sorcery, Ghosts, and Fetches;" (4) "Ossianic and other Early Legends," stories which take us back into that dim and shadowy past wrapped in such impenetrable gloom; (5) "Legends of the Celtic Saints," which contain the beautiful and romantic stories of St. Brendain and the island of the birds, and the legends of St. Patrick. So much more remains to be done in the way of collecting old stories before they pass away for ever, that, though, as Mr Kennedy says, his volume presents but a mere fraction of the wealth of Celtic fiction, he should be warmly thanked for his present volume. One blemish should, however, be pointed out, and that is that Mr Kennedy should have preserved one uniform system in the spelling of his Irish names. It does not matter if they are spelt phonetically, or according to classical Irish spelling; but the same method should have been used throughout, and names should not be spelt phonetically in one story, and according to Irish orthography in another.
 ```
 
-
-## TO DO find a title for this section
-
-
+## From Periodicals to Books
 
 In the [Saturday 12 September 1874](https://britishnewspaperarchive.co.uk/viewer/BL/0003226/18740912/018/0004) edition of *Ben Brierley's Journal*, an article appeared entitled *"Goblin Tales of Lancashire by James Bowker"*. The introductory piece was *"[t]o be followed weekly by the first of twenty-four stories, occasionally illustrated."*
 
@@ -780,7 +798,13 @@ pp86-8
 ... Ages older than the Psyche story, however, is the legend embodying the original Aryan myth. The drop of oil which falls upon the shoulder of the sleeping prince and wakes him, revealing Psyche's curiosity and destroying her happiness, is paralleled among the Welsh by the magic ointment in the legend of the Fiend Master. This legend, it may be premised, is also familiar to both France and Germany, where its details differ but little from those here given: A respectable young Welshwoman of the working class, who lived with her parents, went one day to a hiring fair. Here she was addressed by a very noble-looking gentleman all in black, who asked her if she would be a nursemaid, and undertake the management of his children. She replied that she had no objection; when he promised her immense wages, and said he would take her home behind him, but that she must, before they started, consent to be blindfolded. This done, she mounted behind him on a coal-black steed, and away they rode at a great rate. At length they dismounted, when her new master took her by the hand and led her on, still blindfolded, for a considerable distance. The handkerchief was then removed, when she beheld more grandeur than she had ever seen before; a beautiful palace lighted up by more lights than she could count, and a number of little children as beautiful as angels; also many noble-looking ladies and gentlemen. The children her master put under her charge, and gave her a box containing ointment, which she was to put on their eyes. At the same time he gave her strict orders always to wash her hands immediately after using the ointment, and be particularly careful never to let a bit of it touch her own eyes. These injunctions she strictly followed, and was for some time very happy; yet she sometimes thought it odd that they should always live by candle-light; and she wondered, too, that grand and beautiful as the palace was, such fine ladies and gentlemen as were there should never wish to leave it. But so it was; no one ever went out but her master. One morning, while putting the ointment on the eyes of the children, her own eye itched, and forgetting the orders of her master she touched one corner of it with her finger which was covered with ointment. Immediately, with the vision of that corner of her eye, she saw herself surrounded by fearful flames; the ladies and gentlemen looked like devils, and the children appeared like the most hideous imps of hell. Though with the other parts of her eyes she beheld all grand and beautiful as before, she could not help feeling much frightened at all this; but having great presence of mind she let no one see her alarm. However, she took the first opportunity of asking her masters leave to go and see her friends. He said he would take her, but she must again consent to be blindfolded. Accordingly a handkerchief was put over her eyes; she was again mounted behind her master, and was soon put down in the neighbourhood of her own house. It will be believed that she remained quietly there, and took good care not to return to her place; but very many years afterwards, being at a fair, she saw a man stealing something from a stall, and with one corner of her eye beheld her old master pushing his elbow. Unthinkingly she said, "How are you master? how are the children?" He said, "How did you see me?" She answered, "With the corner of my left eye." From that moment she was blind of her left eye, and lived many years with only her right.' `['Camb. Sup.,' 349.]` An older legend preserving this mythical detail is the story of Taliesin. Gwion Bach's eyes are opened by a drop from Caridwen's caldron falling upon his finger, which he puts in his mouth.
 ```
 
-??? taliesin TO DO
+```{admonition} Gwion Bach and His Rebirth as Taliesin
+:class: dropdown seealso
+
+An old Welsh legend, popularised by lady Chartlotte Guest in her translation of *The Mabinogion*, although the tale is not, strictly, one of what are taken to be the Mabinogi tales.
+
+See for example my own storynote [*Ceridwen, Gwion Bach and Taliesin*](https://psychemedia.github.io/storytelling-notes/gwion-bach.html).
+```
 
 Based on a footnote several pages earlier (at p. 84) — `Cambrian Superstitions,' 148. (This is a small collection of Welsh stories printed at Tipton in 1831, and now rare; its author was W. Howells, a lad of nineteen, and his work was drawn out by a small prize offered by Archdeacon Beynon through a Carmarthen newspaper in 1830. Its English requires rehandling, but its material is of value.)` — I took "Camb. Sup." to be that work, as Professor Rhys would also do in his article *Welsh Fairy Tales*, in Vol. V of Y Cymmrodor, in January 1882.
 
@@ -821,18 +845,18 @@ There is apparently a moral bearing in this legend; viz. the delusive splendor o
 
 ```
 
-TO DO
-
-
 ## A Call to Action from Y Cymmrodor
 
-TO DO what is Y Cymmrodor ?
+Originally published between 1821 and 1851 as the annual journal of the Honourable Society of Cymmrodorion (a society that continues to this day, with the strapline *"Promoting the language, literature, arts and science of Wales"*), *Y Cymmrodor* ('The Welshman') resurfaced in 1871 as a literary and historical periodical *"embodying the Transactions of the Cymmrodorion Society &c."*.
 
+At the start of 1881, the following call to action ([pp.155-159](https://archive.org/details/ycymmrodor04cymmuoft/page/154/mode/2up)) appeared in an attempt to encourage readers to start collecting, and start submitting, *"what still remains of the popular literature of the country"*, under which they included:
+
+> all the unwritten literature (if such an expression be permissible) of the peasant — the tales and legends that constitute his History; the songs, verses, and ballads, that form his Music and his Poetry, the proverbs that embody his Philosophy, as well as all those observances, beliefs, and ideas which are more strictly included in the term Folk-lore.
 
 ```{admonition} Authentic collecting, 1881
 :class: dropdown seealso
 
-https://archive.org/details/ycymmrodor04cymmuoft/page/154/mode/2up?q=midwife
+https://archive.org/details/ycymmrodor04cymmuoft/page/154/mode/2up
 
 Y Cymmrodor
 
@@ -842,11 +866,11 @@ pp155-159
 
 The Folk-Lore of Wales
 
-The desirability of establishing a Welsh Dialect Society has several times, within the last ten years, been dwelt upon; and quite recently, it has been proposed that a Welsh Dialect Section be formed in ccnnection with our own Society. A suggestion has also been made, that the study of the Folhlore of the Principality might with advantage be included in the programme of such society or section. Whatever may be done to carry out these suggestions, we wish, by way of initiatiye, to take this opportunity of urging our readers, who are resident in Wales, to do all in their power to collect and secure what still remains of the popular literature of the country. And under this term we would comprehend all the unwritten literature (if such an expression be permissible) of the peasant — the tales and legends that constitute his History; the songs, verses, and ballads, that form his Music and his Poetry, the proverbs that embody his Philosophy, as well as all those observances, beliefs, and ideas which are more strictly included in the term Folk-lore.
+The desirability of establishing a Welsh Dialect Society has several times, within the last ten years, been dwelt upon; and quite recently, it has been proposed that a Welsh Dialect Section be formed in ccnnection with our own Society. A suggestion has also been made, that the study of the Folhlore of the Principality might with advantage be included in the programme of such society or section. Whatever may be done to carry out these suggestions, we wish, by way of initiative, to take this opportunity of urging our readers, who are resident in Wales, to do all in their power to collect and secure what still remains of the popular literature of the country. And under this term we would comprehend all the unwritten literature (if such an expression be permissible) of the peasant — the tales and legends that constitute his History; the songs, verses, and ballads, that form his Music and his Poetry, the proverbs that embody his Philosophy, as well as all those observances, beliefs, and ideas which are more strictly included in the term Folk-lore.
 
 As might have been expected, in the case of a people of such strong imagination, the various Celtic peoples are, or have been, singularly wealthy in such popular literature. Very much has been lost for ever, and much more will be lost, unless some special efforts be speedily made to secure what remains, before those powerful influences, which are so rapidly deceltising these lands, shall have made it too late. Of what Cornwall possessed, while it was yet Celtic in language, we can now only surmise; and in Wales, the day for gathering a rich harvest has long since passed. In Ireland also, it is rapidly passing; and passing, alas! to a great extent, if not entirely, unimproved. No adequate effort, so far as we are aware, is being made to secure the immense mass of songs and tales, which are still sung and told by the winter fìreside in the cabins of Connemara. And very soon it will be too late there, too. Every year carries away some of the old people, whose sole literature has been of this class; and every year makes the newspaper, the great rival and foe of the story-teller, more and more common. Tn the Highlands of Scotland, Mr. Campbell has done good service by the collection of his *Popular Tales*. But it is Brittany that has been fortunate, beyond almost any other country in Europe. In the person of M. Luzel, it possesses a collector who may fairly be described as unrivaUed. Of what he has done, aud how he has doue it, our readers may form an opinion by glancing through the two volumes of his *Gwerziou Breiz-Izel*, his *Veillées Bretonnes*, and the pages of *Mélusine*. If he lives (and we devoutly hope that he will) to give to the world his complete collection of songs and tales, the popular literature of Brittany will be presented to the student with a completeness that shall leave little to be desired.
 
-As already observed, the time for gathering such a rich harvest in Wales has passed for ever: it had passed, indeed, long before students of language and ethnology had perceived the value of these treasures. To have secured the full wealth of song and tale, that once circulated in the Principality, measures should have been taken at least a hundred and fifty years ago, while this traditional lore still constituted the sole mental wealth of the peasant. Still, much remains to be gieaned in out-of-the-way corners; very much more than a casual observer would expect to fìnd. But, like ghost stories, these remains must be sought, and sought in a sympathetic spirit, ere they can be found. And we would urge those of our readers, who have the opportunity, to engage in the quest con amore, ere it is too late. For another generation of elementary schools, newspapers, and cheap novels, with the change of language which these agencies are so rapidly effecting, will have swept away most of what yet remains. As deserving objects of the collector's pious care, might be specified:—
+As already observed, the time for gathering such a rich harvest in Wales has passed for ever: it had passed, indeed, long before students of language and ethnology had perceived the value of these treasures. To have secured the full wealth of song and tale, that once circulated in the Principality, measures should have been taken at least a hundred and fifty years ago, while this traditional lore still constituted the sole mental wealth of the peasant. Still, much remains to be gieaned in out-of-the-way corners; very much more than a casual observer would expect to fìnd. But, like ghost stories, these remains must be sought, and sought in a sympathetic spirit, ere they can be found. And we would urge those of our readers, who have the opportunity, to engage in the quest *con amore*, ere it is too late. For another generation of elementary schools, newspapers, and cheap novels, with the change of language which these agencies are so rapidly effecting, will have swept away most of what yet remains. As deserving objects of the collector's pious care, might be specified:—
 
 1. Tales, legends, and traditions of all kinds.
 
@@ -876,12 +900,29 @@ We shall be glad to give a place in the *Cymmrodor* to such gleanings as we may 
 
 ```
 
-TO DO Rhys "to meet the rule laid down by the editor of the *Cymmrodor*" in respect of "ask[ing] Mr. Jones to give me a little of his own history", RHys is presumably acknowledgeing the guidance given in a call for submissions relating the collection of Welsh folk-lore at the end of the previous, issue, the January 1881 part of Volume IV of *Y Cymmrodor
-*.
+Professor Sir John Rhys seems to have been quick to respond, submitting a paper on *Welsh Fairy Tales* to the Vol. IV,, October 1881, edition, which he starts as follows ([p163](https://archive.org/details/ycymmrodor04cymmuoft/page/162/mode/2up)):
 
+> The main object the writer of this paper has in view, is to place on record all the matter he can fìnd on the subject of the lake legends of Wales: what he may have to say of them is merely by the way and sporadic, and he would feel well paid for his trouble if the present collection should stimulate others to communicate to the public bits of similar legends, which, it may be, still linger unrecorded among the mountains of the Principality. For it should be clearly understood that all such things bear on the history of the Celts of Wales, as the history of no people can be said to have been written so long as its superstitions and beliefs in past times have not been studied; and those who may thiuk that the legends here recorded are childish and frivolous, may rest assured that they bear on questions wliich themselves could be called neither childish nor frivolous. So, however silly they may think a legend, let them communicate it to somebody who will place it on record; they will then, probably, find out that it has more meaning and interest than they had anticipated.
 
-refers to guidelines
+The paper includes a fragmentary and garbled version of the fairy mdwife tale, with Rhys suggesting that he has seen a more complete version elsewhere, *"possibly in Mr. Sikes' book"*.
 
+```{admonition} An garbled fragment, 1881
+:class: dropdown
+https://archive.org/details/ycymmrodor04cymmuoft/page/208/mode/2up
+
+Y Cymmrodor: embodying the transactions of the Cymmrodorion Society of London
+
+Vol. IV, October 1881
+
+Welsh Fairy Tales, by Professor Rhys
+
+pp. 163-216, but specifically at pp.209-10
+
+Next comes a story about a midwife who lived at Corwrion. "One of the fairies came to ask her to come and attend on his wife. Off she went with him, and she was astonished to be taken into a splendid palace. There she continued to go night and morning to dress the baby for some time, until one day the husband asked her to rub her eyes with a certain ointment he offered her. She did so, and found herself sitting on a tuft of rushes, and not in a palace. There was no baby and all had disappeared. Some time afterwards she happened to go to the town, and whom should she there see busily buying various wares, but the fairy on whose wife she had been attending. She addressed him with the question, 'How are you, to-day?' Instead of answering her, he asked, 'How do you see me?' 'With my eyes,' was the prompt reply. 'Which eye?' he asked. 'This one,' said the woman, pointing to it; and instantly he disappeared, never more to be seen by her." This tale is incomplete, but it can be made up from another version I have seen in print somewhere, though I cannot now lay my hand on it. It was possibly in Mr. Sikes' book.
+
+```
+
+In a second part to his series on *Welsh Fairy Tales*, in the January 1882 edition of *Y Cymmrodor*, Rhys provides a more complete version of the tale, along with another tale of fairy lore, collected from a certain Mr. WIlliam,Jones. In order "to meet the rule laid down by the editor of the *Cymmrodor*", Rhys "ask[ed] Mr. Jones to give me a little of his own history" which he provides before giving the tales and some commentary around them.
 
 ```{admonition} Mr Jones of Beddgelert, 1882
 :class: dropdown seealso
@@ -906,11 +947,6 @@ The best living authority I have found on the folk-lore of Beddgelert, Drws y Co
 
 ```
 
-
-
-
-TO DO
-
 ```{admonition} Another, previously unpublished, tale from Mr Jones, 1882
 https://archive.org/details/ycymmrodor00socigoog/page/n80/mode/2up
 
@@ -926,9 +962,9 @@ At pp68-72
 
 ...
 
-"There was a story respecting the son of the farmer of Braich y Dinas, which used to be related by the late Mr. Ellis Owen of Cefn y Meusydd, somewhat in the same way as that about the Ystrad youth, as told by Glasynys; that is to say, he enticed one of the damsels of the Fair Family to come down from Moel Hebog, and then he carried her by force into the house, and afterwards persuaded her to wed on the same conditions as the young man of Ystrad did. But I have heard an old lady called Mrs. Roberts, who had been brought up at Isallt, and who was older than Mr. Owen, relating it difierently. This old woman believed in the truth of the story, as she remembered some of the family, whatever any body might say.' She used to spin her yarn somewhat as follows:— In old times — but, for the matter of that, when she was a young woman — there were a great many of the Fair Family living in certain caves in the Foel from Cwm Ystradllyn down to the upper part of Pennant. This family was much handsomer than any seen in any other part of the country. In point of stature they were much bigger than the ordinary ones, fair of complexion beyond everybody, with hair that was as light as flax, and eyes that were of a clear blue colour. They showed themselves in one spot or another, engaged in playing, singing, and jollifying every light night. The sound of their singing used to draw the lads and the young women to look at them; and, should they be of clear complexion, they would chat with them; but they would let no person of dark colour come near them, and they moved away from such a one. Now the young man of Braich y Dinas was a handsome, vigorous, and lively stripling, of fair, clear, and attractive complexion. He was very fond of looking at the Fair Family, and had a chat with some of them often, but chiefly with one of the damsels, who surpassed all the rest in beauty and good sense. The result of frequently meeting was that they fell in love with one another, but she would not marry him. She promised, however, to go to service to him, and agreed to meet him at Pant y — I have forgotten the rest of the name — the day after, as it would not do for her to go with him while the others happened to be looking on. So he went up the next day to the Foel, and the damsel met him according to her promise, and went with him home, where she took to the duties of dairymaid. Soon everything began to prosper under her hand; the butter and the cheese were daily growing in quantity. Long and importunately did the youth try to get her to marry him. She promised to do so provided he could find out her name. Mrs. Roberts did not know by what manoeuvre he succeeded in getting it, but it was done, and he came into the house one night and called to 'Sibi', and when she heard her name she fainted away. When, however, she recovered her consciousness, she consented to marry on the condition that he was not to touch her with iron, and that there was not to be a bolt of iron on the door, or a lock either. It was agreed, and they were married; they lived together comfortably many years, and had children bom to them. The end came thus: he had gone one day to cut a bundle of rushes for thatching, and planted the reaping* hook in the bundle to go home. As he drew towards the haggart, Sibi ran out to meet him, and he mischievously threw the bundle of rushes towards her, when she, to prevent its hitting her, tried to stop it with her hand, which touched the reaping-hook. She vanished on the spot out of sight behind the bundle of rushes, and nothing more was seen or heard of her."
+"There was a story respecting the son of the farmer of Braich y Dinas, which used to be related by the late Mr. Ellis Owen of Cefn y Meusydd, somewhat in the same way as that about the Ystrad youth, as told by Glasynys; that is to say, he enticed one of the damsels of the Fair Family to come down from Moel Hebog, and then he carried her by force into the house, and afterwards persuaded her to wed on the same conditions as the young man of Ystrad did. But I have heard an old lady called Mrs. Roberts, who had been brought up at Isallt, and who was older than Mr. Owen, relating it differently. This old woman believed in the truth of the story, as she remembered some of the family, whatever any body might say.' She used to spin her yarn somewhat as follows:— In old times — but, for the matter of that, when she was a young woman — there were a great many of the Fair Family living in certain caves in the Foel from Cwm Ystradllyn down to the upper part of Pennant. This family was much handsomer than any seen in any other part of the country. In point of stature they were much bigger than the ordinary ones, fair of complexion beyond everybody, with hair that was as light as flax, and eyes that were of a clear blue colour. They showed themselves in one spot or another, engaged in playing, singing, and jollifying every light night. The sound of their singing used to draw the lads and the young women to look at them; and, should they be of clear complexion, they would chat with them; but they would let no person of dark colour come near them, and they moved away from such a one. Now the young man of Braich y Dinas was a handsome, vigorous, and lively stripling, of fair, clear, and attractive complexion. He was very fond of looking at the Fair Family, and had a chat with some of them often, but chiefly with one of the damsels, who surpassed all the rest in beauty and good sense. The result of frequently meeting was that they fell in love with one another, but she would not marry him. She promised, however, to go to service to him, and agreed to meet him at Pant y — I have forgotten the rest of the name — the day after, as it would not do for her to go with him while the others happened to be looking on. So he went up the next day to the Foel, and the damsel met him according to her promise, and went with him home, where she took to the duties of dairymaid. Soon everything began to prosper under her hand; the butter and the cheese were daily growing in quantity. Long and importunately did the youth try to get her to marry him. She promised to do so provided he could find out her name. Mrs. Roberts did not know by what manoeuvre he succeeded in getting it, but it was done, and he came into the house one night and called to 'Sibi', and when she heard her name she fainted away. When, however, she recovered her consciousness, she consented to marry on the condition that he was not to touch her with iron, and that there was not to be a bolt of iron on the door, or a lock either. It was agreed, and they were married; they lived together comfortably many years, and had children bom to them. The end came thus: he had gone one day to cut a bundle of rushes for thatching, and planted the reaping* hook in the bundle to go home. As he drew towards the haggart, Sibi ran out to meet him, and he mischievously threw the bundle of rushes towards her, when she, to prevent its hitting her, tried to stop it with her hand, which touched the reaping-hook. She vanished on the spot out of sight behind the bundle of rushes, and nothing more was seen or heard of her."
 
-Mr. Ellis Owen, alluded to above, was a highly respected gentleman, well known in Wales, for his literary and antiquarian tastes. He was bom in 1789 at Cefn y Meusydd, near Tremadoc, where he continued to live till the day of his death, which was the 27th of January 1868. His literary remains, preceded by a short biography, were published in 1877 by Mr. Robert Isaac Jones of Tremadoc; but it contains no fairy tales so far as I have been able to find. A tale which reminds one of that given me by Mr. D. E. Davies respecting the Corwrion midwife, referred to at page 210 of the previous volume, was published by Mr. W. Jones in the fourth volume of the Brythan, page 251; freely rendered into English, it runs thus:—
+Mr. Ellis Owen, alluded to above, was a highly respected gentleman, well known in Wales, for his literary and antiquarian tastes. He was bom in 1789 at Cefn y Meusydd, near Tremadoc, where he continued to live till the day of his death, which was the 27th of January 1868. His literary remains, preceded by a short biography, were published in 1877 by Mr. Robert Isaac Jones of Tremadoc; but it contains no fairy tales so far as I have been able to find. A tale which reminds one of that given me by Mr. D. E. Davies respecting the Corwrion midwife, referred to at page 210 of the previous volume, was published by Mr. W. Jones in the fourth volume of the Brython, page 251; freely rendered into English, it runs thus:—
 
 "Once on a time, when a midwife from Nanhwynan had newly got to the Hafodydd Brithion to pursue her calling, a gentleman came to the door on a fine grey steed and bade her come with him at once. Such was the authority with which he spoke, that the poor midwife durst not refuse to go, however much it was her duty to stay where she was. So she mounted behind him, and off they went, like the flight of a swallow, through Cwmllan, over the Bwlch, down Nant yr Aran, and over the Gadair to Cwm Hafod Ruffydd before the poor woman had time even to say Oh! When they had got there, she saw before her a magnificent mansion, splendidly lit up with such lamps as she had never before seen. They entered the court, and a crowd of servants in expensive liveries came to meet them, and she was at once led through the great hall into a bed-chamber, the like of which she had never seen. There the mistress of the house, to whom she had been fetched, was awaiting her. She got through her duties successfully, and stayed there until the lady had completely recovered, nor had she spent any part of her life so merrily; there was there nought but festivity day and night: dancing, singing, and endless rejoicing reigned there. But merry as it was, she found she must go, and the nobleman gave her a large purse, with the order not to open it until she had got into her own house; then he bade one of his servants escort her the same way she had coma When she reached home she opened the purse, and, to her great joy, it was full of money, and she lived happily on those earnings to the end of her life."
 
@@ -938,31 +974,7 @@ With regard to Mr. D. E. Davies's tale of the Corwrion midwife, and the referenc
 
 ```
 
-
-refers previous volume
-
-TO DO so it seems that Rhys was quire swiftin his respons eot ht ecall to action
-
-```{admonition} TO DO
-:class: dropdown
-https://archive.org/details/ycymmrodor04cymmuoft/page/208/mode/2up?q=midwife
-
-Y Cymmrodor: embodying the transactions of the Cymmrodorion Society of London
-
-Vol. IV, October 1881
-
-Welsh Fairy Tales, by Professor Rhys
-
-pp. 163-216, but specifically at pp.209-10
-
-Next comes a story about a midwife who lived at Corwrion. "One of the fairies came to ask her to come and attend on his wife. Off she went with him, and she was astonished to be taken into a splendid palace. There she continued to go night and morning to dress the baby for some time, until one day ihe husband asked her to rub her eyes with a certain ointment he offered her. She did so, and found herself sitting on a tuft of rushes, and not in a palace. There was no baby and all had disappeared. Some time afterwards she happened to go to the town, and whom should she there see busily buying various wares, but the fairy on whose wife she had been attending. She addressed him with the question, 'How are you, to-day?' Instead of answering her, he asked, 'How do you see me?' 'With my eyes,' was the prompt reply. 'Which eye?' he asked. 'This one,' said the woman, pointing to it; and instantly he disappeared, never more to be seen by her." This tale is incomplete, but it can be made up from another version I have seen in print somewhere, though I cannot now lay my hand on it. It was possibly in Mr. Sikes' book.
-
-```
-
-
-TO DO
-
-reprints tale told by Rhys
+The variant of tale collected from Mr. Jones and published by Rhys, opens the following paper by E. Sidney Hartland on *"Fairy Births and Human Midwifes"* that appeared in the *Archaeological Review* of December 1889.
 
 ```{admonition} Fairy Births and Human Midwifes, E. Sidney Hartland, December 1889
 :class: dropdown
@@ -1124,10 +1136,9 @@ These traditions lead us naturally to the legend of Lady Godiva. As generally to
 
 ...
 
+`[The paper continues with a discussion of the tradition of Lady Godiva.]`
 ```
 
-TO DO [Do Lady Godiva elsewhere?] as see also?
- 
 It would be surprising if another of the English folk song and story collectors, Sabine Baring-Gould, reverend and resident of the West Country, had not also written somewhere of the fairy ointment, and so it is we find him telling a tale collected from Dartmoor of a midwife's encounter late one night with the fairy folk.
 
 ```{admonition} As told by Nurse Warren, 1890
@@ -1194,10 +1205,10 @@ What I am now about to mention is a story I have received from Mr. T. W. Whitewa
 "He then gave her ten guineas, and she returned him the box. He then vanished. This is all the story that Granny told me about the fairy ointment."
 ```
 
-TO DO
+Throughout the late 1840 and early to mid-1850s, Yorkshire merchant Michael Aislabie Denham was an avid collector and publisher of folklore, local rhymes, proverbs, sayings, prophecies and slogans. Many of his papers and pamphlets were re-edited and republished by the Folklore Society in the 1890s. In the the second volume of these repubished *Denham Tracts*, we find the following variants from the north of England.
 
 
-```{admonition} TO DO
+```{admonition} In *The Denham Tracts*, 1892 (c1850)
 :class: dropdown
 
 https://archive.org/details/cu31924092530496/page/n153/mode/2up
@@ -1213,7 +1224,9 @@ A fairy man and woman once entrusted the up-bringing of one of their offspring t
 A midwife in Northumberland was one night summoned by a man to go out and perform her office to a sufferer "in the straw," to which she consented. Mounted on horseback behind him, she was carried with incredible rapidity over an immense space to a cottage, where the woman was soon after delivered of a healthy child. An attendant brought to the midwife ointment in a box, with which she was to anoint the child all over, but she was to beware of putting any of it on her own eyes. Involuntarily, while executing her task, she happened to draw her fingers across her eyes to remove some obstruction of sight, and immediately her eyes were opened and she saw that she was not in a cottage at all, but in the midst of a wild waste, where all the fairy population was assembled round her. She had the presence of mind not to betray any alarm, and having done all that was required, she was conveyed back to her dwelling with the same dispatch with which she had been taken from it. Subsequently, being at a market, she observed among the crowd the man and woman with whom she had formed this singular acquaintance, as well as other agents invisible to man, passing from stall to stall and purloining bits of butter and other edibles. She addressed them and asked them their reasons for these proceedings. "Which eye do you see us with?" asked they. "With both," said she; and they blow into them and both were blinded. Of this and the previous story there are many variations.
 ```
 
-Another avid collector of tales was Jeremiah Curtin.  TO DO
+Another avid collector of tales was American, Jeremiah Curtin, who a keen interest in Irish tales (for example, [*Myths and Folk-lore of Ireland*](https://archive.org/details/mythsandfolklor00curtgoog/page/n14/mode/2up), 1890, and [*Hero-Tales of Ireland*](https://archive.org/details/herotalesofirela00curtuoft/page/n1/mode/2up), 1894), as well as translating tales from Eastern Europe (for exammple, [Myths and folk-tales of the Russians, western Slavs, and Magyars](https://archive.org/details/mythsfolktalesof01curt/page/n7/mode/2up), 1890).
+
+His work *Tales of the Fairies and of the Ghost World* also focussed on tales colleced in Ireland, and includes a variant of the Fairy Midwife theme.
 
 ```{admonition} *Tales of the Fairies and of the Ghost World*, review, 1895
 :class: dropdown seealso
@@ -1228,9 +1241,6 @@ NEW BOOKS AND REPRINTS.
 
 Not folk-lore students only, but all who love stories of primitive man and his beliefs, will be grateful to Mr. Curtin for this valuable and entertaining collection of Irish tales. Mr. Alfred Nutt has well observed in his preface that Mr. Curtin needs no introduction to lovers of ancient lore and legend. By his writings, and his labours as a collector, he has made clear his title to be of the company of Campbell of Islay and Campbell of Tiree. He has, we may add, done well by literature in other ways, by introducing the greatest of Polish story-tellers to the English reader, in a series of admirable translations from Sienkiewicz. These Munster tales prove how much yet remains ta,be gathered in by folk-lorists when the harvester possesses a thorough equipment for the work, in gifts and knowledge and sympathy. They were collected by Mr. Curtin during a sojourn at a farmer's house near Dingle. "My host," he remarks, "was a man who retained a belief in fairies," though he did not acknowledge his faith explicitly. He makes an interesting comparison of the faith as it was and as it is. "When I was a boy," said he, "nine men in ten believed in fairies, and said so; now only one man in ten will say that he believes in them." Though they figure in the stories as extremely malicious, if not absolutely evil beings, the fairies are invariably styled the good people. The Irish peasant who still believes in them, observes the propitiatory method of speech common to all primitive folk in speaking of invisible powers. Many of the tales tell of the strange enchantments that befall mortals in "fairy forts," and of the efforts of their relations to recapture the bewitched person. In some cases a pin is the magic instrument. There is, for example, the curious story of the old midwife of Listowel, who officiates at a mysterious birth and by mischance rubs some fairy ointment on one of her eyes and acquires the power of seeing the good people. At a country fair she sees a fairy thrust something into the side of a fine young girl, who falls to the ground screaming. The old woman drew a pin out of the girl's side, disarmed the magic, and the girl recovered. Subsequently, the avenging fairy thrust out the old woman’s fairy-seeing eye. The "changelings" of which these Munster tales tell are not always children, but frequently substitutes for grown-up folk, and these are among the most curious examples in the collection. Perhaps the grimmest story in the book is that of "Daniel Crowley and the Ghosts," which is to be found in the folk-lore of other lands, though in grotesquerie and humour Mr. Curtin's tale far transcends all other variants that we know.
 ```
-
-
-TO DO
 
 ```{admonition} "The Midwife of Listowel", Jeremiah Curtin, 1895
 :class: dropdown
@@ -1284,12 +1294,9 @@ A little later the fairy made his way to the old woman.
 The moment she said that he struck her left eye and took the sight from it. She went home blind of one eye, and was that way the rest of her life.
 ```
 
-Unlike some of the other collectors, Curtin doesn't provide any biographical information or context relating to his discovery or collection of the tale, instead presenting them as standalone items. But the value of collecting such additional information was recognised at the time.
+Unlike some of the other collectors, Curtin doesn't provide any biographical information or context relating to his discovery or collection of the tale, instead presenting them as standalone items in a highly modified, literary form.
 
-
-TO DO compare / contrast below  with the Y Comm.? guidance from 188?
-
-For example, in *The handbook of folklore*, published by the Folk-Lore Society in 1890, Sir George Gommer start chapter XXII on *The Way to Collect Folklore* with the following advice, [p167](https://books.google.co.uk/books?id=lrQTAAAAYAAJ&printsec=frontcover&dq=handbook+folklore+gomme&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q=handbook%20folklore%20gomme&f=false):
+Even if he was unaware of the recommendations regarding the collection of tales in a way that *"may have a scientific value"* that had appeared in *Y Cymmrodor* in 1881, he would presumably have been aware of the guidance provided in *The handbook of folklore*, published by the Folk-Lore Society in 1890, in which Sir George Gommer starts chapter XXII on *The Way to Collect Folklore* with the following advice, [p167](https://books.google.co.uk/books?id=lrQTAAAAYAAJ&printsec=frontcover&dq=handbook+folklore+gomme&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q=handbook%20folklore%20gomme&f=false):
 
 > With each item of folklore collected, whether it be a custom, superstition, tale, or saying, the following information is required:—
 >  
@@ -1303,19 +1310,21 @@ For example, in *The handbook of folklore*, published by the Folk-Lore Society i
 >  
 > If such particulars are not forthcoming, much of the value of the collection is lost; but as all information is acceptable, the absence of these particulars should not prevent a collector from at once recording whatever he has collected.
 
-In passing, he also noted (p168) that *"[t]he __best__ collecting is that which is done __by accident__, by living among the people and garnering up the sayings and stories they let fall from time to time."*
-
-In his two volume work,  *Celtic folklore: Welsh and Manx*, 1901, Welsh scholar Sir John Rhys' was more careful in at least acknowledging his sources.
+In his two volume work, *Celtic folklore: Welsh and Manx*, 1901, Welsh scholar Professor John Rhys' was more careful in at least acknowledging his sources.
 
 ```{admonition} *Celtic folklore: Welsh and Manx*, two volumes, 1901
 :class: seealso
 
-Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
+Professor John Rhys, *Celtic folklore: Welsh and Manx*, 1901
 
 - volume I: https://archive.org/details/cu31924092530645/page/n5/mode/2up
 - volume II: https://archive.org/details/cu31924092530652/page/n5/mode/2up
 
 ```
+
+In the following review of the Rhys' work, we are introduced to the *Tylwyth Teg*, one of the more common Welsh terms for referring to the fairy folk. In this case, they are identified as:
+
+> diminutive little folk, living in lakes or in caves (the tales vary in this matter with the nature of the districts); they do not fight, but bide their time for vengeance, are susceptible to kindness, are faithful and industrious, haunt sequestered places, are seldom seen but in misty weather and at night, vanish when struck by iron, take half-baked bread, &c.
 
 ```{admonition} *Celtic folklore*, review, 1901
 :class: dropdown seealso
@@ -1335,14 +1344,14 @@ KYMRIC FOLKLORE. The mere mention of a book on Celtic Folk-lore, by Dr John Rhys
 
 In the first volume, Rhys gathered a wide collection of variants of the fairy midwife tale.
 
-The first tale was collected from Dewi Glan Ffrydlas who provided several tales, including this one of the fairy midwife type, although Rhys notes that it *"is incomplete, and probably incorrect"*.
+The first tale that appears in the book was collected from Dewi Glan Ffrydlas who provided several tales, including this one of the fairy midwife type, although Rhys notes that it *"is incomplete, and probably incorrect"*.
 
 ```{admonition} The Midwife of Corwrion
 :class: dropdown
 
 https://archive.org/details/cu31924092530645/page/n113/mode/2up
 
-Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
+Professor John Rhys, *Celtic folklore: Welsh and Manx*, 1901
 
 vol I, p63
 
@@ -1356,7 +1365,7 @@ The following tale, which had previously appeared in *Y Cymmrodor*, Vol. V, Janu
 
 https://archive.org/details/cu31924092530645/page/n149/mode/2up
 
-Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
+Professor John Rhys, *Celtic folklore: Welsh and Manx*, 1901
 
 vol I, p98-100
 
@@ -1369,94 +1378,99 @@ With this ending of the story, one should contrast Dewi Glan Ffrydlas' tale to w
 'But the fair family did not,' Mr. William Jones goes on to say, 'always give mortals the means of good living'; sometimes they made no little fun of them. Once on a time the Drws y Coed man was going home from Bedgelert Fair, rather merry than sad, along the old road over the Gader, when he saw, on coming near the top of the Gader, a fine, handsome house near the road, in which there was a rare merrymaking. He knew perfectly well that there was no such a building anywhere on his way, and it made him think that he had lost his way and gone astray; so he resolved to turn into the house to ask for lodgings, which were given him. At once, when he entered, he took it to be a nuptial feast (neithior) by reason of the jollity, the singing, and the dancing. The house was full of young men, young women, and children, all merry, and exerting themselves to the utmost. The company began to disappear one by one, and he asked if he might go to bed, whereupon he was led to a splendid chamber, where there was a bed of the softest down with snowwhite clothes on it. He stripped at once, went into it, and slept quietly enough till the morning. The first thing to come to his mind when he lay half asleep, half awake, was the jollity of the night before, and the fact of his sleeping in a splendid chamber in the strange house. He opened his eyes to survey his bedroom, but it was too wide: he was sleeping on the bare swamp, with a clump of rushes as his pillow, and the blue sky as his coverlet.'
 ```
 
-TO DO
+On occasion, rather than fairy ointment, it seems to be the fairy bathwater that appears to offer the magical properties.
 
-```{admonition} TO DO
+```{admonition} Washing the fairy baby, 1901
 :class: dropdown
 
 https://archive.org/details/cu31924092530645/page/n197/mode/2up
 
-Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
+Professor John Rhys, *Celtic folklore: Welsh and Manx*, 1901
 
 Vol. I, pp147
 
 ... A story current at ILanuwchllyn, concerning a midwife who attends on a fairy mother, resembles the others of the same group: for one of them see p. 63 above. In the former, however, one misses the ointment, and finds instead of it that the midwife was not to touch her eyes with the water with which she washed the fairy baby. But as might be expected one of her eyes happened to itch, and she touched it with her fingers straight from the water. It appears that thenceforth she was able to see the fairies with that eye; at any rate she is represented some time afterwards recognizing the father of the fairy baby at a fair at Bala, and inquiring of him kindly about his family. The fairy asked with which eye she saw him, and when he had ascertained this, he at once blinded it, so that she never could see with it afterwards. Hywel also has it that the *Tylwyth Teg* formerly used to frequent the markets at Bala, and that they used to swell the noise in the market-place without anybody being able to see them: this was a sign that prices were going to rise.
 ```
 
-```{admonition} TO DO
+The following version, although with an origin in Wales, has some similarity with the version told by Hugh Lupton, although the effecct of the ointment is switched. In Lupton's telling, the midwife sees ths splendour of the fairy world after getting the ointment in her eye; in the telling below, the scene is transfromed from an apparently splendid one, to a world of squalor.
+
+```{admonition} A visit to the hiring fair, 1901
 :class: dropdown
 
 https://archive.org/details/cu31924092530645/page/n263/mode/2up
 
-Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
+Professor John Rhys, *Celtic folklore: Welsh and Manx*, 1901
 
 Vol. I, pp211-214
 
-'An old man and his wife lived at the Garth Dorwen in some period a long while ago. They went to Carnarvon to hire a servant maid at the Allhallows' fair; `[The hiring time in Wales is the beginning; of winter and of summer; or, as one would say in Welsh, at the Calends of Winter and the Calends of May respectively. In North Cardiganshire the great hiring fair was held at the former date when I was a boy, and so, as I learn from my wife, it was in Carnarvonshire.]` and it was the custom then for young men and women who stood out for places to station themselves at the top of the present *Maes*, by a little green eminence which was where the present Post-office stands. The old man and his wife went to that spot, and saw there a lass with yellow hair, standing a little apart from all the others ; the old woman went to her and asked her if she wanted a place. She replied that she did, and so she hired herself at once and came to her place at the time fixed. In those times it was customary during the long winter nights that spinning should be done after supper. Now the maid servant would go to the meadow to spin by the light of the moon, and the *Tylwyth Teg* used to come to her to sing and dance. But some time in the spring, when the days had grown longer, Eilian escaped with the *Tylwyth Teg*, so that she was seen no more. The field where she was last seen is to this day called Eilian's Field, and the meadow is known as the Maid's Meadow. The old woman of Garth Dorwen was in the habit of putting women to bed, and she was in great request far and wide. Some time after Eilian's escape there came a gentleman on horseback to the door one night when the moon was full, while there was a slight rain and just a little mist, to fetch the old woman to his wife. So she rode off behind the stranger on his horse, and came to Rhos y Cowrt. Now there was at that time, in the centre of the *rhos*, somewhat of a rising ground that looked like an old fortification, with many big stones on the top, and a large cairn of stones on the northern side: it is to be seen there to this day, and it goes by the name of Bryn y Pibion, but I have never visited the spot. When they reached the spot, they entered a large cave, and they went into a room where the wife lay in her bed; it was the finest place the old woman had seen in her life. When she had successfully brought the wife to bed, she went near the fire to dress the baby; and when she had done, the husband came to the old woman with a bottle of ointment `[n a Cornish story mentioned in Choice Notes, p. 77, we have, instead of ointment, simply soap. See also Mrs. Bray's Banks of the Tamar, pp. 174-7, where she alludes to H. Cornelius Agrippa's statement how such ointment used to be made — the reference must, I think, be to his book De Occulta Philosophia Libri III (Paris, 1567), i. 45 (pp. 81-2).]` that she might anoint the baby's eyes; but he entreated her not to touch her own eyes with it. Somehow after putting the bottle by, one of the old woman's eyes happened to itch, and she rubbed it with the same finger that she had used to rub the babys eyes. Then she saw with that eye how the wife lay on a bundle of rushes and withered ferns in a large cave, with big stones all round her, and with a little fire in one corner; and she saw also that the lady was only Eilian, her former servant girl, whilst, with the other eye, she beheld the finest place she had ever seen. Not long afterwards the old midwife went to Carnarvon to market, when she saw the husband, and said to him, "How is Eilian?" "She is pretty well," said he to the old woman, "but with what eye do you see me?" "With this one," was the reply; and he took a bulrush and put her eye out at once.'
+'An old man and his wife lived at the Garth Dorwen in some period a long while ago. They went to Carnarvon to hire a servant maid at the Allhallows' fair; `[The hiring time in Wales is the beginning; of winter and of summer; or, as one would say in Welsh, at the Calends of Winter and the Calends of May respectively. In North Cardiganshire the great hiring fair was held at the former date when I was a boy, and so, as I learn from my wife, it was in Carnarvonshire.]` and it was the custom then for young men and women who stood out for places to station themselves at the top of the present *Maes*, by a little green eminence which was where the present Post-office stands. The old man and his wife went to that spot, and saw there a lass with yellow hair, standing a little apart from all the others; the old woman went to her and asked her if she wanted a place. She replied that she did, and so she hired herself at once and came to her place at the time fixed. In those times it was customary during the long winter nights that spinning should be done after supper. Now the maid servant would go to the meadow to spin by the light of the moon, and the *Tylwyth Teg* used to come to her to sing and dance. But some time in the spring, when the days had grown longer, Eilian escaped with the *Tylwyth Teg*, so that she was seen no more. The field where she was last seen is to this day called Eilian's Field, and the meadow is known as the Maid's Meadow. The old woman of Garth Dorwen was in the habit of putting women to bed, and she was in great request far and wide. Some time after Eilian's escape there came a gentleman on horseback to the door one night when the moon was full, while there was a slight rain and just a little mist, to fetch the old woman to his wife. So she rode off behind the stranger on his horse, and came to Rhos y Cowrt. Now there was at that time, in the centre of the *rhos*, somewhat of a rising ground that looked like an old fortification, with many big stones on the top, and a large cairn of stones on the northern side: it is to be seen there to this day, and it goes by the name of Bryn y Pibion, but I have never visited the spot. When they reached the spot, they entered a large cave, and they went into a room where the wife lay in her bed; it was the finest place the old woman had seen in her life. When she had successfully brought the wife to bed, she went near the fire to dress the baby; and when she had done, the husband came to the old woman with a bottle of ointment `[n a Cornish story mentioned in Choice Notes, p. 77, we have, instead of ointment, simply soap. See also Mrs. Bray's Banks of the Tamar, pp. 174-7, where she alludes to H. Cornelius Agrippa's statement how such ointment used to be made — the reference must, I think, be to his book De Occulta Philosophia Libri III (Paris, 1567), i. 45 (pp. 81-2).]` that she might anoint the baby's eyes; but he entreated her not to touch her own eyes with it. Somehow after putting the bottle by, one of the old woman's eyes happened to itch, and she rubbed it with the same finger that she had used to rub the baby's eyes. Then she saw with that eye how the wife lay on a bundle of rushes and withered ferns in a large cave, with big stones all round her, and with a little fire in one corner; and she saw also that the lady was only Eilian, her former servant girl, whilst, with the other eye, she beheld the finest place she had ever seen. Not long afterwards the old midwife went to Carnarvon to market, when she saw the husband, and said to him, "How is Eilian?" "She is pretty well," said he to the old woman, "but with what eye do you see me?" "With this one," was the reply; and he took a bulrush and put her eye out at once.'
 
 That is exactly the tale, my informant tells me, as he heard it from his mother, who heard it from an old woman who lived at Garth Dorwen when his mother was a girl, about eighty-four years ago, as he guessed it to have been; but in his written version he has omitted one thing which he told me at Glynllifon, namely, that, when the servant girl went out to the fairies to spin, an enormous amount of spinning used to be done. I mention this as it reminds me of the tales of other nations, where the girl who cannot spin straw into gold is assisted by a fairy, on certain conditions which are afterwards found very inconvenient. It may be guessed that in the case of Eilian the conditions involved her becoming a fairy's wife, and that she kept to them. Lastly, I should like the archaeologists of Carnarvonshire to direct their attention to Bryn y Pibion; for they might be expected to come across the remains there of a barrow or of a fort.
 ```
 
-TH: the above is close to many of the elements of Hugh Lupton's telling? TO DO
+The same tale also appears in William Jenkyn Thomas' [The Welsh Fairy Book](https://books.google.co.uk/books?id=fII2AQAAMAAJ&pg=PR11&dq=%22welsh+fairy+book%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiKvaivzc-MAxWVVUEAHXTSJ7UQ6AF6BAgLEAM#v=onepage&q=nurse&f=false), 1907, pp. 134-7, under the title [*The Fairy Ointment*](https://sacred-texts.com/neu/celt/wfb/wfb29.htm).
 
-It also appears in William Jenkyn Thomas' [The Welsh Fairy Book](https://books.google.co.uk/books?id=fII2AQAAMAAJ&pg=PR11&dq=%22welsh+fairy+book%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiKvaivzc-MAxWVVUEAHXTSJ7UQ6AF6BAgLEAM#v=onepage&q=nurse&f=false), 1907, pp. 134-7, under the title [*The Fairy Ointment*](https://sacred-texts.com/neu/celt/wfb/wfb29.htm)
+As well as relating the tales he was told, Rhys also acknowledges folk who were acquainted with the tales, but not including them. Whether the omission was becuase the tale was fragmentary, or a clear duplicate of, or less well told than, an equivalent version, is not clear.
 
-
-```{admonition} TO DO
+```{admonition} Acquainted with the tale, 1901
 :class: dropdown
 
 https://archive.org/details/cu31924092530645/page/n269/mode/2up
 
-Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
+Professor John Rhys, *Celtic folklore: Welsh and Manx*, 1901
 
 Vol. I, pp119-220
 
-One day in August of the same summer I went to have another look at the old inscribed stone at Gesail Gyfarch `[As it stands now this would be unmutated Cesel Gyfarch, 'Cyfarch's Nook,' but there never was such a name. There was, however, Elgyfarch or Aelgyfarch and Rhygyfarch, and in such a combination as Césel Elgyfarch there would be every temptation to drop one unaccented el.]` near Tremadoc, and, instead of returning the same way, I walked across to Criccieth Station; but on my way I was directed to call at a farm house called ILwyn y Mafon Uchaf, where I was to see Mr. Edward ILewelyn, a bachelor then seventy-six years of age. He is a native of the neighbourhood, and has always lived in it ; moreover, he has now been for some time blind. He had heard a good many fairy tales.
+One day in August of the same summer I went to have another look at the old inscribed stone at Gesail Gyfarch `[As it stands now this would be unmutated Cesel Gyfarch, 'Cyfarch's Nook,' but there never was such a name. There was, however, Elgyfarch or Aelgyfarch and Rhygyfarch, and in such a combination as Césel Elgyfarch there would be every temptation to drop one unaccented el.]` near Tremadoc, and, instead of returning the same way, I walked across to Criccieth Station; but on my way I was directed to call at a farm house called ILwyn y Mafon Uchaf, where I was to see Mr. Edward ILewelyn, a bachelor then seventy-six years of age. He is a native of the neighbourhood, and has always lived in it; moreover, he has now been for some time blind. He had heard a good many fairy tales.
 
 ... Mr. ILewelyn was also acquainted with the tale of the midwife that went to a fairy family, and how the thieving husband had deprived her of the use of one eye. He also spoke of the fairies changing children, and how one of these changelings, supposed to be a baby, expressed himself to the effect that he had seen the acorn before the oak, and the egg before the chick, but never anybody who brewed ale in an egg-shell: see p. 62 above.
 ```
 
-```{admonition} TO DO
-:class: dropdown
-
-https://archive.org/details/cu31924092530645/page/n273/mode/2up
-
-Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
-
-Vol. I, pp222-3
-
-When I was staying at Pwttheli the same summer, I went out to the neighbouring village of Four Crosses, and found a native of the place, who had heard a great many curious things from his mother. His name was Lewis Jones: he was at the time over eighty, and he had formerly been a saddler. Among other things, his mother often told him that her grandmother had frequently been with the fairies, when the latter was a child. She lived at Plas Du, and once she happened to be up near Carn Bentyrch when she saw them. ...
-
-... Lewis Jones related to me the story of the midwife — he pronounced it in Welsh 'midwaith ' — who attended on a fairy. As in the other versions, she lost the sight of one eye in consequence of her discovering the gentleman fairy thieving; but the fair at which this happened was held in this instance at Nefyn.
-```
-
-```{admonition} TO DO
+```{admonition} The tale recognised elsewhere, 1901
 :class: dropdown
 
 https://archive.org/details/cu31924092530645/page/n277/mode/2up?q=midwife
 
-Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
+Professor John Rhys, *Celtic folklore: Welsh and Manx*, 1901
 
 Vol. I, pp226-8
 
 At Nefyn, in ILeyn, `[In medieval Welsh poetry this name was still a dissyllable; but now it is pronounced ILyn, in conformity with the habit of the Gwyndodeg, which makes into porfeyd what is written porfeyd, 'pastures,' and pronounced porfëid in North Cardiganshire. So in the ILeyn name Sam FyVieym the second vocable represents Maelteyrn, in the Record of Carnarvon (p. 38) Mayltern: it is now sounded Mylltyrn with the second y short and accented. ILeyn is a plural of the people (genitive ILaen in Porth Dinllaen), used as a singular of their country, like Cymru = Cymry, and Prydyn. The singular is llain, 'a spear,' in the Book of Aneurin: see Skene, ii. 64, 88, 92.]` I had some stories about the *Tylwyth Teg* from Lowri Hughes, the widow of John Hughes, who lives in a cottage at Pen Isa'r Dref, and is over seventy-four years of age.
 
-... My informant had also heard the midwife story, and she was aware that the fairies changed people's children ; in fact, she mentioned to me a farm house not far off where there was a daughter of this origin then, not to mention that she knew all about Elis Bach. ...
+... My informant had also heard the midwife story, and she was aware that the fairies changed people's children; in fact, she mentioned to me a farm house not far off where there was a daughter of this origin then, not to mention that she knew all about Elis Bach. ...
 
 At Nefyn, Mr. John Williams (Alaw ILeyn) got from his mother the tale of the midwife. It stated that the latter lost the sight of her right eye at Nefyn Fair, owing to the fairy she there recognized, pricking her eye with a green rush.
 
 ```
 
-```{admonition} TO DO
+In another, similarly brief report, Rhys makes an observations regarding pronunciation.
+
+```{admonition} An uncommon pronunication observed, 1901
+:class: dropdown
+
+https://archive.org/details/cu31924092530645/page/n273/mode/2up
+
+Professor John Rhys, *Celtic folklore: Welsh and Manx*, 1901
+
+Vol. I, pp222-3
+
+When I was staying at Pwttheli the same summer, I went out to the neighbouring village of Four Crosses, and found a native of the place, who had heard a great many curious things from his mother. His name was Lewis Jones: he was at the time over eighty, and he had formerly been a saddler. Among other things, his mother often told him that her grandmother had frequently been with the fairies, when the latter was a child. She lived at Plas Du, and once she happened to be up near Carn Bentyrch when she saw them. ...
+
+... Lewis Jones related to me the story of the midwife — he pronounced it in Welsh 'midwaith' — who attended on a fairy. As in the other versions, she lost the sight of one eye in consequence of her discovering the gentleman fairy thieving; but the fair at which this happened was held in this instance at Nefyn.
+```
+
+In the following two variants, the retribution for the midwife revealing her ability to see the fair folk is having the sight of the fairies removed, rather than the loss of an eye completely. The first tale was remembered from several years before as coming from an old woman who claimed to have been the subject of the story of the story itself: she was taken to a fine palace and attended the fairy wife, although there wass no sign of other people in the palace until the ointment was mistakenly applied. Having revealed this ability, it was taken from her.
+
+```{admonition} Now you will us see no more, 1901 (<1870)
 :class: dropdown
 
 https://archive.org/details/cu31924092530645/page/n297/mode/2up
 
-Sir John Rhys, *Celtic folklore: Welsh and Manx*, 1901
+Professor John Rhys, *Celtic folklore: Welsh and Manx*, 1901 
 
 Vol. I, pp246-8
 
-... Besides the usual tales concerning men enticed into the ring and retained in Faery for a year and a day, and concerning the fairies' dread of *pren cerdingen* or mountain ash, I had the midwife tale in two or three forms, differing more or less from the versions current in North Wales. For the most complete of them I am indebted to one of the young men studying at the Grammar School, Mr. D. ILedrodian Davies. It used to be related by an old woman who died some thirty years ago at the advanced age of about 100. She was Pàli, mother of old Rachel Evans, who died seven or eight years ago, when she was about eighty. The latter was a curious character, who sometimes sang *maswed*, or rhymes of doubtful propriety, and used to take the children of the village to see fairy rings. She also used to see the *Tylwyth*, and had many tales to tell of them. But her mother, Pàli, had actually been called to attend at the confinement of one of them. The beginning of the tale is not very explicit; but, anyhow, Pàli one evening found herself face to face with the fairy lady she was to attend upon. She appeared to be the wife of one of the princes of the country. She was held in great esteem, and lived in a very grand palace. Everything there had been arranged in the most beautiful and charming fashion. The wife was in her bed with nothing about her but white, and she fared sumptuously. In due time, when the baby had been born, the midwife had all the care connected with dressing it and serving its mother. Pàli could see or hear nobody in the whole place but the mother and the baby. She had no idea who attended on them, or who prepared all the things they required, for it was all done noiselessly and secretly. The mother was a charming person, of an excellent temper and easy to manage. Morning and evening, as she finished washing the baby, Pàli had a certain ointment given her to rub the baby with. She was charged not to touch it but with her hand, and especially not to put any near her eyes. This was carried out for some time, but one day, as she was dressing the baby, her eyes happened to itch, and she rubbed them with her hand. Then at once she saw a great many wonders she had not before perceived; and the whole place assumed a new aspect to her. She said nothing, and in the course of the day she saw a great deal more. Among other things, she observed small men and small women going in and out, following a variety of occupations. But their movements were as light as the morning breeze. To move about was no trouble to them, and they brought things into the room with the greatest quickness. They prepared dainty food for the confined lady with the utmost order and skill, and the air of kindness and affection with which they served her was truly remarkable. In the evening, as she was dressing the baby, the midwife said to the lady, 'You have had a great many visitors to-day.' To this she replied, 'How do you know that? Have you been putting the ointment to your eyes?' Thereupon she jumped out of bed, and blew into her eyes, saying, 'Now you will see no more.' She never afterwards could see the fairies, however much she tried, nor was the ointment entrusted to her after that day. According, however, to another version which I heard, she was told, on being found out, not to apply the ointment to her eyes any more. She promised she would not; but the narrator thought she broke that promise, as she continued to see the fairies as long as she lived.
+... Besides the usual tales concerning men enticed into the ring and retained in Faery for a year and a day, and concerning the fairies' dread of *pren cerdingen* or mountain ash, I had the midwife tale in two or three forms, differing more or less from the versions current in North Wales. For the most complete of them I am indebted to one of the young men studying at the Grammar School `[at Ystrad Meurig, Ceredigion?]`, Mr. D. ILedrodian Davies. It used to be related by an old woman who died some thirty years ago at the advanced age of about 100. She was Pàli, mother of old Rachel Evans, who died seven or eight years ago, when she was about eighty. The latter was a curious character, who sometimes sang *maswed*, or rhymes of doubtful propriety, and used to take the children of the village to see fairy rings. She also used to see the *Tylwyth*, and had many tales to tell of them. But her mother, Pàli, had actually been called to attend at the confinement of one of them. The beginning of the tale is not very explicit; but, anyhow, Pàli one evening found herself face to face with the fairy lady she was to attend upon. She appeared to be the wife of one of the princes of the country. She was held in great esteem, and lived in a very grand palace. Everything there had been arranged in the most beautiful and charming fashion. The wife was in her bed with nothing about her but white, and she fared sumptuously. In due time, when the baby had been born, the midwife had all the care connected with dressing it and serving its mother. Pàli could see or hear nobody in the whole place but the mother and the baby. She had no idea who attended on them, or who prepared all the things they required, for it was all done noiselessly and secretly. The mother was a charming person, of an excellent temper and easy to manage. Morning and evening, as she finished washing the baby, Pàli had a certain ointment given her to rub the baby with. She was charged not to touch it but with her hand, and especially not to put any near her eyes. This was carried out for some time, but one day, as she was dressing the baby, her eyes happened to itch, and she rubbed them with her hand. Then at once she saw a great many wonders she had not before perceived; and the whole place assumed a new aspect to her. She said nothing, and in the course of the day she saw a great deal more. Among other things, she observed small men and small women going in and out, following a variety of occupations. But their movements were as light as the morning breeze. To move about was no trouble to them, and they brought things into the room with the greatest quickness. They prepared dainty food for the confined lady with the utmost order and skill, and the air of kindness and affection with which they served her was truly remarkable. In the evening, as she was dressing the baby, the midwife said to the lady, 'You have had a great many visitors to-day.' To this she replied, 'How do you know that? Have you been putting the ointment to your eyes?' Thereupon she jumped out of bed, and blew into her eyes, saying, 'Now you will see no more.' She never afterwards could see the fairies, however much she tried, nor was the ointment entrusted to her after that day. According, however, to another version which I heard, she was told, on being found out, not to apply the ointment to her eyes any more. She promised she would not; but the narrator thought she broke that promise, as she continued to see the fairies as long as she lived.
 
 Mr. D. IL. Davies has also a version like the North Wales ones. He obtained it from a woman of seventy eight at Bronnant, near Aberystwyth, who had heard it from one of her ancestors. According to her, the midwife went to the fair called Ffair Rhos, which was held between Ystrad Meurig and Pont Rhyd Fendigaid. `[This name means the Bridge of the Blessed Ford, but how the ford came to be so called I know not. The word hendigaid, 'blessed,' comes from the Latin verb benedico, 'I bless,' and should, but for the objection to nd in book Welsh, be bendigaid, which, in fact, it is approximately in the northern part of the county, where it is colloquially sounded Pont Rhyd Fyndiged, Fydiged, or even Fdiged, also Pont Rhyd mdiged, which represents the result of the unmutated form Bdiged coming directly after the d of rhyd. Somewhat the same is the case with the name of the herb Dail y Fendigaid, literally 'the Leaves of the Blessed' (in the feminine singular without any further indication of the noun to be supplied). This name means, I find, 'hypericum androsaemum, tutsan,' and in North Cardiganshire we call it Dail y Fyndiged or Fdiged, but in Carnarvonshire the adjective is made to qualify dail, so that it sounds Dail Bydigad or Bdigad, 'Blessed Leaves.']` There she saw a great many of the *Tylwyth* very busily engaged, and among others the lady she had been attending upon. That being so, she walked up to her and saluted her. The fairy lady angrily asked how she saw her, and spat in her face, which had the result of putting an end for ever to her power of seeing her or anybody of her race.
 
@@ -1466,9 +1480,7 @@ The former tale is also reprinted in Jonathan Ceredig Davies, *Folk-lore of west
 
 ## More Tales from the Celtic Countries
 
-In *The fairy-faith in Celtic countries*, 1911, W. Y. Evans-Wentz collected testimony relating to beliefs in fairy lore across the Celtic countries of Ireland, Wales, Cornwall, Brittany, Scotland, and the Isle of Man.
-
-As well as aknowledging his sources, he provided exetnesive additional context, often providing a quick, yet compelling, character sketches of the folk who provided him with his tales.
+In *The fairy-faith in Celtic countries*, 1911, W. Y. Evans-Wentz collected testimony relating to beliefs in fairy lore across the Celtic countries of Ireland, Wales, Cornwall, Brittany, Scotland, and the Isle of Man. Amongst the tales he collected are several examples of the Fairy Midwife / Fairy Nurse / Fairy Ointment tale type.
 
 ```{admonition} *The fairy-faith in Celtic countries*, announcement, 1911
 :class: dropdown
@@ -1481,7 +1493,9 @@ Literary Notes
 "The Fairy-Faith in Celtic Countries," by W. Y. Evans-Wentz, which Mr Frowde is publishing, is the direct result of the author's travel among the Celtic people of Ireland, Sootland, the Isle of Man, Wales, Cornwall, and Brittany. Six Celtic scholars have written special introductions to the sections dealing with these districts — viz., Dr Hyde. Dr Alexander Carmichael, Miss Sophie Morrison, the Right Hon. Sir John Rhys, Mr Henry Jenner, and Professor Anatole de Bras. Mr Andrew Lang has also contributed to the volume. The author himself concludes that the fairy-faith is one aspect of a world-wide animism, and that it should receive careful consideration from anthropologists and psychical researchers, being not, as is populalry supposed, a mere fabric of groundless beliefs.
 ```
 
-Amongst the tales he collected are several examples of the Fairy Midwife / Fairy Nurse / Fairy Ointment tale type.
+As well as acknowledging his sources, Evans-Wentz provided colourful additional context surrounding the collection of each tale, often in the form of a quick, yet compelling, character sketch of the storyteller.
+
+In the following example, we learn of the "accidential" way in which the tale, which features basion water rather ointment providing fairy sight, was collected. As Sir George Gommer had noted [*The handbook of folklore*, 1890, p168](https://books.google.co.uk/books?id=lrQTAAAAYAAJ&printsec=frontcover&dq=handbook+folklore+gomme&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q=handbook%20folklore%20gomme&f=false) *"[t]he __best__ collecting is that which is done __by accident__, by living among the people and garnering up the sayings and stories they let fall from time to time."*
 
 ```{admonition} An Irish Tale
 :class: dropdown
@@ -1504,6 +1518,25 @@ Our next witness is Bridget O'Conner, a near neighbour to Patrick Waters, in Clo
 
 ```
 
+Evans-Wentz also came across a version of the tale in Brittany which replaces the fairy water with the more familiar ointment.
+
+```{admonition} A Breton Tale
+:class: dropdown
+
+https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/204/mode/2up
+
+W. Y. (Walter Yeeling) Evans-Wentz, *The fairy-faith in Celtic countries*, 1911
+pp. 204-5
+
+*[Fairies of Upper Brittany.]*
+
+The following midwife story, as told by J. M. Comault, of Gouray, in 1881, is quite a parallel to the one we have recorded (on p. 54) as coming from Grange, Ireland:—
+
+A midwife who delivered a *Margot la fée* carelessly allowed some of the fairy ointment to get on one of her own eyes. The eye at once became clairvoyant, so that she beheld the *fées* in their true nature. And, quite like a midwife in a similar story about the *fées des houles*, this midwife happened to see a *fée* in the act of stealing, and spoke to her. Thereupon the *fée* asked the midwife with which eye she beheld her, and when the midwife indicated which one it was, the *fée* pulled it out. `[Cf. Sebillot, Traditions et superstitions de la Haute-Bretagne, i. 1]`
+```
+
+In a tale from the Isle of Man, we have an interesting twist: the midwife is offered a choice of cakes as a reward, and a riddle regarding how to choose between them.
+
 ```{admonition} A Manx Tale
 :class: dropdown
 
@@ -1517,11 +1550,13 @@ p127
 
 Fairy Tales on Christmas Day
 
-The next morning, Christmas morning, I called at the picturesque roadside home of Mrs. Dinah Moore a Manxwoman living near Glen Meay; and she contributed the best single collection of Manx folk-legends I discovered on the island. ...
+The next morning, Christmas morning, I called at the picturesque roadside home of Mrs. Dinah Moore, a Manxwoman living near Glen Meay; and she contributed the best single collection of Manx folk-legends I discovered on the island. ...
 
-*A Midwife s Strange Experience.*— 'A strange man took a nurse to a place where a baby boy was born. After the birth, the man set out on a table two cakes, one of them broken and the other one whole, and said to the nurse: "Eat, eat; but don't eat of the cake which is broken nor of the cake which is whole." And the nurse said: "What in the name of the Lord am I going to eat? " At that all the fairies in the house disappeared; and the nurse was left out on a mountain-side alone.'
+*A Midwife s Strange Experience.*— 'A strange man took a nurse to a place where a baby boy was born. After the birth, the man set out on a table two cakes, one of them broken and the other one whole, and said to the nurse: "Eat, eat; but don't eat of the cake which is broken nor of the cake which is whole." And the nurse said: "What in the name of the Lord am I going to eat?" At that all the fairies in the house disappeared; and the nurse was left out on a mountain-side alone.'
 
 ```
+
+In his search for tales, Evans-Wentz often appears to have sought out centenarians. In the tale told in the following case, remarks on the switch from the typical variant of a human midwife adminstering to a fairy mother, for a fairy midwife administering to a human mother.
 
 ```{admonition} A Welsh Tale
 :class: dropdown
@@ -1538,9 +1573,13 @@ Perhaps nowhere else in Celtic lands could there be found as witnesses two siste
 
 ...
 
-*Fairy Midwife and Magic Oil.*— 'The *Tylwyth Teg* had a kind of magic oil, and I remember this story about it:— A farmer went to Llangefni to fetch a woman to nurse his wife about to become a mother, and he found one of the *Tylwyth Teg*, who came with him on the back of his horse. Arrived at the farm-house, the fairy woman looked at the wife, and giving the farmer some oil told him to wash the baby in it as soon as it was born. Then the fairy woman disappeared. The farmer followed the advice, and what did he do in washing the baby but get some oil on one of his own eyes. Suddenly he could see the *Tylwyth Teg*, for the oil had given him the second-sight. Some time later the farmer was in Llangefni again, and saw the same fairy woman who had given him the oil. "How is your wife getting on?" she asked him. "She is getting on very well," he replied. Then the fairy woman added, "Tell me with which eye you see me best." "With this one," he said, pointing to the eye he had rubbed with the oil. And the fairy woman put her stick in that eye, and the farmer never saw with it again.' `[This is the one tale I have found in North Wales about a midwife and fairies — a type of tale common to West Ireland, Isle of Man, Cornwall, and Brittany, but in a reverse version, the midwife there being (as she is sometimes in Welsh versions) one of the human race called in by fairies. If evidence of the oneness of the Celtic mind were needed we should find it here (cf. pp. 50, 54, 127, 175, 182, 205). There are in this type of fairy-tale, as the advocates of the Pygmy Theory may well hold, certain elements most likely traceable to a folk-memory of some early race, or special class of some early race, who knew the secrets of midwifery and the use of medicines when such knowledge was considered magical. But in each example of this midwife story there is the germ idea — ^no matter what other ideas cluster round it — that fairies, like spirits, are only to be seen by an extrahuman vision, or, as psychical researchers might say, by clairvoyance.]`
+*Fairy Midwife and Magic Oil.*— 'The *Tylwyth Teg* had a kind of magic oil, and I remember this story about it:— A farmer went to Llangefni to fetch a woman to nurse his wife about to become a mother, and he found one of the *Tylwyth Teg*, who came with him on the back of his horse. Arrived at the farm-house, the fairy woman looked at the wife, and giving the farmer some oil told him to wash the baby in it as soon as it was born. Then the fairy woman disappeared. The farmer followed the advice, and what did he do in washing the baby but get some oil on one of his own eyes. Suddenly he could see the *Tylwyth Teg*, for the oil had given him the second-sight. Some time later the farmer was in Llangefni again, and saw the same fairy woman who had given him the oil. "How is your wife getting on?" she asked him. "She is getting on very well," he replied. Then the fairy woman added, "Tell me with which eye you see me best." "With this one," he said, pointing to the eye he had rubbed with the oil. And the fairy woman put her stick in that eye, and the farmer never saw with it again.' `[This is the one tale I have found in North Wales about a midwife and fairies — a type of tale common to West Ireland, Isle of Man, Cornwall, and Brittany, but in a reverse version, the midwife there being (as she is sometimes in Welsh versions) one of the human race called in by fairies. If evidence of the oneness of the Celtic mind were needed we should find it here (cf. pp. 50, 54, 127, 175, 182, 205). There are in this type of fairy-tale, as the advocates of the Pygmy Theory may well hold, certain elements most likely traceable to a folk-memory of some early race, or special class of some early race, who knew the secrets of midwifery and the use of medicines when such knowledge was considered magical. But in each example of this midwife story there is the germ idea — no matter what other ideas cluster round it — that fairies, like spirits, are only to be seen by an extrahuman vision, or, as psychical researchers might say, by clairvoyance.]`
 
 ```
+
+With stories of changelings a common occurrence, it seems strange that a fairy midwife should be sought out?
+
+In the following tale collected in Cornwall, we also have another twist - the time the nurse was away is measured in days in the fairy world, but years in the human world, as in tales of the *Thomas the Rhymer* type.
 
 ```{admonition} A Cornish Tale
 :class: dropdown
@@ -1559,6 +1598,8 @@ Penzance from earliest times has undoubtedly been, as it is now, the capital of 
 
 *The Nurse and the Ointment.*— 'I used to hear about a Zennor girl who came to Newlyn as nurse to the child of a gentleman living at Zimmerman-Cot. The gentleman warned her never to touch a box of ointment which he guarded in a special room, nor even to enter that room; but one day in his absence she entered the room and took some of the ointment. Suspecting the qualities of the ointment, she put it on her eyes with the wish that she might see where her master was. She immediately found herself in the higher part of the orchard amongst the pixies, where they were having much *junketing* (festivity and dancing); and there saw the gentleman whose child she had nursed. For a time she managed to evade him, but before the *junketing* was at an end he discovered her and requested her to go home; and then, to her intense astonishment, she learned that she had been away twenty years, though she was unchanged. The gentleman scolded her for having touched the ointment, paid her wages in full, and sent her back to her people. She always had the one regret, that she had not gone into the forbidden room at first.'
 ```
+
+The following Cornish variant also twists the tale into one of mistakenly bathing in fairy bath water rather than applying the fairy ointment.
 
 ```{admonition} Another Cornish Tale
 :class: dropdown
@@ -1580,24 +1621,9 @@ John Gilbert Guy, seventy-eight years old, a retired fisherman of Sennen Cove, o
 *Danger of Seeing the 'Little People'*—'I heard that a woman set out water to wash her baby in, and that before she had used the water the small people came and washed their babies in it. She didn't know about this, and so in washing her baby got some of the water in her eyes, and then all at once she could see crowds of little people about her. One of them came to her and asked if she was able to see their crowd, and when she said "Yes," the little people wanted to take her eyes out, and she had to clear away from them as fast as she could.'
 ```
 
-```{admonition} A Breton Tale
-:class: dropdown
-
-https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/204/mode/2up
-
-W. Y. (Walter Yeeling) Evans-Wentz, *The fairy-faith in Celtic countries*, 1911
-pp. 204-5
-
-*[Fairies of Upper Brittany.]*
-
-The following midwife story, as told by J. M. Comault, of Gouray, in 1881, is quite a parallel to the one we have recorded (on p. 54) as coming from Grange, Ireland:—
-
-A midwife who delivered a *Margot la fée* carelessly allowed some of the fairy ointment to get on one of her own eyes. The eye at once became clairvoyant, so that she beheld the *fées* in their true nature. And, quite like a midwife in a similar story about the *fées des houles*, this midwife happened to see a *fée* in the act of stealing, and spoke to her. Thereupon the *fée* asked the midwife with which eye she beheld her, and when the midwife indicated which one it was, the *fée* pulled it out. `[Cf. Sebillot, Traditions et superstitions de la Haute-Bretagne, i. 1]`
-```
-
 ## Variants in Northern Mythology
 
-As well as being a staple of "fairy" lore, the midwife / nurse / ointment motifs also appear in other traditions. Benjamin Thorpe's *Northern mythology, comprising the principal popular traditions and superstitions of Scandinavia, north Germany, and the Netherlands* published across three volumes in 1851, records examples of the tales often under the guise of *troll* tales.
+As well as being a staple of "fairy" lore, the midwife / nurse / ointment motifs also appear in other traditions, as described in Benjamin Thorpe's *Northern mythology, comprising the principal popular traditions and superstitions of Scandinavia, north Germany, and the Netherlands* published across three volumes in 1851.
 
 ```{admonition}  *Northern mythology*, in three volumes, Benjamin Thorpe, 1851
 :class: dropdown seealso
@@ -1612,7 +1638,7 @@ Published in three volumes:
 
 ```
 
-TO DO
+In the following Norwegian tale, the midwife's daughter goes missing, and the midwife is later called to administer to her. In this case, the ointment gives the ability to see her daughter's troll, rather than fairy, husband. Thorpe follows the story with examples of tales from the fairy tradition, as described previously, associated with "anointing the eyes"
 
 ```{admonition} Norwegian traditions, 1851
 :class: dropdown
@@ -1625,7 +1651,7 @@ p11-13 (Norwegian Traditions)
 
 THE MIDWIFE.
 
-There was once a man and his wife that had an only daughter. Suddenly she disappeared, and notwithstand ing that her parents — who took the loss of their dear child sorely to heart — sought for her in every direction, they could not discover the faintest trace of her. A considerable time had elapsed, when late one evening there came a stranger to the house and asked the woman, who was at home alone, whether she would visit her daughter, who abode in the neighbourhood, and was in labour, and required her aid. The mother, who was both glad and grieved at this unexpected intelligence, instantly made herself ready, and by means of a thread, which the stranger gave her, was in one moment with her daughter, who gave birth to a lively, well-formed child. Before it was dressed, the man gave her a liquid, desiring her to rub it over the infant's body, at the same time cautioning her not to let any of it come in contact with herself. But her eye beginning to itch, she inadvertently rubbed it, and thus got some of the liquid in her eye. When her help was no longer required, the man — who was her daughter's husband and a Troll — told her she might depart, when by means of the thread she found herself in a few seconds again at home. The following day, while at work with her husband in the field, she on a sudden saw her daughter with her subterranean spouse walking close at her side. On her addressing them, her son-in-law asked her with astonishment, whether she really could see them? "Yes, surely, I can see you with my right eye," said the woman; but at the same instant the Troll touched her eye, and from that time she saw no more with it.
+There was once a man and his wife that had an only daughter. Suddenly she disappeared, and notwithstanding that her parents — who took the loss of their dear child sorely to heart — sought for her in every direction, they could not discover the faintest trace of her. A considerable time had elapsed, when late one evening there came a stranger to the house and asked the woman, who was at home alone, whether she would visit her daughter, who abode in the neighbourhood, and was in labour, and required her aid. The mother, who was both glad and grieved at this unexpected intelligence, instantly made herself ready, and by means of a thread, which the stranger gave her, was in one moment with her daughter, who gave birth to a lively, well-formed child. Before it was dressed, the man gave her a liquid, desiring her to rub it over the infant's body, at the same time cautioning her not to let any of it come in contact with herself. But her eye beginning to itch, she inadvertently rubbed it, and thus got some of the liquid in her eye. When her help was no longer required, the man — who was her daughter's husband and a Troll — told her she might depart, when by means of the thread she found herself in a few seconds again at home. The following day, while at work with her husband in the field, she on a sudden saw her daughter with her subterranean spouse walking close at her side. On her addressing them, her son-in-law asked her with astonishment, whether she really could see them? "Yes, surely, I can see you with my right eye," said the woman; but at the same instant the Troll touched her eye, and from that time she saw no more with it.
 
 The superstition of anointing the eyes, and being thereby enabled to see what would else be invisible, appears to have been generally current among the inhabitants of western Europe, both Keltic and Germanic. Instances of its prevalence in Denmark we shall see hereafter; of its existence in other countries, our own included, we give the following proofs.
 
@@ -1647,7 +1673,7 @@ A story somewhat similar is told of a Countess Ranzau.
 
 ```
 
-TO DO
+Fron the Danish tradition, it is *elves*, as well as *trolls*, that feature in the story.
 
 ```{admonition}  Danish traditions, 1851
 :class: dropdown
@@ -1672,7 +1698,7 @@ An Elf-wife who was in labour sent a message to a midwife, requesting her aid. H
 
 ```
 
-TO DO
+And from the German tradition, we have "little men" as well as "little women", as well as goblins, featuring in a variant of the tale in which the midwife is given a gift, either gold, or wooden staves that would be transformed into gold, from which shpuld be made some counters (which is to say, coins), a herring, and one or more spindles. For as long as the gifts were looked after, they would continue to give her and her family good fortune.
 
 ```{admonition} North German Traditions
 :class: dropdown
@@ -1707,7 +1733,7 @@ Both were astonished, and employed them precisely in the manner prescribed.
 
 The prediction was accurately fulfilled: those branches of the house which carefully preserved the treasures, still exist, while others, who were less careful, are extinct. Of the branch that got the coined money it is related, that a king of Denmark once desired to have one of the pieces; but at the moment the king received it, the individual who gave it to him was seized with a violent stomach ache.
 
-In 'L'Amant oisif,' Bruxelles, 1711, 405-411, the foregoing tradition is told under the title of ' La Comtesse de Falinsperk.'
+In 'L'Amant oisif,' Bruxelles, 1711, 405-411, the foregoing tradition is told under the title of 'La Comtesse de Falinsperk.'
 
 III.
 

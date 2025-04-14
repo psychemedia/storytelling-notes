@@ -35,6 +35,7 @@ parts:
   chapters:
   - file: woolpit-green
   - file: undutiful-daughter
+  - file: fairy_midwife
 - caption: Tales to Tell
   chapters:
   - file: thirteen-precious-things
