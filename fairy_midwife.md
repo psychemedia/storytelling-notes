@@ -1320,7 +1320,7 @@ Even if he was unaware of the recommendations regarding the collection of tales 
 In his two volume work, *Celtic folklore: Welsh and Manx*, 1901, Welsh scholar Professor John Rhys' was more careful in at least acknowledging his sources.
 
 ```{admonition} *Celtic folklore: Welsh and Manx*, two volumes, 1901
-:class: seealso
+:class: seealso dropdown
 
 Professor John Rhys, *Celtic folklore: Welsh and Manx*, 1901
 
