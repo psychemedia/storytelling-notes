@@ -442,19 +442,24 @@ He struck her eye as he spoke, and from that hour till the day of her death she 
 Thomas Keightley's *The Fairy Mythology* was originally in published in two volumes in 1828 ([volume I](https://archive.org/details/fairymythology00keigoog/page/n11/mode/2up), [volume II](https://archive.org/details/bub_gb_qfPxWy2hWnAC/page/n3/mode/2up)), with *"drawings on Wood and Copperplate Etchings designed and executed by W. H, Brooke, F. S. A.".
 
 ```{admonition} Preparing for publication, 1827
+:class: dropdown seealso
+
 In *John Bull* [Sunday 08 July 1827](https://britishnewspaperarchive.co.uk/viewer/bl/0001945/18270708/052/0003)
 
-> Preparing for publication.— In 2 vols. post 8vo. with illustrations by Brooke.
-> THE FAIRY MYTHOLOGY, Illustrative of the Romance and Superstitions of various Countries. In two parts, the first treating of the Fairies of the old Romanee of Chivalry; the second of the popular fairies or elves, and beings of a similar kind believed in by various nations, containing numerous tales of their exploits and adventures as delivered in the legendary lore of their countries. — Printing for W. H. Ainsworth. 23, Old Bond street.
+Preparing for publication.— In 2 vols. post 8vo. with illustrations by Brooke.
+
+THE FAIRY MYTHOLOGY, Illustrative of the Romance and Superstitions of various Countries. In two parts, the first treating of the Fairies of the old Romanee of Chivalry; the second of the popular fairies or elves, and beings of a similar kind believed in by various nations, containing numerous tales of their exploits and adventures as delivered in the legendary lore of their countries. — Printing for W. H. Ainsworth. 23, Old Bond street.
 
 ```
 
 ```{admonition} *The Fairy Mythology*, review, 1828
+:class: dropdown seealso
+
 In *The Examiner* [Sunday 11 May 1828](https://britishnewspaperarchive.co.uk/viewer/bl/0000054/18280511/001/0002)
 
-> LITERARY NOTICES
->  
-> We have been much amused, and indeed instructed, by a little work recently published, entitled *The Fairy Mythology*, the author of which is already known to the public as one of the most valuable contributors to "Fairy Legends of the South of Ireland." The fancy and talent conspicuous in that work are still more evident in the more important and learned performance now before us. It is from the pen of Mr KEIGHTLEY, who, besides the merit of having introduced a subject comparatively new to us, has treated it very agreeably. His reasoning and illustrations are throughout very ingenious, and pleasantly blended with stories and incidents that confer attraction upon the entire system of fairy lore. With the elves, dwarfs, and other fairies of the village, he has united the fairy-ladies of romance and tale. The author first describes the more elegant and aerial kind that peopled the regions of the East — perhaps the parents of the whole, and in particular those of Peristan. The Arabian genii come next in point of interest to our own native tribes, as drawn by the inimitable band of Shakspeare; these are of a less sombre and ill-boding disposition than some of the Asiatic ghools, deeves, and genii, which are far less popular than the elves and fays. The author shews much ingenuity in the interpretation of the legends of each country; and upon the whole, we may fairly assert that, with the exception of Sir Walter Scott's Essay on the Fairy Superstition, this is one of the ablest and most amusing productions in this light and pleasant department of superstition, which we yet possess. 
+LITERARY NOTICES
+  
+We have been much amused, and indeed instructed, by a little work recently published, entitled *The Fairy Mythology*, the author of which is already known to the public as one of the most valuable contributors to "Fairy Legends of the South of Ireland." The fancy and talent conspicuous in that work are still more evident in the more important and learned performance now before us. It is from the pen of Mr KEIGHTLEY, who, besides the merit of having introduced a subject comparatively new to us, has treated it very agreeably. His reasoning and illustrations are throughout very ingenious, and pleasantly blended with stories and incidents that confer attraction upon the entire system of fairy lore. With the elves, dwarfs, and other fairies of the village, he has united the fairy-ladies of romance and tale. The author first describes the more elegant and aerial kind that peopled the regions of the East — perhaps the parents of the whole, and in particular those of Peristan. The Arabian genii come next in point of interest to our own native tribes, as drawn by the inimitable band of Shakspeare; these are of a less sombre and ill-boding disposition than some of the Asiatic ghools, deeves, and genii, which are far less popular than the elves and fays. The author shews much ingenuity in the interpretation of the legends of each country; and upon the whole, we may fairly assert that, with the exception of Sir Walter Scott's Essay on the Fairy Superstition, this is one of the ablest and most amusing productions in this light and pleasant department of superstition, which we yet possess. 
 ```
 
 The collection was and reprinted several times and then appeared in a single volume — *A New Edition, Revised amd Greatly Enlarged* — in 1860. This revised edition included two variants of the the fairy midwife tale that did not appear in the earlier, two volume edition.
