@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!--
-    this give us a css class that will be invisible only if js is disabled
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -67,7 +64,6 @@
     <link rel="prev" title="The Three Sillies" href="three-sillies.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -83,8 +79,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -92,6 +99,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -99,8 +107,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -116,8 +124,7 @@
       
       
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -147,11 +154,15 @@
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -190,6 +201,8 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Gipsy Tales</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="devils-violin.html">The Devil’s Violin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Show Outlines</span></p>
 <ul class="nav bd-sidenav">
@@ -199,14 +212,13 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="woolpit-green.html">The Green Children of Woolpit</a></li>
 <li class="toctree-l1"><a class="reference internal" href="undutiful-daughter.html">The Undutiful Daughter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="fairy_midwife.html">The Fairy Midwife</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
 <li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
-<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
-<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 </ul>
@@ -225,6 +237,7 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Practice and performance notes</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="practice-on-not-sharing-digitally-pt1.html">On not sharing digitally, part 1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="setlists.html">Setlists</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Storynotes Collections</span></p>
 <ul class="nav bd-sidenav">
@@ -237,14 +250,9 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
-      <div class="sidebar-primary-item">
-<div id="ethical-ad-placement"
-      class="flat"
-      data-ea-publisher="readthedocs"
-      data-ea-type="readthedocs-sidebar"
-      data-ea-manual="true">
-</div></div>
   </div>
+  
+  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -341,16 +349,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 
 </div></div>
       
@@ -380,7 +396,7 @@
 <h1>A Pottle of Brains<a class="headerlink" href="#a-pottle-of-brains" title="Link to this heading">#</a></h1>
 <p>This is one of those tales I came across a couple of times, independently of each otehr, in rapid succession, and that jumped out at me both times, which meant it was somthing I felt I needed to tell.</p>
 <p>It’s a noodle tale, with a wise woman pointing out the foolishness of our hero. As I’ve also been pulling together some historical wise woman tales, I think there may be an opportunity to try to a pair up a traditional tale with a historical one and see how they might play off each other.</p>
-<p>As to <em>A Pottle of Brains</em>, I first found it in written form in Jacob’s second collection of English fairy tales (<em>More English Fairy Tales</em>), a version that Hugh Lupton included in his <a class="reference external" href="https://burningshed.com/hugh-lupton_the-mardling-acre_cd"><em>Mardling Acre</em></a> collection.</p>
+<p>As to <em>A Pottle of Brains</em>, I first found it in written form in Jacob’s second collection of English fairy tales (<em>More English Fairy Tales</em>), then came across a version that Hugh Lupton included in his <a class="reference external" href="https://burningshed.com/hugh-lupton_the-mardling-acre_cd"><em>Mardling Acre</em></a> collection.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">“A Pottle of Brains”, Jacobs’ <em>More English Fairy Tales</em>, 1894</p>
 <p><a class="reference external" href="https://archive.org/details/moreenglishfairy00jacoiala/page/124/mode/2up">https://archive.org/details/moreenglishfairy00jacoiala/page/124/mode/2up</a>
@@ -502,11 +518,11 @@ pp164-170</p>
 <p>“Hout no,” says he, “jist ord’nar brains — fit fur any fool — same ‘s every one has ‘bout here; suthin’ clean common-like.”</p>
 <p>“Aye so,” says tha wise woman, “a’ might manage that, ef so be thou’ll help thysel’.”</p>
 <p>“Hoo ‘s that fur, missis?” says he.</p>
-<p>“Jest so,” says she, lookin’ in ‘s pot; “bring me the heart o’ tha thing thou likes best o’ all, an’ a ‘ll tell thee where to get thy pottle o’ brains.”</p>
+<p>“Jest so,” says she, lookin’ in ‘s pot; “bring me the heart o’ tha thing thou likes best o’ all, an’ a’ll tell thee where to get thy pottle o’ brains.”</p>
 <p>“But,” says he, scratching his head, “hoo can a do that?”</p>
-<p>“That ‘s no ‘on fur me to say,” says she, “fin’ oot fur thyser, my lad! ef thou disna want to be a fool a’ thy days. But thou ‘ll hev’ to read me a riddle so ‘s a can see thou ‘st brought the reet thing, an*’ef thy brains is ‘boot thee. An’ a ‘ve suthin’ else to see to,” says she, “so gode’en to ‘ee,” and she carried the pot away wi’ her into tha back place.</p>
+<p>“That ‘s no ‘on fur me to say,” says she, “fin’ oot fur thyser, my lad! ef thou disna want to be a fool a’ thy days. But thou’ll hev’ to read me a riddle so ‘s a can see thou ‘st brought the reet thing, an*’ef thy brains is ‘boot thee. An’ a ‘ve suthin’ else to see to,” says she, “so gode’en to ‘ee,” and she carried the pot away wi’ her into tha back place.</p>
 <p>So off goes the fool to ‘s mother, an’ tellt her what, tha wise woman said.</p>
-<p>“An’ a reckon a ‘ll hev to kill that pig,” says he, “fur a like fat bacon better nor iverythin’.”</p>
+<p>“An’ a reckon a’ll hev to kill that pig,” says he, “fur a like fat bacon better nor iverythin’.”</p>
 <p>“Then do ‘t, my lad,” said ‘s mother, “fur sartain ‘t ‘ull be a stra’ange an’ good thing fur ‘ee, ef thou canst buy a pottle o’ brains, an’ be able to look arter thy ain sel’.”</p>
 <p>So he killed ‘s pig, an’ nex’ day off a went to tha wise woman’s cottage, an’ there she sat, readin’ in a great book.</p>
 <p>“Gode’en, missis,” say he, “a ‘ve brought thee tha heart o’ tha thing a likes best o’ all; an’ a put it hapt i’ paper on tha table.”</p>
@@ -521,7 +537,7 @@ pp164-170</p>
 <p>An’ as he said that, he thowt of the words o’ the wise woman. “Hi, yi!” says he, “must a cut oot mother’s heart an’ tak’ it to her? A disna like the job,” an’ he took oot a knife an’ felt ‘s edge.</p>
 <p>“No! a can’t do ‘t,” says he. “What’ll a do! what’ll a do to get that pottle o’ brains, noo a’m alone i’ the worl’?” So a thowt an’ thowt, an’ next day a went an’ borrowed a sack, an’ bundelt ‘s mother in, an’ carried it on ‘s showther up to th’ wise woman’s cottage.</p>
 <p>“Gode’en, missis,” says he, “a reckon a ‘ve fo’t ‘ee the reet thing this time, sure<em>ly</em>,” an’ he plumped the sack down kerflap! in the doorsil.</p>
-<p>“Mebbe,” says the wise woman,  but read me this, noo, what’s yaller an’ shinin’ but isna goold?”</p>
+<p>“Mebbe,” says the wise woman, but read me this, noo, what’s yaller an’ shinin’ but isna goold?”</p>
 <p>An’ he scratched ‘s head, an’ thowt, an’ thowt, but a couldna tell.</p>
 <p>“Thou’st no hit the reet thing, my lad,” says she. “I doubt thou’s a bigger fool nor a thought!” an’ shut the door in ‘s face.</p>
 <p>“See there!” says he, an’ sets doun by tha road side an’ greets.</p>
@@ -541,8 +557,8 @@ pp164-170</p>
 <p>“Surely,” says she.</p>
 <p>“An’ men’ ma clouts?” says he.</p>
 <p>“A can that,” says she.</p>
-<p>“A reckon thou’lt do then ‘s weel ‘s anybody,” says he; “but what ‘ll a do ‘bout this wise woman?”</p>
-<p>“Oh, wait a bit,” says she, “suthin’ mowt turn up, an’ it ‘ll no matter ef thou ‘rt a fool, s’ long ‘s thou’st got me to look arter thee.”</p>
+<p>“A reckon thou’lt do then ‘s weel ‘s anybody,” says he; “but what’ll a do ‘bout this wise woman?”</p>
+<p>“Oh, wait a bit,” says she, “suthin’ mowt turn up, an’ it’ll no matter ef thou ‘rt a fool, s’ long ‘s thou’st got me to look arter thee.”</p>
 <p>“That’s true,” says he, an’ off tha went and got married.</p>
 <p>An’ she kept ‘s house so clean an’ neat, an’ cooked ‘s dinner so fine, ‘at one night a says to her:</p>
 <p>“Lass, a ‘m thinkin’ a like thee best o’ iverything, arter all.”</p>
@@ -550,7 +566,7 @@ pp164-170</p>
 <p>“Hev ‘a got to kill thee, dost think, an’ take thy heart oop to the wise woman for that pottle o’ brains?”</p>
 <p>“Laws, no!” says she, lookin’ skeered, “a winna hev’ that But see here; thou didn’t cut oot thy mother’s heart, did tha?”</p>
 <p>“Naw; but if a had, mebbe a’d a got my pottle o’ brains,” says he.</p>
-<p>“Not a bit o’t,” says she; “jist thou take me ‘s a be, heart ‘n all, ‘n a wager a ‘ll help thee read the riddles.”</p>
+<p>“Not a bit o’t,” says she; “jist thou take me ‘s a be, heart ‘n all, ‘n a wager a’ll help thee read the riddles.”</p>
 <p>“Can thee so?” says he, doubtful like; “a reckon thon ‘s too hard for wimmen fo’ak.”</p>
 <p>“Weel,” says she, “let ‘s see noo. Tell ‘s the first ‘un.”</p>
 <p>“What rins wi’ oot feet?” says he.</p>
@@ -558,7 +574,7 @@ pp164-170</p>
 <p>“It do,” says he, an’ scratched ‘s head.</p>
 <p>“An’ what ‘s yaller an’ shinin’, but isna goold?”</p>
 <p>“Why, the sun!” says she.</p>
-<p>“Faix, it be!” says he. “Coom, us ‘ll go oop to the wise woman towanst,” and off they went. An’ as they comed oop the pad, she wor sittin’ at the door, twinin’ straws.</p>
+<p>“Faix, it be!” says he. “Coom, us’ll go oop to the wise woman towanst,” and off they went. An’ as they comed oop the pad, she wor sittin’ at the door, twinin’ straws.</p>
 <p>“Gode’en, missis,” says he.</p>
 <p>“Gode’en, fool,” says she.</p>
 <p>“A reckon a ‘s fo’t ‘e the reet thing to last,” says he, “thoff a hevn’t azac’ly cut th’ heart oot, it be so moocky wark.”</p>
@@ -719,7 +735,7 @@ p54-8</p>
 <p>LIV. GOBBORN SEER.</p>
 <p><em>Source.</em> — Collected by Mrs. Gomme from an old woman at Deptford. It is to be remarked that “Gobborn Seer” is Irish (GobanSaor = free carpenter), and is the Irish equivalent of Wayland Smith, and occurs in several place names in Ireland.</p>
 <p><em>Parallels.</em> — The essence of the tale occurs in Kennedy, i.e., p. 67 seq. Gobborn Seer’s daughter was clearly the clever lass who is found in all parts of the Indo-European world. An instance in my <em>Indian Fairy Tales</em> “Why the Fish laughed” (No. xxiv.). She has been made a special study of by Prof. Child, <em>English and Scotch Ballads</em>, i. 485, while an elaborate monograph by Prof. Benfey under the title “Die Kluge Dime” (reprinted in his <em>Kleine Schriften</em>, ii. 156 seq.), formed the occasion for his first presentation of his now well-known hypothesis of the derivation of all folk-tales from India.</p>
-<p><em>Remarks.</em> — But for the accident of the title being preserved there would have been nothing to show that this tale had been imported into England from Ireland, whither it had probably been carried all Ihe way from India.</p>
+<p><em>Remarks.</em> — But for the accident of the title being preserved there would have been nothing to show that this tale had been imported into England from Ireland, whither it had probably been carried all the way from India.</p>
 </div>
 <p>*For other tales of fools, see for example <a class="reference internal" href="three-sillies.html"><span class="std std-doc"><em>The Three Sillies</em></span></a>.</p>
 </section>
@@ -822,8 +838,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>

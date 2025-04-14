@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!--
-    this give us a css class that will be invisible only if js is disabled
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -67,7 +64,6 @@
     <link rel="prev" title="Hudden, and Dudden, and Donald O’Neary" href="hudden_dudden.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -83,8 +79,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -92,6 +99,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -99,8 +107,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -116,8 +124,7 @@
       
       
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -147,11 +154,15 @@
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -190,6 +201,8 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Gipsy Tales</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="devils-violin.html">The Devil’s Violin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Show Outlines</span></p>
 <ul class="nav bd-sidenav">
@@ -199,14 +212,13 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="woolpit-green.html">The Green Children of Woolpit</a></li>
 <li class="toctree-l1"><a class="reference internal" href="undutiful-daughter.html">The Undutiful Daughter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="fairy_midwife.html">The Fairy Midwife</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
 <li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
-<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
-<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 </ul>
@@ -225,6 +237,7 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Practice and performance notes</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="practice-on-not-sharing-digitally-pt1.html">On not sharing digitally, part 1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="setlists.html">Setlists</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Storynotes Collections</span></p>
 <ul class="nav bd-sidenav">
@@ -237,14 +250,9 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
-      <div class="sidebar-primary-item">
-<div id="ethical-ad-placement"
-      class="flat"
-      data-ea-publisher="readthedocs"
-      data-ea-type="readthedocs-sidebar"
-      data-ea-manual="true">
-</div></div>
   </div>
+  
+  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -341,16 +349,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 <button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
@@ -412,7 +428,7 @@
 <p><em>In <a class="reference external" href="https://books.google.co.uk/books?id=FpiUmAEACAAJ&amp;amp;printsec=frontcover&amp;amp;source=gbs_ge_summary_r&amp;amp;cad=0#v=onepage&amp;amp;q&amp;amp;f=false">The Royal Hibernian Tales: Being a Collection of the Most Entertaining Stories Now Extant</a>, p20-27.</em></p>
 <p>WILL O’ THE WISP.</p>
 <p>In old times there was one Will Cooper, a blacksmith who lived in the parish of Loughile; he was a great lover of the bottle, and all that he could make by his trade went to that use, so that his family was often in a starving condition. One day as he was musing in his shop alone after a fit of drunkenness, there came to him a little old man almost naked, and trembling with cold. My good fellow, said he to Will, put on some coals and make a fire, that I may get m warmed. Will, pitying the poor creature did eo, and like- wise brought him something to eat, and told him, if he thought proper, he was welcome to stay all night. The old man thanked him kindly, and said he had farther to go: but says he, as you have been so kind to me, it is in my power to make you a recompence; make three wishes, sa he, for any thing you desire most, and let it what it will you shall obtain it immediately — Well, says Will, since that is the case, I wish that any person who takes my sledge into their hand, may never get free of it till I please to take it from them. Secondly, I have au armed chair, and I wish that any person sitting down on the same, may never have power to rise until I please to take them off it. I likewise wish for the last, says Will, that whatever money or gold I happen to put into my purse no person may have power to take it out again but myself.— Ah! unfortunate Will! cries the old man, why did not you wish for heaven? With that he went away from the shop, as Will thought, very pensive and melancholy, and never was heard of more. The old man’s words opened Will’s eyes, he saw it was in his power to do well, had he made a good use of the opportunity, and when he considered that the wishes were not of the least use to him, he became worse every day, both in soul and body, and in a short time he was reduced to great poverty and distress.</p>
-<p>One idle day as he was walking along through the fields, he met the devil in the appearance of a gentleman, who told him if he would go along with him at the end of seven years, he should have any thing he desired during that time. Will inking that it was as bad with him as it could be, although he suspected it was the devil, for the love of rising in the world, made bargain to go with him at the end of the seven years, and requested that he would supply him with plenty of money for the present. Accordingly Will had his desire, and dreading to be observed by his neighbours to get rich on a sudden, he removed to a distance from where he was then living.— However, there was nobody in distress or in want  of money, but Will was ready to relieve, insomuch that in a short time he became noted, and went in that country by the name of Bill Money, in regard of the great sums he could always command; he then began to build houses and before the seven years were expired he had built a town, which in imitation of the name he then had, was called Ballymoney, and is to this day. However, ta disguise the business, end that nobody might suspect him having any dealings with Satan, he still did something now and then at his trade: the seven years being expired, he was making some article for a friend, when the devil came into the shop in his former appearance. Well, Will, he says, are you ready to go with me now? I am, says Will, if I had the job finished; take that sledge says he and give me a blow or two, for it is a friend what is to get it, and then I will go with you, I will go with you where you please. The devil took the sledge and they soon finished the job. Now, says Will, stay you here till I run to my friend with this, and I will not stay a minute— Will then went out and the devil stopped in the shop till it was near night, but there was no sign of Will coming near him, nor could he by any means get the sledge out of his hands; he thought if he was once in his old abode, perhaps there might be some of the smith trade in it, who would disengage him of the sledge, but all that Were in hell could not get it out of his hand, so he had to retain the shape he was then in, as long as the iron remained in his hand. The devil seeing he could get nobody to do anything for him went in search of Will once more, but some how or other he could not get near him for a month, at length he met him coming out of a tavern pretty drunk. Well, Will, says he, that, was a pretty trick you put on me: faith no, says Will, it was you that tricked me, for when I came back to the shop you were away, and stole my sledge with you, so that I could not get a job done ever since. Well, Will, says Satan, I could not help taking the sledge; for I cannot get it out of my hand; but if you take it from me, I will give you seven years more before I ask you with me. Will readily took the sledge, and the devil parted from him well pleased that he had got rid of it. Will having now seven years to play upon, roved about through the town of Ballymoney, drinking, and sporting, and sometimes doing a little at his trade to blindfold the people, yet there was many suspected he had dealings with Satan, or he could not do half of what he had done.</p>
+<p>One idle day as he was walking along through the fields, he met the devil in the appearance of a gentleman, who told him if he would go along with him at the end of seven years, he should have any thing he desired during that time. Will inking that it was as bad with him as it could be, although he suspected it was the devil, for the love of rising in the world, made bargain to go with him at the end of the seven years, and requested that he would supply him with plenty of money for the present. Accordingly Will had his desire, and dreading to be observed by his neighbours to get rich on a sudden, he removed to a distance from where he was then living.— However, there was nobody in distress or in want of money, but Will was ready to relieve, insomuch that in a short time he became noted, and went in that country by the name of Bill Money, in regard of the great sums he could always command; he then began to build houses and before the seven years were expired he had built a town, which in imitation of the name he then had, was called Ballymoney, and is to this day. However, ta disguise the business, end that nobody might suspect him having any dealings with Satan, he still did something now and then at his trade: the seven years being expired, he was making some article for a friend, when the devil came into the shop in his former appearance. Well, Will, he says, are you ready to go with me now? I am, says Will, if I had the job finished; take that sledge says he and give me a blow or two, for it is a friend what is to get it, and then I will go with you, I will go with you where you please. The devil took the sledge and they soon finished the job. Now, says Will, stay you here till I run to my friend with this, and I will not stay a minute— Will then went out and the devil stopped in the shop till it was near night, but there was no sign of Will coming near him, nor could he by any means get the sledge out of his hands; he thought if he was once in his old abode, perhaps there might be some of the smith trade in it, who would disengage him of the sledge, but all that Were in hell could not get it out of his hand, so he had to retain the shape he was then in, as long as the iron remained in his hand. The devil seeing he could get nobody to do anything for him went in search of Will once more, but some how or other he could not get near him for a month, at length he met him coming out of a tavern pretty drunk. Well, Will, says he, that, was a pretty trick you put on me: faith no, says Will, it was you that tricked me, for when I came back to the shop you were away, and stole my sledge with you, so that I could not get a job done ever since. Well, Will, says Satan, I could not help taking the sledge; for I cannot get it out of my hand; but if you take it from me, I will give you seven years more before I ask you with me. Will readily took the sledge, and the devil parted from him well pleased that he had got rid of it. Will having now seven years to play upon, roved about through the town of Ballymoney, drinking, and sporting, and sometimes doing a little at his trade to blindfold the people, yet there was many suspected he had dealings with Satan, or he could not do half of what he had done.</p>
 <p>At length the seven years were expired, and the devil came for him and found him sitting at the fire smoking, in his own house, where he kept his wonderful chair. Come Will, says he, are you ready to go with me now? I am, says Will, if you sit down a little till I make my will and settle every thing among my family, and then I will go with you, wherever you please. So setting the arm chair to Satan, he sat down, and Will went into the chamber as if to settle his affairs; after a little he came up again and went aut, bidding the devil to come along for he had all things completed to his mind, and would ask to stay no longer. When Will went out, the devil made an attempt to rise, but in vain, he could not stir from the chair, nor even make the least motion one way or other, so that he was much confounded to think what was the matter, as when he was first cast into utter darkness. Will, knowing what would occur to Satan, stayed away a month, during which time he never became visible in the chair, to any of the family, nor do we hear that any one else ever observed nim at any time, but Will himself, However, at the month’s end, Will returning, pretended to be very much surprised that the devil did net follow him, What, says Will, kept you here all this time? I believe you are making &amp; fool of me; but if you do not come immediately, I will have the bargain broken, and never go with you again, I cannot help it, says Satan, for all I can do I cannot stir from my seat, but if you could liberate me, I will give you seven years more, before I call on you again. Well, says Will, I will do what I can; he then went to Satan and took him by the arm, and with the greatest ease lifted him out of the chair, and set him at liberty once more. No sooner was Satan gone, than Wi was ready for his old trade again: he sported and played, and drank of the best, his purse never failing, although he sunk all the property and income he had in and about Ballymoney, long before; but he did not care, for he knew he could have recourse to the purse that never would fail, as I told you before. However, an accident happened the same purse, that a penny would never stay in it afterwards, and Will became one of the poorest men to be found. This was at the end of the seven years of his last bargain: when Satan came in quest of him again, but was so fearful of a new trick put upon him by Will, that he durst not come near the house. At length he met him in the fields, and would not give him time to bid as much as farewell to his wife and children, he was so much afraid of being imposed upon. Will had at last to go, and travelling along the road he came to an inn, where many a good glass he had taken in his time. Here’s a set of the best rogues, says Will, in Ireland, they cheated me many a time, and I will give all I possess, could I put a trick upon them; besides if we were to call, I know I could get the landlady to sin with me before I come out. Well, says Satan, I do not care if we stop. But, says Will, I have no money, and I cannot manage my scheme without it; but I will tell you what you can do, you can change yourself into a piece of gold, I will put you in my purse, and then you will see what a hand I wi make for you and me both, before we are at our journey’s end. Satan ever willing to promote evil, consented to change himself into gold, and when he had done so, Will put the piece into his purse, and returned home. Satan understanding that Will did not as he pretended, strove to deliver himself from confinement, but by the power of the purse, he could never change himself from gold, as long as Will pleased to keep him in it, and no other person, as I have told you before, had power to take any thing out of it but himself. Will would go to drink from one alehouse to another, and would pretend to be drunk when he was not, where he would lay down his purse and bid the waiters take what they please for the reckoning, every person saw he money plenty, yet all they could do they could never get one penny out of the purse, and he could get so drunk when they would give it back to him, that he would not seem to understand any thing, and so would sneak away. In this manner he cheated both town and country round, until Satan weary of confinement, had recourse to a stratagem of his own, and changed himself from pieces of gold into a solid bar or ingot of the same metal, but could not get out of the purse.</p>
 <p>This, however, put a great damp upon Will’s trade, for when he had no coin to show, he could not get anything from any body, and how to behave he did not know; he took a notion that he would perhaps force him into coin again, and accordingly brought him to an iron forge, where he had the ingot battered for the length of an hour, at a fearful rate, but all they could do, they never changed it in the least, neither could they injure the purse, for the quality of it became miraculous, after his wish, and the people swore the devil was surely in the purse, for they never saw any thing like it. They were come at last to give over, and Will returned home, and went to bed, putting the purse under his head; his wife was asleep, and the devil kept such a hissing, puffing, and blowing under the bolster, that he soon awakened her, and she almost frightened out of her wits, awakened Will, telling him, that the devil was under his head. Well, if he be, says Will, I will take him to the forge, where I assure you he will get a sound battering. Oh no, says Satan, I would rather be in hell, than stay here confined in this manner, and if you let me go, I will never trouble you again. With all my heart, says Will, on that head you shall have your freedom, and opening the purse gave Satan his liberty.</p>
 <p>Will was now free from all dread or fear of any thing, and cared not what he did. But I forgot to mention, that at the time that Will wished nobody might take any thing out of the purse, he wished he might never put hia hand in it himself but he would find money: but after Satan being in it he found it empty ever after. By this unlucky accident he that had seen so much of the world for such a length of time, was reduced to the most indigent state, and at length forced to beg his bread. In this miserable condition he spent many years until his glass was run, and he had to pay that debt to nature what all creatures have since the fall of Adam. However, his life was so ill-spent and his actions so bad, that it is recorded he could get no entrance to any place of good after his decease, so that he was destined to follow his own master. Coming to the gates of hell, he made a horrible noise to get in; then Satan bid the porter ask who it was that made such a din, and not to admit him till he would let him know: the porter did so, and he bade him tell his master that he was his old friend, Will Cooper, wanting to come to him once more. When Satan had heard who it was, he ordered the gates to be strongly guarded, for if that villain gets in, says he, we are all undone. Will pleaded the distress he was in, that he could not get backward nor forward with the darkness he was surrounded with; and having lost his guide, if Satan would not let him in, and being loth to listen to the - noise and confusion he was making at the gate sent one of his servants to conduct him back to again, and particularly not to quit him until he left him in Ireland. Now, says Satan to Will, when he was going away, you were a trusty servant to me a long time: now you are going to earth again, let me see you be busy, and gain all to me that you can; but remember how you served me when in the purse, and you shall never be out of darkness, yet I will give you a light in your hand, to allure and deceive the weary traveller, so that he may become a prey to us; so lighting a wisp he gave it to Will, and he was conducted to earth, where he wanders from that day to this under the title of Will o’ the Wisp.</p>
@@ -908,7 +924,7 @@ Than are dreamt of in your philosophy. — Shakspeare.</p>
 <p>Eighthly, there is a similar saga of the Smith of Apolda (compare Talk’s Grotesken, 1806, pp. 3-88), who lodged our Lord and St. Peter all nisht and received the gift of three wishes. In the first place he wished that the hand of any one who went to his bag of nails should remain sticking in the bag until it fell to pieces. Secondly, that whosoever climbed into his apple-tree should be forced to sit there until the apple-tree mouldered away; thirdly, in the like manner, that whosoever sat down in the arm-chair should not be able to arise from it until the chair fell to pieces. One after another three evil spirits appear who want to carry off the Smith, ail of whom he lures into the traps which he has set for them, so they are forced to give him up At lencrth, however. Death comes and forces him to go away with him, but he obtains the favour of having his hammer laid in the cofBn with him. When he comes to the door of heaven, St. Peter will not open it, so the Smith knows what to do, and goes to jell makes a key, and promises to be handy and useful with all kinds of work in heaven; to shoe St. George’s horse, and do things of that kind, until at last he is admitted.</p>
 <p>In the ninth place, there is a story from the Wetterau, communicated by Professor Wigand. The Smith tempts the Devil to climb a pear-tree from which he is to bring down a couple of beautiful golden pears for him, but in which he is held fast. In order to be able to descend, he has to promise the Smith ten years more. When the Devil reappears, the Smith begs him just to fetch him a riail from his nailbox, that he may nail something firmly, but the Devil s hand sticks fast in the box, and he is not released from it until he has promised the Smith twenty years more. When this time, too, has gone by, and the Devil presents himself, the Smith makes him sit upon a seat from which he is not able to rise until he gives the Smith entire freedom. Hereupon the Devil vanishes, and takes the whole of the roof of the house with him.</p>
 <p>Lastly, in the tenth place, there is a Bavarian saga of the Smith of ]\litterbach, see Schmeller’s Bavarian Dialects, 4yd-4:Jb, and Panzer’s German Mythology, p. 94; this also has a cherry-tree from which no one can descend, a seat on which every one must remain siitinc^ unless the Smith wills otherwise; and lastly, a bag out which no one can come without the Smith’s leave. To this group also belong a story in Kuhn, No. 8; one in Colshorn, No. 89; in Prohle s Kindermarchen, Nos. 15 and 16: in Zingerle, p. 43; a Netherlandish «tory in Wolf’s Wodana, iso. 2 (compare the notes, p. 54); and a Norwegian, No. 24, in Asbjornsen. Kopitar relates, from his childish recollections of Krain, a saga of Sveti Korant. He had an enchanted tree, and whosoever climbed into it could not come down again by means of which he tricked Death for a long time. When at length, he died, the Devil would not admit him into hell, and held the dSor fast, but the nails on the Devil’s fingers projected, and Korant the Smith bent them back, and nailed them last till the Devil screamed loudly for mercy. Then the Smith went to heaven, where St. Peter also would not allow him to enter. Korant, however saw his mantle, which he had once given to a poor man, lying inside, and jumped upon it, crying, “I am on my own land and property.” Compare Keller in the Introduction to Li romans des sept sages, cLXXxni. and following, and Hans von Biihel’s, Diocletian, p, 54.</p>
-<p>The printed popular book entitled, Das his an den jungsten Tag wdhrende Elende (The History of Misery who will live to the Day of Judgment), or as it appears in the French translation, Histoire nouvelle et divertissement (divertissante? ) cZw hon homme Misere (Troyes, chez Gamier), agrees for the most part with the story already given in the dialect of Hesse. On the other hand, however, many circumstances point to an Italian origin for this last story, or at all events, De la Eiviere heard it related in Italy. The Apostles Peter and Paul arrive in very bad weather in a village, and stumble on a washerwoman who is thanking heaven because the rain is water, and not wine; they knock at the door of a rich man who haughtily drives them away, and are taken in by poor Misery. He only makes the one wish with respect to the pear-tree, which  has just been plundered by a thief. The thief is caught, and so are other people besides who climb up out of curiosity to set the lamenting thief free. At length Death comes, and Misery begs him to lend him his scythe, that he may take one of the finest pears away with him; Death, like a good soldier, will not let his arms go out of his own hands, and himself undei’takes the task. Misery does not set him free until he has promised to leave him in peace until the day of judgment, and this is why Misery still continues to live on for ever in the world. A fragment from the district of the Maine may be here quoted because it is conceived in the same spirit.</p>
+<p>The printed popular book entitled, Das his an den jungsten Tag wdhrende Elende (The History of Misery who will live to the Day of Judgment), or as it appears in the French translation, Histoire nouvelle et divertissement (divertissante? ) cZw hon homme Misere (Troyes, chez Gamier), agrees for the most part with the story already given in the dialect of Hesse. On the other hand, however, many circumstances point to an Italian origin for this last story, or at all events, De la Eiviere heard it related in Italy. The Apostles Peter and Paul arrive in very bad weather in a village, and stumble on a washerwoman who is thanking heaven because the rain is water, and not wine; they knock at the door of a rich man who haughtily drives them away, and are taken in by poor Misery. He only makes the one wish with respect to the pear-tree, which has just been plundered by a thief. The thief is caught, and so are other people besides who climb up out of curiosity to set the lamenting thief free. At length Death comes, and Misery begs him to lend him his scythe, that he may take one of the finest pears away with him; Death, like a good soldier, will not let his arms go out of his own hands, and himself undei’takes the task. Misery does not set him free until he has promised to leave him in peace until the day of judgment, and this is why Misery still continues to live on for ever in the world. A fragment from the district of the Maine may be here quoted because it is conceived in the same spirit.</p>
 <p>The Devil comes to fetch away a certain man who has pledged himself to him, and whose time is up. At the same time, he brings with him a number of carts laden with old shoes. “What are they?” asks the man. “These shoes have been worn out by my spirits in thy service, but now thou art mine,” replies the Devil. But the man desires to see the hand-writing in order to recognize it himself, the Devil comes nearer to show it, on which the man approaches it with his mouth, snatches at it and swallows it, and thus he is freed. Lastly, we must remark that Coreb and Fabel in the Merry Devil of Edmonton (Tieck’s altengl: Theater 2), are clearly the characters of our story.</p>
 <p>Here is a very perfect instance of the wide circulation and living diversity of a saga. Of its antiquity there can be no doubt; and if we see, in the smith with his hammer, the god Thor, and in Death and the Devil, a clumsy monstrous giant, the whole gains a wellbased antique Norse aspect. We find references to it among the Greeks also, where the crafty smith is the ?? cunning Sisyphus in a Rtv:)ry which has been preserved by old Pherekydes, and which must have been known to the singer of the Iliad. Zeus, angry with the aged Sisyphus, seizes the opportunity to fetter him with strong bands, and then no one can die. See Welker on Schwenk’s Etymological Mythology, Hints, pp. 323, 324. Gruber’s Mythological Diet. 3. 522. Com]iare also the Jewish Days of David, and Deaths Helvicus, 1, No. 12. The story of the Poor Man and the Rich One, No. 87, is clearly related to it. (Compare the note). There a good and a bad man made the good and bad wishes. Here a middle-state is depicted. The smith is both good and bad, spiritual and worldly, for which reason he wears a black and white coat. He, in his poverty, gladly entertains the Lord, and stops his ears that he may not for the second time gamble away the money intended for a refreshing draught, and is good-hearted, but sometimes thoughtless. On this account, he is at length allowed to enter into heaven, or, in the more severe instance, placed between heaven and hell. This ending connects the story with the saga of the lansquenets who can find no place in heaven, which is told by Frei in the Oartengesellschaft, No. 44, and by H. Kirchhof, in Wendunmut (1. No. lOd). The Devil will not have them because they bear the red cross on their standards, and St. Peter also will not admit them because they were bloodhounds, robbers of the poor, and blasphemers against God, The captain however reproaches St. Peter with his own treachery to the Lord, until the apostle becomes red with shame, and shows them a village called “Wait a while,” between heaven and hell, where they sit and gamble and drink.</p>
 <p>With this story are connected many others of St. Peter and the lansquenets. Wolfs Zeitschrift fiir deutsche Mythologie, 2. 3, shows how Gambling Hansel belongs to the stormers of heaven. A seat from which no one who has sat down on it can arise again, is already known in the Greek Saga; Hephoestushad such a one made for the witch: see Gruber’s Mythological Diet. 2, 57, notes. The cunning which the Smith uses against the Devil in order to catch him while prevailing on him to take the form of a mouse, occurs also in the Story of the Spirit in the Bottle, No. 99, and in the French Bluebeard.</p>
@@ -944,7 +960,7 @@ Than are dreamt of in your philosophy. — Shakspeare.</p>
 <p>“Well, go on; be sure they’re good wishes,” said the hermit.</p>
 <p>“Well, I’ve got a big sledge-hammer in the smithy, and I wish whoever gets hold of that hammer shall go on striking the anvil, and never break it, till I tell him to stop.”</p>
 <p>“Oh, that ‘s a bad wish, Billy.”</p>
-<p>“Oh, no; you ‘ll see it ‘s good. Next thing I wish for is a purse so that no one can take out whatever I put into it.”</p>
+<p>“Oh, no; you’ll see it ‘s good. Next thing I wish for is a purse so that no one can take out whatever I put into it.”</p>
 <p>“Oh, Billy, Billy! that ‘s a bad wish. Be careful now about the third wish,” said the hermit.</p>
 <p>“Well, I have got an armchair upstairs, and I wish that whoever may sit in that armchair will never be able to get up till I let them.”</p>
 <p>“Well, well, indeed; they are not very good wishes.”</p>
@@ -998,9 +1014,9 @@ Than are dreamt of in your philosophy. — Shakspeare.</p>
 <p class="admonition-title">The Craig-y-Don Blacksmith</p>
 <p><em>In <a class="reference external" href="https://archive.org/details/welshfairytaleso00emeriala/page/10/mode/2up">Welsh fairy-tales and other stories</a>, Peter Emerson, 1894, p10-11.</em></p>
 <p>THE CRAIG-Y-DON BLACKSMITH.</p>
-<p>ONCE upon a time an old blacksmith lived in an old forge at Craig-y-don, and he used to drink a great deal too much beer.
-One night he was coming home from an alehouse very tipsy, and as he got near a small stream a lot of little men suddenly sprang up from the rocks, and one of them, who seemed to be older than the rest, came up to him, and said:</p>
-<p>“If you don’t alter your ways of living you’ll die soon; but if you behave better and become a better man you ‘ll find it will be to your benefit,” and they all disappeared as quickly as they had come.</p>
+<p>ONCE upon a time an old blacksmith lived in an old forge at Craig-y-don, and he used to drink a great deal too much beer.</p>
+<p>One night he was coming home from an alehouse very tipsy, and as he got near a small stream a lot of little men suddenly sprang up from the rocks, and one of them, who seemed to be older than the rest, came up to him, and said:</p>
+<p>“If you don’t alter your ways of living you’ll die soon; but if you behave better and become a better man you’ll find it will be to your benefit,” and they all disappeared as quickly as they had come.</p>
 <p>The old blacksmith thought a good deal about what the fairies had told him, and he left off drinking, and became a sober, steady man.</p>
 <p>One day, a few months after meeting the little people, a strange man brought a horse to be shod. Nobody knew either the horse or the man.</p>
 <p>The old blacksmith tied the horse to a hole in the lip of a cauldron (used for the purpose of cooling his hot iron) that he had built in some masonry.</p>
@@ -1189,8 +1205,7 @@ Couldn’t Find Work 251</p></li>
             
             
               
-                <dialog id="pst-secondary-sidebar-modal"></dialog>
-                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
   <div class="sidebar-secondary-item">
@@ -1254,8 +1269,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>

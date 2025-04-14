@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!--
-    this give us a css class that will be invisible only if js is disabled
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -67,7 +64,6 @@
     <link rel="prev" title="The Wish Ring" href="the-wish-ring.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -83,8 +79,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -92,6 +99,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -99,8 +107,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -116,8 +124,7 @@
       
       
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -147,11 +154,15 @@
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -190,6 +201,8 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Gipsy Tales</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="devils-violin.html">The Devil’s Violin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Show Outlines</span></p>
 <ul class="nav bd-sidenav">
@@ -199,14 +212,13 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="woolpit-green.html">The Green Children of Woolpit</a></li>
 <li class="toctree-l1"><a class="reference internal" href="undutiful-daughter.html">The Undutiful Daughter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="fairy_midwife.html">The Fairy Midwife</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
 <li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
-<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
-<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 </ul>
@@ -225,6 +237,7 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Practice and performance notes</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="practice-on-not-sharing-digitally-pt1.html">On not sharing digitally, part 1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="setlists.html">Setlists</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Storynotes Collections</span></p>
 <ul class="nav bd-sidenav">
@@ -237,14 +250,9 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
-      <div class="sidebar-primary-item">
-<div id="ethical-ad-placement"
-      class="flat"
-      data-ea-publisher="readthedocs"
-      data-ea-type="readthedocs-sidebar"
-      data-ea-manual="true">
-</div></div>
   </div>
+  
+  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -341,16 +349,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 
 </div></div>
       
@@ -515,7 +531,7 @@
 <p>THE STONE-EATERS, AND THE ORIGINAL RECIPE TO MAKE STONE SOUP</p>
 <p>“Not long ago there was in England a private soldier,” says the Hon. Robert Boyle <code class="docutils literal notranslate"><span class="pre">[Boyle's</span> <span class="pre">Exp.</span> <span class="pre">Philo.</span> <span class="pre">par.</span> <span class="pre">ii,</span> <span class="pre">essay</span> <span class="pre">3,</span> <span class="pre">p.</span> <span class="pre">68.]</span></code> , “very famous for swallowing and digesting off <em>stones</em> and a very inquisitive man assures me, that he knew him familiarly, and had the curiosity to keep him company for twenty four hours together, in order to <em>watch</em> him, and not only observed that he ate nothing but stones daring that time, but also that he voided a sandy substance, as if the stones had digested, dissolved and crumbled in his body.”</p>
 <p>There never, perhaps, existed a more truly excellent, and a more indefatigable man than Mr. Boyle <code class="docutils literal notranslate"><span class="pre">[We</span> <span class="pre">must</span> <span class="pre">here</span> <span class="pre">offer</span> <span class="pre">a</span> <span class="pre">few</span> <span class="pre">words</span> <span class="pre">in</span> <span class="pre">favour</span> <span class="pre">of</span> <span class="pre">Mr.</span> <span class="pre">B.,</span> <span class="pre">although</span> <span class="pre">they</span> <span class="pre">tend</span> <span class="pre">to</span> <span class="pre">censure</span> <span class="pre">an</span> <span class="pre">author</span> <span class="pre">whose</span> <span class="pre">works</span> <span class="pre">were,</span> <span class="pre">generally</span> <span class="pre">speaking,</span> <span class="pre">almost</span> <span class="pre">idolizes.</span> <span class="pre">Swift,</span> <span class="pre">in</span> <span class="pre">his</span> <span class="pre">Meditation</span> <span class="pre">upon</span> <span class="pre">a</span> <span class="pre">Broomstick,</span> <span class="pre">is</span> <span class="pre">said</span> <span class="pre">to</span> <span class="pre">have</span> <span class="pre">had</span> <span class="pre">him</span> <span class="pre">in</span> <span class="pre">view.</span> <span class="pre">Yet</span> <span class="pre">surely</span> <span class="pre">there</span> <span class="pre">was</span> <span class="pre">nothing</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">character</span> <span class="pre">of</span> <span class="pre">Boyle,</span> <span class="pre">except</span> <span class="pre">the</span> <span class="pre">Dean</span> <span class="pre">had</span> <span class="pre">an</span> <span class="pre">eye</span> <span class="pre">to</span> <span class="pre">his</span> <span class="pre">political</span> <span class="pre">principles,</span> <span class="pre">(for</span> <span class="pre">he</span> <span class="pre">was,</span> <span class="pre">though</span> <span class="pre">moderate,</span> <span class="pre">a</span> <span class="pre">*Whig*)</span> <span class="pre">that</span> <span class="pre">could</span> <span class="pre">excite,</span> <span class="pre">or</span> <span class="pre">deserve</span> <span class="pre">ridicule:</span> <span class="pre">therefore,</span> <span class="pre">if</span> <span class="pre">the</span> <span class="pre">Meditation</span> <span class="pre">was</span> <span class="pre">levelled</span> <span class="pre">at</span> <span class="pre">him,</span> <span class="pre">its</span> <span class="pre">satire,</span> <span class="pre">if</span> <span class="pre">it</span> <span class="pre">had</span> <span class="pre">any</span> <span class="pre">at</span> <span class="pre">the</span> <span class="pre">time,</span> <span class="pre">must</span> <span class="pre">have</span> <span class="pre">recoiled</span> <span class="pre">upon</span> <span class="pre">its</span> <span class="pre">author.</span> <span class="pre">Swift,</span> <span class="pre">it</span> <span class="pre">must</span> <span class="pre">be</span> <span class="pre">observed,</span> <span class="pre">had</span> <span class="pre">a</span> <span class="pre">most</span> <span class="pre">contemptible</span> <span class="pre">opinion</span> <span class="pre">of</span> <span class="pre">*frivolous*</span> <span class="pre">philosophy,</span> <span class="pre">and</span> <span class="pre">this</span> <span class="pre">induced</span> <span class="pre">him</span> <span class="pre">to</span> <span class="pre">deem</span> <span class="pre">many</span> <span class="pre">inquiries</span> <span class="pre">and</span> <span class="pre">experiments</span> <span class="pre">such</span> <span class="pre">that</span> <span class="pre">had</span> <span class="pre">their</span> <span class="pre">bases</span> <span class="pre">on</span> <span class="pre">good</span> <span class="pre">sense</span> <span class="pre">and</span> <span class="pre">natural</span> <span class="pre">principies.</span> <span class="pre">In</span> <span class="pre">this</span> <span class="pre">and</span> <span class="pre">some</span> <span class="pre">other</span> <span class="pre">instances,</span> <span class="pre">of</span> <span class="pre">which</span> <span class="pre">he</span> <span class="pre">saw</span> <span class="pre">only</span> <span class="pre">the</span> <span class="pre">ridiculous</span> <span class="pre">side,</span> <span class="pre">his</span> <span class="pre">satirical</span> <span class="pre">propensity</span> <span class="pre">frequently</span> <span class="pre">overcame</span> <span class="pre">his</span> <span class="pre">judgment,</span> <span class="pre">or</span> <span class="pre">he</span> <span class="pre">would</span> <span class="pre">have</span> <span class="pre">reflected,</span> <span class="pre">that</span> <span class="pre">it</span> <span class="pre">was</span> <span class="pre">from</span> <span class="pre">a</span> <span class="pre">long</span> <span class="pre">series</span> <span class="pre">of</span> <span class="pre">studies</span> <span class="pre">apparently</span> <span class="pre">minute,</span> <span class="pre">and</span> <span class="pre">of</span> <span class="pre">experimentx</span> <span class="pre">apparently</span> <span class="pre">trifling,</span> <span class="pre">that</span> <span class="pre">the</span> <span class="pre">mot</span> <span class="pre">important</span> <span class="pre">truths</span> <span class="pre">have</span> <span class="pre">been</span> <span class="pre">obtained,</span> <span class="pre">and</span> <span class="pre">the</span> <span class="pre">most</span> <span class="pre">useful</span> <span class="pre">discoveries</span> <span class="pre">made.</span> <span class="pre">This</span> <span class="pre">was</span> <span class="pre">all</span> <span class="pre">one</span> <span class="pre">to</span> <span class="pre">Swift:</span> <span class="pre">if</span> <span class="pre">he</span> <span class="pre">had</span> <span class="pre">humour</span> <span class="pre">in</span> <span class="pre">view,</span> <span class="pre">he</span> <span class="pre">scorned</span> <span class="pre">to</span> <span class="pre">be</span> <span class="pre">stopped</span> <span class="pre">by</span> <span class="pre">the</span> <span class="pre">cross-bar</span> <span class="pre">of</span> <span class="pre">utility.</span> <span class="pre">Looking</span> <span class="pre">upon</span> <span class="pre">many</span> <span class="pre">masses[?]</span> <span class="pre">of</span> <span class="pre">human</span> <span class="pre">learning</span> <span class="pre">as</span> <span class="pre">altogether</span> <span class="pre">drois[?],</span> <span class="pre">he</span> <span class="pre">was</span> <span class="pre">always</span> <span class="pre">ready</span> <span class="pre">to</span> <span class="pre">laugh</span> <span class="pre">at</span> <span class="pre">those</span> <span class="pre">patient</span> <span class="pre">and</span> <span class="pre">persevering</span> <span class="pre">spirits</span> <span class="pre">which</span> <span class="pre">enddeavoured</span> <span class="pre">to</span> <span class="pre">find</span> <span class="pre">sparksof</span> <span class="pre">ore</span> <span class="pre">in</span> <span class="pre">them;</span> <span class="pre">and</span> <span class="pre">if</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">course</span> <span class="pre">of</span> <span class="pre">their</span> <span class="pre">labours</span> <span class="pre">they</span> <span class="pre">indicated</span> <span class="pre">political</span> <span class="pre">opinions</span> <span class="pre">hostile</span> <span class="pre">to</span> <span class="pre">his</span> <span class="pre">own,</span> <span class="pre">he</span> <span class="pre">seems</span> <span class="pre">to</span> <span class="pre">have</span> <span class="pre">been</span> <span class="pre">always</span> <span class="pre">equally</span> <span class="pre">ready</span> <span class="pre">to</span> <span class="pre">reprsent</span> <span class="pre">those</span> <span class="pre">exertions</span> <span class="pre">as</span> <span class="pre">useless</span> <span class="pre">or</span> <span class="pre">ridiculous.]</span></code>: his whole life exhibits a series of studies an labours all tending to promote the prosperity, or, what is of infinitely more importance, to ensure the eternal happiness of his fellow-creatures. Yet with all the virtues that could adorn the most elevated rank and a genius that would have added wings to the humblest, we have frequently been doubtful whether he was not at timea a little tinctured with credulity. Pre-eminently virtuous himself, he had no idea that others could deceive him: therefore, fearing that he had in some few instances taken things upon trust, we are very glad his <em>inquisitive</em> friend is corroborated and confirmed in this by two or three authorities that we shall briefly quote.</p>
-<p>Dr. Bulwar says, in his <em>Artificial Changelin</em>, that the name of the man mentioned by Mr. Boyle  was Francis Bataglia, and was at that time about thirty years of age; that he was born with two stones in one hand, and one in the other, which the child took for his first nourishment. He afterwards, it appears,” (this was, we suppose, when he was grown to man’s estate,) “by the advice of his physicians,” (and strange physicians they must have been,) “took nothing else but three or four pebbles in a spoon once in twenty-four hours, and a draught of beer after them, and, in the interim, now and then, a pipe of tobacco, for he had been a soldier in Ireland, and served at the siege of Limerick. Upon his return to London he was confined for some time upon suspicion of imposture and falseness of pretence <code class="docutils literal notranslate"><span class="pre">[Bulwar's</span> <span class="pre">Anthropoemetamorphosis,</span> <span class="pre">p.</span> <span class="pre">307.—</span> <span class="pre">Of</span> <span class="pre">this</span> <span class="pre">man,</span> <span class="pre">who</span> <span class="pre">seems</span> <span class="pre">to</span> <span class="pre">have</span> <span class="pre">practised</span> <span class="pre">a</span> <span class="pre">singular</span> <span class="pre">kind</span> <span class="pre">of</span> <span class="pre">imposture,</span> <span class="pre">there</span> <span class="pre">is</span> <span class="pre">a</span> <span class="pre">print</span> <span class="pre">angraved</span> <span class="pre">by</span> <span class="pre">Hollar,</span> <span class="pre">which</span> <span class="pre">is</span> <span class="pre">still</span> <span class="pre">extant.</span> <span class="pre">In</span> <span class="pre">this</span> <span class="pre">he</span> <span class="pre">is</span> <span class="pre">repreiented</span> <span class="pre">as</span> <span class="pre">holding</span> <span class="pre">a</span> <span class="pre">goblet</span> <span class="pre">in</span> <span class="pre">one</span> <span class="pre">hand</span> <span class="pre">and</span> <span class="pre">a</span> <span class="pre">plate</span> <span class="pre">of</span> <span class="pre">pebbles</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">other.</span> <span class="pre">Under</span> <span class="pre">the</span> <span class="pre">print</span> <span class="pre">is</span> <span class="pre">this</span> <span class="pre">inscription:</span> <span class="pre">&quot;The</span> <span class="pre">true</span> <span class="pre">portraiture</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">Roman</span> <span class="pre">youth</span> <span class="pre">whose</span> <span class="pre">strange</span> <span class="pre">life</span> <span class="pre">and</span> <span class="pre">birth</span> <span class="pre">cannot</span> <span class="pre">be</span> <span class="pre">sufficiently</span> <span class="pre">admired.</span> <span class="pre">He</span> <span class="pre">was</span> <span class="pre">born</span> <span class="pre">holding</span> <span class="pre">three</span> <span class="pre">little</span> <span class="pre">stones</span> <span class="pre">in</span> <span class="pre">one</span> <span class="pre">hand,</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">other</span> <span class="pre">two,</span> <span class="pre">&amp;c.]</span></code>. He then ate about half a peck of stones daily!!!</p>
+<p>Dr. Bulwar says, in his <em>Artificial Changelin</em>, that the name of the man mentioned by Mr. Boyle was Francis Bataglia, and was at that time about thirty years of age; that he was born with two stones in one hand, and one in the other, which the child took for his first nourishment. He afterwards, it appears,” (this was, we suppose, when he was grown to man’s estate,) “by the advice of his physicians,” (and strange physicians they must have been,) “took nothing else but three or four pebbles in a spoon once in twenty-four hours, and a draught of beer after them, and, in the interim, now and then, a pipe of tobacco, for he had been a soldier in Ireland, and served at the siege of Limerick. Upon his return to London he was confined for some time upon suspicion of imposture and falseness of pretence <code class="docutils literal notranslate"><span class="pre">[Bulwar's</span> <span class="pre">Anthropoemetamorphosis,</span> <span class="pre">p.</span> <span class="pre">307.—</span> <span class="pre">Of</span> <span class="pre">this</span> <span class="pre">man,</span> <span class="pre">who</span> <span class="pre">seems</span> <span class="pre">to</span> <span class="pre">have</span> <span class="pre">practised</span> <span class="pre">a</span> <span class="pre">singular</span> <span class="pre">kind</span> <span class="pre">of</span> <span class="pre">imposture,</span> <span class="pre">there</span> <span class="pre">is</span> <span class="pre">a</span> <span class="pre">print</span> <span class="pre">angraved</span> <span class="pre">by</span> <span class="pre">Hollar,</span> <span class="pre">which</span> <span class="pre">is</span> <span class="pre">still</span> <span class="pre">extant.</span> <span class="pre">In</span> <span class="pre">this</span> <span class="pre">he</span> <span class="pre">is</span> <span class="pre">repreiented</span> <span class="pre">as</span> <span class="pre">holding</span> <span class="pre">a</span> <span class="pre">goblet</span> <span class="pre">in</span> <span class="pre">one</span> <span class="pre">hand</span> <span class="pre">and</span> <span class="pre">a</span> <span class="pre">plate</span> <span class="pre">of</span> <span class="pre">pebbles</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">other.</span> <span class="pre">Under</span> <span class="pre">the</span> <span class="pre">print</span> <span class="pre">is</span> <span class="pre">this</span> <span class="pre">inscription:</span> <span class="pre">&quot;The</span> <span class="pre">true</span> <span class="pre">portraiture</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">Roman</span> <span class="pre">youth</span> <span class="pre">whose</span> <span class="pre">strange</span> <span class="pre">life</span> <span class="pre">and</span> <span class="pre">birth</span> <span class="pre">cannot</span> <span class="pre">be</span> <span class="pre">sufficiently</span> <span class="pre">admired.</span> <span class="pre">He</span> <span class="pre">was</span> <span class="pre">born</span> <span class="pre">holding</span> <span class="pre">three</span> <span class="pre">little</span> <span class="pre">stones</span> <span class="pre">in</span> <span class="pre">one</span> <span class="pre">hand,</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">other</span> <span class="pre">two,</span> <span class="pre">&amp;c.]</span></code>. He then ate about half a peck of stones daily!!!</p>
 <p>Sir Charles Hale, the celebrated physician of the seventeenth century, states, <code class="docutils literal notranslate"><span class="pre">[Philos.</span> <span class="pre">Trans.</span> <span class="pre">No,</span> <span class="pre">153.]</span></code> that one Thomas Gobsill, a lean man, aged about twenty-six or twenty-seven years, being tortured for three years with wind, was advised to swallow round white pebbles. The first doses that he took were said to hare had a proper effect; but afterward, perhaps from too frequent a repetition of the medicine, the stones remained two years and a half in his body. <code class="docutils literal notranslate"><span class="pre">[Dr.</span> <span class="pre">Sloane</span> <span class="pre">mentions</span> <span class="pre">a</span> <span class="pre">case</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">same</span> <span class="pre">nature.]</span></code></p>
 <p>Having stated these cases, which we found a greater difficulty in <em>swallowing</em> than the several <em>patients</em> did the pebbles, we will endeavour to match them with another much more recent, and which indeed must, in <em>substance</em>, be within the naemory of many or our compatriots.</p>
 <p>We think that more than twenty years cannot have elapsed since a very famous practitioner upon the credulity of the people appeared in the metropolis of England; a city, or rather a compages of cities, towns, and villages, which form the national centre of wisdom and sagaciyy. This man, this celebrated genius, who afterward travelled to most parts of the kingdom, made, while he resided with us, a very comfortable livelihood by <em>eating flints</em>.</p>
@@ -533,7 +549,7 @@
 <p>“I want,” said the Traveller, “tto make a mess of stone soup?”</p>
 <p>“Stone soup?” cried the woman, “I never heard of that before. Of what will you make it?”</p>
 <p>“I will show you in an instant,” said the man. So untying his wallet, he produced a large smooth pebble. “Here,” he cried, “is the <em>principal</em> ingredient. Now toast me a large slice of bread, hard and brown. Well now, attend to me.”</p>
-<p>The stone was infused in warm water; the bread was toasted, aud put into the pot with it. “Now,” said the Traveller, “let me have a bit of bacon, a small quantity, of four krout, pepper, and salt, onions, celery, thyme.” In short, he demanded all the necessary materials. The good woman had a store cupboard and a well cropped garden; so that these were procured in an instant, and the cookery proceeded with great success.</p>
+<p>The stone was infused in warm water; the bread was toasted, and put into the pot with it. “Now,” said the Traveller, “let me have a bit of bacon, a small quantity, of four krout, pepper, and salt, onions, celery, thyme.” In short, he demanded all the necessary materials. The good woman had a store cupboard and a well cropped garden; so that these were procured in an instant, and the cookery proceeded with great success.</p>
 <p>When it was finished, the kind hostess, who had watched the operation with some anxiety, and from time to time longed to taste the soup, was indulged. She found it excellent. She had never before tasted any that was so good. She produced all the edibles that her cottage afforded; and spreading her table, she, with the Traveller, made a hearty meal, of which the stone soup formed the principal part.</p>
 <p>When he took his leave, he told the good woman, who had carefully washed the stone, that as she had been so benevolent to him, he would, in return, make her a present of it.</p>
 <p>“Where did you get it?” said she.</p>
@@ -570,7 +586,7 @@ p867</p>
 <p>“Be off,” they cried. “We have nothing for you.”</p>
 <p>“All I ask is a little cold water in which to boil a stone,” said St Bernard, showing them a large round stone he carried in his hand.</p>
 <p>Thinking that it would be fun to watch a beggar eating a stone, the master told him to come into the kitchen and gave him a saucepan containing cold water. St Bernard rolled his eyes, rubbed his hands, set the saucepan on the fire, popped the stone in, and asked for a spoon with which to stir it.</p>
-<p>“How my mouth waters,” he as he stirred the stone round and “ This will bo de-li-ci-ous. Could you spare me little salt and pepper to season it?”</p>
+<p>“How my mouth waters,” he as he stirred the stone round and “This will bo de-li-ci-ous. Could you spare me little salt and pepper to season it?”</p>
 <p>He was given salt and pepper, and went on boiling the stone. Then he asked for some cold vegetables that the cook was keeping for the dogs, and put them into the soup.</p>
 <p>“A few fragments of meat improve stone soup tremendously, and a trifle of catsup or sauce of any kind makes it fit for a king. If only I had both, I’d ask you to taste my soup and I know that the master cook would not be ashamed of it.”</p>
 <p>So they gave him some scraps of meat, a little boiled rice, crust, and some sauce. Ten minutes later St Bernard said his soup was ready. Then all the servants gathered round, tasted it, and declared it to be delicious. As for St. Bernard, he sat down on the doorstep and enjoyed it tremondously, but he slipped the stone into his pocket.</p>
@@ -677,8 +693,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>

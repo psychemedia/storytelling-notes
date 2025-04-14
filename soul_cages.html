@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!--
-    this give us a css class that will be invisible only if js is disabled
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -67,7 +64,6 @@
     <link rel="prev" title="A Pottle of Brains" href="pottle-of-brains.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -83,8 +79,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -92,6 +99,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -99,8 +107,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -116,8 +124,7 @@
       
       
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -147,11 +154,15 @@
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -190,6 +201,8 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Gipsy Tales</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="devils-violin.html">The Devil’s Violin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Show Outlines</span></p>
 <ul class="nav bd-sidenav">
@@ -199,14 +212,13 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="woolpit-green.html">The Green Children of Woolpit</a></li>
 <li class="toctree-l1"><a class="reference internal" href="undutiful-daughter.html">The Undutiful Daughter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="fairy_midwife.html">The Fairy Midwife</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
 <li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
-<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
-<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 </ul>
@@ -225,6 +237,7 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Practice and performance notes</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="practice-on-not-sharing-digitally-pt1.html">On not sharing digitally, part 1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="setlists.html">Setlists</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Storynotes Collections</span></p>
 <ul class="nav bd-sidenav">
@@ -237,14 +250,9 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
-      <div class="sidebar-primary-item">
-<div id="ethical-ad-placement"
-      class="flat"
-      data-ea-publisher="readthedocs"
-      data-ea-type="readthedocs-sidebar"
-      data-ea-manual="true">
-</div></div>
   </div>
+  
+  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -341,16 +349,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 
 </div></div>
       
@@ -399,7 +415,7 @@ PART II.</p>
 <p>Fortune at length began to think that it was only right that Jack should know as much as his father and grandfather did. Accordingly, one day when he had strolled a little farther than usual along the coast to the northward, just as he turned a point, he saw something, like to nothing he had ever seen before, perched upon a rock at a little distance out to sea: it looked
 green in the body, as well as he could discern at that distance, and he would have sworn, only the thing was impossible, that it had a cocked hat in its hand. Jack stood for a good half hour straining his eyes and wondering at it, and all the time the thing did not stir hand or foot. At last Jack’s patience was quite worn out, and he gave a loud whistle and a hail, when the Merrow (for such it was) started up, put the cocked hat on its head, and dived down, head foremost, from the rock.</p>
 <p>Jack’s curiosity was now excited, and he constantly directed his steps towards the point; still he could never get a glimpse of the sea gentle- man with the cocked hat; and with thinking and thinking about the matter, he began at last to fancy he had been only dreaming. One very rough day, however, when the sea was running mountains high, Jack Dogherty determined ot give a look at the Merrow’s rock (for he had always chosen a fine day before), and then he saw the strange thing cutting capers upon the top of the rock, and then diving down, and then coming up, and then diving down again.</p>
-<p>Jack had now only to choose his time (that is, a good blowing day), and he might see the man of the sea as often as he pleased. All this, however, did not satisfy him — “much will have more <code class="docutils literal notranslate"><span class="pre">[TH:</span> <span class="pre">as</span> <span class="pre">the</span> <span class="pre">old</span> <span class="pre">saying</span> <span class="pre">goes]</span></code>;”  he wished now to get acquainted with the Merrow, and even in this he succeeded. One tremendous blustering day, before he got to the point, whence he had a view of the Merrow’s rock, the storm came on so furiously that Jack was obliged to take shelter in one of the caves which are so numerous along the coast; and there, to his astonishment, he saw sitting before him a thing with green hair, long green teeth, a red nose, and pig’s eyes. It had a fish’s tail, legs with scales on them, and short arms like fins: it wore no clothes, but had the cocked hat under its arm, and seemed engaged thinking very seriously about something.</p>
+<p>Jack had now only to choose his time (that is, a good blowing day), and he might see the man of the sea as often as he pleased. All this, however, did not satisfy him — “much will have more <code class="docutils literal notranslate"><span class="pre">[TH:</span> <span class="pre">as</span> <span class="pre">the</span> <span class="pre">old</span> <span class="pre">saying</span> <span class="pre">goes]</span></code>;” he wished now to get acquainted with the Merrow, and even in this he succeeded. One tremendous blustering day, before he got to the point, whence he had a view of the Merrow’s rock, the storm came on so furiously that Jack was obliged to take shelter in one of the caves which are so numerous along the coast; and there, to his astonishment, he saw sitting before him a thing with green hair, long green teeth, a red nose, and pig’s eyes. It had a fish’s tail, legs with scales on them, and short arms like fins: it wore no clothes, but had the cocked hat under its arm, and seemed engaged thinking very seriously about something.</p>
 <p>Jack, with all his courage, was a little daunted; but now or never, thought he: so up he went boldly to the cogitating fishman, took off his hat, and made his best bow.</p>
 <p>“Your servant, sir,” said Jack.</p>
 <p>“Your servant, kindly, Jack Dogherty,” answered the Merrow.</p>
@@ -438,7 +454,7 @@ and eat off. There was, howerer, a good fire blaring on the hearth—a comfortab
 <p>Jack ate and drank till he could eat no more: then taking up a shell of brandy, “Here’s to your honour’s good health, sir,” said he; “though, begging your pardon, it’s mighty odd, that as long as we’ve been acquainted, I don’t know your name yet.”</p>
 <p>“That’s true, Jack,” replied he; “I never thought of it before, but better late than never. My name’s Coomara.”</p>
 <p>“And a mighty decent name it is,” cried Jack, taking another shellful: “here’s to your good health, Coomara, and may you live these fifty years to come!”</p>
-<p>“Fifty years!” repeated Coomara; “ I’m obliged to you, indeed! If you had said five hundred, it would have been something worth the wishing.”</p>
+<p>“Fifty years!” repeated Coomara; “I’m obliged to you, indeed! If you had said five hundred, it would have been something worth the wishing.”</p>
 <p>“By the laws, sir,” cries Jack, “<em>youz</em> live to a powerful great age here under the water! You knew my grandfather, and he’s dead and gone better than these sixty years. I’m sure it must be a mighty healthy place to live in.”</p>
 <p>“No doubt of it; but come, Jack, keep the liquor stirring.” Shell after shell did they empty, and to Jack’s exceeding surprise, he found the drink never got into his head, owing, I suppose, to the sea being over them, which kept their noddles cool.</p>
 <p>Old Coomara got exceedingly comfortable, and sung several songs; but Jack, if his life had depended on it, never could remember more than</p>
@@ -447,7 +463,7 @@ and eat off. There was, howerer, a good fire blaring on the hearth—a comfortab
 <em>Dum duo doodle coo,</em><br />
 <em>Raffle laffle chittibob!</em></p>
 <p>It was the chorus to one of them; and to say the truth, nobody that I know has ever been able to pick any particular meaning out of it; but that, to be sure, is the case with many a song now-a-days.</p>
-<p>At length said he to Jack, “ Now, my dear boy, if you folow me, I’ll show you my <em>curosities</em>!” He opened a little door and led Jack into a large room, where Jack saw a great many odds and ends that Coomara had picked up at one time or another. What chiefly took his atention, however, were things like lobster pots ranged on the ground along the wall.</p>
+<p>At length said he to Jack, “Now, my dear boy, if you folow me, I’ll show you my <em>curosities</em>!” He opened a little door and led Jack into a large room, where Jack saw a great many odds and ends that Coomara had picked up at one time or another. What chiefly took his atention, however, were things like lobster pots ranged on the ground along the wall.</p>
 <p>“Well, Jack, how do you like my <em>curosities</em>?” said old Coo.</p>
 <p>“Upon my <em>sowkins</em>, sir,” said Jack, “they’re mighty well worth the looking at; but might I make as bold as to ask what these things like lobster pots are?”</p>
 <p>“Oh! the Soul Cages, is it?”</p>
@@ -462,7 +478,7 @@ and eat off. There was, howerer, a good fire blaring on the hearth—a comfortab
 <p>Jack knew better manners than to refuse the parting glass. “I wonder,” said he, “will I be able to make out my way home?”</p>
 <p>“What should ail you,” said Coo, “when I’ll show you the way?”</p>
 <p>Out they went before the house, and Coomara took one of the cocked hats, and put it upon Jack’s head the wrong way, and then lifted him up on his shoulder that he might launch him up into the water.</p>
-<p>“Now,” says he, giving him a heave, “you ‘ll come up just in the same spot you came down in, and, Jack, mind and throw me back the hat.”</p>
+<p>“Now,” says he, giving him a heave, “you’ll come up just in the same spot you came down in, and, Jack, mind and throw me back the hat.”</p>
 <p>He canted Jack off his shoulder, and up he shot like a bubble whirr, whirr, whiz-away he went up through the water, till he came to the very rock he had jumped off, where he found a landing-place, and then in he threw the hat, which sunk like a stone.</p>
 <p>The sun was just going down in the beautiful sky of a calm summer’s evening. <em>Feascor</em> was seen dimly twinkling in the cloudless heaven, a solitary star, and the waves of the Atlantic flashed in a golden flood of light. So Jack, perceiving, it was late, set of home; but when he got there, not a word did he say ot Biddy of where he had spent his day.</p>
 <p>The state of the poor Souls cooped up in the lobster pots gave Jack a great deal of trouble, and how to release them cost him a great deal of thought. He at first had a mind to speak to the priest about the matter. But what could the priest do, and what did Coo care for the priest? Besides, Coo was a good sort of an old fellow, and did not think he was doing any harm. Jack had a regard for him too, and it also might not be much to his own credit if it were known that he used to go dine with Merrows. On the whole, he thought his best plan would be to ask Coo to dinner, and to make him drunk, if he was able, and then to take the hat and go down and turn up the pots. It was first of all necessary, however, to get Biddy out of the way; for Jack was prudent enough, as she was a woman, to wish to keep the thing secret from her.</p>
@@ -478,7 +494,7 @@ and eat off. There was, howerer, a good fire blaring on the hearth—a comfortab
 <p>Jack asked Coo again, and Coo laughed at him for having no better head, telling him, he’d never come up to his grandfather.</p>
 <p>“Well, but try me again,” said Jack, “and I’ll be bail to drink you drunk and sober, and drunk again.”</p>
 <p>“Any thing in my power,” said Co, “to oblige you.”</p>
-<p>At this dinner, Jack took care to have his own liquor well watered, and to give the strongest brandy he had to Coo. At last, says he; “ Pray, sir, did you ever drink any poteen?—any real Mountain dew ?”</p>
+<p>At this dinner, Jack took care to have his own liquor well watered, and to give the strongest brandy he had to Coo. At last, says he; “Pray, sir, did you ever drink any poteen?—any real Mountain dew ?”</p>
 <p>“No,” says Coo; “what’s that, and where does it come from?”</p>
 <p>“Oh, that’s a secret,” said Jack, “but it’s the right stuff—never believe me again, if ‘tis not. fifty times as good as brandy or rum either. Biddy’s brother just sent me a present of a little drop, in exchange for some brandy, and as you’re an old friend of the family, I kept it to treat you with.”</p>
 <p>“Well, let’s se what sort of thing it is,” said Coomara.</p>
@@ -486,8 +502,7 @@ and eat off. There was, howerer, a good fire blaring on the hearth—a comfortab
 <p>All was as still as a church-yard at midnight— not a Merrow old or young was there. In he went and turned up the pots, but nothing did he see, only he heard a sort of a little whistle or chirp as he raised each of them. At this he was surprised, till he recollected what the priest had often said, that nobody living could see the soul, no more than they could see the wind or the
 air! Having now done all that he could do for them, he set the pots as they were before, and sent a blessing after the poor souls, to speed them on their journey wherever they were going. Jack now began to think of returning; he put the hat on, as was right, the wrong way; but when he got out, he found the water so high over his head, that he had no hopes of ever geting up into it, now that he had not old Coomara to give him a lift. He walked about looking for a ladder, but not one could he find, and not a rock was
 there in sight. At last he saw a spot where the sea hung rather lower than any where else, so he resolved to try there. Just as he came to it, a big cod happened to put down his tail. Jack made a jump. and caught hold of it, and the cod, all in amazement, gave a bounce and pulled Jack up. The minute the hat touched the water, pop away Jack was whisked, and up he shot like a cork, dragging the poor cod, that he forgot to let go, up with him, tail foremost. He got to the rock in no time, and without a moment’s delay hurried home, rejoicing in the good deed he had done. But, meanwhile, there was fine work at home; for our friend Jack had hardly left the house on his soul-freeing expedition, when back came Biddy from her soul-saving one to the well. When she entered the house and saw the things lying <em>thrie-na helah</em> on the table before her.</p>
-<p>“Here’s a pretty job!” said she “ that blackguard of mine— what ill-luck I had ever to marry him! He has picked up some vagabond or other, while I was praying for the good of his soul, and they’ve been drinking all the <em>poteen</em> that my own brother gave him, and all the spirits, to be sure, that he was to have sold to his honour.” —Then hearing an outlandish kind of grunt, she looked
-down, and saw Coomars lying under the table.— “ The blessed Virgin help me,” shouted she, “if he has not made a real beast of himself! Well, well, I’ve often heard of a man making a beast of himself with drink!—Oh hone oh hone—Jack, honey, what will I do with you, or what will I do without you? How can any decent woman ever think of living with a beast?”—</p>
+<p>“Here’s a pretty job!” said she “that blackguard of mine— what ill-luck I had ever to marry him! He has picked up some vagabond or other, while I was praying for the good of his soul, and they’ve been drinking all the <em>poteen</em> that my own brother gave him, and all the spirits, to be sure, that he was to have sold to his honour.” —Then hearing an outlandish kind of grunt, she looked down, and saw Coomars lying under the table.— “The blessed Virgin help me,” shouted she, “if he has not made a real beast of himself! Well, well, I’ve often heard of a man making a beast of himself with drink!—Oh hone oh hone—Jack, honey, what will I do with you, or what will I do without you? How can any decent woman ever think of living with a beast?”—</p>
 <p>With such like lamentations Biddy rushed out of the house, and was going, she knew not where, when she heard the well-known voice of Jack singing a mery tune. Glad enough was Biddy to find him safe and sound, and not turned into a thing that was like neither fish nor flesh. Jack was obliged to tell her all, and Biddy, though she had half a mind to be angry with him for not telling her before, owned that he had done a great service to the poor souls. Back they both went most lovingly to the house, and Jack wakened up Coomars; and perceiving the old fellow to be rather dull, he bid him not be cast down, for ‘twez many a good man’s case; said it al came of his not being used to the <em>poteen</em>, and recommended him, by way of cure, to swallow a hair of the dog that bit him. Coo, however, seemed to think he had had quite enough: he got up, quite out of sorts, and without having the manners to say one word in the way of civility, he sneaked off to cool himself by a jaunt through the salt water.</p>
 <p>Coomara never missed the souls. He and Jack continued the best friends in the world, and no one, perhaps, ever equalled Jack at freeing souls from purgatory; for he contrived fifty excuses for getting into the house below the sea, unknown to the old fellow, and then turning up the pots and letting out the souls. It vexed him, to be sure, that he could never see them; but as he knew the
 thing to be impossible, he was obliged to be satisfied.</p>
@@ -655,8 +670,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>

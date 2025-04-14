@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!--
-    this give us a css class that will be invisible only if js is disabled
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -67,7 +64,6 @@
     <link rel="prev" title="Preface" href="preface.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -83,8 +79,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -92,6 +99,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -99,8 +107,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -116,8 +124,7 @@
       
       
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -147,11 +154,15 @@
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -190,6 +201,8 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Gipsy Tales</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="devils-violin.html">The Devil’s Violin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Show Outlines</span></p>
 <ul class="nav bd-sidenav">
@@ -199,14 +212,13 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="woolpit-green.html">The Green Children of Woolpit</a></li>
 <li class="toctree-l1"><a class="reference internal" href="undutiful-daughter.html">The Undutiful Daughter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="fairy_midwife.html">The Fairy Midwife</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
 <li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
-<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
-<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 </ul>
@@ -225,6 +237,7 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Practice and performance notes</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="practice-on-not-sharing-digitally-pt1.html">On not sharing digitally, part 1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="setlists.html">Setlists</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Storynotes Collections</span></p>
 <ul class="nav bd-sidenav">
@@ -237,14 +250,9 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
-      <div class="sidebar-primary-item">
-<div id="ethical-ad-placement"
-      class="flat"
-      data-ea-publisher="readthedocs"
-      data-ea-type="readthedocs-sidebar"
-      data-ea-manual="true">
-</div></div>
   </div>
+  
+  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -341,16 +349,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 <button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
@@ -394,7 +410,7 @@
 Your browser does not support the audio element.
 </audio>
 <p><em>It’s rapidly becoming one of my favourite 5 minute tales for retelling in a similar way, and is suitable for a wide range of audiences.</em></p>
-<p>I’m pretty sure I heard Daniel say somewhere (FATE 2021, maybe, in a lunch queue, telling someone else?) that it had come via an old collection of Welsh traditional tales, but the first place I tracked it down to was the <em>Vol 10 Iss 12</em> issue of the St Nicholas magazine, from October, 1883, <a class="reference external" href="https://archive.org/details/sim_saint-nicholas-a-magazine-for-boys-and-girls_1883-10_10_12/page/938/mode/2up?q=%22wish+ring%22">p938-9</a>, thereafter reprinted in <em>Fairy stories retold from St. Nicholas</em>, 1906, <a class="reference external" href="https://archive.org/details/FairyStoriesRetoldFromStNicholas/page/n195/mode/2up?q=%22wish+ring%22">p185-192</a>, from which the following image is  taken.</p>
+<p>I’m pretty sure I heard Daniel say somewhere (FATE 2021, maybe, in a lunch queue, telling someone else?) that it had come via an old collection of Welsh traditional tales, but the first place I tracked it down to was the <em>Vol 10 Iss 12</em> issue of the St Nicholas magazine, from October, 1883, <a class="reference external" href="https://archive.org/details/sim_saint-nicholas-a-magazine-for-boys-and-girls_1883-10_10_12/page/938/mode/2up?q=%22wish+ring%22">p938-9</a>, thereafter reprinted in <em>Fairy stories retold from St. Nicholas</em>, 1906, <a class="reference external" href="https://archive.org/details/FairyStoriesRetoldFromStNicholas/page/n195/mode/2up?q=%22wish+ring%22">p185-192</a>, from which the following image is taken.</p>
 <p><img alt="A man sat next to a woman outside a cottage, with the caption &quot;There is only one wish in the ring&quot;." src="_images/wish_ring_tales_st_nicholas.png" /></p>
 <div class="dropdown admonition">
 <p class="admonition-title">The Wish Ring, translated from the German by Anna Eichberg</p>
@@ -411,7 +427,7 @@ Your browser does not support the audio element.
 <p>In the meantime, the farmer reached home in high spirits and showed the ring to his wife.</p>
 <p>“Henceforth we shall never more be in want, dear wife,” he said. “Our fortune is made. Only we must be very careful to consider well just what we ought to wish.”</p>
 <p>The farmer’s wife, of course, proffered advice. “Suppose,” said she, “that we wish for that bit of land that lies between our two fields?”</p>
-<p>“That isn’t worth while,” her husband replied. “If we work hard for a year, we ‘ll earn enough money to buy it.”</p>
+<p>“That isn’t worth while,” her husband replied. “If we work hard for a year, we’ll earn enough money to buy it.”</p>
 <p>So the two worked very hard, and at harvest time they had never raised such a crop before. They had earned money enough to buy the coveted strip of land and still have a bit to spare. “See,” said the man, “we have the land and the wish as well.”</p>
 <p>The farmer’s wife then suggested that they had better wish for a cow and a horse. But the man replied: “Wife, why waste our wish on such trifles? The horse and cow we’ll get anyway.”</p>
 <p>Sure enough, in a year’s time the money for the horse and cow had been earned. Joyfully the man rubbed his hands. “The wish is saved again this year, and yet we have what we desire. How lucky we are!”</p>
@@ -438,7 +454,7 @@ Friedrich Hofmann, 1888?</a>, p164-170, with illustrations on p.164 and p167, al
 <p>The farmer didn’t need to be told twice, took his hatchet and set off. After two days he found the fir. He immediately set about felling it , and the moment it fell and fell violently to the ground , a nest with two eggs fell out of its highest treetop . The eggs fell on the ground and broke , and as they broke , a young eagle came out of one egg , and a small golden ring fell out of the other . The eagle grew steadily until it was probably half a man’s height, shook its wings as if trying them, rose a little above the ground and then cried:</p>
 <p>“You redeemed me! As a thank you, take the ring that was in the other gi! It is a wish ring. If you turn a finger and make a wish, it will soon come true. But there is only one wish in the ring. So think carefully about what you wish for so that you don’t regret it afterwards.</p>
 <p>Then the eagle flew high in the air, hovered for a long time in large strips over the farmer’s head, and then shot like an arrow towards the morning.</p>
-<p>The farmer took the ring, put it on his finger and started to go home. When it was evening he arrived at a town; there the goldsmith stood in the shop and had many princely rings for sale. Then the farmer showed him his ring and asked him what it was worth. “ A cardboard stick!” said the goldsmith. Then the farmer laughed out loud and told him that it was a wishing ring and was worth more than all the rings together that Fener had for sale. But the oldsmith was a wrong, big man. He invited the farmer to come over Staying with him at night said: “To shelter a man like you with such treasures brings good luck; stay with me!” took the ring off his finger unnoticed and put an ordinary ring of the same kind on him instead.</p>
+<p>The farmer took the ring, put it on his finger and started to go home. When it was evening he arrived at a town; there the goldsmith stood in the shop and had many princely rings for sale. Then the farmer showed him his ring and asked him what it was worth. “A cardboard stick!” said the goldsmith. Then the farmer laughed out loud and told him that it was a wishing ring and was worth more than all the rings together that Fener had for sale. But the oldsmith was a wrong, big man. He invited the farmer to come over Staying with him at night said: “To shelter a man like you with such treasures brings good luck; stay with me!” took the ring off his finger unnoticed and put an ordinary ring of the same kind on him instead.</p>
 <p>The next morning the goldsmith could hardly wait for the farmer to leave. He woke him up early in the morning and said: “You still have a long way to go. It is better if you get up early .”</p>
 <p>As soon as the farmer was gone, he hurriedly went into his room, closed the shutters so that no one would steal anything, then bolted the door behind him, stood in the middle of the room, turned the ring and called out: “I want to right away have a hundred thousand thalers.”</p>
 <div class="dropdown admonition">
@@ -524,8 +540,7 @@ Friedrich Hofmann, 1888?</a>, p164-170, with illustrations on p.164 and p167, al
             
             
               
-                <dialog id="pst-secondary-sidebar-modal"></dialog>
-                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
   <div class="sidebar-secondary-item">
@@ -583,8 +598,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>

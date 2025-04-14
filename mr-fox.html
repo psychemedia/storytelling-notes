@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!--
-    this give us a css class that will be invisible only if js is disabled
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -67,7 +64,6 @@
     <link rel="prev" title="Brother Jucundus" href="brother_jucundus.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -83,8 +79,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -92,6 +99,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -99,8 +107,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -116,8 +124,7 @@
       
       
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -147,11 +154,15 @@
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -190,6 +201,8 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Gipsy Tales</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="devils-violin.html">The Devil’s Violin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Show Outlines</span></p>
 <ul class="nav bd-sidenav">
@@ -199,14 +212,13 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="woolpit-green.html">The Green Children of Woolpit</a></li>
 <li class="toctree-l1"><a class="reference internal" href="undutiful-daughter.html">The Undutiful Daughter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="fairy_midwife.html">The Fairy Midwife</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
 <li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
-<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
-<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Mr Fox</a></li>
 </ul>
@@ -225,6 +237,7 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Practice and performance notes</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="practice-on-not-sharing-digitally-pt1.html">On not sharing digitally, part 1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="setlists.html">Setlists</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Storynotes Collections</span></p>
 <ul class="nav bd-sidenav">
@@ -237,14 +250,9 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
-      <div class="sidebar-primary-item">
-<div id="ethical-ad-placement"
-      class="flat"
-      data-ea-publisher="readthedocs"
-      data-ea-type="readthedocs-sidebar"
-      data-ea-manual="true">
-</div></div>
   </div>
+  
+  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -341,16 +349,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 
 </div></div>
       
@@ -378,7 +394,7 @@
                   
   <section class="tex2jax_ignore mathjax_ignore" id="mr-fox">
 <h1>Mr Fox<a class="headerlink" href="#mr-fox" title="Link to this heading">#</a></h1>
-<p>A fantastically grim Engligh folk tale, the sort of thing that might well go down as a Halloween tale, or a ghost story… A lesser told tale than Perrault’s <em>Bluebeard</em> and/or Grimm’s <em>The Robber Bridegroom</em>, the gist of it is much the same.</p>
+<p>A fantastically grim Englsh folk tale, the sort of thing that might well go down as a Halloween tale, or a ghost story… A lesser told tale than Perrault’s <em>Bluebeard</em> and/or Grimm’s <em>The Robber Bridegroom</em>, the gist of it is much the same.</p>
 <p>We can find an early version of the tale in a commentary to Shakespeare’s <em>Nuch Ado About Nothing</em> on the phrase <em>“it is not so, nor ‘twas not so: but indeed God forbid it should be so”</em>, offered a source for that quote and remembered as a tale told by an elderly relation of the commentator (Blakeway).</p>
 <div class="dropdown admonition">
 <p class="admonition-title">An old tale, 1821</p>
@@ -393,20 +409,21 @@ by Shakespeare, William, 1564-1616; Boswell, James, 1778-1822, ed; Malone, Edmon
 <p>After a few days, Mr. Fox came to dine with them as usual (whether by invitation, or of his own accord, this deponent saith not). After dinner, when the guests began to amuse each other with extraordinary anecdotes. Lady Mary at length said, she would relate to them a remarkable dream she had lately had. I dreamt, said she, that as you, Mr. Fox, had often invited me to your house, I would go there one morning. When I came to the house, I knocked, &amp;c. but no one answered. When I opened the door, over the hall was written, <em>“Be bold, be bold, but not too bold”</em>. But, said she, turning to Mr. Fox, and smiling, <em>It is not so, nor it was not so</em>; then she pursues the rest of the story, concluding at every turn with <em>“It is not so, nor it was not so,”</em> till she comes to the room full of dead bodies, when Mr. Fox took up the burden of the tale, and said, <em>“It is not so, nor it was not so, and God forbid it should be so:”</em> which he continues to repeat at every subsequent turn of the dreadful story, till she came to the circumstance of his cutting off the young lady’s hand, when, upon his saying as usual. <em>It is not so, nor it was not so, and God forbid it should be so.</em> Lady Mary retorts. <em>But it is so, and it was so, and here the hand I have to show</em>, at the same time producing the hand and bracelet from her lap: whereupon the guests drew their swords, and instantly cut Mr. Fox into a thousand pieces.</p>
 <p>Such is the <em>old tale</em> to which Shakspeare evidently alludes, and which has often <em>“froze my young blood,”</em> when I was a child, as, I dare say, it had done his before me. I will not apologize for repeating it, since it is manifest that such <em>old wive’s tales</em> often prove the best elucidation of this writer’s meaning. Blakeway.</p>
 </div>
-<p>The tale was then perhaps re-popularised by Halliwell-Phillips in his <em>Popular rhymes and nursery tales</em> of 1849. The layout in Halliwell’s version makes me the refrain might provide a useful invitation to participation…</p>
+<p>The tale was then perhaps re-popularised by Halliwell-Phillips in his <em>Popular rhymes and nursery tales</em> of 1849. The layout in Halliwell’s version makes me think the refrain might provide a useful invitation to participation…</p>
 <div class="dropdown admonition">
 <p class="admonition-title">A simple, but very curious tale, 1849</p>
 <p><a class="reference external" href="https://archive.org/details/popularrhymesnur0000unse/page/46/mode/2up">https://archive.org/details/popularrhymesnur0000unse/page/46/mode/2up</a>
-Popular rhymes and nursery tales : a sequel to the Nursery rhymes of England
+Popular rhymes and nursery tales: a sequel to the Nursery rhymes of England
 by Halliwell-Phillipps, J. O. (James Orchard), 1820-1889</p>
 <p>Publication date 1849
 pp47-8</p>
 <p>THE STORY OF MR. FOX. <code class="docutils literal notranslate"><span class="pre">[A</span> <span class="pre">simple,</span> <span class="pre">but</span> <span class="pre">very</span> <span class="pre">curious</span> <span class="pre">tale,</span> <span class="pre">of</span> <span class="pre">considerable</span> <span class="pre">antiquity.</span> <span class="pre">It</span> <span class="pre">is</span> <span class="pre">alluded</span> <span class="pre">to</span> <span class="pre">by</span> <span class="pre">Shakespeare,</span> <span class="pre">and</span> <span class="pre">was</span> <span class="pre">contributed</span> <span class="pre">to</span> <span class="pre">the</span> <span class="pre">variorum</span> <span class="pre">edition</span> <span class="pre">by</span> <span class="pre">Blakeway.</span> <span class="pre">Part</span> <span class="pre">of</span> <span class="pre">this</span> <span class="pre">story</span> <span class="pre">will</span> <span class="pre">recall</span> <span class="pre">to</span> <span class="pre">the</span> <span class="pre">reader's</span> <span class="pre">memory</span> <span class="pre">the</span> <span class="pre">enchanted</span> <span class="pre">chamber</span> <span class="pre">of</span> <span class="pre">Britomart.]</span></code></p>
 <p>Once upon a time there was a young lady called Lady Mary, who had two brothers. One summer they all three went to a country seat of theirs which they had not before visited. Among the other gentry in the neighbourhood who came to see them was a Mr. Fox, a bachelor, with whom they, particularly the young lady, were much pleased. He used often to dine with them, and frequently invited Lady Mary to come and see his house. One day, when her brothers were absent elsewhere, and she had nothing better to do, she determined to go thither, and accordingly set out unattended. When she arrived at the house and knocked at the door, no one answered. At length she opened it and went in, and over the portal of the door was written:</p>
 <p>Be bold, be bold, but not too bold.</p>
-<p>She advanced, and found the same inscription over the staircase ; again at the entrance of a gallery; and lastly, at the door of a chamber, with the addition of a line:</p>
-<p>Be bold, be bold, but not too bold,</p>
-<p>Lest that your heart’s blood should run cold! She opened it, and what was her terror and astonishment to find the floor covered with bones and blood. She retreated in haste, and coming down stairs, she saw from a window Mr. Fox advancing towards the house with a drawn sword in one hand, while with the other he dragged along a young lady by the hair of her head. Lady Mary had just time to slip down, and hide herself under the stairs, before Mr. Fox and his victim arrived at the foot of them. As he pulled the young lady upstairs, she caught hold of one of the bannisters with her hand, on which was a rich bracelet. Mr. Fox cut it off with his sword: the hand and bracelet fell into Lady Mary’s lap, who then contrived to escape unobserved, and got safe home to her brothers’ house.</p>
+<p>She advanced, and found the same inscription over the staircase; again at the entrance of a gallery; and lastly, at the door of a chamber, with the addition of a line:</p>
+<p>Be bold, be bold, but not too bold,<br />
+Lest that your heart’s blood should run cold!</p>
+<p>She opened it, and what was her terror and astonishment to find the floor covered with bones and blood. She retreated in haste, and coming down stairs, she saw from a window Mr. Fox advancing towards the house with a drawn sword in one hand, while with the other he dragged along a young lady by the hair of her head. Lady Mary had just time to slip down, and hide herself under the stairs, before Mr. Fox and his victim arrived at the foot of them. As he pulled the young lady upstairs, she caught hold of one of the bannisters with her hand, on which was a rich bracelet. Mr. Fox cut it off with his sword: the hand and bracelet fell into Lady Mary’s lap, who then contrived to escape unobserved, and got safe home to her brothers’ house.</p>
 <p>A few days afterwards, Mr. Fox came to dine with them as usual. After dinner, the guests began to amuse each other with extraordinary anecdotes, and Lady Mary said she would relate to them a remarkable dream she had lately had. I dreamt, said she, that as you, Mr. Fox, had often invited me to your house, I would go there one morning. When I came to the house, I knocked at the door, but no one answered. When I opened the door, over the hall I saw written, “Be bold, be bold, but not too bold.” But, said she, turning to Mr. Fox, and smiling, “It is not so, nor it was not so.” Then she pursued the rest of the story, concluding at every turn with, “It is not so, nor it was not so,” till she came to the discovery of the room full of bones, when Mr. Fox took up the burden of the tale, and said:</p>
 <p>It is not so, nor it was not so,<br />
 And God forbid it should be so!</p>
@@ -422,7 +439,7 @@ And here the hand I have to show!</p>
 <div class="dropdown admonition">
 <p class="admonition-title"><em>The Oxford Student</em>, 1849</p>
 <p><a class="reference external" href="https://archive.org/details/popularrhymesnur0000unse/page/48/mode/2up">https://archive.org/details/popularrhymesnur0000unse/page/48/mode/2up</a>
-Popular rhymes and nursery tales : a sequel to the Nursery rhymes of England
+Popular rhymes and nursery tales: a sequel to the Nursery rhymes of England
 by Halliwell-Phillipps, J. O. (James Orchard), 1820-1889</p>
 <p>Publication date 1849</p>
 <p>pp49-50</p>
@@ -462,7 +479,7 @@ When I saw the hole the fox did make.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">The popular story of Blue Beard, or, Female curiosity, 1846</p>
 <p><a class="reference external" href="https://archive.org/details/McGillLibrary-PN970_R9_P67_1846-2022/page/n1/mode/2up">https://archive.org/details/McGillLibrary-PN970_R9_P67_1846-2022/page/n1/mode/2up</a>
-The popular story of Blue Beard, or, Female curiosity : embellished with beautiful cuts
+The popular story of Blue Beard, or, Female curiosity: embellished with beautiful cuts
 by Perrault, Charles,1628-1703.Barbe bleue.English</p>
 <p>Publication date 1846</p>
 <p>pp.1-8</p>
@@ -480,19 +497,19 @@ by Perrault, Charles,1628-1703.Barbe bleue.English</p>
 <p>When she was alone, she called out to her sister, and said to her, “Sister Anne,” for that was her name, “go up, I beg you, upon the top of the tower, and look if my brothers are not coming; they promised me that they would come to-day; and if you see them, give them a sign to make haste.” Her sisterwent upon the top of the tower, and the poor afflicted wife cried out from time to time, “Anne, sister Anne, do you see anyone coming?” And sister Anne said, “I see nothing but the sun, which makes a dust, and the grass, which looks green.”</p>
 <p>In the mean while Blue Beard, holding a great cimeter in his hand, cried out, as loud as he could bawl, to his wife, “Come down instantly, or I shall come up to you.” “One moment longer, if you please,” said his wife; and then she cried out very softly, “Anne, sister Anne, dost thou see any body coming?” and sister Anne answered, “I see nothing but the sun, which makes a dust, and the grass looking green.” “Come down quickly,” cried Blue Beard, “or I will come up to you.” “I am coming,” answered his wife; and then she cried, “Anne, sister Anne, dost thou not see any one coming?” “I see,” replied sister Anne, a great dust which comes on this side here.” “Are these my brothers?” “Alas! no, my dear sister, I see a flock of sheep.” “Will you not come down?” cried Blue Beard. “One moment longer,” said his wife; and then she cried out, “Anne, sister Anne, dost thou see any one coming?” “I see,” said she, “two horsemen coming, but they are a great way off.” “God be praised!” replied the poor wife joyfully, “they are my brothers.” “I am making them a sign,” said sister Anne, “as well as I can, for them to make haste.” Then Blue Beard bawled out so loud, that he made the whole house tremble.</p>
 <p>The distressed wife came down, and threw herself at his feet, all in tears, with her hair about her shoulders. “This signifies nothing,” says Blue Beard, “you must die then, taking hold of her hair with one hand, and lifting up his cimeter with the other, he was going to take off her head. The poor gentlewoman, turning about to him and looking at him with dying eyes, desired him to afford her one little moment to recollect herself. “No, no,” said he, “recommend thyself to God and was just ready to strike. At this very instant, there was such a loud knocking at the gate, that Blue Beard made a sudden stop. The gate was opened, and presently entered two horsemen, who, drawing their swords, ran directly to Blue Beard.</p>
-<p>He knew them to he his wife’s brothers, one a dragoon, the other a musketeer ; so he ran immediately to save himself; but the two brothers pursued so closely, that they overtook him before he could get to the steps of the porch, when they ran their swords through his body, and left him dead.</p>
+<p>He knew them to he his wife’s brothers, one a dragoon, the other a musketeer; so he ran immediately to save himself; but the two brothers pursued so closely, that they overtook him before he could get to the steps of the porch, when they ran their swords through his body, and left him dead.</p>
 <p>The poor wife was almost as dead as her husband, and had not strength enough to rise and welcome her brothers. Blue Beard had no heirs, and so his wife became mistress ot all his estate. She made use of one part of it to marry her sister Anne to a young gentleman, who had loved her a longwhile; another part, to buy captains’ commissions for her brothers; and the rest, to marry herself to a very worthy gentleman, who made her forget the ill time she had passed with Blue Beard.</p>
 </div>
 <p>The Grimm’s <em>Robber Bridegroom</em>, however, does seem to work better as a possible straight tell, for me at least:</p>
-<div class="admonition-the-robber-bridegroom-1826 admonition">
+<div class="dropdown admonition">
 <p class="admonition-title">The Robber Bridegroom, 1826</p>
 <p><a class="reference external" href="https://archive.org/details/german-popular-stories-volume-2-1826/page/198/mode/2up">https://archive.org/details/german-popular-stories-volume-2-1826/page/198/mode/2up</a>
 German Popular Stories, translated from the Kinder und Haus Marchen, collected by M. M. Grimm, volume 2, 1826</p>
 <p>pp. 199-205</p>
 <p>THE ROBBER-BRIDEGROOM.</p>
 <p>There was once a miller who had a pretty daughter; and when she was grown up, he thought to himself, “If a seemly man should come to ask her for his wife, I will give her to him that she may be taken care of.” Now it so happened that one did come, who seemed to be very rich, and behaved very well; and as the miller saw no reason to find fault with him, he said he should have. his daughter. Yet the maiden did not love him quite so well as a bride ought to love her bridegroom, but, on the other hand, soon began to feel a kind of inward shuddering whenever she saw or thought of him.</p>
-<p>One day he said to her, “Why do you not come and see my home, since you are to be my bride?” “I do not know where your house is,” said the girl. “Tis out there,” ‘said her bridegroom,“‘yonder, in the dark green wood.” Then she began to try and | avoid going, and said, “But I cannot find the way thither.” “Well, but you must come and see me next Sunday,” said the bridegroom; “I have asked some guests to meet you, and that you may find your way through the wood, I will strew ashes for you along the path.”</p>
-<p>When Sunday came and the maiden was to go out, she felt very much troubled, and took care to put on two pockets, and filled them with peas and beans. She soon came to the wood, and found her peth strewed with ashes; so she followed the track, and at every step threw a-pea on the right and a bean on the left side of the road; and thus she journeyed on the whole day till she came to a house which stood in the middle of the dark-wood. She saw no one within, and all was quite still, till on a sudden she heard a voice cry,</p>
+<p>One day he said to her, “Why do you not come and see my home, since you are to be my bride?” “I do not know where your house is,” said the girl. “Tis out there,” said her bridegroom, “yonder, in the dark green wood.” Then she began to try and avoid going, and said, “But I cannot find the way thither.” “Well, but you must come and see me next Sunday,” said the bridegroom; “I have asked some guests to meet you, and that you may find your way through the wood, I will strew ashes for you along the path.”</p>
+<p>When Sunday came and the maiden was to go out, she felt very much troubled, and took care to put on two pockets, and filled them with peas and beans. She soon came to the wood, and found her path strewed with ashes; so she followed the track, and at every step threw a pea on the right and a bean on the left side of the road; and thus she journeyed on the whole day till she came to a house which stood in the middle of the dark-wood. She saw no one within, and all was quite still, till on a sudden she heard a voice cry,</p>
 <p>“Turn again, bonny bride!<br />
 Turn again home!<br />
 Haste from the robber’s<br />
@@ -502,17 +519,17 @@ Haste away home!!”.</p>
 Turn again home!<br />
 Haste from the robber’s den,<br />
 Haste away home!”</p>
-<p>However, the bride went in, and reamed along from one room to another, and so over all the house; but it was quite empty, and not a soul could she see. At last she came to a room where a very very old woman was sitting. “ Pray, can you tell me, my good woman,” said she, “if my bridegroom lives here?” “Ah! my dear child!” said the old woman, “you are come to fall into the trap laid for you: your wedding can only be with Death, for the robber will surely take away your life; if I do not save you, you are lost!” So she hid the bride behind a large cask, and then said to her, “Do not. stir or move yourself at all, lest some harm should befall you; and when the robbers are asleep we will run off; I have long wished to get away.” She had hardly done this when the robbers came in, and brought another young maiden with them. that had been ensnared like the bride. Then they began to feast and drink, and were deaf to her shrieks and groans: and they gave her some wine to drink, three glasses, one of white, one of red, and one of yellow; upon which she fainted and fell down dead. Now the bride began to grow very uneasy behind the cask, and thought that she too must die in her turn. Then the one that was to be her bridegroom saw that there was a gold ring on the little finger of the maiden they had murdered; and as he tried to snatch it off, it flew up in the air and fell down again behind the cask just in the bride’s lap. So he took a light and searched about all round the room for it, but could not find any thing; and another of the robbers said, “Have you looked behind. the. large cask yet?” “Pshaw!” said the old woman, “come, sit still and eat your supper now, and leave the ring alone till to-morrow; it won’t run away, I’ll warrant.” So the robbers gave up the search, and went on with their eating and drinking; but the old woman dropped a sleeping-draught into their wine, and they laid themselves down and slept, and snored. roundly. And when the bride heard this, she stepped out from behind the cask; and as she was forced to walk over the sleepers, who were lying about on the floor, she trembled lest she should awaken some of them. But heaven aided her, so that she soon got through her danger; and the old woman went up stairs with her, and they both ran away from this murderous den. The ashes that had been strewed were now all blown away, but the peas and beans had taken root and were springing up, and showed her the way by the light of the moon. So they walked the whole night, and in the morning reached the mill; when the bride told her father all that had happened to her. As soon as the day arrived when the wedding was to take place, the bridegroom came; and the miller gave orders that all his friends and relations should be asked to the feast. And as they were all sitting at table, one of them proposed thateach of the guests should tell some tale. Then the bridegroom said to the bride, when it came to her turn, “Well, my dear, do you know nothing? come, tell us some story.” “Yes,” answered she, “I can tell you a dream that I dreamt. I once thought I was going through a wood, and went on and on till I came to a house where there was not a soul to be seen, but a bird in a cage, that cried out twice,</p>
+<p>However, the bride went in, and reamed along from one room to another, and so over all the house; but it was quite empty, and not a soul could she see. At last she came to a room where a very very old woman was sitting. “Pray, can you tell me, my good woman,” said she, “if my bridegroom lives here?” “Ah! my dear child!” said the old woman, “you are come to fall into the trap laid for you: your wedding can only be with Death, for the robber will surely take away your life; if I do not save you, you are lost!” So she hid the bride behind a large cask, and then said to her, “Do not. stir or move yourself at all, lest some harm should befall you; and when the robbers are asleep we will run off; I have long wished to get away.” She had hardly done this when the robbers came in, and brought another young maiden with them. that had been ensnared like the bride. Then they began to feast and drink, and were deaf to her shrieks and groans: and they gave her some wine to drink, three glasses, one of white, one of red, and one of yellow; upon which she fainted and fell down dead. Now the bride began to grow very uneasy behind the cask, and thought that she too must die in her turn. Then the one that was to be her bridegroom saw that there was a gold ring on the little finger of the maiden they had murdered; and as he tried to snatch it off, it flew up in the air and fell down again behind the cask just in the bride’s lap. So he took a light and searched about all round the room for it, but could not find any thing; and another of the robbers said, “Have you looked behind. the. large cask yet?” “Pshaw!” said the old woman, “come, sit still and eat your supper now, and leave the ring alone till to-morrow; it won’t run away, I’ll warrant.” So the robbers gave up the search, and went on with their eating and drinking; but the old woman dropped a sleeping-draught into their wine, and they laid themselves down and slept, and snored. roundly. And when the bride heard this, she stepped out from behind the cask; and as she was forced to walk over the sleepers, who were lying about on the floor, she trembled lest she should awaken some of them. But heaven aided her, so that she soon got through her danger; and the old woman went up stairs with her, and they both ran away from this murderous den. The ashes that had been strewed were now all blown away, but the peas and beans had taken root and were springing up, and showed her the way by the light of the moon. So they walked the whole night, and in the morning reached the mill; when the bride told her father all that had happened to her. As soon as the day arrived when the wedding was to take place, the bridegroom came; and the miller gave orders that all his friends and relations should be asked to the feast. And as they were all sitting at table, one of them proposed thateach of the guests should tell some tale. Then the bridegroom said to the bride, when it came to her turn, “Well, my dear, do you know nothing? come, tell us some story.” “Yes,” answered she, “I can tell you a dream that I dreamt. I once thought I was going through a wood, and went on and on till I came to a house where there was not a soul to be seen, but a bird in a cage, that cried out twice,</p>
 <p>‘Turn again, bonny bride!<br />
 Turn again home!<br />
 Haste from the robber’s den,<br />
 Haste away home!”</p>
-<p>“I only dreamt that, my love. Then I went through all the rooms, which were quite empty, until I came to a room where there sat a very old woman; and I said to her, ‘Does my bridegroom live here?’ but she answered, ‘Ah! my dear child! you have fallen intha murderer’s snare; your bridegroom will surely kill you;’—I only dreamt that, my love. But she hid me behind a large cask; and hardly had she done this, when. the robbers came in, dragging a young woman along with them; then they gave her three kinds of wine to drink, white, red, and yellow, till she fell dead upon the ground;—I only dreamt that, my love. After they had done this, one of the robbers saw that there was a gold ring on her little finger, and snatched at it; but it flew up to the ceiling, and then fell behind the great cask just where I was, and into my lap; and here is the ring!” At these words she brought out the ring and showed it to the guests,</p>
+<p>“I only dreamt that, my love. Then I went through all the rooms, which were quite empty, until I came to a room where there sat a very old woman; and I said to her, ‘Does my bridegroom live here?’ but she answered, ‘Ah! my dear child! you have fallen intha murderer’s snare; your bridegroom will surely kill you;’—I only dreamt that, my love. But she hid me behind a large cask; and hardly had she done this, when. the robbers came in, dragging a young woman along with them; then they gave her three kinds of wine to drink, white, red, and yellow, till she fell dead upon the ground;—I only dreamt that, my love. After they had done this, one of the robbers saw that there was a gold ring on her little finger, and snatched at it; but it flew up to the ceiling, and then fell behind the great cask just where I was, and into my lap; and here is the ring!” At these words she brought out the ring and showed it to the guests.</p>
 <p>When the robber saw all this, and heard what she said, he grew as pale as ashes with fright, and wanted to run off; but the guests held. him fast and gave him up to justice, so that he and all his gang met with the due reward of their wickedness.</p>
 <p>Note, p. 253</p>
 <p>The Robber Bridegroon. p: 199. “Der Raiiberbraütigam” of MM. Grimm. This tale has a general affinity to that of <em>Bluebeard</em>, most of the incidents of which story are found in others of the German collection. It should, perhaps, be observed, that in the original, the <em>finger</em> is chopped off, and is carried away by the bride, as well as the ring upon it.</p>
 </div>
-<p>For another take on the Ronber Bridegroom tale, a gypsy tale collected from Noah Lock by Thomas William Thompson, that appears as the first in a series of <em>English Gypsy Folk-Tales, and other Traditional Stories</em> in the <em>Journal of the Gypsy Lore Society</em>.</p>
+<p>For another take on the Robber Bridegroom tale, a gypsy tale collected from Noah Lock by Thomas William Thompson, that appears as the first in a series of <em>English Gypsy Folk-Tales, and other Traditional Stories</em> in the <em>Journal of the Gypsy Lore Society</em>.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">The Robber and the Housekeeper, 1914-5</p>
 <p><a class="reference external" href="https://archive.org/details/journalgypsylorensv8-1914-15/page/n221/mode/2up">https://archive.org/details/journalgypsylorensv8-1914-15/page/n221/mode/2up</a>
@@ -531,17 +548,17 @@ Publication date (1914—1915)</p>
 <p>Now when the master an’ mistress come home agen it was only nat’ral-like ‘at the first thing they should ax was, how had their little baby been this long time. ‘Oh! quite well,’ says’ the housekeeper, for she didn’t like to say nothink about the robbers. But the tother sarvant she wa’n’t agen telling, so she up an’ towld the whole story. When the master heeard this he was very pleased at the way the housekeeper had done to the robbers. He should make her comfor’able for the rest ‘n her life, he said, an’ she should have a house ‘n her own near by to his, an’ no more work to do, that was not unless she had a mind to, an’ she shouldn’t want for nothink, he said, as long as he had money to buy it wid. So soon a’ter he had a very tidy soart ‘n a house builded in his own grounds, an’ this he gi’ed to the housekeeper for her very own, to do as she liked wid.</p>
 <p>Whatever to you, the robber as had run away an’ missed getting killed, he put a ‘vartisement into the papers saying as how he’d like to find a job as coachman wid some gentleman; he was very used to horses, he said, and a good stidy driver. Now it just so happened as the gentleman what lived in the mansion next to the one where the housekeeper was stood in want ‘n a coachman, so when he seen the ‘vartisement into the papers he sent for the robber, an’ gi’ed him a month’s trial, an’ when the month was up he took him on for good.</p>
 <p>Afoare long this robber gets on wid the housekeeper, and goes courting her very strong. An’ she gets rale sweet on him, her not knowing like who he is, for he was a very good-looking man, an’ pleasant spoken enough when it suited his parpose. A’ter a bit he axes her, will she marry him. She doesn’t say ‘yes,’ nor yet she doesn’t say ‘no,’ but she goes straight to her master an’ tells him all, an’ axes him: ‘what shall I do?’ ‘Oh! that’s soon answered,’ he says. ‘If you ‘re fond ‘n him,’ he says, ‘then marry him. But if you don’t like him,’ he says, ‘then don’t marry him.’</p>
-<p>‘Oh! I love him,’ she says. ‘Well then,’ he says, ‘that being the state o’ ‘fairs you go an tell him you ‘ll have him.’ So she did, and afoare long they got married, an’ went to live in the house what the gentleman’d had builded for her.</p>
+<p>‘Oh! I love him,’ she says. ‘Well then,’ he says, ‘that being the state o’ ‘fairs you go an tell him you’ll have him.’ So she did, and afoare long they got married, an’ went to live in the house what the gentleman’d had builded for her.</p>
 <p>At first they was very happy of course like everybody is. About six months passed, an’ then one day the robber tells his wife as he’s going to take her to see his delations. ‘You know, my dear, he says, ‘we now been married this long time, an’ I ha’n’t as much as set eyes on one ‘n my own people from that day to this.</p>
 <p>They must think it strange ‘n we not going over to see ‘em.’ ‘Yes, dear,’ she says, ‘we ought to go, and I’m sure it’ll be a great pleasure to me.’ ‘It will,’ he says, and away he goes to harness the pony, an’ yoke it. She gets up into the trap besides him, and off they sets.</p>
 <p>He drives on and on over mountains and all manner o’ wild lonesome places all that day, and all the next day, and all the day a’ter that agen. About the fourth day she begins to be a bit anazy in her mind, an’ wonders, poor thing, wherever they can be going to, an’ whenever will they get there. She works herself up into sich a state till at last she bursts out crying; she couldn’t keep it in no longer. ‘Oh! my dear husband,’ she says, ‘where are we going to, an’ however much farther is it?’ ‘Be quiet, woman,’ he says, ‘you’ll find out just now; an’ plenty soon enough that’ll be, for if you only but knew what was to happen to you when we get to my brother’s house you wouldn’t be fretting your heart out to get there.’ ‘Oh! my dear,’ she says,’ whatever is up with you talking so strange-like.’ ‘Well, if you will know,’ he says, ‘it was you murdered my two brothers, and now we’re a-going to take us vengeance on you.’ At that she begun crying agen, an’ begging him on her bended knees to take her back home, but he didn’t take not a bit o’ notice on her, only towld her to stop her hollering, or it would be the worse for her.</p>
 <p>In about another day they comes to the robbers’ house, an’ the robbers they takes an’ shuts up the housekeeper in a room, an’ strips her stark mother naked, an’ ties her up to the ceiling by the hairs ‘n her head, an’ leaves her there, whils’ they go an’ talk over what kind o’ death they shall put her to. Whatsumever, they hadn’t tied her hands, so as soon as they’re gone out ‘n the room she gets to work breaking her hairs, two or three at a time, bit by bit, till at last she works herself loose. She opens the window as quiet as ever she can, an’ Lord! she was a-frightened for fear they should hear her, but they didn’t, so she gets out. She takes a good look round to make cartain as nobody is watching her, an’ then away she runs as fast as her legs can take her, away back on the road they’d come.</p>
 <p>Whatever to you, she might be gone from the robbers’ house p’r’aps three or four hours, an’ she was fair fit to drop, an’ all of a faint, when she comes up wid an owld man driving a cart all full o’ nothink only but apples. An’ she towld this owld man ‘bout the state she was in—which there wa’n’t no need for, as he’d got eyes an’ could see for hisself—an’ how she was running away from some robbers as was going to take her life, an’ where it was she was wanting to get to. ‘Oh!’ she says, ‘if only you could find it in your heart to do a kindness to a poor woman in trouble, an’ help her on her way a bit! ‘ The owld man was very sorry for her, an’ so, being as he was going her road, he towld her to jump up besides him, which she did pretty quick as you can guess. An’ he shifts the apples away from one side ‘n the cart, an’ tells her to lay herself down there, an’ she does, an’ he covers her all over wid the apples.</p>
 <p>He drives on now, an’ for about two days they goes on and on over the mountains an’ places, an’ never sets eyes on a soul. Then a fine gentleman on horseback comes up wid they. It was the robber this was, an’ the owld man knowed it well enough, for he was cunning owld fellow. He’d heeard the horse coming along behind him all the while, but he hadn’t as much as turned round. ‘My good man,’ says the robber, ‘have you seen annythink on a woman going stark mother naked?’ ‘ N—o,’ the owld man answers him, an’ goes driving on. ‘But she’s come this road,’ says the robber, ‘an’ she must ha’ passed you somewheres, for she isn’t behind you.’ The owld man pulls up. ‘Well,’ he says, ‘now I come to think ‘n it, I seen somethink yesterday what looked very funny; I couldn’t make nothink on it. Somethink white it was, ‘way back on the owld road right over yonder, miles an’ miles back. What it was though I couldn’t say, I’m sure.’ ‘Ah!’ says the robber, ‘that must ha’ been her,’ an’ wi’ that he puts spurs to his horse, an’ gallops off to look for her down the owld side road, what was many an’ many a mile back.</p>
-<p>The owld man laughs to hisself an’ goes on agen, an’ he gets a long way on afoare the robber comes up wid him a second time. ‘Stop, you owld white-headed rascal,’ he shouts, the robber does, cussing an’ swearing somethink awful; ‘you been telling me lies for a parpose.’ ‘No,’ says the owld man, ‘that I ha’n’t, for I ha’n’t never towld you no lies at all.’  Well anyhow,’ says the robber, ‘the woman ha’n’t gone that road what you towld me.’ ‘Well, I never said as she had,’ says the owld man, very quiet-like. ‘All I said was I seen some funny white thing along the owld road. It was you yourself,’ he says, ‘as said it must be her.’ ‘Ah!’ says the robber, ‘I can see you got moare knowledge on her nor what you lets on, you owld varmint. I shouldn’t wonder if you ha’n’t got her in your cart all the time.’ ‘No I ha’n’t,’ says the owld man; ‘but if you don’t put no trust in my words p’r’aps you’ll believe your own eyes. Look,’ he says, an’ he pulls off the cover off ‘n his cart, an’ shows the robber his cart full of apples. ‘She’s not here, is she now?’ ‘No,’ says the robber, ‘I can’t see nothink only but apples.’ Then a’ter this the robber leaves him, an’ the owld man drives on now till he comes to the place where the housekeeper lives.</p>
+<p>The owld man laughs to hisself an’ goes on agen, an’ he gets a long way on afoare the robber comes up wid him a second time. ‘Stop, you owld white-headed rascal,’ he shouts, the robber does, cussing an’ swearing somethink awful; ‘you been telling me lies for a parpose.’ ‘No,’ says the owld man, ‘that I ha’n’t, for I ha’n’t never towld you no lies at all.’ Well anyhow,’ says the robber, ‘the woman ha’n’t gone that road what you towld me.’ ‘Well, I never said as she had,’ says the owld man, very quiet-like. ‘All I said was I seen some funny white thing along the owld road. It was you yourself,’ he says, ‘as said it must be her.’ ‘Ah!’ says the robber, ‘I can see you got moare knowledge on her nor what you lets on, you owld varmint. I shouldn’t wonder if you ha’n’t got her in your cart all the time.’ ‘No I ha’n’t,’ says the owld man; ‘but if you don’t put no trust in my words p’r’aps you’ll believe your own eyes. Look,’ he says, an’ he pulls off the cover off ‘n his cart, an’ shows the robber his cart full of apples. ‘She’s not here, is she now?’ ‘No,’ says the robber, ‘I can’t see nothink only but apples.’ Then a’ter this the robber leaves him, an’ the owld man drives on now till he comes to the place where the housekeeper lives.</p>
 <p>Whatever to you, the first thing the housekeeper does is to go an’ tell her owld master everythink what has happened to her, an’ she begs him to save her from the robber. ‘My dear,’ he says very kind-like, ‘don’t you think no moare about it. You must stay here,’ he says, ‘in my house, an’ you shall have everythink what you wants—plenty to eat an’ to drink, an’ plenty o’ grand clothes to wear, an’ a lady companion to be wid you always. And as for the robber,’ he says,’just leave him to me; I’ll see to it as he don’t do you no harm. I got a plan for catching him,’ he says; ‘it’s just now come into my head.’</p>
-<p>An’ wid that he goes off, an’ orders bills to be put out everywheres, on every barn-doar, and every tree, and every gate-post for miles an’ miles round, saying as on sich-an’-sich a day’ he’ll give a big feast, and as everybody is axed to it, rich an’ poor, they ‘ll all be made welcome. Now it gets on an’ gets on ‘till it’s only but two days afoare the feast is to be gi’ed, when the robber he comes back agen into them parts, an’ of course it’s not long till he sees the bills. He goes to his wife’s house, but it’s empty. Well, he thinks it over to hisself, as the best he can do is to reguise hisself an’ go to this feast; she is sure to be there, he thinks, an’ he can watch her where she goes a’ter when it is over.</p>
-<p>On the night ‘n the feast there is the housekeeper, all dressed in silks an’ satins, an’ her lady companion at her side, walking up an’ down, up an’ down, in the grand hall where the supper is laid. An’ the master he is standing at the doar shaking hands wid everybody as they comes in. Of course they’re both ‘n they looking out for the robber. Now it’s a curious thing that though they seen everybody as come in they didn’t see the robber among ‘em, neither the one nor yet the tother didn’t. And agen when all the guests is sat down to the tables they both walks back’ards an’ for’ards, an’ back’ards an’ for’ards, an’ they has a good look at everybody, an’ yet they can’t find him, though they knew as he must be in the room somewheres. ‘Well, this is ancominon strange/ says the master; ‘but I ‘ll find him yet afoare the night is out, just you see.’</p>
+<p>An’ wid that he goes off, an’ orders bills to be put out everywheres, on every barn-doar, and every tree, and every gate-post for miles an’ miles round, saying as on sich-an’-sich a day’ he’ll give a big feast, and as everybody is axed to it, rich an’ poor, they’ll all be made welcome. Now it gets on an’ gets on ‘till it’s only but two days afoare the feast is to be gi’ed, when the robber he comes back agen into them parts, an’ of course it’s not long till he sees the bills. He goes to his wife’s house, but it’s empty. Well, he thinks it over to hisself, as the best he can do is to reguise hisself an’ go to this feast; she is sure to be there, he thinks, an’ he can watch her where she goes a’ter when it is over.</p>
+<p>On the night ‘n the feast there is the housekeeper, all dressed in silks an’ satins, an’ her lady companion at her side, walking up an’ down, up an’ down, in the grand hall where the supper is laid. An’ the master he is standing at the doar shaking hands wid everybody as they comes in. Of course they’re both ‘n they looking out for the robber. Now it’s a curious thing that though they seen everybody as come in they didn’t see the robber among ‘em, neither the one nor yet the tother didn’t. And agen when all the guests is sat down to the tables they both walks back’ards an’ for’ards, an’ back’ards an’ for’ards, an’ they has a good look at everybody, an’ yet they can’t find him, though they knew as he must be in the room somewheres. ‘Well, this is ancominon strange/ says the master; ‘but I’ll find him yet afoare the night is out, just you see.’</p>
 <p>Now a’ter when they’d all eaten till they couldn’t eat no moare, an’ drunk most all the wine, the master he g6ts up from his place, an’ he begins to make a bit ‘n a speech. ‘I been greatly pleased,’ he says, ‘wid your comp’ny here to-night. An’ now,’ he says, ‘afoare you go—and I shall be very sorry to have to part from you —the’s just one thing. I’m now going to call for a toast,’ he says, ‘which I wants all ‘n you here present, <em>every one ‘n you</em>, to drink standing up, <em>wid yowr left hands flat open above your heads, so</em>.’ It was a cunning trick this was, for the robber you see had the two first fingers ‘n his left hand cut off by the middle joints, so that when they all stood up an’ raised their hands to drink the toast he was fun’ out. The master tells his sarvants to seize him, an’ he sends to fatch a rigiment o’ soldiers, an’ they comes, an’ they shoots him. An’ that was the end ‘n the robber.</p>
 </div>
 </section>
@@ -644,8 +661,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>

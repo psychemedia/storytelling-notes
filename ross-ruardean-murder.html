@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!--
-    this give us a css class that will be invisible only if js is disabled
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -67,7 +64,6 @@
     <link rel="prev" title="Who Killed the Bear?" href="ross-who-killed-the-bear.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -83,8 +79,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -92,6 +99,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -99,8 +107,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -116,8 +124,7 @@
       
       
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -147,11 +154,15 @@
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -190,6 +201,8 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Gipsy Tales</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="devils-violin.html">The Devil’s Violin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Show Outlines</span></p>
 <ul class="nav bd-sidenav">
@@ -199,14 +212,13 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="woolpit-green.html">The Green Children of Woolpit</a></li>
 <li class="toctree-l1"><a class="reference internal" href="undutiful-daughter.html">The Undutiful Daughter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="fairy_midwife.html">The Fairy Midwife</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
 <li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
-<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
-<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 </ul>
@@ -225,6 +237,7 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Practice and performance notes</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="practice-on-not-sharing-digitally-pt1.html">On not sharing digitally, part 1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="setlists.html">Setlists</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Storynotes Collections</span></p>
 <ul class="nav bd-sidenav">
@@ -237,14 +250,9 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
-      <div class="sidebar-primary-item">
-<div id="ethical-ad-placement"
-      class="flat"
-      data-ea-publisher="readthedocs"
-      data-ea-type="readthedocs-sidebar"
-      data-ea-manual="true">
-</div></div>
   </div>
+  
+  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -341,16 +349,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 <button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
@@ -405,7 +421,7 @@
 <p>We found it was not very unusual here for the young men, from the deficiency of numbers just spoken of, to pay their devoirs to more than one young woman at a time; and as it is not possible for him legally to unite himself to all of them, he generally bestows his hand on her who had first presented him with a pledge of their love.</p>
 <p>This, however, is seldom done till the approach of a second pledge from the same person renders such an act of compassion needful, in order to avoid the consequences of the tremendous anathema fixed on the church door.</p>
 </div></blockquote>
-<p>At the time — the late eighteenth century — an unmarried mother could seek “child support” from  the father by identifying him as such to the Parish authorities. They would then attempt to hold the father financially responsible for the child, or at least expect him to contribute to the child’s upkeep.If no support was forthcoming, the Parish would then step in to provide support, although the mother may also gfind herself committed to the workhouse. In the case Hassell describes, it seems that the officers of the Godshill parish were attempting to minimise the costs to the parish from supporting women who had had multiple children out of wedlock to different fathers by committing them to a Bridewell — which is to say, a house of correction, or a prison — rather than a workhouse.</p>
+<p>At the time — the late eighteenth century — an unmarried mother could seek “child support” from the father by identifying him as such to the Parish authorities. They would then attempt to hold the father financially responsible for the child, or at least expect him to contribute to the child’s upkeep.If no support was forthcoming, the Parish would then step in to provide support, although the mother may also gfind herself committed to the workhouse. In the case Hassell describes, it seems that the officers of the Godshill parish were attempting to minimise the costs to the parish from supporting women who had had multiple children out of wedlock to different fathers by committing them to a Bridewell — which is to say, a house of correction, or a prison — rather than a workhouse.</p>
 <p>But things were to change. The new Poor Law of 1834 made single mothers responsible for the upkeep of their illegitimate children: charges could no longer be made against the unnmarried father for “child support”, as had traditionally been the case, and the parish would neither pursue the father for such monies, nor provide support to the mother or child: if a single woman could not support herself and her child, she would have to go to the workhouse.</p>
 <p>Opponents of the Bill claimed that such a change in the law would lead to an increase in the concealment of births, neonaticide (the murder of a child during the first day of life following birth) and infanticide: some proportion of mothers unable to look after their illegitimate offspring would now no doubt feel forced into taking this drastic course of action.</p>
 <div class="admonition seealso">
@@ -439,7 +455,7 @@ Freeman’s Journal - Thursday 10 November 1842</p>
 <p>“A woman named Fanny Bennett, residing at Ruardean Woodside, who is at present apparently on her death-bed, and feeling remorse of conscience in the prospect of eternity, has confessed having, at different periods, murdered six of her own children by poison. The cruel monster was left a widow, and has cohabited with a collier who is at present in custody, and who is supposed to have been privy to one or more of the horrid murders. The remains of two of the unfortunate children were, according to the directions of their inhuman parent, found near a barn-door belonging to her premises, two under the brewhouse, and the other two in another part of the premises. At the period of one of the murders the mother kept an ale-house, and used the sign as part of a coffin. An inquest was held on the remains of the ill-fated innocents on Tuesday last, but we have not heard the result.”</p>
 </div>
 <p>A couple of weeks later, in a front page article on “Mal-administration of justice”, the <em>Illustrated London News</em> of December 3rd, 1824, further commented on the case, quoting a leader in <em>The Times</em> that appeared to call out something of the process by which the magistrates had attempted to get a restatemnt of France Bennett’s confession whilst in the presence of Thomas Yapp:</p>
-<div class="admonition-a-visit-from-the-magistrates-november-1842 admonition">
+<div class="dropdown admonition">
 <p class="admonition-title">A visit from the magistrates, November 1842</p>
 <p><a class="reference external" href="https://archive.org/details/sim_illustrated-london-news_1842-12-03_1_30/mode/2up">https://archive.org/details/sim_illustrated-london-news_1842-12-03_1_30/mode/2up</a>
 Illustrated London News  1842-12-03: Vol 1 Iss 30
@@ -465,7 +481,7 @@ Gloucestershire Chronicle - Saturday 12 November 1842</p>
 <p class="admonition-title">A privileged confession, November 1842</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0000398/18421116/013/0003">https://britishnewspaperarchive.co.uk/viewer/bl/0000398/18421116/013/0003</a>
 Hereford Journal - Wednesday 16 November 1842</p>
-<p>Confessions. —A point altogether novel as respects the Ministers of our Protestant Church, has arisen out of the recent discovery of numerous cases of infanticide in the Forest of Dean. It appears that the wretched woman, Frances Bennett, the avowed murderess of six of her helpless offspring, made some further confession to the Rev. H. Formby, the Curate of Ruardean, which that gentleman, looking upon it in the light of a privileged spiritual communication, declines to divulge. The question therefore arises, Is he either legally or morally bound to do so? We think he is both, if the disclosures will in any way further the ends of justice—if it will remove any painful suspense which has long hung over some “pent-up guilt,” or wipe away the stain which has perhaps rested on some innocent person’s memory. In any, or all, of these cases, independently of the undoubted requirements of English law, Mr. Formby is, we apprehend, bound as a Christian  to make the disclosure. If the confession relates only to some private moral guilt now affecting no-one but the prisoner, thare may be some ground for the contrary opinion which has been expressed, but otherwise Mr. Formby stands precisely in the same position as any other witness in a court of justice, and is required to speak the <em>whole truth</em>. We were once cognizant of the case of a clergyman to whom a murderer made a confession, but which fact the minister declined to divulge to us or any <em>individual</em>, even his nearest relative; when, however, required to do so before a jury, he unhesitatingly gave evidence to that effect, and the criminal was convicted. Any other course indeed would have been a perversion of justice, and an act of the most grievous wrong. It was Dr. Murray, we think, who in his evidence before a parliamentary committee stated that although a Roman Catholic priest would use his best exertions to prevent the commission of murder any other crime, yet he would feel bound not to disclose anything uttered the confessional. This is a dangerous system, and God forbid that the corruption of auricular confession should ever be introduced into the Church of England! She has hitherto gone on very well without it, and will continue to do so. The very end and object of an acknowledgment of guilt is to afford reparation, and how is that to be effected by concealment ou the part the person to whom facts are communicated? Even if private feeling would be appeased, how is the wrong done to the public to be expiated? In this respect, the spiritual adviser is in the same position as any one entrusted with the administration of the law: the offender, indeed, is not to be restrained from making the confession, but he ought to be informed that doing so he incurs all the temporal consequences that may result from his acknowledgment.</p>
+<p>Confessions. —A point altogether novel as respects the Ministers of our Protestant Church, has arisen out of the recent discovery of numerous cases of infanticide in the Forest of Dean. It appears that the wretched woman, Frances Bennett, the avowed murderess of six of her helpless offspring, made some further confession to the Rev. H. Formby, the Curate of Ruardean, which that gentleman, looking upon it in the light of a privileged spiritual communication, declines to divulge. The question therefore arises, Is he either legally or morally bound to do so? We think he is both, if the disclosures will in any way further the ends of justice—if it will remove any painful suspense which has long hung over some “pent-up guilt,” or wipe away the stain which has perhaps rested on some innocent person’s memory. In any, or all, of these cases, independently of the undoubted requirements of English law, Mr. Formby is, we apprehend, bound as a Christian to make the disclosure. If the confession relates only to some private moral guilt now affecting no-one but the prisoner, thare may be some ground for the contrary opinion which has been expressed, but otherwise Mr. Formby stands precisely in the same position as any other witness in a court of justice, and is required to speak the <em>whole truth</em>. We were once cognizant of the case of a clergyman to whom a murderer made a confession, but which fact the minister declined to divulge to us or any <em>individual</em>, even his nearest relative; when, however, required to do so before a jury, he unhesitatingly gave evidence to that effect, and the criminal was convicted. Any other course indeed would have been a perversion of justice, and an act of the most grievous wrong. It was Dr. Murray, we think, who in his evidence before a parliamentary committee stated that although a Roman Catholic priest would use his best exertions to prevent the commission of murder any other crime, yet he would feel bound not to disclose anything uttered the confessional. This is a dangerous system, and God forbid that the corruption of auricular confession should ever be introduced into the Church of England! She has hitherto gone on very well without it, and will continue to do so. The very end and object of an acknowledgment of guilt is to afford reparation, and how is that to be effected by concealment ou the part the person to whom facts are communicated? Even if private feeling would be appeased, how is the wrong done to the public to be expiated? In this respect, the spiritual adviser is in the same position as any one entrusted with the administration of the law: the offender, indeed, is not to be restrained from making the confession, but he ought to be informed that doing so he incurs all the temporal consequences that may result from his acknowledgment.</p>
 </div>
 <p>The story was also picked up by <em>The Nonconformist</em> — strapline <em>“The dissidence of dissent and the protestantism of the protestant religion.”</em>, price <em>6d.</em> — presumably becuase of the involvement of the Rev. Henry Formby in having taken Frances bennett’s confession.</p>
 <div class="dropdown admonition">
@@ -545,7 +561,7 @@ Lloyd’s Weekly Newspaper - Sunday 04 December 1842</p>
 <section id="the-curate-s-actions-become-a-matter-of-debate">
 <h2>The Curate’s Actions Become a Matter of Debate<a class="headerlink" href="#the-curate-s-actions-become-a-matter-of-debate" title="Link to this heading">#</a></h2>
 <p>As well as the horror demonstrated over the reports of Bennett’s crimes, there was also considerable levels of debate being rasied over the actions of the curate who had taken her confession not once, but twice, and who had refused to relay anything she had disclosed to him that had not already been made public.</p>
-<div class="admonition-properly-maintaining-the-sanctity-of-religious-confidence-november-1842 admonition">
+<div class="dropdown admonition">
 <p class="admonition-title">Properly maintaining the sanctity of religious confidence, November 1842</p>
 <p><a class="reference external" href="https://archive.org/details/sim_illustrated-london-news_1842-11-12_1_27/page/422/mode/2up">https://archive.org/details/sim_illustrated-london-news_1842-11-12_1_27/page/422/mode/2up</a>
 Illustrated London News  1842-11-12: Vol 1 Iss 27, p. 422
@@ -715,8 +731,7 @@ Gloucestershire Chronicle - Saturday 15 April 1843</p>
             
             
               
-                <dialog id="pst-secondary-sidebar-modal"></dialog>
-                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
   <div class="sidebar-secondary-item">
@@ -780,8 +795,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>

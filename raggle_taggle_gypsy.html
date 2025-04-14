@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!--
-    this give us a css class that will be invisible only if js is disabled
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -63,11 +60,10 @@
     <script>DOCUMENTATION_OPTIONS.pagename = 'raggle_taggle_gypsy';</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Brother Jucundus" href="brother_jucundus.html" />
+    <link rel="next" title="Unforeseen Consequences — Verging on Nonsense" href="unforeseen-nonsense.html" />
     <link rel="prev" title="Macpherson’s Rant" href="macpherson.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -83,8 +79,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -92,6 +99,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -99,8 +107,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -116,8 +124,7 @@
       
       
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -147,11 +154,15 @@
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -188,8 +199,10 @@
 <li class="toctree-l1"><a class="reference internal" href="bendigeidfran_branwen_second_branch.html">Bendigeidfran and Branwen</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Gipsy Tales</span></p>
-<ul class="nav bd-sidenav">
+<ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="devils-violin.html">The Devil’s Violin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Raggle Taggle Gypsy</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Show Outlines</span></p>
 <ul class="nav bd-sidenav">
@@ -199,14 +212,13 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="woolpit-green.html">The Green Children of Woolpit</a></li>
 <li class="toctree-l1"><a class="reference internal" href="undutiful-daughter.html">The Undutiful Daughter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="fairy_midwife.html">The Fairy Midwife</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
-<ul class="current nav bd-sidenav">
+<ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
 <li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
-<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
-<li class="toctree-l1 current active"><a class="current reference internal" href="#">Raggle Taggle Gypsy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 </ul>
@@ -225,6 +237,7 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Practice and performance notes</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="practice-on-not-sharing-digitally-pt1.html">On not sharing digitally, part 1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="setlists.html">Setlists</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Storynotes Collections</span></p>
 <ul class="nav bd-sidenav">
@@ -237,14 +250,9 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
-      <div class="sidebar-primary-item">
-<div id="ethical-ad-placement"
-      class="flat"
-      data-ea-publisher="readthedocs"
-      data-ea-type="readthedocs-sidebar"
-      data-ea-manual="true">
-</div></div>
   </div>
+  
+  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -341,16 +349,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 <button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
@@ -446,7 +462,7 @@ I’m away with the raggle taggle gypsy-o!”</p>
 <div class="seealso dropdown admonition">
 <p class="admonition-title">A telling</p>
 <blockquote>
-<div><p>There is, or was, in the Cassilis family’s winter home in the small market town of Maybole, once capital of the ancient district of Carrick, 10 miles or so south of Ayr, in south-west Scotland,  a fragment of tapestry, depicting a beautiful young woman astride a majestic white horse, arms clasped round the waist of her handsome lover, a party of gaily clothed men riding with them.</p>
+<div><p>There is, or was, in the Cassilis family’s winter home in the small market town of Maybole, once capital of the ancient district of Carrick, 10 miles or so south of Ayr, in south-west Scotland, a fragment of tapestry, depicting a beautiful young woman astride a majestic white horse, arms clasped round the waist of her handsome lover, a party of gaily clothed men riding with them.</p>
 <p>You can sense their happiness, their excitement at riding together, their love of life, and their love for each other. It is said that those tapestries were stitched by the former Lady Cassilis herself. It is said, that the walls of her room were covered from floor to ceiling with panels of similar scenes.</p>
 <p>Years before, the young Lady Jean Hamilton was very much in love with a dashing young knight. John Faa was his name, <em>Sir</em> John Faa, of nearby Dunbar. Jean was still too young to marry, but still they betrothed themselves to each other. But Jean’s father was less than enamoured with the young knight, and favoured a more advantageous partnership, in the form of a marriage to the Earl of Cassilis.</p>
 <p>Who knows what strategies Lady Jean used to try to put her father off this idea — “I can’t marry him; it wouldn’t be right; you all saw what the fifth earl did to his wife — he beat her senseless, <em>and</em> suffered the penalty for it, so you can’t say he didn’t; he treated her worse than he would his dog; would you have me, would you have your own daughter, treated that same way?”</p>
@@ -465,7 +481,7 @@ I’m away with the raggle taggle gypsy-o!”</p>
 <p>“So, I joined up with these men, told them my story… And as we travelled around, we made a plan… To come here. To get you. So come with us; come with <em>me</em>… You don’t have to stay here any more. We can be together, like we always said we would.”</p>
 <p>It is said, or is often sung, that the gypsies beguiled the lady, that she left with them under some enchantment.</p>
 <p>It is said, or it is sung, that when the Earl returned home to find his wife had left with a raggle taggle band of men, that he’d saddled his fastest black horse and set off in search of them.</p>
-<p>That when he eventually found them, he wondered of his wife how she could leave her house? and her lands? her finery and her finances? And that she replied that she was happier without them, that all she needed was her raggle taggle gypsy. And that off they then, into the sunset together, and presumably lived happily ever after.</p>
+<p>That when he eventually found them, he wondered of his wife how she could leave her house? and her lands? her finery and her finances? And that she replied that she was happier without them, that all she needed was her raggle taggle gypsy. And that off they then went, into the sunset together, and presumably lived happily ever after.</p>
 <p>But the <em>story</em> tells a different tale.</p>
 <p>It tells of how the Earl of Cassilis and his men found the gypsy gang at a ford, at a crossing place of stepping stones over the river Doon, at a place that came to be known as the Gypsies’ steps. Cassilis may well have asked his wife what she thought she was doing, but he also took Sir John Faa and the gypsy men as prisoners. And only one managed escaped.</p>
 <p>At this time in Scotland, the Lord of the manor was the man who determined the law of the land thereabouts. The Earl of Cassilis was just such a landowner; and as the law, personified, he saw fit to punish John Faa.</p>
@@ -571,7 +587,7 @@ And we were a’ put down for ane,<br />
 For the Earl o’ Cassilis’ leddie.”</p>
 <p>JOHNNIE FAA, THE GYPSIE LADDIE.</p>
 <p>The ballad of Johnnie Faa was first printed in Allan Ramsay’s Tea Table Miscellany In 1724. Several different versions have since appeared, particularly one in Finlay’s Scottish Ballads, 1S08; another under the title of “Gypsie Davie,” in Motherwell’s Minstrelsy, 1827, and a third from the recitation of Mr. John Martin, the celebrated painter, in the Songs of Scotland, 1835. The occurrence, in the family of the Earl of Cassilis, on which the ballad is said to have been founded, is thus related in “Chambers’s Picture of Scotland”:—</p>
-<p>“John, the sixth Earl of Cassilis, a stern Covenanter, and of whom it is reported by Bishop Burnet that he never would permit his language to be understood but in its direct sense, obtained to wife lady Jean Hamilton, a daughter of Thomas, first Earl of Haddington, a man of singular genius, who had raised himself from the Scottish bar to a peer age and the best fortune of his time. The match, as is probable from the character of the parties, seems to have been one dictated by policy; for Lord Haddington was anxious to connect himself with the older peers, and Lord Cassilis might have some such anxiety to be allied to his father-in-law’s good estates ; the religion and politics of the parties, moreover, were the same. It is therefore not very likely that Lady Jean herself had much to say in the bargain. On the contrary, says report, her affections were shamefully violated. She had been previously beloved by a gallant young knight, a Sir John Faa of Dunbar, who had perhaps seen her at her father’s seat of Tynningham, which is not more than three miles from that town. When several years were spent and gone, and Lady Cassilis had brought her husband three children, this passion led to a dreadful catastrophe. Her youthful lover, seizing an opportunity when the Earl was attending the Assembly of Divines at Westminster, came to Cassilis Castle, a massive old tower on the banks of the Doon, four miles from Maybole, then the principal residence of the family, and which is still to be seen in its original state. He was disguised as a gypsy, and attended by a band of these desperate outcasts. In the words of the ballad,</p>
+<p>“John, the sixth Earl of Cassilis, a stern Covenanter, and of whom it is reported by Bishop Burnet that he never would permit his language to be understood but in its direct sense, obtained to wife lady Jean Hamilton, a daughter of Thomas, first Earl of Haddington, a man of singular genius, who had raised himself from the Scottish bar to a peer age and the best fortune of his time. The match, as is probable from the character of the parties, seems to have been one dictated by policy; for Lord Haddington was anxious to connect himself with the older peers, and Lord Cassilis might have some such anxiety to be allied to his father-in-law’s good estates; the religion and politics of the parties, moreover, were the same. It is therefore not very likely that Lady Jean herself had much to say in the bargain. On the contrary, says report, her affections were shamefully violated. She had been previously beloved by a gallant young knight, a Sir John Faa of Dunbar, who had perhaps seen her at her father’s seat of Tynningham, which is not more than three miles from that town. When several years were spent and gone, and Lady Cassilis had brought her husband three children, this passion led to a dreadful catastrophe. Her youthful lover, seizing an opportunity when the Earl was attending the Assembly of Divines at Westminster, came to Cassilis Castle, a massive old tower on the banks of the Doon, four miles from Maybole, then the principal residence of the family, and which is still to be seen in its original state. He was disguised as a gypsy, and attended by a band of these desperate outcasts. In the words of the ballad,</p>
 <p>The gypsies cam to the Yerl o’ Cassilis’ yett,
 And, oh, but they sang sweetly;<br />
 They sang sae sweet and sae complete,<br />
@@ -755,7 +771,7 @@ Wi’ a’ her maids before her,<br />
 As soon as they saw her weelfar’d face.<br />
 They cuist their glamourie ower her.”</p>
 <p>It is said that the lady Jean Hamilton previous to her marriage with the ear1, had been betrothed to a gallant young knight, a Sir John Faa of Dunbar, which town was not more than three miles distant from her father’s seat of Tynningham. When the earl of Cassillis offered for her, the match was esteemed so advantageous that she was commanded by her father to break off her former engagement; but she areanged with her lover that he should go to the continent, under a solemn pledge that he would return in a few months. Two full years, however, passed away, without any tidings of or from him, and a letter having been received from the English ambassador at Madrid, giving assurance of his death by the hands of some bravos, the lady at last reluctantly consented to marry the earl. Finding that the countess preferred solitude to his society, he is said to have treated her with the utmost indifference. One evening as she was taking her accustomed walk on the battlements of the castle of Cassillis. on the left bank of the Doon, she descried a band of gypsies hastily approaching. Such bands were very common at that period, but the number and suspicious appearance of this company were calculated to create considerable alarm, the more especially as the earl was from home, attending the assembly of divines at Westminster. On arriving at the house, however, instead of offering violence, they commenced some of their wild strains, and the countess was in the act of dropping some pieces of money from the window to them, when all at once she recognised in their leader, the tall commanding figure of her former lover, Sir John Faa. An interview immediately took place, and the mysterious cause of his long absence was fully explained. He had been confined for four years in the Inquisition, on account of some unguarded expression he had used respecting the church of Rome. On obtaining his liberty he hastened to London, where he learned for the first time that she was married. He prevailed upon her to elope with him; but they had not proceeded far when the earl most unexpectedly arrived with a powerful retinue. He immediately pursued the fugitives, whom he speedily overtook, and after a short encounter captured the whole party, but one, at a ford over the Doon, still called “the Gypsies’ steps,” a few miles from the castle. Sir John Faa and his followers, fifteen in all, were hanged on a tree, known by the name of the “dule,” or dolor, tree, a splendid and most umbrageous plane, which still flourishes on a little knoll in front of the castle gate; while the countess was compelled by her husband to survey from a window the dreadful scene. The particular room in the stately old house where the unhappy lady endured this torture is still called “the Countess’ room.” After a short confinement in that apartment, a house at Maybole, which formed the earl’s winter residence, and which is now occupied by the factor of the family, was fitted up for her reception, by the addition of a fine projecting stair-case, upon which were carved fifteen heads representing those of her lover and his band. Being removed thither she there languished out the short remainder of her life in strict confinement. She is said to have occupied herself in working a prodigious quantity of tapestry, so as to have completely covered the walls of her prison. In this she represented her unhappy flight, but with circumstances unsuitable to the details of the ballad, for she is shown mounted behind her lover, gorgeously attired, on a superb white horse, and surrounded by a group of persons who bear no resemblance to a band of gypsies. This fragmentary piece of old tapestry, which is said still to be preserved at Culzean Castle, seems to owe its name and interest to the inventive faculties of the housekeepers, who of course have the old tradition by rote, and connect the countess with what never may have had the slightest relation to her.</p>
-<p>The above version of the story is different from that recited in the ballad, which is supposed to have been composed by the only one of the band who escaped. There is extant a letter from the earl to the Rev. Robert Douglas, written shortly after his first wife’s death, in which he expresses a respect and tenderness for her memory quite inconceivable had she been guilty of endeavoring to elope from him; so that it is very doubtful if the Lady Jean Hamilton was the “frail fair one “ after all. A portrait of the countess is shown at Holyi-ond house, but its authenticity is doubted. It is thought rather to be a portrait of Lady Sunderland, the Sacharissa of Waller. Another portrait of the countess, said to be a correct likeness, is preserved at Culzean castle. An engraving of it is given in Constable’s Scots Magazine for 1817, from which the following woodcut is taken:</p>
+<p>The above version of the story is different from that recited in the ballad, which is supposed to have been composed by the only one of the band who escaped. There is extant a letter from the earl to the Rev. Robert Douglas, written shortly after his first wife’s death, in which he expresses a respect and tenderness for her memory quite inconceivable had she been guilty of endeavoring to elope from him; so that it is very doubtful if the Lady Jean Hamilton was the “frail fair one” after all. A portrait of the countess is shown at Holyi-ond house, but its authenticity is doubted. It is thought rather to be a portrait of Lady Sunderland, the Sacharissa of Waller. Another portrait of the countess, said to be a correct likeness, is preserved at Culzean castle. An engraving of it is given in Constable’s Scots Magazine for 1817, from which the following woodcut is taken:</p>
 <p><img alt="Lady Jean Hamilton" src="_images/lady_jean_hamilton.png" /></p>
 </div>
 <div class="dropdown admonition">
@@ -992,7 +1008,7 @@ Although we were nae bonnie;<br />
 And we were a’ put doun for ane,<br />
 A fair young wanton lady.</p>
 </div>
-<p>As well as the the tale and the song, <em>The ballad minstrelsy of Scotland</em> provides extensive notes regarding other editions in which the song may be found:</p>
+<p>As well as the tale and the song, <em>The ballad minstrelsy of Scotland</em> provides extensive notes regarding other editions in which the song may be found:</p>
 <div class="dropdown admonition">
 <p class="admonition-title">In <em>The ballad minstrelsy of Scotland</em>, 1871</p>
 <p><a class="reference external" href="https://archive.org/details/balladminstrelsy00glasiala/page/616/mode/2up?q=%22John+fall%22+cassilis">https://archive.org/details/balladminstrelsy00glasiala/page/616/mode/2up?q=”John+fall”+cassilis</a>
@@ -1001,7 +1017,7 @@ Publication date [1871]</p>
 <p>p616-9</p>
 <p>JOHNNIE FAA.</p>
 <p>Great variety and contrariety of opinion exists regarding the period of the following ballad. Mr. Paterson, in his <em>Ballads and Songs of Ayrshire</em>, states that he is “inclined to date back the circumstance” to the time of James V., which monarch furnished “Johnnie Faw, Lord and Erie of Little Egypt,” with a letter, under the Privy Seal, dated February 15th, 1540, “establishing his authority over the tribe, and calling upon all Sheriffs and persons in authority in Scotland to ‘assist him in exicutione of justice vpon his company and folkis.’”</p>
-<p>Another account brings it down to about one hundred years later, by assuming the heroine to be Lady Jean Hamilton, a daughter of Thomas, first Earl of Haddington, who was married to “the grave and solemn “ John, sixth Earl of Cassilis. One version of the story accords with the ballad, in alleging that the Countess eloped with a real gypsy; but other accounts state that the bold Lothario was a Sir John Fall, of Dunbar, a former and favoured lover of the lady. Those who are disposed to favour a later date are, however, at variance as to the precise time; some connecting it with the execution of Johnnie Faa, and seven of his tribe, who were tried and condemned at Edinburgh in January, 1624; while Dr. Robert Chambers states that “the gallant young knight” <code class="docutils literal notranslate"><span class="pre">[He</span> <span class="pre">is</span> <span class="pre">also</span> <span class="pre">styled</span> <span class="pre">&quot;Her</span> <span class="pre">youthful</span> <span class="pre">lover.&quot;</span> <span class="pre">But</span> <span class="pre">as</span> <span class="pre">the</span> <span class="pre">Countess,</span> <span class="pre">if</span> <span class="pre">she</span> <span class="pre">had</span> <span class="pre">lived,</span> <span class="pre">would</span> <span class="pre">then</span> <span class="pre">have</span> <span class="pre">been</span> <span class="pre">in</span> <span class="pre">her</span> <span class="pre">thirty-sixth</span> <span class="pre">or</span> <span class="pre">thirty-seventh</span> <span class="pre">year,</span> <span class="pre">the</span> <span class="pre">youth</span> <span class="pre">of</span> <span class="pre">her</span> <span class="pre">assumed</span> <span class="pre">lover</span> <span class="pre">does</span> <span class="pre">not</span> <span class="pre">appear</span> <span class="pre">very</span> <span class="pre">probable,</span> <span class="pre">although</span> <span class="pre">not</span> <span class="pre">impossible.]</span></code> seized “an opportunity when the Earl was attending the Assembly of Divines at Westminster” (1643), that he came “disguised as a gypsy, and attended by a band of these desperate outcasts,” or, as others say, by a party so disguised.</p>
+<p>Another account brings it down to about one hundred years later, by assuming the heroine to be Lady Jean Hamilton, a daughter of Thomas, first Earl of Haddington, who was married to “the grave and solemn” John, sixth Earl of Cassilis. One version of the story accords with the ballad, in alleging that the Countess eloped with a real gypsy; but other accounts state that the bold Lothario was a Sir John Fall, of Dunbar, a former and favoured lover of the lady. Those who are disposed to favour a later date are, however, at variance as to the precise time; some connecting it with the execution of Johnnie Faa, and seven of his tribe, who were tried and condemned at Edinburgh in January, 1624; while Dr. Robert Chambers states that “the gallant young knight” <code class="docutils literal notranslate"><span class="pre">[He</span> <span class="pre">is</span> <span class="pre">also</span> <span class="pre">styled</span> <span class="pre">&quot;Her</span> <span class="pre">youthful</span> <span class="pre">lover.&quot;</span> <span class="pre">But</span> <span class="pre">as</span> <span class="pre">the</span> <span class="pre">Countess,</span> <span class="pre">if</span> <span class="pre">she</span> <span class="pre">had</span> <span class="pre">lived,</span> <span class="pre">would</span> <span class="pre">then</span> <span class="pre">have</span> <span class="pre">been</span> <span class="pre">in</span> <span class="pre">her</span> <span class="pre">thirty-sixth</span> <span class="pre">or</span> <span class="pre">thirty-seventh</span> <span class="pre">year,</span> <span class="pre">the</span> <span class="pre">youth</span> <span class="pre">of</span> <span class="pre">her</span> <span class="pre">assumed</span> <span class="pre">lover</span> <span class="pre">does</span> <span class="pre">not</span> <span class="pre">appear</span> <span class="pre">very</span> <span class="pre">probable,</span> <span class="pre">although</span> <span class="pre">not</span> <span class="pre">impossible.]</span></code> seized “an opportunity when the Earl was attending the Assembly of Divines at Westminster” (1643), that he came “disguised as a gypsy, and attended by a band of these desperate outcasts,” or, as others say, by a party so disguised.</p>
 <p>With reference to the earlier date, it can scarcely be supposed that the lady, who was born in 1607, had formed such an ardent attachment, abandoned, or been forced to abandon it, married, and given birth to two or three children, by or before she was seventeen years of age; while the latter date is disposed of by the fact that she died towards the close of 1642, as is shown by letters to and from the Earl, wherein his “great losse and heavy visitation” in the death of his “beloved yoke-fellow,” as he pathetically styles her in one letter, or his “deir bed-fellow,” as he touchingly designates her in another, is mutually and feelingly deplored. But these letters not only demolish the “Westminster Assembly of Divines” period theory, but also the allegation of Lady Jean Hamilton being “the frail fair one” at all. They also show that the usually accurate Professor Child is in error, in stating that “letters are in existence, written by the Earl of Cassilis to the Lady Jean after the date of these events, which prove the subsistence of a high degree of mutual affection and confidence,” — the reference probably being to the letters anent her death.</p>
 <p>Another ballad editor, Mr. J. S. Roberts, in his <em>Legendaiy Ballads</em>, p. 510, referring to the letter “issued under the Privy Seal by James the Fifth” in favour of “Johnnie Faa,” pathetically and judicially, though neither accurately nor judiciously, adds that this did not save him from meeting a bad end; as we find that, in 1624, Captain Johnnie Faa, and seven of his tribe, were tried as “vagaboundis, someris, common theieves, callit, knawin, repute, and halden Egiptianes,” and hanged, as they no doubt deserved to be.</p>
 <p>Whether any Lady or Countess of Cassilis eloped in the manner described, was captured at “the Gypsies’ Steps,” <code class="docutils literal notranslate"><span class="pre">[Dr.</span> <span class="pre">Chambers</span> <span class="pre">writes:</span> <span class="pre">&quot;Most</span> <span class="pre">unfortunately</span> <span class="pre">(!),</span> <span class="pre">ere</span> <span class="pre">they</span> <span class="pre">had</span> <span class="pre">proceeded</span> <span class="pre">very</span> <span class="pre">far,</span> <span class="pre">the</span> <span class="pre">Earl</span> <span class="pre">came</span> <span class="pre">home,</span> <span class="pre">and</span> <span class="pre">learning</span> <span class="pre">the</span> <span class="pre">fact</span> <span class="pre">[of</span> <span class="pre">the</span> <span class="pre">elopement]</span> <span class="pre">immediately</span> <span class="pre">set</span> <span class="pre">out</span> <span class="pre">in</span> <span class="pre">pursuit.&quot;</span> <span class="pre">He</span> <span class="pre">also</span> <span class="pre">refers</span> <span class="pre">to</span> <span class="pre">the</span> <span class="pre">&quot;Gypsies'</span> <span class="pre">Steps,&quot;</span> <span class="pre">as</span> <span class="pre">distant</span> <span class="pre">&quot;a</span> <span class="pre">few</span> <span class="pre">miles</span> <span class="pre">from</span> <span class="pre">the</span> <span class="pre">Castle,&quot;</span> <span class="pre">and</span> <span class="pre">the</span> <span class="pre">&quot;capture&quot;</span> <span class="pre">as</span> <span class="pre">occurring</span> <span class="pre">there,</span> <span class="pre">both</span> <span class="pre">of</span> <span class="pre">which</span> <span class="pre">Mr.</span> <span class="pre">Paterson</span> <span class="pre">corrects,</span> <span class="pre">stating</span> <span class="pre">&quot;that</span> <span class="pre">they</span> <span class="pre">are</span> <span class="pre">not</span> <span class="pre">half</span> <span class="pre">a</span> <span class="pre">mile.</span> <span class="pre">Besides,</span> <span class="pre">tradition</span> <span class="pre">does</span> <span class="pre">not</span> <span class="pre">say</span> <span class="pre">that</span> <span class="pre">they</span> <span class="pre">were</span> <span class="pre">taken</span> <span class="pre">there.&quot;</span> <span class="pre">—</span> <span class="pre">'Ballads</span> <span class="pre">and</span> <span class="pre">Songs</span> <span class="pre">of</span> <span class="pre">Ayrshire',</span> <span class="pre">part</span> <span class="pre">i.,</span> <span class="pre">p.</span> <span class="pre">16.]</span></code> brought back, doomed to witness the execution of her lover and his companions “upon the Dule Tree,” divorced <em>a mensa et thoro</em>, imprisoned for life in the Castle of Maybole, employed her leisure hours in working the story of her flight in tapestry, or in gazing on the stone representation of the Gypsies’ heads, carved at the instance of her outraged lord, are facts or fancies which it seems impossible to expiscate and demonstrate, so as to establish the accuracy of the one, or dispel the phantasy of the other.</p>
@@ -1103,11 +1119,11 @@ A fair young wanton ladye. <code class="docutils literal notranslate"><span clas
       </div>
     </a>
     <a class="right-next"
-       href="brother_jucundus.html"
+       href="unforeseen-nonsense.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Brother Jucundus</p>
+        <p class="prev-next-title">Unforeseen Consequences — Verging on Nonsense</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -1118,8 +1134,7 @@ A fair young wanton ladye. <code class="docutils literal notranslate"><span clas
             
             
               
-                <dialog id="pst-secondary-sidebar-modal"></dialog>
-                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
   <div class="sidebar-secondary-item">
@@ -1179,8 +1194,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>

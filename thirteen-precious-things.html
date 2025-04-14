@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!--
-    this give us a css class that will be invisible only if js is disabled
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -64,10 +61,9 @@
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Molly Whuppie" href="molly-whuppie.html" />
-    <link rel="prev" title="The Undutiful Daughter" href="undutiful-daughter.html" />
+    <link rel="prev" title="The Fairy Midwife" href="fairy_midwife.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -83,8 +79,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -92,6 +99,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -99,8 +107,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -116,8 +124,7 @@
       
       
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -147,11 +154,15 @@
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -190,6 +201,8 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Gipsy Tales</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="devils-violin.html">The Devil’s Violin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Show Outlines</span></p>
 <ul class="nav bd-sidenav">
@@ -199,14 +212,13 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="woolpit-green.html">The Green Children of Woolpit</a></li>
 <li class="toctree-l1"><a class="reference internal" href="undutiful-daughter.html">The Undutiful Daughter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="fairy_midwife.html">The Fairy Midwife</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
 <li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
-<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
-<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 </ul>
@@ -225,6 +237,7 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Practice and performance notes</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="practice-on-not-sharing-digitally-pt1.html">On not sharing digitally, part 1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="setlists.html">Setlists</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Storynotes Collections</span></p>
 <ul class="nav bd-sidenav">
@@ -237,14 +250,9 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
-      <div class="sidebar-primary-item">
-<div id="ethical-ad-placement"
-      class="flat"
-      data-ea-publisher="readthedocs"
-      data-ea-type="readthedocs-sidebar"
-      data-ea-manual="true">
-</div></div>
   </div>
+  
+  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -341,16 +349,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 <button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
@@ -446,15 +462,15 @@
 <div class="dropdown admonition">
 <p class="admonition-title">Chess references in <em>Ancient Irish Minstrelsy</em>, 1852</p>
 <p>In <em>Ancient Irish Minstrelsy</em>, William Hamilton Drummond, 1852, <a class="reference external" href="https://archive.org/details/ancientirishmins00drumrich/page/50/mode/2up">p50-1 footnote</a>:</p>
-<p>The game of chess is repeatedly noticed in connexion with various historical incidents in the early history of Ireland, Theophilus O’Flanagan, in a note to his translation of Deirdri, an ancient Irish tale published in the transactions of the Gaelic Society of Dublin, speaks of it as a “ military game that engages the mental faculties, like mathematical science.” O’Flaherty’s Ogygia states that Cathir, the 120th king of Ireland, left among his bequests to Crimthan “two chess-boards with their chess-men distinguished with their specks and power: on which account he was constituted master of the games in Leinster.”</p>
+<p>The game of chess is repeatedly noticed in connexion with various historical incidents in the early history of Ireland, Theophilus O’Flanagan, in a note to his translation of Deirdri, an ancient Irish tale published in the transactions of the Gaelic Society of Dublin, speaks of it as a “military game that engages the mental faculties, like mathematical science.” O’Flaherty’s Ogygia states that Cathir, the 120th king of Ireland, left among his bequests to Crimthan “two chess-boards with their chess-men distinguished with their specks and power: on which account he was constituted master of the games in Leinster.”</p>
 <p>In the first book of Homer’s Odyssey the suitors are described as amusing themselves with the game of chess:—</p>
 <p>With rival art and ardour in their mein,<br />
 At chess they vie to captivate the queen,<br />
 Divining of their loves.</p>
 <p>In Pope’s translation there is a learned note on the subject, to which the curious reader is referred; and also toa passage in Vallancey’s Essay on the Celtic Language.</p>
 <p>The Welch appear to have been passionately addicted to this game, as appears from the frequent notice of it in the Mabinogion, translated by Lady Charlotte Guest. Some of the chess boards described in that work were magnificent, and endowed with magical properties.</p>
-<p>When Peredur entered the hall of the castle, “ he beheld a chess board in the hall, and the chessmen were playing against each other, by themselves. And the side that he favoured lost the game, and thereupon the others set up a shout, as though they had been living men.”</p>
-<p>Among the thirteen precious things of the Island of Britain was the chess board of Gwenddolen, the celebrated beauty of Arthur’s court. “ When the men were placed upon it, they would play of themselves. The chess board was of gold and the men of silver.” “In the romance of Sir Gaheret, that champion is entertained in the enchanted castle of a beautiful fairy, who engages him in a party at chess, in a large hall, where flags of black and white marble form the chequer, and the pieces, consisting of massive statues of gold and silver, move at the touch of the magic rod held by the player.”? In the Irish version of Nennius, translated for the Irish Archeological Society by James Henthorn Todd, D.D., M.R.1.A., additional notes, p. xvi, the Roman Emperor Maximus is described as having a wonderful dream “ of a fine city, and in it a hall or palace of great splendour; and in the hall were two bay-haired youths playing chess, on a chess board of silver, with chessmen of gold. They were dressed in black, with frontlets of red gold on their hair and precious stones therein. At the foot of the column supporting the hall sat a grey-haired man on an ivory throne, with golden bracelets, chain, and frontlet, and with a golden chess board on his breast, and in his hand a golden wand and a steel saw; and he was carving chessmen. A maiden sat opposite to him in a golden chair, arrayed in white silk and jewels. Maximus sat down in the chair beside her, and threw his arms round her neck; and at this moment of his dream awoke.”</p>
+<p>When Peredur entered the hall of the castle, “he beheld a chess board in the hall, and the chessmen were playing against each other, by themselves. And the side that he favoured lost the game, and thereupon the others set up a shout, as though they had been living men.”</p>
+<p>Among the thirteen precious things of the Island of Britain was the chess board of Gwenddolen, the celebrated beauty of Arthur’s court. “When the men were placed upon it, they would play of themselves. The chess board was of gold and the men of silver.” “In the romance of Sir Gaheret, that champion is entertained in the enchanted castle of a beautiful fairy, who engages him in a party at chess, in a large hall, where flags of black and white marble form the chequer, and the pieces, consisting of massive statues of gold and silver, move at the touch of the magic rod held by the player.”? In the Irish version of Nennius, translated for the Irish Archeological Society by James Henthorn Todd, D.D., M.R.1.A., additional notes, p. xvi, the Roman Emperor Maximus is described as having a wonderful dream “of a fine city, and in it a hall or palace of great splendour; and in the hall were two bay-haired youths playing chess, on a chess board of silver, with chessmen of gold. They were dressed in black, with frontlets of red gold on their hair and precious stones therein. At the foot of the column supporting the hall sat a grey-haired man on an ivory throne, with golden bracelets, chain, and frontlet, and with a golden chess board on his breast, and in his hand a golden wand and a steel saw; and he was carving chessmen. A maiden sat opposite to him in a golden chair, arrayed in white silk and jewels. Maximus sat down in the chair beside her, and threw his arms round her neck; and at this moment of his dream awoke.”</p>
 <p>This was a dream—but when the emperor conquered Britain the whole of it was realized.</p>
 </div>
 </section>
@@ -505,12 +521,12 @@ Divining of their loves.</p>
                   
 <div class="prev-next-area">
     <a class="left-prev"
-       href="undutiful-daughter.html"
+       href="fairy_midwife.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">The Undutiful Daughter</p>
+        <p class="prev-next-title">The Fairy Midwife</p>
       </div>
     </a>
     <a class="right-next"
@@ -529,8 +545,7 @@ Divining of their loves.</p>
             
             
               
-                <dialog id="pst-secondary-sidebar-modal"></dialog>
-                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
   <div class="sidebar-secondary-item">
@@ -589,8 +604,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>

@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!--
-    this give us a css class that will be invisible only if js is disabled
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -67,7 +64,6 @@
     <link rel="prev" title="Tales of the Press Gang" href="press_gang.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -83,8 +79,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -92,6 +99,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -99,8 +107,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -116,8 +124,7 @@
       
       
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -147,11 +154,15 @@
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -190,6 +201,8 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Gipsy Tales</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="devils-violin.html">The Devil’s Violin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Show Outlines</span></p>
 <ul class="nav bd-sidenav">
@@ -199,14 +212,13 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="woolpit-green.html">The Green Children of Woolpit</a></li>
 <li class="toctree-l1"><a class="reference internal" href="undutiful-daughter.html">The Undutiful Daughter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="fairy_midwife.html">The Fairy Midwife</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
 <li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
-<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
-<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 </ul>
@@ -225,6 +237,7 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Practice and performance notes</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="practice-on-not-sharing-digitally-pt1.html">On not sharing digitally, part 1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="setlists.html">Setlists</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Storynotes Collections</span></p>
 <ul class="nav bd-sidenav">
@@ -237,14 +250,9 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
-      <div class="sidebar-primary-item">
-<div id="ethical-ad-placement"
-      class="flat"
-      data-ea-publisher="readthedocs"
-      data-ea-type="readthedocs-sidebar"
-      data-ea-manual="true">
-</div></div>
   </div>
+  
+  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -341,16 +349,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 <button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
@@ -407,7 +423,7 @@
 <section id="robbery-at-may-hill">
 <h2>Robbery at May Hill<a class="headerlink" href="#robbery-at-may-hill" title="Link to this heading">#</a></h2>
 <p>Our story begins with an otherwise innocuous report of a local robbery, from a home in May Hill, near Mitcheldean, in the Forest of Dean.</p>
-<p><img alt="OS Map, May Hill, north-east of Mitcheldean, OS Map Sheet 234 - Gloucester. Surveyed: 1877 to 1887, Revised: 1896, Published: 1898, https://maps.nls.uk/geo/explore/print/#zoom=13.3&amp;lat=51.87313&amp;lon=-2.48369&amp;layers=1&amp;b=ESRIWorld&amp;o=100" src="images/may-hill-forest-os-map.png" /></p>
+<p><img alt="OS Map, May Hill, north-east of Mitcheldean, OS Map Sheet 234 - Gloucester. Surveyed: 1877 to 1887, Revised: 1896, Published: 1898, https://maps.nls.uk/geo/explore/print/#zoom=13.3&amp;lat=51.87313&amp;lon=-2.48369&amp;layers=1&amp;b=ESRIWorld&amp;o=100" src="_images/may-hill-forest-os-map.png" /></p>
 <div class="dropdown admonition">
 <p class="admonition-title">Alleged robbery at May Hill, May, 1905</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0002067/19050511/104/0004">Ross Gazette - Thursday 11 May 1905</a></p>
@@ -492,7 +508,7 @@ MRS. MARKEY RETURNS HOME.</p>
 <p>The people residing about that portion of the West of England known as the Forest of Dean are notoriously superstitious, and from time to time incidents proving this have occurred. A remarkable story now comes from the usually peaceful parish of May Hill, in West Gloucestershire. Some time ago, the tale goes, a farmer reported that he had lost £50. from his house, someone having taken from its secret hiding place the key to the box in which his wealth was stored, and abstracted £50. Suspicion fell on a resident, whose house was searched, but without any trace of the money being discovered. Then it was suggested that a “witch” should be consulted, and the suggestion was acted upon, with results more disastrous to the farmer and his family than the thief. Immediately the “witch” arrived on the scene the farmer’s daughter and grand-daughter, both married women, showed unmistakable evidences of madness, and soon the former had removed to Gloucester Asylum, whilst the latter was taken to Newent Workhouse Hospital. The same morning the farmer’s wife suddenly left home, and in spite of a whole day’s search by Inspector Dennis, of the Gloucester Police, and a staff of constables and many neighbours and friends, her whereabouts remained undiscovered. She returned home, however, on Monday evening in a very exhausted condition, having subsisted on the green leaves of the wood and a little water from a ditch. She had both seen and heard the searchers, she said, but was too terrified to discover her whereabouts to them. As showing the state of the poor woman’s mind, the correspondent understands that, replying to an enquiry why she carried a hazel stick in her hand, she said it was to keep the witches away.</p>
 <p>The latest victim of this drama is the farmer’s son. His first wife died about two years ago in Gloucester Asylum, and it was only on Easter Monday that he married a Blakeney Hill girl. The supposed “visitation of evil spirits” upon his father’s farm, he seems to have imagined, would also fall to his lot, and for his own protection he also possessed himself a quantity of twigs with which to keep the witches away. After he had created a disturbance on May Hill, two brothers brought him to Blakeney on Wednesday evening, where he behaved very strangely, eventually injuring himself by running his head against a large iron spike. This so upset his young wife and her mother that they made arrangements to beat a hasty retreat. Imagining that she, too, was the object of the attention of the witch, the man frantically implored his distressed wife to seize the hazel stick and to pray frequently that she might escape the evil spirit.</p>
 <p>It is not surprising to hear, after all this, that the whole country-side is now in a state of foment, and stories are being told of the mysterious smashing of windows and the destruction of other property.</p>
-<p>The “witch” who is believed to have wrought all this mischief resides in a  remote part of the Forest of Dean, and pilgrimages are frequently made to her by persons who imagine that the old lady has powers of divination, or, at any rate, can gave a friendly lead in unravelling mysterious matters. After the latest samples of her handiwork her trade may be expected to suffer a decline.</p>
+<p>The “witch” who is believed to have wrought all this mischief resides in a remote part of the Forest of Dean, and pilgrimages are frequently made to her by persons who imagine that the old lady has powers of divination, or, at any rate, can gave a friendly lead in unravelling mysterious matters. After the latest samples of her handiwork her trade may be expected to suffer a decline.</p>
 </div>
 <p>The still intrigued London press provided a recap of the story so far in the weekend papers, albeit with slightly garbled facts in the case of the <em>Daily Mirror</em>:</p>
 <div class="dropdown admonition">
@@ -521,7 +537,7 @@ MRS. MARKEY RETURNS HOME.</p>
 <p>This amazing story of “witcheraft” comes from Newnham-on-Severn, Gloucestershire, where a middle-aged laborer named George Markey has been pronounced insane by Dr. Carleton, the medical officer.</p>
 <p>Markey is one of a large family, and married his second wife, a Gloucestershire girl, only last Easter.</p>
 <p>His old parents live at a village called May Hill, on the west side of Gloucester, where they occupied a small farm.</p>
-<p>Some time ago this farmer reported the loss of some £50 from his secret store of savings; and when no clue could be obtained to the thief, the services of a “witch “ are said to have been called in.</p>
+<p>Some time ago this farmer reported the loss of some £50 from his secret store of savings; and when no clue could be obtained to the thief, the services of a “witch” are said to have been called in.</p>
 <p>Madness Begins.</p>
 <p>The result has been strange and unforeseen. Immediately the alleged “witch”—who was really a poor widow woman—arrived on the scene, the farmer’s daughter and granddaughter are said to have shown unmistakeable evidences of madness, and one had to be removed to the asylum at Gloucester.</p>
 <p>Then the wife of Mr. Markey, sen., became affected in the same way, and ran away to the woods, where she remained in hiding from the police, who were sent in search of her. After this the son, already referred to, was found to be similarly affected; and he became such a terror to his wife and the neighbors that it was judged necessary to place him under restraint.</p>
@@ -568,7 +584,8 @@ MRS. MARKEY RETURNS HOME.</p>
 </div>
 <p>Reporters for the Daily Mirror also appeared to have been on the case, securing not just a comment from the old woman, but also a photograph of her, along with her dog, as well as photographs of Mr. Markey and various members of his family:</p>
 <figure class="align-default" id="id1">
-<a class="reference internal image-reference" href="_images/old_ellen.png"><img alt="A photograph of Old Ellen, May 1905" src="_images/old_ellen.png" style="width: 414.0px; height: 512.0px;" /></a>
+<a class="reference internal image-reference" href="_images/old_ellen.png"><img alt="A photograph of Old Ellen, May 1905" src="_images/old_ellen.png" style="width: 414.0px; height: 512.0px;" />
+</a>
 <figcaption>
 <p><span class="caption-number">Fig. 1 </span><span class="caption-text">A woman of seventy, known as Old Ellen, who lives in the Forest of Dean, is alleged to have bewitched the family of Farmer Markey, of May Hill, near Cinderford. Owing to her wiles, it is said, Markey has become bedridden, and his son, daughter, and granddaughter have been rendered insane. No. 1 is a portrait of Old Ellen, the reputed witch; No. 2 shows Farmer Markey at work in his garden; and No. 3 is a photograph of his son and niece.</span><a class="headerlink" href="#id1" title="Link to this image">#</a></p>
 <div class="legend">
@@ -663,7 +680,7 @@ MRS. MARKEY RETURNS HOME.</p>
 <p>Whereas there have been certain cruel and scandalous allegations circulated about me, which are destined to do me very serious harm, I would like to state that I am the “Old Ellen” referred to in the local and other papers. The statements made are absolutely false and unfounded, and I would like to say I have been living in the Forest of Dean for 30 years, for 19 years at the above address; and have gained my livelihood for 45 years as a herbalist, also a dresser of cuts, sores, and wounds, of which I have cured some hundreds, both far and near. I am widely known through Gloucestershire and surrounding counties, and I wish to emphatically deny that I am a witch (so cruelly called by the Press), nor am I a fortune teller or hand reader. I have no knowledge of such pagan ideas; I have no power or ability to bewitch anyone, nor do I believe to any such thing. I am only as others of my unfortunate sex—human. I have a knowledge of phrenology, but from this I get no portion of my living, which is obtained solely as before stated. I make no charge, but leave it entirely to these who have required my services to give me as they please. The Press stated that I had been to May Hill to a Markey family. This I deny, as I have not been to May Hill for over eight years. I never saw the Markey family, and I am entirely ignorant of them. Mr. Markey came to my house one Saturday in May. I did not receive anything off him. He appeared ill, and I advised him to go home and take rest for nine or 10 days, and probably when those who stole his money saw how ill he was, they would either return him his money or put it where he may find it. Beyond that, I said nothing. He offered me 5s., which I did not take. I deny any interview with any representative of the Press, nor do I know how my photo was taken to be published by the Press, and I state most conscientiously that I have never done or wished any person or persons any harm, but have the happy consciousness of knowing that I have been able to render good to many hundreds. This declaration I vow to be true, and will leave it to the discretion of all who may have known me.</p>
 <p>The writer adds: “As I am suffering through a cruel attack made upon me in the Press. which has incapacitated me from earning my living, I do hereby appeal to the sympathetic public for their kind consideration and help. Any small subscription will be most thankfully received and acknowledged by Ellen Hayward, or by Mr. W. Leonard French, Eureka House, Bilson Green, Cinderford.”</p>
 </div>
-<p>What looks rather like a specifically placed advertorial immediately preceded the article in the <em>Ross Gazette</em>.</p>
+<p>What looks rather like a specifically placed advertorial immediately preceded the appeal when it was reprinted in the <em>Ross Gazette</em> a week later.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">The Ross Cures, June 1905</p>
 <p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0002067/19050615/108/0003">Ross Gazette - Thursday 15 June 1905</a></p>
@@ -682,6 +699,12 @@ MRS. MARKEY RETURNS HOME.</p>
 <p>SUPERSTITION IN DEAN FOREST</p>
 <p>OLD ELLEN’S DENIAL.</p>
 <p>Ellen Hayward, the “Old Ellen” referred to in recent report in the Press in reference to some strange happenings in Dean Forest, writes from Pembroke-road, The Meend, Cinderford, to say the statements made in the Press are absolutely false and unfounded, and emphatically denying that she is a witch or fortune-teller or head-reader. “I have no knowledge of such Pagan ideas,” she says. “I have no power or ability to bewitch anyone, nor do I believe in any such thing. I have been living in the Forest of Dean for 30 years, and have gained my livelihood for 45 years as a herbalist, also dresser of cuts, sores, and wounds, of which I have cured some hundreds.” She denies any interview with any representative of the Press. As the cruel attack made upon her has incapacitated he from earning a living she appeals to the public for help.</p>
+</div>
+<div class="admonition-herbalist-not-witch-june-1905 admonition">
+<p class="admonition-title">Herbalist — Not Witch, June 1905</p>
+<p><a class="reference external" href="https://britishnewspaperarchive.co.uk/viewer/bl/0000104/19050613/213/0008">Western Mail - Tuesday 13 June 1905</a></p>
+<p>HERBALIST — NOT WITCH</p>
+<p>Ellen Hayward, the woman herbalist, of Cinderford, who has been described as a witch in connection with certain events which have occurred in the Forest of Dean, has issued a statement to the press in which she spiritedly denies the aseertions made concerning her. She states that she has gained her living as a herbalist for 45 years, and is not a fortune-teller or hand-reader, nor has she the poewr of divination.</p>
 </div>
 <p>And with that, the story fell out of the papers.</p>
 <p>For now, at least.</p>
@@ -791,8 +814,7 @@ MRS. MARKEY RETURNS HOME.</p>
             
             
               
-                <dialog id="pst-secondary-sidebar-modal"></dialog>
-                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
   <div class="sidebar-secondary-item">
@@ -851,8 +873,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>

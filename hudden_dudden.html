@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!--
-    this give us a css class that will be invisible only if js is disabled
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -67,7 +64,6 @@
     <link rel="prev" title="Too Much Time" href="too_much_time.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -83,8 +79,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -92,6 +99,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -99,8 +107,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -116,8 +124,7 @@
       
       
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -147,11 +154,15 @@
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -190,6 +201,8 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Gipsy Tales</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="devils-violin.html">The Devil’s Violin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Show Outlines</span></p>
 <ul class="nav bd-sidenav">
@@ -199,14 +212,13 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="woolpit-green.html">The Green Children of Woolpit</a></li>
 <li class="toctree-l1"><a class="reference internal" href="undutiful-daughter.html">The Undutiful Daughter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="fairy_midwife.html">The Fairy Midwife</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
 <li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
-<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
-<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 </ul>
@@ -225,6 +237,7 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Practice and performance notes</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="practice-on-not-sharing-digitally-pt1.html">On not sharing digitally, part 1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="setlists.html">Setlists</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Storynotes Collections</span></p>
 <ul class="nav bd-sidenav">
@@ -237,14 +250,9 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
-      <div class="sidebar-primary-item">
-<div id="ethical-ad-placement"
-      class="flat"
-      data-ea-publisher="readthedocs"
-      data-ea-type="readthedocs-sidebar"
-      data-ea-manual="true">
-</div></div>
   </div>
+  
+  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -341,16 +349,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 <button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
@@ -415,7 +431,7 @@
 <p class="admonition-title">William Thackeray, <em>Hudden and Dudden and Donald O’Neary</em>, 1842</p>
 <p><em>In <strong>The Paris sketch book of Mr. M. A. Titmarsh and eastern sketches, a journey from Cornwall to Cairo, the Irish sketch book and character sketches</strong>, William Makepeace Thackeray, 1842, [<a class="reference external" href="https://archive.org/details/parissketchbooko00thac_1/page/169/mode/1up?q=hudden+dudden">link</a>], pp.169-172.</em></p>
 <p>“Hudden and Dudden and Donald O’Neary were near neighbors in the barony of Ballinconlig, and ploughed with three bullocks; but the two former, envying the present prosperity of the latter, determined to kill his bullock to prevent his farm being properly cultivated and labored — that, going back in the world, he might be induced to sell his lands, which they meant to get possession of. Poor Donald, finding his bullock killed, immediately skinned it, and throwing the skin over his shoulder, with the fleshy side out, set off to the next town with it, to dispose of it to the best advantage. Going along the road a magpie flew on the top of the hide, and began picking it, chattering all the time. This bird had been taught to speak and imitate the human voice, and Donald, thinking he understood some words it was saying, put round his hand and caught hold of it. Having got possession of it, he put it under his great-coat, and so went on to the town. Having sold the hide, he went into an inn to take a dram; and, following the landlady into the cellar, he gave the bird a squeeze, which caused it to chatter some broken accents that surprised her very much.</p>
-<p>‘What is that I hear?’ said she to Donald: ‘I think it is talk, and yet I do not understand.’ ‘Indeed,’ said Donald, ‘it is a bird I have that tells me everything, and I always carry it with me to know when there is any danger. Faith,’ says he, ‘it says you have far better liquor than you are giving me.’ ‘That is strange,’ said she, going to another cask of better quality and asking him if he would sell the bird. ‘I will,’ said Donald, ‘if I get enough for it.’ ‘I will fill your hat with silver if you will leave it with me.’ Donald was glad to hear the news, and, taking the silver, set off, rejoicing at his good luck. He had not been long home when he met with Hudden and Dudden. ‘Ha!’ said he, ‘You thought you did me a bad turn, but you could not have done me a better: for look here what I have got for the hide,’ showing them the hatful of silver. ‘You never saw such a demand for hides in your life as there is at present.’ Hudden and Dudden that very night killed their bullocks, and set out the next morning to sell their hides. On coming to the place they went to all the merchants, but could only get a trifle for them. At last they had to take what they could get, and came home in a great rage and vowing revenge on poor Donald. He had a pretty good guess how matters would turn out, and his bed being under the kitchen-window, he was afraid they would rob him, or perhaps kill him when asleep; and on that account, when he was going to bed, he left his old mother in his bed, and lay down in her place, which was in the other side of the house, and they, taking the old woman for Donald, choked her in the bed; but he making some noise, they had to retreat and leave the money behind them, which grieved them very much. However, by daybreak, Donald got his mother on his back, and carried her to town. Stopping at a well, he fixed his mother with her staff as if she was stooping for a drink, and then went into a public-house convenient and called for a dram. ‘I wish,’ said he to a woman that stood near him, ‘you would tell my mother to come in. ‘She is at yon well trying to get a drink, and she is hard in hearing: if she does not observe you, give her a little shake, and tell her that I want her.’ The woman called her several times, but she seemed to take no notice; at length she went to her and shook her by the arm; but when she let her go again, she tumbled on her head into the well, and, as the woman thought, was drowned. She, in great fear and surprise at the accident, told Donald what had happened. ‘O mercy,’ said he, ‘what is this?’ He ran and pulled her out of the well, weeping and lamenting all the time, and acting in such a manner that you would imagine that he had lost his senses. The woman, on the other hand, was far worse than Donald; for his grief was only feigned, but she imagined herself to be the cause of the old woman’s death. The inhabitants of the town, hearing wliat had happened, agreed to make Donald up a good sum of money for his loss, as the accident happened in their place; and Donald brought a greater sum home with him than he got for the magpie. They buried Donald’s mother; and as soon as he saw Hudden and Dudden, he showed them the last purse of money he had got. ‘You thought to kill me last night,’ said he; ‘but it was good for me it happened on my mother, for I got all that purse for her to make gunpowder.’</p>
+<p>‘What is that I hear?’ said she to Donald: ‘I think it is talk, and yet I do not understand.’ ‘Indeed,’ said Donald, ‘it is a bird I have that tells me everything, and I always carry it with me to know when there is any danger. Faith,’ says he, ‘it says you have far better liquor than you are giving me.’ ‘That is strange,’ said she, going to another cask of better quality and asking him if he would sell the bird. ‘I will,’ said Donald, ‘if I get enough for it.’ ‘I will fill your hat with silver if you will leave it with me.’ Donald was glad to hear the news, and, taking the silver, set off, rejoicing at his good luck. He had not been long home when he met with Hudden and Dudden. ‘Ha!’ said he, ‘You thought you did me a bad turn, but you could not have done me a better: for look here what I have got for the hide,’ showing them the hatful of silver. ‘You never saw such a demand for hides in your life as there is at present.’ Hudden and Dudden that very night killed their bullocks, and set out the next morning to sell their hides. On coming to the place they went to all the merchants, but could only get a trifle for them. At last they had to take what they could get, and came home in a great rage and vowing revenge on poor Donald. He had a pretty good guess how matters would turn out, and his bed being under the kitchen-window, he was afraid they would rob him, or perhaps kill him when asleep; and on that account, when he was going to bed, he left his old mother in his bed, and lay down in her place, which was in the other side of the house, and they, taking the old woman for Donald, choked her in the bed; but he making some noise, they had to retreat and leave the money behind them, which grieved them very much. However, by daybreak, Donald got his mother on his back, and carried her to town. Stopping at a well, he fixed his mother with her staff as if she was stooping for a drink, and then went into a public-house convenient and called for a dram. ‘I wish,’ said he to a woman that stood near him, ‘you would tell my mother to come in. ‘She is at yon well trying to get a drink, and she is hard in hearing: if she does not observe you, give her a little shake, and tell her that I want her.’ The woman called her several times, but she seemed to take no notice; at length she went to her and shook her by the arm; but when she let her go again, she tumbled on her head into the well, and, as the woman thought, was drowned. She, in great fear and surprise at the accident, told Donald what had happened. ‘O mercy,’ said he, ‘what is this?’ He ran and pulled her out of the well, weeping and lamenting all the time, and acting in such a manner that you would imagine that he had lost his senses. The woman, on the other hand, was far worse than Donald; for his grief was only feigned, but she imagined herself to be the cause of the old woman’s death. The inhabitants of the town, hearing what had happened, agreed to make Donald up a good sum of money for his loss, as the accident happened in their place; and Donald brought a greater sum home with him than he got for the magpie. They buried Donald’s mother; and as soon as he saw Hudden and Dudden, he showed them the last purse of money he had got. ‘You thought to kill me last night,’ said he; ‘but it was good for me it happened on my mother, for I got all that purse for her to make gunpowder.’</p>
 <p>“That very night Hudden and Dudden killed their mothers, and the next morning set off with them to town. On coming to the town with their burden on their backs, they went up and down crying, ‘Who will buy old wives for gunpowder?’ so that every one laughed at them, and the boys at last clodded them out of the place. They then saw the cheat, and vowing revenge on Donald, buried the old women and set off in pursuit of him. Coming to his house, they found him sitting at his breakfast, and seizing him, put him in a sack, and went to drown him in a river at some distance. As they were going along the highway they raised a hare, which they saw had but three feet, and, throwing off the sack, ran after her, thinking by appearance she would be easily taken. In their absence there came a drover that way, and hearing Donald singing in the sack, wondered greatly what could be the matter. ‘What is the reason,’ said he, ‘that you are singing, and you condined?’ ‘Oh, I am going to heaven,’ said Donald: ‘and in a short time I expect to be free from trouble.’ ‘Oh, dear,’ said the drover, ‘what will I give you if you let me to your place?’ ‘Indeed I do not know,’ said he: ‘it would take a good sum.’ ‘I have not much money,’ said the drover; ‘but I have twenty head of fine cattle, which I will give you to exchange places with me.’ ‘Well, well,’ says Donald, ‘I don’t care if I should loose the sack and I will come out.’ In a moment the drover liberated him, and went into the sack himself; and Donald drove home the fine heifers and left them in his pasture.</p>
 <p>“Hudden and Dudden having caught the hare, returned, and getting the sack on one of their backs, carried Donald, as they thought, to the river, and threw him in, where he immediately sank. They then marched home, intending to take immediate possession of Donald’s property; but how great was their surprise, when they found him safe at home before them, with such a line herd of cattle, whereas they knew he had none before?’ Donald,’ said they, ‘what is all this! We thought you were drowned, and yet you are here before us?’ ‘Ah!’ said he, ‘if I had but help along with me when you threw me in, it would have been the best job ever I met with; for of all the sight of cattle and gold that ever was seen, is there, and no one to own them; but I was not able to manage more than what you see, and I could show you the spot where you might get hundreds.’ They both swore they would be his friends, and Donald accordingly led them to a very deep part of the river, and lifting up a stone, ‘Now,’ said he, ‘watch this,’ throwing it into the stream. ‘There is the very place, and go in, one of you, first, and if you want help you have nothing to do but call.’ Hudden jumping in, and sinking to the bottom, rose up again, and making a bubbling noise as those do that are drowning, seemed trying to speak but could not. ‘What is that he is saying now?’ says Dudden. ‘Faith,’ says Donald, ‘he is calling for help — don’t you hear him? Stand about,’ continued he, running back, ‘till I leap in. I know how to do better than any of you.’ Dudden, to have the advantage of him, jumped in olf the bank, and was drowned along with Hudden. And this was the end of Hudden and Dudden.”</p>
 </div>
@@ -439,7 +455,7 @@
 <div><p>Two of the little yellow volumes purchased at Ennis are entitled “The Irish and Hibernian Tales.” The former are modern, and the latter of an ancient sort; and so great is the superiority of the old stories over the new, in fancy, dramatic interest, and humor, that one can’t help fancying Hibernia must have been a very superior country to Ireland.</p>
 <p>These Hibernian novels, too, are evidently intended for the hedge-school universities. They have the old tricks and some of the old plots that one has read in many popular legends of almost all countries, European and Eastern: successful cunning is the great virtue applauded; and the heroes pass through a thousand wild extravagant dangers, such as could only have been invented when art was young and faith was large. And as the honest old author of the tales says “they are suited to the meanest as well as the highest capacity, tending both to improve the fancy and enrich the mind,” let us conclude the night’s entertainment by reading one or two of them, and reposing after the doleful tragedy which has been represented. The “Black Thief” is worthy of the Arabian Nights, I think, — as wild and odd as an Eastern tale.</p>
 </div></blockquote>
-<p>Over the years, the story would appear in various formas, often credited to Thackeray. For example, it appears in the Roscommon Herald of <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0001717/19221028/052/0003">Saturday 28th October, 1922</a> under the heading <em>How Thieves Were Caught Long Ago —  The Feats of Malden and Dudden and Donald O’Leary.</em> and credited as follows: <em>Thackeray in his “Irish Sketch Book,” gives the following amusing extracts from an old story book, known as “The Hibernian Nights’ Entertainment</em>.</p>
+<p>Over the years, the story would appear in various formas, often credited to Thackeray. For example, it appears in the Roscommon Herald of <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0001717/19221028/052/0003">Saturday 28th October, 1922</a> under the heading <em>How Thieves Were Caught Long Ago — The Feats of Malden and Dudden and Donald O’Leary.</em> and credited as follows: <em>Thackeray in his “Irish Sketch Book,” gives the following amusing extracts from an old story book, known as “The Hibernian Nights’ Entertainment</em>.</p>
 </section>
 </section>
 <section id="the-royal-hibernian-tales">
@@ -555,7 +571,7 @@ T. O’H.</p>
 <p>Another version of the tale can be found in an extended form, in an Irish vernacular, in Samuel Lover’s <a class="reference external" href="https://archive.org/details/06699793.2438.emory.edu/page/n359/mode/2up"><em>Legends and stories of Ireland</em></a>.</p>
 <p>I’m not sure if the following is being used as a storyteller’s device to help get the audience into a state where they are primed and ready to receive a story, but I know that I am often most comfortable telling a tale if I can provide some introductory context that helps me settle my own voice, as well as helping shift the audience from their chatting-to-the-person-next-to-them frame of mind to one where they are ready to listen to a tale.</p>
 <blockquote>
-<div><p>The world was very guilty of such a ballad some three ages since; but I think, now ‘tis not to be found —  I will have the subject newly writ o’er, that I may example my digression by some mighty precedent.<br />
+<div><p>The world was very guilty of such a ballad some three ages since; but I think, now ‘tis not to be found — I will have the subject newly writ o’er, that I may example my digression by some mighty precedent.<br />
 <em>Love’s Labour’s Lost.</em></p>
 <p>The words great and little are sometimes contradictory terms to their own meaning. This is stating the case rather confusedly, but as I am an Irishman, and writing an Irish story, it is the more in character. I might do, perhaps, like a very clever and agreeable friend of mine, who, when he deals in some extravagance which you don’t quite understand, says, “Well, you know what I mean.” But I will not take that for granted, so what I mean is this — that your great man, as far as size is concerned, is often a nobody; and your little man is often a great man. Nature, as far as the human race is concerned, is at variance with Art, which generally couples greatness with size. The pyramids, the temple of Jupiter Olympus, St. Peter’s, and St. Paul’s, are vast in their dimensions, and the heroes of Painting and Sculpture are always on a grand scale. In Language, the diminutive is indicative of <em>endearment</em> — in Nature, it appears to me, it is the type of distinction. Alexander, Caesar, Napoleon, Wellington, &amp;c. &amp;c, (for I have not room to detail,) are instances. But do we not hear every day that “such-abody is a big booby,” while “<em>a clever little fellow</em>” has almost passed into a proverb. The poets have been more true to nature than painters, in this particular, and in her own divine art, her happiest votaries have been living evidences of her predilection to “packing her choicest goods in small parcels.” Pope was “a crooked little thing that asked questions,” and in our own days, our own “little Moore “is a glorious testimony to the fact. The works of fiction abound with instances, that the author does not consider it necessary his hero shall be an eligible candidate for the “grenadier corps;” the earlier works of fiction in particular: Fairy tales, universally, dedicate some <em>giant</em> to destruction at the hands of some “clever little fellow.” “Tom Thumb,” “Jack and the Bean Stalk,” and fifty other such, for instance, and I am now going to add another to the list, a brilliant example I trust, of the unfailing rule, that your <em>little</em> man is always a <em>great</em> man.</p>
 <p>If any gentleman six feet two inches high gets angry at reading this, I beg him to remember that I am a little man myself, and if he be a person of sense, (which is supposing a great deal,) he will pardon, from his own feeling of indignation at this <em>exposé</em> of Patagonian inferiority, the consequent triumph on my part, of Lilliputian distinction. If, however, his inches get the better of him, and he should call me out, I beg of him to remember again, that I have the advantage of him there too, in being a little man. There is a proverb also, that “<em>little</em> said is soon mended,” and with all my preaching, I fear I have been forgetting the wholesome adage. So I shall conclude this little introduction, which I only thought a becoming flourish of trumpets for introducing my hero, by placing <em>Little Fairly</em> before my readers, and I hope they will not think, in the words of another adage, that I have given them great cry and <em>little</em> wool.</p>
@@ -886,12 +902,12 @@ T. O’H.</p>
 <p>“Then they both swore that they would be his friends if he would only show them the place in the river where they could get cattle like his.</p>
 <p>So he said he’ld show them the place and they could drive home as many of them as they liked. Well, Hudden and Dudden was in such a hurry they couldn’t get to the river soon enough, and when they were there Donald picked up a stone, and said he: ‘Watch where I throw this stone, and that’s where you’ll find the most of the cattle.’</p>
 <p>“Then he threw the stone into a deep part of the river, and he said: ‘One of you jump in there now, and if you find more of the cattle than you can manage, just come to the top and call for help, and the other two of us will come in and help you.’</p>
-<p>“So Hudden jumped in first and he went straight to the bottom. In a minute he came up to the top and shouted:  Help! help!’</p>
+<p>“So Hudden jumped in first and he went straight to the bottom. In a minute he came up to the top and shouted: Help! help!’</p>
 <p>“‘He’s calling for help,’ says Donald; ‘wait now till I go in and help him.’</p>
 <p>“‘Stay where you are,’ says Dudden; ‘haven’t you cattle enough already? It’s my turn to have some of them now.’ And in he jumped, and Hudden and Dudden was both drowned. And then Donald went home and looked after his cattle and his farm, and soon he made money enough to take the two farms that Hudden and Dudden had left, besides his own.</p>
 <p>“And that’s the way,” said Terence, “to get on in this world or any world. Get the better of them that’s trying to get the better of you, and don’t hope for any help from fairies or ghosts.”</p>
 </div>
-<p><em><code class="docutils literal notranslate"><span class="pre">[TH:</span> <span class="pre">in</span> <span class="pre">passing,</span> <span class="pre">it's</span> <span class="pre">worth</span> <span class="pre">noting</span> <span class="pre">that</span> <span class="pre">a</span> <span class="pre">second</span> <span class="pre">well</span> <span class="pre">known</span> <span class="pre">story</span> <span class="pre">follows</span> <span class="pre">on</span> <span class="pre">immediately:</span> <span class="pre">Lusmore</span> <span class="pre">/</span>&#160; <span class="pre">Monday,</span> <span class="pre">Tuesday...p168-176]</span></code></em></p>
+<p><em><code class="docutils literal notranslate"><span class="pre">[TH:</span> <span class="pre">in</span> <span class="pre">passing,</span> <span class="pre">it's</span> <span class="pre">worth</span> <span class="pre">noting</span> <span class="pre">that</span> <span class="pre">a</span> <span class="pre">second</span> <span class="pre">well</span> <span class="pre">known</span> <span class="pre">story</span> <span class="pre">follows</span> <span class="pre">on</span> <span class="pre">immediately:</span> <span class="pre">Lusmore</span> <span class="pre">/</span> <span class="pre">Monday,</span> <span class="pre">Tuesday...p168-176]</span></code></em></p>
 </section>
 </section>
 <section id="a-scandinavian-telling-great-claus-and-little-claus">
@@ -908,7 +924,7 @@ T. O’H.</p>
 <p>But when no one was passing Little Claus forgot that he was not to say this, and he cried, “Gee up, all my horses!”</p>
 <p>“Now, I must beg of you to let that alone,” cried Great Claus, “for if you say it again, I shall hit your horse on the head, so that it will fall down dead, and then it will be all over with him.”</p>
 <p>“I will certainly not say it any more,” said Little Claus.</p>
-<p>But when people came by soon afterwards, and nodded “good day”  to him, he became very glad, and thought it looked very well, after all, that he had five horses to plough his field; and so he smacked his whip again, and cried, “Gee up, all my Horses!”</p>
+<p>But when people came by soon afterwards, and nodded “good day” to him, he became very glad, and thought it looked very well, after all, that he had five horses to plough his field; and so he smacked his whip again, and cried, “Gee up, all my Horses!”</p>
 <p>“I’ll ‘gee up’ your horses!” said Great Claus. And he took the hatchet and hit the only horse of Little Claus on the head, so that it fell down, and was dead immediately.</p>
 <p>“Oh, now I haven’t any horse at all!” said Little Claus, and began to cry.</p>
 <p>Then he flayed the horse, and let the hide dry in the wind, and put it in a sack and hung it over his shoulder, and went to the town to sell his horse’s skin.</p>
@@ -951,13 +967,13 @@ as you like for him: I will give you a whole bushel of money directly.”</p>
 <p>“Well,” said Little Claus, at last, “as you have been so kind as to give me shelter for the night, I will let it be so. You shall have the conjuror for a bushel of money; but I must have the bushel heaped up.”</p>
 <p>“That you shall have,” replied the farmer. “But you must take the chest yonder away with you. I will not keep it in my house an hour. One cannot know, — perhap’s he may be there still.”</p>
 <p>Little Claus gave the farmer his sack with the dry hide in it, and got in exchange a whole bushel of money, and that heaped up. The farmer also gave him a big truck, on which to carry off his money and chest.</p>
-<p>“Farewell!” said Little Claus; and he went off with his money and the big chest, in which ihe clerk was still sitting.</p>
+<p>“Farewell!” said Little Claus; and he went off with his money and the big chest, in which the clerk was still sitting.</p>
 <p>On the other side of the wood was a great deep river. The water rushed along so rapidly that one could scarcely swim against the stream. A fine new bridge had been built over it. Little Claus stopped on the centre ol the bridge, and said quite loud, so that the clerk could hear it,</p>
 <p>“Ho, what shall I do with this stupid chest? It’s as heavy as if stones were in it. I shall only get tired if I drag it any farther, so I’ll throw it into the river; if it swims home to me, well and good; and if it does not, it will be no great matter.”</p>
 <p>And he took the chest with one hand, and lifted it up a little, as if he intended to throw it into the river.</p>
 <p>“No! let be!” cried the clerk from within the chest; “let me out first!”</p>
 <p>“Hu!” exclaimed Little Claus, pretending to be frightened, “he’s in there still! I must make haste and throw him into the river, that he may he drowned.”</p>
-<p>“Oh, no, no!” screamed the clerk. “I will give you a whole bushel-full of money if you ‘ll let me go.”</p>
+<p>“Oh, no, no!” screamed the clerk. “I will give you a whole bushel-full of money if you’ll let me go.”</p>
 <p>“Why, that’s another thing!” said Little Claus; and he opened the chest.</p>
 <p>The clerk crept quickly out, pushed the empty chest into the water, and went to his house, where Little Claus received a whole bushel-full of money. He had already received one from the farmer, and so now he had his truck loaded with money.</p>
 <p>“See, I’ve been well paid for the horse,” he said to himself when he had got home to his own room, and was emptying all the money into a heap in the middle of the floor. “That will vex Great Claus when he hears how rich I have grown through my one horse; but I won’t tell him about it outright.”</p>
@@ -966,7 +982,7 @@ as you like for him: I will give you a whole bushel of money directly.”</p>
 <p>“What’s this?” cried Great Claus; and he ran off at once to Little Claus. “Where did you get all that money from?”</p>
 <p>“Oh. that’s for my horse’s skin. I sold it yesterday evening.”</p>
 <p>“That ‘s really being well paid,” said Great Claus. And he ran home in a hurry, took an axe, and killed all his four horses; then he flayed them, and carried off their skins to the town.”</p>
-<p>“Hides! hides! who ‘ll buy any hides?” he cried through the streets.</p>
+<p>“Hides! hides! who’ll buy any hides?” he cried through the streets.</p>
 <p>All the shoemakers and tanners came running, and asked how much he wanted for them.</p>
 <p>“A bushel of money for each!” said Great Claus.</p>
 <p>“Are you mad?” said they. “Do you think we have money by the bushel?”</p>
@@ -1235,8 +1251,7 @@ Seumas MacManus, 1899, p. 175-180.</p>
             
             
               
-                <dialog id="pst-secondary-sidebar-modal"></dialog>
-                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
   <div class="sidebar-secondary-item">
@@ -1308,8 +1323,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>

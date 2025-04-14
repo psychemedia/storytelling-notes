@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!--
-    this give us a css class that will be invisible only if js is disabled
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -64,10 +61,9 @@
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Mr Fox" href="mr-fox.html" />
-    <link rel="prev" title="Raggle Taggle Gypsy" href="raggle_taggle_gypsy.html" />
+    <link rel="prev" title="Hand of Glory" href="hand-of-glory.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -83,8 +79,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -92,6 +99,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -99,8 +107,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -116,8 +124,7 @@
       
       
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -147,11 +154,15 @@
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -190,6 +201,8 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Gipsy Tales</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="devils-violin.html">The Devil’s Violin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Show Outlines</span></p>
 <ul class="nav bd-sidenav">
@@ -199,14 +212,13 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="woolpit-green.html">The Green Children of Woolpit</a></li>
 <li class="toctree-l1"><a class="reference internal" href="undutiful-daughter.html">The Undutiful Daughter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="fairy_midwife.html">The Fairy Midwife</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tales to Tell</span></p>
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
 <li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
-<li class="toctree-l1"><a class="reference internal" href="macpherson.html">Macpherson’s Rant</a></li>
-<li class="toctree-l1"><a class="reference internal" href="raggle_taggle_gypsy.html">Raggle Taggle Gypsy</a></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 </ul>
@@ -225,6 +237,7 @@
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Practice and performance notes</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="practice-on-not-sharing-digitally-pt1.html">On not sharing digitally, part 1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="setlists.html">Setlists</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Storynotes Collections</span></p>
 <ul class="nav bd-sidenav">
@@ -237,14 +250,9 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
-      <div class="sidebar-primary-item">
-<div id="ethical-ad-placement"
-      class="flat"
-      data-ea-publisher="readthedocs"
-      data-ea-type="readthedocs-sidebar"
-      data-ea-manual="true">
-</div></div>
   </div>
+  
+  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -341,16 +349,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 
 </div></div>
       
@@ -385,14 +401,14 @@
 <p>Sabine Baring-Gould, <em>Yorkshire oddities, incidents and strange events</em>, <a class="reference external" href="https://archive.org/details/yorkshireodditie00bari/page/220/mode/2up">vol. I &amp; II</a>, 1880, Vol. II, pp. 220-8.</p>
 <p>In York were two religious houses — S. Mary’s Abbey and S. Leonard’s Priory — so close together that their walls abutted. The magnificent ruins of S. Mary’s Abbey Church, the heavy fragments of the Priory Church of S. Leonard’s, now stand in the gardens of the Botanical Society, and resound no longer to the sound of psalmody, but to the strains of the band playing marches, waltzes, and overtures.</p>
 <p>At the close of the fifteenth century, before the Dissolution was thought of, there lived, and fasted, and prayed in S. Leonard’s Priory a fat monk named Brother Jucundus. He had not been long in the house. He had joined the order in a fit of headache and remorse, after heavy pota- tions on the occasion of the installation of a new Lord Mayor, and it is possible — probable, I suspect — that he somewhat regretted his precipitancy. Yet there was no escape. The irrevocable vows were on him; for life he was bound to eat only vegetables and bread, drink very small beer, and sleep only six hours in the night.</p>
-<p>Convivial songs floated through his mind when he ought to have been chanting the Psalms of David, and the flavour of old sack rose upon his palate when he looked dolefully down at dinner-time into his mug of “ swipes.”</p>
+<p>Convivial songs floated through his mind when he ought to have been chanting the Psalms of David, and the flavour of old sack rose upon his palate when he looked dolefully down at dinner-time into his mug of “swipes.”</p>
 <p>A year passed. The full paunch of Brother Jucundus began to subside; his fat cheeks to fall flabby, like the dew-laps of a cow; a dispirited expression took the place of the watery twinkle which had once animated his eye.</p>
 <p>Come what might, Brother Jucundus felt he must have a fling. He should die without it. Just one jollification in the twelvemonth, and then he would put up for the rest of the year with beans and cabbage, small beer and matins before dawn.</p>
-<p>York fair approached. York fair! of all that is ravishing! The shows of dancing dogs, the whirli-go-rounds, the giantesses and dwarfs, the “ spice “ stalls, the drinking- booths! To York fair he must, he would go, if condemned to a bean and a thimbleful of water for fasting dinner ever after.
-And go he did. He managed it in this way: — After dinner the whole community took an hour’s sleep. As they rose at midnight and dined at mid-day, this was very necessary, and the Priory was silent, save for snores, from one o’clock to two. At half-past one Brother Jucundus stole to the porter’s lodge, found the porter asleep in his chair — so took possession of his keys; went to the Prior’s apartment; the Prior was asleep; pocketed a crown from his money-box, and left the Priory.</p>
+<p>York fair approached. York fair! of all that is ravishing! The shows of dancing dogs, the whirli-go-rounds, the giantesses and dwarfs, the “spice” stalls, the drinking- booths! To York fair he must, he would go, if condemned to a bean and a thimbleful of water for fasting dinner ever after.</p>
+<p>And go he did. He managed it in this way: — After dinner the whole community took an hour’s sleep. As they rose at midnight and dined at mid-day, this was very necessary, and the Priory was silent, save for snores, from one o’clock to two. At half-past one Brother Jucundus stole to the porter’s lodge, found the porter asleep in his chair — so took possession of his keys; went to the Prior’s apartment; the Prior was asleep; pocketed a crown from his money-box, and left the Priory.</p>
 <p>At two o’clock the community awoke. The porter missed his keys. The Prior missed the crown. All the monks were summoned into the chapter-house, and all missed Brother Jucundus.</p>
 <p>After long deliberation it was decided that two sedate and trusty brothers should be sent out in quest of him.</p>
-<p>It was a bright, sunny afternoon. Jucundus had enjoyed himself amazingly.   The amount of gingerbread horses and men he had consumed was prodigious. He had seen “ The Spotted Boy “ and “ The Bearded Woman “; he had gone round in the whirligig on the back of a wooden horse; he had shot for nuts at a mark, and won his pocket full, which he cracked every now and then, and washed down with a draft of really good ale. And now, just now, he was going up in the boat of a great see-saw, with a foaming tankard in his hand, his jolly red face illumined with glee, and his ample throat thundering forth —</p>
+<p>It was a bright, sunny afternoon. Jucundus had enjoyed himself amazingly. The amount of gingerbread horses and men he had consumed was prodigious. He had seen “The Spotted Boy” and “The Bearded Woman “; he had gone round in the whirligig on the back of a wooden horse; he had shot for nuts at a mark, and won his pocket full, which he cracked every now and then, and washed down with a draft of really good ale. And now, just now, he was going up in the boat of a great see-saw, with a foaming tankard in his hand, his jolly red face illumined with glee, and his ample throat thundering forth —</p>
 <p>“In dulce jubilo-o-o, Up, up, up we go-o-o “;</p>
 <p>when his sweet jubilee was cut short by the sight of two monks from his Priory, with grim faces, making their way towards the see-saw.</p>
 <p>Brother Jucundus tried to scramble out, and in so doing tumbled down. He was picked up. Either his libations, or the fall, or disinclination to return to S. Leonard’s weakened his legs, and he tottered so much that the reverend fathers were obliged to put him in a wheelbarrow and roll him to the Priory gate. At the entrance stood the Prior with a brow of thunder.</p>
@@ -401,8 +417,8 @@ And go he did. He managed it in this way: — After dinner the whole community t
 <p>The chapter was still sitting, stern and threatening.</p>
 <p>The helpless monk was trundled in his barrow into the midst of the assembled fathers, to be tried and sentenced.</p>
 <p>He had been caught, flagrante delicto, in a see-saw, drunk, riotous, and incapable. Nevertheless, Brother Jucundus was not disposed to view his case unfavourably.</p>
-<p>He looked round  on  the  chapter  with  an affectionate glance from out of his watery eye, and the kindest, most winsome smile on his ruddy cheeks.</p>
-<p>He was asked at once for his defence.   He murmured with a hiccup —</p>
+<p>He looked round on the chapter with an affectionate glance from out of his watery eye, and the kindest, most winsome smile on his ruddy cheeks.</p>
+<p>He was asked at once for his defence. He murmured with a hiccup —</p>
 <p>“In dulce jubilo-o-o.”</p>
 <p>The sentence was unanimous, and unfalteringly given. He was to be walled alive into a niche in the Priory cellar. The execution was to be carried into effect immediately.</p>
 <p>As he was helped down the cellar stairs, some glimmer of his situation came in on the mind of Jucundus, and he sadly trolled out —</p>
@@ -413,22 +429,22 @@ And go he did. He managed it in this way: — After dinner the whole community t
 <p>S. Mary’s Abbey belonged to the severe Cistercian Order. Complete silence was one of the rules of the society. Except on Easter-day, no monk might speak; on Easter-day every one talked, and nobody listened. When Brother Jucundus accordingly appeared in the cloisters, no monk turned to look at him, or asked him u how the saints he had come there?” but swept by him like a ghost. Jucundus made himself as much at home as was possible. He took his place at table, ate and drank what was set before him, occupied a pallet in the common dormitory, lifted his voice in concert with the others in the Abbey choir, and nobody meddled with him. The monks, if they thought about him at all — and it was against their rules to think of anything but their own spiritual affairs — thought he was a new monk just joined in the usual accepted manner.</p>
 <p>A twelvemonth passed. It had been dull in S. Leonard’s; it was duller in S. Mary’s. The day came round on which York fair was held, the day, that happy day, which had ended so dolorously.</p>
 <p>Now the day before York fair the office of cellarer fell vacant in S. Mary’s Abbey by the death of the monk who had presided over the wine and beer. The Abbot by a happy inspiration committed the keys to Brother Jucundus. Here was an opportunity! If York fair might not be enjoyed in the market-place and the Pavement, he would at least commemorate it in the Abbey cellar.</p>
-<p>On York fair-day, accordingly, Brother Jucundus, after having seen all his fellow-monks safe in bed, stole down  the  stone  steps  into  the  vault  where were  the “barrels,  with a tankard in  his one hand and a lantern in the other.</p>
+<p>On York fair-day, accordingly, Brother Jucundus, after having seen all his fellow-monks safe in bed, stole down the stone steps into the vault where were the “barrels, with a tankard in his one hand and a lantern in the other.</p>
 <p>S. Mary’s Abbey was often called upon to receive noble, even royal guests, and entertain them nobly and royally. It therefore contained barrels of very prime wine and very strong audit ale. Brother Jucundus went along the range of barrels trying one tipple after another. There is nothing so dangerous as mixing your drink, and this the reverend brother discovered at last, for he sat down, unable to proceed further, by the best cask of Malmsey, and turning the tap, filled his tankard.</p>
 <p>Next day at noon the Cistercians assembled in the refectory for their frugal repast, dinner and breakfast in one; and as they had been up since midnight, and had eaten and drunk nothing for twelve hours, were tolerably hungry and dry. But the mugs were empty. At the Abbot’s table even was neither wine nor beer. The silent fraternity bore with this some time, but at last even the rules of the Order could not keep them perfectly silent. They shuffled with their feet, growled and grunted discontentedly. At last the Abbot, in a voice of thunder, shouted —</p>
-<p>“I want my beer!” and the example of the head becoming infectious, “ Beer, beer, beer! we all want our beer!” resounded from every part of the refectory.</p>
+<p>“I want my beer!” and the example of the head becoming infectious, “Beer, beer, beer! we all want our beer!” resounded from every part of the refectory.</p>
 <p>“Where was the cellarer?” Nobody knew. At last two brothers were commissioned to go to the cellar and fetch ale. They presently returned with awe-struck coun- tenances, beckoned to the Abbot to follow them, and led the way along the cloisters down the cellar stairs. Curiosity, though against the rule, was infectious, and all the monks crept en queue after the Abbot. When they reached the vault a shocking sight presented itself to their eyes. Brother Jucundus lay with his head against the butt of Malmsey, flourishing his tankard over his head, and feebly, incoherently, trolling forth —</p>
 <p>“In dulce jubilo-o-o, Up, up, up we go-o-o.”</p>
 <p>It was too flagrant an offence to be passed over. A chapter of the Order was at once constituted in the cellar itself. All the monks were present. Unanimously it was decided that after solemn excommunication with bell, book, and candle, the guilty brother should be walled up alive on the scene of his crime in that very cellar.</p>
 <p>The awful scene of excommunication was proceeded with. It took some time, and during the ceremony Brother Jucundus gradually resumed consciousness — the fumes of Malmsey slowly evaporated. A convenient recess was found, where a heap of crumbling bricks lay prostrate. It was the identical nook out of which a year and a day before Brother Jucundus had escaped into the Cistercian Order and Abbey of S. Mary.
-Into this niche therefore he was built. His terrible position had  not, however, as  yet  forced itself on  the monk’s  brain; he still tasted Malmsey, still was his heart buoyant, and with swelling lungs he roared forth his song —</p>
+Into this niche therefore he was built. His terrible position had not, however, as yet forced itself on the monk’s brain; he still tasted Malmsey, still was his heart buoyant, and with swelling lungs he roared forth his song —</p>
 <p>“In dulce jubilo-o-o<br />
 Up, up, up we go-o-o.”</p>
 <p>Now, it happened that the clocks in S. Leonard’s and S. Mary’s differed by a quarter of an hour. That of S. Leonard’s was slower than that of S. Mary’s. Consequently it was only just dinner-time in S. Leonard’s Priory, and the cellarer, pitcher in hand, had just descended the stairs, and was filling his vessel with small beer, when he heard close to his ear, from behind the wall, a stentorian voice thunder forth —</p>
 <p>“In dulce jubilo-o-o,<br />
 Up, up, up we go-o-o.”</p>
 <p>The voice, the strain, the words were those of Brother Jucundus, who a year and a day before had been immured at that very spot.</p>
-<p>Down went the pitcher, and away fled the monk — amazement, admiration in his countenance, “ A miracle! a miracle!” in his mouth — to the monks, just issuing from the church and the recitation of Sext and the office for the dead around the body of their Prior, lately deceased, and that day to be buried.</p>
+<p>Down went the pitcher, and away fled the monk — amazement, admiration in his countenance, “A miracle! a miracle!” in his mouth — to the monks, just issuing from the church and the recitation of Sext and the office for the dead around the body of their Prior, lately deceased, and that day to be buried.</p>
 <p>The whole community rolled like a tidal wave down the cellar-stairs, and stood with breathless awe in a circle about the spot where twelve months and a day before they had walled in Brother Jucundus.</p>
 <p>It was a miracle — there could be no doubt of it. Eager hands tore down the wall, and revealed the reverend brother, hale and rosy as of yore, and at his side a loaf as fresh as when put in, and a pitcher still full to the brim.</p>
 <p>There could be no doubt but that this was a special interposition to establish the innocence of the monk, and to indicate to the community who was to be their future Prior.</p>
@@ -445,13 +461,13 @@ Up, up, up we go-o-o.”</p>
 <div class="dropdown admonition">
 <p class="admonition-title">In <em>Yorkshire in olden times</em>, 1890</p>
 <p><a class="reference external" href="https://archive.org/details/yorkshireinolden00andr/page/152/mode/2up">Yorkshire in olden times</a>, 1890, p153.</p>
-<p>York fair also dates from very remote antiquity, the city itself being one of the most ancient in the county, or even in England. Mr. S. Baring-Gould tells a good story of this fair in the second volume of his “ Yorkshire Oddities, Incidents, and Strange Events.” Everyone who knows York knows that the fine ruins of the Abbey of St. Mary and the hoary remains of the Priory of St. Leonard are so near each other, in the grounds of the Yorkshire Philosophical Society, that when perfect their walls must have abutted. Those who do not know this require to be acquainted with the fact in order to understand the story. Towards the close of the fifteenth century, the brethren of St. Leonard’s numbered among them an unworthy brother who had taken the vows in haste — in a fit of head-ache and remorse, after “potations pottle-deep” on an occasion of civic rejoicing — and repented at leisure. The head-ache was bad, but the monastic fare of bread and herbs was worse. He longed for beef and strong ale, and in less than a year felt that he must have a jolification, if he died for it.</p>
+<p>York fair also dates from very remote antiquity, the city itself being one of the most ancient in the county, or even in England. Mr. S. Baring-Gould tells a good story of this fair in the second volume of his “Yorkshire Oddities, Incidents, and Strange Events.” Everyone who knows York knows that the fine ruins of the Abbey of St. Mary and the hoary remains of the Priory of St. Leonard are so near each other, in the grounds of the Yorkshire Philosophical Society, that when perfect their walls must have abutted. Those who do not know this require to be acquainted with the fact in order to understand the story. Towards the close of the fifteenth century, the brethren of St. Leonard’s numbered among them an unworthy brother who had taken the vows in haste — in a fit of head-ache and remorse, after “potations pottle-deep” on an occasion of civic rejoicing — and repented at leisure. The head-ache was bad, but the monastic fare of bread and herbs was worse. He longed for beef and strong ale, and in less than a year felt that he must have a jolification, if he died for it.</p>
 </div>
 <p>And again, in a memoir of one of the most notable figures of 19th century York, Baring-Gould is cited:</p>
 <div class="dropdown admonition">
 <p class="admonition-title"><em>If we may rely on what the Rev. S. Baring-Gould says…</em>, 1908</p>
 <p>Phebe Doncaster, <em>John Stephenson Rowntree: his life and work: memoir</em>, 1908, <a class="reference external" href="https://archive.org/details/cu31924006039980/page/n389/mode/2up">pp.370-1</a></p>
-<p>And now, for a moment, let us note the contiguity of the two ecclesiastical buildings of St. Mary’s and St. Leonard’s; for though the Multangular Tower and the Museum now divide the two groups of ruins, the buildings of the Abbey and the Hospital must have been so near to each other that some intercourse between the two institutions may have been not infrequent, and the escapades of Brother Jucundus may at least have been possible. If we may rely on what the Rev. S. Baring-Gould says, <code class="docutils literal notranslate"><span class="pre">[In</span> <span class="pre">*Yorkshire</span> <span class="pre">Oddities*.]</span></code> Brother Jucundus was a monk in the Priory of St. Leonard’s about the time when Christopher Columbus was discovering the New World. On the recurrence of a York fair, the temptation was irresistible to steal out, in the siesta hour after dinner, and to see again the dancing dogs, the whirli-go-rounds, the giantesses and dwarfs, the spice stalls and the drinkingbooths. When the brother’s departure was perceived, the Prior despatched two monks to see after him, who, alas! had to wheel back their friend on a barrow, in a state in which too many, both before and since, have been found at fair times. Ecclesiastical judgment, prompt and stem, consigned him to be walled up alive in the Priory cellar. Soon after the builders of this living grave may have sung their requiem, “ Sinful brother, part in peace,” the seasonable fall of the wall behind Jucundus released him from his uncomfortable position, and enabled him — now sobered — to run up a passage leading into St. Mary’s Abbey, where he took his place, no questions being asked, amongst the Benedictine monks. For a year he conducted himself decorously in his new home, but the recurrence of the York fair again led Jucundus into alcoholic excess, for which he suffered in St. Mary’s the same penalty he had undergone in St. Leonard’s. In nearly the same way he a second time escaped, falling this time out of St. Mary’s into St. Leonard’s, and timing the event so opportunely that his arrival there, a year and a day after his departure, occurred at the very crisis when a new Prior was needed. It is hardly needful to finish the story. Jucundus, restored to his brethren as by a miracle, was hailed by them as Prior. He ruled many years in that capacity, and it cannot be surprising that the moral state of St. Leonard’s Priory at his decease justified its suppression. Its history had then extended over six centuries. According to the ordinary accounts, the kingdom of England had only emerged out of the Heptarchy about a century when King Athelstan granted to certain rehgious persons connected with the Cathedral Church of York, called Colidei or Culdees, a piece of ground on which to erect a hospital. A reference to Mr. Wellbeloved’s excellent handbook to the antiquities in the Museum and grounds will inform the reader how successive kings, William the Conqueror, his sons Rufus and Beauclerc, and others, enlarged the possessions of the Hospital, till in the time of Henry VIII., his minister, Thomas Cromwell, found them worth;f5,ooo per annum reckoned in the currency of to-day. The ruins now standing are the Ambulatory, probably built by John Romanus, treasurer to the Minster, about the time when the Commons representatives were first summoned to Parliament.</p>
+<p>And now, for a moment, let us note the contiguity of the two ecclesiastical buildings of St. Mary’s and St. Leonard’s; for though the Multangular Tower and the Museum now divide the two groups of ruins, the buildings of the Abbey and the Hospital must have been so near to each other that some intercourse between the two institutions may have been not infrequent, and the escapades of Brother Jucundus may at least have been possible. If we may rely on what the Rev. S. Baring-Gould says, <code class="docutils literal notranslate"><span class="pre">[In</span> <span class="pre">*Yorkshire</span> <span class="pre">Oddities*.]</span></code> Brother Jucundus was a monk in the Priory of St. Leonard’s about the time when Christopher Columbus was discovering the New World. On the recurrence of a York fair, the temptation was irresistible to steal out, in the siesta hour after dinner, and to see again the dancing dogs, the whirli-go-rounds, the giantesses and dwarfs, the spice stalls and the drinkingbooths. When the brother’s departure was perceived, the Prior despatched two monks to see after him, who, alas! had to wheel back their friend on a barrow, in a state in which too many, both before and since, have been found at fair times. Ecclesiastical judgment, prompt and stem, consigned him to be walled up alive in the Priory cellar. Soon after the builders of this living grave may have sung their requiem, “Sinful brother, part in peace,” the seasonable fall of the wall behind Jucundus released him from his uncomfortable position, and enabled him — now sobered — to run up a passage leading into St. Mary’s Abbey, where he took his place, no questions being asked, amongst the Benedictine monks. For a year he conducted himself decorously in his new home, but the recurrence of the York fair again led Jucundus into alcoholic excess, for which he suffered in St. Mary’s the same penalty he had undergone in St. Leonard’s. In nearly the same way he a second time escaped, falling this time out of St. Mary’s into St. Leonard’s, and timing the event so opportunely that his arrival there, a year and a day after his departure, occurred at the very crisis when a new Prior was needed. It is hardly needful to finish the story. Jucundus, restored to his brethren as by a miracle, was hailed by them as Prior. He ruled many years in that capacity, and it cannot be surprising that the moral state of St. Leonard’s Priory at his decease justified its suppression. Its history had then extended over six centuries. According to the ordinary accounts, the kingdom of England had only emerged out of the Heptarchy about a century when King Athelstan granted to certain rehgious persons connected with the Cathedral Church of York, called Colidei or Culdees, a piece of ground on which to erect a hospital. A reference to Mr. Wellbeloved’s excellent handbook to the antiquities in the Museum and grounds will inform the reader how successive kings, William the Conqueror, his sons Rufus and Beauclerc, and others, enlarged the possessions of the Hospital, till in the time of Henry VIII., his minister, Thomas Cromwell, found them worth;f5,ooo per annum reckoned in the currency of to-day. The ruins now standing are the Ambulatory, probably built by John Romanus, treasurer to the Minster, about the time when the Commons representatives were first summoned to Parliament.</p>
 </div>
 <p>And so it goes, the story then starts to pass into historical guides…</p>
 <div class="dropdown admonition">
@@ -468,7 +484,7 @@ Up, up, up we go-o-o.”</p>
 <p>Benson’s take on the tale was also noted in a review his book in the Athenaeum a few years later.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">More the character of a guide-book, 1912</p>
-<p>The Athenaeum  April 20th, 1912, Iss 4408, <a class="reference external" href="https://archive.org/details/sim_athenaeum-uk_1912-04-20_4408/page/436/mode/2up">p437</a>.</p>
+<p>The Athenaeum April 20th, 1912, Iss 4408, <a class="reference external" href="https://archive.org/details/sim_athenaeum-uk_1912-04-20_4408/page/436/mode/2up">p437</a>.</p>
 <p>Geography and Travel.</p>
 <p>Beautiful Ireland: Connaught and Munster, by Stephen Gwynn.— Beautiful England: York, by George Benson; Chester, by Charles Edwardes. 2/ net each.</p>
 <p>To Mr. Gwynn belongs an almost passionate love for the districts he describes—a love which radiates through every page of his two new books, and is especially noticeable in the stories and legends he repeats. The tragedy of Finn and Grania, the history of Daniel O’Connell, the story of St. Brendan’s pilgrimage into the west—all these, as told by Mr. Gwynn, are not merely good reading, but also breathe the very spirit of Ireland. His two books will do what few guide-books can—awaken a strong desire to see the country they depict. The illustrations by Mr. Alexander Williams are uniformly excellent.</p>
@@ -477,8 +493,8 @@ Up, up, up we go-o-o.”</p>
 </div>
 <p>For the “truth” of the tale, however, the <a class="reference external" href="https://talesofbritainandireland.com/episode-27-brother-jucundus/"><em>Tales of Britain and Ireland</em> podcast</a> suggests we should look to Walthamstowe Abbey, and a metrical romance originally produced purely as a personal amusement — <em>Ye Hoel in Ye Walle, A Legende of Walthamstowe Abbey</em>.</p>
 <blockquote>
-<div><p>THE following was written some two years ago , without any view to publication , but merely to beguile a few leisure moments. having shown the manuscript to some friends, I was so strongly urged by them, that I have at last ventured to lay it before a discriminating Public, trusting they will not be too severe  upon the defects of a young author.</p>
-<p>With this short apology, I leave my little book (my first literary bantling) to its trial; and should the verdict be favourable,  you and I, my “gentle Public”, will perhaps meet again</p>
+<div><p>THE following was written some two years ago , without any view to publication , but merely to beguile a few leisure moments. having shown the manuscript to some friends, I was so strongly urged by them, that I have at last ventured to lay it before a discriminating Public, trusting they will not be too severe upon the defects of a young author.</p>
+<p>With this short apology, I leave my little book (my first literary bantling) to its trial; and should the verdict be favourable, you and I, my “gentle Public”, will perhaps meet again</p>
 <p>E. H. PALMER , March , 1860. Hoop Hotel, Cambridge</p>
 </div></blockquote>
 <div class="dropdown admonition">
@@ -1113,7 +1129,7 @@ There’s a proverb may well to this class be applied<br />
 <p>The author, Edward Henry Palmer, republished the poem in 1877 in <a class="reference external" href="https://archive.org/details/songreedandothe00palmgoog/page/n128/mode/2up"><em>The song of the reed, and other pieces</em></a>, p117, prefaced with the following statement:</p>
 <blockquote>
 <div><p>TO THE READER.</p>
-<p>On pseudo-saints, Ignatian divines, The following verses may appear hard Lynes; Such thin-skinned gentlefolk will hardly fail To vote such railing quite “ beyond the pale,” Even in this “ reading for the road and rail.” If any take offence, not mine the sin, it Was his amusement that my muse meant in it. But long preambles damn a work j one looks For curtailed prefaces in dogs-eared books. With this excuse, then, if your views it meets, I’ll cut the preface, you can cut the sheets.</p>
+<p>On pseudo-saints, Ignatian divines, The following verses may appear hard Lynes; Such thin-skinned gentlefolk will hardly fail To vote such railing quite “beyond the pale,” Even in this “reading for the road and rail.” If any take offence, not mine the sin, it Was his amusement that my muse meant in it. But long preambles damn a work j one looks For curtailed prefaces in dogs-eared books. With this excuse, then, if your views it meets, I’ll cut the preface, you can cut the sheets.</p>
 </div></blockquote>
 <p>A comprehensive biography of Edward Henry Palmer can be found in <em>Littell’s Living Age</em>, Fifth Series, Vol. XLIV, No. 2056, -November 17, 1883, <a class="reference external" href="https://archive.org/details/livingage33littgoog/page/392/mode/2up">p.390</a>, which has the following to say about the <em>Hole in the Wall</em>:</p>
 <blockquote>
@@ -1164,12 +1180,12 @@ There’s a proverb may well to this class be applied<br />
                   
 <div class="prev-next-area">
     <a class="left-prev"
-       href="raggle_taggle_gypsy.html"
+       href="hand-of-glory.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Raggle Taggle Gypsy</p>
+        <p class="prev-next-title">Hand of Glory</p>
       </div>
     </a>
     <a class="right-next"
@@ -1231,8 +1247,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>
