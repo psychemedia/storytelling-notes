@@ -1,6 +1,6 @@
 # The Fairy Midwife
 
-In an introduction to the fairy lore in Wales given in W. Y. Evans-Wentz's *The fairy-faith in Celtic countries*, 1911, by Pofessor Sir John Rhys (Rhŷs; he was knighted in 1907), we find a brief categorisation of the more common tales types, the fifth of which describes a tale in which *"[a] fairy husband procur[es] for his wife the attendance of a human midwife"*.
+In an introduction to the fairy lore in Wales given in W. Y. Evans-Wentz's *The fairy-faith in Celtic countries*, 1911, by Pofessor Sir John Rhys (Rhŷs; he was knighted in 1907), we find a brief categorisation of the more common types of tale associated with fairy folklore.
 
 ```{admonition} The fairy faith in Wales, 1911
 :class: dropdown
@@ -39,7 +39,9 @@ Jesus College, Oxford, October 1910
 
 ```
 
-*The Fairy Midwife*, also often referred to as *The Fairy Ointment* or *Fairy Nurse* *(Aarne-Thompson-Uther (ATU) type 476\*)* is a widely collectly, and frequently localised, tale of dealings with the fairies. Typically, we might imagine a scene late at nigh. There's a knock at the door. A midwife, or nurse, is called upon to help in the delivery or care of a fairy child. As part of their duties, thet are told to wipe a special ointement over the child's eyes. Mistakenly getting some of the ointment into their own eye, the midwife/nurse becomes capable of seeing into the fairy otherworld from that eye. After unwittingly revealing herself to be so enchanted, the midwife/nurse is punished with the loss of the glamoury eye.
+The fifth identified tale type describes a tale in which *"[a] fairy husband procur[es] for his wife the attendance of a human midwife"*. In the *Aarne-Thompson-Uther (ATU)* classification scheme, it is designated as tale type 476.
+
+The tale of *The Fairy Midwife*, also often referred to as *The Fairy Ointment* or *Fairy Nurse*, typically starts late at night, with a knock at the door. A midwife, or nurse, is called upon to help in the delivery or care of a fairy child. As part of their duties, thet are told to wipe a special ointement over the child's eyes. Mistakenly getting some of the ointment into their own eye, the midwife/nurse becomes capable of seeing into the fairy otherworld from that eye. After unwittingly revealing herself to be so enchanted, the midwife/nurse is punished with the loss of the glamoury eye.
 
 The gist of the tale can be found in the following versions taken from the Irish Schools Collection. In each case, the human visitor is taken to a sumptuous location, and application of the ointment then reveals a terrible scene.
 
@@ -78,12 +80,18 @@ About a week after she went to a fair in Newmarket. She saw a number of fairies 
 In *Traces of the elder faiths in Ireland: a folklore sketch: a handbook of Irish pre-Christian traditions*, 1901, W. G. Wood-Martin summarises two of the core tenets of the tale in Irish tradition as follows:
 
 > ... Having rubbed a special ointment on the eyelids, the fairies will become visible as the fairy troop sweeps past the spot, and the gazer be enabled to recognise the prisoner by a peculiarity of dress, or by some token. ... [p12](https://archive.org/details/tracesofelderfai02woodiala/page/12/mode/2up)
+> 
+> The picturesque and beautiful appearance of the "wee folk," their splendid halls and magnificent feasts, are, it is alleged, mere illusions. If you procure a box of fairy ointment, and rub it on the eyelids, you instantly see everything as it really is. The finely-dressed little people are wizened and deformed imps, the splendid halls are damp earth-floored caverns, the sumptuous feasts are a meagre supply of squalid food, and their treasure chests are filled, not with gold, but with mere heaps of withered leaves and other rubbish. [p19](https://archive.org/details/tracesofelderfai02woodiala/page/18/mode/2up).
 
-> The picturesque and beautiful appearance of the "wee folk," their splendid halls and magnificent feasts, are, it is alleged, mere illusions. If you procure a box of fairy ointment, and rub it on the eyelids, you instantly see everything as it really is. The finely-dressed little people are wizened and deformed imps, the splendid halls are damp earth-floored caverns, the sumptuous feasts are a meagre supply of squalid food, and their treasure chests are filled, not with gold, but with mere heaps of withered leaves and other rubbish. [p19](https://archive.org/details/tracesofelderfai02woodiala/page/18/mode/2up)
+A review of multiple versions of the tale suggests that there are various ways in which the ointment may affect the human midwife:
+
+- the human midwife typically sees a sumptuous scene, and the ointment then reveals an impoverished or devlish aspect;
+- the human midwife typically sees an impoerished scene, and the ointment then reveals a supmtuous view;
+- the ointment allows the human midwife to see the fair folk when they are ordinarily invisible to the human eye.
 
 ## Contemporary Tellings of the Traditional Tale
 
-In his telling of the tale (*Fairy Ointment*) on [*The Sleeping King* [CD]](https://burningshed.com/Hugh_Lupton_Daniel_Morden_and_Nick_Hennessey-The_Sleeping_King-CD), Hugh Lupton tells of midwife taken to a poor, ramshackle location, which is then magically transformed to a splendid palace when the ointment is applied. Lupton also prefaces the tale with an opening formed from a separate folk tale that situates the events in Norfolk, identifies the faery folk as *ferishers*, and provides a slightly dark back-story for the (human) mother of the new-born child.
+In his telling of the tale (*Fairy Ointment*) on [*The Sleeping King* [CD]](https://burningshed.com/Hugh_Lupton_Daniel_Morden_and_Nick_Hennessey-The_Sleeping_King-CD), Hugh Lupton describes a midwife being taken to a poor, ramshackle location, which is then magically transformed to a splendid palace when the ointment is applied. Lupton prefaces the tale with an opening that situates the events in Norfolk, identifies the faery folk as *ferishers*, and provides a slightly dark back-story for the (human) mother of the new-born child.
 
 Online, we can find a face to camera telling by Irish storyteller Clare Murphy:
 
