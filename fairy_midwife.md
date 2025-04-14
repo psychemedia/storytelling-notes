@@ -328,7 +328,7 @@ William Bottrell, [*Stories and folk-lore of West Cornwall [Third Series]*](http
 The version of the tale that several of the English folkorists seem to have picked up on was originally communicated by historical novelist Anna Eliza Bray, wife of the Vicar of Tavistock, to one time poet Lauareate Robert Southey. In the early 1830s, she had maintained a regular correspondence with him, her letters covering a wide range of subjects of local interest. The letters were later collected and published in a three volume work, *Traditions, legends, superstitions, and sketches of Devonshire on the borders of the Tamar and the Tavy*.
 
 ```{admonition} Nearly ready, *The Tamar and the Tavy*, 1836
-:class: dropdown
+:class: dropdown seealso
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001652/18360125/013/0001
 
