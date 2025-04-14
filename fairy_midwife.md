@@ -948,6 +948,8 @@ The best living authority I have found on the folk-lore of Beddgelert, Drws y Co
 ```
 
 ```{admonition} Another, previously unpublished, tale from Mr Jones, 1882
+:class: dropdown
+
 https://archive.org/details/ycymmrodor00socigoog/page/n80/mode/2up
 
 Y Cymmrodor: embodying the transactions of the Cymmrodorion Society of London
