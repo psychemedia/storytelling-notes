@@ -98,7 +98,7 @@ ror as I abroad did waik, | heard 2 pitcous cry, And many a Man dif talk that Ba
 
 ae 74a s
 
-Ps I fear tteir malice will not cesfe, til! ihey?ve CUr off 111 Head,
+Ps I fear tteir malice will not cease, till they've Cut off 111 Head,
 
 For 5mvz the honeſt Black-ſmith, aoth make a priecus cry,
 
