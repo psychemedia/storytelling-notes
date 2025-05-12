@@ -4,9 +4,9 @@ Another story that came to me in recent times via my *'Tis Tales* co-teller, Sue
 
 The gist of the tale is this:
 
-> A poor traveller (varously a soldier/pilgrim/woodcutter/orphans) comes upon a cottage; it's cold, and the miserly widow allows the traveller(s) in; he asks for a morsel of food, bit she says she has none; so he asks for a pot of water to boil that he could make a meal for them both, variously stone stoup/axe porridge. The water is brought to the boil, and the stone/axe placed in it. At various points, the traveller(s) taste the liquor, claim it is lacking a little something, which the widow duly obliges with. At the final tasting, the widow is impressed, and asks to buy the stone/axe. The travller leaves well fed and with a coin in their pocket.
+> A poor traveller (varously a soldier/pilgrim/woodcutter/orphans) comes upon a cottage; it's cold, and the miserly widow allows the traveller(s) in; he asks for a morsel of food, but she says she has none; so he asks for a pot of water to boil that he could make a meal for them both, variously stone stoup/axe porridge. The water is brought to the boil, and the stone/axe placed in it. At various points, the traveller(s) taste the liquor, claims it is lacking a little something, which the widow duly obliges with. At the final tasting, the widow is impressed, and asks to buy the stone/axe. The travller leaves well fed and with a coin in their pocket.
 
-In the first version of my *Unforeseen Consequences: Travelling the Road* set (Febrary, 2023), I used a variant of this tale as part of an opening sequence, with a story that started not at the beginning, but in the middle: two children are walking through a forest, `running` through a forest, then `stumbling` through the forest, fleeing some unknown terror; as night falls, they meet two travellers, an old tinker and his wife, coming the other way, in the middle of *their* own story, perhaps. The old couple make camp with the children that night, tell them stories, and in the morning ask the children to join them on their journey. But the children won't go back the way they'd come. THey are given a secret each, and carry on on their way. They pass an old house on the outskirts of a village, and share the knowing glance of outsiders with an old woman stood out in the garden there. In the village, they make camp. The girl is cold, so the boy mays a fire with a flint given to him by the old man. The boy is hungry, and the girl says the old woman told her how to cure that. She goes back to the cottage, asks to borrow a large iron pot such as you might hang over a fire, notices a bowl and takes that too. She fills the pot with water from the well, and children of the village watch her, follow her back, ask what she's doing. Stone soup. Each bring something for it. Villagers come out; girl fills the old woman's bowl, places it by her side. The villages share and talk. The girl looks to the bowl: it is empty. The children leave. Ever since, the people of that village have gathered once a year, shared a meal. And each time they do, a bowl full of soup is left out for anyone who might need it.
+In the first version of my *Unforeseen Consequences: Travelling the Road* set (Febrary, 2023), I used a variant of this tale as part of an opening sequence, with a story that started not at the beginning, but in the middle: two children are walking through a forest, `running` through a forest, then `stumbling` through the forest, fleeing some unknown terror; as night falls, they meet two travellers, an old tinker and his wife, coming the other way, in the middle of *their* own story, perhaps. The old couple make camp with the children that night, tell them stories, and in the morning ask the children to join them on their journey. But the children won't go back the way they'd come. They are each given a secret, and carry on on their way. They pass an old house on the outskirts of a village, and share the knowing glance of outsiders with an old woman stood out in the garden there. In the village, they make camp. The girl is cold, so the boy mays a fire with a flint given to him by the old man. The boy is hungry, and the girl says the old woman told her how to cure that. She goes back to the cottage, asks to borrow a large iron pot such as you might hang over a fire, notices a bowl and takes that too. She fills the pot with water from the well, and children of the village watch her, follow her back, ask what she's doing. Stone soup. Each bring something for it. Villagers come out; girl fills the old woman's bowl, places it by her side. The villages share and talk. The girl looks to the bowl: it is empty. The children leave. Ever since, the people of that village have gathered once a year, shared a meal. And each time they do, a bowl full of soup is left out for anyone who might need it.
 
 In the second iteration of this set, for the first Isle of Wight Steampunk festival, I embed this tale in the *Wish Ring*, as a tale related to a item in Mary's "box of precious things" — a recipe stone, etchd with the word "soup" — merch from the time of once, when a tinker and his wife came travelling to their village.
 
@@ -88,7 +88,6 @@ Where he was, where he wasn't, there was once a poor soldier returning home from
 
 ```
 
-We can also find Scandinavian variants, such as in this tsle of *nail broth*:
 
 ```{admonition} "The Old Woman and the Tramp", in *Fairy tales from the Swedish*, Nils Gabriel Djurklou, 1901
 :class: dropdown
@@ -235,18 +234,10 @@ There was a fryer in London, which did use to go often to the house of an old wo
 
 ```
 
-At the start of the 20th century, the tale did the rounds in satirical form:
+The story also makes an appearance at the start of the nineteenth century:
 
-```{admonition} In *New York Weekly Magazine*, July 1807
-:class: dropdown
-In *New-York Weekly Museum*, Vol 19 Iss 24, July 25th, 1807, [pp??](
-https://archive.org/details/sim_ladies-weekly-museum-or-polite-repository-of-amusement_1807-07-25_19_24/page/n1/mode/2up):
 
-Anecdotes
 
-Two travellers, ready to die with hunger thirst, came to a churlish farmer's begging some little matter to satisfy their stomachs. The Mistress of the house, some servants, and children only were at home. 'Good people,' said the dame, (who as churlish as her husband) 'it is but six miles to the next town, where you may every thing you, want, and we have neither bread nor victuals in the house.' Said one of the travellers 'as for your bread and victuals, we want neither, can you oblige us with a tolerable large flint stone?' 'What for?' 'To make us some soup.' 'Oh! if that be ail,' said the ill-natured Jezebel, 'there are flints enough in the yard, but who the deuce told you a soup was made out of stones?' 'If you will have patience' said the traveller, 'and only assist us with a little water, you shall see'. 'How much water do you want?' 'About a gallon.' The maid was immediately ordered to put it on the fire. The traveller then went into the yard, and having, with great seeming circumspection, picked up a stone, washed it as clean as possible, and as soon as the water boiled soused it into the pot. After it had lain about a quarter of an hour, he gets a spoon. and tasting it, calls the landlady; 'Here ma'am, only take a drop, has not it a most excellent favour?' 'A flavour?' cries she, 'the water is just as it was before'. The other traveller now put in his word, 'you have forgot to put in the pot herbs' 'Faith, so I did,' cried his comrade, 'I thought it wanted something.' 'Prythee, good dame, let us have a few pot-herbs out of the garden, [and as the maid was going for them] bring also, added he, a cabbage, some onions, and two or three carrots; I know I never failed of making soup out of a stone in my life.' 'I'll be shot', says the farmer's wife, 'if you'll make it now.' 'You shall see. Come let me have a little salt and pepper.' He now seasoned the water, and after the garden stuff had boiled some time, he tasted the soup again, handing the spoon a second time to the farmer's wife, with, 'How is it at present?' 'Why,' said she, 'it is something better; but you'll never make soup of it.' 'Faith!' says he, smacking his lips, 'I think it is excellent already: have you ever a bit of beef in the house?' 'I don't know but there is,' said she, 'about two or three ls of a neck.' 'Nothing better— let me have it directly, with half a dozen burnt crusts of bread.' These ingredients were allowed him like the rest. After a proper time he declared the soup was ready, and calling for a dish, poured it out, the stone appearing in the middle. Every one tasted, and declared it was excellent. 'Heaven bless you,' cried the farmer's wife, 'let me have a receipt— my good man will be pleased'. 'Give me a piece of paper', said the traveller, and I'll write it down fer you,' which he did as follows:— *A Receipt to make Stone Soup.* 'Take a large stone, put it into a sufficient quantity of boiling water: properly season it with pepper and salt; and three or four pounds of good beef, a handful of pot herbs, some onions, a cabbage, and three or four carrots; when the soup is made the stone may be thrown away.'
-
-```
 
 And again a century later:
 
@@ -290,7 +281,7 @@ A traveller, apparently wearied, arrived one morning at a small village that lie
 
 "Well! you shall have a pot. There, now what do you want with it?"
 
-"I want," said the Traveller, "tto make a mess of stone soup?"
+"I want," said the Traveller, "to make a mess of stone soup?"
 
 "Stone soup?" cried the woman, "I never heard of that before. Of what will you make it?"
 
@@ -310,6 +301,33 @@ The poor woman could hardly set any bounds to her gratitude; and she and the Tra
 
 Proud of this discovery, she, in general terms, mentioned it to her neighhours. By this means the recipe was promulgated; and it was in the course of many experiments at length found, that other pebbles would make as good soup as that in her possession. The viand now became fashionable through the Canton, and was indeed so generally approved, as to find its way to most of the peasants' tables, where *stone soup* used frequently to be served as the first dish.
 
+```
+
+A few months later, the tale appears as an anecdote in the *New York Weekly Magazine*:
+
+```{admonition} In *New York Weekly Magazine*, July 1807
+:class: dropdown
+In *New-York Weekly Museum*, Vol 19 Iss 24, July 25th, 1807, [pp??](
+https://archive.org/details/sim_ladies-weekly-museum-or-polite-repository-of-amusement_1807-07-25_19_24/page/n1/mode/2up):
+
+Anecdotes
+
+Two travellers, ready to die with hunger thirst, came to a churlish farmer's begging some little matter to satisfy their stomachs. The Mistress of the house, some servants, and children only were at home. 'Good people,' said the dame, (who as churlish as her husband) 'it is but six miles to the next town, where you may every thing you, want, and we have neither bread nor victuals in the house.' Said one of the travellers 'as for your bread and victuals, we want neither, can you oblige us with a tolerable large flint stone?' 'What for?' 'To make us some soup.' 'Oh! if that be ail,' said the ill-natured Jezebel, 'there are flints enough in the yard, but who the deuce told you a soup was made out of stones?' 'If you will have patience' said the traveller, 'and only assist us with a little water, you shall see'. 'How much water do you want?' 'About a gallon.' The maid was immediately ordered to put it on the fire. The traveller then went into the yard, and having, with great seeming circumspection, picked up a stone, washed it as clean as possible, and as soon as the water boiled soused it into the pot. After it had lain about a quarter of an hour, he gets a spoon. and tasting it, calls the landlady; 'Here ma'am, only take a drop, has not it a most excellent favour?' 'A flavour?' cries she, 'the water is just as it was before'. The other traveller now put in his word, 'you have forgot to put in the pot herbs' 'Faith, so I did,' cried his comrade, 'I thought it wanted something.' 'Prythee, good dame, let us have a few pot-herbs out of the garden, [and as the maid was going for them] bring also, added he, a cabbage, some onions, and two or three carrots; I know I never failed of making soup out of a stone in my life.' 'I'll be shot', says the farmer's wife, 'if you'll make it now.' 'You shall see. Come let me have a little salt and pepper.' He now seasoned the water, and after the garden stuff had boiled some time, he tasted the soup again, handing the spoon a second time to the farmer's wife, with, 'How is it at present?' 'Why,' said she, 'it is something better; but you'll never make soup of it.' 'Faith!' says he, smacking his lips, 'I think it is excellent already: have you ever a bit of beef in the house?' 'I don't know but there is,' said she, 'about two or three ls of a neck.' 'Nothing better— let me have it directly, with half a dozen burnt crusts of bread.' These ingredients were allowed him like the rest. After a proper time he declared the soup was ready, and calling for a dish, poured it out, the stone appearing in the middle. Every one tasted, and declared it was excellent. 'Heaven bless you,' cried the farmer's wife, 'let me have a receipt— my good man will be pleased'. 'Give me a piece of paper', said the traveller, and I'll write it down fer you,' which he did as follows:— *A Receipt to make Stone Soup.* 'Take a large stone, put it into a sufficient quantity of boiling water: properly season it with pepper and salt; and three or four pounds of good beef, a handful of pot herbs, some onions, a cabbage, and three or four carrots; when the soup is made the stone may be thrown away.'
+
+```
+
+Another American variant can be found in the *New England Galaxy* of 1826, which tells a tale of a trickster character who may be worth chasing down further:
+
+```{admonition} A cook by practice, as well as by name, 1826
+:class: dropdown
+
+https://archive.org/details/sim_boston-pearl-and-galaxy_1826-06-30_9_455/page/n1/mode/2up
+New England Galaxy, 30th June, 1826, Vol 9 Iss 455
+p3
+
+MR. EDITOR. Many persons in this vicinity, have been considerably amused with the anecdotes, which you have published of Tom Cook. I find, on inquiry, that many are still living in this county, who knew him personally. Some of the anecdotes already published are undoubtedly genuine, as I have ascertained the times and places, when and where he performed his exploits. Respecting others, it is doubtful whether he is the hero, who is entitled to the praise or blame of the ingenuity or depravity, which appears in the stories related. I send you a few others, some of which undoubtedly belong to him, while some are doubtful. MIDDLESEX.
+
+Tom was a cook by practice, as well as by name. Travelling one day fatigued, hungry and pennyless, he called at the house of a substantial farmer, where he found the mistress of the house and her daughters suitably employed. He asked the good woman if she or the young ladies understood how to make stone soup. They acknowledged at once they did not. Tom begged leave to show them, which was granted. He had brought with him a clean, round, smooth stone, of the size of a goose egg; which he exhibited, as the first ingredient, requisite for his purpose. He then called for an iron pot, which he washed clean, and filled in part with pure water, placing the stone carefully at the bottom. This he hangs over the fire, till the water boils. He then calls for fresh meat, salt pork, vegetables, spices, &c., and is readily furnished with them, in so far as the house afforded. Thus, by the time the farmer and his sons came from the field to dinner, there was a much better soup provided, than the family had been used to; so Tom of course was invited to a luxurious meal; while the family wondered that a stone, of the common kind, should make so much difference. After dinner, Tom candidly acknowledged, that the stone was of no service or deserving to the soup; but that he feared, if he had asked bread, they would have given him a stone, so he gave them a stone in return for their bread.
 ```
 
 In deeper history, it seems that the tale was often ascribed to the actions of St. Bernard:
@@ -373,3 +391,22 @@ So they gave him some scraps of meat, a little boiled rice, crust, and some sauc
 Off started St Bernard, refreshed and grateful, and he continued to live on stone soup till the story began to get about. Then the good Abbot laughed heartily, but the people laughed uncomfortably, because it showed meanness. To this day in France, the excellent soup made from oddments is called St Bernard's soup.
 
 ```
+
+Finally, in some remarks made in this 1848 collection, we see further evidence of the tale being a commonplace, alongisde a practical demonstration of a similar principle in the form of a soup kitchen.
+
+```{admonition} An indegenious soldier, 1848
+:class: dropdown
+
+https://archive.org/details/loiteringsineur00corsgoog/mode/2up
+
+Loiterings in Europe; or, Sketches of travel in France, Belgium, Switzerland, Italy, Austria, Prussia, Great Britain, and Ireland
+by Corson, John W
+
+Publication date 1848
+
+p. 358
+
+Swarms of poor women and children came begging and dispen»ng blessings, at a penny each, in that copious dialect of our mother tongue, as distinctive to us, as was the Ionic or Doric to the ancient Greeks — the rich Hibernian. In one desolate country-place, a number of poor creatures were sitting by the side of a road, eating, from wooden dishes, govemment stirabout, made of Indian meal, salt, and water. I had the curiosity to get out of the conveyance, and go into a little temporary shelter, where a couple of functionaries were boiling it in a huge iron kettle, and doling it out in rations. In Dublin, also, a friend and I made a pilgrimage to one of M. Soyer's famous soup kitchens. There is a capital story told of an ingenious soldier foraging, who brought a stone, cleanly washed, to a simple countrywoman, and excited her wonder to the highest pitch, by showing her how to make what he termed stone soup. First, he loaned a pot and water to boil the stone in; then he asked for salt, butter, and vegetables; a little meat, as he said, just to "color" it, and, finally, bread, and a spoon to eat his savory dish. French science, in the hands of M. Soyer, equally astonished the committees of Dublin; and, by means of very simple apparatus, he managed to afford nutriment to thousands, which, from its abundance and extraordinaiy cheapness, deserved to be called famine soup.
+
+```
+
