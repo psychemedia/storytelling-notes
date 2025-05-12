@@ -1638,7 +1638,7 @@ John Gilbert Guy, seventy-eight years old, a retired fisherman of Sennen Cove, o
 
 ## Variants in Northern Mythology
 
-As well as being a staple of "fairy" lore, the midwife / nurse / ointment motifs also appear in other traditions, as described in Benjamin Thorpe's *Northern mythology, comprising the principal popular traditions and superstitions of Scandinavia, north Germany, and the Netherlands* published across three volumes in 1851.
+As well as being a staple of "fairy" lore, the midwife / nurse / ointment motifs also appear in other traditions. Benjamin Thorpe's *Northern mythology, comprising the principal popular traditions and superstitions of Scandinavia, north Germany, and the Netherlands* published across three volumes in 1851 includes several such variants.
 
 ```{admonition}  *Northern mythology*, in three volumes, Benjamin Thorpe, 1851
 :class: dropdown seealso

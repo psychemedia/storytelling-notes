@@ -50,7 +50,7 @@ One day, who should Mrs. Sullivan meet but a cunning woman, well known about the
 
 "Can you get me back my child — my own child, Ellen?" said Mrs. Sullivan with great energy.
 
-"If you do as I bid you," returned Ellen Leah, "you'll know." Mrs. Sullivan was silent in expectation, and Ellen continued— "Put down the big pot, full of water, on the fire, and make it boil like mad; then get a dozen new-laid eggs, break them, and keep the shells, but throw away the rest; when that is done, put the shells in the pot of boiling water, and you will soon know whether it is your own boy or a fairy. If you find that it is a fairy in the cradle, take the red bot poker and cram it down his ugly throat; and you will not have much trouble with him after that I promise you."
+"If you do as I bid you," returned Ellen Leah, "you'll know." Mrs. Sullivan was silent in expectation, and Ellen continued— "Put down the big pot, full of water, on the fire, and make it boil like mad; then get a dozen new-laid eggs, break them, and keep the shells, but throw away the rest; when that is done, put the shells in the pot of boiling water, and you will soon know whether it is your own boy or a fairy. If you find that it is a fairy in the cradle, take the red hot poker and cram it down his ugly throat; and you will not have much trouble with him after that I promise you."
 
 Home went Mrs. Sullivan, and did as Ellen Leah desired. She put the pot on the fire, and plenty of turf under it, and set the water boiling at such a rate, that if ever water was red hot, it surely was.
 

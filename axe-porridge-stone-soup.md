@@ -88,6 +88,7 @@ Where he was, where he wasn't, there was once a poor soldier returning home from
 
 ```
 
+We can also find Scandinavian variants, such as in this tale of *nail broth*:
 
 ```{admonition} "The Old Woman and the Tramp", in *Fairy tales from the Swedish*, Nils Gabriel Djurklou, 1901
 :class: dropdown
@@ -238,10 +239,7 @@ The story also makes an appearance at the start of the nineteenth century:
 
 
 
-
-And again a century later:
-
-```{admonition} The Stone Eaters (Original Recipe) The European Magazine, 1906
+```{admonition} The Stone Eaters (Original Recipe) The European Magazine, 1806
 :class: dropdown
 In *The European magazine, and London review*, October, 1806, Vol 50, [p268-70](https://archive.org/details/europeanmagazin00goog/page/n293/mode/2up):
 
