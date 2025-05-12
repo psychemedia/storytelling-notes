@@ -6,7 +6,7 @@ In one sense, it provides an origin story for the why the men of Ulster were deb
 
 In short, the tale is this:
 
-> One day, the widowed farmer, a commoner, Crundchu, or Cruinniuc, a farmer, returns home to find the beautiful Macha making house. She does — everything. Later, Crundchu is invited to the King's court; the King is showing off his horses; the mem are drinking, and boasting; "do NOT talk of me", the heavily pregnant Macha had said; but when the King said there was nothing faster in all Ireland than his horses, Crundchu let slip his wife was; she was called forth, to prove her speed; she glared at her husband, gestured her state to the rest: "please, you see what state I am in, can't the race wait". But the King would not back down; the race was rum, Macha won, and on crossing the finish line her waters broke; two children were born, but both were dead. "A curse on the men of Ulster — may you suffer as if in the pains of childbirth, for five days and four noights whenever Ulster is in greatest need of you; and this to last for none generations." And so it was.
+> One day, the widowed farmer, a commoner, Crundchu, or Cruinniuc, a farmer, returns home to find the beautiful Macha making house. She does — everything. Later, Crundchu is invited to the King's court; the King is showing off his horses; the mem are drinking, and boasting; "do NOT talk of me", the heavily pregnant Macha had said; but when the King said there was nothing faster in all Ireland than his horses, Crundchu let slip his wife was; she was called forth, to prove her speed; she glared at her husband, gestured her state to the rest: "please, you see what state I am in, can't the race wait". But the King would not back down; the race was run, Macha won, and on crossing the finish line her waters broke; two children were born, but both were dead. "A curse on the men of Ulster — may you suffer as if in the pains of childbirth, for five days and four nights whenever Ulster is in greatest need of you; and this to last for none generations." And so it was.
 
 Tellings:
 
@@ -68,7 +68,7 @@ THE FARMER'S STORY.
 
 "After the long war Crundchu took to himself a wife out of the captives we had taken and settled down on a farmsteading of his own, but for me, I was never a marrying man, kisses never came to me as easily as blows, so I stayed on in the service.
 
-"Still I did not altogether lose sight of Crundchu, as might well have been expected, for he was a famous hand at the roth-cleas, `[Wheel f eat = hammer throwing.]` and used always to come in to the games at the festivals and holidays.
+"Still I did not altogether lose sight of Crundchu, as might well have been expected, for he was a famous hand at the roth-cleas, `[Wheel feat = hammer throwing.]` and used always to come in to the games at the festivals and holidays.
 
 "For many years my old friend lived happily with his captive bride; indeed they were almost too happy, and the Fates took their revenge as is ever the way, and she died suddenly of an unknown sickness; for many months he was inconsolable in his grief until one day a strange and beautiful woman came to his steading and took upon herself the duties of the housewife, and that night she accompanied him to the bed-place and lay by his side within his arms until the dawning.
 
@@ -150,6 +150,29 @@ There are versions of the above in the Yellow Book of Lecan, also in the Book of
 "La sodhain atracht a scret n-ese ar tiachra an galair Rogle Dia di fo cetuair 7 beiridmac7 ingin a n-oentairbirt i. Fir ocus Fial. Amail ro colutar an sluag uili a scrit inna banscalai fos-ceird foo co m-boi hinann nert doib uili 7 an banscal boi isan galur. Bidh aithis tra daib ond uair si ind ainecraca forurmidsie onn-sa. An tan bus ansam duib ni cor bia acht neurt mna seula lib do neuch taircella a coicet sa7 an eret bLs ben a seolai issi eret nom-biaid si i. co cend coic laa 7 cetheora aidchi 7 biaid forib dana co nomadh náo i. co haimsir nonbair. Ba fir son dana. Fordarulil o aimsir Cruneon co haimsir Fergusa meic Domnaill. Ni biid tra an ces sa for mnaib 7 macnaib 7 for Coinculaind ar nar bó do Ulltaib do nach for cach oen no biidh frisan crich anechtair. Is do sein tra ro boi au ces for Ulltaib et reliqiua."
 
 Thus far of a Gaelic story invented to explain the Couvade practice.
+
+---
+
+https://archive.org/details/3762905/page/n21/mode/2up?q=Crunnchu+macha
+
+A descriptive catalogue of the contents of the Irish manuscript commonly called "The Book of Fermoy" [microform]
+by Todd, James Henthorn, 1805-1869; Royal Irish Academy
+
+Publication date 1868
+
+pp.17-19
+
+Fol. 33. a. col. 1. (Five lines from bottom) is a tale with this title ...  "This was how the debility came on the Tlltonians," beginning ... "Whence [proceeded] the debility that was on the Ultonians ? not difficult to tell".
+
+The story is this: Crunnchu, son of Agnoman, was a rich farmer `[Farmer. The word so translated is ... in the original; the very same word which occurs in the disputed compound ..., "the farmer or tribute-paying tribes," of which we have have already spoken.]` of Ulster, whose wife had died. Not long afterwards, as he was sitting in his house alone, a strange woman, well clad, and of good appearance, entered, and seated herself in a chair by the fire. She remained so until the evening without uttering a word, when she arose, took down a #
+#ding trough, went to a chest, as if she was thoroughly at home, took out some meal, #
+#ded it, baked an excellent cake, and laid it on the table for the family. At night Crunnchu, perceiving her excellent qualities, proposed to her to become his wife; to this she consented, and they lived together in great happiness and prosperity, until she became pregnant.
+
+At this time the great annual fair of the Ultonians was proclaimed, and Crunnchu pressed his wife to accompany him thither. This, however, she refused on the ground of her approaching accouchement; so Crunnchu went alone. The sports consisted of sham fights, wrestling, spear-throwing, horse or chariot racing, and other athletic games. In the race, the horses or chariots of the King of Ulster (the celebrateid Conchobhair Mac Nessa `[Conchobhair Mac Nessa. O'Flaherty dates the beginning of his reign B. C. 13,and his death, A. D. 47]`), carried off the palm from all competitors. The bards and flatterers of the Court extolled the royal horses to the skies; they were the swiftest in the world — nothing could compete with them. In the excitement of the moment, Crunnchu publicly denied this statement, and declared that his own wife could excel in fleetness the royal steeds. He was immediately seized, and detained in custody until his words could be put to the proof. Messengers were sent for his wife; she urged her condition and the near approach of the pains of childbirth; but no excuse, no entreaty, was suffered to prevail; she was carried by the messengers to the race course, and forced to run against the king's fleet horses. To the surprise of all, she outran the horses, and reached the goal before them; but in the very moment of her triumph she fell in the pains of labour. Her agonies were increased by the cruel circumstances which had prematurely caused them; but she brought foith twins — a son and a daughter. In the irritation of the moment she cursed the Ultonians, and prayed that they might be periodically seized with pains and debility equal to that which they had compelled her to undergo. And this was the *Ces* [debility or suffering], or as it was also called, *Ces naoidhean* [infant or childbirth suffering] `[Childbirth suffering. It is added that this plague continued to afflict the Ultonians for nine generations. The Book of Lecan says during the reign of nine kings, to the reign of Mal Mac Rocraidbe, A. D. 130. But there were but seven reigns from Conchobhar Mac Nessa to Mal, inclusive. See the list given O'Conor, Stowe Catalogue, pp. 101,102.]`, of the Ultonians.
+
+A tale called `Cochmapc mna Cpunin`, "Courtship of the wife of Crunn," or Crunnchu, is mentioned in the ancient list `[List. It is also in the corresponding list in Trin. Coll. MS. H. 3. 17, under the title of Tochmarc mna Cruinn mc Agnomain. O'Donovan's Catalogue, p. 319.]` of Tales, published by Mr. O'Curry, from the Book of Leinster (*Lectures*, p. 586). The story is also given in the *Dinnseanchus* where Crunnchu's wife is named Macha, and she is mentioned as one of three ladies so called, from whom Ard-Macha, or Armagh, may have had its name. `[Name. Book of Lecan, fol 266. b. b. [pagination of lower margin]. The original, with a translation, and a curious poetical version of the story, are published by Dr. Reeves in his "Ancient Churches of Armagh," p. 41, sq. See also Dr. S. Ferguson's agreeable volume, "Lays of the Western Gael," pp. 23 and 233.]`
+
+Mr. O'Curry states (*ibid.* note), that the whole of this tale is preserved in the Harleian MS. 5280, in the British Museum.
 
 ---
 
@@ -258,6 +281,78 @@ Emain Macha  - Fort navan
 
 Four Machas - another of them gives name to Armagh 
 
+
+
+https://archive.org/details/cuchullinsagain00cuchgoog/page/n10/mode/2up
+
+The Cuchullin Saga in Irish Literature: being a collection of stories relating to the Hero Cuchullin
+by Eleanor HULL , Cuchulain
+
+Publication date 1898
+
+
+pp. 95-
+
+THE DEBILITY OF THE ULTONIAN WARRIORS
+
+This fine story of a wife's self-sacrifice has evidently either been constricted or altered to explain in a popular manner the extraordinary helplessness that, at critical moments in the history of their province, fell upon the Ultonian warriors. (See Additional Note.)
+
+It is, as Mr. Nutt points out, the earliest occurence in post-classic European literature of the widely spread theme of the supernatural wife and the mortal husband, with whom she agrees to stay only so long as he observes certain conditions — not to mention her origin, not to ill-treat her, not to spy upon her — which she imposes.
+
+Our version is taken from the German renderings of Dr. Windisch, published by him with two texts, one from LL. p. 125/B (facsimile), the other from MS. Harl., 5280, fol. 53 B, in *Berichte der K. Sächs Gesellschaft der Wissemchaften Philologisch-Hisiorische Classe* 18S4. Dr. Windisch has there published two translations, which in our English rendering we have combined, using the second, which is fuller and longer, as the foundation, and notifying important additions from the LL. version by square brackets.
+
+VII
+
+THE DEBILITY OF THE ULTONIAN WARRIORS
+
+There lived on the heights and in the solitudes of the hills a rich farmer of the Ultonians, Crundchu mac Agnoman by name. In his solitude great wealth accumulated to him. He had four sons around him. His wife, the mother of his children, died. For a long time he lived without a wife. As he was one day alone on the couch in his house, he saw coming into the mansion a young stately woman, distinguished in her appearance, clothing and demeanour. Macha was the woman's name, *ut periti dicunt*. She sat herself down on a chair near the hearth, and stirred the fire. She passed the whole day there, without exchanging a word with any one. She fetched a kneading-trough and a sieve and began to prepare the food. As the day drew to an end she took a vessel and milked the cow, still without speaking.
+
+When she returned to the house, she turned right about, went into his kitchen and gave directions to his servants; then she took a seat next to Crundchu. Each one went to his couch ; she remained to the last and put out the fire, turned right about again and laid herself down beside him, laying her hand on his side. For a long time they dwelt together. Through his union with her, he increased yet more in wealth. His blooming appearance was delightful to her.
+
+Now the Ultonians frequently held great assemblies and meetings. All, as many as could go, both of men and women, went to the gathering. 'I, too/ said Crundchu, * will go like every one else to the assembly.'
+
+* Go not,' said his wife, * lest you run into danger by speaking of us ; for our union will continue only if you do not speak of me in the assembly.'
+
+'Then, indeed, I will not utter a word,* said Crundchu.
+
+The Ultonians gathered to the festival, Crundchu also going with the rest. It was a brilliant festival, not alone in regard to the people, but as to horses and costumes also. There took place races and combats, tournaments, games, and processions.
+
+At the ninth hour the royal chariot was brought upon the ground, and the king's horses carried the day in the contests. Then bards appeared to praise , ithe king and the queen, the poets and the Druids, his household, the people and the whole assembly. (The people cried), 'Never before have two such horses been seen at the festival as these two horses of the king: in all Ireland there is not a swifter pair!'
+
+'My wife runs quicker than these two horses,' said Crundchu.
+
+'Seize the man,' said the king, 'and hold him until his wife can be brought to the race-contest!'
+
+He was made fast, and messengers were despatched from the king to the woman. She bade the messengers welcome, and asked them what had brought them there. 'We have come for you that you may release your husband, kept prisoner by the king's command, because he boasted that you were swifter of foot than the king's horses.'
+
+'My husband has spoken unwisely,' said she; 'it was not fitting that he should say so. As for me, I am ill, and about to be delivered of a child.'
+
+'Alas for that,' said the messenger, 'for your husband will be put to death if you do not come.'
+
+*Then I must needs go,' she said.
+
+Forthwith she went to the assembly. Every one crowded round to see her. 'It is not becoming,' said she, 'that I should be gazed at in this condition. Wherefore am I brought hither?' 'To run in contest with the two horses of the king,' shouted the multitude.
+
+'Alas!' she cried, 'for I am close upon my hour.'
+
+'Unsheath your swords and hew yonder man to death,' said the king.
+
+['Help me,' she cried to the bystanders, 'for a mother hath borne each one of you.] Give me, (O King), but a short delay, until I am delivered.'
+
+'It shall not be so,' replied the king.
+
+'Then shame upon you who have shown so little respect for me,' she cried. 'Because you take no pity upon me, a heavier infamy will fall upon you.' [What is your name?' asked the king. 'My name,' said she, 'and the name of that which I shall bear, will for ever cleave to the place of this assembly. I am Macha, daughter of Sainreth mac in Botha.] Bring up the horses beside me!' It was done, and she outran the horses and arrived first at the end of the course. Then she gave vent to a cry in her pain, but God helped her, and she bare twins, a son and a daughter, before the horses reached the goal. [Therefore is the place called Emain Macha,' `[Lat., Emania. Now Navan Fort, two miles west of Annagh. For other supposed origins of the name see Ann. Four Masters, A. M. 4532, and notes; Cormac's Glossary, ed. Dr. W. Stokes, p. 63 ; O'Curry MS. Mat., Appendix No. xxxviii. pp. 526-528.]` or 'the twins of Macha.']
+
+All who heard that cry were suddenly seized with weakness, so that they had no more strength than the woman in her pain. And she said, 'From this hour the ignominy that you have inflicted upon me will redound to the shame of each one of you. When a time of oppression falls upon you, each one of you who dwells in this province will be overcome with weakness, as the weakness of a woman in child-birth, and this will remain upon you for five days and four nights ; to the ninth generation it shall be so.' `[ The Cessnóiden Ukad seems, however, to have lasted for a much longer time than this. See Táin bó Cuailgne (Prol. and sec. 94, 96, etc. ), and Additional Note.]`
+
+Thus it was. It continued from the days of Crundchu to the days of Fergus mac Donnell [or till the time of Fore, son of Dalian, son of Mainech, son of Lugaid.] Three classes there were upon whom the debility of the Ultonians had no power, namely, the children and the women of Ulster, and Cuchulin, `[This statement is contradicted by the stories of his birth in so far as they make him a son either of Sualtam or of Conchobar, and tends to prove that the story, which makes him a son of Lugh, is the oldest form.]` because he was not descended from Ulster; none, also, of those who were outside the province were afflicted by it.
+
+This is the cause of the Noinden Ulad or the Debility of the Ultonians.
+
+
+TH: the story of the cattle raid is then given.
+
+
 --
 
 https://www.jstor.org/stable/pdf/29740592.pdf?casa_token=ec_dcA0GBo8AAAAA:dpJiNizGpmPGkqNfRKJnrLLId0eE_Jmy2hqag_2mX98d6VZU8kinMIuErdxLJTz69YB3UBPIkbZrvBblWDKBypC0mEyAaIcNa9AvFvw8wFdJxIzpOAGB
@@ -313,3 +408,16 @@ umiliation, although the text is silent on this.
  is almost literally reduced to the status of an animal when she is forced to
  adopt the role of a horse in a race.
  Status is an important theme in the tale
+
+
+
+ ---
+
+## Cattle Raid of Cooley
+
+The curse strikes during the Cattle raid of Cooley
+
+---
+
+
+
