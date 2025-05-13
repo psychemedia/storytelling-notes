@@ -738,7 +738,7 @@ BRIERLEY, BENJAMIN (1825-1806), English weaver and writer in Lancashire dialect,
 
 In the [Saturday 17 October 1874](https://britishnewspaperarchive.co.uk/viewer/bl/0003226/18741017/061/0003) edition, in a column entitled *The Story-Teller*, the continuation of Bowker's *Goblin Tales* serialisation included two stories: *No. VI—The Little Man's Gift*, and *No. VII.— Mother and Child*. The first of these tales includes a variant of the Fairy Nurse in which a mother visiting a healing well (the Fairies' Well, near Blackpool) is presented with a cure for her child's failing eyesight, which she then tries on her own eye with the typical consequence.
 
-```{admonition}
+```{admonition} The Little Man's Gift, October 1874
 :class: dropdown
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0003226/18741017/061/0003
