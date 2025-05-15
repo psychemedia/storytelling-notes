@@ -2429,3 +2429,75 @@ Among the tales of the South African Bechuana, there is one of a younger brother
 Danish A, B are translated by Prior, i, 381, 384. English B, with use of C, is translated by Grundtvig, Engelske og skotske Folkeviser, p. 104, No 15; C, by Afzelius, in, 22. C, by Talvj, Versuch, u. s. w., p. 532; by Schubart, p. 133; by Gerhard, p. 143; by Doenniges, p. 81; Arndt, p. 238. C, with use of Aytoun's compounded version, by R. Warrens, Schottische V. L. der Vorzeit, p. 65; Allingham's version by Knortz, Lieder u. Romanzen Alt-Englands, p. 180.
 
 ```
+
+There is also a Ukrainian variant:
+
+```{admonition} The Three Brothers, 1894
+:class: dropdown
+
+https://archive.org/details/cossackfairytal00bain/page/200/mode/2up
+R. Nisbet Bain, *Cossack fairy tales and folk-tales*, 1894
+
+pp. 201-205
+
+THE THEEE BROTHERS.
+
+THERE were once upon a time three brothers, and the third was a fool. And in their little garden grew golden apple trees with golden apples, and not far off lived a hog that had taken a fancy to these apples. So the father sent his sons into the garden to guard the trees. The eldest went first, and sat and sat and watched and watched till he was tired of watching, and fell asleep. Then the hog crept in, and dug and dug till he had digged up an apple tree, which he ate up, and then went his way. The father got up next morning and counted his apple trees, and one of them was gone. The next night the father sent the second S0n to watch. He waited and watclied till he also fell asleep, and the hog came again and dug up and ate another golden apple tree and made off. The next morning the father got up again and counted his trees, and another was gone. Then the fool said :
+
+"Dad, let me go too!" But the father said:
+
+"Oh, fool, fool, wherefore shouldst thou go? Thy wise bi'ethren have watched to no purpose, what canst thou do?"
+
+"Hoity-toity!" said the fool; "give me a gun, and I'll go all the same." His father wouldn't give him a gun, so he took it and went to watch. He placed his gun across his knees and sat down. He sat and sat, but nothing came, nothing came ; he got drowsy, was nodding off, when his gun fell off his knees, and he awoke with a start and watched more warily. At last he heard something — and there stood the hog. It began to dig up another tree, when he pulled the trigger and — bang ! His brothers heard the sound, came running up, were quite amazed to see a ddftd boar lying there, and said:
+
+"What will become of us now?"
+
+"Let us kill him," said the eldest brother, "and bury him in that ditch, and say that we killed the hog." So they took and slew him, and buried him in the ditch, and took the hog to their father, and said:
+
+"While we were watching this hog came up and began digging, so we killed him and have brought him to you."
+
+One day a nobleman came by that way, and was surprised to see a beautiful alder bush growing out of the ditch ; so he went up to it, cut off a branch, made him a flute out of it, and began playing upon it. But the flute played of its own accord, and made this moan :
+
+"Play, good master, play. But steal not my heart away! Me my brothers took and slew. In the ditch my body threw. For that hog shot down by me. That rooted up the tree!"
+
+The nobleman then went on to the inn, and there he found the fool's father. "Such a funny thing has happened to me," said the nobleman. "I went and cut me out a flute from an alder bush, and lo! it plays of its own accord!" Then the father took and tried his hand at it, and it sang:
+
+"Play, good daddy, play.  
+But don't steal my heart away!  
+Me my brothers took and slew,  
+In the ditch my body threw.  
+For that hog shot down by me.  
+That rooted up the tree!"
+
+The father was so astonished that he bought it, and took it home, and gave it to the mother for her to play upon it, and it sang:
+
+"Play, good mammy, play,  
+But don't steal my heart away!  
+Me my brothers took and slew.  
+In the ditch my body threw,  
+For that hog shot down by me,  
+That rooted up the tree!"
+
+Then the father gave the flute to his brothers to play upon, but they wouldn't. "Nay, but you must!" said their father. Then the younger brother took and played upon it:
+
+"Play, my brother, play.  
+But don't steal my heart away  
+Me my brothers took and slew,  
+In the ditch my body threw;  
+For the hog shot down by me.  
+That rooted up the tree!"
+
+Then the father gave the flute to the elder brother who had slain him, but he wouldn't take it. "Take it and play upon it!" roared his father at him. Then he took it and played:
+
+"Play, my brother, play.  
+But don't steal my heart away!  
+'Twas thou who didst me slay.  
+And stowed my corpse away.  
+For the hog shot down by me,  
+That rooted up the tree!"
+
+"Then it was thou who didst slay him?" cried the father. What could the elder brother do but confess it! Then they dug the dead man up, and buried him in the cemetery; but they tied the elder brother to a wild horse, which scattered his bones about the endless steppe.
+
+But I was there, and drank wine and mead till my beard was wet.
+
+```
