@@ -3,6 +3,7 @@
 TO DO
 
 cf. Ross on Wye May Hill Old Ellen - similar madness within the family?
+ALso the family beguiled by Mary Doheny, the Carrick Witch
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000196/18680808/202/0006
 Aris's Birmingham Gazette - Saturday 08 August 1868

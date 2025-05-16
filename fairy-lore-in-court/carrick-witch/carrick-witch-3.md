@@ -11,13 +11,13 @@ Waterford Mirror and Tramore Visitor - Wednesday 26 October 1864
 *The Carrick Witch.*— Mary Doheny, the old lady who set "Carrick and the country" in a blaze by her "witchcraft," was convicted at Clonmel quarter sessions on Wednesday, and sentenced to twelve months' imprisonment.
 ```
 
+For the *Clare Journal and Ennis Advertiser*, the evidence as presented to the QUarter Session was substantially the same as had appeared before, and only the verdict, and Mary's response to it, merited much comment.
 
----
+```{admonition} Similar evidence to before, October 1864
+:class: dropdown
 
-TO DO
 https://britishnewspaperarchive.co.uk/viewer/bl/0001317/18641027/059/0004
-Thursday 27 October 1864
-
+Clare Journal and Ennis Advertiser - Thursday 27 October 1864
 
 THE CARRICK WITCH CASE.
 
@@ -34,9 +34,7 @@ Court— You could not return more proper verdict. The party sitting on the chai
 Prisoner— Oh! my lord, think of my poor blind man, and my two poor children.
 
 Court—You are a terrible woman and a impostor. You must confined in jail for 12 months and kept to hard labour.
-
-
---
+```
 
 The trial itself was widely reported in the British, as well as Irish, press.
 
@@ -70,55 +68,7 @@ The Carrick Witch Case.— We have to thank the editor of the "Tipperary Free Pr
 
 ```
 
-
----
-
-TO DO
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000790/18641021/045/0003
-Tipperary Free Press - Friday 21 October 1864
-
-A WITCHING TALE.
-
-'Twas only a bubble, hard labor and trouble,  
-Await the weird witch's delusive career.  
-The eloquent Chairman (none doubt lie's a fair man,)  
-Has taught her the cost of her humbug was dear,  
-(The *making* of dead men) which she had led men  
-To hope the return of friends they had believed  
-Had gone to the region where many legion  
-Is formed, of folks of this world bereaved.
-
-She had'nt lean jaws or long nails on her paws, or  
-A squinting black cat, or mystical broom—  
-Nor hair long and tangled, nor waist-belt bespangled  
-With Zodiac symbols of fortune or doom.  
-But though it's not stated by wight out belated  
-That she took a *fly* by the moon's silver sheen—  
-She certes succeeded towards fortune to speed it  
-By aid of a *bluebottle* clothed in green.
-
-She'd show you the sister who when you first missed her,  
-Yon felt that a treasure was taken away;  
-Or if you would rather shake hands with your father,  
-She'd bring the old gentleman out of his clay.  
-No wonder she'd fleece men when two bowld policemen  
-Would swear such assertion was positive fact;  
-It closed mercy's bowels, though best of the *vowels*  
-Was *consonant* in the defence each act.
-
-In troth 'twas a pity that gentleman *pretty*,  
-Whose office is *peace*, should avail of the chance  
-Of taking to boltin' when she, a bad "holt" in,  
-A candidate was for a *wheeling* fast dance,  
-Where bearded inspector no more would detect her,  
-Or *heard* be, where "*grub*" was so often required.  
-The close of the Session left Mary a mesh in.  
-She's now from the world for one year retired.
-
-DE "JURE."
-
----
+Prefacing its report of the case, the *Waterford Mail* reviews the advice given by the presiding judge to the jury at the start of the session, with notable remarks being made toward's Mary's case.
 
 ```{admonition} Clonmel Quarter Sessions, October 1864
 :class: dropdown
@@ -200,12 +150,12 @@ There being no other cases to be disposed of, the court adjourned.
 
 ```
 
-The report in the *Clonmel Chronicle* includes the full indictment, and a slightly different closing at the end of the case...
+An even more comprehensive report of the trial given in the *Clonmel Chronicle* includes the full indictment, and a slightly different take on the closing at the end of the case...
 
 ```{admonition} The indictment is read, October 1864
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0003179/18641022/022/0003?browse=true
+https://britishnewspaperarchive.co.uk/viewer/BL/0003179/18641022/022/0003
 Clonmel Chronicle - Saturday 22 October 1864
 
 CARRICK-ON-SUIR WITCHCRAFT CASE
@@ -399,29 +349,6 @@ Prisoner– Oh––
 Court– You must go to gaol for twelve months, and be kept to hard labour.
 ```
 
-
----
-
-TO DO
-
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000790/18650505/026/0003
-Tipperary Free Press - Friday 05 May 1865
-
-Clonmel Poor Law Union
-
-...
-
-The master also stated that a blind man called have a communication with his child in the house, he asked him to take out the child and he said he would’nt. His name is Doheny.
-
-Alderman Hackett—Is he the husband of the celebrated witch?
-
-Master— He is, sir.
-
-Mr. Gordon— The father of the child is blind and the mother is in gaol.
-
----
-
 As well as reporting on the court proceedings, the *Clonmel Chronicle* sought to identify what might have given Mary Doheny the idea to perpetrate such a fraud, suggesting it might well have been a case she would have heard when acting as a witness in another case, at Dungarvan, several years before.
 
 ```{admonition} Mary Doheny's Inspiration? October 1864
@@ -561,4 +488,3 @@ https://britishnewspaperarchive.co.uk/viewer/bl/0000363/18641028/011/0003
 Carlisle Journal - Friday 28 October 1864
 
 ```
-

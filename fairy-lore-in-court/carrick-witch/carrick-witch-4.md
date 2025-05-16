@@ -1,33 +1,53 @@
 # Aftermath
 
-Mary Doheny's story does not quite end there, though, appearing, along with the name by which she was better known — the *Carrick Witch* — in occasional press reports for several more years to come.
+With Mary in gaol, and her family's source of income, even if not of the pecuniary kind, seriously curtailed, and her blind husband perhaps unable to look after their child himself, it seems that the child had been homed in the Colnmel Poor Union Poor House.
 
+```{admonition} Mary DOheney's husband appeals to the Poor Law Union, May 1865
+:class: dropdown
 
-TO DO
+https://britishnewspaperarchive.co.uk/viewer/bl/0000790/18650505/026/0003
+Tipperary Free Press - Friday 05 May 1865
 
+Clonmel Poor Law Union
 
---
-TO DO
+...
+
+The master also stated that a blind man called have a communication with his child in the house, he asked him to take out the child and he said he would’nt. His name is Doheny.
+
+Alderman Hackett—Is he the husband of the celebrated witch?
+
+Master— He is, sir.
+
+Mr. Gordon— The father of the child is blind and the mother is in gaol.
+
+```
+
+But Mary Doheny's story does not quite end there, for we continue to find traces of her, typically identifed as the *Carrick Witch*, in several press reports over the following ten years or more.
+
+From the first direcly report we have of her since her being sentenced to a year's imprisonment with hard labour, we learn that she must have been admitted to the Clonmel Poor House, for in July 1866, she is seeking to be discharged from there.
+
+```{admonition} Application for discharge, July 1866
+:class: dropdown
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000790/18660727/050/0002
 Tipperary Free Press - Friday 27 July 1866
+
+Clonmel Union
+
+...
 
 THE CARRICK WITCH.
 
 Among the several persons who applied to be discharged with the view of getting employment, was the celebrated Mary Doheny, the Carrick witch, whose feats of necromancy, and pretended communication with the spirits of the dead, some two years ago, at Carrick, set some local folk by the ears, and afforded "original matter" for gullible penny a linearism.
 
-The pseudo witch, on applying for permission to take her discharge, betrayed evident symptoms of uneasineness as some of the guardians began to put questions to her as to her previous residence, antecedents &c., and the suggestive word "Carrick,"
+The pseudo witch, on applying for permission to take her discharge, betrayed evident symptoms of uneasineness as some of the guardians began to put questions to her as to her previous residence, antecedents &c., and the suggestive word "Carrick," with its world of associations of the verdant and gullible, was stated by Mary as the last residence she occupied previous to her two years change of airin the Gaol.
 
-TO DO
-
- vith its world of associations of the and jjulliMe, was slated Mary as the last residence she occupied previous to her two years «ha»ij!C «»f nir in the Gaol.
-
-She stated to the hoard tlmt her husband, Mind man. earned his living selling papers Clonmel, and it will he remembered that the blind husband, in the days of Mary's acknowledged sway.nol onlyjover the living, but also over the dead, played an impor* talit pari Ih© nefarious plot, so widely and successfully developed the Carrick witch, sitting an waste bouse, dre«scd in sheet and shroud, and representing the ghost of some departed persons, whose anxious relatives were answered many questions as the* choose put the blind ghost, nhent the fate their deceased friends and relatives. Food, money, and other material comforts usually required hv the inhabitants of this earth of ours" were said by the sheeted and shrouded blind ghost ns much needed in the ** land of the leal," and forthwith, money., eggs, tea, and other creature comforts, which were supplied in abundance in a dressed state.had to presented in raw and unpres pared state the fairy rath at Ballydinc.as deceased got tired of this state things, and wished, like tv mortals, for change of diet, said change **eir»g 'ranch :i hetter business in Mary's line Than the prepared matters the hill* of gastromony. *lt -Is trecdlcss say that the celebrated Mary •‘Dolicny was allowed to take her discharge.
+She stated to the board that her husband, a blind man, earned his living by selling papers in Clonmel, and it will be remembered that the blind husband, in the days of Mary's acknowledged sway, not only over the living, but also over the dead, played an important part in the nefarious plot, so widely and successfully developed by the Carrick witch, by sitting in a waste house, dressed in sheet and shroud, and representing the ghost of some departed persons, whose anxious relatives were answered as many questions as they choose to put to the blind ghost, about the fate of their deceased friends and relatives. Food, money, and other material comforts usually required by the inhabitants of this "earth of ours" were said by the sheeted and shrouded blind ghost, to be as much needed in the "land of the leal," and forthwith, money, eggs, tea, and other creature comforts, which were supplied in abundance in a dressed state, had to be presented in a raw and unprepared state  at the fairy rath at Ballydine, as deceased got tired of this state of things, and wished, like ordinary mortals, for a change of diet, said change being much a better business in Mary's line than the prepared matters in the bills of gastromony. It is needless to say that the celebrated Mary Doheny was allowed to take her discharge.
 
 The guardians, after transacting soma minor routine business adjourned.
+```
 
-
---
+Her reputation, or notoriety, as "the Carrick witch" seems hard for her to escape.
 
 ```{admonition} Seeking a discharge, July 1866
 :class: dropdown
@@ -52,11 +72,10 @@ Waterford News - Friday 10 August 1866
 The Carrick Witch.—— Mary Doheny, the Carrick witch, having undergone her term of imprisonment for her necromancy, in Clonmel gaol, then took refuge in the poorhouse of that town, and on Thursday last she applied to the board to be discharged, to seek employment. She stated to the board that her husband, a blind man, earned his living by selling paper in Clonmel, and it will be remembered that the blind husband, in the days of Mary's acknowledged sway, not only over the living, but also over the dead, playing an important part in the nefarious plot, so widely and successfully developed by the Carrick witch, by sitting in a waste house, dressed in sheet and shroud, and representing the ghost of some departed persons, whose anxious relatives were answered as many questions as they choose to put to the blind ghost, about their deceased friends and relatives, in return for which the "blind ghost" was supplied by the gulled with money, eggs, tea, clothes, &c., which he represented to the credulous were needed by the "revived spirits." Mary was, of course, allowed to depart, but her future mode of "raising the wind" was not mooted.
 ```
 
+On being discharged, she appears to have taken on work as a child minder. But when the mother apparently absconds, leaving Mary unpaid and unable to afford to look after the child, she returns to the Clonmel Union seeking admittance for the child into the poor house.
 
-
---
-TO DO
-
+```{admonition} An application to the Poor House, September 1866
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000790/18660914/025/0002
 Tipperary Free Press - Friday 14 September 1866
 
@@ -65,12 +84,11 @@ Clonmel Poor Law Union
 ...
 
 Mrs. Doherty `[sic]`, the "Carrick witch," applied to have a child named Flaherty who had been left to her care by her mother, taken into the house. It appeared that the mother had been hired out for harvest work at rumunerative wages and had agreed to pay the "witch" 1s 6d per week for supporting the child, buf a fortnight had now elapsed, and no tale or tidings could be had of her whereabouts, consequently the above request was made. The child was admitted and a warrant issued for the apprehension of the mother.
+```
 
----
+A couple of years later, Mary Doheny would be found at the Clonmel Sessions having brought a charge for an assault upon herself and another woman.
 
-A couple of years later, Mary Doheny would be found at the Clonmel Sessions having brought a charge herself.
-
-```{admonition} Grievous Assault, Teeth Knocke Out, July 1869
+```{admonition} Grievous Assault, Teeth Knocked Out, July 1869
 :class: dropdown
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000790/18690709/046/0003
@@ -99,25 +117,58 @@ The defendant pleaded guilty to this assault.
 For the offence he was sentenced pay £2 and 2s costs, or in default three months' imprisonment with hard labor. For the second assault he was sentenced 5s and costs or one week's imprisonment.
 ```
 
+Notwithstanding that the accused was clearly guilty of assaulting Mary, knocking out three of her teeth, as well as breaking a considerable amount of her crockery, the defendant's solicitor sought to ridicule Mary as much as he could for her previous activities.
 
-TO DO
-
+```{admonition} Are you post-mistress yet? July 1869
+:class: dropdown
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0003179/18690710/037/0003
 Clonmel Chronicle - Saturday 10 July 1869
 
-Mary Doheny (*alias* the Witch) v. Wm. O'Donnell. The complainant is the  who helt, seein for the relicf « gallant | nell. to 12 months' It was announced that the Poor Law Commi during | 8 few years late Sergeant How! sioners transmit for the use of the board « for the. in the “ dead letter" post-office at Moat of Ball of the annual y this Kenny—Mary, are you ear, Comp: ‘nd report under the Irish Pos gh the | yet? the 17th report under the of Pen- yer twelve letter was read from the commi months for that, and your honar, T gave my a The to a matter which occupied the a friend to me while I was indus- tention of the board at their Mary, on sworn, om earn my which the guardians and thering watercresses ; a blind husband, I have 4 foom in I keep decent lodgers, and when I “ Poor La dge, on came home the other the defendant and ano- Dublin, Sth July, 1869. h Regi- porter in my room; ledge ¢ day. other man I and he. defendant was a the relief of the poor in Isdland acknow! of the minutes of proceedings of mine, but I know him; the other ‘Tipperary Union on the 29th 1 of the | man went away, and at 1 I told fellow off his coat, | and with reference to the a aid of to his ion expressed by the committee of down on the stool ; there up the sleeves of his shirt, and district, to the effect th the room, named St. John, to whom. he services of a paid midwife is not necessary used bad words, and I insisted on out, | the district, the commissioners request that when he gave me a fist, | be informed whether any one of the women in t ent, for out three of my front teeth [one of which to in the minutes as being w ualification from any bo y hapded up to the bench], and after art of midwifery, possess authorized to grant it. order of the comm the See me into a mummy all my « B. Banxs, Chicf Clerk." the room, by the bei. The Chairman said that the best answ er was tl the debri the persons mentioned the dut china-ware, w! on the court, | most successfull; (hear, hear, at Fan- ly described as poor — vi = al O'Donohoe: —I drank | condition of their respecti water supply in the ville none of the beer; I most imper
+Mary Doheny (*alias* the Witch) v. Wm. O'Donnell. The complainant is the Carrick celebrity, who a few years since was sentenced to 12 months' imprisonment by the late Sergeant Howley for keeping the "dead letter" post-office at the Moat of Ballydine.
 
----
+Alderman Kenny—Mary, are you post-mistress yet? (laughter)
 
-TO DO
+Complainant—Sure, yer honor, I gave my twelve months for that, and your Reverence wasn't a bad friend to me while I was in gaol.
+
+Mary, on being sworn, said—I am a poor industrious woman, with a blind husband, and I earn my living by gathering watercresses; I have a little room in which I keep decent lodgers, and when I came home the other night, the defendant and another pensioner were drinking porter in my room; the other man I knew, and he said defendant was a friend of mine, but I did not know him; the other man went away, and at 11 o'clock I told this fellow to go to his lodgings, when he took off his coat, tucked up the sleeves of his shirt, and deliberately sat down on the stool; there was a young woman in the room, named Peggy St. John, to whom he used bad words, and I insisted on his going out, when he gave me a blow with his clenched fist, knocked out three of my front teeth [one of which witness handed up to the bench], and after beating me into a mummy he broke and smashed all my little cups, saucers, plates, and bowls, and then dragged Peggy around the room, by the hair. [Witness here produced a bag which contained the *debris* of her china-ware, which, on exhibiting to the court, she properly described as being smashed into *smithereens*].
+
+Cross-examined by Mr. O'Donohoe:—I drank none of the beer; I wouldn't drink with you if you acted *on* decent (laughter); I lived honestly in Carrick; to be sure I got 12 months from Sergeant Howley for bringing letters from the dead to a policeman, but didn't I suffer for that? I was called "the witch," but what of that? I could tell you something about yourself, Mr. O'Donnell (laughter).
+
+Alderman Kenny—Mary, that is Mr. O'Donohoe (laughter).
+
+Witness—May be so, yer honor; but he has great talk, whoever he is. To be sure I gave defendant the door when I saw his badness, and when I did give him the door, faith he gave me his benediction (laughter). I know where the Moat of Ballydine is well, and I think I saw you there one night (laughter); I don't keep a post-office there; I don't know where the poor policeman now is, that his dead relations wrote to (laughter).
+
+Margaret St. John, on being sworn, fully corroborated the evidence of complainant.
+
+Alderman Kenny (to prisoner)—Are you a pensioner?
+
+Prisoner—Yes, sir; I have 10d. per day, for two years, from the 19th Hussars.
+
+Mayor—The bench is of opinion that this offence is clearly proved, and the sentence of the court is, that you be imprisoned, with hard labour, for three months, in default of payment of a penalty of £2 10s. and costs,—one-third of the penalty to be paid to the complainant.
+
+The same defendant, in addition to the above sentence, was fined five shillings and costs, or one week's imprisonment, for an unprovoked assault upon Margaret St. John. The plaintiff complained to the court of the mode of cross-examination adopted towards her by the solicitor for defendant.
+
+Mayor—That gentleman only acted according to his instructions, and merely did his duty; but you leave this court without the slightest imputation on your character.
+
+The other magistrates concurred in the observations of his Worship.
+```
+
+On complaining about his behaviour, the response was essentially "no harm done" and Mary was told there was no stain on her character arising from his words.
+
+But the public ridicule was to continue, to such an extent that the following year, Mary brought a charge against a policement who had been taunting her and encouraging others to do the same. The case was dismissed.
+
+```{admonition} Taunted about the Ballydine Post Office, June 1870
+:class: dropdown
+
 https://britishnewspaperarchive.co.uk/viewer/bl/0000790/18700617/024/0002
 Tipperary Free Press - Friday 17 June 1870
 
-At tho Co. Tipperary Petty Session, held this day. before Hon. S. F. Carew, R.M , P. Gough, Alderman Kenny (Mayor), and Henry Moore, a policeman named Muldowney, Lisronagh station, was charged by Mary Doheny, the notorious Carrick witch, with assaulting her. Complainaut stated she was returning from the Fethard races when the defendant commenced humbugging her about the Ballydine Post Office, and gave indirect encouragement to other parties to hoot and pelt her, which they did, and also her husband a blind man. The case was dismissed.
+At tho Co. Tipperary Petty Session, held this day. before Hon. S. F. Carew, R.M , P. Gough, Alderman Kenny (Mayor), and Henry Moore, a policeman named Muldowney, Lisronagh station, was charged by Mary Doheny, the notorious Carrick witch, with assaulting her. Complainant stated she was returning from the Fethard races when the defendant commenced humbugging her about the Ballydine Post Office, and gave indirect encouragement to other parties to hoot and pelt her, which they did, and also her husband a blind man. The case was dismissed.
 
---
-And then a few years later on, she would also appear as a witness in another case of violence:
+```
+
+Another couple of years passed, and Mary was back in court, this time as a witness in another case of violence:
 
 ```{admoniton} Called as a witness, Aoril 1872
 https://britishnewspaperarchive.co.uk/viewer/bl/0003179/18720420/032/0003
