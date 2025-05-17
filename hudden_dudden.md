@@ -838,7 +838,7 @@ According to the preface of William Frost's version of *Hudden and Dudden and Do
 
 "'Well, Donald said never a word, but he kept thinking, and those words 'all your sorrows are nearly over' gave him something particular to think about, and it wasn't long till he began to see his way, if he could only get a chance to do what he was thinking of.
 
-"They took up the sack and they carried it by turns for a time, but both of them soon began to get mighty tired and thirsty. Then they came to a tavern, and they left the sack outside, and Donald in it, and went in to get a drink. Donald knew that if they once began drinking they would stay inside for some time. Then pres- ently he heard a great trampling sound, and he knew it must be a herd of cattle coming, and he knew there must be somebody driving them. With that he began singing, like he was the happiest man in the world.
+"They took up the sack and they carried it by turns for a time, but both of them soon began to get mighty tired and thirsty. Then they came to a tavern, and they left the sack outside, and Donald in it, and went in to get a drink. Donald knew that if they once began drinking they would stay inside for some time. Then presently he heard a great trampling sound, and he knew it must be a herd of cattle coming, and he knew there must be somebody driving them. With that he began singing, like he was the happiest man in the world.
 
 ![](images/fairiesfolkofire00fros_0197.jpg)
 
@@ -852,7 +852,7 @@ According to the preface of William Frost's version of *Hudden and Dudden and Do
 
 "'Ah, be reasonable!' says the man. 'I'll pay you well.'
 
-"'I tell you the whole world couldn't do it,' says Donald. 'It's not every day a man gets a chance to go to heaven. Think of being over with all the sorrows and the troubles of this world, and nothing but happiness any more for- ever. Sure rid be a fool if I'ld give it up.'
+"'I tell you the whole world couldn't do it,' says Donald. 'It's not every day a man gets a chance to go to heaven. Think of being over with all the sorrows and the troubles of this world, and nothing but happiness any more forever. Sure rid be a fool if I'ld give it up.'
 
 "'Oh, but think of me,' says the man. 'It's me that has the sorrows on me so that I can't bear them. There's my wife died three months ago, and all the children was dead before her, and it was she always helped me with the farm and knew how to manage better nor myself, so that now she's gone I can do nothing with it. And I've lost money on it till I can't pay the rent, and now I'll lose the farm itself, and here I am driving these cattle to town to sell them to get money to take another piece of land and keep the life in me, and yet I don't want to live at all. Oh, give me your place in that sack and you'll go to heaven in your own time, if it was only for that one good deed. Give me your place and I'll give you these twenty fine cattle, and you'll have better luck nor me and you'll surely do well with them.'
 
@@ -860,9 +860,9 @@ According to the preface of William Frost's version of *Hudden and Dudden and Do
 
 "So with that the man untied the sack and Donald got out of it and he got into it, and Donald tied it up again. Then Donald went away home, driving the cattle before him.
 
-"It was not long then till Hudden and Dud- den came out of the inn, and they took up the sack, thinking that Donald was still inside it, and they took it to the river and threw it into a deep place. Then they went home, and there they found Donald before them, and a herd of the finest cattle they ever saw. 'How is this, Donald?' they said. 'We drowned you in the river, and here you are back home before us. And where are you after getting all these cattle?'
+"It was not long then till Hudden and Dudden came out of the inn, and they took up the sack, thinking that Donald was still inside it, and they took it to the river and threw it into a deep place. Then they went home, and there they found Donald before them, and a herd of the finest cattle they ever saw. 'How is this, Donald?' they said. 'We drowned you in the river, and here you are back home before us. And where are you after getting all these cattle?'
 
-"' Oh, sure,' says Donald, 'it's myself has the bad luck all out. Here I've only twenty of these cattle, and if I'd only had help I could have had a hundred — aye, or five hundred. Sure in the place where you threw me in, down at the bottom of the river, there was hundreds of the finest cattle you ever saw, and plenty of gold be- sides. Oh, it's the misfortunate creature that I am, not to have any help while I was down there. Just these poor twenty was all I could manage to drive away with me, and these not the best that was there.'
+"'Oh, sure,' says Donald, 'it's myself has the bad luck all out. Here I've only twenty of these cattle, and if I'd only had help I could have had a hundred — aye, or five hundred. Sure in the place where you threw me in, down at the bottom of the river, there was hundreds of the finest cattle you ever saw, and plenty of gold besides. Oh, it's the misfortunate creature that I am, not to have any help while I was down there. Just these poor twenty was all I could manage to drive away with me, and these not the best that was there.'
 
 "Then they both swore that they would be his friends if he would only show them the place in the river where they could get cattle like his.
 
@@ -1014,7 +1014,7 @@ The clerk crept quickly out, pushed the empty chest into the water, and went to 
 
 So he sent a boy to Great Claus to ask for a bushel measure.
 
-"Whatt can he want with it?" thought Great Claus. And besmeared some tar underneath the measure, so that some part of whatever was measured should stick to- it. And thus it happened; for when he received the measure back, there were three new eight-shilling pieces adhering thereto.
+"Whatt can he want with it?" thought Great Claus. And besmeared some tar underneath the measure, so that some part of whatever was measured should stick to it. And thus it happened; for when he received the measure back, there were three new eight-shilling pieces adhering thereto.
 
 "What's this?" cried Great Claus; and he ran off at once to Little Claus. "Where did you get all that money from?"
 
@@ -1163,11 +1163,11 @@ Well, the poor man looked at the best baste in the dhrove, an' at the worst bast
 
 "I'll take so-much," sez he, mentionin' it.
 
-"Ah right," sez the other, "I'll give ye yer axin'." An' into his yard he had the whole dhrove dhriven. It was no use what- somiver for the poor man to object, for the other said he bought the best an' the worst of the cattle, which was all of the cattle, an' he had witnesses to prove it.
+"Ah right," sez the other, "I'll give ye yer axin'." An' into his yard he had the whole dhrove dhriven. It was no use whatsoever for the poor man to object, for the other said he bought the best an' the worst of the cattle, which was all of the cattle, an' he had witnesses to prove it.
 
-Away the poor man, in spite of himself, had to go with the price of barely two bastes in his pocket in payment for his whole dhrove, an' away he went lamentin', an' not knowing how he'd face back to his family again, with their wee trifle of money as good as gone. That night he put up in a public- house, an' the woman of the house comin' to larn the poor fella's lament axed him why he didn't go to the Counsellor, an' have his advice on it. If it did him no good, she said, it couldn't anyhow do him no harm, an' if there was wan way in a thousand out of it Dan would soon find that way.
+Away the poor man, in spite of himself, had to go with the price of barely two bastes in his pocket in payment for his whole dhrove, an' away he went lamentin', an' not knowing how he'd face back to his family again, with their wee trifle of money as good as gone. That night he put up in a public-house, an' the woman of the house comin' to larn the poor fella's lament axed him why he didn't go to the Counsellor, an' have his advice on it. If it did him no good, she said, it couldn't anyhow do him no harm, an' if there was wan way in a thousand out of it Dan would soon find that way.
 
-Right enough, the very next mornin' to the Counsellor the poor man set out, an' laid a full programme of his case afore Dan, an' axed him could anything be done. No an- swer Dan give him, till first he took three turns up an' down the parlour; and then, —
+Right enough, the very next mornin' to the Counsellor the poor man set out, an' laid a full programme of his case afore Dan, an' axed him could anything be done. No answer Dan give him, till first he took three turns up an' down the parlour; and then, —
 
 "Yis" sez Dan, "somethin' can be done. There's wan way you can get back yer cattle, an' only wan."
 
@@ -1425,7 +1425,7 @@ So they come to the village, and the first one takes the flute; and no sooner ha
 
 "Good, brother," says he, "no sooner did I play, than she stood bolt upright at once."
 
-Then the other seizes it, and goes to his wife, and, without any provocation, finds some fault with her, and takes out his knife, and kills her. Then he plays the flute, but he might as well have piped to the stones, "Alas, what have I done?" says he to himself, "perhaps I don't know how to play it. How was it the other told me he raised his wife? However, I had better say nothing now, and afterwards I will get one of them to bring my wife to life again." And so he brought it to the other, and he treated his wife in the same way. And then they rush like mad- men, the one to the other, begging one another to restore their wives to life; and they wept and bewailed the fate that had be- fallen them, that they could not let well alpne, but must go and kill their wives. Then they went to the Cadi, and accused the old man of having caused them this trouble. The Cadi summons the old man.
+Then the other seizes it, and goes to his wife, and, without any provocation, finds some fault with her, and takes out his knife, and kills her. Then he plays the flute, but he might as well have piped to the stones, "Alas, what have I done?" says he to himself, "perhaps I don't know how to play it. How was it the other told me he raised his wife? However, I had better say nothing now, and afterwards I will get one of them to bring my wife to life again." And so he brought it to the other, and he treated his wife in the same way. And then they rush like mad-men, the one to the other, begging one another to restore their wives to life; and they wept and bewailed the fate that had befallen them, that they could not let well alpne, but must go and kill their wives. Then they went to the Cadi, and accused the old man of having caused them this trouble. The Cadi summons the old man.
 
 "Old man," says he, "what is this business you have been doing?"
 

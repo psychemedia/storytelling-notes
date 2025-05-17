@@ -10,7 +10,7 @@ Sabine Baring-Gould, *Yorkshire oddities, incidents and strange events*, [vol. I
 
 In York were two religious houses — S. Mary's Abbey and S. Leonard's Priory — so close together that their walls abutted. The magnificent ruins of S. Mary's Abbey Church, the heavy fragments of the Priory Church of S. Leonard's, now stand in the gardens of the Botanical Society, and resound no longer to the sound of psalmody, but to the strains of the band playing marches, waltzes, and overtures.
 
-At the close of the fifteenth century, before the Dissolution was thought of, there lived, and fasted, and prayed in S. Leonard's Priory a fat monk named Brother Jucundus. He had not been long in the house. He had joined the order in a fit of headache and remorse, after heavy pota- tions on the occasion of the installation of a new Lord Mayor, and it is possible — probable, I suspect — that he somewhat regretted his precipitancy. Yet there was no escape. The irrevocable vows were on him; for life he was bound to eat only vegetables and bread, drink very small beer, and sleep only six hours in the night.
+At the close of the fifteenth century, before the Dissolution was thought of, there lived, and fasted, and prayed in S. Leonard's Priory a fat monk named Brother Jucundus. He had not been long in the house. He had joined the order in a fit of headache and remorse, after heavy potations on the occasion of the installation of a new Lord Mayor, and it is possible — probable, I suspect — that he somewhat regretted his precipitancy. Yet there was no escape. The irrevocable vows were on him; for life he was bound to eat only vegetables and bread, drink very small beer, and sleep only six hours in the night.
 
 Convivial songs floated through his mind when he ought to have been chanting the Psalms of David, and the flavour of old sack rose upon his palate when he looked dolefully down at dinner-time into his mug of "swipes."
 
@@ -18,7 +18,7 @@ A year passed. The full paunch of Brother Jucundus began to subside; his fat che
 
 Come what might, Brother Jucundus felt he must have a fling. He should die without it. Just one jollification in the twelvemonth, and then he would put up for the rest of the year with beans and cabbage, small beer and matins before dawn.
 
-York fair approached. York fair! of all that is ravishing! The shows of dancing dogs, the whirli-go-rounds, the giantesses and dwarfs, the "spice" stalls, the drinking- booths! To York fair he must, he would go, if condemned to a bean and a thimbleful of water for fasting dinner ever after.
+York fair approached. York fair! of all that is ravishing! The shows of dancing dogs, the whirli-go-rounds, the giantesses and dwarfs, the "spice" stalls, the drinking-booths! To York fair he must, he would go, if condemned to a bean and a thimbleful of water for fasting dinner ever after.
 
 And go he did. He managed it in this way: — After dinner the whole community took an hour's sleep. As they rose at midnight and dined at mid-day, this was very necessary, and the Priory was silent, save for snores, from one o'clock to two. At half-past one Brother Jucundus stole to the porter's lodge, found the porter asleep in his chair — so took possession of his keys; went to the Prior's apartment; the Prior was asleep; pocketed a crown from his money-box, and left the Priory.
 
@@ -58,7 +58,7 @@ As he was helped down the cellar stairs, some glimmer of his situation came in o
 
 A convenient niche was soon found. A cruse of water and a loaf of bread, with cruel mockery, were placed in the recess. The ready hands of zealous monks mixed the mortar, brought the bricks, and in a quarter of an hour Brother Jucundus was firmly walled in to his living grave.
 
-Now for the first time did the extreme inconvenience ol his position break upon the unfortunate monk. In the wheelbarrow he had been able to sit; here he was walled upright. It was cramping, intolerable. He kicked, he pressed backwards with all his might; and suddenly, with a crash, the wall behind him gave way, and he rolled back- wards over a heap of fallen bricks into a cellar.
+Now for the first time did the extreme inconvenience ol his position break upon the unfortunate monk. In the wheelbarrow he had been able to sit; here he was walled upright. It was cramping, intolerable. He kicked, he pressed backwards with all his might; and suddenly, with a crash, the wall behind him gave way, and he rolled backwards over a heap of fallen bricks into a cellar.
 
 The shock brought him completely to his senses. Where was he? Now he saw the gravity of his offence — the terrible fate that had been prepared for him. Escape was fortunately open to him. He ran up the cellar stairs, and found himself in the Abbey of S. Mary's. The cellars of the two monasteries had adjoined; a wall alone had divided them. He had tumbled out of S. Leonard's into S. Mary's.
 
@@ -76,7 +76,7 @@ Next day at noon the Cistercians assembled in the refectory for their frugal rep
 
 "I want my beer!" and the example of the head becoming infectious, "Beer, beer, beer! we all want our beer!" resounded from every part of the refectory.
 
-"Where was the cellarer?" Nobody knew. At last two brothers were commissioned to go to the cellar and fetch ale. They presently returned with awe-struck coun- tenances, beckoned to the Abbot to follow them, and led the way along the cloisters down the cellar stairs. Curiosity, though against the rule, was infectious, and all the monks crept en queue after the Abbot. When they reached the vault a shocking sight presented itself to their eyes. Brother Jucundus lay with his head against the butt of Malmsey, flourishing his tankard over his head, and feebly, incoherently, trolling forth —
+"Where was the cellarer?" Nobody knew. At last two brothers were commissioned to go to the cellar and fetch ale. They presently returned with awe-struck countenances, beckoned to the Abbot to follow them, and led the way along the cloisters down the cellar stairs. Curiosity, though against the rule, was infectious, and all the monks crept en queue after the Abbot. When they reached the vault a shocking sight presented itself to their eyes. Brother Jucundus lay with his head against the butt of Malmsey, flourishing his tankard over his head, and feebly, incoherently, trolling forth —
 
 "In dulce jubilo-o-o, Up, up, up we go-o-o."
 

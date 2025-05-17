@@ -27,7 +27,7 @@ Nautical time and civil date http://www.navalmarinearchive.com/research/nautical
 Brief history of railway signalling https://dickthesignals.co.uk/onewebmedia/1%20brief%20history%20of%20railway%20signalling.pdf
 
 Henry Booth - elements of ""Uniformity of Time considered especially in reference to Railways and the Electric Telegraph" pamphlet, 1847 in https://ia802608.us.archive.org/20/items/memoirlatehenry00smilgoog/memoirlatehenry00smilgoog.pdf
-"The amalgamation of the great companies which formed the London and North-Western, Mr, Booth's official connection with that company, the extension of the railway system in all directions, and the close connection thus established among places formerly at long distances from each other in point of time forced upon Mr. Booth's attention an important question of special concernment to railway companies and to the community at large. Soon after the consolidation of the London and North- Western, Mr. Booth, ever prompt and persevering, commenced an attack upon the inconvenient anomaly, the positive annoyance, and palpable absurdity of "a thousand and one" places in the United Kingdom, having each a time of its own, and each different from all the others. Mr. Booth's clever brochure  — a letter to the Eight Hon. Edward Strutt, M.P., chairman of the Railway Commissioners, upon "Uniformity of Time," considered especially in reference to railway transit and the operations of the electric telegraph, was one of the most sprightly of his productions, and tempts strongly to quotation. The inconvenience and absurdity inseparable from recognition of "local time;" the utter impossibility of conducting railway traffic, according either to "Bradshaw," or to a Roskell's best chronometer, with any approach to regularity or precision, are cleverly displayed. The demand of the appeal is legal recognition and acknowledgment of only one time throughout the kingdom. Inasmuch as some of Mr. Booth's pictures and descriptions are interesting contributions to history, we venture to transcribe them.
+"The amalgamation of the great companies which formed the London and North-Western, Mr, Booth's official connection with that company, the extension of the railway system in all directions, and the close connection thus established among places formerly at long distances from each other in point of time forced upon Mr. Booth's attention an important question of special concernment to railway companies and to the community at large. Soon after the consolidation of the London and North-Western, Mr. Booth, ever prompt and persevering, commenced an attack upon the inconvenient anomaly, the positive annoyance, and palpable absurdity of "a thousand and one" places in the United Kingdom, having each a time of its own, and each different from all the others. Mr. Booth's clever brochure  — a letter to the Eight Hon. Edward Strutt, M.P., chairman of the Railway Commissioners, upon "Uniformity of Time," considered especially in reference to railway transit and the operations of the electric telegraph, was one of the most sprightly of his productions, and tempts strongly to quotation. The inconvenience and absurdity inseparable from recognition of "local time;" the utter impossibility of conducting railway traffic, according either to "Bradshaw," or to a Roskell's best chronometer, with any approach to regularity or precision, are cleverly displayed. The demand of the appeal is legal recognition and acknowledgment of only one time throughout the kingdom. Inasmuch as some of Mr. Booth's pictures and descriptions are interesting contributions to history, we venture to transcribe them.
 
 Speaking of things as they were, he gives this description, when the clock strikes, say twelve, either noon or night:—
 
@@ -583,46 +583,25 @@ month or year passes into another month or year an occurrence may actually
 take place in two different months, or in two different years, according to local
 reckoning. [11]
 
-Synchronicity is virtually impossible in a culture of competing timetables, and technological developments in media, in particular the telegraph (and, later, the telephone) but
-also the railways, exacerbated what comes to be seen as a kind of crisis because of varied
-interpretations of time. Global space is shrinking, bringing communities closer together
-than ever before, and time is speeding up, but the result of this is something like a new
-world order, according to Fleming:
+Synchronicity is virtually impossible in a culture of competing timetables, and technological developments in media, in particular the telegraph (and, later, the telephone) but also the railways, exacerbated what comes to be seen as a kind of crisis because of varied interpretations of time. Global space is shrinking, bringing communities closer together than ever before, and time is speeding up, but the result of this is something like a new world order, according to Fleming:
+
 The gigantic system of railways and telegraphs which has been established in
-America, has developed social and commercial conditions which never previ- ously existed in the history of the human race. These conditions have affected
+America, has developed social and commercial conditions which never previously existed in the history of the human race. These conditions have affected
 the relations of time and distance, in a manner which shows, that the system
 of notation which we have inherited is defective; that it leads to confusion, causes loss of time, and disturbs the arrangements of travellers and business
-men; that it frequently results in loss of life, and leads to dif culties of various
-kinds; that under the circumstances which have followed the extensive employ- ment of steam and electricity as means of rapid communication, it is generally
+men; that it frequently results in loss of life, and leads to dif culties of various kinds; that under the circumstances which have followed the extensive employment of steam and electricity as means of rapid communication, it is generally
 inappropriate. [12]
-Here, time is out of joint. It confuses and disturbs, and the asynchronic nature of time
-even kills. For Fleming, time is a signi cant problem of nineteenth-century industrialized, urban modernity. What is so interesting about the periodical press—so prodigious
-in offering different schedules and patterns for the shape of everyday life—is the way
-it both represented anxieties about the shifting nature of time and participated in creating
-those anxieties. 
+
+Here, time is out of joint. It confuses and disturbs, and the asynchronic nature of time even kills. For Fleming, time is a signi cant problem of nineteenth-century industrialized, urban modernity. What is so interesting about the periodical press—so prodigious in offering different schedules and patterns for the shape of everyday life—is the way it both represented anxieties about the shifting nature of time and participated in creating those anxieties.
 
 
 ...
 
-On the one hand, a particular rhythm can create what sociologists of time call 'temporal
-symmetry' [16]—the daily cycle, the weekly cycle, the monthly cycle, etc.—with readers
-interacting with the media at roughly the same time. This kind of simultaneity becomes
-increasingly signi cant in a collective media culture, and can lead to a form of social
-bonding with a community of readers all engaged in the same activity. In other words,
-if time is one of the ties that bond, as Durkheim suggests, and the periodical press is one
-of the chief ways that time gets organized, then all the different periodicities—each of
-those segments or cycles of time—are also socially binding. But we also ought to
-acknowledge that there might equally be temporal asymmetry; that is, because there are
-competing, overlapping cycles of time that confront the reader in the different periodical
-cycles in the nineteenth century, the result could as easily be confusion as cohesion.
-Innes Shand's uncertainty about the hurried, multitudinous periodicities suggests that one
-could be out of sync, rather than always in sync. So while there is a repetition of cycles, a regularity to the press in one sense that could lead to a synchronic social experience,
-there is no single cycle, no single motion which somehow contains it all. Magazine Day,
-that much anticipated moment when the monthly magazines were published all at once, was one way of organizing time—it was one ritual of media time, as Brake indicates;
-but, however signi cant a marker it was, it was only one event on the media calendar, created by the rhythm of the press and publishing industry.
+On the one hand, a particular rhythm can create what sociologists of time call 'temporal symmetry' [16]—the daily cycle, the weekly cycle, the monthly cycle, etc.—with readers interacting with the media at roughly the same time. This kind of simultaneity becomes increasingly significant in a collective media culture, and can lead to a form of social bonding with a community of readers all engaged in the same activity. In other words, if time is one of the ties that bond, as Durkheim suggests, and the periodical press is one of the chief ways that time gets organized, then all the different periodicities—each of those segments or cycles of time—are also socially binding. But we also ought to acknowledge that there might equally be temporal asymmetry; that is, because there are competing, overlapping cycles of time that confront the reader in the different periodical cycles in the nineteenth century, the result could as easily be confusion as cohesion.
 
-11 /12 Sandford Fleming, The Adoption of a Prime Meridian to be Common to All Nations. The establishment
-of standard meridians for the regulation of time. Read before the International Geographical Congress at Venice, September, 1881 (London: Waterlow & Sons, 1881), 5–6. https://archive.org/details/cihm_03125
+Innes Shand's uncertainty about the hurried, multitudinous periodicities suggests that one could be out of sync, rather than always in sync. So while there is a repetition of cycles, a regularity to the press in one sense that could lead to a synchronic social experience, there is no single cycle, no single motion which somehow contains it all. Magazine Day, that much anticipated moment when the monthly magazines were published all at once, was one way of organizing time—it was one ritual of media time, as Brake indicates; but, however significant a marker it was, it was only one event on the media calendar, created by the rhythm of the press and publishing industry.
+
+11 /12 Sandford Fleming, The Adoption of a Prime Meridian to be Common to All Nations. The establishment of standard meridians for the regulation of time. Read before the International Geographical Congress at Venice, September, 1881 (London: Waterlow & Sons, 1881), 5–6. https://archive.org/details/cihm_03125
 
 
 

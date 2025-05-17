@@ -145,7 +145,7 @@ She went into her room lined with looking-glasses, and said, "I shall marry a ki
 
 "Who told you that?" asked her mother.
 
-"It was said by the dog when he uttered 'Wow- wow.'"
+"It was said by the dog when he uttered 'Wow-wow.'"
 
 "I would not believe the bark of a dog," said her mother.
 
@@ -183,9 +183,9 @@ She went into her room lined with looking-glasses, and said, "I shall marry a ki
 
 But the girl would give no heed to what her mother said. She believed the earthworm, but not her own mother.
 
-Now drew near this damsel's birthday, when she would be eighteen. And one night she had a dream, and in that dream she saw the Old Woman of Nor- wood, who said to her, "I have appeared to tell you something. There is a feather on the tail of the gnat that flies above my oak tree, and the feather told the gnat, and the gnat told the raven, and the raven told the cat, and the cat told the dog, and the dog told the earthworm, and the earthworm
+Now drew near this damsel's birthday, when she would be eighteen. And one night she had a dream, and in that dream she saw the Old Woman of Norwood, who said to her, "I have appeared to tell you something. There is a feather on the tail of the gnat that flies above my oak tree, and the feather told the gnat, and the gnat told the raven, and the raven told the cat, and the cat told the dog, and the dog told the earthworm, and the earthworm
 
-scribbled the message on a bit of an old crock, that you were to marry on your eighteenth birthday the promised king. You must say nothing to your father or mother. He is now in the harbour with his ship, and the sign of the ship is The Golden Apple. Ask your father to let you go down to see over the barque. The Golden Apple, and the captain is he who will be your husband. I have sent a hedge- priest to the town, and he will marry you on board ship. But mind this — if you say a word to your father or mother about this, all will fall through that has been promised you. I have appeared in dream to the sea-captain, and he will expect you. The priest you will see standing by the capstan. He has been unfrocked by the bishop, but what of that? A priest is always a priest."
+scribbled the message on a bit of an old crock, that you were to marry on your eighteenth birthday the promised king. You must say nothing to your father or mother. He is now in the harbour with his ship, and the sign of the ship is The Golden Apple. Ask your father to let you go down to see over the barque. The Golden Apple, and the captain is he who will be your husband. I have sent a hedge-priest to the town, and he will marry you on board ship. But mind this — if you say a word to your father or mother about this, all will fall through that has been promised you. I have appeared in dream to the sea-captain, and he will expect you. The priest you will see standing by the capstan. He has been unfrocked by the bishop, but what of that? A priest is always a priest."
 
 The girl's father came to her and said, "Tomorrow is your birthday: ask what you wish, and I will do it for you."
 
@@ -199,7 +199,7 @@ Accordingly, on the morrow morning, she and her father and mother went to the sh
 
 By the capstan was a man, all shaven and shorn, but with a hang-dog look, and the fair maid was sure this was the priest of whom the Old Woman of Norwood had spoken.
 
-The captain invited them down into his cabin, and then all at once he whistled, and his sailors sprang on the father and mother, and bound their hands, and put something over their mouths that they could not cry out, and forthwith the sea-cap- tain gave his hand to the damsel, and led her up the companion ladder on deck, and the hedge-priest hastily married them over the capstan.
+The captain invited them down into his cabin, and then all at once he whistled, and his sailors sprang on the father and mother, and bound their hands, and put something over their mouths that they could not cry out, and forthwith the sea-captain gave his hand to the damsel, and led her up the companion ladder on deck, and the hedge-priest hastily married them over the capstan.
 
 After that, the sea-captain said, "Make haste, go home and bring all the gold and silver and jewels in the house. I will not let your parents go till that is done.
 
@@ -264,7 +264,7 @@ Now after a while a strange thing happened.
 
 Although the sails were full spread, and the wind blew free, yet the vessel made no way in the sea. And this was the reason, I suppose. The father and the mother of the damsel had been so filled with grief that they had been plundered and deserted by their own daughter, whom they had loved so dearly, and had treated with such indulgence, that both died of a broken heart, and neither blessed the daughter before death closed their eyes and paralysed their tongues. And it is said that no ship will sail with one on board who has been the death of father and mother, and unforgiven by them.
 
-And when she had sailed to-day and to-morrow, She was wring-'mg her hands, and bewailing- in sorrow. And when she had sailed, the days were not many, The sails were outspread, but of miles made not any.
+And when she had sailed to-day and to-morrow, She was wringing her hands, and bewailing in sorrow. And when she had sailed, the days were not many, The sails were outspread, but of miles made not any.
 
 Then the sailors saw they were in evil plight, and that there was something which prevented their getting forward with the ship. It is told that there is a little shell-fish, like a limpet, called the remora, and that when it attaches itself to the keel, it arrests a vessel in full sail.
 

@@ -26,7 +26,7 @@ The King laid the child in a box, and rode away till he came to a deep water, in
 
 The box, however, did not sink, but floated along like a boat, and not one drop of water penetrated it. It floated at last down to a mill two miles from the King's palace, and in the mill-dam it stuck fast. The miller's boy, who was fortunately standing there, observed it, and drew it ashore with a hook, expecting to find a great treasure.
 
-When, however, he opened the box, he saw a beautiful child, alive and merry. He took it to the people at the mill, who, having no children, adopted it for their own, say- ing, "God has sent it to us." And they took good care of it, and it grew up full of virtues.
+When, however, he opened the box, he saw a beautiful child, alive and merry. He took it to the people at the mill, who, having no children, adopted it for their own, saying, "God has sent it to us." And they took good care of it, and it grew up full of virtues.
 
 It happened one day that the King went into the mill for shelter during a thunder-storm, and asked the people whether the boy was their child. "No," they answered, "he is a foundling, who, fourteen years ago, floated into our dam in a box, which the miller's boy drew out of the water." The King observed at once that it was no other than the luck-child whom he had thrown into the water, and so said to them, "Good people, could not the youth carry a letter to my wife the Queen? If so, I will give him two pieces of gold for a reward."
 
@@ -40,11 +40,11 @@ The youth set out on his journey with the letter, but he lost himself, and at ev
 
 "Poor boy," said the woman, "you have come to a den of robbers, who, when they return, will murder you."
 
-"Let who will come," he replied, "I am not afraid; I am so weary that I can go no further, and stretching him- self upon a bench, he went to sleep. Presently the robbers entered, and asked in a rage what strange lad was lying there. "Ah," said the old woman, "it is an innocent youth who has lost himself in the forest, and whom I have taken in out of compassion. He carries with him a letter to the Queen."
+"Let who will come," he replied, "I am not afraid; I am so weary that I can go no further, and stretching himself upon a bench, he went to sleep. Presently the robbers entered, and asked in a rage what strange lad was lying there. "Ah," said the old woman, "it is an innocent youth who has lost himself in the forest, and whom I have taken in out of compassion. He carries with him a letter to the Queen."
 
 The robbers seized the letter and read it, and understood that as soon as the youth arrived he was to be put to death. Then the robbers took compassion on him also, and the captain tore up the letter and wrote another, wherein he declared that the youth on his arrival was to be married to the Princess. They let him sleep quietly on his bench till the morning, and as soon as he awoke, they gave him the letter, and showed him the right road.
 
-When the Queen received the letter, she did as it commanded, and caused a splendid marriage-feast to be pre- pared, and the Princess was given in marriage to the luck- child, who, since he was both young and handsome, pleased her well, and they were all very happy. Some little time afterwards the King returned to his palace, and found the prophecy fulfilled, and his daughter married to the lucky child. "How did this happen?" he asked. "In nry letter I gave quite another command."
+When the Queen received the letter, she did as it commanded, and caused a splendid marriage-feast to be prepared, and the Princess was given in marriage to the luck-child, who, since he was both young and handsome, pleased her well, and they were all very happy. Some little time afterwards the King returned to his palace, and found the prophecy fulfilled, and his daughter married to the lucky child. "How did this happen?" he asked. "In nry letter I gave quite another command."
 
 Then the Queen handed him the letter, that he might read for himself what it stated. Then the King perceived that it had been forged by another person, and he asked the youth what he had done with the letter that had been entrusted to him, that he had brought another. "I know nothing about it," he replied; "it must have been changed in the forest where I passed the night."
 
@@ -52,9 +52,9 @@ Inflamed with rage, the King answered, "Thou shalt not escape so easily; he who 
 
 The King hoped by this means to get rid of him, but he answered, "The three golden hairs I will fetch, for I fear not the Giant and so he took leave and began his wanderings.
 
-The road led him by a large town, where the watch- man at the gate asked him what trade he understood, and what he knew. "I know every thing," replied the youth.
+The road led him by a large town, where the watchman at the gate asked him what trade he understood, and what he knew. "I know every thing," replied the youth.
 
-"Then you can do us a kindness," said the watch, "if you tell us the reason why the fountain in our market- place, out of which wine used to flow, now, all at once, does not even give water."
+"Then you can do us a kindness," said the watch, "if you tell us the reason why the fountain in our market-place, out of which wine used to flow, now, all at once, does not even give water."
 
 "That you shall know," was the answer; "but you must wait till I return."
 
@@ -72,7 +72,7 @@ Then she changed him into an ant, and told him to creep within the fold of her g
 
 "Yes," he said, "that is all very well; but there are three things I am desirous of knowing: — Why a fountain, which used to spout wine, is now dry, and does not even give water. — Why a tree, which used to bear golden apples, does not now have leaves. — And why a ferryman is always rowing backwards and forwards, and never gets released."
 
-"Those are difficult questions," replied the old wo- man; "but do_you keep quiet and pay attention to what the King says when I pluck each of the three golden hairs."
+"Those are difficult questions," replied the old woman; "but do_you keep quiet and pay attention to what the King says when I pluck each of the three golden hairs."
 
 As soon as evening came the Giant returned; and scarcely had he entered, when he remarked that the air was not quite pure. "I smell, I smell the flesh of man," he exclaimed; "all is not right." Then he peeped into every corner, and looked about, but could find nothing. Presently his old grandmother began to scold, screaming, "There now, just as I have dusted and put every thing in order, you are pulling them all about again: you are for ever having man's flesh in your nose! Sit down and eat your supper."
 
@@ -96,7 +96,7 @@ Then the old woman went on combing till he went to sleep again, and snored so th
 
 "What did you dream this time?" he asked.
 
-"I dreamt that in a certain royal city there grew a fruit- tree, which formerly bore golden apples, but now has not a leaf upon it: what is the cause of it?"
+"I dreamt that in a certain royal city there grew a fruit-tree, which formerly bore golden apples, but now has not a leaf upon it: what is the cause of it?"
 
 "Why," replied the King, "at the root a mouse is gnawing. But if they kill it, golden apples will grow again; if not, the mouse will gnaw till the tree dies altogether. However, let me go to sleep in peace now; for if you disturb me again you will catch a box on the ears." Nevertheless, the old woman, when she had rocked him again to sleep, plucked out a third golden hair. Up jumped the King in a fury, and would have ill-treated her, but she pacified him, and said, "Who can help bad dreams?"
 
@@ -114,7 +114,7 @@ As soon as he went out in the morning, the old woman took the ant out of the fol
 
 "Yes, I have heard and will well remember," said the luck-child; and, thanking the old woman for her assistance in his trouble, he left those regions, well pleased that he had been so lucky in every thing. When he came to the ferryman he had to give him the promised answer. But he said, "First row me over, and then I will tell you how you may be freed and as soon as they reached the opposite side he gave him the advice, "When another comes this way and wants to pass over, give him the oar in his hand."
 
-Then he went on to the first city, where stood the bar- ren tree, and where the watchman waited for the answer. So he said to him, "Kill the mouse which gnaws at the root of the tree, and then it will again bear golden apples." The watchman thanked him, and gave him for a reward two asses laden with gold, which followed him. Next he came to the other city, where the dry fountain was, and he told the watchman as the Giant had said, — "Under a stone in the spring there sits a toad, which you must uncover and kill, and then wine will flow again as before."
+Then he went on to the first city, where stood the barren tree, and where the watchman waited for the answer. So he said to him, "Kill the mouse which gnaws at the root of the tree, and then it will again bear golden apples." The watchman thanked him, and gave him for a reward two asses laden with gold, which followed him. Next he came to the other city, where the dry fountain was, and he told the watchman as the Giant had said, — "Under a stone in the spring there sits a toad, which you must uncover and kill, and then wine will flow again as before."
 
 The watchman thanked him, and gave to him, as the other had done, two asses laden with gold.
 
@@ -155,7 +155,7 @@ A rich, mighty king once went hunting, and wandered himself in a great forest. T
 
 The charcoal-burner answered, 'Sir, the way to the city you could not find by yourself, and to-day I cannot go with you for my wife lies sick, and this very night will bring a child into the world. Lie down here then in the side room, and to-morrow I will guide you to the city.'
 
-The king took the offer, and lay down in the side room; but he could not close an eye for the moaning of the char- coal-burner's wife. Towards midnight she bore a beautiful boy, and now it was quiet in the hut Yet still the king could not sleep. He got up from his couch, drew near the door, and looked through a chink into the room where the sick woman lay. He could see her sleeping in her bed; her man, fast asleep too, lay behind the stove; and in its cradle was the new-born child, with three ladies in white standing round it.
+The king took the offer, and lay down in the side room; but he could not close an eye for the moaning of the charcoal-burner's wife. Towards midnight she bore a beautiful boy, and now it was quiet in the hut Yet still the king could not sleep. He got up from his couch, drew near the door, and looked through a chink into the room where the sick woman lay. He could see her sleeping in her bed; her man, fast asleep too, lay behind the stove; and in its cradle was the new-born child, with three ladies in white standing round it.
 
 The king heard one say, 'I wish this boy a misfortune.'
 

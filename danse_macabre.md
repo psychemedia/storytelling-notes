@@ -11,9 +11,9 @@ by Jacob, P. L., 1806-1884
 Publication date [1874]
 
 
-After this period came into vogue a small lantern, built in the shape of a very narrow tower, like a hollow column, from twenty-six to forty feet high, the summit of which was surmounted by arcades, through which glimmered the faint light of a suspended lamp. This small building was called "the lantern of the dead" (Figs. 394 — 396); it was also termed a beacon (fanal), a lighthouse (phare), and a little tower (tourniele) . These beacon-towers, intended to indicate from afar during night-time the presence of a cemetery, generally had a door some- what above the ground, which was reached by a ladder or flight of steps.
+After this period came into vogue a small lantern, built in the shape of a very narrow tower, like a hollow column, from twenty-six to forty feet high, the summit of which was surmounted by arcades, through which glimmered the faint light of a suspended lamp. This small building was called "the lantern of the dead" (Figs. 394 — 396); it was also termed a beacon (fanal), a lighthouse (phare), and a little tower (tourniele) . These beacon-towers, intended to indicate from afar during night-time the presence of a cemetery, generally had a door some-what above the ground, which was reached by a ladder or flight of steps.
 
-Upon the side opposite to the door, an altar jutted out at the base of the tower. This altar was never consecrated, as the canons forbid any celebration to be held upon those which were in the open air (sub dio). There are many monuments of this kind in Maine, Berry, Angoumois, and Gas- cony; they are all of Roman architecture, or of Gothic bordering upon
+Upon the side opposite to the door, an altar jutted out at the base of the tower. This altar was never consecrated, as the canons forbid any celebration to be held upon those which were in the open air (sub dio). There are many monuments of this kind in Maine, Berry, Angoumois, and Gascony; they are all of Roman architecture, or of Gothic bordering upon
 
 images 478-83 (Dance of Death), 485 (Toments of Hell), 477 (Knight of Death)
 

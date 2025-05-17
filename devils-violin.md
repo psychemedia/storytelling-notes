@@ -180,9 +180,9 @@ A BOHEMIAN TALE.
 
 Sswanda, the Piper, was a jolly companion. Like every true musician, he was born with an unquenchable thirst; besides, he was madly fond of play, and would have risked his soul at strajak, the favorite game at cards in Bohemia. When he had earned a little money, he would throw aside his pipes, and drink and play with the first comer till he returned to his home as light in pocket as when he had left it. But he was always so merry, witty, and good-natured that not a drinker ever left the table while the piper was there, and his name still lives in Bohemia as the prince of good fellows.
 
-One day there was a festival at Mokran, and no merry- making was ever complete without the piper. Sswanda, after blowing his pipe till midnight and earning twenty zwanzigers, determined to amuse himself on his own account. Neither prayers nor promises could persuade him to go on with his music; he was determined to drink his fill and to shuffle the cards at his ease; but, for the first time in his life, he found no one to play with him.
+One day there was a festival at Mokran, and no merry-making was ever complete without the piper. Sswanda, after blowing his pipe till midnight and earning twenty zwanzigers, determined to amuse himself on his own account. Neither prayers nor promises could persuade him to go on with his music; he was determined to drink his fill and to shuffle the cards at his ease; but, for the first time in his life, he found no one to play with him.
 
-Sswanda was not the man to quit the inn so long as he had a kreutzer in his pocket, and on that day he had many of them. By dint of talking, laughing, and drinking, he took one of those fixed ideas which are not uncommon among those who look too often in the bottom of their glass, and de- termined to play at any price; but all his neighbors refused his challenge. Furious at finding no partner, he rose with an unsteady step, paid for what he had drank, and left the inn.
+Sswanda was not the man to quit the inn so long as he had a kreutzer in his pocket, and on that day he had many of them. By dint of talking, laughing, and drinking, he took one of those fixed ideas which are not uncommon among those who look too often in the bottom of their glass, and determined to play at any price; but all his neighbors refused his challenge. Furious at finding no partner, he rose with an unsteady step, paid for what he had drank, and left the inn.
 
 "I will go to Drazic," said he; "the schoolmaster and the bailiff there are honest peo pie who are not afraid of play, and I shall find part ners. Hurrah!"
 
@@ -206,7 +206,7 @@ How the time passed he never could remember. It is true that his head was a litt
 
 Without knowing how he had entered, he found himself in a dark room where three men, dressed in black like his guide, were playing at strajak by no other light than their glittering eyes. On the table were piles of gold, and a jug from which each one drank in his turn.
 
-"Brothers," said the black man, "I bring you friend Sswan- da, whom you have long known by reputation. I thought to please you on this feast-day by giving you a little music."
+"Brothers," said the black man, "I bring you friend Sswanda, whom you have long known by reputation. I thought to please you on this feast-day by giving you a little music."
 
 "A good idea!" said one of the players. Then, taking the jug, he handed it to Sswanda, saying, "Here, piper, drink and play."
 

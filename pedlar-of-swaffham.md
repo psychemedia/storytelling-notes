@@ -578,7 +578,7 @@ Caixo, without futterin pany: Feiſon-to at-
 
 bend hm. 2 % L vi'*s- 3 biis mE
 
-e After much Trouble and Tntigur Ahe arrivdrat * Anmut Cuysclikk⸗ Which there are few in the World tte icherg for | Extent) or- Beauty be 1alighted: at the
+e After much Trouble and Tntigur Ahe arrivdrat * Anmut Cuysclikk⸗ Which there are few in the World tte icherg for | Extent) or Beauty be 1alighted: at the
 
 ; Gare:ofa Moſque, where, being ſpent with.
 

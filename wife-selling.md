@@ -164,7 +164,7 @@ Chiswick
 https://archive.org/details/notesandqueries07albugoog/page/420/mode/2up
 2nd S. no. 21, May 24, 1856, p420
 
-Notes on Wife- Selling. — Can we blame our neighbours across the Channel for thinking us a nation of wife-sellers when, ignorant of our manners, and with feelings embittered bv a long war, they read such paragraphs as the following?
+Notes on Wife-Selling. — Can we blame our neighbours across the Channel for thinking us a nation of wife-sellers when, ignorant of our manners, and with feelings embittered bv a long war, they read such paragraphs as the following?
 
 "A fellow sold his wife, as *a cow*, in Sheffield marketplace, a few days ago. The lady was put into the hands of a butcher, who held her by a halter fastened round her waist. 'What do you ask for your cow?' said a byestander. 'A guinea,' replied the husband. 'Done,' cried the other, and immediately paid the money, and led away his bargain. We understand that the purchaser and his cow live very happily together." — *Doncaster Gazette*, March 25, 1803.
 
@@ -937,7 +937,7 @@ I am young, though not handsome; good natured, though thin ;
 For further particulars, pray apply within.
 
 
-At masquerades it was allowable, we pre- sume, to say and do things not permitted to gentlewomen elsewhere.
+At masquerades it was allowable, we presume, to say and do things not permitted to gentlewomen elsewhere.
 
 some portions of the working-class, that such sales were legal, especially if any formalities were observed. Three men and three women went to the Bell Inn at Birmingham, and made the following entry in a toll-book which was kept there :
 

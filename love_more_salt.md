@@ -97,7 +97,7 @@ The master's son he tried every way to find out where the lady was gone, but go 
 
 'Let me make it,' says Cap o' Rushes.
 
-Well, the cook wouldn't at first, but at last she said yes, and Cap o' Rushes made the gruel. And when she had made it she slipped the ring into it on the sly before the cook took it up- stairs.
+Well, the cook wouldn't at first, but at last she said yes, and Cap o' Rushes made the gruel. And when she had made it she slipped the ring into it on the sly before the cook took it upstairs.
 
 The young man he drank it and he saw the ring at the bottom.
 
@@ -319,7 +319,7 @@ When the king heard these words he recognized his daughter, begged her for forgi
 
 The king lived happily with his children for many years thereafter.
 
-Source: Ignaz and Joseph Zingerle, "Notwendigkeit des Salzes," Kinder- und Hausmärchen (Innsbruck: Verlag der Wagner'schen Buchhandlung, 1852), no. 31, pp. 189-91.
+Source: Ignaz and Joseph Zingerle, "Notwendigkeit des Salzes," Kinder und Hausmärchen (Innsbruck: Verlag der Wagner'schen Buchhandlung, 1852), no. 31, pp. 189-91.
 Translated by D. L. Ashliman. © 1998.
 Type 923.
 https://archive.org/details/kinderundhausmr01zinggoog/page/n192/mode/2up

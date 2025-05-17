@@ -381,7 +381,7 @@ Whitley Stokes
 
 p45-6
 
-Otherwise Macha wife of Crund son of Agnoman went thither to race against king Conchobar's horses, for her hus- band had said that his wife was swifter (than they). Thus then was the wife , big with child `[P. O'C . explains ionbhadhach by "timely, seasonable, in due time", as if it were derived from inbaid.]`: so she asked a respite till her womb should have fallen and this was not granted to her. So then the race was run, and she was the swiftest. And — and she said that the Ulaid would abide under feebleness of childbed whensoever need should befall them. Wherefore the Ulaid suffered feebleness for the space of a *nomad* from the reign of Conchobar to the reign of Mál son of Rochraide "Great heart". And men say that she was Grían Banchure "the Sun of Womanfolk" , daughter of Mider of Brí Léith. And after this she died, and her tomb was raised on Ard Macha, and her lamentation was made, and her gravestone was planted. Whence Ard Machae "Macha's Height".
+Otherwise Macha wife of Crund son of Agnoman went thither to race against king Conchobar's horses, for her husband had said that his wife was swifter (than they). Thus then was the wife , big with child `[P. O'C . explains ionbhadhach by "timely, seasonable, in due time", as if it were derived from inbaid.]`: so she asked a respite till her womb should have fallen and this was not granted to her. So then the race was run, and she was the swiftest. And — and she said that the Ulaid would abide under feebleness of childbed whensoever need should befall them. Wherefore the Ulaid suffered feebleness for the space of a *nomad* from the reign of Conchobar to the reign of Mál son of Rochraide "Great heart". And men say that she was Grían Banchure "the Sun of Womanfolk" , daughter of Mider of Brí Léith. And after this she died, and her tomb was raised on Ard Macha, and her lamentation was made, and her gravestone was planted. Whence Ard Machae "Macha's Height".
 
 
 
@@ -391,6 +391,8 @@ Otherwise Macha wife of Crund son of Agnoman went thither to race against king C
 two tales
 
 https://www.jstor.org/stable/pdf/41417580.pdf?casa_token=eKuB296jgyoAAAAA:x7pxfhqUUkEAUpPEziiryfx7zefoJ5jykSHok3IR6jISbvOB9lrTi1OFYtVxQcP_yDvho2BDb5mQe0wIXsgk8gwr_rC5E6RNp7SoX8fIWNJRfapkU2ur
+
+TO DO
 
 t male host), but it is also a clash fertility figure and warriors. As we have seen, the prosperity to the widower, Crunnchu, and is the m As for the Ulstermen, the horse racing at the fair is combat- a means by which warrior-nobles can ?? status. Thus, Crunnchu's boast is a direct threat to t and when his wife actually outruns the king's horses hallowed warrior status. The warrior caste is overth just by any woman but by one who is about to give b of fecundity thus defeats the king's symbol of marti the warriors' punishment, therefore, is most apt. T their being- their martial prowess- and become women in childbirth whenever they are most in nee It is frequently assumed that the pangs suf
 

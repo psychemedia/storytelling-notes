@@ -2,11 +2,11 @@
 
 Godfather Death, or Godmother Death, *(Aarne-Thompson-Uther tale type 332)* tells the tale of young child, born of poor parents, who has Death for their godparent.
 
-Death teaches the child a trick or two about how to tell whether someone who is seriously ill would survive or die. With this knowledge, the child becomes a great doctor. But the child/doctor goes against the instruction of Death, and saves two people should have otherwise died. Death is not happy. The child/doctor is shown how lives are represented and Death makes his feelings known...
+Death teaches the child a trick or two about how to tell whether someone who is seriously ill would survive or die. With this knowledge, the child becomes a great doctor. But the child/doctor goes against the instruction of Death, and saves two or three people who should have otherwise died. Death is not happy. The child/doctor is shown how lives are represented and Death makes his feelings known...
 
 ## The Grimm Versions
 
-The story of Godfather Death appears in Grimms' collection in two slightly different versions.
+As with many of the tales found in Grimm, the story of Godfather Death appears in slightly different forms depending on which edition of Grimms' collection you refer to.
 
 The following example, taken from a translation in 1853, represents the "settled" version of the tale according to the Grimm brothers.
 
@@ -49,7 +49,9 @@ Death made as if he would perform his wish, and prepared a large and fresh lamp;
 
 ```
 
-The version that appears in Grimm's original 1812 edition is less elaborate, and also differs in the ending: Death shows the Doctor his lamp, and warns the Doctor not to cross him again, but the Doctor continues to live. *In one of my tellings, I used "a chill wind blew between them, and as the doctor's flame spluttered, he clutched his chest in pain. 'Do not cross me again', said Death; and with that, my story ends.". That approach also allows the flame to be blown out...*
+The version that appears in Grimm's original 1812 edition is less elaborate, and also differs in the ending: Death shows the Doctor his lamp, and warns the Doctor not to cross him again, but the Doctor continues to live.
+
+*In one of my tellings, I used "a chill wind blew between them, and as the doctor's flame spluttered, he clutched his chest in pain. 'Do not cross me again', said Death; and with that, my story ends.". That approach also allows the flame to be blown out...*
 
 One problem with the tale according to Grimm is the question of how the Doctor's actions save lives if the lives are associated with the lamps. What lamp is used to rekindle the lamps of the King and his daughter? Should there be a trade, somewhere, on the Doctor's life? Or perhaps other lamps should extinguished earlier than they might otherwise be, their oil used to top up the king's lamp, and his daughters, according to some sort of conservation principle? Or might lamps that would have otherwise burned be sacrificed, miscarried children of the Doctor's wife, for example?
 
@@ -70,43 +72,144 @@ I quite like an ending of the form:
 Alternatively, the flame may be blown out, and as it does so, the doctor dies.
 
 
+
+Three Lamps - Polish folk tales, Sergiej Nowikow
+
+
+
+```{admonition} In *Sixty folk-tales from exclusively Slavonic sources*, 1889
+:class: dropdown
+Albert Henry Wratislaw, 1889, *Sixty folk-tales from exclusively Slavonic sources*, [pp. 52-55](https://archive.org/details/sixtyfolktalesfr00wratrich/page/52/mode/2up?q=%22godmother+death%22).
+
+p51.
+
+MORAVIAN STORIES
+
+MORAVIA is so named from the river Morava (in German the river March), of which, and its affluents, it is the basin. It falls into the Danube a little above Presburg. In very early times Moravia appears to have been more civilized and powerful than Bohemia; but later, Bohemia became a considerable kingdom, and Moravia a dependency of, and eventually a margravate under the Bohemian crown.
+
+The Moravian stories differ but little in character from those of Bohemia. The country, unlike Bohemia, abounds in dialects, although the literary language is the Bohemian. On the east the Moravian melts into the Silesian, or 'Water-Polish.'
+
+No. 8, 'Godmother Death,' is an interesting variant of the Teutonic 'Godfather Death,' which is given by Grimm. The reason why Death is represented as a Godmother, rather than a Godfather, in the Moravian story, is, that Death (*Smrt*) is feminine in all Slavonic dialects. The story constructed on this basis is more graceful and fuller of incident than the Teutonic tale, in which Death is masculine.
+
+
+VIII.— GODMOTHER DEATH.
+
+THERE was a man, very poor in this world's goods, whose wife presented him with a baby boy. No one was willing to stand sponsor, because he was so very poor. The father said to himself: 'Dear Lord, I am so poor that no one is willing to be at my service in this matter; I'll take the baby, I'll go, and I'll ask the first person I meet to act as sponsor, and if I don't meet anybody, perhaps the sexton will help me.' He went and met Death, but didn't know what manner of person she was; she was a handsome woman, like any other woman. He asked her to be godmother. She didn't make any excuse, and immediately saluted him as parent of her godchild, took the baby in her arms, and carried him to church. The little lad was properly christened. When they came out of church, the child's father took the godmother to an inn, and wanted to give her a little treat as godmother. But she said to him, 'Gossip, `[The Slavonians are rich in terms, both masculine and feminine, expressing the various relationships between godparents and godchildren and their parents. We have only one form, 'gossip,' which thus has to do duty for both the godmother and the father of the godchild.]` leave this alone, and come with me to my abode.' She took him with her to her apartment, which was very handsomely furnished. Afterwards she conducted him into great vaults, and through these vaults they went right into the under-world in the dark. There tapers were burning of three sizes — small, large, and middle-sized; and those which were not yet alight were very large. The godmother said to the godchild's father: 'Look, Gossip, here I have the duration of everybody's life.' The child's father gazed thereat, found there a tiny taper close to the very ground, and asked her: 'But, Gossip, I pray you, whose is this little taper close to the ground?' She said to him: 'That is yours! When any taper whatsoever burns down, I must go for that man.' He said to her: 'Gossip, I pray you, give me somewhat additional.' She said to him: 'Gossip, I cannot do that!' Afterwards she went and lighted a large new taper for the baby boy whom they had had christened. Meanwhile, while the godmother was not looking, the child's father took for himself a large new taper, lit it, and placed it where his tiny taper was burning down.
+
+The godmother looked round at him and said: 'Gossip, you ought not to have done that to me; but if you have given yourself additional lifetime, you have done so and possess it. Let us go hence, and we'll go to your wife.'
+
+She took a present, and went with the child's father and the child to the mother. She arrived, and placed the boy on his mother's bed, and asked her how she was, and whether she had any pain anywhere. The mother confided her griefs to her, and the father sent for some beer, and wanted to entertain her in his cottage, as godmother, in order to gratify her and show his gratitude. They drank and feasted together. Afterwards the godmother said to her godchild's father: 'Gossip, you are so poor that no one but myself would be at your service in this matter; but never mind, you shall bear me in memory! I will go to the houses of various respectable people and make them ill, and you shall physic and cure them. I will tell you all the remedies. I possess them all, and everybody will be glad to recompense you well, only observe this: When I stand at anyone's feet, you can be of assistance to every such person; but if I stand at anybody's head, don't attempt to aid him.' It came to pass. The child's father went from patient to patient, where the godmother caused illness, and benefited every one. All at once he became a distinguished physician. A prince was dying — nay, he had breathed his last — nevertheless, they sent for the physician. He came, he began to anoint him with salves and give him his powders, and did him good. When he had restored him to health, they paid him well, without asking how much they were indebted. Again, a count was dying. They sent for the physician again. The physician came. Death was standing behind the bed at his head. The physician cried: 'It's a bad case, but we'll have a try.' He summoned the servants, and ordered them to turn the bed round with the patient's feet towards Death, and began to anoint him with salves and administer powders into his mouth, and did him good. The count paid him in return as much as he could carry away, without ever asking how much he was indebted; he was only too glad that he had restored him to health. When Death met the physician, she said to him: 'Gossip, if this occurs to you again, don't play me that trick any more. True, you have done him good, but only for a while; I must, none the less, take him off whither he is due.' The child's father went on in this way for some years; he was now very old. But at last he was wearied out, and asked Death herself to take him. Death was unable to take him, because he had given himself a long additional taper; she was obliged to wait till it burned out. One day he drove to a certain patient to restore him to health, and did so. Afterwards Death revealed herself to him, and rode with him in his carriage. She began to tickle and play with him, and tap him with a green twig under the throat; he threw himself into her lap, and went off into the last sleep. Death laid him in the carriage, and took herself off. They found the physician lying dead in his carriage, and conveyed him home. The whole town and all the villages lamented: 'That physician is much to be regretted. What a good doctor he was! He was of great assistance; there will never be his like again!' His son remained after him, but had not the same skill. The son went one day into church, and his godmother met him. She asked him: 'My dear son, how are you?' He said to her: 'Not all alike; so long as I have what my dad saved up for me, it is well with me, but after that the Lord God knows how it will be with me.' His godmother said: 'Well, my son, fear nought. I am your christening mamma; I helped your father to what he had, and will give you, too, a livelihood. You shall go to a physician as a pupil, and you shall be more skilful than he, only behave nicely.' After this she anointed him with salve over the ears, and conducted him to a physician. The physician didn't know what manner of lady it was, and what sort of son she brought him for instruction. The lady enjoined her son to behave nicely, and requested the physician to instruct him well, and bring him into a good position. Then she took leave of him and departed. The physician and the lad went together to gather herbs, and each herb cried out to the pupil what remedial virtue it had, and the pupil gathered it. The physician also gathered herbs, but knew not, with regard to any herb, what remedial virtue it possessed. The pupil's herbs were beneficial in every disease. The physician said to the pupil: 'You are cleverer than I, for I diagnose no one that comes to me; but you know herbs counter to every disease. Do you know what? Let us join partnership. I will give my doctor's diploma up to you, and will be your assistant, and am willing to be with you till death.' The lad was successful in doctoring and curing till his taper burned out in limbo.
+
+```
+
+```{admonition} In "The shoemaker's apron", 1920
+:class: dropdown
+
+Parker Fillmore, *The shoemaker's apron; a second book of Czechoslovak fairy tales and folk tales*, 1920, [p199-205](https://archive.org/details/shoemakersaprons00filliala/page/198/mode/2up).
+
+THE CANDLES OF LIFE
+
+THERE was once a poor man named Martin. He was so very poor that when his wife gave birth to a little boy, he could find no one who would stand godmother to the child.
+
+"No," he told his wife, "there's no one that I've asked who is willing to hold this infant at the christening."
+
+The poor mother wept and moaned and he tried to comfort her as best he could.
+
+"Don't be discouraged, my dear wife. I promise you your son will be christened. I'll carry him to church myself and if I can find a godmother no other way I'll ask some woman I meet on the road."
+
+So Martin bundled up the baby and carried him to church. On the way he met a woman whom he asked to be godmother. She took the baby in her arms at once and held it during the christening.
+
+Now Martin supposed that she was just an ordinary woman like any other. But she wasn't. She was Death who walks about among men and takes them when their time has come.
+
+After the christening she invited Martin home with her. She showed him through the various rooms of her house and down into great cellars. They went a long way underground through cellar after cellar to a place where thousands upon thousands of candles were burning. There were tall candles just lighted, candles burned halfway down, and little short ones nearly burned out. At one end of the place there was a heap of fresh candles that had not yet been lighted.
+
+"These," Death said, "are the candles of all the people in the world. When a man's candle burns out, then it is time for me to go for him."
+"Godmother," Martin said, pointing to a candle that was burning low, "whose may that be?"
+
+"That, my friend, is your candle."
+
+Martin was frightened and begged Death to lengthen his candle, but Death shook her head.
+
+"No, my friend," she said, "I can't do that."
+
+She reached for a fresh candle to light it for the baby just christened. While her back was turned, Martin snatched a tall candle, lighted it, and then pressed it on the stub of his own candle that was nearly burned out.
+When Death turned and saw what he had done, she frowned reprovingly.
+"That, my friend, was an unworthy trick. However, it has lengthened your life, for what is done is done and can't be undone."
+
+Then she handed Martin some golden ducats as a christening present, took the baby again in her arms, and said:
+
+"Now let us go home and give this young man back to his mother."
+
+At the cottage she made the sick woman comfortable and talked to her about her son. Martin went out to the tavern and bought a jug of ale. Then he spread the table with food, the best he could afford, and Godmother Death sat down on the bench and they ate and drank together.
+
+"Martin," she said to him at last, "you are very poor and I must do something for you. I tell you what I'll do: I'll make you into a great physician. I will spread sickness in the world and you will cure it. Your fame will go abroad and people will send for you and pay you handsomely. This is how we'll work together: when you hear of a person taken sick, go to his house and offer to cure him. I will be there invisible to every one but you. If I stand at the foot of the sick man's bed, you will know that he's going to get well. So then you can prescribe salves and medicines, and when he recovers he'll think you have cured him. But if I stand at the head of the sick man's bed, you will know that he has to die. In that case you must look grave and say that he is beyond help. When he dies people will say how wise you were to know beforehand."
+
+She gave him further instructions and then, after bidding her godchild and its mother a kind farewell, she left.
+
+Time went by and Martin's fame as a great physician spread far and wide. Wherever Godmother Death caused sickness, there Martin went and made marvelous cures. Dukes and princes heard of him and sent for him. When he rubbed them with salve or gave them a dose or two of bitter medicine and they recovered, they felt so grateful to him that they gave him anything he asked and often more than he asked.
+
+He always remembered Death's warning not to treat a sick man if she stood at his head. Once, however, he disobeyed. He was called to prescribe to a duke of enormous wealth. When he entered the room he saw Death standing at the duke's head.
+
+"Can you cure him?" they asked Martin.
+
+"I can't promise," Martin said, "but I'll do what I can."
+
+He had the servants turn the duke's bed around until the foot instead of the head was in front of Death. The duke recovered and rewarded Martin richly.
+
+But Death when next she met Martin reproved him:
+
+"My friend, don't try that trick on me again. Besides, it is not a real cure. The duke's time has come; he must go to his appointed place; and it is my duty to conduct him thither. You think you have saved him from me and he thinks so, but you are both mistaken. All you have given him is a moment's respite."
+
+The years went by and Martin grew old. His hair whitened and his muscles stiffened. The infirmities of age came upon him and life was no longer a joy.
+
+"Dear Godmother Death," he cried, "I am old and tired! Take me!"
+But Death shook her head.
+
+"No, my friend, I can't take you yet. You lengthened the candle of your life and now you must wait until it burns down."
+
+At last one day as he was riding home after visiting a sick man, Death climbed into the carriage with him. She talked with him of old times and they laughed together. Then jokingly she brushed his chin with a green branch. Instantly Martin's eyes grew heavy. His head slipped lower and lower and soon he fell asleep on Death's lap.
+
+"He's dead," the people said, when they looked in the carriage. "The famous Doctor Martin is dead! Oh, what a great and good man he was! Alas, who can take his place!"
+
+He was buried with great pomp and all the world mourned his death.
+His son, whose name was Josef, was a stupid fellow. One day as he was going to church, his godmother met him.
+
+"Well, Josef," she asked, "how are you getting on?"
+
+"Oh, pretty well, thank you. I can live along for a while on what my father saved. When that's gone, I don't know what I'll do."
+
+"Tut! Tut! "said Death. "That's no way to talk. If you only knew it, I'm your godmother who held you at your christening. I helped your father to wealth and fame and now I'll help you. I tell you what I'll do: I'll apprentice you to a successful doctor and I'll see to it that soon you'll know more than he knows."
+
+Death rubbed some salve over Josef's ears and led him to a doctor. "I wish you to take this youth as an apprentice," she said. "He's a likely lad and will do you credit. Teach him all you know."
+
+The doctor accepted Josef as an apprentice and when he went out into the fields to gather herbs and simples, he took the youth with him.
+
+Now the magic salve with which Godmother Death had anointed Josef enabled him to hear and understand the whisperings of the herbs. Each one as he picked it, whispered to him its secret properties.
+
+"I cure a fever," one whispered.
+
+"And I a rash."
+
+"And I a boil."
+
+The doctor was amazed at his apprentice's knowledge of herbs.
+
+"You know them better than I do," he said. "You never make a mistake. It is I should be apprentice, not you. Let us go into partnership. I will work under you and together we will make wonderful cures."
+
+And so, owing to his godmother's gift, Josef became a great physician of whom it was said that there was no illness for which he could not find a remedial herb.
+
+He lived long and happily until at last his candle burned down and Death, his kind godmother, took him.
+
+```
+
+---
+
 Godmother Death:
 
 
 god, devil, death as a potential godparents
 
----
 
----
-
-
-
-Hugo Gering, *Islendzk aeventyri; isländische Legenden, Novellen und Märchen*, 1882, [pp143-152](https://archive.org/details/islendzkaeventyr00geriuoft/islendzkaeventyr00geriuoft/page/n307/mode/2up).
-
-LXXVIII
-
-(Google Translate from the german version)
-
-LXXVITI. The King's Son and Death.
-
-A mighty king sat in his kingdom; He was not lacking in goodness of all kinds and choice hearts, in worldly honor and immeasurable wealth in gold and precious stones. It was an honor for him to smack about him in his hall men who are called philosophers, i.e. highly learned sages. In this and in many other things he sought glory, for his arrogance was great. An event then occurred which filled the whole kingdom with great joy: the queen gave birth to a son. Surrounded by wealth, he grew up as befits a king's child, kind and friendly, steady and capable, manly in spirit without wrong or blunder. When he had grown old enough to think of his instruction, it happened one day, as the king was sitting at his table, that the wisest master in the hall got up and stood in front of the perch. 'Lord,' he said, 'you have a young son, whom all your friends look on with joy, for we believe he has been given to us of God to sit after you on your throne with rich honor as befits his birth. Therefore I offer myself with all willingness to teach him and to instruct him in the wisdom which I have gathered from books and from my own experience, that his name may be the more famous as he shall be wiser than other people.' When he said nothing, it was evident at once that the king did not take the speech so kindly as some had expected; Rather, he took on a somewhat angry expression and said: 'My dear, what can you teach our son? Your wisdom is worth no more than the antics of traveling people and children's games.' The master replied: 'If these words did not come from a king's mouth, they would undoubtedly be untrue, for my wisdom has never become the scorn of children, rather I have acquired such rich knowledge that it will be highly honorable for your son would be if he learned just as much: everyone will confirm that.' The king angrily replied: 'Depart from here; We tell you how it is to be done: either our son shall remain untutored and shall not sit at your feet, or he shall receive the teacher who can instruct him in unknown wisdom, of which you have never heard.' Again the master replied: 'if your son is a human being, then he will only have human comprehension: and when has one ever heard that one human being should not teach the other?' With that he ended his speech and returned to his seat. Now there was complete silence for a while, because the king was angry and therefore everyone was silent. — After a few days, when the king was again sitting at the table, there was a soft knock at the door and an order to let him in, and when the guards looked, there was a man outside who looked like a wise man and asked to be brought before the king. When the king had given his leave, the man went in and stood in front of the perch; he had a wide felt hat on his head, so that one could not see his face exactly, he also moved the brim just a little out of respect for the king, then saluted and said: 'Hail to you, sir!' Then he continued: 'You can see from my appearance, O Lord, that I can be counted among the wise; And having heard a word from you concerning the teaching of your son, which in your guesses seemed a little arrogant, I sought you out intending to put my wisdom at his disposal, for I hope that that, what I can teach him, according to your wishes, will be unknown to every living human being. But as I am old and quirky, I do not like to be exposed to the noise of far and wide people: therefore let a house be built for us two miles from the stat in the forest that is there, and bring enough food there that we can live off it for a whole year, because i don't want anyone to disturb us from the day we move in.' The king was very happy about this speech and had everything prepared as quickly as time permitted. We'll skip the preparations and get straight to that have moved into the house; The master sat down on the high seat, as was fitting for him, but the king's son at his feet, as humble as a child of low rank. So they sat in silence the first day, the second, and the third, and not a word was heard. And to make it short, the king's son serves the master morning and night all year round and sits silently at his feet every day. When the year is over, the day before the king's visit was to be expected, the master speaks to the king's son: 'Tomorrow, my son, we will be visited and brought before the king. He will ask about your lessons, and if you like it, you can answer that you are not allowed to say anything about your teaching, but that shows that such things have never been heard by a human ear. Your father will also ask if you want to stay with me longer: but I won't give you any advice in relation to this.' So it happened, as just said: the next day both were called to the castle and brought before the king. When he asked his son if he wanted to go to school longer, he answered in all friendliness that he would like to go back there. The two were given food for a year. We can now be brief, because the second year runs exactly the same way from beginning to end. Once again the king's son decided to remain in solitude. The third year passed in the same silence and in the same boredom, and when this was over and they were expecting to be picked up the next day, the master spoke like this: 'My dear son, for your silence, your patience and loyalty you should do this received as a reward that the masculinity and steadfastness that you have shown during three years will never be forgotten, but will be written down in the history books; Furthermore, it is fitting that the expectation in which you have sat here alone should not be disappointed, for you are well worthy of the teaching which no wise man before you has received. First of all, know
-Low, Iceland. Legends, novellas, etc. II.
-
-who I am. My name is Mors—that means death—and I'm not human, although it seemed so to you; and apart from our parting, which will soon take place, it shall be a sign of your wisdom that it will become widely famous and spread through all countries, so that no man will be as respected as you, for all people will long to see you, though some who desire it will not attain it. Now pay attention, my son, to what I am telling you in a few words, although I have been silent for a long time, because it will be of use to you: if it happens that a person in the state becomes ill, go to him inside, even if you are not called, for he will be the only one who does not plead with you to visit him. You will see me sitting with this sick person and with everyone else you come to, but you should pay attention to where I am sitting. When I sit near my feet, you should say how it will also happen that man will have a long and not serious illness and will rise up. If I sit at the side of man, the illness is shorter and much more serious, and yet it is followed by recovery and full health. But if I sit on my head, then death is certain, may the torment last longer or shorter. So this will be the cause of your fame, that you can predict to every human being what is to come, so that they can arrange themselves accordingly and make the appropriate decrees. But I want to teach you one more thing. If your friends fall ill, or notables whom you wish to please and whose friendship you wish, or obtain money and honor from them, then take the bird called karadius; if you see that I'm not sitting at the head end, you should carry the bird to the sick person and hold it in front of his face, because this bird has the peculiarity that it sucks up the sickness of the human being and absorbs it into his body. Then let go of the bird: it knows its nature and flies with the disease high in the air and as close to the sun as possible, and blows the disease from itself in the light of the sun, this but absorbs them and destroys them with their heat, the bird on the other hand is healthy. As a result of our meeting and conversation, it will happen that the peculiarity of this bird will become known through your words; they will be remembered and recorded with the name of the bird in the book, which people will call fisiologus. My apprenticeship is over now, dear son, and so is our first meeting, but we will meet a second time, and then you will not enjoy seeing each other again.' That's how the conversation ended. The day appeared when both were summoned before the king. The king's son presented the master with a commendable certificate in front of the whole entourage, and he received rich thanks and offers of gifts and tokens of honor from the king. But he refused everything and asked permission to say goodbye. The king's son's wisdom was not appreciated at first, but after a while it grew in such respect that everyone agreed that his equal had never been born; and one could say that all countries were on the move to seek him out and claim his wisdom, because everything that was mentioned earlier came to him at his word. He also made long journeys to examine the diseases of distinguished people, until his father died; And now, when he himself ascended the throne, he visited his friends, especially those belonging to his entourage when they fell ill, and the mighty of the country, whom he considered to be of use to the prosperity of the empire; but although he had received such a gift, he did not become haughty, but was so condescending, kind, and amiable, and so gentle and gentle toward all his subjects, as befits a king, that every child was dear to him: because that's the way to go, that one person's praise makes ten friends. So his days fade away in glory and happiness, that he himself enjoys excellent health and the realm of peace and prosperity, until he was a hundred years old, and still a sprightly man, because he was tall and strong and adept at caring for his body. Nevertheless, a violent illness overtook him, which caused great grief to his friends. She took him with her in such a way that after a short time there was hardly any rescue; and one day, as he was lying there in this state, he fainted, and when it was over he opened his eyes and saw something that did not please him: his old master had appeared with the wide felt hat and sat close to his head. The king immediately noticed that death was at the door and said: 'Master, why are you coming here so soon?' 'It must be like this, my son,' replied the latter. "I would not have thought it then," said the king, as I sat silently, a royal child, at your feet for three years, that you would do this to me, to tear me away from the fullness of happiness and royal honors, since I was I'm still fit and fit to govern.' 'It is true, my son,' replied the master, that you had to endure much; but you also received a lot in return; and now you will have to go with me anyway.' When the king saw that there was no longer any hope of delay, he said: 'I will be able to get so much from you that you will give me time to say an Our Father before we go.' The master said that this should be granted. The king said the first four verses of the prayer up to et dimitte nobis, but when he got that far he was silent. The master waited a long time, but the king remained silent. 'Why don't you pray, my son?' asked the old man. 'That's why I don't pray, my master, because I don't want to. You have nothing more to do here, because for this time we will have to separate. You granted me an Lord's Prayer, and therefore, based on your promise, I will not pray the last part of it until I have lived as long as my heart desires, and then I will voluntarily finish my prayer, without being called and pushed by you.' 'You deceived me by cunning son, replied the master, and therefore you will assert your will for this time.' He went away, but the king got better so quickly that it seemed marvelous to everyone how quickly the disease abated. He now lived in his honor for a second century, but then he was so bent with age, so collapsed and paralyzed that it seemed a burden to him to live any longer. He called all the leaders of the land, and a mighty assembly came together. The king's chair was erected and the ruler led there by his men. He now made stipulations for the whole empire, concerning the kingship and also the other estates, and gave his people good advice and fatherly admonition to fear God and to protect the rights of the country according to the old statutes of good princes. Then he lay down in broad daylight and commanded his ministers to prepare him for the last hour. When this was done with due solemnity, he related to his intimates all that had passed between him and the Master, and then said: 'Come now, my Master, and hear how I close the prayer which you once granted me, for now I'm ready.' The man appeared on the spot; then the king began: iet dimitte nobis\ and in the same moment as he said the amen after the prayer, he departed from this life and was much mourned, although he was old, and with that this story has an end.
-
-Reinhold Köhler writes to me about this fairy tale, which was first referred to by Jon Sigurdsson in the Diplomatarium Islandicum / (Kaupm. 1857 J p. 239): 'The Icelandic Aeventyri is a very peculiar and at the same time the oldest known version of the widespread fairy tale of death, which gives a person - in most versions his godfather or godfather - the gift of giving him to every sick person see and see from his position whether the sick will die or will recover. Most versions — Hans Sachsen's "der pawer" with the dot\ edited by R. Rechstein in the contemporary version founded by L. Rechstein
-
-Writing "German museum for skilful, literature, art and antiquity research" new episode, vol. I (Leipzig 1862) pp. 182 — 1841); Joh. Praetorius, the adventurous lucky pot (above 1669) p. 147; J. W. Wolf, German House Tales, p. 365; H. Prahle, Children's and Folk Tales nr. 13; Fr. Schbnwerth, from the Upper Palatinate, III, 12; Ch. Deulin, contes d'un buveur de biere, p.195; P.Chr. Asbjornsen, norske folke-eventyr nr.105; W. v. Schulenburg, Wendisches Volkstum, p. 36; J.W. Wolf's journal. f. German mythol. 1 , 262 (Slavic fairy tale from the Trentsiner comitate in Hungary) and 358 (fairy tale from Bukovina); F. A. Coelho, contospopulares portuguezes, nr.23; F. Caballero, cuentos y poesias andaluces, p. 83; rem. Schmidt, Greek Fairy Tales, Legends and Folk Songs, p. 117; N. G. Po litis, fieXertj hil xov ßiov %(bv veiovegtov 'EÄXrj- viov, £, 293; F. M. Luzel, legendes chretiennes de la Basse - Bretagne, /, 346; Gueullette, mille et un quart d'heure, 72 and 73 = Le cabinet des fees, XXI, 455 - telling that the sick die when death is heaped or sitting at his side, and recovers when he is at his feet; in others - Jacob Ayrer's carnival play 'der Baur mit seim Gevatter Tod'' (in A. v. Keller's edition IV, 2467); Heinrich Wolf's master song from 1644; Brothers Grimm, children's and house tales, no. 44; L. Bechstein, German fairy tale book (Leipz. 1845) p. 88; Armana prouvencau per 1876, p. 60; Luzel op. but also a in his body, and then the sick person will recover just as well as when death sits at his feet. In a fairy tale about the godfather from Venetia (in the yearbook for Roman and English lit. VII, 16), death tells his godfather that if he is called to a sick person, he should go behind the door when entering the house see him, and when he sees him standing there, the sick man will die. in no. 4 of the Hungarian folk tales translated by G. Stier from G. Gaal's legacy derive tod
-1) Biesen schwank later transformed Hans Sachs into a master song through minor changes, which was recorded in a Berlin hs. can be found and is not yet printed. On him and on the just/as still unprinted by Heinr. Wolf is in the anm. to the Children's and Household Tales of the Brothers Grimm no. 44 pointed out; I have copies of both and will publish them in a while.
-
-LXXVI1I. The King's Son and Death. 151
-his godfather the promise to be able to make every sick person well. — Only in four of the parallels cited does the ruse with the Lord's Prayer used in the Icelandic fairy tale appear, namely in Hans Sachs, in the German fairy tale in Wolf's collection, in the Portuguese and the Norwegian. In them, too, the doctor asks Death, who wants to take him away, to let him pray the Lord's Prayer first, and then doesn't finish it. In the tale of the wolf he declares that he will pray to it for 50 years, and death laughingly accepts it; in Hans Sachs and in the other two fairy tales, however, death outwits the doctor after a while, so that he prays an Lord's Prayer. For Hans Sachs, when the doctor has not finished praying the Lord's Prayer for years that have begun, death takes the form of a sick person, lies down in front of the doctor's front door and asks the doctor to help him with an Lord's Prayer, which the doctor says acts innocently and falls for him. In the Portuguese fairy tale, death pretends to be dead; the doctor finds him lying on the street and prays the Lord's Prayer for his soul, whereupon death jumps up and seizes him. In the Norwegian fairy tale, one night Death hangs a large plaque with the Lord's Prayer on it over the doctor's bed, who, when he wakes up, reads the Lord's Prayer and, when he has finished reading it, dies. Then there is the Hungarian fairy tale mentioned above, which is obviously distorted. For in him death proclaimed to his father, when he bestowed on him the power to heal every sick person, at the same time that he should—one does not know why—die immediately if he said the Lord's Prayer or Amen. Years later, the godfather finds a crying child on the street who complains that his father hit him because he didn't know a word during prayer. 'Was it our father?' asks the godfather, and so one after the other all the words of the Lord's Prayer, and when he asks at last: 'Was it Amen?' the child, who was none other than death, replies: 'Yes, that was it; amen for you, godfather, amen/' And immediately the man dies. — Finally, the trick with the Lord's Prayer appears in a Syrian fairy tale: see Syrian sagas and fairy tales, collected from popular speech and translated by E. Prym and A. So ein f Göttingen 1881 ) see 299 rich young man, with whom he has fraternized, when asked that he will take his soul on his wedding night. So Her Reiche only marries after 400 years, and when the angel of death comes, he asks him to let him live until he has said the Lord's Prayer. When the request is granted, he says it
-Our Father not. Only after 20 years does he forget to eat at home and say the prayer. Soon the angel of death appears and takes his soul. E. Prym refers to this in the subject index u. w. 'Todesengel' (p. 406) on Grimm, Kinder- und Hausmär- chen III, 132. There — in a variant of the fairy tale about the Spielhansel — death says to him when Hans Lustig prays an Our Father at a funeral: l So, I'll lift it up, that you say that bedden, nu most du deran."1 But nothing of the Lord's Prayer has occurred before: the fairy tale is obviously distorted. — The beginning of the Icelandic aeventyri is quite peculiar , the appearance of death as the prince's wise and teacher, the bird karadius 1 and finally the lusty king's voluntary prayer of the Lord's Prayer!
-
-A well done Swedish version of the Icelandic aeventyri (according to my text) was provided by G. Cederschiöld in Ny sveusk tidskrift I (1882) pp. 220-226.
-
-
----
 
 
 ```{admonition} A variant in verse, (1547), 1910
@@ -234,132 +337,333 @@ There is a proverb, Hans Sachs saith,
 
 ```
 
+
 ---
 
-```{admonition} In *Sixty folk-tales from exclusively Slavonic sources*, 1889
-:class: dropdown
-Albert Henry Wratislaw, 1889, *Sixty folk-tales from exclusively Slavonic sources*, [pp. 52-55](https://archive.org/details/sixtyfolktalesfr00wratrich/page/52/mode/2up?q=%22godmother+death%22).
 
-p51.
+The tale also appears as story in the Japanese *rakugo* tradition.
 
-MORAVIAN STORIES
+https://www.youtube.com/watch?v=P4PCds4tlT4 
+Kyotaro Yanagiya: Grim Reaper Rakugo performance English subtitles
 
-MORAVIA is so named from the river Morava (in German the river March), of which, and its affluents, it is the basin. It falls into the Danube a little above Presburg. In very early times Moravia appears to have been more civilized and powerful than Bohemia; but later, Bohemia became a considerable kingdom, and Moravia a dependency of, and eventually a margravate under the Bohemian crown.
+https://www.youtube.com/watch?v=lHMFKAEDBcE
+RAKUGO: The God of Death performed by Kanariya Eiraku
 
-The Moravian stories differ but little in character from those of Bohemia. The country, unlike Bohemia, abounds in dialects, although the literary language is the Bohemian. On the east the Moravian melts into the Silesian, or 'Water-Polish.'
-
-No. 8, 'Godmother Death,' is an interesting variant of the Teutonic 'Godfather Death,' which is given by Grimm. The reason why Death is represented as a Godmother, rather than a Godfather, in the Moravian story, is, that Death (*Smrt*) is feminine in all Slavonic dialects. The story constructed on this basis is more graceful and fuller of incident than the Teutonic tale, in which Death is masculine.
+---
 
 
-VIII.— GODMOTHER DEATH.
+## Machine Translated Versions
 
-THERE was a man, very poor in this world's goods, whose wife presented him with a baby boy. No one was willing to stand sponsor, because he was so very poor. The father said to himself: 'Dear Lord, I am so poor that no one is willing to be at my service in this matter; I'll take the baby, I'll go, and I'll ask the first person I meet to act as sponsor, and if I don't meet anybody, perhaps the sexton will help me.' He went and met Death, but didn't know what manner of person she was; she was a handsome woman, like any other woman. He asked her to be godmother. She didn't make any excuse, and immediately saluted him as parent of her godchild, took the baby in her arms, and carried him to church. The little lad was properly christened. When they came out of church, the child's father took the godmother to an inn, and wanted to give her a little treat as godmother. But she said to him, 'Gossip, `[The Slavonians are rich in terms, both masculine and feminine, expressing the various relationships between godparents and godchildren and their parents. We have only one form, 'gossip,' which thus has to do duty for both the godmother and the father of the godchild.]` leave this alone, and come with me to my abode.' She took him with her to her apartment, which was very handsomely furnished. Afterwards she conducted him into great vaults, and through these vaults they went right into the under-world in the dark. There tapers were burning of three sizes — small, large, and middle-sized; and those which were not yet alight were very large. The godmother said to the godchild's father: 'Look, Gossip, here I have the duration of everybody's life.' The child's father gazed thereat, found there a tiny taper close to the very ground, and asked her: 'But, Gossip, I pray you, whose is this little taper close to the ground?' She said to him: 'That is yours! When any taper whatsoever burns down, I must go for that man.' He said to her: 'Gossip, I pray you, give me somewhat additional.' She said to him: 'Gossip, I cannot do that!' Afterwards she went and lighted a large new taper for the baby boy whom they had had christened. Meanwhile, while the godmother was not looking, the child's father took for himself a large new taper, lit it, and placed it where his tiny taper was burning down.
+Many variants of the tale exist in langiages other than English that have not, at least insofar as I have been able to locate, translated into English. In this section, machine translation has been used to translate the tales from the original language. *As machine translation imporves, I may update these translations.*
 
-The godmother looked round at him and said: 'Gossip, you ought not to have done that to me; but if you have given yourself additional lifetime, you have done so and possess it. Let us go hence, and we'll go to your wife.'
+I will also include the original language text from which each translation was obtained.
 
-She took a present, and went with the child's father and the child to the mother. She arrived, and placed the boy on his mother's bed, and asked her how she was, and whether she had any pain anywhere. The mother confided her griefs to her, and the father sent for some beer, and wanted to entertain her in his cottage, as godmother, in order to gratify her and show his gratitude. They drank and feasted together. Afterwards the godmother said to her godchild's father: 'Gossip, you are so poor that no one but myself would be at your service in this matter; but never mind, you shall bear me in memory! I will go to the houses of various respectable people and make them ill, and you shall physic and cure them. I will tell you all the remedies. I possess them all, and everybody will be glad to recompense you well, only observe this: When I stand at anyone's feet, you can be of assistance to every such person; but if I stand at anybody's head, don't attempt to aid him.' It came to pass. The child's father went from patient to patient, where the godmother caused illness, and benefited every one. All at once he became a distinguished physician. A prince was dying — nay, he had breathed his last — nevertheless, they sent for the physician. He came, he began to anoint him with salves and give him his powders, and did him good. When he had restored him to health, they paid him well, without asking how much they were indebted. Again, a count was dying. They sent for the physician again. The physician came. Death was standing behind the bed at his head. The physician cried: 'It's a bad case, but we'll have a try.' He summoned the servants, and ordered them to turn the bed round with the patient's feet towards Death, and began to anoint him with salves and administer powders into his mouth, and did him good. The count paid him in return as much as he could carry away, without ever asking how much he was indebted; he was only too glad that he had restored him to health. When Death met the physician, she said to him: 'Gossip, if this occurs to you again, don't play me that trick any more. True, you have done him good, but only for a while; I must, none the less, take him off whither he is due.' The child's father went on in this way for some years; he was now very old. But at last he was wearied out, and asked Death herself to take him. Death was unable to take him, because he had given himself a long additional taper; she was obliged to wait till it burned out. One day he drove to a certain patient to restore him to health, and did so. Afterwards Death revealed herself to him, and rode with him in his carriage. She began to tickle and play with him, and tap him with a green twig under the throat; he threw himself into her lap, and went off into the last sleep. Death laid him in the carriage, and took herself off. They found the physician lying dead in his carriage, and conveyed him home. The whole town and all the villages lamented: 'That physician is much to be regretted. What a good doctor he was! He was of great assistance; there will never be his like again!' His son remained after him, but had not the same skill. The son went one day into church, and his godmother met him. She asked him: 'My dear son, how are you?' He said to her: 'Not all alike; so long as I have what my dad saved up for me, it is well with me, but after that the Lord God knows how it will be with me.' His godmother said: 'Well, my son, fear nought. I am your christening mamma; I helped your father to what he had, and will give you, too, a livelihood. You shall go to a physician as a pupil, and you shall be more skilful than he, only behave nicely.' After this she anointed him with salve over the ears, and conducted him to a physician. The physician didn't know what manner of lady it was, and what sort of son she brought him for instruction. The lady enjoined her son to behave nicely, and requested the physician to instruct him well, and bring him into a good position. Then she took leave of him and departed. The physician and the lad went together to gather herbs, and each herb cried out to the pupil what remedial virtue it had, and the pupil gathered it. The physician also gathered herbs, but knew not, with regard to any herb, what remedial virtue it possessed. The pupil's herbs were beneficial in every disease. The physician said to the pupil: 'You are cleverer than I, for I diagnose no one that comes to me; but you know herbs counter to every disease. Do you know what? Let us join partnership. I will give my doctor's diploma up to you, and will be your assistant, and am willing to be with you till death.' The lad was successful in doctoring and curing till his taper burned out in limbo.
+Hugo Gering, *Islendzk aeventyri; isländische Legenden, Novellen und Märchen*, 1882, [pp143-152](https://archive.org/details/islendzkaeventyr00geriuoft/islendzkaeventyr00geriuoft/page/n307/mode/2up).
 
-```
+LXXVIII
 
-```{admonition} In "The shoemaker's apron", 1920
-:class: dropdown
+(Google Translate from the german version)
 
-Parker Fillmore, *The shoemaker's apron; a second book of Czechoslovak fairy tales and folk tales*, 1920, [p199-205](https://archive.org/details/shoemakersaprons00filliala/page/198/mode/2up).
+LXXVITI. The King's Son and Death.
 
-THE CANDLES OF LIFE
+A mighty king sat in his kingdom; He was not lacking in goodness of all kinds and choice hearts, in worldly honor and immeasurable wealth in gold and precious stones. It was an honor for him to smack about him in his hall men who are called philosophers, i.e. highly learned sages. In this and in many other things he sought glory, for his arrogance was great. An event then occurred which filled the whole kingdom with great joy: the queen gave birth to a son. Surrounded by wealth, he grew up as befits a king's child, kind and friendly, steady and capable, manly in spirit without wrong or blunder. When he had grown old enough to think of his instruction, it happened one day, as the king was sitting at his table, that the wisest master in the hall got up and stood in front of the perch. 'Lord,' he said, 'you have a young son, whom all your friends look on with joy, for we believe he has been given to us of God to sit after you on your throne with rich honor as befits his birth. Therefore I offer myself with all willingness to teach him and to instruct him in the wisdom which I have gathered from books and from my own experience, that his name may be the more famous as he shall be wiser than other people.' When he said nothing, it was evident at once that the king did not take the speech so kindly as some had expected; Rather, he took on a somewhat angry expression and said: 'My dear, what can you teach our son? Your wisdom is worth no more than the antics of traveling people and children's games.' The master replied: 'If these words did not come from a king's mouth, they would undoubtedly be untrue, for my wisdom has never become the scorn of children, rather I have acquired such rich knowledge that it will be highly honorable for your son would be if he learned just as much: everyone will confirm that.' The king angrily replied: 'Depart from here; We tell you how it is to be done: either our son shall remain untutored and shall not sit at your feet, or he shall receive the teacher who can instruct him in unknown wisdom, of which you have never heard.' Again the master replied: 'if your son is a human being, then he will only have human comprehension: and when has one ever heard that one human being should not teach the other?' With that he ended his speech and returned to his seat. Now there was complete silence for a while, because the king was angry and therefore everyone was silent. — After a few days, when the king was again sitting at the table, there was a soft knock at the door and an order to let him in, and when the guards looked, there was a man outside who looked like a wise man and asked to be brought before the king. When the king had given his leave, the man went in and stood in front of the perch; he had a wide felt hat on his head, so that one could not see his face exactly, he also moved the brim just a little out of respect for the king, then saluted and said: 'Hail to you, sir!' Then he continued: 'You can see from my appearance, O Lord, that I can be counted among the wise; And having heard a word from you concerning the teaching of your son, which in your guesses seemed a little arrogant, I sought you out intending to put my wisdom at his disposal, for I hope that that, what I can teach him, according to your wishes, will be unknown to every living human being. But as I am old and quirky, I do not like to be exposed to the noise of far and wide people: therefore let a house be built for us two miles from the stat in the forest that is there, and bring enough food there that we can live off it for a whole year, because i don't want anyone to disturb us from the day we move in.' The king was very happy about this speech and had everything prepared as quickly as time permitted. We'll skip the preparations and get straight to that have moved into the house; The master sat down on the high seat, as was fitting for him, but the king's son at his feet, as humble as a child of low rank. So they sat in silence the first day, the second, and the third, and not a word was heard. And to make it short, the king's son serves the master morning and night all year round and sits silently at his feet every day. When the year is over, the day before the king's visit was to be expected, the master speaks to the king's son: 'Tomorrow, my son, we will be visited and brought before the king. He will ask about your lessons, and if you like it, you can answer that you are not allowed to say anything about your teaching, but that shows that such things have never been heard by a human ear. Your father will also ask if you want to stay with me longer: but I won't give you any advice in relation to this.' So it happened, as just said: the next day both were called to the castle and brought before the king. When he asked his son if he wanted to go to school longer, he answered in all friendliness that he would like to go back there. The two were given food for a year. We can now be brief, because the second year runs exactly the same way from beginning to end. Once again the king's son decided to remain in solitude. The third year passed in the same silence and in the same boredom, and when this was over and they were expecting to be picked up the next day, the master spoke like this: 'My dear son, for your silence, your patience and loyalty you should do this received as a reward that the masculinity and steadfastness that you have shown during three years will never be forgotten, but will be written down in the history books; Furthermore, it is fitting that the expectation in which you have sat here alone should not be disappointed, for you are well worthy of the teaching which no wise man before you has received. First of all, know
+Low, Iceland. Legends, novellas, etc. II.
 
-THERE was once a poor man named Martin. He was so very poor that when his wife gave birth to a little boy, he could find no one who would stand godmother to the child.
+who I am. My name is Mors—that means death—and I'm not human, although it seemed so to you; and apart from our parting, which will soon take place, it shall be a sign of your wisdom that it will become widely famous and spread through all countries, so that no man will be as respected as you, for all people will long to see you, though some who desire it will not attain it. Now pay attention, my son, to what I am telling you in a few words, although I have been silent for a long time, because it will be of use to you: if it happens that a person in the state becomes ill, go to him inside, even if you are not called, for he will be the only one who does not plead with you to visit him. You will see me sitting with this sick person and with everyone else you come to, but you should pay attention to where I am sitting. When I sit near my feet, you should say how it will also happen that man will have a long and not serious illness and will rise up. If I sit at the side of man, the illness is shorter and much more serious, and yet it is followed by recovery and full health. But if I sit on my head, then death is certain, may the torment last longer or shorter. So this will be the cause of your fame, that you can predict to every human being what is to come, so that they can arrange themselves accordingly and make the appropriate decrees. But I want to teach you one more thing. If your friends fall ill, or notables whom you wish to please and whose friendship you wish, or obtain money and honor from them, then take the bird called karadius; if you see that I'm not sitting at the head end, you should carry the bird to the sick person and hold it in front of his face, because this bird has the peculiarity that it sucks up the sickness of the human being and absorbs it into his body. Then let go of the bird: it knows its nature and flies with the disease high in the air and as close to the sun as possible, and blows the disease from itself in the light of the sun, this but absorbs them and destroys them with their heat, the bird on the other hand is healthy. As a result of our meeting and conversation, it will happen that the peculiarity of this bird will become known through your words; they will be remembered and recorded with the name of the bird in the book, which people will call fisiologus. My apprenticeship is over now, dear son, and so is our first meeting, but we will meet a second time, and then you will not enjoy seeing each other again.' That's how the conversation ended. The day appeared when both were summoned before the king. The king's son presented the master with a commendable certificate in front of the whole entourage, and he received rich thanks and offers of gifts and tokens of honor from the king. But he refused everything and asked permission to say goodbye. The king's son's wisdom was not appreciated at first, but after a while it grew in such respect that everyone agreed that his equal had never been born; and one could say that all countries were on the move to seek him out and claim his wisdom, because everything that was mentioned earlier came to him at his word. He also made long journeys to examine the diseases of distinguished people, until his father died; And now, when he himself ascended the throne, he visited his friends, especially those belonging to his entourage when they fell ill, and the mighty of the country, whom he considered to be of use to the prosperity of the empire; but although he had received such a gift, he did not become haughty, but was so condescending, kind, and amiable, and so gentle and gentle toward all his subjects, as befits a king, that every child was dear to him: because that's the way to go, that one person's praise makes ten friends. So his days fade away in glory and happiness, that he himself enjoys excellent health and the realm of peace and prosperity, until he was a hundred years old, and still a sprightly man, because he was tall and strong and adept at caring for his body. Nevertheless, a violent illness overtook him, which caused great grief to his friends. She took him with her in such a way that after a short time there was hardly any rescue; and one day, as he was lying there in this state, he fainted, and when it was over he opened his eyes and saw something that did not please him: his old master had appeared with the wide felt hat and sat close to his head. The king immediately noticed that death was at the door and said: 'Master, why are you coming here so soon?' 'It must be like this, my son,' replied the latter. "I would not have thought it then," said the king, as I sat silently, a royal child, at your feet for three years, that you would do this to me, to tear me away from the fullness of happiness and royal honors, since I was I'm still fit and fit to govern.' 'It is true, my son,' replied the master, that you had to endure much; but you also received a lot in return; and now you will have to go with me anyway.' When the king saw that there was no longer any hope of delay, he said: 'I will be able to get so much from you that you will give me time to say an Our Father before we go.' The master said that this should be granted. The king said the first four verses of the prayer up to et dimitte nobis, but when he got that far he was silent. The master waited a long time, but the king remained silent. 'Why don't you pray, my son?' asked the old man. 'That's why I don't pray, my master, because I don't want to. You have nothing more to do here, because for this time we will have to separate. You granted me an Lord's Prayer, and therefore, based on your promise, I will not pray the last part of it until I have lived as long as my heart desires, and then I will voluntarily finish my prayer, without being called and pushed by you.' 'You deceived me by cunning son, replied the master, and therefore you will assert your will for this time.' He went away, but the king got better so quickly that it seemed marvelous to everyone how quickly the disease abated. He now lived in his honor for a second century, but then he was so bent with age, so collapsed and paralyzed that it seemed a burden to him to live any longer. He called all the leaders of the land, and a mighty assembly came together. The king's chair was erected and the ruler led there by his men. He now made stipulations for the whole empire, concerning the kingship and also the other estates, and gave his people good advice and fatherly admonition to fear God and to protect the rights of the country according to the old statutes of good princes. Then he lay down in broad daylight and commanded his ministers to prepare him for the last hour. When this was done with due solemnity, he related to his intimates all that had passed between him and the Master, and then said: 'Come now, my Master, and hear how I close the prayer which you once granted me, for now I'm ready.' The man appeared on the spot; then the king began: iet dimitte nobis\ and in the same moment as he said the amen after the prayer, he departed from this life and was much mourned, although he was old, and with that this story has an end.
 
-"No," he told his wife, "there's no one that I've asked who is willing to hold this infant at the christening."
+Reinhold Köhler writes to me about this fairy tale, which was first referred to by Jon Sigurdsson in the Diplomatarium Islandicum / (Kaupm. 1857 J p. 239): 'The Icelandic Aeventyri is a very peculiar and at the same time the oldest known version of the widespread fairy tale of death, which gives a person - in most versions his godfather or godfather - the gift of giving him to every sick person see and see from his position whether the sick will die or will recover. Most versions — Hans Sachsen's "der pawer" with the dot\ edited by R. Rechstein in the contemporary version founded by L. Rechstein
 
-The poor mother wept and moaned and he tried to comfort her as best he could.
+Writing "German museum for skilful, literature, art and antiquity research" new episode, vol. I (Leipzig 1862) pp. 182 — 1841); Joh. Praetorius, the adventurous lucky pot (above 1669) p. 147; J. W. Wolf, German House Tales, p. 365; H. Prahle, Children's and Folk Tales nr. 13; Fr. Schbnwerth, from the Upper Palatinate, III, 12; Ch. Deulin, contes d'un buveur de biere, p.195; P.Chr. Asbjornsen, norske folke-eventyr nr.105; W. v. Schulenburg, Wendisches Volkstum, p. 36; J.W. Wolf's journal. f. German mythol. 1 , 262 (Slavic fairy tale from the Trentsiner comitate in Hungary) and 358 (fairy tale from Bukovina); F. A. Coelho, contospopulares portuguezes, nr.23; F. Caballero, cuentos y poesias andaluces, p. 83; rem. Schmidt, Greek Fairy Tales, Legends and Folk Songs, p. 117; N. G. Po litis, fieXertj hil xov ßiov %(bv veiovegtov 'EÄXrj- viov, £, 293; F. M. Luzel, legendes chretiennes de la Basse - Bretagne, /, 346; Gueullette, mille et un quart d'heure, 72 and 73 = Le cabinet des fees, XXI, 455 - telling that the sick die when death is heaped or sitting at his side, and recovers when he is at his feet; in others - Jacob Ayrer's carnival play 'der Baur mit seim Gevatter Tod'' (in A. v. Keller's edition IV, 2467); Heinrich Wolf's master song from 1644; Brothers Grimm, children's and house tales, no. 44; L. Bechstein, German fairy tale book (Leipz. 1845) p. 88; Armana prouvencau per 1876, p. 60; Luzel op. but also a in his body, and then the sick person will recover just as well as when death sits at his feet. In a fairy tale about the godfather from Venetia (in the yearbook for Roman and English lit. VII, 16), death tells his godfather that if he is called to a sick person, he should go behind the door when entering the house see him, and when he sees him standing there, the sick man will die. in no. 4 of the Hungarian folk tales translated by G. Stier from G. Gaal's legacy derive tod
+1) Biesen schwank later transformed Hans Sachs into a master song through minor changes, which was recorded in a Berlin hs. can be found and is not yet printed. On him and on the just/as still unprinted by Heinr. Wolf is in the anm. to the Children's and Household Tales of the Brothers Grimm no. 44 pointed out; I have copies of both and will publish them in a while.
 
-"Don't be discouraged, my dear wife. I promise you your son will be christened. I'll carry him to church myself and if I can find a godmother no other way I'll ask some woman I meet on the road."
+LXXVI1I. The King's Son and Death. 151
+his godfather the promise to be able to make every sick person well. — Only in four of the parallels cited does the ruse with the Lord's Prayer used in the Icelandic fairy tale appear, namely in Hans Sachs, in the German fairy tale in Wolf's collection, in the Portuguese and the Norwegian. In them, too, the doctor asks Death, who wants to take him away, to let him pray the Lord's Prayer first, and then doesn't finish it. In the tale of the wolf he declares that he will pray to it for 50 years, and death laughingly accepts it; in Hans Sachs and in the other two fairy tales, however, death outwits the doctor after a while, so that he prays an Lord's Prayer. For Hans Sachs, when the doctor has not finished praying the Lord's Prayer for years that have begun, death takes the form of a sick person, lies down in front of the doctor's front door and asks the doctor to help him with an Lord's Prayer, which the doctor says acts innocently and falls for him. In the Portuguese fairy tale, death pretends to be dead; the doctor finds him lying on the street and prays the Lord's Prayer for his soul, whereupon death jumps up and seizes him. In the Norwegian fairy tale, one night Death hangs a large plaque with the Lord's Prayer on it over the doctor's bed, who, when he wakes up, reads the Lord's Prayer and, when he has finished reading it, dies. Then there is the Hungarian fairy tale mentioned above, which is obviously distorted. For in him death proclaimed to his father, when he bestowed on him the power to heal every sick person, at the same time that he should—one does not know why—die immediately if he said the Lord's Prayer or Amen. Years later, the godfather finds a crying child on the street who complains that his father hit him because he didn't know a word during prayer. 'Was it our father?' asks the godfather, and so one after the other all the words of the Lord's Prayer, and when he asks at last: 'Was it Amen?' the child, who was none other than death, replies: 'Yes, that was it; amen for you, godfather, amen/' And immediately the man dies. — Finally, the trick with the Lord's Prayer appears in a Syrian fairy tale: see Syrian sagas and fairy tales, collected from popular speech and translated by E. Prym and A. So ein f Göttingen 1881 ) see 299 rich young man, with whom he has fraternized, when asked that he will take his soul on his wedding night. So Her Reiche only marries after 400 years, and when the angel of death comes, he asks him to let him live until he has said the Lord's Prayer. When the request is granted, he says it
+Our Father not. Only after 20 years does he forget to eat at home and say the prayer. Soon the angel of death appears and takes his soul. E. Prym refers to this in the subject index u. w. 'Todesengel' (p. 406) on Grimm, Kinder- und Hausmär-chen III, 132. There — in a variant of the fairy tale about the Spielhansel — death says to him when Hans Lustig prays an Our Father at a funeral: l So, I'll lift it up, that you say that bedden, nu most du deran."1 But nothing of the Lord's Prayer has occurred before: the fairy tale is obviously distorted. — The beginning of the Icelandic aeventyri is quite peculiar , the appearance of death as the prince's wise and teacher, the bird karadius 1 and finally the lusty king's voluntary prayer of the Lord's Prayer!
 
-So Martin bundled up the baby and carried him to church. On the way he met a woman whom he asked to be godmother. She took the baby in her arms at once and held it during the christening.
+A well done Swedish version of the Icelandic aeventyri (according to my text) was provided by G. Cederschiöld in Ny sveusk tidskrift I (1882) pp. 220-226.
 
-Now Martin supposed that she was just an ordinary woman like any other. But she wasn't. She was Death who walks about among men and takes them when their time has come.
 
-After the christening she invited Martin home with her. She showed him through the various rooms of her house and down into great cellars. They went a long way underground through cellar after cellar to a place where thousands upon thousands of candles were burning. There were tall candles just lighted, candles burned halfway down, and little short ones nearly burned out. At one end of the place there was a heap of fresh candles that had not yet been lighted.
 
-"These," Death said, "are the candles of all the people in the world. When a man's candle burns out, then it is time for me to go for him."
-"Godmother," Martin said, pointing to a candle that was burning low, "whose may that be?"
+---
 
-"That, my friend, is your candle."
 
-Martin was frightened and begged Death to lengthen his candle, but Death shook her head.
+---
+https://archive.org/details/lgendeschrtienn03luzegoog/page/n357/mode/2up
+Légendes chrétiennes de la Basse-Bretagne
+by François-Marie Luzel
 
-"No, my friend," she said, "I can't do that."
+Publication date 1881
+p335-345
 
-She reached for a fresh candle to light it for the baby just christened. While her back was turned, Martin snatched a tall candle, lighted it, and then pressed it on the stub of his own candle that was nearly burned out.
-When Death turned and saw what he had done, she frowned reprovingly.
-"That, my friend, was an unworthy trick. However, it has lengthened your life, for what is done is done and can't be undone."
+[Via Google Translate]
 
-Then she handed Martin some golden ducats as a christening present, took the baby again in her arms, and said:
+The Just Man.
 
-"Now let us go home and give this young man back to his mother."
+Once upon a time there was a poor man which the woman had just given birth and give him a son.
 
-At the cottage she made the sick woman comfortable and talked to her about her son. Martin went out to the tavern and bought a jug of ale. Then he spread the table with food, the best he could afford, and Godmother Death sat down on the bench and they ate and drank together.
+He wanted his child to have a godfather righteous man, and he set out for the look for.
+As he was walking, his stick in his hand, he first met a stranger, who looked like a very honest man, and who asked him:
 
-"Martin," she said to him at last, "you are very poor and I must do something for you. I tell you what I'll do: I'll make you into a great physician. I will spread sickness in the world and you will cure it. Your fame will go abroad and people will send for you and pay you handsomely. This is how we'll work together: when you hear of a person taken sick, go to his house and offer to cure him. I will be there invisible to every one but you. If I stand at the foot of the sick man's bed, you will know that he's going to get well. So then you can prescribe salves and medicines, and when he recovers he'll think you have cured him. But if I stand at the head of the sick man's bed, you will know that he has to die. In that case you must look grave and say that he is beyond help. When he dies people will say how wise you were to know beforehand."
+"Where are you going, my good man?"
 
-She gave him further instructions and then, after bidding her godchild and its mother a kind farewell, she left.
+— Find a godfather for my new son.
 
-Time went by and Martin's fame as a great physician spread far and wide. Wherever Godmother Death caused sickness, there Martin went and made mar- velous cures. Dukes and princes heard of him and sent for him. When he rubbed them with salve or gave them a dose or two of bitter medicine and they recovered, they felt so grateful to him that they gave him anything he asked and often more than he asked.
+- Well! Do you want me? I am at your disposal, if you please.
 
-He always remembered Death's warning not to treat a sick man if she stood at his head. Once, however, he disobeyed. He was called to prescribe to a duke of enormous wealth. When he entered the room he saw Death standing at the duke's head.
+— Yes, but... I want a fair man.
 
-"Can you cure him?" they asked Martin.
+- Well! you could not have timed better; I am your man.
 
-"I can't promise," Martin said, "but I'll do what I can."
+"So who are you?"
 
-He had the servants turn the duke's bed around until the foot instead of the head was in front of Death. The duke recovered and rewarded Martin richly.
+"I am the good Lord.
 
-But Death when next she met Martin reproved him:
+"You just. Lord God!... No I noni Everywhere, I hear people complaining about you, on earth.
 
-"My friend, don't try that trick on me again. Besides, it is not a real cure. The duke's time has come; he must go to his appointed place; and it is my duty to conduct him thither. You think you have saved him from me and he thinks so, but you are both mistaken. All you have given him is a moment's respite."
+"Why so, please?"
 
-The years went by and Martin grew old. His hair whitened and his muscles stiffened. The infirmities of age came upon him and life was no longer a joy.
+- Why? But for a thousand and a thousand different reasons.... Some, because you sent them to this world weak, counterfeit or sickly, while others are strong and full of health, who do not do more deserved than the first; others, and very honest people, as I know more than one, because, although working continually and giving themselves a dog's pain, you always leave them poor and miserable, while their neighbors, nothings , heartless men, good-for-nothings.... No, look, you won't be the godfather of my âls; farewell 1...
 
-"Dear Godmother Death," he cried, "I am old and tired! Take me!"
-But Death shook her head.
+And the good man continued on his way, grumbling.
 
-"No, my friend, I can't take you yet. You lengthened the candle of your life and now you must wait until it burns down."
+A little further on he met a tall old man with a long white beard.
 
-At last one day as he was riding home after visiting a sick man, Death climbed into the carriage with him. She talked with him of old times and they laughed together. Then jokingly she brushed his chin with a green branch. Instantly Martin's eyes grew heavy. His head slipped lower and lower and soon he fell asleep on Death's lap.
+"Where are you going, my good man?" asked the old man.
 
-"He's dead," the people said, when they looked in the carriage. "The famous Doctor Martin is dead! Oh, what a great and good man he was! Alas, who can take his place!"
+— Looking for a godfather for my newborn son.
 
-He was buried with great pomp and all the world mourned his death.
-His son, whose name was Josef, was a stupid fellow. One day as he was going to church, his godmother met him.
+"I am quite willing to act as godfather to him, if you like; does that suit you?
 
-"Well, Josef," she asked, "how are you getting on?"
+"Yes, but I must tell you first that I want my son's godfather to be a just man."
 
-"Oh, pretty well, thank you. I can live along for a while on what my father saved. When that's gone, I don't know what I'll do."
+"A just man?" Well I am, I think.
 
-"Tut! Tut! "said Death. "That's no way to talk. If you only knew it, I'm your godmother who held you at your christening. I helped your father to wealth and fame and now I'll help you. I tell you what I'll do: I'll apprentice you to a successful doctor and I'll see to it that soon you'll know more than he knows."
+"So who are you?"
 
-Death rubbed some salve over Josef's ears and led him to a doctor. "I wish you to take this youth as an apprentice," she said. "He's a likely lad and will do you credit. Teach him all you know."
+- Saint Pierre.
 
-The doctor accepted Josef as an apprentice and when he went out into the fields to gather herbs and simples, he took the youth with him.
+_- The doorman of paradise, who holds the keys?
 
-Now the magic salve with which Godmother Death had anointed Josef enabled him to hear and understand the whisperings of the herbs. Each one as he picked it, whispered to him its secret properties.
+"Yes, that very one."
 
-"I cure a fever," one whispered.
+- Well! so... You're not fair either.
 
-"And I a rash."
+- I am not fair, me! resumed Saint Peter with a little ill humor; and why so, please, man?
 
-"And I a boil."
+- Why? Ah! I will tell you: because, for peccadilloes at all, for your miseries, you refuse, I have been told, your door to very honest people, hard-working men like me. And why? Because, after working hard all week, they may drink a pint of cider too much on Sundays... and then, need I tell you again? You are the prince of the apostles, the head of the Church, are you not?
 
-The doctor was amazed at his apprentice's knowledge of herbs.
+Saint Peter nodded his head in sign of assent.
 
-"You know them better than I do," he said. "You never make a mistake. It is I should be apprentice, not you. Let us go into partnership. I will work under you and together we will make wonderful cures."
+— Well, in your church it's like everywhere else; there is nothing there except for money, and the rich still comes before the poor... No, you will not also be my son's godfather; farewell I. . .
 
-And so, owing to his godmother's gift, Josef became a great physician of whom it was said that there was no illness for which he could not find a remedial herb.
+And he went on his way, still grumbling.
 
-He lived long and happily until at last his candle burned down and Death, his kind godmother, took him.
+He then met a character who did not look very good, that one, and who carried a large scythe over his shoulder, like a reaper going to his work.
+"Where are you going, my good man?" this one also asked him.
 
-```
+— Finding a godfather for my newborn son»
+
+"Do you want me as your godfather?"
+
+"I must tell you, beforehand, that I want a just man."
+
+"A just man!" You will never find anyone fairer than me.
+
+— They all tell me that; but who are you?
+
+— I am Death (i).
+
+- Ah! yes; then, you are really just you; you have no preference for anyone, and you do your job bravely. Rich and poor, noble and villainous, king and subject, young and old, weak and strong.... you strike them all, when their time has come, content to let yourself be softened or weakened by tears, threats. , prayers or gold. Yes, you really are
+
+(i) In Breton, personified death (ann Ankou) is masculine, and that is why our man takes her as godfather to his son, and not as godmother; it is also for the same reason that I thought I should translate by Trépas, instead of ia Mort.
+
+fair" and you will be my son's godfather. Come with me.
+And the man returned to his cottage, taking with him the godfather he wanted to give to his son.
+
+Death was held at the baptismal font, and afterwards there was a little meal in the poor man's cottage, where you drank cider and ate white bread, out of the ordinary.
+
+Before leaving, the godfather said to his friend:
+
+"You are very good people, your wife and you; but you are very poor! As you have chosen me to be the godfather of your âls, I want to express my gratitude to you by revealing a secret that will make you earn a lot of money. You, friend, you are going to become a doctor now, and this is how you should behave: when you are called to a sick person, if you see me at the bedside, you can affirm that you will save him, and give him anything as a remedy, clear water, if you like; he will always survive. If, on the contrary, you see me with my scythe at the foot of the bed, there will be nothing to do, and the patient will surely die, whatever you can do to try to save him.
+
+Here, then, is our improvised doctor, putting into practice the system of his friend Death, and predicting, always with certainty, when his patients were to recover or die. As he was never mistaken and as, moreover, the remedies did not cost him dear, since he only gave clear water to his clients, whatever the disease, he was highly sought after and became rich in not much time.
+
+However, Death, when he had occasion to pass by, came in from time to time to see his godson and talk with his friend.
+
+The child grew and came wonderfully, and the doctor, on the contrary, grew older and weaker every day.
+
+One day Death said to him:
+
+'I always come to see you when I pass by here, and you've never come to my house before; you must also come and visit me, so that I can in turn treat you and show you my home.
+
+'I'll only go too soon,' replied the doctor, 'because I know that once you're at your house, comrade, you don't come back the way you want.
+
+"Don't worry about that, for I won't detain you until your time has come; you know that I am the just man par excellence.
+
+So the doctor left one night to do visit his friend. They went for a long time from Company, over hill and dale, crossing arid plains, forests, rivers, rivers and regions completely unknown to the doctor.
+
+Finally, Death stopped in front of an old castle surrounded by high walls, in the middle of a dark forest, and said to his companion: "It is here."
+
+They entered. The master of the gloomy manor at first entertained his guest magnificently, then, on leaving the table, he led him into an immense room where millions of candles of all sizes were burning, long, medium, short, and whose lights were more or less nourished, and shed more or less light. Our man was at first quite astonished, dazzled and dumb in front of this spectacle. Then, when he could speak:
+
+"What do all these lights mean, friend?" he asked.
+
+'These are the lights of life, friend.
+
+"The lights of life?" What does that mean?
+
+— Every human creature who lives on earth at present has his candle there, to which his life is attached.
+
+— But there are long ones, medium ones, short ones, shiny ones, dull ones, dying ones.... Why?
+
+— Yes, it's like the lives of men: some begin; others are in their fôrœ and all their brilliance; others are weak and vacillating; others finally are about to die out i...
+
+"Like one (a candle) that's long and tall!"
+
+— It is that of a child who has just been born.
+
+— And this other, that his light is bright and beHel
+
+"It is the product of a man in the prime of life."
+
+"Here's one that's going to go extinct, at a loss of food." *
+
+— It is an old man who is dying. "And mine, where is it too? I would like to see it.
+
+"Here he is near you."
+
+"That one?... Ali! my God, it's almost entirely consumed! It's going to go out....
+
+"Yes, you only have three more bears to live!"
+
+"What are you saying there?" What, only a few days!... But since I am your friend and you are master id, can't you keep my candle a little longer... for example, by taking a little the next one, which is so long, to add it to mine?...
+
+— The next one, which is so long, is that of your ah, and if I acted as you advised me to do, I would no longer be the just man you were looking for.
+
+"It is true," replied the doctor, withholding himself and heaving a deep sigh....
+
+And he then returned home, put his affairs in order, called the priest of his parish and died three days later, as his friend Death had predicted.
+'^CmU by J. Corvei, dt Pburiu,* Finûiérej iSj6.)
+
+There U^àt de Vlhmm» /«fie is not psrtictiUârs in Brittany. Like almost all old popular tales, it is found everywhere, more or less complete, more or less entertained.
+
+Bile is titled "v" in Grimm (Contts dts enfant" li de Ja hmmsw, no. 44), under the title of Death and sm Godson^ Hessian tale. Beginning analogous to that of the Breton version. The poor successively refuse as godfather the good God and the devil, and finally accept Death. This makes her godson a great doctor. She points out to him a certain plant which cures the sick very easily when he sees her, Death, at the bedside. If, on the contrary, she stands at the foot of the bed, there is nothing to be done: the patient cannot be saved. The godson, improvised doctor, becomes rich and famous. Called to the sick king, he sees Death at the foot of the bed. So he returns the Ut of mamèw to what. Death is at the bedside, and the king is cured. The Moft, although very displeased, forgives him this time; but, having begun the tour again for the princess, also ill, she leads him into a sort of cavern, where he sees a multitude and lights, &c.
+The nstcoaiine in the Breton tale
+
+Compare two bad tales. germans the coUection 3. W. Wolf, p. 365, and from the Prœhle collection, n® 13.
+Guillaume Grimm, in his remarks, quotes a German farce by Jacques Ayres (in his Opus theatricum, published after his death, in 1605), which closely resembles the Bessois tale; but the episode of lights is missing. He also mentions as an analog a little poem by Hans Sachs, from i)$3.
+In a collection of Hungarian tales (Gaal Stier, n» 4), same introduction. The poor man does not want Jesus as his godfather, "because he only likes the good. » Episode 4^ lights exists. The poor man, and not his godson, becomes a doctor. This part, which seems altered, is inferior to the corresponding part of the Hessian tale.
+
+In a Sicilian tale, collected by Miss Gonzenbach (n^ 19)» different introduction. Some time after Death was godmother (here it is not like in German and Breton, where Death being masculine , she is "godfather"), she comes to fetch the poor man and takes him to a dark vault where a multitude of lamps are burning, etc. In this tale, like in the Breton tale, the godchild does not become a doctor.
+
+The episode of lights is also found in an Italian tale from Venetia, published by MM. Widter and Wolf, in the Jakrhuch fur romanische uni englische Literatur.
+
+GueuUette, in his MilU and a quarter of an hour, Tartar tales, or rather pretended to be such, also has, in the quarter lxxiii*, under the title of: Adventures of a woodcutter and Death, a poor man, a woodcutter , who takes Death as the godfather of one of his newly born children, and whom he wanted to expose to the ferocious beasts, because of his misery. The godfather informs him of the medicinal virtues of certain herbs which cure a number of illnesses, and moreover, so that his judgments of life or death are always infallible, he tells him that, when he sees him at the foot of the bed of his sick, these would recover, but that nothing in the world could prevent them from dying, when he saw him at the bedside. The woodcutter, who has become a doctor, also deceives his
+
+compiles Death, turning over the bed, when the patient is deigned to die, and he thus saves the days of the great Iskender, that is to say, of Alexander the Great.
+
+The episode of lights is missing.
+
+It was published in the Almanac of Provence of 1876, p. eo and following, a Provencal version of the same tale, very similar to the Breton version, except for the episode of lights, which is also missing.
+
+We will see, in the legend of Death tt his compèrty which follows, how the improvised doctor having wanted to take advantage of the secret he possessed to make himself immortal, Death, deceived several times, ends up having his revenge (see also Celtic Rniu where the legend of L'Homnu just was first published, 3* vol., Ï878, p. 38J).
+
+On the heavens or lights of life, see also U Filleul di la Mortj in the Tales of a drinker of hiire by Ch. Deulia (lamps in which are the wicks of each mortal, more or less bright and shining).
+
+M. Paul Sébillot tells me that he also collected at Saint-Gist, in the gallot country or non-Breton Brittany, a tale in which a boy led by a skeleton sees a plain filled with lights of different lengths.
+
+
+---
+
+
+Prostonárodnie
+slovenskje povesti/ Slovak National Tales ( Dobšinský 1880-1883)
+
+https://archive.org/details/prostonrodniesl00dobgoog/page/n74/mode/2up?q=smrt
+
+p65-74
+
+Smrt Kmotra a Zázračný Lekár.
+
+Podali Jonathan Dobroslav Čipka z Malohontu, Pavol Dobsinský z Gemera a Samo Ormis z okolia B. Štiavnice.
+
+Kde bolo, tam bolo, v jednej tesnej doline bolo, do ktorej celý Boží deň leda raz slnce nadopoklo. Stál tam drevenný domček a v tom domčeku oyval ovčiar, čo mal na každý prst dvoje deti ale chleba už nemal, ani čoby za nechet spratal
+
+TO DO
+
+
+^ finat Godfather and the Miracle I ^ ekár.
+leni I Submitted by Jonathan Dobroslav Čipka from Maloliont, Pavol ..I DobSinsJcý from Gemera and Samo Ormis from the surroundings of B. Štiavnica.
+itkal Where it was, there it was, in one narrow valley
+i: eč.lbolo, into which the whole day of God, except once the sun
+dopoklo. There was a wooden house there and in that house
+t ^ Yb / ml ovčJar, which he had on each finger Ano ^^ ôä \ »^
+Afe cÏ / eÏa no longer, nor what for uec \ vet ^^ m ^ s?
+a. One day, he said, he waved well and ate both milk and meat; He also bought bread, 1 so that at the end of the week he brought in lumps of cheese, meats, and steamers into the city, and sold them there for good. But the little children of the flesh would not go forth. All the sheep passed by; and there was no way to finish them; so there was nowhere to take it upon yourself. And when even those fingers could not be counted, the pairs of hungry bastards, but the woman fell to him with the age of twenty-four, then there was still misery over white. No one looked at him anymore. The children screamed, who in the oven, which under the oven, in which ki Woman moaned on straw and only chased one thing, it will be when they no longer have anyone to bring it to baptism. The shepherd would have still satisfied the elected children so that they would just go to sleep, that they would eat up their throats in the morning, because there would be baptisms; but the woman, she is only a beast, and do not let God calm down!
+Under him once more after all the neighbors and from mine to pray; but the faith in that evening ceased. He didn't even return home, but set out on a deserted night to call whomever he met, to call him a godfather. He walks, climbs and grains from him. It may have been around midnight, and he was still alive. All his misery floored him p »mht B z & bhl božekaf, alas ^ from which he rájoik prepares the baptism as ow \\ fefei ^ ^^ ^ Ä * oéí without those Icinotrov
+
+Baz speaks to his back, "They didn't rush. you will go! "He will see, - and here he just smiles 1 y in the eyes of a creature tall, emaciated, meets with a white tarpaulin, as if she was not there either. i, Dear Knf God! he gasped. - "Never ask who I am who I am," the creature says; 'I am forever behind every man's back. Tell me what you bless and beg for?' 'it did not matter to anyone, only if he already had 1 heart.
+"Since that's so,' 'the creature will tell you, I'll help you with D. But you see, gift for gift and for nothing no. Well, you too will call me to will. I'm going from behind the sea and for the first time in the world I stopped. I hurried here over the mountain to the city. If you carry me on your doorstep and just in front of the gate, I will help you; and that you can't think I'm hard on you. Once you lie below me, there will be nothing from our godfather."
+The troubled loin raised his eyes, and here it seemed only three steps out of town. "Hey, * ^ he thought," I'd like to betah, too, if this poor thing got me (for those few steps, because I used to make cents of cheese on my shoulders. "' she was already on his back, and Jabúčka was like a pierce.
+
+asks the old. - y? Oh, no! "He wanted to say a cut, but he barely took it out. At that moment, not even a piercing relieved him." He takes a second step, and his knees break again; as if it were nothing, "Man, am I heavy for you?"
+
+"He barely exhausted his throat, saying" no, "but at that moment it seemed to him that he was no longer carrying anything. And he asks, "Man, am I heavy for you?" - "Yeah, my God!" The man shouts from the paint; otherwise he would not have come to admit that the faith was heavy.
+
+He looks at the strange creature and sees it in front of him with all the deeds he had heard of her: darkly bare, instead of the eyes of a pit, as if a fist entered them, - instead of a nose only a hole in the middle of the face, teeth like wheels, only throats , bare ribs, legs like two sticks, sharp scythe in long dry hand; - and the whole skeleton that moves, the bones rattle, as if to fall apart small into a pile. - I guess it'll make every man's godfather do it
+- death! He wants to run away, but his feet are hooked to the ground; he wants to call on rat, but his tongue is onemie, And death o ^ ve sa: ^ Me, you bore me, man ^ i a. N \ d \ i ^ that and me
+kidnap the ruler. Yes. som tvoja kmoU «^ \ íä.n ^ Vi. ^ '^ be I'll be from these times eate N ^ m ^ \ ^ wv ^ ^
+
+ebárs to another. And don't be afraid of me; I will fulfill what I did; just if you didn't say I was tough on you. If I showed up in the morning on a white day at the baptism of your child, don't even dream about it. I will advise you, as well as godparents, you will get children and children will be kept. Don't let a single word go as far as I can tell you. ''
+"He hears, then," says death. I forgive you for his sake now, take the vegetables that grow around here, where you brought me, go straight with her to the palace and announce that you will help the king, you will see me standing at his feet. and give the green thing to the sick man over his head; This shall be thy craft: they shall deliver thee in all ways unto the sick: and in every man shall he see that thou shalt see me at my feet, and shalt see me at my feet.; but when I stand by the sick man's head, he is already mine, he is already catching up; you just become TV ^ mw ^ ^^^ - ^ eĎDaj bo, i myself.
+
+you will get rich in a short time. You only know what, man, Protect yourself from greed; for you will perish! ^
+There was a quiet morning breeze, and there was no more of a slag or a sign of death.
+"God forbid, was it just a dream and really?" The man sighed. "And first it will be real; for all my body still hurts what I carried."
+Poverty drove him and the whims, where he cleverly gathered the vegetables, where he bore the death - and hurried to the city, right to the king's palace. - There was a lot of people piled up, because from the evening they only cut it when the king released the soul. They all walked on their fingers, but they didn't stop a stranger from reaching the bed either. Death (the godfather stood at his feet. No one saw her, only our lord, and he rejoiced when she nodded to him to do what he was supposed to do. There was no death, and the dear king sat down and asked, and for a moment he dressed and walked like a wholesome man.
+"Well, man, who do you not know where you are from," the king said to him;
+
+The lord told the king all his misery. The king immediately preached to the chariot, poured him a carriage full of money, and said, "Come on, if you are so mad. Call your godparents, I know they're coming. He calls me for baptism too; instead, you used to be on my car. And just not killed, 'I help others as much as I do. *'
+From then on, everything was different with the Dakeda lord from the wooden house in the narrow valley. He became a dental doctor, sneered in all parts of the world. Bo godfather's death (she helped him faithfully and where he was called to be treated, she only stood there at the feet of the sick. and death, and the hair of his house, his godfather neither came in unto him.
+But what if a person hardens and hardens it, only if he is well guided! The former lord from the narrow valley in the city also hardened and hardened. He became rich, healing the cream of those who paid him well in advance. The Godfather laughed at that. On the one hand, she warned him in advance to protect himself from greed, for he would perish. There was no last time left, only that this would be fulfilled on him as well.
+Jtaz fell ill again, the same king who ptv, Vy- .//
+
+bags of ducats. "Full sacks of ducats!" It twitched our greedy. Under him right to the king's palace. Hey, but now there was also a full bag of ducats for the one to turn death away from the king ^ He wasn't looking at the spruce, just the bag. the king reached with his feet to his godfather, but he himself jumped to the king's head now: "Slowly, he could jump from place to place before the Godfather" smrc.
+It was already evening, and the healthy king kept our Miracle Physician with him to go against the night. But the greedy people burned those ducats; wanted; have them at home in the depths as soon as possible. He could not be detained * ^, he went into the house at night. f
+Goes, goes, and what goes next, the bigger cloud pad4 | to the mountains. He no longer sees either in front of him or behind himself. No wonder he made a mistake and got lost, he didn't even know where. It tangled in one narrow valley and at the end to one dark hole. Fearing at night, he pulled himself into her. And here, as on the boil, stands the Godfather Death in front of him and greets him: «Welcome, ■ my godson, my dear one, welcome! I've been waiting for this palace for a long time now. Well ^ when you Ä // Just ran out! Ale nestrachuj s \ 3l tcv ^ «cvv \ m ^; aíL ^ \ ^ \
+
+V8 (on the one hand, no one can get around me, nor could Afsf me once. But don't even worry about her not flying with me. Well, what are you afraid of!"
+And here she took her hand nicely and led My bottom like a palace. There, as in a beautiful church, full of wax candles plowed the walls hanging: they are still eating while they are getting married; the others are already beating, as beautiful as possible; third, half already burned, no longer reach the flames ^ but it burns and burns silently, less; the wells spill over and overheat.
+Our man sighed from the deep here. ) tora laughed and started asking the same kind: "But, godmother, what are you doing here? Why do you have so many candles?"
+"Hia, my godfather, that's right. In mine
+lots burn for every person the candle of life.
+The Irish are still born only in the world, those candles now
+they are getting old; who live and grow up, those candles
+lo horia; in which already in the afternoon, quieter to them
+lights; and in the evening of life, you see a ton
+good luck. Look at the middle of the palo on that
+a lighted candle, I also chanted it against my will
+HU to the king you have now healed. * ^ - „A
+) I candles that which one? ^ * he asks at almost.
+"And I believe on the right, the king knows his death.
+
+And the candle kept catching up on him, only a hundred did not go out. The nice greedy man was just shaken that he really only had such a piece of it! He started] and praying: ^^^ b, godmother spruce, just light at least half a candle yet. I like to enjoy these ducats. Well, until I take them home! "- But death didn't work out. you pushed and v; It was over! *)
+
+*) For Jen. Laces: "The miracle doctor treats p:
+the ground that was stuck to him on the mole, under t
+carried and which dust he dissolved in water and so <
+pit gave. The godfather Smrf told him that he himself:
+choriet nikda and will live until he prays "Ot
+So he never prayed for him. She also reminds him
+ppmodlU with him, but he nothing. The decay flew on four
+j ^ srípácb k ill. Here a child sits in his way, f
+Ä »F jojTBe. ducats - and cries. „Čo ti ie * í ^ o ^ íXä% í
+- «ro says:" My father beats me that I do not know * help ^ Wt ^
+
+---
+
+---
+
 
 
 
@@ -408,9 +712,6 @@ https://afterlifeinfairytales.blogspot.com/2009/01/in-this-lithuanian-fairy-tale
 http://www.contosehistorias.com/imagens/mailsfiles/6062/La%20Madrina%20Muerte%20Godmother%20Death%20-%20Olga%20Loya%20A4.pdf
 
 ---
-
-Three Lamps - Polish folk tales, Sergiej Nowikow
-
 ---
 
 ??? Godmother Death (B. M. Kulda, Moravian "National Fairy Stories," p. 573 )- 
@@ -684,191 +985,6 @@ Death wrapped a bony arm around his godson's shoulders and together they ambled 
 TH: there is a variant somewhere Death is merciful and the candle sof reach of them expire at the same time???
 
 ---
-https://archive.org/details/lgendeschrtienn03luzegoog/page/n357/mode/2up
-Légendes chrétiennes de la Basse-Bretagne
-by François-Marie Luzel
-
-Publication date 1881
-p335-345
-
-[Via Google Translate]
-
-The Just Man.
-
-Once upon a time there was a poor man which the woman had just given birth and give him a son.
-
-He wanted his child to have a godfather righteous man, and he set out for the look for.
-As he was walking, his stick in his hand, he first met a stranger, who looked like a very honest man, and who asked him:
-
-"Where are you going, my good man?"
-
-— Find a godfather for my new son.
-
-- Well! Do you want me? I am at your disposal, if you please.
-
-— Yes, but... I want a fair man.
-
-- Well! you could not have timed better; I am your man.
-
-"So who are you?"
-
-"I am the good Lord.
-
-"You just. Lord God!... No I noni Everywhere, I hear people complaining about you, on earth.
-
-"Why so, please?"
-
-- Why? But for a thousand and a thousand different reasons.... Some, because you sent them to this world weak, counterfeit or sickly, while others are strong and full of health, who do not do more deserved than the first; others, and very honest people, as I know more than one, because, although working continually and giving themselves a dog's pain, you always leave them poor and miserable, while their neighbors, nothings , heartless men, good-for-nothings.... No, look, you won't be the godfather of my âls; farewell 1...
-
-And the good man continued on his way, grumbling.
-
-A little further on he met a tall old man with a long white beard.
-
-"Where are you going, my good man?" asked the old man.
-
-— Looking for a godfather for my newborn son.
-
-"I am quite willing to act as godfather to him, if you like; does that suit you?
-
-"Yes, but I must tell you first that I want my son's godfather to be a just man."
-
-"A just man?" Well I am, I think.
-
-"So who are you?"
-
-- Saint Pierre.
-
-_- The doorman of paradise, who holds the keys?
-
-"Yes, that very one."
-
-- Well! so... You're not fair either.
-
-- I am not fair, me! resumed Saint Peter with a little ill humor; and why so, please, man?
-
-- Why? Ah! I will tell you: because, for peccadilloes at all, for your miseries, you refuse, I have been told, your door to very honest people, hard-working men like me. And why? Because, after working hard all week, they may drink a pint of cider too much on Sundays... and then, need I tell you again? You are the prince of the apostles, the head of the Church, are you not?
-
-Saint Peter nodded his head in sign of assent.
-
-— Well, in your church it's like everywhere else; there is nothing there except for money, and the rich still comes before the poor... No, you will not also be my son's godfather; farewell I. . .
-
-And he went on his way, still grumbling.
-
-He then met a character who did not look very good, that one, and who carried a large scythe over his shoulder, like a reaper going to his work.
-"Where are you going, my good man?" this one also asked him.
-
-— Finding a godfather for my newborn son»
-
-"Do you want me as your godfather?"
-
-"I must tell you, beforehand, that I want a just man."
-
-"A just man!" You will never find anyone fairer than me.
-
-— They all tell me that; but who are you?
-
-— I am Death (i).
-
-- Ah! yes; then, you are really just you; you have no preference for anyone, and you do your job bravely. Rich and poor, noble and villainous, king and subject, young and old, weak and strong.... you strike them all, when their time has come, content to let yourself be softened or weakened by tears, threats. , prayers or gold. Yes, you really are
-
-(i) In Breton, personified death (ann Ankou) is masculine, and that is why our man takes her as godfather to his son, and not as godmother; it is also for the same reason that I thought I should translate by Trépas, instead of ia Mort.
-
-fair" and you will be my son's godfather. Come with me.
-And the man returned to his cottage, taking with him the godfather he wanted to give to his son.
-
-Death was held at the baptismal font, and afterwards there was a little meal in the poor man's cottage, where you drank cider and ate white bread, out of the ordinary.
-
-Before leaving, the godfather said to his friend:
-
-"You are very good people, your wife and you; but you are very poor! As you have chosen me to be the godfather of your âls, I want to express my gratitude to you by revealing a secret that will make you earn a lot of money. You, friend, you are going to become a doctor now, and this is how you should behave: when you are called to a sick person, if you see me at the bedside, you can affirm that you will save him, and give him anything as a remedy, clear water, if you like; he will always survive. If, on the contrary, you see me with my scythe at the foot of the bed, there will be nothing to do, and the patient will surely die, whatever you can do to try to save him.
-
-Here, then, is our improvised doctor, putting into practice the system of his friend Death, and predicting, always with certainty, when his patients were to recover or die. As he was never mistaken and as, moreover, the remedies did not cost him dear, since he only gave clear water to his clients, whatever the disease, he was highly sought after and became rich in not much time.
-
-However, Death, when he had occasion to pass by, came in from time to time to see his godson and talk with his friend.
-
-The child grew and came wonderfully, and the doctor, on the contrary, grew older and weaker every day.
-
-One day Death said to him:
-
-'I always come to see you when I pass by here, and you've never come to my house before; you must also come and visit me, so that I can in turn treat you and show you my home.
-
-'I'll only go too soon,' replied the doctor, 'because I know that once you're at your house, comrade, you don't come back the way you want.
-
-"Don't worry about that, for I won't detain you until your time has come; you know that I am the just man par excellence.
-
-So the doctor left one night to do visit his friend. They went for a long time from Company, over hill and dale, crossing arid plains, forests, rivers, rivers and regions completely unknown to the doctor.
-
-Finally, Death stopped in front of an old castle surrounded by high walls, in the middle of a dark forest, and said to his companion: "It is here."
-
-They entered. The master of the gloomy manor at first entertained his guest magnificently, then, on leaving the table, he led him into an immense room where millions of candles of all sizes were burning, long, medium, short, and whose lights were more or less nourished, and shed more or less light. Our man was at first quite astonished, dazzled and dumb in front of this spectacle. Then, when he could speak:
-
-"What do all these lights mean, friend?" he asked.
-
-'These are the lights of life, friend.
-
-"The lights of life?" What does that mean?
-
-— Every human creature who lives on earth at present has his candle there, to which his life is attached.
-
-— But there are long ones, medium ones, short ones, shiny ones, dull ones, dying ones.... Why?
-
-— Yes, it's like the lives of men: some begin; others are in their fôrœ and all their brilliance; others are weak and vacillating; others finally are about to die out i...
-
-"Like one (a candle) that's long and tall!"
-
-— It is that of a child who has just been born.
-
-— And this other, that his light is bright and beHel
-
-"It is the product of a man in the prime of life."
-
-"Here's one that's going to go extinct, at a loss of food." *
-
-— It is an old man who is dying. "And mine, where is it too? I would like to see it.
-
-"Here he is near you."
-
-"That one?... Ali! my God, it's almost entirely consumed! It's going to go out....
-
-"Yes, you only have three more bears to live!"
-
-"What are you saying there?" What, only a few days!... But since I am your friend and you are master id, can't you keep my candle a little longer... for example, by taking a little the next one, which is so long, to add it to mine?...
-
-— The next one, which is so long, is that of your ah, and if I acted as you advised me to do, I would no longer be the just man you were looking for.
-
-"It is true," replied the doctor, withholding himself and heaving a deep sigh....
-
-And he then returned home, put his affairs in order, called the priest of his parish and died three days later, as his friend Death had predicted.
-'^CmU by J. Corvei, dt Pburiu,* Finûiérej iSj6.)
-
-There U^àt de Vlhmm» /«fie is not psrtictiUârs in Brittany. Like almost all old popular tales, it is found everywhere, more or less complete, more or less entertained.
-
-Bile is titled "v" in Grimm (Contts dts enfant" li de Ja hmmsw, no. 44), under the title of Death and sm Godson^ Hessian tale. Beginning analogous to that of the Breton version. The poor successively refuse as godfather the good God and the devil, and finally accept Death. This makes her godson a great doctor. She points out to him a certain plant which cures the sick very easily when he sees her, Death, at the bedside. If, on the contrary, she stands at the foot of the bed, there is nothing to be done: the patient cannot be saved. The godson, improvised doctor, becomes rich and famous. Called to the sick king, he sees Death at the foot of the bed. So he returns the Ut of mamèw to what. Death is at the bedside, and the king is cured. The Moft, although very displeased, forgives him this time; but, having begun the tour again for the princess, also ill, she leads him into a sort of cavern, where he sees a multitude and lights, &c.
-The nstcoaiine in the Breton tale
-
-Compare two bad tales. germans the coUection 3. W. Wolf, p. 365, and from the Prœhle collection, n® 13.
-Guillaume Grimm, in his remarks, quotes a German farce by Jacques Ayres (in his Opus theatricum, published after his death, in 1605), which closely resembles the Bessois tale; but the episode of lights is missing. He also mentions as an analog a little poem by Hans Sachs, from i)$3.
-In a collection of Hungarian tales (Gaal Stier, n» 4), same introduction. The poor man does not want Jesus as his godfather, "because he only likes the good. » Episode 4^ lights exists. The poor man, and not his godson, becomes a doctor. This part, which seems altered, is inferior to the corresponding part of the Hessian tale.
-
-In a Sicilian tale, collected by Miss Gonzenbach (n^ 19)» different introduction. Some time after Death was godmother (here it is not like in German and Breton, where Death being masculine , she is "godfather"), she comes to fetch the poor man and takes him to a dark vault where a multitude of lamps are burning, etc. In this tale, like in the Breton tale, the godchild does not become a doctor.
-
-The episode of lights is also found in an Italian tale from Venetia, published by MM. Widter and Wolf, in the Jakrhuch fur romanische uni englische Literatur.
-
-GueuUette, in his MilU and a quarter of an hour, Tartar tales, or rather pretended to be such, also has, in the quarter lxxiii*, under the title of: Adventures of a woodcutter and Death, a poor man, a woodcutter , who takes Death as the godfather of one of his newly born children, and whom he wanted to expose to the ferocious beasts, because of his misery. The godfather informs him of the medicinal virtues of certain herbs which cure a number of illnesses, and moreover, so that his judgments of life or death are always infallible, he tells him that, when he sees him at the foot of the bed of his sick, these would recover, but that nothing in the world could prevent them from dying, when he saw him at the bedside. The woodcutter, who has become a doctor, also deceives his
-
-compiles Death, turning over the bed, when the patient is deigned to die, and he thus saves the days of the great Iskender, that is to say, of Alexander the Great.
-
-The episode of lights is missing.
-
-It was published in the Almanac of Provence of 1876, p. eo and following, a Provencal version of the same tale, very similar to the Breton version, except for the episode of lights, which is also missing.
-
-We will see, in the legend of Death tt his compèrty which follows, how the improvised doctor having wanted to take advantage of the secret he possessed to make himself immortal, Death, deceived several times, ends up having his revenge (see also Celtic Rniu where the legend of L'Homnu just was first published, 3* vol., Ï878, p. 38J).
-
-On the heavens or lights of life, see also U Filleul di la Mortj in the Tales of a drinker of hiire by Ch. Deulia (lamps in which are the wicks of each mortal, more or less bright and shining).
-
-M. Paul Sébillot tells me that he also collected at Saint-Gist, in the gallot country or non-Breton Brittany, a tale in which a boy led by a skeleton sees a plain filled with lights of different lengths.
-
----
 Several sources discovered via:
 
 https://sites.pitt.edu/~dash/type0332.html
@@ -900,87 +1016,3 @@ Publication City: New York
 Year of Publication: 1920
 
 --
-
-Prostonárodnie
-slovenskje povesti/ Slovak National Tales ( Dobšinský 1880-1883)
-
-https://archive.org/details/prostonrodniesl00dobgoog/page/n74/mode/2up?q=smrt
-
-p65-74
-
-Smrt Kmotra a Zázračný Lekár.
-
-Podali Jonathan Dobroslav Čipka z Malohontu, Pavol Dobsinský z Gemera a Samo Ormis z okolia B. Štiavnice.
-
-Kde bolo, tam bolo, v jednej tesnej doline bolo, do ktorej celý Boží deň leda raz slnce nadopoklo. Stál tam drevenný domček a v tom domčeku oyval ovčiar, čo mal na každý prst dvoje deti ale chleba už nemal, ani čoby za nechet spratal
-
-TO DO
-
-
-^ finat Godfather and the Miracle I ^ ekár.
-leni I Submitted by Jonathan Dobroslav Čipka from Maloliont, Pavol ..I DobSinsJcý from Gemera and Samo Ormis from the surroundings of B. Štiavnica.
-itkal Where it was, there it was, in one narrow valley
-i: eč.lbolo, into which the whole day of God, except once the sun
-dopoklo. There was a wooden house there and in that house
-t ^ Yb / ml ovčJar, which he had on each finger Ano ^^ ôä \ »^
-Afe cÏ / eÏa no longer, nor what for uec \ vet ^^ m ^ s?
-a. One day, he said, he waved well and ate both milk and meat; He also bought bread, 1 so that at the end of the week he brought in lumps of cheese, meats, and steamers into the city, and sold them there for good. But the little children of the flesh would not go forth. All the sheep passed by; and there was no way to finish them; so there was nowhere to take it upon yourself. And when even those fingers could not be counted, the pairs of hungry bastards, but the woman fell to him with the age of twenty-four, then there was still misery over white. No one looked at him anymore. The children screamed, who in the oven, which under the oven, in which ki Woman moaned on straw and only chased one thing, it will be when they no longer have anyone to bring it to baptism. The shepherd would have still satisfied the elected children so that they would just go to sleep, that they would eat up their throats in the morning, because there would be baptisms; but the woman, she is only a beast, and do not let God calm down!
-Under him once more after all the neighbors and from mine to pray; but the faith in that evening ceased. He didn't even return home, but set out on a deserted night to call whomever he met, to call him a godfather. He walks, climbs and grains from him. It may have been around midnight, and he was still alive. All his misery floored him p »mht B z & bhl božekaf, alas ^ from which he rájoik prepares the baptism as ow \\ fefei ^ ^^ ^ Ä * oéí without those Icinotrov
-
-Baz speaks to his back, "They didn't rush. you will go! "He will see, - and here he just smiles 1 y in the eyes of a creature tall, emaciated, meets with a white tarpaulin, as if she was not there either. i, Dear Knf God! he gasped. - "Never ask who I am who I am," the creature says; 'I am forever behind every man's back. Tell me what you bless and beg for?' 'it did not matter to anyone, only if he already had 1 heart.
-"Since that's so,' 'the creature will tell you, I'll help you with D. But you see, gift for gift and for nothing no. Well, you too will call me to will. I'm going from behind the sea and for the first time in the world I stopped. I hurried here over the mountain to the city. If you carry me on your doorstep and just in front of the gate, I will help you; and that you can't think I'm hard on you. Once you lie below me, there will be nothing from our godfather."
-The troubled loin raised his eyes, and here it seemed only three steps out of town. "Hey, * ^ he thought," I'd like to betah, too, if this poor thing got me (for those few steps, because I used to make cents of cheese on my shoulders. "' she was already on his back, and Jabúčka was like a pierce.
-
-asks the old. - y? Oh, no! "He wanted to say a cut, but he barely took it out. At that moment, not even a piercing relieved him." He takes a second step, and his knees break again; as if it were nothing, "Man, am I heavy for you?"
-
-"He barely exhausted his throat, saying" no, "but at that moment it seemed to him that he was no longer carrying anything. And he asks, "Man, am I heavy for you?" - "Yeah, my God!" The man shouts from the paint; otherwise he would not have come to admit that the faith was heavy.
-
-He looks at the strange creature and sees it in front of him with all the deeds he had heard of her: darkly bare, instead of the eyes of a pit, as if a fist entered them, - instead of a nose only a hole in the middle of the face, teeth like wheels, only throats , bare ribs, legs like two sticks, sharp scythe in long dry hand; - and the whole skeleton that moves, the bones rattle, as if to fall apart small into a pile. - I guess it'll make every man's godfather do it
-- death! He wants to run away, but his feet are hooked to the ground; he wants to call on rat, but his tongue is onemie, And death o ^ ve sa: ^ Me, you bore me, man ^ i a. N \ d \ i ^ that and me
-kidnap the ruler. Yes. som tvoja kmoU «^ \ íä.n ^ Vi. ^ '^ be I'll be from these times eate N ^ m ^ \ ^ wv ^ ^
-
-ebárs to another. And don't be afraid of me; I will fulfill what I did; just if you didn't say I was tough on you. If I showed up in the morning on a white day at the baptism of your child, don't even dream about it. I will advise you, as well as godparents, you will get children and children will be kept. Don't let a single word go as far as I can tell you. ''
-"He hears, then," says death. I forgive you for his sake now, take the vegetables that grow around here, where you brought me, go straight with her to the palace and announce that you will help the king, you will see me standing at his feet. and give the green thing to the sick man over his head; This shall be thy craft: they shall deliver thee in all ways unto the sick: and in every man shall he see that thou shalt see me at my feet, and shalt see me at my feet.; but when I stand by the sick man's head, he is already mine, he is already catching up; you just become TV ^ mw ^ ^^^ - ^ eĎDaj bo, i myself.
-
-you will get rich in a short time. You only know what, man, Protect yourself from greed; for you will perish! ^
-There was a quiet morning breeze, and there was no more of a slag or a sign of death.
-"God forbid, was it just a dream and really?" The man sighed. "And first it will be real; for all my body still hurts what I carried."
-Poverty drove him and the whims, where he cleverly gathered the vegetables, where he bore the death - and hurried to the city, right to the king's palace. - There was a lot of people piled up, because from the evening they only cut it when the king released the soul. They all walked on their fingers, but they didn't stop a stranger from reaching the bed either. Death (the godfather stood at his feet. No one saw her, only our lord, and he rejoiced when she nodded to him to do what he was supposed to do. There was no death, and the dear king sat down and asked, and for a moment he dressed and walked like a wholesome man.
-"Well, man, who do you not know where you are from," the king said to him;
-
-The lord told the king all his misery. The king immediately preached to the chariot, poured him a carriage full of money, and said, "Come on, if you are so mad. Call your godparents, I know they're coming. He calls me for baptism too; instead, you used to be on my car. And just not killed, 'I help others as much as I do. *'
-From then on, everything was different with the Dakeda lord from the wooden house in the narrow valley. He became a dental doctor, sneered in all parts of the world. Bo godfather's death (she helped him faithfully and where he was called to be treated, she only stood there at the feet of the sick. and death, and the hair of his house, his godfather neither came in unto him.
-But what if a person hardens and hardens it, only if he is well guided! The former lord from the narrow valley in the city also hardened and hardened. He became rich, healing the cream of those who paid him well in advance. The Godfather laughed at that. On the one hand, she warned him in advance to protect himself from greed, for he would perish. There was no last time left, only that this would be fulfilled on him as well.
-Jtaz fell ill again, the same king who ptv, Vy- .//
-
-bags of ducats. "Full sacks of ducats!" It twitched our greedy. Under him right to the king's palace. Hey, but now there was also a full bag of ducats for the one to turn death away from the king ^ He wasn't looking at the spruce, just the bag. the king reached with his feet to his godfather, but he himself jumped to the king's head now: "Slowly, he could jump from place to place before the Godfather" smrc.
-It was already evening, and the healthy king kept our Miracle Physician with him to go against the night. But the greedy people burned those ducats; wanted; have them at home in the depths as soon as possible. He could not be detained * ^, he went into the house at night. f
-Goes, goes, and what goes next, the bigger cloud pad4 | to the mountains. He no longer sees either in front of him or behind himself. No wonder he made a mistake and got lost, he didn't even know where. It tangled in one narrow valley and at the end to one dark hole. Fearing at night, he pulled himself into her. And here, as on the boil, stands the Godfather Death in front of him and greets him: «Welcome, ■ my godson, my dear one, welcome! I've been waiting for this palace for a long time now. Well ^ when you Ä // Just ran out! Ale nestrachuj s \ 3l tcv ^ «cvv \ m ^; aíL ^ \ ^ \
-
-V8 (on the one hand, no one can get around me, nor could Afsf me once. But don't even worry about her not flying with me. Well, what are you afraid of!"
-And here she took her hand nicely and led My bottom like a palace. There, as in a beautiful church, full of wax candles plowed the walls hanging: they are still eating while they are getting married; the others are already beating, as beautiful as possible; third, half already burned, no longer reach the flames ^ but it burns and burns silently, less; the wells spill over and overheat.
-Our man sighed from the deep here. ) tora laughed and started asking the same kind: "But, godmother, what are you doing here? Why do you have so many candles?"
-"Hia, my godfather, that's right. In mine
-lots burn for every person the candle of life.
-The Irish are still born only in the world, those candles now
-they are getting old; who live and grow up, those candles
-lo horia; in which already in the afternoon, quieter to them
-lights; and in the evening of life, you see a ton
-good luck. Look at the middle of the palo on that
-a lighted candle, I also chanted it against my will
-HU to the king you have now healed. * ^ - „A
-) I candles that which one? ^ * he asks at almost.
-"And I believe on the right, the king knows his death.
-
-And the candle kept catching up on him, only a hundred did not go out. The nice greedy man was just shaken that he really only had such a piece of it! He started] and praying: ^^^ b, godmother spruce, just light at least half a candle yet. I like to enjoy these ducats. Well, until I take them home! "- But death didn't work out. you pushed and v; It was over! *)
-
-*) For Jen. Laces: "The miracle doctor treats p:
-the ground that was stuck to him on the mole, under t
-carried and which dust he dissolved in water and so <
-pit gave. The godfather Smrf told him that he himself:
-choriet nikda and will live until he prays "Ot
-So he never prayed for him. She also reminds him
-ppmodlU with him, but he nothing. The decay flew on four
-j ^ srípácb k ill. Here a child sits in his way, f
-Ä »F jojTBe. ducats - and cries. „Čo ti ie * í ^ o ^ íXä% í
-- «ro says:" My father beats me that I do not know * help ^ Wt ^

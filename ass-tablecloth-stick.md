@@ -56,7 +56,7 @@ That night he fetched down from his attic a table very similar to that of Jack ,
 
 'Let me see it ,' said the old man .
 
-The lad set it in the middle of the room, and bade it be covered;but all in vain, the table remained bare. In a rage, the father caught the warming- pan down from the wall and warmed his son's back pretty effectually with it, so that the boy fled howling from the house, and ran and ran till he came to a river and tum bled in. A man picked him out and bade him assist him in making a bridge over the river; and how do you think he was effecting this? Why, by casting a tree across; so Jack climbed up to the top of the tree and threw his weight on it, so that when the man had rooted the tree up, Jack and the tree -head dropped on the farther bank.
+The lad set it in the middle of the room, and bade it be covered;but all in vain, the table remained bare. In a rage, the father caught the warming-pan down from the wall and warmed his son's back pretty effectually with it, so that the boy fled howling from the house, and ran and ran till he came to a river and tum bled in. A man picked him out and bade him assist him in making a bridge over the river; and how do you think he was effecting this? Why, by casting a tree across; so Jack climbed up to the top of the tree and threw his weight on it, so that when the man had rooted the tree up, Jack and the tree -head dropped on the farther bank.
 
 'Thank you,' said the man, and now for what you have done I
 will pay you;' so saying, he tore a branch from the tree, and fettled it up into a club with his knife.
