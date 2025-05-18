@@ -468,9 +468,10 @@ Besides these revelations, the police constable Reeves was favoured with letters
 -- 
 TO DO 
 
-See elsewhere Hedingham Witchcraft Case referenced in Glasgow Herald - Saturday 17 September 1864
+The case of the *"ducking of the supposed wizard, and ultimately a death"* occurreed in September 1863 at Hedingham, in Essex, and was commonly referred to in the press at the time as "the Hedingham witchcraft" case.
 
-SEE ALSO
+
+SEE ALSO ELSEWHERE
 
 --
 TO DO
