@@ -457,6 +457,30 @@ In the north of Europe schamir appears strangely and grotesquely metamorphosed. 
 
 ```
 
+Another form of theives' invisibility charm, this time from Russia, at least according to a report in the *Sheffield Evening Telegraph* in April 1895 referencing, i part, the Bridget Cleary case in Colnmel, Ireland, are the veins of a pregnant woman.
+
+
+```{admonition} Gross Russian Superstition, April 1895
+:class: dropdown todo
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000275/18950405/004/0002
+Sheffield Evening Telegraph - Friday 05 April 1895
+
+GROSS RUSSIAN SUPERSTITION
+
+HORRIBLE COMPACT.
+
+A St Petersburg correspondent says:—What might have been a terrible tragedy rivalling that of the "Witch of Clonmel," has just been prevented through the intelligence of a little child. The facts, as narrated in the "Novoe Vremya" of March 28, are as follow:— A Jew farmer sold his wife (who was enciente) to some robbers for a large sum money, the intention of the purchasers being to
+
+KILL THE WOMAN
+
+and draw out her veins, from a superstitious belief that the veins of pregnant women render thieves invisible. Luckily for the intended victim, her little daughter, aged only four years, overheard the bargaining and told her of it. She at once sought the protection of the owner of the land, who told her that he would see that no harm befell her. On his advice she was careful not to betray her
+
+KNOWLEDGE OF THE AWFUL COMPACT,
+
+and therefore on the evening of the day when the husband had agreed to hand her over to the robbers, she went to bed as usual. When these gentry arrived at the house, they were surrounded and overpowered by an armed band of labourers by the land-owner, and were then, with the husband, handed over to the authorities. 
+```
+
 The naïveté of the believers in the hand of glory superstition was also implied by it's inclusion in John Timbs' *Popular Errors* of 1852:
 
 ```{admonition} *Things Not Generally Known / Popular Errors*, John Timbs, 1858
