@@ -678,7 +678,7 @@ Morning Post - Friday 16 November 1866
 
 LEGENDS OF THE IRISH CELTS. `[Legendary Fictions of the Irish Celts. Collected and narrated by Patrick Kennedy. London Macmillan and Co.]` From a very remote antiquity all branches of the Celtic race have inherited a multitude of traditions of the wild and wonderful, relating to the exploits of fabulous heroes, the mystic agencies of unseen spiritual beings, or the ghostly re-appearance of the dead. Originating in rude ages, when the untutored mind is peculiarly liable to superstition and exaggeration, such legends still preserve a marvellous vitality, and yield but slowly and reluctantly to the enlightenment of knowledge and philosophy. They are often cherished, even by the educated and sceptical, as possessing the charm associated with venerable auntiquity, and the romance inseparable from the mystical unknown; while by the uninstructed and imaginative Celtic peasant traditional tales of mythical heroes, and supernatural beiugs and appearances, are told and wondered at with a thrilling belief in their reality. The Irish peasantry, in particular, cling with affectionate tenacity to their immemorial traditions of visionary heroes, fairy influences, and warning apparitions from the grave. One of the chief amusements of their festive gatherings is the narration of such stories; and, when they are related with the solemnity, pathos, or humour of the practised storyteller, they never fail to amuse the old, while they are listened to with ecstatic delight by tha young. Mr. Kennedy has collected in a thick volume a great variety of those legends, ranging through every imaginable phase of wonder and superstition; and yet he concludes the work with the observation that what he presents is a mere fraction of the wealth of Celtic fiction. The collection has been made with an industry stimulated by the author's taste for antiquarian investigations, but the greater part of the volume consists of stories related to him by word of mouth in his visits to persons capable of enriching its pages. Some of the oral narratives he corrected from improved versions of them in the Bardic historians and aucient manuscripts, and no story is copied from any writer of the present or past generation. The Ossianic portion of the volume preserves numerous legends of Fion, son of Cumhail, King of Leinster. Fion, popularly called Fann or Finn MacCuil, was a real personage of military fame, slain at the Boyne, A.D. 233. He is invested by the romantic historians of Ireland with the command of the national militia, the Fianna Eirionn, or Fians of Erin. The term Fians is supposed to mean giants or heroes, and is applied to the warriors of Albanach (Scotland) as well as to those of Ireland. Their chief employment was to defend the country from invaders, and for that purpose they were generally stationed in the neighbourhood of harbours. They were men of free birth, and a postulant for admission into the order was required to be so expert in military exercises that, merely armed with a stick and shield, he could defend his otherwise unguarded body from half-a-dozen men darting spears at him from a distance of nine ridges. The institution does not appear to have been long-lived, no records being left of it of greater extent than three generations. Most of the chiefs of this militia were killed at a battle with King Cairbre. Oisin, or Ossian, the son of Fion MacCuil — probably equivalent to Fin-gal — survived the fight, and lived till the arrival of St. Patrick. Some of his poems relating to Fion and his knights are preserved in the Book of Leinsttr. Oisin is especially eloquent in praise of his own son Oscur the Invincible, whom he mentions as treacherously slain by Kiug Cairbre:—
 
-"My sou urged his course  
+"My son urged his course  
 Through the battalions of Tare,  
 Like a hawk through a flight of birds,  
 Or a rock rushing down a steep.
@@ -901,7 +901,7 @@ In order that anything thus collected may have a scientific value, it must be au
 
 Any readers who may feel anxious to become collectors, should observe the following rules:—
 
-1. Whatever is recorded, should be given with absolute fidelitv, as it fell from the narrator's mouth.
+1. Whatever is recorded, should be given with absolute fidelity, as it fell from the narrator's mouth.
 
 2. It should be stated where, when, and from whom, each tale, song, etc, was obtained: and if the narrator is known to be a native of another district than that in which he is found, it should be mentioned.
 
@@ -919,7 +919,7 @@ Professor Sir John Rhys seems to have been quick to respond, submitting a paper 
 
 The paper includes a fragmentary and garbled version of the fairy mdwife tale, with Rhys suggesting that he has seen a more complete version elsewhere, *"possibly in Mr. Sikes' book"*.
 
-```{admonition} An garbled fragment, 1881
+```{admonition} A garbled fragment, 1881
 :class: dropdown
 https://archive.org/details/ycymmrodor04cymmuoft/page/208/mode/2up
 
@@ -1071,6 +1071,47 @@ This story exemplifies every point that has interested us in this discussion: th
 E. Sidney Hartland.
 ```
 
+Fairy gifts are also reviewed in a couple of tales provided by Lady Wilde in *Ancient Legends, Mystic Charms, and Superstitions of Ireland*,
+
+```{admonition} The Three Gifts, 1887
+:class: dropdown
+
+https://archive.org/details/ancientlegendsm00wildgoog/page/n185/mode/2up
+
+Lady Wilde, *Ancient Legends, Mystic Charms, and Superstitions of Ireland*, 1887
+
+pp. 166-7
+
+The Three Gifts.
+
+A GREAT, noble-looking man called one night at a cottage, and told the woman that she must come away with him then and there on the instant, for his wife wanted a nurse for her baby. And so saying, before she could answer, he swung her up on his great black horse on a pillion behind him. And she sat wondering at his tall, shadowy form, for she could see the moonlight through him.
+
+"Do not fear," he said, "and no harm will happen to you. Only ask no questions whatever happens, and drink no wine that may be offered to you."
+
+On reaching the palace she saw the most beautiful ladies going about all covered with jewels, and she was led into a chamber hung with silk and gold, and lace as fine as cob-webs; and there on a bed supported by crystal pillars lay the mother, lovely as an angel, and her little baby beside her. And when the nurse had dressed the baby and handed it to the mother, the lady smiled and offered her wine; "for then," she said, "you will never leave us, and I would love to have you always near me."
+
+But the woman refused, though she was sorely tempted by the beautiful bright red wine.
+
+"Well, then," said the lord and master, "here are three gifts, and you may take them away in safety, for no harm will come to you by them. A purse, never to be opened, but while you have it, you will never want money; a girdle, and whoso wears it will never be slain in battle; and an herb that has power to cure all diseases for seven generations."
+
+So the woman was put again upon the horse with her three gifts, and reached her home safely. Then, from curiosity, the first thing she did was to open the purse, and behold, there was nothing in it but some wild flowers. On seeing this, she was so angry that she flung away the herb, " for they were only making a fool of me," she said, " and I don't believe one word of their stories.'* But the husband took the belt and kept it safe, and It went down in the family from father to son ; and the last man who wore it was out in all the troubles of '98, and fought in every one of the battles, but he never got hurt or wound. However, after his death, no one knew what became of the belt ; it was never seen more.
+
+```
+
+```{admonition} The Three Wishes, 1887
+:class: dropdown
+
+https://archive.org/details/ancientlegendsm00wildgoog/page/n185/mode/2up
+Ancient Legends, Mystic Charms, and Superstitions of Ireland
+by Wilde, William Robert Wilde, lady Jane Francesca Elgee Wilde
+
+Publication date 1887
+
+pp. 167-8
+
+A woman was carried off one night to a fairy palace to attend one of the beautiful fairy ladies who lay sick on her golden bed. And as she was going in at the gate a man whispered to her, "Eat no food, and take no money from the fairies; but ask what you like and it will be granted." So when the fairy lady was well, she bade the nurse ask what she pleased. The woman answered, "I desire three things for my sons and their race — luck in fishing, luck in learning, and luck in gambling," which things were granted— and to this day the family are the richest, the wisest, and the luckiest in the whole neighbourhood. They win at every game, and at every race, but always by fair play and without cheating; and not the priest himself can beat them at book learning. And every one knows that the power comes to them from the fairy gift, though good luck comes with it and not evil; and all the work of their hands has prospered through every generation since the day of the Three Wishes.
+```
+
 Hartland's *Archaeological Review* paper also appeared as a chapter under the same name in *The Science Of Fairy Tales* published the following year, along with a second chapter developing firther themes of the topic.
 
 ```{admonition} In *The Science Of Fairy Tales*, 1890
@@ -1086,7 +1127,7 @@ Chapter III
 
 FAIRY BIRTHS AND HUMAN MIDWIVES.
 
-*Stories of miclwives who have been summoned to the birth of fairies — Human visitors to Fairyland must not eat there — The reason — Fairies' gratitude — The conditions of fairy gifts.*
+*Stories of midwives who have been summoned to the birth of fairies — Human visitors to Fairyland must not eat there — The reason — Fairies' gratitude — The conditions of fairy gifts.*
 
 `Reprinted from Archaeological Review, Vol. IV, No. 5, December 1889, pp. 328-343.`
 
