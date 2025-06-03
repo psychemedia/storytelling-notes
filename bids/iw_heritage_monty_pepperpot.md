@@ -60,11 +60,13 @@ Possible formats:
 
 ? Video record of illuminated / silhouette / shadow puppet performance, projected onto Pepperpot (TG?)
 
-? Timelapse of light / weather over the bay, esp. as a storm comes in
+? Timelapse of light / weather over the bay, esp. as a storm comes in; intermixed with soundscape?
 
 7. __Contribution to final project capstone public performance event__
 
-One or more stories to live performance (e.g. an Island Storytellers set at Ventnor Fringe)
+? One or more stories to live performance (e.g. an Island Storytellers set at Ventnor Fringe)
+
+? Guided car tour (online route round the sites, with annotations?)
 
 8. __Physical legacy, merch etc.__
 
@@ -72,6 +74,7 @@ One or more stories to live performance (e.g. an Island Storytellers set at Vent
 - story card (perhaps illustrated on one side?)
 - branded pepperpots?!;-)
 - custom designed, customised or overprinted physical maps
+- guided work (with tales) pamphlet
 
 9. __Costings__
 
