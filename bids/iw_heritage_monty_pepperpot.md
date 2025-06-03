@@ -99,7 +99,7 @@ Also need to be mindful this is a Heritage Fund, not an Arts Council bid, althou
 
 *Research materials*: books, pamphlets e.g. for an Island Storytellers physical library / collection ("resilience"); see also *Archive visits*
 
-*Minimal site specific performance event:* marketing (posters/fliers £??; physical ads (IWCP, Observer etc) £??; digital media (onthewight etc); digital ads (Facebook, Google ads etc) £??); photographer / videographer / sound recordist £?? [it's too easy for those involved to not grab photos becuase they are busy doing other things...]
+*Minimal site specific performance event:* marketing (posters/fliers £??; physical ads (IWCP, Observer etc) £??; digital media (onthewight etc); digital ads (Facebook, Google ads etc) £??); photographer / videographer / sound recordist £?? [it's too easy for those involved to not grab photos because they are busy doing other things...]
 
 *Elaborate site specific performance event:* as minimal with mutliplier; creative development costs (£1k+ to artist?); event delivery costs (FX costs £500?)
 
