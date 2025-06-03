@@ -88,7 +88,7 @@ Also need to be mindful this is a Heritage Fund, not an Arts Council bid, althou
 
 *Archive visits:* photography licenses / digital scan / photocopying costs; travel / parking; British Newspaper Archive (per seat: £15 pm, £100 pa)
 
-*Community event:* room hire, refreshments, paper / pens / flip chart / post-it notes etc. £??; marketing (posters/fliers £??; physical ads (IWCP, Observer etc) £??; digital media (onthewight etc); digital ads (Facebook, Google ads etc) £??); photographer / videographer / sound recordist £??.
+*Community event:* room hire, refreshments, paper / pens / flip chart / post-it notes etc. £??; marketing (posters/fliers £??; physical ads (IWCP, Observer etc) £??; digital media (onthewight etc); digital ads (Facebook, Google ads etc) £??); photographer / videographer / sound recordist £??. Transcribing costs (£??; there are lots of tools that do pretty good transcription, but you still needd to listen through and correct errors; this is "work", and should be paid for at min. wge at least...; *we do not want machine made up words, names etc, entering any legacy transcript*).
 
 *Landscape capture*: photographer / videographer (£?? e.g. stills, panorama, timelapse, drone footage); sound recordist (soundscape); phsycial storgae (e.g. USB memory sticks £??); online storage (Flickr etc. £??)
 
