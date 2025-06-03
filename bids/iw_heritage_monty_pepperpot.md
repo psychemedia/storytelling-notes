@@ -90,7 +90,7 @@ Also need to be mindful this is a Heritage Fund, not an Arts Council bid, althou
 
 *Community event:* room hire, refreshments, paper / pens / flip chart / post-it notes etc. £??; marketing (posters/fliers £??; physical ads (IWCP, Observer etc) £??; digital media (onthewight etc); digital ads (Facebook, Google ads etc) £??); photographer / videographer / sound recordist £??.
 
-*Landscape capture*: photographer / videographer (£?? e.g. stills, panorama, timelapse, drone footage); sound recordist (soundscape)
+*Landscape capture*: photographer / videographer (£?? e.g. stills, panorama, timelapse, drone footage); sound recordist (soundscape); phsycial storgae (e.g. USB memory sticks £??); online storage (Flickr etc. £??)
 
 *Travel:* site visits (n? x site visits, car (£?? per mile, £?? parking) or public transport (£??))
 
