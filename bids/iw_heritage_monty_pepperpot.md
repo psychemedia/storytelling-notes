@@ -6,7 +6,7 @@
 
 2. __Site context__
 
-The Pepperpot is a well-known local landmark, but what tales are still extant about it? What tales are still extant about the things you can still, or could once, see from the top of St. Catherine's Down? *(I have maybe half a dozen things I am aware of byt would like to research more)*
+The Pepperpot is a well-known local landmark, but what tales are still extant about it? What tales are still extant about the things you can still, or could once, see from the top of St. Catherine's Down? *(I have maybe half a dozen things I am aware of but would like to research more)*
 
 Two suggested source categories:
 
@@ -37,7 +37,7 @@ If so, *In what context did such tales come to you?*
 - ?local publishers?
 - ?local booksellers?
 
-I would also like to create an online PDF readable version of Island related books, particulalry books that are also held in the Castle Museum (so folk can view them online, *or* actually go an see a physical version).
+I would also like to create an online PDF readable version of Island related books, particularly books that are also held in the Castle Museum (so folk can view them online, *or* actually go an see a physical version).
 
 5. __Site specific event__
 
@@ -46,11 +46,11 @@ A performance event with several tales told about the Pepperpot and illustrative
 Possible formats:
 
 - storytelling event from a single location at the top of the hill;
-- story walk up the hill, e.g. strating and finioshing at the Wight Mouse Inn (toilets, car park, presumably bus stop, refreshments).
+- story walk up the hill, e.g. starting and finishing at the Wight Mouse Inn (toilets, car park, presumably bus stop, refreshments).
 
 6. __Digital legacy__
 
-? Audio capture / sounsdacpe from development activity (community focus group, *ad hoc* interviews at or near the location, audio capture in the archive between two or more researchers "finding" things)
+? Audio capture / soundscape from development activity (community focus group, *ad hoc* interviews at or near the location, audio capture in the archive between two or more researchers "finding" things)
 
 ? Audio capture / soundscape around performance event
 
@@ -59,6 +59,8 @@ Possible formats:
 ? Commentary over a slow 360 video panorama
 
 ? Video record of illuminated / silhouette / shadow puppet performance, projected onto Pepperpot (TG?)
+
+? Timelapse of light / weather over the bay, esp. as a storm comes in
 
 7. __Contribution to final project capstone public performance event__
 
@@ -86,13 +88,16 @@ Also need to be mindful this is a Heritage Find, not an Arts Council bid, althou
 
 *Archive visits:* photography licenses / digital scan / photocopying costs; travel / parking; British Newspaper Archive (per seat: £15 pm, £100 pa)
 
-*Community event:* room hire, refreshments, paper / pens / flip chart / post-it notes etc. £??; marketing (posters/fliers £??; physical ads (IWCP, Observer etc) £??; digital media (onthewight etc); digital ads (Facebook, Google ads etc) £??); photographer / videographer / audiographer (?!) £??.
+*Community event:* room hire, refreshments, paper / pens / flip chart / post-it notes etc. £??; marketing (posters/fliers £??; physical ads (IWCP, Observer etc) £??; digital media (onthewight etc); digital ads (Facebook, Google ads etc) £??); photographer / videographer / sound recordist £??.
+
+*Landscape capture*: photographer / videographer (£?? e.g. stills, panorama, timelapse, drone footage); sound recordist (soundscape)
+
 
 *Travel:* site visits (n? x site visits, car (£?? per mile, £?? parking) or public transport (£??))
 
 *Research materials*: books, pamphlets e.g. for an Island Stoytellers phyiscal library / collection ("resilience"); see also *Archive visits*
 
-*Minimal site specific performance event:* marketing (posters/fliers £??; physical ads (IWCP, Observer etc) £??; digital media (onthewight etc); digital ads (Facebook, Google ads etc) £??); photographer / videographer / audiographer (?!) £?? [it's too easy for those involved to not grab photos becuase they are busy doing other things...]
+*Minimal site specific performance event:* marketing (posters/fliers £??; physical ads (IWCP, Observer etc) £??; digital media (onthewight etc); digital ads (Facebook, Google ads etc) £??); photographer / videographer / sound recordist £?? [it's too easy for those involved to not grab photos becuase they are busy doing other things...]
 
 *Elaborate site specific performance event:* as minimal with mutliplier; creative development costs (£1k+ to artist?); event delivery costs (FX costs £500?)
 
