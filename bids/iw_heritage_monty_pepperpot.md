@@ -92,7 +92,6 @@ Also need to be mindful this is a Heritage Fund, not an Arts Council bid, althou
 
 *Landscape capture*: photographer / videographer (£?? e.g. stills, panorama, timelapse, drone footage); sound recordist (soundscape)
 
-
 *Travel:* site visits (n? x site visits, car (£?? per mile, £?? parking) or public transport (£??))
 
 *Research materials*: books, pamphlets e.g. for an Island Stoytellers physical library / collection ("resilience"); see also *Archive visits*
@@ -108,6 +107,8 @@ Also need to be mindful this is a Heritage Fund, not an Arts Council bid, althou
 *Digital legacy:* domain + hosting (£75 per year as a project wide development cost ? ); advertising (£??)
 
 *Evaluation:* professional evaluation (contribution to professional evaluation for whole project £??)
+
+*Contribution to final capstone performance event:* e.g. Island Stroytellers show at Ventnor Fringe (£100 sign on, marketing costs etc.)
 
 And then, of course, the big question of whether it's biddable for or not: *personal time engaged: in-research / on-project (e.g. community engagement/workshops) / in-performance*.
 
