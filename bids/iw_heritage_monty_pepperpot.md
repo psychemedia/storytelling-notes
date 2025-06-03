@@ -37,7 +37,7 @@ If so, *In what context did such tales come to you?*
 - ?local publishers?
 - ?local booksellers?
 
-I would also like to create an online PDF readable version of Island related books, particularly books that are also held in the Castle Museum (so folk can view them online, *or* actually go an see a physical version).
+I would also like to create an online PDF readable version of Island related books, particularly books that are also held in the Castle Museum (so folk can view them online, *or* actually go and see a physical version).
 
 5. __Site specific event__
 
