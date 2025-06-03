@@ -80,7 +80,7 @@ Possible formats:
 
 It wasn't clear the extent to which we were supposed to be volunteering as much in as possible and just paying for capacity /resilience building interventions from external parties (e.g. training), or going fully costed. If we fully cost even to not then bid to cover those costs, it makes it clear what sort of in-kind / opportunity cost contributions / sacrifices are being asked for.
 
-Also need to be mindful this is a Heritage Fund, not an Arts Council bid, although possibly opportunities for securign additional funding for more ambitious joint funded projects?
+Also need to be mindful this is a Heritage Fund, not an Arts Council bid, although possibly opportunities for securing additional funding for more ambitious joint funded projects?
 
 *Project management:*
 
