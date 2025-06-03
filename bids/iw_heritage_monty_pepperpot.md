@@ -105,7 +105,7 @@ Also need to be mindful this is a Heritage Fund, not an Arts Council bid, althou
 
 *Possible joint event with archive(s):* marketing (posters/fliers £??; physical ads (IWCP, Observer etc) £??; digital media (onthewight etc); digital ads (Facebook, Google ads etc) £??); exhibit costs (£??)
 
-*Digital design / development:* `interactive map` (? £250-500 as a poroject wide development cost ? ); `PDF viewer` (? £250-500 as a project wide development cost ?)
+*Digital design / development:* `interactive map` (? £250-500 as a project wide development cost ? ); `PDF viewer` (? £250-500 as a project wide development cost ?)
 
 *Digital legacy:* domain + hosting (£75 per year as a project wide development cost ? ); advertising (£??)
 
