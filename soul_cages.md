@@ -217,7 +217,8 @@ Their intercourse continued for several years.
 However, one morning, on Jack's throwing in a stone as usual, he got no answer. He flung another, and another; still there was no reply. He went away, and returned the following morning, but it was to no purpose. As he was without the hat, he could not go down to see what had become of old Coo, but his belief was, that the old man, or the old fish, or whatever he was, had either died, or had removed away from that part of the country.
 ```
 
-Crofton Croker's notes to the tale, 
+Crofton Croker's notes to the tale:
+
 ```{admonition} Crofton Croker, notes, 1828
 :class: dropdown
 https://archive.org/details/fairylegendsand04crokgoog/page/n50/mode/2up
@@ -263,8 +264,7 @@ is nec Latinum, nec Hebreum, sed diabolicum, also.
 
 A translation of old Cu's song, however, it is expected, would add little to our stock of knowledge, as, judging from the indubitable specimens which exist, the remarks of the sea folk are not very profound, although they evince singular powers of observation. Waldron, in his account of the Isle of Man, relates that an amphibious damsel was once caught, and after remaining three days on shore was allowed to escape. On plunging into the water she was welcomed by a number of her own species, who were heard to inquire what she had seen among the natives of earth. "Nothing," she answered, "wonderful, except that they were silly enough to throw away the water in which they had boiled their eggs!"
 
-Bochart tells us, on the authority of Alkazuinius, an Arabic author, that there is a sea-animal which exactly resembles a man, only that he has a tail; he has, moreover, a grey beard; hence he is called the old man of the sea. Once upon a time one of them
-was brought ot a certain king, who, out of curiosity, gave him a wife. They had a son who could speak the languages of both his parents. The boy was asked one day what his father said; but as the reply must necessarily lose by translation, it is given in the original Greek. He answered, ??
+Bochart tells us, on the authority of Alkazuinius, an Arabic author, that there is a sea-animal which exactly resembles a man, only that he has a tail; he has, moreover, a grey beard; hence he is called the old man of the sea. Once upon a time one of them was brought to a certain king, who, out of curiosity, gave him a wife. They had a son who could speak the languages of both his parents. The boy was asked one day what his father said; but as the reply must necessarily lose by translation, it is given in the original Greek. He answered, ??
 
 On the Irishisms used in the Legend of "the Soul Cages" a few words. *Arrah* is a common exclamation of surprise. It is correctly written *ara*, and, according to Dr. O'Brien, signifies a conference. A popular phrase is, "Arrah come here now," i. e. come here and let us talk over the matter.
 
@@ -285,7 +285,7 @@ Few need to be informed that the lower orders in Ireland, although their tone is
 "Shall we pluck a hair of the same wolf to-day, Proctor John?"—*Ben Jonson's Bartholomew Fair*, Act 1. Scene 1.
 ```
 
-In a footnote at the end of his reprining of the tale, Thomas Keightley gave the origins of the story away in his *Fairy Mythology* of 1850.
+In a footnote at the end of his reprinting of the tale, Thomas Keightley gave the origins of the story away in his *Fairy Mythology* of 1850.
 
 ```{admonition} An honest confession, 1850
 :class: dropdown
