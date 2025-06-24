@@ -109,7 +109,12 @@ eg as https://www.gutenberg.org/files/39408/39408-h/39408-h.htm
 
 ---
 
+https://www.jstor.org/stable/1260098?seq=15
+Fifty British Dragon Tales: An Analysis
+Jacqueline Simpson
+Folklore, Vol. 89, No. 1 (1978), pp. 79-93 (15 pages)
 
+---
 
 danish/icelandic 
 
