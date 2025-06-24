@@ -20,6 +20,15 @@ Abolished by Burial of Suicides Act 1823
 Wife who could not keep a secret - Ashliman variants
 https://sites.pitt.edu/~dash/type1381.html
 
+
+---
+
+Grateful Dead history of a folk story
+
+https://archive.org/details/gratefuldeadhist00gerouoft/page/n5/mode/1up
+
+ Brought to mimd by Ben Haggerty at Stealimg Thunder 2025, "The Grateful and the Dead"
+ 
 ---
 
 Ballad to story
