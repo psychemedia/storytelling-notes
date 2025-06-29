@@ -15,7 +15,17 @@ Abolished by Burial of Suicides Act 1823
  https://en.wikipedia.org/wiki/Burial_of_Suicides_Act_1823
 
 
+https://archive.org/details/encyclopedia-britannica-volume-10/page/242/mode/2up
+Encyclopedia Britannica, Volume 10, 1911
+
+FELO DE SE (M.L. a felon, i.e. murderer, of himself), one who commits murder upon himself. The technical conditions of murder apply to this crime; e.g. "if one commits any unlawful malicious act, the consequence of which is his own death, as if attempting to kill another he runs upon his antagonist's sword, or shooting at another the gun bursts and kills himself," he is a *felo de se*. The horror inspired by this crime led to the revolting punishment of an "ignominious burial on the highway, with a stake driven through the body." This was abolished by an act of 1823, which ordered the burial of the body of a person found to be *felo de se* within 24 hours after the coroner’s inquest, between the hours of 9 and 12 at night, and without Christian rites of sepulture. This act was again superseded in 1882 by the Interments (*Felo de se*) Act, which permits the interment of any *felo de se* in the churchyard or other burial ground of the parish or place in which by the law or custom of England he might have been interred but for the verdict. The interment is carried out in accordance with the Burial Laws Amendment Act 1880 (see BURIAL AND BURIAL ACTS). The act does not authorize the performance of any of the rites of Christian burial, but a special form of service may be used. Formerly the goods and chattels, but not the land, of a *felo de se* were forfeited to the crown, but such forfeitures were abolished by the Forfeiture Act 1870. (See also SUICIDE.)
+
 ---
+
+Macha's Curse - see notes elsewhere
+
+
+--
 
 Wife who could not keep a secret - Ashliman variants
 https://sites.pitt.edu/~dash/type1381.html
