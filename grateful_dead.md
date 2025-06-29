@@ -18,7 +18,7 @@ TO DO
 
 SHAKING-HEAD.
 
-THERE was once a king of a province in Erin who had an only son. The king was verycareful of this son, and sent him to school for good instruction.
+THERE was once a king of a province in Erin who had an only son. The king was very careful of this son, and sent him to school for good instruction.
 
 The other three kings of provinces in Erin had three sons at the same school; and the three sent word by this one to his father, that if he didn't put his son to death they would put both father and son to death themselves.
 
@@ -68,9 +68,7 @@ Next morning the giant was up at an early hour, and he went to the bed-side of e
 
 The giant stopped a moment, and said: "I believe you'd do that thing, so you may take the steed." Then Shaking-head took the steed of the giant, gave him to the king's son, and away they went.
 
-At sunset Shaking-head said: "We are near the castle of another giant, the next brother to the
-
-one who entertained us last night. He hasn't much welcome for us either; but he will treat us well when he is threatened."
+At sunset Shaking-head said: "We are near the castle of another giant, the next brother to the one who entertained us last night. He hasn't much welcome for us either; but he will treat us well when he is threatened."
 
 The second giant was going to eat the king's son for supper, but when Shaking-head told him about the forces of Erin he changed his manner and entertained them well.
 
@@ -88,11 +86,9 @@ Next morning after breakfast, Shaking-head said: "You must give me a present for
 
 "Well," said Shaking-head, "I have been keeping back your enemies this long time; but I'll let them at you now, and I'll raise up more. I'll put the whole kingdom of Erin against you."
 
-The giant stopped a moment, and said: "I believe you'd do that if it served you." So he took
+The giant stopped a moment, and said: "I believe you'd do that if it served you." So he took the sword off his belt and handed it to his guest. Shaking-head gave it to the king's son, who mounted his steed, and they both went away.
 
-the sword off his belt and handed it to his guest. Shaking-head gave it to the king's son, who mounted his steed, and they both went away.
-
-When they had gone some distance from the giant's castle Shaking-head said to the king's son, "Where shall we be to-night? — -.you have more knowledge than I."
+When they had gone some distance from the giant's castle Shaking-head said to the king's son, "Where shall we be to-night? — you have more knowledge than I."
 
 "Indeed then I have not," said the king's son; "I have no knowledge at all of where we are going; it is you who have the knowledge."
 
@@ -132,11 +128,9 @@ He put the thimble on his finger; and she thought it could be easily taken away,
 
 When the princess came to her own chamber, she struck her maid with a slat an draoichta (a rod of enchantment) and turned her into a rat; then she made such music of fifes and trumpets to sound throughout the castle, that every soul in it fell asleep. That minute, she sent the rat to where the king s son was sleeping, and the rat put her tail into the nostrils of the young man, tickled his nose so that he sneezed and blew the thimble out of his mouth. The rat caught it and ran away to the princess, who struck her with the rod of enchantment and turned her into a maid again.
 
-Then the princess and the maid set out for the eastern world, taking the thimble with them. Shaking-head, who was watching with his cloak on, unseen by all, had seen everything, and now followed at their heels. In the eastern world, at the sea-side was a rock. The princess tapped it with her finger, and the rock opened; there was
+Then the princess and the maid set out for the eastern world, taking the thimble with them. Shaking-head, who was watching with his cloak on, unseen by all, had seen everything, and now followed at their heels. In the eastern world, at the sea-side was a rock. The princess tapped it with her finger, and the rock opened; there was a great house inside, and in the house a giant. The princess greeted him and gave him the thimble, saying: "You're to keep this so no man can get it."
 
-a great house inside, and in the house a giant. The princess greeted him and gave him the thimble, saying: "You're to keep this so no man can get it."
-
-"Oh," said the giant, taking the thimble and throwing it aside, " you need have no fear; no man can find me in this place."
+"Oh," said the giant, taking the thimble and throwing it aside, "you need have no fear; no man can find me in this place."
 
 Shaking-head caught the thimble from the ground and put it in his pocket. When she had finished conversation with the giant, the princess kissed him, and hurried away. Shaking-head followed her step for step, till they came at break of day to the castle of King Behind the Gold. Shaking-head went to the king's son and asked: "Was anything given you to keep last night?"
 
@@ -174,9 +168,7 @@ In the morning Shaking-head went to the king's son, roused him, and asked: "What
 
 The king's son did as Shaking-head bade him. When he saw the comb the king said, "Now you have my daughter two-thirds won." But her face went from the princess entirely, she was so vexed that any man should know of her dealings with the giant.
 
-The third night when he was going to bed the princess said to the king's son, "If you will not have at my father's castle to-morrow .morning the head I will kiss to-night, you'll die to-morrow, and your own head will be put on the last spike in my father's garden." Later in the night she came to
-
-the bedside of the king's son with a draught, which he drank, and before she was back in her chamber, he slept. Then she made such music all over the castle that not a soul was awake when the music had ceased. That moment she hurried away with her maid to the eastern world; but Shaking-head followed her in his cloak of darkness. This time he carried with him the two-handed sword that never failed a blow.
+The third night when he was going to bed the princess said to the king's son, "If you will not have at my father's castle to-morrow .morning the head I will kiss to-night, you'll die to-morrow, and your own head will be put on the last spike in my father's garden." Later in the night she came to the bedside of the king's son with a draught, which he drank, and before she was back in her chamber, he slept. Then she made such music all over the castle that not a soul was awake when the music had ceased. That moment she hurried away with her maid to the eastern world; but Shaking-head followed her in his cloak of darkness. This time he carried with him the two-handed sword that never failed a blow.
 
 When she came to the rock in the eastern world and entered the house of the giant, the princess said, "You let my two gifts go with the son of the king in Erin, and he'll have me won to-morrow if he'll have your head at my father's castle in the morning."
 
@@ -232,15 +224,9 @@ The king's son went out to walk alone, and as he was lamenting the fate he had b
 
 The three fleets of the three kings' sons were sunk, their armies destroyed, and the three heads taken off themselves. When the battle was over and the country safe the king resigned the castle and power to his son, and the son of a king in a province became king over all the land of Erin.
 
-
-
-
-
-
 ---
 
 https://archive.org/details/talesfromfjelda00dasegoog/page/n96/mode/2up
-
 
 
 Tales from the fjeld. A second series of popular tales
@@ -270,7 +256,7 @@ When he had wandered on and on for a quarter of a year he came to a town, and ou
 
 "'But what was his wrong-doing?' asked the lad.
 
-"'When he was alive here he was a vintner,' said the priest, ' and he mixed water with his wine.'
+"'When he was alive here he was a vintner,' said the priest, 'and he mixed water with his wine.'
 
 "The lad thought that no such dreadful sin.
 
@@ -282,9 +268,7 @@ When he had wandered on and on for a quarter of a year he came to a town, and ou
 
 "'Yes,' said the lad. 'If he could only get him buried in Christian earth, he would be sure to pay for his funeral ale out of his scanty means.'
 
-"Even after that the priest hemmed and hawed; but when the lad came with two witnesses, and asked him
-
-right out in their hearing if he could refuse to sprinkle dust over the corpse, he was forced to answer that he could not.
+"Even after that the priest hemmed and hawed; but when the lad came with two witnesses, and asked him right out in their hearing if he could refuse to sprinkle dust over the corpse, he was forced to answer that he could not.
 
 "So they broke the vintner out of the block of ice, and laid him in Christian earth, and they tolled the bell and sang hymns over him, and the priest sprinkled dust over him, and they drank his funeral ale till they wept and laughed by turns; but when the lad had paid for the ale he hadn't many pence left in his pocket.
 
@@ -310,7 +294,7 @@ right out in their hearing if he could refuse to sprinkle dust over the corpse, 
 
 "So he took the sword and went oflf with it, and left her still sitting there.
 
-"'When they had gone far, far away over naked fells and wide wastes, they came to another crossfelL There, too, the companion knocked and bade them open the door, and the same thing happened as happened before; the rock opened, and when they had got a good way into the hill another old witch came up to them with a chair and begged them to sit down. ' Ye may well be weary/ she said.
+"'When they had gone far, far away over naked fells and wide wastes, they came to another crossfelL There, too, the companion knocked and bade them open the door, and the same thing happened as happened before; the rock opened, and when they had got a good way into the hill another old witch came up to them with a chair and begged them to sit down. 'Ye may well be weary/ she said.
 
 "'Sit down yourself/ said the companion. And so she fared as her sister had fared, she did not dare to say nay, and as soon as she came on the chair she stuck fast. Meanwhile the lad and his companion went about in the hill, and the man broke open all the chests and drawers till he found what he sought, and that was a golden ball of yam. That he set his heart on, and he promised the old witch to set her free if she would give him the golden ball. She said he might take all she had, but that she could not part with; it was her Three-Sister Ball. But when she heard that she should sit there till Doomsday unless he got it, she said he might take it all the same if he would only set her free. So the companion took the golden ball, but he left her sitting where she sat.
 
@@ -330,7 +314,7 @@ Hat, and if she gave it away, all her luck would be lost. But when she heard tha
 
 and was very heartily welcomed. He had a room for himself, and another for his companion, which they were to live in, and when dinner-time drew near, he was bidden to dine at the king^s own board. As soon as ever he set eyes on the princess he knew her at once, and saw it was she of whom he had dreamt as his bride. Then he told her his business, and she answered that she liked him well enough, and would gladly have him; but first he must undergo three trials. So when they had dined she gave him a pair of golden scissors, and said, —
 
-"'The first proof is that you must take these scissors and keep them, and give them to me at mid-day to-morrow. It is not so very great a trial, I fancy,' she said, and made a face; ' but if you can't stand it, you lose your life; it is the law, and so you will be drawn and quartered, and your body will, be stuck on stakes, and your head over the gate, just like those lovers of mine, whose skulls and skeletons you see outside the king's castle/
+"'The first proof is that you must take these scissors and keep them, and give them to me at mid-day to-morrow. It is not so very great a trial, I fancy,' she said, and made a face; 'but if you can't stand it, you lose your life; it is the law, and so you will be drawn and quartered, and your body will, be stuck on stakes, and your head over the gate, just like those lovers of mine, whose skulls and skeletons you see outside the king's castle/
 
 "'That is no such great art,' thought the lad.
 
@@ -338,35 +322,31 @@ and was very heartily welcomed. He had a room for himself, and another for his c
 
 "'Of course you have the scissors safe and sure.'
 
-"Then he searched in all his pockets; but there were no
+"Then he searched in all his pockets; but there were no scissors, and the lad was in a sad way when he found them wanting.
 
-scissors^ and the lad was in a sad way when he found them wanting.
+"'Well! well!' said the companion; 'I'll see if I can't get you them again.'
 
-"'WeU! well! ' said the companion; ' I'll see if I can't get you them again.'
+"With that he went down into the stable, and there stood a big, fat Billygoat, which belonged to the princess, and it was of that breed that it could fly many times faster through the air than it could run on land« So he took the Three-Sister Sword, and gave it a stroke between the horns, and said, —
 
-"With that he went down into the stable, and tJiere stood a big, fat Billygoat, which belonged to the princess, and it was of that breed that it could fly many times faster through the air than it could run on land« So he took the Three-Sister Sword, and gave it a stroke between the horns, and said, —
-
-"'When rides the princess to see. her lover to-night 1 '
+"'When rides the princess to see. her lover to-night?'
 
 "The Billygoat baaed, and said it dared not say, but when it had another stroke, it said the princess was coming at eleven o'clock. Then the companion put on the Three-Sister Hat, and all at once he became invisible, and so he waited for her. When she came, she took and rubbed the Billygoat with an ointment which she had in a great horn, and said, —
 
 "'Away, away, o'er roof tree and steeple, o'er land, o'er sea, o'er hill, o'er dale, to my true love who awaits me in fell this night.'
 
-*' At the very moment that the goat set oflF, the companion threw himself on behind, and away they went like a blast through the air. They were not long on the way, and in a trice they came to a crossfell. There she knocked, and so the goat passed through the fell to the Troll, who was her lover.
+*'At the very moment that the goat set oflF, the companion threw himself on behind, and away they went like a blast through the air. They were not long on the way, and in a trice they came to a crossfell. There she knocked, and so the goat passed through the fell to the Troll, who was her lover.
 
 "'Now, my dear,' she said, 'a new lover is come, whose heart is set on having me. He is young and handsome but I will have no other than you,' and so she coaxed and petted the Troll.
 
-"'So I set him a trial, and here are the scissors he was to watch and keep; now do you keep them,' she said."
+"'So I set him a trial, and here are the scissors he was to watch and keep; now do you keep them,' she said.
 
-"So the two laughed heartily, just as though they bad the lad already on wheel and stake.
+"So the two laughed heartily, just as though they had the lad already on wheel and stake.
 
-"'Yes! yes!' said the Troll; Til keep them safe enough.
-
-And I shall sleep on the l)ride'B white aim, While ravens round his skeleton swiun.'
+"'Yes! yes!' said the Troll; 'I'll keep them safe enough. And I shall sleep on the bride's white arm, While ravens round his skeleton swim.'
 
 "And so he laid the scissors in an iron chest with three locks; but just as he dropped them into the chest, the companion snapped them up. Neither of them could see him, for he had on the Three-Sister Hat; and ao the Troll locked up the chest for naught, and he hid the keys he had in the hollow eye-tooth in which he had the toothache. There it would be hard work for any one to find them, the Troll thought.
 
-"So when midnight was passed she set ofif home again. ThQ companion got up behind the goat, and they lost no time on the way back.
+"So when midnight was passed she set off home again. The companion got up behind the goat, and they lost no time on the way back.
 
 "Next day, about noon, the lad was asked down to the king's board; but then the princess gave herself such airs, and was so high and mighty, she would scarce look towards the side where the lad sat. After they had dined, she dressed her face in holiday garb, and said, as if butter wouldn't melt in her mouth, —
 
@@ -392,13 +372,13 @@ And I shall sleep on the l)ride'B white aim, While ravens round his skeleton swi
 
 "So the companion put on the Three-Sister Hat again, and waited till she came, tearing along with her horn of ointment, and greased the Billygoat. Then she said, as she had said the first time, —
 
-"'Away, away, o'er rooftree and steeple, o'er land, o'er sea, o'er hill, o*er dale, to my true love who awaits me in the fell this night.*
+"'Away, away, o'er rooftree and steeple, o'er land, o'er sea, o'er hill, o'er dale, to my true love who awaits me in the fell this night.'
 
-"In a trice they were oflF, and the companion threw himself on behind the Billygoat, and away they went like a blast through the air. In the twinkling of an eye they came to the Troll's hill; and, when she had knocked three times, they passed through the rock to the Troll, who was her lover.
+"In a trice they were off, and the companion threw himself on behind the Billygoat, and away they went like a blast through the air. In the twinkling of an eye they came to the Troll's hill; and, when she had knocked three times, they passed through the rock to the Troll, who was her lover.
 
-"'Where was it you hid the golden scissors I gave you yesterday, my darling?' cried out the princess. * My wooer had it and gave it back to me.'
+"'Where was it you hid the golden scissors I gave you yesterday, my darling?' cried out the princess. 'My wooer had it and gave it back to me.'
 
-"'That was quite impossible,' said the Troll; 'for he had locked it up in a chest with three locks and hidden the keys in the hollow of his eye-tooth;' but, when they unlocked the chest, and looked for it, the Troll had no scissors in his chest.
+"'That was quite impossible,' said the Troll; for he had locked it up in a chest with three locks and hidden the keys in the hollow of his eye-tooth; but, when they unlocked the chest, and looked for it, the Troll had no scissors in his chest.
 
 "So the princess told him how she had given her suitor her golden ball.
 
@@ -406,13 +386,13 @@ And I shall sleep on the l)ride'B white aim, While ravens round his skeleton swi
 
 "Well, the Troll hardly knew; but, after they had thought a bit, they made up their minds to light a large fire and burn the golden ball; and so they would be cocksuire that he could not get at it. But, just as she tossed it into the fire, the companion stood ready and caught it; and neither of them saw him, for he had on the ThreeSister Hat.
 
-"When the princess had been with the Troll a little while, and it began to grow towards dawn, she set oflF home again, and the companion got up behind her on the goat, iand they got back fast and safe.
+"When the princess had been with the Troll a little while, and it began to grow towards dawn, she set off home again, and the companion got up behind her on the goat, and they got back fast and safe.
 
 "Next day, when the lad was bidden down to dinner, the companion gave him the balL The princess was even more high and haughty than the day before, and, after they iiad dined, she perked up her mouth, and said, in a dainty voice, —
 
-"'Perhaps it is too much to look for that you should give me back my golden ball, which I gave you to keep yesterday V '
+"'Perhaps it is too much to look for that you should give me back my golden ball, which I gave you to keep yesterday?'
 
-"'Is it?' said the lad. * You shall soon have it Here it is, safe enough; ' and, as he said that, he threw it down on the board so hard, that it shook again; and, as for the king, he gave a jump high up into the air.
+"'Is it?' said the lad. 'You shall soon have it Here it is, safe enough;' and, as he said that, he threw it down on the board so hard, that it shook again; and, as for the king, he gave a jump high up into the air.
 
 "The princess got as pale as a corpse, but she soon came to herself again, and said, in a sweet, small voice, —
 
@@ -448,9 +428,7 @@ And I shall sleep on the l)ride'B white aim, While ravens round his skeleton swi
 
 "'No, I don't think he can,' said the Troll. 'He would take his oath he couldn't;' and then the Troll burst out laughing, and scunnered worse than any ghost, and both the princess and the Troll thought the lad would be drawn and quartered, and that the crows would peck out his eyes, before he could get the Troll's head.
 
-"So when it turned towards dawn, she had to get oflf
-
-home again; but she was afraid, she said, for she thought there was some one behind her, and so she was afraid to ride home alone. The Troll must go mth her on the way. Yes; the Troll would go with her, and he led out his Billygoat (for he had one that matched the princess's), and he smeared it and greased it between the horns. And when the Troll got up, the companion crept on behind, and so off they set through the air to the king's grange. But all the way the companion thrashed the Troll and his Billygoat, and gave them cut and thrust and thrust and cut with his sword, till they got weaker and weaker, and at last were well on the. way to sink down into the sea over which they passed. Now the Troll thought the weather was so wild, he went right home with the princess up to the king's grange, and stood outside to see that she got home safe and well. But just as she shut the. door behind her, the companion struck off the Troll's head and ran up with it to the lad's bedroom.
+"So when it turned towards dawn, she had to get off home again; but she was afraid, she said, for she thought there was some one behind her, and so she was afraid to ride home alone. The Troll must go mth her on the way. Yes; the Troll would go with her, and he led out his Billygoat (for he had one that matched the princess's), and he smeared it and greased it between the horns. And when the Troll got up, the companion crept on behind, and so off they set through the air to the king's grange. But all the way the companion thrashed the Troll and his Billygoat, and gave them cut and thrust and thrust and cut with his sword, till they got weaker and weaker, and at last were well on the. way to sink down into the sea over which they passed. Now the Troll thought the weather was so wild, he went right home with the princess up to the king's grange, and stood outside to see that she got home safe and well. But just as she shut the. door behind her, the companion struck off the Troll's head and ran up with it to the lad's bedroom.
 
 "'Here is what the princess thought of,' said he.
 
@@ -462,13 +440,13 @@ home again; but she was afraid, she said, for she thought there was some one beh
 
 wife as she had given her word So they made a bridal feast, and there was drinking and gladness all over the kingdom.
 
-"But the companion took the lad on one side, andjtold him that he might just shut his eyes and sham sleep on the bridal night; but if he held his life dear, and would listen to him, he wouldn't let a wink come over them till he had stripped her of her troll-skin, which had been thrown over her, but he must flog it off her with a rod made of nine new birch twigs, and he must tear it off her in three tubs of milk: first he was to scrub her in a tub of year-old whey, and then he was to scour her in the tub of buttermilk, and lastly, he was to rub her in a tub of new milk. The birch twigs lay under the bed, and the tubs he had set in the comer of the roonu Everything was ready to his hand. Yes; the lad gave his word to do as he was bid and to listen to him. So when they got into the bridal bed at even, the lad shammed as though he had given himself up to sleep. Then the princess raised herself up on her elbow and looked at him to see if he slept, and tickled him under the nose; but the lad slept on still. Then she tugged his hair and his beard; but he lay like a log, as she thought. After that she drew out a big butcher's knife from under the bolster,, and was just going to hack off his head; but the lad jumped up, dashed the knife out of her hand, and caught her by the hair. Then he flogged her with the birchrods, and wore them out upon her till there was not a twig left When that was over he tumbled her into the tub of whey, and then he got to see what sort of beast she was: she was black as a raven all over her body; but when he scrubbed her well in the whey, and scoured her with butte^r-milk, and rubbed her well in new milk, her troll-skin dropped off her, and she was fair and lovely and gentle; so lovely she had never looked before,
+"But the companion took the lad on one side, andjtold him that he might just shut his eyes and sham sleep on the bridal night; but if he held his life dear, and would listen to him, he wouldn't let a wink come over them till he had stripped her of her troll-skin, which had been thrown over her, but he must flog it off her with a rod made of nine new birch twigs, and he must tear it off her in three tubs of milk: first he was to scrub her in a tub of year-old whey, and then he was to scour her in the tub of buttermilk, and lastly, he was to rub her in a tub of new milk. The birch twigs lay under the bed, and the tubs he had set in the comer of the roonu Everything was ready to his hand. Yes; the lad gave his word to do as he was bid and to listen to him. So when they got into the bridal bed at even, the lad shammed as though he had given himself up to sleep. Then the princess raised herself up on her elbow and looked at him to see if he slept, and tickled him under the nose; but the lad slept on still. Then she tugged his hair and his beard; but he lay like a log, as she thought. After that she drew out a big butcher's knife from under the bolster,, and was just going to hack off his head; but the lad jumped up, dashed the knife out of her hand, and caught her by the hair. Then he flogged her with the birchrods, and wore them out upon her till there was not a twig left When that was over he tumbled her into the tub of whey, and then he got to see what sort of beast she was: she was black as a raven all over her body; but when he scrubbed her well in the whey, and scoured her with butte^r-milk, and rubbed her well in new milk, her troll-skin dropped off her, and she was fair and lovely and gentle; so lovely she had never looked before.
 
-"Next day the companion said they must set off home. Yes; the lad was ready enough, and the princess too, for her dower had been long waiting. In the night the companion fetched to the king's grange all the gold and silver and precious things which the Troll had left behind him in the Fell, and when they were ready^to start in the morning the whole grange was so full of silver, and gold, and jewels, there was no walking without treading on them. That dower was worth more than all the king's land and realm, and they were at their wits' end to know how to carry it with them. . But the companion knew a way out of eveiy strait. The Troll left behind him six billygoats, who could all fly through the air. Those he so laded with silver and gold that they were forced to walk along the ground, and had no strength to mount aloft and fly, and what the billygoats could not carry had to stay behind in the king's grange. So they travelled far, and farther than far, but at lagt the billygoats got so footsore and tired they could not go another step. The lad and the princess knew not what to do; but when the companion saw they could not get on, he took the whole dower on his back, and the billygoats atop of it, and bore it all so far on that there was only half a mile left to the lad's home."
+"Next day the companion said they must set off home. Yes; the lad was ready enough, and the princess too, for her dower had been long waiting. In the night the companion fetched to the king's grange all the gold and silver and precious things which the Troll had left behind him in the Fell, and when they were ready^to start in the morning the whole grange was so full of silver, and gold, and jewels, there was no walking without treading on them. That dower was worth more than all the king's land and realm, and they were at their wits' end to know how to carry it with them. . But the companion knew a way out of eveiy strait. The Troll left behind him six billygoats, who could all fly through the air. Those he so laded with silver and gold that they were forced to walk along the ground, and had no strength to mount aloft and fly, and what the billygoats could not carry had to stay behind in the king's grange. So they travelled far, and farther than far, but at lagt the billygoats got so footsore and tired they could not go another step. The lad and the princess knew not what to do; but when the companion saw they could not get on, he took the whole dower on his back, and the billygoats atop of it, and bore it all so far on that there was only half a mile left to the lad's home.
 
 "Then the companion said: 'Now we must part. I can't stay with you any longer.'
 
-"But the lad would not part from him, he would not lose him for much or little. Well, he went with them a quarter of a mile more; but farther he could not go, and when the lad begged and prayed him to go home and stay with him altogether, or at least as long as they had drunk his home-coming ale in his father's house, the companion said, /No. That could not be. Now he must part, for he heard heaven's bells ringing for him.' He was the vintner who had stood in the block of ice outside the church door, whom all spat upon; and he had been his companion and helped him because he had given all he had to get him peace and rest in Christian 6arth.
+"But the lad would not part from him, he would not lose him for much or little. Well, he went with them a quarter of a mile more; but farther he could not go, and when the lad begged and prayed him to go home and stay with him altogether, or at least as long as they had drunk his home-coming ale in his father's house, the companion said, 'No. That could not be. Now he must part, for he heard heaven's bells ringing for him.' He was the vintner who had stood in the block of ice outside the church door, whom all spat upon; and he had been his companion and helped him because he had given all he had to get him peace and rest in Christian Earth.
 
 "'I had leave,' he said, 'to follow you a year, and now the year is out.'
 
