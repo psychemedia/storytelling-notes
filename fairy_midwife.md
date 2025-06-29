@@ -1466,7 +1466,7 @@ That is exactly the tale, my informant tells me, as he heard it from his mother,
 
 The same tale also appears in William Jenkyn Thomas' [The Welsh Fairy Book](https://books.google.co.uk/books?id=fII2AQAAMAAJ&pg=PR11&dq=%22welsh+fairy+book%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiKvaivzc-MAxWVVUEAHXTSJ7UQ6AF6BAgLEAM#v=onepage&q=nurse&f=false), 1907, pp. 134-7, under the title [*The Fairy Ointment*](https://sacred-texts.com/neu/celt/wfb/wfb29.htm).
 
-As well as relating the tales he was told, Rhys also acknowledges folk who were acquainted with the tales, but not including them. Whether the omission was becuase the tale was fragmentary, or a clear duplicate of, or less well told than, an equivalent version, is not clear.
+As well as relating the tales he was told, Rhys also acknowledges folk who were acquainted with the tales, but not including them. Whether the omission was because the tale was fragmentary, or a clear duplicate of, or less well told than, an equivalent version, is not clear.
 
 ```{admonition} Acquainted with the tale, 1901
 :class: dropdown

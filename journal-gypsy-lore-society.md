@@ -99,7 +99,7 @@ pp3-19
 
 https://archive.org/details/journalofgypsylo06gypsuoft/page/33/mode/1up
 Recorded by Bernard Gilliat-Smith
-A Seventh Bulgarian Gypsy Folk Tale (Chaiakeri Paramisi, ; in Nagari letters, no trasncript?)
+A Seventh Bulgarian Gypsy Folk Tale (Chaiakeri Paramisi,; in Nagari letters, no trasncript?)
 p33
 
 

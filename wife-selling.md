@@ -92,7 +92,7 @@ Mr. White: Our ancestors need to have a practice of applying summary justice in 
 ---
 ---
 
-E.P. Thompson chapter in Commons, stopped doing a talk becuase of feminist backlash TO DO need my own interpretation, stance, TO DO
+E.P. Thompson chapter in Commons, stopped doing a talk because of feminist backlash TO DO need my own interpretation, stance, TO DO
 
 ## *Wife selling* as referenced in N & Q, 1850-1908
 
