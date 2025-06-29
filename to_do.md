@@ -57,9 +57,64 @@ by Albert Ludwig Grimm
 Publication date 1827
 
 
+--
+
+https://archive.org/details/waifsstraysofcel20lond/page/n9/mode/2up?q=%22grateful+dead%22
+Waifs and strays of Celtic tradition
+Publication date 1889
+
+/ also as https://archive.org/details/folkandherotale01nuttgoog/page/n14/mode/2up?q=%22grateful+dead%22
+Folk and hero tales
+by MacInnes, D. (Duncan), d. and tr, 1890
+
+
 ---
 
+https://archive.org/details/GestaRomanorumV1/page/n5/mode/2up
+Gesta Romanorum Or, Entertaining Moral Stories Invented By The Monks As A Fireside Recreation; And Commonly Applied In Their Discourses From The Pulpit Whence The Most Celebrated Of Our Own Poets And Others, From The Earliest Times Volume 1
+by Swan, Charles
+Publication date 1824
 
+https://archive.org/details/GestaRomanorumV2/page/n5/mode/2up
+Gesta Romanorum Or, Entertaining Moral Stories Invented By The Monks As A Fireside Recreation; And Commonly Applied In Their Discourses From The Pulpit Whence The Most Celebrated Of Our Own Poets And Others, From The Earliest Times Volume 2
+by Swan, Charles
+Publication date 1824
+
+https://www.gutenberg.org/files/58655/58655-h/58655-h.htm ( https://archive.org/details/talesfromgestaro00swan/page/n7/mode/2up ? )
+TALES FROM THE GESTA ROMANORUM
+Charles Swan
+1845
+Also appears as (?):
+https://archive.org/details/eveningswitholds00gbed/page/n7/mode/2up
+Evenings with the old story tellers; select tales from the Gesta Romanorum, etc (2nd edition)
+by G. B. ed
+Publication date  1844 (1845?)
+
+https://archive.org/details/mediaevaltale00morl/page/6/mode/2up
+Mediaeval tales
+with an introduction by Henry Morley
+1884
+
+
+
+http://archive.org/details/gratefuldeadhist00gerouoft/page/n5/mode/2up
+The grateful dead; the history of a folk story
+by Gerould, Gordon Hall, 1877-1953
+Publication date 1908
+
+eg as https://www.gutenberg.org/files/39408/39408-h/39408-h.htm
+
+
+?? also Danse Macabre
+
+---
+
+https://www.jstor.org/stable/1260098?seq=15
+Fifty British Dragon Tales: An Analysis
+Jacqueline Simpson
+Folklore, Vol. 89, No. 1 (1978), pp. 79-93 (15 pages)
+
+---
 
 danish/icelandic 
 
