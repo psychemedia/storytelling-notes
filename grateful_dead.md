@@ -226,6 +226,9 @@ The three fleets of the three kings' sons were sunk, their armies destroyed, and
 
 ---
 
+
+I heard Ben Haggerty tell a reworking of the followong variant at Stealing Thunder 2025; the dead man was a blacksmith(?) who haf taken all the iron from that plaxe(?); the conceit with the witches saw the young man take a sack of what looked like gold (but turned to worthless leaves?) whilst the companion took what looked to be worthless ("oh, you don't want that.."). The troll was a (the?) devil (?).
+
 https://archive.org/details/talesfromfjelda00dasegoog/page/n96/mode/2up
 
 
@@ -296,7 +299,7 @@ When he had wandered on and on for a quarter of a year he came to a town, and ou
 
 "'When they had gone far, far away over naked fells and wide wastes, they came to another crossfelL There, too, the companion knocked and bade them open the door, and the same thing happened as happened before; the rock opened, and when they had got a good way into the hill another old witch came up to them with a chair and begged them to sit down. 'Ye may well be weary/ she said.
 
-"'Sit down yourself/ said the companion. And so she fared as her sister had fared, she did not dare to say nay, and as soon as she came on the chair she stuck fast. Meanwhile the lad and his companion went about in the hill, and the man broke open all the chests and drawers till he found what he sought, and that was a golden ball of yam. That he set his heart on, and he promised the old witch to set her free if she would give him the golden ball. She said he might take all she had, but that she could not part with; it was her Three-Sister Ball. But when she heard that she should sit there till Doomsday unless he got it, she said he might take it all the same if he would only set her free. So the companion took the golden ball, but he left her sitting where she sat.
+"'Sit down yourself,' said the companion. And so she fared as her sister had fared, she did not dare to say nay, and as soon as she came on the chair she stuck fast. Meanwhile the lad and his companion went about in the hill, and the man broke open all the chests and drawers till he found what he sought, and that was a golden ball of yam. That he set his heart on, and he promised the old witch to set her free if she would give him the golden ball. She said he might take all she had, but that she could not part with; it was her Three-Sister Ball. But when she heard that she should sit there till Doomsday unless he got it, she said he might take it all the same if he would only set her free. So the companion took the golden ball, but he left her sitting where she sat.
 
 "So on they went for many days, over waste and wood, till they came to a third crossfelL There all went as it had gone twice before. The companion knocked, the rock opened, and inside the hill an old witch came up, and asked them to sit on her chair, they must be tired. But the companion said again, ' Sit on it yourself,' and there she sat. They had not gone through many rooms before they saw an old hat which hung on a peg behind the door. That the companion must and would have; but the old witch couldn't part with it. It was her Three-Sister
 
@@ -310,9 +313,7 @@ Hat, and if she gave it away, all her luck would be lost. But when she heard tha
 
 "When they had gone on a few days further, the companion said, 'Now we are soon coming to the castle where she is, the princess of whom you dreamt, and when we get there, you must go in and tell the king what you dreamt, and what it is you are seeking.'
 
-"So when they reached it he did what the man told him,
-
-and was very heartily welcomed. He had a room for himself, and another for his companion, which they were to live in, and when dinner-time drew near, he was bidden to dine at the king^s own board. As soon as ever he set eyes on the princess he knew her at once, and saw it was she of whom he had dreamt as his bride. Then he told her his business, and she answered that she liked him well enough, and would gladly have him; but first he must undergo three trials. So when they had dined she gave him a pair of golden scissors, and said, —
+"So when they reached it he did what the man told him, and was very heartily welcomed. He had a room for himself, and another for his companion, which they were to live in, and when dinner-time drew near, he was bidden to dine at the king^s own board. As soon as ever he set eyes on the princess he knew her at once, and saw it was she of whom he had dreamt as his bride. Then he told her his business, and she answered that she liked him well enough, and would gladly have him; but first he must undergo three trials. So when they had dined she gave him a pair of golden scissors, and said, —
 
 "'The first proof is that you must take these scissors and keep them, and give them to me at mid-day to-morrow. It is not so very great a trial, I fancy,' she said, and made a face; 'but if you can't stand it, you lose your life; it is the law, and so you will be drawn and quartered, and your body will, be stuck on stakes, and your head over the gate, just like those lovers of mine, whose skulls and skeletons you see outside the king's castle/
 
@@ -334,7 +335,7 @@ and was very heartily welcomed. He had a room for himself, and another for his c
 
 "'Away, away, o'er roof tree and steeple, o'er land, o'er sea, o'er hill, o'er dale, to my true love who awaits me in fell this night.'
 
-*'At the very moment that the goat set oflF, the companion threw himself on behind, and away they went like a blast through the air. They were not long on the way, and in a trice they came to a crossfell. There she knocked, and so the goat passed through the fell to the Troll, who was her lover.
+"'At the very moment that the goat set oflF, the companion threw himself on behind, and away they went like a blast through the air. They were not long on the way, and in a trice they came to a crossfell. There she knocked, and so the goat passed through the fell to the Troll, who was her lover.
 
 "'Now, my dear,' she said, 'a new lover is come, whose heart is set on having me. He is young and handsome but I will have no other than you,' and so she coaxed and petted the Troll.
 
@@ -436,9 +437,7 @@ and was very heartily welcomed. He had a room for himself, and another for his c
 
 "'No doubt you have got what I thought of ?' said she.
 
-"'Aye; aye; I have it,' said the lad, and he tore it out from under his coat, and threw it down on the board with such a thump that the board, trestles and all, was upset. As for the princess, she was as though she had been dead and buried; but she could not say that this was not what she was thinking of, and so now he was to have her to
-
-wife as she had given her word So they made a bridal feast, and there was drinking and gladness all over the kingdom.
+"'Aye; aye; I have it,' said the lad, and he tore it out from under his coat, and threw it down on the board with such a thump that the board, trestles and all, was upset. As for the princess, she was as though she had been dead and buried; but she could not say that this was not what she was thinking of, and so now he was to have her to wife as she had given her word So they made a bridal feast, and there was drinking and gladness all over the kingdom.
 
 "But the companion took the lad on one side, andjtold him that he might just shut his eyes and sham sleep on the bridal night; but if he held his life dear, and would listen to him, he wouldn't let a wink come over them till he had stripped her of her troll-skin, which had been thrown over her, but he must flog it off her with a rod made of nine new birch twigs, and he must tear it off her in three tubs of milk: first he was to scrub her in a tub of year-old whey, and then he was to scour her in the tub of buttermilk, and lastly, he was to rub her in a tub of new milk. The birch twigs lay under the bed, and the tubs he had set in the comer of the roonu Everything was ready to his hand. Yes; the lad gave his word to do as he was bid and to listen to him. So when they got into the bridal bed at even, the lad shammed as though he had given himself up to sleep. Then the princess raised herself up on her elbow and looked at him to see if he slept, and tickled him under the nose; but the lad slept on still. Then she tugged his hair and his beard; but he lay like a log, as she thought. After that she drew out a big butcher's knife from under the bolster,, and was just going to hack off his head; but the lad jumped up, dashed the knife out of her hand, and caught her by the hair. Then he flogged her with the birchrods, and wore them out upon her till there was not a twig left When that was over he tumbled her into the tub of whey, and then he got to see what sort of beast she was: she was black as a raven all over her body; but when he scrubbed her well in the whey, and scoured her with butte^r-milk, and rubbed her well in new milk, her troll-skin dropped off her, and she was fair and lovely and gentle; so lovely she had never looked before.
 
