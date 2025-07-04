@@ -1,6 +1,47 @@
 # The Grateful Dead
 
 
+https://archive.org/details/playinginbandora0000gans/mode/2up?q=%22standing+around+in+utter+desperation+at%22
+Playing in the band : an oral and visual portrait of the Grateful Dead
+by Gans, David
+
+Publication date 1985
+
+pp. 38  
+
+Garcia: We were standing around in utter desperation at Phil [Lesh]’s house in Palo Alto [trying to think up a name for the band]. There was a huge dictionary, big monolithic thing, and I just opened it up. There in huge black letters was `The Grateful Dead.’ It … just cancelled my mind out. We decided to have it, but it was funny... One of the things about the name, right from the beginning, was that it had a lot of power. It was kind of creepy. People resisted it at first. They didn't want us to be the Grateful Dead— it was too weird. But... I donlt think the connotation is nearly as creepy as it used to be, though sometimes the power is very evident.
+
+
+https://www.straightdope.com/21342141/where-did-the-grateful-dead-get-their-name
+
+Where did the Grateful Dead get their name?
+By  Cecil Adams   Jun 9, 1989, 7:00am GMT+1
+SHARE
+
+[TH: suggests that] Garcia may not have hallucinated the whole thing after all. In the Funk & Wagnalls Standard Dictionary of Folklore, Mythology and Legend, we find a page headed “GRATEFUL DEAD” in big type. ...
+
+... Further investigation has turned up a rare volume of folklore entitled The Grateful Dead by G.H. Gerould (1908), ...
+
+[Ben Haggerty tells of Jerry Garcia in a San Francisco bookshop, presumably Ciry Lights, browsing the shelves and coming acorss of copy of a book with 50 or more versions of the Grateful Dead tale (which it is not hard to image is Gerould's *The grateful dead; the history of a folk story*.]
+
+
+https://archive.org/details/gratefuldeadhist00gerorich/page/ix/mode/1up
+The grateful dead; the history of a folk story
+by Gerould, Gordon Hall, 1877-
+
+Publication date 1908
+
+pp.ix-x
+
+Introduction
+
+... [*The Grateful Dead*] appears in a variety of different combinations, almost never alone. Indeed, it is so widespread a tale, and its combinations are so various, that there is the utmost difficulty in determining just what may properly be regarded the original kernel of it, the simple theme to which other motives were joined. ... what is the residuum when the tale is stripped of elements not common to a very great majority of the versions belonging to the cycle? What is left amounte to the folloving, — the story reduced to its lowest terms, I take it.
+
+A man finds a corpse lying unburied, and out of pure philanthropy procures interment for it at great personal inconvenience. Later he is met by the ghost of the dead man, who in many cases promises him help on condition of receiving, in return, half of whatever he gets. The hero obtains a wife (or some other reward), and, when called upon, is ready to fulfil his bargain as to sharing his possessions.
+
+Nowhere does a version appear in quite this form ; but from what follows it will be seen that the simple story must have proceeded along some such lines. The compounds in which it occurs show much variety. It will be necessary to study these in detail, not merely one or two of them but as many as can be found. Despite the bewildering complexities that may arise, I hope that this method of approach may throw some new light on the wanderings of the tale. ...
+
+---
 
 https://archive.org/details/gratefuldeadhist00gerorich The grateful dead; the history of a folk story by Gerould, Gordon Hall, 1877- Publication date 1908
 
@@ -685,3 +726,41 @@ He made two halves of all he gained since he hired him. "I will give you my chil
 "I will not take him all," said the red man; "I will not take but my bargain."
 
 The king's son took a knife and was going to cut. "Stop your hand," said the red man. "Do you remember the day you were going past the churchyard? There were four men in the churchyard. They had a corpse, and they were arguing about the debts that were on the corpse. They were not willing to bury the corpse till the debts were paid. You had five pounds. You gave them to bury the corpse. It was I was in the coffin that day. When I saw you starting on your journey I went to you to save you, you were that good yourself. I bestow on you your child and your money. Health be with you and blessing. You will set eyes upon me no more."
+
+
+--
+
+
+allegedly from whre the Gratful Dead got their name
+
+Funk and Wagnall's standard dictionary of folklore mythology and legand
+Publication date 1972
+
+__grateful dead__ The motif (E341 ff.; Types 505-508) of a very widespread group of folktales, which typically begin with the hero, as he starts on a journey, coming upon a group of people ill-treating or refusing to bury the corpse of a dead man who had died before paying his debts. The hero gives his last penny, either to pay the man's debts or to give him decent burial, and goes on his way. Within a few hours a traveling companion joins him (occasionally in the form of a horse or other animal, but usually in human form), who aids him in some impossible task (or a series of tasks and adventures), gets him a fortune, saves his life, marries him to a princess, etc. Sometimes the companion helps the hero on the condition that they divide all winnings. Sometimes this proves to be half the princess, or a first-born child. But he relents and relinquishes his half when the other is about to fulfil the promise. The story ends with the companion's disclosing himself as the man whose corpse the other had befriended. (See Gerould, *Grateful Dead*, Folklore Society, 1908). See TOBIT.
+
+
+https://archive.org/details/ghostthanksorgr01stepgoog/page/n5/mode/2up
+
+GHOST-THANKS
+
+OR
+
+THE GRATEFUL UNBUEIED,
+
+A MYTHIC TALE IN ITS OLDEST EUROPEAN FORM
+
+SIR AMADACE,
+
+A MIDDLE-NORTH-ENGLISH METRICAL ROMANCE OF THE THIRTEENTH CENTURY.
+
+REPRINTED FROM TWO TEXTS, WITH AN INTRODUCTION,
+
+BY
+
+GEORGE STEPHENS, ESQ.
+
+Publication date 1860
+
+--
+
+A narrative form here: https://github.com/psychemedia/middle-english-romances/blob/main/sir-amadace.md, Early English romances in verse:, Edith Rickert, 1908
