@@ -218,7 +218,7 @@ So these three men, what they made their living by was: each man had a bullock. 
 
 So anyway, one man would be trying to get all of the work that he could to knock the other man out, and that was the way they carried on. But they were still getting a little that was keeping them going.
 
-But Donald O'Leary was the favourite of the people of the locality. He was a pleasant sort of a man, and he wasnlt too hard to pay, and he was very obliging. And the other two men was different from him in many ways.
+But Donald O'Leary was the favourite of the people of the locality. He was a pleasant sort of a man, and he wasn't too hard to pay, and he was very obliging. And the other two men was different from him in many ways.
 
 So anyway, the way it was with the people of the locality, if two or three wanted him on the one day, well, some two would wait till next day before they'd employ either of the other two men.
 

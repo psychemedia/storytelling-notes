@@ -230,7 +230,7 @@ Geography also appears to have played a role in denying the activities of the pr
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002643/18030412/013/0004
 British Press - Tuesday 12 April 1803
 
-The *Journal of Commerce* contains a letter from Jersey, speaking of some disturbances, originating from the pressing of some sailors, contrary to the established privileges of the island. It is stated that the boat belonging to the press-gang was seized by the inhabitants, and carried ashore, and that a confidential officer was dispatched to London, to remonstrate on the subject. We are not inciined to give any credit to this statement. 
+The *Journal of Commerce* contains a letter from Jersey, speaking of some disturbances, originating from the pressing of some sailors, contrary to the established privileges of the island. It is stated that the boat belonging to the press-gang was seized by the inhabitants, and carried ashore, and that a confidential officer was dispatched to London, to remonstrate on the subject. We are not inclined to give any credit to this statement. 
 ```
 
 Sometimes, however, the threat of impressment might seem to be considered a useful situation to be in, as the following two reports of the same affair demonstrate:

@@ -349,7 +349,7 @@ I cannot, however, conclude without making one remark, and it is, that out of th
 
 His Lordship, in addressing the city grand jury, said he was happy to find that the observations he had made as to the county calendar, was hardly applicable to that of the city. He had found only six cases and eight prisoners, and in no case did he think any difficulty would occur; and he would not consequently detain them.
 
-The county grand jury haviug returned a number of true bills, the court proceeded to
+The county grand jury having returned a number of true bills, the court proceeded to
 
 THE TRIALS
 

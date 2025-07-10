@@ -848,7 +848,7 @@ the young; the lessening of the disadvantages under which women labour in regard
 
 Meanwhile, there are other disabilities so barbarous that one wonders how they could ever have been maintained in free England. In the time of James the First,
 
-for instance, the question was seriously argued, whether the law allowed a man to beat his wife. A pamphlet appeared in 1609, ‘‘An Apology for Women: in opposition to Mr. G. Gager, his assertion, who helde in the Act at Oxforde, anno 1608, that it was lawful for husbands to beate their wives; by William Heale." Mr. Gager, as a university man, was probably a bachelor, and as such, we may charitably suppose that he did not know what he was talking about; at any rate it is satisfactory to be told that Mr. Heale was at hand, to administer an antidote to. the poison. That it was lawful to whip women, as one of the punishments administered by the judicature, is certain enough
+for instance, the question was seriously argued, whether the law allowed a man to beat his wife. A pamphlet appeared in 1609, ''An Apology for Women: in opposition to Mr. G. Gager, his assertion, who helde in the Act at Oxforde, anno 1608, that it was lawful for husbands to beate their wives; by William Heale." Mr. Gager, as a university man, was probably a bachelor, and as such, we may charitably suppose that he did not know what he was talking about; at any rate it is satisfactory to be told that Mr. Heale was at hand, to administer an antidote to. the poison. That it was lawful to whip women, as one of the punishments administered by the judicature, is certain enough
 
 he seventeenth and eighteenth centuries
 
@@ -866,7 +866,7 @@ it weekly; and the women say, if their husbands did not beat them, they should n
 
 wife-beating in Russia—Marie and Alfred forbid! And yet, what are we to say to
 
-Mrs. Atkinson's distinct statement on this subject? Her Recollections of Tartar Steppes is one of the most recent books relating to that country; and in it she says: "A nursemaid of mine left me to be married. Some short time after, she went to the Natchalaisk of the place to make a complaint against her husband. He enquired into the matter, when she coolly told him her husband did not love her. He asked how she knew he did not love her? ‘ Because,' she replied, ‘he never whips me.'"
+Mrs. Atkinson's distinct statement on this subject? Her Recollections of Tartar Steppes is one of the most recent books relating to that country; and in it she says: "A nursemaid of mine left me to be married. Some short time after, she went to the Natchalaisk of the place to make a complaint against her husband. He enquired into the matter, when she coolly told him her husband did not love her. He asked how she knew he did not love her? ' Because,' she replied, 'he never whips me.'"
 
 So far as concerns our own country, an English judge is said to have claimed the right, under the common law, to beat his own wife with a stick no bigger than his thumb. When this dictum came te be enquired into, however, it was found that the learned judge had not made so broad an assertion; he had merely pointed
 
@@ -878,7 +878,7 @@ In the better classes of society,
 
 Of course we do not now mean to believe in any more out an obsolete law that might bear this interpretation, provided the beating were administered for the moral correction of the wife. We do not know, we can only vaguely guess, at the number of wives who have had to pass through this ordeal. Sometimes indignant neighbours ad-
 
-mfnister a kind of Lynch-law to wife beaters. Rough music of kettles, tongs, and shovels is beaten under the ‘window of a man who is known to have beaten his wife, in more than one Hampshire village; until the horrid din brings him to his senses. In some of the villages of Surrey and Sussex, until quite recently, a rustic Lynch-law was much in favour. When a man had been known to beat his wife, a little chaff from the thrashing floor was quietly sprinkled in front of his house at night; this*was to be interpreted by him, next morning, as a hint to be attended to; if he offended a second time, all the cow-horns, bones, cleavers, bells, whistles, rattles, frying pans, and old kettles in the village were brought into requisition, to deafen him with their music. The orchestral prelude being finished, the vocal concert began by the repetition of such doggerel verses as the following :
+mfnister a kind of Lynch-law to wife beaters. Rough music of kettles, tongs, and shovels is beaten under the 'window of a man who is known to have beaten his wife, in more than one Hampshire village; until the horrid din brings him to his senses. In some of the villages of Surrey and Sussex, until quite recently, a rustic Lynch-law was much in favour. When a man had been known to beat his wife, a little chaff from the thrashing floor was quietly sprinkled in front of his house at night; this*was to be interpreted by him, next morning, as a hint to be attended to; if he offended a second time, all the cow-horns, bones, cleavers, bells, whistles, rattles, frying pans, and old kettles in the village were brought into requisition, to deafen him with their music. The orchestral prelude being finished, the vocal concert began by the repetition of such doggerel verses as the following :
 
 There is a man in this place
 
@@ -896,7 +896,7 @@ followed by more rough music, howling,
 
 and shouting. Offenders in the opposite direction, wives ill-treating their husbands, are more likely to act through the medium of a scolding tongue, than a stick or whip. Rough music to a scold is among the customs of some villages. So recently as 1860, when a man was shut ont. of his own house by a termagant wife, the boys and young men dressed up an effigy of the woman, imprisoned it in the pound for a time, and then burned it before her door. In the Ahr-thal, Switzerland, the peasantry get up a thierjagen or beast hunt, comprising a frightful screeching of rough music, when a man is known to have beaten his wife.
 
-So much for wife beating. letting, lending, or leasing; as it may read to English folk at the present day, the treatment of wives as chattels has sometimes gone this length. We have authentic record that Sir John de Camoys, in the old feudal days, leased ‘his wife in regular form to Sir William
+So much for wife beating. letting, lending, or leasing; as it may read to English folk at the present day, the treatment of wives as chattels has sometimes gone this length. We have authentic record that Sir John de Camoys, in the old feudal days, leased 'his wife in regular form to Sir William
 
 de Paynel; but the lady was not a consenting party to the arrangement, and appealed to the protection of the law; whereupon the lease was annulled.
 
@@ -920,11 +920,11 @@ resisted, doubts arose whether the sale ' could or could not be carried out; but
 
 most cases the wife was quite as ready to depart, as her spouse to get rid of her. Without going further back, we shall
 
-‘find that from the middle of the last
+'find that from the middle of the last
 
 century, the newspapers gave ample proofs of the existence of this singular coarseness
 
-of taste among the people—not always the In 1750, ‘‘a man and his wife, falling into discourse with a grazier at Parham, in Norfolk, the husband offered him his wife in exchange 'for an ox, provided he would let him
+of taste among the people—not always the In 1750, ''a man and his wife, falling into discourse with a grazier at Parham, in Norfolk, the husband offered him his wife in exchange 'for an ox, provided he would let him
 
 choose one out of his drove. The grazier accepted the proposal, and the wife readily agreed to it. Accordingly they met the next day, when she was delivered to the grazier with a new halter round her neck; and the husband received the bullock, which he afterwards sold for six guineas." Decidedly the bullock was the least immoral member of the party. In 1766 one Huggins, a carpenter of Southwark, sold his wife to a brother-chip, at an alehouse. The bargain ended strangely and tragically; for the carpenter, repenting of his sale, wanted his wife back again; she refused to return, and so he went and hanged himself! In the year next following, a man sold that in which he certainly had no legal property whatever, namely, a woman who was not his wife; the purchase price was a quarter-guinea and a gallon of rum. To sum up the queer story, the woman came into the possession of a legacy; whereupon the second man married her. In 1773, a proof was afforded how firm was the belief, among
 
@@ -975,7 +975,7 @@ kind, with adifference by way of excitement, was witnessed in 1835. A wife, sold
 
 It would be pleasant to know, that the thirty-seven years of the gentle reign of our present queen had passed over, without the occurrence of any degrading scenes of this kind. But such is not quite the case. In the first year of the reign, the inhabitants of a village in the West Riding of Yorkshire were much surprised at the result of
 
-‘a trial, in which a man was sentenced to a month's imprisonment for selling his wife; they had entertained no doubt of his right to do so. illegal ;
+'a trial, in which a man was sentenced to a month's imprisonment for selling his wife; they had entertained no doubt of his right to do so. illegal ;
 
 Of course it was and eighty years ago Lord Hardwicke had treated as an indictable the making over of a wife by
 
@@ -1029,9 +1029,9 @@ p205
 
 EXEMPTIONS BY MARRIAGE.
 
-Formerly there was entertained a vulgar notion that a woman’s marrying a man under the gallows would save him from the execution. This probably arose from a wife having brought an appeal against the murderer of her husband; who afterwards, repenting of the provocation of her lover, not only forgave the offence, but was willing to marry the appellee.
+Formerly there was entertained a vulgar notion that a woman's marrying a man under the gallows would save him from the execution. This probably arose from a wife having brought an appeal against the murderer of her husband; who afterwards, repenting of the provocation of her lover, not only forgave the offence, but was willing to marry the appellee.
 
-In the Domestic k Intelligence of March 30, 1680, it is stated that, "at the execution of a woman named Clark, for firing her master’s house in Southwark, there was a fellow who deigned to marry her under the gallows (according to the ancient laudable custom), when she, being in hopes of a reprieve, seemed unwilling; but when the rope was about her neck she cried she was willing, and then the fellow’s friends dissuaded him from marrying her; and so she lost her husband and her life together." There is added, "We know of no such custome allowed by law, that any man’s offering at a place of execution to marry a woman condemned shall save her."
+In the Domestic k Intelligence of March 30, 1680, it is stated that, "at the execution of a woman named Clark, for firing her master's house in Southwark, there was a fellow who deigned to marry her under the gallows (according to the ancient laudable custom), when she, being in hopes of a reprieve, seemed unwilling; but when the rope was about her neck she cried she was willing, and then the fellow's friends dissuaded him from marrying her; and so she lost her husband and her life together." There is added, "We know of no such custome allowed by law, that any man's offering at a place of execution to marry a woman condemned shall save her."
 
 In like manner, it was imagined that when a man intended to marry a woman who was in debt, if he took her from the hands of the priest clothed only in her shift, he would not be liable to her engagements. Another version of this error is, that the woman might clear herself of all debts by crossing the street in which she lived only wearing her shift.
 

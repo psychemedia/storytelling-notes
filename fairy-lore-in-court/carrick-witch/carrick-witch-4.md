@@ -12,7 +12,7 @@ Clonmel Poor Law Union
 
 ...
 
-The master also stated that a blind man called have a communication with his child in the house, he asked him to take out the child and he said he would’nt. His name is Doheny.
+The master also stated that a blind man called have a communication with his child in the house, he asked him to take out the child and he said he would'nt. His name is Doheny.
 
 Alderman Hackett—Is he the husband of the celebrated witch?
 
@@ -55,7 +55,7 @@ Her reputation, or notoriety, as "the Carrick witch" seems hard for her to escap
 https://britishnewspaperarchive.co.uk/viewer/bl/0000848/18660730/061/0004
 Waterford Mail - Monday 30 July 1866
 
-CLONMEL UNION. The Carrick Witch. — Among several persons who applied to be discharged with the view of getting employment, was the celebrated Mary Doheny, the Carrick witch, whose feats of necromancy, and pretended communication with the spirits of the dead, some two years ago, at Carrick, set some local folk by tha ears, and afforded "original matter tor gullible penny linearism."
+CLONMEL UNION. The Carrick Witch. — Among several persons who applied to be discharged with the view of getting employment, was the celebrated Mary Doheny, the Carrick witch, whose feats of necromancy, and pretended communication with the spirits of the dead, some two years ago, at Carrick, set some local folk by the ears, and afforded "original matter tor gullible penny linearism."
 
 The pseudo witch, on applying for permission to take her discharge, betrayed evident symptoms of uneasiness, as some of the guardians began to put questions to her as to her previous residence, antecedents, &c., and the suggestive word "Carrick," with its world of associations of the verdant and gullible, was stated by Mary as the last residence she occupied previous to her two years change of air in the county gaol.
 

@@ -27,7 +27,7 @@ The mutterings started.
 
 Old Ellen, they said, old Ellen had cast a charm, had looked into a crystal and shown Markey the face of a family member as the thief. And they left the rest unsaid.
 
-It would have been a sleepless night for Markey and hist wife. Early the next morning, between seven and eight o'clock, Mrs markey left the house. Nothing strange in that, you might think, but she didnlt take a hat, didn't take a coat, didn't take anything.
+It would have been a sleepless night for Markey and hist wife. Early the next morning, between seven and eight o'clock, Mrs markey left the house. Nothing strange in that, you might think, but she didn't take a hat, didn't take a coat, didn't take anything.
 
 When her son George arrived later that morning, from Blakeney, several miles away, with some brandy for his mother, considerate man that he was, she still hadn't returned.
 

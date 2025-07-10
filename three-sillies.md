@@ -461,7 +461,7 @@ Now thia couple wanted to sow their fields, hut they had neither seed-corn nor m
 
 Close by the town she met a butcher, who asked, —
 
-"Will you sell that cow. Goody?"
+"Will you sell that cow, Goody?"
 
 "Yes, that I will," she answered.
 
@@ -469,7 +469,7 @@ Close by the town she met a butcher, who asked, —
 
 "Oh! I must have five shillings for the cow, but you shall have the ben for ten pound."
 
-"Very good I" sud Uie man; "I don't wtmt the hen, and you'll soon get it off your hands in the town, bat I'll give you five ^hilliugs for the cow."
+"Very good!" said the man; "I don't want the hen, and you'll soon get it off your hands in the town, bat I'll give you five shillings for the cow."
 
 Well, she sold her cow for five shillings, but there was no one in the town who would give ten pound for a lean tough old hen, so she went back to the butcher, and said, —
 
@@ -481,7 +481,7 @@ Well, she sold her cow for five shillings, but there was no one in the town who 
 
 Now, Tray, her dog, had scarce set hia eyes on the strange monster which came throngh the gate, than he set up such a barking, one would have thought all the rogues and robbers in the world were in the yard.
 
-"Ah, deary me," said she, "I thought so; it can't be me surely." So she went to the straw-yard, and the calves wouldnlt lick her, when they snuffed in the strong smell of tar.
+"Ah, deary me," said she, "I thought so; it can't be me surely." So she went to the straw-yard, and the calves wouldn't lick her, when they snuffed in the strong smell of tar.
 
 "No, no!" she said, "it can't be me; it must be some strange outlandish bird."
 

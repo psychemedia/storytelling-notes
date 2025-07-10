@@ -166,7 +166,7 @@ https://books.google.co.uk/books?id=XWoAAAAAYAAJ&pg=PA652&redir_esc=y#v=onepage&
 
 ---
 
-*The following tale is not historically accurate. The carillon was invented much later than beer. I havenlt found other folk tales regarding its invention. The story could also include another anachronism, regarding the blowing of glass baubles, which were invented later again, but then the story loses something of its efficiency, and its already not as lean as a it could be, the carillon getting in the way of the beer story.*
+*The following tale is not historically accurate. The carillon was invented much later than beer. I haven't found other folk tales regarding its invention. The story could also include another anachronism, regarding the blowing of glass baubles, which were invented later again, but then the story loses something of its efficiency, and its already not as lean as a it could be, the carillon getting in the way of the beer story.*
 
 Deulin translation - TH summary: see gambrinus-telling.md
 

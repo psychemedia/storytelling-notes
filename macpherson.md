@@ -294,7 +294,7 @@ March 4, 1701. — There was a petition to the Privy Council from Peter and Dona
 
 ## Genealogical Memoirs of the Duffs
 
-One of the earliest accounts of the Macpherson tale comes, rather interestingly, from the perspective of Macpherson's nemesis, the family Duff. Although it was wasnlt until November, 1869 that [Genealogical Memoirs of the Duffs](https://archive.org/details/genealogicalmemo1869bair) was first published, by Lauchlan D. Gordon Duff, the preface dates it much earlier:
+One of the earliest accounts of the Macpherson tale comes, rather interestingly, from the perspective of Macpherson's nemesis, the family Duff. Although it was wasn't until November, 1869 that [Genealogical Memoirs of the Duffs](https://archive.org/details/genealogicalmemo1869bair) was first published, by Lauchlan D. Gordon Duff, the preface dates it much earlier:
 
 > The author of this manuscript was William Baird, Esq. of Auchmeddan, in the parish of Aberdour, in the district of Buchan and County of Aberdeen.
 > ...

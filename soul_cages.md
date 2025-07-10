@@ -2,7 +2,7 @@
 
 I first came across this tale whilst searching for "tales of the sea". Starting with a cursory search on mermaids and selkies, a memory of Eddie Lenihan's telling of "The Newhall mermaid" on his *Storyteller 1 & 2* CD collection came to mind. Trying to track that tale down by searching around *Irish mermaid*, I came across the Irish mermaid equivalent *merrow*, and from that the "Soul Cages" tale. Interestingly, the notes to the tale in the first collection to describe the story, volume 2 of Thomas Crofton Coker's *Fairy Legends and Traditions of the South of Ireland*, 1828, includes a mention of the Newhall mermaid.
 
-The tale itself appears to be "fakelore", inspired by a tale collected Grimm, but written by, and provided to, Crofton Coker, by Thomas Keightley, although that didnlt stop it also appearing in W. B. Yeats' [*Fairy and Folk Tales of the Irish Peasantry*, 1888, pp. 61-75](https://archive.org/details/fairyfolktalesof00yeatuoft/fairyfolktalesof00yeatuoft/page/60/mode/2up), credited to Crofton Coker.
+The tale itself appears to be "fakelore", inspired by a tale collected Grimm, but written by, and provided to, Crofton Coker, by Thomas Keightley, although that didn't stop it also appearing in W. B. Yeats' [*Fairy and Folk Tales of the Irish Peasantry*, 1888, pp. 61-75](https://archive.org/details/fairyfolktalesof00yeatuoft/fairyfolktalesof00yeatuoft/page/60/mode/2up), credited to Crofton Coker.
 
 ```{admonition} *The Soul Cages*, in Crofton Coker, Fairy Legends, 1828
 :class: dropdown

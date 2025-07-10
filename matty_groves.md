@@ -49,21 +49,21 @@ As bright as the summer sun.
 
 And then bethought this little Musgrave,
 
-This lady: 's heart have I won.”
+This lady: 's heart have I won."
 
 Quoth she, I have loved thee, little Musgrave,
 
-Full long and many a day ; ”
+Full long and many a day ; "
 
-“ So have I loved you, fair lady.
+" So have I loved you, fair lady.
 
-Yet never word durst I say.”
+Yet never word durst I say."
 
 I have a bower at Bucklesfordbery,
 
 Full daintily it is dight ;
 
-If thou wilt wend thither, thou little Musgrave, Thou: 's lig in mine arms all night.”
+If thou wilt wend thither, thou little Musgrave, Thou: 's lig in mine arms all night."
 
 «
 
@@ -73,31 +73,31 @@ This kindness thou showest to me ;
 
 But whether it be ^o my weal or woe.
 
-This night I will lig with thee.”
+This night I will lig with thee."
 
 With that he heard a little tiny page,
 
 By his lady: 's coach as he ran :
 
-“ Allthough I am my lady: 's footpage.
+" Allthough I am my lady: 's footpage.
 
 Yet I am lord Barnard: 's man.
 
-“ My lord B^nard shall know of this.
+" My lord B^nard shall know of this.
 
-Whether I sink or swinj : ”
+Whether I sink or swinj : "
 
 And ever where thg bridges were broke,
 
 He laid him down to swim.
 
-“ Asleep, or wake ! thou lord Barnard,
+" Asleep, or wake ! thou lord Barnard,
 
 • •As thou art a man of life ;
 
 For little Musgrave is at Bucklesfordbery,
 
-Abed with thy own wedded wife.”
+Abed with thy own wedded wife."
 
 If this be true, thou little tiny page,
 
@@ -105,11 +105,11 @@ This thing thou tellest to me,
 
 Then all the land in Bucklesfordbery I freely will give to thee.
 
-“ But if it be a lie, thou little tiny page.
+" But if it be a lie, thou little tiny page.
 
 This thing thou tellest to me,
 
-On the highest tree in Bucklesfordbery Then hanged shalt thou be.”
+On the highest tree in Bucklesfordbery Then hanged shalt thou be."
 
 He called up his merry men all : —
 
@@ -117,7 +117,7 @@ Come saddle me my steed ; •
 
 This night must I to Bucklesfordbery,
 
-For I never had greater need.”
+For I never had greater need."
 
 And some of them whistl: 'd, and some of them sung.
 
@@ -125,15 +125,15 @@ And some these wdrds did say.
 
 And ever when my lord Barnard: 's horn blew,
 
-“ Away, Musgrave, away ! ”
+" Away, Musgrave, away ! "
 
-“ Methinks I hear the thresel-cock,
+" Methinks I hear the thresel-cock,
 
 Methinks I hear the jay ;
 
 Methinks I hear my Cord Barnard,—
 
-And I would I were awa/,”
+And I would I were awa/,"
 
 thresd: 'coek, thrush.
 
@@ -146,7 +146,7 @@ And huggell me from the cold 5 1
 
 A driving his sheep to the fold*
 
-“ Is not thy hawk upon a perch ?
+" Is not thy hawk upon a perch ?
 
 Thy steed eats oats and hay.
 
@@ -166,13 +166,13 @@ He lifted up*the coverlet.
 
 He lifted up the sheet ;
 
-“ How now, how now, thou little Musgrave, Doest thou find my lady sweet ? ”
+" How now, how now, thou little Musgrave, Doest thou find my lady sweet ? "
 
-** I find her sweet,” quoth little Musgrave,
+** I find her sweet," quoth little Musgrave,
 
-“ The more : 'tis to my pain ;
+" The more : 'tis to my pain ;
 
-I would gladly give three hundred pounds That I were on yonder plain.”
+I would gladly give three hundred pounds That I were on yonder plain."
 
 ** Arise, arise, thou little Musgrave,
 
@@ -186,7 +186,7 @@ I have killed a naked man.
 
 , •Full dear they cost my purse ; j And thou shalt have the best of them,
 
-And I will have the worse.”
+And I will have the worse."
 
 The first stroke that little Musgrave stroke.
 
@@ -208,7 +208,7 @@ So long as I ha\e life ;
 
 So will I not for thee, Barnard,
 
-Although I am thy wedded wife.”
+Although I am thy wedded wife."
 
 He cut her paps from off her breast.
 
@@ -220,15 +220,15 @@ Woe worth you, woe worth, my merry men all, You were ne er bbrn for my good Why 
 
 When ye saw me wax so wood!
 
-“ For I have slain the bravest sir knight That ever rode on steed ; ,
+" For I have slain the bravest sir knight That ever rode on steed ; ,
 
 So have I done the fairest lady That ever did womans deed.
 
-A grave, a grave,” Lord Barnard cried, To put these lovers in ;
+A grave, a grave," Lord Barnard cried, To put these lovers in ;
 
 But lay my lady on the upper hand,
 
-For she came of the better kin.”
+For she came of the better kin."
 
 ?? also three ravens https://en.wikipedia.org/wiki/The_Three_Ravens
 
