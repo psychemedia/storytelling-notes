@@ -2,7 +2,7 @@
 
 I suspect that more people have heard of the band, *The Grateful Dead*, than the story, but as with so many things, the story came first...
 
-In David Gans' "Playing in the band: an oral and visual portrait of the Grateful Dead", published in 1985, [p38](https://archive.org/details/playinginbandora0000gans/mode/2up?q=%22standing+around+in+utter+desperation+at%22), Jerry Garcia describes the origin of the name of the band in 1966:
+In David Gans' *Playing in the band: an oral and visual portrait of the Grateful Dead*, published in 1985, [p38](https://archive.org/details/playinginbandora0000gans/mode/2up?q=%22standing+around+in+utter+desperation+at%22), Jerry Garcia describes the origin of the name of the band in 1966:
 
 > Garcia: We were standing around in utter desperation at Phil [Lesh]'s house in Palo Alto [trying to think up a name for the band]. There was a huge dictionary, big monolithic thing, and I just opened it up. There in huge black letters was 'The Grateful Dead.' It … just cancelled my mind out. We decided to have it, but it was funny... One of the things about the name, right from the beginning, was that it had a lot of power. It was kind of creepy. People resisted it at first. They didn't want us to be the Grateful Dead— it was too weird. But... I don't think the connotation is nearly as creepy as it used to be, though sometimes the power is very evident.
 
