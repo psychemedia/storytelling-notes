@@ -1,6 +1,6 @@
 # The Grateful Dead
 
-I suspect that more people have heard of the the band, *The Grateful Dead*, than the story, but as with so many things, the story came first...
+I suspect that more people have heard of the band, *The Grateful Dead*, than the story, but as with so many things, the story came first...
 
 In David Gans' "Playing in the band: an oral and visual portrait of the Grateful Dead", published in 1985, [p38](https://archive.org/details/playinginbandora0000gans/mode/2up?q=%22standing+around+in+utter+desperation+at%22), Jerry Garcia describes the origin of the name of the band in 1966:
 
@@ -256,7 +256,7 @@ The three fleets of the three kings' sons were sunk, their armies destroyed, and
 
 ```
 
-The followong variant, which is one I tend to prefer, is close to the version I head Ben Haggerty tell at Stealing Thunder 2025, in which the dead man was a blacksmith(?) who has taken all the iron from that place; the conceit with the witches saw the young man take a sack of what looked like gold (but turned to worthless leaves?) whilst the companion took what looked to be worthless ("oh, you don't want that.."). The troll was a (the?) devil (?).
+The followong variant, which is one I tend to prefer, is close to the version I head Ben Haggerty tell at the *Stealing Thunder* storytelling festival in 2025, in which the dead man was a blacksmith(?) who has taken all the iron from that place; the conceit with the witches saw the young man take a sack of what looked like gold (but turned to worthless leaves?) whilst the companion took what looked to be worthless ("oh, you don't want that.."). The troll was a (the?) devil (?).
 
 ```{admonition} A Norwegian variant, *The Companion*, 1874
 :class: dropdown
