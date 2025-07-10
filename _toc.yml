@@ -43,6 +43,7 @@ parts:
   - file: hand-of-glory
   - file: brother_jucundus
   - file: mr-fox
+  - file: grateful_dead
 - caption: Legends As Told
   chapters:
   - file: richmond_drummer_boy

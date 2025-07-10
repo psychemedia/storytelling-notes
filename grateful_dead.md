@@ -1,30 +1,19 @@
 # The Grateful Dead
 
+I suspect that more people have heard of the the band, *The Grateful Dead*, than the story, but as with so many things, the story came first...
 
-https://archive.org/details/playinginbandora0000gans/mode/2up?q=%22standing+around+in+utter+desperation+at%22
-Playing in the band : an oral and visual portrait of the Grateful Dead
-by Gans, David
+In David Gans' "Playing in the band: an oral and visual portrait of the Grateful Dead", published in 1985, [p38](https://archive.org/details/playinginbandora0000gans/mode/2up?q=%22standing+around+in+utter+desperation+at%22), Jerry Garcia describes the origin of the name of the band in 1966:
 
-Publication date 1985
+> Garcia: We were standing around in utter desperation at Phil [Lesh]'s house in Palo Alto [trying to think up a name for the band]. There was a huge dictionary, big monolithic thing, and I just opened it up. There in huge black letters was 'The Grateful Dead.' It … just cancelled my mind out. We decided to have it, but it was funny... One of the things about the name, right from the beginning, was that it had a lot of power. It was kind of creepy. People resisted it at first. They didn't want us to be the Grateful Dead— it was too weird. But... I don't think the connotation is nearly as creepy as it used to be, though sometimes the power is very evident.
 
-pp. 38  
+One of the most common suggestions for what that dictionary might have been is [Funk and Wagnall's standard dictionary of folklore mythology and legand](https://archive.org/details/funkwagnallsstan0000unse_y3p1/page/462/mode/2up?q=%22grateful+dead%22):
 
-Garcia: We were standing around in utter desperation at Phil [Lesh]’s house in Palo Alto [trying to think up a name for the band]. There was a huge dictionary, big monolithic thing, and I just opened it up. There in huge black letters was `The Grateful Dead.’ It … just cancelled my mind out. We decided to have it, but it was funny... One of the things about the name, right from the beginning, was that it had a lot of power. It was kind of creepy. People resisted it at first. They didn't want us to be the Grateful Dead— it was too weird. But... I donlt think the connotation is nearly as creepy as it used to be, though sometimes the power is very evident.
+> __grateful dead__ The motif (E341 ff.; Types 505-508) of a very widespread group of folktales, which typically begin with the hero, as he starts on a journey, coming upon a group of people ill-treating or refusing to bury the corpse of a dead man who had died before paying his debts. The hero gives his last penny, either to pay the man's debts or to give him decent burial, and goes on his way. Within a few hours a traveling companion joins him (occasionally in the form of a horse or other animal, but usually in human form), who aids him in some impossible task (or a series of tasks and adventures), gets him a fortune, saves his life, marries him to a princess, etc. Sometimes the companion helps the hero on the condition that they divide all winnings. Sometimes this proves to be half the princess, or a first-born child. But he relents and relinquishes his half when the other is about to fulfil the promise. The story ends with the companion's disclosing himself as the man whose corpse the other had befriended. (See Gerould, *Grateful Dead*, Folklore Society, 1908). See TOBIT.
 
+*I also heard Ben Haggerty suggest, in his telling of one variant of the actual folktale, "The Grateful and the Dead", at Stealing Thunder, 2025, that Jerry Garcia had been in the City Lights bookshop in San Francisco, home to the beats, browsing the shelves and coming across a copy of a book containing fifty or more versions of the tale. I think we can take that as just a story, although the book containing fifty or more versions of the tale certainly does exist: Gerould's "The grateful dead; the history of a folk story".*
 
-https://www.straightdope.com/21342141/where-did-the-grateful-dead-get-their-name
-
-Where did the Grateful Dead get their name?
-By  Cecil Adams   Jun 9, 1989, 7:00am GMT+1
-SHARE
-
-[TH: suggests that] Garcia may not have hallucinated the whole thing after all. In the Funk & Wagnalls Standard Dictionary of Folklore, Mythology and Legend, we find a page headed “GRATEFUL DEAD” in big type. ...
-
-... Further investigation has turned up a rare volume of folklore entitled The Grateful Dead by G.H. Gerould (1908), ...
-
-[Ben Haggerty tells of Jerry Garcia in a San Francisco bookshop, presumably Ciry Lights, browsing the shelves and coming acorss of copy of a book with 50 or more versions of the Grateful Dead tale (which it is not hard to image is Gerould's *The grateful dead; the history of a folk story*.]
-
-
+```{admonition} The tale in short, in G. H. Gerould, *The Grateful Dead: the History of a folk story*, 1909
+:class: dropdown
 https://archive.org/details/gratefuldeadhist00gerorich/page/ix/mode/1up
 The grateful dead; the history of a folk story
 by Gerould, Gordon Hall, 1877-
@@ -40,12 +29,12 @@ Introduction
 A man finds a corpse lying unburied, and out of pure philanthropy procures interment for it at great personal inconvenience. Later he is met by the ghost of the dead man, who in many cases promises him help on condition of receiving, in return, half of whatever he gets. The hero obtains a wife (or some other reward), and, when called upon, is ready to fulfil his bargain as to sharing his possessions.
 
 Nowhere does a version appear in quite this form ; but from what follows it will be seen that the simple story must have proceeded along some such lines. The compounds in which it occurs show much variety. It will be necessary to study these in detail, not merely one or two of them but as many as can be found. Despite the bewildering complexities that may arise, I hope that this method of approach may throw some new light on the wanderings of the tale. ...
+```
 
----
+Gerould's work provides a categorisation and synopsis of wide range of variants of the tale, in a wide variety of languages.
 
-https://archive.org/details/gratefuldeadhist00gerorich The grateful dead; the history of a folk story by Gerould, Gordon Hall, 1877- Publication date 1908
-
-
+```{admonition} An Irish variant, *Shaking Head*, 1889
+:class: dropdown
 
 https://archive.org/details/mythsandfolklor00curtgoog/page/n200/mode/2up
 Myths and Folk-lore of Ireland
@@ -53,7 +42,7 @@ by Jeremiah Curtin
 
 Publication date 1889
 
-pp186-203
+pp. 186-203
 
 TO DO
 
@@ -265,14 +254,14 @@ The king's son went out to walk alone, and as he was lamenting the fate he had b
 
 The three fleets of the three kings' sons were sunk, their armies destroyed, and the three heads taken off themselves. When the battle was over and the country safe the king resigned the castle and power to his son, and the son of a king in a province became king over all the land of Erin.
 
----
+```
 
+The followong variant, which is one I tend to prefer, is close to the version I head Ben Haggerty tell at Stealing Thunder 2025, in which the dead man was a blacksmith(?) who has taken all the iron from that place; the conceit with the witches saw the young man take a sack of what looked like gold (but turned to worthless leaves?) whilst the companion took what looked to be worthless ("oh, you don't want that.."). The troll was a (the?) devil (?).
 
-I heard Ben Haggerty tell a reworking of the followong variant at Stealing Thunder 2025; the dead man was a blacksmith(?) who haf taken all the iron from that plaxe(?); the conceit with the witches saw the young man take a sack of what looked like gold (but turned to worthless leaves?) whilst the companion took what looked to be worthless ("oh, you don't want that.."). The troll was a (the?) devil (?).
+```{admonition} A Norwegian variant, *The Companion*, 1874
+:class: dropdown
 
 https://archive.org/details/talesfromfjelda00dasegoog/page/n96/mode/2up
-
-
 Tales from the fjeld. A second series of popular tales
 by Asbjørnsen, Peter Christen, 1812-1885. [from old catalog]; Dasent, George Webbe, Sir, 1817-1896, tr
 
@@ -490,9 +479,10 @@ When he had wandered on and on for a quarter of a year he came to a town, and ou
 
 "When he was gone the lad laid together alibis wealth in a safe place, and went home without any baggage. Then they drank his home-coming ale, till the news spread far and wide, over seven kingdoms, and when they had got to the end of the feast, they had carting and carrying all the winter both with the billygoats and the twelve horses which his father had before they got all that gold and silver safely carted home."
 
+```
 
-
---
+```{admonition} Another Irish Variant, *Jack the Master and Jack the Servant*, 1866
+:class: dropdown
 https://archive.org/details/legendaryfictio00kenngoog/page/n52/mode/2up
 Legendary Fictions of the Irish Celts
 by Patrick Kennedy
@@ -501,9 +491,9 @@ Publication date 1866
 
 pp.32-39
 
-JACK THE MASTER AND JxVCK THE SERVANT.
+JACK THE MASTER AND JACK THE SERVANT.
 
-There was once a poor couple, and they had three sons, and the youngest's name was Jack. One harvest day, the eldest fellow threw down his hook, and says he, "What's the use to be slavng this way? I'll go seek my fortune." And the second son said the very same: and says Jack, "I'll go seek my fortune along with you, but let us first leave the harvest stacked for the old couple" Well, he over-persuaded them, and bedad, as soon as it was safe, they kissed their father and mother, and off they set, every one with three pounds in his pocket, promising to be home again in a year and a day. The first night they had no better lodging than a fine dry dyke of a ditch, outside of a church>-ard. Before they went to sleep, Uie youngest got inside to read the tombstones. What should he stimible over but a coffin, and the sod was just taken oflf where the grave was to be. "Some poor body," says he, "that was without fiiends to put him in consecrated ground: he mustn't be left this way." So he threw oflf his coat, and had a couple of feet deaied out, when a terrible giant walked up. "What are you at?" says he; "the corpse owed me a guinea, and he sha'n't be buried till it is paid." "Well, here is yovx guinea," says Jack, "and leave the churchyard: it's nothing the better for yoiu: company." WelL he got down a couple of feet more, when another uglier giant again, with two heads on him, came and stopped Jack with the same story, and got his guinea; and when the grave was six feet down, the third giant looks on him, and he had three heads. So Jack was obliged to part with his three guineas before he could put the sod over the poor man. Then he went and lay down by his brothers, and slept till the sun began to shine on their faces next morning.
+There was once a poor couple, and they had three sons, and the youngest's name was Jack. One harvest day, the eldest fellow threw down his hook, and says he, "What's the use to be slaving this way? I'll go seek my fortune." And the second son said the very same: and says Jack, "I'll go seek my fortune along with you, but let us first leave the harvest stacked for the old couple" Well, he over-persuaded them, and bedad, as soon as it was safe, they kissed their father and mother, and off they set, every one with three pounds in his pocket, promising to be home again in a year and a day. The first night they had no better lodging than a fine dry dyke of a ditch, outside of a church>-ard. Before they went to sleep, Uie youngest got inside to read the tombstones. What should he stimible over but a coffin, and the sod was just taken oflf where the grave was to be. "Some poor body," says he, "that was without fiiends to put him in consecrated ground: he mustn't be left this way." So he threw oflf his coat, and had a couple of feet deaied out, when a terrible giant walked up. "What are you at?" says he; "the corpse owed me a guinea, and he sha'n't be buried till it is paid." "Well, here is yovx guinea," says Jack, "and leave the churchyard: it's nothing the better for yoiu: company." WelL he got down a couple of feet more, when another uglier giant again, with two heads on him, came and stopped Jack with the same story, and got his guinea; and when the grave was six feet down, the third giant looks on him, and he had three heads. So Jack was obliged to part with his three guineas before he could put the sod over the poor man. Then he went and lay down by his brothers, and slept till the sun began to shine on their faces next morning.
 
 They soon came to a cross-road, and there every one took his own way. Jack told them how all his money was gone, but not a farthing did they offer him. Well, after some time. Jack found himself hungry, and so he sat down by the road side, and pulled out a piece of cake and a lump of bacon. Just as he had the first bit in his mouth, up comes a poor man, and asks something of him for God's sake. "I have neither brass, gold, nor silver about me," says Jack; "and here's all the provisions Fm master of. Sit down and have a share." Well, the poor man didn't require much pressing, and when the meal was over, says he, "Sir, where are you bound for?" "Faith, I don't know," says Jack; "I'm going to seek my fortune." "I'll go with you for your servant," says the other. "Servant *inagh* (forsooth)! bad I want a servant — I, that's looking out for a place myself." "No matter. You gave Christian burial to my poor brother yesterday evening. He appeared to me in a dream, and told me where I'd find you, and that I was to be your servant for a year. So you'll be Jack the master, and I Jack the servant." "Well, let it be so."
 
@@ -537,10 +527,10 @@ So the princess, and the king, and all were in joy, arirl maybe they didn't keep
 
 In some versions of "Jack the Master," &c. Jack the servant is the spirit of the buried man. He aids and abets his master in leaving the giants interred alive in their caves, and carrying off their gold and silver, and he helps him to cheat his future father-in-law at cards, and bears a hand in other proceedings, most disgraceful to any ghost encumbered with a conscience. As originally told, the anxiety of the hero to bestow sepulchral rites on the corpse, arose from his wish to rescue the soul from its dismal wanderings by the gloomy Styx. In borrowing these fictions from their heathen predecessors, the Christian storytellers did not take much trouble to correct their laxity on the subject of moral obligations. Theft, manslaughter, and disregard of marriage vows, ofien pass uncensured by the free and easy narrator.
 
+```
 
-
-
----
+```{admonition} And a third Irish Variant, *Beauty of the World*, 1893
+:class: dropdown
 https://archive.org/details/afl2306.0001.001.umich.edu/page/154/mode/2up
 West Irish folk-tales and romances;
 by Larminie, William, ed. and tr
@@ -727,25 +717,19 @@ He made two halves of all he gained since he hired him. "I will give you my chil
 
 The king's son took a knife and was going to cut. "Stop your hand," said the red man. "Do you remember the day you were going past the churchyard? There were four men in the churchyard. They had a corpse, and they were arguing about the debts that were on the corpse. They were not willing to bury the corpse till the debts were paid. You had five pounds. You gave them to bury the corpse. It was I was in the coffin that day. When I saw you starting on your journey I went to you to save you, you were that good yourself. I bestow on you your child and your money. Health be with you and blessing. You will set eyes upon me no more."
 
+```
 
---
+A variant of the grateful dead tale can also be foiund in the mediaeval romamce of Sir Amadace.
 
-
-allegedly from whre the Gratful Dead got their name
-
-Funk and Wagnall's standard dictionary of folklore mythology and legand
-Publication date 1972
-
-__grateful dead__ The motif (E341 ff.; Types 505-508) of a very widespread group of folktales, which typically begin with the hero, as he starts on a journey, coming upon a group of people ill-treating or refusing to bury the corpse of a dead man who had died before paying his debts. The hero gives his last penny, either to pay the man's debts or to give him decent burial, and goes on his way. Within a few hours a traveling companion joins him (occasionally in the form of a horse or other animal, but usually in human form), who aids him in some impossible task (or a series of tasks and adventures), gets him a fortune, saves his life, marries him to a princess, etc. Sometimes the companion helps the hero on the condition that they divide all winnings. Sometimes this proves to be half the princess, or a first-born child. But he relents and relinquishes his half when the other is about to fulfil the promise. The story ends with the companion's disclosing himself as the man whose corpse the other had befriended. (See Gerould, *Grateful Dead*, Folklore Society, 1908). See TOBIT.
-
-
+```{admonition} *Ghost Thanks, or The Grateful Unburied*, 1860
+:class: dropdown
 https://archive.org/details/ghostthanksorgr01stepgoog/page/n5/mode/2up
 
 GHOST-THANKS
 
 OR
 
-THE GRATEFUL UNBUEIED,
+THE GRATEFUL UNBURIED,
 
 A MYTHIC TALE IN ITS OLDEST EUROPEAN FORM
 
@@ -761,6 +745,6 @@ GEORGE STEPHENS, ESQ.
 
 Publication date 1860
 
---
+```
 
-A narrative form here: https://github.com/psychemedia/middle-english-romances/blob/main/sir-amadace.md, Early English romances in verse:, Edith Rickert, 1908
+I have noted a narrative form elsewhwere, in my [*Middle English Romances*](https://github.com/psychemedia/middle-english-romances/blob/main/sir-amadace.md) stroynotes collection.
