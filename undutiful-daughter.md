@@ -518,7 +518,7 @@ And digging a little further, I find an old work, ["The universal fortune teller
 
 A century after its publication, the book, or other works derived from it, seems to have been popular particularly amongst servant girls.
 
-```{admoniiton} Servants' Superstitions, March, 1873
+```{admonition} Servants' Superstitions, March, 1873
 :class: dropdown
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0002306/18730329/053/0006

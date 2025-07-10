@@ -2,7 +2,7 @@
 
 My way in to this story is "In the county of Norfolk, in the town of Swaffham, there was a pedlar. He lived ..." The tree in the tale is set in an orchard, and is referred to as an oak. But in the *cante fable* telling we're developing for *Stories'n'Harp*, the tree is an apple tree to tie in with the *Apple Tree Wassail* that provides the musical and sung theme. And I also make use our our large apple-tree, which grows on a slant away from the shade of a neighbour's much larger willow, which has, very sadly, died, for my mind's-eye representation of the tree under which the treasure is found...
 
-```{youtube} v0FMpKUF-3A
+```{iframe} https://www.youtube.com/embed/v0FMpKUF-3A
 ```
 
 An exemplary version of the story is given by Hugh Lupton in a recording from on [online seminar](https://www.youtube.com/watch?v=BDckUYph0-o) on the story itself, as well as the wider storytelling tradition.

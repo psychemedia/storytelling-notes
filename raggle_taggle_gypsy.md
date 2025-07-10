@@ -214,7 +214,7 @@ pp. 242-4
 
 ![Johhny Faa - musical score](images/british-minstrel-faa-1.png)
 
-![Johhny Faa (cont) - musical score](images/british-minstrel-faa2.png)
+![Johhny Faa (cont) - musical score](images/british-minstrel-faa-2.png)
 
 "O come wi' me," says Johnny Faa,  
 "O come wi' me, my dearie;  

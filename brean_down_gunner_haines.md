@@ -392,7 +392,7 @@ The coroner, in summing up, remarked that from the evideace by the witnesses the
 
 THE VERDICT
 
-The jury returned a verdict to the following effect "Killed by No. 3 magazine on Brean Down exploding, which explosion was caused by the deceased firing a caribne loaded with ball cartridgedown the shaft of the ventilator to the magazine whilst in a state of temporary insanity."
+The jury returned a verdict to the following effect "Killed by No. 3 magazine on Brean Down exploding, which explosion was caused by the deceased firing a carbine loaded with ball cartridgedown the shaft of the ventilator to the magazine whilst in a state of temporary insanity."
 
 ```
 

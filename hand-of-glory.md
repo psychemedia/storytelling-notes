@@ -27,7 +27,7 @@ By a letter with which a friend at Stourbridge has favoured us, we regret to fin
 With the charge now one of murder, the supoort of Bow Street officers was called for, who began their investigations and set off on a hunt for the miscreant the reads something like an episode of a TV detective series.
 
 ```{admonition} Four hundred miles in pursuit, January 1813
-:class; dropdown
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002634/18130120/021/0004
 London Chronicle - Wednesday 20 January 1813
 
