@@ -719,7 +719,7 @@ The king's son took a knife and was going to cut. "Stop your hand," said the red
 
 ```
 
-A variant of the grateful dead tale can also be foiund in the mediaeval romamce of Sir Amadace.
+A variant of the grateful dead tale can also be found in the mediaeval romamce of Sir Amadace.
 
 ```{admonition} *Ghost Thanks, or The Grateful Unburied*, 1860
 :class: dropdown
