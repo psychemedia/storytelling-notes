@@ -131,7 +131,8 @@ The following notes are personal reflections on my performances of this tale, ty
 
 Having fallen off the bike in the first telling, I also gave this tale another couple of tellings quickly after: the first at Calbourne Water Mill, where I split it into five parts and told it interspersed with the island based *Eye of the Dawn* belly dancers (which I think with a bit more co-ordination regarding the dance selections to fit the narrative breaks in the tale could make for a different sort of telling!) The splits were useful because they provided a break from the barrage of names, and allowed folk to process where the tale had got to for three or for minutes between each three of four minute chunk of the telling. At the start of the new part, I briefly recapped the previous, *Soap* style... Confused? You won't be...
 
-```{iframe} https://www.youtube.com/embed/0BHQT3Omqtw
+```{youtube} 0BHQT3Omqtw
+:width: 640
 ```
 
 After the Water Mill telling, I realised that the opening sequence needed to be presented slowly, with repetition of each name, along with a separate bit of reinforcing detail at each repetition, for Bendigeidfran and Branwen. This helps fix the name and character in my mind as the teller, as well as hopefully building a memory picture of each character for the listener. Using the same trick to develop Efnysien also makes sense (and I perhaps also need to do the same for Matholwch and Gwern?) The build of up "Bran, which means rook, or crow, in Welsh" etc. also helps set up a call back for the end of the tale (the rooks).

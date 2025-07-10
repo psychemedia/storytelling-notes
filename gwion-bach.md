@@ -15,8 +15,8 @@ In the tale *Kilhwch and Olwen*, we have the following description of Morvran, [
 
 ```
 
-```{iframe} https://www.youtube.com/embed/Pyy8N2e8y34
-:url_parameters:?start=0
+```{youtube} Pyy8N2e8y34
+:url_parameters: ?start=0
 ```
 
 The tale is often paired with a second part in which Taliesin gets Prince Elphin out of a spot of bother with the King, and also repays him for having looked after him as he grew up.
