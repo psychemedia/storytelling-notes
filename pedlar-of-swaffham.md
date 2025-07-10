@@ -9,7 +9,7 @@ My way in to this story is "In the county of Norfolk, in the town of Swaffham, t
 An exemplary version of the story is given by Hugh Lupton in a recording from on [online seminar](https://www.youtube.com/watch?v=BDckUYph0-o) on the story itself, as well as the wider storytelling tradition.
 
 ```{youtube} BDckUYph0-o
-:url_parameters:?t=528s
+:url_parameters: ?t=528s
 ```
 
 A popular version of the tale appeared in Jacobs' second collection of English fairy tales in 1894.
