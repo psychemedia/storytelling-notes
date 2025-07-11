@@ -50,7 +50,7 @@ __But elsewhere, mischief was afoot...__
 
 As the festivities began, Matholwch's men and horses had been billeted far and wide. And it was one of these new billets that was seen by Efnysien, just as he returned from a journey far to the north.
 
-Efnysien, Bran and Branwens's half-brother on their mother's side.
+Efnysien, Bran and Branwen's half-brother on their mother's side.
 
 Efnysien, a man so bitter, a man so twisted, he could pitch two of the most loving brothers into mortal battle with each other.
 
@@ -118,7 +118,7 @@ So Bran, giant that he was, being too big for any ship, walked through the sea; 
 
 ---
 
-On the Irish coast, a pig-herder, tending his... flock? do you have a flock of pigs? A drove? A sounder?... saw something on the horizon he had never witnessed before. A forest; a forest, coming closer;  a forest, and a mountain; a mountain on which there was a high ridge; a high ridge with two lakes, one on either side.
+On the Irish coast, a pig-herder, tending his... flock? do you have a flock of pigs? A drove? A sounder?... saw something on the horizon he had never witnessed before. A forest; a forest, coming closer; a forest, and a mountain; a mountain on which there was a high ridge; a high ridge with two lakes, one on either side.
 
 The pig herder rushed to inform the king, who could make no sense of what the babbling idiot was talking about. But Branwen knew: and she told Matholwch.
 
@@ -149,7 +149,7 @@ Matholwch, once again, completely out of ideas, turned to Branwen. Was there any
 __And so the house was built.__
 
 `[VERSE 7 (JC)]`  
-*"The girl’s released, her young son is free now*  
+*"The girl's released, her young son is free now*  
 *A house is built for Bedigeidfran the crow*  
 *Yet Branwen feels, unease within her*  
 *When will it be, that our future we'll know*  
@@ -166,18 +166,18 @@ When Efnysien came to inspect the hall, he saw the sacks on the hooks, and he as
 
 And then he went to the second bag: "and this is...?" "Flour". "Ah ha...". And he squeezed, and he squeezed some more. And then it squished. And so it went on...
 
-That night, the great house was filled with the men of both armies, seated round a great fire in the center. There was eating; and drinking. A lot of drinking...  And the tension between them lessened, perhaps.
+That night, the great house was filled with the men of both armies, seated round a great fire in the center. There was eating; and drinking. A lot of drinking... And the tension between them lessened, perhaps.
 
 Branwen, rescued from the kitchen, is dressed once again in the finest of clothes, sits next to her brother.
 
-And introduces Gwern, her first born son who will be King of all Ireland, to the King of the Isle of the Mighty. And perhaps now  she can relax a little.
+And introduces Gwern, her first born son who will be King of all Ireland, to the King of the Isle of the Mighty. And perhaps now she can relax a little.
 
 "But what about me?" sneers Efnysien, the sower of discord.
 
 __"Why does no one introduce the boy to me?"__
 
 `[VERSE 8]`  
-*Her son is king, but still there’s fighting,*  
+*Her son is king, but still there's fighting,*  
 *No love can keep these bold soldiers apart,*  
 *Her son is killed, her brother poisoned,*  
 *Then Branwen cries with a pain in her heart,*  
