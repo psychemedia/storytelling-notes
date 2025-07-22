@@ -10,9 +10,52 @@ When *there* was near *here*, you didn't really notice the difference, but when 
 
 When you could only travel at the speed of foot, say, four miles an hour at an even pace, you would be unlikely to travel more that 20 miles in a day. On a good day, a horse powered mail service could travel at double that rate.
 
-Mail coaches https://www.postalmuseum.org/collections/mail-coaches/
+### Speed of sound
 
-Trains: by 1850, 80 miles and hour
+According to the old lore, when you see the lighning, count out the seconds till you hear the thunder. Each five seconds counts out a mile to the centre of the storm.
+
+If you want to do the sums, the speed of sound in air is 330 m/s. A mile is just over 1600 meters (the 1500m athletics race is the modern mile).
+
+https://archive.org/details/in.ernet.dli.2015.42140/mode/2up?q=%22five+seconds%22+mile+thunder+lightning
+Handy Book Of Meteorology
+by Buchan, Alexander
+
+Publication date 1867
+
+p171
+
+Flashes of lightning frequently extend two or three miles in length; and since the thunder is produced at every point along its course nearly at the same instant, the prolonged rolling noise of thunder arises from the different intervals of time it takes the sound to reach the ear. For since sound travels at the rate of 1118 feet per second, it is first heard from the nearest point of the flash, later and later from points more distant, and the combined effect is a continued peal of thunder. The direction of the peal and its character will depend on the length of the flash, and the greater or less obliquity of its course as regards the observer. Reverberations from clouds and from mountains frequently heighten the effect and prolong the peal. From the rate at which sound travels, if the thunder is not heard till five seconds after the flash, the distance is about a mile. Thunder has not been heard at a greater distance than 14 miles from the flash.
+
+### Speed of the sun over the Earth
+
+To an engineering approximation, the Earth is 24000 miles round at the equator (it's actually just shie of 25,000, but engineers are good at making the sums easy whilst getting the ball park figure right). So with a day lasting 24 hours, the sun appeaars to travel round the world at 1000 miles and hour. Which, to another engineering approximation that favours round numbers, is about 15 miles a minute
+
+More exact:
+
+Distance round equator: 24,901 miles.  
+Overland speed: 1037.5 mph, 17.2 mph
+
+BUT: latitude matters (i.e. how far north or south of the equator you are in terms of the ditance round that line of latitude) — think of the distance round a balloon.
+
+For London, the distance is 25000.cos(latitude) ~ 15,500 miles, 645mph, just under 11 miles per minute
+For IW, 15,850 miles, 660mph, 11 miles per per minute
+For Leeds / Manchester, 14,800 miles, 620 mph, 10.3 (a little bit over 10) miles per minute
+For Edinburgh, just under 140000 miles, 580 mph, 9.7 (a little bit under 10 miles) per minute.
+
+So how can time travel more quickly on the Island than it does in London, yet the Island still be behind the times in the metoropolis?
+
+Also, as an aside: given that the Earth is about 25,000 miles round (the engineering approaximation to a nice round number), suppose that you have a rope tied around the equator, at ground level. And you want to somehow lift that rope up so that is is just 1 foot about the ground. What length of rope would you need to add to make that possible? [6 feet: 2 pi (R+1)]
+
+Solar time (relative to sun high point), 24 hours in a day
+
+Sidereal time (relative to stars), 23 hours 56 mins 4 seconds; over a year, 4 mins* 365 days is just over 1500 minutes, or 24 hours. In a year, the Earch gets back to its starting position compared to the stars.
+
+
+### Sound and sun
+
+In Britain, the sound of church bells is a bit faster than the speed of the sun.
+
+### Places
 
 https://greenwichmeantime.com/articles/history/railway/
 Oxford Time is 5 minutes 2 seconds behind GMT https://greenwichmeantime.com/articles/clocks/oxford/ each hour is 15° of longitude East or West of Greenwich (24 * 15° = 360°). Every 1° is 4 minutes of time (60 minutes of time / 15° of longitude) or 1 minute of time is 15' (minutes of longitude).
@@ -22,20 +65,33 @@ Carnforth is 11 minutes 5 seconds behind GMT
 Barrow is 12 minutes 54 seconds behind GMT
 
 
+
+### Transport
+
+Mail coaches https://www.postalmuseum.org/collections/mail-coaches/
+
+Trains: by 1850, 80 miles and hour
+
+
 Nautical time and civil date http://www.navalmarinearchive.com/research/nautical_time_and_date.html
 
 Brief history of railway signalling https://dickthesignals.co.uk/onewebmedia/1%20brief%20history%20of%20railway%20signalling.pdf
 
-Henry Booth - elements of ""Uniformity of Time considered especially in reference to Railways and the Electric Telegraph" pamphlet, 1847 in https://ia802608.us.archive.org/20/items/memoirlatehenry00smilgoog/memoirlatehenry00smilgoog.pdf
-"The amalgamation of the great companies which formed the London and North-Western, Mr, Booth's official connection with that company, the extension of the railway system in all directions, and the close connection thus established among places formerly at long distances from each other in point of time forced upon Mr. Booth's attention an important question of special concernment to railway companies and to the community at large. Soon after the consolidation of the London and North-Western, Mr. Booth, ever prompt and persevering, commenced an attack upon the inconvenient anomaly, the positive annoyance, and palpable absurdity of "a thousand and one" places in the United Kingdom, having each a time of its own, and each different from all the others. Mr. Booth's clever brochure  — a letter to the Eight Hon. Edward Strutt, M.P., chairman of the Railway Commissioners, upon "Uniformity of Time," considered especially in reference to railway transit and the operations of the electric telegraph, was one of the most sprightly of his productions, and tempts strongly to quotation. The inconvenience and absurdity inseparable from recognition of "local time;" the utter impossibility of conducting railway traffic, according either to "Bradshaw," or to a Roskell's best chronometer, with any approach to regularity or precision, are cleverly displayed. The demand of the appeal is legal recognition and acknowledgment of only one time throughout the kingdom. Inasmuch as some of Mr. Booth's pictures and descriptions are interesting contributions to history, we venture to transcribe them.
+Henry Booth - elements of "Uniformity of Time considered especially in reference to Railways and the Electric Telegraph" pamphlet, 1847 in https://ia802608.us.archive.org/20/items/memoirlatehenry00smilgoog/memoirlatehenry00smilgoog.pdf Memoir of the Late Henry Booth, of the Liverpool and Manchester, and Afterwards of the London ...
+by Robert Smiles
+Publication date 1869
+
+pp. 63-4
+
+The amalgamation of the great companies which formed the London and North-Western, Mr. Booth's official connection with that company, the extension of the railway system in all directions, and the close connection thus established among places formerly at long distances from each other in point of time forced upon Mr. Booth's attention an important question of special concernment to railway companies and to the community at large. Soon after the consolidation of the London and North-Western, Mr. Booth, ever prompt and persevering, commenced an attack upon the inconvenient anomaly, the positive annoyance, and palpable absurdity of "a thousand and one" places in the United Kingdom, having each a time of its own, and each different from all the others. Mr. Booth's clever brochure  — a letter to the Eight Hon. Edward Strutt, M.P., chairman of the Railway Commissioners, upon "Uniformity of Time," considered especially in reference to railway transit and the operations of the electric telegraph, was one of the most sprightly of his productions, and tempts strongly to quotation. The inconvenience and absurdity inseparable from recognition of "local time;" the utter impossibility of conducting railway traffic, according either to "Bradshaw," or to a Roskell's best chronometer, with any approach to regularity or precision, are cleverly displayed. The demand of the appeal is legal recognition and acknowledgment of only one time throughout the kingdom. Inasmuch as some of Mr. Booth's pictures and descriptions are interesting contributions to history, we venture to transcribe them.
 
 Speaking of things as they were, he gives this description, when the clock strikes, say twelve, either noon or night:—
 
-"The parish clocks in some half a dozen hamlets or fishing-towns in the extreme east, in quick succession, commence the long and dissonant peal; Norwich and Yarmouth, Harwich and Ramsgate, with a hundred clocks and chimes ring vigorously; Canterbury, Colchester, and Cambridge prolong the feu dejoie; with a thousand intermediate towns and villages, each with its market-clock or market-bell proclaiming its own time; each in succession, but all without intermission, multitudinous in voice and key — major and minor, tenor and counter-tenor, treble, and something more, ringing and mingling their notes unmusical. Westward the noise moves on till it gains the suburbs of the huge metropolis; Poplar and Limehouse, Stepney and Bethnal Green, each with its clock and bells, with iron tongues and clappers, still in succession, uninterruptedly, unintermittingly, jar gratingly; while, as the moving din reaches St. Martin's-le-Grand, the great bell of St. Paul's tolls with mourning voice in grave rebuke of the passing clamour. And still the din proceeds; still in its westward course — Brentford and Windsor, Reading and Oxford, Southampton and Salisbury, onward for a mortal hour, ??by Shrewsbury clock; 'while every city, town, or township, hamlet, or extra-parochial place,' as the incessant roar sweeps over its head, marking its particular time, calls out— 'That's my thunder!'"
+"The parish clocks in some half a dozen hamlets or fishing-towns in the extreme east, in quick succession, commence the long and dissonant peal; Norwich and Yarmouth, Harwich and Ramsgate, with a hundred clocks and chimes ring vigorously; Canterbury, Colchester, and Cambridge prolong the *feu de joie*; with a thousand intermediate towns and villages, each with its market-clock or market-bell proclaiming *its own time*; each in succession, but all without intermission, multitudinous in voice and key — major and minor, tenor and counter-tenor, treble, and something more, ringing and mingling their notes unmusical. Westward the noise moves on till it gains the suburbs of the huge metropolis; Poplar and Limehouse, Stepney and Bethnal Green, each with its clock and bells, with iron tongues and clappers, still in succession, uninterruptedly, unintermittingly, jar gratingly; while, as the moving din reaches St. Martin's-le-Grand, the great bell of St. Paul's tolls with mourning voice in grave rebuke of the passing clamour. And still the din proceeds; still in its westward course — Brentford and Windsor, Reading and Oxford, Southampton and Salisbury, onward for a mortal hour, 'by Shrewsbury clock;' while every city, town, or township, hamlet, or 'extra-parochial place,' as the incessant roar sweeps over its head, marking its particular time, calls out— 'That's my thunder!'"
 
 To the generation of to-day, accustomed to "Greenwich time," from John o' Groat's House to the Land's End, it seems almost incredible that little more than twenty years ago the following ludicrous scene so racily depicted by Mr. Booth might have been an actual occurrence. He entreats the Post-office authorities, or the Legislature, to exercise commiseration towards their agents in the provinces, on whom devolves the task of adjusting local to London time:—
 
-"Imagine the anxiety of the post-mistress at the village of B, in the far west, when she receives a new scheme of departures of the mail from the county town, twenty-three miles east by north of her own village — the new mail to start from the said county town at llh. 44m. a.m., London time — speed, including stoppages, 9 miles an hour — the problem to be solved being, at what hour, local time, the proposed mail so starting from the county town will arrive at the said village of B. 
+"Imagine the anxiety of the post-mistress at the village of B, in the far west, when she receives a new scheme of departures of the mail from the county town, twenty-three miles east by north of her own village — the new mail to start from the said county town at llh. 44m. a.m., London time — speed, including stoppages, 9 miles an hour — the problem to be solved being, at what hour, local time, the proposed mail so starting from the county town will arrive at the said village of B———. 
 
 "The post-mistress, on receipt of the order, hastens to the schoolmaster of the place, and, having explained her dilemma, 'Madam,' he replies, with the gravity becoming one consulted in a difficulty, 'the question you have proposed to me — at what time will the mail arrive at the Post-office at B, involves one of our most abstruse problems in mathematics. It were a simple matter, if the solution depended alone on the difference of longitude east or west of Grreenwich; but the obliquity of the earth's axis, and more especially the elliptic figure of the earth's orbit, — these disturbing causes. Madam, you are aware (the lady was not at all aware) produce no little complexity in the computation by which we would arrive at the desired solution. Not six days in the year do the sun and clock keep even and equable time: my calculation, therefore, will be correct for the 21st of the present month, when the new mail starts, but for no other day in this year of our Lord; but the differences being small, as the earth moves through the vast ellipse, you will easily make those allowances which the season requires. I will immediately consult my Ephemeris , and in three days I trust I shall be able to tell you, within a few seconds, at what time, on the 21st instant, the mail ought, my dear madam — ought, I say emphatically — to arrive at the village of B."
 
@@ -51,15 +107,58 @@ That at one and the same moment, whether in London or Edinburgh, at Canterbury o
 In this important matter Mr. Booth attained the object of his desire — the evil was exterminated, and he had the satisfaction that Parliament did not as he conjured it not to do, 'wait the miserable alternative, the euthanasia of a worn-out abuse!'"
 
 
+--
+
+Shakespeare Henry IV, Part 1: John Falstaff "fought a long hour by Shrewsbury clock" in the Battle of Shrewsbury.
+
+Shakespeare: references to clocks etc https://www.bbc.co.uk/programmes/articles/54hKCh1LM71rjfksgdGjH3L/time-will-tells
+
+---
+
+Denying time to others
+
 [http://chester.shoutwiki.com/wiki/Town_Hall#Some_myths_about_the_clock]
 
 [The Building of the present Town Hall, Chester https://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-2910-1/dissemination/pdf/JCAS_ns_047/JCAS_ns_047_021-032.pdf]
 
 In the city of Chester, situated just a mile or so from English border with Wales, the west facing, Welsh facing side of the clock tower on the town hall remains blank: local legend has it that the citizens of Chester would not even give the Welsh the time of day.
 
-The design for the building was established via competition running from 1862 to 1864. The planning even for that seems to have indicated that project management was not a strong point: 
+The design for the building was established via competition running from 1862 to 1864. The planning even for that seems to have indicated that project management was not a strong point:
 
 The lack of timesharing is relatively recent, however: the clock itself was only installed in 1979, 110 years after the town hall itself was completed. In a masterly oversight of budget planning, the cost of winding the clock for an hour day, every day, on top of the cost itself was too much for the original organising Council Committee to bear.
+
+--
+
+The arrival of time... Turret clocks / towers start to make an appearance in civic centers,  early 19th c? ALso late 18th c.
+
+https://archive.org/details/turretclockslist0000unse/mode/2up?q=town+%22clock-tower%22
+Turret clocks : lists of clocks from makers' catalogues and publicity materials
+Publication date 1995
+
+---
+
+Clock originally meant bell - the sound of bell striking is what told the time, rather than a clock face with moving hands; no dial, just the stiking mechanism ( https://www.clockworks.com/posts/what-should-you-know-about-tower-clock-movements )
+
+Salisbury Cathedral clock, 1386, oldest working clock in the world (chime only; rina. abell once an hour.
+
+---
+
+
+From my telling of Jamie Macpherson / macpherson's Lament: "The violin, well, the violin, and Jamie's huge sword, I believe they can still be seen, to this day, in a small museum in Banff, in North-East Scotland. And in that town of Banff, from where Jamie was hung, well, the lairdship was stripped of its manorial right of managing trial and punishment. And in the town of Macduff, just over the estuary, I have heard said the facing wall of the clock tower there is blanked off; for the people of Macduff have not given the people of Banff, the time of day ever since that fateful day of November 16th, 1700, when Jamie Macpherson played his final lament."
+
+Clock tower of Macduff Parish CHurch, blanked? https://www.alamy.com/stock-photo-clock-tower-of-macduff-parish-church-with-clock-face-facing-banff-32863322.html
+https://britishlistedbuildings.co.uk/200382752-macduff-parish-church-church-street-macduff-macduff "3-stage domed tower at N, the lower 2 stages probably of 1805 date corniced 1st stage with wide angle pilasters surmounted by 1865 square belfry with paired round-headed louvred windows in each face and surmounted by domed leaded roof with cupola and with clock faces (1963) at E and N on bracketted wallhead."
+
+Also https://dufftown.info/2022/02/02/the-clock-that-hung-macpherson/
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000564/19350110/153/0007
+Dundee Courier - Thursday 10 January 1935
+Clock With a Grim Past
+
+--
+
+
 
 The Adoption of Standard Time https://www.jstor.org/stable/3105430?seq=1
 
@@ -105,6 +204,7 @@ Originally, the action of ejectment was intended to protect the rights of a tena
 In the Middle Ages, a livery of seisin was essential to convey land from one party to another; without it no real right to land could be transferred. When performing the ceremony, the feoffor, the feoffee, and their witnesses generally stood on the land itself, though it was permissible to stand within view of the land if the feoffee made an actual entry to the land while the feoffor was still alive. During the ceremony the feoffor spoke appropriate words declaring the gift, and then handed the feoffee an object representing that gift, such as dirt, turf, or a twig, or even a ring, a cross, or a knife. If a house was being transferred, the ring of the door might be exchanged.
 
 In addition to delivering possession of the land, the feoffor needed to vacate the land. The feoffor's tenants and others living on the land were expelled, along with their possessions. In some cases, the feoffor performed a ceremony or gesture showing Abandonment of the land, such as by making a sign with the hands, jumping over a hedge, or throwing a rod to the feoffee.]
+
 The Real Property Act of 1845 (8 & 9 Vict. ch. 106 [Eng.]) did not abolish livery of seisin, but it did allow deeds to be used freely as granting devices, which had the same effect. The Law of Property Act, passed in 1925 (15 & 16 Geo. 5, ch. 20 [Eng.]), finally abolished the livery-of seisin ceremony.
 
 
@@ -210,7 +310,7 @@ CURTIS v . MARCH . Nov. 25 , 1858
 
 This was an action of ejectment which was entered for trial before Watson , B., at the last Dorchester Assizes. The time appointed for the sitting of the Court was 10 o'clock A. M., and the learned Judge took his seat on the bench punctually at 10 by the clock in Court. The cause was then called on , and the plaintiff's counsel commenced his address to the jury, but as the defendant was not present and no one appeared for him, the learned Judge directed a verdict for the plaintiff. The defendant's counsel then entered the Court and claimed to have the cause tried, on the ground that it had been disposed of before 10 o'clock.
 
-At that time it wanted one minute and a half to 10 by the town clock . The clock in Court was regulated by Greenwich time, which was some minutes before the true time at Dorchester. The learned Judge having refused the application, *Cole* had obtained a rule nisi for a new trial upon affidavits of the above facts, against which *Slade* and *Kingdon* showed cause . — The sitting of the court was properly regulated by Greenwich time.
+At that time it wanted one minute and a half to 10 by the town clock. The clock in Court was regulated by Greenwich time, which was some minutes before the true time at Dorchester. The learned Judge having refused the application, *Cole* had obtained a rule nisi for a new trial upon affidavits of the above facts, against which *Slade* and *Kingdon* showed cause . — The sitting of the court was properly regulated by Greenwich time.
 
 [ POLLOCK, C. B. - When it is stated that a court will sit at a particular hour, that is understood by all persons as the time at the place where the court sits. We are as much bound to take judicial notice that a particular place lies east or west of Greenwich , and consequently has a different time from it, as we are to know the days of the year. ] A judge may appoint the sittings of the court by Greenwich time.
 
@@ -280,7 +380,8 @@ In November 1840 GWR announced that a standardised time – railway time as it w
 https://www.academia.edu/10068187/_Our_Time_On_the_Durability_of_the_Alaturka_Hour_System_in_the_Late_Ottoman_Empire_International_Journal_of_Turkish_Studies_16_2010_47_69
 Our Time: On the Durability of the Alaturka Hour System in the Late Ottoman Empire ," International Journal of Turkish Studies, 16 (2010), 47-69.
 ...
-Alaturka Saat and the Spread of Mean Tim
+Alaturka Saat and the Spread of Mean Time
+
 The Ottoman hour system traced its origins to the ancient scheme of"seasonal" or "temporal" hours, according to which the day and the night were eachdivided into a set of twelve equal units. Daytime hours were counted from sunrise to sunset and night time hours, from sunset to sunrise. As the length of daytime and night time changed throughout the year, the seasonal hours varied in length accordingly.
 
 According to the system devised by Ottoman astronomers in the fifteenth century, if not earlier, two cycles of twelve equal hours were counted from sunset, reckoned as twelve o'clock palace circles.
@@ -857,7 +958,7 @@ p14 TO DO
 
 It is primarily in terms of the rains-their arrival and departure-that the Kaguru year is gauged. ...
 
-The Kaguru year is thought to begin with the first rains which come after the five or six months of dry season. Once the first showers have arrived, "another year" (ikonga miaka) has begun and the preceding dry period is relegated to the "ended year" (miaka musha). These first showers usually arrive in mid or late November and are very light, usually lasting less than an hour. They are called ng'hokola some, "sweeping away the ashes." This refers to the winds which, accompanying the showers, blow away the light white ashes of the grass fires so common during the dry season. These fires occur at the very apex of the dry season, at the nadir of fertility in Kaguru-land, and thus the winds are seen as the new cycle of an agricultural year, the resumption of the process of fertiity.
+The Kaguru year is thought to begin with the first rains which come after the five or six months of dry season. Once the first showers have arrived, "another year" (ikonga miaka) has begun and the preceding dry period is relegated to the "ended year" (miaka musha). These first showers usually arrive in mid or late November and are very light, usually lasting less than an hour. They are called ng'hokola some, "sweeping away the ashes." This refers to the winds which, accompanying the showers, blow away the light white ashes of the grass fires so common during the dry season. These fires occur at the very apex of the dry season, at the nadir of fertility in Kaguru-land, and thus the winds are seen as the new cycle of an agricultural year, the resumption of the process of fertility.
 
 p16 TO DO
 
