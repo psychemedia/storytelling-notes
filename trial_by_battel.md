@@ -58,3 +58,25 @@ One of the leather gauntlets used in the last-ever legal challenge to trial by b
 Book: https://www.amazon.co.uk/Murder-Mary-Ashford-Changed-English/dp/1473863384
 
 https://special-collections.wp.st-andrews.ac.uk/2017/06/09/copyright-abcs-the-clock-struck-four-ashford-v-thornton-trial-by-combat-and-nineteenth-century-melodrama/
+
+
+
+https://books.google.co.uk/books?id=aSJXAAAAcAAJ&printsec=frontcover&dq=CASE+OF+ABRAHAM+THORNTON+HOLROYD&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q=CASE%20OF%20ABRAHAM%20THORNTON%20HOLROYD&f=false
+
+OBSERVATIONS
+UPON THE CASE OF
+ABRAHAM THORNTON
+WHO WAS
+TRIED AT WARWICK, AUGUST 8, 1817,
+FOR THE MURDER OF
+MARY ASHFORD:
+,
+SHEWING THE
+DANGER OF PRESSING PRESUMPTIVE EVIDENCE TOO FAR,
+TOGETHER WITH
+THE ONLY TRUE AND AUTHENTIC ACCOUNT YET PUBLISHED
+OF THE EVIDENCE GIVEN AT THE TRIAL,THE EXAMINATION OF THE PRISONER,&c.
+AND
+A CORRECT PLAN OF THE LOCUS IN QUO.
+SECOND EDITION.
+BY EDWARD HOLROYD, OF GRAY'S INN.
