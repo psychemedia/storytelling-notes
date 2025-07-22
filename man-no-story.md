@@ -158,7 +158,7 @@ He went over and Michael maker said he would let him stay if he had a good story
 
 'very well', said Michael 'you must go out to the cock of straw for a gabhal of straw.'
 
-Out went the bunker and when he had the gabhal of straw pulled the cock of straw jumped out on the road and he went outside the the cock and then the cock jumped in but the bunker waited out on the road for a minute. Then he saw a coffin coming over the road and four people carrying it. They asked him to help them to carry the coffin before any person would see them.
+Out went the bunker and when he had the gabhal of straw pulled the cock of straw jumped out on the road and he went outside the cock and then the cock jumped in but the bunker waited out on the road for a minute. Then he saw a coffin coming over the road and four people carrying it. They asked him to help them to carry the coffin before any person would see them.
 
 It was over in the bog between four 'caoys' when the had the coffin left down one man said
 

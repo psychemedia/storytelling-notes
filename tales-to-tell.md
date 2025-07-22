@@ -18,7 +18,7 @@ Abolished by Burial of Suicides Act 1823
 https://archive.org/details/encyclopedia-britannica-volume-10/page/242/mode/2up
 Encyclopedia Britannica, Volume 10, 1911
 
-FELO DE SE (M.L. a felon, i.e. murderer, of himself), one who commits murder upon himself. The technical conditions of murder apply to this crime; e.g. "if one commits any unlawful malicious act, the consequence of which is his own death, as if attempting to kill another he runs upon his antagonist's sword, or shooting at another the gun bursts and kills himself," he is a *felo de se*. The horror inspired by this crime led to the revolting punishment of an "ignominious burial on the highway, with a stake driven through the body." This was abolished by an act of 1823, which ordered the burial of the body of a person found to be *felo de se* within 24 hours after the coroner’s inquest, between the hours of 9 and 12 at night, and without Christian rites of sepulture. This act was again superseded in 1882 by the Interments (*Felo de se*) Act, which permits the interment of any *felo de se* in the churchyard or other burial ground of the parish or place in which by the law or custom of England he might have been interred but for the verdict. The interment is carried out in accordance with the Burial Laws Amendment Act 1880 (see BURIAL AND BURIAL ACTS). The act does not authorize the performance of any of the rites of Christian burial, but a special form of service may be used. Formerly the goods and chattels, but not the land, of a *felo de se* were forfeited to the crown, but such forfeitures were abolished by the Forfeiture Act 1870. (See also SUICIDE.)
+FELO DE SE (M.L. a felon, i.e. murderer, of himself), one who commits murder upon himself. The technical conditions of murder apply to this crime; e.g. "if one commits any unlawful malicious act, the consequence of which is his own death, as if attempting to kill another he runs upon his antagonist's sword, or shooting at another the gun bursts and kills himself," he is a *felo de se*. The horror inspired by this crime led to the revolting punishment of an "ignominious burial on the highway, with a stake driven through the body." This was abolished by an act of 1823, which ordered the burial of the body of a person found to be *felo de se* within 24 hours after the coroner's inquest, between the hours of 9 and 12 at night, and without Christian rites of sepulture. This act was again superseded in 1882 by the Interments (*Felo de se*) Act, which permits the interment of any *felo de se* in the churchyard or other burial ground of the parish or place in which by the law or custom of England he might have been interred but for the verdict. The interment is carried out in accordance with the Burial Laws Amendment Act 1880 (see BURIAL AND BURIAL ACTS). The act does not authorize the performance of any of the rites of Christian burial, but a special form of service may be used. Formerly the goods and chattels, but not the land, of a *felo de se* were forfeited to the crown, but such forfeitures were abolished by the Forfeiture Act 1870. (See also SUICIDE.)
 
 ---
 
@@ -71,7 +71,7 @@ STIPENDIARY'S MYSTERIOUS MEN.
 
 A "rum case" occupied the attention of the Sheffield Stipendiary's Court yesterday for several hours. It was saturated with rum. Bottles of rum were on and around the solicitors' table, and the unfortunate people who were concerned in the inquiry had literally been swamped in rum. It moved the advocates to humour. The Stipendiary himself could not resist the temptation, and wild comedy held sway in the staid court of justice.
 
-Two "mysterious men," as the Stipendiary called them, rolled a barrel of rum away from a licensed house, and on their journey to Bailey Lane the barrel sprung a leak, and the first flow began. Rum ran down the the lane. The "mysterious men" persevered, and the barrel found its way into a house. The rum still leaked.
+Two "mysterious men," as the Stipendiary called them, rolled a barrel of rum away from a licensed house, and on their journey to Bailey Lane the barrel sprung a leak, and the first flow began. Rum ran down the lane. The "mysterious men" persevered, and the barrel found its way into a house. The rum still leaked.
 
 Pans and bottles were utilised. Neighbouring houses were called upon for utensil assistance. Rum filled the pancheons, ran into the bath, and covered the floor, and the place reeked with the smell of it. There was a "local odour"—a very strong smell of rum, as the detective described it—but with all these facts agreed upon, and with all the attention given to the case, no conclusive decision was arrived at, and the case had a rum ending.
 
@@ -409,6 +409,22 @@ And volume II: https://archive.org/details/TheHistoryOfChivalryV2
 
 References to Anthony Woodville and his challenge to the Bastard of Burgundy
 https://archive.org/details/TheHistoryOfChivalryV1/page/n31/mode/1up?q=woodville
+
+
+
+
+
+--
+
+About story collectors
+
+
+https://archive.org/details/dearoldstorytell00adamiala/page/n9/mode/2up
+
+Dear Old story-teller
+by Adams, Oscar Fay, 1855-1919
+
+Publication date 1889
 
 
 ---

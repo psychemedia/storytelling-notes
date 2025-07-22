@@ -286,7 +286,7 @@ Beneath the gallows tree.
 
 There was, however, an earlier celebration of the robber's hardihood on a broadside, a copy of which will be found in Herd's *Collection of Scottish Songs* (1776). See also a curious volume, entitled *Scottish Ballads and Songs* (Edinburgh, T. G. Stevenson, 1859).
 
-A long two-handed sword is shewn in Duff House, the seat of the Earl of Fife, as that of Macpherson. It is a formidable weapon, 4 feet 3 inches long, and having a wavy-edged blade. It is obvioiisly a mediaeval weapon, yet, of course, may have been used in a later age.
+A long two-handed sword is shewn in Duff House, the seat of the Earl of Fife, as that of Macpherson. It is a formidable weapon, 4 feet 3 inches long, and having a wavy-edged blade. It is obviously a mediaeval weapon, yet, of course, may have been used in a later age.
 
 March 4, 1701. — There was a petition to the Privy Council from Peter and Donald Brown, prisoners in the Tolbooth of Banff, representing that they had been condemned solely as 'repute vagabond Egyptians,' to bo hanged on the 2d April. They claimed a longer day, 'either for their relief or due preparation;' and the Lords granted reprieve till the second Wednesday of June.
 
@@ -535,7 +535,7 @@ It is said James Macpherson was from an illegitimate branch of the family of Inv
 
 After several escapes from justice, to which he had made himself obnoxious by his lawless habits, he was eventually apprehended by the Laird of Braco, the Lord Braco of Kilbryde, and some of his followers, at a Keith market, Braco himself being the first to seize upon him. So desperate, however, is said to have been his resistance, aided by one of the name of Roy, that it was only by blankets being thrown over his head from the windows above that his numerous assailants could obtain any advantage over him. He was thus compelled to fly, and reached the gable of a church; here, parrying the attack of his enemies, he fell over a gravestone, when he was secured, and lodged in the jail of Banff. The sword and target of the Rob Roy of the North, as he was called, are still in the possession of Lord Fife (Braco's descendant), at Duff House, and is such a formidable weapon as only a powerful man could wield.
 
-Macpherson was brought to trial, along with his associates, before the Sheriff of Banff, on the 7th Nov. 1700. In an interlocutor, the Sheriff sustains himself judge, and "finds the libel relevant of the whole accused being knoune habit and repute to be Egiptians and wagabonds, and keeping ye mercats in yr ordinaire manner of thieving and purse-cutting, or guiltie of the rest of the crimes of theft;, and masterfull bangs-tree and oppression, to infer the punishment libelled, and admits the same to the knowledge of ane assyze." After the jury were impannelled, "the Sheriff" (so it is in the record) "ordains the pannels, for tiie satisfaction of the assizers, to rehearse the Lord's Prayer," &c., but it is not stated how far the prisoners either did or could afford this "satisfaction."
+Macpherson was brought to trial, along with his associates, before the Sheriff of Banff, on the 7th Nov. 1700. In an interlocutor, the Sheriff sustains himself judge, and "finds the libel relevant of the whole accused being knoune habit and repute to be Egiptians and wagabonds, and keeping ye mercats in yr ordinaire manner of thieving and purse-cutting, or guiltie of the rest of the crimes of theft;, and masterfull bangs-tree and oppression, to infer the punishment libelled, and admits the same to the knowledge of ane assyze." After the jury were impannelled, "the Sheriff" (so it is in the record) "ordains the pannels, for the satisfaction of the assizers, to rehearse the Lord's Prayer," &c., but it is not stated how far the prisoners either did or could afford this "satisfaction."
 
 Twenty-one witnesses were then examined, fourteen of whom were able to sign their depositions. Most of them deponed that the panels were by habit and repute Egyptians, and that they went about armed in bands, some adding that they spoke a language which the deponents did not understand, and "which was not Irish." But otherwise few well defined or very serious charges appear in evidence against the accused individually. It is unnecessary here to narrate the individual evidence of the witnesses examined, although it presents a curious picture of the manners of the time and district.
 
@@ -599,7 +599,7 @@ These recent assertions cannot counterbalance the official sentence, especially 
 
 MACPHERSON'S RANT.
 
-`[The edition of Burns by Hogg and Motherwell gives "the earliest set of words we have seen under the title of Macpherson's Rant. They are taken from a Broadside probably printed in the same year that Macpherson suffered; and they may also, for ought that is known to the contrary, be the composiion of that individual himself." ]`
+`[The edition of Burns by Hogg and Motherwell gives "the earliest set of words we have seen under the title of Macpherson's Rant. They are taken from a Broadside probably printed in the same year that Macpherson suffered; and they may also, for ought that is known to the contrary, be the composition of that individual himself." ]`
 
 ```{admonition} Macpherson's Rant
 :class: dropdown

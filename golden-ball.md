@@ -230,7 +230,7 @@ In Notes and Queries section of Folk-Lore Journal
 
 p144
 
-An old Ballad. —Has the following ballad ever been printed, and if so, where? I heard it from a relative of Dr. Birkbeck Hill's, in whose family it is tradtiional. A young man on his way to the gallows appeals to his parents and brethren in the following terms:—
+An old Ballad. —Has the following ballad ever been printed, and if so, where? I heard it from a relative of Dr. Birkbeck Hill's, in whose family it is traditional. A young man on his way to the gallows appeals to his parents and brethren in the following terms:—
 
 "Hold up, hold up your hands so high,  
 Hold up your hands so high,  

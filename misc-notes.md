@@ -59,7 +59,7 @@ What to do the councillors did not know, when suddenly there came amongst them a
 
 "I'll go all the same," said the cobbler, and without saying a word more he goes out and begins to make ready for his journey.
 
-First of all he collected together as many old boots and shoes as he could find, and when he had got them all in a bundle, he finds out the man who had seen the devil coming on, and inquired of him the way he should go to meet hiin. The man told him the road, and the cobbler set out. He walked, and walked, and walked, till at last he came to the devil, who was sitting by the roadside resting himself and trying to get cool, for the day was warm, and he was nearly worn out with carrying the big rock which lay beside him.
+First of all he collected together as many old boots and shoes as he could find, and when he had got them all in a bundle, he finds out the man who had seen the devil coming on, and inquired of him the way he should go to meet him. The man told him the road, and the cobbler set out. He walked, and walked, and walked, till at last he came to the devil, who was sitting by the roadside resting himself and trying to get cool, for the day was warm, and he was nearly worn out with carrying the big rock which lay beside him.
 
 "Do you know such-and-such a place?" asks he of the man, naming the town he would be at.
 

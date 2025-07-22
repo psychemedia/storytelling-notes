@@ -15,7 +15,7 @@ The Gentleman's magazine, Vol. CCLXXXI, July to December, 1896, *Diabolocal Folk
 
 
 https://archive.org/details/13910880R.nlm.nih.gov/page/n13/mode/1up?q=devil+%22playing+cards%22
-A system of pyrotechny : comprehending the theory and practice, with the application of chemistry : designed for exhibition and for war : in four parts, containing an account of the substances used in fire-works : the instruments, utensils, and manipulations : fire-works for exhibition : and military pyrotechny : adapted to the military and naval officer, the man of science, and the artificer
+A system of pyrotechny: comprehending the theory and practice, with the application of chemistry: designed for exhibition and for war: in four parts, containing an account of the substances used in fire-works: the instruments, utensils, and manipulations: fire-works for exhibition: and military pyrotechny: adapted to the military and naval officer, the man of science, and the artificer
 by Cutbush, James, 1788-1823
 Publication date 1825
 

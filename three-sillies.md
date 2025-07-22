@@ -557,7 +557,7 @@ Then Peter stood and looked at him for some time, wondering what had come over h
 
 "What do you lie there staring at?"
 
-"No," kept on the man, "I never did see aaythinig like it! — here is a man going straight up to heaven on a black horae, and here you see his horse's tail stiil hanging in this birch; and yonder up in the sky you see the black horse."
+"No," kept on the man, "I never did see aaythinig like it! — here is a man going straight up to heaven on a black horae, and here you see his horse's tail still hanging in this birch; and yonder up in the sky you see the black horse."
 
 Peter looked first at the man, and then at the sky, and said, —
 

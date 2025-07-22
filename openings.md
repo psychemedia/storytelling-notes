@@ -84,7 +84,7 @@ https://doi.org/10.2307/2912740
 
 --
 
-Frog , M & Lamb , W (eds) 2022 , Weathered Words : Formulaic Language and Verbal Art .
+Frog , M & Lamb , W (eds) 2022 , Weathered Words: Formulaic Language and Verbal Art .
 Publications of the Milman Parry Collection of Oral Literature , vol. 6 , The Milman Parry
 Collection of Oral Literature, Harvard University , Cambridge (MA) . <
 https://www.hup.harvard.edu/catalog.php?isbn=9780674278394 >
@@ -94,14 +94,14 @@ https://helda.helsinki.fi/items/05e1c6b4-818c-4e42-8ca9-751bdd575dd4
 includes: 18. Opening and Closing Formulas in Tales Told in England . . . . 411 by Jonathan Roper
 
 
-"We generally begin — "Once upon a time, and a very good time it was,though it was neither in your time, nor my time, nor nobody else’s time.” Mayhew 1861:391 Mayhew, H. 1861. London Labour and the London Poor, vol. III. London
+"We generally begin — "Once upon a time, and a very good time it was,though it was neither in your time, nor my time, nor nobody else's time." Mayhew 1861:391 Mayhew, H. 1861. London Labour and the London Poor, vol. III. London
 
-Powell, J. U. 1901. "Folklore Notes from South-West Wilts.” Folklore 12(1):71–83 https://www.jstor.org/stable/1252898?seq=4
-There were a time, ’tweren’t in my time, neither in your time, nit [=not yet] in anybody else’s time; ’twere when magpies builded in old man’s beards and turkey-cocks chewed bacca; .... all over hills, dales, mountains, and valleys, so far as I shall tell you to-night, or to-morrow night, or ever shall tell you before I’ve done, if I can” 
+Powell, J. U. 1901. "Folklore Notes from South-West Wilts." Folklore 12(1):71–83 https://www.jstor.org/stable/1252898?seq=4
+There were a time, 'tweren't in my time, neither in your time, nit [=not yet] in anybody else's time; 'twere when magpies builded in old man's beards and turkey-cocks chewed bacca; .... all over hills, dales, mountains, and valleys, so far as I shall tell you to-night, or to-morrow night, or ever shall tell you before I've done, if I can" 
 Powell 1901:76
 
 Once upon a time, when pigs were swine, and turkeys chewed tobacco,
-when swallows built their nests in old men’s beards, &c.
+when swallows built their nests in old men's beards, &c.
 Thoms 1834:62 Thoms, W. J. 1834. Lays and Legends of Ireland. London
 
 Once upon a time when pigs spoke rhyme,
@@ -111,37 +111,37 @@ And ducks went quack, quack, quack Oh!
 Jacobs 1894:217
 
 Be bow bend it,
-My tale’s ended,
-If you don’t like it,
+My tale's ended,
+If you don't like it,
 You may mend it.
 Leather 1912:176
 
-A piece of pudden’,
+A piece of pudden',
 For telling a good un;
 A piece of pie,
 For telling a lie.
 Northall 1892:339
 
 
-I’ll tell you a tale.
+I'll tell you a tale.
 Shall I begin it?
-There’s not much in it.
+There's not much in it.
 Northall 1892:339 Northall, G. F. 1892. English Folk-Rhymes. London.
 [And that is the end of the story.]
 
 FOlklore society archive.org
 https://archive.org/search?query=creator%3A%22Folklore+Society+%28Great+Britain%29%22&page=2
-eg search: creator:"Folklore Society (Great Britain)"  volume:12
+eg search: creator:"Folklore Society (Great Britain)" volume:12
 subject:"Folklore -- Periodicals" volume:12
 
 Addy, S. O. 1895. Household Tales with Other Traditional Remains: Collected in the
 Counties of York, Lincoln, Derby, and Nottingham. London.
-Baring Gould, S. 1865. "Devonshire Household Tales.” Notes and Queries 8(3):82–84.
+Baring Gould, S. 1865. "Devonshire Household Tales." Notes and Queries 8(3):82–84.
 Henderson, W. 1866. Notes on the Folk-lore of the Northern Counties of England and
 the Borders. London.
 Leather, E. M. 1912. The Folk-Lore of Herefordshire: Collected from Oral and Printed
 Sources. Hereford
-Stephens, G. 1880. "Stupid’s Mistaken Cries, as Told in Essex about the Year
-1800.” The Folk-Lore Record 3(2):153–155. 
-Sternberg, V. T. 1852. "Popular Stories of the English Peasantry.” Notes and
+Stephens, G. 1880. "Stupid's Mistaken Cries, as Told in Essex about the Year
+1800." The Folk-Lore Record 3(2):153–155. 
+Sternberg, V. T. 1852. "Popular Stories of the English Peasantry." Notes and
 Queries 1(5):601–603.

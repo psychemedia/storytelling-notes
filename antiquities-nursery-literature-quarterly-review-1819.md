@@ -191,7 +191,7 @@ of the present state of Tom's sepulchre. It is a stone soros, of the usual shape
 
 es on a similar occasion, (View of the various Editions of the Classics with remarks by Epwarp Hanwoop, D.D. London. 1775. p. 244.) 'it has fewer inaccuracies than a scholar might justly expect 
 
-national diet, toasted cheese. To this low feeding we also attribute the want of sagacity which enabled Jack 'to outwit him,' notwithstandiig his two heads. The history states that Jack undressed himself, and as the Giant was walking towards another apartment, Jack heard him say to himself, 'Though here you lodge with me this night,
+national diet, toasted cheese. To this low feeding we also attribute the want of sagacity which enabled Jack 'to outwit him,' notwithstanding his two heads. The history states that Jack undressed himself, and as the Giant was walking towards another apartment, Jack heard him say to himself, 'Though here you lodge with me this night,
 
 You shall not see the morning light,
 

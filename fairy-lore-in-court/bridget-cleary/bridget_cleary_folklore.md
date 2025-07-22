@@ -392,7 +392,7 @@ The witness's depositions were then read, where it appeared that he had alleged 
 
 Dr. Colvall— to the Court— The tongue of the deceased protruded, which indicated sufftocation— not strangulation. Strangulation is considered as effected by placing a substance tightly round the neek. Suffocation may be caused by pressing the hand against the throat, and squeezing the wind-pipe. Choking is properly the stopping of the oesophagus, by the presence of some extraneous suhstance.
 
-Sir T. STAPLES quoted from *5 Carrington and Paine*, 121, as reported in *Roscoe on Evidence*, 650, to show the suffiiciery of the evidence to sustain the indictment, so far as regarded the acceptatiorn and admitted meaning of the terms choking ard strangulation.
+Sir T. STAPLES quoted from *5 Carrington and Paine*, 121, as reported in *Roscoe on Evidence*, 650, to show the sufficiency of the evidence to sustain the indictment, so far as regarded the acceptatiorn and admitted meaning of the terms choking ard strangulation.
 
 Mr. HANNA, Q.C. cited from *Roscoe*, 651, to a similar effect.
 

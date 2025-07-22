@@ -194,15 +194,15 @@ wield it, as a weapon of war; and if it must be owned that his prowess was
 
 MACPHERSON'S RANT. 
 
-I'VE spent my time in rioting, 
+I've spent my time in rioting,  
 
-Debauch'd my health and strength; 
+Debauch'd my health and strength;  
 
-I've pillaged, plunder'd, murdered, 
-But now, alas, at length, 
+I've pillaged, plunder'd, murdered,  
+But now, alas, at length,  
 
-I'm brought to punishment direct; 
-Pale death draws near to me; 
+I'm brought to punishment direct;  
+Pale death draws near to me;  
 
 debased by the exploits of a free-booter, it is certain, no act of cruelty, no robbery of the widow, the fatherless, or distressed, and no murder, were ever perpetrated under his command. He often gave the spoils of the rich to relieve the poor; and all his tribe were restrained from many atrocities of rapine by the awe of his mighty arm. Indeed, it is said that a dispute with an aspiring and savage man of his tribe, who wished to rob a gentleman's house while his wife and two children lay on the bier for interment, was the cause of his being betrayed to the vengeance of the law. The Magistrates of Aberdeen were exasperated at Macphersqn's escape, and bribed a girl in that city to allure and deliver him into their hands. There is a platform before the jail, at the top of a stair, and a door below. When Macpherson's capture was made known to his comrades by the frantic girl, who had been so credulous as to believe the magistrates only wanted to hear the wonderful performer on the violin, his cousin, Donald Macpherson, a gentleman of Herculean powers, did not disdain to come from Badenoch, and to join a gipsy, Peter Brown, in liberating the prisoner. On a market-day they brought several assistants; and swift horses were stationed at a convenient distance. Donald Macpherson and Peter Brown forced the jail; and while Peter Brown went to help the heavily-fettered. James Macpherson in moving away, Donald Macpherson guarded the jail-door with a drawn sword. Many persons assembled at the market had experienced James Macpherson's humanity, or had shared his bounty; and they crowded round the jail as in mere curiosity, but, in fact, to obstruct the civil authorities in their attempts to prevent a rescue. A butcher, however, was resolved to detain Macpherson, expecting a large recompense from the magistrates: he sprung up the stairs, and leaped from the platform upon Donald Macpherson, whom he dashed to the ground by the force and weight of his body. Donald Macpherson soon recovered, to make a desperate resistance; and the combatants tore off each other's clothes. The butcher got a glimpse of his dog upon the platform, and called him to his aid: but Macpherson, with admirable presence of mind, snatched up his own plaid, which lay near, and threw it over the butcher, thus misleading the instinct of his canine adversary. The dog darted with fury upon the plaid, and terribly lacerated his master's thigh. In the meantime, James Maepherson had been carried out by Peter Brown, and was soon joined by Donald Macpherson, who was quickly covered by some friendly spectator with a hat and great-coat. The magistrates ordered webs from the shops to be drawn across the Gallowgate; but Donald Macpherson cut them asunder with his sword, and James, the late prisoner, got off on horseback. He was, some time after, betrayed by a man of his own tribe; and was the last person executed at Banff, previous to the abolition of hereditable jurisdiction. He was an admirable performer on the violin; and his talent for composition is still evidenced by Macpherson's Rant, and Macpherson's Pibroch. He performed these tunes at the foot of the fatal tree; and then asked if he had any friend in the crowd to whom a last gift of his instrument would be acceptable. No man had hardihood to claim friendship with a delinquent, in whose crimes the acknowledgment might implicate an avowed acquaintance. As no friend came forward, Macpherson said, the companion of so many gloomy hours should perish with him; and, breaking the violin over his knee, he threw away the fragments. Donald Macpherson picked up the neck of the violin, which to this day is preserved, as a valuable memento, by the family of Cluny, chieftain of the Macphersons."
 
@@ -210,33 +210,32 @@ The old ballad, for which Burns substituted the above beautiful verses, is given
 
 76 
 
-This end I never did project, 
-To hang upon a tree. 
+This end I never did project,  
+To hang upon a tree.
 
-To hang upon a tree, a tree! 
+To hang upon a tree, a tree!
 
-That cursed unhappy death! 
-Like to a wolf, to worried be, 
+That cursed unhappy death!  
+Like to a wolf, to worried be,
 
-And choaked in the breath. 
-My very heart wad surely break 
+And choaked in the breath.  
+My very heart wad surely break
 
-When this I think upon, 
+When this I think upon,  
 Did not my courage singular 
 
-Bid pensive thoughts begone. 
+Bid pensive thoughts begone.
 
-No man on earth, that draweth breath, 
+No man on earth, that draweth breath,
 
-More courage had than I; 
-I dared my foes unto their face, 
+More courage had than I;  
+I dared my foes unto their face,
 
-And would not from them fly. 
-This grandeur stout I did keep out, 
+And would not from them fly.  
+This grandeur stout I did keep out,
 
-Like Hector, manfully; 
-Then wonder one like me so stout 
-
+Like Hector, manfully;  
+Then wonder one like me so stout. 
 Should hang upon a tree. 
 
 The Egyptian band I did command, 
@@ -457,6 +456,35 @@ But I'll brave him at a word.
 ---
 
 James (aka Jamie ) Macpherson
+
+
+--
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000564/19350110/153/0007
+Dundee Courier - Thursday 10 January 1935
+
+Clock With a Grim Past
+
+How It Sealed an Outlaw's Fate
+
+A relic of bygone days is on view the shop of Messrs John A. Smith, watchmakers, Broad Street, Peterhead.
+
+It is the clock which, 235 years ago, sealed the fate of James Macpherson, the notorious outlaw and freebooter.
+
+After doing duty for many years in Fetterangus Church it has been sent to Mr Smith for repairs. It is in excellent preservation.
+
+Hanging Recalled
+
+This timepiece has a dramatic history.
+
+Macpherson was sentenced to be hanged at Banff on 16th November 1700. Everything was in readiness for the execution when a courier on horseback was seen on the nearby bridge waving something in his hands.
+
+The Banff officials rightly came to the conclusion that the courier was on his way with a last*-inute reprieve, and, determined not to be baulked of their lawful prey, they put forward the hands of the clock five minutes and immediately proceeded to hang Macpherson before the messenger could place the reprieve in the hands of the sheriff.
+
+The Unwanted Violin
+
+One of the best violin players of his time, Macpherson performed with his favourite instrument at the foot of the gallows. He asked if any friend would accept the instrument as a gift. No one came forward, and he theroupon broke the violin over his knee. He was the author of the well known tune, "Macpherson's Rant," and the pibroch, "Macpherson's Lament."
 
 
 ---

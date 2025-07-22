@@ -397,7 +397,7 @@ They got a white napkin, about her feet wound it;
 They cast her then overboard, baby and she, O,  
 Together to sink in the cruel salt sea, O.
 
-11 The moon it was sliining, the tide it was running;  
+11 The moon it was shining, the tide it was running;  
 O what in the wake of the vessel was swimming?  
 'O see, boys! O see how she floats on the water!  
 O see, boys! O see! the undutiful daughter!

@@ -116,7 +116,7 @@ Had only one notion for crossing the ocean,
 [But] at first sight the crew, were not pleased with the view,  
 ⁠Which consisted of chasms and crags.
 
-*At this point, the Bellman sensed their concern, and so he followed the management training he'd picked up in a self-guiided course he taken just before starting the voyage and tried a few jokes.*
+*At this point, the Bellman sensed their concern, and so he followed the management training he'd picked up in a self-guided course he taken just before starting the voyage and tried a few jokes.*
 
 *Which didn't go down well.*
 
