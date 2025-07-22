@@ -328,6 +328,12 @@ MR. EDITOR. Many persons in this vicinity, have been considerably amused with th
 Tom was a cook by practice, as well as by name. Travelling one day fatigued, hungry and pennyless, he called at the house of a substantial farmer, where he found the mistress of the house and her daughters suitably employed. He asked the good woman if she or the young ladies understood how to make stone soup. They acknowledged at once they did not. Tom begged leave to show them, which was granted. He had brought with him a clean, round, smooth stone, of the size of a goose egg; which he exhibited, as the first ingredient, requisite for his purpose. He then called for an iron pot, which he washed clean, and filled in part with pure water, placing the stone carefully at the bottom. This he hangs over the fire, till the water boils. He then calls for fresh meat, salt pork, vegetables, spices, &c., and is readily furnished with them, in so far as the house afforded. Thus, by the time the farmer and his sons came from the field to dinner, there was a much better soup provided, than the family had been used to; so Tom of course was invited to a luxurious meal; while the family wondered that a stone, of the common kind, should make so much difference. After dinner, Tom candidly acknowledged, that the stone was of no service or deserving to the soup; but that he feared, if he had asked bread, they would have given him a stone, so he gave them a stone in return for their bread.
 ```
 
+```{admonition} Tom Cook
+:class: dropdown seealso
+
+Tom Cook appears to have been a trickster rogue, an incorrigible thief, a Robin Hood type figure, and a man who may, or may not, have been in league with the Devil, in New England in the mid to late eigteenth century.
+```
+
 In deeper history, it seems that the tale was often ascribed to the actions of St. Bernard:
 
 ```{admonition} *St Bernard's Soup*, N&Q, Jan. 1892
@@ -407,4 +413,3 @@ p. 358
 Swarms of poor women and children came begging and dispen»ng blessings, at a penny each, in that copious dialect of our mother tongue, as distinctive to us, as was the Ionic or Doric to the ancient Greeks — the rich Hibernian. In one desolate country-place, a number of poor creatures were sitting by the side of a road, eating, from wooden dishes, govemment stirabout, made of Indian meal, salt, and water. I had the curiosity to get out of the conveyance, and go into a little temporary shelter, where a couple of functionaries were boiling it in a huge iron kettle, and doling it out in rations. In Dublin, also, a friend and I made a pilgrimage to one of M. Soyer's famous soup kitchens. There is a capital story told of an ingenious soldier foraging, who brought a stone, cleanly washed, to a simple countrywoman, and excited her wonder to the highest pitch, by showing her how to make what he termed stone soup. First, he loaned a pot and water to boil the stone in; then he asked for salt, butter, and vegetables; a little meat, as he said, just to "color" it, and, finally, bread, and a spoon to eat his savory dish. French science, in the hands of M. Soyer, equally astonished the committees of Dublin; and, by means of very simple apparatus, he managed to afford nutriment to thousands, which, from its abundance and extraordinaiy cheapness, deserved to be called famine soup.
 
 ```
-
