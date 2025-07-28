@@ -15,219 +15,151 @@ by Johnson,r. Brimley
 
 Publication date 1894
 
-Little
+Little Musgrave and Lady Barnard
 
-Musgrave
+As it fell one holy-day, *hay down*  
+As many be in the year,  
+When young men and maids together did go  
+Their matins and mass to hear,
 
-and
+Little Musgrave came to the church door,  
+The priest was at private mass;  
+But he had more mind of the fair women,  
+Then he had of our lady's grace.
 
-Lady
+The one of them was clad in green,  
+Another was clad in pall;  
+And then came in my lord Bernard's wife,  
+The fairest amonst them all.
 
-Barnard
+She cast an eye on little Musgrave,  
+As bright as the summer sun,  
+And then bethought this little Musgrave,  
+This lady's heart have I won."
 
-€
-
-As it fell one holy-day,
-
-As many be in the year, •
-
-When young men and maids together did go Their matins and mass to hear.
-
-Little Musgrave came to the church door. The priest was at private mass ;
-
-But he had more mind of the fair women. Then he had of our lady: 's grace.
-
-The one of them was clad in green.
-
-Another was clad iti pall ;
-
-And then came in my lord Bernard: 's wife. The fairest amonst them all.
-
-She cast an eye on little Musgrave,
-
-As bright as the summer sun.
-
-And then bethought this little Musgrave,
-
-This lady: 's heart have I won."
-
-Quoth she, I have loved thee, little Musgrave,
-
-Full long and many a day ; "
-
-" So have I loved you, fair lady.
-
+Quoth she, "I have loved thee, little Musgrave,  
+Full long and many a day;"  
+"So have I loved you, fair lady,  
 Yet never word durst I say."
 
-I have a bower at Bucklesfordbery,
+"I have a bower at Bucklesfordbery,  
+Full daintily it is dight;  
+If thou wilt wend thither, thou little Musgrave,  
+Thou's lig in mine arms all night."
 
-Full daintily it is dight ;
-
-If thou wilt wend thither, thou little Musgrave, Thou: 's lig in mine arms all night."
-
-«
-
-Quoth he, : ': ' I tj^ank ye, fair lady.
-
-This kindness thou showest to me ;
-
-But whether it be ^o my weal or woe.
-
+Quoth he: "I thank ye, fair lady,  
+This kindness thou showest to me;  
+But whether it be to my weal or woe,  
 This night I will lig with thee."
 
-With that he heard a little tiny page,
+With that he heard a little tiny page,  
+By his lady's coach as he ran:  
+"Allthough I am my lady's footpage,  
+Yet I am lord Barnard's man.
 
-By his lady: 's coach as he ran :
-
-" Allthough I am my lady: 's footpage.
-
-Yet I am lord Barnard: 's man.
-
-" My lord B^nard shall know of this.
-
-Whether I sink or swinj : "
-
-And ever where thg bridges were broke,
-
+"My lord Barnard shall know of this,  
+Whether I sink or swim;"  
+And ever where thg bridges were broke, 
 He laid him down to swim.
 
-" Asleep, or wake ! thou lord Barnard,
-
-• •As thou art a man of life ;
-
-For little Musgrave is at Bucklesfordbery,
-
+"Asleep, or wake! thou lord Barnard,  
+"As thou art a man of life;  
+For little Musgrave is at Bucklesfordbery,  
 Abed with thy own wedded wife."
 
-If this be true, thou little tiny page,
+"If this be true, thou little tiny page,  
+This thing thou tellest to me,  
+Then all the land in Bucklesfordbery  
+I freely will give to thee.
 
-This thing thou tellest to me,
+"But if it be a lie, thou little tiny page,  
+This thing thou tellest to me,  
+On the highest tree in Bucklesfordbery  
+Then hanged shalt thou be."
 
-Then all the land in Bucklesfordbery I freely will give to thee.
-
-" But if it be a lie, thou little tiny page.
-
-This thing thou tellest to me,
-
-On the highest tree in Bucklesfordbery Then hanged shalt thou be."
-
-He called up his merry men all : —
-
-Come saddle me my steed ; •
-
-This night must I to Bucklesfordbery,
-
+He called up his merry men all:—  
+"Come saddle me my steed;  
+This night must I to Bucklesfordbery,  
 For I never had greater need."
 
-And some of them whistl: 'd, and some of them sung.
+And some of them whistl'd, and some of them sung,  
+And some these words did say,  
+And ever when my lord Barnard's horn blew,  
+"Away, Musgrave, away!"
 
-And some these wdrds did say.
+"Methinks I hear the thresel-cock `[thrush]`,  
+Methinks I hear the jay;  
+Methinks I hear my Lord Barnard,—  
+And I would I were away."
 
-And ever when my lord Barnard: 's horn blew,
+"Lie Stilly lie still, thou little Musgrave,  
+And huggell me from the cold;  
+'Tis nothing but a shephard's boy,  
+A driving his sheep to the fold."
 
-" Away, Musgrave, away ! "
+"Is not thy hawk upon a perch?  
+Thy steed eats oats and hay,  
+And thou a fair lady in thine arms, —  
+And would'st thou be away?"
 
-" Methinks I hear the thresel-cock,
+With that my lord Barnard came to the door,  
+And lit a stone upon;  
+He plucked out three silver keys,  
+And he open'd the doors each one.
 
-Methinks I hear the jay ;
+He lifted up the coverlet,  
+He lifted up the sheet;  
+"How now, how now, thou little Musgrave,  
+Doest thou find my lady sweet?"
 
-Methinks I hear my Cord Barnard,—
+"I find her sweet," quoth little Musgrave,  
+"The more 'tis to my pain;  
+I would gladly give three hundred pounds  
+That I were on yonder plain."
 
-And I would I were awa/,"
-
-thresd: 'coek, thrush.
-
-
- Lie Stilly lie still, thou little Musgrave,
-
-And huggell me from the cold 5 1
-
-*Tis nothing but a shephard: 's boy,
-
-A driving his sheep to the fold*
-
-" Is not thy hawk upon a perch ?
-
-Thy steed eats oats and hay.
-
-And thou a fair lady in thine arms, —
-
-And would St thou.be away ?
-
-With that my lord Barnard came to the door.
-
-And lit a stone upon ;
-
-He plucked out three silver keys,
-
-And h^ open: 'd the doors each one.
-
-He lifted up*the coverlet.
-
-He lifted up the sheet ;
-
-" How now, how now, thou little Musgrave, Doest thou find my lady sweet ? "
-
-** I find her sweet," quoth little Musgrave,
-
-" The more : 'tis to my pain ;
-
-I would gladly give three hundred pounds That I were on yonder plain."
-
-** Arise, arise, thou little Musgrave,
-
-And put thy clothes bn ;
-
-It shall ne: 'er be Said in my country,
-
+"Arise, arise, thou little Musgrave,  
+And put thy clothés on;
+It shall ne'er be said in my country,  
 I have killed a naked man.
 
-"I have two swords in one scabbard,
-
-, •Full dear they cost my purse ; j And thou shalt have the best of them,
-
+"I have two swords in one scabbard,  
+"Full dear they cost my purse;  
+And thou shalt have the best of them,  
 And I will have the worse."
 
-The first stroke that little Musgrave stroke.
-
-He hurt Lord Barnard sore ;
-
-The next stroke that Lord Barnard stroke,
-
+The first stroke that little Musgrave stroke,  
+He hurt Lord Barnard sore;  
+The next stroke that Lord Barnard stroke,  
 Little Musgrave ne'er struck more.
 
-With that bespake this fair lady,
+With that bespake this fair lady,  
+In bed whereas she lay;  
+Although thou'rt dead, thou little Musgrave,  
+Yet I for thee will pray;
 
-In bed whereas she lay ;
-
-Although thou rt dead, thou little Musgrave, Yet I for thee will pray j
-
-And wish well to thy soul wSl I,
-
-So long as I ha\e life ;
-
-So will I not for thee, Barnard,
-
+And wish well to thy soul will I,  
+So long as I have life;  
+So will I not for thee, Barnard,  
 Although I am thy wedded wife."
 
-He cut her paps from off her breast.
+He cut her paps from off her breast,  
+Great pity it was to see,  
+That some drops of this lady's heart's blood  
+Ran trickling down her knee.
 
-Great pity it was to see,
-
-That some drops of this lady: 's heart's blood Ran trickling down her knee.
-
-Woe worth you, woe worth, my merry men all, You were ne er bbrn for my good Why did you not offer to ^ay my hand.
-
+Woe worth you, woe worth, my merry men all,  
+You were ne'er born for my good  
+Why did you not offer to stay my hand,  
 When ye saw me wax so wood!
 
-" For I have slain the bravest sir knight That ever rode on steed ; ,
+"For I have slain the bravest sir knight  
+That ever rode on steed;  
+So have I done the fairest lady  
+That ever did woman's deed.
 
-So have I done the fairest lady That ever did womans deed.
-
-A grave, a grave," Lord Barnard cried, To put these lovers in ;
-
-But lay my lady on the upper hand,
-
+"A grave, a grave," Lord Barnard cried,  
+To put these lovers in;  
+But lay my lady on the upper hand,  
 For she came of the better kin."
 
 ?? also three ravens https://en.wikipedia.org/wiki/The_Three_Ravens
@@ -483,189 +415,158 @@ In the Pepys Collection, vol. iii. p. 314, is an imitation of this old song, in 
 
 This is given from an old printed copy in the British Museum, with corrections ; some of which are from a fragment in the Editor's folio MS. It is also printed in Dryden's Collection of Miscellaneous Poems.
 
-As it fell out on a highe bolye daye,
-
-As many bee in the yeare, When young men and maides together do goe,
-
+As it fell out on a highe bolye daye,  
+As many bee in the yeare,  
+When young men and maides together do goe,  
 Their masses and mattins to heare,
 
-Little Musgrave came to the church door, 5
-
-The priest was at the mass ; But be had more mind of the fine women,
-
+Little Musgrave came to the church door,  
+The priest was at the mass;  
+But be had more mind of the fine women,  
 Then he had of our Ladyes grace.
 
+And some of them were clad in greene,  
+And others were clad in pall;  
+And then came in my lord Barnard's wife,  
+The fairest among them all.
 
-LADT BARNARD. 107
+Shee cast an eye on little Musgrave  
+As bright as the summer sunne:  
+then bethought him little Musgrave,  
+This ladyes heart I have wonne.
 
-And some of them were clad in greene,
+Quoth she, I have loved thee, little Musgrave,  
+Fulle long and manye a daye.  
+So have I loved you, ladye faire,  
+Yet word I never durst saye.
 
-And others were clad in pall ; 10
+I have a bower at Bucklesford-Bury `[Bucklefield-berry. fol. MS.]`,  
+Full daintilye bedight,  
+If thoult wend thither, my little Musgrave,  
+Thoust lig in mine armes all night.
 
-And then came in my lord Bamardes wife, The fairest among them all.
-
-. Shee cast an eye on little Musgrave As bright as the summer sunne :
-
-then bethought him little Musgrave, 15 This ladyes heart I have wonne.
-
-Quoth she, I have loved thee, little Musgrave,
-
-Fulle long and manye a daye. So have I loved you, ladye faire,
-
-Yet word I never durst saye. 20
-
-1 have a bower at Bucklesford-Bury ',
-
-Full daintilye bedight. If thoult wend thither, my little Musgrave, Thoust lig in mine armes all night.
-
-Quoth bee, I thanke yee, ladye faire, 25
-
-This kindness yee shew to mee ; And whether it be to my weale or woe.
-
+Quoth hee, I thanke yee, ladye faire,  
+This kindness yee shew to mee;  
+And whether it be to my weale or woe,  
 This night will I lig with thee.
 
-All this beheard a litle foot-page, By his ladyes coach as he ranne : 30
+All this beheard a litle foot-page,  
+By his ladyes coach as he ranne:  
+Quoth he, thoughe I am my ladyes page,  
+Yet Ime my lord Barnardes manne.
 
-1 Baddefield-berry. fol. MS
+My lord Barnard shall knowe of this,  
+Although I lose a limbe.  
+And ever whereas the bridges were broke,  
+He layd him downe to swimme.
 
-Quoth he, thoughe I am my ladyes page, Yet I me my lord Barnardes manne.
+Asleep or awake, thou lord Barnard,  
+As thou art a man of life,  
+Lo! this same night at Bucklesford-Bury. 
+Little Musgrave's abed with thy wife.
 
-My lord Barnard shall knowe of this,
-
-Although I lose a limhe. And ever whereas the bridges were broke, 35
-
-He layd him downe to swimme.]
-
-Asleep or awake, thou lord Barnard,
-
-As thou art a man of life, Lo! this same night at Bucklesford-Bury
-
-Little Musgrave's abed with thy wife. 40
-
-If it be trew, thou litle foote-page, .
-
-This tale diou hast told to mee. Then all my lands in Bucklesford-Bury
-
+If it be trew, thou litle foote-page,  
+This tale thou hast told to mee,  
+Then all my lands in Bucklesford-Bury. 
 I freelye will give to thee.
 
-But and it be a lye, thou litle foot-page, 45
-
-This tale thou hast told to mee. On the highest tree in Bucklesford-Bury
-
+But and it be a lye, thou litle foot-page,  
+This tale thou hast told to mee,  
+On the highest tree in Bucklesford-Bury.  
 All hanged shalt thou bee.
 
-Rise up, rise up, my merry men all.
-
-And saddle me my good steede ; 50
-
-This night must I to Bucklesford-bury ;
-
+Rise up, rise up, my merry men all,  
+And saddle me my good steede;  
+This night must I to Bucklesford-bury;  
 God wott, I had never more neede.
 
-Then some they whistled, and some they sang, And some did loudlye saye,
-
-L
-
-
-LADT BARNARDr 109
-
-Whenever lord Bamardes home it blewe, 55
-
+Then some they whistled, and some they sang,  
+And some did loudlye saye,  
+Whenever lord Bamardes horne it blewe,  
 Awaye, Musgrave, away.
 
-Methinkes I heare the tlirostle cocke,
+Methinkes I heare the throstle cocke,  
+Methinkes I heare the jaye,  
+Methinkes I heare lord Bamards horne;  
+I would I were awaye.
 
-Methinkes I heare the jaye, Methinkes I heare lord Bamards home ;
+Lye still, lye still, thou little Musgrave,  
+And huggle me from the cold;  
+For it is but some shephardes boye,  
+A whistling his sheepe to the fold.  
+`[V. 64, Is whislting sheepe ore the mold. fol. MS.]`
 
-I would I were awaye. 60
-
-Lye still, lye still, thou little Musgrave,
-
-And huggle me from the cold ; For it is but some shephardes boye
-
-A whistling hiis sheepe to the fold.
-
-Is not thy hawke upon the peavche, 65
-
-Thy horse eating come and haye ? And thou a gaye lady within thine armes;
-
+Is not thy hawke upon the pearche,  
+Thy horse eating corne and haye?  
+And thou a gaye lady within thine armes:  
 And wouldst thou be awaye ?
 
-By this lord Barnard was come to the dore. And lighted upon a stone : 70
+By this lord Barnard was come to the dore,  
+And lighted upon a stone:  
+And he pulled out three silver keyes,  
+And opened the dores eche one.
 
-And he pulled out three silver keyes. And opened the dores eche one.
+He lifted up the coverlett,  
+He lifted up the sheete;  
+How now, how now, thou little Musgrave,  
+Dost find my gaye ladye sweete?
 
-He lifted up the coverlett.
+I find her sweete, quoth little Musgrave,  
+The more is my griefe and paine;  
+Ide gladlye give three hundred poundes,  
+That I were on yonder plaine.
 
-He lifted up the sheete ; How now, how now, thou little Musgrave, 75
-
-Dost find my gaye ladye sweete ?
-
-y. 64, Is whi&tHng sheepe ore tke mold. fbl. MSi.
-
-
-I find her sweete, quoth little Musgr^ve,
-
-The more is my griefe and paine ; Ide gladlye give three hundred poundes
-
-That 1 were on yonder plaine. 80
-
-Arise, arise, thou little Musgrave,
-
-And put thy cloathes nowe on, It shall never be said in my countree.
-
+Arise, arise, thou little Musgrave,  
+And put thy cloathes nowe on,  
+It shall never be said in my countree,  
 That I killed a naked man.
 
-I have two swordes in one scabb^rde, 85
-
-Full deare they cost my purse ; And thou shalt have the best of them.
-
+I have two swordes in one scabbarde,  
+Full deare they cost my purse;  
+And thou shalt have the best of them,  
 And I will have the worse.
 
-The first stroke that little Musgrave strucke, He hurt lord Barnard sore ; 90
+The first stroke that little Musgrave strucke,  
+He hurt lord Barnard sore;  
+The next stroke that lord Barnard strucke,  
+Little Musgrave never strucke more.
 
-The next stroke that lord Barnard strucke, Little Musgrave never strucke more.
+With that bespake the ladye faire,  
+In bed whereas she laye,  
+Althoughe thou art dead, my little Musgrave,
+Yet for thee I will praye:
 
-With that bespake the ladye &ire,
+And wishe well to thy soule will I,  
+So long as I have life;  
+So will I not do for thee, Barnard,  
+Thoughe I am thy wedded wife.
 
-In bed whereas she laye, Althoughe thou art dead, my little Musgrave, 95
-
-Yet for thee I will praye :
-
-And wishe well to thy soule will I,
-
-So long as I have life ; So will I not do for thee, Barnard,
-
-Thoughe I am thy wedded wife. 100
-
-
-LADY BARNARD. Ill
-
-He cut her pappes from off her brest ;
-
-Great pitye it was to see, The drops of this fair ladyes bloode
-
+He cut her pappes from off her brest;  
+Great pitye it was to see,  
+The drops of this fair ladyes bloode  
 Run trickling downe her knee.
 
-Wo worth, wo worth ye, my merrye men all, 105 You never were borne for my goode :
+Wo worth, wo worth ye, my merrye men all,  
+You never were borne for my goode:  
+Why did you not offer to stay my hande,  
+When you sawe me wax so woode?
 
-Why did you not offer to stay my hande, When you sawe me wax so woode ?
+For I have slaine the fairest sir knighte,  
+That ever rode on a steede;  
+So have I done the fairest lady,  
+That ever ware womans weede.
 
-For I have slaine the fairest sir knighte.
-
-That ever rode on a steede ; 110
-
-So have I done the fairest lady, That ever ware womans weede.
-
-A grave, a grave, lord Barnard cryde.
-
-To putt these lovers in ; But lay my ladye o* the upper hande, 115
-
+A grave, a grave, lord Barnard cryde,  
+To putt these lovers in;  
+But lay my ladye o* the upper hande,  
 For shee comes o' the better kin.
 
-fg* That the more modern copy is to be dated about the middle of the last century, will be readily conceived from the tenour of the concluding stanza, viz.
+That the more modern copy is to be dated about the middle of the last century, will be readily conceived from the tenour of the concluding stanza, viz.
 
-** This sad Mischief by Lust was wrought : Then let us call for Grace, That we may shun the wicked vice. And fly from Sin a-pace"
+"This sad Mischief by Lust was wrought:  
+Then let us call for Grace,  
+That we may shun the wicked vice,  
+And fly from Sin a-pace."
 
 
 ---
