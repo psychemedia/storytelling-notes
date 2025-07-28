@@ -1,5 +1,6 @@
 # Buttercup / Butterball
 
+*I first heard this tale, under the title of "Butterball", told by Emily Hennessey at Festival at the Edge in 2019, if my memory serves me correctly. This was the first time I'd been to FatE for several yeas, and the physical energy and expressiveness of the performances by Emily and Debs Newbold, who were both new to me, was a contrast to many of the tellers I'd developed a familiarity with hearing and seeing when we'd been regualarly going to FatT twenty years or so before.*
 
 Popular tales from the Norse
 by Asbjørnsen, Peter Christen, 1812-1885; Moe, Jørgen Engebretsen, 1813-1882; Dasent, George Webbe, Sir, 1817-1896
@@ -131,12 +132,12 @@ Then they all began to wonder who it could be that chattered so, and ran out to 
 
 ---
 
-ALso in Household tales with other traditional remains, collected in The Counties of York, Lincoln, Derby, and Nottingham
+Also in Household tales with other traditional remains, collected in The Counties of York, Lincoln, Derby, and Nottingham
 by Addy, Sidney Oldall, 1848-
 Publication date 1895
 p7-9
 
-6.JACK THE BUTTER-MILK `[Such was the title of the story given to me. It comes from Nottinghamshire.]`
+6. JACK THE BUTTER-MILK `[Such was the title of the story given to me. It comes from Nottinghamshire.]`
 
 JACK was a boy who sold butter-milk. One day as he was going his rounds he met a witch who asked him for some of his butter-milk, and told him that if he refused to give it she would put him into a bag that she carried over her shoulders.
 
@@ -168,4 +169,6 @@ When she had done this she went out of the house and locked Jack in, intending t
 
 When the witch came back she emptied the bag upon the sheet again, and broke all the pots that she had in the house. After this she never caught Jack any more.
 
-## Ivasyk Telesyk
+## Ivasik Telesyk
+
+*When the Ukraine war started in 2022, at a small aid fundraiser in Ryde, I picked up this traditional Ukrainian folk tale from a young woman whose name I have unforgiveably forgotten, who had fled that country in the few weeks before.*
