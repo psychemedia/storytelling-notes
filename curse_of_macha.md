@@ -6,7 +6,7 @@ In one sense, it provides an origin story for the why the men of Ulster were deb
 
 In short, the tale is this:
 
-> One day, the widowed farmer, a commoner, Crundchu, or Cruinniuc, a farmer, returns home to find the beautiful Macha making house. She does — everything. Later, Crundchu is invited to the King's court; the King is showing off his horses; the mem are drinking, and boasting; "do NOT talk of me", the heavily pregnant Macha had said; but when the King said there was nothing faster in all Ireland than his horses, Crundchu let slip his wife was; she was called forth, to prove her speed; she glared at her husband, gestured her state to the rest: "please, you see what state I am in, can't the race wait". But the King would not back down; the race was run, Macha won, and on crossing the finish line her waters broke; two children were born, but both were dead. "A curse on the men of Ulster — may you suffer as if in the pains of childbirth, for five days and four nights whenever Ulster is in greatest need of you; and this to last for none generations." And so it was.
+> One day, the widowed farmer, a commoner, Crundchu, or Cruinniuc, a farmer, returns home to find the beautiful Macha making house. She does — everything. Later, Crundchu is invited to the King's court; the King is showing off his horses; the men are drinking, and boasting; "do NOT talk of me", the heavily pregnant Macha had said; but when the King said there was nothing faster in all Ireland than his horses, Crundchu let slip his wife was; she was called forth, to prove her speed; she glared at her husband, gestured her state to the rest: "please, you see what state I am in, can't the race wait". But the King would not back down; the race was run, Macha won, and on crossing the finish line her waters broke; two children were born, but both were dead. "A curse on the men of Ulster — may you suffer as if in the pains of childbirth, for five days and four nights whenever Ulster is in greatest need of you; and this to last for none generations." And so it was.
 
 Tellings:
 
@@ -309,11 +309,11 @@ There lived on the heights and in the solitudes of the hills a rich farmer of th
 
 When she returned to the house, she turned right about, went into his kitchen and gave directions to his servants; then she took a seat next to Crundchu. Each one went to his couch ; she remained to the last and put out the fire, turned right about again and laid herself down beside him, laying her hand on his side. For a long time they dwelt together. Through his union with her, he increased yet more in wealth. His blooming appearance was delightful to her.
 
-Now the Ultonians frequently held great assemblies and meetings. All, as many as could go, both of men and women, went to the gathering. 'I, too/ said Crundchu, * will go like every one else to the assembly.'
+Now the Ultonians frequently held great assemblies and meetings. All, as many as could go, both of men and women, went to the gathering. 'I, too,' said Crundchu, 'will go like every one else to the assembly.'
 
-* Go not,' said his wife, * lest you run into danger by speaking of us ; for our union will continue only if you do not speak of me in the assembly.'
+'Go not,' said his wife, 'lest you run into danger by speaking of us; for our union will continue only if you do not speak of me in the assembly.'
 
-'Then, indeed, I will not utter a word,* said Crundchu.
+'Then, indeed, I will not utter a word,' said Crundchu.
 
 The Ultonians gathered to the festival, Crundchu also going with the rest. It was a brilliant festival, not alone in regard to the people, but as to horses and costumes also. There took place races and combats, tournaments, games, and processions.
 
@@ -329,7 +329,7 @@ He was made fast, and messengers were despatched from the king to the woman. She
 
 'Alas for that,' said the messenger, 'for your husband will be put to death if you do not come.'
 
-*Then I must needs go,' she said.
+'Then I must needs go,' she said.
 
 Forthwith she went to the assembly. Every one crowded round to see her. 'It is not becoming,' said she, 'that I should be gazed at in this condition. Wherefore am I brought hither?' 'To run in contest with the two horses of the king,' shouted the multitude.
 
@@ -337,11 +337,11 @@ Forthwith she went to the assembly. Every one crowded round to see her. 'It is n
 
 'Unsheath your swords and hew yonder man to death,' said the king.
 
-['Help me,' she cried to the bystanders, 'for a mother hath borne each one of you.] Give me, (O King), but a short delay, until I am delivered.'
+'Help me,' she cried to the bystanders, 'for a mother hath borne each one of you. Give me, (O King), but a short delay, until I am delivered.'
 
 'It shall not be so,' replied the king.
 
-'Then shame upon you who have shown so little respect for me,' she cried. 'Because you take no pity upon me, a heavier infamy will fall upon you.' [What is your name?' asked the king. 'My name,' said she, 'and the name of that which I shall bear, will for ever cleave to the place of this assembly. I am Macha, daughter of Sainreth mac in Botha.] Bring up the horses beside me!' It was done, and she outran the horses and arrived first at the end of the course. Then she gave vent to a cry in her pain, but God helped her, and she bare twins, a son and a daughter, before the horses reached the goal. [Therefore is the place called Emain Macha,' `[Lat., Emania. Now Navan Fort, two miles west of Annagh. For other supposed origins of the name see Ann. Four Masters, A. M. 4532, and notes; Cormac's Glossary, ed. Dr. W. Stokes, p. 63 ; O'Curry MS. Mat., Appendix No. xxxviii. pp. 526-528.]` or 'the twins of Macha.']
+'Then shame upon you who have shown so little respect for me,' she cried. 'Because you take no pity upon me, a heavier infamy will fall upon you.' 'What is your name?' asked the king. 'My name,' said she, 'and the name of that which I shall bear, will for ever cleave to the place of this assembly. I am Macha, daughter of Sainreth mac in Botha.] Bring up the horses beside me!' It was done, and she outran the horses and arrived first at the end of the course. Then she gave vent to a cry in her pain, but God helped her, and she bare twins, a son and a daughter, before the horses reached the goal. [Therefore is the place called Emain Macha,' `[Lat., Emania. Now Navan Fort, two miles west of Annagh. For other supposed origins of the name see Ann. Four Masters, A. M. 4532, and notes; Cormac's Glossary, ed. Dr. W. Stokes, p. 63 ; O'Curry MS. Mat., Appendix No. xxxviii. pp. 526-528.]` or 'the twins of Macha.']
 
 All who heard that cry were suddenly seized with weakness, so that they had no more strength than the woman in her pain. And she said, 'From this hour the ignominy that you have inflicted upon me will redound to the shame of each one of you. When a time of oppression falls upon you, each one of you who dwells in this province will be overcome with weakness, as the weakness of a woman in child-birth, and this will remain upon you for five days and four nights ; to the ninth generation it shall be so.' `[ The Cessnóiden Ukad seems, however, to have lasted for a much longer time than this. See Táin bó Cuailgne (Prol. and sec. 94, 96, etc. ), and Additional Note.]`
 
