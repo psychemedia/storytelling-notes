@@ -17,7 +17,7 @@ RICHMOND RIPPLES.
 
 Ever since my advent to Richmond I have been vainly seeking for the local "ghost," "bogie," or boggard." What splendid hunting ground for any respectable ghost in want situation here presents itself. Certainly I have heard of the "drummer boy," but what a pitiful fraction a ghost drummer makes.
 
-This is the drummer-boy yarn:—There is, be it known, a secret underground way from Easby Abbey to the Market Cross. A poor drummer-boy, upon promise of rich reward, entered the mouth ot the passage and toiled along, beating his drum as he went. At first the ran-tan-plan was clearly heard, then less distinctly, till finally the sound lapsed into silence. No search, however vigorous, could find trace either of drummer or drum. Years have since passed, but the little drummer has never once showed himself to mortal view. The rub-a-dub-dub of his little drum is, however, still heard faintly beating by the loving couples who stroll on moonlit nights around peaceful Easby.
+This is the drummer-boy yarn:—There is, be it known, a secret underground way from Easby Abbey to the Market Cross. A poor drummer-boy, upon promise of rich reward, entered the mouth of the passage and toiled along, beating his drum as he went. At first the ran-tan-plan was clearly heard, then less distinctly, till finally the sound lapsed into silence. No search, however vigorous, could find trace either of drummer or drum. Years have since passed, but the little drummer has never once showed himself to mortal view. The rub-a-dub-dub of his little drum is, however, still heard faintly beating by the loving couples who stroll on moonlit nights around peaceful Easby.
 
 ```
 

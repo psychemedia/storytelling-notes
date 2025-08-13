@@ -167,7 +167,7 @@ The distressed wife came down, and threw herself at his feet, all in tears, with
 
 He knew them to he his wife's brothers, one a dragoon, the other a musketeer; so he ran immediately to save himself; but the two brothers pursued so closely, that they overtook him before he could get to the steps of the porch, when they ran their swords through his body, and left him dead.
 
-The poor wife was almost as dead as her husband, and had not strength enough to rise and welcome her brothers. Blue Beard had no heirs, and so his wife became mistress ot all his estate. She made use of one part of it to marry her sister Anne to a young gentleman, who had loved her a longwhile; another part, to buy captains' commissions for her brothers; and the rest, to marry herself to a very worthy gentleman, who made her forget the ill time she had passed with Blue Beard.
+The poor wife was almost as dead as her husband, and had not strength enough to rise and welcome her brothers. Blue Beard had no heirs, and so his wife became mistress of all his estate. She made use of one part of it to marry her sister Anne to a young gentleman, who had loved her a longwhile; another part, to buy captains' commissions for her brothers; and the rest, to marry herself to a very worthy gentleman, who made her forget the ill time she had passed with Blue Beard.
 ```
 
 The Grimm's *Robber Bridegroom*, however, does seem to work better as a possible straight tell, for me at least:

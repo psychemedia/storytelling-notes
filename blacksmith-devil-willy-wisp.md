@@ -764,7 +764,7 @@ Then, suiting the action to the word, he deliberately took off his coat and bree
 
 'Eamon, a vick,' resumed my uncle, upon seeing my extravagant contortions; 'Eamon, is it yer books that taches ye to laugh at yer uncle, ma boochal? I seen, in my own time, some conceated chaps o' yer kitney (kidney) turn their coats for a worse reason than this.'
 
-The sharpness ot the last remark showed that I had greatly offended, and I endeavored to sooth his irritation, by expressing deep contrition for my illtimed laughter fit, and by literally turning my coat, leaving, however, the neither garment undisturbed; but my toilet was hardly completed when the wandering light, after a few curves along the stream, dashed into a small glen that opened into the brook, and finally disappeared.
+The sharpness of the last remark showed that I had greatly offended, and I endeavored to sooth his irritation, by expressing deep contrition for my illtimed laughter fit, and by literally turning my coat, leaving, however, the neither garment undisturbed; but my toilet was hardly completed when the wandering light, after a few curves along the stream, dashed into a small glen that opened into the brook, and finally disappeared.
 
 As w'e strode homeward, along the well-known pathway, my uncle, now relieved from those fears which the presence of the meteor had occasioned, said —
 

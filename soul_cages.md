@@ -35,7 +35,7 @@ It was rather annoying to Jack, that; though living in a place where the Merrows
 
 Fortune at length began to think that it was only right that Jack should know as much as his father and grandfather did. Accordingly, one day when he had strolled a little farther than usual along the coast to the northward, just as he turned a point, he saw something, like to nothing he had ever seen before, perched upon a rock at a little distance out to sea: it looked green in the body, as well as he could discern at that distance, and he would have sworn, only the thing was impossible, that it had a cocked hat in its hand. Jack stood for a good half hour straining his eyes and wondering at it, and all the time the thing did not stir hand or foot. At last Jack's patience was quite worn out, and he gave a loud whistle and a hail, when the Merrow (for such it was) started up, put the cocked hat on its head, and dived down, head foremost, from the rock.
 
-Jack's curiosity was now excited, and he constantly directed his steps towards the point; still he could never get a glimpse of the sea gentleman with the cocked hat; and with thinking and thinking about the matter, he began at last to fancy he had been only dreaming. One very rough day, however, when the sea was running mountains high, Jack Dogherty determined ot give a look at the Merrow's rock (for he had always chosen a fine day before), and then he saw the strange thing cutting capers upon the top of the rock, and then diving down, and then coming up, and then diving down again.
+Jack's curiosity was now excited, and he constantly directed his steps towards the point; still he could never get a glimpse of the sea gentleman with the cocked hat; and with thinking and thinking about the matter, he began at last to fancy he had been only dreaming. One very rough day, however, when the sea was running mountains high, Jack Dogherty determined to give a look at the Merrow's rock (for he had always chosen a fine day before), and then he saw the strange thing cutting capers upon the top of the rock, and then diving down, and then coming up, and then diving down again.
 
 Jack had now only to choose his time (that is, a good blowing day), and he might see the man of the sea as often as he pleased. All this, however, did not satisfy him — "much will have more `[TH: as the old saying goes]`;" he wished now to get acquainted with the Merrow, and even in this he succeeded. One tremendous blustering day, before he got to the point, whence he had a view of the Merrow's rock, the storm came on so furiously that Jack was obliged to take shelter in one of the caves which are so numerous along the coast; and there, to his astonishment, he saw sitting before him a thing with green hair, long green teeth, a red nose, and pig's eyes. It had a fish's tail, legs with scales on them, and short arms like fins: it wore no clothes, but had the cocked hat under its arm, and seemed engaged thinking very seriously about something.
 
@@ -85,7 +85,7 @@ They both left the cave, walked into the sea, and then swam a piece until they g
 
 "Now, do you see, Jack," said the Merrow: "just put this hat on your head, and mind to keep your eyes wide open. Take hold of my tail, and follow after me, and you'll see what you'll see."
 
-In he dashed, and in dashed Jack after him boldly. They went and they went, and Jack thought they'd never stop going. Many a time did he wish himself sitting at home by the fireside with Biddy. Yet, where was the use of wishing now, when he was so many miles as he thought below the waves of the Atlantic? Still he held hard by the Merrow's tail, slippery as it was; and, at last, to Jack's great surprise, they got out of the water, and he actually found himself on dry land at the bottom of the sea. They landed just in front of a nice house that was slated very neatly with oyster shells! and the Merrow turning about ot Jack, welcomed him down.
+In he dashed, and in dashed Jack after him boldly. They went and they went, and Jack thought they'd never stop going. Many a time did he wish himself sitting at home by the fireside with Biddy. Yet, where was the use of wishing now, when he was so many miles as he thought below the waves of the Atlantic? Still he held hard by the Merrow's tail, slippery as it was; and, at last, to Jack's great surprise, they got out of the water, and he actually found himself on dry land at the bottom of the sea. They landed just in front of a nice house that was slated very neatly with oyster shells! and the Merrow turning about to Jack, welcomed him down.
 
 Jack could hardly speak, what with wonder, and what with being out of breath with travelling so fast through the water. He looked about him and could see no living things, barring crabs and lobsters, of which there were plenty walking leisurely about on the sand. Overhead was the sea like a sky, and the fishes like birds swimming about in it.
 
@@ -174,7 +174,7 @@ The coast being clear, away went Jack to the rock to give the appointed signal t
 
 "It's quite agreeable, Jack, I assure you; what's your hour?"
 
-"Any time that's most convenient ot you, sir — say one o'clock, that you may go home, if you wish, with the day-light."
+"Any time that's most convenient to you, sir — say one o'clock, that you may go home, if you wish, with the day-light."
 
 "I'll be with you," said Coo, "never fear me."
 
@@ -273,7 +273,7 @@ On the Irishisms used in the Legend of "the Soul Cages" a few words. *Arrah* is 
 
 *By the Laws*, is, as is well known, a softening down of a very solemn asseveration. If taken literally, people may fancy it an oath not very binding in the mouth of an Irishman, who is seldom distinguished by his profound veneration for the Statute Book. This, however, only proves that law and justice in Ireland were essentially different things; for sir John Davies, himself a lawyer, remarked, long since, how fond the natives were of justice; and it is to be hoped that a regular and impartial administration will speedily impress them as synonimes on the mnids of the Irish peasantry.
 
-Few need to be informed that the lower orders in Ireland, although their tone is different, speak the English language more grammatically than those of the same rank in England. The word *yez* or *youz* affords an instance of their attention to etymology; for as they employ *you* in speaking ot a single person, they naturally enough imagined that it should be employed in the plural when addressed to more than one.
+Few need to be informed that the lower orders in Ireland, although their tone is different, speak the English language more grammatically than those of the same rank in England. The word *yez* or *youz* affords an instance of their attention to etymology; for as they employ *you* in speaking to a single person, they naturally enough imagined that it should be employed in the plural when addressed to more than one.
 
 "A hair of the dog that bit him," is the common recommendation of an old toper to a young one, on the morning after a debauch.
 

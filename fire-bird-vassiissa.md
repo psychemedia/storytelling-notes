@@ -281,7 +281,7 @@ There was no gratitude in the mind of that Tzar.
 
 Swiftly the servants brought wood and made a mighty fire, and on it they laid a huge cauldron of water, and built the fire round the walls of the cauldron. The fire burned hot and the water steamed. The fire burned hotter, and the water bubbled and seethed. They made ready to take the young archer, to throw him into the cauldron.
 
-"Oh, misery!" thought the young archer. "Why did I ever take the golden feather that had fallen from the fire-bird's burning breast? Why did I not listen to the wise words of the horse ot power?" And he remembered the horse of power, and he begged the Tzar:
+"Oh, misery!" thought the young archer. "Why did I ever take the golden feather that had fallen from the fire-bird's burning breast? Why did I not listen to the wise words of the horse of power?" And he remembered the horse of power, and he begged the Tzar:
 
 "O lord Tzar, I do not complain. I shall presently die in the heat of the water on the fire. Suffer me, before I die, once more to see my horse."
 
