@@ -2,14 +2,7 @@
 
 *Once there was a girl, a pretty little girl, and she was known, as: "Bonnie Annie"... She grew up to be quite beautiful... and didn't she know it...*
 
-```{youtube} rV4yjHUBIw
-```
-
 I first came across this tale in Sabine Baring-Gould's *Old English Fairy Tales*. I've told it in the course of a sea-shanty evening, with the ending as Baring-Gould described it (the death of the female lead character), and which left the audience... slightly stunned. But the next item in the programme was a shanty band leading some singalong shanties, which brought the mood back up (as I expected it would...)
-
-??first part feels as if it might have been repurposed from some other tale (the ballad starts off far more abruptly, with Captain presumably seducing the maiden)
-
-sbg's version is not very satisfactory, so I have made a start on repairing it so that it works for me, and is perhaps more in keeping with the original ballad.
 
 ```{admonition} *The Undutiful Daughter*, 1895
 :class: dropdown
@@ -31,7 +24,7 @@ He was sorrowful when he heard this, and he said to her, "My dear child, unless 
 
 But she was headstrong and vain, and nothing would satisfy her but to have her looking-glass chamber. She answered her father and said,
 
-What is there more beautiful to be seen than my face?"
+"What is there more beautiful to be seen than my face?"
 
 He rejoined, "Surely there are sweet flowers, the rose and the lily, and the daffadowndilly."
 
@@ -159,7 +152,7 @@ She went into her room lined with looking-glasses, and said, "I shall marry a ki
 
 "And I shall be rocked to sleep by attendants dressed in gowns of blue," said the girl.
 
-"Who said that?" asked her mother. 146
+"Who said that?" asked her mother.
 
 "That was told by the raven when he said 'Caw.'"
 
@@ -183,9 +176,7 @@ She went into her room lined with looking-glasses, and said, "I shall marry a ki
 
 But the girl would give no heed to what her mother said. She believed the earthworm, but not her own mother.
 
-Now drew near this damsel's birthday, when she would be eighteen. And one night she had a dream, and in that dream she saw the Old Woman of Norwood, who said to her, "I have appeared to tell you something. There is a feather on the tail of the gnat that flies above my oak tree, and the feather told the gnat, and the gnat told the raven, and the raven told the cat, and the cat told the dog, and the dog told the earthworm, and the earthworm
-
-scribbled the message on a bit of an old crock, that you were to marry on your eighteenth birthday the promised king. You must say nothing to your father or mother. He is now in the harbour with his ship, and the sign of the ship is The Golden Apple. Ask your father to let you go down to see over the barque. The Golden Apple, and the captain is he who will be your husband. I have sent a hedge-priest to the town, and he will marry you on board ship. But mind this — if you say a word to your father or mother about this, all will fall through that has been promised you. I have appeared in dream to the sea-captain, and he will expect you. The priest you will see standing by the capstan. He has been unfrocked by the bishop, but what of that? A priest is always a priest."
+Now drew near this damsel's birthday, when she would be eighteen. And one night she had a dream, and in that dream she saw the Old Woman of Norwood, who said to her, "I have appeared to tell you something. There is a feather on the tail of the gnat that flies above my oak tree, and the feather told the gnat, and the gnat told the raven, and the raven told the cat, and the cat told the dog, and the dog told the earthworm, and the earthworm scribbled the message on a bit of an old crock, that you were to marry on your eighteenth birthday the promised king. You must say nothing to your father or mother. He is now in the harbour with his ship, and the sign of the ship is The Golden Apple. Ask your father to let you go down to see over the barque. The Golden Apple, and the captain is he who will be your husband. I have sent a hedge-priest to the town, and he will marry you on board ship. But mind this — if you say a word to your father or mother about this, all will fall through that has been promised you. I have appeared in dream to the sea-captain, and he will expect you. The priest you will see standing by the capstan. He has been unfrocked by the bishop, but what of that? A priest is always a priest."
 
 The girl's father came to her and said, "Tomorrow is your birthday: ask what you wish, and I will do it for you."
 
@@ -201,9 +192,7 @@ By the capstan was a man, all shaven and shorn, but with a hang-dog look, and th
 
 The captain invited them down into his cabin, and then all at once he whistled, and his sailors sprang on the father and mother, and bound their hands, and put something over their mouths that they could not cry out, and forthwith the sea-captain gave his hand to the damsel, and led her up the companion ladder on deck, and the hedge-priest hastily married them over the capstan.
 
-After that, the sea-captain said, "Make haste, go home and bring all the gold and silver and jewels in the house. I will not let your parents go till that is done.
-
-Oh, take of your father his gold and his treasure, Oh, take of your mother her fee without measure."
+After that, the sea-captain said, "Make haste, go home and bring all the gold and silver and jewels in the house. I will not let your parents go till that is done. Oh, take of your father his gold and his treasure, Oh, take of your mother her fee without measure."
 
 "But," said she, "is it true that you are a king?"
 
@@ -235,9 +224,7 @@ He said, "Go and fetch them."
 
 So she went back and brought the gold bodkin and the silver spoon, and then nothing was left in the house but pewter dishes and maplewood bowls, and a wooden spoon.
 
-Now, when she had thus cleared her home, then the captain released her father and mother, and at once spread sail, and as there was a fine wind off
-
-shore, the sail filled, and the ship flew away to sea like a gull.
+Now, when she had thus cleared her home, then the captain released her father and mother, and at once spread sail, and as there was a fine wind off shore, the sail filled, and the ship flew away to sea like a gull.
 
 Then said the damsel, "But where is the coach?" and where are the white horses?"
 
@@ -249,7 +236,7 @@ The captain laughed and answered, "This ship is the coach, and the waves shaking
 
 Then she saw that she had been deceived, and she cried out —
 
-"O captain! O captain! here's fifty gfld crowns.  
+"O captain! O captain! here's fifty gold crowns.  
 I pray thee, I pray thee to turn the ship round.  
 O captain! O captain, here's fifty gold pounds,  
 If thou wilt but set me again on the ground."
@@ -270,27 +257,34 @@ Then the sailors saw they were in evil plight, and that there was something whic
 
 The sailors dived and examined the ship's keel, and no remora was there. So they knew that the fault must be on board, and they resolved to draw lots, and discover who it was who held the ship fast in mid-seas.
 
-They cast the black bullets as they sailed on the water, The black bullet fell on the undutiful daughter. "Oh, who in the ship must go over the side?" Oh, none save the maiden, the fair captain's bride.
+They cast the black bullets as they sailed on the water,  
+The black bullet fell on the undutiful daughter.  
+"Oh, who in the ship must go over the side?"  
+Oh, none save the maiden, the fair captain's bride.
 
-When the damsel learned that the lot had fallen on her, and she was to be cast overboard, and that
-
-unless she were drowned, the ship could not move on her way, then she said, weeping —
+When the damsel learned that the lot had fallen on her, and she was to be cast overboard, and that unless she were drowned, the ship could not move on her way, then she said, weeping —
 
 "Oh, get me a boat that is narrow and thin  
 And set me, undutiful daughter, therein."
 
 But they refused. They wanted the boat for themselves, and could not spare it for her. Then she said —
 
-"Oh, take a white napkin, about my head bind it. Oh, take a white napkin, about my feet wind it. Alack that I must in the deep salten water, Alack! I must sink, an undutiful daug-hter."
+"Oh, take a white napkin, about my head bind it.  
+Oh, take a white napkin, about my feet wind it.  
+Alack that I must in the deep salten water,  
+Alack! I must sink, an undutiful daughter."
 
-To this they agreed. They bound a v/hite kerchief about her head, and they wrapped a sheet about her feet.
+To this they agreed. They bound a white kerchief about her head, and they wrapped a sheet about her feet.
 
-They took a white napkin, about her head bound it, They took a white napkin, about her feet wound it, They cast the fair pretty maid over, and she Did sink out of sight in cruel salt sea.
+They took a white napkin, about her head bound it,  
+They took a white napkin, about her feet wound it,  
+They cast the fair pretty maid over,  
+and she did sink out of sight in cruel salt sea.
 
 Then at once the beak of the vessel began to cut the waves, they foamed about her sides, and she sped along her course like a gull. That night there was no cloud in the sky, an east wind was blowing, and the moon was full. Then the man at the wheel saw something in the water: —
 
-The moon it was shining, the tide it was flowing, Oh, what in the wake of the vessel was swimming?
-
+The moon it was shining, the tide it was flowing,  
+Oh, what in the wake of the vessel was swimming?  
 "Oh, see, boys! oh, see! how she floats in the water!  
 Oh, see, boys! oh, see! the undutiful daughter."
 
@@ -298,8 +292,8 @@ At the cry of the man at the helm all the crew ran on deck, and with them the ca
 
 Then the sea-captain spoke, standing in the bows —
 
-"Why swim in the moonlight, upon the sea swaying-?  
-Oh, what art thou seeking-? for what art thou praying?"  
+"Why swim in the moonlight, upon the sea swaying?  
+Oh, what art thou seeking? for what art thou praying?"  
 "O captain! O captain! I float on the water,  
 For the sea giveth up the undutiful daughter.
 
@@ -316,7 +310,7 @@ It was clear that she could not sink. The sea rejected her, because of her guilt
 
 After three days, the sailors became so alarmed at being thus followed by the dead woman, that they insisted on her demand being complied with. So she was again taken on board.
 
-Now, all the gold was brought forth and melted up, and made into a golden coffin, and in that golden cofBn her body was laid; and they put in beside her all the jewels she had taken from her parents. Then they lowered the gold coffin into the sea again, and at once it began to float away, with the sun shining on it, and was lost to sight.
+Now, all the gold was brought forth and melted up, and made into a golden coffin, and in that golden coffin her body was laid; and they put in beside her all the jewels she had taken from her parents. Then they lowered the gold coffin into the sea again, and at once it began to float away, with the sun shining on it, and was lost to sight.
 
 After three days, they were short of water, and so came ashore to fill their casks.
 
@@ -329,7 +323,7 @@ It was even so. The first thing they saw on coming to land was the gold coffin w
 
 ```
 
-```{admonition} Barine-Gould's notes, 1895
+```{admonition} Baring-Gould's notes, 1895
 :class: dropdown seealso
 
 Note.— The old ballad of "The Undutiful Daughter" is one that I have heard from half a dozen aged singers in the west of England. It is always sung to the melody to which "The Frog and the Crow" is set in Mr. W. Crane's The Bahys Opera. A similar ballad is found in Scotland, "Bonnie Annie"; it is given by Kinloch, but is more imperfect than the English form of the ballad. In the story I have based on it, all the first part is new; for obvious reasons I have been unable to follow the ballad exactly — that is to say, for reasons obvious to all who are acquainted with the ballad.
@@ -341,6 +335,7 @@ There is an old printed ballad entitled "The Faithless Captain; or, The Betrayed
 Several years earlier, Baring-Gould's collection of the ballad in Devon merited a note in Child's collection alongside "Bonnie Annie", which Baring-Gould also likened to the Cornish ballad he had heard:
 
 ```{admonition} As "Bonnie Annie", in Child's *The English and Scottish popular ballads*, 1882
+:class: dropdown
 
 Francis James Child, *The English and Scottish popular ballads*, 1882, [p452-3](https://archive.org/details/englishscottishp08chil/page/452/mode/1up).
 
@@ -506,7 +501,7 @@ It would be difficult to ascertain where *Yerrow* is situated; it would seem, ho
 
 ```
 
-Several variations of the ballad of *Bonnie Annie* also appear as *The Banks of the Green Willow* and have been collected as part of an extensive songbook on the [*Musical Traditions*](https://www.mustrad.org.uk/) website: [*The Banks of the Green Willow*](https://www.mustrad.org.uk/songbook/banks_gw.htm). The copyright notice seeks permission as well as attribution as paert of the reproduction rights, so... too much overhead for me. The content is only a click away...
+Several variations of the ballad of *Bonnie Annie* also appear as *The Banks of the Green Willow* and have been collected as part of an extensive songbook on the [*Musical Traditions*](https://www.mustrad.org.uk/) website: [*The Banks of the Green Willow*](https://www.mustrad.org.uk/songbook/banks_gw.htm).
 
 ## The Old Woman of Norwood
 
