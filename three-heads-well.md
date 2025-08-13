@@ -1,6 +1,6 @@
 # The Three Heads of the Well
 
-When we first started going to stories 25 years or so ago, this is one of tales I remember being frequently told, and one of my favourites to listen to, perhaps because of that, perhaps because of the repeated refrain, with each teller having their own variant, or perhaps because of the comic potential. I first starting telling it for the 'Tis Tales "Spring Tales" set, in Spring, 2023.
+When we first started going to stories 25 years or so ago, this is one of tales I remember being frequently told. It's still one of my favourites to listen to, perhaps because of that, perhaps because of the repeated refrain, with each teller having their own variant, or perhaps because of the comic potential. I first starting telling it for the 'Tis Tales "Spring Tales" set, in Spring, 2023.
 
 Here's the gist of the story:
 
