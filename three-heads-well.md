@@ -18,7 +18,7 @@ In terms of collected sources, we can first look to Jacobs' *English Fairy Tales
 ```{admonition} *The Three Heads of the Well*, Jacobs, 1890
 :class: dropdown
 
-In *English Fairy Tales*, Joseph Jacobs, 1890, pp.222-227](https://archive.org/details/englishfairytal00jacogoog/page/n256/mode/2up)
+In *English Fairy Tales*, Joseph Jacobs, 1890, [pp.222-227](https://archive.org/details/englishfairytal00jacogoog/page/n256/mode/2up)
 
 The Three Heads of the Well
 
