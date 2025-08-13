@@ -93,7 +93,7 @@ Jacobs also provides some historical notes on the story:
 ```{admonition} Jacobs, *Notes on "Three Heads of the Well"*
 :class: dropdown
 
-XLIII. THE THREE HEADS OF THE WELL. 
+THE THREE HEADS OF THE WELL. 
 
 Source, — Halliwell, p. 158. The second wish has been somewhat euphemised. 
 
@@ -425,7 +425,145 @@ Cockell callest thou it boy, aith Ile give you cockell bread.
 
 ````
 
-In his notes, Jacobs makes reference to a Scottish tale involving a well at the World's End. A tale called "The Well of the World's End", which resembles Grimm's "The Frog Prince", also appears in *English Fairy Tales*, in which a step-daughter is set an impossible task: fetching water from the well with a sieve. A frog provides advice to daub the sieve with moss in return for a promise to do his bidding for a night. The frog follows the girl home, and her step-mother forces her to do his bidding as promised. At last he tells her to chop of his head; she is unwilling, but as she does so he turns into a Prince.
+In his notes, Jacobs makes reference to "the contrasted fates of two step-sisters" in the context of the Grimm bothers' *Frau Holle* (Grimm, No. 24):
+
+```{admonition} Mother Holle
+:class: dropdown
+
+*Grimm's household tales: with the author's notes*, transl. by Margaret Hunt, with an introduction by Andrew Lang, 1884, [pp.104-107](https://archive.org/details/grimmshouseholdt01grim/page/104/mode/2up)
+
+24.— MOTHER HOLLE.
+
+There was once a widow who had two daughters — one of whom was pretty and industrious, whilst the other was ugly and idle. But she was much fonder of the ugly and idle one, because she was her own daughter; and the other, who was a step-daughter, was obliged to do all the work, and be the Cinderella of the house. Every day the poor girl had to sit by a well, in the highway, and spin and spin till her fingers bled.
+
+Now it happened that one day the shuttle was marked with her blood, so she dipped it in the well, to wash the mark off ; but it dropped out of her hand and fell to the bottom. She began to weep, and ran to her step-mother and told her of the mishap. But she scolded her sharply, and was so merciless as to say, "Since you have let the shuttle fall in, you must fetch it out again."
+
+So the girl went back to the well, and did not know what to do; and in the sorrow of her heart she jumped into the well to get the shuttle. She lost her senses; and when she awoke and came to herself again, she was in a lovely meadow where the sun was shining and many thousands of flowers were growing. Along this meadow she went, and at last came to a baker's oven full of bread, and the bread cried out, "Oh, take me out! take me out! or I shall burn; I have been baked a long time!" So she went up to it, and took out all the loaves one after another with the bread-shovel. After that she went on till she came to a tree covered with apples, which called out to her, "Oh, shake me! shake me! we apples are all ripe!" So she shook the tree till the apples fell like rain, and went on shaking till they were all down, and when she had gathered them into a heap, she went on her way.
+
+At last she came to a little house, out of which an old woman peeped; but she had such large teeth that the girl was frightened, and was about to run away.
+
+But the old woman called out to her, "What are you afraid of, dear child? Stay with me; if you will do all the work in the house properly, you shall be the better for it. Only you must take care to make my bed well, and to shake it thoroughly till the feathers fly — for then there is snow on the earth. I am Mother Holle." `[Thus in Hesse, when it snows, they say, "Mother Holle is making her bed."]`
+
+As the old woman spoke so kindly to her, the girl took courage and agreed to enter her service. She attended to everything to the satisfaction of her mistress, and always shook her bed so vigorously that the feathers flew about like snow-flakes. So she had a pleasant life with her; never an angry word; and boiled or roast meat every day.
+
+She stayed some time with Mother Holle, and then she became sad. At first she did not know what was the matter with her, but found at length that it was homesickness: although she was many thousand times better off here than at home, still she had a longing to be there. At last she said to the old woman, "I have a longing for home; and however well off I am down here, I cannot stay any longer; I must go up again to my own people." Mother Holle said, "I am pleased that you long for your home again, and as you have served me so truly, I myself will take you up again." Thereupon she took her by the hand, and led her to a large door. The door was opened, and just as the maiden was standing beneath the doorway, a heavy shower of golden rain fell, and all the gold remained sticking to her, so that she was completely covered over with it.
+
+"You shall have that because you are so industrious," said Mother Holle; and at the same time she gave her back the shuttle which she had let fall into the well. Thereupon the door closed, and the maiden found herself up above upon the earth, not far from her mother's house.
+
+And as she went into the yard the cock was standing by the well-side, and cried —
+
+"Cock-a-doodle-doo! Your golden girl's come back to you!"
+
+So she went in to her mother, and as she arrived thus covered with gold, she was well received, both by her and her sister.
+
+The girl told all that had happened to her; and as soon as the mother heard how she had come by so much wealth, she was very anxious to obtain the same good luck for the ugly and lazy daughter. She had to seat herself by the well and spin ; and in order that her shuttle might be stained with blood, she stuck her hand into a thorn bush and pricked her finger. Then she threw her shuttle into the well, and jumped in after it.
+
+She came, like the other, to the beautiful meadow and walked along the very same path. When she got to the oven the bread again cried, "Oh, take me out! take me out! or I shall burn; I have been baked a long time!" But the lazy thing answered, "As if I had any wish to make myself dirty?" and on she went. Soon she came to the apple-tree, which cried, "Oh, shake me! shake me! we apples are all ripe!" But she answered, "I like that! one of you might fall on my head," and so went on.
+
+When she came to Mother Hollo's house she was not afraid, for she had already heard of her big teeth, and she hired herself to her immediately.
+
+The first day she forced herself to work diligently, and obeyed Mother Holle when she told her to do anything, for she was thinking of all the gold that she would give her. But on the second day she began to be lazy, and on the third day still more so, and then she would not get up in the morning at all. Neither did she make Mother Holle's bed as she ought, and did not shake it so as to make the feathers fly up. Mother Holle was soon tired of this, and gave her notice to leave. The lazy girl was willing enough to go, and thought that now the golden rain would come. Mother Holle led her too to the great door; but while she was standing beneath it, instead of the gold a big kettleful of pitch was emptied over her. "That is the reward of your service," said Mother Holle, and shut the door.
+
+So the lazy girl went home; but she was quite covered with pitch, and the cock by the well-side, as soon as he saw her, cried out —
+
+"Cock-a-doodle-doo! Your pitchy girl's come back to you!"
+
+But the pitch stuck fast to her, and could not be got off as long as she lived.
+
+```
+
+Jacobs also makes reference to a Scottish tale involving a well at the World's End. A tale called "The Well of the World's End", which resembles Grimm's "The Frog Prince", also appears in *English Fairy Tales*, in which a step-daughter is set an impossible task: fetching water from the well with a sieve. A frog provides advice to daub the sieve with moss in return for a promise to do his bidding for a night. The frog follows the girl home, and her step-mother forces her to do his bidding as promised. At last he tells her to chop of his head; she is unwilling, but as she does so he turns into a Prince.
+
+```{admonition} The Well of the World's End
+In *English Fairy Tales*, Joseph Jacobs, 1890, [pp.215-219]https://archive.org/details/englishfairytal00jacogoog/page/n246/mode/2up)
+
+The Well of the World's End
+
+Once upon a time, and a very good time it was, though it wasn't in my time, nor in your time, nor any one else's time, there was a girl whose mother had died, and her father had married again. And her stepmother hated her because she was more beautiful than herself, and she was very cruel to her. She used to make her do all the servant's work, and never let her have any peace. At last, one day, the stepmother thought to get rid of her altogether; so she handed her a sieve and said to her: "Go, fill it at the Well of the World's End and bring it home to me full, or woe betide you." For she thought she would never be able to find the Well of the World's End, and, if she did, how could she bring home a sieve full of water?
+
+Well, the girl started off, and asked every one she met to tell her where was the Well of the World's End. But nobody knew, and she didn't know what to do, when a queer little old woman, all bent double, told her where it was, and how she could get to it. So she did what the old woman told her, and at last arrived at the Well of the World's End. But when she dipped the sieve in the cold, cold water, it all ran out again. She tried and she tried again, but every time it was the same ; and at last she sate down and cried as if her heart would break.
+
+Suddenly she heard a croaking voice, and she looked up and saw a great frog with goggle eyes looking at her and speaking to her.
+
+![The Well of the World's End](images/jacobs_eft_well_words_end.png)
+
+"What's the matter, dearie?" it said.
+
+"Oh, dear, oh dear," she said, "my stepmother has sent me all this long way to fill this sieve with water from the Well of the World's End, and I can't fill it no how at all."
+
+"Well," said the frog, "if you promise me to do whatever I bid you for a whole night long, I'll tell you how to fill it."
+
+So the girl agreed, and then the frog said:
+
+"Stop it with moss and daub it with clay,  
+And then it will carry the water away;"
+
+and then it gave a hop, skip and jump, and went flop into the Well of the World's End.
+
+So the girl looked about for some moss, and lined the bottom of the sieve with it, and over that she put some clay, and then she dipped it once again into the Well of the World's End ; and this time, the water didn't run out, and she turned to go away.
+
+Just then the frog popped up its head out of the Well of the World's End, and said: "Remember your promise."
+
+"All right," said the girl; for thought she, "what harm can a frog do me?"
+
+So she went back to her stepmother, and brought the sieve full of water from the Well of the World's End. The stepmother was fine and angry, but she said nothing at all. That very evening they heard something tap tapping at the door low down, and a voice cried out:
+
+"Open the door, my hinny, my heart,  
+Open the door, my own darling;  
+Mind you the words th:)t you and I spoke,  
+Down in the meadow, at the World's End Well."
+
+"Whatever can that be?" cried out the stepmother, and the girl had to tell her all about it, and what she had promised the frog.
+
+"Girls must keep their promises," said the stepmother. "Go and open the door this instant." For she was glad the girl would have to obey a nasty frog.
+
+So the girl went and opened the door, and there was the frog from the Well of the World's End. And it hopped, and it skipped, and it jumped, till it reached the girl, and then it said:
+
+"Lift me to your knee, my hinny, my heart;  
+Lift me to your knee, my own darling;  
+Remember the words you and I spoke,  
+Down in the meadow by the World's End Well."
+
+But the girl didn't like to, till her stepmother said: "Lift it up this instant, you hussy ! Girls must keep their promises!"
+
+So at last she lifted the frog up on to her lap, and it lay there for a time, till at last it said :
+
+"Give me some supper, my hinny, my heart.  
+Give me some supper, my darling;  
+Remember the words you and I spake,  
+In the meadow, by the Well of the World's End."
+
+Well, she didn't mind doing that, so she got it a bowl of milk and bread, and fed it well. And when the frog had finished, it said:
+
+"Go with me to bed, my hinny, my heart.  
+Go with me to bed, my own darling;  
+Mind you the words you spake to me,  
+Down by the cold well, so weary."
+
+But that the girl wouldn't do, till her stepmother said: "Do what you promised, girl ; girls must keep their promises. Do what you're bid, or out you go, you and your froggie."
+
+So the girl took the frog with her to bed, and kept it as far away from her as she could. Well, just as the day was beginning to break what should the frog say but :
+
+"Chop off my head, my hinny, my heart.  
+Chop off my head, my own darling;  
+Remember the promise you made to me,  
+Down by the cold well so weary."
+
+At first the girl wouldn't, for she thought of what the frog had done for her at the Well of the World's End. But when the frog said the words over again, she went and took an axe and chopped off its head, and lo! and behold, there stood before her a handsome young prince, who told her that he had been enchanted by a wicked magician, and he could never be unspelled till some girl would do his bidding for a whole night, and chop off his head at the end of it.
+
+The stepmother was that surprised when she found the young prince instead of the nasty frog, and she wasn't best pleased, you may be sure, when the prince told her that he was going to marry her stepdaughter because she had unspelled him. So they were married and went away to live in the castle of the king, his father, and all the stepmother had to console her was, that it was all through her that her stepdaughter was married to a prince.
+
+
+*Notes, p.252*
+
+XLI. THE WELL OF THE WORLD'S END.
+
+Source, — Leyden's edition of *The Complaynt of Scotland* p. 234 *seq.*, with additional touches from Halliwell, 162-3, who makes up a slightly different version from the rhymes. The opening formula I have taken from Mayhew, *London Labour*, iii. 390, who gives it as the usual one when tramps tell folk-tales. I also added it to No. xvii.
+
+*Parallels.*— Sir W. Scott remembered a similar story; see Taylor's *Gammer Grethel, ad fin*. In Scotland it is Chambers's tale of *The Paddo* p. 87; Leyden supposes it is referred to in the *Complaynt* (c. 1548), as "The Wolf of the Warldis End." The well of this name occurs also in the Scotch version of the "Three Heads of the Well," (No. xliii.). Abroad it is the Grimms' first tale, while frogs who would a-wooing go are discussed by Prof. Kohler, *Occ. u. Orient*. ii. 330; by Prof. Child, i. 298; and by Messrs. Jones and Kropf, *l.c.* p. 404. The sieve-bucket task is widespread from the Danaids of the Greeks to the leverets of *Uncle Remus*, who, curiously enough, use the same rhyme: " Fill it wid moss en dob it wid clay." *Cf.*, too, No. xxiii `[Red Ettin]`.
+
+```
+
 
 The sieve motif also appears in "The Husband's Daughter and the Wife's Daughter" in the recent translsation by Tiina Nunnally of *The Complete and Original Norwegian Folktales of Asbjornsen & Moe*, which strongly resembles the "Three Heads of the Well", with two step-sisters behaving differently in a series of deeds along a journey, followed by a set of tasks set by a troll woman, which includes fetching water with a sieve. When the troll chases the girl, fortune is duly dealt out based on how the deeds performed en route were performed. Grimms' "Frau Holle" also includes two step-sisters completing a set of tasks with some overlap to those in "Husband / Wife Daughters".
 
