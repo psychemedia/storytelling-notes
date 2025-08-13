@@ -564,7 +564,6 @@ Source, — Leyden's edition of *The Complaynt of Scotland* p. 234 *seq.*, with 
 
 ```
 
-
 The sieve motif also appears in "The Husband's Daughter and the Wife's Daughter" in the recent translsation by Tiina Nunnally of *The Complete and Original Norwegian Folktales of Asbjornsen & Moe*, which strongly resembles the "Three Heads of the Well", with two step-sisters behaving differently in a series of deeds along a journey, followed by a set of tasks set by a troll woman, which includes fetching water with a sieve. When the troll chases the girl, fortune is duly dealt out based on how the deeds performed en route were performed. Grimms' "Frau Holle" also includes two step-sisters completing a set of tasks with some overlap to those in "Husband / Wife Daughters".
 
 ```{admonition} "The Two Step-sisters", Asbjørnsen & Moe, 1859
@@ -608,7 +607,7 @@ Yes, she plucked all she could reach with her hands, and then she took the pole 
 
 So she walked on a long, long way, and then she came to a great farm-house, where an old hag of the Troll's lived with her daughter. There she turned in to ask if she could get a place.
 
-"Oh!" said the old hag; "it's no use your trying. We've had ever ao many maids, but none of them was worth her salt."
+"Oh!" said the old hag; "it's no use your trying. We've had ever so many maids, but none of them was worth her salt."
 
 But she begged so prettily that they would just take her on trial, that at last they let her stay. So the old hag gave her a sieve, and hade her go and fetch water in it. She thought it strange to feteh water in a sieve, but still she went, and when she came to the well, the little birds began to sing —
 
@@ -636,7 +635,7 @@ So when the old witch saw her coming in with the milk, she cried out, —
 
 This the lassie was at her wit's end to know how to do, for she had never seen or heard of any one who could wash black wool white. Still she said nothing, but took the wool and went down with it to the well. There the little birds sung again, and told her to take the wool and dip it into the great butt that stood there; and she did so, and out it came as white as snow.
 
-"Well I never!" said the old witch, when she come in with the wool, "it's no good keeping yon. You can do everything, and at last you'll be the plague of my life. We'd best part, so take your wages and be off."
+"Well I never!" said the old witch, when she come in with the wool, "it's no good keeping you. You can do everything, and at last you'll be the plague of my life. We'd best part, so take your wages and be off."
 
 Then the old hag drew out three caskets, one red, one green, and one blue, and of these the lassie was to choose one aa wages for her service. Now she didn't know at all which to choose, but the little birds sung—
 

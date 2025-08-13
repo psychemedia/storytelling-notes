@@ -10,7 +10,7 @@ p117-122
 
 BUTTERCUP.
 
-ONCE on a time there was an old wife who sat and baked. Now, you must know that this old wife had a little son, who was so plump and fat, and ao fond of good things, that they called him Buttercup; she had a dog, too, whose name was Goldtooth, and as she was baking, all at once Goldtooth began to bark.
+ONCE on a time there was an old wife who sat and baked. Now, you must know that this old wife had a little son, who was so plump and fat, and so fond of good things, that they called him Buttercup; she had a dog, too, whose name was Goldtooth, and as she was baking, all at once Goldtooth began to bark.
 
 "Run out. Buttercup, there's a dear!" said the old wife, "and see what Goldtooth is barking at."
 

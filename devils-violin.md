@@ -123,7 +123,7 @@ The Gypsy filled his pipe, lighted it, and commenced taking the gold out of the 
 
 After the lapse of three days the Gypsy was very rich, but his longing for his fiddle was still greater. Tired and heartsore, he sat down on one of the heaps of gold, saying, "Devil, thou art clever, but I am not stupid; I gave thee my fiddle, but not my soul which plays on its strings."
 
-Then suddenly the Devil appeared, and returning the fiddle to the Gypsy, he said, "I have made a bad bargain; thou hast the gold, but instead of alluring men with the Sound of thy fiddle, I have frightened them away. Take back therefore thy fiddle, for though I am a devil, I cannot play like thee. But, before parting, how comes it that when thou playest the fiddle sings ao wonderfully?"
+Then suddenly the Devil appeared, and returning the fiddle to the Gypsy, he said, "I have made a bad bargain; thou hast the gold, but instead of alluring men with the Sound of thy fiddle, I have frightened them away. Take back therefore thy fiddle, for though I am a devil, I cannot play like thee. But, before parting, how comes it that when thou playest the fiddle sings so wonderfully?"
 
 "Well," replied the Gypsy, taking the instrument out of the Devil's hand, "it is but natural. I gave thee the fiddle as promised, but kept the soul for myself!"
 

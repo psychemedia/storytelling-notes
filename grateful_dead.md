@@ -373,7 +373,7 @@ When he had wandered on and on for a quarter of a year he came to a town, and ou
 
 "'Yes! yes!' said the Troll; 'I'll keep them safe enough. And I shall sleep on the bride's white arm, While ravens round his skeleton swim.'
 
-"And so he laid the scissors in an iron chest with three locks; but just as he dropped them into the chest, the companion snapped them up. Neither of them could see him, for he had on the Three-Sister Hat; and ao the Troll locked up the chest for naught, and he hid the keys he had in the hollow eye-tooth in which he had the toothache. There it would be hard work for any one to find them, the Troll thought.
+"And so he laid the scissors in an iron chest with three locks; but just as he dropped them into the chest, the companion snapped them up. Neither of them could see him, for he had on the Three-Sister Hat; and so the Troll locked up the chest for naught, and he hid the keys he had in the hollow eye-tooth in which he had the toothache. There it would be hard work for any one to find them, the Troll thought.
 
 "So when midnight was passed she set off home again. The companion got up behind the goat, and they lost no time on the way back.
 

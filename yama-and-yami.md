@@ -140,7 +140,7 @@ From a BA Thesis, (so not necessarily the strongest piece of scholarship), [*The
 
 X.14.1 is given as:
 
-> *`Yama`: the deified Lord of the Dead: originally the first who died and ao showed the souls of his successors the way to the home of th# departed. See X. 12. `Lofty heights`; of heaven, the abode of the Blest.*
+> *`Yama`: the deified Lord of the Dead: originally the first who died and so showed the souls of his successors the way to the home of th# departed. See X. 12. `Lofty heights`; of heaven, the abode of the Blest.*
 >
 > Honour the King with thine oblations, Yama, Vivasv&n's Son, who gathers men together,  
 > Who travelled to the lofty heights above us, who searches out * and shows the path to many.
