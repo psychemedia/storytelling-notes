@@ -9,11 +9,11 @@ Publication date 1924
 
 pp. 83-90
 
-VITI
+VIII
 
 THE LAY OF THE WERE-WOLF
 
-Amonest the tales I tell you once again, I would not forget the Lay of the Were-Wolf. Such beasts as he are known in every land. Bisclavaret he is named in Brittany; whilst the Norman calls him Garwal.
+Amongst the tales I tell you once again, I would not forget the Lay of the Were-Wolf. Such beasts as he are known in every land. Bisclavaret he is named in Brittany; whilst the Norman calls him Garwal.
 
 It is a certain thing, and within the knowledge of all, that many a christened man has suffered this change, and run wild in woods, as a Were-Wolf. The WereWolf is a fearsome beast. He lurks within the thick forest, mad and horrible to see. All the evil that he may, he does. He goeth to and fro, about the solitary place, seeking man, in order to devour him. Hearken, now, to the adventure of the Were-Wolf, that I have to tell.
 

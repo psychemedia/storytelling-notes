@@ -2,7 +2,7 @@
 
 With Mary in gaol, and her family's source of income, even if not of the pecuniary kind, seriously curtailed, and her blind husband perhaps unable to look after their child himself, it seems that the child had been homed in the Colnmel Poor Union Poor House.
 
-```{admonition} Mary DOheney's husband appeals to the Poor Law Union, May 1865
+```{admonition} Mary Doheney's husband appeals to the Poor Law Union, May 1865
 :class: dropdown
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000790/18650505/026/0003
@@ -170,7 +170,7 @@ At tho Co. Tipperary Petty Session, held this day. before Hon. S. F. Carew, R.M 
 
 Another couple of years passed, and Mary was back in court, this time as a witness in another case of violence:
 
-```{admoniton} Called as a witness, Aoril 1872
+```{admonition} Called as a witness, April 1872
 https://britishnewspaperarchive.co.uk/viewer/bl/0003179/18720420/032/0003
 Clonmel Chronicle - Saturday 20 April 1872
 

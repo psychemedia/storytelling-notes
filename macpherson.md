@@ -354,7 +354,7 @@ With this may be compared a "Facsimile of a woodcut in Michault's *Doctrinal du 
 
 ![Hanging to Music: "A minstrel condemned to the gallows obtained permission that one of his companions shonld accompany hîm to his execution, and play his favourite instrument on the ladder of the gallows." In: Manners, Custom and Dress During the Middle Ages and During the Renaissance Period, by Paul Lacroix](https://ia600307.us.archive.org/6/items/mannerscustomand10940gut/10940-h/images/fig350.png)
 
-Probably nothing is now known of this minstrel of 1490, but there ia a close resemblance between the two incidents. If the execution of 1490 took place at Banffe, or, indeed, in any other part of Europe, there would have been notbing extraordinary if the hanged "minstrel" had been a Gypsy, like him of the year 1700. At any rate, the coincidence is worth pointing out.
+Probably nothing is now known of this minstrel of 1490, but there ia a close resemblance between the two incidents. If the execution of 1490 took place at Banffe, or, indeed, in any other part of Europe, there would have been nothing extraordinary if the hanged "minstrel" had been a Gypsy, like him of the year 1700. At any rate, the coincidence is worth pointing out.
 
 David MacRitchie.
 

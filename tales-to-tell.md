@@ -639,28 +639,6 @@ Paisley Daily Express - Monday 15 November 1880
 
 
 
----
-
-
----
-witches
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000182/18230901/024/0003
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000492/18260717/009/0002
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000492/18270416/035/0004
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000182/18240510/029/0003
-
-Witch burning dublin 
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000492/18270709/059/0004
-
-
-TO DO
-
-WITCH BURNING IN DUBLIN, On St. John's Day, Sunday, the Jum*# about four o'clock in the afternoon, crowd of men, women, and children (between persons), were observed rushing down rough-street, near to Thomas's Church, »boutiaf*> yelling, and tossing up something in the air, was sometimes caugl one, and sometimes ther. and occasionally fell on the earth, where was scramble for it, and it was again tossed fra one to another, amidst the most diabolical yells, on nearer approach, were distinguished * "A witch!" witch/" Bum the Drown the witch!** She proved to bo irr l decently dressed, dwarfish, deformed female, vies these monsters had suddenly seized upou; and vJ* ever she fell to the earth, during their tossings, I**- like women rushed upon her with horrid shn*** tearing her clothes to pieces; all parlies crying*; Now have her!" •• Now have her "We'll burn or drown her!" and, directing course to the river. At length young gentle®* apparently about 18, after appealing to severs/** dressed spectators, to aid him in sav\wg woman from being tom pieces, whiclj terror of the mob, declined doing—rushed midst of these hell-hounds, and courageously be® t- helpless female under one arm, while with made his way through the crowd, who then their vengcancu against him crying out, w-itch's husband!" "The witch's pushing, pulling, and tripping him, and with mud, and whatever came to their hands; wtbf he was bedaubed from head to foot.—ln making way down Cumberland-strcet and Mecklenburg* street, appealed to three or four soldiers looking en, who directly surrounded him, and t** gentlemen then aided him, one of them taking* hand, and her rescuer the other of the poor sinl®! dwarf, and pulling her through the increasing to the police-office in Henry'street (nearly quirt* of mile) for safety; the new escort came in forth* share mud and abuse. At the Post-office policemen luckily came up, and were compelled to# ample justice with their sticks on the crowd before they got the poor creature into the Police-e®*' she was not able to speek for some time, fro® usage and terror,—and then returned lively thank* "her deliverers, and gave her name, and said * resided with a relative, Mrs,-r —, Camden-street; and observed, that though been frequently gazed at, so as to distress her feel®# she had never before met with violence. She sent home, the back way, ffler some time, wit® escort of police. The transaction can be borne to by hundreds of persons in the neighbourhood above tioned, for the disturbance was such, that e6f 7 window wus thrown the savages And, this is the Capital Ireland! and m niueteeth century. 
-
-clonmel cleary bridget
 
 ---
 
