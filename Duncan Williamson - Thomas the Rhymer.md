@@ -129,14 +129,14 @@ Few personages are so renowned in tradition as Thomas of Erceldoune, known by th
 It is agreed, on all hands, that the residence, and probably the birth place, of this ancient bard, Wjas Erceldoune, a village situated upon the Leader, two miles above its junction with the Tweed. The ruins of an ancient tower are still pointed out as the Rhymer's castle. The uniform tradition bears, that hissirnamc was Lermont, or
 
 us
-liteAilMoNT; and that the appellation of The Hhymcr M'as conferred on him in consequence of his poetical compositions. There remains, nevertheless, some doubt upon this subject. In a charter, which is subjoined at length *, the son of our poet designs himself "Thomas of Ercildoun, son and heir of Thomas Rymouu of Ercildoun," which seems to imply, that the father did not bear the hereditary name of Learmont; or, at least, was better known and distinguished by the epithet which he had acquired by his personal accomplishments. I must however remark, that, down to a very late period, the practice of distinguishing the parties, even in formal writings, by the epithets which had been bestowed on thena from personal circumstances, instead of the proper sir-
+liteAilMoNT; and that the appellation of The Rhymer as conferred on him in consequence of his poetical compositions. There remains, nevertheless, some doubt upon this subject. In a charter, which is subjoined at length *, the son of our poet designs himself "Thomas of Ercildoun, son and heir of Thomas Rymoun?? of Ercildoun," which seems to imply, that the father did not bear the hereditary name of Learmont; or, at least, was better known and distinguished by the epithet which he had acquired by his personal accomplishments. I must however remark, that, down to a very late period, the practice of distinguishing the parties, even in formal writings, by the epithets which had been bestowed on thena from personal circumstances, instead of the proper sir-
 * From the Chartulary of the Trinity House of' So/lrOf Advocaten' Library, W. 4. 14'.
 ERSYLTON".
 Omnibus has litems visuris vel auditurls Thomas de Eicilduiin filiii? et lucres Thoniae Rymour de Ercildoun salutcm in Domino. Noveiitis mc i)er fustem et bacukun in pleno jiidicio iesir;na3se ac, jjcr |)rescntcs |Liietcm clamasse jiro me et heicdibus mcisMagistio domus Saiictt Trinitatis de Soltre et fiatiibus ejusdem domus totam tcrram meam cum omnibus pertinentibus suis quam' in tenemcnto de Ercildoun licre.litaric tcnui renunciando de toto pro me et heredibus mcis omiii jurt- ( t clumio que ego seu antecessores mei in cadem terra alioquc tempore tt:- perpetuo habuimus sivc (ie tuturo habere ])0S3umus. In cujus rci tcstimonlo pie- sentibus his sigiilum meum apposui data apud Ercil.'.oun die Martii proximo post fesUim Sanctorum Apostolorum Synionii ct Jwie Ann* Domini MilJessimo cc. Nonagesimo Nono.
 
 246
 names of their families, was common, and indeed necessary, among the border clans. So early as the end of the thirteenth century, when sirnames were hardly introduced in Scotland, this custom must have been universal. There is, therefore, nothing inconsistent in supposing our poet's name to have been actually Learmont, although, in this charter, he is distinguished by the popular appellation of The Rhymer.
-Wc are better able to ascertain the period at which Thomas of Erceldoune lived; being the latter end of the thirteenth century. I am inclined to place his death a little farther back than MrPiNKERTON, who supposes that he was alive in 1300 (hist of Scotish Poets J; which is hardly, I think, consistent with the charter already quoted, by which his son, in 129.9> for himself and his heirs, conveys to the convent of the Trinity of Soltre, the tenement which he possessed by inheritance (hereditarie) in Ercildoun, with all claim which he, or his predecessors, could preteud thereto. From this we may infer that the Rhymer was now dead; since we find his son disposing of the family property. Still, however, the argument of the learned historian will remain unimpeached, as to the time of the poet's birth. For if, as we learn from Barbour, his prophecies were held in reputation * as early as
+Wc are better able to ascertain the period at which Thomas of Erceldoune lived; being the latter end of the thirteenth century. I am inclined to place his death a little farther back than MrPiNKERTON, who supposes that he was alive in 1300 (hist of Scotish Poets J; which is hardly, I think, consistent with the charter already quoted, by which his son, in 1299??, for himself and his heirs, conveys to the convent of the Trinity of Soltre, the tenement which he possessed by inheritance (hereditarie) in Ercildoun, with all claim which he, or his predecessors, could preteud thereto. From this we may infer that the Rhymer was now dead; since we find his son disposing of the family property. Still, however, the argument of the learned historian will remain unimpeached, as to the time of the poet's birth. For if, as we learn from Barbour, his prophecies were held in reputation * as early as
 * The lines alliidcci to are these:
 I hope that Tomas's pro])hesie, Of Eiceldoun, shall truly be in him, &c.
 
@@ -153,13 +153,12 @@ Book eight, chap. 32.
 
 There could have been noferly (marvel), in Wintowk's eyes at least, how Thomas came by his knowledge of future events, had he ever heard of the inspired nun of Haddington; which, it cannot be doubted, would have been a solution of the mystery, much to the taste of the Prior of Lochlevin.
 
-Whatever doubts, however, the learned might have, as to the source of the Rhymer's prophetic skill, the vulgar had no hesitation to ascribe the whole to the intercourse between the bard and the Queen of Fairy. The popular tale bears, that Thomas was carried off, at an early age, to the Fairy Land, where he acquired all the knowledge which made him afterwards so famous. After seven years residence he was permitted to return to the earth, to enlighten and astonish his countrymen by his prophetic powers; still, however, remaining bound to return to his
-Henry, the minstrel, who introduces Thomas into the history of Wallace, expresses the same doubt as to the source of his prophetic knowledge.
+Whatever doubts, however, the learned might have, as to the source of the Rhymer's prophetic skill, the vulgar had no hesitation to ascribe the whole to the intercourse between the bard and the Queen of Fairy. The popular tale bears, that Thomas was carried off, at an early age, to the Fairy Land, where he acquired all the knowledge which made him afterwards so famous. After seven years residence he was permitted to return to the earth, to enlighten and astonish his countrymen by his prophetic powers; still, however, remaining bound to return to his Henry, the minstrel, who introduces Thomas into the history of Wallace, expresses the same doubt as to the source of his prophetic knowledge.
 
 Thomas Rhymer into the Faile was than  
 With the minister, which was a worthy man.
-He used oft to that religious pl::ce;
-Tlie people deemed of wit he nieikle ran,
+He used oft to that religious place;
+The people deemed of wit he nieikle ran,
 And so he told, though that they bless or ban.
 Which happened sooth in inany divers case j
 I cannot say by wrong or righteousness.
@@ -179,6 +178,7 @@ TO DO
 THOMAS THE RHYMER.
 PART FIRST.
 ANCIENT NEVER BEFORE PUBLISHED.
+
 True Thomas lay on Huntlie bank:  
 A ferlie he spied wi' his ee;  
 And there he saw a lady bright.  
@@ -210,7 +210,7 @@ All underneath the Eildon Tree.
 And yc maun serve me seven years.  
 Thro' weal or woe as may chance to be."  
 TJiat "werrd, ^<'.   
-That (.lestiny shall nev^r fri^jht-.n mi;
+That destiny shall never frighten mi;
 
 253
 She mounted on her milk-white steed;  
