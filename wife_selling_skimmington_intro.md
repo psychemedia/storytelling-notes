@@ -1,4 +1,4 @@
-# Wife Sales and Skimminton Rides - Intro
+# Wife Sales, Rough Music and Skimminton Rides - Intro
 
 One of my favourite period settings for traditional tales are the anywhen tales that seem to fit against an early nineteenth century rural backdrop, in the valleys of my youth around West Yorkshire, perhaps, or the valleys of Wales. Where you can imageine the damp, the stone houses and stone walls, the dirty greens and mist in the air, of the landscapes Ashley Jackson still paints today.
 
@@ -19,3 +19,5 @@ TO DO thise things that everybody knew that either wasn't mentioned, because eve
 > It is — so far as my experience goes — quite useless to assure a Frenchman that such transfer of wives is not a matter of everyday occurrence, and is not legal: he replies with an expression of incredulity, that of course English people endeavour to make light of, or deny, a fact that is "notorious."
 >
 > *Sabine Baring-Gould, "Devonshire characters and strange events", 1908, p58
+
+?? series "A Curious Past"

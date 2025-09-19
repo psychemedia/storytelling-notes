@@ -1,5 +1,10 @@
 # Skimmington Ride
 
+
+also Skimmerton Ride?
+
+[Possible tile: Wife Sales, Rough Music, and Skimmington Rides ]
+
 I came across this strange custom when searching for court cases involving pubs and inns and disorderly behavior in Berrow and Burnham whilst producing story notes on the tale of Brean Down Fort and Gunner Haines.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0002627/18661229/029/0005
@@ -245,15 +250,13 @@ In some parts of the country the offender was punished vicariously, another pers
 https://britishnewspaperarchive.co.uk/viewer/bl/0003516/18840315/061/0006
 North British Advertiser & Ladies' Journal - Saturday 15 March 1884
 
-TO DO
-
 RIDING THE STANG.
 
 AN OLD YORKSHIRE CUSTOM.
 
 The ancient custom of riding the stang still lingers in some of the remote parts of Yorkshire. Holding delinquents up to ridicule was a favourite mode of punishment practised by our forefathers, and riding the stang was the means generally employed for punishing husbands who beat their wives, or allowed themselves to be henpecked, or if their conduct was profligate or licentious. There are various designations for the custom:— In our own county riding the stang is the name used; in Scotland the same term is applied; in the south of England skimmington riding is the title generally employed, on the Continent it is known by other appellations.
 
-The mode of carrying out the ceremony is as follows:— A man, having beaten his wife, the young men of the assume the attitude of public censors, arrangements are made for riding the stang three nights in succession. A trumpeter blows his horn loud and long as day gives way to night, and the viilagers are brought together. A pole or a ladder is procured, and the most witty man of the village is placed thereon, mounted shoulder high, and carried in great state through the streets. In one hand he has a large key or stick, and in the other a dripping-pan, and leads the music of the crowd, Men, women, and children join in the fun, and beat kettles, pans, pots, or anything else that will make a noise, tin whistles, horns and trumpets are blown, the noise produced being better imagined than described. As soon as all is ready a start is made, and about every fifty yards the procession stops, and the mounted man proclaims at the top of his voice a rhyme suited to the nature of the offence, somewhat as under:— 
+The mode of carrying out the ceremony is as follows:— A man, having beaten his wife, the young men of the assume the attitude of public censors, arrangements are made for riding the stang three nights in succession. A trumpeter blows his horn loud and long as day gives way to night, and the viilagers are brought together. A pole or a ladder is procured, and the most witty man of the village is placed thereon, mounted shoulder high, and carried in great state through the streets. In one hand he has a large key or stick, and in the other a dripping-pan, and leads the music of the crowd. Men, women, and children join in the fun, and beat kettles, pans, pots, or anything else that will make a noise, tin whistles, horns and trumpets are blown, the noise produced being better imagined than described. As soon as all is ready a start is made, and about every fifty yards the procession stops, and the mounted man proclaims at the top of his voice a rhyme suited to the nature of the offence, somewhat as under:—
 
 Ran, tan, tan; ran, tan, tan,  
 To the sound of this pan; 
@@ -302,7 +305,7 @@ Betwisht twa's shoulders, and sat straught
 Upon't, and *rade the stang*  
 *On her* that day.
 
-Mr George Roberts, of Lyme Regis, forwarded to Sir Walter Scett some interesting notes on skimmington riding. He wrote Sir Walter, that in the south of England— "About dusk two individuals, one armed with a skimmer and the other with a ladle, come out of some obscure street attended by a crowd, whose laughter, huzzas, &c., emulate the weil-known *charivari* of the French. The two performers are sometimes in a cart, at other times on a donkey; one personating the wife, the other the husband. They beat each other furiously with the culinary weapons above described, and, warmed by the applause and presence of so many spectators (for all turn out to see a skimmington), their dialogue attains a freedom, except using surnames, only comparable with their gestures. On arriving at the house of the parties represented in this moviog drama, animation is at its height: the crowd usually stay at the spot some minutes, and then traverse the town. The performers are remunerated by the spectators: the parties who parade the streets with the performers sweep with brooms the doors of those who are likely to require a similar visitation."
+Mr George Roberts, of Lyme Regis, forwarded to Sir Walter Scett some interesting notes on skimmington riding. He wrote Sir Walter, that in the south of England— "About dusk two individuals, one armed with a skimmer and the other with a ladle, come out of some obscure street attended by a crowd, whose laughter, huzzas, &c., emulate the weil-known *charivari* of the French. The two performers are sometimes in a cart, at other times on a donkey; one personating the wife, the other the husband. They beat each other furiously with the culinary weapons above described, and, warmed by the applause and presence of so many spectators (for all turn out to see a skimmington), their dialogue attains a freedom, except using surnames, only comparable with their gestures. On arriving at the house of the parties represented in this moving drama, animation is at its height: the crowd usually stay at the spot some minutes, and then traverse the town. The performers are remunerated by the spectators: the parties who parade the streets with the performers sweep with brooms the doors of those who are likely to require a similar visitation."
 
 In Butler's "Hudibras" considerable attention is paid to the custom. We conclude with a few of his lines:—
 
