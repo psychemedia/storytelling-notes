@@ -281,6 +281,219 @@ Monmouthshore Notes
 
 ...
 
+---
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000398/18510806/016/0004
+Hereford Journal - Wednesday 06 August 1851
+
+JOHN O'KENT. In a recent number of the Athenaeum there appeared an account of a newly-discovered manuscript comedy Anthony Munday. The writer, Mr. J. Payne Collier, appears to have made many inquiries after the renowned "John Kent," or, as he is usually called in this county, "Jack o'Kent," and as it may be interesting to our readers, we reprint the letter, together with some particulars which have been since furnished by a correspondent, in answer to Mr. J. Payne Collier's remarks: " By the kindness of the Hon. E. M. L. M.P., I have in hands, for publication by the Shakspeare Society, a manuscript comedy entirely in the autograph of our great dramatist'scelebrated contemporary, Anthony Munday—who signed his name at the end of it. It was found recently, amongst the papers and evidences belonging to Mr. Mostyn's family; and I can hardly estimate too highly our obligation to him for allowing us the unrestricted use of such valuable relic. Munday's reputation was so great at the period when he was writer for our stage as to lead distinguished critic of that day to pronounce him the "best plotter;" thus, for the construction of a dramatic story, placing him above Shakspeare, Marlow, Ben Jonson, Greene, and other theatrical rivals. " How far this character was deserved is another question which the discovery the remarkable literary curiosity in hands will, all events, enable us better to determine. " The scene is laid Chester and its vicinity; the Earl, his Countess, his daughter, his niece, Llewellen, Prince North Wales, the Prince South Wales, and the Earls Powis, Pembroke, and Morton being principal characters. Respecting all these no difficulty arises; but want information regarding two other personages who figure even more prominently, and on whom, in fact, the whole plot depends. refer to two wizards, or magicians, the one named John-a-Kent and the other Johna-Cumber, who must both have been popular heroes, and (as appears from the manuscript) must have been recorded ballads and chap-books which have now entirely disappeared, although doubtless not only in existence, but in high favour with the multitude, at the time when Munday wrote. In the middle ot the play before me, one wizard says of the other ' Now, John-a-Kent, much have heard thee; Ancient thy fame,' &c. Elsewhere, ballads and songs which he was celebrated are mentioned; and promise held out to him, one of those who sought his supernatural aid, tbat if he succeeded, the poets of Britain should write his praise. For many years I have been earnest inquirer into such matters, —but I never met with any production either in prose or poetry, on tbe subject of John-a-Kent and his magical achievements;—and what seek to know is, whether any of your readers have been more fortunate * I am informed by clergyman of great learning in Herefordshire, who is always ready to communicate his knowledge to any one to whom it may be useful, that there are in his neighbourhood (Ross) traditions current touching the exploits of John-a-Kent; and there is in that part of the country a village called Kentchurch. It seems quite clear that John-a-Kent did not derive his name from our home county; and it is possible that, as his fame is still great Herefordshire, he may have been originally known as John-a-Kentchurch, although in more recent times the latter portion of his designation appears to have been dropped. This notion strengthened the circumstance that in Munday's drama he is spoken a native of Wales,—one of the inhabitants of the Principality calling John-a-Kent his 'countryman.' I am not aware how Kentchurch in Herefordshire obtained its name,—and I have county-history at hand to refer to on the point. " Respecting John-a-Cumber I am still more the dark, and any light that your readers can afford me will be highly acceptable. He is Scotch wizard who employed by the Earl of Morton (a nobleman of that country) to counteract the proceedings of John-a-Kent, and so to work his charms that Morton shall obtain the hand of Sydanen, the daughter ofthe Prince of North Wales, who, however, is in love with and secretly betrothed to the Prince of South Wales. John-a-Cumber perhaps derived his name from Cumberland, but I have failed to obtain any trace him or of his exploits that part of the kingdom. There no attempt at poetry of a high order in Munday's manuscript; but excepting some " merriments," (as they are expressly termed), by clowns and morris-dancers, the whole is in blank verse, which runs with great facility, as the production of a practised writer. The author began his career as early as 1580, and continued it through the reign of James I. j but the date the end of the play in my hands December, 1595—the most palmy period our early drama. A number of songs are introduced, which are given to antics and spirits, and a party led about music in the air, as in ' the Tempest.' Certain poems of which Sydanen the heroine are alluded to in the course of the performance. " As the manuscript is now nearly printed, I am anxious to obtain information for the preface introductory matter as soon can; and perhaps the researches of such of your readers as may be disposed to assist me may be facilitated by mentioning that the plot hinges from first to last on the rivalry of the Prince of South Wales and the Earl of Powis with the hurls of Pembroke and Morton for the hands of Sydanen and ' first these ladies daughter to the Prince of North Wales— and the second to the Earl and Countess of Chester. Prince of South Wales and Powis resort to John-a- in order to obtain possession of Sydanen and Marian magic; the other hand, Pembroke and Morton (whose suits are favoured by the Earl of Chester), employ John-a-Cumber to counteract and defeat John-a-Kent. The latter throughout success!ul; and after various trials of skill and displays preternatural power John-a-Cumber is exposed to the ridicule and insults of number of clowns, who force upon him a motley coat, and make him the fool in their rustic morris-dance. "The piece in several places illustrates in an interesting manner the resources and appliances of our early stage. It regularly divided into five acts, although the separate scenes are not marked; and there are some indications about the manuscript from which we may infer that it bad been adapted for private performance —perhaps the seat of the Mostyn family. "July 12." "J. Payne Collier." Another correspondent furnishes the following information "There are yet many legends current about John o' Kent in the vicinity of Kentchurch, twelve miles from Hereford, and twelve from Abergavenny. There is barn, still called John o' Kent's Barn, in which he is said to have confined all the crows which infested certain field which, when boy, he was desired to watch:—the barn having then no roof. There is an aged oak Kentchurch Park, belonging to Col. Scudamore, called John o' Kent's Oak, to which he is said to have fastened his dogs. He is supposed to have sold his soul to the Evil Spirit,-the covenant being that John o' Kent should not be buried inside a church, whence the enemy could not have taken him. This eluded by being buried under the church wall, half inside and half outside of the building, at Grosmont, the adjoining parish to Kentchurch, in Monmouthshire. believe that there something about him Cox's ' Monmouthshire, but I have not the book. The old people about Kentchurch have some more tales about the feats of John of Kent. I have heard it conjectured that under this name, in the character of a wizard, Owen Glendower lurked in this neighbourhood for many years; and that here two of his daughters were married, one to an ancestor Col. Scudamore, and another to Monnington, ofthe village called, where tomb supposed to be his is still shown. I not what authority there is for this conjecture.—Kentchurch is very ancient property of the family of Scudamore, who have been settled there some centuries. The present owner oad now, but habitually resides there. He has a portrait »«i to be of John of Kent." 
+
+---
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001272/18931223/200/0006
+Monmouthshire Beacon - Saturday 23 December 1893
+
+Also in
+https://britishnewspaperarchive.co.uk/viewer/bl/0001455/18931223/074/0005
+Chepstow Weekly Advertiser - Saturday 23 December 1893
+
+JACK O'KENT, THE DEVIL, AND THE CROWS
+
+Among the most curious outcomes of the folk-lore of Monmouthshire, Herefordshire, and Gloucestershire are the ever-popular stories of Jack O'Kent and the Devil. Antiquaries suppose that Jack was really a veritable ecclesiastic in the middle ages, under the protection of the Scudamore family: and that his extraordinary abilities led the ignorant rustics to suppose that he was in league with a supernatural power. Unlike Dr. Faustus, Jack is represented as having, in every transaction, outwitted his Satanic confederate. One of these popular stories is here turned into rhyme. The old Monmouth customs alluded to are nearly forgotten: and this mention of them may be useful to writers who deal with such subjects. The battles with besoms between the "Cata-Thumpings" and the "Up-in-Town-Boys," on Monnow Bridge, took place on the 1st of May and the 29th of May; and the custom of "muntling," as it was called, was suppressed in 1858.
+
+Jack O'Kent and the Devil down sat,  
+Near Grosmont Church one fine Spring day:  
+Jack did not like the job he was at:  
+How could he manage to get away?
+
+Squire Scudamore set him to mind the crows,  
+To drive them off from the tender wheat,  
+Which the birds tore from the long green rows,  
+Eagerly searching for grubs to eat.
+
+Jack said to the Devil: "Act as a friend!  
+Take my place while I go to the town;  
+My wooden clapper to thee will I lend;  
+And my bottle of cider to guzzle down.
+
+This is the day of the Monmouth Mop;  
+I want to be off to see the fun;  
+I'll promise thee not to linger-ing stop;  
+But be back ere the curfew's toll be done.
+
+The joskins are standing by Monnow-Bridge arch,  
+Patiently waiting there to be hired;  
+To their new places away they will march,  
+To earn very little and get very tired.
+
+But when the evening cometh around,  
+They'll carry on, I cannot tell how:  
+There'll be lots of drink, the fiddles will sound;  
+There'll be a dance at the Barley Mow!
+
+I went to Monmouth on Monday last.  
+'Twas First of May, the "muntling-day;"  
+And there some hours I merrily passed:  
+For Monmouth folk know how to be gay.
+
+I made a muntle, and made it thick:  
+A big birch besom, well tied with string;  
+Inside I tied the half of a brick,  
+To make the bones of the town-chaps ring.
+
+I guarded the bridge with the lusty boys,  
+The Cat-a-Thumpings, from Cappers' Town:  
+We fought the "Up-Town" hobbledehoys,  
+Who dared to the foot of the tower come down.
+
+There were hard knocks, though only in fun;  
+All must relish what Fortune sends:  
+And when the battle at last was done,  
+We drank together like bosom friends.
+
+Last year, when the new Mayor was made,  
+Through the borough he rode so grand,  
+While bright flags flared and music played;  
+But at Monnow-Bridge he was forced to stand.
+
+"This reverend arch you'll not come through!"  
+The Chief of the Cat-a-Thumpings said:  
+"I am a Mayor as well as you;  
+If you would pass, you must bow your head!"
+
+Then the Up-Town Mayor took off his hat,  
+The Mayor of the Cappers' Town replied;  
+Then side by side in the same coach sat,  
+Like brothers they round the town did ride.
+
+And there was such jolly carouse:  
+Bonfires were on the causeways made;  
+Every inn was an "open-house,"  
+We drank what we liked and nothing paid.
+
+There'll be better frolic to-day, you know,  
+Beer to drink, and the girls to kiss;  
+Do mind the birdies, and let me go;  
+For Monmouth Mop I never could miss.
+
+And I will bring you a pocket-knife,  
+The best that money can buy in the town;  
+A finger-ring, and a gingerbread wife,  
+With lots of gilt all over her gown!
+
+"A wife! Don't mention any such thing!  
+Such torment for me would do for me!  
+But you may be a monarch or a king,  
+And only such as I must disagree!
+
+Yes it will allow sin; in your soul you'll lose;  
+The very thought of it makes ME gay!  
+But how must I manage these so many crows?  
+How must I find them while you're away?"
+
+"Good Devil the task is easy enough!  
+We'll drive them into yon roofless barn:  
+In it we'll stow some feeding stuff,  
+I'll from the granary steal the corn.
+
+You have good wings, and well can fly;  
+And when one to escape would try:  
+Give him a peck, and he'll drop by,  
+So neatly you will the crows supply."
+
+"Agreed," said the Devil, and off went Jack,  
+And met with Jill and a good many more;  
+But ere the youth from the fair came back,  
+The Devil found his bargain was o'er.
+
+For crows as thick as in the barn rose,  
+While his arm he severed to beat them down;  
+His paws grew sore as he dealt his blows  
+He panted, and sweated from hoof to crown.
+
+"'Twas a Wont you keep down? And wont you  
+You keep down the birds, I say:  
+I wish that Jack would come from the town,  
+Or that the crows were all far away!
+
+Before I'd try such a task again,  
+Each field in the country a widow could rob;  
+Jack, while enjoying the fair's gay train,  
+Has left me here in a terrible job!"
+
+But Jack O'Kent from the fair returned,  
+And bought for his Nick but a gingerbread wife!  
+And Nick deserted, cheated, and spurned,  
+He'd never been tricked so in his life.
+
+"And I thought," said Jack, "'tis the same old trick,  
+At play with the crows in the fields of corn;  
+And I'll try it again with thee, Old Nick,  
+For tricking the trickster is never forlorn."
+
+W. H. Greene.
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001272/18940106/158/0006
+Monmouthshire Beacon - Saturday 06 January 1894
+
+THE "JACK O'KENT & THE DEVIL LEGENDS
+
+No. 2 — THe Building of Grosmont Bridge
+
+....
+
+W. H. GREENE
+
+--
+https://britishnewspaperarchive.co.uk/viewer/bl/0001272/18940113/138/0006
+Monmouthshire Beacon - Saturday 13 January 1894
+
+JACK and the devil in THE FIELDS.
+
+TO DO poem W. H. Greene
+
+
+---
+https://britishnewspaperarchive.co.uk/viewer/bl/0001455/18940120/007/0001
+Chepstow Weekly Advertiser - Saturday 20 January 1894
+
+JACK AND THE DEVIL'S QUOI? AT STROAT, Jack O Kent and the Deril on Tidenham Chase jaatted them down on the purple heath. ‘My word!" said Jack: beakb. what « view of the vale beneat! i place! * Look at the Severn, bow fine it From Gloucester down to the Steep Holm Isle; Wide as a sea it shimmering goes, Fringed with trees for many mile, * What a sweep of the glorious The Cotewolds bere, and the Mendips Heaven in my heart ite peace insti As I look on this seene so wondrous fair,’ * I don’t care much for scenery, Jack!’ Cried Nick; * bet a cou; With all thy muscle and +h omy I'm the best finger in all these parts, ' Here are some stones by the Beacon Cup; Nice Mill Stone Grits. a score feet long : Dost think thee could’st lift such fragments up? Thou'rt often boasting thee be'est so strong ! Lift cried Jack; * Have I not hands? Two honest hands can do a great deal; Although yonr Majesty claws With to boot, | confident feel.’ ‘I doubt thee much,’ the Devil replied; now the proof of the pudding is here; We both will aim at the Severn; The stone that flies furthest will win the beer,’ ' Fling on,’ ssid Jack; ‘ you're King of the Blacks, I'm but a boy; Bat I will attempt, in a couple of cracks, Some of your blastering to destroy, The Devil, intent on the best of up a stone, and lifted it bigh; Then, as be tauntingiy cried. * goes!" Over the valley he made it fly. Away went the stone, and far eff, at Stroat, Down the Severn by Horse Pill fell : Then Jack in his turn pulled off bis coat, And muttered, ‘1 think | can do as well,’ Jack twirled his long slab over hie bead, Asif it were merely the t of a tree; Then off from his the m le fled, Aad lighted far down by Thornbury, * Ab. yours was good!’ eaid Jack, «hose face Was But as hted up with the brightest emiles flinger you yield your place : I’ve beat you by « couple of miles |’ if ever to Stroat ba to go, The Devil's Quoit there you'll surely see; Ani, beyond the river, the guod folk show Jack's little pebble at Dee. 17. 1888. 
+
+W. H. GREENE
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0001272/18940224/058/0003
+Monmouthshire Beacon - Saturday 24 February 1894
+
+JACK O'KENT LAST TRICK.
+
+was now getting quite old; For Death he now waited for a kind frifnl So heavy and dreary his latter years rolled, cared nut how toon his troubles might end ll<* tho I)»‘vil had joined in some ftm; Ho had tenderly loved, and found love again Through every pleaauro in life he hud run, And Utile expected tin* finishing pain. none of us know, none of know, What sorrow may whelm us with terrible wave What ills arc before us; ’tis bettor ’tis so. Or wo despairing should rush to the grave. Poor Jack, like worthy old Socrates, Had the misfortune marry a shrew; A cold dour woman whom nothing could pleaao; Whose spite was the only pleasure he knew. She taught her children to flout their old sire; She grudged him tho food be painfully ate; Even denied him ft seat the fire, And •* nagged” “nagged” on, from early to late. And when a m*c approaches three score, Energies all are beginning to wane; His strength is gone, bis pleasures are o’er Every moment is mingled with pain With all his kindly advances repelled; Stung by reproaches far worse than blow His life so little of comfort now held, He sighed, and said be was ready to go. Slill there wore some who vulu xl poor Jack Who knew there was good in his innermost heart; Though sported with Satan, ho was not all black; To him evil intention bad part. To old comrade who pressed his worn hands, And cheered his eyes with smiles to the last, spoke of a bargain the Devil had planned. To make him his prey when lifo should hare passed. [e said : I*vc formed an antagonist plot, which the Tempter defeated may be;; you faithfully bear out my thought, shall escape from his clutches scot free. yielded, while to trick him I meant, To a condition the Old Fellow made; That my poul to the depths shall sent, If w the church or out I am laid, Head in, and heels out. laid under the wall. corp.'e will neither in nor out; Tb plan will t«ko the atinp from bi» gall That I all elude him have doubt. Now kind-hearted friends hist farewell take You see depart the happiest mood : for faults some amends 1 could roak'’. With what con l rition I earnestly would !’! Poor Jack then departed, and over his clay, Merciful words were forgivingl y said; And some proposed high honours to pay. And give him a fine tomb now was dead. The way the world has ever been so; In want the poet neglected may die; And when Death ends bis terrible wins, Alas Why didn’t we help him they cry. A lassie once to him was dear. And Orosmont thence forward seemed sanctified Thither they carried him. stretched his bier, they Lad promised before that he died. In the churchyard wall a gap they had made : His grave they’d scooped out, crossing the lines And thus his body was cunningly laid, Part in, and part out, of the yard’s confines. Then ashes to ashes, and dust unto dust, Rattling the clods the coffin door fell; And the old rector repeated his trust, That Jack after all in Heaven might dwell. Slowly and sadly they turned depart, And. they went, looked tenderly back; Not only here, but each in his heart. With*pity and grief, bad buried poor Jack, Lo ! from the grave—whonce came one knew,— A dove, white snow, rose up in straight flight; And from a tall elm, pursuing it, flew An ominous raven, black as the night. Figbting in circles, up soared the two birds, Till, beaten, the raven retired from the fray; And the spectators, who thought on Jack’s words, Deemed the soul rescued, and Nick sent away. Higher and higher, till lost in a cloud, The beautiful dove from vision then passed; And Grosmont was glad, believing this showed That Jack had evaded the Devil at laat.
+
+W. H. GREENE.
+
+---
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0003169/18960508/225/0010
+Star of Gwent - Friday 08 May 1896
+
+JOHN OF KENT.
+In connection Grosmont, particulars may be given of an extraordinary character known as
+
+TO DO
+
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0003169/18960515/037/0003
+Star of Gwent - Friday 15 May 1896
+
+JACK O' KENT
+
+One of Jack's earliest performances of magical skill was in tne days of his youth, when occupied as a farmer's boy in keeping the crows from a growing crop of corn.
+
+LONG TO DO
+
+( far was on and Jack dedred to be sent to cajoy its pleasures, so ie exercised powers the crows, and confined mn an old barn without a roof. There = maimed making a terrible clatter, and were we po able te fly aw until Jack fair and them. But the feat of waieh more than all oth ™ endears his Groamoat was the construction of a bridge over tie Monnow, and wits Kentchurch. It is mid to have been bull® in a single night by the devil, who made a> agrcement with Jack, and it is still called Jas o Kent's A relater of the tale = =e Ported to have doubted the truth of the renee, rumaurkmg “ But it could not be the for he would never have dame so devil, = The incident was good verse by our late friend Mr. W. put a well whiter on Creo, matters we» rating to Monmouthshire. It is as fallowss— From Kentchurch Park cummer days Went lithesome Jack O'Kent; With iam he took his good dog Tray And down to Monn w went, And there he saw the Devil, mt Tea an alder-tree, up a buttertiy, PPY a8 could be. “Whac are you going, Brother Jack? What is your will to-day?” “1 want to » t ;* Then I 1 have some play. The jolly Prior is fond of fun, And best of beer; We'll take our dogs u m the Graig, To hunt « fat red deer. “ Liangattock, ton, I fain would was nv Hendre But ever there ‘twas sp) to eee Tne kindest, best of men. For there is always goodly cheer, And a hearty welcome there; Wherever you go, you'll never know No better anywhere. “But look! The river! How high it cannot across ' How I I'm sorely at a loss! see the Prior to-day, I ive wt up! T cannot jump rom here to vonder ridge. li you, Friemi Devil, so Why don't you build a bndge?” The Devil here scratched “T never thought of that! And yet for things that I intend potion comes ite There's a deal of devil's And mischief to | work to do, unborn “in bate ‘en yonder are doomed to dia King’s new castle on Rosslyn Will cause a A rose tnat there will make Ail E red some will wear the Upon glittering Wherever it goes, the sweet wild rem Will stain ‘with bloo! these Alinoare hath bvilt a church Ancar the castle wall; But ail her prayers will not avert evi that must Now, to for that dark day, ‘pridge will be the From many 0 dhire, to dio op thee, "Twill serve the fools to bring. “A bib Well, Tm inchaaB To set it But, Jeck for nothing Tl not work, must pay. 1 tage, me That he ‘ho first chall cram the beidgm, Body and soul, ie mine.” “That's ri “For sure it w "blithe Jack That That doth to him should mise the pay ‘ow’ you) end there are aeumns wg we es His os ane Jack hed ‘his native wit Was quite as good as Nick's. He found a crust, and shewed it And after it the Then flung it oer the Swift as the li “Now, Jack,” que Devil,“ Baha ued Anu you lo your friend, the Prior And ‘ll go down below.” oid Llangkywem, “Foot forward!” said Jack; and very seem stream both had crossed; * Now,” said the you'll come with me, lost. * Hands off, you fool! For body and soul y cried dauntless Jacks “You're stupid as a log! “You were to have the first that “Why don't you take the dog?” “The dog! Oh, my’ You willian, Jack, You've tricked me now again! To show all what a cheat you are, “FM let the bridge remain!” Then, with a most He sank thre the earth. “Good bye!” said Jack ve aome fu when you come ou. * + stl old name of Liangua. name of At Keutehureh House there is a stable which Jack is sw which he rode nrough the air with amasiangg to have his homes, ams A portrait m oil, an engraving fom which, appears in Coxe's Me a Lotin translation of the Bible cn vellum, mi to have made or cu ied hum, was for some time at Kentchurch, but has Mr. William Owen, the learmed author of tier Welsh dictionary, differs in : from other writers on the subject of John of He states somewhat vidual was a favourite and there is a Welsh M.S. which Rot contain = J his pieces. He classed likewise among the doctrines cae Lollards, as his wri! tings are fil sith hostile to. the such ions to would have exposed him to great danger had he used a language more of all his works, Bic. difficult to give a catalogue from the index — however, upon various subjects. He supposes the to the Welsh School, 39 treations 1360 and 146 the hard and the conjuror, the poet and Ge are calculated to form each are and rarely to be found in the same person. the opinion that the John of Gwent and the mathematical Kent were different who, in he same age, and being attainments, were easily conf the mung of ancient John of Kent is supposed to have been buried in Gresmont Churchyard at a spot under the East chancel, formerly marked by a huge sculptured stone, but, though this tradition m® who are best able to jadger discredit it. Another traditicn is to the effect that after and in order to prove whether he was a or not, the vital portions of his body were bung on spikes outside the church watched to manner in the crows attacked them. If a decision the matter was ever arrived at, it has beam jost among other records of the past
+
 
 ---
 
@@ -356,3 +569,60 @@ https://britishnewspaperarchive.co.uk/viewer/bl/0000311/18431116/003/0002
 Cheltenham Chronicle - Thursday 16 November 1843
 
 Superstition. —The following anecdote will expose the gross superstition still existing in the county Monmouth: A farmer residing in the district Chepstow Union, about a fortnight ago missed from his desk in the parlour twelve sovereigns; his family suspected a servant girl named Mary Llewellin, about years ago. who had been there only three weeks; every method that could be devised was adopted to find the money, and to induce confession, but without effect: at length the "cunning man" was sent for, who prognosticated that at midnight the evil one would appear, and a strong smell of sulphur would arise, provided the guilty party did not return the stolen property. This had no effect; at midnight the cunning one himself came with his brimstone, but was of use, and the farmer and the cunning man considered the case hopeless. Friday, being Chepstow fair, the farmer visited that town, and related the circumstance his brother, who resides there, and who instantly adopted the plan of despatching a constable to take such methods his experience might suggest. The night was stormy and dreary, and about eleven o'clock the farmer and officer arrived at their destination: when the latter, taking the two servant girls aside, and laving before them his constable's slick and handcuffs, told them, with the sagacity of a judge, his business was to lake some one or more into custody, for stealing twelve sovereigns from the farmer's desk. In about an hour after this, the girls not being permitted to leave the room, the guilty one confessed she had put them in water cask, where, after a search, the farmer's sister found them. - Carmarthen Journal. —[This anecdote appears to to indicate absence of superstitious feeling, rather than its existence, at least in the servant girl, who was proof to the "cunning man" and his midnight brimstone, and did not give way, until influenced by the more practical apparition of constable with handcuffs. Ed. C.C.]
+
+
+---
+
+
+
+ 
+ 
+ 
+https://archive.org/details/in.ernet.dli.2015.89223/page/n311/mode/2up?q=%22john+o%27+kent%22
+
+Early Prose And Poetical Tracts The Drama And Literature Of The Reign Of Queen Elizabeth Vol Ii
+by Shakespeare Society
+
+Publication date 1853
+
+pp. xxii-
+
+As to the name of John a Kent, we are not to suppose that it has any connexion with the county of Kent; because it is distinctly stated that he is a Welshman, and various traditions are current in Herefordshire respecting the exercise of his profession, and the display of his abilities. There is a village called Kentchurch, not far from Hereford, and it was in that part of the kingdom that our magician acquired most celebrity : it is possible, therefore, that the name of John a Kent may in some way have relation to Kentchurch , 1 but the editor has no local knowledge upon the point, and he has not succeeded in procuring from others the necessary information. It is certain, however, that the neighbourhood of Kentchurch was the chief scene of his exploits; and
+
+1 A correspondent of w Notes and Queries, 1 * (August 16, 1851) under the signature of Seleucus (Silurius?), has favoured us with information regarding John a Kent, which shows that he was a Welsh Bard in the beginning of the 15th century, and that some of his poems are published in the u lolo MSS.” In a note to those poems it is stated that the author was u a priest of Kentchurch in Herefordshire,” and “ is said to have lived in the time of Wicliffe, and to have been of his party.” What was most needed, for the purpose of illustrating the play in our hands, was tidings (if they could have been procured) of some early published and popular history of John a Kent and his achievements; but these we can hardly hope to obtain.
+
+upon this subject and the current traditions respecting him, an intelligent and learned friend, who resides at no great distance, has obligingly forwarded the subsequent memoranda.
+
+“ 1 have great pleasure in telling you all the little that I know about the mysterious being, John a Kent, who, I am inclined to think, must have been some personage of note in his time. His fame as a wizard, though not so extensive, is somewhat like that of Doctor Faustus. There is hardly any one in this southern part of Herefordshire, particularly among the peasantry, who has not some marvellous traditionary story to relate concerning him. Most of these tales, however, are resolvable into one or two exploits in travelling for or with his master, in something like the railway speed of a single night, from Grosmont or Kentchurch to London, and of his outwitting in some way or other the arch-enemy of mankind. But with regard to time they are so confused — as traditions are apt to be — that there is no arriving at any point from which a conjecture may be formed as to the period of his, or of his prototype’s existence.
+
+“ A countryman whom I once met with in the neighbourhood of Grosmont, and questioned as to what he had ever heard of the state of the country during the civil war between Charles the First and the Parliament, and the plundering of the county by the Scots, during the siege of Hereford— of which there were formerly many traditions — immediately pounced upon John a Kent as an actor in those affairs. He told me that, when the Scots came to plunder in the neighbourhood of Kentchurch and Grosmont, this magician went into a field of com, and with one blast of his horn called forth such a host of warriors, as immediately compelled the intruders to retire. But I am sure that the oi%rn of John a Kent ascends much higher. Coxe, in Ms History (or Account) qf as far as I can recollect, most of the particulars
+
+that I ever heard related of him, and offers an ingenious conjecture as to his reality.”
+
+There can be no doubt, as the writer of the preceding note speculates, that John a Kent exercised te' vocation at a period much anterior to the Civil Wars; and the play before us furnishes evidence that his reputaftkm was so great at the close of rite reign of Elizabeth, that a popular dramatist availed himself
+
+
+XXIV
+
+INTRODUCTION.
+
+of it for the purpose of stage-representation. For the following particulars we are indebted to a correspondent of “The Athenaeum;” (26th July, 1851) and it will he found that they accord very much with the information above quoted.
+
+“There are yet many legends current about John o’ Kent in the vicinity of Kentchurch, twelve miles from Hereford, and twelve from Abergavenny. There is a barn, still called John o’ Kent’s Barn, in which he is said to have confined all the crows which infested a certain field which, when a boy, he was desired to watch — the barn having then no roof. There is an aged oak in Kentchurch Park, belonging to Colonel Scudamore, called John o’ Kent’s Oak, to which he is said to have fastened his dogs. He is supposed to have sold his, soul to the Evil Spirit — the covenant being, that John o’ Kent should not be buried inside a church, whence the Enemy could not have taken him. This he eluded by being buried under the church wall, half inside and half outside of the building, at G-rosemont, the adjoining parish to Kentchurch, in Monmouthshire. I believe that there is something about him in Coxe’s “ Monmouthshire,” but I have not the book. The old people about Kentchurch have some more tales about the feats of John of Kent. I have heard it conjectured that, under this name, in the character of a wizard, Owen Grlendower lurked in this neighbourhood for many years; and that here two of his daughters were married, one to an ancestor of Colonel Scudamore, and another to a Monnington, of the village so called, where a tomb, supposed to be his, is still shown. I know not what authority there is for this conjecture. Kentchurch is a very ancient property of the family of Scudamore, who have been settled there some centuries. The present owner is abroad now, but habitually resides there. He has a portrait said to be of John a Kent.”
+
+As both the writers of the preceding communications refer to Coxe’s “ Historical Tour in Monmouthshire,” and as it comprises some particulars and speculations not hitherto noticed, we venture to subjoin, with a little abridgment, what is there said of John a Kent (p 336, &c).
+
+“ G-rosmont rings with the achievements of John a Kent. Like Dr. Faustus, he is said to have made a compact with the devil, but, more successful than the Doctor, he evaded the conditions of his covenant, and outwitted the prince of darkness, both in his life and at his death. Among the early specimens of his magical skill, while a farmer’s boy in the vicinity, he confined a number of crows, which he was ordered to keep from the corn, in an old bam without a roof, that he might visit Grosmont fair. Kentchurch house, the neighbouring seat of the Scudamore family, by whom he was hired as a servant, became afterwards the scene of his marvellous exploits. The feat of all others which most endears his memory to the inhabitants of Grosmont was the construction of the bridge over the Monnow, leading to Kentchurch : it is still called John of Kent’s bridge, and is said to have been built in one night by one of his familiar spirits. An old tombstone in the churchyard, close to the east wall of the chancel, is said to cover his body; and the legend reports that he was interred under the wall to evade the condition of his compact, which stipulated, that if buried either within the church, or out of the church, he should become the property of Satan.
+
+“ Various opinions have been entertained concerning this mysterious personage. According to some, he was the John of Kent, Gwent, or Went, a Franciscan, thus mentioned by Leland: 4 He was bred in Wales, and so ardently followed the most celebrated schools of the Franciscans at Oxford, and made such improvements in profound learning, that he was the wonder of his religious bretheren.’ Baker in his chronicle mentions another John of Kent among the men of learning in the reign of Henry HI. According to others, he was the bard of Owen Glendower, and became domesticated in the family on the defeat of his chieftain, whose daughter married a Scudamore. A tradition, however, still prevails that an old wizard, disguised in a shepherd’s habit, once roamed about in the neighbourhood of Grosmont, frequented Kentchurch house, and was buried privately under a stone in the churchyard below the east window of the chancel, which is called John of Kent's tombstone. It has been conjectured that this wizard was Oweu Glendower himself, who, when proscribed, wandered about in a shepherd’s habit, and took refuge with one of his daughters.”
+
+la the play, now for the first time printed, John a Kent evinces his masterdom over supernatural agents in a way not indicated in the preceding quotations; for he raises no fewer than four different preternatural agents, or Antics, for the purpose of misleading his adversary, John a Cumber, and those who trusted in him. These Antics sing four songs; and John a Kent's boy, Shrimp, who is a very useful coadjutor, possesses the faculty of becoming invisible, and, like Ariel in “ The Tempest," by his magical music induces persons to follow him, until they lose their way, and lie down to sleep from weariness. In any other particulars we would not for an instant be supposed to institute a comparison between the most beautiful and delicate creation our poetry can boast, and the coarse and comparatively vulgar invention of a great, but far inferior dramatist . 1
+
+1 Since the above was in type, the Editor has to acknowledge the receipt of a very obliging letter from the Rev. R. P. Llewelyn, who resides near Bridgend, Glamorganshire, referring to several works which mention John a Kent and Sidanen. He states, among other points, that the late Taliesin Williams gained a prize offered for a History of the former; and that an air named after the latter is to be found in Parry’s “ Welsh Harper,” i., 94.
+
+
+---
+
+Notes and Queries
+
+John a Kent, First Series, iv. 56. 78. 83. 119, 120.
