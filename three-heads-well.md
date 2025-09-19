@@ -436,7 +436,7 @@ In his notes, Jacobs makes reference to "the contrasted fates of two step-sister
 
 There was once a widow who had two daughters — one of whom was pretty and industrious, whilst the other was ugly and idle. But she was much fonder of the ugly and idle one, because she was her own daughter; and the other, who was a step-daughter, was obliged to do all the work, and be the Cinderella of the house. Every day the poor girl had to sit by a well, in the highway, and spin and spin till her fingers bled.
 
-Now it happened that one day the shuttle was marked with her blood, so she dipped it in the well, to wash the mark off ; but it dropped out of her hand and fell to the bottom. She began to weep, and ran to her step-mother and told her of the mishap. But she scolded her sharply, and was so merciless as to say, "Since you have let the shuttle fall in, you must fetch it out again."
+Now it happened that one day the shuttle was marked with her blood, so she dipped it in the well, to wash the mark off; but it dropped out of her hand and fell to the bottom. She began to weep, and ran to her step-mother and told her of the mishap. But she scolded her sharply, and was so merciless as to say, "Since you have let the shuttle fall in, you must fetch it out again."
 
 So the girl went back to the well, and did not know what to do; and in the sorrow of her heart she jumped into the well to get the shuttle. She lost her senses; and when she awoke and came to herself again, she was in a lovely meadow where the sun was shining and many thousands of flowers were growing. Along this meadow she went, and at last came to a baker's oven full of bread, and the bread cried out, "Oh, take me out! take me out! or I shall burn; I have been baked a long time!" So she went up to it, and took out all the loaves one after another with the bread-shovel. After that she went on till she came to a tree covered with apples, which called out to her, "Oh, shake me! shake me! we apples are all ripe!" So she shook the tree till the apples fell like rain, and went on shaking till they were all down, and when she had gathered them into a heap, she went on her way.
 
@@ -456,7 +456,7 @@ And as she went into the yard the cock was standing by the well-side, and cried 
 
 So she went in to her mother, and as she arrived thus covered with gold, she was well received, both by her and her sister.
 
-The girl told all that had happened to her; and as soon as the mother heard how she had come by so much wealth, she was very anxious to obtain the same good luck for the ugly and lazy daughter. She had to seat herself by the well and spin ; and in order that her shuttle might be stained with blood, she stuck her hand into a thorn bush and pricked her finger. Then she threw her shuttle into the well, and jumped in after it.
+The girl told all that had happened to her; and as soon as the mother heard how she had come by so much wealth, she was very anxious to obtain the same good luck for the ugly and lazy daughter. She had to seat herself by the well and spin; and in order that her shuttle might be stained with blood, she stuck her hand into a thorn bush and pricked her finger. Then she threw her shuttle into the well, and jumped in after it.
 
 She came, like the other, to the beautiful meadow and walked along the very same path. When she got to the oven the bread again cried, "Oh, take me out! take me out! or I shall burn; I have been baked a long time!" But the lazy thing answered, "As if I had any wish to make myself dirty?" and on she went. Soon she came to the apple-tree, which cried, "Oh, shake me! shake me! we apples are all ripe!" But she answered, "I like that! one of you might fall on my head," and so went on.
 
@@ -481,7 +481,7 @@ The Well of the World's End
 
 Once upon a time, and a very good time it was, though it wasn't in my time, nor in your time, nor any one else's time, there was a girl whose mother had died, and her father had married again. And her stepmother hated her because she was more beautiful than herself, and she was very cruel to her. She used to make her do all the servant's work, and never let her have any peace. At last, one day, the stepmother thought to get rid of her altogether; so she handed her a sieve and said to her: "Go, fill it at the Well of the World's End and bring it home to me full, or woe betide you." For she thought she would never be able to find the Well of the World's End, and, if she did, how could she bring home a sieve full of water?
 
-Well, the girl started off, and asked every one she met to tell her where was the Well of the World's End. But nobody knew, and she didn't know what to do, when a queer little old woman, all bent double, told her where it was, and how she could get to it. So she did what the old woman told her, and at last arrived at the Well of the World's End. But when she dipped the sieve in the cold, cold water, it all ran out again. She tried and she tried again, but every time it was the same ; and at last she sate down and cried as if her heart would break.
+Well, the girl started off, and asked every one she met to tell her where was the Well of the World's End. But nobody knew, and she didn't know what to do, when a queer little old woman, all bent double, told her where it was, and how she could get to it. So she did what the old woman told her, and at last arrived at the Well of the World's End. But when she dipped the sieve in the cold, cold water, it all ran out again. She tried and she tried again, but every time it was the same; and at last she sate down and cried as if her heart would break.
 
 Suddenly she heard a croaking voice, and she looked up and saw a great frog with goggle eyes looking at her and speaking to her.
 
@@ -500,7 +500,7 @@ And then it will carry the water away;"
 
 and then it gave a hop, skip and jump, and went flop into the Well of the World's End.
 
-So the girl looked about for some moss, and lined the bottom of the sieve with it, and over that she put some clay, and then she dipped it once again into the Well of the World's End ; and this time, the water didn't run out, and she turned to go away.
+So the girl looked about for some moss, and lined the bottom of the sieve with it, and over that she put some clay, and then she dipped it once again into the Well of the World's End; and this time, the water didn't run out, and she turned to go away.
 
 Just then the frog popped up its head out of the Well of the World's End, and said: "Remember your promise."
 
@@ -540,7 +540,7 @@ Go with me to bed, my own darling;
 Mind you the words you spake to me,  
 Down by the cold well, so weary."
 
-But that the girl wouldn't do, till her stepmother said: "Do what you promised, girl ; girls must keep their promises. Do what you're bid, or out you go, you and your froggie."
+But that the girl wouldn't do, till her stepmother said: "Do what you promised, girl; girls must keep their promises. Do what you're bid, or out you go, you and your froggie."
 
 So the girl took the frog with her to bed, and kept it as far away from her as she could. Well, just as the day was beginning to break what should the frog say but :
 
@@ -560,7 +560,7 @@ XLI. THE WELL OF THE WORLD'S END.
 
 Source, — Leyden's edition of *The Complaynt of Scotland* p. 234 *seq.*, with additional touches from Halliwell, 162-3, who makes up a slightly different version from the rhymes. The opening formula I have taken from Mayhew, *London Labour*, iii. 390, who gives it as the usual one when tramps tell folk-tales. I also added it to No. xvii.
 
-*Parallels.*— Sir W. Scott remembered a similar story; see Taylor's *Gammer Grethel, ad fin*. In Scotland it is Chambers's tale of *The Paddo* p. 87; Leyden supposes it is referred to in the *Complaynt* (c. 1548), as "The Wolf of the Warldis End." The well of this name occurs also in the Scotch version of the "Three Heads of the Well," (No. xliii.). Abroad it is the Grimms' first tale, while frogs who would a-wooing go are discussed by Prof. Kohler, *Occ. u. Orient*. ii. 330; by Prof. Child, i. 298; and by Messrs. Jones and Kropf, *l.c.* p. 404. The sieve-bucket task is widespread from the Danaids of the Greeks to the leverets of *Uncle Remus*, who, curiously enough, use the same rhyme: " Fill it wid moss en dob it wid clay." *Cf.*, too, No. xxiii `[Red Ettin]`.
+*Parallels.*— Sir W. Scott remembered a similar story; see Taylor's *Gammer Grethel, ad fin*. In Scotland it is Chambers's tale of *The Paddo* p. 87; Leyden supposes it is referred to in the *Complaynt* (c. 1548), as "The Wolf of the Warldis End." The well of this name occurs also in the Scotch version of the "Three Heads of the Well," (No. xliii.). Abroad it is the Grimms' first tale, while frogs who would a-wooing go are discussed by Prof. Kohler, *Occ. u. Orient*. ii. 330; by Prof. Child, i. 298; and by Messrs. Jones and Kropf, *l.c.* p. 404. The sieve-bucket task is widespread from the Danaids of the Greeks to the leverets of *Uncle Remus*, who, curiously enough, use the same rhyme: "Fill it wid moss en dob it wid clay." *Cf.*, too, No. xxiii `[Red Ettin]`.
 
 ```
 

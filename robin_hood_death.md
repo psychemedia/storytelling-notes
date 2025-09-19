@@ -131,7 +131,7 @@ And to burne up all Churchlee.'
 'That I reade not,' said Robin Hoode then,  
 'Litle Iohn, for it may not be;  
 If I shold doe any widow hurt, at my latter end,  
-God,' he said, ' wold blame me;  
+God,' he said, 'wold blame me;  
 
 'But take me vpon thy backe, Litle Iohn,  
 And beare me to yonder streete,  
@@ -393,7 +393,7 @@ So he made haste and came running up to the door of the abbey, and knocked loudl
 
 "Alas, dear master!" cried Little John in great distress; "I fear you have met with treachery! If that be so, grant me one last boon, I pray."
 
-" hat is it?" asked Robin.
+"hat is it?" asked Robin.
 
 "Let me burn Kirkley-Hall with fire, and all its nunnery."
 

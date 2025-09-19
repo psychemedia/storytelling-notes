@@ -542,10 +542,10 @@ Twenty-one witnesses were then examined, fourteen of whom were able to sign thei
 The evidence, however, being gone into at great length, the Jury, of which James Gordon of Ardmellie was Chancellor, gave in a verdict finding the panels to be "fylled, culpable, and convick" of the crimes lybelled; whereupon the Sheriff pronounced the following sentence: —
 
 "For sae meikle as you, Jas. McPherson and James Gordon, pannels, are found guilty, by ane verdict of ane assyse, to be knoune, holden and repute, to be Egyptians and vagabonds, and oppressors of his Matie's firee lieges, in ane bangstrie manner, and going up and doune the country armed, and keeping the mercats in an hostile manner, and that you are thieves, and receptors of thieves, and that you are of *pessima fama*. Therefore, the Sheriff-Depute of Banff, and I, in his name, adjudges and decernes you, the sds James McPherson and James Gordon, to be taken from the cross of Banff, from the tolbooth yrof, where you now lye, and yr upon ane gibbet to be erected, to be hanged by the neck to the death, by the hand of the common executioner, upon Friday next, being the 16 Nover. instant, being a public weeklie mercat-day, betwixt the hours of two and three in the afternoon; and, in the meantime, declares their haill movale goods and gear to be escheat and in-brought to the fiscall, for his Matie's interest, and recommends this sentence to be seen put in executione by the Maigistrats of Banff.  
-(Signed) " Nicolas Dunbar.
+(Signed) "Nicolas Dunbar.
 
 "And, further, the Sheriff-Depute ordains ye three young rogues, now in prison, that this day yr ears be cropt, publiclie scourged throu the toune of Banff, and burnt upon the cheek by the executioner, and banished this shyre for ever, under paine of death.
-(Signed) " Nicolas Dunbar."
+(Signed) "Nicolas Dunbar."
 
 It appears that McPherson alone of the party was executed, and performed at the foot of the gallows, on the Gallowhill of Banff, the "Rant" and pibroch of his own composition, and then made offer of his violin to any one who would receive it as a remembrance of him. The gift being declined, he broke the violin, and threw the fragments into the grave prepared for his body.
 

@@ -65,9 +65,9 @@ The first man he met was the landlord, and he asked the Tinker where he was goin
 
 "Lookin' for a sponsor for my child," says the Tinker.
 
-'"*Will you take me as a sponsor?" says the landlord.
+"Will you take me as a sponsor?" says the landlord.
 
-"T will not, " says the Tinker 'for you are a sorry man. You've smiles for them that are rich, and nothin' but growls for them that are poor." And he passed on.
+"I will not," says the Tinker 'for you are a sorry man. You've smiles for them that are rich, and nothin' but growls for them that are poor." And he passed on.
 
 And the next he met was God, and he asked the Tinker to take him as a sponsor.
 

@@ -28,7 +28,7 @@ Introduction
 
 A man finds a corpse lying unburied, and out of pure philanthropy procures interment for it at great personal inconvenience. Later he is met by the ghost of the dead man, who in many cases promises him help on condition of receiving, in return, half of whatever he gets. The hero obtains a wife (or some other reward), and, when called upon, is ready to fulfil his bargain as to sharing his possessions.
 
-Nowhere does a version appear in quite this form ; but from what follows it will be seen that the simple story must have proceeded along some such lines. The compounds in which it occurs show much variety. It will be necessary to study these in detail, not merely one or two of them but as many as can be found. Despite the bewildering complexities that may arise, I hope that this method of approach may throw some new light on the wanderings of the tale. ...
+Nowhere does a version appear in quite this form; but from what follows it will be seen that the simple story must have proceeded along some such lines. The compounds in which it occurs show much variety. It will be necessary to study these in detail, not merely one or two of them but as many as can be found. Despite the bewildering complexities that may arise, I hope that this method of approach may throw some new light on the wanderings of the tale. ...
 ```
 
 Gerould's work provides a categorisation and synopsis of wide range of variants of the tale, in a wide variety of languages.

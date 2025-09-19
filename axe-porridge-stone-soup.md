@@ -341,7 +341,7 @@ In deeper history, it seems that the tale was often ascribed to the actions of S
 
 Notes and Queries 1892-01-30: Vol 1 Iss 5
 Notes and queries
-8th S. I. JAN, 30, 1892 [pp??](https://archive.org/details/sim_notes-and-queries_1892-01-30_1_5/page/88/mode/2up):
+8th S. I. JAN, 30, 1892 [p88](https://archive.org/details/sim_notes-and-queries_1892-01-30_1_5/page/88/mode/2up):
 
 ST. BERNARD'S SOUP.— Will any reader of 'N. & Q.' kindly give me information with respect to the legend of St. Bernard's soup? The frugal saint was supposed to make his soup with a pebble, adding, of course, various other ingredients. What is the origin of the legend, and where is it to be found? There is a story by A. Karr, 'La Soupe au Caillou,' but I do not think that he makes any mention, of St. Bernard. K. W. H.
 

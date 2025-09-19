@@ -174,11 +174,11 @@ pp. 172-4
 
 LITTLE MUSGRAVE AND LADY BARNARD
 
-A broadside printed for Henry Gosson (C) appears to be the earliest impression known, but it has not so good a text as A. The ballad is quoted in Beaumont and Fletcher: 's Knight of the Burning Pestle (about 1611), act v, scene 3, and in other old plays. : ' Little Musgrave: ' is entered to Francis Coules in the Stationers: ' Registers, June 24, 1630.
+A broadside printed for Henry Gosson (C) appears to be the earliest impression known, but it has not so good a text as A. The ballad is quoted in Beaumont and Fletcher's Knight of the Burning Pestle (about 1611), act v, scene 3, and in other old plays. 'Little Musgrave' is entered to Francis Coules in the Stationers' Registers, June 24, 1630.
 
 A
 
-'Little Musgrave and the Lady Barnard.' a. Wit Restord, 1658, in the reprint : ' Facetiz,: ' London, 1817, 1, 298. b. Wit and Drollery, 1682, p. 81.
+'Little Musgrave and the Lady Barnard.' a. Wit Restord, 1658, in the reprint 'Facetiz,' London, 1817, 1, 298. b. Wit and Drollery, 1682, p. 81.
 
 1 As it fell one holy-day,  
 Hay downe  
@@ -406,14 +406,14 @@ pp. 106-
 
 XL
 
-This ballad is ancient, and has been popular ; we find it quoted in many old plays. See Beaum. and Fletcher's Knight of the Burning Pestle, 4to. 1613, act v. The Varieiie, a comedy, 12mo, 1649, act iv., &c. In Sir William Davenant's play. The Witts, act iii., a gallant thus boasts of himself:
+This ballad is ancient, and has been popular; we find it quoted in many old plays. See Beaum. and Fletcher's Knight of the Burning Pestle, 4to. 1613, act v. The Varieiie, a comedy, 12mo, 1649, act iv., &c. In Sir William Davenant's play. The Witts, act iii., a gallant thus boasts of himself:
 
 "Limber and Bound! besides I sing Musgrave,  
 And for Chevy-chace no lark comes near me."
 
 In the Pepys Collection, vol. iii. p. 314, is an imitation of this old song, in thirty-three stanzas, by a more modern pen, with many alterations, but evidently for the worse.
 
-This is given from an old printed copy in the British Museum, with corrections ; some of which are from a fragment in the Editor's folio MS. It is also printed in Dryden's Collection of Miscellaneous Poems.
+This is given from an old printed copy in the British Museum, with corrections; some of which are from a fragment in the Editor's folio MS. It is also printed in Dryden's Collection of Miscellaneous Poems.
 
 As it fell out on a highe bolye daye,  
 As many bee in the yeare,  
@@ -586,7 +586,7 @@ Ritson, with that scrupulous scepticism, for which his writings are generally re
 
 3 Little Musgrave and Lady Bernard.
 
-4: Lord Thomas and Fair Eleanor.
+4 Lord Thomas and Fair Eleanor.
 
 5 Fair Margaret and Sweet William.
 
@@ -595,7 +595,6 @@ Ritson, with that scrupulous scepticism, for which his writings are generally re
 7 John Armstrong.
 
 8 Captain Care.
-
 
 ? Lady Isabel and the Elf Knight
 

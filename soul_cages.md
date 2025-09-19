@@ -188,7 +188,7 @@ Jack asked Coo again, and Coo laughed at him for having no better head, telling 
 
 "Any thing in my power," said Co, "to oblige you."
 
-At this dinner, Jack took care to have his own liquor well watered, and to give the strongest brandy he had to Coo. At last, says he; "Pray, sir, did you ever drink any poteen?—any real Mountain dew ?"
+At this dinner, Jack took care to have his own liquor well watered, and to give the strongest brandy he had to Coo. At last, says he; "Pray, sir, did you ever drink any poteen?—any real Mountain dew?"
 
 "No," says Coo; "what's that, and where does it come from?"
 
