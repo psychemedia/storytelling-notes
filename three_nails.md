@@ -13,7 +13,7 @@ TO DO
 
 INTRODUCTION
 xxvn
-For Du Cange's first three quotations I can assign no dates, but Theophanes Isaurus was born in 758 and died in 818; the seven¬ teenth year of Justinian would be 544 a.d. —a very early date at which to find a Gypsy from Italy, 'having with him a blind yellow dog.' The dates of the Emperor Constantinus Porphyrogenitus are 905-959; I own I can make little of this passage from his Liber de adminisirando Lmperio, but themu, bandon, topoteresia, and tourma seem all to be words for administrative divisions.
+For Du Cange's first three quotations I can assign no dates, but Theophanes Isaurus was born in 758 and died in 818; the seventeenth year of Justinian would be 544 a.d. —a very early date at which to find a Gypsy from Italy, 'having with him a blind yellow dog.' The dates of the Emperor Constantinus Porphyrogenitus are 905-959; I own I can make little of this passage from his Liber de adminisirando Lmperio, but themu, bandon, topoteresia, and tourma seem all to be words for administrative divisions.
 
 Du Cange's last passage is by far the most interesting:— 'Anonymus de Passione Domini: "And when they arrive at the place, the komodromos coming to crucify him," etc.' Nalls of 'Why so interesting? there does not seem much in Crucifixion, that,' my readers may exclaim. Why? because there is a widely-spread superstition that a Gypsy forged the nails for the crucifixion, and that henceforth his race has been accursed of heaven. That superstition was first recorded in an article by Dr. B. Bogisic on 'Die slavisirten Zigeuner in Montenegro' ( Das Ausland, 25th May 1874); and in Le Folklore de Lesbos , by G. Georgeakis and Leon Pineau (Paris, 1891, pp. 273-8), is this 'Chant du Vendredi Saint,' this plaint of Our Lady:—
 

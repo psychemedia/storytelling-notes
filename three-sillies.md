@@ -82,7 +82,7 @@ Now after a time, when they did not come back, the farmer began to wonder what h
 
 "Just look at that horrid mallet up there, father," moaned the mother. "Supposing our daughter was to marry her sweetheart, and supposing they was to have a son, and supposing he was to grow to man's estate, and supposing he was to come down to draw cider like as we're doing, and supposing that there mallet was to fall on his head and kill him, how dreadful it would be!"
 
-"Dreadful indeed!" said the father, and seating him¬ self beside his wife and daughter started a-crying too.
+"Dreadful indeed!" said the father, and seating himself beside his wife and daughter started a-crying too.
 
 Now upstairs the young squire wanted his supper; so at last he lost patience and went down into the cellar to see for himself what they were all after. And there he found them seated side by side on the cask a-crying, with their feet all a-wash in cider, for the floor was fair flooded. So the first thing he did was to run straight and turn off the tap. Then he said:
 
@@ -108,7 +108,7 @@ But he hadn't gone but a bit when he heard the awfullest hullabaloo. He galloped
 
 "That is one bigger silly," quoth the young squire as he journeyed on. "So now for two more!"
 
-He did not find any, however, till late one night he ar¬ rived at a little inn. And the inn was so full that he had to share a room with another traveller. Now his room-fellow proved quite a pleasant fellow, and they foregathered, and each slept well in his bed.
+He did not find any, however, till late one night he arrived at a little inn. And the inn was so full that he had to share a room with another traveller. Now his room-fellow proved quite a pleasant fellow, and they foregathered, and each slept well in his bed.
 
 But next morning when they were dressing what does the stranger do but carefully hang his breeches on the knobs of the tallboy.
 

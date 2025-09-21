@@ -1,7 +1,7 @@
 # Fairy Changelings
 
 
-ALso relate in to Bridget Cleary tragedy
+Also relate in to Bridget Cleary tragedy
 
 
 
@@ -238,4 +238,4 @@ Then he went over to the cradle and said to the hideous little creature, in a lo
 
 At once the child sat up and began to grin at him; and made a rush to the door to get away; but the man caught hold of it and threw it on the fire. And the moment it felt the heat it turned into a black kitten, and flew up the chimney and was seen no more.
 
-Then the man sent word to his mother to bring the other child, who was found to be the tme heir, the lord's own son. So there was great rejoicing, and the child grew up to be a great lord himself, and when his time came, he ruled well over the estate; and his descendants are living to this day, for all things prospered with him after he was •saved from the fairies.
+Then the man sent word to his mother to bring the other child, who was found to be the heir, the lord's own son. So there was great rejoicing, and the child grew up to be a great lord himself, and when his time came, he ruled well over the estate; and his descendants are living to this day, for all things prospered with him after he was •saved from the fairies.

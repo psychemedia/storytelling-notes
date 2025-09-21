@@ -111,7 +111,7 @@ Also need to be mindful this is a Heritage Fund, not an Arts Council bid, althou
 
 *Evaluation:* professional evaluation (contribution to professional evaluation for whole project £??)
 
-*Contribution to final capstone performance event:* e.g. Island Stroytellers show at Ventnor Fringe (£100 sign on, marketing costs etc.)
+*Contribution to final capstone performance event:* e.g. Island Storytellers show at Ventnor Fringe (£100 sign on, marketing costs etc.)
 
 And then, of course, the big question of whether it's biddable for or not: *personal time engaged: in-research / on-project (e.g. community engagement/workshops) / in-performance*.
 

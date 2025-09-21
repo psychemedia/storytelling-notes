@@ -280,4 +280,4 @@ Even late as 1965, the story was still within living memory. In the Western Dail
 >
 > [The site where the little bear was buried was] "only a few yards from the top of the hill where you can see nine counties on a clear day.
 >
-> "It was such a shame they were killed becuase they were only baby bears."
+> "It was such a shame they were killed because they were only baby bears."

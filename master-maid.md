@@ -186,7 +186,7 @@ Then were they greatly astonished when she spoke of Nix Nought Nothing, and aske
 
 ```
 
-Jacobs' notes explain the extnt to which he tidied up Lang's version:
+Jacobs' notes explain the extent to which he tidied up Lang's version:
 
 ```{admonition} Jacobs, Notes on "Nix, Nought, Nothing"
 
@@ -590,7 +590,7 @@ When the giant came home, the first thing he did was to go to the clump of trees
 
 When the morning came, the giant pointed to the tallest tree in the forest near them, and said:
 
-** Do you see that birds' nest in the top of that tree? In it are six eggs; you must dimb up there and get all those eggs for me before nightfall, and if one is broken woe betide you!"
+** Do you see that birds' nest in the top of that tree? In it are six eggs; you must climb up there and get all those eggs for me before nightfall, and if one is broken woe betide you!"
 
 At that Prince Edgar did not feel so happy, for there were no branches to the tree till very near the top, and it was as smooth, as smooth as it could be, and he did not see how possibly he could reach the birds' nest. But when the giant had gone out for the day he went at once to the Master-Maid and told her of his new task.
 

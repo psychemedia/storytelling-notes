@@ -117,7 +117,7 @@ The Sun was about setting, when the Devil and the Gypsy alighted from their airy
 
 The Gypsy stared astonished at the gravel, which glittered like gold. After a while, as if distrusting what he saw, he went and took up some gravel and sand; they were pure gold. "Indeed you have kept your word," said the Gypsy; "it is now my turn; only permit me to take leave of my fiddle." And so wonderfuUy did the Gypsy play, that not only the Devil, but heaven also wept.
 
-The Gypsy kissed the fiddle at the last plaintive tone, placed his lips to one of the openinigs, sucked the air out of it, and reached it to the Devil, who disappeared with it like mist.
+The Gypsy kissed the fiddle at the last plaintive tone, placed his lips to one of the openings, sucked the air out of it, and reached it to the Devil, who disappeared with it like mist.
 
 The Gypsy filled his pipe, lighted it, and commenced taking the gold out of the bed of the Szamos.
 
@@ -129,7 +129,7 @@ Then suddenly the Devil appeared, and returning the fiddle to the Gypsy, he said
 
 And the Gypsy placed his lips to one of the openings of the fiddle, breathed into it, and played such a paasionate csardas, that the Devil skîpped about like one possessed, and the Gypsy himself was greatly astonished at his own playing — he thought he had never played like this.
 
-"Ah; I see now," said the Devil, when the Gypsy had finished playing, "I was a great fool to let myself be cheated by a Gypsy. Thou gavest me the fiddle, but without thy soul. Well, it is done, and cannot be helped; thou hast my gold and the fîddle, but thy playing will allure men into my net!"
+"Ah; I see now," said the Devil, when the Gypsy had finished playing, "I was a great fool to let myself be cheated by a Gypsy. Thou gavest me the fiddle, but without thy soul. Well, it is done, and cannot be helped; thou hast my gold and the fiddle, but thy playing will allure men into my net!"
 
 From that time onwards the devils in hell no longer dance the valse but the csardas. And the Gypsy receives money for the csardas, which he alone can play so wonderfully. And the Devil, though he had been cheated by the Gypsy, lost nothing by it, as men are still flying înto his net the same as before.
 
@@ -146,7 +146,7 @@ Here's another take on the tale, heavily influenced by a version I heard Daniel 
 >
 > As any musician will tell you, your instrument is a part of you. Not something you would part with lightly. "It's not for sale."
 >
-> "I will pay you well for it..." Now the devil, for it was, indeed the devil, is not someone you necessarily want to cross. So the gypsy thought hard, and thought that if he asked for a riduculous amount of money for the fiddle, the Devil would balk at the price, and then that would be that, and he could carry on his way. "It is worth more to me than my pockets full of of gold. Worth more even than my bag full of gold." "Then I will pay you more than that." And the gypsy felt his pockets sag. And his bag was suddenly very heavy indeed. And his hat, he suddenly noticed the weight of his hat. Just as a gold coin slipped from underneath it. And even though the gypsy felt as if he had been tricked, he handed over his fiddle. Because the devil is the devil, after all. And not someone you want to make an enemy of.
+> "I will pay you well for it..." Now the devil, for it was, indeed the devil, is not someone you necessarily want to cross. So the gypsy thought hard, and thought that if he asked for a ridiculous amount of money for the fiddle, the Devil would balk at the price, and then that would be that, and he could carry on his way. "It is worth more to me than my pockets full of of gold. Worth more even than my bag full of gold." "Then I will pay you more than that." And the gypsy felt his pockets sag. And his bag was suddenly very heavy indeed. And his hat, he suddenly noticed the weight of his hat. Just as a gold coin slipped from underneath it. And even though the gypsy felt as if he had been tricked, he handed over his fiddle. Because the devil is the devil, after all. And not someone you want to make an enemy of.
 >
 > The gypsy walked on. He had money for food, he had money for drink, but he would rather be making his way the way he always had done. So he bought another fiddle. But it wasn't the same. He could still play a tune, he could still entertain a crowd, but it felt as if a part of him was missing.
 >
@@ -184,9 +184,9 @@ One day there was a festival at Mokran, and no merry-making was ever complete wi
 
 Sswanda was not the man to quit the inn so long as he had a kreutzer in his pocket, and on that day he had many of them. By dint of talking, laughing, and drinking, he took one of those fixed ideas which are not uncommon among those who look too often in the bottom of their glass, and determined to play at any price; but all his neighbors refused his challenge. Furious at finding no partner, he rose with an unsteady step, paid for what he had drank, and left the inn.
 
-"I will go to Drazic," said he; "the schoolmaster and the bailiff there are honest peo pie who are not afraid of play, and I shall find part ners. Hurrah!"
+"I will go to Drazic," said he; "the schoolmaster and the bailiff there are honest peo pie who are not afraid of play, and I shall find partners. Hurrah!"
 
-The night was clear, and the moon shone like a fish's eye. On reaching a cross road, Sswanda raised his eyes by chance, and stop ped mute and motionless A flock of ravens were croaking over his head, and in front of him rose four posts, standing like pillars, and connected at the top by cross-beams, from each of which swung a half de voured corpse. It was a robbers' gallows, a spectacle by no means amusmg to a less stoical spirit than that of Sswanda.
+The night was clear, and the moon shone like a fish's eye. On reaching a cross road, Sswanda raised his eyes by chance, and stop ped mute and motionless A flock of ravens were croaking over his head, and in front of him rose four posts, standing like pillars, and connected at the top by cross-beams, from each of which swung a half devoured corpse. It was a robbers' gallows, a spectacle by no means amusing to a less stoical spirit than that of Sswanda.
 
 He had not recovered from the first shudder when suddenly there appeared before him a man dressed in black, with pale and hollow cheeks, and eyes that glittered like carbuncles.
 
@@ -210,9 +210,9 @@ Without knowing how he had entered, he found himself in a dark room where three 
 
 "A good idea!" said one of the players. Then, taking the jug, he handed it to Sswanda, saying, "Here, piper, drink and play."
 
-Sswanda had some scruples; but, after all, it is impossible to have charcoal without putting your fingerp into the ashes. The wine, though rather warm, was not bad. He replaced the jug on the table, and, raising his hat, said, "Good luck, brother!" as he had been advised.
+Sswanda had some scruples; but, after all, it is impossible to have charcoal without putting your finger into the ashes. The wine, though rather warm, was not bad. He replaced the jug on the table, and, raising his hat, said, "Good luck, brother!" as he had been advised.
 
-He began to play, and never had his music produced such an effect. Each note made the players leap for joy. Their eyes shot forth flames; they moved about uneasily in their chairs; they staked the ducats by handfuls; they shouted and burst into loud fits of laughter without stirring a muscle of their palhd faces. The jug passed from hand to hand, always full, though replenished by no one.
+He began to play, and never had his music produced such an effect. Each note made the players leap for joy. Their eyes shot forth flames; they moved about uneasily in their chairs; they staked the ducats by handfuls; they shouted and burst into loud fits of laughter without stirring a muscle of their paled faces. The jug passed from hand to hand, always full, though replenished by no one.
 
 As soon as Sswanda finished an air, they handed him the jug, from which he never failed to drink deeply, and threw handfuls of gold into his hat. "Good luck, brother!" he repeated, astounded at his fortune — "good luck!"
 

@@ -54,7 +54,7 @@ No man sees what supports him;
 The prayer of Clynllo will not be in vain;  
 God will not violate his promise.  
 Never in Gwyddno's weir  
-Was there snch good luck as this night  
+Was there such good luck as this night  
 Fair Elphin, dry thy cheeks!  
 Being too sad will not avail,  
 Although thou thinkest thou hast no gain  
@@ -127,7 +127,7 @@ For I know what has been, what in future will occur.
 I will supplicate my Lord that I got refuge in him,  
 A regard I may obtain in his grace;  
 The Son of Mary is my trust, great in him is my delight,  
-For in him is the world continuallu upholden.  
+For in him is the world continually upholden.  
 God has been to instruct me and to raise my expectation,  
 The true Creator of heaven, who affords me protection;  
 It is rightly intended that the saints should daily pray,  
@@ -257,7 +257,7 @@ TO DO p380-3
 
 Taliesin having set his master free from prison, and having protected the innocence of his wife, and silenced the Bards so that not one of them dared to say a word, now brought Elphin's wife before them, and shewed that she bad not one finger wanting. Right glad was Elphin, right glad was Taliesin.
 
-Then he bade Elphin wager the king, that he had a horse both better and swifter than the king's horses. And this Elphin did, and the day, and the time, and the place were fixed, and the place was that which at this day is called Morva Rhiannedd; and thither the king went with all his people, and four and twenty of the swiftest horses he posseaaed. And after a long process the course was marked, and the horses were placed for running. Then came Taliesin with four and twenty twigs of holly, which he had burnt black, and he caused the youth who was to ride his master's horse to place them in his belt, and he gave him orders to let all the king's horses get before him, and as he should overtake one horse after the other, to take one of the twigs and strike the horse with it over the crupper, and then let that twig fall; and after that to take another twig; and do in like manner to every one of the horses; as he should overtake them, enjoining the horseman strictly to watch when his own horse should stumble, and to throw down his cap on the spot. All these things did the youth fulfil, giving a blow to every one of the king's horses, and throwing down his cap on the spot where his horse stumbled. And to this spot Taliesin brought his master after his horse had won the race. And he caused Elphin to put workmen to dig a hole there; and when they had dug the ground deep enough, they found a large cauldron full of gold. And then said Taliesin, "Elphin, behold a payment and reward unto thee, for having taken me out of the weir, and for having reared me from that time until now." And on this spot stands a pool of water, which is to this time called Pwllbair.
+Then he bade Elphin wager the king, that he had a horse both better and swifter than the king's horses. And this Elphin did, and the day, and the time, and the place were fixed, and the place was that which at this day is called Morva Rhiannedd; and thither the king went with all his people, and four and twenty of the swiftest horses he possessed. And after a long process the course was marked, and the horses were placed for running. Then came Taliesin with four and twenty twigs of holly, which he had burnt black, and he caused the youth who was to ride his master's horse to place them in his belt, and he gave him orders to let all the king's horses get before him, and as he should overtake one horse after the other, to take one of the twigs and strike the horse with it over the crupper, and then let that twig fall; and after that to take another twig; and do in like manner to every one of the horses; as he should overtake them, enjoining the horseman strictly to watch when his own horse should stumble, and to throw down his cap on the spot. All these things did the youth fulfil, giving a blow to every one of the king's horses, and throwing down his cap on the spot where his horse stumbled. And to this spot Taliesin brought his master after his horse had won the race. And he caused Elphin to put workmen to dig a hole there; and when they had dug the ground deep enough, they found a large cauldron full of gold. And then said Taliesin, "Elphin, behold a payment and reward unto thee, for having taken me out of the weir, and for having reared me from that time until now." And on this spot stands a pool of water, which is to this time called Pwllbair.
 
 After all this, the king caused Taliesin to be brought before him, and he asked him to recite concerning the creation of man from the beginning; and thereupon he made the poem which is now called "One of the four pillars of song."
 
@@ -268,7 +268,7 @@ He further told the king various prophecies of things that should be in the worl
 
 Notes pp390-400
 
-Taliesin, literally, the "Radiant Brow," was a Welsh Bard of the sixth century. His name, regarded hy his countrymen with the reverence due to the "Prince of Song" is known to the Saxon chiefly through the brief but spirited inrocation of Gray.
+Taliesin, literally, the "Radiant Brow," was a Welsh Bard of the sixth century. His name, regarded hy his countrymen with the reverence due to the "Prince of Song" is known to the Saxon chiefly through the brief but spirited invocation of Gray.
 
 The text records the fiction of which Taliesin is the hero. Of his real history, little is known excepting what may he gleaned from his works, and from the following notices given in the volume of Iolo MSS. recently published by the Welsh MSS. Society. The first of these latter is taken from Anthony Powel of Llwydarth's MS.
 

@@ -814,7 +814,7 @@ The demon complied.
 
 So saying, he motioned to leave his seat, but found himself immovably fixed therein, while the guileful mortal set his flail to work on the captive enemy. Vain every entreaty for mercy — in vain he kicked and flung his arms around; the swift descending enemy of vengeance smashed every bone in his skin, and it was only when exhausted, and unable to prosecute his task, that he consented to liberate the miserable being, on his solemn oath, that he would never more visit this upper world on a similar errand.
 
-Satan has more than one courier to do his errands. A second messenger, provided with the necessary in¬ struction for shunning the fatal chair and flail, was despatched to fetch the doomed mortal, who was rumi¬ nating, next day, on the adventure of the preceding evening, when the latch was raised, and a stranger cautiously entered.
+Satan has more than one courier to do his errands. A second messenger, provided with the necessary instruction for shunning the fatal chair and flail, was despatched to fetch the doomed mortal, who was ruminating, next day, on the adventure of the preceding evening, when the latch was raised, and a stranger cautiously entered.
 
 When he had explained his business, Jack requested that he would be seated, and expressed his willingness to depart when he had put a stitch or two in his old brogue. The courier was too cautious, and declined to sit; but Jack took the chair, pulled off his broken shoe, and requested the demon to hand him an awl from the small box.
 

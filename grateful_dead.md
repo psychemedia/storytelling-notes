@@ -24,7 +24,7 @@ pp.ix-x
 
 Introduction
 
-... [*The Grateful Dead*] appears in a variety of different combinations, almost never alone. Indeed, it is so widespread a tale, and its combinations are so various, that there is the utmost difficulty in determining just what may properly be regarded the original kernel of it, the simple theme to which other motives were joined. ... what is the residuum when the tale is stripped of elements not common to a very great majority of the versions belonging to the cycle? What is left amounte to the folloving, — the story reduced to its lowest terms, I take it.
+... [*The Grateful Dead*] appears in a variety of different combinations, almost never alone. Indeed, it is so widespread a tale, and its combinations are so various, that there is the utmost difficulty in determining just what may properly be regarded the original kernel of it, the simple theme to which other motives were joined. ... what is the residuum when the tale is stripped of elements not common to a very great majority of the versions belonging to the cycle? What is left amounts to the following, — the story reduced to its lowest terms, I take it.
 
 A man finds a corpse lying unburied, and out of pure philanthropy procures interment for it at great personal inconvenience. Later he is met by the ghost of the dead man, who in many cases promises him help on condition of receiving, in return, half of whatever he gets. The hero obtains a wife (or some other reward), and, when called upon, is ready to fulfil his bargain as to sharing his possessions.
 
@@ -202,7 +202,7 @@ The third night when he was going to bed the princess said to the king's son, "I
 
 When she came to the rock in the eastern world and entered the house of the giant, the princess said, "You let my two gifts go with the son of the king in Erin, and he'll have me won to-morrow if he'll have your head at my father's castle in the morning."
 
-"Never fear," said the giant, "there is nothing in the world to take the head off me but the doublehanded sword of darkness that never fails a blow, and that sword belongs to my brother in the western world."
+"Never fear," said the giant, "there is nothing in the world to take the head off me but the double-handed sword of darkness that never fails a blow, and that sword belongs to my brother in the western world."
 
 The princess gave the giant a kiss at parting; and as she hurried away with her maid the giant turned to look at her. His head was covered with an iron cap; but as he looked he laid bare a thin strip of his neck. Shaking-head was there near him, and said in his mind: "Your brother's sword has never been so close to your neck before;" and with one blow he swept the head off him. Then began the greatest struggle that Shaking-head ever had, to keep the head from the body of the giant. The head fought to put itself on again, and never stopped till the body was dead; then it fell to the ground. Shaking-head seized, but couldn't stir the head, — couldn't move it from its place. Then he searched all around it and found a (*bar an suan*) pin of slumber near the ear. When he took the pin away he had no trouble in carrying the head; and he made no delay but came to the castle at daybreak, and threw the head to a herd of pigs that belonged to the king. Then he went to the king's son, and asked:
 
@@ -256,7 +256,7 @@ The three fleets of the three kings' sons were sunk, their armies destroyed, and
 
 ```
 
-The followong variant, which is one I tend to prefer, is close to the version I head Ben Haggerty tell at the *Stealing Thunder* storytelling festival in 2025, in which the dead man was a blacksmith(?) who has taken all the iron from that place; the conceit with the witches saw the young man take a sack of what looked like gold (but turned to worthless leaves?) whilst the companion took what looked to be worthless ("oh, you don't want that.."). The troll was a (the?) devil (?).
+The following variant, which is one I tend to prefer, is close to the version I head Ben Haggerty tell at the *Stealing Thunder* storytelling festival in 2025, in which the dead man was a blacksmith(?) who has taken all the iron from that place; the conceit with the witches saw the young man take a sack of what looked like gold (but turned to worthless leaves?) whilst the companion took what looked to be worthless ("oh, you don't want that..."). The troll was a (the?) devil (?).
 
 ```{admonition} A Norwegian variant, *The Companion*, 1874
 :class: dropdown
@@ -327,11 +327,11 @@ When he had wandered on and on for a quarter of a year he came to a town, and ou
 
 "So he took the sword and went off with it, and left her still sitting there.
 
-"'When they had gone far, far away over naked fells and wide wastes, they came to another crossfelL There, too, the companion knocked and bade them open the door, and the same thing happened as happened before; the rock opened, and when they had got a good way into the hill another old witch came up to them with a chair and begged them to sit down. 'Ye may well be weary/ she said.
+"'When they had gone far, far away over naked fells and wide wastes, they came to another crossfell There, too, the companion knocked and bade them open the door, and the same thing happened as happened before; the rock opened, and when they had got a good way into the hill another old witch came up to them with a chair and begged them to sit down. 'Ye may well be weary/ she said.
 
 "'Sit down yourself,' said the companion. And so she fared as her sister had fared, she did not dare to say nay, and as soon as she came on the chair she stuck fast. Meanwhile the lad and his companion went about in the hill, and the man broke open all the chests and drawers till he found what he sought, and that was a golden ball of yam. That he set his heart on, and he promised the old witch to set her free if she would give him the golden ball. She said he might take all she had, but that she could not part with; it was her Three-Sister Ball. But when she heard that she should sit there till Doomsday unless he got it, she said he might take it all the same if he would only set her free. So the companion took the golden ball, but he left her sitting where she sat.
 
-"So on they went for many days, over waste and wood, till they came to a third crossfelL There all went as it had gone twice before. The companion knocked, the rock opened, and inside the hill an old witch came up, and asked them to sit on her chair, they must be tired. But the companion said again, ' Sit on it yourself,' and there she sat. They had not gone through many rooms before they saw an old hat which hung on a peg behind the door. That the companion must and would have; but the old witch couldn't part with it. It was her Three-Sister Hat, and if she gave it away, all her luck would be lost. But when she heard that she would have to sit there till the end of the world unless he got it, she said he might take it if he would only let her loose. When the companion had got well hold of the hat, he went off, and bade her sit there still, like the rest of her sisters.
+"So on they went for many days, over waste and wood, till they came to a third crossfell There all went as it had gone twice before. The companion knocked, the rock opened, and inside the hill an old witch came up, and asked them to sit on her chair, they must be tired. But the companion said again, ' Sit on it yourself,' and there she sat. They had not gone through many rooms before they saw an old hat which hung on a peg behind the door. That the companion must and would have; but the old witch couldn't part with it. It was her Three-Sister Hat, and if she gave it away, all her luck would be lost. But when she heard that she would have to sit there till the end of the world unless he got it, she said he might take it if he would only let her loose. When the companion had got well hold of the hat, he went off, and bade her sit there still, like the rest of her sisters.
 
 "After a long, long time, they came to a Sound; then the companion took the ball of yam, and threw it so hard against the rock on the other side of the stream that it bounded back, and after he had thrown it backwards and forwards a few times it became a bridge. On that bridge they went over the Sound, and when they reached the other side, the man bade the lad to be quick and wind up the yam again as soon as he could, for, said he: —
 
@@ -347,7 +347,7 @@ When he had wandered on and on for a quarter of a year he came to a town, and ou
 
 "'That is no such great art,' thought the lad.
 
-"But the princess was so merry and mad, and flirted so much with him, that he forgot all about the scissors and himself, and so while they played and sported, she stole the scissors away from him without his knowing it. When he went up to his room at night, and told how he had fared, and what she had said to him, and about the scissors she gave him to keep, the compaijion said, —
+"But the princess was so merry and mad, and flirted so much with him, that he forgot all about the scissors and himself, and so while they played and sported, she stole the scissors away from him without his knowing it. When he went up to his room at night, and told how he had fared, and what she had said to him, and about the scissors she gave him to keep, the companion said, —
 
 "'Of course you have the scissors safe and sure.'
 
@@ -385,7 +385,7 @@ When he had wandered on and on for a quarter of a year he came to a town, and ou
 
 "'Since you have kept the scissors so well, it won't be any trouble to you to keep my golden ball of yam, and take care you give it me to-morrow at noon; but if you have lost it, you shall lose your life on the scaffold. It is the law.'
 
-"The lad thought that an easy thing, so he took and put the goldep ball into his pocket. But she fell a-plajdng and flirting with him again, so that he forgot both himself and the golden ball, and while they were at the height of their games and pranks, she stole it from him, and sent him off to bed.
+"The lad thought that an easy thing, so he took and put the golden ball into his pocket. But she fell a-playing and flirting with him again, so that he forgot both himself and the golden ball, and while they were at the height of their games and pranks, she stole it from him, and sent him off to bed.
 
 "Then when he came up to his bed-room, and told what they had said and done, his companion asked, —
 
@@ -393,7 +393,7 @@ When he had wandered on and on for a quarter of a year he came to a town, and ou
 
 "'Yes! yes!' said the lad, and felt in his pocket where he had put it; but no, there was no ball to be found, and he fell again into such an ill mood, and knew not which way to turn.
 
-"'Well! well! bear up a bit,' said the companioa 'I'll see if I can't lay hands on it;' and with that he took the sword and hat and strode off to a smith, and got twelve pounds of iron welded on to the back of the sword-blade. Then he went down to the stable, and gave the Billygoat a stroke between his horns, so that the brute went head over heels, and he asked, —
+"'Well! well! bear up a bit,' said the companion 'I'll see if I can't lay hands on it;' and with that he took the sword and hat and strode off to a smith, and got twelve pounds of iron welded on to the back of the sword-blade. Then he went down to the stable, and gave the Billygoat a stroke between his horns, so that the brute went head over heels, and he asked, —
 
 "'When rides the princess to see her lover to-night?'
 
@@ -413,7 +413,7 @@ When he had wandered on and on for a quarter of a year he came to a town, and ou
 
 "'And here it is,' she said; 'for I took it from him again without his knowing it. But what shall we hit upon now, since he is master of such craft!'
 
-"Well, the Troll hardly knew; but, after they had thought a bit, they made up their minds to light a large fire and burn the golden ball; and so they would be cocksuire that he could not get at it. But, just as she tossed it into the fire, the companion stood ready and caught it; and neither of them saw him, for he had on the ThreeSister Hat.
+"Well, the Troll hardly knew; but, after they had thought a bit, they made up their minds to light a large fire and burn the golden ball; and so they would be cocksure that he could not get at it. But, just as she tossed it into the fire, the companion stood ready and caught it; and neither of them saw him, for he had on the ThreeSister Hat.
 
 "When the princess had been with the Troll a little while, and it began to grow towards dawn, she set off home again, and the companion got up behind her on the goat, and they got back fast and safe.
 
@@ -443,9 +443,9 @@ When he had wandered on and on for a quarter of a year he came to a town, and ou
 
 "But he was not light-handed this time; for, every now and then, he gave the princess a slap, so that he almost beat the breath out of her body.
 
-"And when they came to the wall of rock, she knocked at the dopr, and it opened, and they passed on into the fell to her lover.
+"And when they came to the wall of rock, she knocked at the door, and it opened, and they passed on into the fell to her lover.
 
-"As soon as she got there, she fell to bewailing, and was very cross, and said she never knew the air could deal such buflfets; she almost thought, indeed, that some one sat behind, who beat both the Billygoat and herself; she was sure she was black and blue all over her body, such a hard flight had she had through the air.
+"As soon as she got there, she fell to bewailing, and was very cross, and said she never knew the air could deal such buffets; she almost thought, indeed, that some one sat behind, who beat both the Billygoat and herself; she was sure she was black and blue all over her body, such a hard flight had she had through the air.
 
 "Then she went on to tell how her lover had brought her the golden ball too; how it happened, neither she nor the Troll could tell.
 
@@ -467,9 +467,9 @@ When he had wandered on and on for a quarter of a year he came to a town, and ou
 
 "'Aye; aye; I have it,' said the lad, and he tore it out from under his coat, and threw it down on the board with such a thump that the board, trestles and all, was upset. As for the princess, she was as though she had been dead and buried; but she could not say that this was not what she was thinking of, and so now he was to have her to wife as she had given her word So they made a bridal feast, and there was drinking and gladness all over the kingdom.
 
-"But the companion took the lad on one side, andjtold him that he might just shut his eyes and sham sleep on the bridal night; but if he held his life dear, and would listen to him, he wouldn't let a wink come over them till he had stripped her of her troll-skin, which had been thrown over her, but he must flog it off her with a rod made of nine new birch twigs, and he must tear it off her in three tubs of milk: first he was to scrub her in a tub of year-old whey, and then he was to scour her in the tub of buttermilk, and lastly, he was to rub her in a tub of new milk. The birch twigs lay under the bed, and the tubs he had set in the comer of the roonu Everything was ready to his hand. Yes; the lad gave his word to do as he was bid and to listen to him. So when they got into the bridal bed at even, the lad shammed as though he had given himself up to sleep. Then the princess raised herself up on her elbow and looked at him to see if he slept, and tickled him under the nose; but the lad slept on still. Then she tugged his hair and his beard; but he lay like a log, as she thought. After that she drew out a big butcher's knife from under the bolster,, and was just going to hack off his head; but the lad jumped up, dashed the knife out of her hand, and caught her by the hair. Then he flogged her with the birchrods, and wore them out upon her till there was not a twig left When that was over he tumbled her into the tub of whey, and then he got to see what sort of beast she was: she was black as a raven all over her body; but when he scrubbed her well in the whey, and scoured her with butte^r-milk, and rubbed her well in new milk, her troll-skin dropped off her, and she was fair and lovely and gentle; so lovely she had never looked before.
+"But the companion took the lad on one side, and told him that he might just shut his eyes and sham sleep on the bridal night; but if he held his life dear, and would listen to him, he wouldn't let a wink come over them till he had stripped her of her troll-skin, which had been thrown over her, but he must flog it off her with a rod made of nine new birch twigs, and he must tear it off her in three tubs of milk: first he was to scrub her in a tub of year-old whey, and then he was to scour her in the tub of buttermilk, and lastly, he was to rub her in a tub of new milk. The birch twigs lay under the bed, and the tubs he had set in the corner of the room. Everything was ready to his hand. Yes; the lad gave his word to do as he was bid and to listen to him. So when they got into the bridal bed at even, the lad shammed as though he had given himself up to sleep. Then the princess raised herself up on her elbow and looked at him to see if he slept, and tickled him under the nose; but the lad slept on still. Then she tugged his hair and his beard; but he lay like a log, as she thought. After that she drew out a big butcher's knife from under the bolster,, and was just going to hack off his head; but the lad jumped up, dashed the knife out of her hand, and caught her by the hair. Then he flogged her with the birchrods, and wore them out upon her till there was not a twig left When that was over he tumbled her into the tub of whey, and then he got to see what sort of beast she was: she was black as a raven all over her body; but when he scrubbed her well in the whey, and scoured her with butte^r-milk, and rubbed her well in new milk, her troll-skin dropped off her, and she was fair and lovely and gentle; so lovely she had never looked before.
 
-"Next day the companion said they must set off home. Yes; the lad was ready enough, and the princess too, for her dower had been long waiting. In the night the companion fetched to the king's grange all the gold and silver and precious things which the Troll had left behind him in the Fell, and when they were ready^to start in the morning the whole grange was so full of silver, and gold, and jewels, there was no walking without treading on them. That dower was worth more than all the king's land and realm, and they were at their wits' end to know how to carry it with them. . But the companion knew a way out of eveiy strait. The Troll left behind him six billygoats, who could all fly through the air. Those he so laded with silver and gold that they were forced to walk along the ground, and had no strength to mount aloft and fly, and what the billygoats could not carry had to stay behind in the king's grange. So they travelled far, and farther than far, but at lagt the billygoats got so footsore and tired they could not go another step. The lad and the princess knew not what to do; but when the companion saw they could not get on, he took the whole dower on his back, and the billygoats atop of it, and bore it all so far on that there was only half a mile left to the lad's home.
+"Next day the companion said they must set off home. Yes; the lad was ready enough, and the princess too, for her dower had been long waiting. In the night the companion fetched to the king's grange all the gold and silver and precious things which the Troll had left behind him in the Fell, and when they were ready^to start in the morning the whole grange was so full of silver, and gold, and jewels, there was no walking without treading on them. That dower was worth more than all the king's land and realm, and they were at their wits' end to know how to carry it with them. . But the companion knew a way out of every strait. The Troll left behind him six billygoats, who could all fly through the air. Those he so laded with silver and gold that they were forced to walk along the ground, and had no strength to mount aloft and fly, and what the billygoats could not carry had to stay behind in the king's grange. So they travelled far, and farther than far, but at last the billygoats got so footsore and tired they could not go another step. The lad and the princess knew not what to do; but when the companion saw they could not get on, he took the whole dower on his back, and the billygoats atop of it, and bore it all so far on that there was only half a mile left to the lad's home.
 
 "Then the companion said: 'Now we must part. I can't stay with you any longer.'
 
@@ -719,7 +719,7 @@ The king's son took a knife and was going to cut. "Stop your hand," said the red
 
 ```
 
-A variant of the grateful dead tale can also be found in the mediaeval romamce of Sir Amadace.
+A variant of the grateful dead tale can also be found in the mediaeval romance of Sir Amadace.
 
 ```{admonition} *Ghost Thanks, or The Grateful Unburied*, 1860
 :class: dropdown
@@ -747,4 +747,4 @@ Publication date 1860
 
 ```
 
-I have noted a narrative form elsewhwere, in my [*Middle English Romances*](https://github.com/psychemedia/middle-english-romances/blob/main/sir-amadace.md) stroynotes collection.
+I have noted a narrative form elsewhere, in my [*Middle English Romances*](https://github.com/psychemedia/middle-english-romances/blob/main/sir-amadace.md) storynotes collection.

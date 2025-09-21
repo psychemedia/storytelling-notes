@@ -20,7 +20,7 @@ by Susie Hoogasian-Villa
 
 There was once a beggar who sat at the foot of a bridge and asked for alms from the passersby. Every day a rich young merchant stopped to throw him a few para [Turkish coin]. One day the merchant had a larger shipment than usual and did not have enough money to pay the caravan owners. As he went to borrow the necessary funds from some friend or other, he was preoccupied. He passed the bridge, forgetting to give a few cents to the beggar.
 
-The beggar, seeing that the young man passed him, was sur¬ prised. "Why didn't he give me money? Is something wrong?" the beggar said to himself. "Young man, come back, come back!" he stood up and shouted. The merchant turned around and came back. "Why did you forget to give my money today?" the beggar asked.
+The beggar, seeing that the young man passed him, was surprised. "Why didn't he give me money? Is something wrong?" the beggar said to himself. "Young man, come back, come back!" he stood up and shouted. The merchant turned around and came back. "Why did you forget to give my money today?" the beggar asked.
 
 "I was in a hurry and forgot," the merchant said, throwing a few para to the beggar.
 
