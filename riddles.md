@@ -282,7 +282,7 @@ A. the 4 sales of a windy mile.
 
 [Fol. 5 b.]
 
-[40] Q. w* is that as works al day & lies in his one
+[40] Q. w* is that as works all day & lies in his one
 
 dung al night
 
