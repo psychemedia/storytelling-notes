@@ -75,7 +75,7 @@ For Alice my wife,
 The plague of my life,  
 Hath sent me to beg a boon of thee!"
 
-"What would she have now?" said the fish, "Ah!" said the fisherman, "she wants to be emperor." "Go home," said the fish; "she is emperor already." Go he went home again; and as he came near he saw his wife sitting on a very lofty throne made of solid gold, with s great crown on her head full two yards high, and on each side of her stood her guards and attendants in a row, each one smaller than the other, from the tallest giant down to a little dwarf no bigger than my finger. And before her stood princes, and dukes, and earls: and the fisherman went up to her and said, "Wife, are you emperor?" "Yes," said she, "I am emperor." "Ah!" said the man as he gazed upon her, "what a fine thing it is to be emperor!" "Husband," said she, "why should we stay at being emperor? I will be pope next." "Oh wife, wife!" said he, "how can you be pope? there is but one pope at a time in Christendom." "Husband," said she, "I will be pope this very day." "But," replied the husband, "the fish cannot make you pope." "What nonsense!" said she, "if he can make an emperor, he can make a pope; go and try him." So the fisherman went. But when he came to the shore the wind was raging, and the sea was tossed up and down like boiling water, and the ships were in the greatest distress and danced upon the waves most fearfully; in the middle of the sky there was alittle blue, but towards the south it was all red as if a dreadful storm was rising. At this the fisherman was terribly frightened and trembled, so that his knees knocked together: but he went to the shore and said,
+"What would she have now?" said the fish, "Ah!" said the fisherman, "she wants to be emperor." "Go home," said the fish; "she is emperor already." Go he went home again; and as he came near he saw his wife sitting on a very lofty throne made of solid gold, with s great crown on her head full two yards high, and on each side of her stood her guards and attendants in a row, each one smaller than the other, from the tallest giant down to a little dwarf no bigger than my finger. And before her stood princes, and dukes, and earls: and the fisherman went up to her and said, "Wife, are you emperor?" "Yes," said she, "I am emperor." "Ah!" said the man as he gazed upon her, "what a fine thing it is to be emperor!" "Husband," said she, "why should we stay at being emperor? I will be pope next." "Oh wife, wife!" said he, "how can you be pope? there is but one pope at a time in Christendom." "Husband," said she, "I will be pope this very day." "But," replied the husband, "the fish cannot make you pope." "What nonsense!" said she, "if he can make an emperor, he can make a pope; go and try him." So the fisherman went. But when he came to the shore the wind was raging, and the sea was tossed up and down like boiling water, and the ships were in the greatest distress and danced upon the waves most fearfully; in the middle of the sky there was a little blue, but towards the south it was all red as if a dreadful storm was rising. At this the fisherman was terribly frightened and trembled, so that his knees knocked together: but he went to the shore and said,
 
 "O man of the sea!  
 Come listen to me,  
@@ -102,266 +102,147 @@ Notes, p. 221:
 > The Fisherman and his Wife, p. 27.—"De Fischer un siine Fru," a story in the Pomeranian Low German dialect, admirably adapted to this species of narrative, and particularly pleasing to an English ear, as bearing a remarkable affinity to his own language, or rather that of the Lowland Scotch. Take the second sentence as a specimen: "Daar satt he eens an de see, bi de angel, un sach in dat blanke water, un he sach immer (ever) na de angel," &c. During the fervour of popular feeling on the downfall of the power of the late Emperor of France, this tale became a great favourite. In the original the last object of the wife's desires is to be as "de lewe Gott" (der liebe Gott, le bon Dieu). We have softened the boldness of the lady's ambition.
 ```
 
+```{admonition}
+:class: dropdown
+
+https://archive.org/details/folklorelegendsr00londiala/page/34/mode/2up?
+Folk-lore and legends, Russian and Polish
+Publication date 1890
+
+pp.35-41
+
+THE OLD MAN, HIS WIFE, AND THE FISH.
+
+There once lived in a hut on the shores of the Isle of Buyan an old man and his wife. They were very poor. The old man used to go to the sea daily to fish, and they only just managed to live on what he caught. One day he let down his net and drew it in. It seemed to be very heavy. He dragged and dragged, and at last got it to shore. There he found that he had caught one little fish of a kind he had never before seen — a golden fish.
+
+The fish spoke to him in a man's voice. "Do not keep me, old man," it said; "let me go once more free in the sea and I will reward you for it, for whatever you wish I will do."
+
+The old man thought for a while. Then he said, "Well, I don't want you. Go into the sea again," and he threw the fish into the water and went home.
+
+"Well," said his wife, when he got home, " what have you caught to-day?"
+
+"Only one little fish," said the man, "a golden fish, and that I let go again, it begged so hard. 'Put me in the blue sea again,' it said, 'and I will reward you, for whatever you wish I will do.' So I let it go, and did not ask anything."
+
+"Ah, you old fool!" said the wife in a great rage, "what an opportunity you have lost. You might, at least, have asked the fish to give us some bread. We have scarce a crust in the house."
+
+The old woman grumbled so much that her husband could have no quiet, so to please her off he went to the seashore, and there he cried out —
+
+"Little fish, little fish, come now to me, Your tail in the water, your head out of sea!"
+
+The fish came to the shore.
+
+"Well, what do you want, old man?" it asked.
+
+"My wife," said the man, "is in a great passion, and has sent me to ask for bread."
+
+"Very well," said the fish, "go home and you shall have it."
+
+The old man went back, and when he entered the hut he found bread in plenty.
+
+"Well," said he to his wife, "we have enough bread now."
+
+"Oh yes!" said she, "but I have had such a misfortune while you were away. I have broken the bucket. What shall I do the washing in now? Go to the fish, and ask it to give us a new bucket."
+
+Away went the man. Standing on the shore he called out —
+
+"Little fish, little fish, come now to me,  
+Your tail in the water, your head out of sea!"
+
+The fish soon made its appearance.
+
+"Well, old man," it said, " what do you want?"
+
+"My wife," said the man, "has had a misfortune, and has broken our bucket. So I have come to ask for a new one."
+
+"Very well," said the fish, "you shall find one at home."
+
+The old man went back. As soon as he got home his wife said to him —
+
+"Be off to the golden fish again, and ask it to give us a new hut. Ours is all coming to pieces. We have scarcely a roof over our heads."
+
+The old man once more came to the shore, and cried —
+
+"Little fish, little fish, come now to me,  
+Your tail in the water, your head out of sea!"
+
+The fish came.
+
+"Well, what is it?" asked the fish.
+
+"My wife," said the man, "is in a very bad temper, and has sent me to ask you to build us a new cottage. She says she cannot live any longer in our present one."
+
+"Oh, do not be troubled about that," said the fish. " Go home. You shall have what you want."
+
+The old man went back again, and in the place of his miserable hovel he found a new hut built of oak and nicely ornamented. The old man was delighted, but as soon as he went in his wife set on him, saying —
+
+"What an idiot you are  You do not know how to take good fortune when it is offered to you. You think you have done a great thing just because you have got a new hut. Be off again to the golden fish, and tell it I will not be a mere peasant's wife any longer, I will be an Archduchess, with plenty of servants, and set the fashion."
+
+The old man went to the golden fish.
+
+"What is it?" asked the fish.
+
+"My wife will not let me rest," replied the man; "she wants now to be an Archduchess, and is not content with being my wife."
+
+"Well, it shall be as she wishes. Go home again," said the fish.
+
+Away went the man. How astonished was he, when, on coming to where his house had stood, he now found a fine mansion, three stories high. Servants crowded the hall, and cooks were busy in the kitchens. On a seat in a fine room sat the man's wife, dressed in robes shining with gold and silver, and giving orders.
+
+"Good day, wife!" said the man.
+
+"Who are you, man?" said his wife. "What have you to do with me, a fine lady? Take the clown away," said she to her servants. "Take him to the stable, and whip some of the impudence out of him."
+
+The servants seized the old man, took him off to the stable, and when they had him there beat him so that he hardly knew whether he was alive or not. After that the wife made him the door-keeper of the house. She gave him a besom, and put him to keep the yard in order. As for his meals, he got them in the kitchen. He had a hard life of it. If the yard was not swept clean, he had to look out.
+
+"Who would have thought she had been such a hag?" said the old man to himself. "Here she has all such good fortune, and will not even own me for her husband!"
+
+After a time the wife got tired of being merely an Archduchess, so she said to her husband —
+
+"Go off to the golden fish, and tell it I will be a Czarina."
+
+The old man went down to the shore. He cried —
+
+"Little fish, little fish, come now to me,  
+Your tail in the water, your head out of sea!"
+
+The fish came swimming to the shore.
+
+"Well, old man!" it said, "what do you want?"
+
+"My wife is not yet satisfied," said the man; "she wants now to be a Czarina."
+
+"Do not let that trouble you," said the fish, "but go to your house. What you ask shall be done."
+
+The man went back. In place of the fine house he found a palace with a roof of gold. Soldiers were on guard around it. In front of the palace was a garden, and at the back a fine park, in which some troops were parading. On a balcony stood the Czarina surrounded by officers and nobles. The troops presented arms, the drums beat, the trumpets blew, and the people shouted.
+
+In a short time the woman got tired of being Czarina, and she commanded that her husband should be found and brought to her presence. The palace was all in confusion, for who knew what had become of the old man? Officers and noblemen hurried here and there to search for him. At length he was found in a hut behind the palace.
+
+"Listen, you old idiot!" said his wife. "Go to the golden fish, and tell it that I am tired of being Czarina. I want to rule over all the ocean, to have dominion over every sea and all the fish."
+
+The old man hesitated to go to the fish with such a request.
+
+"Be off!" said his wife, "or your head shall be cut off."
+
+The man went to the seashore and said —
+
+"Little fish, little fish, come now to me,  
+Your tail in the water, your head out of sea!"
+
+The fish did not come. The man waited, but it was not to be seen. Then he said the words a second time. The waves roared. A short while before it had been bright and calm, now dark clouds covered the sky, the wind howled, and the water seemed of an inky blackness.
+
+At length the fish came.
+
+"What do you want, old man?" it asked.
+
+"My old wife," answered he, "is not satisfied even now. She says she will be Czarina no longer, but will rule over all the waters and all the fish."
+
+The fish made no reply, but dived down and disappeared in the sea.
+
+The man went back. What had become of the palace? He looked around, but could not see it. He rubbed his eyes in wonder. On the spot where the palace had stood was the old hut, and at the door stood the old woman in her old rags.
+
+So they commenced to live again in their old style. The man often went a-fishing, but he never more caught the golden fish.
+
+```
+
 Several variants of the tale can be found in the Irish Schools collection ([example 1](https://www.duchas.ie/en/cbes/4428060/4373687/4477316?), [example 2](https://www.duchas.ie/en/cbes/5044750/5036201/5137396), [example 3](https://www.duchas.ie/en/cbes/4428051/4372483/4471409), [example 4](https://www.duchas.ie/en/cbes/4770035/4768271/4815515), [example 5](https://www.duchas.ie/en/cbes/4922386/4876513/5082865)).
 
-A Scottish version also exists on the [Tobar an Dualchais](https://www.tobarandualchais.co.uk/) website, collected from Stanley Robertson, in Aberdeen, in 1979: [*A woman was granted her wishes but ended up where she started as a result of her discontent.*](https://www.tobarandualchais.co.uk/track/65001?l=en):
-
-> Stanley Robertson introduces a story that he calls 'The Owld Wuman that Lived in a Vinegar Bottle', which he learned from his mother.
->
-> A bad-tempered old woman lived in a vinegar bottle and hated it. Her husband, a fisherman, caught a big fish, which turned out to be the Old Man of the Sea. In return for his freedom, he promised to grant whatever the man and his wife wanted. The wife demanded a castle, the fishermen called in rhyme for the Old Man of the Sea, and the wish was granted. The wife was only contented for a short time, and kept demanding different dwellings. The Old Man lost patience and she found herself back in the vinegar bottle. She continued treating her husband badly, and he lived unhappily ever after.
-
-This is a tale I'll remember that a fairy tale tried.
-
-The old woman that loved in a vinegar bottle.
-
-In sappoinac time, her loved an old woman and she bared in a vinegar bottle.
-
-And she was most unhappy in her vinegar bottle.
-
-Her mind was a fisherman and they didn't hate her very much.
-
-And aw, she hated biting the vinegar bottle.
-
-She says, "Lama, look at this scabby vinegar bottle.
-
-The neighbors could look in to see it anytime because it's made of glass.
-
-But then they hear her cottons.
-
-A skull in the winter.
-
-No, I'm not happy.
-
-And you go out and do your best and see if you can get something for wassaka."
-
-And she melted some fat in the pan and she was like, "Tartre, oh yes."
-
-She was melting this fat in the pan.
-
-And she said, "Don't come back empty-handed."
-
-And her name was Alice.
-
-So the poor man can see this fashion.
-
-And this is fashion.
-
-"He got you some pickest fess you ever did see.
-
-But does he take this to be fair?"
-
-He says, "Well, Alice will be pleased with this fess.
-
-He takes us.
-
-We hope good to fess his mood."
-
-But does he face she was an enchanted fess?"
-
-And he says, "Oh, didn't it kill me.
-
-I'm near fess.
-
-I'm the old man of the sea.
-
-So I only come up here for the holiday."
-
-He says, "You're the old man of the sea."
-
-She said, "But I can't hang him for the fess."
-
-He says, "Look," he says, "I can grant you only a wish because I'm the old man of the sea.
-
-And if you go home and tell your wife she can have anything she wants and the only time you want anything, just come back.
-
-I'll be grateful, but please put me back to the man."
-
-Be nice off here if you can.
-
-I'll fix the old man as he throws him back into the water.
-
-And simply his wife, very excited, and she was eating it.
-
-"And what I fess."
-
-And he comes down and he says, "All right," he says, "I found the biggest and the bunniest looking fess you ever seen.
-
-But Alice, it I was."
-
-And she says, full of the fame when she takes her thing out of Austin Fess and pulls her dirty seat.
-
-And she was a real coarse wife, the poor man's rather than a woman of the other's.
-
-But he says, "Oh, but he says, "Oh," and she's hacked him with that spine because he never did talk about it.
-
-And she says, "But this was a magic fess and promised me that I can get your wishes."
-
-And she kicks him and she says, "Well, go back," she says, "I'm sick and tired living in a vinegar bottle.
-
-Go back and tell that old man of the sea if he's real."
-
-And I went to bed in a beautiful castle.
-
-I go into the living of vinegar bottle.
-
-And if you've got that, then you could come home."
-
-So, gangster the old man of the sea and he says, "Old man of the sea, come listen to me.
-
-For Alice, my wife, the plague of my life, has sent me to beg a boon of thee."
-
-To the Buddha of France he says, "What do you want?"
-
-And you request your be grande?
-
-In case she wants to make a bid in vinegar bottle, she wants to have a beautiful castle.
-
-He says, "Go home to your wife and when you go home, you'll find you're living in a castle."
-
-He says, "A beautiful castle," said Nunezus.
-
-And his wife presented, "Oh, she's delighted."
-
-She says, "Old man of the sea's given me the castle."
-
-She's got a serb and some horses with all the trimmings.
-
-She presented the castle a little bit a week and she said, "I don't like this castle.
-
-It's too cold and too droughty.
-
-People shouldn't live in big, stolen houses like this.
-
-I don't have a idea.
-
-It's too lonely and cold and droughty.
-
-Tell me when a nice summer cottage is flowing around the booty."
-
-The blue man in the back says, "Old man of the sea come listen to me."
-
-For I ask my wife the plague of my life has sent me the beg of unity.
-
-She says, "What do you want?"
-
-And you request, "We'll be granted."
-
-He says, "Oh, she wants to buy you a little country cottage with flowers."
-
-He says, "Well, go back and you'll find you're writing this place with the flowers."
-
-The games back, you know, the wife delighted for a few minutes.
-
-"Oh, but the next day she's a grandmother."
-
-She says, "Look at this.
-
-Look what I've got.
-
-I'm really mad.
-
-This is not the kind of garden we do.
-
-This cottage is not big enough for two of us.
-
-It's not a good cottage.
-
-I don't like it.
-
-I don't like the smell of that flower.
-
-So I'm not good.
-
-Oh, there was nothing pleased her."
-
-She said, "Tell him I went to go and stay in a trailer."
-
-Like a caravan thing.
-
-She says, "My wife wants to go into one of these great big, long, long trail of things, a caravan style thing, and a big, long one.
-
-The romantic, gypsy style.
-
-She wants to be, looks like a behemoth, though."
-
-So she comes in.
-
-She says, "Oh, no, no, no."
-
-She says, "I can't look like these tinker people."
-
-"Oh, no, I've never meant to be a gypsy.
-
-This is no use.
-
-This is what some of the cottage was.
-
-I don't like cooking over this kind of stove.
-
-Oh, nothing pleased her.
-
-Go back and tell him I went to Paulus."
-
-Bach, he goes again, and he's riding to the old land of the sea.
-
-The old man I see once more says, "Go back, and your wife will get her Paulus."
-
-"Well, tried her isn't it, Paulus?"
-
-And she was tired.
-
-It was too big, too eerie.
-
-Everything was her fault in it.
-
-Well, she had Paulus, she had Chatea, she had cottage, she had tenements, she had masonettes, she had trains, she had up and up possible dwelling places that you could think of, and nothing pleased her.
-
-So finally, she says, "Go to the old man."
-
-She says, "I want something that I like best of all, something that I could really look comfortable in.
-
-I don't want the skin of houses and that kind of houses.
-
-I want something to look very, very comfortable."
-
-So Bach goes to the old man, and he says, "Old man of the sea come listen to me."
-
-"For I lost my wife, the plague of my wife has sent me to beg of lunadie."
-
-And the old man says, "Well, well," he says, "I've never been so sconered with that woman of yours."
-
-She says, "She's an absolute plague."
-
-He says, "Maybe I'd better have a teen hair and neck."
-
-And he says, "This is worse than having her wishes."
-
-He says, "Look, this is her last wish she gets me.
-
-I'm sorry.
-
-I've run into patients.
-
-They get no more than that.
-
-This is your luck.
-
-Go home to your wife and she'll be very happy and contented."
-
-And the man came home, and his wife was living back in her vinegar bottle.
-
-And all she was complaining, and she was cooking this thing I rostened for her.
-
-And the poor man came in, she sculled him with this thing I rostened for her again.
-
-And the poor man lived most unhappily ever after.
-
-I rostened stury up, isn't it?
-
-I anodic stury.
-
-Oh, that's true.
-
-For the rottened, we have rottened up.
-
-Now, I know the international version of it, but this certainly has been taken up well by the travelers.
+A Scottish version also exists on the [Tobar an Dualchais](https://www.tobarandualchais.co.uk/) website, collected from Stanley Robertson, in Aberdeen, in 1979: [*A woman was granted her wishes but ended up where she started as a result of her discontent.*](https://www.tobarandualchais.co.uk/track/65001?l=en), a story that he called *'The Owld Wuman that Lived in a Vinegar Bottle'*, which he learned from his mother.
