@@ -99,7 +99,7 @@ About eleven o'clock on Thursday, the unhappy criminal was conducted to the New 
 Having been executed, the rest of the sentence — hanging in chains — was then duly carried out. But it seems that the story does not quite end there, as we see from a brief article in the *Nottingham Gazette* of Friday 16 September 1814, which describes the following, rather gruesome, robbery:
 
 ```{admonition} Robbery Extraordinary, September 1814
-:class: ddropdown
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001099/18140916/015/0003
 
 Nottingham Gazette - Friday 16 September 1814
