@@ -4,7 +4,7 @@ Tales told in my recent solo performances.
 
 ## Unforeseen Consequences: Travelling the Road v2
 
-Saturday, Septemeber 21st, 2024, FuBar Ryde, *60 mins*
+Saturday, September 21st, 2024, FuBar Ryde, *60 mins*
 
 - *Wish Ring*, [Mary starts rummaging in box]
 - [stone, "do you remember this? Ha, STONE SOUP"] *Stone Soup*
