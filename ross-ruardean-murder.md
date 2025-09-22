@@ -107,7 +107,7 @@ Confessions. —A point altogether novel as respects the Ministers of our Protes
 
 The story was also picked up by *The Nonconformist* — strapline *"The dissidence of dissent and the protestantism of the protestant religion."*, price *6d.* — presumably because of the involvement of the Rev. Henry Formby in having taken Frances bennett's confession.
 
-```{admonition} Inhuman depravity almost unparalleled in the annals of crime, Novemeber 1842
+```{admonition} Inhuman depravity almost unparalleled in the annals of crime, November 1842
 :class: dropdown
 The Noncomformist  1842-11-16: Iss 84, vol. 2
 Publication date 1842-11-16

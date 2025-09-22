@@ -16,7 +16,7 @@ Worcester Journal - Thursday 24 December 1812
 
 A week later, the tragic death of Mr Robins was reported: the crime was now one of murder rather than attempted murder.
 
-```{admonition} By a letter, Decemeber 1812
+```{admonition} By a letter, December 1812
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000150/18121231/026/0003
 Worcester Journal - Thursday 31 December 1812

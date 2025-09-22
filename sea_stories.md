@@ -6,7 +6,9 @@ Scottish legends (esp. Scottish islands) of *selkies*, which is to say, *seals*,
 
 Also related water sprites (*kelpies*) eg [*Folk-Lore Journal*, 1889: Vol 7, p199-201](https://archive.org/details/sim_folk-lore-journal_1889_7/page/198/mode/2up?q=kelpie). See also this [overview](https://www.ancient-origins.net/myths-legends/riding-seas-kelpies-and-other-fascinating-water-horses-myth-and-legend-006170).
 
-A Duncan Williamson tale of [*Jack trying to catch a mermaid*](https://www.tobarandualchais.co.uk/track/32158?l=en). Another of his tales, [*Death in a Nut*](https://www.tobarandualchais.co.uk/track/36459?l=en), also involves the sea-shore.
+An Irish *fakelore* tale, *The Soul Cages*, relates of a fisherman's encounter with a merrow (an Irish variant of a mermaid) and his visit's to the merrow's undersea home.
+
+A Duncan Williamson tale of [*Jack trying to catch a mermaid*](https://www.tobarandualchais.co.uk/track/32158?l=en). Another of his tales, [*Death in a Nut*](https://www.tobarandualchais.co.uk/track/36459?l=en), also involves the sea-shore. Williamson also told a tale of a lighthouse keeper who takes in a seal ("Flippy") who turns out, we assume, to be a selkie.
 
 A story in which the sea plays an interesting role, from Sabine Baring-Gould, *Old English Fairy Tales*, 1895, p141+, is [*The Undutiful Daughter*](https://archive.org/details/oldenglishfairyt00bari/page/140/mode/2up). *I keep looking for an opportunity to tell this one!* See also https://en.wikipedia.org/wiki/Bonnie_Annie and http://www.springthyme.co.uk/ballads/balladtexts/24_BonnieAnnie.html
 
