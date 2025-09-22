@@ -266,7 +266,7 @@ Subjoined is the subscription list: Sir J E Dorington, Bart, M.P. 10s, F Lucas 1
 Altogether the maltreated Frenchmen have received about £150.
 ```
 
-### The Story Remembered
+## The Story Remembered
 
 Even late as 1965, the story was still within living memory. In the Western Daily Press of [Wednesday, April 28th, 1965](https://forest-of-dean.net/downloads/Newspaper/Story_of_the_two_Bears.pdf), Mr. James Wood, aged 85 years, of Ruardean woodside, recalls the affair as follows:
 
