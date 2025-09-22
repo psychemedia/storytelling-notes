@@ -95,11 +95,17 @@ Publication date 1893
 Vol II
 
 Book IV, ch. XLIV-XLVI
- pp185-97
+pp189-97
+
+CHAPTER XLV
+
+How Pantagruel landed on the Island of the Popefigs
+
+THE next Morning we came to the Island of the Popefigs, `[Popefigs, i.e. those who despise or make the fig at the Pope — the Reformers. The origin of this gesture (putting the thumb between the index and middle finger) is obscure. The earliest allusion to it that I can find is in Dante, Inferno xxv. i, 2 : Al fine delle sue parole il ladro, Le mane alzò con ambedue le fiche. Scartazzini has a learned note on this passage, but does not trace it further back. Is it possible that the Hebrew word Thacor indicates a reference to I Samuel vi. 5?]` who were formerly wealthy and free, and bore the Name of Gaillardets ; but now they were poor and miserable, and subject to the Papimanes. ...
 
 ...
 
-Pantagruel was astonished at this, and on asking what kind of Games they were playing there, he was told that for the last three Years there had raged in the Island a Pestilence so horrible, that the Half or more of the Country had remained desolate, and the Lands without Occupiers. When the Pestilence had gone by, this Man, who was hidden within the Sacristy, was ploughing a large and fertile n Piece of Ground and sowing it with Wheat 12 at the very Day and Hour that a small Devil (one who did not know how to thunder or hail except only on Parsley and Cabbages, and moreover could not yet read or write) had obtained Leave from Lucifer to go for a Holiday and Recreation in this Island of the Popefigs, wherein the Devils were very familiar with the Men and Women, and often went there to pass their Time.
+Pantagruel was astonished at this, and on asking what kind of Games they were playing there, he was told that for the last three Years there had raged in the Island a Pestilence so horrible, that the Half or more of the Country had remained desolate, and the Lands without Occupiers. When the Pestilence had gone by, this Man, who was hidden within the Sacristy, was ploughing a large and fertile `[Fr. restile, Lat. restibilis, a word used by Columella and Latin writers on agriculture, signifying ploughed and producing every year. Cf. retouble, c. 21.]` Piece of Ground and sowing it with Wheat `[Fr. touzelle (from touzé = tondu), wheat without a beard.]` at the very Day and Hour that a small Devil (one who did not know how to thunder or hail except only on Parsley and Cabbages, and moreover could not yet read or write) had obtained Leave from Lucifer to go for a Holiday and Recreation in this Island of the Popefigs, wherein the Devils were very familiar with the Men and Women, and often went there to pass their Time.
 
 This Devil, having got to the Place, addressed himself to the Labourer, and asked him what he was doing. The poor Man answered him that he was sowing this Field with Wheat, to help him to live the following Year.
 
@@ -111,51 +117,21 @@ This Devil, having got to the Place, addressed himself to the Labourer, and aske
 
 "About the middle of July," answered the Labourer.
 
-"Very well," said the Devil, "I will not fail to be here; meantime do as is thy Duty to do. Work, Villain, work. I am off to tempt to the gallant Sin of Luxury13 the noble Nuns of Pette-sec,14 also the Cowled Hypocrites and Gluttons. Of their Desires I am more than assured. They have but to meet,15 and the Combat takes place."
-
-11 Fr. restile, Lat. restibilis, a word and compares ii. 7, n. 13 on les nonnains used by Columella and Latin writers on de Poissy.
-
-agriculture, signifying ploughed and pro- 15 Fr. aujoindre. Duchat explains this
-
-ducing every year. Cf. retouble, c. 21. phrase as the joining of battle with swords,
-
-12 Fr. touzelle (from touze = tondii), etc., after the breaking of the lances, and wheat without a beard. quotes Amadis, Bk. xiv., last chapter :
-
-13 Luxuria, the mediaeval Latin word "Mais quand vint aujoindre, ils se renfor incontinence. contrerent d'escus, de corps et de testes, si
-
-14 De Marsy supposes that by Pette- verdement qu'ils tomberent tous deux par sec the royal abbey of Poissy is intended, terre."
-
+"Very well," said the Devil, "I will not fail to be here; meantime do as is thy Duty to do. Work, Villain, work. I am off to tempt to the gallant Sin of Luxury `[Luxuria, the mediaeval Latin word for incontinence.]` the noble Nuns of Pette-sec, `[De Marsy supposes that by Pette-sec the royal abbey of Poissy is intended, and compares ii. 7, n. 13 on les nonnains de Poissy.]` also the Cowled Hypocrites and Gluttons. Of their Desires I am more than assured. They have but to meet, `[Fr. aujoindre. Duchat explains this phrase as the joining of battle with swords, etc., after the breaking of the lances, and quotes Amadis, Bk. xiv., last chapter: "Mais quand vint au joindre, ils se rencontrerent d'escus, de corps et de testes, si verdement qu'ils tombèrent tous deux par terre."]` and the Combat takes place."
 
 CHAPTER XLVI
 
 How the little Devil was beguiled by a Labourer of Popefig-land
 
-WHEN mid- July had come, the Devil presented himself at the Place, accompanied by a Troop of little Devilkins of the Choir.1 There, finding the Labourer, he said: "Now, Villain, how hast thou done since my Departure? It is fitting now that we should make out our Shares."
+WHEN mid- July had come, the Devil presented himself at the Place, accompanied by a Troop of little Devilkins of the Choir. `[of the Choir. So in iv. 6 an inferior sheep is spoken of as one du bas choeur. Here = choristers who attend the priest.]` There, finding the Labourer, he said: "Now, Villain, how hast thou done since my Departure? It is fitting now that we should make out our Shares."
 
 "It is but Reason," answered the Labourer.
 
-Then the Labourer and his Men began to reap the Corn. The Devilkins likewise pulled up the Stubble from the Earth. The Labourer threshed his Corn on the Threshing-floor,2 winnowed it, put it in Sacks and carried it to Market to sell. The Imps did the same, and set themselves down at the Market-place, near the Labourer, to sell their Stubble. The Labourer sold his Corn very well, and with the Money filled an old Half-buskin, which he carried at his Girdle. The Devils sold nothing, nay, on the contrary, the Peasants jeered at them in open Market.
+Then the Labourer and his Men began to reap the Corn. The Devilkins likewise pulled up the Stubble from the Earth. The Labourer threshed his Corn on the Threshing-floor, `[Fr. en Faire, Lat. area.]` winnowed it, put it in Sacks and carried it to Market to sell. The Imps did the same, and set themselves down at the Market-place, near the Labourer, to sell their Stubble. The Labourer sold his Corn very well, and with the Money filled an old Half-buskin, which he carried at his Girdle. The Devils sold nothing, nay, on the contrary, the Peasants jeered at them in open Market.
 
-When the Market was over, the Devil said to the Labourer : "Villain, thou hast cheated me this time; next time thou shalt not do so."
+When the Market was over, the Devil said to the Labourer: "Villain, thou hast cheated me this time; next time thou shalt not do so."
 
-"Master Devil," said the Labourer, "how could I have cheated you, when you had the first Choice? The Truth is, that in this Choice you thought to cheat me, expecting that nothing would come out of the Earth for my Share, and that you would find below the whole of the Grain which I had sown; intending therewith to tempt the Poor and
-
-1 of the Choir. So in iv. 6 an inferior Here = choristers who attend the priest, sheep is spoken of as one du bas chccur. 2 Fr. en Faire, Lat. area.
-
-
-CHAP. XLVI PANTAGRUEL 193
-
-Needy, the Hypocrites or the Misers, and by Temptation to make
-
-them fall into your Snares; but you are mighty young at your Trade.
-
-The a Grain which you see in the Earth is dead and rotten; the Corrup- * cr. i Cor.
-
-tion of that has caused the Generation of the other, which you saw me J
-
-sell. So you do choose the Worse; 3 that is why you are cursed in the
-
-Gospel."
+"Master Devil," said the Labourer, "how could I have cheated you, when you had the first Choice? The Truth is, that in this Choice you thought to cheat me, expecting that nothing would come out of the Earth for my Share, and that you would find below the whole of the Grain which I had sown; intending therewith to tempt the Poor and Needy, the Hypocrites or the Misers, and by Temptation to make them fall into your Snares; but you are mighty young at your Trade. The `[Cf. 1 Cor. xv,; Joh. xii. 24]` Grain which you see in the Earth is dead and rotten; the Corruption of that has caused the Generation of the other, which you saw me sell. So you do choose the Worse; `[Fertur in Evangelic: "Talis eligit qui pejus eligit." The choice of the worse, cursed in the Gospel, seems to be the choosing of Barabbas instead of Christ (H. Estienne). There is also a punning allusion to a proverb: Il est mot dit (maudit) en l'Evangile: 'Tel choisit qui prend le pire.']` that is why you are cursed in the Gospel."
 
 "Let us leave this Subject," said the Devil; "what canst thou sow our Field with next Year?"
 
@@ -163,76 +139,27 @@ Gospel."
 
 "Well," said the Devil, "thou art an honest Clown. Sow Turnips in abundance; I will guard them from the Storm, and will not hail upon them. But understand thoroughly; I retain for my Share that which shall be above Ground; thou shalt have all that is below.
 
-"Work, Villain, work. I am off to tempt the Heretics; their Souls are dainty Morsels when broiled on the Coals.4 My Lord Lucifer has the Colic; they will make a Tid-bit for him."
+"Work, Villain, work. I am off to tempt the Heretics; their Souls are dainty Morsels when broiled on the Coals. `[broiled, etc. There is here intended an allusion to the actual burning of heretics, as well as cooking them for the  devil. In ii. 4 Lucifer is said to have  eaten the soul of a sergeant fricasseed for  breakfast, and to have got the colic  from it.]` My Lord Lucifer has the Colic; they will make a Tid-bit for him."
 
-When the time of Gathering was come, the Devil appeared on the Ground with a Squadron of waiting5 Devilkins. There, finding the Labourer and his Men, he began to cut and gather the Leaves of the Turnips. After him the Labourer dug and pulled up the big Turnips, and put them into Sacks. So they all go off together to Market. The Labourer sold his Turnips very well; the Devil sold nothing, and, what was worse, they jeered at him publicly.
+When the time of Gathering was come, the Devil appeared on the Ground with a Squadron of waiting `[Fr. de chambre = 'half-grown,' according to a quotation from Les Contes d'Eutrapel, c. 19 fin.: "Une paire de diables de chambre et my-creus."]` Devilkins. There, finding the Labourer and his Men, he began to cut and gather the Leaves of the Turnips. After him the Labourer dug and pulled up the big Turnips, and put them into Sacks. So they all go off together to Market. The Labourer sold his Turnips very well; the Devil sold nothing, and, what was worse, they jeered at him publicly.
 
 "I see very well, Villain," said the Devil, "that I have been cheated by thee. I will make an End of the Business between thee and me. The Bargain shall be that we will clapperclaw one another, and whichever of us two shall first give in shall quit his Share of the Field. That shall be wholly the Property of the Conqueror. Our Meeting shall be adjourned to this day Week. Away, Villain, I will claw thee like the Devil.
 
-"I was going to tempt those Pilferers, the Catchpoles, Embroilers of
+"I was going to tempt those Pilferers, the Catchpoles, Embroilers of Causes, Notaries, Forgers and prevaricating Advocates; but they have sent me Word through an Interpreter, that they are all mine already. Moreover Lucifer is tired of their Souls, and generally sends them to the slovenly Devils in the Kitchen, except when they are highly seasoned.
 
-3 Fertur in Evangelic: "Talis eligit qui an allusion to the actual burning of herepejus eligit." The choice of the worse, tics, as well as cooking them for the cursed in the Gospel, seems to be the devil. In ii. 4 Lucifer is said to have choosing of Barabbas instead of Christ eaten the soul of a sergeant fricasseed for (H. Estienne). There is also a punning breakfast, and to have got the colic allusion to a proverb : from it.
+"I am told that there is no Breakfast like a Student's, no Dinner like a Lawyer's, no Bever `[Fr. ressiner. Cf. i. 5. From recticinium (Du Cange).]` like a Vine-dresser's, no Supper like a Merchant's, no Second Supper `[Fr. regoubillonner.]` like a Chambermaid's; and none of all these Meals like a cowled Hobgoblin's. `[Fr. Farfadets. Rabelais uses this word of monks, with a reference to the story hinted at in ii. 7, n. 51 and iii. 10, 23. Cf. also the proverb: Nil mendicatis sociorum dulcius offis.]` It is quite true.
 
-II est mot dit (jnaudif) en 1'Evangile : * Ff' * chambre = « half - grown,'
-
-' Tel choisit qui prend le pire.' according to a quotation from Les Contes
-
-(FEutrapel, c. \<) fin. : "Une paire de
-
-4 broiled, etc. There is here intended diables de chambre et my cross"
-
-Causes, Notaries, Forgers and prevaricating Advocates; but they have sent me Word through an Interpreter, that they are all mine already. Moreover Lucifer is tired of their Souls, and generally sends them to the slovenly Devils in the Kitchen, except when they are highly seasoned.
-
-"I am told that there is no Breakfast like a Student's, no Dinner like a Lawyer's, no Bever6 like a Vine-dresser's, no Supper like a Merchant's, no Second Supper 7 like a Chambermaid's; and none of all these Meals like a cowled Hobgoblin's.8 It is quite true.
-
-"In fact, Lord Lucifer takes at all his Meals Hobgoblins as his first Course; and he used to breakfast off Students, but, alas ! by some Misfortune, I know not what, they have for some Years past added the Holy Bible to their Studies. For this Reason we cannot draw one of them to the Devil; and I believe that if the Hypocrite Monks do not help us, by taking their St. Paul from their Hands by Threats, Revilings, Force, Violence and Burnings, we shall get no more to nibble at down below.9
+"In fact, Lord Lucifer takes at all his Meals Hobgoblins as his first Course; and he used to breakfast off Students, but, alas ! by some Misfortune, I know not what, they have for some Years past added the Holy Bible to their Studies. For this Reason we cannot draw one of them to the Devil; and I believe that if the Hypocrite Monks do not help us, by taking their St. Paul from their Hands by Threats, Revilings, Force, Violence and Burnings, we shall get no more to nibble at down below. `[Rabelais must have been very angry to trust himself to write a sentence like this. It is putting quite plainly what poor Des Periers put obscurely in the Cymbalum Mundi, which drove him to  suicide.]`
 
 "He generally dines off Lawyers, Perverters of Right, and Robbers of the Poor; and he has them in abundance. But one gets tired of eating the same Dish every day.
 
-"A short time ago he said in full Chapter that he should like to eat the Soul of a Cowled one who had forgotten to recommend himself10 in his Sermon; and he promised double Pay and a first-rate Appointment to any one who would bring him one piping hot.11 We all of us set out in Quest of one, but we got nothing by it; they do all warn the noble Ladies to give to their Convent.
+"A short time ago he said in full Chapter that he should like to eat the Soul of a Cowled one who had forgotten to recommend himself `[recommend himself to the charity of his hearers.]` in his Sermon; and he promised double Pay and a first-rate Appointment to any one who would bring him one piping hot. `[piping hot, Fr. de broc en bouc = mod. Fr. de broche en bouche.]` We all of us set out in Quest of one, but we got nothing by it; they do all warn the noble Ladies to give to their Convent.
 
-"He has given up his Bever 12 ever since he suffered so. much from the Colic; this came on from his Purveyors, Sutlers, Grill -men and Sausage - sellers having been villainously maltreated in the northern Countries.13
-
-6 Fr. ressiner. Cf. i. 5. From recti~ Cymbalum Mundi, which drove him to cinium (Du Cange). suicide.
-
-7 Fr. regoubillonner. 10 recommend himself to the charity of
-
-8 Fr. Farfadets. Rabelais uses this his hearers.
-
-word of monks, with a reference to the u piping hot, Fr. de broc en bouc =
-
-story hinted at in ii. 7, n. 51 and iii. 10, mod. Fr. de broche en bouche.
-
-23. Cf. also the proverb : 12 Fr. ressieuner, like ressiner above =
-
-reciner, Lat. re-coenare. Nil mendicatis sociorum dulcms oms.
-
-u Duchat sees here an allusion to the
-
-9 Rabelais must have been very angry suppression of the religious orders in to trust himself to write a sentence like England in the reign of Henry VIII. this. It is putting quite plainly what The monks are styled the devil's purpoor Des Periers put obscurely in the veyors.
-
-
-CHAP. XLVI
-
-PANTAGRUEL
-
-195
+"He has given up his Bever `[Fr. ressieuner, like ressiner above = reciner, Lat. re-coenare.]` ever since he suffered so. much from the Colic; this came on from his Purveyors, Sutlers, Grill -men and Sausage - sellers having been villainously maltreated in the northern Countries. `[Duchat sees here an allusion to the suppression of the religious orders in England in the reign of Henry VIII. The monks are styled the devil's purveyors.]`
 
 "He makes a good Supper off Merchants, Usurers, Apothecaries, Forgers, Coiners, Adulterators of Wares; and sometimes, when he is in a good Humour, he makes a Second Supper off Serving-maids, who after drinking their Masters' good Wine fill up the Cask with stinking Water.
 
-"Work, Villain, work on. I am going to tempt the Students of Trebizonde14 to leave their Fathers and Mothers, to renounce the ordinary Life of a Citizen,15 to emancipate themselves from the Edicts of our King, to live in underground Liberty,16 to despise every one, to scoff at all the World, and taking the fine and jovial little Cap 17 of poetic Innocence,18 to turn themselves into Gentlemen Hobgoblins."
-
-14 Trebizonde = Paris, deriving the word from rpaire^a, and hinting at the gormandising life of the monks.
-
-15 Fr. police = Gk. TroXtreta, life of a citizen.
-
-16 in undergrozind Liberty j i.e. in the unconstrained and unseen license of the cloister. Cf. iv. Epist. Ded. n. 21.
-
-17 Fr. beguin, used to denote the hood of the monks. The word seems to be a corruption of denin, benigne, alluding to the charity and innocence professed by the orders of monks.
-
-18 Fr. innocence poetique, irapa irpoa-
-
-for license poetique
+"Work, Villain, work on. I am going to tempt the Students of Trebizonde `[Trebizonde = Paris, deriving the word from τράπεζα,, and hinting at the gormandising life of the monks.]` to leave their Fathers and Mothers, to renounce the ordinary Life of a Citizen, `[Fr. police = Gk. πολιτεία, life of a citizen.]` to emancipate themselves from the Edicts of our King, to live in underground Liberty, `[in underground Liberty, i.e. in the unconstrained and unseen license of the cloister. Cf. iv. Epist. Ded. n. 21.]` to despise every one, to scoff at all the World, and taking the fine and jovial little Cap `[Fr. beguin, used to denote the hood of the monks. The word seems to be a corruption of benin, benigne, alluding to the charity and innocence professed by the orders of monks.]` of poetic Innocence, `[Fr. innocence poetique, παρὰ προσδοκίαν for license poetique.]` to turn themselves into Gentlemen Hobgoblins."
 
 CHAPTER XLVII
 
@@ -240,7 +167,7 @@ How the Devil was deceived by an old Woman of Popefig-land
 
 THE Labourer, as he returned Home, was gloomy and pensive. His Wife, seeing him thus, thought he had been robbed at Market; but when she heard the Cause of his Melancholy, and also saw his Purse full of Money, she gave him Comfort sweetly, and assured him that no Harm should come to him from this Scratching-bout; he had only to lie and rely on her; she had already contrived how to bring it to a successful Issue.
 
-"At the worst," said the Labourer, "I shall only get one Scratch x in it; I will yield at the first Stroke, and quit the Field for him."
+"At the worst," said the Labourer, "I shall only get one Scratch `[Fr. esraflade = egratignure in several patois (M.)]` in it; I will yield at the first Stroke, and quit the Field for him."
 
 "Not a bit, not a bit," said the old Woman, "lie and rely upon me; let me deal with him. You have told me he is a little Devil; I will soon make him give up, and the Field shall remain ours. If it had been a great Devil there would have been something to think of."
 
@@ -250,39 +177,20 @@ Just as they were telling us this Story, we got News that the old Woman had befo
 
 The Manner of it was as follows. The Devil came to the Labourer's Door, knocked and called out : "So ho Villain, ho Villain; now for a fine Clawing-match."
 
-Then as he came into the House briskly and quite resolute, he did
-
-1 Fr. esraflade—egratignure in several patois (M.)
-
-
-CHAP. XLVII PANTAGRUEL 197
-
-not find the Labourer there, but spied his Wife lying on the Ground weeping and wailing.
+Then as he came into the House briskly and quite resolute, he did not find the Labourer there, but spied his Wife lying on the Ground weeping and wailing.
 
 "What's this?" asked the Devil. "Where is he? What is he doing?"
 
-"Ha!" said the old Woman, "where is he, the Wretch, the Butcher, the Murderer? He has done for me.2 I am undone, I am dying of the Hurt he has done me."
+"Ha!" said the old Woman, "where is he, the Wretch, the Butcher, the Murderer? He has done for me. `[Fr. affolé Cf. i. 33, iv. 16.]` I am undone, I am dying of the Hurt he has done me."
 
 "How?" said the Devil; "what is the Matter? I will very soon regale him for you."
 
-"Ha!" said the old Woman, "he told me, the Butcher, the Tyrant, the Devil-tearer that he is, that he had an Appointment to-day for a Scratching-match with you; and just to try his Nails he only scratched me with his little Finger here, between the Legs, and he has quite undone me. I am undone; I shall never be cured; only look. Besides, he is gone to the Blacksmith's to have his Pounces sharpened and pointed. You are undone, Mr. Devil, my Friend. Save yourself; he will be here directly.3 Take yourself off, I beseech you."
+"Ha!" said the old Woman, "he told me, the Butcher, the Tyrant, the Devil-tearer that he is, that he had an Appointment to-day for a Scratching-match with you; and just to try his Nails he only scratched me with his little Finger here, between the Legs, and he has quite undone me. I am undone; I shall never be cured; only look. Besides, he is gone to the Blacksmith's to have his Pounces sharpened and pointed. You are undone, Mr. Devil, my Friend. Save yourself; he will be here directly. `[Fr. il n'arrestera point, a provincialism. iv 51 n. 13.]` Take yourself off, I beseech you."
 
-With this she uncovered herself up to the Chin, after the manner in which the a Persian Women formerly presented themselves before their » Piut. de virt. Children, as they fled from Battle, and shewed him her What's-its-name.
+With this she uncovered herself up to the Chin, after the manner in which the `[Plut. de virt. Mul. 246B.]` Persian Women formerly presented themselves before their Children, as they fled from Battle, and shewed him her What's-its-name.
 
-The Devil, seeing the enormous Solution of Continuity in all its Dimensions, cried out: "Mahoun, Demiourgon,4 Megaera, Alecto, Persephone, he won't find me here; I am off double quick. Sela ! 5 I give up the Field to him."
+The Devil, seeing the enormous Solution of Continuity in all its Dimensions, cried out: "Mahoun, Demiourgon, `[Demiourgon. iii. 22 fin. Demiourgos is the maker of the world in Plato's Timaeus. Here at should be Demogorgon.]` Megaera, Alecto, Persephone, he won't find me here; I am off double quick. Sela ! `[The reading Sela has been adopted instead of Cela, which gives no sense, and is differently punctuated in the editions. Sela, verily, certainly, so be it, is the Hebrew word found in some of the Psalms and used at the end of the last chapter of this Book.]` I give up the Field to him."
 
 Having heard the Catastrophe and End of the Story, we retired on board our Ship and made no further Stay there.
 
-Pantagruel gave to the Box for the Building of the Church eighteen thousand gold Royals,6 in consideration of the Poverty of the People and the Distress of the Place.
-
-2 Fr. affolL Cf. i. 33, iv. 16. is differently punctuated in the editions.
-
-3Fr. ilriarrestera point, a provincial- Sela> verily' certainly, so be it, is the
-
-ism. iv 5 1 n n Hebrew word found in some of the
-
-Psalms and used at the end of the last « Demiourgon. iii. 22 fin. Demiourgos chapter of thig Book>
-
-is the maker of the world in Plato's • ^^ft (Ui. 2, iv. N. Prol.), gold coins 7\mae*s. Here at should be Demogorgon. minted in I2QO> in the rdgn of phmppe.
-
-5 The reading Sela has been adopted le-Bel. The grand royal was worth 12 instead of Cela, which gives no sense, and francs, the petit royal 6 francs
+Pantagruel gave to the Box for the Building of the Church eighteen thousand gold Royals, `[Royals (iii. 2, iv. N. Prol.), gold coins  minted in 1290, in the reign of Philippe-le-Bel. The grand royal was worth 12  francs, the petit royal 6 francs.]` in consideration of the Poverty of the People and the Distress of the Place.
