@@ -120,6 +120,7 @@ At the Oxford Storytelling Festival in 2022, I saw Nick Hennessey put the hand o
 One of the earliest references comes from 17th century English antiquary, John Aubrey:
 
 ```{admonition} *Remaines of Gentilisme and Judaisme*, John Aubrey, (1696)/1881
+:class: dropdown
 
 In *Remaines of Gentilisme and Judaisme*, John Aubrey, ed. J. Britten, 1881, [p103](https://archive.org/details/remainesgentili00aubrgoog/page/n112/mode/2up) (Lansdowne Manuscript no. 231):
 
