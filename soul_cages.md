@@ -296,6 +296,19 @@ A footnote at the end of the tale on p536 describes the tale's origin:
 > We must here make an honest confession. This story had no foundation but the German legend in p. 259. All that is not to be found there is our own pure invention. Yet we afterwards found that it was well-known on the coast of Cork and Wicklow. "But," said one of our informants, "It was things like flower-pots he kept them in." So faithful is popular tradition in these matters! In this and the following tale there are some traits by another hand which we are now unable to discriminate.
 ```
 
-The German legend cited by Keightley as providing the inspiration for the tale is also given at [pp. 259-60](https://archive.org/details/in.ernet.dli.2015.219456/page/n279/mode/2up), and proves to be the same text as that provided in Crofton Coker's notes on the *Soul Cages* tale in *Fairy Legends*, along with the following additional comment:
+The German legend cited by Keightley as providing the inspiration for the tale is also given at [pp. 259-60](https://archive.org/details/in.ernet.dli.2015.219456/page/n279/mode/2up), and proves to be the same text as that provided in Crofton Coker's note to the *Soul Cages* tale citing Grimm in *Fairy Legends*, along with the following additional footnote:
 
-> This legend seems to be connected with the ancient idea of the water-deities taking the souls of drowned persons to themselves. In the Edda, this is done by the sea goddess Ran.
+```{admonition} A German Legend: The Peasant and the Waterman, 1850
+:class: dropdown
+
+https://archive.org/details/in.ernet.dli.2015.219456/page/n279/mode/2up
+
+The Fairy Mythology: Illustrative of the Romance and Superstition of Various Countries Thomas Keightley, 1850
+
+p259-60
+
+The Peasant and the Waterman
+
+A Water-man once lived on good terms with a peasant who dwelt not far from his lake. He often visited him, and at last begged that the peasant would visit him in his house under the water. The peasant consented, and went down with him. There was everything down under the water as in a stately palace on the land,—halls, chambers, and cabinets, with costly furniture of every description. The Water-man led his guest over the whole, and showed him everything that was in it. They came at length to a little chamber, where were standing several new pots turned upside down. The peasant asked what was in them. “They contain,” was the reply, “the souls of drowned people, which I put under the pots and keep them close, so that they cannot get away.” The peasant made no remark, and he came up again on the land. But for a long time the affair of the souls continued to give him great trouble, and he watched to find when the Water-man should be from home. When this occurred, as he had marked the right way down, he descended into the water-house, and, having made out the little chamber, he turned up all the pots one after another, and immediately the souls of the drowned people ascended out of the water, and recovered their liberty. `[This legend seems to be connected with the ancient idea of the water-deities taking the souls of drowned persons to themselves. In the Edda, this is done by the sea goddess Ran.]`
+
+```
