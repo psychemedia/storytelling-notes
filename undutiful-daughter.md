@@ -370,11 +370,11 @@ The maid was delivered of a beautiful child, O.
 6 'O take a white napkin, about my head bind it!  
 O take a white napkin, about my feet wind it!  
 Alack! I must sink, both me and my baby.  
-Alack! I must sink in the deeji salten water.
+Alack! I must sink in the deep salten water.
 
 7 'O captain, O captain, here 's fifty gold crown, O,  
 I pray thee to bear me and turn the ship round, O;  
-O captain, O captain, here 's fifty gold pound, O,
+O captain, O captain, here 's fifty gold pound, O,  
 If thou wilt but set me upon the green ground, O.'
 
 8 'O never, O never I the wind it blows stronger,  
@@ -383,7 +383,7 @@ And better it were that thy baby and thou, O.
 Should drown than the crew of the vessel, I vow, O.'
 
 9 'O get me a boat that is narrow and thin, O,  
-And set me and my little baby therein, O:'  
+And set me and my little baby therein, O,  
 'O no, it were better that thy baby and thou, O,  
 Should drown than the crew of the vessel, I vow, O.'
 
@@ -409,7 +409,7 @@ And bmy me under the banks of green willow!'
 
 14 'I will make thee a coffin of gold that is yellow,  
 I'll bury thee under the banks of green willow;  
-I'll bury thee there as becoraeth a lady,  
+I'll bury thee there as becometh a lady,  
 I'll bury thee there, both thou and thy baby.'
 
 15 The sails they were spread, and the wind it was blowing,  
