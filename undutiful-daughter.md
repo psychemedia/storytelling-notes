@@ -567,7 +567,7 @@ Such is Mr. Noble's interesting account of the gipey race at Norwood. On page 49
 
 *The pantomime referred to in the South London Press article can be found as James Messinick's [Airs, duets, &c. in the new pantomime, called The Norwood gypsies. Performing at the Theatre-Royal in Covent-Garden. 1777](https://archive.org/details/bim_eighteenth-century_airs-duets-c-in-the-_messinck-james_1777).*
 
-Hubert Smith's work, also referred to, provides the following description of Margaret Finch, along with another centenarian gypsy, "Liddy the Gispy". The "Gispy House" is also identified explicitly as an inn.
+Hubert Smith's work, also referred to, provides the following description of Margaret Finch, along with another centenarian gypsy, "Liddy the Gipsy". The "Gipsy House" is also identified explicitly as an inn.
 
 ```{admonition} Margaret Finch, centenarian 
 :class: dropdown seealso
