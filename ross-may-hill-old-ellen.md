@@ -92,7 +92,7 @@ Despite hearing the searchers, Mrs. Markey had not reveled herself. But a day la
 THE MAY HILL SENSATION.  
 MRS. MARKEY RETURNS HOME.
 
-On Monday, Inspector John Dennis, of Gloucester, again visited May Hill, and organised another party to search the woods for Mrs. John Markey, whose mysterious disappearance from home on Friday had occasioned consideable consternation in the parish. About five o'clock on Monday evening the unfortunate woman returned home in an exhausted condition. She stated that she had been sitting down in the wood "hiding from the witches," and that she had had nothing to eat or drink except leaves and water.
+On Monday, Inspector John Dennis, of Gloucester, again visited May Hill, and organised another party to search the woods for Mrs. John Markey, whose mysterious disappearance from home on Friday had occasioned considerable consternation in the parish. About five o'clock on Monday evening the unfortunate woman returned home in an exhausted condition. She stated that she had been sitting down in the wood "hiding from the witches," and that she had had nothing to eat or drink except leaves and water.
 ```
 
 Despite the return of Mrs. Markey, things continued to get worse for the family, as Markey's second son also became afflicted by the madness that had overtaken his daughter, grand-daughter and wife.
@@ -170,7 +170,7 @@ A GLOUCESTERSHIRE WITCH
 
 STRANGE STORY FROM THE FOREST OF DEAN
 
-SUPERSTITTON AND MADNESS.
+SUPERSTITION AND MADNESS.
 
 The people residing about that portion of the West of England known as the Forest of Dean are notoriously superstitious, and from time to time incidents proving this have occurred. A remarkable story now comes from the usually peaceful parish of May Hill, in West Gloucestershire. Some time ago, the tale goes, a farmer reported that he had lost £50. from his house, someone having taken from its secret hiding place the key to the box in which his wealth was stored, and abstracted £50. Suspicion fell on a resident, whose house was searched, but without any trace of the money being discovered. Then it was suggested that a "witch" should be consulted, and the suggestion was acted upon, with results more disastrous to the farmer and his family than the thief. Immediately the "witch" arrived on the scene the farmer's daughter and grand-daughter, both married women, showed unmistakable evidences of madness, and soon the former had removed to Gloucester Asylum, whilst the latter was taken to Newent Workhouse Hospital. The same morning the farmer's wife suddenly left home, and in spite of a whole day's search by Inspector Dennis, of the Gloucester Police, and a staff of constables and many neighbours and friends, her whereabouts remained undiscovered. She returned home, however, on Monday evening in a very exhausted condition, having subsisted on the green leaves of the wood and a little water from a ditch. She had both seen and heard the searchers, she said, but was too terrified to discover her whereabouts to them. As showing the state of the poor woman's mind, the correspondent understands that, replying to an enquiry why she carried a hazel stick in her hand, she said it was to keep the witches away.
 
@@ -224,7 +224,7 @@ A STORY OF WITCHCRAFT.
 
 FAMILY AFFLICTED WITH SUDDEN MADNESS, STRANGE SUPERSTITIONS IN AN ENGLISH VILLAGE.
 
-This amazing story of "witcheraft" comes from Newnham-on-Severn, Gloucestershire, where a middle-aged laborer named George Markey has been pronounced insane by Dr. Carleton, the medical officer.
+This amazing story of "witchcraft" comes from Newnham-on-Severn, Gloucestershire, where a middle-aged laborer named George Markey has been pronounced insane by Dr. Carleton, the medical officer.
 
 Markey is one of a large family, and married his second wife, a Gloucestershire girl, only last Easter.
 
@@ -520,7 +520,7 @@ Ellen Hayward, the "Old Ellen" referred to in recent report in the Press in refe
 
 HERBALIST — NOT WITCH
 
-Ellen Hayward, the woman herbalist, of Cinderford, who has been described as a witch in connection with certain events which have occurred in the Forest of Dean, has issued a statement to the press in which she spiritedly denies the aseertions made concerning her. She states that she has gained her living as a herbalist for 45 years, and is not a fortune-teller or hand-reader, nor has she the poewr of divination.
+Ellen Hayward, the woman herbalist, of Cinderford, who has been described as a witch in connection with certain events which have occurred in the Forest of Dean, has issued a statement to the press in which she spiritedly denies the assertions made concerning her. She states that she has gained her living as a herbalist for 45 years, and is not a fortune-teller or hand-reader, nor has she the power of divination.
 ```
 
 And with that, the story fell out of the papers.

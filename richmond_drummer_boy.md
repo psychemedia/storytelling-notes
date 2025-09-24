@@ -1,6 +1,6 @@
 # The Richmond Drummer Boy 
 
-I first told this tale as the "drummer boy" story in a set of Chsitmas tales performed by the Island Storytellers as part of a two parter "Twelve Days of Christmas" themed event, imagining folk going out on a family Boxing Day walk, and passing a weather beaten interpretation board somewhere along the route. An interpretation board that might actually tell a story about that place.
+I first told this tale as the "drummer boy" story in a set of Christmas tales performed by the Island Storytellers as part of a two parter "Twelve Days of Christmas" themed event, imagining folk going out on a family Boxing Day walk, and passing a weather beaten interpretation board somewhere along the route. An interpretation board that might actually tell a story about that place.
 
 The tale appears to be this, dating from the end of the 19th century.
 
@@ -42,7 +42,7 @@ Was it a monster? Was it a rockfall? Some say the sound of the drum beat changed
 
 And so the tale easily transforms in a "sleeping Arthur" type tale, in which the sleeping King, King Arthur, lies with his soldiers awaiting the time when England needs him most. One of the knights awakes, asks whether England is under attack. No. "Then it is not yet time to awaken King Arthur. But when we do awake, a drummer should lead us. Will you wait with us?" And so he did.
 
-At this point, the tale often turns again, and whilst the sleeping King remains, the protagonist transforms from a frummer boy to a local potter.
+At this point, the tale often turns again, and whilst the sleeping King remains, the protagonist transforms from a drummer boy to a local potter.
 
 ```{admonition} In *A month in Yorkshire*, 1879
 :class: dropdown
@@ -77,13 +77,13 @@ For many a long year ago a Richmond wight, who rejoiced in the name of Thompson,
 
 This provides us with an opportunity for an alternative telling, which *starts* with potter Thompson, but then reveals the *actual* story, of the little drummer boy.
 
-> In the town of Richmond, in North Yorkshire, it is said there was once a potter, potter Thomson. He was walking around the castle one day when he spotted an opening that he had never spotted before. Knowing of the legend of a tunnel connecting the Castle with nearby Easby Abbey, a tunnel that perhaps led to a treasure trove of gold, the potter sparked a flint to make a light, and pushed his way through the opening. A tunnel opened up, heading down towards the Abbey. He followed it for some way, them stubled into a large underground cavern wqith the sleeping bodies of armoured soldiers in a deep sleep, surrounding a regal figure at their centre. Beside the King, a horn, and a mighty sword in scabbard at his side.
+> In the town of Richmond, in North Yorkshire, it is said there was once a potter, potter Thomson. He was walking around the castle one day when he spotted an opening that he had never spotted before. Knowing of the legend of a tunnel connecting the Castle with nearby Easby Abbey, a tunnel that perhaps led to a treasure trove of gold, the potter sparked a flint to make a light, and pushed his way through the opening. A tunnel opened up, heading down towards the Abbey. He followed it for some way, then stumbled into a large underground cavern with the sleeping bodies of armoured soldiers in a deep sleep, surrounding a regal figure at their centre. Beside the King, a horn, and a mighty sword in scabbard at his side.
 >
 > The potter reached for the sword, and started to draw it. At which point, the slumbering knights around him started to stir.
 >
-> In his terror, the potter pushed the sword back, and rushed back out of the cavern, back up the tunnel, following the way he had come in. Behind him, a voice echoed in the cavern: ""Potter, Potter Thompson! If you had either drawn the sword, or blown the hunting hron, you'd have been the luckiest man, that ever would have been born."
+> In his terror, the potter pushed the sword back, and rushed back out of the cavern, back up the tunnel, following the way he had come in. Behind him, a voice echoed in the cavern: "Potter, Potter Thompson! If you had either drawn the sword, or blown the hunting horn, you'd have been the luckiest man, that ever would have been born."
 >
-> The potter fled out of the tunnel, and made his way back hoeme. And when he did eventually pass by that part of the castle again, there was no sign of the opening.
+> The potter fled out of the tunnel, and made his way back home. And when he did eventually pass by that part of the castle again, there was no sign of the opening.
 >
 > So much, so legend, but the truth behind the tale is strange, and echoes of it can still be heard today.
 >

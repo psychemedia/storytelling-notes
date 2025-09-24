@@ -1,6 +1,6 @@
 # A Pottle of Brains
 
-This is one of those tales I came across a couple of times, independently of each otehr, in rapid succession, and that jumped out at me both times, which meant it was somthing I felt I needed to tell.
+This is one of those tales I came across a couple of times, independently of each other, in rapid succession, and that jumped out at me both times, which meant it was something I felt I needed to tell.
 
 It's a noodle tale, with a wise woman pointing out the foolishness of our hero. As I've also been pulling together some historical wise woman tales, I think there may be an opportunity to try to a pair up a traditional tale with a historical one and see how they might play off each other.
 
@@ -608,7 +608,7 @@ But Jack looked ahead and there was a long road before them, and he said, "I don
 
 So poor Jack turned back, and when he came in his wife said, "Why, how's this you've come alone?" and he told her what his father had said and his answer.
 
-"You stupid," said his witty wife, "if you had told a tale you would have shortened the road! Now listen till I tell you a story, and then catch up with Gobborn Seer and begin it at once. He will like hearing it, and by the time you are done you will have reached the foundationstone."
+"You stupid," said his witty wife, "if you had told a tale you would have shortened the road! Now listen till I tell you a story, and then catch up with Gobborn Seer and begin it at once. He will like hearing it, and by the time you are done you will have reached the foundation stone."
 
 So Jack sweated and overtook his father. Gobborn Seer said never a word, but Jack began his story, and the road was shortened as his wife had said.
 

@@ -272,11 +272,11 @@ Even late as 1965, the story was still within living memory. In the Western Dail
 
 > "The Forest was a rough place in those days. It was civilised, but they had very rough ways. It's a lot quieter now.
 > 
-> "If you had come to Ruardean a few years ago and asked who killed the bears you would have had to run for your life, but the young people donlt know anything about it.
+> "If you had come to Ruardean a few years ago and asked who killed the bears you would have had to run for your life, but the young people don't know anything about it.
 >
 > "Times have changed from the days when there were 3,0000 or 4,000 miners here. I was in the pits for more than 50 years.
 >
-> "I can remember that night quite well, although I was only a boy of eight. I remember hearing a lot of shouting. It was about eight o'clock. You've never heard seuch a noise as those angry men made.
+> "I can remember that night quite well, although I was only a boy of eight. I remember hearing a lot of shouting. It was about eight o'clock. You've never heard such a noise as those angry men made.
 >
 > [The site where the little bear was buried was] "only a few yards from the top of the hill where you can see nine counties on a clear day.
 >

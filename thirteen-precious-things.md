@@ -37,11 +37,85 @@ The marvellous basket is reckoned amongst the thirteen precious things of the Is
 
 13. The mantle of Arthur; whosoever was beneath it could see every thing, while no one could see him.
 
-This version is rather different from that given by Jones in his Welsh Bards, `[Jones, Welsg Bards, II p.47]` which omits the halter of Clydno Eiddyn, but adds the mantle of Tegau Eurvron, which would only fit such ladies as were perfectly correct in their conduct, and the ring of Luned, by which she effected the release of Owain the son of Urien, as has already been seen in the story of the Lady of the Fountain; whoever concealed the stone of this ring became invisible.
+This version is rather different from that given by Jones in his Welsh Bards, `[Jones, Welsh Bards, II p.47]` which omits the halter of Clydno Eiddyn, but adds the mantle of Tegau Eurvron, which would only fit such ladies as were perfectly correct in their conduct, and the ring of Luned, by which she effected the release of Owain the son of Urien, as has already been seen in the story of the Lady of the Fountain; whoever concealed the stone of this ring became invisible.
 
 Gwyddno Garanhir, the possessor of the basket, was the Prince of Cantref y Gwaelod, which was overflowed by the sea. This event will be detailed hereafter in the notes to another Mabinogi, where it is more particularly referred to.
 
 ```
+
+```{admonition} *Thirteen Rarities of Kingly Regalia*, Jones, 1802
+:class: dropdown
+https://archive.org/details/The_Bardic_Museum/page/n67/mode/2up
+The Bardic Museum (SECOND VOLUME OF THE Musical poetical, and historical relics of The Welsh Bards and Druids
+
+by Edward Jones
+
+Publication date 1802
+
+pp. 47-49
+
+
+Here are the THIRTEEN RARITIES of KINGLY REGALIA, of the ISLAND of BRITAIN; which were formerly kept at Caerlleon `[According to an old Welsh Chronicle, Beli ab Dyferwal, a chief King of Britain, about 400 years before Christ, built a city on the river Uske, (where there had been the Castle of Lleon;) which afterwards was the principal city in all Britain, because there the King resided, and the Parliament of the country was held, about 65 years before Christ.]`, on the river Uske, in Monmouthshire. These Curiosities went with Myrddin, the son of Morvan, into the house of Glass, in Enlli, or Bardsey Island `[When the Britons were no longer able to defend their country against the Saxons, and others, in the time of Egbert, about A. D. 750, (or 800,) there was a proclamation, that all the Britons should depart out of England within six months, upon pain of death. This was probably after the great overthrow of Caradoc, when the Pagan Saxons razed the British churches to the ground; at which time Theon, the Archbishop of London, and Thadioc, the Archbishop of York, removed with their relicks of Saints, books, and ornaments, and fled into Wales, into the adjacent islands, and some into Britany, and many priests with them. Lewis's Ancient History of Britain, page 208: and Gibson's Camden. ———— "These are the haunts of meditation, these "The scenes where ancient Bards th' inspiring breath, "Extatic felt, and from this world retired."——Thomson.]`. It has also been recorded by others, that it was Taliesin, the King of the Bards, who possessed them.
+
+These Royal Regalia, or Curiosities, were held in high estimation in the Sixth Century: They are rather hyperbolically described; but they convey to us some original heroic traits, of the manner of promoting Chivalry, and of ancient Liberality, and Hospitality.
+
+It appears that this Museum of admirable Rarities was kept at Caerlleon, in King Arthur's time; and upon the dissolution of that place, it was carried by Myrddin, the Caledonian Bard, to the famous Monastery of Enlli, in the Island of Bards.
+
+"Myrddin aeth, mawr daawn ai awedd,  
+Mewn Gwydr, er mwyn ei gyduedd."——I. Dyfí.
+
+i. e. Myrddin went, greatly to his praise, for his good intentions;  
+Into the House of Glass, for the sake of preservation.——
+
+The ancient Monastery of Bardsey was one of the Druidical and Bardic conventicles, founded in the beginning of Christianity, where Myrddin studied, and where he ended his days and was buried, about A. D. 570. Dubricius, the Archbishop of Caerlleon, and many other religious men, retired to the Monastery of Bardsey about the year 522. Giraldus's Itinerary of Wales mentions this Monastic institution, by the name of Cwysan Ddion, or Black Cowls; a College of Lay Monks: and Martial calls them Bardo cucullus, or Bardic Cowls.
+
+The Metropolitan See of Caer Lleon, in Monmouthshire, was removed to Menevia, in Pembrokeshire, about A. D. 447; which, ever since, has been called Ty Dewi, or St. David's.
+
+1. The Veil, or Mask of King Arthur, in Cornwall: whoever look'd from under it, could see every body, and no one could know him. `[It is recorded, that great military officers anciently wore hoods, or helmets, to obscure their faces during the time of battle. See in page 23, note |: Also, Sir William Dugdale's Ancient Usage of Arms, page 1.]`
+
+2. The Sword of Rhydderch the Generous: whoever drew it out of the scabbard, (except the owner;) it would appear a gleaming flame of fire in his hand. `[Rhydderch, son of Tudwal, surnamed Hael, or the generous, King of Cumbria, who lived at Alclwyd, now Dumbarton, in Scotland, and was also King of the Isle of Man. He was esteemed the most liberal, and one of the greatest warriors of his time; he fought the famous battle of Arderydd, in A. D. 577, against Aeddan Vradoc, and Gwenddolan ab Ceidiaw, in which Rhydderch gained the victory, and Gwinnddolau was slain, with a great number of his followers. See Carte's History, Vol. I. p. 210. The name of Prince Rhydderch's sword was Dyrnwyn, or the white grasps; and from the above description it was probably highly polished, and not dissimilar to the elegant account given of the Grecian army, when marching against the Trojans:
+
+
+TO DO FROM HERE (CHECK CLAUDE.AI
+
+) " As on some mountain, thro' the lofty grove,
+" The crackling flames ascend, and blaze above,
+" The fires expanding as the winds arise,
+" Shoot their long beams, and kindle half the skies:
+" So from the polish'd arms, and brazen shields,
+" A gleamy splendor flash'd along the fields.——Pope's Homer.
+King Arthur's exploits were so great, during the reign of King Henry the Second, says Lord Lyttelton in his history of that Monarch, that a sword, supposed to have been King Arthur's, was presented in the year 1191, to Tancred, King of Sicily, by Richard the First, King of England, as a valuable gift. The swords of heroes in those days had names given them, and this was called Caliburn, or Caliburnus, that is, hard haggled, or hard-notched. (See the previous pages, 23 & 25.) How Richard got it, and whether it was found in the Abbey of Glastonbury, together with the body, or in some other place, we are not told; but I presume, when that Monarch took it with him out of England, he intended to use it himself, in the war against the infidels.
+It was the custom among other warlike nations to give names to their swords; but the Ancient Britons took a particular pride in adorning their swords, and making them polished handles of the teeth of sea animals; (see Solinus Poly-histor, c. 25;) And their warlike affection and love of the sword was such, that it was the custom for the mother of every male child to put the first victuals into the child's mouth, at the point of his father's sword, and with the food to give her first blessing, or vow to him, that he might die no other death than in war, and arms. Sol. Pol. Hist. and Selden's Mare Clausum, l. 2, c. 2, and 10.]`
+
+3. The Budget, Basket, (or Weel,) of Gwyddno with the high Crown: if provision for a single person were put into it to keep, a sufficiency of victuals for a hundred persons would be found in it when opened `[Gwyddno Garanhir was a King of North Wales, about the end of the 4th, and in the beginning of the 5th century. His budget was probably some kind of vessel, or basket; and perhaps used to carry victuals in, by the person who went to the war to take up the nets; and in lieu of animals therein, which he eat, and filled the budget, or pannied with fish caught, to bring home; or probably the Weel was baited with raw meat to entice the fish into it. Mawr Gwyddno is often mentioned by the poets as the most famous wear in the country, which was somewhere about the mouth of Conway river. See pages 17, 19 & 31.]`.
+
+4. The Horn of Brân the Hardy, of the North: The drink that might be desired in it, would appear as soon as it was wished for `[Brân the Hardy was a northern prince, of the fifth century, and distinguished for his generosity. His drinking horn was probably a general horn, for the use of his hall, to supply all strangers with what drink they chose; or it might have been a magic cup, to contrived as to convey liquors through secret pipes into it. According to the ancient Welsh lore, there were three fatal cauldrons or horns; one of the Lord, or Prince; that is, his housekeeping horn, his war horn, and the horn for the chase; but these latter were made of the horns of the Eagle, or wild Ox; and formed in a semicircle, and occasionally used both for sounding, and for drinking. See a Delineation of one in the musical trophy, in the first Volume of this work, page 89, and a full description in the account of the musical instruments of the Welsh, page 117, &c.]`.——
+
+5. The Câr, or Chariot of Morgan the Courteous: whoever sat in it, would find himself wherever he wished to be `[Morgan Mwynvawr was a valiant king of Gla'morgan, from whom that county derives its name. Morgan was born about the year 522; he married Eleni, the daughter of Roderic the Great; and lived to be a hundred years old; and on that account he was called Morgan hen, or the Aged. He is also honourably recorded in the Ancient Historical Triads, as follows: The three chariots of Great Britain from invaders were, King Arthur; Rhûn, the son of Beli; and Morgan the Gracious and Great. It seems that his Car was a common and free chariot, kept by this popular prince, for the use of his friends, or something of that nature. Cæsar, in the 4th Book, and chapter 29, of his Commentaries, says, that the Britons were so expert in their war chariots, that they often broke his ranks.]`.——
+
+6. The Whetstone, (or Hone,) of Tudno Tydglyd: which would sharpen the sword of every hero immediately; and always destroy the weapons of a coward⁸: (in another manuscript it is expressed thus: whoever should be wounded with the arms that are whetted thereon, would soon die.) `[Tudno Tydglyd, the son of Sithel Hael, of Armorica. There was a Welsh Saint of this name, the founder of Llan-Dudno, on Trwyn y Gogarth; on which hill formerly stood the ancient city of Diganwy, near Conway, in Caernarvonshire.]`——
+
+7. The Purple Cassock of Padarn Beifrydd; no person of ignoble birth could wear it, without dying `[Padarn Beifrydd, the son of Tegid ab Iago, was a British Bishop, and a reputed Saint, founder of the Monastery of Llan-badarn-vawr, (or the Church of Padarn the Great,) beside fifteen other churches, in Cardiganshire, and in other places. He was a great friend with St. David, and St. Teilo, and with whom he made a pilgrimage to Jerusalem. According to Britannia Sancta, Padarn's name is found inscribed in an old Saxon Kalendar, under the 15th of April, In 550. It is said he was originally a native of Little Britain, and that the inhabitants of Bretagne formerly kept three days to the honour of this Saint, and the 15th of April was the last of them. Padarn's purple robe, or short cassock, became no man so well as Padarn himself.]`.——
+
+8. The Cauldron of Dyrnoc, the Chief, or Prince: if flesh should be put into it to boil for a cowardly man, it would never be done: but if it was for a hardy hero, it would soon be boiled enough `[Dyrnoc Gawr was a Cambrian prince, in the time of the Romans in Britain. It seems his pot, or boiler, was intended only for the Hero, and not for the Coward; and probably meant as an encouragement to warlike enterprises.]`.——
+
+9. The Table-Cloth, (in another MS. called the Dish,) of the illustrious-born Rhydderch, the Scholar: whatever victuals and drink were wished thereon, were instantly obtained `[King Rhydderch, the Generous, who probably kept an open house; and I suppose this was his common hall dish, in memory of his munificence, where there was something desirable, that was desired. That hero is recorded in the ancient British Triads, as follows: The three liberal Princes of the Island of Britain; Rhydderch Hael, the son of Tudwal Tudglyd; Morgen Hael, the son of Sevan; and Nudd Hael, the son of Senylit. Rhydderch Hael lived to the age of 85; died in the year 601, and was buried at Aberetch, (St. Curig's Church,) British Saints, p. 34. See more in the previous note (4.)]`.
+
+10. The Chessboard, (or Draughtboard) of Gwenddolau, the son of Ceidio: if the men were placed upon it, they would play of themselves. The chequers were of gold, and the men were of silver`[Gwenddolau ab Ceidio was a northern chief. It is said of his chessboard, that when the men were arranged upon it, they would play of themselves; which seems to be a figurative allusion to the famous battle of Arderydd, fought about the year 577, by Aeddan the Treacherous and Gwrnal Mocha, against Rhydderch Hael, where Gwenddolau was slain, notwithstanding which, his men continued fighting and skirmishing for six weeks afterwards; therefore, they are called in the Triads one of the three loyal armies of Britain. See that battle mentioned in Myrddin's poem of the Orchard, in page 24 of the first Volume of this work.]`.
+
+11. The Mantle of Tegau Euvron: no one could put it on who had dishonoured marriage; nor a young damsel who had committed incontinence; but it would cover a chaste woman from top to toe `[Tegau Eurvron, the wife of Caradoc with the strong arm, who is celebrated in the Eagle as a model of female virtue and chastity, as Penelope is described by Homer: she is recorded in the British Triads as one of the three noble and excellent ladies of King Arthur's Court. She had three rarities, which befitted none but herself; and these were, her mantle, her golden goblet, and her knife; and in another Triad she is mentioned thus: There are three things, no one knows their colour: the feathers of the peacock's tail when extended; the mantle of Tegau Eurvron; and the miser's pence. Probably her mantle was a shotted silk of various colours, and perhaps a novel thing at that time. Tegau Eurvron, was the daughter of Nudd, the Liberal hand, King of the North. The story of her Mantle is copied from the Welsh by the English Minstrels, in the old English Ballad of The Boy and the Mantle, as well as that of the Knife, and the Cap. Likewise, the Horn, occurs in the old French Romance of Morte Arthur, &c. See Dr. Percy's Reliques of ancient English Poetry.]`.——
+
+12. The Stone of the Ring of Eluned, which liberated Owen, the son of Urien, from between the portcullis and the wall. Whoever concealed that stone, the stone or bezil, would conceal him `[Eluned was the daughter of Brychan, ynceri-ebawl, or Craig Gwrfeddawl, and the lover of Owen ab Urien: the Bezil of Eluned's ring had the virtues of Gyges's ring. When Owen, Prince of Reged, was confined in prison, Eluned gave him her ring, which rendered him invisible; (perhaps it might be given to the jailer, and by that means he escaped from prison.) It is said, in old times, when two persons were married, the young couple used to present one another with a ring-levy, as an emblem of secrecy; whence some derive the word wedlock. The wearing of rings appears to be of great antiquity; among the Hebrews, Gen. xxxviii, Joseph, gives Tamar his ring, or signet, as a pledge of his promise: but rings seem to have been used at the same time among the Egyptians, Genesis xli, where Pharaoh put his ring on Joseph's hand as a mark of the power he gave him. Of the Regalia of France, a costly ring was presented by a King of France to St. Thomas of Canterbury, and worn afterwards by King Henry the Eighth. The circumstance of Queen Elizabeth sending her ring to save the Earl of Essex is too well known to need a repetition.]`.——
+
+13. The Knife of Llawvrodedd, the Knight: which would serve four-and-twenty persons, from one hand to another, as the occasion might be`[Llawvrodedd, the Red Knight, or Ruddy horseman, who had a famous knife, which probably was his carving knife, that served all his company. The Bretons of France likewise, had formerly but one knife for each company, and that was chained to the table. The following addition to the previous note 4, in page 47:- "Shall I fear, that have this truly and invisible sword by my side (— Twas blessed Colbruand, as Paladin the Confessor's Curtana; as Charlemagne's Joyeuse; Orlando's Durindana; Rinaldo's Fusberta; and Rogero's Balisarda; so Pisiast, in imitation of these heroes, calls his sword Hiren. I have been told, Amadis de Gaul, had a sword of this name; Hirer, or Hirian, in the British, signifies a long sheathing sword." M. Wygmonnus-terrensis, page 98; and Stephens' Edition of Shakespeare's Henry the IVth. Second Part, the Notes, lo Act the Second.
+Farther addition to note 10, in page 48: The Cauldron of Dyrnoc the Chief, was probably a similar kind of vessel to that of the Porridge Pot, of Guy, Earl of Warwick, which is an immense kettle, or cauldron, still preserved at Warwick Castle.]`.——
+
+The original Welsh account of the above Regalia was transcribed from a transcript of Mr. Edward Lhuyd, the Antiquary; who informs us that he copied it from an old parchment manuscript: and I have collated this with two other manuscripts.
+
+`(Also The Seven Wonders of North Wales, &c.)`
+```
+
+
 
 There is also a list in Brewer's *Reader's handbook of allusions, references, plots and stories* of 1890:
 
@@ -70,7 +144,7 @@ Thirteen Precious Things of Britain.
 
 9. The Whetstone of Tudwal Tudclud. If the sword of a brave man were sharpened thereon, its cut was certain deah; but if of a coward, the cut was harmless.
 
-10. The Robe of Padarn Beisrudd, which fitted every one of gentle birth, bnt no churl could wear it.
+10. The Robe of Padarn Beisrudd, which fitted every one of gentle birth, but no churl could wear it.
 
 11. The Mantle of Tegau Eurvron, which only fitted ladies whose conduct was irreproachable.
 
@@ -79,6 +153,27 @@ Thirteen Precious Things of Britain.
 \*.\* The ring of Luned rendered the wearer invisible so long as the stone of it was concealed.
 
 13. The Chessboard of Grendolen. When the men were placed upon it they played of themselves. The board was of gold, and the men silver. — Welsh Romance.
+
+```
+
+In *The English and Scottish Popular Ballads*, 1884, a passing reference is made in notes on the ballad *The Boy and the Mantle* to the (drinking) *Horn of Bran Galad* and the *Knife of Llawfrodded Farchawg*. *(A passing mention is also made to *three Welsh rarities*, which are perhaps worth exploring elsewhere...)*
+
+damsel who had committed incontinence; but it would cover a chas
+
+```{admonition} In *The English and Scottish Popular Ballads*, 1884
+:class: seealso
+https://archive.org/details/englishandscott09kittgoog/page/n22/mode/2up
+
+The English and Scottish Popular Ballads
+by George Lyman Kittredge
+
+Publication date 1884
+
+p.265-6
+
+If we may trust the author of The Welsh Bards, Tegau was the possessor of three treasures or rarities "which befitted none but herself," a mantle, a goblet, and a knife. The mantle is mentioned in a triad, `[Myvyrian Archchaeology, III, 247a, No 10, pointed out to me by Professor Evans. The story of the 'Boy and the Mantle,' says Warton, "is recorded in many manuscript Welsh chronicles, as I learn from original letters of Llwyd, in the Ashmolean Museum: " History of English Poetry, ed. 1871, 1, 97, note 1.]` and is referred to as having the variable hue attributed to it in our ballad and elsewhere. There are three things, says the triad, of which no man knows the color; the peacock's expanded tail, the mantle of Tegau Eurvron, and the miser's pence. Of this mantle, Jones, in whose list of "Thirteen Rarities of Kingly Regalia" of the Island of Britain it stands eleventh, says. No one could put it on who had dishonored marriage, nor a young woman from top to toe: Welsh Bards, II, 49. The mantle certainly seems to be identified by what is said of its color in the (not very ancient) triad, and so must have the property attributed to it by Jones, but one would be glad to have had Jones cite chapter and verse for his description.
+
+There is a drinking-horn among the Thirteen Precious Things of the Island of Britain, which, like the conjurer's bottle of our day, will furnish any liquor that is called for, and a knife which will serve four-and-twenty men at meat "all at once." `[The horn is No 4 in Jones's list, and No 5 in a manuscript of Justice Bosanquet; the knife is 13th in Jones and 6th in the other; the mantle of invisibility is 13th in the Bosanquet series, and, under the title of Arthur's veil or mask, 1st in Jones. The mantle of Tegau Eurvron does not occur in the Bosanquet MS. Jones says, "The original Welsh account of the above regalia was transcribed from a transcript of Mr Edward Llwyd, the antiquary, who informs me that he copied it from an old parchment MS. I have collated this with two other MSS." Not a word of dates. Jones's Welsh Bards, II, 47-49; Lady Charlotte Quest's Mabinogion, II, 353-55. Lady Charlotte Guest remarks that a boar's head in some form appears as the armorial bearing of all of Caradawc's name. Though most anxious to believe all that is raid of Caradawc, I am compelled to doubt whether this goes far to prove that he owned the knife celebrated in the ballad.]`
 
 ```
 

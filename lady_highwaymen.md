@@ -12,6 +12,6 @@ Publication date 1742
 
 aka Complete History of the Lives of the most Notorious Highwaymen
 
-*See alao Noyws highwaymen in Island notes.*
+*See also Noyes highwaymen in Island notes.*
 
 

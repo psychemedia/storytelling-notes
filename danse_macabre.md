@@ -31,7 +31,7 @@ https://archive.org/details/TheDanceOfDeathExhibited/page/n21/mode/2up
 The dance of death exhibited in elegant engravings on wood, with a dissertation on the several representations of that subject but more particularly on those ascribed to Macaber and Hans Holbein
 by Holbein, Hans, 1497-1543; Douce, Francis, 1757-1834
 Publication date 1833
-May be possible to draw on this as a frame tale; eg Death having a conversation with each person as he picks them up, so rsomewone's tale that ends with death arriving.
+May be possible to draw on this as a frame tale; eg Death having a conversation with each person as he picks them up, so somewone's tale that ends with death arriving.
 
 https://archive.org/details/dancesofdeaththr01holb/page/20/mode/2up
 The Dances of death, through the various stages of human life: wherein the capriciousness of that tyrant is exhibited: in forty-six copper-plates

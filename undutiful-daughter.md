@@ -584,5 +584,5 @@ Gipsies have occasionally attained to a very advanced period of life. Margaret F
 
 ```{admonition} The Norwood Gipsies
 :class: seealso
-For some firther notes on the history of the Norwood gipsies, see https://www.norwoodsociety.co.uk/articles/the-norwood-gipsies
+For some further notes on the history of the Norwood gipsies, see https://www.norwoodsociety.co.uk/articles/the-norwood-gipsies
 ```

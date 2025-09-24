@@ -4,7 +4,7 @@ A tale that one of my fellow *'Tis Tales* tellers, Holly (Medland), tells — *B
 
 The first place I found it, and I think this was also Holly's original source, was in Sabine Baring-Gould's  *Yorkshire oddities, incidents and strange events*. In previous years, Baring-Gould had been keen to debunk claims of a historical basis for many folk tales (for example, "WIlliam Tell", or "Llewellyn and Gelert", in [*Curious myths of the Middle ages*](https://archive.org/details/curiousmythsmid02barigoog/page/n154/mode/2up), 1867), so for him to present a "made up" story with no historical basis as a historical tale might itself appear to be a little bit odd. Unless that was part of the joke of the book, perhaps?!
 
-```{admonition} In *Yorkishire Oddities*, 1880
+```{admonition} In *Yorkshire Oddities*, 1880
 :class: dropdown
 Sabine Baring-Gould, *Yorkshire oddities, incidents and strange events*, [vol. I & II](https://archive.org/details/yorkshireodditie00bari/page/220/mode/2up), 1880, Vol. II, pp. 220-8.
 

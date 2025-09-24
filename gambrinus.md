@@ -215,7 +215,7 @@ As Gambrinus leaves town depressed, he meets with the 'hunter' a second time. He
 
 Gambrinus goes back to his hometown and grows his hops, builds his brewery and practices on his chime. And when his first brew is ready he calls on all the people from his town, who humiliated him at his last concert, to the market square for a taste. At first none of them likes this bitter drink and they mock Gambrinus and his stupid beer. But then he starts to play his chime and of course everyone starts to dance. He lets them suffer for several hours, till everyone is really thirsty. When the music finally stops they turn to the beer and love it more with every sip they take. Gambrinus and his brewery are a hit and this news travels fast.
 
-Gambrinus spreads his new drink all over the country and the King of the Netherlands even rewards him with a title: Duke of Brabant. Allthough Gambrinus himself prefers the unofficial title King of Beer better. He spends his days mostly drinking and partying. Finally he is not only rich, but also a man who moves around in the highest circles of society.
+Gambrinus spreads his new drink all over the country and the King of the Netherlands even rewards him with a title: Duke of Brabant. Although Gambrinus himself prefers the unofficial title King of Beer better. He spends his days mostly drinking and partying. Finally he is not only rich, but also a man who moves around in the highest circles of society.
 
 Flandrine, who secretly liked him too all this time but was too proud to admit it, waits for the duke to come back and ask her hand a third time. But when he doesn't she decides to pay him a visit. As she puts out her hand, Gambrinus doesn't recognize her and thinks it's just another person that wants to try his beer. So he gives her a glass and turns away. The beer finally got him to forget Flandrine, as he wished for.
 
@@ -262,4 +262,4 @@ https://luminarium.org/renascence-editions/nashe1.html
 
 http://www.oxford-shakespeare.com/Nashe/Pierce_Penilesse.pdf
 
-[ale - traditionally made without hops; flavouring add bitterness started to be added to beer made in Belgium, Holland and wesern Germany using gruit, a herbal mixture. Things like heather, and ivy, and mugwort; and the gruit mixture was taxed.] Hops also had a stabilising, anti=bactierial effect, a natural preservative, as well as adding the bitterness. 
+[ale - traditionally made without hops; flavouring add bitterness started to be added to beer made in Belgium, Holland and wesern Germany using gruit, a herbal mixture. Things like heather, and ivy, and mugwort; and the gruit mixture was taxed.] Hops also had a stabilising, anti-bacterial effect, a natural preservative, as well as adding the bitterness. 

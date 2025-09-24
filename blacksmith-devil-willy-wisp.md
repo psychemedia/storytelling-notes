@@ -263,7 +263,7 @@ In the meantime. Bill broke cover, and took to the country at large; wrought a l
 
 "Goodbye, old gentleman!" said Bill, very coolly; "I'll drop in to see you once a month."
 
-"No, no. Bill, you infern — a — a — you excellent, worthy, dehghtful fellow, not so fast; not so fast. Come, name your terms, you sland — my dear Bill, name your terms."
+"No, no. Bill, you infern — a — a — you excellent, worthy, delightful fellow, not so fast; not so fast. Come, name your terms, you sland — my dear Bill, name your terms."
 
 "Seven years more."
 

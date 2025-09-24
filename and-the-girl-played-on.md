@@ -36,7 +36,7 @@ He demanded the cook be dragged before him. The guards were sent out, and soon r
 
 As the king demanded an explanation from the cook, the serving girl passed something along each of the tables. Immediately their tone changed, and where the people had been spitting out the meat, now they were feasting hungrily upon it.
 
-"Explain yourself," said the King to the cook, "you're supposed to be the finest cook in the Kingdom? Serving the fiest food. Bute even the peasants are spitting it out."
+"Explain yourself," said the King to the cook, "you're supposed to be the finest cook in the Kingdom? Serving the finest food. Bute even the peasants are spitting it out."
 
 And as he gestured toward the packed hall, he noticed that the people were now feasting.
 
@@ -54,7 +54,7 @@ And he knew who he would announce as his successor.
 
 *Deulin in Lang whichever colour Fairy book...*
 
-ONCE upon a time, there was a great lord, a Count, who everyone called "the Wolf". He had a wicked heart, and a cold steely eye, and it was said that he used to harness his peasants to the plough, and whip them as they tilled his land in their bare naked feet.
+ONCE upon a time, there was a great lord, a Count, Burchard was his name, but everyone called "the Wolf". He had a wicked heart, and a cold steely eye, and it was said that he used to harness his peasants to the plough, and whip them as they tilled his land in their bare naked feet.
 
 But he also had a wife, the Countess. And she was as tender to the poor, as he was cruel.
 
@@ -122,7 +122,7 @@ For at that time, if there was no father in the house, the permission to marry m
 
 VI
 
-Renelde sobbed. Never had she heard of anyone spinning nettles. Rebelde cried: the Count was a strong man, seemingly made of iron, who often boasted that he would live to be a hundred.
+Renelde sobbed. Never had she heard of anyone spinning nettles. Renelde cried: the Count was a strong man, seemingly made of iron, who often boasted that he would live to be a hundred.
 
 She went back into the cottage, sobbing and crying. Through her tears, she blurted out what the Wolf had demanded she should do.
 
@@ -132,7 +132,7 @@ And sitting next to her, an old, old woman, older than the hills, who had known 
 
 That evening, Renelde's young man came to visit, as he did every evening. When Renelde told him what Burchard had said, he was angry, and asked what he should do: "Would you like me to watch for the Wolf, and split his skull with a blow from my axe?"
 
-"No," replied Renelde, "there must be no blood shed over my bridal gown. And I have told you how good the Countess was to my mother. But maybe, maybe?, if make the broidal shift, that will be enough."
+"No," replied Renelde, "there must be no blood shed over my bridal gown. And I have told you how good the Countess was to my mother. But maybe, maybe?, if make the bridal shift, that will be enough."
 
 VII
 
@@ -166,7 +166,7 @@ I will not labour you with the details, but the Count's thinking was this: if he
 
 IX
 
-The following day, Renelde was sent the news. She had already started on Berchard's funeral shroud before the messenger had arrived. If Berchard had thought it would stop her from working on his funeral shift, it had the opposite effect.
+The following day, Renelde was sent the news. She had already started on Burchard's funeral shroud before the messenger had arrived. If Burchard had thought it would stop her from working on his funeral shift, it had the opposite effect.
 
 She worked even harder and faster than she had before. In the castle, a cold shiver passed over the Count when the messenger reported back what he had seen. As the saying goes, it felt almost as if someone was walking over his grave.
 
@@ -240,7 +240,7 @@ XIV
 
 He sent for Renelde, thinking not of what he might have done for her, but only of what she might do for him. And as she stood at the foot of his of his bed, he looked at her with a cold flash of fire in his eye, and he ordered her to go on spinning his shroud.
 
-Rendle looked at the Wolf, at the Count.
+Renelde looked at the Wolf, at the Count.
 
 "I made your wife a promise", she said, "that I would not spin again until my young man has returned". And with that, she turned, and left the room.
 
@@ -370,9 +370,9 @@ Anwen and the young man, back in human form, were running, running through the f
 
 The footprints on the path had disappeared again. A bit odd, a rose bush, out of season... and a bee...
 
-Rhoswen leaned towards the rose bush, recognising something within it, perhaps, because in Welsh, Rhosen means "white rose".
+Rhoswen leaned towards the rose bush, recognising something within it, perhaps, because in Welsh, Rhoswen means "white rose".
 
-The bee buzzed angrily, and Rhosewen stepped back.
+The bee buzzed angrily, and Rhoswen stepped back.
 
 "Little bee, little bee, did you see a young woman, and young man, pass by this way?"
 
@@ -382,7 +382,7 @@ Rhoswen turned round, went back the way she'd came.
 
 When she got home: "Well, have you brought me what you found?"
 
-But all Rhoswen said was, "Nothing. I found nothing..." "Nothing? What about the pond, and the duck...." "Gone. Disappeared.. but there was, a bit firther on, a bush. A beautiful rose bush; and a bee..."
+But all Rhoswen said was, "Nothing. I found nothing..." "Nothing? What about the pond, and the duck...." "Gone. Disappeared.. but there was, a bit further on, a bush. A beautiful rose bush; and a bee..."
 
 "Argghh," cried the witch. "That was them, you *stupid* girl! One petal from that rose, and I'd have had them both. Go and get them... and bring back whatever you can find..."
 
@@ -390,7 +390,7 @@ So off went Rhoswen again, into the forest, as fast as thought. Anwen and the yo
 
 Just in time, Rhoswen, following the footsteps through the wood, and then - nothing...
 
-Rhoswen looked up at the apple. A mishievous smile. And a glisten in her eye.
+Rhoswen looked up at the apple. A mischievous smile. And a glisten in her eye.
 
 "Little tree, little tree: did you see a young man, and a young woman, pass by this way?"
 
@@ -432,7 +432,7 @@ After a week, Anwen returned to the crossroads. No-one came to meet her.
 
 Where was he? What had happened to him? Surely he couldn't have forgotten? Surely he hadn't...?
 
-By whatever sense it is that leads us home when we are lost, the landscape ingrained in you when you're a child, the young man somhow made his way back home...
+By whatever sense it is that leads us home when we are lost, the landscape ingrained in you when you're a child, the young man somehow made his way back home...
 
 Some movement through the window had caught the eye of his father; the sight of his son, who had been lost these last few years, coming up the drive. As the older man made he way outside, the family dog recognised its young master and ran to greet him. The boy bent down [arms outstretched], and the dog jumped up... gave a great big, doggy, slobbery wet...
 
@@ -444,7 +444,7 @@ Anwen took to wandering. She had no family, she had no money, she had: no-one; n
 
 At last, she came to a village, where an old man took pity on her, gave her tea to drink, and some food to eat.
 
-The old man told her tales and legends of that place. Stories you may have heard before, or may yet hear. And he spoke of the strange goings on at the local manor house, what used to be a happy house; but then the Lord of the Manor's son had gone missing, a year or two back; and when he'dreturned, he wasn't himself. There was a story that if anyone could help him return to the happy person he had been, that if any young woman could help him smile again, them she could have his hand in marriage. But that was just a story.
+The old man told her tales and legends of that place. Stories you may have heard before, or may yet hear. And he spoke of the strange goings on at the local manor house, what used to be a happy house; but then the Lord of the Manor's son had gone missing, a year or two back; and when he'd returned, he wasn't himself. There was a story that if anyone could help him return to the happy person he had been, that if any young woman could help him smile again, them she could have his hand in marriage. But that was just a story.
 
 And with that, the young woman finished her story. And outside, in the distance, a bell tolled.
 

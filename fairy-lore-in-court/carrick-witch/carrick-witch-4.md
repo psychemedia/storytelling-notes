@@ -1,6 +1,6 @@
 # Aftermath
 
-With Mary in gaol, and her family's source of income, even if not of the pecuniary kind, seriously curtailed, and her blind husband perhaps unable to look after their child himself, it seems that the child had been homed in the Colnmel Poor Union Poor House.
+With Mary in gaol, and her family's source of income, even if not of the pecuniary kind, seriously curtailed, and her blind husband perhaps unable to look after their child himself, it seems that the child had been homed in the Clonmel Poor Union Poor House.
 
 ```{admonition} Mary Doheney's husband appeals to the Poor Law Union, May 1865
 :class: dropdown
@@ -22,9 +22,9 @@ Mr. Gordon— The father of the child is blind and the mother is in gaol.
 
 ```
 
-But Mary Doheny's story does not quite end there, for we continue to find traces of her, typically identifed as the *Carrick Witch*, in several press reports over the following ten years or more.
+But Mary Doheny's story does not quite end there, for we continue to find traces of her, typically identified as the *Carrick Witch*, in several press reports over the following ten years or more.
 
-From the first direcly report we have of her since her being sentenced to a year's imprisonment with hard labour, we learn that she must have been admitted to the Clonmel Poor House, for in July 1866, she is seeking to be discharged from there.
+From the first direct report we have of her since her being sentenced to a year's imprisonment with hard labour, we learn that she must have been admitted to the Clonmel Poor House, for in July 1866, she is seeking to be discharged from there.
 
 ```{admonition} Application for discharge, July 1866
 :class: dropdown
@@ -40,9 +40,9 @@ THE CARRICK WITCH.
 
 Among the several persons who applied to be discharged with the view of getting employment, was the celebrated Mary Doheny, the Carrick witch, whose feats of necromancy, and pretended communication with the spirits of the dead, some two years ago, at Carrick, set some local folk by the ears, and afforded "original matter" for gullible penny a linearism.
 
-The pseudo witch, on applying for permission to take her discharge, betrayed evident symptoms of uneasineness as some of the guardians began to put questions to her as to her previous residence, antecedents &c., and the suggestive word "Carrick," with its world of associations of the verdant and gullible, was stated by Mary as the last residence she occupied previous to her two years change of airin the Gaol.
+The pseudo witch, on applying for permission to take her discharge, betrayed evident symptoms of uneasineness as some of the guardians began to put questions to her as to her previous residence, antecedents &c., and the suggestive word "Carrick," with its world of associations of the verdant and gullible, was stated by Mary as the last residence she occupied previous to her two years change of air in the Gaol.
 
-She stated to the board that her husband, a blind man, earned his living by selling papers in Clonmel, and it will be remembered that the blind husband, in the days of Mary's acknowledged sway, not only over the living, but also over the dead, played an important part in the nefarious plot, so widely and successfully developed by the Carrick witch, by sitting in a waste house, dressed in sheet and shroud, and representing the ghost of some departed persons, whose anxious relatives were answered as many questions as they choose to put to the blind ghost, about the fate of their deceased friends and relatives. Food, money, and other material comforts usually required by the inhabitants of this "earth of ours" were said by the sheeted and shrouded blind ghost, to be as much needed in the "land of the leal," and forthwith, money, eggs, tea, and other creature comforts, which were supplied in abundance in a dressed state, had to be presented in a raw and unprepared state  at the fairy rath at Ballydine, as deceased got tired of this state of things, and wished, like ordinary mortals, for a change of diet, said change being much a better business in Mary's line than the prepared matters in the bills of gastromony. It is needless to say that the celebrated Mary Doheny was allowed to take her discharge.
+She stated to the board that her husband, a blind man, earned his living by selling papers in Clonmel, and it will be remembered that the blind husband, in the days of Mary's acknowledged sway, not only over the living, but also over the dead, played an important part in the nefarious plot, so widely and successfully developed by the Carrick witch, by sitting in a waste house, dressed in sheet and shroud, and representing the ghost of some departed persons, whose anxious relatives were answered as many questions as they choose to put to the blind ghost, about the fate of their deceased friends and relatives. Food, money, and other material comforts usually required by the inhabitants of this "earth of ours" were said by the sheeted and shrouded blind ghost, to be as much needed in the "land of the leal," and forthwith, money, eggs, tea, and other creature comforts, which were supplied in abundance in a dressed state, had to be presented in a raw and unprepared state  at the fairy rath at Ballydine, as deceased got tired of this state of things, and wished, like ordinary mortals, for a change of diet, said change being much a better business in Mary's line than the prepared matters in the bills of gastronomy. It is needless to say that the celebrated Mary Doheny was allowed to take her discharge.
 
 The guardians, after transacting soma minor routine business adjourned.
 ```
@@ -59,7 +59,7 @@ CLONMEL UNION. The Carrick Witch. — Among several persons who applied to be di
 
 The pseudo witch, on applying for permission to take her discharge, betrayed evident symptoms of uneasiness, as some of the guardians began to put questions to her as to her previous residence, antecedents, &c., and the suggestive word "Carrick," with its world of associations of the verdant and gullible, was stated by Mary as the last residence she occupied previous to her two years change of air in the county gaol.
 
-She stated to the board that her husband, a blind man, earned his living by selling paper in Clonmel, and it will be remembered that the blind husband, in the days of Mary's acknowledged sway, not only over the living, but also over the dead, playing an important part in the nefarious plot, so widely and successfully developed by the Carrick witch, by sitting in a waste house, dressed in sheet and shroud, and representing the ghost of some departed persons, whose anxious relatives were answered as many questions they choose to put to the blind ghost about the fate of their deceased friends and relatives. Food, money and other material comforts usually required by the inhabitants of this "earth of ours" were said by the sheeted and shrouded blind ghost to be as much needed in the "land of the leal," and forthwith, money, eggs, tea, and other creature comforts, which were supplied in abundance in a dressed state, had to be presented in a raw and unprepared state at the fairy rath at Ballydine, as deceased got tired of this state of things, and wished, like ordinary mortals, for change of diet, said change being much a better busness in Mary's line than the prepared matters in the bills of gastronomy. It is needless to say that the celebrated Mary Doheny was allowed to take her discharge.—*Tipperary Free Press.*
+She stated to the board that her husband, a blind man, earned his living by selling paper in Clonmel, and it will be remembered that the blind husband, in the days of Mary's acknowledged sway, not only over the living, but also over the dead, playing an important part in the nefarious plot, so widely and successfully developed by the Carrick witch, by sitting in a waste house, dressed in sheet and shroud, and representing the ghost of some departed persons, whose anxious relatives were answered as many questions they choose to put to the blind ghost about the fate of their deceased friends and relatives. Food, money and other material comforts usually required by the inhabitants of this "earth of ours" were said by the sheeted and shrouded blind ghost to be as much needed in the "land of the leal," and forthwith, money, eggs, tea, and other creature comforts, which were supplied in abundance in a dressed state, had to be presented in a raw and unprepared state at the fairy rath at Ballydine, as deceased got tired of this state of things, and wished, like ordinary mortals, for change of diet, said change being much a better business in Mary's line than the prepared matters in the bills of gastronomy. It is needless to say that the celebrated Mary Doheny was allowed to take her discharge.—*Tipperary Free Press.*
 
 ```
 
@@ -83,7 +83,7 @@ Clonmel Poor Law Union
 
 ...
 
-Mrs. Doherty `[sic]`, the "Carrick witch," applied to have a child named Flaherty who had been left to her care by her mother, taken into the house. It appeared that the mother had been hired out for harvest work at rumunerative wages and had agreed to pay the "witch" 1s 6d per week for supporting the child, buf a fortnight had now elapsed, and no tale or tidings could be had of her whereabouts, consequently the above request was made. The child was admitted and a warrant issued for the apprehension of the mother.
+Mrs. Doherty `[sic]`, the "Carrick witch," applied to have a child named Flaherty who had been left to her care by her mother, taken into the house. It appeared that the mother had been hired out for harvest work at remunerative wages and had agreed to pay the "witch" 1s 6d per week for supporting the child, buf a fortnight had now elapsed, and no tale or tidings could be had of her whereabouts, consequently the above request was made. The child was admitted and a warrant issued for the apprehension of the mother.
 ```
 
 A couple of years later, Mary Doheny would be found at the Clonmel Sessions having brought a charge for an assault upon herself and another woman.
@@ -102,11 +102,11 @@ O'Donnell was also charged with assaulting a young girl named Margaret St. John,
 
 The defendant pleaded not guilty, and was defended by Mr. O'Donohoe.
 
-The complainant in the previous case is the noborions Carrick witch, whose mediumistic manifestations with the spirit world, some four years ago on behalf of a police constable, who wished to hold communication with his deceased friends, were as wonderful and remarkable as those of the renowned Home.
+The complainant in the previous case is the notorious Carrick witch, whose mediumistic manifestations with the spirit world, some four years ago on behalf of a police constable, who wished to hold communication with his deceased friends, were as wonderful and remarkable as those of the renowned Home.
 
 Complainant deposed that on the night in question she was out picking water cresses and on her return to her home she found the defendant with a boy, named Lar O'Donnell drinking some beer which they had sent out for, at the fire. At about 10 o'clock when the beer was drank she said to O'Donnell that there was no person stopping in the house but two lone women and that he should get up and go to his lodgings. He then took hold of the girl St. John, and commenced taking improper liberties with her when she witness interfered he hit her with his fist and knocked out one of her teeth and loosened two more. Witness exhibited the gap occasioned in the front of her mouth by the loss of her tooth, and in further corroboration produced the displaced tooth rolled up in a piece paper. The two adjoining ones were quite loose and ready to fall out at any moment.
 
-The witness was humourously examined by Mr. O'Donohue with reference to her commnnications with the spirit world and the Ballydine post-office at the Rath from which place she represented to the duped police constable that all her communications concerning his deceased friends were forwarded.
+The witness was humourously examined by Mr. O'Donohue with reference to her communications with the spirit world and the Ballydine post-office at the Rath from which place she represented to the duped police constable that all her communications concerning his deceased friends were forwarded.
 
 Complainant's husband a blind man who occupied a seat in the gallery loudly protested against the bench for allowing his consort to be badgered in such a manner about a by-gone transaction, and had to be removed from court.
 
@@ -156,7 +156,7 @@ The other magistrates concurred in the observations of his Worship.
 
 On complaining about his behaviour, the response was essentially "no harm done" and Mary was told there was no stain on her character arising from his words.
 
-But the public ridicule was to continue, to such an extent that the following year, Mary brought a charge against a policement who had been taunting her and encouraging others to do the same. The case was dismissed.
+But the public ridicule was to continue, to such an extent that the following year, Mary brought a charge against a policemen who had been taunting her and encouraging others to do the same. The case was dismissed.
 
 ```{admonition} Taunted about the Ballydine Post Office, June 1870
 :class: dropdown
@@ -231,7 +231,7 @@ CLONMEL BOROUGH PETTY SESSIONS
 
 ...
 
-ASSAULT AND ABUSIVE LANGUAGE.— The next case called on for hearing was at the suit of Cathering Brien agenist Mary Doheny, known as the "Carrick Witch," for assault and abusive language. Complainant, on being sworn, stated the "Witch" cursed her, and called her names of a most abusive description. Defendant's husband, a blind man, appeared in court to state his wife was ill and unable to attend, and the case was adjourned till next sessions.
+ASSAULT AND ABUSIVE LANGUAGE.— The next case called on for hearing was at the suit of Cathering Brien against Mary Doheny, known as the "Carrick Witch," for assault and abusive language. Complainant, on being sworn, stated the "Witch" cursed her, and called her names of a most abusive description. Defendant's husband, a blind man, appeared in court to state his wife was ill and unable to attend, and the case was adjourned till next sessions.
 ```
 
 ```{admonition} Case adjourned, November 1876

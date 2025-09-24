@@ -54,7 +54,7 @@ And they lived happy all their days.
 
 ```
 
-Some ommentary is then provided (in French) by Reinhold Kœhler.
+Some commentary is then provided (in French) by Reinhold Kœhler.
 
 TO DO 
 https://archive.org/details/revueceltiqu03pari/page/376/mode/2up?q=lang
@@ -268,7 +268,7 @@ So off he went with his flock of goats. "An easy master you are indeed," said th
 
 "Ah, but this isn't so easy a task as you think; bnt I'll teach you how to do it. When you get near it, fire and flame will come out of its nostrils, as out of a tar barrel; but look out, and take the bit which hangs behind the door yonder, and throw it right into his jaws, and he will grow so tame that you may do what you like with him."
 
-Yes! the Prince would mind and do that; and so he sat in there the whole day, talking and chattering with the Maatermaid about one thing and another, but they always came back to how happy they would be if they could only have one another, and get well away from the Giant; and, to tell the truth, the Prince would have clean forgotten both the horse and the hill-side, if the Maatermaid hadn't put him in mind of them when evening drew on, telling him he had better set out to fetch the horse before the Giant came home. So he set off, and took the bit which hung in the comer, ran up the hill, and it wasn't long before he met the horse, with fire and flame streaming out of its nostrils. But he watched his time, and, as the horse came open-jawed up to him, he threw the bit into its mouth, and it stood as quiet as a lamb. After that, it was no great matter to ride it home and put it up, you may fancy; and then the Prince went into his room again, and began to carol and sing.
+Yes! the Prince would mind and do that; and so he sat in there the whole day, talking and chattering with the Mastermaid about one thing and another, but they always came back to how happy they would be if they could only have one another, and get well away from the Giant; and, to tell the truth, the Prince would have clean forgotten both the horse and the hill-side, if the Mastermaid hadn't put him in mind of them when evening drew on, telling him he had better set out to fetch the horse before the Giant came home. So he set off, and took the bit which hung in the comer, ran up the hill, and it wasn't long before he met the horse, with fire and flame streaming out of its nostrils. But he watched his time, and, as the horse came open-jawed up to him, he threw the bit into its mouth, and it stood as quiet as a lamb. After that, it was no great matter to ride it home and put it up, you may fancy; and then the Prince went into his room again, and began to carol and sing.
 
 So the Giant came home again at even with his goats; and the first words he said were, —
 
@@ -292,7 +292,7 @@ So when the Mastermaid asked what the Giant had set him to do that day, he told 
 
 "And how will you set about it?" asked the Mastermaid.
 
-"Oh, that yoa mnat tell me," said the Prince. "I have never been to Hell in my life; and even if I knew the way, I don't know how mach I am to ask for."
+"Oh, that you must tell me," said the Prince. "I have never been to Hell in my life; and even if I knew the way, I don't know how mach I am to ask for."
 
 "Well, I'll soon tell you," said Mastermaid; "you must go to the steep rock away yonder, under the hill-side, and take the club that lies there, and knock on the face of the rock. Then there will come out one all glistening with fire; to him yon must tell your errand; and when he asks you how much you will have, mind you say, as much as I can carry."
 
