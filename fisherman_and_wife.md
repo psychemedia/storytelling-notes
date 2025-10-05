@@ -102,7 +102,7 @@ Notes, p. 221:
 > The Fisherman and his Wife, p. 27.—"De Fischer un siine Fru," a story in the Pomeranian Low German dialect, admirably adapted to this species of narrative, and particularly pleasing to an English ear, as bearing a remarkable affinity to his own language, or rather that of the Lowland Scotch. Take the second sentence as a specimen: "Daar satt he eens an de see, bi de angel, un sach in dat blanke water, un he sach immer (ever) na de angel," &c. During the fervour of popular feeling on the downfall of the power of the late Emperor of France, this tale became a great favourite. In the original the last object of the wife's desires is to be as "de lewe Gott" (der liebe Gott, le bon Dieu). We have softened the boldness of the lady's ambition.
 ```
 
-```{admonition}
+```{admonition} In *Folk-lore and legends, Russian and Polish*, 1890
 :class: dropdown
 
 https://archive.org/details/folklorelegendsr00londiala/page/34/mode/2up?
