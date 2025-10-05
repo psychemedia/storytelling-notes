@@ -12,6 +12,18 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
+      # Cache Jupyter Book build artifacts
+    - name: Cache Jupyter Book build
+      uses: actions/cache@v3
+      with:
+        path: |
+          _build/.doctrees
+          _build/.jupyter_cache
+          ~/.cache/pip
+        key: ${{ runner.os }}-jb-${{ hashFiles('*.md','**/*.md', '**/*.ipynb', '**/*.rst', '_config.yml', '_toc.yml') }}
+        restore-keys: |
+          ${{ runner.os }}-jb-
+
     # Install dependencies
     - name: Set up Python 3.11
       uses: actions/setup-python@v4
