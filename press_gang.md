@@ -183,7 +183,7 @@ British Press - Saturday 16 April 1803
 
 POLICE. MANSION-HOUSE. Thursday four Master tradesmen waited upon the Lord Mayor, and thanked him for the order which his Lordship sent with Mr. Nelson, the Deputy Water-Bailiff, for the liberation of their apprentices, who were impressed on Monday last, as they were going down the river to amuse themselves at Greenwich. In the course of their address, they detailed the particulars of the great trouble and inconvenience which they experienced in the present case; and insisted, that they being Freemen and Liverymen of London, and their apprentices being bound for the freedom of the city, the latter were not liable to be impressed, and that consequently the conduct of the press-gang, who had so impressed them, was a violation of the rights and privileges of the city of London.
 
-The Lord Mayor answered, that he should be always ready to protect the liberties of the city of London, and commended the Gentlemen for their exertions upon the present occcasion.
+The Lord Mayor answered, that he should be always ready to protect the liberties of the city of London, and commended the Gentlemen for their exertions upon the present occasion.
 ```
 
 At other times, freedom was given to the press to retrieve deserters who had made their way into the City:
@@ -415,7 +415,7 @@ But the poor Cripple was alone
 And could not stoop —no help was nigh.
 
 Inch-thick the dust lay on the ground,  
-For it had loug been droughty weather;  
+For it had long been droughty weather;  
 So with his staff the Cripple wrought  
 Among the dust till he had brought  
 The halfpennies together.
@@ -469,7 +469,7 @@ In the following case, two suitors for one fair both seem to have lost out when 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000031/18090208/013/0003
 Aberdeen Press and Journal - Wednesday 08 February 1809
 
-Two young men, named Miller and Brown, who had for some time paid their addresses to a maid-servant in Hatton-garden, London, agreed, with the consent of the fair one, who, it seemed, promised her hand to the victor, to fight for her, and they adjourned to Copenhagen-fields on Friday, to determine the prize. In the interim, notice was sent of their intention to the officer of the tender off the Tower, and towards the close of the battle, when the combatants had severely beaten each other, a press-gang arrived, and carried both the champions off. The fair one has since found consolation for her ioss, in the tender assiduities of a Recruiting Serjeant.
+Two young men, named Miller and Brown, who had for some time paid their addresses to a maid-servant in Hatton-garden, London, agreed, with the consent of the fair one, who, it seemed, promised her hand to the victor, to fight for her, and they adjourned to Copenhagen-fields on Friday, to determine the prize. In the interim, notice was sent of their intention to the officer of the tender off the Tower, and towards the close of the battle, when the combatants had severely beaten each other, a press-gang arrived, and carried both the champions off. The fair one has since found consolation for her loss, in the tender assiduities of a Recruiting Serjeant.
 ```
 
 A few years earlier, a prize fight ended up with the press-gang being the winners:
@@ -523,7 +523,7 @@ Potts was dubious as to his place of birth—Devonshire he had no doubt, and som
 
 Dinner over, the flowing bowl went swiftly round—so swiftly , that Tom, after couple or hours consumed at the pleasant pastime, bethought him that a stroll upon the quay might cool his cranium and render his articulation less thick and uncertain. Apologising, therefore, for a short absence Tom left the gay company, and, as the father of mischief would have it, hitched down from the pegs as he passed through the passage a rough pea-overcoat and shiny hat — the properties of one the guests, a seaman distantly related to the Jobsons— put them on and sallied forth.
 
-He had taken but a few turns on the quay, and feeling considerably qualmish, wisely resplved to get back home as speedily as might be. He taken but a few uncertain steps homewards, when there came tumbling along a party of rough, rollicking, devil-may-care sailors. Precisely how the thing was done, with what expletives, potts had but a hazy recollection; but the fact was indisputable that he was bundled into a man-o'-war's boat lying at the quay steps, and carried off, spite of kicking and screaming, on board the Serpent sloop of war, lying in the Sound, which at once brought her anchor home, filled, and spread her white wings for the southern hemisphere, with important admiralty despatches.
+He had taken but a few turns on the quay, and feeling considerably qualmish, wisely resolved to get back home as speedily as might be. He taken but a few uncertain steps homewards, when there came tumbling along a party of rough, rollicking, devil-may-care sailors. Precisely how the thing was done, with what expletives, potts had but a hazy recollection; but the fact was indisputable that he was bundled into a man-o'-war's boat lying at the quay steps, and carried off, spite of kicking and screaming, on board the Serpent sloop of war, lying in the Sound, which at once brought her anchor home, filled, and spread her white wings for the southern hemisphere, with important admiralty despatches.
 
 "It were no manner of use to tell them thunderin' varmints when I came to," said Potts, "that I was a respectable master tradesman going to be married the very next day. I might as well have sung psalms to a dead horse. The villains only laughed at me, and a bosan's mate threatened to give me something to howl for, if I didn't hold my stupid old-woman's jaw. The first luff was civiller, and kindly observed that, if what I said was correct, I should most likely obtain a discharge from the service when the "Serpent" returned to England, which might be in about three or four years, more or less.
 

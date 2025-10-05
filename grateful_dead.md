@@ -256,7 +256,7 @@ The three fleets of the three kings' sons were sunk, their armies destroyed, and
 
 ```
 
-The following variant, which is one I tend to prefer, is close to the version I head Ben Haggerty tell at the *Stealing Thunder* storytelling festival in 2025, in which the dead man was a blacksmith(?) who has taken all the iron from that place; the conceit with the witches saw the young man take a sack of what looked like gold (but turned to worthless leaves?) whilst the companion took what looked to be worthless ("oh, you don't want that..."). The troll was a (the?) devil (?).
+The following variant, which is one I tend to prefer, is close to the version I head Ben Haggerty tell at the *Stealing Thunder* storytelling festival in 2025, in which the dead man was a blacksmith(?) who has taken all the iron from that place; the conceit with the witches saw the young man take a sack of what looked like gold (but turned to worthless leaves?) whilst the companion took what looked to be worthless ("oh, you don't want that..."). The troll was a — or should that be, *the*? — devil (?).
 
 ```{admonition} A Norwegian variant, *The Companion*, 1874
 :class: dropdown

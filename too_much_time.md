@@ -81,7 +81,7 @@ So when people said "London is ahead of the times", that was true, in a certain 
   
 A news report of the appeal can be found in the *Southern Times and Dorset County Herald* of Saturday, 27 November, 1858:
 
-```{admonition} Puncutuality in Law Courts, November, 1858
+```{admonition} Punctuality in Law Courts, November, 1858
 :class: dropdown
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0002181/18581127/062/0008

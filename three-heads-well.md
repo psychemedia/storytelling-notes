@@ -275,7 +275,7 @@ In the morning the kitchen-maid related what she had seen and heard, and the Kin
 
 This time also, as before, she borrowed a brush and brushed her hair with it, and the gold dropped down as she did it; and again she sent the dog out three times, and when day dawned she departed, but as she was going she said as she had said before, 'I shall come once more, and then never again.'
 
-On the third Thursday night the King once more insisted on keeping watch. Then he set two men to hold him; each of them was to take an arm, and shake him and jerk him by the arm whenever he seemed to be going to fall asleep; and he set two men to watch his Bushy Bride. But as the night wore on the Bushy Bride again began to croon and to sing, so that his eyes began to close and his head to droop on one side. Then came the lovely maiden, and got the brush and brushed her hair till the gold dropped from it, and then she sent her Little Snow out to see if it would soon be day, and this she did three times. The third time it was iust beginning to grow light, and then she said:
+On the third Thursday night the King once more insisted on keeping watch. Then he set two men to hold him; each of them was to take an arm, and shake him and jerk him by the arm whenever he seemed to be going to fall asleep; and he set two men to watch his Bushy Bride. But as the night wore on the Bushy Bride again began to croon and to sing, so that his eyes began to close and his head to droop on one side. Then came the lovely maiden, and got the brush and brushed her hair till the gold dropped from it, and then she sent her Little Snow out to see if it would soon be day, and this she did three times. The third time it was just beginning to grow light, and then she said:
 
 'Out on thee, ugly Bushy Bride,
 Sleeping so soft by the young King's side,
@@ -320,7 +320,7 @@ The deformed daughter perceiving that her sister had been so happy in seeking he
 
 ```
 
-The version in Chambers' *Popular rhymes of Scotland* of 1870 is presented in a Scottish vernacular. In this case, the heads are explicitly mens heads, who request "Wash me, wash me, my bonnie May, And dry me wi' yer clean linen apron." The corresponding fortunes are: "if she was bonnie afore, she was ten times bonnier; and ilka time she opened her lips to speak, there was a diamond and a ruby and a pearl drappit oot o' her mouth; and ilka time she kaimed her head, she gat a peck o' gould and a peck o' silver oot o't" and "if she was ugly afore, she'll be ten times uglier; ilka time she speaks, there'll a puddock `[frog]` and a taid `[toad]` loup oot o' her mouth; ilka time she kaims her head `[combs her hair]`, she'll get a peck o' lice and a peck o' flechs `[fleas]` oot o't.".
+The version in Chambers' *Popular rhymes of Scotland* of 1870 is presented in a Scottish vernacular. In this case, the heads are explicitly mens' heads, who request "Wash me, wash me, my bonnie May, And dry me wi' yer clean linen apron." The corresponding fortunes are: "if she was bonnie afore, she was ten times bonnier; and ilka time she opened her lips to speak, there was a diamond and a ruby and a pearl drappit oot o' her mouth; and ilka time she kaimed her head, she gat a peck o' gould and a peck o' silver oot o't" and "if she was ugly afore, she'll be ten times uglier; ilka time she speaks, there'll a puddock `[frog]` and a taid `[toad]` loup oot o' her mouth; ilka time she kaims her head `[combs her hair]`, she'll get a peck o' lice and a peck o' flechs `[fleas]` oot o't.".
 
 *A handy lookup for Scots words is the [Dictionaries of the Scots Language](https://www.dsl.ac.uk/advanced-search/); URL hack is `https://www.dsl.ac.uk/entry/snd/WORD`.*
 
@@ -564,7 +564,7 @@ Source, — Leyden's edition of *The Complaynt of Scotland* p. 234 *seq.*, with 
 
 ```
 
-The sieve motif also appears in "The Husband's Daughter and the Wife's Daughter" in the recent translsation by Tiina Nunnally of *The Complete and Original Norwegian Folktales of Asbjornsen & Moe*, which strongly resembles the "Three Heads of the Well", with two step-sisters behaving differently in a series of deeds along a journey, followed by a set of tasks set by a troll woman, which includes fetching water with a sieve. When the troll chases the girl, fortune is duly dealt out based on how the deeds performed en route were performed. Grimms' "Frau Holle" also includes two step-sisters completing a set of tasks with some overlap to those in "Husband / Wife Daughters".
+The sieve motif also appears in "The Husband's Daughter and the Wife's Daughter" in the recent translation by Tiina Nunnally of *The Complete and Original Norwegian Folktales of Asbjornsen & Moe*, which strongly resembles the "Three Heads of the Well", with two step-sisters behaving differently in a series of deeds along a journey, followed by a set of tasks set by a troll woman, which includes fetching water with a sieve. When the troll chases the girl, fortune is duly dealt out based on how the deeds performed en route were performed. Grimms' "Frau Holle" also includes two step-sisters completing a set of tasks with some overlap to those in "Husband / Wife Daughters".
 
 ```{admonition} "The Two Step-sisters", Asbjørnsen & Moe, 1859
 :class: dropdown
@@ -735,7 +735,7 @@ Put in straw;
 Daub in clay,
 Put in straw!"
 
-But she didn't care to listen to the birds' song, and pelted them with clay, till they fiew off far away. And so she had to go home with the empty sieve, and got well scolded by the old witch.
+But she didn't care to listen to the birds' song, and pelted them with clay, till they flew off far away. And so she had to go home with the empty sieve, and got well scolded by the old witch.
 
 Then she was to go into the byre to clean it, and milk the kine. Bat she was too good for such dirty work, she thought. Still, she went out into the byre, but when she got there, she couldn't get on at all with the pitchfork, it was so big. The birds said the same to her as they had said to her step-sister, and told her to take the broomstick, and toss out a little dung, and then all the rest would fly after it; but all she did with the broomstick was to throw it at the birds. When she came to milk, the kine were so unruly, they kicked and pushed, and every time she got a little milk in the pail, over they kicked it. Then the birds sang again—
 

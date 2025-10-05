@@ -61,9 +61,9 @@ And come to set me free?
 I've neither brought thy golden ball  
 Nor come to set thee free,  
 But I have come to see thee hung  
-Upon this gallows -tree.
+Upon this gallows-tree.
 
-Then the hangman said, 'Hast thee done thy prayers? Now ,lass, putthy head intut noo-is.'
+Then the hangman said, 'Hast thee done thy prayers? Now, lass, put thy head intut noo-is.'
 
 But she answered, "Stop, stop, I think I see my brother coming! &c. After which, she excused herself because she thought she saw her sister coming, then her uncle, then her aunt, then her cousin, each of which was related in full; after which the hangman said, 'I wee-nt stop no longer, tha's making gam of me. Tha must be hung at once.'
 
