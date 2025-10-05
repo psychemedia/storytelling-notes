@@ -2,7 +2,7 @@
 
 A fantastically grim English folk tale, the sort of thing that might well go down as a Halloween tale, or a ghost story... A lesser told tale than Perrault's *Bluebeard* and/or Grimm's *The Robber Bridegroom*, the gist of it is much the same.
 
-We can find an early version of the tale in a commentary to Shakespeare's *Nuch Ado About Nothing* on the phrase *"it is not so, nor 'twas not so: but indeed God forbid it should be so"*, offered a source for that quote and remembered as a tale told by an elderly relation of the commentator (Blakeway).
+We can find an early version of the tale in a commentary to Shakespeare's *Much Ado About Nothing* on the phrase *"it is not so, nor 'twas not so: but indeed God forbid it should be so"*, offered a source for that quote and remembered as a tale told by an elderly relation of the commentator (Blakeway).
 
 ```{admonition} An old tale, 1821
 :class: dropdown
@@ -269,3 +269,100 @@ On the night 'n the feast there is the housekeeper, all dressed in silks an' sat
 
 Now a'ter when they'd all eaten till they couldn't eat no moare, an' drunk most all the wine, the master he g6ts up from his place, an' he begins to make a bit 'n a speech. 'I been greatly pleased,' he says, 'wid your comp'ny here to-night. An' now,' he says, 'afoare you go—and I shall be very sorry to have to part from you —the's just one thing. I'm now going to call for a toast,' he says, 'which I wants all 'n you here present, *every one 'n you*, to drink standing up, *wid yowr left hands flat open above your heads, so*.' It was a cunning trick this was, for the robber you see had the two first fingers 'n his left hand cut off by the middle joints, so that when they all stood up an' raised their hands to drink the toast he was fun' out. The master tells his sarvants to seize him, an' he sends to fatch a rigiment o' soldiers, an' they comes, an' they shoots him. An' that was the end 'n the robber.
 ```
+
+## The Tale of Bloody Baker
+
+In the August 25th, 1850, issue of *Notes and Queries*, ("When found, make a note of"), apreviously recorded legend of a certain Sir. Bloody Baker, was likened to the tale  of *Mr Fox*.
+
+```{admonition} Resembling the story of Sir Richard "Bloody" Baker, August 1850
+:class: dropdown
+
+https://archive.org/details/sim_notes-and-queries_1850-08-24_2_43/page/196/mode/2up
+Notes and Queries  1850-08-24: Vol 2 Iss 43, p197
+
+FOLK-LORE
+
+*The Story of Mr. Fox.* — Your correspondent F.L., who has related the story of Sir Richard, surnamed Bloody Baker, is, doubtless, aware of a similar tale with which Mr. Blakeway furnished my late friend James Boswell, and which the latter observed "is perhaps one of the most happy illustrations of Shakspeare that has appeared." — (Malone's *Shakspeare*., vol. vii. pp. 20. 163.)
+
+The two narratives of Bloody Baker and Mr. Fox are substantially the same. Variations will naturally creep in when a story is related by word of mouth; for instance, the admonition over the chamber in Mr. Fox's house —
+
+"Be bold, be bold! but not too bold.  
+Lest that your heart's blood should run cold."
+
+is altogether of a more dignified character than the similar warning given by the parrot, at p. 68. Each of these worthies. Baker and Fox, is seen bringing into his house the corpse of a murdered lady, whose hand falls into the lap of the concealed visitor; but in Fox's story the ornament on the hand is a rich bracelet, in Baker's a ring. The assassins are, in both stories, invited to the visitor's house, and upon Fox *summary* justice is inflicted.
+
+It may be asked, if Baker was burned, how came he to have a tomb with gloves, helmet, &c., suspended over it in Cranbrook Church? Such honour was not paid to a man of higher rank in Salisbury Cathedral, a murderer also, who was hung, viz.. Lord Stourton. Dodsworth tells us that till about 1775, no chivalrous emblems were suspended over the latter, but only a twisted wire, with a noose, emblematic of the halter. Allow me to ask. What instances have we of tombs or gravestones, as memorials of individuals who have suffered at the *stake*, exclusive of those monuments which in after times may have been raised in honour of distinguished martyrs at the Reformation?
+
+J. H. M., Bath.
+```
+
+The supposed legend of Sir Richard was reported in the issue of June 29th, earlier that year, locating it in Cranbrook, Kent:
+
+```{admonition} The Legend of Sir Richard Baker, June 1850
+:class: dropdown
+
+https://archive.org/details/sim_notes-and-queries_1850-06-29_2_35/mode/2up
+Notes and Queries  1850-06-29: Vol 2 Iss 35, pp.67-8
+
+FOLK-LORE
+
+*Legend of Sir Richard Baker, surnamed Bloody Baker.*—I one day was looking over the different monuments in Cranbrook Church in Kent, when in the chancel my attention was arrested by one erected to the memory of Sir Richard Baker. The gauntlet, gloves, helmet, and spurs were (as is often the case in monumental erections of Elizabethan date) suspended over the tomb. What chiefly attracted my attention was the colour of the gloves, which was red. The old woman who acted as my cicerone, seeing me look at them, said, "Aye, miss, those are Bloody Baker's gloves; their red colour comes from the blood he shed." This speech awakened my curiosity to hear more, and with very little pressing I induced my old guide to tell me the following strange tale.
+
+The Baker family had formerly large possessions in Cranbrook, but in the reign of Edward VI. great misfortunes fell on them; by extravagance and dissipation, they gradually lost all their lands, until an old house in the village (now used as the poor-house) was all that remained to them. The sole representative of the family remaining at the accession of Queen Mary, was Sir Richard Baker. He had spent some years abroad in consequence of a duel; but when, said my informant, Bloody Queen Mary reigned, he thought he might safely return, as he was a Papist. "When he came to Cranbrook he took up his abode in his old house; he only brought one foreign servant with him, and these two lived alone. Very soon strange stories began to be whispered respecting unearthly shrieks having been heard frequently to issue at nightfall from his house. Many people of importance were stopped and robbed in the Glastonbury woods, and many unfortunate travellers were missed and never heard of more. Richard Baker still continued to live in seclusion, but he gra¢ ally repurchased his alienated property, although he was known to have spent all he possessed before he left England. But wickedness was not always to prosper. He formed an apparent attachment to a young lady in the neighbourhood, remarkable for always wearing a great many jewels. He often pressed her to come and see his old house, telling her he had many curious things he wished to show her. She had always resisted fixing a day for her visit, but happening to walk within a short distance of his house, she determined to surprise him with a visit; her companion, a lady older than herself, endeavoured to dissuade her from doing so, but she would not be turned from her purpose. They knocked at the door, but no one answered them; they, however, discovered it was not locked, and determined to enter. At the head of the stairs hung a parrot, which on their passing cried out,— "Peepoh, pretty lady, be not too bold, Or your red blood will soon run cold."
+
+And cold did run the blood of the adventurous damsel when, on opening one of the room doors, she found it filled with the dead bodies of murdered persons, chiefly women. Just then they heard a noise, and on looking out of the window saw Bloody Baker and his servant bringing in the murdered body of a lady. Nearly dead with fear, they concealed themselves in a recess under the staircase.
+
+As the murderers with their dead burden passed by them, the hand of the unfortunate murdered lady hung in the baluster of the stairs; with an oath Bloody Baker chopped it off, and it fell into the lap of one of the concealed ladies. As soon as the murderers had passed by, the ladies ran away, having the presence of mind to carry with them the dead hand, on one of the fingers of which was a ring. On reaching home they told their story, and in confirmation of it displayed the ring. All the families who had lost relatives mysteriously were then told of what had been found out; and they determined to ask Baker to a large party, apparently in a friendly manner, but to have constables concealed ready to take him into custody. He came, suspecting nothing, and then the lady told him all she had seen, pretending it was a dream. "Fair lady," said he, "dreams are nothing: they are but fables." "They may be fables," said she; "but is this a fable?" and she produced the hand and ring. Upon this the constables rushed in and took him; and the tradition further says, he was burnt, notwithstanding Queen Mary tried to save him, on account of the religion he professed.  
+F. L
+
+```
+
+As was often the case in *Notes and Queries*, other correspondents often sought to "clarify" issues further:
+
+```{admonition} Testing the veracity of the legend, September 1850
+:class: dropdown
+
+https://archive.org/details/sim_notes-and-queries_1850-09-14_2_46/page/244/mode/2up
+
+Notes and Queries  1850-09-14: Vol 2 Iss 46, p244
+
+FOLK LORE
+
+*The Legend of Sir Richard Baker* (Vol. ii., p. 67.).—  Will F. L. copy the inscription on the monument in Cranbrook Church? The dates on it will test the veracity of the legend. In the reign of Queen Mary, the representative of the family was Sir John Baker, who in that, and the previous reigns of Edward VI. and Henry VIII., had held some of the highest offices in the kingdom. He had been Recorder of London, Speaker of the House of Commons, Attorney-General and Chancellor of the Exchequer, and died in the first year of the reign of Queen Elizabeth. His son. Sir Richard Baker, was twice high-sheriff of the county of Kent, and had the honour of entertaining Queen Elizabeth in her progress through the county. This was, most likely, the person whose monument F. L. saw in Cranbrook Church. The family had been settled there from the time of Edward III., and seem to have been adding continually to their possessions ; and at the time mentioned by F. L. as that of their decline, namely, in the reign of Edward VI., they were in reality increasing in wealth and dignities. If the Sir Richard Baker whose monument is referred to by F. L. was the son of the Sir John above mentioned, the circumstances of his life disprove the legend. He was not the sole representative of the family remaining at the accession of Queen Mary. His father was then living, and at the death of his father his brother John divided with him the representation of the family, and had many descendants. The family estates were not dissipated; on the contrary, they were handed down through successive generations, to one of whom, a grandson of Sir Richard, the dignity of a baronet was given; and Sivinghurst, which was the family seat, was in the possession of the third and last baronet's grandson, E. S. Beagham, in the year 1730. Add to this that the Sir Richard Baker in question was twice married, and that a monumental erection of the costly and honourable description mentioned by F. L. was allowed to be placed to his memory in the chancel of the church of the parish in which such Bluebeard atrocities are said to have been committed, and abundant grounds will thence appear for rejecting the truth of the legend in the absence of all evidence. The unfortunately red colour of the gloves most likely gave rise to the story. Nor is this a solitary instance of such a legend having such an origin. In the beautiful parish church of Aston, in Warwickshire, are many memorials of the Baronet family of Holt, who owned the adjoining domain and hall, the latter of which still remains, a magnificent specimen of Elizabethan architecture. Either in one of the compartments of a painted window of the church, or upon a monumental marble to one of the Holts, is the Ulster badge, as showing the rank of the deceased, and painted red. From the colour of the badge, a legend of the bloody hand has been created as marvellous as that of the Bloody Baker, so fully detailed by F. L.
+
+St. Johns.
+
+[Will our correspondent favour us by communicating the Aston Legend of the Holt Family to which he refers?]
+
+```
+
+As was also frequently the case, the editor's request at the end of that notice for additional information was also acceded to by another correspondent:
+
+```{admonition} The Red Hand of the Holt Family, November 1850
+:class: dropdown
+https://archive.org/details/sim_notes-and-queries_1850-11-30_2_57/mode/2up?q=Aston+holt
+Notes and Queries  1850-11-30: Vol 2 Iss 57
+
+*Red Hand — Holt Family — Aston Church* (Vol. ii, p. 241 `[sic; 243]`).—The tradition is not, I believe, of very ancient date. It is stated that one of the Holt family murdered his cook, and was afterwards compelled to adopt the red hand in his arms. It is, however, obviously only the "Ulster badge" of baronetcy. I have never heard any further particulars of the tradition. ESTE.
+
+Back on the case of Sir Richard Baker, a correspondent a couple of years later sought to debunk the supposed legend:
+
+```{admonition} Correcting some very extraordinary errors, November 1852
+:class: dropdown
+
+https://archive.org/details/sim_notes-and-queries_1852-10-02_6_153/page/318/mode/2up
+Notes and Queries  1852-10-02: Vol 6 Iss 153, pp.318-9
+
+LEGEND OF SIR RICHARD BAKER.
+
+(Vol. ii., p. 67.)
+
+I do not know whether you may think it worth while to refer now to any thing which appeared so long ago as in your 35th Number; but should you be so disposed, you have it in your power to correct some very extraordinary errors committed by your correspondents. I allude to the article at p. 67., headed " Folk Lore," and purporting to give an account of what the writer saw and heard in Cranbrook Church with regard to Sir Richard Baker and his monument.
+
+There does not appear to have been any memorial whatever of the Bakers in Cranbrook Church before the year 1736, when a cumbrous but costly monument was erected in the south aisle by John Baker Dowel, a descendant. The position of this monument was found to be so inconvenient, that some few years ago it was removed to the south chancel, where it at present stands. And now for your correspondent F. L. She says, she saw suspended over his tomb, the gauntlet, gloves, helmet, spurs, &fc. of the deceased; and what particularly attracted her attention was, that the gloves were red. These red gloves are made the foundation of a very pretty story, which is said to be well known at Cranbrook as a tradition. Perhaps you will scarcely believe me, when I say that the whole of this is a pure fiction. There are not, nor ever were there, any gauntlet, gloves, or other monumental insignia of any kind, suspended over Baker's monument, nor even within sight of it. The banners, helmets, gauntlets, shields, swords, &c., which are the only things of the kind that F. L. could have seen, are in another chancel, and all belong to the ancient family of Roberts of Glassenbury in Cranbrook; as the crest on the helmets, and the blazon on the shields and tabard, undeniably prove.
+
+Having restored to their rightful owner these red gloves— which, by-the-bye, are more brown than red — let us go to the tradition. The story is wholly unknown in Cranbrook, and I do not believe that F. L. could have heard it there. The only traditional story, which I can discover, relating to the Bakers is this: — Sir John Baker, who was Chancellor of the Exchequer and Privy Counsellor to Henry VIII., Edward VI., and Queen Mary, is said to have rendered himself very obnoxious in consequence of the very prominent part he took in oppressing the followers of the Reformed religion. He, it is said, had procured an order for the burning two culprits, and would have certainly carried the order into execution but that the death of the queen disappointed his intentions. It is said that the news of the queen's death reached him at a spot where three roads met, and which is now known by the name of Bakers Cross. Whether there be any truth in this legend, I cannot say; but most probably he Obtained the name of Bloody Baker as being the known enemy of the Reformers, and in the same way as his royal mistress obtained the name of Bloody Mary. F. B——w.
+
+```
+
+Whether or not there was any such legend, and whether or not F. L. truly believed it to be the case, the June 1850 article could well have added the tale to the canon of Kentish fol-lore, at least amongst the readership of *Notes and Queries*.
