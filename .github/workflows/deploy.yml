@@ -12,16 +12,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Cache Jupyter Book build
-      uses: actions/cache@v3
-      with:
-        path: |
-          _build/.doctrees
-          _build/.jupyter_cache
-        key: ${{ runner.os }}-jb-${{ hashFiles('**/*.md', '**/*.ipynb') }}
-        restore-keys: |
-          ${{ runner.os }}-jb-
-
     # Install dependencies
     - name: Set up Python 3.11
       uses: actions/setup-python@v1
@@ -34,8 +24,10 @@ jobs:
         pip install sphinxcontrib-youtube==1.3.0
     # Build the book
     - name: Build the book
+      env:
+        SPHINXOPTS: "-j auto"
       run: |
-        jupyter-book build .  -j auto --keep-going
+        jupyter-book build .
         touch ./_build/html/.nojekyll
     # Push the book's HTML to github-pages
     - name: GitHub Pages action
