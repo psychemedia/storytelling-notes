@@ -8,6 +8,7 @@ parts:
   - file: yama-and-yami
   - file: man-no-story
   - file: knight-york-fish-ring
+  - file: fisherman_and_wife
   - file: three-heads-well
   - file: twa-sisters-binnorie
   - file: pedlar-of-swaffham
