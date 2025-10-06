@@ -118,7 +118,7 @@ It was the custom among other warlike nations to give names to their swords; but
 The original *Welsh* account of the above Regalia was transcribed from a transcript of Mr. *Edward Llwyd*, the Antiquary; who informs us that he copied it from an old parchment manuscript: and I have collated this with two other manuscripts.
 `````
 
-*Jones also records the triads, many triples of notable things (pp. 1-7), the seven wonder of North Wales (p. 50) *
+*Jones also records the triads, many triples of notable things (pp. 1-7), the seven wonder of North Wales (p. 50).*
 
 There is also a list of precious things of Britain in Brewer's *Reader's handbook of allusions, references, plots and stories* of 1890:
 
@@ -159,12 +159,11 @@ Thirteen Precious Things of Britain.
 
 ```
 
-In *The English and Scottish Popular Ballads*, 1884, a passing reference is made in notes on the ballad *The Boy and the Mantle* to the (drinking) *Horn of Bran Galad* and the *Knife of Llawfrodded Farchawg*. *(A passing mention is also made to *three Welsh rarities*, which are perhaps worth exploring elsewhere...)*
-
-damsel who had committed incontinence; but it would cover a chas
+In *The English and Scottish Popular Ballads*, 1884, a passing reference is made in notes on the ballad *The Boy and the Mantle* to the (drinking) *Horn of Bran Galad* and the *Knife of Llawfrodded Farchawg*. *(A passing mention is also made to *three Welsh rarities*, which are perhaps worth exploring elsewhere?)*
 
 ```{admonition} In *The English and Scottish Popular Ballads*, 1884
-:class: seealso
+:class: seealso dropdown
+
 https://archive.org/details/englishandscott09kittgoog/page/n22/mode/2up
 
 The English and Scottish Popular Ballads
@@ -179,6 +178,27 @@ If we may trust the author of The Welsh Bards, Tegau was the possessor of three 
 There is a drinking-horn among the Thirteen Precious Things of the Island of Britain, which, like the conjurer's bottle of our day, will furnish any liquor that is called for, and a knife which will serve four-and-twenty men at meat "all at once." `[The horn is No 4 in Jones's list, and No 5 in a manuscript of Justice Bosanquet; the knife is 13th in Jones and 6th in the other; the mantle of invisibility is 13th in the Bosanquet series, and, under the title of Arthur's veil or mask, 1st in Jones. The mantle of Tegau Eurvron does not occur in the Bosanquet MS. Jones says, "The original Welsh account of the above regalia was transcribed from a transcript of Mr Edward Llwyd, the antiquary, who informs me that he copied it from an old parchment MS. I have collated this with two other MSS." Not a word of dates. Jones's Welsh Bards, II, 47-49; Lady Charlotte Quest's Mabinogion, II, 353-55. Lady Charlotte Guest remarks that a boar's head in some form appears as the armorial bearing of all of Caradawc's name. Though most anxious to believe all that is raid of Caradawc, I am compelled to doubt whether this goes far to prove that he owned the knife celebrated in the ballad.]`
 
 ```
+
+Several of the wonders are remarked on as appearing populalry in European folk tales and fables. For example, in the Editor's preface to the *History Of English Poetry* of 1829:
+
+```{admonition} In *History Of English Poetry*, 1829
+:class: dropdown
+
+https://archive.org/details/historyofenglish0001thom/page/n75/mode/2up
+
+The History Of English Poetry from the Close of the Eleventh to the Commencement of the Eighteenth Century.
+
+
+by Thomas Warton B.D.
+
+Publication date 1824
+
+pp. 66-7
+
+A still more favourite ornament of popular fiction is the highly-gifted object, of whatever form or name, which is to supply the fortunate owner with the gratification of some particular wish, or to furnish him with the golden means of satisfying every want. In British fable this property has been given to the dish or napkin of Rhydderch the Scholar, which like the table, or table-cloth, introduced into a variety of German tales, no sooner received its master’s commands, than it became covered with a sumptuous banquet. The counterpart of Rhydderch’s dish is to be found in another British marvel, the horn of Bran, which spontaneously produced whatever liquor was called for: and a repetition of the same idea occurs in the goblet given by Oberon to Huon of Bourdeaux, which in the hands of a good man became filled with the most costly wine. In Fortunatus, and those tales which are either imitations of his adventures or copied from a common original, an inexhaustible purse is made to meet the demands of every occasion; while in others a bird, a tree, and even the human person, are made to generate in the same miraculous manner a daily provision of gold `[Mr. Gorres has observed, in speaking of Fortunatus, that the story of the goose which laida golden egg is only a variation of this prolific subject; and that the history of the world contains little more than a kind of Argonautic expedition after the same golden fleece. For the other particulars referred to in the text, see Kinder-und Haus-Märchen, No. 60. 122. 130.]`. A modification of the same idea is also found in the basket of Gwyddno, which no sooner received a deposit of food for one, than the gift became multiplied into a supply for a hundred ; or in those stories where the charity bestowed upon the houseless wanderer, is rewarded by an endless stock of some requisite article of subsistence `[See Der Arme und der Reiche, in MM. Grimm’s collection. The note on this story contains references to the same idea in the fictions of Greece, China, and India. It seems to have escaped these learned German antiquaries, that a much earlier notice of the same miraculous agency is to be found in the "widow's cruse" of the Old Testament, 2 Kings, chap. iv.]`.
+```
+
+Certainly, in the Ass, the Stick and the Tablecloth, it's not harsd to see features of the tablecloth of *Rhydderch the Scholar*.
 
 ## Further Notes on Magical Chessboards
 
