@@ -272,7 +272,7 @@ Now a'ter when they'd all eaten till they couldn't eat no moare, an' drunk most 
 
 ## The Tale of Bloody Baker
 
-In the August 25th, 1850, issue of *Notes and Queries*, ("When found, make a note of"), apreviously recorded legend of a certain Sir. Bloody Baker, was likened to the tale  of *Mr Fox*.
+In the August 25th, 1850, issue of *Notes and Queries*, ("When found, make a note of"), a previously recorded legend of a certain Sir. Bloody Baker, was likened to the tale of *Mr Fox*.
 
 ```{admonition} Resembling the story of Sir Richard "Bloody" Baker, August 1850
 :class: dropdown
