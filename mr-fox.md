@@ -366,3 +366,105 @@ Having restored to their rightful owner these red gloves— which, by-the-bye, a
 ```
 
 Whether or not there was any such legend, and whether or not F. L. truly believed it to be the case, the June 1850 article could well have added the tale to the canon of Kentish fol-lore, at least amongst the readership of *Notes and Queries*.
+
+## TO DO
+
+
+
+https://archive.org/details/sim_notes-and-queries_1886-10-23_2_43/mode/2up?q=bluebeard
+
+Notes and Queries  1886-10-23: Vol 2 Iss 43
+Publication date 1886-10-23
+
+pp321-3
+
+THE COUNT'S DAUGHTER,
+
+(See 6 8, x. 23.)
+
+Benedick. Like the old tale, my lord : it is not so, nor "twas not so; but, indeed, Heaven forbid it should be so. — Much Ado about Nothing,' I. i.
+
+Mr. W. Henry Jones, in his articles on the 'Magyar Folk-Tales,' narrates a story under the above title from Erdélyi's collection, a German version of which will be found in extenso in Stier's ' Ungarische Sayen und Mirchen' (Berlin, 1850), p. 45 ; and in a note he avers a distinct recollection of a similar story told bim in his childhood by bis grandmother, and then said to be a Northumbrian legend. The tale to which Mr. Jones thus refers is the same as that alluded to by Benedick in the passage quoted above. It is one of the very few “ mirchen ” distinctly traceable in English folk-lore, and is known as ' Mr. Fox.' It will be found at length in the works noted below.* A parallel German story given by Grimm from Lower Hesse is mentioned by Mr. Jones in a note. This variant is to the following effect. A wmiller's daughter is betrothed to a suitor, who appears to be rich but inspires her
+
+* Halliwell's 'Popular Rhymes and Nursery Tales,' p. 47; Chambers's ' Book of Days,' vol. i. p, 291. translator's note in Miss Hunt's version of Grimm's * Household Tales,' vol. i. p.389, Both the latter appear to be derived from Halliwell,
+
+321
+
+with no confidence, He asks her to pay him a visit at his house in the forest, and, to show her the way, strews ashes to mark the path. On the following Sunday, according to appointment, she makes her way to the house, strewing peas and lentils as she goes, that she may not fail to find the path back. Arrived at the house, in the darkest and thickest part of the forest, she finds it silent and apparently empty; but a bird ina cage on the wall warns her :— Turn back, turn back, young maiden dear, 'Tis a murderer's house you enter here,
+
+At last she finds in the cellar an old woman, who tells her that she is in a murderer's den, and she will be killed and eaten. To save her from this fate the crone hides her behind a great hogshead. From this hiding place she watches the robbers come in with another young girl, whom they put to death and cut up. As one of them chops off her finger to get a gold ring from it the finger springs up over the cask and falls into the heroine's bosom ; but the robber is dissuaded by the old woman from troubling to find it then, and they sit down to eat. The woman drugs their wine, and while they sleep she and the maiden escape. The wind has in the mean time blown away the ashes from their path, but the peas and lentils have taken root and sprung up, and by means of these they are guided home. The wedding day comes, and each guest has to tell a tale. The bride, in her turn, relates what she has seen as if it were adream. At every pause she turns to the bridegroom and says, “ My darling, I only dreamt this!” After describing the cutting off of the finger, she suddenly produces it, “ And here is the finger with the ring!” The robber, who has become pale as ashes, leaps up and tries to escape, but is caught by the guests and handed over to justice ; and he and his crew are executed for their misdeeds.
+
+I have not had an opportunity of comparing the variants to which Grimm refers in his note, except in one case. This I shall mention by-and-by. Meanwhile, let me observe that other variants have since been recorded. Birlinger* gives a Swabian tale, in which a knight's daughter, going daily to a chapel, meets a knight, who makes her acquaintance and is invited to her mother's house. In return he invites her to his own castle on an appointed day. She determines to visit it beforehand alone. It stands empty, and after searching upstairs and downstairs she finds a room wherein is a block with an axe and everything spattered with blood, as if a murder had been freshly committed. Seeing a trap-door, she lifts it and descends—to discover below a woman's body with the head and right hand cut off. While there she
+
+* 'Volksthiimliches aus Schwaben,' story No, 594, vol. i, p, 372,
+
+
+hears another murder committed above, and the body is thrown down the trap. She overhears the knight tell his servant that only one more was wanted, and she was coming to-morrow. While the servants sleep she escapes, taking the ring off the hand of the dead body. After reaching home she invites a party of friends, and the knight among them. She proposes to them that each one should tell his latest dream. When her turn comes, she relates what she saw in the knight's castle. The knight laughs at first, and says, '' Dreams are froth ; it is quite otherwise at my castle.” But she goes on, and at length pulls out the ring. He is confounded. The other guests spring up, and, seizing him, hand him over to the officers who are waiting ; and he is beheaded for his crimes.
+
+In this tale the knight's remark to his servant suggests that the reason of these murders was some magical purpose. There is no hint of the cannibalism of Grimm's story and of that which I am about to cite; and, indeed, the requirement of a certain number of maidens would be inconsistent with such a design. M. Carnoy,* however, obtained from Lorraine 4 story in which the motive for the murders is frankly imputed to the desire to eat the bodies. It does not differ widely from the variants abstracted above, except that there are three maidens, a peasant's daughters, and three cavaliers to whom they are betrothed. Catherine, the eldest of the sisters, is invited to dine on Sunday at the castle belonging to these lovers, She sets out, accordingly, but an owl on an apple tree by the wayside warns her—
+
+Catherine, Catherine, thou art wrong, Thou 'rt marching swiftly to death along ! The owl follows her, flitting from tree to tree and repeating the same words, until she is fairly frightened and turns back. Marie, the second sister, then starts in her place, but is driven back in the same manner. Toinette, the youngest, pursues the adventure to its end, despite the warnings of ten owls, The castle is described as covered with plates of gold and silver, which shone in the sun, and surrounded with unknown trees and extraordinary flowers. Toinette, hidden in the cellar, witnesses the unnatural banqnet, hears the ruffians regret that her sister has failed them, picks up a finger which has been cut off and which still bears a ring, and contrives to escape with this evidence. A week after, when the lovers come to see them, Toinette calmly tells them what she has seen. They pretend to laugh, saying, ** Your story is very well told; but is it true? | Have you any proof? And have you not been | dreaming?” “I have only this proof,” she replies, pulling out the finger and the ring; “and the three brigands were no other than yourselves.”
+
+* “Contes Francais,' story No, 31, p. 203.
+
+A variant coming from a village near Besancon, in Franche-Comté, differs only in the commencement, where the three maidens meet the cavaliers as they come from mass, and accompany them home, where they are invited to dine. They refuse, save on condition that one of the girls will in return visit them at their castle. The two elder refuse, but the youngest accepts.
+
+Grimm seems to consider his tale as a variant of the Bluebeard myth; and the only one of the parallels to which he refers and which I have been able to examine is undoubtedly so. It is given by Meier in his 'Deutsche Volksmarchen aus Schwaben'; and the reader will find its substance in my article on ' The Forbidden Chamber' in the Folk-lore Journal, vol. iii, p. 207. A Dutch story, also, treated by Grimm as a variant of 'Fitcher's Bird,'* has some resemblance to the story of 'Mr. Fox.' In it a shoemaker's three daughters are successively stolen by a stranger in a splendid carriage. The third, after examining all the treasures of the castle in his absence, opens the cellar door, where she finds an old woman '* scraping guts,” who threatens to scrape hers tomorrow. In her terror the girl drops the key into a basin of blood. “ Now,” says the hag, “ your death is certain ; because my lord will see by that key that you have been in this chamber, which no one is allowed to enter but himself and I.” But she takes pity on the girl, and advises her to get into a hay-cart which is just leaving the castle laden with hay. She does so, and takes refuge at a neighbouring castle. On her captor's return the old woman makes him believe she has butchered the heroine, showing him a lock of hair and a heart in proof, and declaring that the dogs have eaten the rest, except the intestines, which she is still scraping. A feast is given at the castle where the heroine has taken refuge, and her captor, among others, is invited. The guests tell tales, and she in her turn relates her own history. Her captor is seized and executed. She succeeds to his wealth, and marries the son of the lord of the castle whither she had fled.
+
+Now, putting aside the mere mention of blood and such-like horrors, the one point of similarity between this tale and that of 'The Count's Daughter, or ' Mr. Fox' is the concluding scene of the tale-telling. And on this it must be observed that the solution of the plot of many a folk-tale is brought about by the device of telling tales at a great gathering ; nor could any device seem more natural than this to the audience, however farfetched it may appear tous. Moreover, the narration is perpetually interrupted in ' Mr. Fox' and most of its congeners by exclamations on the purt of the narrator or of the villain, in a formula in-
+
+* 'Kinder und Hausmiirchen' (Giittingen, 1856), vol. iii, p. 75. Miss Hunt's English version, vol. i,
+
+| p. 396.
+
+~~ - @ wo
+
+
+36,
+
+gon, ncejiers hem ' Tewill two
+
+it of the een 1 by aus uber' itch
+
+of the ree rin all ens nan tonto our hat no Sut get 'tle 'at the red la ive is ere or, es, ler to the
+
+od ty t's of ed is a re ira. nd rt n-
+
+6), i,
+
+7 8, IL. Ocr, 23, '86.]
+
+NOTES AND QUERIES.
+
+323
+
+tended to allay the suspicions of the company up to the moment when the final and damning proof is produced. 'The Count's Daughter,' indeed, omits this striking detail, though it represents the ruffians as taking part in the conversation ; but the incident is assuredly absent from the Dutch story just cited. Much stress need not be laid on this absence, for a claim to any organic connexion between ' Bluebeard' and ' Mr. Fox' must rest upon a broader ground than this concluding scene in one variant. 'The case for such a connexion would probably be based on the wooing of an innocent maiden by a murderer and the deeds of blood performed in his den. been what Grimm had in his mind. ' Bluebeard,' however, belongs to a class of stories whose central thought is a taboo ; and the utter want of the taboo, either express or implied, in the group now under consideration would put this contention out of court. Yet it may be worthy of inquiry whether 'Mr. Fox' and the rest may not have developed independently from a germ common to them and 'The Forbidden Chamber.' Such a germ might, perhaps, be a story like that of 'The Man possessed with a Na,' told among the Karens, or the Swabian tale of 'The Robber and the Miller's Twelve Daughters' (both of which I have abstracted in the article before referred to), or some of the variants of 'Lady Isabel and the Elf-Knight,' given by Prof. Child in ' The English and Scottish Popular Ballads,' pt. i. p. 22. Let me suggest this query to folk-lore students interested in the subject. E. Sidney Hartianp. Swansea
+
+
+https://archive.org/details/sim_notes-and-queries_1884-07-12_10_237/mode/2up?q=%22count%27s+daughter%22
+Notes and Queries  1884-07-12: Vol 10 Iss 237
+Publication date 1884-07-12
+
+MAGYAR FOLK-TALES. (Continued from 6 8, ix. 503.)
+
+
+...
+
+These may be taken as fair samples of witch stories as told amid the Magyar people, the “iron nose” or iron teeth being inseparably connected with the witches. Some of the stories are full of wild and blood -curdling scenes, Such is “The Count's Daughter,”t wherein the heroine—who was sought after by all the marriageable men in the country—for the fame of her beauty and wealth was known from '' Henczida to Bonczida.” Amongst other suitors were three sons of a count, who dwelt in a castle in the wood, and appeared to be immensely wealthy, though no one knew where the money came from. These young men were continually at the castle, and were very anxious to persuade the young lady to visit them, but she would not. One day she wandered away in the wood, and came to a magnificent castle. Crossing the courtyard, she went up the marble steps, one hundred in number, but there was not a soul to be seen. Waen she came to the landing a parrot cried, “ Girl, beware!” but the girl was so dazzled by the splendour that she went on up another hundred steps, seeing fresh wonders at every turn, but no living thing. At last she opened a door on the landing, and found that it led into a magnificent room with three beds in it; this she felt sure was the room of the three young men. Going on, she found the next room full of all sorts of weapons ; beyond that was a great hall, crowded with every conceivable kind of dress, military, clerical, civilian, &c., also piles of female robes. Going still further, she found a female figure made of razors, that stood with open arms over a fearful
+
+Vide 'ante
+
++ Cf. Yorkshire and Lincolnshire superstition that it destroys the power of a witch if you draw blood. A lady told me that she had heard of a case where a farmer, not being able to drive his horses past a certain cottage, got down from his waggon and went and thrashed the old woman till the blood came, when the horses at once went on their way. See also Sykes's /ocal Mecords
+
+of Newcastle-upon-Tyne, under March 26,1649, where it was regarded as a certain sign that a woman was a witch if the blood did not come when a pin was thrust into her. The same superstition occurs in the Lapp tales, €.g-. The Goveiter Girls” from Nesseby, “The Ults Girl,” “ The Sun's Sister,”
+
+t i ii,
+
+Terom aby ers, we, Iry. oral ese as the ble od; | has i
+
+
+dark hole. Horror-stricken she fled back. When she got as far as the bed-room she heard the sound of male voices, and in her terror she crept under one of the beds. Just then the door opened and the count's three sons came in, carrying with them a beautiful girl, a great friend of the trembling maid under the bed. The men stripped their captive, aud as they could not get her diamond ring from her finger they chopped it off, and the little finger rolled under the bed where the rich girl was hidden. One of the men began to look for it, but ceased upon being reminded that he could find it afterwards. The poor captive was then taken to the next room, and in a moment the razor figure clasped its arms and the girl's mangled remains fell into the deep hole. Upon their return they put off till the morning their search for the ring, and went to bed. The hidden girl waited till they slept, and, secreting the finger in her dress, crawled out of the room and fled. Next day the three brothers came as usual on a visit to the countess and her daughter. The daughter then told of a remarkable dream she had had, describing all she had gone through the night before. The men's suspicions were aroused, and when the girl produced the bleeding finger with the ring upon it, they cried out, “' We are betrayed,” and fled ; but servants were all around, and they were seized, tried, and beheaded as a punishment for their numberless horrible deeds. `[I have a distinct recollection of a tale that my grand- | mother used to tell me when a child, the plot of which | was the same as in this story. It was then said to be a Northumbrian legend. The same story also occurs in Danish, German, and Dutch tales. Cf. Grimm, x],]`
+
+...
+W. Henry Jones.
+
