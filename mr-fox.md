@@ -125,7 +125,9 @@ When I saw the hole the fox did make.
 When the two men who had intended to murder the girl heard this they ran out of the house.
 ```
 
-By way of comparison, consider this telling of Bluebeard, from 1846. I don't find it satisfying at all, and would never consider telling it this way:
+## Related Tales
+
+By way of comparison, consider this original telling of Bluebeard, from 1846. I don't find it satisfying at all, and would never consider telling it this way:
 
 ```{admonition} The popular story of Blue Beard, or, Female curiosity, 1846
 :class: dropdown
@@ -367,8 +369,12 @@ Having restored to their rightful owner these red gloves— which, by-the-bye, a
 
 Whether or not there was any such legend, and whether or not F. L. truly believed it to be the case, the June 1850 article could well have added the tale to the canon of Kentish folk-lore, at least amongst the readership of *Notes and Queries*.
 
-## Bluebeard
+## The History of Bluebeard
 
+A few years later, another query to provided to *Notes & Queries* focussed on the origins of the Blue Beard tale.
+
+```{admonition} The original Blue Beard, July 1855
+:class: dropdown
 
 https://archive.org/details/sim_notes-and-queries_1855-07-28_12_300/page/66/mode/2up
 Notes and Queries  1855-07-28: Vol 12 Iss 300
@@ -378,9 +384,14 @@ p. 66
 *Blue Beard.*—Can any of your correspondents kindly inform me who Blue Beard was? Any information on the subject will oblige. *Easby.*
 
 [The original Blue Beard was Giles de Laval, Lord of Raiz, who was made Marshal of France in 1429, and in the reigns of Charles VI. and VII. distinguished himself by his courage against the English when they invaded France. The services that he rendered his country might have immortalised his name, had he not for ever blotted his glory by murders, impieties, and debaucheries. Mezeray says that he encouraged and maintained sorcerers to discover hidden treasures, and corrupted young persons of both sexes, that he might attach them to him, and afterwards killed them for the sake of their blood for his charms and incantations. At length, for some state crime against the Duke of Brittany, he was sentenced to be burnt alive in a field at Nantes in 1440. Holinshed notices another Blue Beard in the reign of Henry VI., anno 1450. Speaking of the committal of the Duke of Suffolk to the Tower, he says, "This doing so much displeased the people, that if politike provision had not been made, great mischief had immediately ensued. For the commons in sundry places of the realm assembled together in great companies, and chose to them a captain, whom they called Blue Beard; but ere they had attempted any enterprise, their leaders were apprehended, and so the matter pacified without any hurt committed."]
+```
 
+The editor's response seems to provide the basis for the definition of the tale in Chambers' Enclyclopedia.
 
-https://archive.org/details/chamberssencycl62unkngoog/mode/2up?q=%22Giles+de+Laval%22
+```{admonition} In Chambers' Encyclopedia, 1868
+:class: dropdown
+
+https://archive.org/details/chamberssencycl62unkngoog/mode/2up
 Chambers's encyclopædia, Volume II
 Publication date 1868
 
@@ -389,7 +400,12 @@ p170
 BLUE BEARD, the name given to the hero of a well-known tale of fiction, which is of French origin. According to this romance, the Chevalier Raoul has a blue beard, from which he gets his designation. This personage tests his wife's curiosity by intrusting her, during his absence on a journey, with the Key of a chamber, which she is forbidden to enter. She is unable to stand the test, and he puts her to death. Several wives share the same fate but at length the seventh is rescued at the last moment by her brothers, and B. is slain. The tale appears in innumerable collections, under various forms. Tieck, in his *Phantasus*, has worked up this material into a clever drama, with numerous romantic and satirical additions, and Grétry has made use of it in his opera of *Raoul*.
 
 The historic crimnal of Chevalier Raoul would appear to be one Giles de Laval, Lord of Raiz, who was made marshal of France in 1429, and fought valiantly in defence of his country when invaded by the English; but his cruelty and wickedness seem to have eclipsed even his bravery, as he is remembered chiefly for his crimes, which credulous tradition has painted in the blackest and most fearful colours. He is said to have taken a pleasure, among other atrocities, in corrupting young persons of both sexes, and afterwards in murdering them for the sake of their blood, which he used m his diabolical incantations. Out of this fact, in itself probably half-mythical, the main feature of the tale of B. has probably grown. Laval was burnt alive in a field near Nantes, in 1440, on account of some state-crime against the Duke of Brittany.
+```
 
+A more comprehensive history is provided in Chamber's *Book of Days*:
+
+```{admonition} In *The Book of Days*, 1888
+:class: dropdown
 
 https://archive.org/details/bookofdaysmiscel02cham_2/mode/2up
 
@@ -417,7 +433,12 @@ Even at this stage we do not recognise in Giles de Retz what the world would cal
 Probably on account of some personal peculiarity, Giles de Laval became remembered as *Barbe-bleue*, whence our *Bluebeard*. It seems to have speedily become a name of terror; for Holinshed, speaking of the committal of the Duke of Suffolk to the Tower, in the reign of Henry VI., says: 'This doing so much displeased the people, that if politic provision had not been made, great mischief had immediately ensued. For the commons, in sundry places of the realm, assembled together in great companies, and chose to them a captain, whom they called *Bluebeard*; but ere they had attempted any enterprise, their leaders were apprehended, so that the matter was pacified without any hurt committed.'
 
 As to the children's *Bluebeard*, it was written by Perrault in the time of Louis XIV., and has been translated from the French into nearly all the languages of Europe. This Bluebeard's propensity is not to kill children, but to marry wife after wife in succession, kill them, and deposit them in the fatal closet which curiosity would not leave untouched. We all know how another victim was saved, and how *Bluebeard* met his death.
+```
 
+A description of "the original Blue Beard" in  Doran's *Knights and their days*, 1890, is preceded by another grisly tale of a bad-tempered knight which to my mind has echoes of the historical tale behind the song *"The Raggle Taggle Gypsy"*, and the tragedy of Lady Jean Hamilton.
+
+```{admonition} A strong reaction to a wife's perceived unfaithfulness, 1890
+:class: dropdown seealso
 
 https://archive.org/details/knightstheirdays00dora/page/36/mode/2up
 Knights and their days
@@ -432,6 +453,10 @@ pp57-9
 This celebrated personage, famous by his pseudonym, was not less so in his own proper person. There was not a braver knight in France, during the reigns of Charles VI. and VII., than this Marquis de Laval, Marshal of France. The English feared him almost as much as they did the Pucelle. The household of this brave gentleman was, however, a hell upon earth; and licentiousness, blasphemy, attempts at sorcery, and, more than attempts at, very successful realizations of, murder were the little foibles of this man of many wives. He excelled the most extravagant monarchs in bis boundless profusion, and in tbe barbaric splendor of his court or house: the latter was thronged with ladies of very light manners, players, mountebanks, pretended magicians, and as many cooks as Julian found in the palace of his predecessor at Constantinople. There were two hundred saddle-horses in his stable, and he had a greater variety of dogs than could now be found at any score of "fanciers" of that article. He employed the magicians for a double purpose. They undertook to discover treasures for his use, and pretty handmaids to tend on his illustrious person, or otherwise amuse him by the display of their accomplishments. Common report said that these young persons were slain after a while, their blood being of much profit in making incantations, the object of which was the discovery of gold. Much exaggeration magnified his misdeeds, which were atrocious enough in their plain, unvarnished infamy. At length justice overtook this monster. She did not lay hold of him for his crimes against society, but for a peccadillo which offended the Duke of Brittany. Giles de Laval, for this offence, was burnt at Nantes, after being strangled — such mercy having been vouchsafed to him, because he was a gallant knight and gentleman, and of course was not to be burnt alive like any petty villain of peasant degree. He had a moment of weakness at last, and just previous to the rope being tightened round his neck, he publicly declared that he should never have come to that pass, nor have committed so many excesses, had it not been for his wretched education. Thus are men, shrewd enough to drive bargains, and able to discern between virtue and vice, ever ready, when retribution falls on them at the scaffold, to accuse their father, mother, schoolmaster, or spiritual pastor. Few are like the knight of the road, who, previous to the cart sliding from under him, at Tyburn, remarked that he had the satisfaction, at least, of knowing that the position he had attained in society was owing entirely to himself. "May I be hanged," said he, "if that isn't the fact." The finisher of the law did not stop to argue the question with him, but, on cutting him down, remarked, with the gravity of a cardinal before breakfast, that the gentleman had wronged the devil and the ladies, in attributing his greatness so exclusively to his own exertions.
 
 I have said that perhaps Blue-Beard's little foibles have been exaggerated; but, on reflection, I am not sure that this pleasant hypothesis can be sustained.
+```
+
+```{admonition} Origins of Blue Beard, Revisited in N&Q, January, 1871
+:class: dropdown
 
 https://archive.org/details/sim_notes-and-queries_1871-01-14_7_159/mode/2up?q=bluebeard
 Notes and Queries  1871-01-14: Vol 7 Iss 159
@@ -446,12 +471,17 @@ BLUEBEARD: ORIGIN OF THE STORY.
 The story of Bluebeard forms one of a collection of the popular nursery tales of France for which we are indebted to Perrault. How far he preserved the exact form in which these tales must have been related to him by some old crone, it is, of course, impossible at the present time to say. It has been asserted that the story is founded on the atrocities imputed to a certain Gilles de Retz, or de Raiz, Sieur de Laval `[See "N. & Q." 1st S. xii. 66.—Ed.]`, who lived in the reign of Charles VII. of France; but the enormities of which this nobleman is said to been guilty bear but little resemblance to the crimes of our hero of the nursery. An incident related in the life of S. Gildas, Abbot of Rhuys, in Brittany, in the sixth century, comes much nearer to the tale which interested us so much in our childish days. A certain Count Conomor was fond of matrimony, but was not desirous of being troubled with the consequences; so whenever his wife gave signs of being likely to become a mother, he made away with her. He was a widower for the fourth, or as some say for the seventh, time, when he sought the hand of Triphyna, daughter of Count Guerech, of Vannes, a young lady of great beauty, who had been educated under the eye of S. Gildas. Both the father and daughter would willingly have declined the proffered honour, but Count Conomor, who was Childebert’s lieutenant in Brittany, and had powerful friends at court, insisted in his suit, and gave it to be understood that if his demand were not acceded to he was quite ready to enforce it at the point of the sword. S. Gildas, wishing to avert a disastrous war, undertook to intercede, and was successful in bringing about the desired alliance, on the condition, however, that if Conomor should get tired of his wife he should send her back to her father. The wedding was kept at Vannes with great pomp, and Conomor carried off his bride to his own castle, but before many months had elapsed, the countess, who was far advanced in her pregnancy, perceived that her husband’s manner towards her was entirely changed, and, fearing the fate of his former wives, resolved to take refuge with her father. Watching her opportunity, she mounted one morning on a fleet horse, and, accompanied by a few faithful followers, galloped off in the direction of Vannes. Her husband was informed of her flight, and pursued her. As he gained upon her, and she perceived that her capture was almost inevitable, she threw herself from her horse and endeavoured to conceal herself in the deep recesses of a forest, but she was discovered by her brutal lord, who, with one stroke of his sword, severed her head from her body. S. Gildas, on being informed of what had happened, hastened to the spot, replaced the head on the body, and by his prayers restored the lady to life. She was shortly afterwards safely delivered of a son, who was baptised by S. Gildas, and called by his name, to which, by way of distinction, was afterwards added that of Trech-meur or Tremeur. Such is the legend as told by the Breton hagiographers Père Albert le Grand and Dom Gui-Alexis Lobineau. But now comes a fact. as related by M. Hippolyte Violeau, in a work entitled *Pélerinagen de Bretagne*, which renders it almost certain that Perrault’s tale is founded on the legend. He says that in January, 1850, in repairing the vault of the chapel of S. Nicolas-de-Bieuzy, some ancient frescoes were discovered with scenes from the life of S. Triphyna: the marriage—the husband taking leave of his wife, and entrusting a key to her—a room with an open door, through which are seen the corpses of seven women hanging—the husband threatening his wife while another female is looking out of a window above—and finally, in the last picture, when the husband has placed a halter round the neck of his victim, the opportune arrival of her friends, accompanied by S. Gildas. If these frescoes are really of the early date assigned to them, they probably represent the popular form of the legend, with some additional incidents which have not been thought worthy of record by the hagiographers, and there can be no doubt whence the nursery tale derives its origin.
 
 Guernsey, Edgar MacCulloch
+```
 
+## *The Count's Daughter*
 
+In the July 12th, 1884, issue of *Notes & Queries*, in an article on *"Magyar Folk-Tales"*, W. Henry Jones recorded, amongst other tales, one in particular called *"The Count's Daughter"*.
 
-https://archive.org/details/sim_notes-and-queries_1884-07-12_10_237/mode/2up?q=%22count%27s+daughter%22
+```{admonition} Magyar Folk-Tales, July 1884
+:class: dropdown
+
+https://archive.org/details/sim_notes-and-queries_1884-07-12_10_237/mode/2up
 Notes and Queries  1884-07-12: Vol 10 Iss 237
-
 
 MAGYAR FOLK-TALES. (Continued from 6th S. ix. 503.)
 
@@ -464,23 +494,25 @@ These may be taken as fair samples of witch stories as told amid the Magyar peop
 ...
 
 W. Henry Jones.
+```
 
+A couple of years later, folklorist E. Sidney Hartland likened *The Count's Daughter"* to *Mr. Fox*.
 
+```{admonition} E. S. Hartland on "The Count's Daughter", 1886.
+:class: dropdown
 
-https://archive.org/details/sim_notes-and-queries_1886-10-23_2_43/mode/2up?q=bluebeard
-
+https://archive.org/details/sim_notes-and-queries_1886-10-23_2_43/mode/2up
 Notes and Queries  1886-10-23: Vol 2 Iss 43
-Publication date 1886-10-23
 
 pp321-3
 
-THE COUNT'S DAUGHTER,
+THE COUNT'S DAUGHTER.
 
 (See 6th S. x. 23.)
 
 *Benedick.* Like the old tale, my lord: it is not so, nor 'twas not so; but, indeed, Heaven forbid it should be so. — 'Much Ado about Nothing,' I. i.
 
-Mr. W. Henry Jones, in his articles on the 'Magyar Folk-Tales,' narrates a story under the above title from Erdélyi's collection, a German version of which will be found *in extenso* in Stier's 'Ungarische Sayen und Märchen' (Berlin, 1850), p. 45; and in a note he avers a distinct recollection of a similar story told him in his childhood by his grandmother, and then said to be a Northumbrian legend. The tale to which Mr. Jones thus refers is the same as that alluded to by Benedick in the passage quoted above. It is one of the very few "märchen" distinctly traceable in English folk-lore, and is known as 'Mr. Fox.' It will be found at length in the works noted below. `[Halliwell's 'Popular Rhymes and Nursery Tales,' p. 47; Chambers's 'Book of Days,' vol. i. p, 291. A translator's note in Miss Hunt's version of Grimm's 'Household Tales,' vol. i. p.389, Both the latter appear to be derived from Halliwell.]` A parallel German story given by Grimm from Lower Hesse is mentioned by Mr. Jones in a note. This variant is to the following effect. A wmiller's daughter is betrothed to a suitor, who appears to be rich but inspires her with no confidence, He asks her to pay him a visit at his house in the forest, and, to show her the way, strews ashes to mark the path. On the following Sunday, according to appointment, she makes her way to the house, strewing peas and lentils as she goes, that she may not fail to find the path back. Arrived at the house, in the darkest and thickest part of the forest, she finds it silent and apparently empty; but a bird ina cage on the wall warns her:—
+Mr. W. Henry Jones, in his articles on the 'Magyar Folk-Tales,' narrates a story under the above title from Erdélyi's collection, a German version of which will be found *in extenso* in Stier's 'Ungarische Sayen und Märchen' (Berlin, 1850), p. 45; and in a note he avers a distinct recollection of a similar story told him in his childhood by his grandmother, and then said to be a Northumbrian legend. The tale to which Mr. Jones thus refers is the same as that alluded to by Benedick in the passage quoted above. It is one of the very few "märchen" distinctly traceable in English folk-lore, and is known as 'Mr. Fox.' It will be found at length in the works noted below. `[Halliwell's 'Popular Rhymes and Nursery Tales,' p. 47; Chambers's 'Book of Days,' vol. i. p. 291. A translator's note in Miss Hunt's version of Grimm's 'Household Tales,' vol. i. p.389, Both the latter appear to be derived from Halliwell.]` A parallel German story given by Grimm from Lower Hesse is mentioned by Mr. Jones in a note. This variant is to the following effect. A wmiller's daughter is betrothed to a suitor, who appears to be rich but inspires her with no confidence, He asks her to pay him a visit at his house in the forest, and, to show her the way, strews ashes to mark the path. On the following Sunday, according to appointment, she makes her way to the house, strewing peas and lentils as she goes, that she may not fail to find the path back. Arrived at the house, in the darkest and thickest part of the forest, she finds it silent and apparently empty; but a bird ina cage on the wall warns her:—
 
 Turn back, turn back, young maiden dear,  
 'Tis a murderer's house you enter here.
@@ -500,14 +532,17 @@ A variant coming from a village near Besançon, in Franche-Comté, differs only 
 
 Grimm seems to consider his tale as a variant of the Bluebeard myth; and the only one of the parallels to which he refers and which I have been able to examine is undoubtedly so. It is given by Meier in his 'Deutsche Volksmarchen aus Schwaben'; and the reader will find its substance in my article on 'The Forbidden Chamber' in the *Folk-lore Journal*, vol. iii, p. 207. A Dutch story, also, treated by Grimm as a variant of 'Fitcher's Bird,' `['Kinder und Hausmarchen' (Göttingen, 1856), vol. iii, p. 75. Miss Hunt's English version, vol. i, p.396.]` has some resemblance to the story of 'Mr. Fox.' In it a shoemaker's three daughters are successively stolen by a stranger in a splendid carriage. The third, after examining all the treasures of the castle in his absence, opens the cellar door, where she finds an old woman "scraping guts," who threatens to scrape hers tomorrow. In her terror the girl drops the key into a basin of blood. "Now," says the hag, "your death is certain; because my lord will see by that key that you have been in this chamber, which no one is allowed to enter but himself and I." But she takes pity on the girl, and advises her to get into a hay-cart which is just leaving the castle laden with hay. She does so, and takes refuge at a neighbouring castle. On her captor's return the old woman makes him believe she has butchered the heroine, showing him a lock of hair and a heart in proof, and declaring that the dogs have eaten the rest, except the intestines, which she is still scraping. A feast is given at the castle where the heroine has taken refuge, and her captor, among others, is invited. The guests tell tales, and she in her turn relates her own history. Her captor is seized and executed. She succeeds to his wealth, and marries the son of the lord of the castle whither she had fled.
 
-Now, putting aside the mere mention of blood and such-like horrors, the one point of similarity between this tale and that of 'The Count's Daughter, or 'Mr. Fox' is the concluding scene of the tale-telling. And on this it must be observed that the solution of the plot of many a folk-tale is brought about by the device of telling tales at a great gathering; nor could any device seem more natural than this to the audience, however farfetched it may appear to us. Moreover, the narration is perpetually interrupted in 'Mr. Fox' and most of its congeners by exclamations on the part of the narrator or of the villain, in a formula intended to allay the suspicions of the company up to the moment when the final and damning proof is produced. 'The Count's Daughter,' indeed, omits this striking detail, though it represents the ruffians as taking part in the conversation; but the incident is assuredly absent from the Dutch story just cited. Much stress need not be laid on this absence, for a claim to any organic connexion between 'Bluebeard' and 'Mr. Fox' must rest upon a broader ground than this concluding scene in one variant. 'The case for such a connexion would probably be based on the wooing of an innocent maiden by a murderer and the deeds of blood performed in his den. This, at least, seems to have been what Grimm had in his mind. 'Bluebeard,' however, belongs to a class of stories whose central thought is a *taboo*; and the utter want of the *taboo*, either express or implied, in the group now under consideration would put this contention out of court. Yet it may be worthy of inquiry whether 'Mr. Fox' and the rest may not have developed independently from a germ common to them and 'The Forbidden Chamber.' Such a germ might, perhaps, be a story like that of 'The Man possessed with a Na,' told among the Karens, or the Swabian tale of 'The Robber and the Miller's Twelve Daughters' (both of which I have abstracted in the article before referred to), or some of the variants of 'Lady Isabel and the Elf-Knight,' given by Prof. Child in ' The English and Scottish Popular Ballads,' pt. i. p. 22. Let me suggest this query to folk-lore students interested in the subject.
+Now, putting aside the mere mention of blood and such-like horrors, the one point of similarity between this tale and that of 'The Count's Daughter, or 'Mr. Fox' is the concluding scene of the tale-telling. And on this it must be observed that the solution of the plot of many a folk-tale is brought about by the device of telling tales at a great gathering; nor could any device seem more natural than this to the audience, however farfetched it may appear to us. Moreover, the narration is perpetually interrupted in 'Mr. Fox' and most of its congeners by exclamations on the part of the narrator or of the villain, in a formula intended to allay the suspicions of the company up to the moment when the final and damning proof is produced. 'The Count's Daughter,' indeed, omits this striking detail, though it represents the ruffians as taking part in the conversation; but the incident is assuredly absent from the Dutch story just cited. Much stress need not be laid on this absence, for a claim to any organic connexion between 'Bluebeard' and 'Mr. Fox' must rest upon a broader ground than this concluding scene in one variant. 'The case for such a connexion would probably be based on the wooing of an innocent maiden by a murderer and the deeds of blood performed in his den. This, at least, seems to have been what Grimm had in his mind. 'Bluebeard,' however, belongs to a class of stories whose central thought is a *taboo*; and the utter want of the *taboo*, either express or implied, in the group now under consideration would put this contention out of court. Yet it may be worthy of inquiry whether 'Mr. Fox' and the rest may not have developed independently from a germ common to them and 'The Forbidden Chamber.' Such a germ might, perhaps, be a story like that of 'The Man possessed with a Na,' told among the Karens, or the Swabian tale of 'The Robber and the Miller's Twelve Daughters' (both of which I have abstracted in the article before referred to), or some of the variants of 'Lady Isabel and the Elf-Knight,' given by Prof. Child in 'The English and Scottish Popular Ballads,' pt. i. p. 22. Let me suggest this query to folk-lore students interested in the subject.
 
 E. Sidney Hartland. Swansea.
+```
 
+With Hartland having called out a variant of *Fitcher's Bird,* as having some resemblance to *Mr. Fox*, the note referred to in Hunt's translation of *Grimm's household tales*  a couple of years earlier likens *Fitcher's Bird* to *Bluebeard*.
 
+```{admonition} Visibly containing the saga of *Bluebeard*, 1884
+:class: dropdown
 
 https://archive.org/details/grimmshouseholdt01grim/page/394/mode/2up
-
 Grimm's household tales: with the author's notes.
 by Grimm, Jacob, 1785-1863; Grimm, Wilhelm, 1786-1859; Hunt, Alfred William, Mrs., 1831-1912; Lang, Andrew, 1844-1912
 
@@ -532,7 +567,14 @@ myn paardtjes lope zo snel,
 soete liefje, rouwt 't w niet?") `[This recals the well-known song of the dead rider, which in the Norwegian popular rhyme runs, "maanen skine, dömand grine, värte du ikke räd (Idunna, 1812, p. 60). Compare Altdeutsche Blätter, i. 194.]`
 
 "No," she answered, "why should I repent? I am always safe when with you;" nevertheless she was secretly alarmed. They came into a great forest, and she asked if they would soon reach the end of their journey. "Yes," he replied, "Dost thou see that light in the distance, there stands my castle." Then they arrived there and everything was most beautiful. Next day he said to her, "I must go away, but I will only be absent two days; here are the keys of the entire castle, and thou mayst see of what kind of treasures thou art the mistress." When he had set out on his journey, she went through the whole house and found everything so beautiful that she was perfectly satisfied. At length she came to a cellar wherein sat an old woman scraping intestines. "Well, little mother, what may you be doing?" said the girl. "I am scraping intestines, my child; to-morrow, I will scrape yours for you." Thereupon the girl was so terrified that she let the key which she was holding in her hand fall into a basin full of blood, which it was not easy to wash off again. "Now," said the old woman, "Your death is certain, because my lord will see by that key that you have been in this chamber, into which no one is permitted to enter except himself and me." Then the old woman perceived that at this very moment a cart of hay was going to be driven away from the castle, and said, "If thou wonld'st save thy life, hide thyself in the hay, and then thou wilt be driven away with it." This she did, and got safely out. AVhen the lord came home however, he asked for the girl. " O," said the old woman, "I had no more work, and as it had to be done tomorrow anyhow, I killed her at once; here is a lock of her hair and her heart, and there too is some blood which is still warm; the dogs have eaten all the rest of her, but I am still cleaning her intestines." So he was satisfied, and believed that the girl was dead. She had, however, arrived at a castle to whose owner the cart of hay had been sold. She sprang out, and told the lord of the castle all that had happened. He asked her to stay there, and after some time gave a feast to the noblemen of the neighbourhood, and the lord of the murder-castle was invited too. The girl was forced to seat herself at table, but her face and dress were so changed that she was not recognizable. When they were all sitting together every one was to tell a story, and when it was the maiden's turn, she related her own. During this the lord of the murder-castle became so very uneasy that he wished to force his way out, but the lord of the castle had him seized and bound. Then he was executed, his murder-castle was pulled down, and the maiden received his treasures. She married the son of the lord of the castle where she had taken refuge, and lived to an old age. In Swedish, compare a popular ballad in Geyer and Afzelius (3. 94.) In Asbjörnsen (p. 237) there is a Norwegian tale. In *The Thousand and One Nights*, in the *Story of the third Kalender* (Night 66), the prohibition against entering a certain room in a palace likewise appears, and disregard of it is punished.
+```
 
+## Hartland's Note on *"The Forbidden Chamber"*
+
+Hartland's reply in *N&Q* elaborating his thoughts on *The Count's Daughter* also referenced his earlier and more substantial work published in the *Folk-Lore jounrnal* in 1885 on "The Forbidden Chamber", and in particular his notes describing the Blue Beard tale as an example of the invocation of that story device.
+
+```{admonition} The Forbidden Chamber
+:class: dropdown
 
 https://archive.org/details/folklorejournal03folkuoft/page/192/mode/2up
 
@@ -543,7 +585,7 @@ pp. 193-242 (-204)
 
 THE FORBIDDEN CHAMBER.
 
-By E. Sidney Hahtland.
+By E. Sidney Hartland.
 
 "IT is a peculiarity of Fairyland," says Mr. Clouston in a note to his useful edition of *The Book of Sindibad*, "that there are certain rooms which the fortunate mortal who has entered the enchanted palace is expressly forbidden to enter, or doors which he must on no account open, or cabinets which he must not unlock, if he would continue in his present state of felicity." It is the object of the following pages, and of the tables appended, to gather together some of the stories presenting this prohibition and to attempt a rough classification of them. I divide them into the following types, distinguished in each case by the name of the most characteristic variant, viz.:—
 
@@ -590,3 +632,6 @@ Before leaving the type that we have been examining, it may be well just to glan
 Probably none of these variations in the mode in which the ogre acquires possession of the heroine are important; but their variety lends emphasis to the idea of a combination of cleverness and malignity which go to make up the character of Bluebeard, but which are ultimately defeated by the greater cleverness of the lady. In Perrault's version the lady's cleverness has disappeared, leaving as its only relic the constant excuses and delays wherewith she puts off her husband's vengeance until her brothers are able to rescue her. Few, however, of the variants which I have examined concur in this apparent simplification of the story. Another detail which has dropped out of the typical story, as well as some others, is the gloom of forest and cavern amid which the ogre dwells, and which harmonises fitly with his character. This gloom seems an essential part of the myth lying at the root of the tale: it is the gloom of cloud, of night, of winter, the outward and visible sign and vesture of the fiend who inhabits it.
 
 `[Continues with other tale types.]`
+```
+
+*Providing the texts of the other works cited by Hartland here is not, I think, directly useful, but may form part of a more comprehensive storynote republishing Hartland's complete paper, along with all the stories referenced from it.*
