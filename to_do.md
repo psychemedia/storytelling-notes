@@ -16,7 +16,46 @@ by William J. Thoms Esq
 
 Publication date 1844
 
+
+--
+https://archive.org/details/aselectionfromn01asbjgoog/page/n228/mode/2up
+A Selection from the Norse Tales for the Use of Children
+by Sir George Webbe Dasent, Peter Christen Asbjørnsen
+
+Publication date 1862
+
+https://archive.org/details/talesfromfjeldse00asbjrich/page/226/mode/2up
+Tales from the fjeld. A second series of popular tales, from the Norse of P. Chr. Asbjörnsen
+by Asbjørnsen, Peter Christen, 1812-1885; Dasent, George Webbe, Sir, 1817-1896
+
+Publication date 1874
+
+
+https://archive.org/details/roundyulelognor00asbjgoog
+https://archive.org/details/folkandfairytal00gossgoog/page/n262/mode/2up
+Round the yule log, Norwegian folk and fairy tales, tr. by H.L. Brækstad
+by Peter Christen Asbjørnsen
+
+Publication date 1883
+
+https://archive.org/details/talesfromfjeldse00asbjrich/page/238/mode/2up
+Tales from the fjeld. A second series of popular tales, from the Norse of P. Chr. Asbjörnsen
+by Asbjørnsen, Peter Christen, 1812-1885; Dasent, George Webbe, Sir, 1817-1896
+
+Publication date 1874
+
+Chain tale like old woman pig
+
+HOW THEY GOT HAIRLOCK HOME.
+
+pp238-
+
 ----
+
+Compendia compendium database
+https://surlalunefairytales.com/oldsite/bluebeard/other.html
+
+---
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000361/18030228/006/0002
