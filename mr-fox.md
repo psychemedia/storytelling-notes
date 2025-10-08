@@ -573,6 +573,8 @@ soete liefje, rouwt 't w niet?") `[This recals the well-known song of the dead r
 
 Hartland's reply in *N&Q* elaborating his thoughts on *The Count's Daughter* also referenced his earlier and more substantial work published in the *Folk-Lore jounrnal* in 1885 on "The Forbidden Chamber", and in particular his notes describing the Blue Beard tale as an example of the invocation of that story device.
 
+*The style of the article is typical of the new wave of "scientific folklore" being developed a the time, and takes the scholarship rather further than I typically go in putting together my own storynotes.*
+
 ```{admonition} The Forbidden Chamber
 :class: dropdown
 
