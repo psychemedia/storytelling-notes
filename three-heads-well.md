@@ -609,7 +609,7 @@ So she walked on a long, long way, and then she came to a great farm-house, wher
 
 "Oh!" said the old hag; "it's no use your trying. We've had ever so many maids, but none of them was worth her salt."
 
-But she begged so prettily that they would just take her on trial, that at last they let her stay. So the old hag gave her a sieve, and hade her go and fetch water in it. She thought it strange to feteh water in a sieve, but still she went, and when she came to the well, the little birds began to sing —
+But she begged so prettily that they would just take her on trial, that at last they let her stay. So the old hag gave her a sieve, and hade her go and fetch water in it. She thought it strange to fetch water in a sieve, but still she went, and when she came to the well, the little birds began to sing —
 
 "Daub in clay,  
 Stuff in straw.  
@@ -637,7 +637,7 @@ This the lassie was at her wit's end to know how to do, for she had never seen o
 
 "Well I never!" said the old witch, when she come in with the wool, "it's no good keeping you. You can do everything, and at last you'll be the plague of my life. We'd best part, so take your wages and be off."
 
-Then the old hag drew out three caskets, one red, one green, and one blue, and of these the lassie was to choose one aa wages for her service. Now she didn't know at all which to choose, but the little birds sung—
+Then the old hag drew out three caskets, one red, one green, and one blue, and of these the lassie was to choose one as wages for her service. Now she didn't know at all which to choose, but the little birds sung—
 
 "Don't take the red, don't take the green,  
 But take the blue, where may be seen  

@@ -36,7 +36,7 @@ She went upstairs; she laid her hand upon the wallet, and willed the witch to re
 
 Lo! the witch awakens. She called the girl to come to bed. The poker answered: 'I am raking out the fire.' She called her again. The broom answered: 'I am sweeping the room.' She called her once more. The chair answered: 'I am coming now.' The girl came not. The witch called again. There was no answer.
 
-The witch was furious. She realised that the two had escaped. She called her daughter and told her to follow them, and whatso-ever she should see on the road to bring home with her.
+The witch was furious. She realised that the two had escaped. She called her daughter and told her to follow them, and whatsoever she should see on the road to bring home with her.
 
 Lo! the two are speeding on their way. They saw the witch's daughter coming after them like the wind. She has almost over-taken them now. Said the gentleman to the maiden: 'Wish thyself a duck and me a running stream; when she tries to catch thee dive beneath the water.' She did so. The youth was transformed into a running stream and the girl turned herself into a duck.
 

@@ -35,7 +35,7 @@ A laird of the black arts held a gathering for his workers, and served sowans [w
 
 ```
 
-Hugh Lupton provides a very readable - and tellable - take on that variant in the chapter "invocation and evocation" of *The Drewming of Place", pp. 42-50.
+Hugh Lupton provides a very readable - and tellable - take on that variant in the chapter "invocation and evocation" of *The Dreaming of Place", pp. 42-50.
 
 See also: John D. Niles (2006) Bede's Cædmon, "The Man Who Had No Story" (Irish Tale-Type 2412B), Folklore, 117:2, 141-155, DOI: 10.1080/00155870600707821 ([PDF via Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22The+Man+Who+Had+No+Story%22&btnG) or [via Internet Archive](https://archive.org/details/sim_folklore_2006-08_117_2)), which claims that [Book IV, chapter XXIV](https://www.gutenberg.org/files/38326/38326-h/38326-h.html#toc233) of *Bede's Ecclesiastical History of England* is also an example of the same tale type.
 

@@ -378,7 +378,7 @@ So she bled him, and he fell into a stupor which lasted nearly all that day, so 
 
 Now there is a dispute as to this abbess who bled him. Some say that she did it in all kindness of heart; while others aver that she was none other than the former Sheriff's daughter, and found her revenge at last in this cruel deed.
 
-Be that as it may, Robin's eyes swam from very weakness when he awoke. He called wearily for help, but there was no response. He looked longingly through the window at the green of the forest; but he was too weakto make the leap that would be needed to reach the ground,
+Be that as it may, Robin's eyes swam from very weakness when he awoke. He called wearily for help, but there was no response. He looked longingly through the window at the green of the forest; but he was too weak to make the leap that would be needed to reach the ground,
 
 He then bethought him of his horn,  
 Which hung down at his knee;  

@@ -236,7 +236,7 @@ An old Ballad. —Has the following ballad ever been printed, and if so, where? 
 Hold up your hands so high,  
 For I think I see my own mother coming o'er yonder stile to me.
 
-Oh mother hast thon any gold for me,  
+Oh mother hast thou any gold for me,  
 Any money to bay me free.
 
 To save my body from the cold clay ground and my head from the gallows tree?
@@ -263,7 +263,7 @@ And Sara Liisa Wilkinson's heavily modified version:
 
 ```{admonition} The Golden Balls - Day of the Dead storytelling by Sarah Liisa Wilkinson
 
-https://www.youtube.com/watch?v=xVLjtO4EkFQ, Circk Crack Club
+https://www.youtube.com/watch?v=xVLjtO4EkFQ, Crick Crack Club
 
 There were two sisters walking through the cobbled streets of the little town where they lived, when they stopped, because they saw standing in front of a doorway this brilliant man.
 

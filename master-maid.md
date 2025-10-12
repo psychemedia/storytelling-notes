@@ -412,7 +412,7 @@ Then the Mastermaid said, —
 
 "God grant that you may hold the shovel, and the shovel you, and may you heap hot burning coals over yourself till morning breaks."
 
-So there stood the Constable all night long, shovelling hot burning coals over himself; and though he begged, and prayed, and wept, the coals were not a bit colder for that; but as soon aa day broke, and he had power to cast away the shovel, he did not stay long, as you may fancy, but set off as if the Evil One or the bailiff were at his heels; and all who met him stared their eyes out at him, for he cut capers as though he were mad, and he could not have looked in worse plight if he had been flayed and tanned, and every one wondered what had befallen him, but he told no one where he had been, for shame's sake.
+So there stood the Constable all night long, shovelling hot burning coals over himself; and though he begged, and prayed, and wept, the coals were not a bit colder for that; but as soon as day broke, and he had power to cast away the shovel, he did not stay long, as you may fancy, but set off as if the Evil One or the bailiff were at his heels; and all who met him stared their eyes out at him, for he cut capers as though he were mad, and he could not have looked in worse plight if he had been flayed and tanned, and every one wondered what had befallen him, but he told no one where he had been, for shame's sake.
 
 Next day the Attorney passed by the place where the Mastermaid lived, and he too saw how it shone and glistened in the copse; so he turned aside to find out who owned the hut; and when he came in and saw the lovely maiden he fell more in love with her than the Constable, and began to woo her in hot haste.
 

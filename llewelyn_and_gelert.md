@@ -133,7 +133,7 @@ The Dog Gellert.
 "There is a general tradition in North Wales," says Edward Jones, in his 'Musical Relics of the Welsh Bards,' vol. i. [p75](https://archive.org/details/bim_eighteenth-century_musical-and-poetical-rel_jones-edward_1794/page/n79/mode/2up), "that a wolf had entered the house of Prince Llewellyn. Soon after, the prince returned home, and going into the nursery, he met his dog Killhart all bloody and wagging his tail at him. Prince Llewellyn, on entering the room, found the cradle where his child lay overturned and the floor strewed with blood. Imagining that the greyhound had killed the child, he immediately drew his sword and stabbed it; then turning up the cradle, found under it the child alive, and the wolf dead. This so grieved the prince that he erected a tomb over the faithful dog's grave, where afterwards the parish church was built, and goes by the name Bedd Gelbart (the Grave of Killhart), in Caernarvonshire. From this incident is derived a very common Welsh proverb, 'I repent as much as the man who slew his greyhound.' Prince Llewellyn ab Jowerth," adds our author, "married Joan, a daughter of King John, by Agatha, daughter of Bobert Ferrers, Earl of Derby, and this dog was a present to the prince from his father-in-law, about the year 1205." ^
 
 ```{note}
-The legend of Gellert has been finely versified by Mr Spencer when UeweUyn had slain the faithful dog and immediately after discovered his child unhurt —
+The legend of Gellert has been finely versified by Mr Spencer when Llewellyn had slain the faithful dog and immediately after discovered his child unhurt —
 
 Ah, what was then Llewellyn's pain?  
 For now the truth was clear:  

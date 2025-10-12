@@ -924,7 +924,7 @@ For more monkish tales, the following may be of interest:
 ```{admonition} Fosbroke, manners and customs of British monasticism, 1843
 :class: seealso
 
-Thomas Dudley Fosbroke, [British Monachism: Or, Manners and Customs of the Monks and Nuns of England]() *To which are added ammners ans customs of ancient pilgrims, the consuetudinal of anchorets and hermits, and som accounts of persons who mde vows of chastity*, 1843
+Thomas Dudley Fosbroke, [British Monachism: Or, Manners and Customs of the Monks and Nuns of England]() *To which are added manners and customs of ancient pilgrims, the consuetudinal of anchorets and hermits, and som accounts of persons who mde vows of chastity*, 1843
 ```
 
 ```{admonition} Gesta Romanorum, or Entertaining Moral Stories Invented By The Monks As A Fireside Recreation

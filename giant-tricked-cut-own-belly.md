@@ -49,7 +49,7 @@ But when even drew near, the Troll said, —
 
 "Now you'd better come home with me, for my house is nearer than yours."
 
-So the lad was willing enough; and when they reached the Troll's house, the Troll was to make up the fire, while the lad went to fetch water for their porridge, and there stood two iron pails so big and heavy, that he couldn't so much aa lift them from the ground.
+So the lad was willing enough; and when they reached the Troll's house, the Troll was to make up the fire, while the lad went to fetch water for their porridge, and there stood two iron pails so big and heavy, that he couldn't so much as lift them from the ground.
 
 "Pooh!" said the lad," it isn't worth while to touch these finger-basins. I'll just go and fetch the spring itself."
 
