@@ -17,7 +17,7 @@ p164-5
 
 [In section on "Much Ado About Nothing"]
 
-Benedict, Like the old tale, it is not so, nor 'twas not so: but indeed God forbid it should be so.] I believe none of the commentators have understood this; it is an allusion, as the speaker says, to an *old tale* which may perhaps be still extant in some collections of such things, or which Shakspeare may have heard, as I have, related by a great aunt, in his childhood.
+*Benedict.* Like the old tale, it is not so, nor 'twas not so: but indeed God forbid it should be so.] I believe none of the commentators have understood this; it is an allusion, as the speaker says, to an *old tale* which may perhaps be still extant in some collections of such things, or which Shakspeare may have heard, as I have, related by a great aunt, in his childhood.
 
 Once upon a time, there was a young lady, (called Lady Mary in the story) who had two brothers. One summer they all three went to a country seat of theirs, which they had not before visited. Among the other gentry in the neighbourhood who came to see them, was a Mr. Fox, a batchelor, with whom they, particularly the young lady, were much pleased. He used often to dine with them, and frequently invited Lady Mary to come and see his house. One day that her brothers were absent elsewhere, and she had nothing better to do, she determined to go thither; and accordingly set out unattended. When she arrived at the house, and knocked at the door, no one answered. At length she opened it, and went in; over the portal of the hall was written *"Be bold, be bold, but not too bold:"* she advanced: over the stair-case, the same inscription: she went up: over the entrance of a gallery, the same: she proceeded: over the door of a chamber, *"Be bold, be bold, but not too bold, lest that your heart's blood should run cold."* She opened it; it was full of skeletons, tubs full of blood, &c. She retreated in haste; coming down stairs, she saw out of a window Mr. Fox advancing towards the house, with a drawn sword in one hand, while with the other he dragged along a young lady by her hair. Lady Mary had just time to slip down, and hide herself under the stairs, before Mr. Fox and his victim arrived at the foot of them. As he pulled the young lady up stairs, she caught hold of one of the *bannisters* with her hand, on which was a rich bracelet. Mr. Fox cut it off with his sword: the hand and bracelet fell into Lady Mary's lap, who then contrived to escape unobserved, and got home safe to her brother's house.
 
@@ -26,7 +26,7 @@ After a few days, Mr. Fox came to dine with them as usual (whether by invitation
 Such is the *old tale* to which Shakspeare evidently alludes, and which has often *"froze my young blood,"* when I was a child, as, I dare say, it had done his before me. I will not apologize for repeating it, since it is manifest that such *old wive's tales* often prove the best elucidation of this writer's meaning. Blakeway.
 ```
 
-The tale was then perhaps re-popularised by Halliwell-Phillips in his *Popular rhymes and nursery tales* of 1849. The layout in Halliwell's version makes me think the refrain might provide a useful invitation to participation...
+The tale was brought to wider attention by Halliwell-Phillips in his *Popular rhymes and nursery tales* of 1849. The layout in Halliwell's version makes me think the refrain might provide a useful invitation to participation...
 
 ```{admonition} A simple, but very curious tale, 1849
 :class: dropdown
@@ -66,7 +66,25 @@ And here the hand I have to show!
 at the same moment producing the hand and bracelet from her lap. Whereupon the guests drew their swords, and instantly cut Mr. Fox into a thousand pieces.
 ```
 
-The tale is followed by another related one, of a student who sought seduced a maiden, and then attempted to hide the fact...
+The tale was reproduced and further popularised Joseph Jacobs in his collection [*English Fairy Tales*](https://archive.org/details/englishfairytal00jacogoog/page/n176/mode/2up), 1890, pp.148-151, along with two illustrations by John D. Batten.
+
+The first illustration, at the start of the chapter, sees Lady Mary witness Mr Fox's arrival with a new victim, from her hiding place underneath the stairs.
+
+![Mr Fox is spotted by Lady Mary](images/mr_fox_1_jacobs_batten.png)
+
+The second illustration depicts Lady Mary's revelation of Mr Fox's nefarious deeds.
+
+![Mr Fox denounced by Lady Mary](images/englishfairytal00jacogoog_0181.jpg)
+
+Jacobs also gives some additional notes on the tale (p247):
+
+> XXVI. MR. FOX.
+> 
+> *Source.* — Contributed by Blakeway to Malone's Variorum Shakespeare, to illustrate Benedick's remark in *Much Ado about Nothing* (I. i. 146): "Like the old tale, my Lord, 'It is not so, nor 'twas not so, but, indeed, God forbid it should be so;'" which clearly refers to the tale of Mr. Fox. "The Forbidden Chamber" has been studied by Mr. Hartland, *Folk-Lore Journal*, iii. 193, seq.
+>
+> *Parallels.* — Halliwell, p. 166, gives a similar tale of "An Oxford Student," whose sweetheart saw him digging her grave. "Mr. Fox" is clearly a variant of the theme of "The Robber Bridegroom" (Grimm, No. 40, Mrs. Hunt's translation, i. 389, 395; and Cosquin, i. 180-1).
+
+As Jacobs noted, in Halliwell-Phillips' collection, the tale is complemented by another related one, of a student who sought seduced a maiden, and then attempted to hide the fact...
 
 ```{admonition} *The Oxford Student*, 1849
 :class: dropdown
@@ -98,7 +116,7 @@ The boughs did bend, the leaves did shake,
 I saw the hole the Fox did make
 ```
 
-*The Oxford Student* is referenced by Addy in his Household Tales, as a possible variant of a tale Addy included in his collection.
+*The Oxford Student* is also referenced by Addy in his Household Tales, as a possible variant of a tale Addy included in his collection.
 
 ```{admonition} *The girl who got up the tree*, 1895
 :class: dropdown
@@ -127,7 +145,7 @@ When the two men who had intended to murder the girl heard this they ran out of 
 
 ## Related Tales
 
-By way of comparison, consider this original telling of Bluebeard, from 1846. I don't find it satisfying at all, and would never consider telling it this way:
+By way of comparison, consider this original telling of *Bluebeard*, from 1846. I don't find it satisfying at all, and would never consider telling it this way:
 
 ```{admonition} The popular story of Blue Beard, or, Female curiosity, 1846
 :class: dropdown
@@ -217,7 +235,7 @@ Note, p. 253
 The Robber Bridegroom. p: 199. "Der Raiiberbraütigam" of MM. Grimm. This tale has a general affinity to that of *Bluebeard*, most of the incidents of which story are found in others of the German collection. It should, perhaps, be observed, that in the original, the *finger* is chopped off, and is carried away by the bride, as well as the ring upon it.
 ```
 
-For another take on the Robber Bridegroom tale, a gypsy tale collected from Noah Lock by Thomas William Thompson, that appears as the first in a series of *English Gypsy Folk-Tales, and other Traditional Stories* in the *Journal of the Gypsy Lore Society*.
+For another take on the *Robber Bridegroom* tale, a gypsy tale collected from Noah Lock by Thomas William Thompson, that appears as the first in a series of *English Gypsy Folk-Tales, and other Traditional Stories* in the *Journal of the Gypsy Lore Society*.
 
 ```{admonition} The Robber and the Housekeeper, 1914-5
 :class: dropdown
