@@ -116,7 +116,21 @@ The boughs did bend, the leaves did shake,
 I saw the hole the Fox did make
 ```
 
-*The Oxford Student* is also referenced by Addy in his Household Tales, as a possible variant of a tale Addy included in his collection.
+*The Oxford Student* is also referenced by Sidney Oldall Addy in his *Household Tales*, along with a couple of other loosely related tales.
+
+```{admonition} *Jack Otter*, 1895
+:class: dropdown
+8.— JACK OTTER.
+
+`[From Lincolnshire. Compare the next story. Otter here stands for Höttr, the hatted one, a name of Odin, on account of the slouching hat or hood which he wore, In Hava-mal Odin says, "I mind me hanging on the gallows-tree nine whole nights, wounded with the spear, offered to Odin, myself to myself; on the tree, whose roots no man knoweth. They gave me no loaf; they held no horn to me." Vigfusson and Powell's Corpus Poeticum Boreale, i. p. 24.]`
+
+IN Lincolnshire there once lived a man, called Jack Otter, who had been married nine times, and had murdered all his wives one after another. One day he was angry with the woman that he was courting, and whom he intended to take for his tenth wife. So he asked her to go for a walk with him, and when they had got into a lonely place he stabbed her and buried her on the spot. But his crime was found out, and he was gibbeted on a post in the lane. Now a bird, called the willow-biter, built her nest in the dead man's mouth as he hung on the gallows tree, and brought up her fledgelings in it. And hence this riddle is asked:
+
+There were ten tongues within one head;  
+And one went out to fetch some bread  
+To feed the living in the dead.
+
+```
 
 ```{admonition} *The girl who got up the tree*, 1895
 :class: dropdown
@@ -292,7 +306,7 @@ Now a'ter when they'd all eaten till they couldn't eat no moare, an' drunk most 
 
 ## The Tale of Bloody Baker
 
-In the August 25th, 1850, issue of *Notes and Queries*, ("When found, make a note of"), a previously recorded legend of a certain Sir. Bloody Baker, was likened to the tale of *Mr Fox*.
+In the August 25th, 1850, issue of *Notes and Queries*, (`"When found, make a note of"`), a previously recorded legend of a certain Sir Bloody Baker, was likened to the tale of *Mr Fox*.
 
 ```{admonition} Resembling the story of Sir Richard "Bloody" Baker, August 1850
 :class: dropdown
@@ -316,7 +330,7 @@ It may be asked, if Baker was burned, how came he to have a tomb with gloves, he
 J. H. M., Bath.
 ```
 
-The supposed legend of Sir Richard was reported in the issue of June 29th, earlier that year, locating it in Cranbrook, Kent:
+The supposed legend of Sir Richard, as supplied by *F. L.*, was recorded in the issue of June 29th, earlier that year, locating the tale in Cranbrook, Kent:
 
 ```{admonition} The Legend of Sir Richard Baker, June 1850
 :class: dropdown
@@ -337,7 +351,7 @@ F. L
 
 ```
 
-As was often the case in *Notes and Queries*, other correspondents often sought to "clarify" issues further:
+As was often the case in *Notes and Queries*, other correspondents often sought to "clarify" matters further:
 
 ```{admonition} Testing the veracity of the legend, September 1850
 :class: dropdown
@@ -352,7 +366,7 @@ FOLK LORE
 
 St. Johns.
 
-[Will our correspondent favour us by communicating the Aston Legend of the Holt Family to which he refers?]
+`[Will our correspondent favour us by communicating the Aston Legend of the Holt Family to which he refers?]`
 
 ```
 
@@ -364,6 +378,8 @@ https://archive.org/details/sim_notes-and-queries_1850-11-30_2_57/mode/2up?q=Ast
 Notes and Queries  1850-11-30: Vol 2 Iss 57
 
 *Red Hand — Holt Family — Aston Church* (Vol. ii, p. 241 `[sic; 243]`).—The tradition is not, I believe, of very ancient date. It is stated that one of the Holt family murdered his cook, and was afterwards compelled to adopt the red hand in his arms. It is, however, obviously only the "Ulster badge" of baronetcy. I have never heard any further particulars of the tradition. ESTE.
+
+```
 
 Back on the case of Sir Richard Baker, a correspondent a couple of years later sought to debunk the supposed legend:
 
@@ -404,7 +420,7 @@ p. 66
 [The original Blue Beard was Giles de Laval, Lord of Raiz, who was made Marshal of France in 1429, and in the reigns of Charles VI. and VII. distinguished himself by his courage against the English when they invaded France. The services that he rendered his country might have immortalised his name, had he not for ever blotted his glory by murders, impieties, and debaucheries. Mezeray says that he encouraged and maintained sorcerers to discover hidden treasures, and corrupted young persons of both sexes, that he might attach them to him, and afterwards killed them for the sake of their blood for his charms and incantations. At length, for some state crime against the Duke of Brittany, he was sentenced to be burnt alive in a field at Nantes in 1440. Holinshed notices another Blue Beard in the reign of Henry VI., anno 1450. Speaking of the committal of the Duke of Suffolk to the Tower, he says, "This doing so much displeased the people, that if politike provision had not been made, great mischief had immediately ensued. For the commons in sundry places of the realm assembled together in great companies, and chose to them a captain, whom they called Blue Beard; but ere they had attempted any enterprise, their leaders were apprehended, and so the matter pacified without any hurt committed."]
 ```
 
-The editor's response seems to provide the basis for the definition of the tale in Chambers' Enclyclopedia.
+The editor's response seems to provide the basis for the definition of the tale in Chambers' Encyclopedia.
 
 ```{admonition} In Chambers' Encyclopedia, 1868
 :class: dropdown
@@ -417,7 +433,27 @@ p170
 
 BLUE BEARD, the name given to the hero of a well-known tale of fiction, which is of French origin. According to this romance, the Chevalier Raoul has a blue beard, from which he gets his designation. This personage tests his wife's curiosity by intrusting her, during his absence on a journey, with the Key of a chamber, which she is forbidden to enter. She is unable to stand the test, and he puts her to death. Several wives share the same fate but at length the seventh is rescued at the last moment by her brothers, and B. is slain. The tale appears in innumerable collections, under various forms. Tieck, in his *Phantasus*, has worked up this material into a clever drama, with numerous romantic and satirical additions, and Grétry has made use of it in his opera of *Raoul*.
 
-The historic crimnal of Chevalier Raoul would appear to be one Giles de Laval, Lord of Raiz, who was made marshal of France in 1429, and fought valiantly in defence of his country when invaded by the English; but his cruelty and wickedness seem to have eclipsed even his bravery, as he is remembered chiefly for his crimes, which credulous tradition has painted in the blackest and most fearful colours. He is said to have taken a pleasure, among other atrocities, in corrupting young persons of both sexes, and afterwards in murdering them for the sake of their blood, which he used m his diabolical incantations. Out of this fact, in itself probably half-mythical, the main feature of the tale of B. has probably grown. Laval was burnt alive in a field near Nantes, in 1440, on account of some state-crime against the Duke of Brittany.
+The historic original of Chevalier Raoul would appear to be one Giles de Laval, Lord of Raiz, who was made marshal of France in 1429, and fought valiantly in defence of his country when invaded by the English; but his cruelty and wickedness seem to have eclipsed even his bravery, as he is remembered chiefly for his crimes, which credulous tradition has painted in the blackest and most fearful colours. He is said to have taken a pleasure, among other atrocities, in corrupting young persons of both sexes, and afterwards in murdering them for the sake of their blood, which he used m his diabolical incantations. Out of this fact, in itself probably half-mythical, the main feature of the tale of B. has probably grown. Laval was burnt alive in a field near Nantes, in 1440, on account of some state-crime against the Duke of Brittany.
+```
+
+The origins of the Blue Beard tale were revisited in *Notes & Queries* a couple of years later.
+
+```{admonition} Origins of Blue Beard, Revisited in N&Q, January, 1871
+:class: dropdown
+
+https://archive.org/details/sim_notes-and-queries_1871-01-14_7_159/mode/2up?q=bluebeard
+Notes and Queries  1871-01-14: Vol 7 Iss 159
+Publication date 1871-01-14
+
+p29
+
+Notes.
+
+BLUEBEARD: ORIGIN OF THE STORY.
+
+The story of Bluebeard forms one of a collection of the popular nursery tales of France for which we are indebted to Perrault. How far he preserved the exact form in which these tales must have been related to him by some old crone, it is, of course, impossible at the present time to say. It has been asserted that the story is founded on the atrocities imputed to a certain Gilles de Retz, or de Raiz, Sieur de Laval `[See "N. & Q." 1st S. xii. 66.—Ed.]`, who lived in the reign of Charles VII. of France; but the enormities of which this nobleman is said to been guilty bear but little resemblance to the crimes of our hero of the nursery. An incident related in the life of S. Gildas, Abbot of Rhuys, in Brittany, in the sixth century, comes much nearer to the tale which interested us so much in our childish days. A certain Count Conomor was fond of matrimony, but was not desirous of being troubled with the consequences; so whenever his wife gave signs of being likely to become a mother, he made away with her. He was a widower for the fourth, or as some say for the seventh, time, when he sought the hand of Triphyna, daughter of Count Guerech, of Vannes, a young lady of great beauty, who had been educated under the eye of S. Gildas. Both the father and daughter would willingly have declined the proffered honour, but Count Conomor, who was Childebert's lieutenant in Brittany, and had powerful friends at court, insisted in his suit, and gave it to be understood that if his demand were not acceded to he was quite ready to enforce it at the point of the sword. S. Gildas, wishing to avert a disastrous war, undertook to intercede, and was successful in bringing about the desired alliance, on the condition, however, that if Conomor should get tired of his wife he should send her back to her father. The wedding was kept at Vannes with great pomp, and Conomor carried off his bride to his own castle, but before many months had elapsed, the countess, who was far advanced in her pregnancy, perceived that her husband's manner towards her was entirely changed, and, fearing the fate of his former wives, resolved to take refuge with her father. Watching her opportunity, she mounted one morning on a fleet horse, and, accompanied by a few faithful followers, galloped off in the direction of Vannes. Her husband was informed of her flight, and pursued her. As he gained upon her, and she perceived that her capture was almost inevitable, she threw herself from her horse and endeavoured to conceal herself in the deep recesses of a forest, but she was discovered by her brutal lord, who, with one stroke of his sword, severed her head from her body. S. Gildas, on being informed of what had happened, hastened to the spot, replaced the head on the body, and by his prayers restored the lady to life. She was shortly afterwards safely delivered of a son, who was baptised by S. Gildas, and called by his name, to which, by way of distinction, was afterwards added that of Trech-meur or Tremeur. Such is the legend as told by the Breton hagiographers Père Albert le Grand and Dom Gui-Alexis Lobineau. But now comes a fact. as related by M. Hippolyte Violeau, in a work entitled *Pélerinagen de Bretagne*, which renders it almost certain that Perrault's tale is founded on the legend. He says that in January, 1850, in repairing the vault of the chapel of S. Nicolas-de-Bieuzy, some ancient frescoes were discovered with scenes from the life of S. Triphyna: the marriage—the husband taking leave of his wife, and entrusting a key to her—a room with an open door, through which are seen the corpses of seven women hanging—the husband threatening his wife while another female is looking out of a window above—and finally, in the last picture, when the husband has placed a halter round the neck of his victim, the opportune arrival of her friends, accompanied by S. Gildas. If these frescoes are really of the early date assigned to them, they probably represent the popular form of the legend, with some additional incidents which have not been thought worthy of record by the hagiographers, and there can be no doubt whence the nursery tale derives its origin.
+
+Guernsey, Edgar MacCulloch
 ```
 
 A more comprehensive history is provided in Chamber's *Book of Days*:
@@ -453,7 +489,7 @@ Probably on account of some personal peculiarity, Giles de Laval became remember
 As to the children's *Bluebeard*, it was written by Perrault in the time of Louis XIV., and has been translated from the French into nearly all the languages of Europe. This Bluebeard's propensity is not to kill children, but to marry wife after wife in succession, kill them, and deposit them in the fatal closet which curiosity would not leave untouched. We all know how another victim was saved, and how *Bluebeard* met his death.
 ```
 
-A description of "the original Blue Beard" in  Doran's *Knights and their days*, 1890, is preceded by another grisly tale of a bad-tempered knight which to my mind has echoes of the historical tale behind the song *"The Raggle Taggle Gypsy"*, and the tragedy of Lady Jean Hamilton.
+A description of "the original Blue Beard" in Doran's *Knights and their days*, 1890, is preceded by another grisly tale of a bad-tempered knight, which to my mind has echoes of the historical tale behind the song *"The Raggle Taggle Gypsy"*, and the tragedy of Lady Jean Hamilton.
 
 ```{admonition} A strong reaction to a wife's perceived unfaithfulness, 1890
 :class: dropdown seealso
@@ -471,24 +507,6 @@ pp57-9
 This celebrated personage, famous by his pseudonym, was not less so in his own proper person. There was not a braver knight in France, during the reigns of Charles VI. and VII., than this Marquis de Laval, Marshal of France. The English feared him almost as much as they did the Pucelle. The household of this brave gentleman was, however, a hell upon earth; and licentiousness, blasphemy, attempts at sorcery, and, more than attempts at, very successful realizations of, murder were the little foibles of this man of many wives. He excelled the most extravagant monarchs in bis boundless profusion, and in tbe barbaric splendor of his court or house: the latter was thronged with ladies of very light manners, players, mountebanks, pretended magicians, and as many cooks as Julian found in the palace of his predecessor at Constantinople. There were two hundred saddle-horses in his stable, and he had a greater variety of dogs than could now be found at any score of "fanciers" of that article. He employed the magicians for a double purpose. They undertook to discover treasures for his use, and pretty handmaids to tend on his illustrious person, or otherwise amuse him by the display of their accomplishments. Common report said that these young persons were slain after a while, their blood being of much profit in making incantations, the object of which was the discovery of gold. Much exaggeration magnified his misdeeds, which were atrocious enough in their plain, unvarnished infamy. At length justice overtook this monster. She did not lay hold of him for his crimes against society, but for a peccadillo which offended the Duke of Brittany. Giles de Laval, for this offence, was burnt at Nantes, after being strangled — such mercy having been vouchsafed to him, because he was a gallant knight and gentleman, and of course was not to be burnt alive like any petty villain of peasant degree. He had a moment of weakness at last, and just previous to the rope being tightened round his neck, he publicly declared that he should never have come to that pass, nor have committed so many excesses, had it not been for his wretched education. Thus are men, shrewd enough to drive bargains, and able to discern between virtue and vice, ever ready, when retribution falls on them at the scaffold, to accuse their father, mother, schoolmaster, or spiritual pastor. Few are like the knight of the road, who, previous to the cart sliding from under him, at Tyburn, remarked that he had the satisfaction, at least, of knowing that the position he had attained in society was owing entirely to himself. "May I be hanged," said he, "if that isn't the fact." The finisher of the law did not stop to argue the question with him, but, on cutting him down, remarked, with the gravity of a cardinal before breakfast, that the gentleman had wronged the devil and the ladies, in attributing his greatness so exclusively to his own exertions.
 
 I have said that perhaps Blue-Beard's little foibles have been exaggerated; but, on reflection, I am not sure that this pleasant hypothesis can be sustained.
-```
-
-```{admonition} Origins of Blue Beard, Revisited in N&Q, January, 1871
-:class: dropdown
-
-https://archive.org/details/sim_notes-and-queries_1871-01-14_7_159/mode/2up?q=bluebeard
-Notes and Queries  1871-01-14: Vol 7 Iss 159
-Publication date 1871-01-14
-
-p29
-
-Notes.
-
-BLUEBEARD: ORIGIN OF THE STORY.
-
-The story of Bluebeard forms one of a collection of the popular nursery tales of France for which we are indebted to Perrault. How far he preserved the exact form in which these tales must have been related to him by some old crone, it is, of course, impossible at the present time to say. It has been asserted that the story is founded on the atrocities imputed to a certain Gilles de Retz, or de Raiz, Sieur de Laval `[See "N. & Q." 1st S. xii. 66.—Ed.]`, who lived in the reign of Charles VII. of France; but the enormities of which this nobleman is said to been guilty bear but little resemblance to the crimes of our hero of the nursery. An incident related in the life of S. Gildas, Abbot of Rhuys, in Brittany, in the sixth century, comes much nearer to the tale which interested us so much in our childish days. A certain Count Conomor was fond of matrimony, but was not desirous of being troubled with the consequences; so whenever his wife gave signs of being likely to become a mother, he made away with her. He was a widower for the fourth, or as some say for the seventh, time, when he sought the hand of Triphyna, daughter of Count Guerech, of Vannes, a young lady of great beauty, who had been educated under the eye of S. Gildas. Both the father and daughter would willingly have declined the proffered honour, but Count Conomor, who was Childebert’s lieutenant in Brittany, and had powerful friends at court, insisted in his suit, and gave it to be understood that if his demand were not acceded to he was quite ready to enforce it at the point of the sword. S. Gildas, wishing to avert a disastrous war, undertook to intercede, and was successful in bringing about the desired alliance, on the condition, however, that if Conomor should get tired of his wife he should send her back to her father. The wedding was kept at Vannes with great pomp, and Conomor carried off his bride to his own castle, but before many months had elapsed, the countess, who was far advanced in her pregnancy, perceived that her husband’s manner towards her was entirely changed, and, fearing the fate of his former wives, resolved to take refuge with her father. Watching her opportunity, she mounted one morning on a fleet horse, and, accompanied by a few faithful followers, galloped off in the direction of Vannes. Her husband was informed of her flight, and pursued her. As he gained upon her, and she perceived that her capture was almost inevitable, she threw herself from her horse and endeavoured to conceal herself in the deep recesses of a forest, but she was discovered by her brutal lord, who, with one stroke of his sword, severed her head from her body. S. Gildas, on being informed of what had happened, hastened to the spot, replaced the head on the body, and by his prayers restored the lady to life. She was shortly afterwards safely delivered of a son, who was baptised by S. Gildas, and called by his name, to which, by way of distinction, was afterwards added that of Trech-meur or Tremeur. Such is the legend as told by the Breton hagiographers Père Albert le Grand and Dom Gui-Alexis Lobineau. But now comes a fact. as related by M. Hippolyte Violeau, in a work entitled *Pélerinagen de Bretagne*, which renders it almost certain that Perrault’s tale is founded on the legend. He says that in January, 1850, in repairing the vault of the chapel of S. Nicolas-de-Bieuzy, some ancient frescoes were discovered with scenes from the life of S. Triphyna: the marriage—the husband taking leave of his wife, and entrusting a key to her—a room with an open door, through which are seen the corpses of seven women hanging—the husband threatening his wife while another female is looking out of a window above—and finally, in the last picture, when the husband has placed a halter round the neck of his victim, the opportune arrival of her friends, accompanied by S. Gildas. If these frescoes are really of the early date assigned to them, they probably represent the popular form of the legend, with some additional incidents which have not been thought worthy of record by the hagiographers, and there can be no doubt whence the nursery tale derives its origin.
-
-Guernsey, Edgar MacCulloch
 ```
 
 ## *The Count's Daughter*
@@ -555,7 +573,7 @@ Now, putting aside the mere mention of blood and such-like horrors, the one poin
 E. Sidney Hartland. Swansea.
 ```
 
-With Hartland having called out a variant of *Fitcher's Bird,* as having some resemblance to *Mr. Fox*, the note referred to in Hunt's translation of *Grimm's household tales*  a couple of years earlier likens *Fitcher's Bird* to *Bluebeard*.
+With Hartland having called out a variant of *Fitcher's Bird,* as also having some resemblance to *Mr. Fox*, the note referred to in Hunt's translation of *Grimm's household tales* a couple of years earlier had likened *Fitcher's Bird* to *Bluebeard*.
 
 ```{admonition} Visibly containing the saga of *Bluebeard*, 1884
 :class: dropdown
@@ -589,7 +607,7 @@ soete liefje, rouwt 't w niet?") `[This recals the well-known song of the dead r
 
 ## In Hartland's Note on *"The Forbidden Chamber"*
 
-Hartland's reply in *N&Q* elaborating his thoughts on *The Count's Daughter* also referenced his earlier and more substantial work published in the *Folk-Lore jounrnal* in 1885 on "The Forbidden Chamber", and in particular his notes describing the Blue Beard tale as an example of the invocation of that story device.
+Hartland's reply in *N&Q* elaborating his thoughts on *The Count's Daughter* also referenced his earlier and more substantial work published in the *Folk-Lore journal* in 1885 on "The Forbidden Chamber". The opening part of that article described in some detail how the Blue Beard tale worked as an example of the invocation of that story device.
 
 *The style of the article is typical of the new wave of "scientific folklore" being developed a the time, and takes the scholarship rather further than I typically go in putting together my own storynotes.*
 
@@ -655,3 +673,253 @@ Probably none of these variations in the mode in which the ogre acquires possess
 ```
 
 *Providing the texts of the other works cited by Hartland here is not, I think, directly useful, but may form part of a more comprehensive storynote republishing Hartland's complete paper, along with all the stories referenced from it.*
+
+## One Moonshiny Night
+
+The rhyme given by Halliwell-Phillipps in the context of *The Oxford Student* merited a brief query in *Notes & Queries* in 1858 asking for further details surrounding the story associated with the tale. *(The reference to Matthew Paris is perhaps a mistake, as the note refers to Blakeway, and is then propagated forward by later correspondence.)*
+
+```{admonition} An Old Riddle, April 1858
+:class: dropdown
+
+https://archive.org/details/sim_notes-and-queries_1858-04-17_5_120/mode/2up
+Notes and Queries  1858-04-17: Vol 5 Iss 120
+p. 315
+
+*An Old Riddle.*— I have ringing in my memory the words of an old riddle which used to be current among the boys of the village, and I transcribe it for preservation in your collection of popular antiquities. I fear that my version is not altogether complete, though accurate as far as it goes:—
+
+"Riddle me, riddle me right:  
+Where was I last Saturday night?  
+I saw a champ-champ champing on his bridle:  
+I saw an old fox working himself idle:  
+The boughs did shiver, and I did shake,  
+To see what a hole the fox did make."
+
+In Halliwell's Nursery Rhymes is the following, which doubtless has reference to the same story:—
+
+"One moonshiny night,  
+As I sat high,  
+Waiting for one  
+To come by,  
+The boughs did bend,  
+My heart did ache,  
+To see what a hole the fox did make."
+
+In a note the reader is referred to Matthew Paris, but as I have not the work on my own scant shelves, and have no library to go to, may I ask you to give me the legend? I have some dim recollection of a story told in explanation of the rhyme, of a lady, who, having made an assignation with her lover, went to the trysting-spot before the hour, and discovered his horse fastened to a tree, and, from the boughs into which she had climbed, observed the false one engaged in digging a grave for her reception. T. Q. C.
+
+Bodmin.
+```
+
+The rhyme was again picked up on in a correspondence chain initiated in February 1887.
+
+```{admonition} One Moonshiny Night, 1887
+:class: dropdown
+
+https://archive.org/details/sim_notes-and-queries_1887-02-19_3_60/page/148/mode/2up
+Notes and Queries  1887-02-19: Vol 3 Iss 60
+
+p.149
+
+"ONE MOONSHINY NIGHT," &c.—In Halliwell's 'Popular Rhymes' the following lines are given as having been obtained from Oxfordshire:—
+
+One moonshiny night  
+As I sat high,  
+Waiting for one  
+To come by;  
+The boughs did bend,  
+My heart did ache  
+To see what hole the fox did make.
+
+The story alluded to is said to be related by Matthew Paris.
+
+As a child I heard the following version from a Yorkshire woman:—
+
+One moonlight night  
+As I sat high,  
+I looked for one,  
+But two came by.  
+My heart did ache,  
+The leaves did shake,  
+To see the hole the fox did make.  
+The clock in heaven  
+Struck eleven:  
+The little birds cried "pitty patty  
+Bury me."
+
+Are there any other variants?  
+F. C. Birkbeck Terry
+```
+
+A month later, one correspondent suggested that no riddle was meant by the rhyme:
+
+```{admonition} No riddle intended, 1887
+:class: dropdown
+
+https://archive.org/details/sim_notes-and-queries_1887-03-19_3_64/page/228/mode/2up
+Notes and Queries  1887-03-19: Vol 3 Iss 64
+pp.229-230
+
+"ONE MOONSHINY NIGHT, (7 S. iii, 149.)
+
+In Derbyshire — at any rate in the vicinity of Derby — the following version used to be in every child's mouth forty years ago. The lines were known as
+
+*Riddle me, riddle me right.*  
+Oh, read me this riddle, and read it aright.  
+Where was I last Saturday night!  
+The wind blew,  
+The cock crew,  
+I waited for one,  
+And there came two.  
+The woods did tremble,  
+The boughs did shake,  
+To see the hole  
+The fox did make.  
+Too little for a horse,  
+Too big for a bee;  
+I saw it was a hole  
+Just a fit for me.
+
+There was no riddle intended, but the lines served as the introduction to a tale which varied considerably according to the powers of the teller. I have heard the story from old mouths and young ones, and, as far as memory serves me now—for there were many versions—the story ran:— There was once a young man courted a lass, and she was in the family way. She wanted him to marry her, and he would not; and she said she would tell everybody about him. This made him mad, and he swore at her and he hit her, and told her to go and hang herself. She cried very much, and he ran away and left her. Next day he sent her word by his friend, and told her that she must meet him in a wood at eleven o'clock that night. She told the young man that she would, and he went away. The poor young woman cried all day, and when night came she went to bed in good time. But instead of going to bed, she opened the window and let herself drop down; and then she ran to the wood, and got there a long time before eleven o'clock. She was very scard (frightened), and she climbed up into a tree that was in the wood. When she had been in the tree for a good bit, she heard somebody coming along; and they came close to the tree, and then pulled out a dark lantern. She then saw that it was her young man and his friend. They had a pick and a spade, and they began to hack a hole, which they made a good depth, and they shut up the lantern and waited. They began to talk about her, and said that they would cut her throat and put her in the hole. When she heard that, she skreeted three or four times and had a fit. The men thought it was a spirit, and ran away frightened, and left the deep hole and the spade and the pick. The young woman went home, and she never saw her young man and his friend any more.
+
+This is the tale as nearly as I can remember. A wood in the neighbourhood was pointed out as that in which the events of the night occurred.
+
+Thomas Ratcliffe. Worksop.
+```
+
+The same issue of *N&Q* also gave a couple of other variants, starting with this one:
+
+> There is a variant in Miss Peacock's 'Tales and Rhymes in Lindsey Folk-Speech,' and here is yet another that made my young blood curdle in Kesteven a long time ago:—  
+> 
+> Where was I last Saturday night?  
+> The wind blew, the tree shook and I quake  
+> To see what a hole the Fox did make.  
+> Too little for horse, too big for Bee, [a dog]  
+> Just fitted the man, and was made for me.
+> 
+> ST. SWITHIN.
+
+S. O. Addy also offered a short commentary, which complements his inclusion of the tale *The girl who got up the tree* in *Household tales with other traditional remains*.
+
+> The version which Mr. Terry heard from a Yorkshire woman is nearly what I have heard in North Derbyshire. The lines which have been told to me are:—
+> 
+> One moonlight night  
+> As I sat high,  
+> I watched for one,  
+> But two came by.  
+> The leaves did shake,  
+> My heart did ache  
+> To see the hole the fox did make.
+> 
+> I have not heard the last four lines quoted by Mr. Terry. A short prose tale accompanies these seven lines. It is said that a lover appointed to meet his mistress in a wood on a summer's evening. The girl, fearing some treachery, climbed up into a tree, and hid herself among the leaves, As she sat there her lover came by in company with a man. She heard them say that they intended to murder her, and she saw the grave which they had made close by.
+> 
+> Such is the story which I have heard. It has been suggested to me that the lover's name was Fox. May not "fox" here have the meaning of broadsword? S. O. Addy.
+
+A yet more comprehensive reply focussing on related tales appeared several issues later, in May, 1887.
+
+```{admonition} Several interesting versions, May 1887
+:class: dropdown
+https://archive.org/details/sim_notes-and-queries_1887-05-21_3_73/mode/2up
+Notes and Queries  1887-05-21: Vol 3 Iss 73
+
+pp.410-11
+
+"ONE MOONSHINY NIGHT." (7th S. iii, 149, 229.)
+
+The interesting versions given of this do not seem to refer to those printed by Mr. Halliwell ('Pop. Rhymes and Nurs. Tales,' 1849, pp. 47-50). In one, 'Mr. Fox,' may be recognized the popular tale, 'The Robber Bridegroom' (Grimm), 'The Knight of the Valley,' or 'The Red Court.' The heroine finds her way to the robbers' haunt, where she is a silent witness to the murder of another lady. Failing to readily disengage a ring from the corpse's finger, the murderers chop off the finger (*al.* hand) itself, and it bounces into the lap of the spectator. Subsequently this latter relates her experiences, as a dream, in the presence of the robber captain, convicting him by the evidence of the finger. (See 7th S. ii. 321.) `[The Count's Daughter.]`
+
+In another common form, 'The Oxford Student,' the story agrees pretty well with the Derbyshire version (*ante*, p. 229): only I have heard the words, "I watched for one, but two came by," sometimes made to refer to the "Fox "—the murderer—and a second less fortunate mistress, murdered in view of the heroine; not a male companion.
+
+In Ireland the following is understood as a riddle:—
+
+Last Saturday night—  
+The wind blew,  
+The cocks crew,  
+All the bells in heaven Struck eleven,  
+Under an ivy-tree.
+
+Answer, "A soul going to heaven" (?). The sequel,—
+
+Too little for a horse,  
+Too big for a bee, &c.,
+
+not heard. There is a version in Irish, obtained from Kilbehinny, Cork, where the fox and hole again figure.
+
+Banim's powerful if occasionally coarse novel, 'The Nowlans' (London, 1826, c. vi. p. 166) seems to owe a scene to a Kilkenny version of this story, where Peggy, anticipating her villainous lover at the trysting-place at night in the Foil Dubh, sees him dig a grave. "About where she stood, a woman had once been cruelly murdered," &c.
+
+Another circumstantial popular legend is introduced into the same novel — that in which a servant girl is the terrified and secret witness of a pedlar's murder. The robbers afterwards approach, singe her very eyebrows off to test her simulated sleep, &c. Banim thought it a "true situation" (p. 275).
+
+The foregoing was written before I had seen communications in which both Mr. Halliwell's versions of 'Mr. Fox' and various forms of the tale which I call 'The Red Court' are referred to. I will add two or three miscellaneous notes.
+
+We have apparently to distinguish three things. (1) The story of Lady Mary, "Be bold," &c. This was first contributed to the 'Variorum Shakespeare.' (2) 'Mr. Fox,' best known as an Oxfordshire tale. (3) The riddle. Of these, any further oral versions of "Be bold" would be of value; and what is the precise reference to Matthew Paris?
+
+An Oxford metrical version of (2) figures in 'The Midland Minstrel; consisting chiefly of Traditionary Tales and Local Legends,' by Thomas Gillet (Oxford, 1822):—
+
+But why, beside that rural *walk*  
+That boasts the name *Divinity*,  
+Does yon disguièd figure stalk  
+Beneath the pale moon's glimmering eye!
+
+And why is that lone grave prepar'd,  
+Prepar'd in such unhallow'd place?  
+*Nought in its womb can e'er be laid*  
+*Save the dull brute* of vilest race.
+
+But, soft—*two figures* tread the walk, &c,
+
+The unhappy Lucy, here made the victim of an historical seducer, is buried in the haunted Divinity Walk. The passages italicized show the influence of local traditional rhymes.
+
+Another interesting rustic fragment is the Derbyshire tale alluded to on p. 305, *supra*. Mr. STERNBERG gave a version (1st S. v. 602) where the company the night traveller (generally a priest or monk) comes among are satyr-like demons. The Breton legends of nocturnal *ludificationum fantasiae*, referred to by William of Paris, and a common Irish story of a priest who fell among the good people, may be said to belong to the same class.
+
+The following are respectively Buckinghamshire and Gloucestershire versions of the rhyme. The second is a riddle.
+
+As I sat up in an ivy tree  
+A wicked fox was under me,  
+Digging a hole to bury me,  
+But yet he could not find me:  
+The boughs did bend and the leaves did shake  
+To see what a hole the fox did make.
+
+The Gloucestershire rhyme is no doubt imperfect:—
+
+Riddle come riddle come right,  
+Where was I last Saturday night?  
+The leaves did shake,  
+And I did quake,  
+To see what a great hole the fox did make.
+
+Further variations would be instructive, and would have interest. D. F.
+```
+
+In the same issue,an example of such another version is provided from Ireland:
+
+> The version I learned as a child was different from any of those given by your correspondents and was as follows:—
+> 
+> Riddle me, riddle me, riddle me right!  
+> It was upon a Saturday night:  
+> The winds blew,  
+> The cocks crew,  
+> The bells of heaven  
+> Struck eleven!  
+> The false Fox came to bury me!
+>
+> My rhyme came from Limerick, and its meaning always puzzled my childish attempts to discover it.
+> 
+> M. L. Ferrar.
+> 
+> Newcastle, co. Down
+
+Although the riddle appears to make little sense, the framing of it in the following reply, again in the same issue, does clarify how the riddle might have been used:
+
+> When a child, in New England, thirty years ago, the following was a very popular riddle:—
+> 
+> Come riddle come riddle come right.  
+> Where was I last Friday night!  
+> The moon was high,  
+> And so was I;  
+> The wind did quake,  
+> My heart did ache  
+> To see what a great hole  
+> The two-legged fox did make.
+> 
+> The answer was a legend somewhat similar to that given by Mr. Ratcliffe, viz., of two highwaymen who had a young woman captive, but allowed the run of a certain ground. That while she was one evening out she had climbed a tree, and had seen them dig under it a grave, and heard them converse as to its occupant, who was to be herself. When the time came to carry their purpose into execution they granted her respite if she would compose a riddle they could not guess. The result was the above, and the legend has it that they failed to guess it, and so she saved her life.
+> 
+> T. H. Smith.
