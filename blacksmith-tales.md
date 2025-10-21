@@ -4,6 +4,49 @@
 - Christ and Smith (horse legs into fire, old woman into fire etc) AT0753 https://www.duchas.ie/en/cbes/stories?AaThTypeID=0753&Page=1&PerPage=20
 - blacksmith and St Dunstan (via Tony folk night)
 
+
+https://archive.org/details/notesandqueries39haylgoog/page/148/mode/2up?q=devil+Dunstan+folktale+Osbern
+St. Dunstan.— Was it at Glastonbury or at Mayfield that this saint "pulled the Devil by the nose".
+
+https://archive.org/details/notesandqueries39haylgoog/page/216/mode/2up?q=devil+Dunstan+folktale+Osbern
+
+St. Dunstan (10^'' S. i. U9).-Walter Gale, the Sussex schoolmaster, records that in 1740 "there was at Mayfield a pair of tongs, which the inhabitants affirmed, and many believed, to be that with which St. Dunstan, Archbishop of Canterbury, who had his residence at a tine ancient dome in this town, pinched the devil by the nose when, in the form of a handsome maid, he tempted him." See Chambers's 'Book of Days' (1864), vol. i. P- 331. A. R. Baylky.
+
+It was at Mayfield that the devil is supposed to ha vo had his nose pulled by St. Dunstan. Eadmer, in his 'Life of St. Dunstan,' who died in 988, seems to imply that the palace of the Archbishops of Canterbury at Mayfield was built by that prelate, who, ho says, erected a wooden church. The life of this saint, as related by Osbern, Eadmer, and other monkish writers, is filled with accounts of miracles wrought by him, and also of bickerings and conflicts with the devil, in all which Satan met with more than his match. We are told that the archbishop, performing in person the ceremony of dedicating Mayfield Church, and, according to the accustomed form, going in procession round the building, observed that it was out of the line of sanctity, or, in other words, that it did not stand due east or west; on which he gently touched the edifice with his shoulder, and moved it into its proper bearings, to the great amazement and edification of ail tho spectators.
+
+In connexion with Glastonbury there wag a hundred years ago at the west end of tho Tor, or tho Tower of St. Michael, a carved figure of the archangel, holding in tiis IimmMs a pair of scales, in one of which v, f,
+
+and in the other a devil, who was n ! ly
+
+another bearing upon the scales ; both were represented, however, as much too light to poise against the holy volume.
+
+CiiAS, F. FoRSHAW, LL.D., F.R.Hist.S.
+
+Baltimore House, ISr&dfurd.
+
+The story of St. Dunstan seizing the devil bv the nose occurs for the first time in Osbern's 'Life' of the "father of monks," where it is, I think, mentioned in connexion with his life in his cell at Glastonbury. The story is not quite so ridiculous as it appears at first sight. Dustan's dreams and "fairy tales" were generally turned to proJituhfe account for the edification of children, rather than of "grown-ups," and it is thought possible that the saint actually did t^ke some ribald intruder into his coll 03' the nose with some implement like the tongs, See the Rev. Wra. Stubljs's 'Memorials of Saint Dunstan,' Inlrod., p. Ixv and note.
+
+J. HoLKRji MacMichakl.
+
+The tongs are at Mayfield, and that should suffice, C. S. Waud.
+
+St. Augustine's at Canterbury, I have always heard, claims the site of the tug.
+
+HAttOLO Malkt, Colonel.
+
+
+https://archive.org/details/in.ernet.dli.2015.109283/page/n335/mode/2up
+The Book Of Days A Miscellany Of Popular Antiquities Vol 1
+by R Chambers
+
+Publication date 1863
+
+p331
+
+*St Dunstan.* — Walter Gale, the Sussex schoolmaster, records that in 1749, 'there was at Mayfield a pair of tongs, which the inhabitants affirmed, and many believed, to be that with which St Dunstan, Archbishop of Canterbury, who had its residence at a fine ancient dome in this town, pinched the devil by the nose when, in the form of a handsome maid, he tempted him.' What made it more terrible to this sightly tempter was, that the tongs happened to be red-hot, the pair being one that St Dunstan made use of at his forge, for it seems that the Archbishop was a blacksmith as well as a saint.
+
+--
+
 Seumas Macmanus in The Cosmopolitan, 1903-04: Vol 34 Iss 6
 Publication date 1903-04 pp673-8
 

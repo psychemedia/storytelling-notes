@@ -949,7 +949,7 @@ The woman received them both in a very friendly way, spread the cloth on a long 
 
 "Oh, that's a magician," answered Little Claus, "He says we are not to eat porridge, for he has conjured the oven full of roast meat, fish, and cake."
 
-"Wonderful!" cried the farmer; and he opened the oven in a hurry, and found all the dainty provisions which his wife had hidden there, but which, as he thought, the wizard had conjured forth. The woman dared not say anything, but put the things at once on the table; and so they both ate of the meat, the fish, and the cake. Now Little Claus again trod on bis sack, and made the hide creak.
+"Wonderful!" cried the farmer; and he opened the oven in a hurry, and found all the dainty provisions which his wife had hidden there, but which, as he thought, the wizard had conjured forth. The woman dared not say anything, but put the things at once on the table; and so they both ate of the meat, the fish, and the cake. Now Little Claus again trod on his sack, and made the hide creak.
 
 "What does he say now?" said the farmer.
 

@@ -35,7 +35,7 @@ Suddenly, the door was opened by one of the weavers, and the King's adviser look
 
 The next day, the King sent another of his advisers to check on the tailors. Now this adviser liked a drink, and when he knocked on the door, loudly calling as he did so, he was invited and, and offered a drink before the tour. And he said he didn't mind if he did. And thankyou, yes, another would be very much appreciated to. And all the while, the tailors told him about what they were doing, and they told him some more, and they told him again and, as the bottle was now nearly empty, "Oh is that really the time, we really must be getting on", and the adviser left.
 
-Any when he was asked about the progress the talors were making? "It's incredible, it's absolutely unbelievable". And he didn't tell a lie.
+Any when he was asked about the progress the tailors were making? "It's incredible, it's absolutely unbelievable". And he didn't tell a lie.
 
 And although he feared offending the King, he feared offending the King very much, he did not tell a lie. "How were the clothes? Well, I never did see such a thing!' he said. And it was true. He never had. But he didn't tell a lie.
 
