@@ -58,8 +58,10 @@ And God forbid it should be so!
 which he continued to repeat at every subsequent turn of the dreadful story, till she came to the circumstance of his cutting off the young lady's hand, when, upon his saying, as usual,
 
 It is not so, nor it was not so,  
-And God forbid it should be so!  
-Lady Mary retorts by saying,  
+And God forbid it should be so!
+
+Lady Mary retorts by saying,
+
 But it is so, and it was so,  
 And here the hand I have to show!
 

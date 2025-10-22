@@ -12,7 +12,7 @@ When you could only travel at the speed of foot, say, four miles an hour at an e
 
 ### Speed of sound
 
-According to the old lore, when you see the lighning, count out the seconds till you hear the thunder. Each five seconds counts out a mile to the centre of the storm.
+According to the old lore, when you see the lightning, count out the seconds till you hear the thunder. Each five seconds counts out a mile to the centre of the storm.
 
 If you want to do the sums, the speed of sound in air is 330 m/s. A mile is just over 1600 meters (the 1500m athletics race is the modern mile).
 
@@ -28,14 +28,14 @@ Flashes of lightning frequently extend two or three miles in length; and since t
 
 ### Speed of the sun over the Earth
 
-To an engineering approximation, the Earth is 24000 miles round at the equator (it's actually just shie of 25,000, but engineers are good at making the sums easy whilst getting the ball park figure right). So with a day lasting 24 hours, the sun appeaars to travel round the world at 1000 miles and hour. Which, to another engineering approximation that favours round numbers, is about 15 miles a minute
+To an engineering approximation, the Earth is 24000 miles round at the equator (it's actually just shy of 25,000, but engineers are good at making the sums easy whilst getting the ball park figure right). So with a day lasting 24 hours, the sun appears to travel round the world at 1000 miles and hour. Which, to another engineering approximation that favours round numbers, is about 15 miles a minute
 
 More exact:
 
 Distance round equator: 24,901 miles.  
 Overland speed: 1037.5 mph, 17.2 mph
 
-BUT: latitude matters (i.e. how far north or south of the equator you are in terms of the ditance round that line of latitude) — think of the distance round a balloon.
+BUT: latitude matters (i.e. how far north or south of the equator you are in terms of the distance round that line of latitude) — think of the distance round a balloon.
 
 For London, the distance is 25000.cos(latitude) ~ 15,500 miles, 645mph, just under 11 miles per minute
 For IW, 15,850 miles, 660mph, 11 miles per per minute
@@ -44,11 +44,11 @@ For Edinburgh, just under 140000 miles, 580 mph, 9.7 (a little bit under 10 mile
 
 So how can time travel more quickly on the Island than it does in London, yet the Island still be behind the times in the metoropolis?
 
-Also, as an aside: given that the Earth is about 25,000 miles round (the engineering approaximation to a nice round number), suppose that you have a rope tied around the equator, at ground level. And you want to somehow lift that rope up so that is is just 1 foot about the ground. What length of rope would you need to add to make that possible? [6 feet: 2 pi (R+1)]
+Also, as an aside: given that the Earth is about 25,000 miles round (the engineering approximation to a nice round number), suppose that you have a rope tied around the equator, at ground level. And you want to somehow lift that rope up so that is is just 1 foot about the ground. What length of rope would you need to add to make that possible? [6 feet: 2 pi (R+1)]
 
 Solar time (relative to sun high point), 24 hours in a day
 
-Sidereal time (relative to stars), 23 hours 56 mins 4 seconds; over a year, 4 mins* 365 days is just over 1500 minutes, or 24 hours. In a year, the Earch gets back to its starting position compared to the stars.
+Sidereal time (relative to stars), 23 hours 56 mins 4 seconds; over a year, 4 mins* 365 days is just over 1500 minutes, or 24 hours. In a year, the Earth gets back to its starting position compared to the stars.
 
 
 ### Sound and sun
