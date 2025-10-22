@@ -6,19 +6,19 @@ A set of four tales...
 
 *Widely told, this is a variant that is starting to take some sort of shape for me that borrows from several of them...*
 
-Once upon a time, there was a King, who had three daughters. The King didn't know them perhaps as well as he should, so he called them to him to ask them a question: "how much do you love me?" When the daughters looked at him a rather confused way, he explained to them: one day, I will choose one of you to succeed me. To love me, is to love my people. Who will be your people. So: how much do you love me?"
+There was once a King, an avaricious king, who had three daughters. The King didn't know them perhaps as well as he should, so he called them to him to ask them a question: "how much do you love me?" When the daughters looked at him in a rather confused way, he explained to them: one day, I will choose one of you to succeed me. To love me, is to love my people. Who will in turn be your people. So: how much do you love *me*?"
 
-The eldest princess, who had perhaps expected to be the chosen one, answered first: "I love you as much as all the gold in the kingdom" she said, and to the King, this was a good answer: being a King was an expensive business and this daughter appeared to have learned that lesson already.
+The eldest princess, who had perhaps expected, as her birthright, to be the chosen one, answered first: "I love you as much as all the gold in the kingdom" she said, and to the King, this was a good answer, because being a King was an expensive business and this daughter appeared to have learned that lesson already.
 
-The second princess, who loved to follow the latest fashions, answered: "I love you as much as all the jewels in the kingdom", and this was a pleasing to him too: a King — or Queen — should look the part *and* have a sense of the value of expensive things. And this daughter obviously loved pretty things, so for to love him more than that made him feel good.
+The second princess, who loved to follow the latest fashions, answered: "I love you as much as all the jewels in the kingdom", and this was a pleasing to him too: a King — or Queen — should look the part *and* have a sense of the value of expensive things. And this daughter obviously loved pretty things, so for her to love him more than that made him feel good.
 
-The third, and youngest, daughter, looked as much like one of the serving girls as a princess; rather disappointing, really. She thought for a moment and then said: "Father, I love you more than meat loves salt".
+The third, and youngest, daughter, looked more like one of the serving girls than a princess, and was, quite frankly, a huge disappointment to him. She thought for a moment and then said: "Father, I love you more than meat loves salt".
 
-And the King spluttered. "What sort of answer is that? You, you spiteful, common girl. Get out of my sight... No, more than that, leave the castle altogether. I don't want to see you again... Get yourself some food from the kitchen, and go..." And with that, he sent her away.
+The King spluttered. "What sort of answer is that? You spiteful girl; you common girl. Get out of my sight... No, more than that, leave the castle altogether. I don't want to see you again... Get yourself some food from the kitchen" — he wasn't all that bad, she was his daughter after all, and his wife would probably have something to say if he was too harsh on her — "and go..." And with that, he sent her away.
 
-The girl went to the kitchen, and as she asked for a few small provisions from the cooks, she explained her fate; but the cook took pity on her and said "the King never comes down here. You can stay and help me..." And she gave the girl a wink.
+The girl went to the kitchen and asked for a few small provisions that she might take with her on her journey. But the cook took pity on her, and said "the King never comes down here. So why don't you stay here, and help me..." And she gave the girl a wink.
 
-It wasn't long after that the day came when the King was to announce who would be his successor. To show the love he had for his people, the banqueting hall would be open to all. And to show them his generosity, he would treat them to a feast the like of which they had never seen before. And to show his humility, the guests would be served first, and the King would be served last.
+It wasn't long after that the day came when the King was to announce who would be his successor. To show the love he had for his people, the banqueting hall would be open to all, as long as they brought him an appropriate, and very expensive, gift. And to show them his generosity, he would treat them to a feast the like of which they had never seen before, thought he fully expected all the royal suppliers to provide the food free, because this was a public feast after all. And to show his humility, the guests would be served first, and the King would be served last. Because that way he could ensure that any of the dishes that particularly took his fancy could be put to one side and served up to his table. Because there's nothing worse than wishing you'd ordered that one, rather than yours.
 
 The banqueting hall was packed; the guests were in their finest rags, ("literally", thought the king), and the mood was expectant: all had heard how splendid the King's feasts were, the finest dining but with the most generous of portions, and they were HUNGRY.
 
@@ -48,7 +48,7 @@ And as the serving girl approached his table, the King recognised her as his dau
 
 And he knew who he would announce as his successor.
 
-## Nettle spinner
+## The nettle spinner
 
 *This is told with a later callback from Daniel Morden's telling of "the Leaves That Hung But never Grew".*
 
@@ -80,7 +80,7 @@ III
 
 Several years later, the Wolf passed by again.
 
-Renelde was by now turning from the young girl she once was into the woman she would become, and as she gathered eggs from the hens around the small yard, he asked her: "What is your name?"
+Renelde had turned from young girl to pretty maiden, and as she gathered eggs from the hens around the small yard, he asked her: "What is your name?"
 
 And she told him.
 
@@ -94,9 +94,9 @@ But Renelde knew the stories, and she knew better than to go up to the castle.
 
 IV
 
-A few months more passed before the Wolf next returned. Renelde, in the full flush of maidenhood, was sitting outside the cottage, spinning hemp.
+A few months more passed before the Wolf next returned. Renelde, was sitting outside the cottage, spinning hemp.
 
-"You are Renelde," he said. "Come up to the castle; I shall send away the Countess and make you my wife."
+"Come up to the castle," he said. "I shall send away the Countess and make you my wife."
 
 But many years before, as Renelde's mother lay dying, the Countess had shown much kindness, and helped to take away some of her mother's pain. So even if the Wolf really had wished to marry Renelde, she would always have refused.
 
@@ -104,145 +104,141 @@ And besides, the young woman had started courting a young man...
 
 V
 
-It was only a few weeks before the Wolf appeared again, but they had been happy weeks. A lot had happened in those short weeks.
+It was only a few weeks before the Wolf appeared again, but they had been happy weeks for Renelde. A lot had happened in those short weeks.
 
-This time, Renelde was spinning flax, not hemp.
+This time, she was spinning flax, not hemp.
 
-"What are you spinning?" he asked.
+"What are you spinning?" asked the Wolf.
 
-And she replied: "My wedding shift, sir, if it pleases you?"
+"My wedding shift, sir, if it pleases you?"
 
-"So you are going to be married, then?"
+"Are you to be married, then?"
 
 "Yes, sir, by your leave."
 
 For at that time, if there was no father in the house, the permission to marry must come from the lord.
 
-"Then I will give you leave to do so... But on one condition. The churchyard is filled with nettles that grow over all the tombs. Go there and gather the nettles, then spin them into two fine shifts. One shall be your bridal shift... and the other shall be my shroud. For you shall only be married on the day that I am laid in my grave." And with that, the Count turned away with a mocking laugh.
+"Then I will give you leave to do so... But on one condition. The churchyard is filled with nettles that grow over the tombs. Spin those nettles into two shifts, one for your wedding, one for my shroud. And you may marry when I am laid in my grave." And with that, the Count turned away.
 
 VI
 
-Renelde sobbed. Never had she heard of anyone spinning nettles. Renelde cried: the Count was a strong man, seemingly made of iron, who often boasted that he would live to be a hundred.
+Renelde sobbed. She'd never heard of anyone spinning nettles before. The Count was a strong man, seemingly made of iron, who often boasted that he would live to be a hundred.
 
-She went back into the cottage, sobbing and crying. Through her tears, she blurted out what the Wolf had demanded she should do.
+She went back into the cottage, she blurted out through her teats what the Wolf had demanded of her.
 
-Sitting in the corner, her grandmother said: "it is many years since I have heard of anyone spinning nettles... but it used to be done once, and so I am sure it can be done again."
+Sitting in the corner, her grandmother said: "it's many years since I've heard of anyone spinning nettles... but it used to be done, so I'm sure it can be done again."
 
-And sitting next to her, an old, old woman, older than the hills, who had known the girl's mother, and her grandmother's mother, and her grandmother's grandmother before her. She had recently taken to visiting again, sitting in the shadows, or later in the day, in the flickering candlelight, as if she were waiting, waiting for something, nodding her head and rarely saying a word. But now she said something: "he is foolish to make you such a bargain."
+Sitting next to her, an old, old woman, older than the hills, who'd known the girl's mother, and her grandmother's mother, and her grandmother's grandmother before her. She'd recently taken to visiting again, sitting in the shadows, or later in the day, in the flickering candlelight, sat as if waiting, waiting for something, nodding her head and rarely saying a word. But now she said something: "he's foolish, to make such a bargain."
 
-That evening, Renelde's young man came to visit, as he did every evening. When Renelde told him what Burchard had said, he was angry, and asked what he should do: "Would you like me to watch for the Wolf, and split his skull with a blow from my axe?"
+That evening, as every evening, Renelde's young man came to visit his pretty one. When she told him what Burchard had said, he was angry, asked what he should do: "Shall I watch for him, split his skull with a blow from my axe?"
 
-"No," replied Renelde, "there must be no blood shed over my bridal gown. And I have told you how good the Countess was to my mother. But maybe, maybe?, if make the bridal shift, that will be enough."
+"No, I'll have no blood shed over my bridal dress. And I couldn't do that to the Countess. Maybe the bridal shift will be enough."
 
 VII
 
-And so Renelde went to pick the nettles from the Churchyard, as the Count had said she must; and to her great surprise the nettles, when crushed and prepared, they gave a good thread: soft, and light, and firm.
+The next day, Renelde went to pick the nettles from the Churchyard; found, when crushed and prepared, that they gave a good thread.
 
-And before very long she had spun enough thread to make cloth for the first shift, the shift for her own wedding.
+Before long, she'd spun enough thread to make the cloth for her wedding shift. She hoped it'd be enough.
 
-And she wove it and she cut out the pattern, and she hoped that it would be enough.
+As she finished sewing it, the Wolf appeared again:
 
-Just as she had finished sewing it, the Wolf passed by again:
+"So how are you getting on?"
 
-"Well," said he, "how are you getting on?"
+"Very well, sir" she replied, showed him the wedding shift.
 
-"Very well, sir" she replied, and showed him her wedding shift. It was made of the finest cloth, of the whitest cloth, that the Count had ever seen.
+He'd thought such a thing would be impossible, felt a shudder down his back.
 
-Now he had thought such a thing would be impossible, and he grew pale at the sight of it. But he was a proud man, and he replied gruffly, "Very good. Now begin the other."
+He started to ride away, then stopped, and turned: "this isn't right".
 
-But just as he had started to ride away, he stopped again, and turned, and said: "this is not right" and the girl thought that he had perhaps changed his mind, that her bridal shift would be enough. But it wasn't: "You should not have to do a task alone. Send your young man up to me at the castle; he also should do something for me...".
+Renelde's hearth jumped, thinking he'd changed his mind, that the bridal shift would be enough. But it wasn't: "You shouldn't have to do a task alone," he said. "Send your young man up to me; I have a task for him too...".
 
 VIII
 
-That evening, when Renelde's young man came to visit, as he did every evening, Renelde told him what the Count, what the Wolf, had said.
+That evening, Renelde told him what the Wolf had said.
 
-And so he went up to the Castle.
+He went up to the Castle.
 
-And when he got there, he was summoned in before the Count.
-
-I will not labour you with the details, but the Count's thinking was this: if he could send the young man away, there would be no wedding. And if there was to be no wedding, there would be no reason for Renelde to make his funeral shift. And so he gave the boy on a quest, to find something for him that could not possibly exist, the details of which I will not bore you with now. And that the boy should leave *NOW*, there was no time to waste: the sooner he left, the sooner he would be back — (ha! or never...) — and the Count would send a message to Renelde to say her young man was running an errand for him.
-
-"Now be about your task before you forget it", he said, and the young man was sent on his way.
+I won't labour you with the details, but the Count's thinking was this: if he sent the young man away, there'd be no wedding. And without a wedding, there'd be no need to make the funeral shift. So he gave the boy a quest, to find something that couldn't possibly exist, and he sent him away *NOW*, with no time to waste, no time to saying goodbye to Renelde, no goodbye kiss to remember her by.
 
 IX
 
-The following day, Renelde was sent the news. She had already started on Burchard's funeral shroud before the messenger had arrived. If Burchard had thought it would stop her from working on his funeral shift, it had the opposite effect.
+The following day, Renelde was sent the news. If Burchard thought it would stop her from working on his funeral shift, it had the opposite effect.
 
-She worked even harder and faster than she had before. In the castle, a cold shiver passed over the Count when the messenger reported back what he had seen. As the saying goes, it felt almost as if someone was walking over his grave.
+She worked even harder and faster than she had before.
 
-He tried to eat his lunch, but he had no appetite; he tried to warm himself by the fire, but it was as if it burned with a cold, cold flame.
+In the castle, Burchard started to sicken.
 
-All that day he got worse; he went to bed shaking with fever. But he did not sleep; and in the morning, he could not manage to rise.
+He tried to eat his lunch, but he had no appetite; he tried to warm himself by the fire, but it was as if it burned with a cold flame that sucked the heat out of him rather than warming him.
 
-This sudden illness, which at every instant became worse, started to torture him as if it were waking nightmare.
-
-No doubt Renelde's spinning-wheel had something to do with this? It was almost as if his body were preparing to dress itself in the shroud she was spinning.
+All day he got worse, and went to bed shaking with a fever. Through the night, he couldn't sleep; in the day he couldn't rise, caught in a waking nightmare where all he could hear was the sound of a spinning wheel.
 
 X
 
-So he called to his soldiers, and sent them to break the wheel to stop her spinning.
+He called his soldiers, sent them to break Renelde's spinning wheel.
 
-So the soldiers when to the cottage in the forest, and they broke the wheel into a thousand pieces.
+They broke it into a thousand pieces. But the next day, it was mended again, and Renelde carried on with her spinning, pursuing her quest as she was sure her man pursued his.
 
-But the next day, the wheel was mended, and Renelde sat down to spin again. As her young man was on his quest, so was she on hers — to finish the second shift.
+Again the Count sent his guards, to tie her hands and to watch over her.
 
-Again the Count sent his guards, this time to tie her hands, and not lose sight of her for one instant.
+But the guards fell asleep, the bonds undid themselves, and Renelde spun on.
 
-But the guards fell asleep, the bonds undid themselves, and the Renelde spun on.
+A third time the guards were sent. This time, to seize her, tie her arms and legs together,  a stone around her neck, and fling her into the river.
 
-A third time the guards were sent. This time, they seized her, tied her arms and legs together, and a stone to her neck and flung her into the river, its waters swollen by the late rains. But the ropes untied themselves, and Renelde floated up to the surface, and though she could not swim, she was somehow carried to the land.
+But the ropes untied themselves, and even though Renelde couldn't swim, she rose to the surface, and made it to the bank.
 
-As Renelde spun on, he Count had every nettle rooted up for three leagues round. But scarcely had they been torn from the soil when they sowed themselves afresh, and grew even as you were looking at them.
+She spun on.
 
-They sprung up even in the well-trodden floor of the cottage, and as fast as they were uprooted the distaff gathered to itself a supply of nettles, crushed, prepared, and ready for spinning.
+The Count had every nettle rooted up for three leagues around. But scarcely had they been torn from the soil when they sowed themselves afresh, grew up, right before your eyes.
 
-And every day the Count grew worse, and watched his end approaching.
+They even grew through the floor of the cottage. And as soon as they were uprooted, they were ready for spinning.
+
+And every day the Count grew worse.
 
 XI
 
-Moved by pity for her husband, the Countess at last found out the cause of his illness. But even as she entreated him to allow himself to be cured, the Count, in his pride, refused to go back on his demand.
+Despite the Countess's pleading, he refused to lift the condition on Renelde's marrying, so she resolved to go without his knowledge to ask for Renelde's mercy; in the name of Renelde's dead mother, to please stop the spinning.
 
-So the Countess resolved to go without his knowledge to pray for mercy from Renelde; in the name of Renelde's dead mother, she beseeched her to stop spinning.
+But Renelde was determined: "He said I can't marry until I've finished his funeral shift."
 
-But Renelde was determined: "He said I cannot marry until I have finished his funeral shift,"
+"But you can't marry until your young man returns... So, please, stop spinning, for now at least. For my husband's sake. For my sake. For the memory of your mother. Please."
 
-"But neither can you marry until your young man returns... So please, stop your spinning until then, at least. For my husband's sake. For my sake. For the memory of your mother. Promise me, please, promise me."
+Renelde agreed, and stopped her spinning. For one month, for two, for six, for a year.
 
-So so Renelde promised her, and stopped her spinning. And waited for one month, for two, for six, for a year. The Wolf began to recover his health, happy with thought that Renelde's young man would never return, satisfied that he would not have to retract his demand.
+The Wolf began to recover his health, happy with the thought that Renelde's young man would never return, satisfied that he would not have to retract his demand.
 
 XII
 
 One day, at the market, Renelde saw the Count. She clasped her hands as if in prayer, and cried:
 
-"My lord, have mercy! Tell me where he went..."
+"My lord, please, tell me where he went..."
 
 But the Wolf just turned his head away, and passed on by.
 
-Renelde might have humbled his pride had she gone back to her spinning-wheel again; but she did nothing of the sort.
+That night, Renelde looked at the spinning-wheel, at the half-finished cloth. But she had promised the Count's wife.
 
-When she came back home she looked at the silent spinning wheel in the corner, and cried for three days and three nights, and nothing her grandmother could say, or do, made things any better.
+For three days and three nights, she cried, and nothing her grandmother could say, or do, made things any better.
 
 XIII
 
 Another year went by.
 
-When the Count fell ill again, the Countess supposed that Renelde had started to spin again. But when she came to the cottage, angrily knocking at the door and asking "why, why are you spinning again?", she saw the spinning wheel was still, covered in dust and cobwebs in the corner of the room.
+When the Count fell ill again, the Countess supposed that Renelde had started to spin again. But when she came to the cottage, angrily knocking at the door, asking "why, why are you spinning again?", she saw the spinning wheel was still, covered in dust and cobwebs in the corner of the room.
 
-The Count grew worse and worse, and the doctors gave up all hope. The passing bell was rung, and the Count lay expecting Death to come for him.
+The Count grew worse, and the doctors gave up all hope. The passing bell was rung, and the Count lay expecting Death to come for him.
 
-But Death was not so near as the doctors thought, and still the Count lingered.
+But Death was not so near as the doctors thought, and the Count lingered.
 
-His condition was desperate: he got neither better nor worse. He could neither live nor die. He suffered horribly, and called loudly on Death to put an end to his misery.
+His condition was desperate: he got neither better nor worse. He could neither live nor die. He suffered horribly, called out for Death to take him, to put an end to his misery.
 
-His thoughts turned to Renelde, and the demand he had made of her long ago. If Death was so slow in coming, was it because he had no shroud for his burial?
+His thoughts turned to Renelde. If Death was so slow in coming, was it because he had no shroud for his burial?
 
 XIV
 
-He sent for Renelde, thinking not of what he might have done for her, but only of what she might do for him. And as she stood at the foot of his of his bed, he looked at her with a cold flash of fire in his eye, and he ordered her to go on spinning his shroud.
+He sent for her, thinking not of what he might have done for her, only of what she might do for him. As she stood, summoned, at the foot of his bed, he despised her. He ordered her to go on spinning his shroud.
 
-Renelde looked at the Wolf, at the Count.
+She looked at the Wolf, at the Count.
 
-"I made your wife a promise", she said, "that I would not spin again until my young man has returned". And with that, she turned, and left the room.
+"I made your wife a promise", she said. "I promised that I would not spin again until my young man has returned". And with that, she turned away, and left the room.
 
 And as she lived on in her silent sorrow, the Count lingered on, straddled between the worlds of life and death...
 
@@ -272,19 +268,19 @@ Outside, a bell tolled.
 
 "Listen to me", said the girl, "and I will tell you a story. Your father said that funny stories don't help, but this isn't a funny story." And so she began her tale.
 
-Once, there was a young woman called Anwen. She lived with her mother in little old cottage.
+Once, there was a young woman called Anwen. Her mother had died when she was young, and now she lived with her grandmother in little old cottage.
 
 They were so poor, they had to share a bed. But even though they were poor, there was always smoke coming out the chimney, there were always hens scratching in the yard outside.
 
 One night, as she slept, Anwen had a dream: she dreamt that she should search until she found the leaves that hung but never grew. "An odd dream", she thought, when she woke up the next morning, but then thought no more of it.
 
-The next night, she had the self-same dream. She mentioned it to her mother.
+The next night, she had the self-same dream. She mentioned it to her grandmother.
 
 When the dream occurred again, exactly as it had before, she knew what she must do.
 
-"If your heart is set on traveling", said her mother, "I can't stop you. But listen to me. Sometimes the world is not the way it seems. If you see something you don't understand, wait. Watch before you speak."
+"If your heart is set on traveling", said her grandmother, "I can't stop you. But listen to me. Sometimes the world is not the way it seems. If you see something you don't understand, wait. Watch before you speak."
 
-Anwen packed a small bag, said goodbye to her mother, and promised to return.
+Anwen packed a small bag, said goodbye to her grandmother, and promised to return.
 
 As evening came, the sky went red. Anwen walked towards a small hill. At the bottom of the hill was a cottage. Behind, at the top of the hill, a tree with seven spindly branches. Hanging from each branch, a single leaf.
 
@@ -298,7 +294,7 @@ The old woman snarled: "Rhoswen, do something right for once. Go and get some wa
 
 But if she was harsh towards her daughter, the old woman was politeness itself to Anwen: "Ah, Anwen, I'm sure you're tired after your journey. Please sit down, eat, drink."
 
-So Anwen sat; and she ate, and she drank; and they talked about this, and they talked about that. And as they talked, Anwen was careful. She said nothing about the leaves that hung but never grew. She remembered her mother's advice. She said she was poor and she was seeking her fortune.
+So Anwen sat; and she ate, and she drank; and they talked about this, and they talked about that. And as they talked, Anwen was careful. She said nothing about the leaves that hung but never grew. She remembered her grandmother's advice. She said she was poor and she was seeking her fortune.
 
 "I don't know about a fortune", said the old woman, "but I do need a bit of help around my cottage. My *stupid daughter* can't bring water from the well without spilling it. So Anwen, if you can sweep the floor, and keep the fire alight, feed the boar each night and bring me a cup of tea in the morning, I'll give you whatever food I can spare.
 
@@ -306,7 +302,7 @@ So Anwen sat; and she ate, and she drank; and they talked about this, and they t
 
 Anwen said she was grateful. She said she was glad to stay. The days turned into weeks. The weeks turned into months. Each morning, she swept the floor and tended the fire. Each night, she fed the boar. And every day, three times a day, the old woman gave her a plate piled high with good things to eat. And each time, insisted that Anwen clear the plate.
 
-For the first time in her life, Anwen found there was flesh on her bones, instead of just skin. But she notice that, if ever Rhoswen, the daughter of this house, asked for another morsel, another mouthful, her mother would shout at at, and chastise — what are you, eating me out of house and home?! — and would beat her daughter across her back.
+For the first time in her life, Anwen found there was flesh on her bones, instead of just skin. But she notice that, if ever Rhoswen, the daughter of this house, asked for another morsel, another mouthful, her mother would shout at her, and chastise her — what are you, eating me out of house and home?! — and would beat her daughter across her back.
 
 It was hard for Anwen to eat whenever Rhoswen was across the room, watching her, following every fork full.
 
@@ -352,13 +348,13 @@ There was no way they could escape; all they could do was hide: Anwen took out a
 
 Just in time. Around the corner, came Rhoswen. The footsteps she'd been following through the woods had ended. A bit odd...
 
-"Little duck! Little duck? did you see a young woman, and a young man, come by this way."
+"Little duck! Little duck? Oh pretty little duck, did you see a young woman, and a young man, come by this way."
 
-The duck said nothing, just dipped its head beneath the surface of the water.
+The duck said nothing, just dipped its head beneath the surface of the water. And ignored her.
 
 [Sigh...]
 
-Rhoswen turned round, went back to the cottage the way she'd come. When she got back home, her mother, the witch, asked: "Well? Did you find them?
+Rhoswen... turned round, went back to the cottage, following the way she'd come. When she got back home, her mother, the witch, asked: "Well? Did you find them?
 
 Rhoswen replied: "I found nothing. I went into the forest, and followed their footprints; but then they stopped. And there was nothing there.... "Nothing?" "Nothing,... well... a pond, and on the pond, there was a duck; but nothing else...".
 
@@ -370,11 +366,9 @@ Anwen and the young man, back in human form, were running, running through the f
 
 The footprints on the path had disappeared again. A bit odd, a rose bush, out of season... and a bee...
 
-Rhoswen leaned towards the rose bush, recognising something within it, perhaps, because in Welsh, Rhoswen means "white rose".
+Rhoswen leaned towards the rose bush, and the bee buzzed angrily. Rhoswen — which means, white rose, in the Welsh — stepped back.
 
-The bee buzzed angrily, and Rhoswen stepped back.
-
-"Little bee, little bee, did you see a young woman, and young man, pass by this way?"
+"Little bee, little bee, oh you pretty little bee, did you see a young woman, and young man, pass by this way?"
 
 But the bee said nothing, just buzzed some more, and disappeared into the rose.
 
@@ -390,11 +384,11 @@ So off went Rhoswen again, into the forest, as fast as thought. Anwen and the yo
 
 Just in time, Rhoswen, following the footsteps through the wood, and then - nothing...
 
-Rhoswen looked up at the apple. A mischievous smile. And a glisten in her eye.
+Rhoswen looked up at the apple. Smiled mischievously. And if she tried to reach up to pick that apple, she sank her hips so she couldn't reach it.
 
-"Little tree, little tree: did you see a young man, and a young woman, pass by this way?"
+"Little apple, little apple, oh pretty little apple: did you see a young man, and a young woman, pass by this way?"
 
-But even in stories, apples do not talk...
+But even in stories, apples do not talk back...
 
 Rhoswen turned round, went back the way she'd came, back to the cottage.
 
@@ -402,7 +396,7 @@ Rhoswen turned round, went back the way she'd came, back to the cottage.
 
 "I didn't find anything. No pond, no bush... Nothing." "Nothing?" "Well, no... except... A tree. With a single red apple on it..."
 
-"Arghhh... You *stupid* girl. If you wanna do something, you gotta do it yourself. Get out of the way". And off went the witch, even faster than thought.
+"Arghhh... You *stupid* girl. If you wanna do something, you gotta do it yourself. Get out of my way". And off went the witch, even faster than thought.
 
 Anwen and the young man, in human form again, came to the edge of the forest. There was nowhere left for them to hide. They could sense someone coming, *hear* footsteps behind them. A crossroads. Anwen reached into her pocket. There were just two leaves left. She took one for herself, and gave the other to the young man.
 
@@ -422,7 +416,7 @@ An old woman, older than the hills, who had known the girl's mother, and her gra
 
 The girl nodded. "And my wait is over too..."
 
-Anwen went to dresser, took out two shifts. One was finished, one was not. In the corner of the room was a spinning wheel, covered in dust and cobwebs. The girl sat at the spinning wheel, sewed up the second shift, completed it.
+Anwen went to dresser, took out two shifts. One was finished, one was not. In the corner of the room was a spinning wheel, covered in dust and cobwebs. The girl sewed up the second shift, completed it.
 
 In the distance, a solitary bell started to ring, sounding out the death of a local lord.
 
@@ -440,7 +434,7 @@ As the old man reached out to hug his child, the young man drew away...
 
 "I? What? Who are you? Get away from me... Where am I? *Who* am I?"
 
-Anwen took to wandering. She had no family, she had no money, she had: no-one; nothing. She had to sleep under hedges, in sheds and in outhouses. She walked until her hair was matted with twigs and leaves, until her clothes were no more than rags, once white, now grey, until her shoes were worn away.
+From the cross-roads, Anwen had taken to wandering. She had no family, she had no money, she had: no-one; nothing. She had to sleep under hedges, in sheds and in outhouses. She walked until her hair was matted with twigs and leaves, until her clothes were no more than rags, once white, now grey, until her shoes were worn away.
 
 At last, she came to a village, where an old man took pity on her, gave her tea to drink, and some food to eat.
 
@@ -449,6 +443,8 @@ The old man told her tales and legends of that place. Stories you may have heard
 And with that, the young woman finished her story. And outside, in the distance, a bell tolled.
 
 At the end of the bed, the young man watched her, transfixed. He wiped the drying tears from his face. Held out his hand, his first still clenched. Opened it. And there, in the palm of his hand, a leaf. A single, solitary leaf.
+
+"Oh, my pretty one", he said, because in Welsh, "Anwen" means pretty one.
 
 And that *is* the end of the story.
 
