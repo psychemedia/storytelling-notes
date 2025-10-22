@@ -47,7 +47,7 @@ Among other characteristics of this spirit, was that of superior strength, a qua
 
 `Baker assigns a more matter-of-fact origin for the appellation "Nine Churches." **Stowe," he says, "received its adjunct of 'Nine Churches' because there was nine advowsons appendant to the manor."`
 
-`The form of the hog was one of Puck's numerous disguises : thus in the Midsummer Night's Dream, act iii. sc. 1 :—]`
+`The form of the hog was one of Puck's numerous disguises: thus in the Midsummer Night's Dream, act iii. sc. 1 :—]`
 
 `"Sometimes a horse I'll be, sometimes a bound. A hog, a headless bear, sometimes a fire."`
 
@@ -65,7 +65,7 @@ With the exception of the proverbs and legends, few traces of him remain; and ti
 Grimm not v. satisfactory to my mind...
 
 https://archive.org/details/grimmshouseholdt2grim/page/318/mode/2up
-Grimm's household tales : with the author's notes. Vol. II
+Grimm's household tales: with the author's notes. Vol. II
 by Grimm, Jacob, 1785-1863; Grimm, Wilhelm, 1786-1859; Hunt, Alfred William, Mrs., 1831-1912; Lang, Andrew, 1844-1912
 
 Publication date 1884
@@ -101,7 +101,7 @@ CHAPTER XLV
 
 How Pantagruel landed on the Island of the Popefigs
 
-THE next Morning we came to the Island of the Popefigs, `[Popefigs, i.e. those who despise or make the fig at the Pope — the Reformers. The origin of this gesture (putting the thumb between the index and middle finger) is obscure. The earliest allusion to it that I can find is in Dante, Inferno xxv. i, 2 : Al fine delle sue parole il ladro, Le mane alzò con ambedue le fiche. Scartazzini has a learned note on this passage, but does not trace it further back. Is it possible that the Hebrew word Thacor indicates a reference to I Samuel vi. 5?]` who were formerly wealthy and free, and bore the Name of Gaillardets ; but now they were poor and miserable, and subject to the Papimanes. ...
+THE next Morning we came to the Island of the Popefigs, `[Popefigs, i.e. those who despise or make the fig at the Pope — the Reformers. The origin of this gesture (putting the thumb between the index and middle finger) is obscure. The earliest allusion to it that I can find is in Dante, Inferno xxv. i, 2: Al fine delle sue parole il ladro, Le mane alzò con ambedue le fiche. Scartazzini has a learned note on this passage, but does not trace it further back. Is it possible that the Hebrew word Thacor indicates a reference to I Samuel vi. 5?]` who were formerly wealthy and free, and bore the Name of Gaillardets ; but now they were poor and miserable, and subject to the Papimanes. ...
 
 ...
 
@@ -149,7 +149,7 @@ When the time of Gathering was come, the Devil appeared on the Ground with a Squ
 
 "I am told that there is no Breakfast like a Student's, no Dinner like a Lawyer's, no Bever `[Fr. ressiner. Cf. i. 5. From recticinium (Du Cange).]` like a Vine-dresser's, no Supper like a Merchant's, no Second Supper `[Fr. regoubillonner.]` like a Chambermaid's; and none of all these Meals like a cowled Hobgoblin's. `[Fr. Farfadets. Rabelais uses this word of monks, with a reference to the story hinted at in ii. 7, n. 51 and iii. 10, 23. Cf. also the proverb: Nil mendicatis sociorum dulcius offis.]` It is quite true.
 
-"In fact, Lord Lucifer takes at all his Meals Hobgoblins as his first Course; and he used to breakfast off Students, but, alas ! by some Misfortune, I know not what, they have for some Years past added the Holy Bible to their Studies. For this Reason we cannot draw one of them to the Devil; and I believe that if the Hypocrite Monks do not help us, by taking their St. Paul from their Hands by Threats, Revilings, Force, Violence and Burnings, we shall get no more to nibble at down below. `[Rabelais must have been very angry to trust himself to write a sentence like this. It is putting quite plainly what poor Des Periers put obscurely in the Cymbalum Mundi, which drove him to  suicide.]`
+"In fact, Lord Lucifer takes at all his Meals Hobgoblins as his first Course; and he used to breakfast off Students, but, alas! by some Misfortune, I know not what, they have for some Years past added the Holy Bible to their Studies. For this Reason we cannot draw one of them to the Devil; and I believe that if the Hypocrite Monks do not help us, by taking their St. Paul from their Hands by Threats, Revilings, Force, Violence and Burnings, we shall get no more to nibble at down below. `[Rabelais must have been very angry to trust himself to write a sentence like this. It is putting quite plainly what poor Des Periers put obscurely in the Cymbalum Mundi, which drove him to  suicide.]`
 
 "He generally dines off Lawyers, Perverters of Right, and Robbers of the Poor; and he has them in abundance. But one gets tired of eating the same Dish every day.
 
@@ -175,7 +175,7 @@ The Day they had appointed was that on which we came into the Island. Early in t
 
 Just as they were telling us this Story, we got News that the old Woman had befooled the Devil and gained the Field.
 
-The Manner of it was as follows. The Devil came to the Labourer's Door, knocked and called out : "So ho Villain, ho Villain; now for a fine Clawing-match."
+The Manner of it was as follows. The Devil came to the Labourer's Door, knocked and called out: "So ho Villain, ho Villain; now for a fine Clawing-match."
 
 Then as he came into the House briskly and quite resolute, he did not find the Labourer there, but spied his Wife lying on the Ground weeping and wailing.
 
@@ -189,7 +189,7 @@ Then as he came into the House briskly and quite resolute, he did not find the L
 
 With this she uncovered herself up to the Chin, after the manner in which the `[Plut. de virt. Mul. 246B.]` Persian Women formerly presented themselves before their Children, as they fled from Battle, and shewed him her What's-its-name.
 
-The Devil, seeing the enormous Solution of Continuity in all its Dimensions, cried out: "Mahoun, Demiourgon, `[Demiourgon. iii. 22 fin. Demiourgos is the maker of the world in Plato's Timaeus. Here at should be Demogorgon.]` Megaera, Alecto, Persephone, he won't find me here; I am off double quick. Sela ! `[The reading Sela has been adopted instead of Cela, which gives no sense, and is differently punctuated in the editions. Sela, verily, certainly, so be it, is the Hebrew word found in some of the Psalms and used at the end of the last chapter of this Book.]` I give up the Field to him."
+The Devil, seeing the enormous Solution of Continuity in all its Dimensions, cried out: "Mahoun, Demiourgon, `[Demiourgon. iii. 22 fin. Demiourgos is the maker of the world in Plato's Timaeus. Here at should be Demogorgon.]` Megaera, Alecto, Persephone, he won't find me here; I am off double quick. Sela! `[The reading Sela has been adopted instead of Cela, which gives no sense, and is differently punctuated in the editions. Sela, verily, certainly, so be it, is the Hebrew word found in some of the Psalms and used at the end of the last chapter of this Book.]` I give up the Field to him."
 
 Having heard the Catastrophe and End of the Story, we retired on board our Ship and made no further Stay there.
 

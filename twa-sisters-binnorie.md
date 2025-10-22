@@ -37,11 +37,11 @@ So one fine morning, fair and clear, she said to her sister, "Let us go and see 
 
 "No, sister, I'll reach you no hand of mine, for I am the heir to all your land. Shame on me if I touch the hand that has come 'twixt me and my own heart's love."
 
-"O sister, O sister, then reach me your glove!" she cried, as she floated further away, "and you shall have your William again ."
+"O sister, O sister, then reach me your glove!" she cried, as she floated further away, "and you shall have your William again."
 
 "Sink on," cried the cruel princess, "no hand or glove of mine you'll touch. Sweet William will be all mine when you are sunk beneath the bonny mill-stream of Binnorie." And she turned and went home to the king's castle.
 
-And the princess floated down the mill-stream, some times swimming and sometimes sinking, till she came near the mill. Now the miller's daughter was cooking that day,and needed water for her cooking. And as she went to draw it from the stream, she saw something floating towards the mill-dam, and she called out, "Father! father! draw your dam. There's something white - a merrymaid or a milk-white swan — coming down the stream ." So the miller hastened to the dam and stopped the heavy cruel mill-wheels. And then they took out the princess and laid her on the bank.
+And the princess floated down the mill-stream, some times swimming and sometimes sinking, till she came near the mill. Now the miller's daughter was cooking that day,and needed water for her cooking. And as she went to draw it from the stream, she saw something floating towards the mill-dam, and she called out, "Father! father! draw your dam. There's something white - a merrymaid or a milk-white swan — coming down the stream." So the miller hastened to the dam and stopped the heavy cruel mill-wheels. And then they took out the princess and laid her on the bank.
 
 Fair and beautiful she looked as she lay there. In her golden hair were pearls and precious stones; you could not see her waist for her golden girdle, and the golden fringe of her white dress came down over her lily feet.
 
@@ -49,7 +49,7 @@ But she was drowned, drowned!
 
 And as she lay there in her beauty a famous harper passed by the mill-dam of Binnorie, and saw her sweet pale face. And though he travelled on far away he never forgot that face, and after many days he came back to the bonny mill-stream of Binnorie. But then all he could find of her where they had put her to rest were her bones and her golden hair. So he made a harp out of her breast-bone and her hair, and travelled on up the hill from the mill-dam of Binnorie, till he came to the castle of the king her father.
 
-That night they were all gathered in the castle hall to hear the great harper — king and queen, their daughter and son, Sir William and all their Court. And first the harper sang to his old harp, making them joy and be glad or sorrow and weep just as he liked. But while he sang he put the harp he had made that day on a stone in the hall. And presently it began to sing by itself, low and clear, and the harper stopped and all were hushed .
+That night they were all gathered in the castle hall to hear the great harper — king and queen, their daughter and son, Sir William and all their Court. And first the harper sang to his old harp, making them joy and be glad or sorrow and weep just as he liked. But while he sang he put the harp he had made that day on a stone in the hall. And presently it began to sing by itself, low and clear, and the harper stopped and all were hushed.
 
 And this was what the harp sung:
 
@@ -2442,13 +2442,13 @@ pp. 201-205
 
 THE THEEE BROTHERS.
 
-THERE were once upon a time three brothers, and the third was a fool. And in their little garden grew golden apple trees with golden apples, and not far off lived a hog that had taken a fancy to these apples. So the father sent his sons into the garden to guard the trees. The eldest went first, and sat and sat and watched and watched till he was tired of watching, and fell asleep. Then the hog crept in, and dug and dug till he had digged up an apple tree, which he ate up, and then went his way. The father got up next morning and counted his apple trees, and one of them was gone. The next night the father sent the second S0n to watch. He waited and watclied till he also fell asleep, and the hog came again and dug up and ate another golden apple tree and made off. The next morning the father got up again and counted his trees, and another was gone. Then the fool said :
+THERE were once upon a time three brothers, and the third was a fool. And in their little garden grew golden apple trees with golden apples, and not far off lived a hog that had taken a fancy to these apples. So the father sent his sons into the garden to guard the trees. The eldest went first, and sat and sat and watched and watched till he was tired of watching, and fell asleep. Then the hog crept in, and dug and dug till he had digged up an apple tree, which he ate up, and then went his way. The father got up next morning and counted his apple trees, and one of them was gone. The next night the father sent the second S0n to watch. He waited and watched till he also fell asleep, and the hog came again and dug up and ate another golden apple tree and made off. The next morning the father got up again and counted his trees, and another was gone. Then the fool said :
 
 "Dad, let me go too!" But the father said:
 
 "Oh, fool, fool, wherefore shouldst thou go? Thy wise bi'ethren have watched to no purpose, what canst thou do?"
 
-"Hoity-toity!" said the fool; "give me a gun, and I'll go all the same." His father wouldn't give him a gun, so he took it and went to watch. He placed his gun across his knees and sat down. He sat and sat, but nothing came, nothing came; he got drowsy, was nodding off, when his gun fell off his knees, and he awoke with a start and watched more warily. At last he heard something — and there stood the hog. It began to dig up another tree, when he pulled the trigger and — bang ! His brothers heard the sound, came running up, were quite amazed to see a ddftd boar lying there, and said:
+"Hoity-toity!" said the fool; "give me a gun, and I'll go all the same." His father wouldn't give him a gun, so he took it and went to watch. He placed his gun across his knees and sat down. He sat and sat, but nothing came, nothing came; he got drowsy, was nodding off, when his gun fell off his knees, and he awoke with a start and watched more warily. At last he heard something — and there stood the hog. It began to dig up another tree, when he pulled the trigger and — bang! His brothers heard the sound, came running up, were quite amazed to see a ddftd boar lying there, and said:
 
 "What will become of us now?"
 

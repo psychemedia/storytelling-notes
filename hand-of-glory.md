@@ -576,7 +576,7 @@ William Henderson, as part of the appendix on *Household Tales* by Sabine Baring
 
 One dark night, after the house had been closed, there came a tap at the door of a lone inn, in the midst of a barren moor.
 
-The door was opened, and there stood without, shivering and shaking, a poor beggar, his rags soaked with rain and his hands white with cold . He asked piteously for a lodging,, and it was cheerfully granted him; though there was not a spare bed in the house, he could lie along on the mat before the kitchen fire, and welcome.
+The door was opened, and there stood without, shivering and shaking, a poor beggar, his rags soaked with rain and his hands white with cold. He asked piteously for a lodging,, and it was cheerfully granted him; though there was not a spare bed in the house, he could lie along on the mat before the kitchen fire, and welcome.
 
 All in the house went to bed except the cook, who from her kitchen could see into the large room through a small pane of glass let into the door. When every one save the beggar was out of the room, she observed the man draw himself up from the floor, seat himself at the table, extract a brown withered human hand from his pocket, and set it upright in the candle stick. He then anointed the fingers, and applying a match to them, they began to flame. Filled with horror, the cook rushed up the backstairs, and endeavoured to arouse her master and the men of the house; but all in vain — they slept a charmed sleep; and finding all her efforts ineffectual, she hastened down stairs again. Looking again through the small window, she observed the fingers of the hand flaming, but the thumb gave no light — this was because one of the inmates of the house was not asleep.
 

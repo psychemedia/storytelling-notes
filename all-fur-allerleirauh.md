@@ -9,7 +9,7 @@ Household stories collected by the brothers Grimm, tr., with illustr. by E.H. We
 
 
 https://archive.org/details/grimmshouseholdt01grim/page/276/mode/2up
-Grimm's household tales : with the author's notes.
+Grimm's household tales: with the author's notes.
 
 p277-282
 
@@ -24,7 +24,7 @@ Consists of stories from Hesse and Paderborn; the last varies in some particular
 
 
 https://archive.org/details/grimmsgoblinsgri00grim/page/254/mode/2up
-Grimm's goblins : Grimm's household stories
+Grimm's goblins: Grimm's household stories
 by Grimm, Jacob, 1785-1863; Grimm, Wilhelm, 1786-1859; Taylor, Edgar, 1793-1839; Cruikshank, George, 1792-1878, illustrator
 
 Publication date 1876
@@ -42,7 +42,7 @@ VOL III. PART I.
 
 1880
 
-CATSKIN : THE ENGLISH AND IRISH PEAU D'ANE.
+CATSKIN: THE ENGLISH AND IRISH PEAU D'ANE.
 
 HENRY CHARLES COOTE.
 

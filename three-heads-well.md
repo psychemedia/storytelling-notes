@@ -524,7 +524,7 @@ Lift me to your knee, my own darling;
 Remember the words you and I spoke,  
 Down in the meadow by the World's End Well."
 
-But the girl didn't like to, till her stepmother said: "Lift it up this instant, you hussy ! Girls must keep their promises!"
+But the girl didn't like to, till her stepmother said: "Lift it up this instant, you hussy! Girls must keep their promises!"
 
 So at last she lifted the frog up on to her lap, and it lay there for a time, till at last it said :
 

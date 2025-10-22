@@ -86,7 +86,7 @@ Via: *Der Kinder Wundergarten: Märchen aus aller Welt*, Friedrich Hofmann, 1878
 
 The young farmer, who was not making any headway in the business, sat on his plow and rested for a moment to wipe the sweat from his face. Then an old pere came sneaking past and called out to him: "What are you struggling with and still getting nowhere?" Rarely go out for two days until you come to a large fir tree that stands freely in the forest and towers over all the other trees. If you turn it over, your luck is made."
 
-The farmer didn't need to be told twice, took his hatchet and set off. After two days he found the fir. He immediately set about felling it , and the moment it fell and fell violently to the ground , a nest with two eggs fell out of its highest treetop . The eggs fell on the ground and broke , and as they broke , a young eagle came out of one egg , and a small golden ring fell out of the other . The eagle grew steadily until it was probably half a man's height, shook its wings as if trying them, rose a little above the ground and then cried:
+The farmer didn't need to be told twice, took his hatchet and set off. After two days he found the fir. He immediately set about felling it , and the moment it fell and fell violently to the ground , a nest with two eggs fell out of its highest treetop. The eggs fell on the ground and broke , and as they broke , a young eagle came out of one egg , and a small golden ring fell out of the other. The eagle grew steadily until it was probably half a man's height, shook its wings as if trying them, rose a little above the ground and then cried:
 
 "You redeemed me! As a thank you, take the ring that was in the other gi! It is a wish ring. If you turn a finger and make a wish, it will soon come true. But there is only one wish in the ring. So think carefully about what you wish for so that you don't regret it afterwards.
 
@@ -94,7 +94,7 @@ Then the eagle flew high in the air, hovered for a long time in large strips ove
 
 The farmer took the ring, put it on his finger and started to go home. When it was evening he arrived at a town; there the goldsmith stood in the shop and had many princely rings for sale. Then the farmer showed him his ring and asked him what it was worth. "A cardboard stick!" said the goldsmith. Then the farmer laughed out loud and told him that it was a wishing ring and was worth more than all the rings together that Fener had for sale. But the goldsmith was a wrong, big man. He invited the farmer to come over Staying with him at night said: "To shelter a man like you with such treasures brings good luck; stay with me!" took the ring off his finger unnoticed and put an ordinary ring of the same kind on him instead.
 
-The next morning the goldsmith could hardly wait for the farmer to leave. He woke him up early in the morning and said: "You still have a long way to go. It is better if you get up early ."
+The next morning the goldsmith could hardly wait for the farmer to leave. He woke him up early in the morning and said: "You still have a long way to go. It is better if you get up early."
 
 As soon as the farmer was gone, he hurriedly went into his room, closed the shutters so that no one would steal anything, then bolted the door behind him, stood in the middle of the room, turned the ring and called out: "I want to right away have a hundred thousand thalers."
 
@@ -115,11 +115,11 @@ That would be worth the trouble," replied the man. "If we work hard for a year a
 
 Then the woman said it would be good if you wished for a rest and a horse. Madam," replied the man again, rattling the remaining money in his big pocket, "what do we want to forgive our wishes for such a slob. We'll get the cow and the horse the same way."
 
-And right , after another year the chair and the horse were richly deserved . Then the man rubbed my hands happily and said: "Another trip, saved the wish and got everything that one wished for. How lucky we are! "But the wife seriously persuaded her husband to go after the wish at last.
+And right , after another year the chair and the horse were richly deserved. Then the man rubbed my hands happily and said: "Another trip, saved the wish and got everything that one wished for. How lucky we are! "But the wife seriously persuaded her husband to go after the wish at last.
 
 "I don't know you at all," she said angrily. In the past you always complained and had pity and wished for everything possible, and wherever you can have it as you want it, you toil and lock yourself up, are satisfied with Adem and let the best years pass. King, emperor, count, you could be a great farmer, have all your coffers full of money - and you can't make up your mind what you want to choose."
 
-"Stop your constant hustle and bustle," replied the farmer. We are both young and life is long. There is only one wish in the king and it is soon done. Who knows what will happen to us again when we need the ring . Are we missing something? Haven't we come up so since we've had the king that everyone is amazed? Aijo ſei understanding. In the meantime you can always think about what we could wish for."
+"Stop your constant hustle and bustle," replied the farmer. We are both young and life is long. There is only one wish in the king and it is soon done. Who knows what will happen to us again when we need the ring. Are we missing something? Haven't we come up so since we've had the king that everyone is amazed? Aijo ſei understanding. In the meantime you can always think about what we could wish for."
 
 That was the end of the matter for the time being. And it was really as if the whole blessing had come into the house with the ring, because the scouring and pounding became more and more violent and fuller from year to year, and after a long series of years the poor little farmer grew into a big, fat one Became a farmer, who worked with the servants throughout the day as if he wanted to earn the whole world, but after vespers sat comfortably and contentedly in front of the front door and let the people wish him good evening.
 
