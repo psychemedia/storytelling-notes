@@ -1,4 +1,4 @@
-# Hand of Glory
+# The Hand of Glory
 
 A brief report in the *Nottingham Review* of [Friday 15 March 1811](https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18110315/045/0004) records:
 
@@ -8,8 +8,8 @@ Or how about the following case, which starts in December, 1812, with reports in
 
 ```{admonition} Daring Robbery and attempt at Murder, December 1812
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/BL/0000150/18121224/017/0003?browse=true
-Worcester Journal - Thursday 24 December 1812
+
+In *Worcester Journal*, [Thursday 24 December 1812](https://britishnewspaperarchive.co.uk/viewer/BL/0000150/18121224/017/0003?browse=true).
 
 *Daring Robbery and attempt at Murder.* —On Friday evening, about five o'clock, as Mr. Benj. Robins, of Dunsley, was returning from Stourbridge he was overtaken by a man who walked and conversed with him for some distance; but when within less than half a mile of Mr, Robins's house, the villain drew behind Mr. R. and discharged a pistol at him; the ball, it is supposed, struck Mr. R. on the back-bone, which caused it to take a direction round his ribs to near the belly; from the place it entered to where it was found, was from 14 to 16 inches. The villain, as soon as he had fired, demanded Mr. R's money, who said, "Why did you shoot me first? If you had asked me for it before, you should have had it." Mr. R. then gave him two 10l. notes, a 1l. note and 8s. in silver. The rascal then said—"Your watch;" Mr. R. said—"If you demand it, take it;" when he took the chain in his hand, he trembled to such a degree that Mr. R. thought he could have taken him had he not been so badly wounded, and the ides of not being able to get home to his family operated upon his mind. As soon as the villain had possession of the watch, he either presented the sane pistol or another, and desired Mr. R. to proceed or he would shoot him again; Mr. R, replied—"You scoundrel, you have already shot me enough; you have taken my life from me." He the walked home. The villain made towards Stourbridge. Mr. Causer, jun. and Mr. Downing, surgeons, of Stourbridge, were immediately sent for, and soon extracted the ball; it was of a large size, and appeared to have been lately cast. Mr Robins is not yet pronounced out of danger. A man is under confinement at Stourbridge, on suspicion.
 ```
@@ -109,7 +109,7 @@ Robbery Extraordinary.— The remains of Howe, who was hung in irons, eighteen m
 
 So what might have been the reason for such a theft?
 
-## The Magical Properties of the Hand of Hanged Man
+## The Magical Properties of the Hand of a Hanged Man
 
 The hand of glory is a fantastic device that can be used by thieves to keep people asleep as they go about their nefarious business. How a hand of glory is made also contains a tale. A typical telling of the hand of glory story is as follows:
 
@@ -464,8 +464,7 @@ Another form of theives' invisibility charm, this time from Russia, at least acc
 ```{admonition} Gross Russian Superstition, April 1895
 :class: dropdown todo
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000275/18950405/004/0002
-Sheffield Evening Telegraph - Friday 05 April 1895
+In *Sheffield Evening Telegraph*, [Friday 05 April 1895](https://britishnewspaperarchive.co.uk/viewer/bl/0000275/18950405/004/0002).
 
 GROSS RUSSIAN SUPERSTITION
 
@@ -572,7 +571,7 @@ Sabine Baring-Gould also relates a collected telling of the hand of glory story 
 In *Notes on the Folklore of the Northern Counties of England and the Borders*. 
 William Henderson, as part of the appendix on *Household Tales* by Sabine Baring-Gould, 1866, [p332-3](https://books.google.co.uk/books?id=a0iwAAAAIAAJ):
 
-9. THE HAND OF GLORY. ( Yorkshire.)
+9. THE HAND OF GLORY. (Yorkshire.)
 
 One dark night, after the house had been closed, there came a tap at the door of a lone inn, in the midst of a barren moor.
 
@@ -580,7 +579,7 @@ The door was opened, and there stood without, shivering and shaking, a poor begg
 
 All in the house went to bed except the cook, who from her kitchen could see into the large room through a small pane of glass let into the door. When every one save the beggar was out of the room, she observed the man draw himself up from the floor, seat himself at the table, extract a brown withered human hand from his pocket, and set it upright in the candle stick. He then anointed the fingers, and applying a match to them, they began to flame. Filled with horror, the cook rushed up the backstairs, and endeavoured to arouse her master and the men of the house; but all in vain — they slept a charmed sleep; and finding all her efforts ineffectual, she hastened down stairs again. Looking again through the small window, she observed the fingers of the hand flaming, but the thumb gave no light — this was because one of the inmates of the house was not asleep.
 
-The beggar began collecting all the valuables of the house into a large sack, and having taken all that was worth taking in the large room, he entered another. The moment he was gone, the cook rushed in, and seizing the candle, attempted to extinguish the flames. She blew at them in vain; she poured some drops from a beer -jug over them, and that made the fingers burn the brighter; she cast some water upon them, but still without putting out the light; as a last resource, she caught up a jug of milk, and dashing it over the four lambent flames, they were extinguished immediately.
+The beggar began collecting all the valuables of the house into a large sack, and having taken all that was worth taking in the large room, he entered another. The moment he was gone, the cook rushed in, and seizing the candle, attempted to extinguish the flames. She blew at them in vain; she poured some drops from a beer-jug over them, and that made the fingers burn the brighter; she cast some water upon them, but still without putting out the light; as a last resource, she caught up a jug of milk, and dashing it over the four lambent flames, they were extinguished immediately.
 
 Uttering a loud cry, she rushed to the door of the apartment the beggar had entered, and locked it. The whole house was aroused, and the thief secured and hung.
 
@@ -1041,81 +1040,7 @@ p189
 (viii.) To touch the corpse of a person who has been hanged has been long looked upon as a "charm." or cure for certain disease, particularly skin complaints. Similar treatment has been enjoined as a cure for a shrunken or withered limb, when to be thoroughly effective the limb should be laid upon the neck of the corpse as soon as possible after it has been "cut down," and before it has had time to become cold. The contact is believed to "turn the blood and change the constitution." (See Thomas Hardy's graphic, but somewhat gruesome story, "The Withered Arm," in vol. i. of the Wessex Tales, published in 1888.)
 ```
 
-## An Aside — Gibbeting in England
-
-One of the joys of *N & Q* is that having started tracking down one particular topic, you can often quickly sidetrack yourself down another.
-
-For example, we might start to wonder about when the practice of gibbeting died out in England. Such a piece of information might perhaps add colour to the tale of the hand of glory. It might also provide additional historical context for the tale I tell of Micah Morey [[related Isle of Wight storynote](https://psychemedia.github.io/island-storynotes/michael_morey_and_james_dove.html)], a man gibbeted on the Isle of Wight having been hanged for the cruel murder and dismemberment of his grandson, James Dove, in 1736.
-
-```{admonition} "The last Gibbet in England", *N&Q*, May 3rd, 1856
-:class: dropdown
-
-In *Notes and Queries*, 1856-05-03: Vol 1 Iss 18, [p351](https://archive.org/details/sim_notes-and-queries_1856-05-03_1_18/page/350/mode/2up):
-
-The last Gibbet in England. — As "N. & Q." will be a work of reference hereafter, may not the following notice, which appeared in a recent number of *The Examiner*, claim a remembrance ?
-
-"A few days ago, the last gibbet erected in England was demolished by the workmen employed in making the extensive docks for the North Eastern Railway Company, upon Jarrow Stoke, on the Tyne."
-W. W.
-Malta.
-
-```
-
-```{admonition} "The last Gibbet in England", *N&Q*, September 13th, 1856
-:class: dropdown
-
-In *Notes and Queries*, 1856-09-13: Vol 2 Iss 37, [p216](https://archive.org/details/sim_notes-and-queries_1856-09-13_2_37/page/216/mode/1up):
-
-The last Gibbet in England (2nd S. i. 351.) — It is stated that "the last gibbet erected in England was demolished by the workmen employed in making the extensive docks for the North-Eastern Railway Company, upon Jarrow Stoke, on the Tyne." This statement is not quite correct. At the corner of Ditchling Common, in Sussex, near to the turnpike-road which leads from Ditchling to Lindfield, there still remains a piece of an old gibbet, and a very unpleasant looking log of wood it is, known by the name of "Jacob's Post;" that being the name of the man, a Jew, who committed a very barbarous murder near to the spot, and was hanged in chains there in 1734.
-
-The Jew, Jacob, having put up his horse at the public-house close by, attacked his host, a person named Miles, whilst he was engaged in cleaning his horse, and cut his throat. In the same way he destroyed the servant-maid, who, it is supposed, had been disturbed by the noise in the stable, and was descending the staircase to see what was the matter. He then went upstairs and cut the throat of poor Miles's wife, who was lying on a sick bed.
-
-Some very rude verses, still preserved in the neighbourhood, of which I send you a few specimens, record the circumstances of this frightful massacre:
-
-"In the mean time, the poor distressed maid  
-Had got away, for so the neighbours said,  
-He, missing her, into the stable ran,  
-And looked about, but could not find her then,  
-He thought that there was no time to delay,  
-But took his horse with speed and rode away.  
-The women both that night this world forsook,  
-But Miles did live until the wretch was took.
-
-At Horsham Gallows he was hanged there,  
-The 3ist of August that same year.  
-And where he did the crime, they took the pains  
-To bring him back, and hang him up in chains.  
-It is a dismal sight for to behold,  
-Enough to make a heart of stone run cold."
-
-R. W. B.
-
-```
-
-```{admonition} "Gibbeting Alive", *N&Q*, October 26th, 1872
-:class: dropdown
-
-In *Notes and Queries*, 1872-10-26: Vol 10 Iss 252, [p332](https://archive.org/details/sim_notes-and-queries_1872-10-26_10_252/page/332/mode/1up):
-
-GIBBETING ALIVE A writer in the *Daily News* of October 2nd says that near to Merrington Church, Durham,
-
-"At the cross roads near the mill, there long hung the bones of the last man ever gibbeted alive. It was in 1805 that this miserable wretch was hoisted aloft to die lingeringly, and the county people to this day tell how his sweetheart kept him alive for a fortnight by raising to him on the end of a stick a sponge soaked in milk, and how, when this was detected and prevented, his yells were heard for miles."
-
-Is there any foundation horrible a story, and was "gibbeting alive," i.e. starving to death, ever a punishment known to English law?
-E. M. S.
-Chichester.
-
-```
-
-```{admonition} "Gibbeting Alive", *N&Q*, November 11th, 1872
-:class: dropdown
-
-In *Notes and Queries*, 1872-11-09: Vol 10 Iss 254, [p382-3](https://archive.org/details/sim_notes-and-queries_1872-11-09_10_254/page/382/mode/2up):
-
-Gibbeting Alive (4th S. x. 332.)—This "horrible tale" of the year 1805 is but a repetition of a story told of the same county, but dated 1683. In that year the body of a man, named Andrew Mills, who had been executed at Durham for the murder of his master's three children, was hung chains near to Ferry Hill. Yet the tale goes that he was gibbeted alive — that a girl who loved him contrived to keep him in existence for several days, and that his dying shrieks could be heard for miles around. Is this traditionary story peculiar
-to the county of Durham? CUTHBERT BEDE
-```
-
-## Witches Ointment
+## Witches' Ointment
 
 From Benjamin thorpe's *Northern mythology, comprising the principal popular traditions and superstitions of Scandinavia, north Germany, and the Netherlands*, 1851,vol III, p. 276, we also hear of another gruesome salve made from dead body parts:
 
@@ -1126,3 +1051,4 @@ WITCHES' OINTMENT.
 
 Sorceresses destroy with their ceremonies both baptized and unbaptized children (especially the former, when a cross has not been made or a prayer said over them), as well in the cradle as by the side of their parents, whence the latter often think that they have smothered the child. When the infant is buried, the witches steal the corpse out of the coffin, put it into a kettle, and boil it until the flesh falls from the bones. From the more solid parts of this decoction they make an ointment, by means of which they exercise their arts, transform themselves, etc. The fluid they pour into bottles, and whoever drinks of it and lets certain ceremonies be performed over him by the sorceresses, becomes initiated in their arts and a master thereof.
 ```
+
