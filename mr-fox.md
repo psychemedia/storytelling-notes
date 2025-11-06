@@ -86,7 +86,7 @@ Jacobs also gives some additional notes on the tale (p247):
 >
 > *Parallels.* — Halliwell, p. 166, gives a similar tale of "An Oxford Student," whose sweetheart saw him digging her grave. "Mr. Fox" is clearly a variant of the theme of "The Robber Bridegroom" (Grimm, No. 40, Mrs. Hunt's translation, i. 389, 395; and Cosquin, i. 180-1).
 
-As Jacobs noted, in Halliwell-Phillips' collection, the tale is complemented by another related one, of a student who sought seduced a maiden, and then attempted to hide the fact...
+As Jacobs noted, in Halliwell-Phillips' collection, the tale is complemented by another related one, of a student who sought to seduce a maiden, and then attempted to hide the fact...
 
 ```{admonition} *The Oxford Student*, 1849
 :class: dropdown
@@ -857,7 +857,7 @@ An Oxford metrical version of (2) figures in 'The Midland Minstrel; consisting c
 
 But why, beside that rural *walk*  
 That boasts the name *Divinity*,  
-Does yon disguièd figure stalk  
+Does yon disguisèd figure stalk  
 Beneath the pale moon's glimmering eye!
 
 And why is that lone grave prepar'd,  

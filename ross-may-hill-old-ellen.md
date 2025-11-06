@@ -554,7 +554,7 @@ POLICE COURT PROCEEDINGS.
 
 AN EXTRAORDINARY CASE.
 
-At the Littledean Petty Sessions on Friday— before Mr. M. W. Colchester-Wemyss and other magistrates— Ellen Hayward (70), widow, of Haywood, Cindorford, was charged by P.S. Packer for that between the 24th November, 1905, and the 1st of March, 1906, at Cinderford, she unlawfully did use certain craft or means or device, to wit by pretended witchcraft, to deceive and impose on one of his Majesty's subject, to wit one James Davis.
+At the Littledean Petty Sessions on Friday— before Mr. M. W. Colchester-Wemyss and other magistrates— Ellen Hayward (70), widow, of Haywood, Cinderford, was charged by P.S. Packer for that between the 24th November, 1905, and the 1st of March, 1906, at Cinderford, she unlawfully did use certain craft or means or device, to wit by pretended witchcraft, to deceive and impose on one of his Majesty's subject, to wit one James Davis.
 
 Tho old lady, attired in black, with a big, warm muffler round her neck, and carrying a large handbag, was accommodated with a seat. She pleaded not guilty.
 
