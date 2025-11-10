@@ -1,10 +1,25 @@
 # Witchcraft
 
 
+https://archive.org/details/bim_early-english-books-1641-1700_sylva-sylvarum_bacon-sir-francis_1664/page/n251/mode/2up?q=%22witches+ointment%22
+Sylva sylvarum:...  1664
+by Bacon, Sir Francis
+
+Publication date 1664
+p213.
+
+3`[975]` The *Ointment* that *Witches* use is reported to be made of the *Fat of Children* digged out of their *Graves*; of the juices of *Smallage*, *Woolf-bane*, and *Cinquefoil*, mingled with the *Meal* of fine *Wpheat*. But I suppose that the *soporiferous Medicines* are likest to doe it; which are *Henbane*, *Hemlock*, *Mandrake*, *Moon-shade*, *Tobacco*, *Opium*, *Saffron*, *Poplar-leaves*, &c.
 
 ---
 witches
 
+
+
+https://archive.org/details/pottsdiscoveryof00pottrich/page/n305/mode/2up?q=%22witches+ointment%22+unbaptized
+Pott's Discovery of witches in the county of Lancaster
+by Potts, Thomas, fl. 1612-1618; Bromley, Edward, Sir; Crossley, James, 1800-1883
+
+Publication date 1745 [i.e. 1845]
 
 TO DO
 

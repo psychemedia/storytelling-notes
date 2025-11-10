@@ -814,7 +814,7 @@ A. there was on 3 Apples of w oh he got one, gave on[e], & left one.
 
 [136] Q,. there was 2 fathers a hunting went & also 2
 
-sons for the same intent : they caught conies in all but three, yet euery one has one how can this be.
+sons for the same intent: they caught conies in all but three, yet euery one has one how can this be.
 
 A. on[e] of the sons had a son, thus he was a father & standeth both for father & son.
 

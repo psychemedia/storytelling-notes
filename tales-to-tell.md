@@ -9,7 +9,7 @@ https://digital.nls.uk/chapbooks-printed-in-scotland/archive/
 
 -0---
 
-TH: felo de se - estatae forfeited to the Crown
+TH: felo de se - estate forfeited to the Crown
 
 Abolished by Burial of Suicides Act 1823 
  https://en.wikipedia.org/wiki/Burial_of_Suicides_Act_1823
@@ -125,7 +125,7 @@ A Common Trick.
 
 Mr. Wing submitted that there was no evidence at all of defendants having stolen the rum. They had not the slightest idea who were the two men who brought the barrel, and the suggestion for the defence was that the men took it up to 18, Bailey Lane, when they began to think the police were on their track. Defendants never saw the barrel until next morning, and they then began to find out how it had come. There was not the slightest attempt at concealment, and Bertha Malloy was particularly anxious to know where it had all come from.
 
-Michael Molloy said his wife had told him the barrel had been brought during his absence.
+Michael Malloy said his wife had told him the barrel had been brought during his absence.
 
 Bertha Malloy declared that Mr. Fidler knew who had stolen the rum.
 
@@ -374,7 +374,7 @@ ROBBERY OF THE KING'S TREASURY —
 
 ---
 
-Odyssey - Odysseus and Polyphemus the Cyclops —  no-one / nobody cf. nix, naught, mothing
+Odyssey - Odysseus and Polyphemus the Cyclops —  no-one / nobody cf. nix, naught, nothing
 
 ---
 
