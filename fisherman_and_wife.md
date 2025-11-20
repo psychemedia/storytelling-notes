@@ -119,7 +119,7 @@ The fish spoke to him in a man's voice. "Do not keep me, old man," it said; "let
 
 The old man thought for a while. Then he said, "Well, I don't want you. Go into the sea again," and he threw the fish into the water and went home.
 
-"Well," said his wife, when he got home, " what have you caught to-day?"
+"Well," said his wife, when he got home, "what have you caught to-day?"
 
 "Only one little fish," said the man, "a golden fish, and that I let go again, it begged so hard. 'Put me in the blue sea again,' it said, 'and I will reward you, for whatever you wish I will do.' So I let it go, and did not ask anything."
 
@@ -150,7 +150,7 @@ Your tail in the water, your head out of sea!"
 
 The fish soon made its appearance.
 
-"Well, old man," it said, " what do you want?"
+"Well, old man," it said, "what do you want?"
 
 "My wife," said the man, "has had a misfortune, and has broken our bucket. So I have come to ask for a new one."
 
@@ -171,7 +171,7 @@ The fish came.
 
 "My wife," said the man, "is in a very bad temper, and has sent me to ask you to build us a new cottage. She says she cannot live any longer in our present one."
 
-"Oh, do not be troubled about that," said the fish. " Go home. You shall have what you want."
+"Oh, do not be troubled about that," said the fish. "Go home. You shall have what you want."
 
 The old man went back again, and in the place of his miserable hovel he found a new hut built of oak and nicely ornamented. The old man was delighted, but as soon as he went in his wife set on him, saying —
 
