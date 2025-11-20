@@ -182,7 +182,7 @@ https://www.irishmusicdaily.com/raggle-taggle-gypsy
 
 ## Chambers' take on the story
 
-The tale behind the ballad appears to have been popularsied by Robert Chambers' telling of the "common version of the story" in his *Picture of Scotland, volume first, Article Ayrshire*, 1827, [pp. 294-6](https://archive.org/details/picturescotland00chamgoog/page/n301/mode/2up). Both the telling and the ballad are in his *The Scottish ballads*, 1829, [pp143-6](https://archive.org/details/scottishballads01chamgoog/page/n166/mode/2up), where he sets the scene as follows:
+The tale behind the ballad appears to have been popularised by Robert Chambers' telling of the "common version of the story" in his *Picture of Scotland, volume first, Article Ayrshire*, 1827, [pp. 294-6](https://archive.org/details/picturescotland00chamgoog/page/n301/mode/2up). Both the telling and the ballad are in his *The Scottish ballads*, 1829, [pp143-6](https://archive.org/details/scottishballads01chamgoog/page/n166/mode/2up), where he sets the scene as follows:
 
 ```{admonition} Maybole, and the mansion-house of the Cassilis family, 1927
 :class: dropdown
