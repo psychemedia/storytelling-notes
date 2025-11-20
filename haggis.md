@@ -2,13 +2,13 @@
 
 The wild haggis is a rare creature, the food of the poor, traditionally, until it came to be hunted by the gentry, and was driven all but extinct. There are still a few wild haggis to be found in the highlands of Scotland, but the locations are protected and known only to a few.
 
-The haggis that do remain come in two forms, *haggis scoticus dextra* and *haggis scoticus sinistra*. As you will know, dextra and sinstra relate to chirality, or handedness.
+The haggis that do remain come in two forms, *haggis scoticus dextra* and *haggis scoticus sinistra*. As you will know, dextra and sinistra relate to chirality, or handedness.
 
 But in the case of the haggis, this relates to which of their legs are the longer. For wild haggis live on or above the tree line in the higher parts of the highlands and have a fascinating lifecycle.
 
 After fledging, the young start their lives on the lower parts of the hillside. Depending on which species of haggis we are talking about, the legs on either their left hand side or their right hand side are longer than on the other side.
 
-This adaptation allows them to hunt — or graze — scientists still argue to this day as to whether the original wild haggis were herbivores or carnivourous predators — by circling their way around the mountaindside.
+This adaptation allows them to hunt — or graze — scientists still argue to this day as to whether the original wild haggis were herbivores or carnivorous predators — by circling their way around the mountainside.
 
 For the *haggis scoticus dextra*, the longer right legs, they would make their way anti-clockwise around the hillside. For *haggis scoticus sinistra*, they would make their way round clockwise. THe two species could not interbreed. So they represent a remarkable example of parallel evolution since the two branches separated many hundreds of thousands of years ago, especially when you consider that each species competes for dominance of each mountain in each and every single generation.
 
