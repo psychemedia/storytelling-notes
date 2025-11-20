@@ -458,8 +458,7 @@ In the north of Europe schamir appears strangely and grotesquely metamorphosed. 
 
 ```
 
-Another form of theives' invisibility charm, this time from Russia, at least according to a report in the *Sheffield Evening Telegraph* in April 1895 referencing, i part, the Bridget Cleary case in Colnmel, Ireland, are the veins of a pregnant woman.
-
+Another form of thieves' invisibility charm, this time from Russia, at least according to a report in the *Sheffield Evening Telegraph* in April 1895 referencing, i part, the Bridget Cleary case in Clonmel, Ireland, are the veins of a pregnant woman.
 
 ```{admonition} Gross Russian Superstition, April 1895
 :class: dropdown todo
