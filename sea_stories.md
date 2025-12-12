@@ -130,7 +130,7 @@ Sadko dropped into the waves, and the waves closed over him. Down he sank, like 
 
 And there, on the bottom of the sea, was a palace built of green wood. Yes, all the timbers of all the ships that have been wrecked in all the seas of the world are in that palace, and they are all green, and cunningly fitted together, so that the palace is worth a ten days' journey only to see it. And in front of the palace Sadko saw two big knobbly sturgeons, each a hundred and fifty feet long, lashing their tails and guarding the gates. Now, sturgeons are the oldest of all fish, and these were the oldest of all sturgeons.
 
-Sadko walked between the sturgeons and through the gates of the palace. Inside there was a great hah 1 , and the Tzar of the Sea lay resting in the hall, with his gold crown on his head and his blue hair floating round him in the water, and his great body covered with scales lying along the hall. The Tzar of the Sea filled the hall and there is room in that hall for a village. And there were fish swimming this way and that in and out of the windows.
+Sadko walked between the sturgeons and through the gates of the palace. Inside there was a great hall, and the Tzar of the Sea lay resting in the hall, with his gold crown on his head and his blue hair floating round him in the water, and his great body covered with scales lying along the hall. The Tzar of the Sea filled the hall and there is room in that hall for a village. And there were fish swimming this way and that in and out of the windows.
 
 "Ah, Sadko," says the Tzar of the Sea, "you took what the sea gave you, but you have been a long time in coming to sing in the palaces of the sea. Twelve years I have lain here waiting for you."
 
@@ -191,9 +191,4 @@ And after the feast Sadko and his bride went off together to her palace. And bef
 "There are many tales," said old Peter. "Some say he went into the town, and lived on alone until he died. But I think with those who say that he took his dulcimer and swam out into the middle of the river, and sank under water again, looking for his little Princess. They say he found her, and lives still in the green palaces of the bottom of the sea; and when there is a big storm, you may know that Sadko is playing on his dulcimer and singing, and that the Tzar of the Sea is dancing his tremendous dance down there, on the bottom, under the waves."
 
 "Yes, I expect that's what happened," said Ivan. "He'd have found it very dull in Novgorod, even though it is a big town."
-
-
-
-
-
 

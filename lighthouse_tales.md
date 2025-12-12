@@ -557,7 +557,7 @@ The biggest of these islands is called Island More; it has the ruins of a Chappe
 
 Through the courtesy of Mr. David Douglas, publisher of Muir's "Ecclesiological Notes," an illustration of the little edifice is here reproduced, and from the same work the following descriptive extracts are taken. (For more recent illustrations, see pp. 328, 329, and 342): —
 
-"Externally the chapel of St. Flannan's is a low quadrilateral building of uncemented stones, with slightly sloping walls and a stone barrel-vaulted roof rising from its spring to a height somewhat higher than tlie height of the supporting walls. Outside the measurements are: — Length of north side, 11 feet 11 inches; length of south side, 12 feet 2 inches; width of east end, 10 feet 3 inches; width of west end, 9 feet 2 inches; height 8 feet 10 inches.
+"Externally the chapel of St. Flannan's is a low quadrilateral building of uncemented stones, with slightly sloping walls and a stone barrel-vaulted roof rising from its spring to a height somewhat higher than the height of the supporting walls. Outside the measurements are: — Length of north side, 11 feet 11 inches; length of south side, 12 feet 2 inches; width of east end, 10 feet 3 inches; width of west end, 9 feet 2 inches; height 8 feet 10 inches.
 
 PROCEEDINGS.
 267
@@ -565,7 +565,7 @@ dedicated to St. Flannan, from Avhom the island derives its name; when they come
 
 Through the courtesy of Mr. David Douglas, publisher of Muir's "Ecclesiological Notes," an illustration of the little edifice is here reproduced, and from the same work the following descriptive extracts are taken. (For more recent illustrations, see pp. 328, 329, and 342): —
 
-"Externally the chapel of St. Flannan's is a low quadrilateral building of uncemented stones, with slightly sloping walls and a stone barrel-vaulted roof rising from its spring to a height somewhat higher than tlie height of the supporting walls. Outside the measurements are: — Length of north side, 11 feet 11 inches; length of south side, 12 feet 2 inches; width of east end, 10 feet 3 inches; width of west end, 9 feet 2 inches; height 8 feet 10 inches.
+"Externally the chapel of St. Flannan's is a low quadrilateral building of uncemented stones, with slightly sloping walls and a stone barrel-vaulted roof rising from its spring to a height somewhat higher than the height of the supporting walls. Outside the measurements are: — Length of north side, 11 feet 11 inches; length of south side, 12 feet 2 inches; width of east end, 10 feet 3 inches; width of west end, 9 feet 2 inches; height 8 feet 10 inches.
 "Within the dimensions are: — Length, 7 feet 3 inches; width, 4 feet 5 inches ;
 height from floor to roof, which is formed of narrow slabs laid across, 5 feet 9 inches. S i n g 11 1 a r 1 y enough, the only aperture in the building is a door-way, 3 feet in height and 1 foot 10 inches in width, in the west end. Both outside and within, the masonry is very rude,
 

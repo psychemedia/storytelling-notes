@@ -44,7 +44,7 @@ Tsar Dolmat was very angry with Ivan Tsarevich, and shrieked in a wrathful tone:
 
 Ivan Tsarevich answered him: "I am the son of Tsar Vyslav Andronovich, and they call me Ivan Tsarevich. Your Bird of Light flew into the garden every night and stole the golden apples from the apple-tree my father loved, and for that reason my father sent me to seek the Bird of Light and to take it to him."
 
-"Oh, thou brave youth, Ivan Tsarevich!" Tsar Dolmat cried. I would certainly have given you the bird, but what did you do? If you had come to me, 1 should have given you the Bird of Light as an honour; but, now, would it be well, were I to send you into all kingdoms to proclaim how you came into my realm and dealt dishonourably? Now listen, Ivan Tsarevich. If you will do me this service, if you will go across thrice nine kingdoms into the thrice-tenth realm, and will there obtain me from Tsar Af ron the golden-maned horse, I will forgive your sin, and I will give you the Bird of Light, and will do you great honour."
+"Oh, thou brave youth, Ivan Tsarevich!" Tsar Dolmat cried. I would certainly have given you the bird, but what did you do? If you had come to me, I should have given you the Bird of Light as an honour; but, now, would it be well, were I to send you into all kingdoms to proclaim how you came into my realm and dealt dishonourably? Now listen, Ivan Tsarevich. If you will do me this service, if you will go across thrice nine kingdoms into the thrice-tenth realm, and will there obtain me from Tsar Af ron the golden-maned horse, I will forgive your sin, and I will give you the Bird of Light, and will do you great honour."
 
 And Ivan Tsarevich became very sorrowful, and left Tsar Dolmat, found the grey Wolf, and told him of everything.
 

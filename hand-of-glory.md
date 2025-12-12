@@ -852,7 +852,7 @@ In *Notes and Queries*, 1872-07-13: Vol 10 Iss 237, [p39](https://archive.org/de
 
 "Hand of Glory" (4th S. 238, 289, 376, 455.)—I think I see that this "Hand of Glory" is nothing but the "Hand of Elloree," or the "Hand of Gilry"—a sentence that once meant the "Hand of Sorcery." In the "Romance of the Seven Sages" (see *Promptorium Parculorum*, under the word "Gaude") are the lines—
 
-"' Ah, dame,' said the emperowre,  
+"'Ah, dame,' said the emperowre,  
 'Thou haues ben a fals gilowre;  
 For thy gaudes and thy gilry.'"
 
@@ -1022,19 +1022,11 @@ To the peculiar properties of the hand of hanged man, we might also add various 
 
 ```{admonition} Touching the corpse of a hanged person, 1893
 :class: dropdown
-https://archive.org/details/proceedingsdorse14dors/page/187/mode/1up
-
-Proceedings - Dorset Natural History and Archaeological Society
-by Dorset Natural History and Archaeological Society; Dorset Natural History and Archaeological Society. Proceedings - Dorset Natural History and Antiquarian Field Club.
-Vol. 14
-
-Publication date 1893
+In *Proceedings of the Dorset Natural History and Antiquarian Field Club*, Vol. 14, 1893, [p189](https://archive.org/details/proceedingsdorse14dors/page/187/mode/1up):
 
 Dorsetshire Birth, Death, and Marriage Customs and Superstitions
 
 by J. S. Udal, F. R. Hist. Soc.
-
-p189
 
 (viii.) To touch the corpse of a person who has been hanged has been long looked upon as a "charm." or cure for certain disease, particularly skin complaints. Similar treatment has been enjoined as a cure for a shrunken or withered limb, when to be thoroughly effective the limb should be laid upon the neck of the corpse as soon as possible after it has been "cut down," and before it has had time to become cold. The contact is believed to "turn the blood and change the constitution." (See Thomas Hardy's graphic, but somewhat gruesome story, "The Withered Arm," in vol. i. of the Wessex Tales, published in 1888.)
 ```

@@ -230,15 +230,15 @@ So thick beset wi' thorns and briers?
 That is the path of righteousness,  
 Tho' after it but few enquires.  
 "And see not ye that braid braid road.  
-That lies across that lily levcn?  
-That is tlie path of w ickedness,  
+That lies across that lily leven?  
+That is the path of wickedness,  
 Tho' some call it the road to heaven.  
 
 254
 "And see not ye that bonny road.  
 That winds about the fernie brae?  
 That is the road to fair Elfland,  
-Where thou and 1 this night maun gae.  
+Where thou and I this night maun gae.  
 "But, Thomas, ye maun hold your tongue.  
 Whatever ye may hear or see;  
 For, if you speak word in Elflyn land,  
