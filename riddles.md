@@ -321,7 +321,7 @@ A.]
 
 [47] Q.
 
-A. the man stride ou 1 his wife to boult the doore.
+A. the man stride out his wife to boult the doore.
 
 [48] Q.
 
