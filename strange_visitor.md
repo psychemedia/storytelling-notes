@@ -49,19 +49,19 @@ And still she sat, and still she reeled, and still she. wished for company.
 In came a huge huge head, and sat down on the small small neck.
 
 "How did you get such broad broad feet?" quoth the woman.  
-"Much tramping, much tramping " (*gruffly*).
+"Much tramping, much tramping" (*gruffly*).
 
 "How did you get such small small legs?"  
 "*Aih'h'h!* — late — and *wee-e-e* — moul" (*whiningly*).
 
 "How did you get such thick thick knees?"  
-"Much praying, much praying " (*piously*).
+"Much praying, much praying" (*piously*).
 
 "How did you get such thin thin thighs?"  
 "*Aih'h'h!* — late — and *wee-e-e* — moul" (*whiningly*).
 
 ** How did you get such big big hips?"  
-"Much sitting, much sitting " (*gruffly*)-
+"Much sitting, much sitting" (*gruffly*)-
 
 "How did you get such a wee wee waist?"  
 "*Aih'h'h!* — late — and *wee-e-e* — moul" (*whiningly*).
@@ -79,7 +79,7 @@ In came a huge huge head, and sat down on the small small neck.
 "*Aih'h'h!* — late — and *wee-e-e* — moul" (*pitifully*).
 
 "How did you get such a huge huge head?"  
-"Much knowledge, much knowledge " (*keenly*).
+"Much knowledge, much knowledge" (*keenly*).
 
 "What do you come for?"  
 "FOR YOU!" *(At the top of the voice, with a wave of arm and a stamp of the feet.)*
@@ -89,7 +89,7 @@ Notes, p249
 
 XXXII. THE STRANGE VISITOR
 
-*Source.* — From Chambers, *l.c.* 64, much Anglicised. I have retained "Aih-late-wee-moul," though I candidly confess I have not the slightest idea what it means; judging other children by myself, I do not think that makes the response less effective. The prosaic- minded may substitute "Up-late-and-little-food."
+*Source.* — From Chambers, *l.c.* 64, much Anglicised. I have retained "Aih-late-wee-moul," though I candidly confess I have not the slightest idea what it means; judging other children by myself, I do not think that makes the response less effective. The prosaic-minded may substitute "Up-late-and-little-food."
 
 *Parallels.* — The man made by instalments, occurs in the Grimms' No. 4, and something like it in an English folk-tale. *The Golden Ball*. *ap.* Henderson, *l.c.*, p. 333.
 
