@@ -1,6 +1,5 @@
 # Skimmington Ride
 
-
 also Skimmerton Ride?
 
 [Possible tile: Wife Sales, Rough Music, and Skimmington Rides ]
@@ -224,7 +223,7 @@ In Lincolnshire rantanning used to be in force. Whenever a wife had beaten her h
 Ran-tan. the old tin can,  
 Mrs. Brassy-faced woman has beaten her man.
 
-When the husband had beaten his wife it was customary to procure and old saddle crupper, to tie up some straw in it, and fasten it to the door or window of the offenders dwelling. The custom of rantanning used also to prevail in the West Riding of Yorkshire and some parts of Lancashire. It was customary in Lancashire, when lovers were caught courting on a Friday night, for their neighbours to turn out with frying pans, on which they performed with rolling pins, whilst the abashed lovers slunk away. The custom was evidently to remind the female that Friday was "cleaning up" night. Rantanning was also used when a man or woman was supposed to be unfaithful, and the straw effigy of the offender, seated on a pole, was carried about the streets. The custom of rantanning was also in vogue in Berkshire and Wiltshire under the name of "rough musicing." In Dorsetshire it is called stanging, or skimmington riding. Two men, personating a quarrelsome couple, and seated on a ladder, are borne on the shoulders of five or six of the crowd, amid the rattliog of tin kettles, before the house of some peace-breaking couple, where a mimic quarrel of the unhappy pair is rehearsed for the edification of the crowd.
+When the husband had beaten his wife it was customary to procure and old saddle crupper, to tie up some straw in it, and fasten it to the door or window of the offenders dwelling. The custom of rantanning used also to prevail in the West Riding of Yorkshire and some parts of Lancashire. It was customary in Lancashire, when lovers were caught courting on a Friday night, for their neighbours to turn out with frying pans, on which they performed with rolling pins, whilst the abashed lovers slunk away. The custom was evidently to remind the female that Friday was "cleaning up" night. Rantanning was also used when a man or woman was supposed to be unfaithful, and the straw effigy of the offender, seated on a pole, was carried about the streets. The custom of rantanning was also in vogue in Berkshire and Wiltshire under the name of "rough musicing." In Dorsetshire it is called stanging, or skimmington riding. Two men, personating a quarrelsome couple, and seated on a ladder, are borne on the shoulders of five or six of the crowd, amid the rattling of tin kettles, before the house of some peace-breaking couple, where a mimic quarrel of the unhappy pair is rehearsed for the edification of the crowd.
 
 In the year 1600 the Court Leet of Manchester passed a law that no minstrel should play within the town at weddings, that did not belong to the waits of the town, under a penalty of 3s. 3d.; and thirty-seven years before this it ordered that no person should pay above fourpence at any wedding dinner, under a penalty of 6s. 3d.
 
