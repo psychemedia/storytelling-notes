@@ -1257,7 +1257,7 @@ And he's taen three taits o her yellow hair.
 "My mother used to sing this song." Sharpe's Ballad Book, ed. of 1880, note, p. 129.
 ```
 
-F. 'The Bonny Bows o London,' Motherwell's MS., p. 883.
+F. 'The Bonny Bows o London,' Motherwell's MS., p. 883. e.g. (William Motherwell, [Minstrelsy: ancient and modern, 1827](https://archive.org/details/bib_fict_706109)).
 
 ```{admonition} Child., F.
 :class: dropdown
