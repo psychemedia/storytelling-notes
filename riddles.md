@@ -3,6 +3,10 @@
 
 A collection of irish riddles https://babel.hathitrust.org/cgi/pt?id=mdp.39015039507606&seq=7
 
+https://archive.org/details/McGillLibrary-PN970_C53_H68_1824_000903101-1566/mode/1up
+The new riddle book
+by James Clarke and Co., 1824
+
 
 
 https://archive.org/details/bim_early-english-books-1641-1700_the-booke-of-merry-riddl_1660
