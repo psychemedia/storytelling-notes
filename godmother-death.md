@@ -2,7 +2,7 @@
 
 Godfather Death, or Godmother Death, *(Aarne-Thompson-Uther tale type 332)* tells the tale of young child, born of poor parents, who has Death for their godparent.
 
-Death teaches the child a trick or two about how to tell whether someone who is seriously ill would survive or die. With this knowledge, the child becomes a great doctor. But the child/doctor goes against the instruction of Death, and saves two or three people who should have otherwise died. Death is not happy. The child/doctor is shown how lives are represented and Death makes his feelings known...
+Death teaches the child a trick or two about how to tell whether someone who is seriously ill would survive or die. With this knowledge, the child becomes a great doctor. But the child/doctor goes against the instruction of Death, and saves two or three people who should have otherwise died. Death is not happy. The child/doctor is shown how lives are represented and Death makes his/her feelings known...
 
 ## The Grimm Versions
 
@@ -55,11 +55,9 @@ The version that appears in Grimm's original 1812 edition is less elaborate, and
 
 One problem with the tale according to Grimm is the question of how the Doctor's actions save lives if the lives are associated with the lamps. What lamp is used to rekindle the lamps of the King and his daughter? Should there be a trade, somewhere, on the Doctor's life? Or perhaps other lamps should extinguished earlier than they might otherwise be, their oil used to top up the king's lamp, and his daughters, according to some sort of conservation principle? Or might lamps that would have otherwise burned be sacrificed, miscarried children of the Doctor's wife, for example?
 
-...
-
 In the tale as a whole, there are various elements that we can change to influence the feel of the story, or even change how it can progress.
 
-For example, there may be some variation in the description of what we might term the *hall of lamps*. In some versions, the lamps are oil lamps of various sizes, explicitly filled with different amounts of oil representing the remaining life of each person they represent. In other tellings, they are candles of different sizes, variously burned down. For example, large, church like candles might represent a long and healthy/sturdy life; smaller, birthday cake like candles, might represent the short life of one who dies as a baby.
+In the depiction of how lives are represented , there may be some variation in the description of what we might term the *hall of lamps*. In some versions, the lamps are oil lamps of various sizes, explicitly filled with different amounts of oil representing the remaining life of each person they represent. In other tellings, they are candles of different sizes, variously burned down. For example, large, church like candles might represent a long and healthy/sturdy life; smaller, birthday cake like candles, might represent the short life of one who dies as a baby.
 
 In both cases, we might light one lamp/candle from another, perhaps signifying giving birth, or saving someone's life, or alternatively, extending someone's own life (in which case, the flame itself represents the person's life). In the case of the oil lamp, we might imagine pouring oil from one lamp to another to represent sacrificing something of one's own life for another.
 
@@ -101,7 +99,7 @@ She took a present, and went with the child's father and the child to the mother
 
 ```
 
-In the following variant, a man meets death coming along thre road toward him; she agrees to become Godmother to his child, the invites him back to her house, where he sees his own lamp burning down; he replaces the near-extinguished taper with another, but then has to suffer the consequences of not having died at the time he originally should have.
+In the following variant, a man meets death coming along the road toward him; she agrees to become Godmother to his child, the invites him back to her house, where he sees his own lamp burning down; he replaces the near-extinguished taper with another, but then has to suffer the consequences of not having died at the time he originally should have.
 
 ```{admonition} In "The shoemaker's apron", 1920
 :class: dropdown
@@ -360,7 +358,7 @@ RAKUGO: The God of Death performed by Kanariya Eiraku
 
 ## Machine Translated Versions
 
-Many variants of the tale exist in langiages other than English that have not, at least insofar as I have been able to locate, translated into English. In this section, machine translation has been used to translate the tales from the original language. *As machine translation improves, I may update these translations.*
+Many variants of the tale exist in languages other than English that have not, at least insofar as I have been able to locate, translated into English. In this section, machine translation has been used to translate the tales from the original language. *As machine translation improves, I may update these translations.*
 
 I will also include the original language text from which each translation was obtained.
 
