@@ -11,7 +11,7 @@ pp61-4
 
 Gobborn Seer
 
-ONCE there was a man Gobborn Seer, and he had a son called Jack. One day he sent him out to sell a sheepskin, and Gobborn said, 4< You must bring me back the skin and the value of it as well."
+ONCE there was a man Gobborn Seer, and he had a son called Jack. One day he sent him out to sell a sheepskin, and Gobborn said, "You must bring me back the skin and the value of it as well."
 
 So Jack started, but he could not find any who would leave him the skin and give him its price too. So he came home discouraged.
 
@@ -19,23 +19,23 @@ But Gobborn Seer said, "Never mind, you must take another turn at it to-morrow."
 
 So he tried again, and nobody wished to buy the skin on those terms.
 
-When he came home his father said, "You must go and try your luck to-morrow," and the third day it seemed as if it would be the same thing over again. And he had half a mind not to go back at all, his father would be so vexed. As he came to a bridge, like the Creek Road one yonder, he leaned on the parapet thinking of his trouble, and that perhaps it would be foolish to run away from home, but he could not tell which to do ; when he saw a girl washing her clothes on the bank below. She looked up and said:
+When he came home his father said, "You must go and try your luck to-morrow," and the third day it seemed as if it would be the same thing over again. And he had half a mind not to go back at all, his father would be so vexed. As he came to a bridge, like the Creek Road one yonder, he leaned on the parapet thinking of his trouble, and that perhaps it would be foolish to run away from home, but he could not tell which to do; when he saw a girl washing her clothes on the bank below. She looked up and said:
 
 "If it may be no offence asking, what is it you feel so badly about?"
 
 "My father has given me this skin, and I am to fetch it back and the price of it beside."
 
-"Is that all? Give it here, and it 's easy done."
+"Is that all? Give it here, and it's easy done."
 
 So the girl washed the skin in the stream, took the wool from it, and paid him the value of it, and gave him the skin to carry back.
 
-His father was well pleased, and said to Jack, "That was a witty woman ; she would make you a good wife. Do you think you could tell her again?"
+His father was well pleased, and said to Jack, "That was a witty woman; she would make you a good wife. Do you think you could tell her again?"
 
 Jack thought he could, so his father told him to go by-and-by to the bridge, and see if she was there, and if so bid her come home to take tea with them.
 
 And sure enough Jack spied her and told her how his old father had a wish to meet her, and would she be pleased to drink tea with them.
 
-The girl thanked him kindly, and said she could come the next day ; she was too busy at the moment.
+The girl thanked him kindly, and said she could come the next day; she was too busy at the moment.
 
 "All the better," said Jack, "I'll have time to make ready."
 
@@ -43,15 +43,15 @@ So when she came Gobborn Seer could see she was a witty woman, and he asked her 
 
 Not long after, Jack's father told him he must come with him and build the finest castle that ever was seen, for a king who wished to outdo all others by his wonderful castle.
 
-And as they went to lay the foundation-stone, Gobborn Seer said to Jack, "Can't you shorten the way for me?
+And as they went to lay the foundation-stone, Gobborn Seer said to Jack, "Can't you shorten the way for me?"
 
 But Jack looked ahead and there was a long road before them, and he said, "I don't see, father, how I could break a bit off."
 
 "You're no good to me, then, and had best be off home."
 
-So poor Jack turned back, and when he came in his wife said, "Why, how 's this you 've come alone?" and he told her what his father had said and his answer.
+So poor Jack turned back, and when he came in his wife said, "Why, how's this you've come alone?" and he told her what his father had said and his answer.
 
-"You stupid," said his witty wife, "if you had told a tale you would have shortened the road ! Now listen till I tell you a story, and then catch up with Gobborn Seer and begin it at once. He will like hearing it, and by the time you are done you will have reached the foundation-stone."
+"You stupid," said his witty wife, "if you had told a tale you would have shortened the road! Now listen till I tell you a story, and then catch up with Gobborn Seer and begin it at once. He will like hearing it, and by the time you are done you will have reached the foundation-stone."
 
 So Jack sweated and overtook his father. Gobborn Seer said never a word, but Jack began his story, and the road was shortened as his wife had said.
 
@@ -69,7 +69,7 @@ When the king had come back Gobborn told him he had been unable to complete the 
 
 "No, no," said the king, "cannot one of the men do the errand?"
 
-"No, they could not make themselves understood/' said the Seer, "but Jack could do the errand."
+"No, they could not make themselves understood," said the Seer, "but Jack could do the errand."
 
 "You and your son are to stop here. But how will it do if I send my own son?"
 
@@ -85,25 +85,30 @@ Then he begged for pen and ink, which she brought him, but he was not allowed ou
 
 When his letter came, telling the king, his father, he was to be let free when Gobborn and Jack were safe home, the king saw he must settle for the building, and let them come away.
 
-As they left Gobborn told him : Now that Jack was done with this work, he should soon build a castle for his witty wife far superior to the king's, which he did, and they lived there happily ever after.
+As they left Gobborn told him: Now that Jack was done with this work, he should soon build a castle for his witty wife far superior to the king's, which he did, and they lived there happily ever after.
 
 Notes, p.247
 
 LIV. GOBBORN SEER
 
-Source. — Collected by Mrs. Gomme from an old woman at Deptford. It is to be remarked that "Gobborn Seer" is Irish (Goban Saor = free carpenter), and is the Irish equivalent of Way land Smith, and occurs in several place names in Ireland.
+Source. — Collected by Mrs. Gomme from an old woman at Deptford. It is to be remarked that "Gobborn Seer" is Irish (Goban Saor = free carpenter), and is the Irish equivalent of Wayland Smith, and occurs in several place names in Ireland.
 
-Parallels. — The essence of the tale occurs in Kennedy, /. c.t p. 67, seq. Gobborn Seer's daughter was clearly the clever lass who is found in all parts of the Indo-European world. An instance in my Indian Fairy Tales, "Why the Fish Laughed" (No. xxiv.). She has been made a special study by Prof. Child, English and Scotch Ballads, i., 485, while an elaborate monograph by Prof. Benfey under the title "Die Kluge Dime" (reprinted in hisKleine Schriften, ii., 156, seq.), formed the occasion for his first presentation of his now well-known hypothesis of the derivation of all folk-tales from India.
+Parallels. — The essence of the tale occurs in Kennedy, *l. c.* [*Legendary fictions of the Irish Celts*, 1866] p. 67, *seq.* Gobborn Seer's daughter was clearly the clever lass who is found in all parts of the Indo-European world. An instance in my Indian Fairy Tales, "Why the Fish Laughed" (No. xxiv.). She has been made a special study by Prof. Child, *English and Scotch Ballads*, i., 485, while an elaborate monograph by Prof. Benfey under the title "Die Kluge Dime" (reprinted in his *Kleine Schriften*, ii., 156, seq.), formed the occasion for his first presentation of his now well-known hypothesis of the derivation of all folk-tales from India.
 
 Remarks. — But for the accident of the title being preserved there would have been nothing to show that this tale had been imported into England from Ireland, whither it had probably been carried all the way from India.
 
 
-https://archive.org/details/cu31924062545052/page/n87/mode/2up?q=gobborn
+
+--
+
+Irish version, Goban Saor (pronounced: *gubawn seer*), was a free carpenter / smith / mason; a master craftsman, he is also something of a trickster character, althopugh in this tale, his future and then daughter-in-law has wits to match.
+
+https://archive.org/details/cu31924062545052/page/n87/mode/2up
 Legendary fictions of the Irish Celts, by Kennedy, Patrick, 1801-1873
 
 Publication date 1866
 
-pp. 67-
+pp. 67-72
 
 THE GOBAN SAOR.
 
@@ -127,7 +132,7 @@ At last they came to where the King of Munster kep' his coort, either at Cashel 
 
 In a week's time, back came two of the poor attendants that were with the prince, and told the king that his son was well off, with the best of eating and drinking, and chess-playing and sword exercise, that any prince could wish for, but that out of her sight the Goban's wife nor her people would let him, till she had her husband safe and sound inside of his own threshold.
 
-Well, to be sure, how the king fumed and raged ! but what's the use of striving to tear down a stone wall with your teeth? He could do without his palace being finished, but he couldn't do without his son and heir. The Goban didn't keep spite; he put the finishing touch to the palace in three days, and, in two days more, himself and his son were sitting at the farmer's fireside where the two purty young girls won
+Well, to be sure, how the king fumed and raged! But what's the use of striving to tear down a stone wall with your teeth? He could do without his palace being finished, but he couldn't do without his son and heir. The Goban didn't keep spite; he put the finishing touch to the palace in three days, and, in two days more, himself and his son were sitting at the farmer's fireside where the two purty young girls won
 
 "Well, my colleen bawn," says he to the one with the fair hair, "did you mind the advice I gev you when I was here last?" "Indeed I did, and little good it did me. I got an old woman's skull from the churchyard, and fixed it in the wall near the hob, and it so frightened every one, that I was obliged to have it taken back in an hour." "And how did you warm yourself with your work in the cold mornings?" "The first morning's work I had was to card flax, and I thrune some of it on the fire, and my mother gave me such a raking for it, that I didn't offer to warm myself that way again." "Now for the sheep-skin." "That was the worst of all. When I told the buyers in the market that I was to bring back the skin and the price of it, they only jeered at me. One young buckeen said, if I'd go into the tavern and take share of a quart of mulled beer with him, he'd make that bargain with me, and that so vexed me that I turned home at once." "Well, that was the right thing to do, anyhow. Now my little *Ceann Dhu* (black head), let us see how you fared. The skull?" "Och!" says an old woman, sitting close to the fire in the far comer, "I'm a distant relation that was left desolate, and this," says she, tapping the side of her poor head, "is the old woman's skull she provided." "Well, now for the warming of yourself in the cold mornings." "Oh, I kept my hands and feet going so lively at my work that it was warming enough." "Well, and the sheep-skin?" "That was easy enough. When I got to the market, I went to the crane, plucked the wool off, sold it, and brought home the skin."
 
