@@ -256,7 +256,7 @@ Well, the gal set 'um on the shelf, and says she,
 
 Soo she set too work and eat 'um all, first and last, that she did.
 
-`[The tale then continues as per the Ipsqich Journal, except that the attribution to A. W. T. is omitted, and the following final line is added:]`
+`[The tale then continues as per the Ipswich Journal, except that the attribution to A. W. T. is omitted, and the following final line is added:]`
 
 Lork! how she did dap her hands for joy!" I'll warrant my master'll ha' forgot all about spinning next year," says she.
 ```
@@ -375,8 +375,8 @@ E. Sidney Hartland.
 In the intervening years, the tale was picked up by Edward Clodd, who included it in *The Philosophy of Rumpelstiltskin*, a paper "read before the Folklore Society, 26th February, 1889" and published in *The Folk-Lore Journal*, Vol. 7, No. 2, 1889, [pp. 135-163](https://archive.org/details/bub_gb_8PMRAAAAYAAJ/page/134/mode/2up).
 
 From that source, the tale of *Tom Tit Tot* then seems to have made its way into Joseph Jacobs' *English Fairy Tales* (1899).
-    
-*Neil Philip also notes that Mrs. Thomas took umbrage at Jacobs' use of the tale "without payment or acknowledgement" in a letter to *The Times*. Certainly, Jacobs' note to the sotry bears no mention of her as the collector.*
+
+*Neil Philip also notes that Mrs. Thomas took umbrage at Jacobs' use of the tale "without payment or acknowledgement" in a letter to *The Times*. Certainly, Jacobs' note to the story bears no mention of her as the collector.*
 
 ```{admonition} Jacobs, notes, 1899
 :class: dropdown
@@ -1329,6 +1329,9 @@ Remarks. — Henderson makes out of Habetrot a goddess of the spinning-wheel, bu
 
 ## Whuppity Stoorie
 
+```{admonition} Whuppity Stoorie, 1847
+:class: dropdown
+
 https://archive.org/details/selectwritingsr00chamgoog/mode/2up?q=%22Whuppity+Stoorie%22
 Select Writings of Robert Chambers
 by Robert Chambers
@@ -1404,6 +1407,17 @@ and whurlin' round, she ran down the brae, scraichin' for rage, like a hoolat ch
 Ye'se noo ha'e your four-oories;  
 Sin' we've gien Nick a bane to pyke,  
 Wi' his wheels and his Whuppity Stoories."' `[The above story is essentially the same with one highly popular in Germany, under the name of Rumplestiltskin.]`
+```
+
+
+```{admonition} A Various Whuppity Stoorie, 1847
+:class: dropdown
+
+https://archive.org/details/selectwritingsr00chamgoog/mode/2up?q=%22Whuppity+Stoorie%22
+Select Writings of Robert Chambers
+by Robert Chambers
+
+Publication date 1847
 
 A VARIOUS WHUPPITY STOORIE.
 
@@ -1430,4 +1444,111 @@ When the goodman came hame, he found the house bo occupied with preparations for
 
 And so the lady lived happily with her goodman all the rest of her days.
 
----
+```
+
+
+## Scandinavian TO DO
+
+
+```{admonition} Titteli Ture, 1853:
+:class: dropdown
+
+https://archive.org/details/yuletidestories00thorgoog/page/168/mode/2up
+
+Yule-tide stories : a collection of Scandinavian and North German popular tales and traditions, from the Swedish, Danish, and German
+by Thorpe, Benjamin, 1782-1870
+
+Publication date 1853
+
+pp. 168-70
+
+THE GIRL WHO COULD SPIN GOLD PROM CLAY AND LONG STRAW
+
+From Upland.
+
+TO DO
+
+There was once an old woman who had an only daughter. The lass was good and amiable, and also extremely beautiful; but, at the same time, so indolent, that she would hardly turn her hand to any work. This was a cause of great grief to the mother, who tried all sorts of ways to cure her daughter of so lamentable a foiling; but there was ^o help. The old woman then thought no better plan could be devised than to set her daughter to spin on the roof of their cot, in order that all the world might be witness of her sloth. But her plan brought her no nearer the mark; the girl continued as useless as before.
+
+One day, as the king's son was going to the chase, he rode by the cot, where the old woman dwelt with her daughter. On seeing the fair spinner on the roof, he stopped and inquired why she sat spinning in such an unusual pMte. The old woman answered: "Aye, she sits there to let all the world see how clever she is. She is so clever that she can spin gold out of clay and long straw." At these words the prince was struck with wonder; for it never occurred to him that the old woman was ironically alluding to her daughter's sloth. He therefore said : "If what you say is true, that the young maiden can spin gold from clay and long straw, she shall no longer sit there, but shall accompany me to my palace and be my consort." The daughter thereupon descended from the roof and accompanied the prince to the royal residence, where, seated in her maidenbower, she received a pailful of clay and a bundle of straw, by way of trial, whether she were so skilful as her mother had said.
+
+The poor girl now found herself in a very uncomfortable state, knowing but too well that she could not spin flax, much less gold. So, sitting in her chamber, with her head resting on her hand, she wept bitterly. While she was thus sitting, the door was opened, and in walked a very little old man, who was both ugjy and deformed. The old man greeted her in a friendly tone, and asked why she sat so lonely and afflicted. "I may well be sorrowful," answered the girl; "the king's son has commanded me to spin gold from clay and long straw, and if it be not done before to-morrow's dawn, my life is at stake." The old man then said: "Fair maiden, weep not, I will help thee. Here is a pair of gloves, when thou hast them on thou wilt be able to spin gold. To-morrow night I will return, when if thou hast not found out my name, thou shalt accompany me home and be my wife." In her despair she agreed to the old man's condition, who then went his way. The maiden now sat and span, and by dawn she had already spun up all the clay and straw, which had become the finest gold it was possible to see.
+
+Great was the joy throughout the whole palace, that the king's son had got a bride who was so skilful and, at the same time, so fair. But the young maiden did nothing but weep, and the more the time advanced the more she wept; ifXMhe thought of the frightful dwarf, who was to come and ' 6!tm her. When evening drew nigh, the king's son returned from the chase, and went to co^verse with his bride. Observing that she appeared sorrowful, he strove to divert her in all sorts of ways, ' and said he would tell her of a curious adventure, provided only she would be cheerful. The girl entreated him to let her hear it. Then said the prince : ** While rambling about in the forest to-day, I witnessed an odd sort of thing. I saw a very very little old man dancing round a juniper bush and singing a singular song." "What did he sing?" asked the maiden inquisitively; for she felt sure that the prince had met with the dwarf. "He sang these words," answered the prince:
+
+"I dag skall jag maltet mala,  
+I morgon i^ll mitt brollopp
+
+vara. Och jnngfrun sitter i buren
+
+och gr&ter  Hon vet inte bvad jag heter. Jag heter TiUeti Ture. 3ae heter TitkU Ture."
+
+M
+
+To-day I the malt shall grind.  
+To-morrow my wedding shall be.  
+And the maiden sits in her bower and weeps;  
+She knows not what I am called.  
+I am called Titteli Ture.  
+I am called Titteli Ture."
+
+Was not the maiden now glad ? She begged the prince to tell her over and over again what the dwarf had sung. He then repeated the wonderful song, until she had imprinted the old man's name firmly in her memory. She then conversed lovingly with her betrothed, and the prince could not sufi^endy praise his young bride's beauty and understanding. But he wondered why she was so overjoyed, being, like every one else, ignorant of the cause of her past sorrow.
+
+When it was night, and the maiden was sitting alone in her chamber, the door was opened, and the hideous dwarf again entered. On beholding him the girl sprang up, and said: "Titteli Ture! Titteli Ture! here are thy gloves." When the dwarf heard his name pronounced, he was furiously angry, and hastened away through the air, taking with him the whole roof of the house.
+
+The fair maiden now laughed to hereelf and was joyful beyond measiure. She then lay down to sleep, and slept till the Sim shone. The following day her marriage with the yoiuig prince was solemnized, and nothing more was ever heard of Titteli Ture.
+
+```
+
+
+https://archive.org/details/yuletidestories00thorgoog/page/168/mode/2up
+
+Yule-tide stories : a collection of Scandinavian and North German popular tales and traditions, from the Swedish, Danish, and German
+by Thorpe, Benjamin, 1782-1870
+
+Publication date 1853
+
+pp. 170-5
+
+THE THREE LITTLE CRONES, EACH WITH SOMETHING BIG.
+
+TO DO
+
+From Upland.
+
+There was once a king's son and a king's daughter who dearly loved each other. The young prmcess was good and fair, and well spoken of by all, but her disposition was more inclined to pleasure and dissipation than to handiworks and domestic occupations. To the old queen this appeared very wrong, who said she would have no one for a daughter-in-law that was not as skilled in sach matters as she herself had been in her youth. She therefore opposed the prince's marriage in all sorts of ways.
+
+As the queen would not recall her words, the prince went to her and said, it would be well to make a trial whether the princess were not as skilful as the queen herself. This seemed to every one a veiy rash proposal, seeing that the prince's mother was a very diligent, laborious person, and span and sewed and wove bo& night and day, so that no one ever saw her like. The prince, however, carried his point; the fair princess was sent into the maidens' bower, and the queen sent her a poimd of flax to spin. But the ftasL was to be spun ere dawn of day, otherwise the damsel was never more to think of the prince for a husband.
+
+When left alone the princess found herself very ill at ease; for she well knew that she could not spin the queen's flax, and yet trembled at the thought of losing ^e prince, who was so dear to her. She therefore wandered about the apartment and wept, incessantly wept At this moment the door was opened very softly, and there stepped in a httle little woman of singular appearance and yet more singular manners. The little woman had enormously large feet, at which every one who saw her must be wonderstnick. She greeted the princess with: "Peace be with you!" "And peace with you!" answered the princess. The old woman then asked: "Why is the fair damsel so sorrowfcd to-night?" The princess answered: "I m^ well be sorrowful. The queen has commanded me to spin a pound of £fii:: if I have not completed it before dawn, I lose the young prince whom I love so dearly." The old woman then said: "Be of good cheer, fair maiden; if ihere is nothing else, I can help you; but then you must grant me a request which I will name." At these words the princess was oveijoyed, and asked what it was the old woman desired. "I am called," she said, "Storfatormorwew; and I require far my aid no other reward than to be present at your wedding. I have not been at a wedding since the queen your motherin-law stood as bride." The princess readily granted her desire, and they parted. The princess Ihen lay down to
+
+* Mother iKgfoo
+
+sleep, but could not close her eyes the whole livelong night.
+
+Early in the morning, before dawn, the door was opened, and the little woman again entered. She approached the khig*s daughter and handed to her a bundle of yam, as white as snow and as fine as a cobweb, saying: "See! such beautiful yarn I have not spim since I span for the queen, when she was about to be married; but that was long long ago." Having so spoken the little woman disappeared, and the princess fell into a refireshing slumber. But she had not slept long when she was awakened by the old queen, who was standing by her bed, and who asked her whether the flax were aU spun. The princess said that it was, and handed the yam to her. The queen must needs appear content, but ihe princess could not refi^in from observing that her apparent satisfaction did not proceed from good-will.
+
+Before the day was over, the queen said she would put the princess to yet another proof. For this purpose she sent the yam to the maiden-bower together with a yam^roll and other implements, and ordered the princess to weave it into a web; but which must be ready before sunrise; if not, the damsel must never more think of the young prince.
+
+When the princess was alone, she again felt sad at heart; for she knew that she coilld not weave the queen's yam, and yet less reconcile herself to the thought of losing the prince to whom she was 'so dear. She therefore wandered about the apartment and wept bitterly. At that moment the door was opened softly softly, and in stepped a veiy little woman, of singular figure and still more singular manners. The little woman had an enormously large hinder part, so that every one who saw her must be struck with astonishment. She, too, greeted the princess with: "Peace be with you!" and received for answer: "Peace with you!" The old woman said: "Why is the fair damsel so sad and sorrowful?" "I may well be sorrowful," answered the princess. "The queen has commanded me to weave all this yarn into a web; and if I have not completed it by the morning before simrise, I shall lose the prince, who loves me so dearly. The woman then said: "Be comforted, fair damsel; if it is nothing more, I will help you. But then you must consent to one condition, which I will name to you." At these words the princess was highly delighted, and asked what the condition might be. "I am called Storgumpa-mor, and I desire no other reward than to be at your wedding. I have not been to any wedding since the queen your mother-in-law stood as bride." The king's daughter readily granted this request, and the little woman departed. The princess then lay down to sleep, but was unable to close her eyes the whole night.
+
+In the morning, before daybreak, the door was opened and the little woman entered. She approached the princess, and handed to her a web white as snow and close as a skin, so that its like was never seen. The old woman said: "See! such even threads I have never woven since I wove for the queen, when she was about to be married; but that was long long ago." The woman then disappeared, and the princess fell into a short slumber, but from which she was roused by the old queen, who stood by her bed, and inquired whether the web were ready. The princess told her diat it was, and hailded to her the beautiful piece of weaving. The queen must now appear content for the second time; but the princess could easily see that she was not so from good- will.
+
+The king s daughter now flattered herself that she should be put to no further trial; but the queen was of a different opinion; for she shortly after sent the web down to the maiden-bower with the message, that the princess should make it into shirts for the prince. The shirts were to be ready before sunrise, othei'wise the damsel must never hope to have the young prince for a husband.
+
+When the princess was alone, she felt sad at heart; for she knew that she could not sew the queen's web, and yet could not think of losing, the king's son, to whom she was so dear. She therefore wandered about the chamber, and shed a flood of tears. At this moment, the door was softly softly opened, and in stepped a very little woman of most extraordinary appearance and still more extraordinary manners. The little woman had an enormously large thumb, so that every one who saw it must be wonderstruck. She also
+
+* From fltor, large, and gampa, nates
+
+
+greeted the princess with: "Peace be with you," and likewise received for answer: "Peace with you." She then asked the young damsel why she was so sad and lone^jr. "I may well be sad," answered the princess. "The queen has commanded me to make this web into shirts for tfat king's son; and if I have not finished them io-manom before simrise, I shall lose my beloved prince, who holdb me so dear." The woman then said: £e of good Aea, fair maiden; if it is nothing more, I can. help you. But then you must agree to a condition, which I will mention. At these words the princess was overjoyed, and asked the little woman what it was she wished. "I am," answered she, "called Stortumnuhmor*, and I desire no other reward than that I may be present at your wedding. I have Hot been at a wedding since the queen your mother-in-law stood as bride." The princess willingly assented to this condi* tion, and the litde w(Hnan departed. But the princess laj down to sleep, and slept so soundly that she did not dream even once of her dear prince.
+
+Early in the morning, before Ihe sun had risen, the door was opened, and the little woman entered. She approached the bed, awakened the princess, and gave her some shirts that were sewed and stitched so curiously that their like was never seen. The old woman said: "See! So beautifully as this I have not sewed since I sewed for the queen, when she was about to stand as bride. But that was long Long ago." With these words the little woman disappeared; for the queen was then at the door, being just come to inquire whether the shirts were ready. The king's daughter said that they were, and handed her the beautiM work. At the sight of them the queen was so enraged that her eyes flashed with fiiry. She said: "Well! take him then. I could never have imagined that thou wast so clever as thou arL" She then went her way, slamming the door after her.
+
+The king's son and the king's daughter were now to be Hnited, aa the queen had promised, and great preparations were made for the' wedding. But the joy of the princess was not without alloy, when she thought of the singuisr guests that ware to be present. When some time had
+
+• Motlier Bigthumfa.
+
+elapsed, and the wedding was being celebrated in the good old fashion, yet not one of the little old women appeared; although the bride looked about in every direction. At length, when it was growing late, and the guests were going to table, the princess discerned the three little women, as they sat in a comer of the dining-hall, at a table by themselves. At the same moment the long stepped up to them, and inquired who they were, as he had never seen them before. The eldest of the three answered: "I am called Storfota-mor, and have such large feet because I have been obliged to sit spinning so much in my time." "Oho!" said the king, "if such be the consequence, my son's wife shall never spin another thread." Then turning to the second little woman, he inquired the cause of her uncommon appearance. The old woman answered: "I am called Storgumpa-mor, and am so broad bdiind because I have been obliged to sit weaving so much in my time." "Oho!" said the king, "then my son's wife shaH weave no more." Lastly, turning to the third old woman, he. asked her name; when Stortumma-mor, rising from her seat, told him that she had got so large a thumb because she had sewed so much in her time. "Oho!" said the king, "then my son's wife shall never sew another stitch." Thus the fair princess obtained the king's son, and also escaped from spinning, and weaving, and sewing all the rest of her life.
+
+When the wedding was over, the three little women went their way, and no one knew whither they went, nor -wiience they came. The prince lived happy and content with his consort, and all passed on smoothly and peaceably; onlj that the princess was not so industrious as her strict motheiv in-law.
