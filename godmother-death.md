@@ -467,6 +467,7 @@ Thus he lives in peace and happiness until he is a hundred years old; he is stil
 
 ---
 
+See also fairy washerwoman Bean Nighe (beh-near)
 
 ---
 https://archive.org/details/lgendeschrtienn03luzegoog/page/n357/mode/2up
@@ -626,12 +627,12 @@ They entered. The master of the gloomy manor at first entertained his guest magn
 And he then returned home, put his affairs in order, called the priest of his parish and died three days later, as his friend Death had predicted.
 '^CmU by J. Corvei, dt Pburiu,* Finûiérej iSj6.)
 
-There U^àt de Vlhmm» /«fie is not psrtictiUârs in Brittany. Like almost all old popular tales, it is found everywhere, more or less complete, more or less entertained.
+There U^àt de Vlhmm» /«fie is not particulars in Brittany. Like almost all old popular tales, it is found everywhere, more or less complete, more or less entertained.
 
 Bile is titled "v" in Grimm (Contts dts enfant" li de Ja hmmsw, no. 44), under the title of Death and sm Godson^ Hessian tale. Beginning analogous to that of the Breton version. The poor successively refuse as godfather the good God and the devil, and finally accept Death. This makes her godson a great doctor. She points out to him a certain plant which cures the sick very easily when he sees her, Death, at the bedside. If, on the contrary, she stands at the foot of the bed, there is nothing to be done: the patient cannot be saved. The godson, improvised doctor, becomes rich and famous. Called to the sick king, he sees Death at the foot of the bed. So he returns the Ut of mamèw to what. Death is at the bedside, and the king is cured. The Moft, although very displeased, forgives him this time; but, having begun the tour again for the princess, also ill, she leads him into a sort of cavern, where he sees a multitude and lights, &c.
 The nstcoaiine in the Breton tale
 
-Compare two bad tales. germans the coUection 3. W. Wolf, p. 365, and from the Prœhle collection, n® 13.
+Compare two bad tales. germans the collection 3. W. Wolf, p. 365, and from the Prœhle collection, n® 13.
 Guillaume Grimm, in his remarks, quotes a German farce by Jacques Ayres (in his Opus theatricum, published after his death, in 1605), which closely resembles the Bessois tale; but the episode of lights is missing. He also mentions as an analog a little poem by Hans Sachs, from i)$3.
 In a collection of Hungarian tales (Gaal Stier, n» 4), same introduction. The poor man does not want Jesus as his godfather, "because he only likes the good. » Episode 4^ lights exists. The poor man, and not his godson, becomes a doctor. This part, which seems altered, is inferior to the corresponding part of the Hessian tale.
 
