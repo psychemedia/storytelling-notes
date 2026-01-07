@@ -91,7 +91,29 @@ A review of multiple versions of the tale suggests that there are various ways i
 
 ## Contemporary Tellings of the Traditional Tale
 
-In his telling of the tale (*Fairy Ointment*) on [*The Sleeping King* [CD]](https://burningshed.com/Hugh_Lupton_Daniel_Morden_and_Nick_Hennessey-The_Sleeping_King-CD), Hugh Lupton describes a midwife being taken to a poor, ramshackle location, which is then magically transformed to a splendid palace when the ointment is applied. Lupton prefaces the tale with an opening that situates the events in Norfolk, identifies the faery folk as *ferishers*, and provides a slightly dark back-story for the (human) mother of the new-born child.
+In his telling of the tale (*Fairy Ointment*) on [*The Sleeping King* [CD]](https://burningshed.com/Hugh_Lupton_Daniel_Morden_and_Nick_Hennessey-The_Sleeping_King-CD), set in Suffolk, Hugh Lupton describes a midwife being taken to a poor, ramshackle location, which is then magically transformed to a splendid palace when the ointment is applied. Lupton prefaces the tale with an opening that situates the events in Norfolk, identifies the faery folk as *ferishers*, and provides a slightly dark back-story for the (human) mother of the new-born child.  So for example, in *Notes and queries* of April 7th, 1860, pp. 259-60, in a note on *Suffolk: Folk Lore* by W. Sparrow Simpson, we have:
+
+```{admonition} Fairy (or ferrier, or ferisher), 1860
+:class: dropdown
+
+https://archive.org/details/notesqueries09unse_0/page/258/mode/2up?q=ferisher+spin
+Notes and Queries
+
+2nd S. IX. April 7. 1860
+
+pp. 259-60
+
+`[Noting *Appendix No. 6*, "a series of notices of local folk-lore", in [*The History of Stowmarket*](https://archive.org/details/historystowmark00hollgoog), pp247-8, by the Rev. A. G. H. Hollingsworth.]`
+
+...
+
+"5. A fairyman came to a woman in the parish and asked her to attend his wife at her lying-in. She did so, and went to fairyland, and afterwards came home none the worse for her trip. But one Thursday, at the market in Stow, she saw the fairyman in a butcher’s shop helping himself to some beef On this she goes up and spoke to him. Whereupon much surprised, he bids her say nothing about it, and inquires with which eye she could see him, for when in fairyland he had rubbed" one of her eyes with some ointment. On pointing to the gifted eye, he blew into it, and from that time she could never see a fairy again.
+
+"6. The house in which A. W. now lives was the scene of fairy visits and officiousness. A man lived there about 100 years since,who was visited constantly by a fairy (or ferrier, or ferisher). They used his cottage for their meetings. They cannot abide dirt or slovenliness, so as it was kept tidy and clean they cut and brought faggots for the good man, and filled his oven with nice dry wood every night. They also left a shilling for him under the leg of a chair. And a fairy often came to him and warned him not to tell any one of it, for if he did, the shilling, wood, and fairies would never come to him again. Unluckily for him he did tell his good luck, and then his little friends were never seen by him more. The fairy wore yellow satin shoes, was clothed with a green long coat, girt about by a golden belt, and had sandy hair and complexion.
+
+"7. Stowmarket, 1842. — S., living for 30 years in the cottages in the hop ground on the Bary road, coming home one night 20 3’ears since, in the meadow now a hop ground, not far from three ashen trees, in very bright moonliglit, saw the fairies. There might be a dozen of them, the biggest about three feet high, and small ones like dolls. Their dresses sparkled as if with spangles, like the girls at shows at Stow fair; they were moving round hand-in-hand in a ring, no noise from them. They seemed light and shadowy, not like solid bodies. I passed on, saying, 'The Lord have mercy on me, but them must be the fairies;' and being alone then on the path over the field, could see them as plain as I do you. I looked after them when I got over the style, and they were there, just the same, moving round and round. I ran home and called three women to come back with me and see them. But when we got to the place they were all gone. I could not make out any particular things about their faces. I might be 40 yards from them, and I did not like to stop and stare at them. I was quite sober at the time."
+
+```
 
 Online, we can find a face to camera telling by Irish storyteller Clare Murphy:
 
@@ -308,17 +330,21 @@ In passing, the *Nancy Tregier* tale is also mentioned in passing a review of a 
 ```{admonition} Bottrell's *Traditions of West Cornwall*, 1871
 :class: dropdown seealso
 
-https://archive.org/details/sim_saturday-review-uk_the-saturday-review-of-p_1871-02-25_31_800/mode/2up
+https://archive.org/details/sim_saturday-review-uk_the-saturday-review-of-p_1871-02-25_31_800/page/250/mode/2up
 
 The Saturday Review of Politics, Literature, Science and Art  1871-02-25: Vol 31 Iss 800
 
 p.250
 
-BOTTRELL'S TRADITIONS OF WEST CORNWALL. `[Traditions and_Hearthside Stories of West Cornwall. By William Bottrell. London: Trübner & Co. Penzance: W. Cornish. 1870.]` ALTHOUGH traversing to some extent the same ground asMr. Hawker's *Ballads and Traditions*, and Mr. Hunt's charming *Romances and Drolls of the West of England*, this volume by "An Old Celt," whom internal evidence proves to be familiar from his youth up with the places and people he describes, has a speciality of its own, in that it describes the legends of West Cornwall in the *ipsissima verba* of the local droll-tellers. To read them is to get a lesson in the dialect of the districts to which they are peculiar. A little abridged — as indeed there was need they should be — to suit the rarer leisure of readers who have something else to do than listen to interminable tales about giants, fairies, piskies, and demons that never were, these hearthside stories bear in all else the strongest impress of orally transmitted legends which it has been the "labour of love" of one born in the midst of the region whence they sprung to collect and commit to writing. And hence, though Tom the Giant and Jack the Tinkard, the giants Bolster and Wrath, the Mayor of Market-Jew, and Nancy Tregier who experimented with the fairy ointment, have met us before in the "Drolls" which Mr. Hunt published some five years ago, a still greater interest invests the introduction to them with which Mr. Bottrell has favoured us, inasmuch as we now hear them talk, and hear their descendants and followers talk about them, in the "lingo" understanded in those parts where they played their pranks, as is "well attested, and as well believed."
+BOTTRELL'S TRADITIONS OF WEST CORNWALL. `[Traditions and_Hearthside Stories of West Cornwall. By William Bottrell. London: Trübner & Co. Penzance: W. Cornish. 1870.]` ALTHOUGH traversing to some extent the same ground as Mr. Hawker's *Ballads and Traditions*, and Mr. Hunt's charming *Romances and Drolls of the West of England*, this volume by "An Old Celt," whom internal evidence proves to be familiar from his youth up with the places and people he describes, has a speciality of its own, in that it describes the legends of West Cornwall in the *ipsissima verba* of the local droll-tellers. To read them is to get a lesson in the dialect of the districts to which they are peculiar. A little abridged — as indeed there was need they should be — to suit the rarer leisure of readers who have something else to do than listen to interminable tales about giants, fairies, piskies, and demons that never were, these hearthside stories bear in all else the strongest impress of orally transmitted legends which it has been the "labour of love" of one born in the midst of the region whence they sprung to collect and commit to writing. And hence, though Tom the Giant and Jack the Tinkard, the giants Bolster and Wrath, the Mayor of Market-Jew, and Nancy Tregier who experimented with the fairy ointment, have met us before in the "Drolls" which Mr. Hunt published some five years ago, a still greater interest invests the introduction to them with which Mr. Bottrell has favoured us, inasmuch as we now hear them talk, and hear their descendants and followers talk about them, in the "lingo" understanded in those parts where they played their pranks, as is "well attested, and as well believed."
+
+...
 
 ```
 
-But on inspection, I find no variant of the Nancy Tregier tale in any of the volumes, let alone the first.
+I Nancy Tregier tale in the first series of *Traditions and Hearthside Stories*, but there is a variant in the form of [One-eyed Joan's Tale, p. 213](https://sacred-texts.com/neu/celt/swc1/swc133.htm).
+
+I note that another version of *that* tale, entitled *How Joan Lost the Sight of Her Eye* immediately follows *The Fairy Ointment* in Hunt's *Popular Romances of the West of England*, 3rd edition, vol. 1, 1903.
 
 ```{admonition} Bottrell's *Traditions and Hearthside Stories of West Cornwall*, three volumes
 :class: dropdown seealso
@@ -396,7 +422,7 @@ On the next market-day, when she sallied forth to sell her eggs, who should she 
 
 "Do you so!" cried he: "Pray with which eye do you see all this?"
 
-"With the right eye to be sure."
+"With the right eye to be st.ure."
 
 "The ointment! the ointment!" exclaimed the old fellow: "take that for meddling with what did not belong to you—you shall see me no more."
 
