@@ -1,24 +1,17 @@
 # Tom Tit Tot
 
-In the summer of 2025, in one of his late night shows at Wickham Festival, I head Cliff Eastabrook, aka *The Travelling Talesman*, tall *Tom Tit Tot*, the English variant of *Rumpelstiltskin* followed by its sequel, *The Gypsy Woman*, itself a variant of Grimm's *The Three Spinners* (Neil Phillip also places the tales next to each other in *The Watkins Book of English Folktales*). I'm pretty sure I've heard this combination before, back in the day, but it was good to be reminded of it. Some time later, I came across a West Country of the variant of the tale (*Duffy and the Devil*), a Christmas play based version of which presents the two tales as one.
+In the summer of 2025, in one of his late night shows at Wickham Festival, I head Cliff Eastabrook, aka *The Travelling Talesman*, tall *Tom Tit Tot*, the English variant of *Rumpelstiltskin* followed by its sequel, *The Gypsy Woman*, itself a variant of Grimm's *The Three Spinners* (Neil Phillip also places the tales next to each other in *The Watkins Book of English Folktales*). I'm pretty sure I've heard this combination before, back in the day, but it was good to be reminded of it. Some time later, I came across a Devonshire variant of the tale (*Duffy and the Devil*) in the Bristol Mercury from 1867, and then a longer variant of *that* tale, based on a Christmas play, which presents the naming game *and* the trick to avoid spinning in the future, as a single tale.
 
+This storynote pulls together several versions of the tale, starting with *Tom Tit Tot*.
 
-
----
-
-
-
-https://www.jstor.org/stable/1252656?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3Ae9f8a93e4ba0a981931409830aa72a23&initiator=recommender&seq=13
-https://www.jstor.org/stable/1252656
-https://archive.org/details/bub_gb_8PMRAAAAYAAJ/page/134/mode/2up
-
-
-The Folk-Lore Journal, Vol. 7, No. 2 (1889), pp. 135-163 (29 pages)
-The Philosophy of Rumpelstiltskin `[Read before the Folklore Society, 26th February, 1889.]`
-A. W. T., Edward Clodd
-
+*As ever, detailed comparisons of the tales are not provided here. The intention is simply to provided a convenient collection of story variants for storytellers to draw on in their own story research and preparation.*
 
 ## Tom Tit Tot, and The Gipsy Woman
+
+The tale of *Tom Tit Tot* first make its appearance in the *Suffolk Notes and Queries* column in the *Ipswich Journal* in 1878.
+
+```{admonition} Tom Tit Tot, 1878
+:class: dropdown
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000071/18780115/002/0001
 Ipswich Journal - Tuesday 15 January 1878
@@ -33,62 +26,13 @@ Notes.
 
 TOM TIT TOT.
 
-...
+Well, once upon a time there were a woman, and she baked five pies. And when they come out of the oven, they was that overbaked, the crust were too hard to eat. So says she to her darter,
 
+"Maw'r," says she, "put them there pies on the shelf, an' leave 'em there a little, an' they'll soon come agin." — She meant, you know, the crust 'ud get soft.
 
-https://archive.org/details/merrysuffolkmast00fiso
-Merry Suffolk; Master Archie and other tales;
-by Fison, Lois A; Thomas, Walter, Mrs
+But the gal, she says to herself, "Well, if they'll come agin, I'll ate 'em now." And she set to work and ate 'em all, first and last.
 
-
-PREFACE
-
-...
-
-In "The Bookman" for October, 1893 (page 21), Mr. Francis Groom wrote:— "Suffolk has the distinction of having produced by far the best versions of the old Folk Lore hitherto collected in England." They are three only in number — 'Cap o' Rushes,' 'Tom Tit Tot,' and 'Brother Mike.' They were contributed to a set of 'Suffolk Notes and Queries,' that I edited sixteen years ago for the *Ipswich Journal*. They are now being republished in an illustrated form by the Collectors, Mrs. Walter Thomas and Miss L. A. Fison, to whom as children they were told by their old nurse.
-
-The Author is indebted to Mr. H. F. Euren and Mr. William Jarrold ..., for an introduction to Mr. William Bottrell's "Traditions and Heathside Stories of West Cornwall," printed in 1875, where a story will be found called "Duffy and the Devil." Here the family likeness to the old German Folk Story of "Tom Tit Tot" is plainly seen. The tale was given as a Christmas Play in Cornwall formerly.
-
-We find here told, that a rich Squire, "Lovel," marries Duffy because he hears she is the best spinster and knitster in the county. By aid of an old witch, the girl Duffy gets the help of a devil called "Buck-a-boo," who spins for her, but demands as his reward that she shall marry him at the end of three years unless she can tell his name.
-
-The Squire when hunting sees a band of witches dancing in a wood with "Buck-a-boo" their master. The witches sing,
-
-"By night and by day,  
-We will dance and play,  
-With our noble captain,  
-'Farraway,' 'Farraway.'"
-
-Duffy finds the name therefore, when the Squire tells her what he has seen, and when the devil comes to carry Duffy away, she astonishes him by sa3'ing his name, and so escapes, as the Queen does in "Tom Tit Tot."
-
-And in the second part or Sequel of this Tale, the heroine escapes from danger through the aid of the Wise Woman, much as the Queen in "Tom Tit Tot" does by the help of the Gipsies.
-
-
-...
-
-
-"TOM TIT TOT" & SEQUEL BY MRS. WALTER THOMAS.
-
-Publication date 1899
-
-pp. 9-17, 18-22
-
-TOM TIT TOT.
-
-THE SUFFOLK VERSION OF GRIMM's TALE, "RUMPELSTILTSKIN."
-
-WELL, once upon a time there were a woman, and she baked five pies, and when they come out on the oven, they was that overbaked the crust was too hard for to ate. Soo says she to her darter,
-
-"Mawther," says she, "put them pies up on the shelf, du, and they'll soon come agin." (She meant the crust would get soft.)
-
-Well, the gal set 'um on the shelf, and says she,
-
-"Lork! if they pies'll come agin, I'll ate 'um all now," says she.
-
-Soo she set too work and eat 'um all, first and last, that she did.
-
-Well, come supper-time the woman she said,
-
-"Goo you and git one of them there pies. I daresay they've come agin now."
+Well, come supper time the woman she said; "Goo you and git one of them there pies. I dare say they've come agin now."
 
 The gal she went, an' she looked, and there warn't nothin' but the dishes. So back she come and says she,
 
@@ -106,19 +50,17 @@ The gal she went, an' she looked, and there warn't nothin' but the dishes. So ba
 
 "Best or worst," says the gal, "I've ate 'em all, and you can't ha' one till that's come agin."
 
-Well, the woman she was wholly bate, and she took her spinnin' to the door to spin, and as she spun she sang,
+Well, the woman she was wholly bate, and she took her spinnin' to the door to spin, and as she spun she sang:
 
-"My darter ha' ate five pies to-day  
-My darter ha' ate five, five pies to-day."
+"My darter ha' ate five pies to-day,—"My darter ha' ate five, five pies to-day."
 
 The king he were a comin' down the street, an' he hard her sing, but what she sang he couldn't hare, so he stopped and said,
 
 "What were that you was a singun of, maw'r?"
 
-The woman she were ashamed to let him hare what her darter had been a-doin', so she sang 'stids o' that:
+The woman she were ashamed to let him hare what her darter had been a doin', so she sang 'stids o' that:
 
-"My darter ha' spun five, five skeins to-day.  
-My darter ha' spun five, five skeins to-day."
+"My darter ha' spun five, five skeins to-day. — "My darter ha' spun five, five skeins to-day."
 
 "S'ars o' mine!" said the king. "I never heerd tell of anyone as could do that."
 
@@ -126,51 +68,51 @@ Then he' said, "Look you here, I want a wife, and I'll marry your darter. But lo
 
 "All right," says the woman, for she thowt what a grand marriage that was. And as for them five skeins when te come tew, there'd be plenty o' ways of gettin' out of it, and, likeliest, he'd ha' forgot about it.
 
-Well, so they was married. An' for 'leven months the gal had all the vittles she liked to ate, and all the gownds she liked to git, and all the cumpn'y she liked to hev. But when the time was gettin' oover, she began to think about them there skeins, an' to wonder if he had 'em in mind. But not one word did he say about 'em, an' she wholly thowt he'd forgot 'em.
+Well, so they was married. An' for 'leven months the gal had all the vittles she liked to ate, and all the gownds she liked to git, and all the cumpn'y she liked to hev.
 
-Howsivir, the last day o' the last month he takes her to a room she'd nivir set eyes on afore. There wam't nothing in it but a spinnin' wheel and a stool. An' says he,
+But when the time was gettin' oover, she began to think about them there skeins, an' to wonder if he had 'em in mind. But not one word did he say about 'em, an' she wholly thowt he'd forgot 'em.
 
-"Now, me dear, hare you'll be shut in to-morrow with some vittles and some flax, and if you ain't spun five skeins by the nights, yar hid'll goo off."
+Howsivir, the last day o' the last month he takes her to a room she'd nivir set eyes on afore. There worn't nothing in it but a spinnin' wheel and a stool. An' says he, "Now me dear, hare you'll be shut in to-morrow with some vittles and some flax, and if you hain't spun five skeins by the night, yar hid'll goo off."
 
-An' awa' he went about his business. Well, she were that frightened. She'd allus been such a gatless mawther, that she didn't so much as know how to spin; an' what were she to dew to-morrer, with no one to come nigh her to help her? She sat down on a stool in the kitchen, and lork! how she did cry! Howsivir, all on a sudden she hard a sort of a knockin' low down on the door. She upped and oped it, an' what should she see but a small little black thing with a long tail, that looked up at her right kewrious, an' that said,
+An' awa' he went about his business.
 
-"What are you a-cryin' for?"
+Well, she were that frightened. She'd allus been such a gatless mawther, that she didn't so much as know how to spin, an' what were she to dew to-morrer, with no one to come nigh her to help her? She sat down on a stool in the kitchen, and lork! how she did cry!
+
+Howsivir, all on a sudden she hard a sort of a knockin' low down on the door. She upped and oped it, an' what should she see but a small little black thing with a long tail, that looked up at her right kewrious, an' that said:
+
+"What are yew a cryin' for?"
 
 "What's that to yew?" says she.
 
-"Never yew mind," that said. "But tell me what you're a-cryin' for."
+"Never yew mind," that said. "But tell me what you're a cryin' for."
 
 "That oon't dew me noo good if I dew," says she.
 
 "Yew doon't know that," that said, an' twirled that's tail round.
 
-"Well," says she, "that oon't dew no harm, if that doon't dew no good," and she upped and told about the pies, an' the skeins an' every'thing.
+"Well," says she, "that oon't dew no harm, if that doon't dew no good," and she upped and told about the pies, an' the skeins an' everything.
 
 "This is what I'll dew," says the little black thing, "I'll come to yar winder iv'ry mornin' an' take the flax, an' bring it spun at night."
 
 "What's your pay?" says she.
 
-That looked out o' the comers o' that's eyes, an' that said,
+That looked out o' the comers o' that's eyes, an' that said: "I'll give you three guesses every night to guess my name, an' if you hain't guessed it afore the month's up, yew shall be mine."
 
-"I'll give you three guesses every night to guess my name, an' if you hain't guessed it afore the month's up, yew shall be mine."
+Well, she thowt she'd be sure to guess that's name afore the month was up. "All right," says she; "I agree."
 
-Well, she thowt she'd be sure to guess that's name afore the month was up.
-
-"All right," says she; "I agree."
-
-"All right," that says; and lork! how that twirled that's tail!
+"All right," that says, an' lork! how that twirled that's tail!
 
 Well, the next day har husband he took her inter the room, an' there was the flax an' the day's vittles.
 
-"Now, there's the flax," says he, "an' if that ain't spun up this night off goo yar hid."
+"Now, there's the flax," says he, "an' if that ain't spun up this night off goo yar hid." An' then he went out an' locked the door.
 
-An' then he went out an' locked the door. He'd hardly goon, when there was a knockin' agin the winder. She upped and she oped it, and there sure enough was the little oo'd thing a-settin' on the ledge.
+He'd hardly goon, when there was a knockin' agin the winder. She upped and she oped it, and there sure enough was the little oo'd thing a-settin' on the ledge.
 
 "Where's the flax?" says he.
 
 "Here te be," says she. An' she gonned it to him.
 
-Well, come the evenin a knockin' come agin the winder. She upped an' she oped it, and there were the little oo'd thing with five skeins o' flax on his arm.
+Well, come the evenin', a knockin' come agin the winder. She upped an' she oped it, and there were the little oo'd thing with five skeins of flax on his arm.
 
 "Here te be," says he. An' he gonned it to her.
 
@@ -188,19 +130,19 @@ Well, come the evenin a knockin' come agin the winder. She upped an' she oped it
 
 "Noo, that ain't," says he. An' he twirled his tail harder, an' awa' he flew.
 
-Well, when har husband he come in, there was the five skeins riddy for him.
+Well, when har husban' he come in, there was the five skeins riddy for him. "I see I shorn't hev for to kill yew to-night, me dare," says he. "Yew'Il hev yar vittles an' yar flax in the morning," says he, an' away he goes.
 
-"I see I sharn't hev for to kill yew to-night, my dare," says he. "Yew'Il hev yar vittles an' yar flax in the morning," says he, an' awa' he goes.
+"Well, ivery day the flax an' the vittles they was browt, an' ivery day that there little black impet used for to come mornins and evenins. An' all the day the mawther she set a tryin' fur to think of names to say to it when te come at night. But she niver hot on the right one. An' as that got towarts the ind o' the month, the impet that began for to look soo maliceful, an' that twirled that's tail faster an' faster each time she gave a guess.
 
-"Well, ivery day the flax an' the vittles they was brought, an' ivery day that there little black impet used for to come momin's and evenin's. An' all the day the mawther she set a-'tryin' fur to think of names to say to it when te come at night. But she niver hot on the right one. An' as that got towarts the ind o' the month, the impet that began for to look soo maliceful, an' that twirled that's tail faster an' faster each time she gave a guess. At last te came te the last day but one. The impet that come at night along o' the five skeins, an' that said,
+At last te came to the last day but one. The impet that come at night along o' the five skeins, an' that said:
 
 "What! hain't yew got my name yet?"
 
-"Is that Nicademus?" says she.
+"Is that Nicodemus?" says she.
 
 "Noo, tain't," that says.
 
-"Is that Sammie," says she.
+"Is that Sammle," says she.
 
 "Noo, tain't," says he.
 
@@ -208,50 +150,127 @@ Well, when har husband he come in, there was the five skeins riddy for him.
 
 "Noo, tain't that norther," he says.
 
-Then that looks at her with that's eyes like a cool o' fire, an' that say's,
+Then that looks at her with that's eyes like a cool o' fire, an' that say's, "Woman, there's only to-morrer night, an' then yar'll be mine." An' away te flew.
 
-"Woman, there's only to-morrer night, an' then yar'll be mine." An' awa' he flew.
+Well, she felt that horrud. Howsomediver, she hard the king a comin' along the passage. In he came, an' when he see the five skeins he says, says he:
 
-Well, she felt that horrud. Howsomediver, she hard the king a-comin' along the passage. In he came, an' when he see the five skeins he says, says he,
-
-"Well, me dare," says he, "I don't see but what yew'll ha' your skeins ready to-morrer night as well, an' as I reckon I shom't ha' to kill you, I'll ha' supper in here to-night."
-
-So they brought supper, an' another stool for him, and down the tew they sat.
+"Well, me dare," says he, "I don't see but what yew'll ha' your skeins ready to-morrer night as well, an' as I reckon I shorn't ha' to kill you, I'll ha' supper in here to-night." So they brought supper, an' another stool for him, and down the tew they sat.
 
 Well, he hadn't eat but a mouthful or so, when he stops, an' begins to laugh.
 
 "What is it?" says she.
 
-"A-why," says he, "I was out a-huntin' to-day, an' I got away to a place in the wood I'd never seen afore. An' there was an old chalk pit. An' I heerd a sort of a hummin', kind o'. So' I got off my hobby an' I looked down. Well, what should there be but the funniest little black thing yew iver set eyes on. An' what was that a-dewin' on, but that had a little spinnin' wheel, an' that were a-spinnin' wonful fast, an' a twirlia' that's tail. An' as that span, that sang.
+"A-why," says he, "I was out a huntin' to-day, an' I got away to a place in the wood I'd never seen afore. An' there was an old chalk pit. An' I heerd a sort of a hummin', kind o'. So' I got off my hobby an' went right quiet to the put, an' I looked down. Well, what should there be but the funniest little black thing yew iver set eyes on. An' what was that a dewin' on, but that had a little spinnin' wheel, an' that were a spinnin' wonnerful fast, an' a twirlin' that's tail. An' as that span, that sang:
 
 "Nimmy, nimmy not,  
 My name's Tom Tit Tot."
 
 Well, When the mawther heerd this, she fared as if she could ha' jumped outer her skin for joy, but she din't say a word.
 
-Next day that there little thing looked soo maliceful when he come foo the flax. An' when the night came, she hurd that a-knockin' agin the winder panes. She oped the winder, an' that come right in on the ledge. That were grinnin' from are to are, an' o-o! that's tail were twirlin' round so fast.
+Next day, that there little thing looked soo maliceful when he come foo the flax. An' when the night came, she heerd that a knockin' agin the winder panes. She oped the winder, an' that come right in on the ledge. That were grinnin' from are to are, an' Oo! tha's tail were twirlin' round so fast.
 
-"What's my name?" that says, as that gonned the skeins.
+"What's my name?" that says, as that gonned her the skeins.
 
 "Is that Solomon?" she says, pretendin' to be afeard.
 
-"Noo, it ain't," that says, an' that come fudder inter the room.
+"Noo, t'ain't," that says, an' that come fudder inter the room.
 
 "Well, is that Zebedee?" says she agin.
 
-"Noo, tain't," says the impet. An' then that laughed an' twirled that's tail, till yew cou'n't hardly see it.
+"Noo, t'ain't," says the impet. An' then that laughed an' twirled that's tail, till yew cou'n't hardly see it.
 
 "Take time, woman," that says; "next guess an' you're mine." An' that stretched out that's black hands at her.
 
-Well, she backed a step or two, an' she looked at it, and then she laughed out, an' says she, a-pointin' of her finger at it,
+Well, she backed a step or two, an' she looked at it, and then she laughed out, an' says she, a pointin' of her finger at it,
 
 "Nimmy, nimmy not,  
 Yar name's Tom Tit Tot."
 
 Well, when that hard her, that shruck awful, an' awa' that flew into the dark, an' she niver saw it noo more.
 
-Lork! how she did dap her hands for joy!" I'll warrant my master'll ha' forgot all about spinning next year," says she.
+A. W. T.
+```
 
+The tale was republished just over twenty years later, in *Merry Suffolk*, along with a sequel, both of which were credited to Anna Walter Thomas (the *A.W.T.* referred to at the end of the Ipswich Journal column).
+
+```{admonition} The best versions, 1899
+:class: dropdown
+
+https://archive.org/details/merrysuffolkmast00fiso
+Merry Suffolk; Master Archie and other tales;
+by Fison, Lois A; Thomas, Walter, Mrs, 1899
+
+Publication date 1899
+
+PREFACE
+
+...
+
+In "The Bookman" for [October, 1893 (page 21)](https://archive.org/details/sim_bookman_1893-10_5_25/page/21/mode/1up), Mr. Francis Groom wrote:— "Suffolk has the distinction of having produced by far the best versions of the old Folk Lore hitherto collected in England. They are three only in number — 'Cap o' Rushes,' 'Tom Tit Tot,' and 'Brother Mike.' They were contributed to a set of 'Suffolk Notes and Queries,' that I edited sixteen years ago for the *Ipswich Journal*. They are now being republished in an illustrated form by the Collectors, Mrs. Walter Thomas and Miss L. A. Fison, to whom as children they were told by their old nurse." `[Punctuation corrected to make it clear that the whole quote is due to Fancis Hindes Groome.]`
+
+The Author is indebted to Mr. H. F. Euren and Mr. William Jarrold ..., for an introduction to Mr. William Bottrell's "Traditions and Heathside Stories of West Cornwall," printed in 1875, where a story will be found called "Duffy and the Devil." Here the family likeness to the old German Folk Story of "Tom Tit Tot" is plainly seen. The tale was given as a Christmas Play in Cornwall formerly.
+
+We find here told, that a rich Squire, "Lovel," marries Duffy because he hears she is the best spinster and knitster in the county. By aid of an old witch, the girl Duffy gets the help of a devil called "Buck-a-boo," who spins for her, but demands as his reward that she shall marry him at the end of three years unless she can tell his name.
+
+The Squire when hunting sees a band of witches dancing in a wood with "Buck-a-boo" their master. The witches sing,
+
+"By night and by day,  
+We will dance and play,  
+With our noble captain,  
+'Farraway,' 'Farraway.'"
+
+Duffy finds the name therefore, when the Squire tells her what he has seen, and when the devil comes to carry Duffy away, she astonishes him by sa3'ing his name, and so escapes, as the Queen does in "Tom Tit Tot."
+
+And in the second part or Sequel of this Tale, the heroine escapes from danger through the aid of the Wise Woman, much as the Queen in "Tom Tit Tot" does by the help of the Gipsies.
+
+...
+
+```
+
+The opening few lines of *Tom Tit Tot* differ slightly in language to the version in the earlier *Ipswich Journal*, but then follows it almost exactly, except for the addition of a final extra line in the *Merry Suffolk* version.
+
+```{admonition} Tom Tit Tot, 1899
+:class: dropdown
+
+https://archive.org/details/merrysuffolkmast00fiso
+Merry Suffolk; Master Archie and other tales;
+by Fison, Lois A; Thomas, Walter, Mrs, 1899
+
+Publication date 1899
+
+"TOM TIT TOT" & SEQUEL BY MRS. WALTER THOMAS.
+
+pp. 9-17
+
+TOM TIT TOT.
+
+THE SUFFOLK VERSION OF GRIMM's TALE, "RUMPELSTILTSKIN."
+
+WELL, once upon a time there were a woman, and she baked five pies, and when they come out of the oven, they was that overbaked the crust was too hard for to ate. Soo says she to her darter,
+
+"Mawther," says she, "put them pies up on the shelf, du, and they'll soon come agin." (She meant the crust would get soft.)
+
+Well, the gal set 'um on the shelf, and says she,
+
+"Lork! if they pies'll come agin, I'll ate 'um all now," says she.
+
+Soo she set too work and eat 'um all, first and last, that she did.
+
+`[The tale then continues as per the Ipsqich Journal, except that the attribution to A. W. T. is omitted, and the following final line is added:]`
+
+Lork! how she did dap her hands for joy!" I'll warrant my master'll ha' forgot all about spinning next year," says she.
+```
+
+The sequel is given the title *The Gipsy Woman*.
+
+```{admonition} Tom Tit Tot Sequel, 1899
+:class: dropdown
+
+https://archive.org/details/merrysuffolkmast00fiso
+Merry Suffolk; Master Archie and other tales;
+by Fison, Lois A; Thomas, Walter, Mrs, 1899
+
+pp. 18-22
 
 THE GIPSY WOMAN.
 
@@ -329,8 +348,12 @@ An' tha's all.
 
 *Gathered from her old nurse by Anna Walter Thomas.*
 
+```
 
----
+The book was reviewed by E. Sidney Hartland in the *Folklore* hournal a year later.
+
+```{admonition} A little book of genuine folklore, 1900
+:class: dropdown
 
 https://archive.org/details/folklore11folkuoft/page/204/mode/2up?q=%22merry+suffolk%22
 
@@ -347,23 +370,16 @@ Mrs. Thomas may indeed be congratulated on having preserved with great ingenuity
 For other examples of belief and practice, I must refer readers to the book itself, which will be valued both within and without the county of Suffolk for its record of many things now fast passing or altogether passed away.
 
 E. Sidney Hartland.
+```
 
----
+In the intervening years, the tale was picked up by Edward Clodd, who included it in *The Philosophy of Rumpelstiltskin*, a paper "read before the Folklore Society, 26th February, 1889" and published in *The Folk-Lore Journal*, Vol. 7, No. 2, 1889, [pp. 135-163](https://archive.org/details/bub_gb_8PMRAAAAYAAJ/page/134/mode/2up).
 
-https://archive.org/details/fairytales_201911/page/n165/mode/2up
-The folklore of fairy-tale
-by Macleod Yearsley
+From that source, the tale of *Tom Tit Tot* then seems to have made its way into Joseph Jacobs' *English Fairy Tales* (1899).
+    
+*Neil Philip also notes that Mrs. Thomas took umbrage at Jacobs' use of the tale "without payment or acknowledgement" in a letter to *The Times*. Certainly, Jacobs' note to the sotry bears no mention of her as the collector.*
 
-Publication date 1924
-
-Chapter VIII
-
-TOM TIT TOT AND RUMPELSTILTSKEN
-
-
-
----
-
+```{admonition} Jacobs, notes, 1899
+:class: dropdown
 
 https://archive.org/details/englishfairytal00jacogoog/page/n18/mode/2up?q=%22tom+tit%22
 English Fairy Tales
@@ -373,19 +389,22 @@ Publication date 1890
 
 pp. 1-8
 
-
-Note pp.229-30
+Note pp. 229-30
 
 I. TOM TIT TOT.
 
-Source, — Unearthed by Mr.E. Clodd from the "Suffolk Notes and Queries" of the Ipswich Journal, and reprinted by him in a paper on "The Philosophy of Rumpelstiltskin" in *Folk-Lore Journal*, vii. 138-43. I have reduced the Suffolk dialect.
+Source, — Unearthed by Mr. E. Clodd from the "Suffolk Notes and Queries" of the Ipswich Journal, and reprinted by him in a paper on "The Philosophy of Rumpelstiltskin" in *Folk-Lore Journal*, vii. 138-43. I have reduced the Suffolk dialect.
 
 Parallels. — In Yorkshire this occurs as "Habetrot and Scantlie Mab," in Henderson's *Folk-Lore of Northern Counties*, 221-6; in Devonshire as "Duffy and the Devil"' in Hunt's *Romances and Drolls of the West of England*, 239-47; in Scotland two variants are given by Chambers, *(Popular Rhymes of Scotland)*, under the title "Whuppity Stourie." The "name-guessing wager" is also found in "Peerifool," printed by Mr. Andrew Lang in *Longman's Magazine*, July 1889, also *Folk-Lore*, September, 1890. It is clearly the same as Grimm's "Rumpelstiltskin" (No. 14); for other Continental parallels see Mr. Clodd's article, and Cosquin, Contes pop. de Lorraine, i. 269 seq.
 
 Remarks. — One of the best folk-tales that have ever been collected, far superior to any of the continental variants of this tale with which I am acquainted. Mr. Clodd sees in the class of name-guessing stories, a "survival" of the superstition that to know a man's name gives you power over him, for which reason savages object to tell their names. It may be necessary, I find, to explain to the little ones that Tom Tit can only be referred to as "that," because his name is not known till the end.
 
+```
 
+Edward Clodd certainly seems to have taken the tale to heart, taking his paper out "on tour" in 1893.
 
+```{admonition} Philosophising upon a Suffolk Folk-tale, 1893
+:class: dropdown
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000071/18931007/046/0008
 Ipswich Journal - Saturday 07 October 1893
@@ -424,19 +443,11 @@ Well, when that hard har, that shruck awful, and that flew into the dark, and sh
 
 On the motion of Sir W. B. GURDON, seconded by Dr. BARTLET, a cordial vote of thanks was accorded to Mr. Clodd for his interesting paper.
 
---
+```
 
+A few years later, he would publish a further extended essay on the topic ([*Tom Tit Tot: an essay on savage philosophy in folk-tale, 1898*](https://archive.org/details/tomtittotessayon0000clod)).
 
-A few years later, Edward Clodd would publish his research on the tale even more comprehensively.
-
-https://archive.org/details/tomtittotessayon0000clod
-Tom Tit Tot : an essay on savage philosophy in folk-tale
-by Clodd, Edward, 1840-1930
-
-Publication date 1898
-
----
-
+In later years, the tale would continue to be of interest to folklorists, as for example in *Chapter VIII — Tom Tit Tot and Rumpelstilsken* of Yearsley Macleod's [The folklore of fairy-tale](https://archive.org/details/fairytales_201911/page/n165/mode/2up), 1924.
 
 ## Duffy and the Devil
 
