@@ -588,10 +588,10 @@ I'm sure I have several story collections with variants of the tale of three wom
 
 One of the collections that does have them is Lang, whose coloured fairy books include all manner of tales, though the attribution is often sorely lacking, as in the following case, from the *Pink Fairy Book* (the title of the tale Lang provides — *The Merry Wives*— is not the title I remember, nor is the set-up...).
 
-```{admonition} "The Merry Wives", *Pink Fairy Book*, 1904
+```{admonition} "The Merry Wives", *Pink Fairy Book*, 1897
 :class: dropdown
 
-Andrew Lang (Ed.), *The Pink Fairy Book*, 1904, [pp.297-300]().
+Andrew Lang (Ed.), *The Pink Fairy Book*, 1897, [pp.297-300](https://archive.org/details/pinkfairybooklan00lang/page/296/mode/2up).
 
 The Merry Wives `[From the Danish.]`
 
@@ -613,7 +613,7 @@ Next day the tailor's wife said to her husband, 'I have some girls coming to-day
 
 The husband was not very sure about this, although otherwise he was always ready to give in to her.
 
-'h yes, you will see it will work all right,' said the wife.
+'Oh yes, you will see it will work all right,' said the wife.
 
 And so towards evening she got the tailor dressed up in a shaggy fur coat, tied a black woollen cloth round his head, and chained him up beside the dog's kennel.
 
@@ -707,4 +707,37 @@ So the smith ran and as he approached the procession, he called to the people to
 
 From that time on, the carpenter's wife never had to pay for her measure of brandy, for they all had to acknowledge that she had made the worst fool of her husband.
  
+```
+
+The reference in Jacobs' note to a parallel tale in Kennedy's *Fireside Tales* appears to be the folllowing:
+
+```{admonition} A Legend of Clever Women, 1870
+:class: dropdown
+https://archive.org/details/firesidestorieso00kennrich/page/8/mode/2up?q=wife
+The fireside stories of Ireland
+by Kennedy, Patrick, 1801-1873
+
+Publication date 1870
+
+pp.9-14
+
+A LEGEND OF CLEVER WOMEN.
+
+Before Joan was married all her people had a high opinion of her. When Darby came to woo her, her mother told him in confidence that she could see the wind, and hear the flies when they coughed. Well, when they were at dinner the beer came short, and Joanna went down to the cellar to draw a gallon-full. She stayed awhile, and then her mother went to see what was keeping her. She wasn't coming back, and the father's and Darby's thirst was getting more troublesome; so the old man went after the rest. As he forgot to return, the bridegroom thought fit at last to try what had become of his new relations, and when he got inside the cellar, he found the whole of them sobbing and crying. "What in the world has happened, dear friends?" said he. "Oh nothing," says the mother, "but something terrible might happen only for the cleverness of my poor Joan. Do you see that loose stone in the vault just over the spigot? When my poor child was filling the gallon, that stone caught her eye, and she thought what a heartscald it would be when the little boy, that God will please to send to herself and yourself, would be filling a vessel, maybe when he'd be ten years old or so, and that stone tumble down and kill him dead. So how could she help clapping her hands an' roarin' an' bawlin' when the thought came into her head1? and I'm sure her father an' meself would have the hard hearts not to feel for her." "Well, well," says Darby, "I'll soon put it out of the stone's power to do mischief." So he got on a stillion, and pulled it away, and they all dried their eyes and returned to their dinner.
+
+Well, when they were living by themselves, Darby says one morning to his wife after breakfast, "You'll have my dinner ready at half-past twelve to the minute. You know I have to go to the town after it." "Never fear, Darby," says she; and sure enough she had a big black pudding hissing in the pan about ten minutes before she expected him. While she was watching it, the thought came into her mind that it would be a good thing to be drawing the beer while the pudding was frying. But while she was watching the beer falling into the jug, she heard them cry out, "The dog is running away with the pudding!" Out she flew like a racer, and after the dog with her; but when she had chased him two fields he was a whole field ahead of her, and she thought she might as well go back.
+
+Poor Joan! when she came to the cellar door, the floor was covered three inches deep with the beer, the barrel was empty, but the jug was full any way. "We must make the best of a bad market," says she, "Darby would be vexed to see the cellar this way, and I must get out his drink whatever happens." So she emptied a sack of meal on the pool, and was delighted to see it was almost all sucked up. Then she laid the sack across to the barrel, and hardly wet her pumps, and would have had the full jug coming back only for a kick she happened to give it. Poor Darby had a poor dinner, but Joan was so heated, and so proud of her good management, that he hadn't the heart to scold her. She showed him how nicely all would have happened, and what a comfortable dinner she might have ready for him, only for the roguery of the dog when he found the door open, and how could she spare time to turn the cock when she heard the shout? Darby, however, began to suspect that she was not so clever as her father and mother said she was. A week after he had to go to the town, and says he, just as he was setting out, "Joan, you must mind what I say to you. *Shan na Mo* (Jack of the Cows) will be apt to call while I'm away, for Browny, and Blacky, and Brackedy. He agreed to pay thirty pounds for them, but he's rather tricky; so don't let him get a hoof of one of them without paying the money on the nail." "I'll be careful," says Joan. Darby came back in the evening. "Well, Joan my darling, how did you succeed?" "Oh nicely. You'll never say after this that I wasn't clever. I think Shan is just as tricky as you said he was, but he didn't circumvent me." "Them cows," says he, "is dear enough, but I'll take 'em; what's a man but his word?" and he was driving them out at the bawn gate. "Oh stop!" says I, "you didn't give me the thirty pounds." "Didn't I," says he, "Well, what a memory I have! and, bedad," says he, rummaging his pockets, "I left the rowl of notes on the dresser coining out. Now I'll have the trouble of going for them. Ah! I wish my wife was as clever as you, Joan. I'd be a thousand pounds richer to-day. Happy is the man that owns you! Oh, this is what we can do, and save trouble. These three cows are mine. I'll leave you one in pledge till I send you the money this evening or to-morrow morning." "Well, see my cleverness! I kept the smallest because she'd eat the least till he'll send the money. Now what do you say to me, Darby?" "Indeed I'll say this to you. You are such a fool that I'll never lie a night by your side, till I find some other woman more foolish; "and he turned his back, and to the road with him.
+
+The first foolish woman he found had no window to her mud-wall cabin, and the door was turned to the north. She was running with a sieve in her hands in and out, crying, "I have it now," and, "I haven't it now," till Darby asked her what she was doing. "And ain't I striving to carry the sunshine into the cabin, and I can never get it inside the door?" "Have you a pick-axe in the way?" "Yes, to be sure." "Well, I'll soon bring it in to you." He went to the wall next the sun, gave two or three strokes, and a grey streak was soon coming in, and a splash of light on the floor. "Oh, fortunate was the wind that drove you in my road! what will I be giving you for this good job?" "Ah, my good woman, all you're worth wouldn't be enough; I'll take nothing;" and he went on, saying to himself, "She is not more foolish than Joan."
+
+He was going by a cabin, and such roaring and bawling as was coming out through the door! In he ran, and there was a man sitting on a chair, with a clean linen sack on his head and his shoulders, and his wife with a beetle, coming down on his head with the hammers of death, and he roaring like fifty bulls. "What are you doing, you wicked woman1?" says Darby; "do you want to kill the poor man?"" "Indeed, an' I don't, but I want to make a hole in this divel of a shirt to let his head and face up through it!" "Have you a scissors about you?" "To be sure; I'd be a purty housewife if I hadn't." Darby made a cut in the top of the bag, and the poor bruised head came out. "Oh, musha, wasn't it good fortune that drove you into the cabin! What'll we be giving you for your trouble?" "All you're worth wouldn't be enough; so I'll take nothing; *banacht lath*! I don't think she's worse than Joan. I'll go on."
+
+The next adventure he met was in a widow-woman's bawn, where herself and a few neighbours were striving to lift up a big cow to the eaves of the cabin, and the poor animal kicking off their hats, and tearing their clothes with her hoofs. "God bless the men and their work!" says Darby. "God save you kindly," says they. "What are yous doing with the poor baste?" says he. "An' sure we're striving to get her up on the *tatch*," says the widow, "'till she makes a meal on all that fine grass that's growing on itself, and the scraws at the top." "Let her down," says he, "and maybe we'll come on an easier plan. Give us a reaping-hook, if you have the like." So he got a ladder, and was soon down again with an armfull of the grass. "Well to be sure!" says the poor widow, "nothing bates the wit of man barring the bees. It was a good wind," &c., &c. u I don't think," says Darby, "she's a bit worse than Joan. My journey is not over."
+
+Just as night fell, he went into a farm-house and put up for the night. The owner was a widow- woman that was after burying her third husband. The first two were such crooked disciples that she married a third to get the taste of them off her mouth, as she said. "Where do you come from, honest man f" says she to Darby, after supper. "I am from the *Gairdheen*" (Garden, the name of his farm.) "Oh, and are you from the Garden in -earnest V "Faith I am so; what do you admire about it 1" "Oh, and may be you are acquainted with my poor husband, the last I mean, the others I'm sure never had the grace to get there." Darby now smelled a rat. "And what sort of a mau was your last, and what was the name was on him V "An' wasn't he poor Jack Miskella, the innocentest and little-good-for-est man that ever drew on a stocking? A child of three years old would buy and sell him any day he ever got up." "I know the man you mean, and have a message to you from him. He have no means of earning his bread, and his clothes is nearly worn out. So he does be begging at the good Christians' doors, and he bid me tell you, if you'd send him a comfortable suit of clothes, not forgetting a pair of double- soled brogues, you'd make a man of him; and if he had an ass or a small garran to carry him from one charitable house to another, he'd be as happy as a king, it 'ud be such an ease to his poor legs." "Ah, an' them's the very things he must have, my poor Jack! I suppose you'd like to be off early to him. The ass will be ready bridled and saddled in the stable, and the full suit will be laid out here on the kitchen table; and if you think they'd be of any use, there'll be a few guinea notes in the pockets." "Never mind the notes; every family does everything for itself in that country."
+
+"I think," says Darby to himself next morning, "I've found a woman rather more foolish than poor Joan; so I'll go back to her." He did so, and they led such a life that whenever a loving couple are seen going together to Mass or market, every one says, "There goes Darby and Joan."
+
+
 ```
