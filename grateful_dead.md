@@ -659,7 +659,7 @@ In the morning, when breakfast was ready, she came down from the top of the hous
 
 They went hunting that day till night came. When supper was ready, she came down with a flight.
 
-"Unless you have the last lips I shall kiss this night, rU have your head."
+"Unless you have the last lips I shall kiss this night, I'll have your head."
 
 "It's hard for me," said the king's son, "to know what are the last lips you kiss."
 
