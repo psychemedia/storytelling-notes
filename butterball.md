@@ -1,6 +1,6 @@
 # Buttercup / Butterball
 
-*I first heard this tale, under the title of "Butterball", told by Emily Hennessey at Festival at the Edge in 2019, if my memory serves me correctly. This was the first time I'd been to FatE for several yeas, and the physical energy and expressiveness of the performances by Emily and Debs Newbold, who were both new to me, was a contrast to many of the tellers I'd developed a familiarity with hearing and seeing when we'd been regualarly going to FatT twenty years or so before.*
+*I first heard this tale, under the title of "Butterball", told by Emily Hennessey at Festival at the Edge in 2019, if my memory serves me correctly. This was the first time I'd been to FatE for several yeas, and the physical energy and expressiveness of the performances by Emily and Debs Newbold, who were both new to me, was a contrast to many of the tellers I'd developed a familiarity with hearing and seeing when we'd been regularly going to FatE twenty years or so before.*
 
 Popular tales from the Norse
 by Asbjørnsen, Peter Christen, 1812-1885; Moe, Jørgen Engebretsen, 1813-1882; Dasent, George Webbe, Sir, 1817-1896
