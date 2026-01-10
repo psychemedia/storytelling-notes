@@ -352,7 +352,7 @@ Well, little Fairly kept nevermindin' him, and brought his cow to graze every da
 
 Well, little Fairly was the fellow to put the best face upon every thing; and so, instead of givin' in to fret, and makin' lamentations that would do him no good, by dad he began to think how he could make the best of what happened, and the little craythur sharpened a knife immediately and began to skin the cow, "and anyhow," says he, "the cow is good mate, and my owld mother and me 'ill have beef for the winther."
 
-"Thrue for you, little Fairly," said one of the neighbours was helpin' him, "and besides, the hide 'ill be good to make soJes for your brogues for many a long day."
+"Thrue for you, little Fairly," said one of the neighbours was helpin' him, "and besides, the hide 'ill be good to make soles for your brogues for many a long day."
 
 "Oh, I'll do betther with the hide nor that," says little Fairly.
 
