@@ -545,7 +545,7 @@ So the man got a whole cart-load of clothes, and a chest full of shining dollars
 
 "That was the third," be said to himself, as he went along.
 
-Now this Goody's third husband was a little way off in a field ploughing, and when he saw a strange man driving ofT from the farm with his horse and cart, he went home and asked his wife who that was that had just started with the black horse.
+Now this Goody's third husband was a little way off in a field ploughing, and when he saw a strange man driving off from the farm with his horse and cart, he went home and asked his wife who that was that had just started with the black horse.
 
 "Oh, do you mean him?" said the Goody; "why, that was a man from Paradise, who said that Peter, my dear second husband, who is dead and gone, is in a sad plight, and that he goes from house to house begging, and has neither clothes nor money; so I just sent him all those old clothes he left behind him, and the old money box with the dollars in it."
 
@@ -673,7 +673,7 @@ Lang cites *The Merry Wives* as being translated from the Danish, but does not g
 
 ```{admonition} In *Danish Fairy Tales*, 1919
 :class: dropdown
-Sven Grundtvig, *Danish fairy tales*, translated byJ. Grant Cramer, 1919, [pp. 59-63](https://archive.org/details/danishfairytales00gruniala/page/58/mode/2up).
+Sven Grundtvig, *Danish fairy tales*, translated by J. Grant Cramer, 1919, [pp. 59-63](https://archive.org/details/danishfairytales00gruniala/page/58/mode/2up).
 
 THE MERRY WIVES
 
