@@ -413,11 +413,11 @@ When he had wandered on and on for a quarter of a year he came to a town, and ou
 
 "'And here it is,' she said; 'for I took it from him again without his knowing it. But what shall we hit upon now, since he is master of such craft!'
 
-"Well, the Troll hardly knew; but, after they had thought a bit, they made up their minds to light a large fire and burn the golden ball; and so they would be cocksure that he could not get at it. But, just as she tossed it into the fire, the companion stood ready and caught it; and neither of them saw him, for he had on the ThreeSister Hat.
+"Well, the Troll hardly knew; but, after they had thought a bit, they made up their minds to light a large fire and burn the golden ball; and so they would be cocksure that he could not get at it. But, just as she tossed it into the fire, the companion stood ready and caught it; and neither of them saw him, for he had on the Three Sister Hat.
 
 "When the princess had been with the Troll a little while, and it began to grow towards dawn, she set off home again, and the companion got up behind her on the goat, and they got back fast and safe.
 
-"Next day, when the lad was bidden down to dinner, the companion gave him the balL The princess was even more high and haughty than the day before, and, after they had dined, she perked up her mouth, and said, in a dainty voice, —
+"Next day, when the lad was bidden down to dinner, the companion gave him the ball. The princess was even more high and haughty than the day before, and, after they had dined, she perked up her mouth, and said, in a dainty voice, —
 
 "'Perhaps it is too much to look for that you should give me back my golden ball, which I gave you to keep yesterday?'
 
