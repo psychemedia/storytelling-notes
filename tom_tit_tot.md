@@ -1,6 +1,6 @@
 # Tom Tit Tot
 
-In the summer of 2025, in one of his late night shows at Wickham Festival, I head Cliff Eastabrook, aka *The Travelling Talesman*, tall *Tom Tit Tot*, the English variant of *Rumpelstiltskin* followed by its sequel, *The Gypsy Woman*, itself a variant of Grimm's *The Three Spinners* (Neil Phillip also places the tales next to each other in *The Watkins Book of English Folktales*). I'm pretty sure I've heard this combination before, back in the day, but it was good to be reminded of it. Some time later, I came across a Devonshire variant of the tale (*Duffy and the Devil*) in the Bristol Mercury from 1867, and then a longer variant of *that* tale, based on a Christmas play, which presents the naming game *and* the trick to avoid spinning in the future, as a single tale.
+In the summer of 2025, in one of his late night shows at Wickham Festival, I head Cliff Eastabrook, aka *The Travelling Talesman*, tall *Tom Tit Tot*, the English variant of *Rumpelstiltskin* followed by its sequel, *The Gypsy Woman*, itself a variant of Grimm's *The Three Spinners* (Neil Phillip also places the tales next to each other in *The Watkins Book of English Folktales*). I'm pretty sure I've heard this combination before, back in the day, but it was good to be reminded of it. Some time later, I came across a Devonshire variant of the tale (*Duffy and the Devil*) in the *Bristol Mercury* from 1867, and then a longer variant of *that* tale, based on a Christmas play, which presents the naming game *and* the trick to avoid spinning in the future, as a single tale.
 
 This storynote pulls together several versions of the tale, starting with *Tom Tit Tot*.
 
@@ -451,9 +451,14 @@ In later years, the tale would continue to be of interest to folklorists, as for
 
 ## Duffy and the Devil
 
+First published in Robert Hunt's *Popular romances of the west of England* in 1865, it was reprinted in the *Bristol Mercury* of [Saturday 31 August 1867](https://britishnewspaperarchive.co.uk/viewer/bl/0000034/18670831/017/0006), which is where I saw it first.
+
+
+Hunt notes TO DO
+
 https://archive.org/details/s1popularromance00huntuoft/page/272/mode/2up?q=duffy
 
-Popular romances of the west of England; or, The drolls, traditions, and superstitions of old Cornwall;
+*Popular romances of the west of England*; or, The drolls, traditions, and superstitions of old Cornwall;
 by Hunt, Robert, 1807-1887
 
 Publication date 1865
@@ -472,15 +477,15 @@ That 'Whuppity Stoorie' is my name."
 
 Of course, when the fairy comes to claim the "lad bairn," she is addressed as "Whuppity Stoorie," and she at once disappears.
 
-In "Who Built Reynir Church?" in the "Icelandic Legends" of Jon Arnason, the story turns on the discovery of the name of the builder. — Icelandic Legtnds, p. 49.
+In "Who Built Reynir Church?" in the "Icelandic Legends" of Jon Arnason, the story turns on the discovery of the name of the builder. — Icelandic Legends, p. 49.
 
 
---
+The story itself TO DO
 
-Then reprinted in:
+```{admonition} Duffy and the Devil, 1867 (1865)
+:class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000034/18670831/017/0006
-Bristol Mercury - Saturday 31 August 1867
+*Bristol Mercury* of [Saturday 31 August 1867](https://britishnewspaperarchive.co.uk/viewer/bl/0000034/18670831/017/0006)
 
 DUFFY AND THE DEVIL.
 
@@ -589,6 +594,8 @@ Squire Lovel was out hunting, away far on the moors; the day was cold and the wi
 
 The story, as told by the Drolls, now rambles on. Duffy cannot furnish stockings. The squire is very wroth. There are many quarrels—mutual recriminations. Duffy's old sweet-heart is called in to beat the squire, and eventually peace is procured, by a stratagem of old Bets, which would rather shock the sense of propriety in these our days.
 
+```
+
 --
 
 jack - leather drinking 
@@ -628,7 +635,7 @@ It is somewhat curious that in this old guise-dance, or story about Madame Lovel
 
 We now purpose to reproduce a few well-remembered scenes, as we have heard them related many years ago, by old folks of Bui-yan, and to simply toll the story as expressed by others. Yet With a feeling somewhat akin to regret, we have curtailed some portions, in order to exclude whatever might, now, be regarded as indelicate: there is sufficient, however, preserved to carry on the story as far as it is likely to interest or amuse any but antiquarian students who might prefer, with all its blemishes, an unmutilated picture of such "merrie disports" as were usual at Christmas-tide with our simple-honest forefathers.
 
-Characters :-
+Characters:-
 
 SQUIRE LOVELL, *of Trove*.  
 DUFFY, *a poor girl, who became Madame Lovell*.  
@@ -1024,7 +1031,7 @@ Duffy replied, "my darling man, I'll go with all my heart and see if they carry 
 
 Christmas-Day in the morning, Duffy, as richly attired as any lady in Buryan, mounted on a pillion behind her husband, and away they went to church. After service, a great number assembled at the Cross and sung old charols. Squire and Madam Lovell exchanged many kindly compliments with the Cardews, Harveys, Noys, Fenders, Vivians, Gwennaps, and other ancient gentry of Buryan, who were waiting for their steeds.
 
-Whilst wishing her neighbours a Merry Christmas Madam LovelL had kept a sharp look out for old Betty; but had nearly given up all hopes of seeing her, and was about to mount behind the Squire, when glancing around for the last time she spied her steeple-crown and red mantle among the crowd of singers, through whom she had great trouble to lead her fat and lazy Dobbin to the heaving-stock. Madam went to meet her, shook hands heartily and said, "good morrow to 'e Dame Chymellan, how are 'e an; I am glad to see ye looking so well and wish 'e a Merry Christmas and a Happy New Year, and many of them. I hope you liked the sermon and the singing, and so on;" — we can't tell all the fine compliments that passed so long ago.
+Whilst wishing her neighbours a Merry Christmas Madam Lovell had kept a sharp look out for old Betty; but had nearly given up all hopes of seeing her, and was about to mount behind the Squire, when glancing around for the last time she spied her steeple-crown and red mantle among the crowd of singers, through whom she had great trouble to lead her fat and lazy Dobbin to the heaving-stock. Madam went to meet her, shook hands heartily and said, "good morrow to 'e Dame Chymellan, how are 'e an; I am glad to see ye looking so well and wish 'e a Merry Christmas and a Happy New Year, and many of them. I hope you liked the sermon and the singing, and so on;" — we can't tell all the fine compliments that passed so long ago.
 
 "Thank your honour, and I wish 'e the same," the old dame replied, making a low curtsey to Duffy. Then turning round to other gentlefolks, she continued to wish all their honours — as she styled them — the compliments of the tide, calling each by name as she curtsied to every one.
 
@@ -1192,16 +1199,13 @@ Thus was the tale ended by poor old *Shebale* (Sybilla) Father Murphy's housekee
 ## Habetrot and Scantlie Mab
 
 
-
---
-
 https://archive.org/details/cu31924006726552/page/n281/mode/2up
 Notes on the folk-lore of the northern counties of England and the borders
 by Henderson, William, 1813-1891
 
 Publication date 1879 (Folklore Society edition)
 
-pp258-
+pp258-62
 
 In the old days, when spinning was the constant employment of women, the spinning-wheel had its presiding genius or fairy. Her Border name was Habetrot, and Mr. Wilkie tells the following legend about her:—
 
@@ -1306,7 +1310,7 @@ Unseen by all but me alone."
 
 The song ended, Scantlie Mab asked Habetrot what she meant by her last line, "Unseen by all but me alone."
 
-![Jacibs, More English Pariy Tales, 1894, -184](images/jacobs_more_scantlie_mab.png)
+![Jacobs, More English Fairy Tales, 1894, p. 184](images/jacobs_more_scantlie_mab.png)
 
 "There is one," replied Habetrot, "whom I bid to come here at this hour, and he has heard my song through the self-bored stone." So saying she rose, opened another door, which was concealed by the roots of an old tree, and invited the pair to come in and see her family.
 
@@ -1322,8 +1326,6 @@ Source. — Henderson's Folk-Lore of Northern Counties, pp. 258-62 of Folk-Lore 
 Parallels. — This in its early part is a parallel to the "Tom Tit Tot," which see. The latter part is more novel, and is best compared with the Grimms' Spinners.
 
 Remarks. — Henderson makes out of Habetrot a goddess of the spinning-wheel, but with very little authority as it seems to me.
-
---
 
 ---
 
@@ -1353,7 +1355,7 @@ And mony ane sings the corn;
 And mony ane clatters o' bold Robin Hood,  
 Ne'er kent where he was born."
 
-But hoosoever, aboot Kittlerumpit: the goodman was a vaguing sort o' a body; and he gaed to a fair ae day, and not only never came hame again, but never mair was heard o'. Some said he listed, and ither some that the wearifu' pressgang cleekit him up, though he was clothed wi' a wife and a wean forbye. Hech-how! that dulefu' pressgang! they gaed aboot the kintra like roaring lions, seeking whom they micht devoor. I mind weel, my auldest brither Sandy was a' but smoored in the meal ark hiding frae thae limmers. After they war gane, we pu'd him oot frae amang the meal, pechin' and greetin', and as white as ony Corp. My mither had to pike the meal oot o' his mooth wP the shank o' a horn spoon.
+But hoosoever, aboot Kittlerumpit: the goodman was a vaguing sort o' a body; and he gaed to a fair ae day, and not only never came hame again, but never mair was heard o'. Some said he listed, and ither some that the wearifu' pressgang cleekit him up, though he was clothed wi' a wife and a wean forbye. Hech-how! that dulefu' pressgang! they gaed aboot the kintra like roaring lions, seeking whom they micht devoor. I mind weel, my auldest brither Sandy was a' but smoored in the meal ark hiding frae thae limmers. After they war gane, we pu'd him oot frae amang the meal, pechin' and greetin', and as white as ony Corp. My mither had to pike the meal oot o' his mooth wi' the shank o' a horn spoon.
 
 'Aweel, when the goodman o' Kittlerumpit was gane, the goodwife was left wi' a sma' fendin. Little gear had she, and a sookin' lad bairn. A' body said they war sarrj for her; but naebody helpit her, whilk's a common case, airs. Howsomever, the goodwife had a boo, and that was her only consolation; for the soo was soon to farra, and she hopit for a good bairn-time.
 
@@ -1436,7 +1438,7 @@ The lady walked into the cave, and was kindly asked by the wee bodies to take a 
 
 So the lady asked them all to dine with herself 'and her husband on the day when he was to come back.
 
-When the goodman came hame, he found the house bo occupied with preparations for dinner, that he had nae time to ask his wife about her thread; and before ever he had ance spoken to her on the subject, the company was announced at the hall door. The six little ladies all came in a coach-and-six, and were as fine as princesses, but still wore their gowns of green. The gentleman was very poHte, and showed them up the stair with a pair of wax candles in his hand. And so they all sat down to dinner, and conversation went on very pleasantly, till at length the husband, becoming familiar with them, said, 'Ladies, if it be not an uncivil question, I should like to know how it happens that all your mouths are turned away to one side?'
+When the goodman came hame, he found the house bo occupied with preparations for dinner, that he had nae time to ask his wife about her thread; and before ever he had ance spoken to her on the subject, the company was announced at the hall door. The six little ladies all came in a coach-and-six, and were as fine as princesses, but still wore their gowns of green. The gentleman was very polite, and showed them up the stair with a pair of wax candles in his hand. And so they all sat down to dinner, and conversation went on very pleasantly, till at length the husband, becoming familiar with them, said, 'Ladies, if it be not an uncivil question, I should like to know how it happens that all your mouths are turned away to one side?'
 
 'Oh,' said ilk ane at ance, 'it's with our constant spinspin-spinning.* [Here speak with the mouth turned to one side, in imitation of the ladies.]
 
@@ -1450,7 +1452,7 @@ And so the lady lived happily with her goodman all the rest of her days.
 ## Scandinavian TO DO
 
 
-```{admonition} Titteli Ture, 1853:
+```{admonition} Titteli Ture, 1853
 :class: dropdown
 
 https://archive.org/details/yuletidestories00thorgoog/page/168/mode/2up
@@ -1520,19 +1522,19 @@ There was once a king's son and a king's daughter who dearly loved each other. T
 
 As the queen would not recall her words, the prince went to her and said, it would be well to make a trial whether the princess were not as skilful as the queen herself. This seemed to every one a veiy rash proposal, seeing that the prince's mother was a very diligent, laborious person, and span and sewed and wove bo& night and day, so that no one ever saw her like. The prince, however, carried his point; the fair princess was sent into the maidens' bower, and the queen sent her a poimd of flax to spin. But the ftasL was to be spun ere dawn of day, otherwise the damsel was never more to think of the prince for a husband.
 
-When left alone the princess found herself very ill at ease; for she well knew that she could not spin the queen's flax, and yet trembled at the thought of losing ^e prince, who was so dear to her. She therefore wandered about the apartment and wept, incessantly wept At this moment the door was opened very softly, and there stepped in a httle little woman of singular appearance and yet more singular manners. The little woman had enormously large feet, at which every one who saw her must be wonderstnick. She greeted the princess with: "Peace be with you!" "And peace with you!" answered the princess. The old woman then asked: "Why is the fair damsel so sorrowfcd to-night?" The princess answered: "I m^ well be sorrowful. The queen has commanded me to spin a pound of £fii:: if I have not completed it before dawn, I lose the young prince whom I love so dearly." The old woman then said: "Be of good cheer, fair maiden; if ihere is nothing else, I can help you; but then you must grant me a request which I will name." At these words the princess was oveijoyed, and asked what it was the old woman desired. "I am called," she said, "Storfatormorwew; and I require far my aid no other reward than to be present at your wedding. I have not been at a wedding since the queen your motherin-law stood as bride." The princess readily granted her desire, and they parted. The princess Ihen lay down to
+When left alone the princess found herself very ill at ease; for she well knew that she could not spin the queen's flax, and yet trembled at the thought of losing the prince, who was so dear to her. She therefore wandered about the apartment and wept, incessantly wept At this moment the door was opened very softly, and there stepped in a httle little woman of singular appearance and yet more singular manners. The little woman had enormously large feet, at which every one who saw her must be wonderstnick. She greeted the princess with: "Peace be with you!" "And peace with you!" answered the princess. The old woman then asked: "Why is the fair damsel so sorrowfcd to-night?" The princess answered: "I m^ well be sorrowful. The queen has commanded me to spin a pound of £fii:: if I have not completed it before dawn, I lose the young prince whom I love so dearly." The old woman then said: "Be of good cheer, fair maiden; if ihere is nothing else, I can help you; but then you must grant me a request which I will name." At these words the princess was oveijoyed, and asked what it was the old woman desired. "I am called," she said, "Storfatormorwew; and I require far my aid no other reward than to be present at your wedding. I have not been at a wedding since the queen your motherin-law stood as bride." The princess readily granted her desire, and they parted. The princess Ihen lay down to
 
 * Mother iKgfoo
 
 sleep, but could not close her eyes the whole livelong night.
 
-Early in the morning, before dawn, the door was opened, and the little woman again entered. She approached the khig*s daughter and handed to her a bundle of yam, as white as snow and as fine as a cobweb, saying: "See! such beautiful yarn I have not spim since I span for the queen, when she was about to be married; but that was long long ago." Having so spoken the little woman disappeared, and the princess fell into a refireshing slumber. But she had not slept long when she was awakened by the old queen, who was standing by her bed, and who asked her whether the flax were aU spun. The princess said that it was, and handed the yam to her. The queen must needs appear content, but ihe princess could not refi^in from observing that her apparent satisfaction did not proceed from good-will.
+Early in the morning, before dawn, the door was opened, and the little woman again entered. She approached the khig*s daughter and handed to her a bundle of yam, as white as snow and as fine as a cobweb, saying: "See! such beautiful yarn I have not spim since I span for the queen, when she was about to be married; but that was long long ago." Having so spoken the little woman disappeared, and the princess fell into a refireshing slumber. But she had not slept long when she was awakened by the old queen, who was standing by her bed, and who asked her whether the flax were all spun. The princess said that it was, and handed the yam to her. The queen must needs appear content, but ihe princess could not refi^in from observing that her apparent satisfaction did not proceed from good-will.
 
 Before the day was over, the queen said she would put the princess to yet another proof. For this purpose she sent the yam to the maiden-bower together with a yam^roll and other implements, and ordered the princess to weave it into a web; but which must be ready before sunrise; if not, the damsel must never more think of the young prince.
 
 When the princess was alone, she again felt sad at heart; for she knew that she coilld not weave the queen's yam, and yet less reconcile herself to the thought of losing the prince to whom she was 'so dear. She therefore wandered about the apartment and wept bitterly. At that moment the door was opened softly softly, and in stepped a veiy little woman, of singular figure and still more singular manners. The little woman had an enormously large hinder part, so that every one who saw her must be struck with astonishment. She, too, greeted the princess with: "Peace be with you!" and received for answer: "Peace with you!" The old woman said: "Why is the fair damsel so sad and sorrowful?" "I may well be sorrowful," answered the princess. "The queen has commanded me to weave all this yarn into a web; and if I have not completed it by the morning before simrise, I shall lose the prince, who loves me so dearly. The woman then said: "Be comforted, fair damsel; if it is nothing more, I will help you. But then you must consent to one condition, which I will name to you." At these words the princess was highly delighted, and asked what the condition might be. "I am called Storgumpa-mor, and I desire no other reward than to be at your wedding. I have not been to any wedding since the queen your mother-in-law stood as bride." The king's daughter readily granted this request, and the little woman departed. The princess then lay down to sleep, but was unable to close her eyes the whole night.
 
-In the morning, before daybreak, the door was opened and the little woman entered. She approached the princess, and handed to her a web white as snow and close as a skin, so that its like was never seen. The old woman said: "See! such even threads I have never woven since I wove for the queen, when she was about to be married; but that was long long ago." The woman then disappeared, and the princess fell into a short slumber, but from which she was roused by the old queen, who stood by her bed, and inquired whether the web were ready. The princess told her diat it was, and hailded to her the beautiful piece of weaving. The queen must now appear content for the second time; but the princess could easily see that she was not so from good- will.
+In the morning, before daybreak, the door was opened and the little woman entered. She approached the princess, and handed to her a web white as snow and close as a skin, so that its like was never seen. The old woman said: "See! such even threads I have never woven since I wove for the queen, when she was about to be married; but that was long long ago." The woman then disappeared, and the princess fell into a short slumber, but from which she was roused by the old queen, who stood by her bed, and inquired whether the web were ready. The princess told her diat it was, and hailded to her the beautiful piece of weaving. The queen must now appear content for the second time; but the princess could easily see that she was not so from good-will.
 
 The king s daughter now flattered herself that she should be put to no further trial; but the queen was of a different opinion; for she shortly after sent the web down to the maiden-bower with the message, that the princess should make it into shirts for the prince. The shirts were to be ready before sunrise, othei'wise the damsel must never hope to have the young prince for a husband.
 
@@ -1543,12 +1545,12 @@ When the princess was alone, she felt sad at heart; for she knew that she could 
 
 greeted the princess with: "Peace be with you," and likewise received for answer: "Peace with you." She then asked the young damsel why she was so sad and lone^jr. "I may well be sad," answered the princess. "The queen has commanded me to make this web into shirts for tfat king's son; and if I have not finished them io-manom before simrise, I shall lose my beloved prince, who holdb me so dear." The woman then said: £e of good Aea, fair maiden; if it is nothing more, I can. help you. But then you must agree to a condition, which I will mention. At these words the princess was overjoyed, and asked the little woman what it was she wished. "I am," answered she, "called Stortumnuhmor*, and I desire no other reward than that I may be present at your wedding. I have Hot been at a wedding since the queen your mother-in-law stood as bride." The princess willingly assented to this condi* tion, and the litde w(Hnan departed. But the princess laj down to sleep, and slept so soundly that she did not dream even once of her dear prince.
 
-Early in the morning, before Ihe sun had risen, the door was opened, and the little woman entered. She approached the bed, awakened the princess, and gave her some shirts that were sewed and stitched so curiously that their like was never seen. The old woman said: "See! So beautifully as this I have not sewed since I sewed for the queen, when she was about to stand as bride. But that was long Long ago." With these words the little woman disappeared; for the queen was then at the door, being just come to inquire whether the shirts were ready. The king's daughter said that they were, and handed her the beautiM work. At the sight of them the queen was so enraged that her eyes flashed with fiiry. She said: "Well! take him then. I could never have imagined that thou wast so clever as thou arL" She then went her way, slamming the door after her.
+Early in the morning, before Ihe sun had risen, the door was opened, and the little woman entered. She approached the bed, awakened the princess, and gave her some shirts that were sewed and stitched so curiously that their like was never seen. The old woman said: "See! So beautifully as this I have not sewed since I sewed for the queen, when she was about to stand as bride. But that was long Long ago." With these words the little woman disappeared; for the queen was then at the door, being just come to inquire whether the shirts were ready. The king's daughter said that they were, and handed her the beautiful work. At the sight of them the queen was so enraged that her eyes flashed with fiiry. She said: "Well! take him then. I could never have imagined that thou wast so clever as thou art." She then went her way, slamming the door after her.
 
 The king's son and the king's daughter were now to be Hnited, aa the queen had promised, and great preparations were made for the' wedding. But the joy of the princess was not without alloy, when she thought of the singuisr guests that ware to be present. When some time had
 
 • Motlier Bigthumfa.
 
-elapsed, and the wedding was being celebrated in the good old fashion, yet not one of the little old women appeared; although the bride looked about in every direction. At length, when it was growing late, and the guests were going to table, the princess discerned the three little women, as they sat in a comer of the dining-hall, at a table by themselves. At the same moment the long stepped up to them, and inquired who they were, as he had never seen them before. The eldest of the three answered: "I am called Storfota-mor, and have such large feet because I have been obliged to sit spinning so much in my time." "Oho!" said the king, "if such be the consequence, my son's wife shall never spin another thread." Then turning to the second little woman, he inquired the cause of her uncommon appearance. The old woman answered: "I am called Storgumpa-mor, and am so broad bdiind because I have been obliged to sit weaving so much in my time." "Oho!" said the king, "then my son's wife shaH weave no more." Lastly, turning to the third old woman, he. asked her name; when Stortumma-mor, rising from her seat, told him that she had got so large a thumb because she had sewed so much in her time. "Oho!" said the king, "then my son's wife shall never sew another stitch." Thus the fair princess obtained the king's son, and also escaped from spinning, and weaving, and sewing all the rest of her life.
+elapsed, and the wedding was being celebrated in the good old fashion, yet not one of the little old women appeared; although the bride looked about in every direction. At length, when it was growing late, and the guests were going to table, the princess discerned the three little women, as they sat in a comer of the dining-hall, at a table by themselves. At the same moment the long stepped up to them, and inquired who they were, as he had never seen them before. The eldest of the three answered: "I am called Storfota-mor, and have such large feet because I have been obliged to sit spinning so much in my time." "Oho!" said the king, "if such be the consequence, my son's wife shall never spin another thread." Then turning to the second little woman, he inquired the cause of her uncommon appearance. The old woman answered: "I am called Storgumpa-mor, and am so broad behind because I have been obliged to sit weaving so much in my time." "Oho!" said the king, "then my son's wife shall weave no more." Lastly, turning to the third old woman, he. asked her name; when Stortumma-mor, rising from her seat, told him that she had got so large a thumb because she had sewed so much in her time. "Oho!" said the king, "then my son's wife shall never sew another stitch." Thus the fair princess obtained the king's son, and also escaped from spinning, and weaving, and sewing all the rest of her life.
 
 When the wedding was over, the three little women went their way, and no one knew whither they went, nor -wiience they came. The prince lived happy and content with his consort, and all passed on smoothly and peaceably; onlj that the princess was not so industrious as her strict motheiv in-law.
