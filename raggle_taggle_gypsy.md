@@ -854,7 +854,7 @@ The music of "Lady Cassiles Lilt" occurs in the *Skene MS.* (see Dauney's *Ancie
 
 Different versions of this ballad have appeared in —
 
-I. Ramsay's *Tea-Table Miscellany*, voL ii., p. 282.
+I. Ramsay's *Tea-Table Miscellany*, vol. ii., p. 282.
 
 II. Finlay's *Scottish Ballads*, vol. ii., p. 39.
 
