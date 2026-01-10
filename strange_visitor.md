@@ -306,7 +306,7 @@ asked the Old Woman.
 "To have a good time," said the Old Man.  
 And he jumped up, and began to dance with the broomstick.
 
-The Old Woman jumped up, too, and began to dance with the fire shoveL And they danced and danced, and danced and danced, till they couldn't dance any more.
+The Old Woman jumped up, too, and began to dance with the fire shovel. And they danced and danced, and danced and danced, till they couldn't dance any more.
 
 And it is said that the Old Woman was never lonesome afterward.
 
