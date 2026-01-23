@@ -212,7 +212,7 @@ Mr. Fitzgerald—Are you the Carrick witch?
 
 Applicant— One of them, sir (laughter).
 
-Mr. Fitagerald— If you are a witch, tell us where the father and mother are.
+Mr. Fitzgerald— If you are a witch, tell us where the father and mother are.
 
 Applicant— I only know they are gone to England. I knew well, when coming here to-day, I would be humbugged and laughed at.
 
@@ -231,7 +231,7 @@ CLONMEL BOROUGH PETTY SESSIONS
 
 ...
 
-ASSAULT AND ABUSIVE LANGUAGE.— The next case called on for hearing was at the suit of Cathering Brien against Mary Doheny, known as the "Carrick Witch," for assault and abusive language. Complainant, on being sworn, stated the "Witch" cursed her, and called her names of a most abusive description. Defendant's husband, a blind man, appeared in court to state his wife was ill and unable to attend, and the case was adjourned till next sessions.
+ASSAULT AND ABUSIVE LANGUAGE.— The next case called on for hearing was at the suit of Catherine Brien against Mary Doheny, known as the "Carrick Witch," for assault and abusive language. Complainant, on being sworn, stated the "Witch" cursed her, and called her names of a most abusive description. Defendant's husband, a blind man, appeared in court to state his wife was ill and unable to attend, and the case was adjourned till next sessions.
 ```
 
 ```{admonition} Case adjourned, November 1876

@@ -69,7 +69,7 @@ And imposition on us powers,
 In the shape of a witch from Tipperary.  
 
 CHORUS:-  
-So ladies take my advice & be as wise as any  fairy,  
+So ladies take my advice & be as wise as any fairy,  
 Or you'll be enchanted in a trice by the magical witch of Tipperary.
 
 In Carrick-on-Suir the other day,  
