@@ -1,8 +1,8 @@
 # Gobborn Seer / Goban Saor
 
-A few years ago, I picked up, via two separate purchases, the four volumes of Katharine Briggs' *Dictionary of British Folk-Tales*. Most of the time, it sits on the bookshelf *just in case*, but skimming through it a day or two ago whilst looking up a reference to the *Hedley Kow*, which it turns out I had already previously bookmarked, I was reminded of the *Gobborn Seer*. This is (was, now) not a story I actually knew, though: a) I had recently come across a couple of references to it whilst digging into *Wayland Smith*; and b) (I think) it was an echo of a mention Daniel Mordern made to whilst chatting last year and that I had noted as a story I didn't know, but from the context of the conversation was one I probably should (as were the general sense of who the lady folklorists and story collectors were (Mrs. Bray, Mrs. Balfour, Miss Burne, Mrs. Gomme, Ella Mary Leather, Ruth Tongue, Lady Charlotte Guest, Lady Wilde, Lady Gregory, &c.) and which tales they had collected).
+A few years ago, I picked up, via two separate purchases, the four volumes of Katharine Briggs' *Dictionary of British Folk-Tales*. Most of the time, it sits on the bookshelf *just in case*, but skimming through it a day or two ago whilst looking up a reference to the *Hedley Kow*, which it turns out I had already previously bookmarked, I was reminded of the *Gobborn Seer*. This is (was, now) not a story I actually knew, though: (a) I had recently come across a couple of references to it whilst digging into *Wayland Smith*; and (b) (I think) it was an echo of a mention Daniel Mordern made to whilst chatting last year and that I had noted as a story I didn't know, but from the context of the conversation was one I probably should (as were the general sense of who the lady folklorists and story collectors were (Mrs. Bray, Mrs. Balfour, Miss Burne, Mrs. Gomme, Ella Mary Leather, Ruth Tongue, Lady Charlotte Guest, Lady Wilde, Lady Gregory, &c.) and which tales they had collected).
 
-The version of the tale given in Briggs (*Part A, Volume 1, II, pp.277-9*) is taken from Jacobs' *More English Fairy Tales*, Briggs' note is an extended form of Jacobs' note on the story, although it appears to contain an error:
+The version of the tale given in Briggs (*Part A, Volume 1, II, pp.277-9*) is taken from Jacobs' *More English Fairy Tales*. Briggs' note is an extended form of Jacobs' note on the story, although it appears to contain an error:
 
 > Collected by Mrs. Gomme from an old woman at Deptford, "Gobborn Seer" comes from the Irish "Goban Saor", a travelling carpenter, a godlike character somewhat in the tradition of Wayland Smith. The tale is to be found in Ireland. "The Peasant's Wise Daughter", to which this tale bears some resemblance, occurs in Kennedy's *Fireside Stories*. A wise wife, who compensates for her husband's lack of intelligence, is to be found in "A Pottle of Brains".
 
@@ -13,21 +13,18 @@ This seems not to be correct? "The Peasant's Wise Daughter" is in Grimm; "The Go
 ```{admonition} *Goban Saor* Pronuncation
 :class: seealso
 
-Pronunciation seems to vary depending which part of Ireland the speaker comes from. *gubbawn sair* works for me.
+Pronunciation seems to vary depending which part of Ireland the speaker comes from. *gubbawn sair* works for me, although I have heard other versions, including *gob-an sair*, *gubban sair* and *gubawn seer*.
 
 Note also various spellings: *Goban Saor* (Patrick Kennedy, *Legendary fictions of the Irish Celts*), *Gobhaun Saor* (Ella Young, *Celtic wonder-tales*, 1910), *Gobaun Saor* (Padraic Colum, *My Irish year*, 1912).
 
 ```
 
-https://archive.org/details/moreenglishfairy00jaco2/page/60/mode/2up?q=gobborn
-More English fairy tales
-by Jacobs, Joseph, 1854-1916; Batten, John Dickson, 1860-1932, ill
+```{admonition} Gobborn Seer, Jacobs, 1894
+:class: dropdown
 
-Publication date [1922?]
+In Joseph Jacobs, *More English fairy tales*, 1894, [pp54-8](https://archive.org/details/moreenglishfairy00jacoiala/page/124/mode/2up).
 
-pp61-4
-
-Gobborn Seer
+LIV. Gobborn Seer
 
 ONCE there was a man Gobborn Seer, and he had a son called Jack. One day he sent him out to sell a sheepskin, and Gobborn said, "You must bring me back the skin and the value of it as well."
 
@@ -114,19 +111,14 @@ Source. — Collected by Mrs. Gomme from an old woman at Deptford. It is to be r
 Parallels. — The essence of the tale occurs in Kennedy, *l. c.* [*Legendary fictions of the Irish Celts*, 1866] p. 67, *seq.* Gobborn Seer's daughter was clearly the clever lass who is found in all parts of the Indo-European world. An instance in my Indian Fairy Tales, "Why the Fish Laughed" (No. xxiv.). She has been made a special study by Prof. Child, *English and Scotch Ballads*, i., 485, while an elaborate monograph by Prof. Benfey under the title "Die Kluge Dime" (reprinted in his *Kleine Schriften*, ii., 156, seq.), formed the occasion for his first presentation of his now well-known hypothesis of the derivation of all folk-tales from India.
 
 Remarks. — But for the accident of the title being preserved there would have been nothing to show that this tale had been imported into England from Ireland, whither it had probably been carried all the way from India.
+```
 
+In the older, Irish versions, more is often made of the fact that the Goban Sair was an all round master craftsman ("the master of sixteen trades"): carpenter, stone mason, blacksmith, and more. He is also something of a trickster character, with a daughter-in-law who has wits to match to compensate for his only son's apparent lack of intelligence.
 
+```{admonition} The Goban Saor, Kennedy, 1866
+:class: dropdown
 
---
-
-Irish version, Goban Saor (pronounced: *gubawn seer*), was a free carpenter / smith / mason; a master craftsman, he is also something of a trickster character, although in this tale, his future and then daughter-in-law has wits to match.
-
-https://archive.org/details/cu31924062545052/page/n87/mode/2up
-Legendary fictions of the Irish Celts, by Kennedy, Patrick, 1801-1873
-
-Publication date 1866
-
-pp. 67-72
+In Patrick Kennedy, *Legendary fictions of the Irish Celts*, 1866, [pp. 67-72](https://archive.org/details/cu31924062545052/page/n87/mode/2up).
 
 THE GOBAN SAOR.
 
@@ -153,18 +145,7 @@ Well, to be sure, how the king fumed and raged! But what's the use of striving t
 "Well, my colleen bawn," says he to the one with the fair hair, "did you mind the advice I gev you when I was here last?" "Indeed I did, and little good it did me. I got an old woman's skull from the churchyard, and fixed it in the wall near the hob, and it so frightened every one, that I was obliged to have it taken back in an hour." "And how did you warm yourself with your work in the cold mornings?" "The first morning's work I had was to card flax, and I thrune some of it on the fire, and my mother gave me such a raking for it, that I didn't offer to warm myself that way again." "Now for the sheep-skin." "That was the worst of all. When I told the buyers in the market that I was to bring back the skin and the price of it, they only jeered at me. One young buckeen said, if I'd go into the tavern and take share of a quart of mulled beer with him, he'd make that bargain with me, and that so vexed me that I turned home at once." "Well, that was the right thing to do, anyhow. Now my little *Ceann Dhu* (black head), let us see how you fared. The skull?" "Och!" says an old woman, sitting close to the fire in the far comer, "I'm a distant relation that was left desolate, and this," says she, tapping the side of her poor head, "is the old woman's skull she provided." "Well, now for the warming of yourself in the cold mornings." "Oh, I kept my hands and feet going so lively at my work that it was warming enough." "Well, and the sheep-skin?" "That was easy enough. When I got to the market, I went to the crane, plucked the wool off, sold it, and brought home the skin."
 
 "Man and woman of the house," says the Goban, "I ask you before this company, to give me this girl for my daughter-in-law; and if ever her husband looks crooked at her, I'll beat him within an inch of his life." There was very few words, and no need of a black man to make up the match; and when the. prince was returning home, he stopped a day to be at the wedding. If I hear of any more of the Goban's great doings, I'll tell 'em some other time.
-
-
-
---
-
-https://archive.org/details/firesidestorieso00kennrich
-The fireside stories of Ireland
-by Kennedy, Patrick, 1801-1873
-
-Publication date 1870
-
-
+```
 
 ---
 
@@ -320,16 +301,18 @@ by Ella (1867-1956) Young
 Publication date 1928-01-01
 
 
----
+
+```{admonition} TO DO
+:class: dropdown
 https://www.jstor.org/stable/44973430
 The Goban Saor
-Author(s): LADY GREGORY
+Author(s): Lady Gregory
 Source: Journal of the Galway Archaeological and Historical Society, 1905-1906, Vol. 4, No.
 2 (1905-1906), pp. 73-77
 
 The Goban Saor.
 
-By LADY GREGORY.
+By Lady Gregory.
 
 I noticed some time ago, when listening to many legends of the Fianna, that it is about Finn, the greatest of all, that the more grotesque of the stories have gathered. The Goban Saor, whose memory is also dear to the people, has like him become grotesque through the tales of many generations. Was he god? Was he saint? Was he master-builder? Or about which of the three do the stories shape themselves? One remembers the poem in an old manuscript, written in Christian times:-
 
@@ -377,8 +360,11 @@ And the Scotch rogue thought he would get some of it from him, and he said he wo
 "The second day he did the same thing in another house. And the third house they went to he ordered £10 worth of food and drink in the same way. And when the time came to pay, he struck the table with the hat, and there was the money in the hand of the man of the house before them. 'That's a good little caubeen,' said the Scotch rogue, 'when striking it on the table makes all that money appear.' 'It is a wishing hat,' said the Goban. 'Anything I wish for I can get it as long as I have that.' 'Would you sell it?' said the Scotch rogue. 'I would not,' said the Goban. 'I have another at home, but I wouldn't sell one or the other.' 'You may as well sell it,so long as you have another at home,' said the Scotch rogue. 'What will you give for it?' says the Goban. 'Will you give £300 for it?' 'I will give that,' says the Scotch rogue, 'when it will bring me all the wealth I wish for,' So he went out, and he brought the £300 and gave it to the Goban, and he got the caubeen and went away with it, and it not worth three ha'pence."
 
 "There was no beating the Goban. Wherever he got it, he had got the gift."
+```
 
----
+
+```{admonition} TO DO
+:class: dropdown
 https://archive.org/details/jstor-30003874/page/n1/mode/2up?q=%22goban+saor%22
 The Dublin Penny Journal
 
@@ -411,16 +397,14 @@ I now leave it to some of your antiquarian correspondents tb judge whether the p
 
 I am. Sir, &c. &c, W. W
 
+```
 
---
 
-
+```{admonition} TO DO
+:class: dropdown
 https://archive.org/details/essayondruids00smid_0/page/182/mode/2up
 
-An essay on the druids
-by Smiddy, Richard. [from old catalog]
-
-Publication date 1871
+Richard Smiddy, *An essay on the druids*, 1871
 
 pp.183-
 
@@ -433,11 +417,11 @@ Another story says that Goban was, at one time, engaged to build a grand residen
 Goban's residence was situated at a considerable distance, in the territories of another petty king. The youth and his attendants, on arriving at the place, delivered their message. They were received with kindness and hospitality. The name of the strange tool, however, excited some suspicion. In the architect's entire collection there was no such thing as the *cam is an direach*, the crooked and the straight, and the daughter-in-law, who was a sharp clever woman, at once suspected that there was some mystery in that strange name. She was not satisfied with the reasons they gave why Goban himself had not come for it, and why he had not visited his home, at all, for so long a time. After some consultation by the family, it was decided that the two attendants would be permitted to return to the chief for further explanations, but that his son should be retained as hostage, till inquiry should be made respecting the circumstances and the safety of Goban. The result was, that not only was the architect permitted to return safe from the territory of his would-be murderer, but that he was also enabled to bring with him the cattle, corn, and even the ornaments of gold which he was to receive as payment for the execution of the work.
 
 The stories in circulation about this celebrated mechanist would fill a volume. Of these some are the written productions of bardic chroniclers, others are handed down solely by oral tradition. In them, even, is preserved the memory of his father Traigh Tuirbi, and of his wonderful feats, also, as a wielder of the hatchet, and an architect. The legend may be silly, extravagant, and highly incredible in itself, but its presence is generally indicative of some remarkable qualities in the character or person whom it follows. It follows Goban Saor, and he was one of the long line of clever artificers who built the ancient churches of Ireland, and, also, erected those tall, graceful, and solid Round Towers which bear upon them the marks of great age, and which, in valley, island, and on hill-side, are now found standing, in single and mystic loneliness, near a ruin which was once a church, or near a church which is only the distant successor of the original sacred structure.
+```
 
 
-
----
-
+```{admonition} TO DO
+:class: dropdown
 https://archive.org/details/toldatfeisstorie00dubluoft/page/134/mode/2up
 
 Told at the Feis : stories of ancient Ireland
@@ -530,6 +514,8 @@ In view of this legend it is interesting to find in the Brehon laws the holly ra
 
 Almost fourteen hundred years have passed since Goban lived; but however long this span, his fame as a builder, and his daughter-in-law's fame as a clever woman, have never since been forgotten in Ireland.
 
+```
+
 ---
 https://www.youtube.com/watch?v=T0enEJ_ivUg retells the above
 
@@ -537,11 +523,10 @@ https://www.youtube.com/watch?v=yDfATvTtJjQ is quite different
 
 
 
-Other spellings,  eg goban saor
+TO DO
 
-
-
----
+```{admonition} The Peasant's Wise Daughter, Grimm, 1857
+:class: dropdown
 
 https://archive.org/details/10109710bsb/page/282/mode/2up?q=%22Peasant%27s+Wise+Daughter%22
 Grimm's fairy tales: With illustrations by E[dward] H[enry] Wehnert
@@ -551,7 +536,7 @@ Publication date 1857
 
 p281-3
 
-THE PEASANT’S WISE DAUGHTER.
+THE PEASANT'S WISE DAUGHTER.
 
 THERE was once upon a time a poor Peasant, who had no land, but merely a little cottage, and an only Daughter, who one day said to him, "We must ask the King for a piece of waste land."
 
@@ -561,8 +546,35 @@ But to this the Daughter would not agree, saying, "If we have the mortar, and no
 
 The girl said she would do her best, and went away and pins off all her clothes, so that she was not clothed; then she took a large fishing-net, and set herself in it, and wrapped it round her, so she was. not naked; then she bought an ass, and bound the net to its tail, so it dragged her along, and thus she neither rode nor walked. The ass, too, had to trail her along in a rut, so that she was neither in the road not out of it, for only her big toes touched the ground. Now, as the King saw her coming towards him, he said she had solved the riddle, and fulfilled all the conditions. Then he let her father out of prison, and made the daughter his bride, and committed to her all the royal possessions.
 
-Several years had passed away, when once, as the King was on parade, it happened that several peasants, who had sold wood, stopped before the palace with their waggons: some of them oxen yoked and some horses, and one peasant had three horses, one of which was a young foal, which ran away, and laid itself down between two oxen who were in front of awaggon. Soon the peasants grouped together and began to quarrel, wrangle, and dispute with each other: the peasant with the oxen would keep the foal, saying that it belonged to him, while the peasant with the horses denied it, and said the foal was his, for his horses went with it. The quarrel was brought before the King, and he gave judgment that the foal should keep where it was, and so it passed into possession of the man with the oxen, to whom it did not belong. So the other went away weeping and lamenting for his foal; but he had heard that the Queen was a very kind woman, because she had herself been born of peasant folk, so he went to her, and asked her to help him that he might regain his own foal. The Queen said she would do so, and if he would promise not to betray her she would tell him how. Early in the morning when the King was on the watch-parade he was to place himself in the midst of the path by which he must pass, and take a large fish-net, and pretend to fish and shake the net about over the terrace as if it were full of fish. She told him, also, to answer if the King asked any questions; and the next day, accordingly, he stood there fishing in a dry place. When the King came by, and saw him, he sent his page to ask who the simpleton and what he was about. The peasant merely replied, "I am fishing." The page asked how he could fish where there was no water; amt the man replied, "So well as two oxen can bear a foal, so well can I fish in a dry place." With this answer the page left him, and told it to the King, who bade the peasant come before him, and asked him from whom the answer he made, for it could not be from himself, The man refused to tell, and replied to every question, "God forbid, I had it from myself." At last they laid him upon a heap of straw, and beat him and tortured him so long till at last he confessed that he had the answer from the Queen. As soon as the King returned home af wards, he said to his wife, "Why are you so false to me? I will no longer have you about me; your time is over, go away to whence you came—to your peasant’s hut," Ks
+Several years had passed away, when once, as the King was on parade, it happened that several peasants, who had sold wood, stopped before the palace with their waggons: some of them oxen yoked and some horses, and one peasant had three horses, one of which was a young foal, which ran away, and laid itself down between two oxen who were in front of awaggon. Soon the peasants grouped together and began to quarrel, wrangle, and dispute with each other: the peasant with the oxen would keep the foal, saying that it belonged to him, while the peasant with the horses denied it, and said the foal was his, for his horses went with it. The quarrel was brought before the King, and he gave judgment that the foal should keep where it was, and so it passed into possession of the man with the oxen, to whom it did not belong. So the other went away weeping and lamenting for his foal; but he had heard that the Queen was a very kind woman, because she had herself been born of peasant folk, so he went to her, and asked her to help him that he might regain his own foal. The Queen said she would do so, and if he would promise not to betray her she would tell him how. Early in the morning when the King was on the watch-parade he was to place himself in the midst of the path by which he must pass, and take a large fish-net, and pretend to fish and shake the net about over the terrace as if it were full of fish. She told him, also, to answer if the King asked any questions; and the next day, accordingly, he stood there fishing in a dry place. When the King came by, and saw him, he sent his page to ask who the simpleton and what he was about. The peasant merely replied, "I am fishing." The page asked how he could fish where there was no water; amt the man replied, "So well as two oxen can bear a foal, so well can I fish in a dry place." With this answer the page left him, and told it to the King, who bade the peasant come before him, and asked him from whom the answer he made, for it could not be from himself, The man refused to tell, and replied to every question, "God forbid, I had it from myself." At last they laid him upon a heap of straw, and beat him and tortured him so long till at last he confessed that he had the answer from the Queen. As soon as the King returned home af wards, he said to his wife, "Why are you so false to me? I will no longer have you about me; your time is over, go away to whence you came—to your peasant's hut," Ks
 
-He gave her leave, however, to take with her what she considered rest and best to herself, and the Queen said "Yes, dearest husband, 1 will do as you bid me," and she fell upon his breast and kissed him, and said she would take her leave. But first she made a strong sleeping-mixture to pledge him in, and the King took a long draught, but she drank only a little. Soon he fell into a deep sleep, when she perceived it was so, she called a servant, and, wrapping a fine white linen napkin over her lord’s face, she caused him to be laid in a carriage, and drawn to the cottage from whence she first came. There she laid him in a bed, where he slept a night and a day, and when he awoke he looked round him amazed, and called for a servant, but none answered the call. At last came his wife to the bed, and said, "My dear lord and King, you commanded me to take out of the castle whatever I thought dearest and best, and because I had nothing dearer or better than you, I have brought you with me here."
+He gave her leave, however, to take with her what she considered rest and best to herself, and the Queen said "Yes, dearest husband, 1 will do as you bid me," and she fell upon his breast and kissed him, and said she would take her leave. But first she made a strong sleeping-mixture to pledge him in, and the King took a long draught, but she drank only a little. Soon he fell into a deep sleep, when she perceived it was so, she called a servant, and, wrapping a fine white linen napkin over her lord's face, she caused him to be laid in a carriage, and drawn to the cottage from whence she first came. There she laid him in a bed, where he slept a night and a day, and when he awoke he looked round him amazed, and called for a servant, but none answered the call. At last came his wife to the bed, and said, "My dear lord and King, you commanded me to take out of the castle whatever I thought dearest and best, and because I had nothing dearer or better than you, I have brought you with me here."
 
-At these words tears came into the King’s eyes, and he said "Dear wife, you shall be mine and I will be thine!" and so he took her back again to the palace and there they are living still in the full enjoyment of health and happiness, for aught I know to the contrary.
+At these words tears came into the King's eyes, and he said "Dear wife, you shall be mine and I will be thine!" and so he took her back again to the palace and there they are living still in the full enjoyment of health and happiness, for aught I know to the contrary.
+```
+
+
+
+
+TO DO
+
+Irish Schools collextion 1937-9
+
+
+https://www.duchas.ie/en/cbes/4623000/4622413/4630459
+
+p233-255
+
+There was a king in Ireland long ago who gave an order that all over sixty years should be put to death. On the day that the king gave that order the Gobán Saor was just 60 years of age. He hid in a cave behind his house and then he being unable to earn money for his son and his son's wife he sent his son to work for the king. One evening the king came to the place where the men were working and said "I will give £5 to-morrow morning to the man who will be able to tell me what side is the upper side of a stick when the stick is cut and planed." When the Gobáns son arrived home that evening he told his father of what the king had said "A" said the Gobán "he is only trying to find out where I am for there is no man in Ireland knows that but I, anyway earn your £5." So the son got the five pounds. That evening the king came again and said "I will give £5 to-morrow to the man who will be able to tell me what is one's greatest friend? what loves one best? and who is ones greatest enemy. When the Goban's son told this to his father he said "To-morrow when you rise take your best friend the dog, your greatest enemy your wife, and what you love best your son to the king's palace. When the king came the Gobáns son told him his dog was his best friend. He loved his son best and his wife was his greatest enemy. "If I was your greatest enemy" said his wife "I would have told long ago that your father was hiding behind the house." That is what I want" said the king. The Gobán was then taken and bound up and a great fire was ready for the burning of the old man. There was a great crowd of people gathered and stories were been told by all the noble men. One noble-man who was asked to tell a story said he was not able but that he would give £50 to the man who would tell a story for him.
+
+The wise old gobán's son said he would tell a story "but first Oh King" he said "will you promise me that anyone that contradicts me will be thrown into the fire instead of the old man". "Done" said the king. "Well" began the gobán saor "myself and my mother and grandmother sowed the whole of Ireland with oats in one day". - "Impossible" roared a fisherman and the poor fisherman was burned instead of the gobán.
+
+
+
+https://www.duchas.ie/en/cbes/4569051/4566999/4574206
+
+p497
+
+In olden times there was a man who went under the name of the Gubawn Soar. One day he thought to himself that if he would make a plough without horses. It took him seven years to make the plough. When he had the plough made he went out one morning early. When he came in to breakfast he told him wife that he had seven acres ploughed. His wife said it was bad work in seven years.
+
+He got vexed and out he went and broke the plough. There was no plough made of that kind before or after that.

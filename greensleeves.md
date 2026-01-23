@@ -11,7 +11,7 @@ pp240-244
 
 GREENSLEEVES
 
-From *A Handefull of Pleasant Delites, &c.*, London, 1684, as reprinted in Park's *Heliconia*, voL ii. p. 23. It is there entitled *A New Courtly Sonet of the Lady Greensleeves. To the new Tune of Greensleeves.*
+From *A Handefull of Pleasant Delites, &c.*, London, 1684, as reprinted in Park's *Heliconia*, vol. ii. p. 23. It is there entitled *A New Courtly Sonet of the Lady Greensleeves. To the new Tune of Greensleeves.*
 
 "The earliest mention of the ballad of *Green Sleeves*, in the Registers of the Stationers' Company, is in September, 1580, when Richard Jones had licensed to him *A New Northern Dittye of the Lady Green Sleeves*."
 

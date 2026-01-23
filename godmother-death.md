@@ -1027,7 +1027,7 @@ On a chill autumn night a beggar woman brought a boy kicking and screaming into 
 
 So it was with a heavy heart that she set off into the woods, as soon as the baby was strong enough to withstand the journey. Leaves fell about her like a flaky brown snow. Damp loam oozed its moisture through the splits in her ragtag boots. The forest seemed to crave the winter. The earth had frozen prematurely underfoot. She scrambled along what paths and animal tracks she could discern, and just as she was beginning to think that she was hopelessly lost, she emerged into a glade.
 
-The Lord of HeavenHere the leaves looked greener and firmer. Blossoms still lit up the branches and made the air sweet-scented. In this one circle of trees, at least, autumn clung tenaciously to the summer.
+The Lord of Heaven Here the leaves looked greener and firmer. Blossoms still lit up the branches and made the air sweet-scented. In this one circle of trees, at least, autumn clung tenaciously to the summer.
 
 In the centre of the glade stood a solemn young man with a face world-weary beyond his years. His clothes shimmered like sunlight off of rippling water and he was surrounded by all manner of fabulous creatures, the species of which the beggar could not name. The man looked up at the beggar and the baby in her arms and asked in tones of faint sadness, 'What are you doing here, lost in the woods?'
 

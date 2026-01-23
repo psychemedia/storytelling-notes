@@ -107,11 +107,11 @@ pp. 259-60
 
 ...
 
-"5. A fairyman came to a woman in the parish and asked her to attend his wife at her lying-in. She did so, and went to fairyland, and afterwards came home none the worse for her trip. But one Thursday, at the market in Stow, she saw the fairyman in a butcher’s shop helping himself to some beef On this she goes up and spoke to him. Whereupon much surprised, he bids her say nothing about it, and inquires with which eye she could see him, for when in fairyland he had rubbed" one of her eyes with some ointment. On pointing to the gifted eye, he blew into it, and from that time she could never see a fairy again.
+"5. A fairyman came to a woman in the parish and asked her to attend his wife at her lying-in. She did so, and went to fairyland, and afterwards came home none the worse for her trip. But one Thursday, at the market in Stow, she saw the fairyman in a butcher's shop helping himself to some beef On this she goes up and spoke to him. Whereupon much surprised, he bids her say nothing about it, and inquires with which eye she could see him, for when in fairyland he had rubbed" one of her eyes with some ointment. On pointing to the gifted eye, he blew into it, and from that time she could never see a fairy again.
 
 "6. The house in which A. W. now lives was the scene of fairy visits and officiousness. A man lived there about 100 years since,who was visited constantly by a fairy (or ferrier, or ferisher). They used his cottage for their meetings. They cannot abide dirt or slovenliness, so as it was kept tidy and clean they cut and brought faggots for the good man, and filled his oven with nice dry wood every night. They also left a shilling for him under the leg of a chair. And a fairy often came to him and warned him not to tell any one of it, for if he did, the shilling, wood, and fairies would never come to him again. Unluckily for him he did tell his good luck, and then his little friends were never seen by him more. The fairy wore yellow satin shoes, was clothed with a green long coat, girt about by a golden belt, and had sandy hair and complexion.
 
-"7. Stowmarket, 1842. — S., living for 30 years in the cottages in the hop ground on the Bary road, coming home one night 20 3’ears since, in the meadow now a hop ground, not far from three ashen trees, in very bright moonliglit, saw the fairies. There might be a dozen of them, the biggest about three feet high, and small ones like dolls. Their dresses sparkled as if with spangles, like the girls at shows at Stow fair; they were moving round hand-in-hand in a ring, no noise from them. They seemed light and shadowy, not like solid bodies. I passed on, saying, 'The Lord have mercy on me, but them must be the fairies;' and being alone then on the path over the field, could see them as plain as I do you. I looked after them when I got over the style, and they were there, just the same, moving round and round. I ran home and called three women to come back with me and see them. But when we got to the place they were all gone. I could not make out any particular things about their faces. I might be 40 yards from them, and I did not like to stop and stare at them. I was quite sober at the time."
+"7. Stowmarket, 1842. — S., living for 30 years in the cottages in the hop ground on the Bary road, coming home one night 20 3'ears since, in the meadow now a hop ground, not far from three ashen trees, in very bright moonliglit, saw the fairies. There might be a dozen of them, the biggest about three feet high, and small ones like dolls. Their dresses sparkled as if with spangles, like the girls at shows at Stow fair; they were moving round hand-in-hand in a ring, no noise from them. They seemed light and shadowy, not like solid bodies. I passed on, saying, 'The Lord have mercy on me, but them must be the fairies;' and being alone then on the path over the field, could see them as plain as I do you. I looked after them when I got over the style, and they were there, just the same, moving round and round. I ran home and called three women to come back with me and see them. But when we got to the place they were all gone. I could not make out any particular things about their faces. I might be 40 yards from them, and I did not like to stop and stare at them. I was quite sober at the time."
 
 ```
 
@@ -622,7 +622,11 @@ THE FAIRY NURSE.
 "Begonies, she never saw a stim after with that one till the day of her death."
 ```
 
-The abduction and rescue element of the tale has much about it that resonates with a tragic case over thirty years later: the killing of Bridget Cleary. But a more complete look at fairy kidnappings and fairy changelings is best left for another storynote.
+The abduction and rescue element of the tale has much about it that resonates with a tragic case over thirty years later: the killing of Bridget Cleary.
+
+TO DO "Are you a witch, Or are you a fairy, or are you the wife of Micael Cleary?" but the learliers i can date it to is and encylcopedia of witchcraft published in 1970. Then maybe "I am not a witch, I am not a fairy, I am the wife of michael cleary"
+
+ But a more complete look at fairy kidnappings and fairy changelings is best left for another storynote.
 
 ```{admonition} The Tragic Case of Bridget Cleary
 :class: dropdown seealso

@@ -1153,7 +1153,7 @@ For you cannot judge between truth and falsehood.
 If you be primary bards formed by heaven,  
 Tell your king what his fate will be.  
 It is I who am a diviner and a leading bard,  
-And will teH your king what will befall him.  
+And will tell your king what will befall him.  
 A most strange creature will come from the sea marsh of Rhianedd  
 As a punishment of iniquity on Maelgwn Gwynedd;  
 His hair, his teeth, and his eyes being as gold,  
