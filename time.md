@@ -418,11 +418,11 @@ here were suggestions that watchmakers were encouraging the notion that not just
 7
 Even
  Nature
-, although aware that the 24-h notation was likely only to be used by railway and telegraph companies at present, thought it ''proper
+, although aware that the 24-h notation was likely only to be used by railway and telegraph companies at present, thought it "proper
  . . .
- to consider in what way ordinary watches and clocks could be best accommodated to such a change in the reckoning''.
+ to consider in what way ordinary watches and clocks could be best accommodated to such a change in the reckoning".
 8
-Their suggestions about 24-h movements or double dials and, especially, the raising of the issue of how many times a public clock might strike at night caused a ﬂurry of correspondence with some even more tortuously complicated suggestions as well as dismissive rejections of any such measures
+Their suggestions about 24-h movements or double dials and, especially, the raising of the issue of how many times a public clock might strike at night caused a flurry of correspondence with some even more tortuously complicated suggestions as well as dismissive rejections of any such measures
  ...
 [This focus on clock dials was partly related to knowledge of the 24-hour public clock at Greenwich but also the various suggestions put forward by Sandford Fleming,the great champion of Universal Time, which included dials with both 24 numbers in Roman numerals and 24 letters of the alphabet, ]
 

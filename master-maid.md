@@ -604,7 +604,7 @@ After much persuasion the Prince agreed to do what the Master-Maid had told him,
 
 So when he had sprinkled the water over the bones the Master-Maid stood up before him just as before, but the little finger of her left hand was not there. She cried and said:
 
-"Ah, why did you not do what I told you — put all my bones together in their place? You forgot my little finger; I shall never have one all the days of my life. ''
+"Ah, why did you not do what I told you — put all my bones together in their place? You forgot my little finger; I shall never have one all the days of my life."
 
 When the giant came home, he asked the Prince:
 
@@ -620,7 +620,7 @@ But the giant said: "Well, as the Master-Maid has helped you so far she can help
 
 The Prince was well content with that arrangement and went and sought the Master-Maid and told her what the giant had said.
 
-The Master-Maid wept and said: "You know not what he means. His four-poster rolls up and would crush us and we would be dead before the morning. Let me think, let me think. ''
+The Master-Maid wept and said: "You know not what he means. His four-poster rolls up and would crush us and we would be dead before the morning. Let me think, let me think."
 
 So the Master-Maid took an apple and divided it into six parts and put two at the foot of the bed and two at the door of the room and two at the foot of the stairs.
 
