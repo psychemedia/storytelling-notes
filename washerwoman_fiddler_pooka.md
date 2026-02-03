@@ -1,4 +1,4 @@
-# THe Fiddler, the Pook and the Fairy Washerwomen
+# The Fiddler, the Pooka and the Fairy Washerwomen
 
 Cam to me as *The Fiddler and the Pooka*, Áine King
 
