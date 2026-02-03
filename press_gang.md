@@ -531,7 +531,7 @@ He had taken but a few turns on the quay, and feeling considerably qualmish, wis
 
 "When was able to talk and be spoke to, I asked how the fight had ended, and was told that it might have gone hard with the "Serpent" had not the "Menelaus" frigate, Captain Sir Peter Parker, hove in sight, when the Frenchman sheered off.
 
-"'Your are on board the 'Menelaus' now,' said the marine, who. somehow, I seemed to know; 'you are on board the "Menclaus" now. and will be sent on shore at Malta directly the frigate gets there, with me and other wounded men.'
+"'Your are on board the 'Menelaus' now,' said the marine, who. somehow, I seemed to know; 'you are on board the "Menelaus" now. and will be sent on shore at Malta directly the frigate gets there, with me and other wounded men.'
 
 "The marine had his left arm in a sling. It had been broken by a musket ball, in a brush with boats, not very long before he told me.
 
