@@ -1,6 +1,6 @@
 # Gobborn Seer / Goban Saor
 
-A few years ago, I picked up, via two separate purchases, the four volumes of Katharine Briggs' *Dictionary of British Folk-Tales*. Most of the time, it sits on the bookshelf *just in case*, but skimming through it a day or two ago whilst looking up a reference to the *Hedley Kow*, which it turns out I had already previously bookmarked, I was reminded of the *Gobborn Seer*. This is (was, now) not a story I actually knew, though: (a) I had recently come across a couple of references to it whilst digging into *Wayland Smith*; and (b) (I think) it was an echo of a mention Daniel Mordern made to whilst chatting last year and that I had noted as a story I didn't know, but from the context of the conversation was one I probably should (as were the general sense of who the lady folklorists and story collectors were (Mrs. Bray, Mrs. Balfour, Miss Burne, Mrs. Gomme, Ella Mary Leather, Ruth Tongue, Lady Charlotte Guest, Lady Wilde, Lady Gregory, &c.) and which tales they had collected).
+A few years ago, I picked up, via two separate purchases, the four volumes of Katharine Briggs' *Dictionary of British Folk-Tales*. Most of the time, it sits on the bookshelf *just in case*, but skimming through it a day or two ago whilst looking up a reference to the *Hedley Kow*, which it turns out I had already previously bookmarked, I was reminded of the *Gobborn Seer*. This is (*was*, now) not a story I actually knew, though: (a) I had recently come across a couple of references to it whilst digging into *Wayland Smith*; and (b) (I think) it was an echo of a mention Daniel Morden made to whilst chatting last year and that I had noted as a story I didn't know, but from the context of the conversation was one I probably should (as were the general sense of who the lady folklorists and story collectors were (Mrs. Bray, Mrs. Balfour, Miss Burne, Mrs. Gomme, Ella Mary Leather, Ruth Tongue, Lady Charlotte Guest, Lady Wilde, Lady Gregory, &c.) and which tales they had collected).
 
 The version of the tale given in Briggs (*Part A, Volume 1, II, pp.277-9*) is taken from Jacobs' *More English Fairy Tales*. Briggs' note is an extended form of Jacobs' note on the story, although it appears to contain an error:
 
@@ -10,7 +10,7 @@ This seems not to be correct? "The Peasant's Wise Daughter" is in Grimm; "The Go
 
 *See also my separate storynote on "A Pottle of Brains".*
 
-```{admonition} *Goban Saor* Pronuncation
+```{admonition} *Goban Saor* Pronunciation
 :class: seealso
 
 Pronunciation seems to vary depending which part of Ireland the speaker comes from. *gubbawn sair* works for me, although I have heard other versions, including *gob-an sair*, *gubban sair* and *gubawn seer*.
@@ -250,7 +250,7 @@ He wasn't long going, and he was proud when he gave the Gobhaun the skin and the
 
 pp.41-52
 
-HOW THE SON OF THE GOBHAUN SAOR SHORTENED
+HOW THE SON OF THE GOBHAUN SAOR SHORTENED THE WAY
 
 One day the Son of the Gobhaun Saor was sitting outside in the sunshine, cutting a little reed into a pipe to make music with. He was so busy that he never saw three stranger-men coming till they were close to him. He looked up then and saw three thrawn-faced churls wrapped in long cloaks. "Good morrow to you," said the Son of the Gobhaun Saor. "Good morrow," said they. "We have come to say a word to the Son of the Gobhaun Saor." "He is before you," said the Son. "We have come," said the most thrawn-faced of the three, "from the King of the Land Under Wave to ask you to help him; he has a piece of work that none of his own people can do, and you have the cleverness of the Three Worlds in your fingers." "'Tis my father has that," said the Son of the Gobhaun Saor. "Well," said the other, "bring your father with you to the Land Under Wave and your fortune's made." The Son of the Gobhaun Saor set off at that to find his father. "I have the news of the world for you and your share of fortune out of it," he said. "What news?" said the Gobhaun. "The King of the Land Under Wave has sent for me; if you come with me your fortune is made." "Did he send you a token?" "No token at all, but do you think I would not know his messengers?" "O, 'tis you has the cleverness!" said the Gobhaun Saor.
 
