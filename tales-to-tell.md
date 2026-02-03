@@ -179,9 +179,41 @@ TOM BAW'COCK'S EVE. Sir.—Part Five of the "Old Cornwall" magazine for April, c
 
 ---
 
-Dreaming - japanese folk tale  - butterfly journey
+Dreaming - japanese folk tale  - butterfly journey 
+
+(I have told it as two soldiers walking home from the front; unspoken, they agreed never to speak of the horrors they had seen; unspoken, they agreed never to speak of the horrors they had seen, only the woneders)
 
 https://en.wikipedia.org/wiki/The_Dream_of_Akinosuke
+
+https://www.storymuseum.org.uk/1001-stories/the-shepherds-dream
+Tales of Wonder and Wisdom (1998) by Hugh Lupton 
+The shepherd’s dream
+There were once two shepherds who lay down to rest in a field of golden corn.
+The elder puffed on his pipe while the younger fell asleep. The elder shepherd
+watched in wonder as out of the young shepherd's mouth popped a butterfly.
+He followed that butterfly as it hopped down a pathway through the field of corn
+down to a stream. He followed it further still as the butterfly flew over the stream
+and onwards over a clump of bulrushes until it came to a meadow where a the
+sun-bleached skull of a horse lay in the sun. He watched the butterfly fly through
+the eye-socket of the skull and flutter around inside before it finally flew out and
+headed back the way it came, all the way back into the young shepherd's mouth.
+The young shepherd woke up. “I've just had the most amazing dream!” he
+exclaimed. “I dreamed I was walking down a pathway lined with golden trees. I
+walked down to the ocean and was then swooped up by a magnificent white
+dove. It carried me through a dark forest all the way to a palace of white marble.
+I entered the palace but found it empty and then headed home. I had just shut
+the door to my cottage when I woke up. What do you think my dream means?”
+“I'll show you,” said the elder shepherd.
+He led the young shepherd down the pathway that led through the cornfield, “In
+your dream, this was the road lined with golden trees,” he told him. He stepped
+over the stream, “and this was the ocean,”. He led the young shepherd through
+the clump of bulrushes. “And this was the forest,” said the young shepherd,
+aghast.
+They were soon in the meadow looking down and the sun-bleached skull of the
+horse. “And here is the marble palace,” said the old shepherd.
+“This is amazing!” exclaimed the young shepherd. “But what do you think it
+means?”
+“I don't know,” said the elder shepherd. “But it must be something wonderful.”
 
 
 England dreaming - japanese dreaming
@@ -235,7 +267,7 @@ by Ashton, John, b. 1834
 Publication date 1896
 
 https://archive.org/details/wondersofinvisib00math_1
-The wonders of the invisible world: being an account of the tryals of several witches, lately excuted [sic] in New-England: and of several remarkable curiosities therein occurring.: Together with I. Observations upon the nature, the number, and the operations of the devils. II. A short narrative of a late outrage committed by a knot of witches in Swede-Land, very much resembling, and so far explaining, that under which New-England has laboured. III. Some councels directing a due improvement of the terrible things lately done by the unusual and amazing range of evil-spirits in New-England. IV. A brief discourse upon those temptations which are the more ordinary devices of Satan.
+The wonders of the invisible world: being an account of the tryals of several witches, lately executed [sic] in New-England: and of several remarkable curiosities therein occurring.: Together with I. Observations upon the nature, the number, and the operations of the devils. II. A short narrative of a late outrage committed by a knot of witches in Swede-Land, very much resembling, and so far explaining, that under which New-England has laboured. III. Some councels directing a due improvement of the terrible things lately done by the unusual and amazing range of evil-spirits in New-England. IV. A brief discourse upon those temptations which are the more ordinary devices of Satan.
 by Mather, Cotton, 1663-1728
 
 Publication date 1693
@@ -457,10 +489,13 @@ Publication date 1920
 
 incl p243
 
-THE STORY THAT NEVER ENDS
+THE STORY THAT NEVER ENDS. 
 (To be told very seriously)
-ONCE upon a time there was a shepherd who had a great flock of sheep. He used to pasture them in a meadow on the other side of a brook. One day the sun had ah-eady set before he started home. Recent rains had swollen the brook so that he and the sheep had to cross on a little footbridge. The bridge was so narrow that the sheep had to pass over one by one.
+
+ONCE upon a time there was a shepherd who had a great flock of sheep. He used to pasture them in a meadow on the other side of a brook. One day the sun had already set before he started home. Recent rains had swollen the brook so that he and the sheep had to cross on a little footbridge. The bridge was so narrow that the sheep had to pass over one by one.
+
 Now we'll wait until he drives them all over. Then I'll go on with my story.
+
 (When the children grow impatient and beg for a continuation of the story, they are told that there are many sheep and that up to this time only a few have crossed. A little later when their impatience again breaks out, they are told that the sheep are still crossing. And so on indefinitely. In conclusion:)
 In fact there were so many sheep that when morning came they were still crossing, and then it was time for the shepherd to turn around and drive them back again to pasture!
 
@@ -708,11 +743,11 @@ The Athanor
 
 My first story starts, not at the beginning, which is where you might have expected a story to begin, but in the middle of another tale, with two children, a brother and sister, making their way along a path, through the forest. Where they have come from, and where they are going, our story does not say, but we shall travel along with them for a while before they return to their own tale.
 
-Night is starting to fall, and as they make their way trhough the wood, they see and old tinker couple, man and wife, coming towards them.
+Night is starting to fall, and as they make their way through the wood, they see and old tinker couple, man and wife, coming towards them.
 
 PROPS:
 
-Red glass lamp, tea light candle bunrning inside. Ideally a slightly taller candle? Also, the lakp was quite warm. Need a stand and hook to bring it to shoulder height?
+Red glass lamp, tea light candle burning inside. Ideally a slightly taller candle? Also, the lakp was quite warm. Need a stand and hook to bring it to shoulder height?
 
 ISSUES DURING SET:
 
@@ -722,12 +757,12 @@ I didn't learn the close properly; in fumbling, asked if folk wanted another (th
 
 The verge..
 
-As the bird flies away following an out of body experience, as the self-reassembles, it may not reassemble as it was before. You may haave been a teacher, a doctor, a lover of X, a doubter of Y, but whqt if the pieces reassemble a different you. This is "the verge".
+As the bird flies away following an out of body experience, as the self-reassembles, it may not reassemble as it was before. You may have been a teacher, a doctor, a lover of X, a doubter of Y, but what if the pieces reassemble a different you. This is "the verge".
 
 ---
 
 
-cailleach winer hag, spring godess 
+cailleach winer hag, spring goddess 
 http://www.tairis.co.uk/an-tri-naomh/bride-and-the-cailleach/
 
 https://www.sacred-texts.com/neu/celt/tsm/tsm05.htm
@@ -753,7 +788,7 @@ Babushka Books, 2/2/23
 
 - Golden Casket
   - placed on shelf: Ivasik Telesik (Ukrainian folk tale)
-  - placd on chair: Will o' the Wisp (Blacksmith cheats devil; wishes: sledgehammer keep hitting anvil till released; chair: not get out till releaased: leather bag: not get out till released).
+  - placed on chair: Will o' the Wisp (Blacksmith cheats devil; wishes: sledgehammer keep hitting anvil till released; chair: not get out till released: leather bag: not get out till released).
   - placed on bed next to Princess: Persimmon Tree
 
 *Reserve: The Turnip? Or Akbar/Birbal mango tree.*
@@ -780,7 +815,7 @@ Costs:
 VF booking fee
 VF min venue hire
 
-Ventor Fringe was £101 (after £75 min venue fee); VX £81 (went to pay VF booking fee); Boojum event was £92.36;Winter Tales 137.40; Sinister stories 131.01; IWLF £150
+Ventnor Fringe was £101 (after £75 min venue fee); VX £81 (went to pay VF booking fee); Boojum event was £92.36;Winter Tales 137.40; Sinister stories 131.01; IWLF £150
 
 
 ---
