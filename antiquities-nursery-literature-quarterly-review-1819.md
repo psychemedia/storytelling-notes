@@ -6,6 +6,11 @@ via preface to https://archive.org/details/german-popular-stories-volume-1-1823/
 
 Actually a review of Benjamin Tabart, [Popular fairy tales: or, A liliputian library; containing twenty-six choice pieces of fancy and fiction, by those renowned personages King Oberon, Queen Mab, Mother Goose, Mother Bunch, Master Puck, and other distinguished personages at the court of the fairies](https://archive.org/details/popularfairytale00tabaiala), 1818
 
+
+https://archive.org/details/31383050715971/page/n37/mode/2up
+Gammer Gurton's famous histories : of Sir Guy of Warwick, Sir Bevis of Hampton, Tom Hickathrift, Friar Bacon, Robin Hood, and The king and the cobbler
+by Merton, Ambrose
+
 https://archive.org/details/sim_quarterly-review-1809_1819-01_21_41/page/91/mode/1up?q=grimm
 The Quarterly Review  1819-01: Vol 21 Iss 41
 1819
@@ -36,7 +41,7 @@ has lost evety jot of its pathos, Local traditions, indeed, cause the
 
 works which refer to them to retain their carrency. Whilst the
 
-efligy of Sir Bevis guards the Bar-gate at Southampton, his achievements may be recollected there. And Guy Earl of Warwick
+effigy of Sir Bevis guards the Bar-gate at Southampton, his achievements may be recollected there. And Guy Earl of Warwick
 
 thank his h-bowl for keeping him alive in the of his cunsiiee ie most of the other ancient heroes of chivalry, who defended their posts so long and so sturdily, have been fairly fibbed out of the ring by modern upstarts and pretenders. Gulley, the Champion of England, has supplanted St. George; and since Molineux and Dutch Sam and Scroggins have shewn fight, there is not a shepherd's boy who cares a straw for the prowess of the Nine Grim Worthies of the World, whether Gentile, Jew or Christian. Politics and sectarianism complete the change which has taken place in the contents of the budget of the flying stationer. The old broadside-ballads have given way to the red stamp of the newspaper; and pedlers burn their ungodly story-books like sorcerers of old, and fill their baskets with the productions sanctified by the Imprimatur of the Tabernacle. As for the much lamented Mr. Marshall, now no longer of Aldermary Church-yard, whose cheap and splendid publications at once excited and rewarded our youthful industry, he hath been compelled to shut up his shop long ago. Not a soul im the trade would bid for the copy-right and back stock of Tommy Two Shoes. His penny books are out of print, one and all, and therefore, if things continue to go on as they have done of late years, there is really no telling what sums of money a good copy of the genuine edition of the Life and Death of Cock Robin may not soon fetch under the hammer of Mr. Evans, especially if it should chance to be a 'tall copy,' with 'uncut margins,' graced with 'clear impressions' of the 'numerous wood cuts,' and retaining its 'original' gilt paper binding.; Physiologists investigate the laws of animated life in the animalcules swimming in the rain-drop. The botanist ascends from mosses and lichens to. the oak tree and palm. The man of letters should not disdain the chap book, or the nursery story. Humble as these efforts of the human intellect may appear, they shew its secret workings, its mode and progress, and human nature must be studied in all its productions: And we shall observe, in the words of Walter Scott, 'that a work of great interest might be compiled upon the origin of popular fiction and the transmission of similar tales from age to age and from country to country. The mythology of one period would then appear to pass into the romance of the next century, and that into the nursery tale of the subsequent ages.' Fiction thus resolves itself into its primitive elements, as by the slow and unceasing action of the rain and wind the solid granite is crumbled into sand. 'The creations embodied by the vivid imagination of man in the childhood of his race, incorporate themselves in his fond and mistaken faith. Sanctity is given to his day-dreams by the altar of the idol, 'Fhen, perhaps, they acquire a deceitful truth
 
