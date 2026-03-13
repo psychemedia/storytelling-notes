@@ -16,6 +16,17 @@ Publication date 1850
 
 
 --
+
+
+https://archive.org/details/tabartscollectio00godwiala/page/150/mode/2up
+Tabart's collection of popular stories for the nursery : from the French, Italian, and old English writers
+by Godwin, William, 1756-1836, Part !
+
+Publication date 1804
+
+Robin Hood pp. 150-187
+
+
 https://archive.org/details/bim_eighteenth-century_the-adventures-of-robert_1777/page/n81/mode/2up
 The adventures of Robert Earl of Huntington, vulgarly called Robin Hood. Being a complete history of all his merry adventures ...  1777
 Publication date 1777
