@@ -17,10 +17,9 @@ jobs:
       uses: actions/cache@v3
       with:
         path: |
-          _build/.doctrees
-          _build/.jupyter_cache
+          _build/
           ~/.cache/pip
-        key: ${{ runner.os }}-jb-${{ hashFiles('*.md','**/*.md', '**/*.ipynb', '**/*.rst', '_config.yml', '_toc.yml') }}
+        key: ${{ runner.os }}-jb-${{ hashFiles('_config.yml', '_toc.yml') }}
         restore-keys: |
           ${{ runner.os }}-jb-
 
@@ -47,3 +46,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_build/html
+        cname: storytelling-notes.montystoryteller.org
