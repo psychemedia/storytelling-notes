@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=1ae7504c"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -64,6 +67,7 @@
     <link rel="prev" title="Macpherson’s Rant" href="macpherson.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -79,19 +83,8 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +92,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,8 +99,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -124,7 +116,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +147,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -219,7 +208,7 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
-<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">The Hand of Glory</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 <li class="toctree-l1"><a class="reference internal" href="grateful_dead.html">The Grateful Dead</a></li>
@@ -252,9 +241,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -337,7 +331,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -351,25 +345,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -527,7 +513,7 @@ In some versions of the song, such as Seven Yellow Gypsies recorded by Nic Jones
 </div>
 <section id="chambers-take-on-the-story">
 <h2>Chambers’ take on the story<a class="headerlink" href="#chambers-take-on-the-story" title="Link to this heading">#</a></h2>
-<p>The tale behind the ballad appears to have been popularsied by Robert Chambers’ telling of the “common version of the story” in his <em>Picture of Scotland, volume first, Article Ayrshire</em>, 1827, <a class="reference external" href="https://archive.org/details/picturescotland00chamgoog/page/n301/mode/2up">pp. 294-6</a>. Both the telling and the ballad are in his <em>The Scottish ballads</em>, 1829, <a class="reference external" href="https://archive.org/details/scottishballads01chamgoog/page/n166/mode/2up">pp143-6</a>, where he sets the scene as follows:</p>
+<p>The tale behind the ballad appears to have been popularised by Robert Chambers’ telling of the “common version of the story” in his <em>Picture of Scotland, volume first, Article Ayrshire</em>, 1827, <a class="reference external" href="https://archive.org/details/picturescotland00chamgoog/page/n301/mode/2up">pp. 294-6</a>. Both the telling and the ballad are in his <em>The Scottish ballads</em>, 1829, <a class="reference external" href="https://archive.org/details/scottishballads01chamgoog/page/n166/mode/2up">pp143-6</a>, where he sets the scene as follows:</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Maybole, and the mansion-house of the Cassilis family, 1927</p>
 <p><a class="reference external" href="https://archive.org/details/picturescotland00chamgoog/page/n299/mode/2up">https://archive.org/details/picturescotland00chamgoog/page/n299/mode/2up</a></p>
@@ -1025,7 +1011,7 @@ Publication date [1871]</p>
 <p>Whether any Lady or Countess of Cassilis eloped in the manner described, was captured at “the Gypsies’ Steps,” <code class="docutils literal notranslate"><span class="pre">[Dr.</span> <span class="pre">Chambers</span> <span class="pre">writes:</span> <span class="pre">&quot;Most</span> <span class="pre">unfortunately</span> <span class="pre">(!),</span> <span class="pre">ere</span> <span class="pre">they</span> <span class="pre">had</span> <span class="pre">proceeded</span> <span class="pre">very</span> <span class="pre">far,</span> <span class="pre">the</span> <span class="pre">Earl</span> <span class="pre">came</span> <span class="pre">home,</span> <span class="pre">and</span> <span class="pre">learning</span> <span class="pre">the</span> <span class="pre">fact</span> <span class="pre">[of</span> <span class="pre">the</span> <span class="pre">elopement]</span> <span class="pre">immediately</span> <span class="pre">set</span> <span class="pre">out</span> <span class="pre">in</span> <span class="pre">pursuit.&quot;</span> <span class="pre">He</span> <span class="pre">also</span> <span class="pre">refers</span> <span class="pre">to</span> <span class="pre">the</span> <span class="pre">&quot;Gypsies'</span> <span class="pre">Steps,&quot;</span> <span class="pre">as</span> <span class="pre">distant</span> <span class="pre">&quot;a</span> <span class="pre">few</span> <span class="pre">miles</span> <span class="pre">from</span> <span class="pre">the</span> <span class="pre">Castle,&quot;</span> <span class="pre">and</span> <span class="pre">the</span> <span class="pre">&quot;capture&quot;</span> <span class="pre">as</span> <span class="pre">occurring</span> <span class="pre">there,</span> <span class="pre">both</span> <span class="pre">of</span> <span class="pre">which</span> <span class="pre">Mr.</span> <span class="pre">Paterson</span> <span class="pre">corrects,</span> <span class="pre">stating</span> <span class="pre">&quot;that</span> <span class="pre">they</span> <span class="pre">are</span> <span class="pre">not</span> <span class="pre">half</span> <span class="pre">a</span> <span class="pre">mile.</span> <span class="pre">Besides,</span> <span class="pre">tradition</span> <span class="pre">does</span> <span class="pre">not</span> <span class="pre">say</span> <span class="pre">that</span> <span class="pre">they</span> <span class="pre">were</span> <span class="pre">taken</span> <span class="pre">there.&quot;</span> <span class="pre">—</span> <span class="pre">'Ballads</span> <span class="pre">and</span> <span class="pre">Songs</span> <span class="pre">of</span> <span class="pre">Ayrshire',</span> <span class="pre">part</span> <span class="pre">i.,</span> <span class="pre">p.</span> <span class="pre">16.]</span></code> brought back, doomed to witness the execution of her lover and his companions “upon the Dule Tree,” divorced <em>a mensa et thoro</em>, imprisoned for life in the Castle of Maybole, employed her leisure hours in working the story of her flight in tapestry, or in gazing on the stone representation of the Gypsies’ heads, carved at the instance of her outraged lord, are facts or fancies which it seems impossible to expiscate and demonstrate, so as to establish the accuracy of the one, or dispel the phantasy of the other.</p>
 <p>The music of “Lady Cassiles Lilt” occurs in the <em>Skene MS.</em> (see Dauney’s <em>Ancient Scotish Melodies</em>, p. 228 and p. 268). The air is the same as that to which the ballad is sung; but whether the air is anterior or posterior to the ballad, cannot be determined. Mr. Dauney, who considers the Skene MS., or MSS., to have been penned 1615-20, <code class="docutils literal notranslate"><span class="pre">[Mr.</span> <span class="pre">Chappell,</span> <span class="pre">who</span> <span class="pre">seems</span> <span class="pre">disposed</span> <span class="pre">to</span> <span class="pre">date</span> <span class="pre">the</span> <span class="pre">MS.,</span> <span class="pre">or</span> <span class="pre">MSS.,</span> <span class="pre">a</span> <span class="pre">ceutnry</span> <span class="pre">later,</span> <span class="pre">appears</span> <span class="pre">to</span> <span class="pre">have</span> <span class="pre">the</span> <span class="pre">best</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">argument</span> <span class="pre">in</span> <span class="pre">this</span> <span class="pre">case.</span> <span class="pre">—</span> <span class="pre">See</span> <span class="pre">'Popular</span> <span class="pre">Music</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">Olden</span> <span class="pre">Time',</span> <span class="pre">pp.</span> <span class="pre">613-16.]</span></code> contends for the former, both in this case and in that of “Ladye Rothemayis Lilt,” referred to in the introduction to the ballad of “The Burning of Frendraught,” which follows, and necessarily so in the latter case, as the tragedy which that ballad commemorates was enacted, without doubt, in the year 1630.</p>
 <p>Different versions of this ballad have appeared in —</p>
-<p>I. Ramsay’s <em>Tea-Table Miscellany</em>, voL ii., p. 282.</p>
+<p>I. Ramsay’s <em>Tea-Table Miscellany</em>, vol. ii., p. 282.</p>
 <p>II. Finlay’s <em>Scottish Ballads</em>, vol. ii., p. 39.</p>
 <p>III. The *Scots Magazine for November, 1817, (contributed by C. K. Sharpe, Esq.)</p>
 <p>IV. Chambers’s <em>Scottish Gypsies</em>.</p>
@@ -1136,14 +1122,16 @@ A fair young wanton ladye. <code class="docutils literal notranslate"><span clas
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#chambers-take-on-the-story">Chambers’ take on the story</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#appearances-in-popular-song-collections">Appearances in popular song collections</a></li>
@@ -1196,8 +1184,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
 
   <footer class="bd-footer">
   </footer>

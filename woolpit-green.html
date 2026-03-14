@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=1ae7504c"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -64,6 +67,7 @@
     <link rel="prev" title="Unforeseen Consequences — Verging on Nonsense" href="unforeseen-nonsense.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -79,19 +83,8 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +92,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,8 +99,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -124,7 +116,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +147,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -219,7 +208,7 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
-<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">The Hand of Glory</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 <li class="toctree-l1"><a class="reference internal" href="grateful_dead.html">The Grateful Dead</a></li>
@@ -252,9 +241,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -337,7 +331,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -351,25 +345,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -462,6 +448,17 @@ gleaned from the author’s own statements.</p></li>
 <p>In Thomas Keightley, <a class="reference external" href="https://archive.org/details/dli.ministry.12731/page/281/mode/2up">The fairy mythology</a>, 1850, pp282-3.</p>
 <p>This story is also told by William of Newbridge,<code class="docutils literal notranslate"><span class="pre">[Guilielmi</span> <span class="pre">Neubrigensis</span> <span class="pre">Historia,</span> <span class="pre">sive</span> <span class="pre">Chronica</span> <span class="pre">Rerum</span> <span class="pre">Anglicarum.</span> <span class="pre">Oxon.</span> <span class="pre">1719,</span> <span class="pre">lib.</span> <span class="pre">i.</span> <span class="pre">c.</span> <span class="pre">27.]</span></code> who places it in the reign of King Stephen. He says he long hesitated to believe it, but he was at length overcome by the weight of evidence. According to him, the place where the children appeared was about four or five miles from Bury St. Edmund’s: they came in harvest-time out of the Wolf-pits; they both lost their green hue, and were baptised, and learn English. The boy, who was the younger, died; but the girl married a man at Lenna, and lived many years. They said their country was called St. Martin’s Land, as that saint was chiefly worshiped there; that the people were Christians, and had churches; that the sun did not rise there, but that there was a bright country which could be seen from theirs, being divided from it by a very broad river.</p>
 </div>
+<div class="dropdown admonition">
+<p class="admonition-title">Ever ready to believe the incredulous, 1908</p>
+<p><a class="reference external" href="https://archive.org/details/memorialsofoldsu00reds/page/264/mode/2up">https://archive.org/details/memorialsofoldsu00reds/page/264/mode/2up</a>
+Memorials of old Suffolk
+by Redstone, Vincent Burrough</p>
+<p>Publication date 1908</p>
+<p>pp.264-5</p>
+<p>We are indebted to Ralph de Coggeshall for the preservation of several stories which mark the superstitions, fears and beliefs which prevailed in Suffolk in the thirteenth century. Notable among these tales is the account of the capture of the “wild man of the sea” at Orford. The Essex monk gives his narrative in words to this effect:— In the days of King Henry II., when Bartholomew Glanville was custodian of Orford Castle, it happened that certain fishermen, whilst fishing in the sea, caught a wild man within the meshes of their nets, whom, naked, and having the form of man in all his limbs, they brought to the castellan. His body was covered with hair; a long, pointed beard reached down to his breast. The creature was placed under guard, and was not permitted to approach the sea. He ate greedily whatsoever was placed before him. He was particularly fond of raw fish, out of which he pressed the water with his hands before eating. When conducted to the church he shewed no respect for sacred things and never bent his knees before the altar. He retired to rest from sunset to sunrise. Once he was permitted to enter the sea within a threefold enclosure of nets. He dived beneath them and reappeared several times beyond, sporting in the open sea until his affections led him to return to his former gaolers. Subsequently he escaped their vigilance never to return.</p>
+<p>To explain this marvel the monk refers to <em>The Life of St. Audoenus</em>, wherein it is stated that an evil spirit entered the body of a drowned man and made himself manifest to seamen.</p>
+<p>The monk of Coggeshall was ever ready to believe the incredulous to have happened in Suffolk. He tells a marvellous story of a boy and a girl issuing from the mouth of a deep ditch at Woolpit St. Mary. Their skins were green, and they claimed to have come from the land of St. Martin and to have been led by the ringing of bells, like those of the Abbey of St. Edmund, to shew themselves above ground. They were taken to the house of Sir Richard de Colne, at Wikes, where the boy soon died, but the girl remained for a long time in the knight’s service. William of Newburgh adds to the chronicle, stating that the trenches were called <em>Wolfpittes</em> in English, which gave its name to the town, and that the girl married a man of Lynn. The legend is probably the story of two lost children, who strayed from their homes in Forham St Martin (where the Abbey bells of Bury St. Edmunds, two miles distant, could be frequently heard), and who, after wandering for some days, emerged from their covert hiding-place in one of the extensive boundary ditches when they heard the bells of Woolpit ring. The knight was doubtless a relative of Sibilla de Colnia of Wikes, whose son Walter sold lands to Nicholas of St. Edmunds in 1240. His residence at Wikes, or Wicken Hall, lay eight miles north of Woolpit, and was in the parish of Bardwell, where a Richard de Wikes held free warren in the reign of Henry III. Ralph de Coggeshall appears to have obtained another marvellous narrative from the same source as the Woolpit story, judging by the proximity of Dagworth to Woolpit, and the introduction of Osbert de Bradwelle into the legend. In the days of Richard I., we are told by the monk, a grotesque imp (f<em>antasticus spiritus</em>) frequently, and for a long time, haunted the house of this knight. The imp had the weak voice of an infant, and called itself Malekin. When taken captive it stated that Lanaham ( ? Langham, near Wikes Hall) was the place of its birth. It remained a prisoner for seven years, but its fate is not recorded.</p>
+</div>
 </section>
 </section>
 
@@ -520,14 +517,16 @@ gleaned from the author’s own statements.</p></li>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-history-of-the-tale">The History of the Tale</a></li>
 </ul>
@@ -578,8 +577,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
 
   <footer class="bd-footer">
   </footer>

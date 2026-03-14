@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=1ae7504c"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -64,6 +67,7 @@
     <link rel="prev" title="The Three Heads of the Well" href="three-heads-well.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -79,19 +83,8 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +92,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,8 +99,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -124,7 +116,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +147,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -219,7 +208,7 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
-<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">The Hand of Glory</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 <li class="toctree-l1"><a class="reference internal" href="grateful_dead.html">The Grateful Dead</a></li>
@@ -252,9 +241,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -337,7 +331,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -351,24 +345,16 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
+</button>
 
 </div></div>
       
@@ -417,13 +403,13 @@ and golden hair, and his love grew towards her till he cared no longer for the e
 <p>So one fine morning, fair and clear, she said to her sister, “Let us go and see our father’s boats come in at the bonny mill-stream of Binnorie.” So they went there hand in hand. And when they got to the river’s bank the youngest got upon a stone to watch for the coming of the boats. And her sister, coming behind her, caught her round the waist and dashed her into the rushing mill-stream of Binnorie.</p>
 <p>“O sister, sister, reach me your hand!” she cried, as she floated away, “and you shall have half of all I’ve got or shall get.”</p>
 <p>“No, sister, I’ll reach you no hand of mine, for I am the heir to all your land. Shame on me if I touch the hand that has come ‘twixt me and my own heart’s love.”</p>
-<p>“O sister, O sister, then reach me your glove!” she cried, as she floated further away, “and you shall have your William again .”</p>
+<p>“O sister, O sister, then reach me your glove!” she cried, as she floated further away, “and you shall have your William again.”</p>
 <p>“Sink on,” cried the cruel princess, “no hand or glove of mine you’ll touch. Sweet William will be all mine when you are sunk beneath the bonny mill-stream of Binnorie.” And she turned and went home to the king’s castle.</p>
-<p>And the princess floated down the mill-stream, some times swimming and sometimes sinking, till she came near the mill. Now the miller’s daughter was cooking that day,and needed water for her cooking. And as she went to draw it from the stream, she saw something floating towards the mill-dam, and she called out, “Father! father! draw your dam. There’s something white - a merrymaid or a milk-white swan — coming down the stream .” So the miller hastened to the dam and stopped the heavy cruel mill-wheels. And then they took out the princess and laid her on the bank.</p>
+<p>And the princess floated down the mill-stream, some times swimming and sometimes sinking, till she came near the mill. Now the miller’s daughter was cooking that day,and needed water for her cooking. And as she went to draw it from the stream, she saw something floating towards the mill-dam, and she called out, “Father! father! draw your dam. There’s something white - a merrymaid or a milk-white swan — coming down the stream.” So the miller hastened to the dam and stopped the heavy cruel mill-wheels. And then they took out the princess and laid her on the bank.</p>
 <p>Fair and beautiful she looked as she lay there. In her golden hair were pearls and precious stones; you could not see her waist for her golden girdle, and the golden fringe of her white dress came down over her lily feet.</p>
 <p>But she was drowned, drowned!</p>
 <p>And as she lay there in her beauty a famous harper passed by the mill-dam of Binnorie, and saw her sweet pale face. And though he travelled on far away he never forgot that face, and after many days he came back to the bonny mill-stream of Binnorie. But then all he could find of her where they had put her to rest were her bones and her golden hair. So he made a harp out of her breast-bone and her hair, and travelled on up the hill from the mill-dam of Binnorie, till he came to the castle of the king her father.</p>
-<p>That night they were all gathered in the castle hall to hear the great harper — king and queen, their daughter and son, Sir William and all their Court. And first the harper sang to his old harp, making them joy and be glad or sorrow and weep just as he liked. But while he sang he put the harp he had made that day on a stone in the hall. And presently it began to sing by itself, low and clear, and the harper stopped and all were hushed .</p>
+<p>That night they were all gathered in the castle hall to hear the great harper — king and queen, their daughter and son, Sir William and all their Court. And first the harper sang to his old harp, making them joy and be glad or sorrow and weep just as he liked. But while he sang he put the harp he had made that day on a stone in the hall. And presently it began to sing by itself, low and clear, and the harper stopped and all were hushed.</p>
 <p>And this was what the harp sung:</p>
 <p>“O yonder sits my father, the king,<br />
 Binnorie, O Binnorie;<br />
@@ -1351,7 +1337,7 @@ And he’s taen three taits o her yellow hair.</p>
 <p class="admonition-title">Child, E, notes and variants</p>
 <p>“My mother used to sing this song.” Sharpe’s Ballad Book, ed. of 1880, note, p. 129.</p>
 </div>
-<p>F. ‘The Bonny Bows o London,’ Motherwell’s MS., p. 883.</p>
+<p>F. ‘The Bonny Bows o London,’ Motherwell’s MS., p. 883. e.g. (William Motherwell, <a class="reference external" href="https://archive.org/details/bib_fict_706109">Minstrelsy: ancient and modern, 1827</a>).</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Child., F.</p>
 <p>Motherwell’s MS., p. 383. From the recitation of Agnes Lyle, Kilbarchan, 27th July, 1825.</p>
@@ -2168,10 +2154,10 @@ Thou, sister, ‘t was didst slay me, the younger tried to stay thee,’ etc.</p
 R. Nisbet Bain, <em>Cossack fairy tales and folk-tales</em>, 1894</p>
 <p>pp. 201-205</p>
 <p>THE THEEE BROTHERS.</p>
-<p>THERE were once upon a time three brothers, and the third was a fool. And in their little garden grew golden apple trees with golden apples, and not far off lived a hog that had taken a fancy to these apples. So the father sent his sons into the garden to guard the trees. The eldest went first, and sat and sat and watched and watched till he was tired of watching, and fell asleep. Then the hog crept in, and dug and dug till he had digged up an apple tree, which he ate up, and then went his way. The father got up next morning and counted his apple trees, and one of them was gone. The next night the father sent the second S0n to watch. He waited and watclied till he also fell asleep, and the hog came again and dug up and ate another golden apple tree and made off. The next morning the father got up again and counted his trees, and another was gone. Then the fool said :</p>
+<p>THERE were once upon a time three brothers, and the third was a fool. And in their little garden grew golden apple trees with golden apples, and not far off lived a hog that had taken a fancy to these apples. So the father sent his sons into the garden to guard the trees. The eldest went first, and sat and sat and watched and watched till he was tired of watching, and fell asleep. Then the hog crept in, and dug and dug till he had digged up an apple tree, which he ate up, and then went his way. The father got up next morning and counted his apple trees, and one of them was gone. The next night the father sent the second S0n to watch. He waited and watched till he also fell asleep, and the hog came again and dug up and ate another golden apple tree and made off. The next morning the father got up again and counted his trees, and another was gone. Then the fool said :</p>
 <p>“Dad, let me go too!” But the father said:</p>
 <p>“Oh, fool, fool, wherefore shouldst thou go? Thy wise bi’ethren have watched to no purpose, what canst thou do?”</p>
-<p>“Hoity-toity!” said the fool; “give me a gun, and I’ll go all the same.” His father wouldn’t give him a gun, so he took it and went to watch. He placed his gun across his knees and sat down. He sat and sat, but nothing came, nothing came; he got drowsy, was nodding off, when his gun fell off his knees, and he awoke with a start and watched more warily. At last he heard something — and there stood the hog. It began to dig up another tree, when he pulled the trigger and — bang ! His brothers heard the sound, came running up, were quite amazed to see a ddftd boar lying there, and said:</p>
+<p>“Hoity-toity!” said the fool; “give me a gun, and I’ll go all the same.” His father wouldn’t give him a gun, so he took it and went to watch. He placed his gun across his knees and sat down. He sat and sat, but nothing came, nothing came; he got drowsy, was nodding off, when his gun fell off his knees, and he awoke with a start and watched more warily. At last he heard something — and there stood the hog. It began to dig up another tree, when he pulled the trigger and — bang! His brothers heard the sound, came running up, were quite amazed to see a ddftd boar lying there, and said:</p>
 <p>“What will become of us now?”</p>
 <p>“Let us kill him,” said the eldest brother, “and bury him in that ditch, and say that we killed the hog.” So they took and slew him, and buried him in the ditch, and took the hog to their father, and said:</p>
 <p>“While we were watching this hog came up and began digging, so we killed him and have brought him to you.”</p>
@@ -2308,8 +2294,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
 
   <footer class="bd-footer">
   </footer>

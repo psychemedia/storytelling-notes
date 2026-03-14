@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=1ae7504c"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -64,6 +67,7 @@
     <link rel="prev" title="The Fisherman and His Wife" href="fisherman_and_wife.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -79,19 +83,8 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +92,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,8 +99,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -124,7 +116,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +147,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -219,7 +208,7 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
-<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">The Hand of Glory</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 <li class="toctree-l1"><a class="reference internal" href="grateful_dead.html">The Grateful Dead</a></li>
@@ -252,9 +241,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -337,7 +331,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -351,24 +345,16 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
+</button>
 
 </div></div>
       
@@ -468,7 +454,7 @@ And thou shalt have some cockell-bread.</p>
 <p>“Wash me, and comb me,
 And lay me down softly.”</p>
 <p>“Yes,” said she, and putting forth her hand, with a silver comb performed the office, placing it upon a primrose bank. Then came up a second and a third head, saying the same as the former, which she complied with, and then pulling out her provisions, ate her dinner. Then said the heads one to another, “What shall we do for this lady who hath used us so kindly?” The first said, * I will cause such addition to her beauty as shall charm the most powerful prince in the world.” The second said, “I will endow her with such perfume, both in body and breath, as shall far exceed the sweetest flowers.” The third said, “My gift shall be none of the least, for, as she is a king’s daughter, I’ll make her so fortunate that she shall become queen to the greatest prince that reigns.” This done, at their request she let them down into the well again, and so proceeded on her journey. She had not travelled long before she saw a king hunting in the park with his nobles. She would have shunned him, but the king, having caught a sight of her, approached, and what with her beauty and perfumed breath, was so powerfully smitten that he was not able to subdue his passion, but proceeded at once to courtship, and after some embraces gained her love, and, bringing her to his palace, caused her to be clothed in the most magnificent manner.</p>
-<p>This being ended, and the king finding that she was the King of Colchester’s daughter, ordered some chariots to be got ready, that he might pay the king a visit. The chariot in which the king and queen rode was adorned with rich ornamental gems of gold. The king, her father, was at first astonished that his daughter had been so fortunate as she was, till the young king made him sensible of all that happened. Great was the joy at court amongst all, with the exception of the queen and her club-footed daughter, who were ready to burst with malice, and envied her happiness; and the greater was their madness because she was now above them alL Great rejoicings, with feasting and dancing, continued many days. Then at length, with the dowry her father gave her, they returned home.</p>
+<p>This being ended, and the king finding that she was the King of Colchester’s daughter, ordered some chariots to be got ready, that he might pay the king a visit. The chariot in which the king and queen rode was adorned with rich ornamental gems of gold. The king, her father, was at first astonished that his daughter had been so fortunate as she was, till the young king made him sensible of all that happened. Great was the joy at court amongst all, with the exception of the queen and her club-footed daughter, who were ready to burst with malice, and envied her happiness; and the greater was their madness because she was now above them all Great rejoicings, with feasting and dancing, continued many days. Then at length, with the dowry her father gave her, they returned home.</p>
 <p>The hump-backed sister-in-law, perceiving that her sister was so happy in seeking her fortune, would needs do the same; so, disclosing her mind to her mother, all preparations were made, and she was furnished not only with rich apparel, but sugar, almonds, and sweetmeats, in great quantities, and a large bottle of Malaga sack. Thus provided, she went the same road as her sister; and coming near the cave, the old man said, “Young woman, whither so fast?” “What is that to you?” said she. “Then,” said he, “what have you in your bag and bottle?” She answered, “Good things, which you shall not be troubled with.” “Won’t you give me some?” said he. “No, not a bit, nor a drop, unless it would choke you.” The old man frowned, saying, “Evil fortune attend thee!” Going on, she came to the hedge, through which she espied a gap, and thought to pass through it; but, going in, the hedge closed, and the thorns ran into her flesh, so that it was with great difficulty that she got out Being now in a bloody condition, she searched for water to wash herself, and, looking round, she saw the well. She sat down on the brink of it, and one of the heads came up, saying, “Wash me, comb me, and lay me down softly,” as before, but she banged it with her bottle, saying, “Take this for your washing.” So the second and third heads came up, and met with no better treatment than the first; whereupon the heads consulted among themselves what evils to plague her with for such usage. The first said, “Let her be struck with leprosy in her face.” The second, “Let an additional stink be added to her breath.” The third bestowed on hei for a husband but a poor country cobbler. This done, she goes on till she came to a town, and it being market-day, the people looked at her, and, seeing such a mangy face, all fled but a poor country cobbler, who not long before had mended the shoes of an old hermit, who, having no money, gave him a box of ointment for the cure of the leprosy, and a bottle of spirits for a stinking breath. Now the cobbler, having a mind to do an act of charity, was induced to go up to her and ask her who she was.</p>
 <p>“I am,” said she, “the King of Colchester’s daughter-in-law.” “Well,” said the cobbler, “if I restore you to your natural complexion, and make a sound cure both in face and breath, will you in reward take me for a husband?” “Yes, friend,” replied she; “with all my heart!” With this the cobbler applied the remedies, and they worked the effect in a few weeks; after which they were married, and so set forward for the Court at Colchester. When the queen understood she had married nothing but a poor cobbler, she fell into distraction, and hanged herself in wrath. The death of the queen pleased the king, who was glad to be rid of her so soon, and he gave the cobbler a hundred pounds to quit the Court with his lady, and take her to a remote part of the kingdom, where he lived many years mending shoes, his wife spinning thread.</p>
 </div>
@@ -557,6 +543,7 @@ Unpitied and unwept.’</p>
 <p>No one can tell how delighted the King was to get rid of that hideous Bushy Bride, and get a Queen who was bright and beautiful as day itself.</p>
 <p>And now the real wedding was held, and held in such a way that it was heard of and spoken about all over seven kingdoms. The King and his bride drove to church, and Little Snow was in the carriage too. When the blessing was given they went home again, and after that I saw no more of them.</p>
 </div>
+<p>See also  <em>Popular tales from the Norse</em>, P. C. Asbjørnsen and J. E. Moe, transl. G. W. Dasent, 1859, <a class="reference external" href="https://archive.org/details/populartalesfro03dasegoog/page/404/mode/2up"><em>“The Bushy Bride”</em>, pp. 405-14</a>:</p>
 <p>Jacobs’ version, as cited, owes pretty much wholesale to the version in Halliwell’s <em>Popular rhymes and nursery tales</em>, which also owes to the Scottish chap-book, with a minor difference in the second enchantment. For Halliwell, the King’s daughter is weirded “such perfume, both in body and breath, as shall far exceed the sweetest flowers” and the step daughter “an additional smell be added to her breath”, rather than Jacobs’ “sweet voice that shall far exceed the nightingale”, and “a voice as harsh as a corn-crake’s”.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">“The Three Heads of the Well”, Halliwell, 1849</p>
@@ -571,7 +558,7 @@ That I may look pretty,<br />
 When somebody comes by.</p>
 <p>“Yes,” said she, and putting forth her hand, with a silver comb performed the office, placing it upon a primrose bank. Then came up a second and a third head, making the same request, which she complied with. She then pulled out her provisions and ate her dinner. Then said the heads one to another, “What shall we do for this lady who hath used us so kindly?” The first said, “I will cause such addition to her beauty as shall charm the most powerful prince in the world.” The second said, “I will endow her with such perfume, both in body and breath, as shall far exceed the sweetest flowers.” The third said, “My gift shall be none of the least, for, as she is a king’s daughter, I’ll make her so fortunate that she shall become queen to the greatest prince that reigns.” This done, at their request she let them down into the well again, and so proceeded on her journey. She had not travelled long before she saw a king hunting: in the park with his nobles; she would have avoided him, but the king having caught a sight of her, approached, and what with her beauty and perfumed breath, was so powerfully smitten, that he was not able to subdue his passion, but commenced his courtship immediately, and was so successful that he gained her love, and, conducting her to his palace, he caused her to be clothed in the most magnificent manner.</p>
 <p>This being ended, and the king finding that she was the king of Colchester’s daughter, ordered some chariots to be got ready, that he might pay the king a visit. The chariot in which the king and queen rode was adorned with rich ornamental gems of gold. The king, her father, was at first astonished that his daughter had been so fortunate as she was, till the young king made him sensible of all that happened. Great was the joy at court amongst all, with the exception of the queen and her club-footed daughter, who were ready to burst with malice, and envied her happiness; and the greater was their madness because she was now above them all. Great rejoicings, with feasting and dancing, continued many days. Then at length, with the dowry her father gave her they returned home.</p>
-<p>The deformed daughter perceiving that her sister had been so happy in seeking her fortune, would needs do the same; so disclosing her mind to her mother, all preparations were made, and she was furnished not only with rich apparel, but sweetmeats, sugar, almonds, &amp;c., in great quantities, and a large bottle of Malaga sack. Thus provided, she went the same road as her sister, and coming near the cave, the old man said, “Young woman, whither so fast?” “What is that to you,” said she, “Then,” said he, “what have you in your bag and bottle?’ She answered, ‘’Good things, which you shall not be troubled with.” “Won’t you give me some?” said he. ‘No, not a bit, nora drop, unless it would choke you… The old man frowned, saying, “Evil fortune attend thee.” Going on, she came to the hedge, through which she espied a gap, and thought to pass through it, but, going in, the hedge closed, and the thorns run into her flesh, so that it was with great difficulty that she got out. Being now in a painful condition, she searched for water to wash herself, and, looking round, she saw the well; she sat down on the brink of it, and one of the heads came up, saying, “Wash me, comb me, and lay me down softly, &amp;c.” but she banged it with her bottle, saying, “Take this for your washing.” So the second and third heads came up, and met with no better treatment than the first; whereupon the heads consulted among themselves what evils to plague her with for such usage. The first said, “Let her be struck with leprosy in her face.” The second, “Let an additional smell be added to her breath.” The third bestowed on her a husband, though but a poor country cobler. This done, she goes on till she came to a town, and it being market day, the people looked at her, and seeing such an evil face fled out of her sight, all but a poor cobler (who not long before had mended the shoes of an old hermit, who having no money, gave him a box of ointment for the cure of the leprosy, and a bottle of spirits for a stinking breath). Now the cobler having a mind to do an act of charity, was induced to go up to her and ask her who she was. “I am,” said she, “the king of Colchester’s daughter-in-law.” “Well,” said the cobler, “if I restore you to your natural complexion, and make a sound cure both in face and breath, will you in reward take me for a husband?” “Yes, friend,” replied she, “with all my heart.” With this the cobler applied the remedies, and they worked the effect in a few weeks, and then they were married, and after a few days they set forward for the court at Colchester. When the queen understood she had married a poor cobler, she fell into distraction, and hanged herself for vexation. The death of the queen was not a source of sorrow to the king, who had only married her for her fortune, and bore her no affection; and shortly afterwards he gave the cobler a hundred pounds to take the daughter to a remote part of the kingdom, where he lived many years mending shoes, while his wife assisted the housekeeping by spinning, and selling the results of her labours at the country market.</p>
+<p>The deformed daughter perceiving that her sister had been so happy in seeking her fortune, would needs do the same; so disclosing her mind to her mother, all preparations were made, and she was furnished not only with rich apparel, but sweetmeats, sugar, almonds, &amp;c., in great quantities, and a large bottle of Malaga sack. Thus provided, she went the same road as her sister, and coming near the cave, the old man said, “Young woman, whither so fast?” “What is that to you,” said she, “Then,” said he, “what have you in your bag and bottle?” She answered, “Good things, which you shall not be troubled with.” “Won’t you give me some?” said he. ‘No, not a bit, nora drop, unless it would choke you… The old man frowned, saying, “Evil fortune attend thee.” Going on, she came to the hedge, through which she espied a gap, and thought to pass through it, but, going in, the hedge closed, and the thorns run into her flesh, so that it was with great difficulty that she got out. Being now in a painful condition, she searched for water to wash herself, and, looking round, she saw the well; she sat down on the brink of it, and one of the heads came up, saying, “Wash me, comb me, and lay me down softly, &amp;c.” but she banged it with her bottle, saying, “Take this for your washing.” So the second and third heads came up, and met with no better treatment than the first; whereupon the heads consulted among themselves what evils to plague her with for such usage. The first said, “Let her be struck with leprosy in her face.” The second, “Let an additional smell be added to her breath.” The third bestowed on her a husband, though but a poor country cobler. This done, she goes on till she came to a town, and it being market day, the people looked at her, and seeing such an evil face fled out of her sight, all but a poor cobler (who not long before had mended the shoes of an old hermit, who having no money, gave him a box of ointment for the cure of the leprosy, and a bottle of spirits for a stinking breath). Now the cobler having a mind to do an act of charity, was induced to go up to her and ask her who she was. “I am,” said she, “the king of Colchester’s daughter-in-law.” “Well,” said the cobler, “if I restore you to your natural complexion, and make a sound cure both in face and breath, will you in reward take me for a husband?” “Yes, friend,” replied she, “with all my heart.” With this the cobler applied the remedies, and they worked the effect in a few weeks, and then they were married, and after a few days they set forward for the court at Colchester. When the queen understood she had married a poor cobler, she fell into distraction, and hanged herself for vexation. The death of the queen was not a source of sorrow to the king, who had only married her for her fortune, and bore her no affection; and shortly afterwards he gave the cobler a hundred pounds to take the daughter to a remote part of the kingdom, where he lived many years mending shoes, while his wife assisted the housekeeping by spinning, and selling the results of her labours at the country market.</p>
 </div>
 <p>The version in Chambers’ <em>Popular rhymes of Scotland</em> of 1870 is presented in a Scottish vernacular. In this case, the heads are explicitly mens’ heads, who request “Wash me, wash me, my bonnie May, And dry me wi’ yer clean linen apron.” The corresponding fortunes are: “if she was bonnie afore, she was ten times bonnier; and ilka time she opened her lips to speak, there was a diamond and a ruby and a pearl drappit oot o’ her mouth; and ilka time she kaimed her head, she gat a peck o’ gould and a peck o’ silver oot o’t” and “if she was ugly afore, she’ll be ten times uglier; ilka time she speaks, there’ll a puddock <code class="docutils literal notranslate"><span class="pre">[frog]</span></code> and a taid <code class="docutils literal notranslate"><span class="pre">[toad]</span></code> loup oot o’ her mouth; ilka time she kaims her head <code class="docutils literal notranslate"><span class="pre">[combs</span> <span class="pre">her</span> <span class="pre">hair]</span></code>, she’ll get a peck o’ lice and a peck o’ flechs <code class="docutils literal notranslate"><span class="pre">[fleas]</span></code> oot o’t.”.</p>
 <p><em>A handy lookup for Scots words is the <a class="reference external" href="https://www.dsl.ac.uk/advanced-search/">Dictionaries of the Scots Language</a>; URL hack is <code class="docutils literal notranslate"><span class="pre">https://www.dsl.ac.uk/entry/snd/WORD</span></code>.</em></p>
@@ -685,7 +672,7 @@ Down in the meadow, at the World’s End Well.”</p>
 Lift me to your knee, my own darling;<br />
 Remember the words you and I spoke,<br />
 Down in the meadow by the World’s End Well.”</p>
-<p>But the girl didn’t like to, till her stepmother said: “Lift it up this instant, you hussy ! Girls must keep their promises!”</p>
+<p>But the girl didn’t like to, till her stepmother said: “Lift it up this instant, you hussy! Girls must keep their promises!”</p>
 <p>So at last she lifted the frog up on to her lap, and it lay there for a time, till at last it said :</p>
 <p>“Give me some supper, my hinny, my heart.<br />
 Give me some supper, my darling;<br />
@@ -732,7 +719,7 @@ Down by the cold well so weary.”</p>
 <p>Yes, she plucked all she could reach with her hands, and then she took the pole and knocked down the rest, and afterwards she ate her fill, and the rest she laid neatly round the root.</p>
 <p>So she walked on a long, long way, and then she came to a great farm-house, where an old hag of the Troll’s lived with her daughter. There she turned in to ask if she could get a place.</p>
 <p>“Oh!” said the old hag; “it’s no use your trying. We’ve had ever so many maids, but none of them was worth her salt.”</p>
-<p>But she begged so prettily that they would just take her on trial, that at last they let her stay. So the old hag gave her a sieve, and hade her go and fetch water in it. She thought it strange to feteh water in a sieve, but still she went, and when she came to the well, the little birds began to sing —</p>
+<p>But she begged so prettily that they would just take her on trial, that at last they let her stay. So the old hag gave her a sieve, and hade her go and fetch water in it. She thought it strange to fetch water in a sieve, but still she went, and when she came to the well, the little birds began to sing —</p>
 <p>“Daub in clay,<br />
 Stuff in straw.<br />
 Daub in clay.<br />
@@ -748,7 +735,7 @@ For the little birds to drink it up.”</p>
 <p>“This you haven’t sucked out of your own breast. But now JUST TAKE THIS BLACK WOOL AND WASH IT WHITE.”</p>
 <p>This the lassie was at her wit’s end to know how to do, for she had never seen or heard of any one who could wash black wool white. Still she said nothing, but took the wool and went down with it to the well. There the little birds sung again, and told her to take the wool and dip it into the great butt that stood there; and she did so, and out it came as white as snow.</p>
 <p>“Well I never!” said the old witch, when she come in with the wool, “it’s no good keeping you. You can do everything, and at last you’ll be the plague of my life. We’d best part, so take your wages and be off.”</p>
-<p>Then the old hag drew out three caskets, one red, one green, and one blue, and of these the lassie was to choose one aa wages for her service. Now she didn’t know at all which to choose, but the little birds sung—</p>
+<p>Then the old hag drew out three caskets, one red, one green, and one blue, and of these the lassie was to choose one as wages for her service. Now she didn’t know at all which to choose, but the little birds sung—</p>
 <p>“Don’t take the red, don’t take the green,<br />
 But take the blue, where may be seen<br />
 Three little crosses all in a row,<br />
@@ -935,8 +922,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
 
   <footer class="bd-footer">
   </footer>

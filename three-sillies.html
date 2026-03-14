@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=1ae7504c"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -64,6 +67,7 @@
     <link rel="prev" title="The Pedlar of Swaffham" href="pedlar-of-swaffham.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -79,19 +83,8 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +92,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,8 +99,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -124,7 +116,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +147,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -219,7 +208,7 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
-<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">The Hand of Glory</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 <li class="toctree-l1"><a class="reference internal" href="grateful_dead.html">The Grateful Dead</a></li>
@@ -252,9 +241,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -337,7 +331,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -351,25 +345,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -701,7 +687,7 @@ When doomed they the garron in mote.”</p>
 <p>“Mercy on me,” cried out the Goody; “he never ought to go about such a figure when he left so much behind him. Why, there’s a whole cupboard full of old clothes up-stairs which belonged to him, besides a great chest full of money yonder. Now, if you will take them with you, you shall have a horse and cart to carry them. As for the horse, he can keep it, and sit on the cart, and drive about from house to house, and then he needn’t trudge on foot.”</p>
 <p>So the man got a whole cart-load of clothes, and a chest full of shining dollars, and as much meat and drink as he would; and when be had got all be wanted, he jumped into the cart and drove off.</p>
 <p>“That was the third,” be said to himself, as he went along.</p>
-<p>Now this Goody’s third husband was a little way off in a field ploughing, and when he saw a strange man driving ofT from the farm with his horse and cart, he went home and asked his wife who that was that had just started with the black horse.</p>
+<p>Now this Goody’s third husband was a little way off in a field ploughing, and when he saw a strange man driving off from the farm with his horse and cart, he went home and asked his wife who that was that had just started with the black horse.</p>
 <p>“Oh, do you mean him?” said the Goody; “why, that was a man from Paradise, who said that Peter, my dear second husband, who is dead and gone, is in a sad plight, and that he goes from house to house begging, and has neither clothes nor money; so I just sent him all those old clothes he left behind him, and the old money box with the dollars in it.”</p>
 <p>The man saw how the land lay in a trice, so he saddled his horse , and rode off from the farm at full gallop. It wasn’t long before he was close behind the man who sat and drove the cart; but when the latter saw this he drove the cart into a thicket by the side of the road, pulled out a handful of hair from the horse’s tail, jumped up on a little rise in the wood, where he tied the hair fast to a birch, and then lay down under it, and began to peer and stare up at the sky.</p>
 <p>“Well, well, if I ever!” he said, as Peter the third came riding up. “No! I never saw the like of this in all my born days!”</p>
@@ -726,8 +712,8 @@ When doomed they the garron in mote.”</p>
 <p>I’m sure I have several story collections with variants of the tale of three women competing as to who has the most foolish, or gullible, husband, but I can’t for the life of me find them at them moment, or recall which they were.</p>
 <p>One of the collections that does have them is Lang, whose coloured fairy books include all manner of tales, though the attribution is often sorely lacking, as in the following case, from the <em>Pink Fairy Book</em> (the title of the tale Lang provides — <em>The Merry Wives</em>— is not the title I remember, nor is the set-up…).</p>
 <div class="dropdown admonition">
-<p class="admonition-title">“The Merry Wives”, <em>Pink Fairy Book</em>, 1904</p>
-<p>Andrew Lang (Ed.), <em>The Pink Fairy Book</em>, 1904, <a class="reference internal" href="#"><span class="xref myst">pp.297-300</span></a>.</p>
+<p class="admonition-title">“The Merry Wives”, <em>Pink Fairy Book</em>, 1897</p>
+<p>Andrew Lang (Ed.), <em>The Pink Fairy Book</em>, 1897, <a class="reference external" href="https://archive.org/details/pinkfairybooklan00lang/page/296/mode/2up">pp.297-300</a>.</p>
 <p>The Merry Wives <code class="docutils literal notranslate"><span class="pre">[From</span> <span class="pre">the</span> <span class="pre">Danish.]</span></code></p>
 <p>THERE lay three houses in a row, in one of which there lived a tailor, in another a carpenter, and in a third a smith. All three were married, and their wives were very good friends. They often talked about how stupid their husbands were, but they could never agree as to which of them had the most stupid one; each one stuck up for her own husband, and maintained that it was he.</p>
 <p>The three wives went to church together every Sunday, and had a regular good gossip on the way, and when they were coming home from church they always turned into the tavern which lay by the wayside and drank half a pint together. This was at the time when half a pint of brandy cost threepence, so that was just a penny from each of them.</p>
@@ -738,7 +724,7 @@ When doomed they the garron in mote.”</p>
 <p>‘Yes,’ said the man, ‘that would have been a good thing.’</p>
 <p>‘Listen, good man,’ said the wife, ‘you must just be the watchdog yourself, and scare the fellows away from the house.’</p>
 <p>The husband was not very sure about this, although otherwise he was always ready to give in to her.</p>
-<p>‘h yes, you will see it will work all right,’ said the wife.</p>
+<p>‘Oh yes, you will see it will work all right,’ said the wife.</p>
 <p>And so towards evening she got the tailor dressed up in a shaggy fur coat, tied a black woollen cloth round his head, and chained him up beside the dog’s kennel.</p>
 <p>There he stood and barked and growled at everyone that moved in his neighbourhood. The neighbour wives knew all about this, and were greatly amused at it.</p>
 <p>On the day after this the carpenter had been out at work, and came home quite merry; but as soon as he entered the house his wife clapped her hands together and cried, ‘My dear, what makes you look like that? You are ill.’</p>
@@ -769,7 +755,7 @@ When doomed they the garron in mote.”</p>
 <p>Lang cites <em>The Merry Wives</em> as being translated from the Danish, but does not give a source. A few years later, in 1919, J. Grant Cramer included the same tale in his <em>Danish Fairy Tales</em> translation of tales from the Danish collected by Svendt Grundtvig.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">In <em>Danish Fairy Tales</em>, 1919</p>
-<p>Sven Grundtvig, <em>Danish fairy tales</em>, translated byJ. Grant Cramer, 1919, <a class="reference external" href="https://archive.org/details/danishfairytales00gruniala/page/58/mode/2up">pp. 59-63</a>.</p>
+<p>Sven Grundtvig, <em>Danish fairy tales</em>, translated by J. Grant Cramer, 1919, <a class="reference external" href="https://archive.org/details/danishfairytales00gruniala/page/58/mode/2up">pp. 59-63</a>.</p>
 <p>THE MERRY WIVES</p>
 <p>ONCE there stood three houses in a row, wall to wall. In one lived a tailor, in the next, a carpenter, and in the third, a smith. The three men were married, and their wives were the best of friends. They often told each other what stupid men their husbands were, but they never could agree as to which one of them was the most stupid man; for each one of the women was sure that her husband must be the most stupid.</p>
 <p>The three women used to go to church together every Sunday, and on the way they had a good opportunity to chat and gossip together. After the service they always stopped at a little tavern where they had a measure of brandy together. Now at that time a measure cost three shillings, <code class="docutils literal notranslate"><span class="pre">[The</span> <span class="pre">old</span> <span class="pre">Danish</span> <span class="pre">shilling</span> <span class="pre">was</span> <span class="pre">worth</span> <span class="pre">about</span> <span class="pre">three-quarters</span> <span class="pre">of</span> <span class="pre">a</span> <span class="pre">cent.]</span></code> so each woman had to pay one shilling. After a time the price of spirits went up so that a measure cost four shillings. That they did not like at all, as there were only three of them, and no one of them wanted to pay the extra shilling.</p>
@@ -786,6 +772,24 @@ When doomed they the garron in mote.”</p>
 <p>“You fool,” said the wife, “”you have it on already, do hurry up and go.”</p>
 <p>So the smith ran and as he approached the procession, he called to the people to wait for him. They looked around and seeing the black figure running toward them, thought it was the devil. That frightened them nearly to death, so that they threw down the coffin and ran away as fast as they could. As it crashed to the ground the lid flew off, and the carpenter awoke and sat up to look out and see what was going on. Then he remembered what had taken place, and knew that he was dead and had to be buried. He recognized the smith, and said in a feeble voice, “Dear neighbor, if I were not already dead I should certainly laugh myself to death, to see you come to my corpse in that guise.”</p>
 <p>From that time on, the carpenter’s wife never had to pay for her measure of brandy, for they all had to acknowledge that she had made the worst fool of her husband.</p>
+</div>
+<p>The reference in Jacobs’ note to a parallel tale in Kennedy’s <em>Fireside Tales</em> appears to be the folllowing:</p>
+<div class="dropdown admonition">
+<p class="admonition-title">A Legend of Clever Women, 1870</p>
+<p><a class="reference external" href="https://archive.org/details/firesidestorieso00kennrich/page/8/mode/2up?q=wife">https://archive.org/details/firesidestorieso00kennrich/page/8/mode/2up?q=wife</a>
+The fireside stories of Ireland
+by Kennedy, Patrick, 1801-1873</p>
+<p>Publication date 1870</p>
+<p>pp.9-14</p>
+<p>A LEGEND OF CLEVER WOMEN.</p>
+<p>Before Joan was married all her people had a high opinion of her. When Darby came to woo her, her mother told him in confidence that she could see the wind, and hear the flies when they coughed. Well, when they were at dinner the beer came short, and Joanna went down to the cellar to draw a gallon-full. She stayed awhile, and then her mother went to see what was keeping her. She wasn’t coming back, and the father’s and Darby’s thirst was getting more troublesome; so the old man went after the rest. As he forgot to return, the bridegroom thought fit at last to try what had become of his new relations, and when he got inside the cellar, he found the whole of them sobbing and crying. “What in the world has happened, dear friends?” said he. “Oh nothing,” says the mother, “but something terrible might happen only for the cleverness of my poor Joan. Do you see that loose stone in the vault just over the spigot? When my poor child was filling the gallon, that stone caught her eye, and she thought what a heartscald it would be when the little boy, that God will please to send to herself and yourself, would be filling a vessel, maybe when he’d be ten years old or so, and that stone tumble down and kill him dead. So how could she help clapping her hands an’ roarin’ an’ bawlin’ when the thought came into her head1? and I’m sure her father an’ meself would have the hard hearts not to feel for her.” “Well, well,” says Darby, “I’ll soon put it out of the stone’s power to do mischief.” So he got on a stillion, and pulled it away, and they all dried their eyes and returned to their dinner.</p>
+<p>Well, when they were living by themselves, Darby says one morning to his wife after breakfast, “You’ll have my dinner ready at half-past twelve to the minute. You know I have to go to the town after it.” “Never fear, Darby,” says she; and sure enough she had a big black pudding hissing in the pan about ten minutes before she expected him. While she was watching it, the thought came into her mind that it would be a good thing to be drawing the beer while the pudding was frying. But while she was watching the beer falling into the jug, she heard them cry out, “The dog is running away with the pudding!” Out she flew like a racer, and after the dog with her; but when she had chased him two fields he was a whole field ahead of her, and she thought she might as well go back.</p>
+<p>Poor Joan! when she came to the cellar door, the floor was covered three inches deep with the beer, the barrel was empty, but the jug was full any way. “We must make the best of a bad market,” says she, “Darby would be vexed to see the cellar this way, and I must get out his drink whatever happens.” So she emptied a sack of meal on the pool, and was delighted to see it was almost all sucked up. Then she laid the sack across to the barrel, and hardly wet her pumps, and would have had the full jug coming back only for a kick she happened to give it. Poor Darby had a poor dinner, but Joan was so heated, and so proud of her good management, that he hadn’t the heart to scold her. She showed him how nicely all would have happened, and what a comfortable dinner she might have ready for him, only for the roguery of the dog when he found the door open, and how could she spare time to turn the cock when she heard the shout? Darby, however, began to suspect that she was not so clever as her father and mother said she was. A week after he had to go to the town, and says he, just as he was setting out, “Joan, you must mind what I say to you. <em>Shan na Mo</em> (Jack of the Cows) will be apt to call while I’m away, for Browny, and Blacky, and Brackedy. He agreed to pay thirty pounds for them, but he’s rather tricky; so don’t let him get a hoof of one of them without paying the money on the nail.” “I’ll be careful,” says Joan. Darby came back in the evening. “Well, Joan my darling, how did you succeed?” “Oh nicely. You’ll never say after this that I wasn’t clever. I think Shan is just as tricky as you said he was, but he didn’t circumvent me.” “Them cows,” says he, “is dear enough, but I’ll take ‘em; what’s a man but his word?” and he was driving them out at the bawn gate. “Oh stop!” says I, “you didn’t give me the thirty pounds.” “Didn’t I,” says he, “Well, what a memory I have! and, bedad,” says he, rummaging his pockets, “I left the rowl of notes on the dresser coining out. Now I’ll have the trouble of going for them. Ah! I wish my wife was as clever as you, Joan. I’d be a thousand pounds richer to-day. Happy is the man that owns you! Oh, this is what we can do, and save trouble. These three cows are mine. I’ll leave you one in pledge till I send you the money this evening or to-morrow morning.” “Well, see my cleverness! I kept the smallest because she’d eat the least till he’ll send the money. Now what do you say to me, Darby?” “Indeed I’ll say this to you. You are such a fool that I’ll never lie a night by your side, till I find some other woman more foolish; “and he turned his back, and to the road with him.</p>
+<p>The first foolish woman he found had no window to her mud-wall cabin, and the door was turned to the north. She was running with a sieve in her hands in and out, crying, “I have it now,” and, “I haven’t it now,” till Darby asked her what she was doing. “And ain’t I striving to carry the sunshine into the cabin, and I can never get it inside the door?” “Have you a pick-axe in the way?” “Yes, to be sure.” “Well, I’ll soon bring it in to you.” He went to the wall next the sun, gave two or three strokes, and a grey streak was soon coming in, and a splash of light on the floor. “Oh, fortunate was the wind that drove you in my road! what will I be giving you for this good job?” “Ah, my good woman, all you’re worth wouldn’t be enough; I’ll take nothing;” and he went on, saying to himself, “She is not more foolish than Joan.”</p>
+<p>He was going by a cabin, and such roaring and bawling as was coming out through the door! In he ran, and there was a man sitting on a chair, with a clean linen sack on his head and his shoulders, and his wife with a beetle, coming down on his head with the hammers of death, and he roaring like fifty bulls. “What are you doing, you wicked woman1?” says Darby; “do you want to kill the poor man?”” “Indeed, an’ I don’t, but I want to make a hole in this divel of a shirt to let his head and face up through it!” “Have you a scissors about you?” “To be sure; I’d be a purty housewife if I hadn’t.” Darby made a cut in the top of the bag, and the poor bruised head came out. “Oh, musha, wasn’t it good fortune that drove you into the cabin! What’ll we be giving you for your trouble?” “All you’re worth wouldn’t be enough; so I’ll take nothing; <em>banacht lath</em>! I don’t think she’s worse than Joan. I’ll go on.”</p>
+<p>The next adventure he met was in a widow-woman’s bawn, where herself and a few neighbours were striving to lift up a big cow to the eaves of the cabin, and the poor animal kicking off their hats, and tearing their clothes with her hoofs. “God bless the men and their work!” says Darby. “God save you kindly,” says they. “What are yous doing with the poor baste?” says he. “An’ sure we’re striving to get her up on the <em>tatch</em>,” says the widow, “‘till she makes a meal on all that fine grass that’s growing on itself, and the scraws at the top.” “Let her down,” says he, “and maybe we’ll come on an easier plan. Give us a reaping-hook, if you have the like.” So he got a ladder, and was soon down again with an armfull of the grass. “Well to be sure!” says the poor widow, “nothing bates the wit of man barring the bees. It was a good wind,” &amp;c., &amp;c. u I don’t think,” says Darby, “she’s a bit worse than Joan. My journey is not over.”</p>
+<p>Just as night fell, he went into a farm-house and put up for the night. The owner was a widow- woman that was after burying her third husband. The first two were such crooked disciples that she married a third to get the taste of them off her mouth, as she said. “Where do you come from, honest man f” says she to Darby, after supper. “I am from the <em>Gairdheen</em>” (Garden, the name of his farm.) “Oh, and are you from the Garden in -earnest V “Faith I am so; what do you admire about it 1” “Oh, and may be you are acquainted with my poor husband, the last I mean, the others I’m sure never had the grace to get there.” Darby now smelled a rat. “And what sort of a mau was your last, and what was the name was on him V “An’ wasn’t he poor Jack Miskella, the innocentest and little-good-for-est man that ever drew on a stocking? A child of three years old would buy and sell him any day he ever got up.” “I know the man you mean, and have a message to you from him. He have no means of earning his bread, and his clothes is nearly worn out. So he does be begging at the good Christians’ doors, and he bid me tell you, if you’d send him a comfortable suit of clothes, not forgetting a pair of double- soled brogues, you’d make a man of him; and if he had an ass or a small garran to carry him from one charitable house to another, he’d be as happy as a king, it ‘ud be such an ease to his poor legs.” “Ah, an’ them’s the very things he must have, my poor Jack! I suppose you’d like to be off early to him. The ass will be ready bridled and saddled in the stable, and the full suit will be laid out here on the kitchen table; and if you think they’d be of any use, there’ll be a few guinea notes in the pockets.” “Never mind the notes; every family does everything for itself in that country.”</p>
+<p>“I think,” says Darby to himself next morning, “I’ve found a woman rather more foolish than poor Joan; so I’ll go back to her.” He did so, and they led such a life that whenever a loving couple are seen going together to Mass or market, every one says, “There goes Darby and Joan.”</p>
 </div>
 </section>
 </section>
@@ -845,14 +849,16 @@ When doomed they the garron in mote.”</p>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#grimm-s-variant-kluge-else">Grimm’s Variant, “Kluge Else”</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#norse-variant">Norse Variant</a></li>
@@ -905,8 +911,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
 
   <footer class="bd-footer">
   </footer>

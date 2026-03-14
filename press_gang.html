@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=1ae7504c"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -64,6 +67,7 @@
     <link rel="prev" title="The Richmond Drummer Boy" href="richmond_drummer_boy.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -79,19 +83,8 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +92,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,8 +99,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -124,7 +116,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +147,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -219,7 +208,7 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
-<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">The Hand of Glory</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 <li class="toctree-l1"><a class="reference internal" href="grateful_dead.html">The Grateful Dead</a></li>
@@ -252,9 +241,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -337,7 +331,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -351,24 +345,16 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
+</button>
 
 </div></div>
       
@@ -770,7 +756,7 @@ CAUGHT BY THE PRESS GANG. LIEUT. WARNEFORD, R.N.</p>
 <p>“It were no manner of use to tell them thunderin’ varmints when I came to,” said Potts, “that I was a respectable master tradesman going to be married the very next day. I might as well have sung psalms to a dead horse. The villains only laughed at me, and a bosan’s mate threatened to give me something to howl for, if I didn’t hold my stupid old-woman’s jaw. The first luff was civiller, and kindly observed that, if what I said was correct, I should most likely obtain a discharge from the service when the “Serpent” returned to England, which might be in about three or four years, more or less.</p>
 <p>“There never was such a dismal go,” continued Potts, “but blubbering wouldn’t brighten it, so, being always of a cheerful. happy-go-lucky turn of mind, I thought it best to grin and bear it, hoping, of course, that something would turn up an’ Jemima prove constant and kind. Well, something did turn up, that’s certain—and on the very day we»k that I was to have been married too —which was an infernal turn-up with a forty gun French frigate. The “Serpent” only mounted 20 barkers. The very first broadside knocked me over, and being carried below, the surgeon said my right leg was smashed bad, most likely by a chain shot, that he must whip it off at once—which was done. It makes me hot now to think of it, particularly the first dressing afterwards.</p>
 <p>“When was able to talk and be spoke to, I asked how the fight had ended, and was told that it might have gone hard with the “Serpent” had not the “Menelaus” frigate, Captain Sir Peter Parker, hove in sight, when the Frenchman sheered off.</p>
-<p>“‘Your are on board the ‘Menelaus’ now,’ said the marine, who. somehow, I seemed to know; ‘you are on board the “Menclaus” now. and will be sent on shore at Malta directly the frigate gets there, with me and other wounded men.’</p>
+<p>“‘Your are on board the ‘Menelaus’ now,’ said the marine, who. somehow, I seemed to know; ‘you are on board the “Menelaus” now. and will be sent on shore at Malta directly the frigate gets there, with me and other wounded men.’</p>
 <p>“The marine had his left arm in a sling. It had been broken by a musket ball, in a brush with boats, not very long before he told me.</p>
 <p>“‘You don’t remember me. Potts,’ said he presently. ‘I do you, well, much as you’ve grown. How’s old Jobson and Jemima?’</p>
 <p>“‘Why, it’s Phil Jenkins!’ said I, springing up in my berth as well I could.</p>
@@ -880,7 +866,7 @@ flogged for neglecting to salute a middy, flogged because a hammock did not look
 EXTRAORDINARY EFFORTS TO AVOID CAPTURE<br />
 by hiding in remote out of the way holes and lurking in places contrived by arrangement with the captain and owner. Too often, however, such stratagems failed and poor fellows were ferreted out like escaped felons by the press-officers. Jack’s case was even worse on shore, for here the greater brutality of the press-gang awaited him. Slinking from his ship if he could while she was yet in the offing, he would land at some unfrequented part of the coast and get inland to hide, often to tracked and run to earth by the wretched spies and informers who, to earn the blood money paid them by the naval authorities, resorted to the basest and most cowardly artifices. Escaping detection, perhaps, he would presently be tempted by the prospect of meeting wife, children, and friends, or be driven by the necessity of again taking ship, to face the risks of going into the town, where at every step in the “narrow street” he was menaced with capture and personal violence at the hands of the gangs of blackguards, and under circumstances<br />
 REVOLTING HUMILIATION AND DEGRADATION<br />
-haled of to one off the jetties by the river and thrown into a boat to be conveyed to the tender. Down in “Peggy’s Hole,” just inside the harbour mouth, lay at all times a tender, one being relieved by another as the cargo of captives was gradually accumulated. Once on board, a word of indignant remonstrance or expostulation exposed the hapless wretches to the chances of being loaded with irons or even chained down to the deck, and finally encountering that <em>ultima ratio regium</em> the “cat.’’” Kept for an indefinite time below decks in the hold of the vessel, amid foul stench, darkness, and discomfort, the miserable beings at times took heart to rise upon their sentinels, or, greatly daring, proceeded to the extreme course of capturing the vessel from their custodians when at sea, and running her into port somewhere whence they could make a dash for freedom. On March 3rd, 1771, the impressed men board the Boscawen, cutter, at Shields, overpowered the watch and fifteen of them got clear off. February 12th, 1777, the impressed men on board the union tender at Shields rose upon crew and took possession of the ship, and notwithstanding the fire from Clifford’s fort and the other tenders<br />
+haled of to one off the jetties by the river and thrown into a boat to be conveyed to the tender. Down in “Peggy’s Hole,” just inside the harbour mouth, lay at all times a tender, one being relieved by another as the cargo of captives was gradually accumulated. Once on board, a word of indignant remonstrance or expostulation exposed the hapless wretches to the chances of being loaded with irons or even chained down to the deck, and finally encountering that <em>ultima ratio regium</em> the “cat.” Kept for an indefinite time below decks in the hold of the vessel, amid foul stench, darkness, and discomfort, the miserable beings at times took heart to rise upon their sentinels, or, greatly daring, proceeded to the extreme course of capturing the vessel from their custodians when at sea, and running her into port somewhere whence they could make a dash for freedom. On March 3rd, 1771, the impressed men board the Boscawen, cutter, at Shields, overpowered the watch and fifteen of them got clear off. February 12th, 1777, the impressed men on board the union tender at Shields rose upon crew and took possession of the ship, and notwithstanding the fire from Clifford’s fort and the other tenders<br />
 CARRIED HER OUT TO SEA.<br />
 False “protections” could be purchased, which (if they passed muster with the keen and suspicious press officers) might enable Jack to possess his soul in peace. Nor must he blamed if he availed himself of the use of such fraudulent scrip, for the “protections” issued by the Admiralty were more detestably false than his, as many a poor fellow who had honourably gained, won, or bought one, found to his cost. When “men were wanted, and men must be had,” the Admiralty took the short course of what was euphemistically called “suspending” the protections they themselves had issued. Surrounded by treachery such as this, Jack took sanctuary with the fierce ship carpenters, who were the particular dread of the press-gangs, who hung back as they saw them escort the hunted seamen to and from the docks. When convoy of this sort was not to be had, stratagem was resorted to, and many are the stories of<br />
 THE TRICKS PLAYED BY JACK<br />
@@ -900,7 +886,7 @@ Sun (London) - Tuesday 17 January 1804</p>
 <p>TUESDAY came on before this Court, the trial of <em>John Herdman</em>, boatman, in the service of the Customs, Leith, accused of murder, or culpable homicide, by striking Peter Geyler, midshipman, on the Impress Service at Leith, on the head with a bludgeon or stick, on the evening of the 12th of November last, which occasioned his death in three days thereafter.</p>
 <p>The Pannel plead Not Guilty.</p>
 <p>No objection was made to the relevancy of the libel by the Pannel’s Counsel; and the LORD ADVOCATE restricted the charge to culpable homicide only, as he did not think he could make out the crime of Murder, against the Pannel. The usual Interlocutor was then pronounced, restricting the libel to an arbitrary punishment, and remitting the case to a Jury, which was then chosen.</p>
-<p>The first Witness called was Mrs. Calderwood, wife of John Calderwood, meal-dealer in Leith, who said, that she remembers her husband being pressed on Saturday the 12th November, and was taken to the rendezvous, where she went, but afterwards returned to lock her shop door; and went to Coming’s, where her husband then was , who had been liberated. Mr. Geyler came in, and said he would have her husband yet, and used him very badly. On the Witness remonstrating with Geyler he struck her; on which the Pannel, who then came in , said it was a shame to use a woman ill. Herdman put out Geyler, and locked the door– The Witness was also locked out, But afterwards admitted into Coming’s, wheN the Pannel went away, and she did not see him again that night—Herdman was sober, but Geyler was mortal drunk that night.</p>
+<p>The first Witness called was Mrs. Calderwood, wife of John Calderwood, meal-dealer in Leith, who said, that she remembers her husband being pressed on Saturday the 12th November, and was taken to the rendezvous, where she went, but afterwards returned to lock her shop door; and went to Coming’s, where her husband then was , who had been liberated. Mr. Geyler came in, and said he would have her husband yet, and used him very badly. On the Witness remonstrating with Geyler he struck her; on which the Pannel, who then came in , said it was a shame to use a woman ill. Herdman put out Geyler, and locked the door– The Witness was also locked out, But afterwards admitted into Coming’s, when the Pannel went away, and she did not see him again that night—Herdman was sober, but Geyler was mortal drunk that night.</p>
 <p>John Calderwood said, he never was at sea, but was pressed from his own door on the 12th November, and carried to the rendezvous, but was relieved in a short time—He then went to Cuming’s, where Geyler came, and insisted on taking the Witness again to the rendezvous—His wife interfered with Geyler for using him badly, when Geyler struck her. Herdman, who was present, interfered, and said it was shameful to strike a woman, and at last put out Geyler, who continued for some time swearing at the back of the door. About an hour after, the Witness left Cuming’s by a back door.—Herdman was sober, but does not think Geyler was so.</p>
 <p>John Beatson, midshipman, on the Impress at Leith, remembers Calderwood being impressed, but was not present when any scuffle happened. After Geyler was put out of Cuming’s, he said to the Witness, “D——n that wooden-legged b——r, I’ll do for him, for interrupting me on my duty.” Herdman almost immediately came out, when Geyler repeated his words, and struck Herdman on the head with a stick he had in his hand. The Pannel took the Witness as evidence of his being struck, and said he would have satisfaction. The quarrel continued between Geyler and him along the shore, when Mr. Waddell opened his window, and asked “what was the matter?” Herdman said he had abused by Geyler, an would have satisfaction. Waddell advised him to let the matter rest that night, and have recourse to the Civil Law. Herdman went back to Calderwood’s, and the Witness saw Mrs. Calder wood home, and Herdman went back to Coming’s with a stick in his hand.</p>
 <p>James Thomson, one of the press-gang, said he saw Geyler strike the Pannel with a stick, and Herdman took him a witness.</p>
@@ -1020,8 +1006,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
 
   <footer class="bd-footer">
   </footer>

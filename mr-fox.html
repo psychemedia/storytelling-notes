@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=1ae7504c"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -64,6 +67,7 @@
     <link rel="prev" title="Brother Jucundus" href="brother_jucundus.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -79,19 +83,8 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +92,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,8 +99,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -124,7 +116,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +147,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -219,7 +208,7 @@
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
-<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">The Hand of Glory</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Mr Fox</a></li>
 <li class="toctree-l1"><a class="reference internal" href="grateful_dead.html">The Grateful Dead</a></li>
@@ -252,9 +241,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -337,7 +331,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -351,25 +345,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -392,10 +378,12 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#related-tales">Related Tales</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-tale-of-bloody-baker">The Tale of Bloody Baker</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-history-of-bluebeard">The History of Bluebeard</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-count-s-daughter"><em>The Count’s Daughter</em></a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hartland-s-note-on-the-forbidden-chamber">Hartland’s Note on <em>“The Forbidden Chamber”</em></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#in-hartland-s-note-on-the-forbidden-chamber">In Hartland’s Note on <em>“The Forbidden Chamber”</em></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#one-moonshiny-night">One Moonshiny Night</a></li>
 </ul>
             </nav>
         </div>
@@ -419,12 +407,12 @@ by Shakespeare, William, 1564-1616; Boswell, James, 1778-1822, ed; Malone, Edmon
 <p>Publication date 1821</p>
 <p>p164-5</p>
 <p>[In section on “Much Ado About Nothing”]</p>
-<p>Benedict, Like the old tale, it is not so, nor ‘twas not so: but indeed God forbid it should be so.] I believe none of the commentators have understood this; it is an allusion, as the speaker says, to an <em>old tale</em> which may perhaps be still extant in some collections of such things, or which Shakspeare may have heard, as I have, related by a great aunt, in his childhood.</p>
-<p>Once upon a time, there was a young lady, (called Lady Mary in the story) who had two brothers. One summer they all three went to a country seat of theirs, which they had not before visited. Among the other gentry in the neighbourhood who came to see them, was a Mr. Fox, a batchelor, with whom they, particularly the young lady, were much pleased. He used often to dine with them, and frequently invited Lady Mary to come and see his house. One day that her brothers were absent elsewhere, and she had nothing better to do, she determined to go thither; and accordingly set out unattended. When she arrived at the house, and knocked at the door, no one answered. At length she opened it, and went in; over the portal of the hall was written <em>“Be bold, be bold, but not too bold:”</em> she advanced: over the stair-case, the same inscription: she went up: over the entrance of a gallery, the same: she proceeded: over the door of a chamber, — <em>“Be bold, be bold, but not too bold, lest that your heart’s blood should run cold.”</em> She opened it; it was full of skeletons, tubs full of blood, &amp;c. She retreated in haste; coming down stairs, she saw out of a window Mr. Fox advancing towards the house, with a drawn sword in one hand, while with the other he dragged along a young lady by her hair. Lady Mary had just time to slip down, and hide herself under the stairs, before Mr. Fox and his victim arrived at the foot of them. As he pulled the young lady up stairs, she caught hold of one of the <em>bannisters</em> with her hand, on which was a rich bracelet. Mr. Fox cut it off with his sword: the hand and bracelet fell into Lady Mary’s lap, who then contrived to escape unobserved, and got home safe to her brother’s house.</p>
+<p><em>Benedict.</em> Like the old tale, it is not so, nor ‘twas not so: but indeed God forbid it should be so.] I believe none of the commentators have understood this; it is an allusion, as the speaker says, to an <em>old tale</em> which may perhaps be still extant in some collections of such things, or which Shakspeare may have heard, as I have, related by a great aunt, in his childhood.</p>
+<p>Once upon a time, there was a young lady, (called Lady Mary in the story) who had two brothers. One summer they all three went to a country seat of theirs, which they had not before visited. Among the other gentry in the neighbourhood who came to see them, was a Mr. Fox, a batchelor, with whom they, particularly the young lady, were much pleased. He used often to dine with them, and frequently invited Lady Mary to come and see his house. One day that her brothers were absent elsewhere, and she had nothing better to do, she determined to go thither; and accordingly set out unattended. When she arrived at the house, and knocked at the door, no one answered. At length she opened it, and went in; over the portal of the hall was written <em>“Be bold, be bold, but not too bold:”</em> she advanced: over the stair-case, the same inscription: she went up: over the entrance of a gallery, the same: she proceeded: over the door of a chamber, <em>“Be bold, be bold, but not too bold, lest that your heart’s blood should run cold.”</em> She opened it; it was full of skeletons, tubs full of blood, &amp;c. She retreated in haste; coming down stairs, she saw out of a window Mr. Fox advancing towards the house, with a drawn sword in one hand, while with the other he dragged along a young lady by her hair. Lady Mary had just time to slip down, and hide herself under the stairs, before Mr. Fox and his victim arrived at the foot of them. As he pulled the young lady up stairs, she caught hold of one of the <em>bannisters</em> with her hand, on which was a rich bracelet. Mr. Fox cut it off with his sword: the hand and bracelet fell into Lady Mary’s lap, who then contrived to escape unobserved, and got home safe to her brother’s house.</p>
 <p>After a few days, Mr. Fox came to dine with them as usual (whether by invitation, or of his own accord, this deponent saith not). After dinner, when the guests began to amuse each other with extraordinary anecdotes. Lady Mary at length said, she would relate to them a remarkable dream she had lately had. I dreamt, said she, that as you, Mr. Fox, had often invited me to your house, I would go there one morning. When I came to the house, I knocked, &amp;c. but no one answered. When I opened the door, over the hall was written, <em>“Be bold, be bold, but not too bold”</em>. But, said she, turning to Mr. Fox, and smiling, <em>It is not so, nor it was not so</em>; then she pursues the rest of the story, concluding at every turn with <em>“It is not so, nor it was not so,”</em> till she comes to the room full of dead bodies, when Mr. Fox took up the burden of the tale, and said, <em>“It is not so, nor it was not so, and God forbid it should be so:”</em> which he continues to repeat at every subsequent turn of the dreadful story, till she came to the circumstance of his cutting off the young lady’s hand, when, upon his saying as usual. <em>It is not so, nor it was not so, and God forbid it should be so.</em> Lady Mary retorts. <em>But it is so, and it was so, and here the hand I have to show</em>, at the same time producing the hand and bracelet from her lap: whereupon the guests drew their swords, and instantly cut Mr. Fox into a thousand pieces.</p>
 <p>Such is the <em>old tale</em> to which Shakspeare evidently alludes, and which has often <em>“froze my young blood,”</em> when I was a child, as, I dare say, it had done his before me. I will not apologize for repeating it, since it is manifest that such <em>old wive’s tales</em> often prove the best elucidation of this writer’s meaning. Blakeway.</p>
 </div>
-<p>The tale was then perhaps re-popularised by Halliwell-Phillips in his <em>Popular rhymes and nursery tales</em> of 1849. The layout in Halliwell’s version makes me think the refrain might provide a useful invitation to participation…</p>
+<p>The tale was brought to wider attention by Halliwell-Phillips in his <em>Popular rhymes and nursery tales</em> of 1849. The layout in Halliwell’s version makes me think the refrain might provide a useful invitation to participation…</p>
 <div class="dropdown admonition">
 <p class="admonition-title">A simple, but very curious tale, 1849</p>
 <p><a class="reference external" href="https://archive.org/details/popularrhymesnur0000unse/page/46/mode/2up">https://archive.org/details/popularrhymesnur0000unse/page/46/mode/2up</a>
@@ -444,13 +432,24 @@ Lest that your heart’s blood should run cold!</p>
 And God forbid it should be so!</p>
 <p>which he continued to repeat at every subsequent turn of the dreadful story, till she came to the circumstance of his cutting off the young lady’s hand, when, upon his saying, as usual,</p>
 <p>It is not so, nor it was not so,<br />
-And God forbid it should be so!<br />
-Lady Mary retorts by saying,<br />
-But it is so, and it was so,<br />
+And God forbid it should be so!</p>
+<p>Lady Mary retorts by saying,</p>
+<p>But it is so, and it was so,<br />
 And here the hand I have to show!</p>
 <p>at the same moment producing the hand and bracelet from her lap. Whereupon the guests drew their swords, and instantly cut Mr. Fox into a thousand pieces.</p>
 </div>
-<p>The tale is followed by another related one, of a student who sought seduced a maiden, and then attempted to hide the fact…</p>
+<p>The tale was reproduced and further popularised Joseph Jacobs in his collection <a class="reference external" href="https://archive.org/details/englishfairytal00jacogoog/page/n176/mode/2up"><em>English Fairy Tales</em></a>, 1890, pp.148-151, along with two illustrations by John D. Batten.</p>
+<p>The first illustration, at the start of the chapter, sees Lady Mary witness Mr Fox’s arrival with a new victim, from her hiding place underneath the stairs.</p>
+<p><img alt="Mr Fox is spotted by Lady Mary" src="_images/mr_fox_1_jacobs_batten.png" /></p>
+<p>The second illustration depicts Lady Mary’s revelation of Mr Fox’s nefarious deeds.</p>
+<p><img alt="Mr Fox denounced by Lady Mary" src="_images/englishfairytal00jacogoog_0181.jpg" /></p>
+<p>Jacobs also gives some additional notes on the tale (p247):</p>
+<blockquote>
+<div><p>XXVI. MR. FOX.</p>
+<p><em>Source.</em> — Contributed by Blakeway to Malone’s Variorum Shakespeare, to illustrate Benedick’s remark in <em>Much Ado about Nothing</em> (I. i. 146): “Like the old tale, my Lord, ‘It is not so, nor ‘twas not so, but, indeed, God forbid it should be so;’” which clearly refers to the tale of Mr. Fox. “The Forbidden Chamber” has been studied by Mr. Hartland, <em>Folk-Lore Journal</em>, iii. 193, seq.</p>
+<p><em>Parallels.</em> — Halliwell, p. 166, gives a similar tale of “An Oxford Student,” whose sweetheart saw him digging her grave. “Mr. Fox” is clearly a variant of the theme of “The Robber Bridegroom” (Grimm, No. 40, Mrs. Hunt’s translation, i. 389, 395; and Cosquin, i. 180-1).</p>
+</div></blockquote>
+<p>As Jacobs noted, in Halliwell-Phillips’ collection, the tale is complemented by another related one, of a student who sought to seduce a maiden, and then attempted to hide the fact…</p>
 <div class="dropdown admonition">
 <p class="admonition-title"><em>The Oxford Student</em>, 1849</p>
 <p><a class="reference external" href="https://archive.org/details/popularrhymesnur0000unse/page/48/mode/2up">https://archive.org/details/popularrhymesnur0000unse/page/48/mode/2up</a>
@@ -472,7 +471,16 @@ I looked for one, and saw two come:<br />
 The boughs did bend, the leaves did shake,<br />
 I saw the hole the Fox did make</p>
 </div>
-<p><em>The Oxford Student</em> is referenced by Addy in his Household Tales, as a possible variant of a tale Addy included in his collection.</p>
+<p><em>The Oxford Student</em> is also referenced by Sidney Oldall Addy in his <em>Household Tales</em>, along with a couple of other loosely related tales.</p>
+<div class="dropdown admonition">
+<p class="admonition-title"><em>Jack Otter</em>, 1895</p>
+<p>8.— JACK OTTER.</p>
+<p><code class="docutils literal notranslate"><span class="pre">[From</span> <span class="pre">Lincolnshire.</span> <span class="pre">Compare</span> <span class="pre">the</span> <span class="pre">next</span> <span class="pre">story.</span> <span class="pre">Otter</span> <span class="pre">here</span> <span class="pre">stands</span> <span class="pre">for</span> <span class="pre">Höttr,</span> <span class="pre">the</span> <span class="pre">hatted</span> <span class="pre">one,</span> <span class="pre">a</span> <span class="pre">name</span> <span class="pre">of</span> <span class="pre">Odin,</span> <span class="pre">on</span> <span class="pre">account</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">slouching</span> <span class="pre">hat</span> <span class="pre">or</span> <span class="pre">hood</span> <span class="pre">which</span> <span class="pre">he</span> <span class="pre">wore,</span> <span class="pre">In</span> <span class="pre">Hava-mal</span> <span class="pre">Odin</span> <span class="pre">says,</span> <span class="pre">&quot;I</span> <span class="pre">mind</span> <span class="pre">me</span> <span class="pre">hanging</span> <span class="pre">on</span> <span class="pre">the</span> <span class="pre">gallows-tree</span> <span class="pre">nine</span> <span class="pre">whole</span> <span class="pre">nights,</span> <span class="pre">wounded</span> <span class="pre">with</span> <span class="pre">the</span> <span class="pre">spear,</span> <span class="pre">offered</span> <span class="pre">to</span> <span class="pre">Odin,</span> <span class="pre">myself</span> <span class="pre">to</span> <span class="pre">myself;</span> <span class="pre">on</span> <span class="pre">the</span> <span class="pre">tree,</span> <span class="pre">whose</span> <span class="pre">roots</span> <span class="pre">no</span> <span class="pre">man</span> <span class="pre">knoweth.</span> <span class="pre">They</span> <span class="pre">gave</span> <span class="pre">me</span> <span class="pre">no</span> <span class="pre">loaf;</span> <span class="pre">they</span> <span class="pre">held</span> <span class="pre">no</span> <span class="pre">horn</span> <span class="pre">to</span> <span class="pre">me.&quot;</span> <span class="pre">Vigfusson</span> <span class="pre">and</span> <span class="pre">Powell's</span> <span class="pre">Corpus</span> <span class="pre">Poeticum</span> <span class="pre">Boreale,</span> <span class="pre">i.</span> <span class="pre">p.</span> <span class="pre">24.]</span></code></p>
+<p>IN Lincolnshire there once lived a man, called Jack Otter, who had been married nine times, and had murdered all his wives one after another. One day he was angry with the woman that he was courting, and whom he intended to take for his tenth wife. So he asked her to go for a walk with him, and when they had got into a lonely place he stabbed her and buried her on the spot. But his crime was found out, and he was gibbeted on a post in the lane. Now a bird, called the willow-biter, built her nest in the dead man’s mouth as he hung on the gallows tree, and brought up her fledgelings in it. And hence this riddle is asked:</p>
+<p>There were ten tongues within one head;<br />
+And one went out to fetch some bread<br />
+To feed the living in the dead.</p>
+</div>
 <div class="dropdown admonition">
 <p class="admonition-title"><em>The girl who got up the tree</em>, 1895</p>
 <p><a class="reference external" href="https://archive.org/details/householdtaleswi00addyuoft/page/n49/mode/2up">https://archive.org/details/householdtaleswi00addyuoft/page/n49/mode/2up</a>
@@ -490,8 +498,9 @@ When I saw the hole the fox did make.</p>
 <p><code class="docutils literal notranslate"><span class="pre">[The</span> <span class="pre">following</span> <span class="pre">variation</span> <span class="pre">occurs:</span> <span class="pre">One</span> <span class="pre">moonlight</span> <span class="pre">night</span> <span class="pre">as</span> <span class="pre">I</span> <span class="pre">sat</span> <span class="pre">high,</span> <span class="pre">Waiting</span> <span class="pre">for</span> <span class="pre">one</span> <span class="pre">but</span> <span class="pre">two</span> <span class="pre">came</span> <span class="pre">by,</span> <span class="pre">The</span> <span class="pre">boughs</span> <span class="pre">did</span> <span class="pre">bend,</span> <span class="pre">my</span> <span class="pre">heart</span> <span class="pre">did</span> <span class="pre">quake,</span> <span class="pre">To</span> <span class="pre">see</span> <span class="pre">the</span> <span class="pre">hole</span> <span class="pre">the</span> <span class="pre">fox</span> <span class="pre">did</span> <span class="pre">make,]</span></code></p>
 <p>When the two men who had intended to murder the girl heard this they ran out of the house.</p>
 </div>
-<p>## Related Tales</p>
-<p>By way of comparison, consider this original telling of Bluebeard, from 1846. I don’t find it satisfying at all, and would never consider telling it this way:</p>
+<section id="related-tales">
+<h2>Related Tales<a class="headerlink" href="#related-tales" title="Link to this heading">#</a></h2>
+<p>By way of comparison, consider this original telling of <em>Bluebeard</em>, from 1846. I don’t find it satisfying at all, and would never consider telling it this way:</p>
 <div class="dropdown admonition">
 <p class="admonition-title">The popular story of Blue Beard, or, Female curiosity, 1846</p>
 <p><a class="reference external" href="https://archive.org/details/McGillLibrary-PN970_R9_P67_1846-2022/page/n1/mode/2up">https://archive.org/details/McGillLibrary-PN970_R9_P67_1846-2022/page/n1/mode/2up</a>
@@ -545,7 +554,7 @@ Haste away home!”</p>
 <p>Note, p. 253</p>
 <p>The Robber Bridegroom. p: 199. “Der Raiiberbraütigam” of MM. Grimm. This tale has a general affinity to that of <em>Bluebeard</em>, most of the incidents of which story are found in others of the German collection. It should, perhaps, be observed, that in the original, the <em>finger</em> is chopped off, and is carried away by the bride, as well as the ring upon it.</p>
 </div>
-<p>For another take on the Robber Bridegroom tale, a gypsy tale collected from Noah Lock by Thomas William Thompson, that appears as the first in a series of <em>English Gypsy Folk-Tales, and other Traditional Stories</em> in the <em>Journal of the Gypsy Lore Society</em>.</p>
+<p>For another take on the <em>Robber Bridegroom</em> tale, a gypsy tale collected from Noah Lock by Thomas William Thompson, that appears as the first in a series of <em>English Gypsy Folk-Tales, and other Traditional Stories</em> in the <em>Journal of the Gypsy Lore Society</em>.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">The Robber and the Housekeeper, 1914-5</p>
 <p><a class="reference external" href="https://archive.org/details/journalgypsylorensv8-1914-15/page/n221/mode/2up">https://archive.org/details/journalgypsylorensv8-1914-15/page/n221/mode/2up</a>
@@ -577,9 +586,10 @@ Publication date (1914—1915)</p>
 <p>On the night ‘n the feast there is the housekeeper, all dressed in silks an’ satins, an’ her lady companion at her side, walking up an’ down, up an’ down, in the grand hall where the supper is laid. An’ the master he is standing at the doar shaking hands wid everybody as they comes in. Of course they’re both ‘n they looking out for the robber. Now it’s a curious thing that though they seen everybody as come in they didn’t see the robber among ‘em, neither the one nor yet the tother didn’t. And agen when all the guests is sat down to the tables they both walks back’ards an’ for’ards, an’ back’ards an’ for’ards, an’ they has a good look at everybody, an’ yet they can’t find him, though they knew as he must be in the room somewheres. ‘Well, this is ancominon strange/ says the master; ‘but I’ll find him yet afoare the night is out, just you see.’</p>
 <p>Now a’ter when they’d all eaten till they couldn’t eat no moare, an’ drunk most all the wine, the master he g6ts up from his place, an’ he begins to make a bit ‘n a speech. ‘I been greatly pleased,’ he says, ‘wid your comp’ny here to-night. An’ now,’ he says, ‘afoare you go—and I shall be very sorry to have to part from you —the’s just one thing. I’m now going to call for a toast,’ he says, ‘which I wants all ‘n you here present, <em>every one ‘n you</em>, to drink standing up, <em>wid yowr left hands flat open above your heads, so</em>.’ It was a cunning trick this was, for the robber you see had the two first fingers ‘n his left hand cut off by the middle joints, so that when they all stood up an’ raised their hands to drink the toast he was fun’ out. The master tells his sarvants to seize him, an’ he sends to fatch a rigiment o’ soldiers, an’ they comes, an’ they shoots him. An’ that was the end ‘n the robber.</p>
 </div>
+</section>
 <section id="the-tale-of-bloody-baker">
 <h2>The Tale of Bloody Baker<a class="headerlink" href="#the-tale-of-bloody-baker" title="Link to this heading">#</a></h2>
-<p>In the August 25th, 1850, issue of <em>Notes and Queries</em>, (“When found, make a note of”), a previously recorded legend of a certain Sir. Bloody Baker, was likened to the tale of <em>Mr Fox</em>.</p>
+<p>In the August 25th, 1850, issue of <em>Notes and Queries</em>, (<code class="docutils literal notranslate"><span class="pre">&quot;When</span> <span class="pre">found,</span> <span class="pre">make</span> <span class="pre">a</span> <span class="pre">note</span> <span class="pre">of&quot;</span></code>), a previously recorded legend of a certain Sir Bloody Baker, was likened to the tale of <em>Mr Fox</em>.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Resembling the story of Sir Richard “Bloody” Baker, August 1850</p>
 <p><a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1850-08-24_2_43/page/196/mode/2up">https://archive.org/details/sim_notes-and-queries_1850-08-24_2_43/page/196/mode/2up</a>
@@ -593,19 +603,19 @@ Lest that your heart’s blood should run cold.”</p>
 <p>It may be asked, if Baker was burned, how came he to have a tomb with gloves, helmet, &amp;c., suspended over it in Cranbrook Church? Such honour was not paid to a man of higher rank in Salisbury Cathedral, a murderer also, who was hung, viz.. Lord Stourton. Dodsworth tells us that till about 1775, no chivalrous emblems were suspended over the latter, but only a twisted wire, with a noose, emblematic of the halter. Allow me to ask. What instances have we of tombs or gravestones, as memorials of individuals who have suffered at the <em>stake</em>, exclusive of those monuments which in after times may have been raised in honour of distinguished martyrs at the Reformation?</p>
 <p>J. H. M., Bath.</p>
 </div>
-<p>The supposed legend of Sir Richard was reported in the issue of June 29th, earlier that year, locating it in Cranbrook, Kent:</p>
+<p>The supposed legend of Sir Richard, as supplied by <em>F. L.</em>, was recorded in the issue of June 29th, earlier that year, locating the tale in Cranbrook, Kent:</p>
 <div class="dropdown admonition">
 <p class="admonition-title">The Legend of Sir Richard Baker, June 1850</p>
 <p><a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1850-06-29_2_35/mode/2up">https://archive.org/details/sim_notes-and-queries_1850-06-29_2_35/mode/2up</a>
 Notes and Queries  1850-06-29: Vol 2 Iss 35, pp.67-8</p>
 <p>FOLK-LORE</p>
 <p><em>Legend of Sir Richard Baker, surnamed Bloody Baker.</em>—I one day was looking over the different monuments in Cranbrook Church in Kent, when in the chancel my attention was arrested by one erected to the memory of Sir Richard Baker. The gauntlet, gloves, helmet, and spurs were (as is often the case in monumental erections of Elizabethan date) suspended over the tomb. What chiefly attracted my attention was the colour of the gloves, which was red. The old woman who acted as my cicerone, seeing me look at them, said, “Aye, miss, those are Bloody Baker’s gloves; their red colour comes from the blood he shed.” This speech awakened my curiosity to hear more, and with very little pressing I induced my old guide to tell me the following strange tale.</p>
-<p>The Baker family had formerly large possessions in Cranbrook, but in the reign of Edward VI. great misfortunes fell on them; by extravagance and dissipation, they gradually lost all their lands, until an old house in the village (now used as the poor-house) was all that remained to them. The sole representative of the family remaining at the accession of Queen Mary, was Sir Richard Baker. He had spent some years abroad in consequence of a duel; but when, said my informant, Bloody Queen Mary reigned, he thought he might safely return, as he was a Papist. “When he came to Cranbrook he took up his abode in his old house; he only brought one foreign servant with him, and these two lived alone. Very soon strange stories began to be whispered respecting unearthly shrieks having been heard frequently to issue at nightfall from his house. Many people of importance were stopped and robbed in the Glastonbury woods, and many unfortunate travellers were missed and never heard of more. Richard Baker still continued to live in seclusion, but he gra¢ ally repurchased his alienated property, although he was known to have spent all he possessed before he left England. But wickedness was not always to prosper. He formed an apparent attachment to a young lady in the neighbourhood, remarkable for always wearing a great many jewels. He often pressed her to come and see his old house, telling her he had many curious things he wished to show her. She had always resisted fixing a day for her visit, but happening to walk within a short distance of his house, she determined to surprise him with a visit; her companion, a lady older than herself, endeavoured to dissuade her from doing so, but she would not be turned from her purpose. They knocked at the door, but no one answered them; they, however, discovered it was not locked, and determined to enter. At the head of the stairs hung a parrot, which on their passing cried out,— “Peepoh, pretty lady, be not too bold, Or your red blood will soon run cold.”</p>
+<p>The Baker family had formerly large possessions in Cranbrook, but in the reign of Edward VI. great misfortunes fell on them; by extravagance and dissipation, they gradually lost all their lands, until an old house in the village (now used as the poor-house) was all that remained to them. The sole representative of the family remaining at the accession of Queen Mary, was Sir Richard Baker. He had spent some years abroad in consequence of a duel; but when, said my informant, Bloody Queen Mary reigned, he thought he might safely return, as he was a Papist. “When he came to Cranbrook he took up his abode in his old house; he only brought one foreign servant with him, and these two lived alone. Very soon strange stories began to be whispered respecting unearthly shrieks having been heard frequently to issue at nightfall from his house. Many people of importance were stopped and robbed in the Glastonbury woods, and many unfortunate travellers were missed and never heard of more. Richard Baker still continued to live in seclusion, but he gradually repurchased his alienated property, although he was known to have spent all he possessed before he left England. But wickedness was not always to prosper. He formed an apparent attachment to a young lady in the neighbourhood, remarkable for always wearing a great many jewels. He often pressed her to come and see his old house, telling her he had many curious things he wished to show her. She had always resisted fixing a day for her visit, but happening to walk within a short distance of his house, she determined to surprise him with a visit; her companion, a lady older than herself, endeavoured to dissuade her from doing so, but she would not be turned from her purpose. They knocked at the door, but no one answered them; they, however, discovered it was not locked, and determined to enter. At the head of the stairs hung a parrot, which on their passing cried out,— “Peepoh, pretty lady, be not too bold, Or your red blood will soon run cold.”</p>
 <p>And cold did run the blood of the adventurous damsel when, on opening one of the room doors, she found it filled with the dead bodies of murdered persons, chiefly women. Just then they heard a noise, and on looking out of the window saw Bloody Baker and his servant bringing in the murdered body of a lady. Nearly dead with fear, they concealed themselves in a recess under the staircase.</p>
 <p>As the murderers with their dead burden passed by them, the hand of the unfortunate murdered lady hung in the baluster of the stairs; with an oath Bloody Baker chopped it off, and it fell into the lap of one of the concealed ladies. As soon as the murderers had passed by, the ladies ran away, having the presence of mind to carry with them the dead hand, on one of the fingers of which was a ring. On reaching home they told their story, and in confirmation of it displayed the ring. All the families who had lost relatives mysteriously were then told of what had been found out; and they determined to ask Baker to a large party, apparently in a friendly manner, but to have constables concealed ready to take him into custody. He came, suspecting nothing, and then the lady told him all she had seen, pretending it was a dream. “Fair lady,” said he, “dreams are nothing: they are but fables.” “They may be fables,” said she; “but is this a fable?” and she produced the hand and ring. Upon this the constables rushed in and took him; and the tradition further says, he was burnt, notwithstanding Queen Mary tried to save him, on account of the religion he professed.<br />
 F. L</p>
 </div>
-<p>As was often the case in <em>Notes and Queries</em>, other correspondents often sought to “clarify” issues further:</p>
+<p>As was often the case in <em>Notes and Queries</em>, other correspondents often sought to “clarify” matters further:</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Testing the veracity of the legend, September 1850</p>
 <p><a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1850-09-14_2_46/page/244/mode/2up">https://archive.org/details/sim_notes-and-queries_1850-09-14_2_46/page/244/mode/2up</a></p>
@@ -613,7 +623,7 @@ F. L</p>
 <p>FOLK LORE</p>
 <p><em>The Legend of Sir Richard Baker</em> (Vol. ii., p. 67.).—  Will F. L. copy the inscription on the monument in Cranbrook Church? The dates on it will test the veracity of the legend. In the reign of Queen Mary, the representative of the family was Sir John Baker, who in that, and the previous reigns of Edward VI. and Henry VIII., had held some of the highest offices in the kingdom. He had been Recorder of London, Speaker of the House of Commons, Attorney-General and Chancellor of the Exchequer, and died in the first year of the reign of Queen Elizabeth. His son. Sir Richard Baker, was twice high-sheriff of the county of Kent, and had the honour of entertaining Queen Elizabeth in her progress through the county. This was, most likely, the person whose monument F. L. saw in Cranbrook Church. The family had been settled there from the time of Edward III., and seem to have been adding continually to their possessions ; and at the time mentioned by F. L. as that of their decline, namely, in the reign of Edward VI., they were in reality increasing in wealth and dignities. If the Sir Richard Baker whose monument is referred to by F. L. was the son of the Sir John above mentioned, the circumstances of his life disprove the legend. He was not the sole representative of the family remaining at the accession of Queen Mary. His father was then living, and at the death of his father his brother John divided with him the representation of the family, and had many descendants. The family estates were not dissipated; on the contrary, they were handed down through successive generations, to one of whom, a grandson of Sir Richard, the dignity of a baronet was given; and Sivinghurst, which was the family seat, was in the possession of the third and last baronet’s grandson, E. S. Beagham, in the year 1730. Add to this that the Sir Richard Baker in question was twice married, and that a monumental erection of the costly and honourable description mentioned by F. L. was allowed to be placed to his memory in the chancel of the church of the parish in which such Bluebeard atrocities are said to have been committed, and abundant grounds will thence appear for rejecting the truth of the legend in the absence of all evidence. The unfortunately red colour of the gloves most likely gave rise to the story. Nor is this a solitary instance of such a legend having such an origin. In the beautiful parish church of Aston, in Warwickshire, are many memorials of the Baronet family of Holt, who owned the adjoining domain and hall, the latter of which still remains, a magnificent specimen of Elizabethan architecture. Either in one of the compartments of a painted window of the church, or upon a monumental marble to one of the Holts, is the Ulster badge, as showing the rank of the deceased, and painted red. From the colour of the badge, a legend of the bloody hand has been created as marvellous as that of the Bloody Baker, so fully detailed by F. L.</p>
 <p>St. Johns.</p>
-<p>[Will our correspondent favour us by communicating the Aston Legend of the Holt Family to which he refers?]</p>
+<p><code class="docutils literal notranslate"><span class="pre">[Will</span> <span class="pre">our</span> <span class="pre">correspondent</span> <span class="pre">favour</span> <span class="pre">us</span> <span class="pre">by</span> <span class="pre">communicating</span> <span class="pre">the</span> <span class="pre">Aston</span> <span class="pre">Legend</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">Holt</span> <span class="pre">Family</span> <span class="pre">to</span> <span class="pre">which</span> <span class="pre">he</span> <span class="pre">refers?]</span></code></p>
 </div>
 <p>As was also frequently the case, the editor’s request at the end of that notice for additional information was also acceded to by another correspondent:</p>
 <div class="dropdown admonition">
@@ -621,6 +631,7 @@ F. L</p>
 <p><a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1850-11-30_2_57/mode/2up?q=Aston+holt">https://archive.org/details/sim_notes-and-queries_1850-11-30_2_57/mode/2up?q=Aston+holt</a>
 Notes and Queries  1850-11-30: Vol 2 Iss 57</p>
 <p><em>Red Hand — Holt Family — Aston Church</em> (Vol. ii, p. 241 <code class="docutils literal notranslate"><span class="pre">[sic;</span> <span class="pre">243]</span></code>).—The tradition is not, I believe, of very ancient date. It is stated that one of the Holt family murdered his cook, and was afterwards compelled to adopt the red hand in his arms. It is, however, obviously only the “Ulster badge” of baronetcy. I have never heard any further particulars of the tradition. ESTE.</p>
+</div>
 <p>Back on the case of Sir Richard Baker, a correspondent a couple of years later sought to debunk the supposed legend:</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Correcting some very extraordinary errors, November 1852</p>
@@ -628,10 +639,9 @@ Notes and Queries  1850-11-30: Vol 2 Iss 57</p>
 Notes and Queries  1852-10-02: Vol 6 Iss 153, pp.318-9</p>
 <p>LEGEND OF SIR RICHARD BAKER.</p>
 <p>(Vol. ii., p. 67.)</p>
-<p>I do not know whether you may think it worth while to refer now to any thing which appeared so long ago as in your 35th Number; but should you be so disposed, you have it in your power to correct some very extraordinary errors committed by your correspondents. I allude to the article at p. 67., headed “ Folk Lore,” and purporting to give an account of what the writer saw and heard in Cranbrook Church with regard to Sir Richard Baker and his monument.</p>
+<p>I do not know whether you may think it worth while to refer now to any thing which appeared so long ago as in your 35th Number; but should you be so disposed, you have it in your power to correct some very extraordinary errors committed by your correspondents. I allude to the article at p. 67., headed “Folk Lore,” and purporting to give an account of what the writer saw and heard in Cranbrook Church with regard to Sir Richard Baker and his monument.</p>
 <p>There does not appear to have been any memorial whatever of the Bakers in Cranbrook Church before the year 1736, when a cumbrous but costly monument was erected in the south aisle by John Baker Dowel, a descendant. The position of this monument was found to be so inconvenient, that some few years ago it was removed to the south chancel, where it at present stands. And now for your correspondent F. L. She says, she saw suspended over his tomb, the gauntlet, gloves, helmet, spurs, &amp;fc. of the deceased; and what particularly attracted her attention was, that the gloves were red. These red gloves are made the foundation of a very pretty story, which is said to be well known at Cranbrook as a tradition. Perhaps you will scarcely believe me, when I say that the whole of this is a pure fiction. There are not, nor ever were there, any gauntlet, gloves, or other monumental insignia of any kind, suspended over Baker’s monument, nor even within sight of it. The banners, helmets, gauntlets, shields, swords, &amp;c., which are the only things of the kind that F. L. could have seen, are in another chancel, and all belong to the ancient family of Roberts of Glassenbury in Cranbrook; as the crest on the helmets, and the blazon on the shields and tabard, undeniably prove.</p>
 <p>Having restored to their rightful owner these red gloves— which, by-the-bye, are more brown than red — let us go to the tradition. The story is wholly unknown in Cranbrook, and I do not believe that F. L. could have heard it there. The only traditional story, which I can discover, relating to the Bakers is this: — Sir John Baker, who was Chancellor of the Exchequer and Privy Counsellor to Henry VIII., Edward VI., and Queen Mary, is said to have rendered himself very obnoxious in consequence of the very prominent part he took in oppressing the followers of the Reformed religion. He, it is said, had procured an order for the burning two culprits, and would have certainly carried the order into execution but that the death of the queen disappointed his intentions. It is said that the news of the queen’s death reached him at a spot where three roads met, and which is now known by the name of Bakers Cross. Whether there be any truth in this legend, I cannot say; but most probably he Obtained the name of Bloody Baker as being the known enemy of the Reformers, and in the same way as his royal mistress obtained the name of Bloody Mary. F. B——w.</p>
-</div>
 </div>
 <p>Whether or not there was any such legend, and whether or not F. L. truly believed it to be the case, the June 1850 article could well have added the tale to the canon of Kentish folk-lore, at least amongst the readership of <em>Notes and Queries</em>.</p>
 </section>
@@ -646,7 +656,7 @@ Notes and Queries  1855-07-28: Vol 12 Iss 300</p>
 <p><em>Blue Beard.</em>—Can any of your correspondents kindly inform me who Blue Beard was? Any information on the subject will oblige. <em>Easby.</em></p>
 <p>[The original Blue Beard was Giles de Laval, Lord of Raiz, who was made Marshal of France in 1429, and in the reigns of Charles VI. and VII. distinguished himself by his courage against the English when they invaded France. The services that he rendered his country might have immortalised his name, had he not for ever blotted his glory by murders, impieties, and debaucheries. Mezeray says that he encouraged and maintained sorcerers to discover hidden treasures, and corrupted young persons of both sexes, that he might attach them to him, and afterwards killed them for the sake of their blood for his charms and incantations. At length, for some state crime against the Duke of Brittany, he was sentenced to be burnt alive in a field at Nantes in 1440. Holinshed notices another Blue Beard in the reign of Henry VI., anno 1450. Speaking of the committal of the Duke of Suffolk to the Tower, he says, “This doing so much displeased the people, that if politike provision had not been made, great mischief had immediately ensued. For the commons in sundry places of the realm assembled together in great companies, and chose to them a captain, whom they called Blue Beard; but ere they had attempted any enterprise, their leaders were apprehended, and so the matter pacified without any hurt committed.”]</p>
 </div>
-<p>The editor’s response seems to provide the basis for the definition of the tale in Chambers’ Enclyclopedia.</p>
+<p>The editor’s response seems to provide the basis for the definition of the tale in Chambers’ Encyclopedia.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">In Chambers’ Encyclopedia, 1868</p>
 <p><a class="reference external" href="https://archive.org/details/chamberssencycl62unkngoog/mode/2up">https://archive.org/details/chamberssencycl62unkngoog/mode/2up</a>
@@ -654,7 +664,19 @@ Chambers’s encyclopædia, Volume II
 Publication date 1868</p>
 <p>p170</p>
 <p>BLUE BEARD, the name given to the hero of a well-known tale of fiction, which is of French origin. According to this romance, the Chevalier Raoul has a blue beard, from which he gets his designation. This personage tests his wife’s curiosity by intrusting her, during his absence on a journey, with the Key of a chamber, which she is forbidden to enter. She is unable to stand the test, and he puts her to death. Several wives share the same fate but at length the seventh is rescued at the last moment by her brothers, and B. is slain. The tale appears in innumerable collections, under various forms. Tieck, in his <em>Phantasus</em>, has worked up this material into a clever drama, with numerous romantic and satirical additions, and Grétry has made use of it in his opera of <em>Raoul</em>.</p>
-<p>The historic crimnal of Chevalier Raoul would appear to be one Giles de Laval, Lord of Raiz, who was made marshal of France in 1429, and fought valiantly in defence of his country when invaded by the English; but his cruelty and wickedness seem to have eclipsed even his bravery, as he is remembered chiefly for his crimes, which credulous tradition has painted in the blackest and most fearful colours. He is said to have taken a pleasure, among other atrocities, in corrupting young persons of both sexes, and afterwards in murdering them for the sake of their blood, which he used m his diabolical incantations. Out of this fact, in itself probably half-mythical, the main feature of the tale of B. has probably grown. Laval was burnt alive in a field near Nantes, in 1440, on account of some state-crime against the Duke of Brittany.</p>
+<p>The historic original of Chevalier Raoul would appear to be one Giles de Laval, Lord of Raiz, who was made marshal of France in 1429, and fought valiantly in defence of his country when invaded by the English; but his cruelty and wickedness seem to have eclipsed even his bravery, as he is remembered chiefly for his crimes, which credulous tradition has painted in the blackest and most fearful colours. He is said to have taken a pleasure, among other atrocities, in corrupting young persons of both sexes, and afterwards in murdering them for the sake of their blood, which he used m his diabolical incantations. Out of this fact, in itself probably half-mythical, the main feature of the tale of B. has probably grown. Laval was burnt alive in a field near Nantes, in 1440, on account of some state-crime against the Duke of Brittany.</p>
+</div>
+<p>The origins of the Blue Beard tale were revisited in <em>Notes &amp; Queries</em> a couple of years later.</p>
+<div class="dropdown admonition">
+<p class="admonition-title">Origins of Blue Beard, Revisited in N&amp;Q, January, 1871</p>
+<p><a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1871-01-14_7_159/mode/2up?q=bluebeard">https://archive.org/details/sim_notes-and-queries_1871-01-14_7_159/mode/2up?q=bluebeard</a>
+Notes and Queries  1871-01-14: Vol 7 Iss 159
+Publication date 1871-01-14</p>
+<p>p29</p>
+<p>Notes.</p>
+<p>BLUEBEARD: ORIGIN OF THE STORY.</p>
+<p>The story of Bluebeard forms one of a collection of the popular nursery tales of France for which we are indebted to Perrault. How far he preserved the exact form in which these tales must have been related to him by some old crone, it is, of course, impossible at the present time to say. It has been asserted that the story is founded on the atrocities imputed to a certain Gilles de Retz, or de Raiz, Sieur de Laval <code class="docutils literal notranslate"><span class="pre">[See</span> <span class="pre">&quot;N.</span> <span class="pre">&amp;</span> <span class="pre">Q.&quot;</span> <span class="pre">1st</span> <span class="pre">S.</span> <span class="pre">xii.</span> <span class="pre">66.—Ed.]</span></code>, who lived in the reign of Charles VII. of France; but the enormities of which this nobleman is said to been guilty bear but little resemblance to the crimes of our hero of the nursery. An incident related in the life of S. Gildas, Abbot of Rhuys, in Brittany, in the sixth century, comes much nearer to the tale which interested us so much in our childish days. A certain Count Conomor was fond of matrimony, but was not desirous of being troubled with the consequences; so whenever his wife gave signs of being likely to become a mother, he made away with her. He was a widower for the fourth, or as some say for the seventh, time, when he sought the hand of Triphyna, daughter of Count Guerech, of Vannes, a young lady of great beauty, who had been educated under the eye of S. Gildas. Both the father and daughter would willingly have declined the proffered honour, but Count Conomor, who was Childebert’s lieutenant in Brittany, and had powerful friends at court, insisted in his suit, and gave it to be understood that if his demand were not acceded to he was quite ready to enforce it at the point of the sword. S. Gildas, wishing to avert a disastrous war, undertook to intercede, and was successful in bringing about the desired alliance, on the condition, however, that if Conomor should get tired of his wife he should send her back to her father. The wedding was kept at Vannes with great pomp, and Conomor carried off his bride to his own castle, but before many months had elapsed, the countess, who was far advanced in her pregnancy, perceived that her husband’s manner towards her was entirely changed, and, fearing the fate of his former wives, resolved to take refuge with her father. Watching her opportunity, she mounted one morning on a fleet horse, and, accompanied by a few faithful followers, galloped off in the direction of Vannes. Her husband was informed of her flight, and pursued her. As he gained upon her, and she perceived that her capture was almost inevitable, she threw herself from her horse and endeavoured to conceal herself in the deep recesses of a forest, but she was discovered by her brutal lord, who, with one stroke of his sword, severed her head from her body. S. Gildas, on being informed of what had happened, hastened to the spot, replaced the head on the body, and by his prayers restored the lady to life. She was shortly afterwards safely delivered of a son, who was baptised by S. Gildas, and called by his name, to which, by way of distinction, was afterwards added that of Trech-meur or Tremeur. Such is the legend as told by the Breton hagiographers Père Albert le Grand and Dom Gui-Alexis Lobineau. But now comes a fact. as related by M. Hippolyte Violeau, in a work entitled <em>Pélerinagen de Bretagne</em>, which renders it almost certain that Perrault’s tale is founded on the legend. He says that in January, 1850, in repairing the vault of the chapel of S. Nicolas-de-Bieuzy, some ancient frescoes were discovered with scenes from the life of S. Triphyna: the marriage—the husband taking leave of his wife, and entrusting a key to her—a room with an open door, through which are seen the corpses of seven women hanging—the husband threatening his wife while another female is looking out of a window above—and finally, in the last picture, when the husband has placed a halter round the neck of his victim, the opportune arrival of her friends, accompanied by S. Gildas. If these frescoes are really of the early date assigned to them, they probably represent the popular form of the legend, with some additional incidents which have not been thought worthy of record by the hagiographers, and there can be no doubt whence the nursery tale derives its origin.</p>
+<p>Guernsey, Edgar MacCulloch</p>
 </div>
 <p>A more comprehensive history is provided in Chamber’s <em>Book of Days</em>:</p>
 <div class="dropdown admonition">
@@ -674,7 +696,7 @@ by Chambers, Robert, 1802-1871</p>
 <p>Probably on account of some personal peculiarity, Giles de Laval became remembered as <em>Barbe-bleue</em>, whence our <em>Bluebeard</em>. It seems to have speedily become a name of terror; for Holinshed, speaking of the committal of the Duke of Suffolk to the Tower, in the reign of Henry VI., says: ‘This doing so much displeased the people, that if politic provision had not been made, great mischief had immediately ensued. For the commons, in sundry places of the realm, assembled together in great companies, and chose to them a captain, whom they called <em>Bluebeard</em>; but ere they had attempted any enterprise, their leaders were apprehended, so that the matter was pacified without any hurt committed.’</p>
 <p>As to the children’s <em>Bluebeard</em>, it was written by Perrault in the time of Louis XIV., and has been translated from the French into nearly all the languages of Europe. This Bluebeard’s propensity is not to kill children, but to marry wife after wife in succession, kill them, and deposit them in the fatal closet which curiosity would not leave untouched. We all know how another victim was saved, and how <em>Bluebeard</em> met his death.</p>
 </div>
-<p>A description of “the original Blue Beard” in  Doran’s <em>Knights and their days</em>, 1890, is preceded by another grisly tale of a bad-tempered knight which to my mind has echoes of the historical tale behind the song <em>“The Raggle Taggle Gypsy”</em>, and the tragedy of Lady Jean Hamilton.</p>
+<p>A description of “the original Blue Beard” in Doran’s <em>Knights and their days</em>, 1890, is preceded by another grisly tale of a bad-tempered knight, which to my mind has echoes of the historical tale behind the song <em>“The Raggle Taggle Gypsy”</em>, and the tragedy of Lady Jean Hamilton.</p>
 <div class="dropdown seealso admonition">
 <p class="admonition-title">A strong reaction to a wife’s perceived unfaithfulness, 1890</p>
 <p><a class="reference external" href="https://archive.org/details/knightstheirdays00dora/page/36/mode/2up">https://archive.org/details/knightstheirdays00dora/page/36/mode/2up</a>
@@ -683,19 +705,8 @@ by Doran, Dr. (John), 1807-1878</p>
 <p>Publication date 1890</p>
 <p>pp57-9</p>
 <p>… An exemplification is afforded us in Gallenga’s History of Piedmont. It will serve to show how absolute a master a powerful knight and noble was in his own house. Thus, from Gallenga we learn that Antonio Grimaldi, a nobleman of Chieri, had become convinced of the faithlessness of his wife. He compelled her to hang up with her own hand her paramour to the ceiling of her chamber; then he had the chamber walled up, doors and windows, and only allowed the wretched woman as much air and light, and administered with his own hand as much food and drink, as would indefinitely prolong her agony. And so he watched her, and tended her with all that solicitude which hatred can suggest as well as love, and left her to grope alone in that blind solitude, with the mute testimony of her guilt — a ghastly object on which her aching eyes were riveted, day by day, night after night, till it had passed through every loathsome stage of decomposition. This man was surely worse in his vengeance than that Sir Giles do Laval, who has come down to us under the name of BlueBeard.</p>
-<p>This celebrated personage, famous by his pseudonym, was not less so in his own proper person. There was not a braver knight in France, during the reigns of Charles VI. and VII., than this Marquis de Laval, Marshal of France. The English feared him almost as much as they did the Pucelle. The household of this brave gentleman was, however, a hell upon earth; and licentiousness, blasphemy, attempts at sorcery, and, more than attempts at, very successful realizations of, murder were the little foibles of this man of many wives. He excelled the most extravagant monarchs in bis boundless profusion, and in tbe barbaric splendor of his court or house: the latter was thronged with ladies of very light manners, players, mountebanks, pretended magicians, and as many cooks as Julian found in the palace of his predecessor at Constantinople. There were two hundred saddle-horses in his stable, and he had a greater variety of dogs than could now be found at any score of “fanciers” of that article. He employed the magicians for a double purpose. They undertook to discover treasures for his use, and pretty handmaids to tend on his illustrious person, or otherwise amuse him by the display of their accomplishments. Common report said that these young persons were slain after a while, their blood being of much profit in making incantations, the object of which was the discovery of gold. Much exaggeration magnified his misdeeds, which were atrocious enough in their plain, unvarnished infamy. At length justice overtook this monster. She did not lay hold of him for his crimes against society, but for a peccadillo which offended the Duke of Brittany. Giles de Laval, for this offence, was burnt at Nantes, after being strangled — such mercy having been vouchsafed to him, because he was a gallant knight and gentleman, and of course was not to be burnt alive like any petty villain of peasant degree. He had a moment of weakness at last, and just previous to the rope being tightened round his neck, he publicly declared that he should never have come to that pass, nor have committed so many excesses, had it not been for his wretched education. Thus are men, shrewd enough to drive bargains, and able to discern between virtue and vice, ever ready, when retribution falls on them at the scaffold, to accuse their father, mother, schoolmaster, or spiritual pastor. Few are like the knight of the road, who, previous to the cart sliding from under him, at Tyburn, remarked that he had the satisfaction, at least, of knowing that the position he had attained in society was owing entirely to himself. “May I be hanged,” said he, “if that isn’t the fact.” The finisher of the law did not stop to argue the question with him, but, on cutting him down, remarked, with the gravity of a cardinal before breakfast, that the gentleman had wronged the devil and the ladies, in attributing his greatness so exclusively to his own exertions.</p>
+<p>This celebrated personage, famous by his pseudonym, was not less so in his own proper person. There was not a braver knight in France, during the reigns of Charles VI. and VII., than this Marquis de Laval, Marshal of France. The English feared him almost as much as they did the Pucelle. The household of this brave gentleman was, however, a hell upon earth; and licentiousness, blasphemy, attempts at sorcery, and, more than attempts at, very successful realizations of, murder were the little foibles of this man of many wives. He excelled the most extravagant monarchs in his boundless profusion, and in the barbaric splendor of his court or house: the latter was thronged with ladies of very light manners, players, mountebanks, pretended magicians, and as many cooks as Julian found in the palace of his predecessor at Constantinople. There were two hundred saddle-horses in his stable, and he had a greater variety of dogs than could now be found at any score of “fanciers” of that article. He employed the magicians for a double purpose. They undertook to discover treasures for his use, and pretty handmaids to tend on his illustrious person, or otherwise amuse him by the display of their accomplishments. Common report said that these young persons were slain after a while, their blood being of much profit in making incantations, the object of which was the discovery of gold. Much exaggeration magnified his misdeeds, which were atrocious enough in their plain, unvarnished infamy. At length justice overtook this monster. She did not lay hold of him for his crimes against society, but for a peccadillo which offended the Duke of Brittany. Giles de Laval, for this offence, was burnt at Nantes, after being strangled — such mercy having been vouchsafed to him, because he was a gallant knight and gentleman, and of course was not to be burnt alive like any petty villain of peasant degree. He had a moment of weakness at last, and just previous to the rope being tightened round his neck, he publicly declared that he should never have come to that pass, nor have committed so many excesses, had it not been for his wretched education. Thus are men, shrewd enough to drive bargains, and able to discern between virtue and vice, ever ready, when retribution falls on them at the scaffold, to accuse their father, mother, schoolmaster, or spiritual pastor. Few are like the knight of the road, who, previous to the cart sliding from under him, at Tyburn, remarked that he had the satisfaction, at least, of knowing that the position he had attained in society was owing entirely to himself. “May I be hanged,” said he, “if that isn’t the fact.” The finisher of the law did not stop to argue the question with him, but, on cutting him down, remarked, with the gravity of a cardinal before breakfast, that the gentleman had wronged the devil and the ladies, in attributing his greatness so exclusively to his own exertions.</p>
 <p>I have said that perhaps Blue-Beard’s little foibles have been exaggerated; but, on reflection, I am not sure that this pleasant hypothesis can be sustained.</p>
-</div>
-<div class="dropdown admonition">
-<p class="admonition-title">Origins of Blue Beard, Revisited in N&amp;Q, January, 1871</p>
-<p><a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1871-01-14_7_159/mode/2up?q=bluebeard">https://archive.org/details/sim_notes-and-queries_1871-01-14_7_159/mode/2up?q=bluebeard</a>
-Notes and Queries  1871-01-14: Vol 7 Iss 159
-Publication date 1871-01-14</p>
-<p>p29</p>
-<p>Notes.</p>
-<p>BLUEBEARD: ORIGIN OF THE STORY.</p>
-<p>The story of Bluebeard forms one of a collection of the popular nursery tales of France for which we are indebted to Perrault. How far he preserved the exact form in which these tales must have been related to him by some old crone, it is, of course, impossible at the present time to say. It has been asserted that the story is founded on the atrocities imputed to a certain Gilles de Retz, or de Raiz, Sieur de Laval <code class="docutils literal notranslate"><span class="pre">[See</span> <span class="pre">&quot;N.</span> <span class="pre">&amp;</span> <span class="pre">Q.&quot;</span> <span class="pre">1st</span> <span class="pre">S.</span> <span class="pre">xii.</span> <span class="pre">66.—Ed.]</span></code>, who lived in the reign of Charles VII. of France; but the enormities of which this nobleman is said to been guilty bear but little resemblance to the crimes of our hero of the nursery. An incident related in the life of S. Gildas, Abbot of Rhuys, in Brittany, in the sixth century, comes much nearer to the tale which interested us so much in our childish days. A certain Count Conomor was fond of matrimony, but was not desirous of being troubled with the consequences; so whenever his wife gave signs of being likely to become a mother, he made away with her. He was a widower for the fourth, or as some say for the seventh, time, when he sought the hand of Triphyna, daughter of Count Guerech, of Vannes, a young lady of great beauty, who had been educated under the eye of S. Gildas. Both the father and daughter would willingly have declined the proffered honour, but Count Conomor, who was Childebert’s lieutenant in Brittany, and had powerful friends at court, insisted in his suit, and gave it to be understood that if his demand were not acceded to he was quite ready to enforce it at the point of the sword. S. Gildas, wishing to avert a disastrous war, undertook to intercede, and was successful in bringing about the desired alliance, on the condition, however, that if Conomor should get tired of his wife he should send her back to her father. The wedding was kept at Vannes with great pomp, and Conomor carried off his bride to his own castle, but before many months had elapsed, the countess, who was far advanced in her pregnancy, perceived that her husband’s manner towards her was entirely changed, and, fearing the fate of his former wives, resolved to take refuge with her father. Watching her opportunity, she mounted one morning on a fleet horse, and, accompanied by a few faithful followers, galloped off in the direction of Vannes. Her husband was informed of her flight, and pursued her. As he gained upon her, and she perceived that her capture was almost inevitable, she threw herself from her horse and endeavoured to conceal herself in the deep recesses of a forest, but she was discovered by her brutal lord, who, with one stroke of his sword, severed her head from her body. S. Gildas, on being informed of what had happened, hastened to the spot, replaced the head on the body, and by his prayers restored the lady to life. She was shortly afterwards safely delivered of a son, who was baptised by S. Gildas, and called by his name, to which, by way of distinction, was afterwards added that of Trech-meur or Tremeur. Such is the legend as told by the Breton hagiographers Père Albert le Grand and Dom Gui-Alexis Lobineau. But now comes a fact. as related by M. Hippolyte Violeau, in a work entitled <em>Pélerinagen de Bretagne</em>, which renders it almost certain that Perrault’s tale is founded on the legend. He says that in January, 1850, in repairing the vault of the chapel of S. Nicolas-de-Bieuzy, some ancient frescoes were discovered with scenes from the life of S. Triphyna: the marriage—the husband taking leave of his wife, and entrusting a key to her—a room with an open door, through which are seen the corpses of seven women hanging—the husband threatening his wife while another female is looking out of a window above—and finally, in the last picture, when the husband has placed a halter round the neck of his victim, the opportune arrival of her friends, accompanied by S. Gildas. If these frescoes are really of the early date assigned to them, they probably represent the popular form of the legend, with some additional incidents which have not been thought worthy of record by the hagiographers, and there can be no doubt whence the nursery tale derives its origin.</p>
-<p>Guernsey, Edgar MacCulloch</p>
 </div>
 </section>
 <section id="the-count-s-daughter">
@@ -735,7 +746,7 @@ Thou ‘rt marching swiftly to death along!</p>
 <p>Now, putting aside the mere mention of blood and such-like horrors, the one point of similarity between this tale and that of ‘The Count’s Daughter, or ‘Mr. Fox’ is the concluding scene of the tale-telling. And on this it must be observed that the solution of the plot of many a folk-tale is brought about by the device of telling tales at a great gathering; nor could any device seem more natural than this to the audience, however farfetched it may appear to us. Moreover, the narration is perpetually interrupted in ‘Mr. Fox’ and most of its congeners by exclamations on the part of the narrator or of the villain, in a formula intended to allay the suspicions of the company up to the moment when the final and damning proof is produced. ‘The Count’s Daughter,’ indeed, omits this striking detail, though it represents the ruffians as taking part in the conversation; but the incident is assuredly absent from the Dutch story just cited. Much stress need not be laid on this absence, for a claim to any organic connexion between ‘Bluebeard’ and ‘Mr. Fox’ must rest upon a broader ground than this concluding scene in one variant. ‘The case for such a connexion would probably be based on the wooing of an innocent maiden by a murderer and the deeds of blood performed in his den. This, at least, seems to have been what Grimm had in his mind. ‘Bluebeard,’ however, belongs to a class of stories whose central thought is a <em>taboo</em>; and the utter want of the <em>taboo</em>, either express or implied, in the group now under consideration would put this contention out of court. Yet it may be worthy of inquiry whether ‘Mr. Fox’ and the rest may not have developed independently from a germ common to them and ‘The Forbidden Chamber.’ Such a germ might, perhaps, be a story like that of ‘The Man possessed with a Na,’ told among the Karens, or the Swabian tale of ‘The Robber and the Miller’s Twelve Daughters’ (both of which I have abstracted in the article before referred to), or some of the variants of ‘Lady Isabel and the Elf-Knight,’ given by Prof. Child in ‘The English and Scottish Popular Ballads,’ pt. i. p. 22. Let me suggest this query to folk-lore students interested in the subject.</p>
 <p>E. Sidney Hartland. Swansea.</p>
 </div>
-<p>With Hartland having called out a variant of <em>Fitcher’s Bird,</em> as having some resemblance to <em>Mr. Fox</em>, the note referred to in Hunt’s translation of <em>Grimm’s household tales</em>  a couple of years earlier likens <em>Fitcher’s Bird</em> to <em>Bluebeard</em>.</p>
+<p>With Hartland having called out a variant of <em>Fitcher’s Bird,</em> as also having some resemblance to <em>Mr. Fox</em>, the note referred to in Hunt’s translation of <em>Grimm’s household tales</em> a couple of years earlier had likened <em>Fitcher’s Bird</em> to <em>Bluebeard</em>.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Visibly containing the saga of <em>Bluebeard</em>, 1884</p>
 <p><a class="reference external" href="https://archive.org/details/grimmshouseholdt01grim/page/394/mode/2up">https://archive.org/details/grimmshouseholdt01grim/page/394/mode/2up</a>
@@ -753,12 +764,12 @@ Sweet love dost thou repent?”</p>
 <p>(“‘t maantje schynt zo hel,<br />
 myn paardtjes lope zo snel,<br />
 soete liefje, rouwt ‘t w niet?”) <code class="docutils literal notranslate"><span class="pre">[This</span> <span class="pre">recals</span> <span class="pre">the</span> <span class="pre">well-known</span> <span class="pre">song</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">dead</span> <span class="pre">rider,</span> <span class="pre">which</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">Norwegian</span> <span class="pre">popular</span> <span class="pre">rhyme</span> <span class="pre">runs,</span> <span class="pre">&quot;maanen</span> <span class="pre">skine,</span> <span class="pre">dömand</span> <span class="pre">grine,</span> <span class="pre">värte</span> <span class="pre">du</span> <span class="pre">ikke</span> <span class="pre">räd</span> <span class="pre">(Idunna,</span> <span class="pre">1812,</span> <span class="pre">p.</span> <span class="pre">60).</span> <span class="pre">Compare</span> <span class="pre">Altdeutsche</span> <span class="pre">Blätter,</span> <span class="pre">i.</span> <span class="pre">194.]</span></code></p>
-<p>“No,” she answered, “why should I repent? I am always safe when with you;” nevertheless she was secretly alarmed. They came into a great forest, and she asked if they would soon reach the end of their journey. “Yes,” he replied, “Dost thou see that light in the distance, there stands my castle.” Then they arrived there and everything was most beautiful. Next day he said to her, “I must go away, but I will only be absent two days; here are the keys of the entire castle, and thou mayst see of what kind of treasures thou art the mistress.” When he had set out on his journey, she went through the whole house and found everything so beautiful that she was perfectly satisfied. At length she came to a cellar wherein sat an old woman scraping intestines. “Well, little mother, what may you be doing?” said the girl. “I am scraping intestines, my child; to-morrow, I will scrape yours for you.” Thereupon the girl was so terrified that she let the key which she was holding in her hand fall into a basin full of blood, which it was not easy to wash off again. “Now,” said the old woman, “Your death is certain, because my lord will see by that key that you have been in this chamber, into which no one is permitted to enter except himself and me.” Then the old woman perceived that at this very moment a cart of hay was going to be driven away from the castle, and said, “If thou wonld’st save thy life, hide thyself in the hay, and then thou wilt be driven away with it.” This she did, and got safely out. AVhen the lord came home however, he asked for the girl. “ O,” said the old woman, “I had no more work, and as it had to be done tomorrow anyhow, I killed her at once; here is a lock of her hair and her heart, and there too is some blood which is still warm; the dogs have eaten all the rest of her, but I am still cleaning her intestines.” So he was satisfied, and believed that the girl was dead. She had, however, arrived at a castle to whose owner the cart of hay had been sold. She sprang out, and told the lord of the castle all that had happened. He asked her to stay there, and after some time gave a feast to the noblemen of the neighbourhood, and the lord of the murder-castle was invited too. The girl was forced to seat herself at table, but her face and dress were so changed that she was not recognizable. When they were all sitting together every one was to tell a story, and when it was the maiden’s turn, she related her own. During this the lord of the murder-castle became so very uneasy that he wished to force his way out, but the lord of the castle had him seized and bound. Then he was executed, his murder-castle was pulled down, and the maiden received his treasures. She married the son of the lord of the castle where she had taken refuge, and lived to an old age. In Swedish, compare a popular ballad in Geyer and Afzelius (3. 94.) In Asbjörnsen (p. 237) there is a Norwegian tale. In <em>The Thousand and One Nights</em>, in the <em>Story of the third Kalender</em> (Night 66), the prohibition against entering a certain room in a palace likewise appears, and disregard of it is punished.</p>
+<p>“No,” she answered, “why should I repent? I am always safe when with you;” nevertheless she was secretly alarmed. They came into a great forest, and she asked if they would soon reach the end of their journey. “Yes,” he replied, “Dost thou see that light in the distance, there stands my castle.” Then they arrived there and everything was most beautiful. Next day he said to her, “I must go away, but I will only be absent two days; here are the keys of the entire castle, and thou mayst see of what kind of treasures thou art the mistress.” When he had set out on his journey, she went through the whole house and found everything so beautiful that she was perfectly satisfied. At length she came to a cellar wherein sat an old woman scraping intestines. “Well, little mother, what may you be doing?” said the girl. “I am scraping intestines, my child; to-morrow, I will scrape yours for you.” Thereupon the girl was so terrified that she let the key which she was holding in her hand fall into a basin full of blood, which it was not easy to wash off again. “Now,” said the old woman, “Your death is certain, because my lord will see by that key that you have been in this chamber, into which no one is permitted to enter except himself and me.” Then the old woman perceived that at this very moment a cart of hay was going to be driven away from the castle, and said, “If thou wonld’st save thy life, hide thyself in the hay, and then thou wilt be driven away with it.” This she did, and got safely out. AVhen the lord came home however, he asked for the girl. “O,” said the old woman, “I had no more work, and as it had to be done tomorrow anyhow, I killed her at once; here is a lock of her hair and her heart, and there too is some blood which is still warm; the dogs have eaten all the rest of her, but I am still cleaning her intestines.” So he was satisfied, and believed that the girl was dead. She had, however, arrived at a castle to whose owner the cart of hay had been sold. She sprang out, and told the lord of the castle all that had happened. He asked her to stay there, and after some time gave a feast to the noblemen of the neighbourhood, and the lord of the murder-castle was invited too. The girl was forced to seat herself at table, but her face and dress were so changed that she was not recognizable. When they were all sitting together every one was to tell a story, and when it was the maiden’s turn, she related her own. During this the lord of the murder-castle became so very uneasy that he wished to force his way out, but the lord of the castle had him seized and bound. Then he was executed, his murder-castle was pulled down, and the maiden received his treasures. She married the son of the lord of the castle where she had taken refuge, and lived to an old age. In Swedish, compare a popular ballad in Geyer and Afzelius (3. 94.) In Asbjörnsen (p. 237) there is a Norwegian tale. In <em>The Thousand and One Nights</em>, in the <em>Story of the third Kalender</em> (Night 66), the prohibition against entering a certain room in a palace likewise appears, and disregard of it is punished.</p>
 </div>
 </section>
-<section id="hartland-s-note-on-the-forbidden-chamber">
-<h2>Hartland’s Note on <em>“The Forbidden Chamber”</em><a class="headerlink" href="#hartland-s-note-on-the-forbidden-chamber" title="Link to this heading">#</a></h2>
-<p>Hartland’s reply in <em>N&amp;Q</em> elaborating his thoughts on <em>The Count’s Daughter</em> also referenced his earlier and more substantial work published in the <em>Folk-Lore jounrnal</em> in 1885 on “The Forbidden Chamber”, and in particular his notes describing the Blue Beard tale as an example of the invocation of that story device.</p>
+<section id="in-hartland-s-note-on-the-forbidden-chamber">
+<h2>In Hartland’s Note on <em>“The Forbidden Chamber”</em><a class="headerlink" href="#in-hartland-s-note-on-the-forbidden-chamber" title="Link to this heading">#</a></h2>
+<p>Hartland’s reply in <em>N&amp;Q</em> elaborating his thoughts on <em>The Count’s Daughter</em> also referenced his earlier and more substantial work published in the <em>Folk-Lore journal</em> in 1885 on “The Forbidden Chamber”. The opening part of that article described in some detail how the Blue Beard tale worked as an example of the invocation of that story device.</p>
 <p><em>The style of the article is typical of the new wave of “scientific folklore” being developed a the time, and takes the scholarship rather further than I typically go in putting together my own storynotes.</em></p>
 <div class="dropdown admonition">
 <p class="admonition-title">The Forbidden Chamber</p>
@@ -782,7 +793,7 @@ vol. iii, p. 207</p>
 <p>I.</p>
 <p>I have placed Bluebeard first in the list because it is under this form that the myth of The Forbidden Chamber is best known to us. It is probably not an early development of the myth: indeed, reasons are not wanting for supposing that it may be one of the latest. But it is perhaps the one most widely scattered in Western Europe. The story as found in English chap-books is not an independent version, but a free translation of that given by Perrault. It may be summed up in the following formula:— A woman married to a monster disobeys in her husband’s absence his prohibition to open the door of a certain room. On his return he discovers her disobedience, and is about to put her to death when she is rescued and her husband killed. The details have been so familiar to us from our childhood that I need not waste time over any of them, but will at once pass on to other versions. The nearest I have found in any foreign collection is a Swabian tale related by Meier and entitled “King Bluebeard.” <code class="docutils literal notranslate"><span class="pre">[Deutsche</span> <span class="pre">Volksmärchen</span> <span class="pre">aus</span> <span class="pre">Schwaben,</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">38,</span> <span class="pre">p,</span> <span class="pre">134.]</span></code> It may be worth while to abstract this at some length. It runs thus:— A man who has three sons and two daughters lives in a wood. A splendid carriage drives one day to the door; and a gentleman stepping out asks the man for his younger daughter as wife. The maiden objects; but her brothers overcome her reluctance, and give her a whistle, telling her in case of need to blow on it and they will come to her help. She accordingly marries the stranger, who is called King Bluebeard; and her sister accompanies her to his castle. One day her husband goes away on a journey, leaving her his keys, but forbidding her for her life to open the door to which the little golden key belongs. For the first three days her sister keeps her from disobeying; but on the fourth the temptation is too strong: she opens the door, to find the chamber within full of the corpses of Bluebeard’s former wives. The key falls into their blood; nor, however much she rub, can she clean the bloodstains off it. By them her husband on his return discovers her disobedience; and he orders her to prepare for death. Her sister bethinks her of the whistle and blows upon it thrice. Bluebeard growing impatient comes upstairs after his victim. Meantime the sister is watching for her brothers; and a dialogue takes place between the sisters as in Perrault’s tale. At last the brothers arrive and burst into the house just as Bluebeard is breaking open the door of his wife’s room. They slay him, seize his treasure and destroy the castle.</p>
 <p>This version is at once seen to be practically identical with that of Perrault; and indeed Grimm expresses the opinion that it is derived from the French. <code class="docutils literal notranslate"><span class="pre">[Kinder-</span> <span class="pre">und</span> <span class="pre">Haus-</span> <span class="pre">märchen,</span> <span class="pre">vol.</span> <span class="pre">iii.</span> <span class="pre">p.</span> <span class="pre">74.</span> <span class="pre">He</span> <span class="pre">also</span> <span class="pre">states</span> <span class="pre">that</span> <span class="pre">it</span> <span class="pre">admittedly</span> <span class="pre">represents</span> <span class="pre">a</span> <span class="pre">folk-song</span> <span class="pre">of</span> <span class="pre">Ulrich</span> <span class="pre">and</span> <span class="pre">Anne,</span> <span class="pre">where,</span> <span class="pre">however,</span> <span class="pre">there</span> <span class="pre">is</span> <span class="pre">no</span> <span class="pre">mention</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">blue</span> <span class="pre">beard.</span> <span class="pre">In</span> <span class="pre">Grimm's</span> <span class="pre">first</span> <span class="pre">edition</span> <span class="pre">appeared</span> <span class="pre">a</span> <span class="pre">tale</span> <span class="pre">which</span> <span class="pre">he</span> <span class="pre">had</span> <span class="pre">collected,</span> <span class="pre">but</span> <span class="pre">being</span> <span class="pre">in</span> <span class="pre">doubt</span> <span class="pre">whether</span> <span class="pre">it</span> <span class="pre">also</span> <span class="pre">did</span> <span class="pre">not</span> <span class="pre">owe</span> <span class="pre">its</span> <span class="pre">origin</span> <span class="pre">to</span> <span class="pre">the</span> <span class="pre">French</span> <span class="pre">he</span> <span class="pre">afterwards</span> <span class="pre">omitted</span> <span class="pre">it.</span> <span class="pre">It</span> <span class="pre">differed</span> <span class="pre">from</span> <span class="pre">Perrault's</span> <span class="pre">version</span> <span class="pre">only</span> <span class="pre">in</span> <span class="pre">two</span> <span class="pre">particulars.</span> <span class="pre">Sister</span> <span class="pre">Anne</span> <span class="pre">was</span> <span class="pre">not</span> <span class="pre">introduced;</span> <span class="pre">and</span> <span class="pre">the</span> <span class="pre">heroine</span> <span class="pre">laid</span> <span class="pre">the</span> <span class="pre">key</span> <span class="pre">in</span> <span class="pre">hay,</span> <span class="pre">in</span> <span class="pre">accordance</span> <span class="pre">with</span> <span class="pre">an</span> <span class="pre">old</span> <span class="pre">superstition</span> <span class="pre">that</span> <span class="pre">hay</span> <span class="pre">will</span> <span class="pre">take</span> <span class="pre">out</span> <span class="pre">bloodstains.</span> <span class="pre">I</span> <span class="pre">cite</span> <span class="pre">Grimm's</span> <span class="pre">notes</span> <span class="pre">from</span> <span class="pre">the</span> <span class="pre">3rd</span> <span class="pre">edition</span> <span class="pre">(in</span> <span class="pre">three</span> <span class="pre">vols.),</span> <span class="pre">Gottingen,</span> <span class="pre">1856;</span> <span class="pre">the</span> <span class="pre">stories</span> <span class="pre">from</span> <span class="pre">the</span> <span class="pre">7th</span> <span class="pre">edition,</span> <span class="pre">Berlin,</span> <span class="pre">1880.]</span></code> The centre of the story is the wife’s disobedience, which in most of the tales of this type varies but slightly in its circumstances. A few differences may, however, be noted. In the Swabian story the heroine’s sister plays a part, in endeavouring to dissuade her from opening the Forbidden Chamber, which is not very usual in fairy-tales. Generally the heroine’s sisters lead her into mischief, as for example in stories of the Cupid and Psyche group; and in at least one version of the tale we are now considering a sister plays the same unlucky part and slinks away when the disobedience is discovered. <code class="docutils literal notranslate"><span class="pre">[Kreutzwald,</span> <span class="pre">Ehstnische</span> <span class="pre">Märchen,</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">20,</span> <span class="pre">p.</span> <span class="pre">273.]</span></code> But the faithful sister who advises obedience represents the friends who in Perrault’s tale by their presence retard the gratification of the heroine’s curiosity. In the Tuscan story of “The Three Cauliflowers” <code class="docutils literal notranslate"><span class="pre">[Tuscan</span> <span class="pre">Fairy</span> <span class="pre">Tales,</span> <span class="pre">p.</span> <span class="pre">63.]</span></code> a little lap-dog appears and protests against the opening of the closet which contains the dead wives; but the heroine’s two sisters, who preceded her in the economy of the Mago’s household, if not in his affections, having come to grief through disregarding these protests, the heroine is applauded for putting the dog to death to prevent his telling tales of her. In another Tuscan tale <code class="docutils literal notranslate"><span class="pre">[Imbriani,</span> <span class="pre">La</span> <span class="pre">Novellaja</span> <span class="pre">Fiorentina,</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">23,</span> <span class="pre">p.</span> <span class="pre">290.]</span></code> the monster distinctly threatens that the bitch, which is the only servant in his castle, will tell him if his wife disobey. The heroine in the Icelandic story of “A Giant Tricked,” <code class="docutils literal notranslate"><span class="pre">[Powell</span> <span class="pre">and</span> <span class="pre">Magnusson,</span> <span class="pre">Icelandic</span> <span class="pre">Legends,</span> <span class="pre">2nd</span> <span class="pre">series,</span> <span class="pre">p.</span> <span class="pre">498.]</span></code> seeking for a certain little dog, finds him lying before the door of a room which the giant forbids her to enter; but in this case the dog himself offers no opposition.</p>
-<p>The contents of the chamber are usually, as in the typical tale, the monster’s previous wives. They are not always dead <code class="docutils literal notranslate"><span class="pre">[Ibid.;</span> <span class="pre">Imbriani,</span> <span class="pre">op.</span> <span class="pre">cit.</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">1,</span> <span class="pre">p.</span> <span class="pre">7;</span> <span class="pre">Webster,</span> <span class="pre">Basque</span> <span class="pre">Legends,</span> <span class="pre">p.</span> <span class="pre">173.]</span></code>; sometimes only their heads are found <code class="docutils literal notranslate"><span class="pre">[Krentzwald,</span> <span class="pre">Ehstniche</span> <span class="pre">Märchen,</span> <span class="pre">loc.</span> <span class="pre">cit.]</span></code>; sometimes bodies whose sex is unrecorded <code class="docutils literal notranslate"><span class="pre">[Grimm,</span> <span class="pre">op.</span> <span class="pre">cit.</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">46,</span> <span class="pre">p.</span> <span class="pre">177;</span> <span class="pre">Webster,</span> <span class="pre">loc.</span> <span class="pre">cit.;</span> <span class="pre">Folk-Lore</span> <span class="pre">Record,</span> <span class="pre">vol.</span> <span class="pre">iv.</span> <span class="pre">p.</span> <span class="pre">152.]</span></code>; a prince is occasionally discovered in rather a sad plight <code class="docutils literal notranslate"><span class="pre">[Schmidt,</span> <span class="pre">Griecheche</span> <span class="pre">Märchen,</span> <span class="pre">&amp;c.</span> <span class="pre">M.</span> <span class="pre">No.</span> <span class="pre">12,</span> <span class="pre">p.</span> <span class="pre">93;</span> <span class="pre">Imbriani,</span> <span class="pre">loc.</span> <span class="pre">cit.;</span> <span class="pre">Webster,</span> <span class="pre">loc.</span> <span class="pre">cit]</span></code>; and in one group of tales, where the heroine weds the Devil, the door closes the entrance to hell <code class="docutils literal notranslate"><span class="pre">[Schneller,</span> <span class="pre">Märchen,</span> <span class="pre">&amp;c.</span> <span class="pre">aus</span> <span class="pre">Wälschtirol,</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">31,</span> <span class="pre">p.</span> <span class="pre">86;</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">32,</span> <span class="pre">p.</span> <span class="pre">88,</span> <span class="pre">p.</span> <span class="pre">187</span> <span class="pre">;</span> <span class="pre">Busk,</span> <span class="pre">Household</span> <span class="pre">Stories</span> <span class="pre">from</span> <span class="pre">the</span> <span class="pre">Land</span> <span class="pre">of</span> <span class="pre">Hofer,</span> <span class="pre">p.</span> <span class="pre">278</span> <span class="pre">;</span> <span class="pre">Bernoni,</span> <span class="pre">Fiabe</span> <span class="pre">Popolari</span> <span class="pre">Vencziane,</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">3,</span> <span class="pre">p.</span> <span class="pre">16</span> <span class="pre">;</span> <span class="pre">Visentini,</span> <span class="pre">Fiabe</span> <span class="pre">Mantovane,</span> <span class="pre">p.</span> <span class="pre">181.]</span></code>. In the Greek story of “The Trimmatos,” <code class="docutils literal notranslate"><span class="pre">[Legrand,</span> <span class="pre">Contes</span> <span class="pre">Populaires</span> <span class="pre">Grecs,</span> <span class="pre">p.</span> <span class="pre">115.]</span></code> the wife entering the Forbidden Chamber looks through its window, and for the first time beholds her husband in his true character of a ghoul of monstrous form. But accompanying the dead bodies the heroine occasionally finds the elixir which is capable of restoring them to life <code class="docutils literal notranslate"><span class="pre">[Tuscan</span> <span class="pre">Fairy</span> <span class="pre">Tales,</span> <span class="pre">loc.</span> <span class="pre">cit.;</span> <span class="pre">Folk-Lore</span> <span class="pre">Record,</span> <span class="pre">vol.</span> <span class="pre">iv.</span> <span class="pre">p.</span> <span class="pre">152;</span> <span class="pre">Asbjornsen</span> <span class="pre">and</span> <span class="pre">Moe,</span> <span class="pre">given</span> <span class="pre">by</span> <span class="pre">Thorpe,</span> <span class="pre">Yule</span> <span class="pre">Tide</span> <span class="pre">Stories,</span> <span class="pre">p.</span> <span class="pre">288.]</span></code>. This incident, however; is more common to stories belonging to the next type; nor, when the elixir is found, does the heroine always make use of it. Possibly we may in such cases presume an incompleteness in the version of the story which has come down to us. One instance of this incompleteness is that of “The Three Cauliflowers “ cited above, a tale that is marked by other and considerable variations from the type.</p>
+<p>The contents of the chamber are usually, as in the typical tale, the monster’s previous wives. They are not always dead <code class="docutils literal notranslate"><span class="pre">[Ibid.;</span> <span class="pre">Imbriani,</span> <span class="pre">op.</span> <span class="pre">cit.</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">1,</span> <span class="pre">p.</span> <span class="pre">7;</span> <span class="pre">Webster,</span> <span class="pre">Basque</span> <span class="pre">Legends,</span> <span class="pre">p.</span> <span class="pre">173.]</span></code>; sometimes only their heads are found <code class="docutils literal notranslate"><span class="pre">[Krentzwald,</span> <span class="pre">Ehstniche</span> <span class="pre">Märchen,</span> <span class="pre">loc.</span> <span class="pre">cit.]</span></code>; sometimes bodies whose sex is unrecorded <code class="docutils literal notranslate"><span class="pre">[Grimm,</span> <span class="pre">op.</span> <span class="pre">cit.</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">46,</span> <span class="pre">p.</span> <span class="pre">177;</span> <span class="pre">Webster,</span> <span class="pre">loc.</span> <span class="pre">cit.;</span> <span class="pre">Folk-Lore</span> <span class="pre">Record,</span> <span class="pre">vol.</span> <span class="pre">iv.</span> <span class="pre">p.</span> <span class="pre">152.]</span></code>; a prince is occasionally discovered in rather a sad plight <code class="docutils literal notranslate"><span class="pre">[Schmidt,</span> <span class="pre">Griecheche</span> <span class="pre">Märchen,</span> <span class="pre">&amp;c.</span> <span class="pre">M.</span> <span class="pre">No.</span> <span class="pre">12,</span> <span class="pre">p.</span> <span class="pre">93;</span> <span class="pre">Imbriani,</span> <span class="pre">loc.</span> <span class="pre">cit.;</span> <span class="pre">Webster,</span> <span class="pre">loc.</span> <span class="pre">cit]</span></code>; and in one group of tales, where the heroine weds the Devil, the door closes the entrance to hell <code class="docutils literal notranslate"><span class="pre">[Schneller,</span> <span class="pre">Märchen,</span> <span class="pre">&amp;c.</span> <span class="pre">aus</span> <span class="pre">Wälschtirol,</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">31,</span> <span class="pre">p.</span> <span class="pre">86;</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">32,</span> <span class="pre">p.</span> <span class="pre">88,</span> <span class="pre">p.</span> <span class="pre">187</span> <span class="pre">;</span> <span class="pre">Busk,</span> <span class="pre">Household</span> <span class="pre">Stories</span> <span class="pre">from</span> <span class="pre">the</span> <span class="pre">Land</span> <span class="pre">of</span> <span class="pre">Hofer,</span> <span class="pre">p.</span> <span class="pre">278</span> <span class="pre">;</span> <span class="pre">Bernoni,</span> <span class="pre">Fiabe</span> <span class="pre">Popolari</span> <span class="pre">Vencziane,</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">3,</span> <span class="pre">p.</span> <span class="pre">16</span> <span class="pre">;</span> <span class="pre">Visentini,</span> <span class="pre">Fiabe</span> <span class="pre">Mantovane,</span> <span class="pre">p.</span> <span class="pre">181.]</span></code>. In the Greek story of “The Trimmatos,” <code class="docutils literal notranslate"><span class="pre">[Legrand,</span> <span class="pre">Contes</span> <span class="pre">Populaires</span> <span class="pre">Grecs,</span> <span class="pre">p.</span> <span class="pre">115.]</span></code> the wife entering the Forbidden Chamber looks through its window, and for the first time beholds her husband in his true character of a ghoul of monstrous form. But accompanying the dead bodies the heroine occasionally finds the elixir which is capable of restoring them to life <code class="docutils literal notranslate"><span class="pre">[Tuscan</span> <span class="pre">Fairy</span> <span class="pre">Tales,</span> <span class="pre">loc.</span> <span class="pre">cit.;</span> <span class="pre">Folk-Lore</span> <span class="pre">Record,</span> <span class="pre">vol.</span> <span class="pre">iv.</span> <span class="pre">p.</span> <span class="pre">152;</span> <span class="pre">Asbjornsen</span> <span class="pre">and</span> <span class="pre">Moe,</span> <span class="pre">given</span> <span class="pre">by</span> <span class="pre">Thorpe,</span> <span class="pre">Yule</span> <span class="pre">Tide</span> <span class="pre">Stories,</span> <span class="pre">p.</span> <span class="pre">288.]</span></code>. This incident, however; is more common to stories belonging to the next type; nor, when the elixir is found, does the heroine always make use of it. Possibly we may in such cases presume an incompleteness in the version of the story which has come down to us. One instance of this incompleteness is that of “The Three Cauliflowers” cited above, a tale that is marked by other and considerable variations from the type.</p>
 <p>In Perrault’s tale, which I take as the type, the heroine’s disobedience is discovered by a mark of blood upon the key. Sometimes the key is replaced by an egg or a ball <code class="docutils literal notranslate"><span class="pre">[Imbriani,</span> <span class="pre">op.</span> <span class="pre">cit.</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">1,</span> <span class="pre">p.</span> <span class="pre">7;</span> <span class="pre">Grimm,</span> <span class="pre">loc.</span> <span class="pre">cit.]</span></code> which the monster gives the heroine, with injunctions not to put it down, or (where he is identified with the Devil) by a rose he places in her bosom or hair, which is withered by the hot blast from within the door of hell <code class="docutils literal notranslate"><span class="pre">[Bernoni,</span> <span class="pre">Busk,</span> <span class="pre">Schneller,</span> <span class="pre">Visentini,</span> <span class="pre">loc.</span> <span class="pre">cit.</span> <span class="pre">In</span> <span class="pre">Imbriani,</span> <span class="pre">op.</span> <span class="pre">cit.</span> <span class="pre">p.</span> <span class="pre">290,</span> <span class="pre">a</span> <span class="pre">nosegay</span> <span class="pre">is</span> <span class="pre">given,</span> <span class="pre">though</span> <span class="pre">the</span> <span class="pre">monster</span> <span class="pre">is</span> <span class="pre">not</span> <span class="pre">identified</span> <span class="pre">with</span> <span class="pre">the</span> <span class="pre">Devil,</span> <span class="pre">but</span> <span class="pre">the</span> <span class="pre">heroine</span> <span class="pre">escapes</span> <span class="pre">before</span> <span class="pre">he</span> <span class="pre">has</span> <span class="pre">a</span> <span class="pre">chance</span> <span class="pre">to</span> <span class="pre">test</span> <span class="pre">her</span> <span class="pre">disobedience.]</span></code>. In these cases the heroine usually escapes detection by carefully putting the test-gift aside before opening the door. In the Portuguese Story of a Turner, <code class="docutils literal notranslate"><span class="pre">[Folk-Lore</span> <span class="pre">Record,</span> <span class="pre">loc.</span> <span class="pre">cit.]</span></code> the heroine has her reward for venturing to bring her less fortunate sisters back to life in the directions they give for wiping the key quite clean. The same function is performed in one of Campbell’s Gaelic stories <code class="docutils literal notranslate"><span class="pre">[Tales</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">West</span> <span class="pre">Highlands,</span> <span class="pre">vol.</span> <span class="pre">ii.</span> <span class="pre">p.</span> <span class="pre">274,</span> <span class="pre">a</span> <span class="pre">variant</span> <span class="pre">of</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">41.]</span></code> by a cat who is disenchanted and changed into a woman on drinking some milk given her by the heroine ; but here it is the heroine’s foot that is soiled with blood. In another story of the same series the cat offers to cleanse her foot for a drop of milk, and afterwards gives instructions to restore her sisters to life by means of the magic club. <code class="docutils literal notranslate"><span class="pre">[Tales</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">West</span> <span class="pre">Highlands,</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">41,</span> <span class="pre">p.</span> <span class="pre">265.]</span></code></p>
 <p>Thus it happens in some of the stories that the heroine is not found out at all. This is usually so where she is the youngest of three or more sisters who have been less lucky. When she is found out, the means are not always the same. In the Basque tale of “The Cobbler and his Three Daughters,” <code class="docutils literal notranslate"><span class="pre">[Webster,</span> <span class="pre">loo.</span> <span class="pre">cit.]</span></code> for example, the disobedience of the two elder sisters alone is discovered, and this seems to occur rather by their own confession than by any suspicious appearances on the key which they have successively dropped on the ground. In “The Trimmatos” the ghoul has the power of assuming various forms, and he deceives the heroine into admitting her guilt by taking the shape of her nurse. I have already referred to the part played by a little dog in two Tuscan tales, in which it appears as a spy, though in both these cases we are justified in supposing that the magician learns the sorry fact independently of the tell-tale beast.</p>
 <p>The next point to be considered is the heroine’s deliverance. In the type her deliverance is effected entirely by extraneous aid; and in this important respect the type differs from most of the variants which it has been my fortune to meet with. A few, however, are in accord with Perrault’s tale on this point. In the Esthonian tale of “The Wife-Murderer,” already referred to, <code class="docutils literal notranslate"><span class="pre">[Kreutzwald,</span> <span class="pre">loc.</span> <span class="pre">cit.]</span></code> the heroine is warned against her suitor by a gooseherd, who gets leave to accompany her to her husband’s castle, and after the catastrophe strikes down the husband as he is about to chop off her head, brings him to justice, and marries her after his death. In one of the Tirolese stories given by Miss Busk, <code class="docutils literal notranslate"><span class="pre">[Household</span> <span class="pre">Stories</span> <span class="pre">from</span> <span class="pre">the</span> <span class="pre">Land</span> <span class="pre">of</span> <span class="pre">Hofer,</span> <span class="pre">loc,</span> <span class="pre">cit.]</span></code> in which the heroine marries the Devil, she sends a note by two carrier-pigeons to her father, praying to be released. The task is undertaken by a former rejected lover, and accomplished with the aid of his three servants, the man of keenest sight, the man of keenest hearing, and the man of greatest strength, while the Devil sleeps unconscious even of her disobedience. In another, given by Schneller from the Italian Tirol, <code class="docutils literal notranslate"><span class="pre">[Schneller,</span> <span class="pre">loc.</span> <span class="pre">cit.]</span></code> a dove comes to her window from her home; by it she sends a message back to her father, who rescues her with the help of the three servants just mentioned, and a fourth, who can glide so softly that his sharp-eared comrade cannot hear him. <code class="docutils literal notranslate"><span class="pre">Pitré</span> <span class="pre">(Fiabe</span> <span class="pre">Novella</span> <span class="pre">e</span> <span class="pre">Racconti</span> <span class="pre">Popolari</span> <span class="pre">Siciliani,</span> <span class="pre">vol.</span> <span class="pre">i.</span> <span class="pre">Story</span> <span class="pre">No.</span> <span class="pre">21,</span> <span class="pre">p.</span> <span class="pre">191)</span> <span class="pre">gives</span> <span class="pre">an</span> <span class="pre">allied</span> <span class="pre">story</span> <span class="pre">in</span> <span class="pre">which</span> <span class="pre">the</span> <span class="pre">bridegroom</span> <span class="pre">compels</span> <span class="pre">his</span> <span class="pre">bride</span> <span class="pre">to</span> <span class="pre">take</span> <span class="pre">a</span> <span class="pre">number</span> <span class="pre">of</span> <span class="pre">dead</span> <span class="pre">bodies,</span> <span class="pre">one</span> <span class="pre">by</span> <span class="pre">one,</span> <span class="pre">out</span> <span class="pre">of</span> <span class="pre">a</span> <span class="pre">certain</span> <span class="pre">room</span> <span class="pre">and</span> <span class="pre">arrange</span> <span class="pre">them</span> <span class="pre">erect.</span> <span class="pre">Worn</span> <span class="pre">out</span> <span class="pre">by</span> <span class="pre">this</span> <span class="pre">labour,</span> <span class="pre">she</span> <span class="pre">bethinks</span> <span class="pre">her</span> <span class="pre">of</span> <span class="pre">a</span> <span class="pre">magic</span> <span class="pre">gift</span> <span class="pre">bestowed</span> <span class="pre">on</span> <span class="pre">her</span> <span class="pre">by</span> <span class="pre">her</span> <span class="pre">aunt.</span> <span class="pre">She</span> <span class="pre">opens</span> <span class="pre">the</span> <span class="pre">vessel</span> <span class="pre">containing</span> <span class="pre">it</span> <span class="pre">and</span> <span class="pre">utters</span> <span class="pre">her</span> <span class="pre">wish</span> <span class="pre">to</span> <span class="pre">return</span> <span class="pre">home.</span> <span class="pre">A</span> <span class="pre">dove</span> <span class="pre">flies</span> <span class="pre">out</span> <span class="pre">and</span> <span class="pre">bids</span> <span class="pre">her</span> <span class="pre">write</span> <span class="pre">to</span> <span class="pre">her</span> <span class="pre">father.</span> <span class="pre">The</span> <span class="pre">dove</span> <span class="pre">carries</span> <span class="pre">the</span> <span class="pre">letter.</span> <span class="pre">She</span> <span class="pre">is</span> <span class="pre">rescued</span> <span class="pre">by</span> <span class="pre">a</span> <span class="pre">seventh</span> <span class="pre">son.</span> <span class="pre">The</span> <span class="pre">husband</span> <span class="pre">afterwards</span> <span class="pre">makes</span> <span class="pre">the</span> <span class="pre">attempt</span> <span class="pre">at</span> <span class="pre">revenge,</span> <span class="pre">discussed</span> <span class="pre">later</span> <span class="pre">on</span> <span class="pre">under</span> <span class="pre">the</span> <span class="pre">Dead</span> <span class="pre">Hand</span> <span class="pre">type.</span> <span class="pre">In</span> <span class="pre">a</span> <span class="pre">variant</span> <span class="pre">the</span> <span class="pre">messenger</span> <span class="pre">is</span> <span class="pre">a</span> <span class="pre">swallow,</span> <span class="pre">and</span> <span class="pre">the</span> <span class="pre">monster</span> <span class="pre">is</span> <span class="pre">a</span> <span class="pre">dragon</span> <span class="pre">with</span> <span class="pre">a</span> <span class="pre">long</span> <span class="pre">tail,</span> <span class="pre">out</span> <span class="pre">of</span> <span class="pre">whose</span> <span class="pre">folds</span> <span class="pre">the</span> <span class="pre">heroine</span> <span class="pre">is</span> <span class="pre">delivered.</span> <span class="pre">This</span> <span class="pre">is</span> <span class="pre">analogous</span> <span class="pre">to</span> <span class="pre">the</span> <span class="pre">sleeping</span> <span class="pre">Devil</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">text.</span></code></p>
@@ -795,6 +806,191 @@ vol. iii, p. 207</p>
 <p><code class="docutils literal notranslate"><span class="pre">[Continues</span> <span class="pre">with</span> <span class="pre">other</span> <span class="pre">tale</span> <span class="pre">types.]</span></code></p>
 </div>
 <p><em>Providing the texts of the other works cited by Hartland here is not, I think, directly useful, but may form part of a more comprehensive storynote republishing Hartland’s complete paper, along with all the stories referenced from it.</em></p>
+</section>
+<section id="one-moonshiny-night">
+<h2>One Moonshiny Night<a class="headerlink" href="#one-moonshiny-night" title="Link to this heading">#</a></h2>
+<p>The rhyme given by Halliwell-Phillipps in the context of <em>The Oxford Student</em> merited a brief query in <em>Notes &amp; Queries</em> in 1858 asking for further details surrounding the story associated with the tale. <em>(The reference to Matthew Paris is perhaps a mistake, as the note refers to Blakeway, and is then propagated forward by later correspondence.)</em></p>
+<div class="dropdown admonition">
+<p class="admonition-title">An Old Riddle, April 1858</p>
+<p><a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1858-04-17_5_120/mode/2up">https://archive.org/details/sim_notes-and-queries_1858-04-17_5_120/mode/2up</a>
+Notes and Queries  1858-04-17: Vol 5 Iss 120
+p. 315</p>
+<p><em>An Old Riddle.</em>— I have ringing in my memory the words of an old riddle which used to be current among the boys of the village, and I transcribe it for preservation in your collection of popular antiquities. I fear that my version is not altogether complete, though accurate as far as it goes:—</p>
+<p>“Riddle me, riddle me right:<br />
+Where was I last Saturday night?<br />
+I saw a champ-champ champing on his bridle:<br />
+I saw an old fox working himself idle:<br />
+The boughs did shiver, and I did shake,<br />
+To see what a hole the fox did make.”</p>
+<p>In Halliwell’s Nursery Rhymes is the following, which doubtless has reference to the same story:—</p>
+<p>“One moonshiny night,<br />
+As I sat high,<br />
+Waiting for one<br />
+To come by,<br />
+The boughs did bend,<br />
+My heart did ache,<br />
+To see what a hole the fox did make.”</p>
+<p>In a note the reader is referred to Matthew Paris, but as I have not the work on my own scant shelves, and have no library to go to, may I ask you to give me the legend? I have some dim recollection of a story told in explanation of the rhyme, of a lady, who, having made an assignation with her lover, went to the trysting-spot before the hour, and discovered his horse fastened to a tree, and, from the boughs into which she had climbed, observed the false one engaged in digging a grave for her reception. T. Q. C.</p>
+<p>Bodmin.</p>
+</div>
+<p>The rhyme was again picked up on in a correspondence chain initiated in February 1887.</p>
+<div class="dropdown admonition">
+<p class="admonition-title">One Moonshiny Night, 1887</p>
+<p><a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1887-02-19_3_60/page/148/mode/2up">https://archive.org/details/sim_notes-and-queries_1887-02-19_3_60/page/148/mode/2up</a>
+Notes and Queries  1887-02-19: Vol 3 Iss 60</p>
+<p>p.149</p>
+<p>“ONE MOONSHINY NIGHT,” &amp;c.—In Halliwell’s ‘Popular Rhymes’ the following lines are given as having been obtained from Oxfordshire:—</p>
+<p>One moonshiny night<br />
+As I sat high,<br />
+Waiting for one<br />
+To come by;<br />
+The boughs did bend,<br />
+My heart did ache<br />
+To see what hole the fox did make.</p>
+<p>The story alluded to is said to be related by Matthew Paris.</p>
+<p>As a child I heard the following version from a Yorkshire woman:—</p>
+<p>One moonlight night<br />
+As I sat high,<br />
+I looked for one,<br />
+But two came by.<br />
+My heart did ache,<br />
+The leaves did shake,<br />
+To see the hole the fox did make.<br />
+The clock in heaven<br />
+Struck eleven:<br />
+The little birds cried “pitty patty<br />
+Bury me.”</p>
+<p>Are there any other variants?<br />
+F. C. Birkbeck Terry</p>
+</div>
+<p>A month later, one correspondent suggested that no riddle was meant by the rhyme:</p>
+<div class="dropdown admonition">
+<p class="admonition-title">No riddle intended, 1887</p>
+<p><a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1887-03-19_3_64/page/228/mode/2up">https://archive.org/details/sim_notes-and-queries_1887-03-19_3_64/page/228/mode/2up</a>
+Notes and Queries  1887-03-19: Vol 3 Iss 64
+pp.229-230</p>
+<p>“ONE MOONSHINY NIGHT, (7 S. iii, 149.)</p>
+<p>In Derbyshire — at any rate in the vicinity of Derby — the following version used to be in every child’s mouth forty years ago. The lines were known as</p>
+<p><em>Riddle me, riddle me right.</em><br />
+Oh, read me this riddle, and read it aright.<br />
+Where was I last Saturday night!<br />
+The wind blew,<br />
+The cock crew,<br />
+I waited for one,<br />
+And there came two.<br />
+The woods did tremble,<br />
+The boughs did shake,<br />
+To see the hole<br />
+The fox did make.<br />
+Too little for a horse,<br />
+Too big for a bee;<br />
+I saw it was a hole<br />
+Just a fit for me.</p>
+<p>There was no riddle intended, but the lines served as the introduction to a tale which varied considerably according to the powers of the teller. I have heard the story from old mouths and young ones, and, as far as memory serves me now—for there were many versions—the story ran:— There was once a young man courted a lass, and she was in the family way. She wanted him to marry her, and he would not; and she said she would tell everybody about him. This made him mad, and he swore at her and he hit her, and told her to go and hang herself. She cried very much, and he ran away and left her. Next day he sent her word by his friend, and told her that she must meet him in a wood at eleven o’clock that night. She told the young man that she would, and he went away. The poor young woman cried all day, and when night came she went to bed in good time. But instead of going to bed, she opened the window and let herself drop down; and then she ran to the wood, and got there a long time before eleven o’clock. She was very scard (frightened), and she climbed up into a tree that was in the wood. When she had been in the tree for a good bit, she heard somebody coming along; and they came close to the tree, and then pulled out a dark lantern. She then saw that it was her young man and his friend. They had a pick and a spade, and they began to hack a hole, which they made a good depth, and they shut up the lantern and waited. They began to talk about her, and said that they would cut her throat and put her in the hole. When she heard that, she skreeted three or four times and had a fit. The men thought it was a spirit, and ran away frightened, and left the deep hole and the spade and the pick. The young woman went home, and she never saw her young man and his friend any more.</p>
+<p>This is the tale as nearly as I can remember. A wood in the neighbourhood was pointed out as that in which the events of the night occurred.</p>
+<p>Thomas Ratcliffe. Worksop.</p>
+</div>
+<p>The same issue of <em>N&amp;Q</em> also gave a couple of other variants, starting with this one:</p>
+<blockquote>
+<div><p>There is a variant in Miss Peacock’s ‘Tales and Rhymes in Lindsey Folk-Speech,’ and here is yet another that made my young blood curdle in Kesteven a long time ago:—</p>
+<p>Where was I last Saturday night?<br />
+The wind blew, the tree shook and I quake<br />
+To see what a hole the Fox did make.<br />
+Too little for horse, too big for Bee, [a dog]<br />
+Just fitted the man, and was made for me.</p>
+<p>ST. SWITHIN.</p>
+</div></blockquote>
+<p>S. O. Addy also offered a short commentary, which complements his inclusion of the tale <em>The girl who got up the tree</em> in <em>Household tales with other traditional remains</em>.</p>
+<blockquote>
+<div><p>The version which Mr. Terry heard from a Yorkshire woman is nearly what I have heard in North Derbyshire. The lines which have been told to me are:—</p>
+<p>One moonlight night<br />
+As I sat high,<br />
+I watched for one,<br />
+But two came by.<br />
+The leaves did shake,<br />
+My heart did ache<br />
+To see the hole the fox did make.</p>
+<p>I have not heard the last four lines quoted by Mr. Terry. A short prose tale accompanies these seven lines. It is said that a lover appointed to meet his mistress in a wood on a summer’s evening. The girl, fearing some treachery, climbed up into a tree, and hid herself among the leaves, As she sat there her lover came by in company with a man. She heard them say that they intended to murder her, and she saw the grave which they had made close by.</p>
+<p>Such is the story which I have heard. It has been suggested to me that the lover’s name was Fox. May not “fox” here have the meaning of broadsword? S. O. Addy.</p>
+</div></blockquote>
+<p>A yet more comprehensive reply focussing on related tales appeared several issues later, in May, 1887.</p>
+<div class="dropdown admonition">
+<p class="admonition-title">Several interesting versions, May 1887</p>
+<p><a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1887-05-21_3_73/mode/2up">https://archive.org/details/sim_notes-and-queries_1887-05-21_3_73/mode/2up</a>
+Notes and Queries  1887-05-21: Vol 3 Iss 73</p>
+<p>pp.410-11</p>
+<p>“ONE MOONSHINY NIGHT.” (7th S. iii, 149, 229.)</p>
+<p>The interesting versions given of this do not seem to refer to those printed by Mr. Halliwell (‘Pop. Rhymes and Nurs. Tales,’ 1849, pp. 47-50). In one, ‘Mr. Fox,’ may be recognized the popular tale, ‘The Robber Bridegroom’ (Grimm), ‘The Knight of the Valley,’ or ‘The Red Court.’ The heroine finds her way to the robbers’ haunt, where she is a silent witness to the murder of another lady. Failing to readily disengage a ring from the corpse’s finger, the murderers chop off the finger (<em>al.</em> hand) itself, and it bounces into the lap of the spectator. Subsequently this latter relates her experiences, as a dream, in the presence of the robber captain, convicting him by the evidence of the finger. (See 7th S. ii. 321.) <code class="docutils literal notranslate"><span class="pre">[The</span> <span class="pre">Count's</span> <span class="pre">Daughter.]</span></code></p>
+<p>In another common form, ‘The Oxford Student,’ the story agrees pretty well with the Derbyshire version (<em>ante</em>, p. 229): only I have heard the words, “I watched for one, but two came by,” sometimes made to refer to the “Fox “—the murderer—and a second less fortunate mistress, murdered in view of the heroine; not a male companion.</p>
+<p>In Ireland the following is understood as a riddle:—</p>
+<p>Last Saturday night—<br />
+The wind blew,<br />
+The cocks crew,<br />
+All the bells in heaven Struck eleven,<br />
+Under an ivy-tree.</p>
+<p>Answer, “A soul going to heaven” (?). The sequel,—</p>
+<p>Too little for a horse,<br />
+Too big for a bee, &amp;c.,</p>
+<p>not heard. There is a version in Irish, obtained from Kilbehinny, Cork, where the fox and hole again figure.</p>
+<p>Banim’s powerful if occasionally coarse novel, ‘The Nowlans’ (London, 1826, c. vi. p. 166) seems to owe a scene to a Kilkenny version of this story, where Peggy, anticipating her villainous lover at the trysting-place at night in the Foil Dubh, sees him dig a grave. “About where she stood, a woman had once been cruelly murdered,” &amp;c.</p>
+<p>Another circumstantial popular legend is introduced into the same novel — that in which a servant girl is the terrified and secret witness of a pedlar’s murder. The robbers afterwards approach, singe her very eyebrows off to test her simulated sleep, &amp;c. Banim thought it a “true situation” (p. 275).</p>
+<p>The foregoing was written before I had seen communications in which both Mr. Halliwell’s versions of ‘Mr. Fox’ and various forms of the tale which I call ‘The Red Court’ are referred to. I will add two or three miscellaneous notes.</p>
+<p>We have apparently to distinguish three things. (1) The story of Lady Mary, “Be bold,” &amp;c. This was first contributed to the ‘Variorum Shakespeare.’ (2) ‘Mr. Fox,’ best known as an Oxfordshire tale. (3) The riddle. Of these, any further oral versions of “Be bold” would be of value; and what is the precise reference to Matthew Paris?</p>
+<p>An Oxford metrical version of (2) figures in ‘The Midland Minstrel; consisting chiefly of Traditionary Tales and Local Legends,’ by Thomas Gillet (Oxford, 1822):—</p>
+<p>But why, beside that rural <em>walk</em><br />
+That boasts the name <em>Divinity</em>,<br />
+Does yon disguisèd figure stalk<br />
+Beneath the pale moon’s glimmering eye!</p>
+<p>And why is that lone grave prepar’d,<br />
+Prepar’d in such unhallow’d place?<br />
+<em>Nought in its womb can e’er be laid</em><br />
+<em>Save the dull brute</em> of vilest race.</p>
+<p>But, soft—<em>two figures</em> tread the walk, &amp;c,</p>
+<p>The unhappy Lucy, here made the victim of an historical seducer, is buried in the haunted Divinity Walk. The passages italicized show the influence of local traditional rhymes.</p>
+<p>Another interesting rustic fragment is the Derbyshire tale alluded to on p. 305, <em>supra</em>. Mr. STERNBERG gave a version (1st S. v. 602) where the company the night traveller (generally a priest or monk) comes among are satyr-like demons. The Breton legends of nocturnal <em>ludificationum fantasiae</em>, referred to by William of Paris, and a common Irish story of a priest who fell among the good people, may be said to belong to the same class.</p>
+<p>The following are respectively Buckinghamshire and Gloucestershire versions of the rhyme. The second is a riddle.</p>
+<p>As I sat up in an ivy tree<br />
+A wicked fox was under me,<br />
+Digging a hole to bury me,<br />
+But yet he could not find me:<br />
+The boughs did bend and the leaves did shake<br />
+To see what a hole the fox did make.</p>
+<p>The Gloucestershire rhyme is no doubt imperfect:—</p>
+<p>Riddle come riddle come right,<br />
+Where was I last Saturday night?<br />
+The leaves did shake,<br />
+And I did quake,<br />
+To see what a great hole the fox did make.</p>
+<p>Further variations would be instructive, and would have interest. D. F.</p>
+</div>
+<p>In the same issue,an example of such another version is provided from Ireland:</p>
+<blockquote>
+<div><p>The version I learned as a child was different from any of those given by your correspondents and was as follows:—</p>
+<p>Riddle me, riddle me, riddle me right!<br />
+It was upon a Saturday night:<br />
+The winds blew,<br />
+The cocks crew,<br />
+The bells of heaven<br />
+Struck eleven!<br />
+The false Fox came to bury me!</p>
+<p>My rhyme came from Limerick, and its meaning always puzzled my childish attempts to discover it.</p>
+<p>M. L. Ferrar.</p>
+<p>Newcastle, co. Down</p>
+</div></blockquote>
+<p>Although the riddle appears to make little sense, the framing of it in the following reply, again in the same issue, does clarify how the riddle might have been used:</p>
+<blockquote>
+<div><p>When a child, in New England, thirty years ago, the following was a very popular riddle:—</p>
+<p>Come riddle come riddle come right.<br />
+Where was I last Friday night!<br />
+The moon was high,<br />
+And so was I;<br />
+The wind did quake,<br />
+My heart did ache<br />
+To see what a great hole<br />
+The two-legged fox did make.</p>
+<p>The answer was a legend somewhat similar to that given by Mr. Ratcliffe, viz., of two highwaymen who had a young woman captive, but allowed the run of a certain ground. That while she was one evening out she had climbed a tree, and had seen them dig under it a grave, and heard them converse as to its occupant, who was to be herself. When the time came to carry their purpose into execution they granted her respite if she would compose a riddle they could not guess. The result was the above, and the legend has it that they failed to guess it, and so she saved her life.</p>
+<p>T. H. Smith.</p>
+</div></blockquote>
 </section>
 </section>
 
@@ -853,19 +1049,23 @@ vol. iii, p. 207</p>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
     <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#related-tales">Related Tales</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-tale-of-bloody-baker">The Tale of Bloody Baker</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-history-of-bluebeard">The History of Bluebeard</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-count-s-daughter"><em>The Count’s Daughter</em></a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hartland-s-note-on-the-forbidden-chamber">Hartland’s Note on <em>“The Forbidden Chamber”</em></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#in-hartland-s-note-on-the-forbidden-chamber">In Hartland’s Note on <em>“The Forbidden Chamber”</em></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#one-moonshiny-night">One Moonshiny Night</a></li>
 </ul>
   </nav></div>
 
@@ -914,8 +1114,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
 
   <footer class="bd-footer">
   </footer>

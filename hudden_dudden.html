@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=1ae7504c"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -64,6 +67,7 @@
     <link rel="prev" title="Too Much Time" href="too_much_time.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -79,19 +83,8 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +92,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,8 +99,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -124,7 +116,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +147,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -219,7 +208,7 @@
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="thirteen-precious-things.html">The Thirteen Precious Things of the Island of Britain</a></li>
 <li class="toctree-l1"><a class="reference internal" href="molly-whuppie.html">Molly Whuppie</a></li>
-<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">Hand of Glory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hand-of-glory.html">The Hand of Glory</a></li>
 <li class="toctree-l1"><a class="reference internal" href="brother_jucundus.html">Brother Jucundus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="mr-fox.html">Mr Fox</a></li>
 <li class="toctree-l1"><a class="reference internal" href="grateful_dead.html">The Grateful Dead</a></li>
@@ -252,9 +241,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -337,7 +331,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -351,25 +345,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -488,7 +474,7 @@ document.write(`
 The live long winter night,<br />
 Each led and late the hours did pass,<br />
 With pleasure and delight.</p>
-<p><em>I have oftentimes seen, and with pleasure perused the English Nights’ Entertainments, Arabian Nights’ Entertainments, Winter Evening Tales, Persian and Chinese Tales; and in short, observed that there is no Country but what has given birth te some Native production of this kind . Finding nothing of this kind in Ireland, and knowing a great many curious Tales, handed down to posterity , and held on record throughout the country, which I had an opportunity of hearing in many places; I thought I could not benefit my readers more than by committing them to print for their instruction and amusement. That they are instructive will be clearly seen from the excellent morals that each contains, and all my readers will not hesitate to pronounce them most entertaining. In this little volume there will be found stories adapted to persons of every inclination and disposition; some strange, others wonderful, some grave, and others ludicrous and merry . The method is plain and easy, suited to the meanest as well as the highest capacity, tending both to enrich the fancy and improve the mind . In fine, what will greatly enhance the value of this production is, that all the stories in it will be found to be genuine, and never before offered to the public.</em></p>
+<p><em>I have oftentimes seen, and with pleasure perused the English Nights’ Entertainments, Arabian Nights’ Entertainments, Winter Evening Tales, Persian and Chinese Tales; and in short, observed that there is no Country but what has given birth te some Native production of this kind. Finding nothing of this kind in Ireland, and knowing a great many curious Tales, handed down to posterity , and held on record throughout the country, which I had an opportunity of hearing in many places; I thought I could not benefit my readers more than by committing them to print for their instruction and amusement. That they are instructive will be clearly seen from the excellent morals that each contains, and all my readers will not hesitate to pronounce them most entertaining. In this little volume there will be found stories adapted to persons of every inclination and disposition; some strange, others wonderful, some grave, and others ludicrous and merry. The method is plain and easy, suited to the meanest as well as the highest capacity, tending both to enrich the fancy and improve the mind. In fine, what will greatly enhance the value of this production is, that all the stories in it will be found to be genuine, and never before offered to the public.</em></p>
 </div></blockquote>
 <p>Inside the book, we find the tale of Hudden and Dudden and Donald O’Neary as a tale entitled <em>Donald and His Neighbours</em>. Thackeray’s version of it seems to be quite faithful to the original.</p>
 <p>It is perhaps worth noting that Duilearga’s reissue of the <em>Royal Hibernian Tales</em> was notable enough to merit a mention in the <em>Irish Independent</em> of <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0001715/19410617/031/0002">Tuesday 17 June, 1941</a>, p2:</p>
@@ -636,7 +622,7 @@ T. O’H.</p>
 <p>“Why then do you think,” says little Fairly, answering him mighty smart, “do you think I have so little respect for my father’s cow as to turn her out a beggar an the road to get her dinner off the common highway? throth I’ll do no sitch thing.”</p>
 <p>“Well, you’ll soon see the end ivit,” says big Fairly, and off he wint in great delight, thinking how poor little Fairly’s cow would be killed. And now wasn’t he the dirty, threacherous, black-hearted villain, to take advantage of a poor cow, and lay a thrap for the dumb baste? — but whin the dirty dhrop is in, it must come out. Well, poor Fairly sent his cow to graze next mornin’, but the poor little darlin’ craythur fell into one o’ the pits and was kilt; and when little Fairly kem for her in the evenin’ there she was cowld and stiff, and all he had to do now was to sing <em>drimmin dhu dheelish</em> over her, dhrag her home as well as he could, wid the help of some neighbours that pitied the craythur and cursed the big bosthoon that done such a threacherous turn.</p>
 <p>Well, little Fairly was the fellow to put the best face upon every thing; and so, instead of givin’ in to fret, and makin’ lamentations that would do him no good, by dad he began to think how he could make the best of what happened, and the little craythur sharpened a knife immediately and began to skin the cow, “and anyhow,” says he, “the cow is good mate, and my owld mother and me ‘ill have beef for the winther.”</p>
-<p>“Thrue for you, little Fairly,” said one of the neighbours was helpin’ him, “and besides, the hide ‘ill be good to make soJes for your brogues for many a long day.”</p>
+<p>“Thrue for you, little Fairly,” said one of the neighbours was helpin’ him, “and besides, the hide ‘ill be good to make soles for your brogues for many a long day.”</p>
 <p>“Oh, I’ll do betther with the hide nor that,” says little Fairly.</p>
 <p>“Why what better can you do nor that wid it:” says the neighbour.</p>
 <p>“Oh, I know myself,” says little Fairly, for he was as cute as a fox as I said before, and wouldn’t tell his saycrets to a stone wall, let alone a companion. And what do you think he done with the hide? Guess now — throth I’d let you guess from this to Christmas, and you’d never come inside it. Faix it was the complatest thing ever you heerd. What would you think but he tuk the hide and cut six little holes in partic’lar places he knew av himself, and thin he goes and he gets his mother’s fortin, the six shillin’s I told you about, and he hides the six shillin’s in the six holes, and away he wint to a fair was convenient, about three days afther, where there was a great sight o’ people, and a power o’ sellin’ and buyin’, and dhrinkin’ and fightin’, by course, <em>and why nat</em>?</p>
@@ -947,7 +933,7 @@ T. O’H.</p>
 <p>The woman received them both in a very friendly way, spread the cloth on a long table, and gave them a great dish of porridge. The farmer was hungry, and ate with a good appetite; but Little Claus could not help thinking of the capital roast meat, fish, and cake, which he knew were in the oven. Under the table, at his feet, he had laid the sack with the horse’s hide in it; for we know that he had come out to sell it in the town. He could not relish the porridge, so he trod upon the sack, and the dry skin inside crackled quite loudly.</p>
 <p>“Why, what have you in your sack?” asked the farmer.</p>
 <p>“Oh, that’s a magician,” answered Little Claus, “He says we are not to eat porridge, for he has conjured the oven full of roast meat, fish, and cake.”</p>
-<p>“Wonderful!” cried the farmer; and he opened the oven in a hurry, and found all the dainty provisions which his wife had hidden there, but which, as he thought, the wizard had conjured forth. The woman dared not say anything, but put the things at once on the table; and so they both ate of the meat, the fish, and the cake. Now Little Claus again trod on bis sack, and made the hide creak.</p>
+<p>“Wonderful!” cried the farmer; and he opened the oven in a hurry, and found all the dainty provisions which his wife had hidden there, but which, as he thought, the wizard had conjured forth. The woman dared not say anything, but put the things at once on the table; and so they both ate of the meat, the fish, and the cake. Now Little Claus again trod on his sack, and made the hide creak.</p>
 <p>“What does he say now?” said the farmer.</p>
 <p>“He says,” replied Claus, “that he has conjured three bottles of wine for us, too, and that they are standing there in the corner behind the oven.”</p>
 <p>Now the woman was obliged to bring out the wine which she had hidden, and the farmer drank it and became very merry, he would have been very glad to see such a conjuror as Little Claus had there in the sack.</p>
@@ -1253,14 +1239,16 @@ Seumas MacManus, 1899, p. 175-180.</p>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#thackeray-s-version-of-hudden-and-dudden">Thackeray’s Version of Hudden and Dudden</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#thackeray-s-discovery-of-the-tale">Thackeray’s Discovery of the Tale</a></li>
@@ -1325,8 +1313,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
 
   <footer class="bd-footer">
   </footer>
