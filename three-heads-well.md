@@ -295,7 +295,7 @@ And now the real wedding was held, and held in such a way that it was heard of a
 
 See also  *Popular tales from the Norse*, P. C. Asbjørnsen and J. E. Moe, transl. G. W. Dasent, 1859, [*"The Bushy Bride"*, pp. 405-14](https://archive.org/details/populartalesfro03dasegoog/page/404/mode/2up):
 
-```{admonition}
+```{admonition} *The Bushy Bride*, 1859
 :class: dropdown
 https://archive.org/details/populartalesfro03dasegoog/page/404/mode/2up?
 Popular tales from the Norse

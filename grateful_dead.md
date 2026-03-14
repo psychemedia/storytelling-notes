@@ -721,10 +721,10 @@ The king's son took a knife and was going to cut. "Stop your hand," said the red
 
 A concisely stated, and rather confused, gypsy variant is given as the first Turkish Gypsy folk tale in Francis Hindes Groome's *Gypsy folk-tales*, 1899:
 
-```{admonition}
+```{admonition} In *Gypsy folk-tales*, 1899
 :class: dropdown
 https://archive.org/details/gypsyfolktales00groogoog/page/n88/mode/2up?q=%22godfather+death%22
- Gypsy folk-tales
+Gypsy folk-tales
 by Groome, Francis Hindes, 1851-1902
 
 Publication date 1899
