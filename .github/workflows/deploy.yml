@@ -32,7 +32,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install jupyter-book ou-jupyter-book-tools
+        pip install "jupyter-book<2" ou-jupyter-book-tools
         pip install sphinxcontrib-youtube==1.3.0
     # Build the book
     - name: Build the book
