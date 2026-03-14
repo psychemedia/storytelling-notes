@@ -1,9 +1,6 @@
 # Fairy Changelings
 
-
 Also relate in to Bridget Cleary tragedy
-
-
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18950525/058/0018
@@ -18,7 +15,7 @@ This is a singular and, perhaps, unprecedented instance of the fairy belief prod
 
 The unhappy peasants believed that the real woman was under fairy dominion, in fairy realms forlorn, that she would ride a grey horse in the fairy cavalcade, and might be rescued by friends wearing black-hilted knives. In exactly the same way, according to the legend of Aberfoyle, the minister, Mr. Kirk, might have been released had anyone thrown dirk over his head when ho once appeared at a christening party, after his capture by the People of Peace, two hundred years ago. In the old ballad, too, the captive Tamlane may be delivered by anyone who will tear him off the white horse which he rides among the elves. Mr. Kirk himself, in manuscript diary, admits that he is aware of methods by which a prisoner of the fays may be released, but he regards them "superstitions." also, in the same manuscript, speaks of a woman who, after two years' residence in fairyland, was restored to her husband. Gervase of Tilbury long before had recorded similar facts in his "Otia Imperialia." But while in the case of infants the fairies used to leave changeling brat behind, they did not do so when they stole grown-up people, or at least we do not hear of this belief in Scotland. Unluckily, events prove, the opposite belief does exist in Tipperary, and we know too well what came of it. The natural origin of a faith so monstrous is probably not very far to seek. We often talk of this or that person as "a changed man." The primitive explanation of a sudden revolution in character and habits —caused perhaps by disease, by a sunstroke, or other accidents— would be that the man really had been changed, that somebody else had been substituted for him. Thus we have the familiar Chinese tale of the stupid idle lad who suddenly became studious and got a high degree. Of course a friendly ghost had taken his place, say the Chinese, and the fairies who make captures in Ireland or Scotland are, at bottom, only ancestral ghosts. When healthy good-tempered child became peevish, insatiable, bag of skin and bones, clearly he was not the actual child in a decline, but a substituted fairy brat, who had better be roasted on a shovel.
 
-This is intelligible enough, but in most countries men and women, when stolen by fairies, are *not* replaced by changelings. One may venture a guess as to what had really occurred in their case. Physicians, I believe, are not unacquainted with rare instances in which a secondary personality—hysterical, epileptic, or what not—is developed adults. The patient, forgetting who he is and assuming his new personality, is apt to wander away, and perhaps behaves sanely enough at a distance under a changed name and in a fresh occupation. One American case, of a minister (I think) who disappeared and became a tradesman in a remote place, has been published. But an acute American physician has observed that, on the day of his disappearance, this patient had a considerable sum of ready money in his possession! This assuredly does throw a grave doubt on the theory of unconscious and unpremeditated action on his part. The case of "Louis Y.," a man of about three distinct personalities, is familiar to students of morbid psychology. In each of his states he only remembers the prior events of the analogous condition: in one frame he is an atheistic Eadical, in another pious Tory, and he has certainly wandered a good deal in all senses. "If his *bona fides* are admitted" (to quote an author of scanty classical education), such a patient as "Louis Y." is probably the kind of person who gave rise to the belief in fairy captures of adults. He went off, was lost, was somebody else for while, and then he came back in his own familiar personality. Where had he been? *He* did not know — nobody knew; and the Good People were made responsible for that and doubtless for premeditated and conscious disappearances. The Highlander in Mr. Kirk's manuscript, who took back a wife "after two years in Fairyland" was easily satisfied by her explanation of her absence. We can say no more. In the recent Irish tragedy it is not unlikely that the unfortunate woman really had developed some hysterical change in character. But she did not wholly disappear into fairyland, therefore what was left in her place was a changeling. Catholics ought to have called in the aid of a clerical exorcist, when all would have been well. But "the priest is often the last to hear of these things," and recourse was had to the prescriptions of ancient folklore. Peasants are not alone here. As I write comes in the advertisement of book, "Demon Possession and Allied Themes," by Dr. Nevius, "for forty years missionary to the Chinese." "This book is based ... upon a large collection of thoroughly sifted and authenticated facts, showing that demon possession is a common experience of our own day." I cannot criticise a work which I have not read, but I wish that a form of Dr. Nevius's theory had not prevailed in Tipperary.
+This is intelligible enough, but in most countries men and women, when stolen by fairies, are *not* replaced by changelings. One may venture a guess as to what had really occurred in their case. Physicians, I believe, are not unacquainted with rare instances in which a secondary personality—hysterical, epileptic, or what not—is developed adults. The patient, forgetting who he is and assuming his new personality, is apt to wander away, and perhaps behaves sanely enough at a distance under a changed name and in a fresh occupation. One American case, of a minister (I think) who disappeared and became a tradesman in a remote place, has been published. But an acute American physician has observed that, on the day of his disappearance, this patient had a considerable sum of ready money in his possession! This assuredly does throw a grave doubt on the theory of unconscious and unpremeditated action on his part. The case of "Louis Y.," a man of about three distinct personalities, is familiar to students of morbid psychology. In each of his states he only remembers the prior events of the analogous condition: in one frame he is an atheistic Radical, in another pious Tory, and he has certainly wandered a good deal in all senses. "If his *bona fides* are admitted" (to quote an author of scanty classical education), such a patient as "Louis Y." is probably the kind of person who gave rise to the belief in fairy captures of adults. He went off, was lost, was somebody else for while, and then he came back in his own familiar personality. Where had he been? *He* did not know — nobody knew; and the Good People were made responsible for that and doubtless for premeditated and conscious disappearances. The Highlander in Mr. Kirk's manuscript, who took back a wife "after two years in Fairyland" was easily satisfied by her explanation of her absence. We can say no more. In the recent Irish tragedy it is not unlikely that the unfortunate woman really had developed some hysterical change in character. But she did not wholly disappear into fairyland, therefore what was left in her place was a changeling. Catholics ought to have called in the aid of a clerical exorcist, when all would have been well. But "the priest is often the last to hear of these things," and recourse was had to the prescriptions of ancient folklore. Peasants are not alone here. As I write comes in the advertisement of book, "Demon Possession and Allied Themes," by Dr. Nevius, "for forty years missionary to the Chinese." "This book is based ... upon a large collection of thoroughly sifted and authenticated facts, showing that demon possession is a common experience of our own day." I cannot criticise a work which I have not read, but I wish that a form of Dr. Nevius's theory had not prevailed in Tipperary.
 
 
 
@@ -92,7 +89,7 @@ BY MR. JOHN DUNNE.
 
 Our distinguished countryman, Dr. Wilde, in one of his interesting chapters on Irish popular superstitions, recently given to the public, mourns over the loss of our old fairy-lore which is certain to result from the removal of so large a portion of the population through famine, pestilence, and emigration, the natural consequences of the potato-blight. There are few, doubtless, who would refuse to sym
 
-AT END, then part II, ON THE TRADTIONS OF THE COUNTY OF KILKENNY. Then part III on May Day and Midsummer
+AT END, then part II, ON THE TRADITIONS OF THE COUNTY OF KILKENNY. Then part III on May Day and Midsummer
 
 onomastics
 ŏn″ə-măs′tĭks
@@ -117,13 +114,6 @@ Several volumes
 
 
 Changelings in 
-
-Popular romances of the west of England, or, The drolls, traditions, and superstitions of old Cornwall
-by Hunt, Robert, 1807-1887; Cruikshank, George, 1792-1878
-
-Publication date 1865
-
-pp71+
 
 
 
@@ -239,3 +229,20 @@ Then he went over to the cradle and said to the hideous little creature, in a lo
 At once the child sat up and began to grin at him; and made a rush to the door to get away; but the man caught hold of it and threw it on the fire. And the moment it felt the heat it turned into a black kitten, and flew up the chimney and was seen no more.
 
 Then the man sent word to his mother to bring the other child, who was found to be the heir, the lord's own son. So there was great rejoicing, and the child grew up to be a great lord himself, and when his time came, he ruled well over the estate; and his descendants are living to this day, for all things prospered with him after he was •saved from the fairies.
+
+
+
+
+
+ 
+ 
+ 
+https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/244/mode/2up?q=%22adventures+of+nera%22
+The fairy-faith in Celtic countries
+by Evans-Wentz, W. Y. (Walter Yeeling), 1878-1965
+
+Publication date 1911
+
+pp. 244-253
+
+TO DO
