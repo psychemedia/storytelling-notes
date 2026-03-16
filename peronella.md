@@ -1,6 +1,6 @@
 # Peronella
 
-Tabart's collection of popular stories for the nursery : from the French, Italian, and old English writers
+Tabart's collection of popular stories for the nursery: from the French, Italian, and old English writers
 by Godwin, William, 1756-1836, Part I
 
 Publication date 1804
@@ -35,7 +35,7 @@ She proposed to Peronella to divide the kingdom with her: "You shall have one ha
 
 "But," continued the queen, "what shall I do if I give away my whole kingdom?" "Do?" said Peronella. "Your majesty will laugh, dance and sing as I do:" and so saying, she laughed, danced and sung before her.
 
-Tht queen, who could do nothing like this, asked Peronella how she would amuse herself if she were in her place, a stranger as she was to the infirmities of age?
+The queen, who could do nothing like this, asked Peronella how she would amuse herself if she were in her place, a stranger as she was to the infirmities of age?
 
 "I really cannot be quite sure what I would do," answered Peronella: "but I have a great mind to try the experiment, since every one says it is so fine a thing to be a queen."
 

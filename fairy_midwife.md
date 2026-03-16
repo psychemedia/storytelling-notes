@@ -624,7 +624,7 @@ THE FAIRY NURSE.
 
 The abduction and rescue element of the tale has much about it that resonates with a tragic case over thirty years later: the killing of Bridget Cleary.
 
-TO DO "Are you a witch, Or are you a fairy, or are you the wife of Micael Cleary?" but the learliers i can date it to is and encylcopedia of witchcraft published in 1970. Then maybe "I am not a witch, I am not a fairy, I am the wife of michael cleary"
+TO DO "Are you a witch, Or are you a fairy, or are you the wife of Michael Cleary?" but the earliest I can date it to is and encyclopedia of witchcraft published in 1970. Then maybe "I am not a witch, I am not a fairy, I am the wife of michael cleary"
 
  But a more complete look at fairy kidnappings and fairy changelings is best left for another storynote.
 
@@ -1759,7 +1759,7 @@ A story somewhat similar is told of a Countess Ranzau.
 
 ```
 
-Fron the Danish tradition, it is *elves*, as well as *trolls*, that feature in the story.
+From the Danish tradition, it is *elves*, as well as *trolls*, that feature in the story.
 
 ```{admonition}  Danish traditions, 1851
 :class: dropdown

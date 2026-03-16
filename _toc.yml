@@ -45,15 +45,13 @@ parts:
   - file: brother_jucundus
   - file: mr-fox
   - file: grateful_dead
+  - file: lay_of_the_werewolf
 - caption: Legends As Told
   chapters:
   - file: richmond_drummer_boy
 - caption: Based On Events - As Yet Untold
   chapters:
   - file: press_gang
-  - file: ross-may-hill-old-ellen
-  - file: ross-who-killed-the-bear
-  - file: ross-ruardean-murder
   - file: brean_down_gunner_haines
 - caption: Practice and performance notes
   chapters:

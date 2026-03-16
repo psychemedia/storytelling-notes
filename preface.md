@@ -10,13 +10,14 @@ All the pages in this set of storynotes are subject to being moved to other repo
 
 Isle of Wight, 2022
 
-https://tistales.org.uk
+https://montystoryteller.org
 
 <hr/>
 
 Some of my other storynotes collections:
 
 - [Isle of Wight Storynotes](https://psychemedia.github.io/island-storynotes/preface.html)
+- [Ross-on-Wye Storynotes](https://psychemedia.github.io/ross-storynotes/preface.html)
 - [In Search of Fionn MacCumhaill and the Fianna](https://psychemedia.github.io/finn-resources/preface.html)
 - [On the Trail of the Sin Eater](https://psychemedia.github.io/sin-eater-resources/_intro.html)
 - [On the Loss of the Eurydice](https://psychemedia.github.io/eurydice-resources/_preface.html)

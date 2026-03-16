@@ -1,6 +1,9 @@
 # The Lay of the Werewolf
 
+I first came across this tale whilst doing a bit of reading around the French *salons* of the late seventeenth century. These literary gatherings of the great and the good of Parisian society provided the birthplace of many of the fairy tales we are familiar with today, some of them derived from traditional folk tales, others purely from the imagination of their predominantly female authors.
 
+```{admonition} The Lay of the Were-Wolf, Marie de France, 12th c.
+:class: dropdown
 https://archive.org/details/masonfrenchmediaevalromances/page/83/mode/1up
 French mediaeval romances from the lays of Marie de France translated by Eugene Mason
 by Marie, de France, 12th cent; Mason, Eugene, 1862-1935
@@ -82,3 +85,5 @@ Straightway the King demanded the vesture of his baron, whether this were to the
 The King carried the Wolf to his chamber, and shut the doors upon him fast. He delayed for a brief while, and taking two lords of his fellowship with him, came again to the room. Entering therein, all three, softly together, they found the knight sleeping in the King's bed, like a little child. The King ran swiftly to the bed and taking his friend in his arms, embraced and kissed him fondly, above a hundred times. When man's speech returned once more, he told him of his adventure. Then the King restored to his friend the fief that was stolen from him, and gave such rich gifts, moreover, as I cannot tell. As for the wife who had betrayed Bisclavaret, he bade her avoid his country, and chased her from the realm. So she went forth, she and her second lord together, to seek a more abiding city, and were no more seen.
 
 The adventure that you have heard is no vain fable. Verily and indeed it chanced as I have said. The Lay of the Were-Wolf, truly, was written that it should ever be borne in mind.
+
+```

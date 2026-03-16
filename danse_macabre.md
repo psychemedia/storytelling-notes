@@ -27,6 +27,14 @@ Les Simulachres & Historiees Faces de la Mort: Commonly Called "The Dance of ...
 by Hans Holbein, Henry Green
 Publication date 1869
 
+
+https://archive.org/details/gri_33125008050011/page/478/mode/1up?q=%22lanterns+of+the+dead%22
+Military and religious life in the Middle Ages and at the period of the Renaissance
+by Jacob, P. L., 1806-1884
+Publication date 
+1870
+
+
 https://archive.org/details/TheDanceOfDeathExhibited/page/n21/mode/2up
 The dance of death exhibited in elegant engravings on wood, with a dissertation on the several representations of that subject but more particularly on those ascribed to Macaber and Hans Holbein
 by Holbein, Hans, 1497-1543; Douce, Francis, 1757-1834
