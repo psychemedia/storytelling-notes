@@ -3,6 +3,10 @@
 Odd bits and bobs
 
 
+https://earlyenglishlaws.ac.uk/laws/texts/ecf1/view/#ad-prol.1/ad-translation
+If someone hosts someone, known or unknown, for two nights, he can consider him a guest, because if that one commits an offense, he shall not incur damages for that man. But if he who had been injured makes a report to the justice about him, that the offense was committed by his counsel, he will expurgate himself from plan and deed, if he can, by oath with two of his law-worthy neighbors. But if not,83 he shall pay in compensation the damage and the monetary penalty. But if he provides hospitality for a third night, and that man wrongs someone, he shall hold him to right as if one of his own household because, as the English say, tuo niht gest, pridde niht open hine.84 And if he can not hold him to right, he will have a term of a month and a day. And if he can find him, the evildoer himself shall restore the damage that he caused and the penalty if he is able, [and] also of the body if to this he is forfeit. And if the evildoer cannot restore the damage that he caused, the host who had given him hospitality will make restoration and [pay] the monetary penalty. And if the justice holds him suspect, he will clear himself according to the judgment of the hundred or shire.85
+
+
 https://archive.org/details/historyofsignboa0000jaco/page/114/mode/2up?q=%22lord+of+misrule%22
 history of signboards
 by jacob larwood & john camden hotten
