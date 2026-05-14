@@ -632,7 +632,7 @@ Below the gallows-tree.
 https://en.wikipedia.org/wiki/Jamie_Macpherson
 
 https://dufftown.info/2022/02/02/the-clock-that-hung-macpherson/
-THe Clock that hung macpherson
+The Clock that hung macpherson
 
 - Post author:[Anne Jan Zandstra](https://dufftown.info/author/annejan/ "Posts by Anne Jan Zandstra")
 
