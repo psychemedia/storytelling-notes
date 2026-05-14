@@ -109,7 +109,7 @@ The earliest reports describe an incident occurring at the fort at 5am, Wednesda
 
 ```{admonition} Disaster at Brean Down, *South Wales Echo*, July 4th, 1900
 :class: dropdown
-South Wales Echo - [Wednesday 04 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000902/19000704/044/0003)
+In *South Wales Echo*, [Wednesday 04 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000902/19000704/044/0003)
 
 Disaster at Brean Down.  
 EXPLOSION OF A MAGAZINE.  
@@ -121,8 +121,7 @@ This morning about 5 o'clock a loud explosion occurred at Brean Down fort. At a 
 
 ```{admonition} EXPLOSION AT BREAN DOWN, *Bath Chronicle and Weekly Gazette*, July 5th, 1900
 :class: dropdown
-
-Bath Chronicle and Weekly Gazette - [Thursday 05 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000221/19000705/059/0005)
+In *Bath Chronicle and Weekly Gazette*, [Thursday 05 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000221/19000705/059/0005)
 
 EXPLOSION AT BREAN DOWN. A serious explosion occurred in the magazine on Wednesday at Brean Down Fort, south of Weston-super-Mare Bay. One man was killed, and three severely injured.
 
@@ -132,7 +131,7 @@ The first eyewitness reports from reporters described the scene of destruction, 
 
 ```{admonition} EXPLOSION AT BREAN DOWN, *Bristol Mercury*, July 5th, 1900
 :class: dropdown
-Bristol Mercury - [Thursday 05 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000035/19000705/043/0007)
+In *Bristol Mercury*, [Thursday 05 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000035/19000705/043/0007)
 
 EXPLOSION AT BREAN DOWN.  
 A SOLDIER KILLED.  
@@ -151,8 +150,7 @@ The Bristol Times' report gives a sense of how awareness of the event spread acr
 
 ```{admonition} MAGAZINE EXPLOSION AT BREAN DOWN, *Bristol Times and Mirror*, July 7th, 1900
 :class: dropdown
-
-Bristol Times and Mirror - [Saturday 07 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000984/19000707/216/0012)
+In *Bristol Times and Mirror*, [Saturday 07 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000984/19000707/216/0012)
 
 MAGAZINE EXPLOSION AT BREAN DOWN.  
 SOLDIER BLOWN TO ATOMS.  
@@ -168,7 +166,7 @@ The *Western Daily Press* were keen for a full inquiry to be called and the find
 
 ```{admonition} "An occurrence that demands the most thorough investigation", *Western Daily Press*, July 5th, 1900
 :class: dropdown
-Western Daily Press - [Thursday 05 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19000705/016/0005)
+In *Western Daily Press*, [Thursday 05 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19000705/016/0005)
 
 That the magazine at Brean Down fort should have suddenly exploded at an early hour yesterday morning is an occurrence that demands the most thorough investigation. The mystery may be merely personal, but even so it is as well that the public mind should be speedily as possible disabused of any germ of suspicion that might have found lodgment there. It is alleged that the deceased had no business to be in the magazine at all; and if this allegation be borne out by reference to the regulations it will be essential that some plausible reason should be advanced for his presence there. Moreover, the chain of circumstances leading up to the ignition of the ammunition will have to be made perfectly clear as a matter of public policy. In addition to the coroner's inquest, a Government inquiry will be held. The latter may probably be private, but through the medium of the coroner's court the public should be fully instructed in the details of the accident that is of interest far beyond the confines of Weston-super-Mare. 
 
@@ -181,8 +179,7 @@ The cause of the tragedy appears to have been the actions of Gunner Haines, who 
 
 ```{admonition} MAGAZINE EXPLOSION BREAN DOWN, *Western Daily Press*, July 5th, 1900
 :class: dropdown
-
-Western Daily Press - [Thursday 05 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19000705/001/0003)
+In *Western Daily Press*, [Thursday 05 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19000705/001/0003)
 
 MAGAZINE EXPLOSION BREAN DOWN. ONE GUNNER KILLED, ANOTHER INJURED.
 
@@ -194,8 +191,7 @@ To investigate the explosion, a court of inquiry was assembled that include repr
 
 ```{admonition} THE DOWN EXPLOSION, *Western Daily Press*, July 6th, 1900
 :class: dropdown
-
-Western Daily Press - [Friday 06 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19000706/021/0005)
+In *Western Daily Press*, [Friday 06 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19000706/021/0005)
 
 THE DOWN EXPLOSION. Our Plymouth correspondent telegraphs:— In reference serious explosion at Brean Down, attended with fatal results. Lieut.-General Sir W. Butler, K.C.B., commanding the western district, has ordered court of inquiry to assemble at Brean Down to-day, at noon. The explosion took place at No. 3 cartridge score. Major A. W. B. Gordon, R.F.A, Bristol, will be president, and the other members of the court will be Captain G. P. Paske, R.E., Cardiff, and Captain P. G. Wilkins, R.G.A. The minutes of the court are to be sent to Colonel Walford, commanding Royal Artillery, western district, at Devonport.
 
@@ -209,8 +205,7 @@ The report in the *Western Daily Press* focussed on the testimony of the witness
 
 ```{admonition} THE MAGAZINE EXPLOSION BREAN DOWN — INQUEST, *Western Daily Press*, July 7th, 1900
 :class: dropdown
-
-Western Daily Press - [Saturday 07 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19000707/032/0007)
+In *Western Daily Press*, [Saturday 07 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19000707/032/0007)
 
 THE MAGAZINE EXPLOSION BREAN DOWN.
 
@@ -268,7 +263,7 @@ The report in the *South Wales Echo* was considerably more succinct.
 
 ```{admonition} BREAN DOWN EXPLOSION — INQUEST AND VERDICT, *South Wales Echo*, July 7th, 1900
 :class: dropdown
-South Wales Echo - [Saturday 07 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000902/19000707/075/0004)
+In *South Wales Echo*, [Saturday 07 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000902/19000707/075/0004)
 
 BREAN DOWN EXPLOSION.  
 INQUEST AND VERDICT.  
@@ -286,8 +281,7 @@ In the *Weston-super-Mare Gazette, and General Advertiser*, we learn that a phot
 
 ```{admonition} A CURIOUS COINCIDENCE, *Weston-super-Mare Gazette, and General Advertiser*, July 7th, 1900
 :class: dropdown
-
-Weston-super-Mare Gazette, and General Advertiser - [Saturday 07 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001444/19000707/124/0008)
+In *Weston-super-Mare Gazette, and General Advertiser*, [Saturday 07 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001444/19000707/124/0008)
 
 MAGAZINE EXPLOSION AT BREAN DOWN.
 
@@ -311,7 +305,7 @@ The most complete report of the whole affair appears in the *Weston Mercury* of 
 
 ```{admonition} Report of the incident, July 1900
 :class: dropdown
-Weston Mercury - [Saturday 07 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001334/19000707/098/0005)
+In *Weston Mercury*, [Saturday 07 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001334/19000707/098/0005)
 
 MAGAZINE EXPLOSION AT BREAN DOWN
 
@@ -328,7 +322,7 @@ The *Weston Mercury* then provided some further detail, as well as several inter
 
 ```{admonition} Particulars and interviews, July 1900
 :class: dropdown
-Weston Mercury - [Saturday 07 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001334/19000707/098/0005)
+In *Weston Mercury*, [Saturday 07 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001334/19000707/098/0005)
 
 LATER PARTICULARS.
 
@@ -354,7 +348,7 @@ Finally, the *Weston Mercury* notes the membership of the official enquiry board
 
 ```{admonition} The Enquiry, and the Inquest, July, 1900
 :class: dropdown
-Weston Mercury - [Saturday 07 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001334/19000707/098/0005)
+In *Weston Mercury*, [Saturday 07 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001334/19000707/098/0005)
 
 OFFICIAL ENQUIRY
 
@@ -399,8 +393,7 @@ The jury returned a verdict to the following effect "Killed by No. 3 magazine on
 At a national level, news of the explosion at Brean Down was picked up by correspondents citing the incident as justification for the need to establish an Army League dedicated to the defence of such establishments.
 
 ```{admonition} WORK FOR THE ARMY LEAGUE, *Morning Post*, July 11th, 1900
-:class: dropdown seealso
-Morning Post - [Wednesday 11 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/19000711/052/0008)
+:class: dropdown seealsoIn *Morning Post*, [Wednesday 11 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/19000711/052/0008)
 
 WORK FOR THE ARMY LEAGUE  
 TO THE EDITOR OF THE MORNING POST.
@@ -413,8 +406,7 @@ In the *Bristol Magpie*, some more context was provided about Gunner Haines pers
 
 ```{admonition} The Brean Down Disaster, *Bristol Magpie*, July 10th, 1900
 :class: dropdown
-
-Bristol Magpie - [Thursday 12 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002146/19000712/077/0017)
+In *Bristol Magpie*, [Thursday 12 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002146/19000712/077/0017)
 
 The Brean Down Disaster  
 STATEMENTS HITHERTO UN-PUBLISHED
@@ -428,7 +420,7 @@ The explosion of a magazine on Brean Down, near Weston, a few days ago, which wa
 
 ```{admonition} BREAN DOWN EXPLOSION, *Wells Journal*, July 12th, 1900
 :class: dropdown
-Wells Journal - [Thursday 12 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000308/19000712/017/0002)
+In *Wells Journal*, [Thursday 12 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000308/19000712/017/0002)
 
 BREAN DOWN EXPLOSION  
 The Inquest.
@@ -440,7 +432,7 @@ With weekly newspapers, it was not unusual to see what was by now rather "old" n
 
 ```{admonition} MAGAZINE EXPLOSION NEAR WESTON, *Monmouthshire Beacon, July 13th, 1900
 :class: dropdown
-Monmouthshire Beacon - [Friday 13 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001272/19000713/167/0006)
+In *Monmouthshire Beacon*, [Friday 13 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001272/19000713/167/0006)
 
 MAGAZINE EXPLOSION NEAR WESTON.
 
@@ -452,7 +444,7 @@ But it was also the case that a more recent take on the same story could also ap
 
 ```{admonition} AN INSANE GUNNER, *Monmouthshire Beacon*, July 13th, 1900
 :class: dropdown
-Monmouthshire Beacon - [Friday 13 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001272/19000713/085/0003)
+In *Monmouthshire Beacon*, [Friday 13 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001272/19000713/085/0003)
 
 AN INSANE GUNNER.
 
@@ -464,8 +456,7 @@ Elsewhere, reports of the inquest followed suit with their headlines that quickl
 
 ```{admonition} THE BREAN DOWN EXPLOSION: MAD GUNNER, *West Somerset Free Press*, July 14th, 1900
 :class: dropdown
-
-West Somerset Free Press - [Saturday 14 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001432/19000714/130/0007)
+In *West Somerset Free Press*, [Saturday 14 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001432/19000714/130/0007)
 
 THE BREAN DOWN EXPLOSION.  
 A MAD GUNNER.
@@ -476,7 +467,7 @@ An inquest was held at Berrow, near Brean, Friday, into the death of Gunner Hain
 
 ```{admonition} MADMAN BLOWS UP A FORT, *Lloyd's Weekly Newspaper*, July 8th, 1900
 :class: dropdown
-Lloyd's Weekly Newspaper - [Sunday 08 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000079/19000708/068/0013)
+In *Lloyd's Weekly Newspaper*, [Sunday 08 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000079/19000708/068/0013)
 
 MADMAN BLOWS UP A FORT.
 
@@ -486,7 +477,7 @@ Brean Down fort, to the south of Weston-super-Mare bay, was the scene of a serio
 
 ```{admonition} POWDER MAGAZINE BLOWN UP, *Weymouth Telegram*, July 10th, 1900
 :class: dropdown
-Weymouth Telegram - [Tuesday 10 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002982/19000710/170/0008)
+In *Weymouth Telegram*, [Tuesday 10 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002982/19000710/170/0008)
 
 POWDER MAGAZINE BLOWN UP.
 
@@ -500,7 +491,7 @@ The demolition of the devastated fortress was announced a few months later, in O
 
 ```{admonition} BREAN DOWN FORTRESS, *West Somerset Free Press*, October 27th, 1900
 :class: dropdown
-West Somerset Free Press - [Saturday 27 October 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001432/19001027/146/0006)
+In *West Somerset Free Press*, [Saturday 27 October 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001432/19001027/146/0006)
 
 BREAN DOWN FORTRESS.
 
@@ -535,8 +526,7 @@ A brief review of the local papers and court reports of the time suggests that d
 
 ```{admonition} "A drunken person is the worst enemy of the publican", September, 1898
 :class: dropdown seealso
-https://britishnewspaperarchive.co.uk/viewer/bl/0001444/18980910/117/0005
-Weston-super-Mare Gazette, and General Advertiser - Saturday 10 September 1898
+In *Weston-super-Mare Gazette, and General Advertiser*, [Saturday 10 September 1898](https://britishnewspaperarchive.co.uk/viewer/bl/0001444/18980910/117/0005).
 
 The report presented the Magistrates sitting at the Brewster Sessions Friday, last week was an encouraging one, and it is gratifying to find that in a place like Weston-super-Mare, with resident population 18,000, only 28 residents were last year convicted of drunkenness, a decrease as compared with the previous year. There was an increase in the total number of convictions for the year, but this was due the active measures which have been adopted the police to check drunkenness amongst the excursionists, who visit the town in large numbers on Bank Holidays. The tabulated form furnished by the Superintendent of the Police was an interesting document and gave the figures for the last seven years. There is about one license in Weston-super-Mare to every 300 of the population.
 
@@ -548,16 +538,14 @@ Reports of other forms of unseemly behaviour are also few and far between, with 
 
 ```{admonition} A unreasonable period for obtaining refreshments? September 1889
 :class: dropdown seealso
-https://britishnewspaperarchive.co.uk/viewer/bl/0000406/18890920/072/0007
-Western Gazette - Friday 20 September 1889
+In *Western Gazette*, [Friday 20 September 1889](https://britishnewspaperarchive.co.uk/viewer/bl/0000406/18890920/072/0007).
 
 HIGHBRIDGE. Petty Sessions, Sept. 16.— *Mr. John Hallett*, landlord of the Railway Hotel, Burnham, was charged with unlawfully and knowingly permitting his licensed house to be meeting place of reputed prostitutes on the 23rd and 24th August, and unlawfully allowing them to remain thereon longer than was necessary for the purpose obtaining reasonable refreshments, and also on the 23rd August with allowing his premises be kept open during prohibited hours. — Mr. R. Brice, solicitor, Burnham, represented the defendant, who did not appear, and admitted the charges. He explained that, acting under his (Mr. Brice's) advice, defendant had disposed of the property, and would retire from public business. He trusted the Bench would thus take lenient view of the matter.—Defendant was fined and costs, and 10s, including costs, respectively. ...
 ```
 
 ```{admonition} Serious Charge Against a Burnham Landlord, September 1889
 :class: dropdown seealso
-https://britishnewspaperarchive.co.uk/viewer/bl/0001444/18890918/026/0003
-Weston-super-Mare Gazette, and General Advertiser - Wednesday 18 September 1889
+In *Weston-super-Mare Gazette, and General Advertiser*, [Wednesday 18 September 1889](https://britishnewspaperarchive.co.uk/viewer/bl/0001444/18890918/026/0003).
 
 HIGHBRIDGE PETTY SESSIONS.
 
@@ -573,8 +561,7 @@ That said, in March, 1892, we do find one report of drunken behaviour that refer
 
 ```{admonition} All the defendants appeared to be sober, March 1892
 :class: dropdown seealso
-https://britishnewspaperarchive.co.uk/viewer/bl/0001444/18920323/024/0003
-Weston-super-Mare Gazette, and General Advertiser - Wednesday 23 March 1892
+In *Weston-super-Mare Gazette, and General Advertiser*, [Wednesday 23 March 1892](https://britishnewspaperarchive.co.uk/viewer/bl/0001444/18920323/024/0003).
 
 Drunk and Disorderly.
 
@@ -596,8 +583,7 @@ But there is also a rather strange tale report of a "Skimmerton Riding", an old 
 
 ```{admonition} A sequel to the Skimmerton Riding, February, 1899
 :class: dropdown seealso
-https://britishnewspaperarchive.co.uk/viewer/bl/0002470/18990225/049/0005
-Central Somerset Gazette - Saturday 25 February 1899
+In *Central Somerset Gazette*, [Saturday 25 February 1899](https://britishnewspaperarchive.co.uk/viewer/bl/0002470/18990225/049/0005).
 
 HIGHBRIDGE.
 
