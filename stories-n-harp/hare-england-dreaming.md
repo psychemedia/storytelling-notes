@@ -30,18 +30,15 @@ Related:
 
 lucky jack (?)
 
+ALso reminds me of Shanks' pony - new to me band at Ey Up Me Duck, thlught there must be a tale behind the name, indeed there is, its slang for using your legs. In the next story the Hedley Kow, that's Kow with a K, is a tricksterish figure, who changes shape in order to get people to carry him on his way. In one version, he turns himself into a bundle of straw, that an old women out collecting sticks picks up and takes home, at which point he returns to his normal form and runs off. But in this, more widely known version, from Jacobs' second collection of English fairy tales, he has a bit more fun...
+
 Hedley Kow in 
-https://archive.org/details/moreenglishfairy00jaco2/page/56/mode/2up?q=hedley
-More English fairy tales
-by Jacobs, Joseph, 1854-1916; Batten, John Dickson, 1860-1932, ill
 
-Publication date [1922?]
-
-pp. 55-59
+In Joseph Jacobs, *More English Fairy Tales*, 1894, [pp. 55-59](https://archive.org/details/moreenglishfairy00jaco2/page/56/mode/2up).
 
 The Hedley Kow
 
-THERE was once an old woman, who earned a poor living by going errands and such like, for the farmers' wives round about the village where she lived. It was n't much she earned by it; but with a plate of meat at one house, and a cup of tea at another, she made shift to get on somehow, and always looked as cheerful as if she had n't a want in the world.
+THERE was once an old woman, who earned a poor living by going errands and such like, for the farmers' wives round about the village where she lived. It wasn't much she earned by it; but with a plate of meat at one house, and a cup of tea at another, she made shift to get on somehow, and always looked as cheerful as if she had n't a want in the world.
 
 Well, one summer evening as she was trotting away homewards, she came upon a big black pot lying at the side of the road.
 
@@ -49,27 +46,27 @@ Well, one summer evening as she was trotting away homewards, she came upon a big
 
 "Maybe it'll have a hole in it," she said thoughtfully:—
 
-"Ay, that'll be how they Ve left it lying, hinny. But then it'd do fine to put a flower in for the window; I'm thinking I'll just take it home, anyways." And she bent her stiff old back, and lifted the lid to look inside.
+"Ay, that'll be how they've left it lying, hinny. But then it'd do fine to put a flower in for the window; I'm thinking I'll just take it home, anyways." And she bent her stiff old back, and lifted the lid to look inside.
 
-"Mercy me!" she cried, and jumped back to the other side of the road; if it is rit brim full d gold PIECES!! '
+"Mercy me!" she cried, and jumped back to the other side of the road; "if it is rit brim full d gold PIECES!!"
 
-For a while she could do nothing but walk round and round her treasure, admiring the yellow gold and wondering at her good luck, and saying to herself about every two minutes, "Well, I do be feeling rich and grand"' But presently she began to think how she could best take it home with her; and she could n't see any other way than by fastening one end of her shawl to it, and so dragging it after her along the road.
+For a while she could do nothing but walk round and round her treasure, admiring the yellow gold and wondering at her good luck, and saying to herself about every two minutes, "Well, I do be feeling rich and grand". But presently she began to think how she could best take it home with her; and she couldn't see any other way than by fastening one end of her shawl to it, and so dragging it after her along the road.
 
 "It'll certainly be soon dark," she said to herself, "and folk'll not see what I'm bringing home with me, and so I'll have all the night to myself to think what I'll do with it. I could buy a grand house and all, and live like the Queen herself, and not do a stroke of work all day, but just sit by the fire with a cup of tea; or maybe I'll give it to the priest to keep for me, and get a piece as I'm wanting; or maybe I'll just bury it in a hole at the garden-foot, and put a bit on the chimney, between the chiney teapot and the spoons — for ornament like. Ah! I feel so grand, I don't know myself rightly!"
 
 And by this time, being already rather tired with dragging such a heavy weight after her, she stopped to rest for a minute, turning to make sure that her treasure was safe.
 
-But when she looked at it, it was n't a pot of gold at all, but a great lump of shining silver!
+But when she looked at it, it wasn't a pot of gold at all, but a great lump of shining silver!
 
-She stared at it, and rubbed her eyes and stared at it again; but she could n't make it look like anything but a great lump of silver. "I'd have sworn it was a pot of gold," she said at last, "but I reckon I must have been dreaming. Ay, now, that 's a change for the better; it'll be far less trouble to look after, and none so easy stolen; yon gold pieces would have been a sight of bother to keep 'em safe. Ay, I'm well quit of them; and with my bonny lump I'm as rich as rich!"
+She stared at it, and rubbed her eyes and stared at it again; but she couldn't make it look like anything but a great lump of silver. "I'd have sworn it was a pot of gold," she said at last, "but I reckon I must have been dreaming. Ay, now, that's a change for the better; it'll be far less trouble to look after, and none so easy stolen; yon gold pieces would have been a sight of bother to keep 'em safe. Ay, I'm well quit of them; and with my bonny lump I'm as rich as rich!"
 
 And she set off homewards again, cheerfully planning all the grand things she was going to do with her money. It wasn't very long, however, before she got tired again and stopped once more to rest for a minute or two.
 
-Again she turned to look at her treasure, and as soon as she set eyes on it she cried out in astonishment. "Oh, my!" said she; "now it's a lump o' iron! Well, that beats all; and it's just real convenient! I can sell it as easy as easy, and get a lot o' penny pieces for it. Ay, hinny, an' it's much handier than a lot o' yer gold and silver as 'd have kept me from sleeping o' nights thinking the neighbours were robbing me— an' it's a real good thing to have by you in a house, ye niver can tell what ye might n't use it for, an' it'll sell — ay, for a real lot Rich? I'll be just rolling!"
+Again she turned to look at her treasure, and as soon as she set eyes on it she cried out in astonishment. "Oh, my!" said she; "now it's a lump o' iron! Well, that beats all; and it's just real convenient! I can sell it as easy as easy, and get a lot o' penny pieces for it. Ay, hinny, an' it's much handier than a lot o' yer gold and silver as'd have kept me from sleeping o' nights thinking the neighbours were robbing me— an' it's a real good thing to have by you in a house, ye niver can tell what ye mightn't use it for, an' it'll sell — ay, for a real lot Rich? I'll be just rolling!"
 
 And on she trotted again chuckling to herself on her good luck, till presently she glanced over her shoulder, "just to make sure it was there still," as she said to herself.
 
-"Eh, my!" she cried as soon as she saw it; if it has n't gone and turned itself into a great stone this time! Now, how could it have known that I was just terrible wanting something to hold my door open with? Ay, if that isn't a good change! Hinny, it 's a fine thing to have such good luck."
+"Eh, my!" she cried as soon as she saw it; if it hasn't gone and turned itself into a great stone this time! Now, how could it have known that I was just terrible wanting something to hold my door open with? Ay, if that isn't a good change! Hinny, it 's a fine thing to have such good luck."
 
 And, all in a hurry to see how the stone would look in its corner by her door, she trotted off down the hill, and stopped at the foot, beside her own little gate.
 
@@ -89,3 +86,10 @@ Source. — Told to Mrs. Balfour by Mrs. M. of S. Northumberland. Mrs. M.'s moth
 
 Parallels. — There is a short reference to the Hedley Kow in Henderson, *l. c.*, first edition, pp. 234-5. Our story is shortly referred to thus: "He would present himself to some old dame gathering sticks, in the form of a truss of straw, which she would be sure to take up and carry away. Then it would become so heavy that she would have to lay her burden down, on which the straw would become 'quick,' rise upright and shuffle away before her, till at last it vanished from her sight with a laugh and shout." Some of Robin Goodfellow's pranks are similar to those of the Hedley Kow. The old woman's content with the changes is similar to that of "Mr. Vinegar." An ascending scale of changes has been studied by Prof. Crane, Italian Popular Tales, p. 373.
 
+
+
+In William Henderson, *Notes on the folk-lore of the northern counties of England and the borders*, 1879, [pp. 270-1](https://archive.org/details/notesonfolkloreo00hendiala/page/270/mode/2up).
+
+The Hedley Kow was a bogie, mischievous rather than malignant, which haunted the village of Hedley, near Ebchester. His appearance was never very alarming, and he used to end his frolics with a horse-laugh at the expense of his victims. He would present himself to some old dame gathering sticks, in the form of a truss of straw, which she would be sure to take up and carry away. Then it would become so heavy she would have to lay her burden down, on which the straw would become "quick," rise upright, and shuffle away before her, till at last it vanished from her sight with a laugh and shout. Again, in the shape of a favourite cow, the sprite would lead the milkmaid a long chase round the field, and after kicking and routing during milking-time would upset the pail, slip clear of the tie, and vanish with a loud laugh. Indeed the "Kow " must have been a great nuisance in a farmhouse, for it is said to have constantly imitated the voice of the servant-girl's lovers, overturned the kailpot, given the cream to the cats, unravelled the knitting, or put the spinning-wheel out of order. But the sprite made himself most obnoxious at the birth of a child. He would torment the man who rode for the howdie, frightening the horse, and often making him upset both messenger and howdie, and leave them in the road. Then he would mock the gudewife, and, when her angry husband rushed out with a stick to drive away the "Kow" from the door or window, the stick would be snatched from him, and lustily applied to his own shoulders.
+
+Two adventures with the Hedley Kow are thus related. A farmer named Forster, who lived near Hedley, went out into the field one morning, and caught, as he believed, his own grey horse. After putting the harness on, and yoking him to the cart, Forster was about to drive off, when the creature slipped away from the limmers "like a knotless thread," and set up a great nicker as he flung up his heels and scoured away, revealing himself clearly as the Hedley Kow. Again, two young men of Newlands, near Ebchester, went out one evening to meet their sweethearts; and arriving at the trysting-place, saw them, as it appeared, a short distance before them. The girls walked on for two or three miles; the lads followed, quite unable to overtake them, till at last they found themselves up to the knees in a bog, and their beguilers vanished, with a loud Ha! ha! The young men got clear of the mire and ran homewards, as fast as they could, the bogie at their heels hooting and mocking them. In crossing the Derwent they fell into the water, mistook each other for the sprite, and finally reached home separately, each telling a fearful tale of having been chased by the Hedley Kow, and nearly drowned in the Derwent.
