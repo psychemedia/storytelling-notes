@@ -1,10 +1,10 @@
 # Felo de Se — Abel Griffiths
 
+TO DO
+
 Last *felo de se* to be buried at a crossroads... But it wasn't quite that simple...
 
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18230624/016/0003
-Morning Post - Tuesday 24 June 1823
+In *Morning Post*, [Tuesday 24 June 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18230624/016/0003).
 
 MOST HORRIBLE OCCURRENCE. CORONER'S INQUEST on a GENTLEMAN and his SON.
 
@@ -37,13 +37,11 @@ Sarah Goald, servant to the deceased, Mr. Griffiths, sen. also corroborated the 
 The Coroner, in order to give time for the production of further evidence, adjourned Ihe Inquest until four o'clock to-day.
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0003018/18230627/021/0004
-New Globe - Friday 27 June 1823
+In *New Globe*, [Friday 27 June 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0003018/18230627/021/0004).
 
 INTERMENT OF ABEL GRIFFITHS. The remains of this unfortunate parricide were car ried on Wednesday evening, in a shell, from the house of his father, in Maddx street, to St. Georges work-house, from whence they were conveyed at half-past one o'clock yesterday morning down South Audley-street, Hyde-park Corner, and Grosvenor-place, to the grave, at the cross-roads formed by Eaton-Street, King's-road, Grosvenor-place, and Pimlico. the arrival of the body on the ground, the constables formed a circle round the grave to keep off the crowd, the deceased body was then taken out, wrapped in a large piece of Russian matting, tied with a strong cord, and instantly dropped into the ground, or hole, about five feet in depth. The disgusting ceremony of driving a stake through the body was dispensed with. The number of persons who attended the body to the grave, including the constables and watchmen, amounted to about 200.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002762/18230629/020/0005
-Wooler's British Gazette - Sunday 29 June 1823
+In *Wooler's British Gazette*, [Sunday 29 June 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0002762/18230629/020/0005).
 
 HORRIBLE CASE. Monday evening an inquest was held, an the bodies of Thomas Howard Griffiths; Esq., aged sixty, and Abel Griffiths, his son, aged twenty-two, who came by their deaths under the following circumstances:— William Wade, said he was servant to the deceased, Mr. Griffith, sen., whose son occasionally visited the house. Mr. Abel Griffith, was studying for the law, and resided in Temple-lane; his father did not usually see him when he made his visits.— The last time he called, witness was up stairs. He was informed that a young gentleman was below, who was desirous of seeing his (witness's) master. Witness went down stairs, and saw Mr. Abel Griffiths standing in the passage. He had his arms folded, and appeared melancholy and dejected. He said he wanted to see his father, and asked if he was at home; witness answered "that he was," on which the deceased asked, "might he go up stairs?" Witness said "no:" he would go, and he accordingly proceeded up stairs, and informed the father who consented to see him. Witness conducted him into the drawing room, on which he bowed to his father who returned it. The father, was going out at the time, and had previously announced his intention of doing so to witness. They remained in the room about twenty minutes; they at first spoke very low: witness heard the father say to his son, "That he knew very well what would be the end of it; he (the son) would not feel satisfied, until a gaol had picked him up." He also said, "I allowed you a certain sum of money, and that would have kept you very well. You ought to have stayed where you was."— He did not hear the deceased repeat the specified sum which he allowed him—nor did he know where his father wished him to have remained. Witness also heard the father say to his son, "I must go out." They had not been there long when witness heard the report of a pistol. He went to ascertain the cause, a lady of the house was near the door; they shortly after heard the report of a second pistol, and on opening the door they saw the old gentleman lying on the floor, and bleeding very mach. The Coroner, adjourned the inquest until Tuesday; when the inquiry was resumed, and various witnesses examined; when it appeared certain that the son had murdered the father, and then destroyed himself. An attempt was made to shew that he was insane; but the only evidence to prove this, was that he was particularly irritable, and laboured under ill health, and pecuniary embarrassments.
 
@@ -51,10 +49,9 @@ After a consultation of nearly two hours, the jury returned the following verdic
 
 The body of Mr. Abel Griffiths was accordingly interred in the cross road, formed by Grosvenor-place; Eton-street, and the King's road, on Thursday morning. A crowd attended, and seemed much disgusted with a ceremony, which, however, was never more justified.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0001131/18230705/039/0004
-Galway Weekly Advertiser - Saturday 05 July 1823
+In *Galway Weekly Advertiser*, [Saturday 05 July 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0001131/18230705/039/0004).
 
-DREADFFUL PARRICIDE.  
+DREADFUL PARRICIDE.  
 *London, June 24, 1823.*
 
 Yesterday, about one o'clock, an affair of a most dreadful nature occurred at the house of Mr. Wynn, Maddox-street, Bond-street, where for a considerable time past, Thomas Grant Griffiths, Esq. and his family, have occupied lodgings. His son, Mr. Abel Griffiths, was frequently spoken to by his father respecting his expensive mode of living, and domestic feuds arose, which, it is supposed, led to the horrible event. Mr. Griffiths, sen. was yesterday morning observed rather depressed; he had inquired more than once for his son, who, soon after twelve o'clock, came in, and directly went to his father in the drawing-room. A violent altercation between them was heard, and after a slight pause, the inmates of the house were dreadfully alarmed on hearing the report of fire arms. The servants rushed up stairs, and on bursting into the room, were horror struck at seeing father and son stretched weltering in their blood.
@@ -102,8 +99,7 @@ At the adjourned Inquest the Jury, after consulting two hours, returned a verdic
 The Coroner delivered his warrant to the Beadle for the interment of the body of Mr. Abel Griffiths, in a cross road.
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18230702/025/0003
-Morning Post - Wednesday 02 July 1823
+In *Morning Post*, [Wednesday 02 July 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18230702/025/0003).
 
 *The BODY of the late PARICIDE and SUICIDE.*
 
@@ -115,30 +111,25 @@ The patrole directed the coachman to attend at the Office at eleven o clock yest
 
 The coachman did not attend in the course of yesterday nor was any further steps taken in the business, but as the body is safely detained, there is no doubt a proper inquiry will be instituted.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000103/18230703/003/0002
-Exeter Flying Post - Thursday 03 July 1823
+In *Exeter Flying Post*, [Thursday 03 July 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000103/18230703/003/0002).
 
 *CORONER'S INQUEST on the bodies of MR. THOS HOWARD GRIFFITHS and MR. ABEL GRIFFITHS, his son.* The Jury re-assembled on Tuesday afternoon for a further investigation of this horrible occurrence, which we noticed in out last, when three surgeons, who had occasionally attended Mr Griffiths, jun: stated that he was subject to violent headaches, and was very nervous and irritable. One Surgeon sais he believed that any distress of mind, added to the infirmity which distressed him, would drive him mad.— After a consultation of nearly two hours, the jury returned the following verdict: "Wilful murder of Thos. Howard Griffiths by the said Abel Griffiths, who afterwards killed himself in a sound state of mind."— The coroner accordingly delivered his warrant to the beadle; for the interment of the body of Mr. Abel Griffiths in a crossroad. On Wednesday morning the body of the unfortunate parricide was conveyed for interment to the cross=road formed by Eaton street, Grosvenor-place, and the King's road. The body was carried in a shell; it had on a winding sheet, drawers, and stockings, and a quantity of blood was clodded about the head, and the lining of the shell entirely stained. The body was wrapped in a large piece of Russian matting, tied round with some cord, and then instantly dropped into the hole, which was about five feet in depth; it was then immediately filled up, nd it was gratifying to see that that disgusting part of the ceremony of throwing lime over the body, and driving a stake through it, was on this occasion dispensed with.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000360/18230703/016/0004
-Devizes and Wiltshire Gazette - Thursday 03 July 1823
+In *Devizes and Wiltshire Gazette*, [Thursday 03 July 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000360/18230703/016/0004).
 
 The warrant for the interment (in a cross road) of the unfortunate parricide, Mr. Abel Griffiths, was executed on Wednesday last. The body was wrapped in piece of matting, and carried to the cross road formed by Eaton street, Grosvenor place, and the King's road; it was there dropped into a hole dug on purpose and obstruction whatever was offered by the surrounding multitude.— The ceremony of driving a stake through the body was dispensed with. The elder Mr. Griffith, it is said, filled the situation of Speaker of the Assembly in the Island of Barbadoes for several years, and had been formerly a Colonel of a militia regiment; he had not for many years back, resided with his family, in consequence, it is said, of some domestic difference.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002357/18230702/011/0003
-New Times (London) - Wednesday 02 July 1823
+In *New Times (London)*, [Wednesday 02 July 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0002357/18230702/011/0003).
 
 Also in e.g. Morning Advertiser - Wednesday 02 July 1823
 
 EXTRAORDINARY AFFAIR.—BOW-STREET.-It is the practice of this establishment for two of the patrol in rotation to remain all night at the office, in order that assistance may be the more easily obtained by those who may have occasion to employ the Police on a sudden emergency. Yesterday morning about six o'clock Smith, one of the patrol on the nightly watch, was called to the door by a loud knocking, and found the applicant for admission to be a hackney coachman, whose coach was standing at the door. The horses were very warm. and the coachman seemed terribly agitated. He said he had got the dead body of Mr. Abel Griffiths, the wretched young man who shot his father and himself a few days ago, in his coach, and he wanted to know what was to be done with it. Smith questioned him as to how it came there, and he said that "in the middle of the night" he was called from a stand in Oxford-street by a respectable looking man who ordered him to drive gently towards St. Giles's. He had not proceeded far before he was stopped, and another man got in, and further down a third entered the coach, and he was then ordered to drive to the end of Eaton-street, Pimlico, as fast as possible. When he arrived there they got out and "went to work," and dug up the body that was buried there. They covered in the ground, placed the body in the coach, and having covered his plates with paper to prevent the number from being seen, they ordered him to drive to Foley-place. He did so, and in Foley-place they got out, and having desired him to wait a few moments, walked away down another street or mews. He waited about five minutes, when finding they did not return he began to be alarmed at the probable consequences to himself of being found in the sole possession of a dead body, and determined to drive straight to Bow-street, and there deliver it to the police, or take their directions as to its disposal. Smith, on hearing this story, looked into the coach, and there saw a dead body wrapped in a piece of matting, exactly in the manner described in the newspapers, in the account given of the interment of Mr. Abel Griffiths. A crowd had by this time collected, and Smith told the coachman to drive to St. Martin's Workhouse, and deliver the body there, but did not accompany him. We learnt on inquiry at the workhouse, that the coachman came there with the body, and desired that it might be taken in, but the door-keeper having ascertained from the coachman whence it was taken, said, he had no power to take in the body, it having been interred in the parish of St. George, Hanover-square. He advised the coachman to take it to the workhouse in Mount street, Grosvenor-square, and he drove away avowedly for that purpose, and we were informed that the body was eventually deposited there.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0001427/18230703/015/0002
-Morning Advertiser - Thursday 03 July 1823
+In *Morning Advertiser*, [Thursday 03 July 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0001427/18230703/015/0002).
 
 In the course of Tuesday evening some Gentlemen, supposed to be the friends of the late Mr. Abel Griffiths, called at Mount-street Workhouse to see the body, and afterwards had an interview with the Committee for managing the workhouse, when it was determined to have the body buried in the burial-ground for the parish poor. A coffin was provided for it, by the parish, and it was carried to the grave upon a bier by four of the paupers, in the usual manner; but no watchmen, constables, or others, were present; and the body, which had been so exposed and carried about from place to place, was at last consigned to the mother earth, where, it is hoped, it will now be permitted to remain undisturbed.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0003113/18230706/028/0007
-Sunday News - Sunday 06 July 1823
+In *Sunday News*, [Sunday 06 July 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0003113/18230706/028/0007).
 
 MR. ABEL GRIFFITHS.
 
@@ -150,8 +141,7 @@ The patrol having heard his story, directed him to take the corpse to St. Martin
 
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002647/18230714/028/0003
-Statesman (London) - Monday 14 July 1823
+In *Statesman (London)*, [Monday 14 July 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0002647/18230714/028/0003).
 
 INQUEST ON ABEL GRIFFITHS.
 
@@ -162,8 +152,7 @@ These pistols, if the statement referred to above be correct, were ordered to be
 
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0001659/18230725/012/0002
-Drakard's Stamford News - Friday 25 July 1823
+In *Drakard's Stamford News*, [Friday 25 July 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0001659/18230725/012/0002).
 
 TO DO
 
