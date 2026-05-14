@@ -429,7 +429,7 @@ A year later, Axon offered a northern version of the tale, in the form of a poem
 ```{admonition} The Pedlar of Swaffham, *The Antiquary*, September, 1885
 :class: dropdown
 
-The Antiquary, Vol. XII (July-December, 1885), September, 1885,[ pp. 121-2](https://archive.org/details/antiquary12slsniala/page/120/mode/2up).
+The Antiquary, Vol. XII (July-December, 1885), September, 1885, [pp. 121-2](https://archive.org/details/antiquary12slsniala/page/120/mode/2up).
 
 The Pedlar of Swaffham
 
