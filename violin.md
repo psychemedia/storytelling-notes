@@ -307,7 +307,7 @@ She bent down and picked up her bow from where it had fallen to the ground, she 
 Major elements:
 
 
-THe first time she saw him, she nw she had to have him.
+The first time she saw him, she nw she had to have him.
 
 Girl sees boy (hunter setting up market stall) and must have him.
 Can't get his attention (repatedly).
@@ -344,7 +344,7 @@ And so they practised.
 
 After a few weeks the Devil said, now you must go and play in the town each day leading to the next market day.
 
-And she did. THe first day, she felt a bit self conscious, so she furtively played a tune, then scurried away:
+And she did. The first day, she felt a bit self conscious, so she furtively played a tune, then scurried away:
 
 > few bars simple tune, eg nursery rhyme
 
