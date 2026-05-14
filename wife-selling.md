@@ -17,13 +17,11 @@ TO DO - see also Skimmington Ride / skimmerton ride / riding
 Ella Mary Leather , folklore of herefordshire p117-8
 
 TO DO - see also Ducking stool
-https://britishnewspaperarchive.co.uk/viewer/bl/0003200/17310922/004/0003
-Kentish Weekly Post or Canterbury Journal - Wednesday 22 September 1731
+In *Kentish Weekly Post or Canterbury Journal*, [Wednesday 22 September 1731](https://britishnewspaperarchive.co.uk/viewer/bl/0003200/17310922/004/0003).
 On the 10th instant was erected at Oxford, at the Charge of the Corporation, a very handsome Ducking-Stool ever the River Charwell, to cool the Tails and stop the Mouths of several of the Female Sex, observ'd very sonorous of late, which it is hoped will have the wished for effect; and to that End a young Lad, dressed in Woman's Cloaths, hansell'd it; and was afterwards in that Habit expos'd to the View of a very numerous Assembly met on this most solemn Occasion.
 
 ---
-https://britishnewspaperarchive.co.uk/viewer/bl/0000457/18491019/013/0003
-Elgin Courier - Friday 19 October 1849
+In *Elgin Courier*, [Friday 19 October 1849](https://britishnewspaperarchive.co.uk/viewer/bl/0000457/18491019/013/0003).
 
 THE DUCKING STOOL
 
@@ -43,8 +41,7 @@ We affirm, without the least particle of hesitation, that were all things proper
 
 Bad as was this mode of dealing with the wives, we hold it to be of a much more merciful nature than the "ducking stool." For instance, what would any of our Elgin guidwives think of being dragged in a cold frosty morning from their warm bed to the "Hangman's Ford," and there unceremoniously fixed on the point of a long pole turning on pivot, plunged a half dozen of times over heel and neck into Lossie! Nor is this the worst of it: the fact of having to crawl home dripping, shivering, and freezing, amid the jeers of half the town, would, we aver, be a species of punishment absolutely certain to prove the death of the hardiest daughter of Eve. To be pinned up to wall for a few hours with an iron collar (alias the joggs), about one's neck, would be merciful work compared to this. Now, what a cruel monster this Mackenzie must be—and what a depraved assembly entertain such a petition! Touching the author of that document, it was well said by a lady in our hearing: "He ought to be made a marked man—debarred the luxury of female society—victimised day by day in the tender embraces of his favourite the duckingstool, till death wipe the reproach of his existence from the annals of society."
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18410918/037/0004
-Monmouthshire Merlin - Saturday 18 September 1841
+In *Monmouthshire Merlin*, [Saturday 18 September 1841](https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18410918/037/0004).
 
 ANCIENT CUSTOMS, &c.
 
@@ -66,8 +63,7 @@ A.D. 961.—Land about Shrewsbury sold for 1s. an acre. The price of an ox was 2
 
 1669.—Ordered that a ducking stool be erected for the punishment of all scolds.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18490331/119/0008
-Hampshire Independent - Saturday 31 March 1849
+In *Hampshire Independent*, [Saturday 31 March 1849](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18490331/119/0008).
 
 ISLE OF WIGHT COUNTY PETTY SESSIONS
 
@@ -564,20 +560,17 @@ Many of the mentions of wife selling in *Notes & Queries* makre reference to rel
 
 TO DO
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002430/18060211/022/0003
-Oracle and the Daily Advertiser - Tuesday 11 February 1806
+In *Oracle and the Daily Advertiser*, [Tuesday 11 February 1806](https://britishnewspaperarchive.co.uk/viewer/bl/0002430/18060211/022/0003).
 
 WIFE SELLING.—On Tuesday a most disgraceful scene was witnessed at Hull. A man named John Gowthorpe exposed his wife for sale in the market about one o'clock, but owing to the crowd which such an extraordinary occurrence had gathered together, he was obliged to defer the sale, and take her away. About four o'clock, however, he again brought her out, and she was sold for twenty guineas, and delivered in a halter to a person named Houseman, who had lodged with them four or five years. It reflects great disgrace upon the general police of the country, that such shameful scenes are permitted to be exhibited. From their frequency of late years, the common people , have imbibed an opinion that the. proceedings are strictly legal, and the bargain binding by law. The husband in the present case, expressed the deepest regret after he had disposed of his faithless wife.
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18070508/010/0002
-Sun (London) - Friday 08 May 1807
+In *Sun (London)*, [Friday 08 May 1807](https://britishnewspaperarchive.co.uk/viewer/bl/0002194/18070508/010/0002).
 
 WIFE-SELLING.—This barbarous custom, so repugnant to every moral feeling, and disgraceful to the Christian name, we are sorry to say has not totally dwindled into disuse. An instance of this kind occurred at the Market Cross, Leeds, last week, when a *tender-hearted* publican disposed of his rib, together with his stock in trade, for five guineas; as usual, in bargains of this nature, he actually transferred the abashed fair one *in a halter*, to a new husband!
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000398/18150823/006/0004
-Hereford Journal - Wednesday 23 August 1815
+In *Hereford Journal*, [Wednesday 23 August 1815](https://britishnewspaperarchive.co.uk/viewer/bl/0000398/18150823/006/0004).
 
 *Wife selling Reversed.* On Wednesday last a disgraceful scene was exhibited at Dewsbury, which, however, had something of novelty to recommend it. A *lady* brought her husband in customary form, with a halter round him, to the Market Cross and offered him for sale, in the presence of a numerous body of spectators. After some time a buyer appeared, and the novel commodity was disposed of for the mighty sum of sixpence. The parties then adjourned to a public-house, where they *moistened the bargain*, and afterwards parted all apparently well pleased with their own portion of the transaction.
 
@@ -588,28 +581,24 @@ Leicester Chronicle - Saturday 07 September 1816
 *Wife selling.* —An instance of this unnatural commerce took place at Billingborough Tuesday se'nnight. Francis Worsdale, labourer, delivered (in the usual instrument—a halter) to John Crosbie, whittower, his nothing-loth rib for a 1*l*. note, a sum, which, without knowing either the merits or the beauty of the transferred lady, we, for our parts, should not be much inclined to give. She is, we learn, about 40 years of age, and has two children by Worsdaie, a boy and girl, the former of whom to remain with him, and the latter to follow the fortunes of her speculating mother and her new father. Crosbie is about half the age of his fair enslaver, and has but just finished his apprenticeship. It is not unnecessary to add, however prizeable the bargain may already appear, that he also receives one half of the goods and chattels of the late partners.
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002634/18171105/015/0004
-London Chronicle - Wednesday 05 November 1817
+In *London Chronicle*, [Wednesday 05 November 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0002634/18171105/015/0004).
 
 PUNISHMENT OF WIFE SELLING!— A man recently came into Macclesfield market with his wife, whom he brought there for sale with a halter round her neck; a bargain was soon struck, and she was disposed of for a sum somewhere between three and four shillings; which coming to the ears of the worthy Mayor of that Borough, he caused them to be apprehended, and the husband, wife, and purchaser, (who strive to shew he was only an agent in the business), have each been committed to Middlewich House of Correction until next Quarter Sessions for the County of Chester.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002643/18190101/017/0003
-British Press - Friday 01 January 1819
+In *British Press*, [Friday 01 January 1819](https://britishnewspaperarchive.co.uk/viewer/bl/0002643/18190101/017/0003).
 
 WIFE SELLING. —A fellow has the audacity to outrage public decorum by publishing, in a Hull Paper, an advertisement announcing his having sold his wife, and which he does in the following terms:—
 
 "Benjamin Brown, of Foxholes, hereby gives notice, that he sold his wife, Hannah Brown, to Robt. Turner, shoemaker, of Hull, and delivered her in a halter, at the Cross, on Tuesday market, November 24, 1818."
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000239/18191012/013/0003
-Manchester Mercury - Tuesday 12 October 1819
+In *Manchester Mercury*, [Tuesday 12 October 1819](https://britishnewspaperarchive.co.uk/viewer/bl/0000239/18191012/013/0003).
 
 *WIDELY REPRINTED*
 
 Wife-Selling. —The scandalous and illegal practice of husbands selling their wives in open market with a halter round her their `sic` necks, under the vulgar notion that they thereby get clear of the obligation of maintaining them, has of late years been too common. In many recent cases this abominable conduct has been punished with laudable severity. The proceeding, however, is not quite so modern is generally supposed. An instance is mentioned by Lord Coke, in which a husband endeavoured to dispose of his wife by *deed* and may perhaps amuse some our readers see a translation of it. The original is in Law Latin.— "Know all men this present writing, that I, John de Cameys, of my own voluntary will have assigned and set over unto William Paynell, Knight, my wife Margaret de Cameys, daughter and heiress of John de Gottesden; and also have given and granted, released, and quit claimed to the said William all the goods and chattels which the said Margaret has or in future may become possessed of, and also whatever I possess of the goods and chattels of Margaret with their appurtenances, that neither I nor any other person in my name shall in future claim any interest in the said Margaret, or in the chattels the said Margaret with their appurtenances. I will and grant, and by this present writing confirm, that the said Margaret shall be and remain with the said William during the pleasure of the said William. In testimony whereof I have to this present writing affixed my seal."—Lord Coke calls this a "wonderful and unheard of grant."
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18221221/017/0002
-Star (London) - Saturday 21 December 1822
+In *Star (London)*, [Saturday 21 December 1822](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18221221/017/0002).
 
 *WIDELY REPRINTED*
 
@@ -628,16 +617,14 @@ On being asked the name of the person who was to buy her? she said it was *Kane*
 After a good deal of consultation it was determined upon that the parties should be bound over to answer the charge at the ensuing Sessions; but *their own* recognizances were taken, neither of them being able to find sureties.
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000395/18560301/058/0003
-Derbyshire Courier - Saturday 01 March 1856
+In *Derbyshire Courier*, [Saturday 01 March 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000395/18560301/058/0003).
 
 WIFE SELLING. Considerable excitement prevailed in Chesterfield market on Saturday last, arising from a report that the wife of a man residing in the locality of Inkersal had been publicly sold. The affair was particularly exciting to the gentler sex, to whom it furnished a very fruitful source of gossip throughout the day. We understand the woman had been estranged from her husband in consequence of her unfaithfulness, and that he had written to her requesting a reconciliation. She, during the separation, had formed an intimacy with another individual, and declined to return to her lawful husband, who, finding that his entreaties were in vain, he requested her to meet him on Saturday last in front of the Chesterfield Town Hall for the purpose of having a mutual separation by disposing of her to the highest bidder. The woman, who was neatly attired and tolerably good-looking, was true to her appointment, but the husband never came. The object of the assignation soon spread amongst the market people until a great crowd had collected, and it became evident that the excitement consequent upon such a disgraceful scene was becoming unpleasant to the actors; consequently, the woman's paramour took the fair lady to the house of Mr Hearnshaw, in Gluman gate, followed by a large crowd, who hooted and yelled after them. The crowd became so oppressive that the woman and her paramour contrived to escape by the back way, and quietly entered, by the back premises, the house of Mr. Cox, the Fountain, where they drank their refreshment and remained *ingoc.*, whilst the crowd were Glumaan-gate, and until after they had dispersed. There was sale as was generally reported, the parties believing the absence of the lawful husband to be fatal to the legality of a auction.
 
 We have received the following account of a "wife sale" at Wirksworth, from a correspondent: -One of these brutal, absurd, and illegal exhibitions took place last market day, at Wirksworth. In the forenoon, a man, who was not known, went into a saddler's shop and purchased a new halter, without, however, stating for what purpose he required it, and shortly afterwards the same man called again expressing a wish, that the person who had sold him the article would step into the market to witness a bargain. The journeyman went out for that purpose, without the most remote conception of the kind of transaction he was required to witness, and in the public market-place, found a young woman standing near a stall, with the halter he had sold the man, in a noose, round her neck. At this moment the man took hold of the end of the rope, and handed it to another man who came up from whom he received some money, and the three walked off together, leaving the saddler almost petrified the nature of the bargain had been obligingly, but almost unconsciously witnessing. The sale was conducted with some degree of secrecy and decency, if indeed the latter word is in any way applicable to such a disgusting proceeding, and but six persons were aware of what was going on until conclusion of the business; immediately after which, the three contracting parties very sensibly themselves scarce, with whole skins. It is conjectured the parties came from a distance, as they did not appear to be recognised in the town.
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000495/18650211/015/0003
-Hampshire Advertiser - Saturday 11 February 1865
+In *Hampshire Advertiser*, [Saturday 11 February 1865](https://britishnewspaperarchive.co.uk/viewer/bl/0000495/18650211/015/0003).
 
 THE WIFE SELLING CASE AT WOLVERHAMPTON.
 
@@ -646,22 +633,19 @@ It will no doubt be in the recollection of onr readers that a few weeks ago a pa
 Upon Detective Inspector Tandy receiving the telegram he directed Detective Sergeants Spokes and Jenns to meet the train from Wolverhampton and look out for the American, the wife, and three children. These two active officers accordingly went to the station, and upon making inquiries of the railway officials found the husband in the cloak room, he having arrived from Wolverhampton by the express which reaches Birmingham about ten minutes after the ordinary train. The officers made further inquiries and found the American had arrived. They then went to the Dudley-street side of the station, where the husband saw the American, with his wife and children and the luggage, he being in the act of putting the latter in a cab. The husband, going up to the Yankee, said, "Well, John, how are you getting on?" to which he replied, "All right, I guess." Upon this the husband informed him that he had given him at Wolverhampton station a £5 note instead of £50 note, and he wanted the latter sum. Said the American, "Well, I guess it was a mistake," and taking a bundle of notes from his pocket handed Mr. Jones a £50 Bank of England note, which was passed to the detectives, who found it to be quite genuine. The husband then shook hands with his wife, and kissing his children wished them "good-bye," and, with a friend who was with him, went to the nearest liquor vaults, where he "liquored" with his friend. The last that was seen of the American was that he, with the purchased wife and three children, were "making tracks" for the London train, where, we believe, they safely arrived. —*Birmingham Gazette*.
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000250/18810526/045/0005
-Sheffield Daily Telegraph - Thursday 26 May 1881
+In *Sheffield Daily Telegraph*, [Thursday 26 May 1881](https://britishnewspaperarchive.co.uk/viewer/bl/0000250/18810526/045/0005).
 
 PURCHASING A WIFE FOR A QUART OF BEER IN SHEFFIELD.
 
 A case disclosing shockingly immoral conduct was heard at the County Court yesterday before T. Ellison, Esq., judge.—A Mrs. Henderson, Pyebank, brought an action against Henry Moore, of Dun street, to recover £1 10s., for four week's maintenance of his wife. —Mr. Fairburn and Mr. W. J. Clegg, represented the plaintiff and defendant respectively.—There was no denial of Mrs. Moore having lodged with the plaintiff, but the defence was that the defendant's wife had been guilty of adultery. On being sworn Mrs. Moore, deposed that on the evening of the 30fch of January, her husband came home with a married woman named Wood, and they had some beer there. Witness told him she would not have the woman the house, but he threatened to kill her if she attempted to turn the woman out. Mrs. Wood complaining of being tired, defendant fetched a pillow from the bedroom for her. Witness again remonstrated, and thereupon defendant kicked her and pushed her out of the house and locked the door. She was very much injured, but managed to get to a neighbour's house. She was under a doctor for more than a week, and afterwards she became an inmate of the Workhouse. On the 18th March she went to lodge with the plaintiff, and had been there since.—Cross-examined, the witness denied having been guilty of improper conduct with a man on the night that she was turned out of the house.—Plaintiff and another witness having given evidence, Mr. Clegg addressed the Court, admitting that his client was living with a married woman. It certainly was a disgraceful state af things, and it was shocking that a court of justice should occupied investigating such a case. Still he contended, the defendant was not liable for the maintenance of his wife, inasmuch as she had behaved in an immoral manner. —Moore was then called, and deposed that on the night question he found his wife acting in an improper manner.—In cross-examination by Mr. Fairburn, defendant said he was living with the wife of one of his friends, of whom he had purchased her for a quart of beer.—Mr. Clegg rose to re-examine the defendant, but his Honour cast a doubt on the latter's credibility, and Mr. Clegg resumed his seat.—A witness named Wright was called in support of the defendant's contention, but there was an important discrepancy between his and the defendant's statement. —Mr. Fairburn said he endorsed all that had been said by Mr. Clegg as to the disgracefulness of the case, and he contended that the defendant was a man who should not be believed. The fact was Moore desired to get rid of his wife in order that he might continue to live with the woman whom he had purchased.—His Honour adjourned the case for week for the purpose of a Mrs. Beresford giving evidence, it being alleged that it was at that person's house Mrs. Moore misconducted herself.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0004596/18810530/039/0003
-Echo (London) - Monday 30 May 1881
+In *Echo (London)*, [Monday 30 May 1881](https://britishnewspaperarchive.co.uk/viewer/bl/0004596/18810530/039/0003).
 
 THE SHEFFIELD WIFE SELLING CASE.
 
 *The Standard* observes that if we desire to reach the foundation of the idea of wife selling, we must go further back than even the Longobard laws. We must seek for it in that remote period in the world's history when a woman was considered, as she still is among modern savage tribes and in Moslem countries, in the light of a marketable commodity. The father sold her, and the husband who bought her, when tired of bargain, re-sold his "chattel," to be, as Petruchio said of Katherine, "the ox, the ass, the everything" of another barbarian lord. In Babylon there was a regular wife auction, and until recemtly marriageable girls were literally brought to market at the fair of Nijni-Novgorod in Russia. A father, in early times, looked upon his daughters as valuable property, and hence the disrepute in which elopements were held, as mean attempts to steal a wife without paying for her. Dowries with brides were thought of only when society got so civilised that bachelors and spinsters were tolerated, and when the abandonment of polygamy left a surplus of females in the community. Accordingly, the ethnologist regards the Sheffield knife-grinder who sold his spouse for a quart of beer with keener interest than the parochial authorities are likely to do. In the eyes of the Folk Lorist he is a "survival"—a remnant—of the boyhood of the world, and, like the stone axe and the kjökkenmödding, worthy of investigation as a relic of pre-historic times.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000250/18810531/013/0003
-Sheffield Daily Telegraph - Tuesday 31 May 1881
+In *Sheffield Daily Telegraph*, [Tuesday 31 May 1881](https://britishnewspaperarchive.co.uk/viewer/bl/0000250/18810531/013/0003).
 
 House of Commons — Monday
 
@@ -676,8 +660,7 @@ Mr. CALLAN: In making his allusion to Ireland did the right hon. gentleman mean 
 Sir W. HARCOURT: No, I did not mean anything serious at all. In Ireland, as in England and Scotland, the practice is equally unknown, (Hear, hear)
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000250/18810602/031/0005
-Sheffield Daily Telegraph - Thursday 02 June 1881
+In *Sheffield Daily Telegraph*, [Thursday 02 June 1881](https://britishnewspaperarchive.co.uk/viewer/bl/0000250/18810602/031/0005).
 
 And again in: https://britishnewspaperarchive.co.uk/viewer/bl/0000250/18810604/108/0012 Sheffield Daily Telegraph - Saturday 04 June 1881
 
@@ -685,15 +668,13 @@ THE ALLEGED WIFE SELLING CASE IN SHEFFIELD.
 
 At the County Court on Wednesday before T. Ellison, Esq., judge, the adjourned case in which it was alleged that a wife had been sold for a quart of beer came on for hearing, The circumstances of the case were that Mrs. Henderson, Pyebank, brought an action against Henry Moore, of Dun street, to recover £1 10s, for four weeks' maintenance of his wife. It was admitted that Mrs. Moore lodged with the plaintiff, but it was alleged that she (the former) had been guilty of adultery. Mrs. Moore said on the 30th January her husband came home with a married woman name Wood, and when she remonstrated with him for bringing Mrs. Wood with him he pushed her out, and she had lived with the plaintiff ever since. Before the Court, when the husband was examined last court day, he admitted bringing Wood with him, but said he purchased her for a quart of beer; and his own wife had been unfaithful to him. The case was adjourned for a week for the purpose of a Mrs. Beresford giving evidence, it being asserted that at that woman's house Mrs. Moore committed the alleged offence.—On the former hearing Mr. Fairburn appeared for the plaintiff, and Mr. Clegg for the defendant.—When the case was called on Wednesday, Mr. said he had seen Mr. Fairburn, who explained that he would not appear.—His Honour said if he remembered correctly the evidence showed that the husband was an adulterer and the wife was an adulteress. —Mr. Clegg said that was so, and he wished to know if his Honour would give judgment or strike out the case.—The Judge: I shall strike out the case.—Mr. Judge: Yes. Clegg: That will allow parties to come again?—The Judge: Yes.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002693/18810604/029/0004
-Aberdeen Weekly News - Saturday 04 June 1881
+In *Aberdeen Weekly News*, [Saturday 04 June 1881](https://britishnewspaperarchive.co.uk/viewer/bl/0002693/18810604/029/0004).
 
 *And appearing widely in Scottish newspapers*
 
 WIFE SELLING IN ENGLAND. There are some British manners and customs which are a puzzle to foreigners, whose ways are not as our ways, and the method in whose madness is rather different from ours. Some of those social problems which we as a nation present to people at a distance are undoubtedly based upon misapprehension as to John Bull and his domestic habits. It is a deep-rooted idea in the minds of our foreign neighbours, for instance, that Englishmen have a most unaccountable tendency to commit suicide, and that the month of November is the period most commonly selected for executing the "happy despatch." Another common notion is that Englishmen, when tired of their better halves, have a short and summary mode of getting rid of them. Putting a halter round the neck of the spouse who has become burdensome to her lord and master, she is led to Smithfield, or any other market where live stock is usually disposed of, and sold for what she will fetch, just as if she were a horse or a pig, the prices commonly current in these transactions being such trifling considerations as a shilling or a pot of beer. It is a fact which is beyond dispute that Englishmen are occasionally rendered so wretched and desperate by the force of circumstances that they are driven to that last resort of the hopeless—self-destruction, but it is assuredly far from being the case that a suicidal tendency can be regarded as a national characteristic. Again, it is a melancholy truth that at wide intervals a man is to be found so lost to all proper feeling as to be prepared to barter his wife in the manner just indicated, and who may perhaps feel that, in receiving a good swig of the English national beverage in exchange for a conjugal partner of whom he has become tired, he has had the best of the bargain. Such an occurrence does seem to have actually occurred recently at Sheffield; and it illustrates the very varied character of the matters with which Parliament is expected to deal, even at a time when Imperial questions of a very important nature are urgently pressing for legislation, that this alleged sale of a wife should have been brought under the notice of the Home Secretary, for the ostensible purpose of having the impression removed that this was a legitimate transaction. Of course it was an Irish Member who took the matter up—one of those irrepressible obstructives who are ever on the alert to bring up any conceivable thing that may have the effect of wasting precious time, and diverting the attention of Parliament from the more important business that presses upon it. Irish representatives do not find enough to engage their attention in the grievances of their own unhappy countrymen, but must also concern themselves in removing erroneous impressions that prevail among their Saxon brethren as to what are and what are not legitimate transactions. Probably Mr Sullivan thought that the calling attention to this Sheffield bargain might lead to one of these amusing episodes which Hibernian Members furnish in such abundance to the present Parliament. If this was his expectation, however, he must have been disappointed, as tho reply of Sir Wm. Harcourt to the question put was brief and pointed, and practically disposed of the matter without leaving an opportunity for further discussion. There was even a tone of severe and well-merited rebuke in the remark with which the Home Secretary closed his reply, that the matter was "unworthy the attention of the House, and the suggestion in the question was an Attempt to cast an undeserved slur upon the nation." This was undoubtedly the tendency which the asking of so silly a question would have, whether such formed any part of the intention of tho questioner or not. There are undoubtedly many persons in some of the more benighted districts of England whose ideas of the marital relationship are of the very haziest kind, and who are morally in so benighted a condition as to see nothing particularly objectionable in dealing in wives as in a marketable commodity; but bad as the case may be in this respect, it is certainly far from common to find resort made, even by the most dissolute of husbands, to such an excuse for gross immorality; and certainly there is no ground for supposing the belief anything like prevalent that such a proceeding as selling a wife, even when good grounds exist for putting her away, can afford a legal substitute for the more cumbrous, costlier, and less expeditious mode of bringing an action in the Divorce Court.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000274/18870715/028/0002
-Sheffield Evening Telegraph - Friday 15 July 1887
+In *Sheffield Evening Telegraph*, [Friday 15 July 1887](https://britishnewspaperarchive.co.uk/viewer/bl/0000274/18870715/028/0002).
 
 WIFE-SELLING IN SHEFFIELD AND ELSEWHERE.
 
@@ -705,8 +686,7 @@ For some years, however, we have heard so little of these scandalous stains on o
 
 Such an idea could not, of course, have originated out of nothing. Wife sale is reality what the anthropologists know as a "survival" from the time when the husband regarded his wife—and was supported by the law in doing so—as Petruchio regarded Katherine, "my horse, my ass, my anything." She was his property. In 1749 a case came before Lord Hardwicke in which a wife had been assigned by her husband, through the instrumentality of a deed, actually drawn up by a solicitor; and in 1853 the Birmingham Police Magistrate was under the necessity of sternly reproving a lawyer who had lent himself to a ?like fraud on his clients. In neither instance, however, was the erring attorney struck off the rolls. Indeed it is more than doubtful whether, at an earlier date, such sales or assignments were accounted either illegal or immoral. In the thirtieth year of Edward the First's reign Parliament had to take into consideration the fact Sir William Paynel having "leased" the wife of Sir John De Camoys from her husband. The document, written in excellent lawyer's Latin, appears verbatim in Lord Coke's famous "Institutes." More than five hundred years afterwards—namely, in 1853—a very similar case, though with this difference, that it was the husband who leased himself, came before an English Law Court, and may be cited as a curious instance of the vitality of a custom which is older than any Statute. As late as 1853 a woman who had been sold for fifteen pounds succeeded in defending her claim as the heiress to some property, against the plea of her first husband's relatives that the market place sale constituted a legal divorce. In truth, long before Sir Wm. Paynel leased Dame De Camoys, or the Sheffield fishmonger sold his wife, the rude world had been quietly buying and disposing of wives without any regard to the provisions of either the Civil Code or the Canon Law. Traces of this custom can be detected in the Pandects of the Netherlands and and Spain, and in the West Gothic and Longobard Laws. The Romans also made a difference between the Patrician marriage by "*confarreatio*" and the Patrician union by "*coemtio*", or purchase, and antiquaries insist on tracing, in the words "to have and to hold" of the marriage service of the Church of England, an allusion to the ancient idea of the husband possessing proprietary rights in his wife. If it were necessary to go further back, the habits of savage tribes might be adduced, and the wife market of Nijni Novgorod adduced as proof of the antiquity and persistency of the custom. The Sheffield hawker is therefore in good company. He is, however, a little behind the age, and for those who are so loth to keep in step with an age, an Act making these mock marriages an offence punishable with the treadmill for all who take part in them, would not be amiss.— *Standard*. *Specifically: [London Evening Standard - Monday 30 May 1881](https://britishnewspaperarchive.co.uk/viewer/bl/0000183/18810530/030/0005)*
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000274/18870721/027/0002
-Sheffield Evening Telegraph - Thursday 21 July 1887
+In *Sheffield Evening Telegraph*, [Thursday 21 July 1887](https://britishnewspaperarchive.co.uk/viewer/bl/0000274/18870721/027/0002).
 
 THE WIFE SELLING CASE IN SHEFFIELD.
 
