@@ -8,8 +8,7 @@ The tale appears to be this, dating from the end of the 19th century.
 
 ```{admonition} The drummer-boy yarn, November 1888
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000266/18881103/034/0006
-Yorkshire Gazette - Saturday 03 November 1888
+In *Yorkshire Gazette*, [Saturday 03 November 1888](https://britishnewspaperarchive.co.uk/viewer/bl/0000266/18881103/034/0006).
 
 RICHMOND RIPPLES.
 
@@ -23,8 +22,7 @@ This is the drummer-boy yarn:—There is, be it known, a secret underground way 
 
 ```{admonition} Some soldiers barracked at the castle, September 1930
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000687/19300908/146/0005
-Yorkshire Post and Leeds Intelligencer - Monday 08 September 1930
+In *Yorkshire Post and Leeds Intelligencer*, [Monday 08 September 1930](https://britishnewspaperarchive.co.uk/viewer/bl/0000687/19300908/146/0005).
 
 HISTORIC EASBY AND RICHMOND.
 
