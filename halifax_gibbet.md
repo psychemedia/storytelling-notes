@@ -5,8 +5,7 @@
 
 https://theyorkshirejournal.wordpress.com/wp-content/uploads/2018/11/2018-2-the-halifax-gibbet-pages-26-45.pdf
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000250/18770524/171/0008
-Sheffield Daily Telegraph - Thursday 24 May 1877
+In *Sheffield Daily Telegraph*, [Thursday 24 May 1877](https://britishnewspaperarchive.co.uk/viewer/bl/0000250/18770524/171/0008).
 
 THE HALIFAX GIBBET LAW.
 
@@ -500,13 +499,11 @@ Of which five were executed in the ſix laſt years of king Henry VIII, twenty-f
 
 ---
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002264/18390630/077/0010
-Weekly Chronicle (London) - Sunday 30 June 1839
+In *Weekly Chronicle (London)*, [Sunday 30 June 1839](https://britishnewspaperarchive.co.uk/viewer/bl/0002264/18390630/077/0010).
 
 RELIC OF FORMER TIMES.—THE HALIFAX GIBBET. — Our readers will recollect that the mound of earth usually called Gibbet-hill, and standing on the spot where executions, under the Halifax gibbet-law, used to take place, was enclosed, a short time ago, by the town trustees, for the purpose of being formed ir to a yard for their carts, &c. The earth, which was merely the accumulated rubbish of a series of years, probably a century or more, is now in course of removal; and the workmen have, within the last few days, uncovered a large stone platform, let t feet square, and nearly live feet high, which is, there can be no reasonable doubt, the platform of the ancient gibbet. Part of the upper course of the store-work is wanting, but the platform appears in a better state ef preservation than could have been expected. We hope that the town trustees will take steps for the preservation of this curious relic of local antiquity, that it may remain a monument of the sanguinary laws of a rude and barbarous age.*—Halifax Express*
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000266/18390622/038/0008
-Yorkshire Gazette - Saturday 22 June 1839
+In *Yorkshire Gazette*, [Saturday 22 June 1839](https://britishnewspaperarchive.co.uk/viewer/bl/0000266/18390622/038/0008).
 
 DISCOVERY OF THE REMAINS OF THE HALIFAX GIBBET.
 
@@ -534,15 +531,13 @@ This was the Antient Privilege of *Infang-theof* `[Blount's Law Dict. Tit. Lidfo
 
 - *Utfangtheof*, was the Privilege that Thieves, or Felons, belonging to a Manor, but taken out of it, fhould be brought back to the Lord’s Court and there Judged. *Les Termes de la Ley.*
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002874/18431216/085/0008
-Halifax Guardian - Saturday 16 December 1843
+In *Halifax Guardian*, [Saturday 16 December 1843](https://britishnewspaperarchive.co.uk/viewer/bl/0002874/18431216/085/0008).
 
 Halifax Literary and Philosophical Society
 
 ... model of the Halifax gibbet, by Mrs. Waterhouse; ...
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002874/18390810/048/0003
-Halifax Guardian - Saturday 10 August 1839
+In *Halifax Guardian*, [Saturday 10 August 1839](https://britishnewspaperarchive.co.uk/viewer/bl/0002874/18390810/048/0003).
 
 Southowram Bazaar
 
