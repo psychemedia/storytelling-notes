@@ -8,10 +8,7 @@ As to *A Pottle of Brains*, I first found it in written form in Jacobs' second c
 
 ```{admonition} "A Pottle of Brains", Jacobs' *More English Fairy Tales*, 1894
 :class: dropdown
-https://archive.org/details/moreenglishfairy00jacoiala/page/124/mode/2up
-Joseph Jacobs, *More English fairy tales*, 1894
-
-pp. 125-131
+In Joseph Jacobs, *More English fairy tales*, 1894, [pp. 125-131](https://archive.org/details/moreenglishfairy00jacoiala/page/124/mode/2up).
 
 LXX.
 
@@ -174,7 +171,7 @@ The wise woman nodded her head.
 So they went home together, and he never wanted to buy a pottle o' brains again, for his wife had enough for both.
 ```
 
-In his notes, p. 232, Jacobs cites Mrs. Balfour, and relates the tale to *Coat o' Clay"*, as well *Gobborn Seer*.
+In his notes, p. 232, Jacobs cites Mrs. Balfour, and relates the tale to *Coat o' Clay*, as well *Gobborn Seer*.
 
 > LXX. A POTTLE O' BRAINS.
 > 
@@ -188,8 +185,8 @@ Mrs. Balfour's earlier contributed version to *FolkLore* is given in a dialect f
 
 ```{admonition} "A Pottle o' Brains", FolkLore, 1891
 :class: dropdown
-https://archive.org/details/publications20unkngoog/page/164/mode/2up?q=balfour+pottle
-Folklore, vol. II, no. 2, June 1891
+
+Folklore, [vol. II, no. 2](https://archive.org/details/publications20unkngoog/page/164/mode/2up), June 1891
 
 As part of Legends of the Cars, pp.145-70
 pp164-170
@@ -385,10 +382,7 @@ M. C. Balfour.
 :class: seealso
 See also the following PhD thesis on Mrs. Balfour's collected tales of the Cars:
 
-https://pure.southwales.ac.uk/ws/portalfiles/portal/2641345/M._James_2013_2060302.pdf
-INVESTIGATING THE LEGENDS OF THE CARRS: A STUDY OF THE TALES AS PRINTED IN FOLK-LORE IN 1891
-Maureen James
-PhD thesis, University of Glamorgan, 2013
+INVESTIGATING THE LEGENDS OF THE CARRS: A STUDY OF THE TALES AS PRINTED IN FOLK-LORE IN 1891, Maureen James, [PhD thesis](https://pure.southwales.ac.uk/ws/portalfiles/portal/2641345/M._James_2013_2060302.pdf), University of Glamorgan, 2013.
 ```
 
 In Jacobs' version of *Coat o' Clay*, again borrowed from Mrs. Balfour, we see the same stylised performance note in the pronunciation of `sure`*`ly`*, complementing Mrs. Balfour's observation that the two tales came from the same source. *Coat o' Clay* also opens with some useful scene setting around the character of the wise women, although we might contrast her handling of the fool across both stories.
@@ -559,12 +553,7 @@ The tale of *Gobborn Seer*, as collected by Mrs. Gomme, also appears in *More En
 
 ```{admonition} "Gobborn Seer", in *More English Fairy Tales*, 1894
 :class: dropdown
-https://archive.org/details/moreenglishfairy00jacoiala/page/54/mode/2up?q=gobborn
-More English fairy tales
-by Jacobs, Joseph, 1854-1916; Batten, John Dickson, 1860-1932, ill
-
-Publication date 1894
-p54-8
+In Joseph Jacobs, *More English fairy tales*, 1894, [p54-8](https://archive.org/details/moreenglishfairy00jacoiala/page/54/mode/2up).
 
 Gobborn Seer
 
