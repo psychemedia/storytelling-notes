@@ -195,7 +195,7 @@ Illustrated by the Author and Arthur J. Bridgman
 
 ![](images/jucundus-cover.png)
 
-THe Hole in the Wall
+The Hole in the Wall
 
 The Iron tongue,  
 Of the bell has rung  
