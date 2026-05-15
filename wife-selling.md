@@ -81,11 +81,10 @@ Mr. Beckingsale, who was engaged by the defendants, contended that even If they 
  
 Mr. White: the question is this?—Have drunken people a right to stand within their own doors, and annoy sober people who are passing by? There is no doubt they have a constitutional right to get drunk if they please, if they have no moral right.
 
-Mr. Beckingsalis: It is a constitutional wrong to do so, no doubt, but they have a right so to do.
+Mr. Beckingsale: It is a constitutional wrong to do so, no doubt, but they have a right so to do.
 
 Mr. White: Our ancestors need to have a practice of applying summary justice in these cases. They had a ducking stool; and I think a ducking stool would be of great service amongst the ladies of Cowes; but as the law does not allow it to be used at present, I shall fine the defendants 5s. each, and 7s. 6d.. each costs, and if it is not paid in a week, we shall put them in the stocks instead of on the ducking stool.
 
----
 ---
 
 E.P. Thompson chapter in Commons, stopped doing a talk because of feminist backlash TO DO need my own interpretation, stance, TO DO
@@ -109,16 +108,16 @@ Wives, Custom of Selling. -Has there ever been any foundation in law for the pra
 An amusing series of "Notes" might be made, from instances in which the custom is introduced as characteristic of English manners, by French and other foreign writers. G. L. B.
 
 
-https://archive.org/details/notesqueries07londuoft/notesqueries07londuoft/page/428/mode/2up
-1st S. vii., no. 183, April 30, 1853 , p429-30
+
+1st S. vii., no. 183, April 30, 1853 , [p429-30](https://archive.org/details/notesqueries07londuoft/notesqueries07londuoft/page/428/mode/2up)
 
 Selling a Wife. — What is the origin of the popular idea, that a man may legally dispose of his spouse by haltering her, and exposing her for sale in a public market? Some time ago the custom appears to have been very prevalent; and only a few months back there was a paragraph in The Times, describing an occurrence of the kind at Nottingham.
 
 French romancers and dramatists have seized upon it as a leading trait of English society; and in their remarkably-faithful delineations of English life it is not unusual to find the blue-beard milord Anglais carting milady to Smithfield, and enlarging upon her points in the cheap-jack style to the admiring drovers. V. T. STERNBERG
 
 
-https://archive.org/details/notesqueries07londuoft/notesqueries07londuoft/page/602/mode/2up
-1st S. vii., no. 190, June 18, 1853 , p602
+
+1st S. vii., no. 190, June 18, 1853 , [p602](https://archive.org/details/notesqueries07londuoft/notesqueries07londuoft/page/602/mode/2up).
 
 SKI-LING A WIFE.
 
@@ -141,15 +140,15 @@ Here follow the signatures of the consenting parties. The girl Hickson was exami
 I may add that we are informed by the Birmingham Argus for March, 1834, that in that month a man led his wife by a halter to Smithfield Market in that town, and there publicly offered her for sale. WILLIAM BATES. 
 Birmingham.
 
-https://archive.org/details/notesqueries08londuoft/notesqueries08londuoft/page/43/mode/2up
-1st S. viii, no. 193, July 9, 1853 p43
+
+1st S. viii, no. 193, July 9, 1853 [p43](https://archive.org/details/notesqueries08londuoft/notesqueries08londuoft/page/43/mode/2up)
 
 Selling a Wife (Vol. vii., p. 602.).— A case of selling a wife actually and *bona fide* happened in the provincial town in which I reside, about eighteen years ago. A man publicly sold his wife at the market cross for 15l.: the buyer carried her away with him some seven miles off, and she lived with him till his death. The seller and the buyer are both now dead, but the woman is alive, and is married to a third (or a second) husband. The legality of the transaction has, I believe, some chance of being tried, as she now claims some property belonging to her first husband (the seller), her right to which is questioned in consequence of her supposed alienation by sale; and I am informed that a lawyer has been applied to in the case. Of course there can be little doubt as to the result.
 
 Sc.
 
-https://archive.org/details/notesqueries08londuoft/notesqueries08londuoft/page/209/mode/2up
-1st S. viii, no. 200, Aug 27, 1853 p209
+
+1st S. viii, no. 200, Aug 27, 1853 [p209](https://archive.org/details/notesqueries08londuoft/notesqueries08londuoft/page/209/mode/2up).
 
 Selling a Wife (Vol.vii., pp. 429. 602.). — There can be no question that this offence is an indictable misdemeanor. I made, at the time, a memorandum of the following case :
 
@@ -157,8 +156,8 @@ Selling a Wife (Vol.vii., pp. 429. 602.). — There can be no question that this
 S. R.  
 Chiswick
 
-https://archive.org/details/notesandqueries07albugoog/page/420/mode/2up
-2nd S. no. 21, May 24, 1856, p420
+
+2nd S. no. 21, May 24, 1856, [p420](https://archive.org/details/notesandqueries07albugoog/page/420/mode/2up).
 
 Notes on Wife-Selling. — Can we blame our neighbours across the Channel for thinking us a nation of wife-sellers when, ignorant of our manners, and with feelings embittered bv a long war, they read such paragraphs as the following?
 
@@ -170,10 +169,7 @@ K. P. D. E.
 This is an indictable offence. You will find on reference to 3 Burr, 1483, that Lord Hardwicke ordered a criminal information to issue against a gentleman (?) for making over his wife, by private contract, to another person. JURIDICUS
 
 
-
-https://archive.org/details/s2notesqueries06londuoft/s2notesqueries06londuoft/page/n495/mode/2up
-
-2nd S. VI,  154, Dec,. 11,  1858, p490
+2nd S. VI,  154, Dec,. 11,  1858, [p490](https://archive.org/details/s2notesqueries06londuoft/s2notesqueries06londuoft/page/n495/mode/2up).
 
 Wife-selling (1st S. ii. 217.; vii. 429. 602.; viii. 43. 209.; 2nd S. i. 420.) — The French believe we sell our wives at Smithfield; we call them blockheads for their ignorance of our manners. The following cutting from the *Stamford Mercury* of November 26, is worthy of the attention of all students of English civilisation:
 
@@ -181,9 +177,9 @@ Wife-selling (1st S. ii. 217.; vii. 429. 602.; viii. 43. 209.; 2nd S. i. 420.) �
 K. P. D. E
 
 
-https://archive.org/details/notesqueries08unse_0/page/258/mode/2up
 
-2nd. Series VIII, Sept 24, 1859, p258
+
+2nd. Series VIII, Sept 24, 1859, [p258](https://archive.org/details/notesqueries08unse_0/page/258/mode/2up).
 
 Wife-selling (1st S. *passim*; 2nd S. i. 420.; vi. 490.) — It seems that wives yet remain an article of merchandise in some parts of England. The following cutting is from the *Record* newspaper of August 26th:—
 
@@ -196,14 +192,14 @@ Very quaint all this certainly is, and an admirable paragraph Mr. Froude would h
 K. P. D. E.
 
 
-https://archive.org/details/s3notesqueries04londuoft/page/324/mode/2up?q=%22wife+sale%22
-3rd S. IV. OCT. 24, 1863, p324
+
+3rd S. IV. OCT. 24, 1863, [p324](https://archive.org/details/s3notesqueries04londuoft/page/324/mode/2up).
 
 WIFE SALE. — Some twenty-two years ago a working man living in Gloucester, finding that his wife, with whom he had lived uncomfortably a long time, had been unfaithful to him, obtained an interview with her paramour, to whom he agreed to sell her. Accordingly on the following Saturday (market day), attired in a black gown and a new white bonnet, with a halter round her neck, the frail wife was led by her husband into the market, where, it seems, a sort of auction was got up, and the woman, who was a consenting party to the transaction, was sold to her paramour for half a crown, the money being duly paid down by the "purchaser," who then led the woman away. I believe these particulars, as related to me by an eye-witness of the extraordinary (for so it was) occurrence are perfectly credible. The most singular part of the occurrence remains to be mentioned. The woman, it is averred, proved an excellent manager to her second lord, who frequently congratulated himself on his "bargain." It is possible that the woman is still living, but both the men are dead.  
 F. G. B.
 
-https://archive.org/details/notesqueries33unse/page/486/mode/2up
-3rd S. III. JUNE 20, 1863, no. 77, p486
+
+3rd S. III. JUNE 20, 1863, no. 77, [p486](https://archive.org/details/notesqueries33unse/page/486/mode/2up).
 
 WIFE SELLING.
 
@@ -220,8 +216,8 @@ I have met with the following instances of this crime during the last week. They
 "This barbarous occurrence actually took place in Merthyr Tydvil a few days ago between a workman of the Cyfarthfa Iron Works and another. The price for which the workman sold his wife was 3l.: 2l. 10s. in cash and 10s. worth of beer, the latter to be drunk by the principal parties in the transaction. The husband seemed very well satisfied that he had not only got rid of his wife, but also gained something in the bargain. As for the woman, she exhibited few symptoms of either shame or sorrow, and drank her share of the beer." — *Stamford Mercury*, March 27, 1863.  
 K. P. D. E.
 
-https://archive.org/details/s3notesqueries04londuoft/page/450/mode/2up
-3rd S. IV, Dec. 5th 1863, p450
+
+3rd S. IV, Dec. 5th 1863, [p450](https://archive.org/details/s3notesqueries04londuoft/page/450/mode/2up).
 
 SELLING A WIFE BY AUCTION. — There have been several notices of wife-selling in your columns, but I do not remember seeing any account of the peculiar circumstances under which the custom became a settled legal point in the minds of the labouring population.
 
@@ -231,11 +227,7 @@ It seems, however, not improbable that its origin would be found in times long a
 JANNOC.
 
 
-
-
-
-https://archive.org/details/notesandqueries21albugoog/page/297/mode/2up
-4th S. IX April 13, 1872, p297
+4th S. IX April 13, 1872, [p297](https://archive.org/details/notesandqueries21albugoog/page/297/mode/2up).
 
 Selling a Wife. — The following instance of wife-selling is recorded in the *Lincoln, Rutland and Stamford Mercury* for March 21:—
 
@@ -243,8 +235,8 @@ Selling a Wife. — The following instance of wife-selling is recorded in the *L
 
 K. P. D. E
 
-https://archive.org/details/notesqueries410unse/page/310/mode/2up
-4th S. X, Oct. 19, 1872, nop. 251, p311
+
+4th S. X, Oct. 19, 1872, nop. 251, [p311](https://archive.org/details/notesqueries410unse/page/310/mode/2up).
 
 Wife Selling.— -In Mr. W. C. Hazlitt's edition of Brand's *Popular Antiquities of Great Britain* (ii. 63) is the following:—
 
@@ -275,9 +267,9 @@ TO DO
 
 folk song / songs
 
-https://archive.org/details/notesqueries410unse/page/378/mode/2up
 
-4th S. X. Nov. 9, 1872, no. 254, p378
+
+4th S. X. Nov. 9, 1872, no. 254, [p378](https://archive.org/details/notesqueries410unse/page/378/mode/2up).
 
 "Wife Selling" (4th S. x. 311.) — Another version of the old ballad is given in *The Vocal Library*, 1818 (No. 1756), differing in several lines from your correspondent's copy, and containing two more stanzas, which bring the ballad to a satisfactory conclusion.
 
@@ -328,9 +320,9 @@ Oh! happy shoemaker, John Hobbs."
 
 S. H. W.
 
-https://archive.org/details/notesqueries410unse/page/468/mode/2up
 
-4th S. X. Dec. 14, 1872, no. 259, pp. 468-9
+
+4th S. X. Dec. 14, 1872, no. 259, [pp.468-9](https://archive.org/details/notesqueries410unse/page/468/mode/2up).
 
 Wife Selling. — The custom of selling and purchasing wives is based upon the ancient laws of the Anglo-Saxons. If a freeman seduced the wife of a freeman, he was to pay his full *weregeld*, to buy another wife for the injured husband, and deliver her at his home. In the reign of Canute, this law received some modification; no guardian could compel his ward to marry a man she disliked, and the money paid for her was to be a voluntary gift, and not a compulsory payment. — *Glimmerings in the Dark*, by F, Somner Merryweather, 1850, 8vo. p. 192.
 
@@ -350,9 +342,9 @@ William Bates.
 
 Birmingham.
 
-https://archive.org/details/notesqueries54unse/page/424/mode/2up
 
-5th S. IV. Nov. 27, 1875 p425-6
+
+5th S. IV. Nov. 27, 1875 [p425-6](https://archive.org/details/notesqueries54unse/page/424/mode/2up).
 
 Selling a Wife. — Perhaps you may think this cutting worth a place in "N. & Q." I have seen the several notices of wife-selling in "N. & Q.," but do not find a case like this, in which "the clerk of the market received 4d. for toll":—
 
@@ -362,16 +354,15 @@ This cutting I found with others in a book of the dates of March, Aprii, June, a
 Crawford J. Pocock.
 
 
-https://archive.org/details/notesandqueries00whitgoog/page/386/mode/2up
-5th S. X, Nov. 16, 1878, no. 255, p. 387
+5th S. X, Nov. 16, 1878, no. 255, [p387](https://archive.org/details/notesandqueries00whitgoog/page/386/mode/2up).
 
 Wife-selling.— The following, from the *Public Advertiser*, Sept. 19, 1768, illustrates the British custom of selling wives, and is rather amusing:—
 
 "On Thursday last a publican in Shoreditch sold his wife to a butcher for a ticket in the present lottery, on condition that if the ticket be drawn a blank he is to have his wife again as soon as the drawing of the lottery is over."  
 O.
 
-https://archive.org/details/s6notesqueries03londuoft/page/486/mode/2up
-6th S. III June  18, 1881, no. 77, p. 487
+
+6th S. III June  18, 1881, no. 77, [p487](https://archive.org/details/s6notesqueries03londuoft/page/486/mode/2up).
 
 WIFE SELLING.— The early volumes of "N. & Q." contain many paragraphs concerning this practice. Students of the morals of the nineteenth century will thank you if you add the following to the number. I have cut the passage from the *Leeds Mercury* of May 26:—
 
@@ -383,9 +374,9 @@ ANON.
 
 
 
-https://archive.org/details/s6notesqueries03londuoft/page/512/mode/2up
 
-6th. S. III June 25, 1881, no. 78 p512
+
+6th. S. III June 25, 1881, no. 78 [p512](https://archive.org/details/s6notesqueries03londuoft/page/512/mode/2up).
 
 WIFE SELLING (6th S. iii. 487).— A very excellent article on this subject appeared in the Standard of May 30, in which the writer gave an interesting account of this vulgar error.
 
@@ -393,8 +384,8 @@ T. F. THISELTON DYER.
 
 
 
-https://archive.org/details/notesandqueries04unkngoog/page/132/mode/2up
-6th S. IV. Aug. 13, 1881, p. 133
+
+6th S. IV. Aug. 13, 1881, [p133](https://archive.org/details/notesandqueries04unkngoog/page/132/mode/2up).
 
 Wife Selling (6th S. iii. 487, 512). — It is all very well for Mr. Thiselton Dyer to call it a "vulgar error" that a man may sell his wife; but we in the North and West Ridings know better. We know, in spite of the *obiter dicta* of "Her Majesty's High Court of Justice" (as the brand new phrase is), that men may properly and judiciously sell their wives, provided that they observe these three conditions, viz., — 1. The same wife must not be sold more than once by the same husband. 2. The price of the wife must not be less than one shilling. 3. The wife must be delivered to her purchaser with a halter — if possible a new halter — round her neck. The consent of the wife is, of course, taken for granted; experience having shown that it is never refused.
 
@@ -409,9 +400,7 @@ All this, however, is parenthetical. What I had to say is, that about thirty yea
 Poor Margery's funeral was singular. The parish is happy in having no access to hearses or undertakers; most people are carried to their last home, like William Rufus, in a cart; and so was Margery, with Job and the driver as her only mourners. To the surprise of the neighbours. Job appeared in his old moleskin poaching coat. They suggested "a bit o' black," but he replied, "Na, na! Ah ware this cawt when E gat her, an' Ah've put it on te side her in." Saying which he lighted his pipe and walked behind the cart. But the church was far, the road was long and hilly, and after a while Job mounted the cart, sat down on his wife's coffin, and stayed there, calmly smoking his pipe, until they reached the churchyard.  
 A. J. M.
 
-
-https://archive.org/details/notesqueries65unse/page/58/mode/2up
-6th S. V. Jan. 21, 1882, no. 108, p58
+6th S. V. Jan. 21, 1882, no. 108, [p58](https://archive.org/details/notesqueries65unse/page/58/mode/2up).
 
 Wife Selling (6th S. iii. 487, 512; iv. 133). — The Brighton Herald of May 27, 1826, states that the Brighton Market Book recorded: "May 17, 1826, Mr. Hilton, of Lodsworth, publicly sold his wife for 30s., upon which the toll of one shilling was paid." The matter came to the knowledge of the magistrates, who sent for the toll collector to justify his strange conduct in charging toll; when he at once referred the bench to the market byelaws: "Any article not enumerated in the byelaws pays one shilling" !
 
@@ -419,8 +408,8 @@ Frederick E. Sawyer.
 
 Brighton.
 
-https://archive.org/details/notesqueries65unse/page/98/mode/2up
-6th S. V. Feb. 4, 1882., no. 110, p98
+
+6th S. V. Feb. 4, 1882., no. 110, [p98](https://archive.org/details/notesqueries65unse/page/98/mode/2up).
 
 Wife Selling (6rh S. iii. 487, 512; iv. 133; v. 58). — The following brief account was taken down by me at the time, which was February, 1860. It relates to a village I know well in the North Riding:—
 
@@ -428,17 +417,15 @@ Wife Selling (6rh S. iii. 487, 512; iv. 133; v. 58). — The following brief acc
 
 A. J. M.
 
-https://archive.org/details/notesqueries65unse/page/296/mode/2up
-6th S. V, April 15, 1882, no. 120, p. 296-7
+
+6th S. V, April 15, 1882, no. 120, [pp. 296-7](https://archive.org/details/notesqueries65unse/page/296/mode/2up)
 
 Wife Selling (6th S. iii. 487, 512; iv. 133; V. 58, 98). — Mr. Rayner, in the first volume of Old Yorkshire (p. 135), gives the five following instances of wife selling in Yorkshire:—
 
 "At the West Riding Sessions, June 28th. 1837 a man named Joshua Jackson was convicted of selling his wife, and sentenced to imprisonment for one month with hard labour. — On the 4th of Feb., 1806, a man named George Gowthorp, of Patrington, sold his wife in the Market-place of Hull for the sum of 20 guineas, and with a halter delivered her to a person named Houseman.— In 1815 a man held a regular auction in the Market-place at Pontefract, offering his wife at the minimum bidding of one shilling, and 'knocked her down' for 11 shillings. — In 1858, in a beershop in Little Horton, Bradford, a man named Hartley Thompson put up his wife, described by the local journals at the time as a 'pretty young woman,' for sale; he even announced the sale beforehand by means of a cider or bellman, and brought her in with a ribbon round her neck, by way of halter.... At Selby, in the month of December, 1862, a man publicly sold his wife on the steps of the market cross for a pint of ale."  
 G. R. R. B.
 
-https://archive.org/details/notesqueries66unse/page/152/mode/2up
-
-6th. S. VI Aug 19, 1882, p152
+6th. S. VI Aug 19, 1882, [p152](https://archive.org/details/notesqueries66unse/page/152/mode/2up)
 
 Wife Selling (6th S. iii. 487, 512; iv. 133; v. 58, 98, 296). — The following instance of this practice is recorded in the *South Wales Daily News*, May 2, 1882: —
 
@@ -447,8 +434,8 @@ Wife Selling (6th S. iii. 487, 512; iv. 133; v. 58, 98, 296). — The following 
 F. C. Birkbeck Terry.  
 Cardiff
 
-https://archive.org/details/notesqueries66unse/page/436/mode/2up
-6th S. VI Nov. 25, 1882. p437
+
+6th S. VI Nov. 25, 1882. [p437](https://archive.org/details/notesqueries66unse/page/436/mode/2up).
 
 Wife Selling (6th S. iii. 487, 512; iv. 133; v. 58, 98, 296; vi. 152). — The following paragraph is taken from the *Pall Mall Gazette* of the 20th of October: —
 
@@ -458,16 +445,14 @@ G. Fisher
 
 
 
-https://archive.org/details/s6notesqueries07londuoft/page/118/mode/2up
-
-6th s. VII. FEB. 10, 1883, p.119
+6th s. VII. FEB. 10, 1883, [p119](https://archive.org/details/s6notesqueries07londuoft/page/118/mode/2up).
 
 NOTES ON BOOKS, &c.
 
 Parish Registers in England, their History and Contents. With Suggestions for securing their better Custody and Preservation. Attempted by Robert Edmond Chester Waters. New Edition. (Privately printed, 57, The Grove, Hammersmith, W.) ... Mr. Waters gives an interesting note on wife selling, a mode of divorce which seems to have been once very prevalent among our common people. The pages of "N. & Q." contain many examples of it, some of very recent date. A gentleman now dead, who was b^rn in the latter years of the last century, has told ua that he once eaw on market day, in a certain Eastern county, a man offer hia wife for aale with a hempen halter round her neck. Neither the constables nor the crowd interfered, and she was disposed of for five shillings, going away contentedly with her new lord. ...
 
-https://archive.org/details/s6notesqueries09londuoft/page/446/mode/2up
-6th s. IX, June 7, 1884 p446
+
+6th s. IX, June 7, 1884 [p446](https://archive.org/details/s6notesqueries09londuoft/page/446/mode/2up)
 WIFE-SELLING.— The proper method of selling one's wife was discussed in "N. & Q." three or four years ago, and several recent cases in point were then cited. Perhaps, therefore, it may be worth while to add to these the following extract from a local newspaper, dated May 9, which has been sent to me:—
 
 "Sale of a Wife at York.—We are informed that yesterday an unusual occurrence took place at an inn on Peasholme Green. A brickmaker sold his wife to a mattress-maker for the sum of 1s. 6d., which was at once paid, and the bargain concluded. Four of those present signed their names as witnesses of the transaction. This is the second occurrence of the kind in this city within a few weeks."
@@ -477,8 +462,7 @@ It will thus be seen that one at least of the two women who were sold fetched mo
 A. J. M.
 
 
-https://archive.org/details/s7notesqueries12londuoft/page/24/mode/2up
-7th S. xii. July 11, 1891, p24-5
+7th S. xii. July 11, 1891, [p24-5](https://archive.org/details/s7notesqueries12londuoft/page/24/mode/2up).
 
 SMITHFIELD.— French travellers, when describing the moral and social aspects of England, rarely forget to inform their readers that it is customary in this country for men to sell their wives, like any ordinary chattle, in open market — a fact (for fact it appears to be) that we one and all repudiate. The following paragraph appeared in the part of the Wellington Journal published June 6:—
 
@@ -491,15 +475,12 @@ As a pendant to this I transcribe the following account from the Lady's Magazine
 C. A. WHITE. Preston on the Wild Moors, Salop.
 
 
-
-https://archive.org/details/s8notesqueries06londuoft/page/120/mode/2up
-8th S. VI, Aug 11, 1894, p120
+8th S. VI, Aug 11, 1894, [p120](https://archive.org/details/s8notesqueries06londuoft/page/120/mode/2up).
 
 EDWARD PEACOCK. ("Wife Selling"). — See 7th S. xii. 24.
 
 
-https://archive.org/details/s10notesqueries09londuoft/s10notesqueries09londuoft/page/206/mode/2up
-10 S. ix. MARCH 14, 1908, p207
+10 S. ix. MARCH 14, 1908, [p207](https://archive.org/details/s10notesqueries09londuoft/s10notesqueries09londuoft/page/206/mode/2up)
 
 "T' WIFE BAZAAR." — This, it would appear from Lady Catherine Milnes Gaskell's 'Prose Idyls of the West Riding' (p. 198), is the outcome of
 
@@ -507,8 +488,8 @@ https://archive.org/details/s10notesqueries09londuoft/s10notesqueries09londuoft/
 
 I have read of wife-sales taking place in Yorkshire and elsewhere, and I think the legality of such transactions was maintained by some of my father's women-servants; but the privilege of "t' Wife Bazaar" is, as far as I am concerned, quite a latter-day revelation, and I am surprised that I have been left so long in ignorance. It appears that a contract is drawn up between the exchanging parties, who sign it at a public-house amid many witnesses and much feasting. That being over, the already wedded bridegrooms often bestow the gift of trinkets on their second-hand brides, whom they now maintain, together with the "childers" of the former union, should the agreement run to that effect. I did not know that "childers" could be found in any dialect; but Lady Catherine Milnes Gaskell uses it throughout her book. ST. SWITHIN.
 
-https://archive.org/details/s10notesqueries09londuoft/s10notesqueries09londuoft/page/416/mode/2up
-10 S. ix. MAY 23, 1908, p416
+
+10 S. ix. MAY 23, 1908, [p416](https://archive.org/details/s10notesqueries09londuoft/s10notesqueries09londuoft/page/416/mode/2up).
 
 "'T WIFE BAZAAR": "CHILDERS" (10 S. ix. 207). — In The Home Counties Magazine, iv. 28, in an article entitled 'Notes on a Custom at Woking,' mention is made of a somewhat similar custom, lasting well into the last century, to that which has astonished ST. SWITHIN. The chief difference, apparently, is that it was the custom of the cottagers at Woking to exchange wives once a week, instead of once a year. The author declares that
 
@@ -533,8 +514,8 @@ Come home! Come home to yer *childer* and me!
 L HARRY HEMS.  
 Fair Park, Exeter.
 
-https://archive.org/details/s10notesqueries10londuoft/s10notesqueries10londuoft/page/118/mode/2up
-10 S. X, Aug 8, 1908, p118
+
+10 S. X, Aug 8, 1908, [p118](https://archive.org/details/s10notesqueries10londuoft/s10notesqueries10londuoft/page/118/mode/2up).
 
 "'T WIFE BAZAAR" (10 S. ix. 207, 416). — There is an article of some length on wife-selling in the *Daily Mail* of 1 March, 1899. It is quoted, along with extracts from other newspapers, by Prof. Knapp in the notes to his edition of 'The Romany Rye,' p. 384.
 
@@ -556,7 +537,7 @@ J. Holden MacMichael.
 
 ## A Brief History of Wife Selling from the Local and Regional Press
 
-Many of the mentions of wife selling in *Notes & Queries* makre reference to related newspaper reports. So let's also look to the local and regional press to see what we can find, not just in terms of the original sources that may have been quoted in *N&Q*, but also other reports that perhaps missed the gaze of its correspondents.
+Many of the mentions of wife selling in *Notes & Queries* make reference to related newspaper reports. So let's also look to the local and regional press to see what we can find, not just in terms of the original sources that may have been quoted in *N&Q*, but also other reports that perhaps missed the gaze of its correspondents.
 
 TO DO
 
@@ -574,9 +555,8 @@ In *Hereford Journal*, [Wednesday 23 August 1815](https://britishnewspaperarchiv
 
 *Wife selling Reversed.* On Wednesday last a disgraceful scene was exhibited at Dewsbury, which, however, had something of novelty to recommend it. A *lady* brought her husband in customary form, with a halter round him, to the Market Cross and offered him for sale, in the presence of a numerous body of spectators. After some time a buyer appeared, and the novel commodity was disposed of for the mighty sum of sixpence. The parties then adjourned to a public-house, where they *moistened the bargain*, and afterwards parted all apparently well pleased with their own portion of the transaction.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000172/18160907/021/0004
 
-Leicester Chronicle - Saturday 07 September 1816
+In *Leicester Chronicle*, S[aturday 07 September 1816](https://britishnewspaperarchive.co.uk/viewer/bl/0000172/18160907/021/0004).
 
 *Wife selling.* —An instance of this unnatural commerce took place at Billingborough Tuesday se'nnight. Francis Worsdale, labourer, delivered (in the usual instrument—a halter) to John Crosbie, whittower, his nothing-loth rib for a 1*l*. note, a sum, which, without knowing either the merits or the beauty of the transferred lady, we, for our parts, should not be much inclined to give. She is, we learn, about 40 years of age, and has two children by Worsdaie, a boy and girl, the former of whom to remain with him, and the latter to follow the fortunes of her speculating mother and her new father. Crosbie is about half the age of his fair enslaver, and has but just finished his apprenticeship. It is not unnecessary to add, however prizeable the bargain may already appear, that he also receives one half of the goods and chattels of the late partners.
 
@@ -619,7 +599,7 @@ After a good deal of consultation it was determined upon that the parties should
 
 In *Derbyshire Courier*, [Saturday 01 March 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000395/18560301/058/0003).
 
-WIFE SELLING. Considerable excitement prevailed in Chesterfield market on Saturday last, arising from a report that the wife of a man residing in the locality of Inkersal had been publicly sold. The affair was particularly exciting to the gentler sex, to whom it furnished a very fruitful source of gossip throughout the day. We understand the woman had been estranged from her husband in consequence of her unfaithfulness, and that he had written to her requesting a reconciliation. She, during the separation, had formed an intimacy with another individual, and declined to return to her lawful husband, who, finding that his entreaties were in vain, he requested her to meet him on Saturday last in front of the Chesterfield Town Hall for the purpose of having a mutual separation by disposing of her to the highest bidder. The woman, who was neatly attired and tolerably good-looking, was true to her appointment, but the husband never came. The object of the assignation soon spread amongst the market people until a great crowd had collected, and it became evident that the excitement consequent upon such a disgraceful scene was becoming unpleasant to the actors; consequently, the woman's paramour took the fair lady to the house of Mr Hearnshaw, in Gluman gate, followed by a large crowd, who hooted and yelled after them. The crowd became so oppressive that the woman and her paramour contrived to escape by the back way, and quietly entered, by the back premises, the house of Mr. Cox, the Fountain, where they drank their refreshment and remained *ingoc.*, whilst the crowd were Glumaan-gate, and until after they had dispersed. There was sale as was generally reported, the parties believing the absence of the lawful husband to be fatal to the legality of a auction.
+WIFE SELLING. Considerable excitement prevailed in Chesterfield market on Saturday last, arising from a report that the wife of a man residing in the locality of Inkersal had been publicly sold. The affair was particularly exciting to the gentler sex, to whom it furnished a very fruitful source of gossip throughout the day. We understand the woman had been estranged from her husband in consequence of her unfaithfulness, and that he had written to her requesting a reconciliation. She, during the separation, had formed an intimacy with another individual, and declined to return to her lawful husband, who, finding that his entreaties were in vain, he requested her to meet him on Saturday last in front of the Chesterfield Town Hall for the purpose of having a mutual separation by disposing of her to the highest bidder. The woman, who was neatly attired and tolerably good-looking, was true to her appointment, but the husband never came. The object of the assignation soon spread amongst the market people until a great crowd had collected, and it became evident that the excitement consequent upon such a disgraceful scene was becoming unpleasant to the actors; consequently, the woman's paramour took the fair lady to the house of Mr Hearnshaw, in Gluman gate, followed by a large crowd, who hooted and yelled after them. The crowd became so oppressive that the woman and her paramour contrived to escape by the back way, and quietly entered, by the back premises, the house of Mr. Cox, the Fountain, where they drank their refreshment and remained *ingoc.*, whilst the crowd were in Gluman-gate, and until after they had dispersed. There was sale as was generally reported, the parties believing the absence of the lawful husband to be fatal to the legality of a auction.
 
 We have received the following account of a "wife sale" at Wirksworth, from a correspondent: -One of these brutal, absurd, and illegal exhibitions took place last market day, at Wirksworth. In the forenoon, a man, who was not known, went into a saddler's shop and purchased a new halter, without, however, stating for what purpose he required it, and shortly afterwards the same man called again expressing a wish, that the person who had sold him the article would step into the market to witness a bargain. The journeyman went out for that purpose, without the most remote conception of the kind of transaction he was required to witness, and in the public market-place, found a young woman standing near a stall, with the halter he had sold the man, in a noose, round her neck. At this moment the man took hold of the end of the rope, and handed it to another man who came up from whom he received some money, and the three walked off together, leaving the saddler almost petrified the nature of the bargain had been obligingly, but almost unconsciously witnessing. The sale was conducted with some degree of secrecy and decency, if indeed the latter word is in any way applicable to such a disgusting proceeding, and but six persons were aware of what was going on until conclusion of the business; immediately after which, the three contracting parties very sensibly themselves scarce, with whole skins. It is conjectured the parties came from a distance, as they did not appear to be recognised in the town.
 
@@ -643,7 +623,7 @@ In *Echo (London)*, [Monday 30 May 1881](https://britishnewspaperarchive.co.uk/v
 
 THE SHEFFIELD WIFE SELLING CASE.
 
-*The Standard* observes that if we desire to reach the foundation of the idea of wife selling, we must go further back than even the Longobard laws. We must seek for it in that remote period in the world's history when a woman was considered, as she still is among modern savage tribes and in Moslem countries, in the light of a marketable commodity. The father sold her, and the husband who bought her, when tired of bargain, re-sold his "chattel," to be, as Petruchio said of Katherine, "the ox, the ass, the everything" of another barbarian lord. In Babylon there was a regular wife auction, and until recemtly marriageable girls were literally brought to market at the fair of Nijni-Novgorod in Russia. A father, in early times, looked upon his daughters as valuable property, and hence the disrepute in which elopements were held, as mean attempts to steal a wife without paying for her. Dowries with brides were thought of only when society got so civilised that bachelors and spinsters were tolerated, and when the abandonment of polygamy left a surplus of females in the community. Accordingly, the ethnologist regards the Sheffield knife-grinder who sold his spouse for a quart of beer with keener interest than the parochial authorities are likely to do. In the eyes of the Folk Lorist he is a "survival"—a remnant—of the boyhood of the world, and, like the stone axe and the kjökkenmödding, worthy of investigation as a relic of pre-historic times.
+*The Standard* observes that if we desire to reach the foundation of the idea of wife selling, we must go further back than even the Longobard laws. We must seek for it in that remote period in the world's history when a woman was considered, as she still is among modern savage tribes and in Moslem countries, in the light of a marketable commodity. The father sold her, and the husband who bought her, when tired of bargain, re-sold his "chattel," to be, as Petruchio said of Katherine, "the ox, the ass, the everything" of another barbarian lord. In Babylon there was a regular wife auction, and until recently marriageable girls were literally brought to market at the fair of Nijni-Novgorod in Russia. A father, in early times, looked upon his daughters as valuable property, and hence the disrepute in which elopements were held, as mean attempts to steal a wife without paying for her. Dowries with brides were thought of only when society got so civilised that bachelors and spinsters were tolerated, and when the abandonment of polygamy left a surplus of females in the community. Accordingly, the ethnologist regards the Sheffield knife-grinder who sold his spouse for a quart of beer with keener interest than the parochial authorities are likely to do. In the eyes of the Folk Lorist he is a "survival"—a remnant—of the boyhood of the world, and, like the stone axe and the kjökkenmödding, worthy of investigation as a relic of pre-historic times.
 
 In *Sheffield Daily Telegraph*, [Tuesday 31 May 1881](https://britishnewspaperarchive.co.uk/viewer/bl/0000250/18810531/013/0003).
 
