@@ -30,7 +30,7 @@ Related:
 
 lucky jack (?)
 
-ALso reminds me of Shanks' pony - new to me band at Ey Up Me Duck, thlught there must be a tale behind the name, indeed there is, its slang for using your legs. In the next story the Hedley Kow, that's Kow with a K, is a tricksterish figure, who changes shape in order to get people to carry him on his way. In one version, he turns himself into a bundle of straw, that an old women out collecting sticks picks up and takes home, at which point he returns to his normal form and runs off. But in this, more widely known version, from Jacobs' second collection of English fairy tales, he has a bit more fun...
+Also reminds me of Shanks' pony - new to me band at Ey Up Me Duck, thought there must be a tale behind the name, indeed there is, its slang for using your legs. In the next story the Hedley Kow, that's Kow with a K, is a tricksterish figure, who changes shape in order to get people to carry him on his way. In one version, he turns himself into a bundle of straw, that an old women out collecting sticks picks up and takes home, at which point he returns to his normal form and runs off. But in this, more widely known version, from Jacobs' second collection of English fairy tales, he has a bit more fun...
 
 Hedley Kow in 
 
