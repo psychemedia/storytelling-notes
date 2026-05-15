@@ -32,7 +32,7 @@ CASTLE LEGENDS.
 
 ...
 
-... [T]he legend of the drummer-boy. Some soldiers barracked at the castle during the Napoleonic wars, determined to discover a secret passage said to lead to Easbv, a mile away. They found the castle end of the passage, and induced a drummer boy to down, with instructions to on drumming, while they followed the sound along the ground outside. The drummer boy led them about half way to Easby and suddenly stopped drumming. He was never seen again. But on moonlight nights—and so forth. 
+... [T]he legend of the drummer-boy. Some soldiers barracked at the castle during the Napoleonic wars, determined to discover a secret passage said to lead to Easby, a mile away. They found the castle end of the passage, and induced a drummer boy to down, with instructions to on drumming, while they followed the sound along the ground outside. The drummer boy led them about half way to Easby and suddenly stopped drumming. He was never seen again. But on moonlight nights—and so forth. 
 
 ```
 
