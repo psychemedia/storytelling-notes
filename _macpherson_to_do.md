@@ -29,7 +29,7 @@ I've spent my time in rioting,
 Debauch'd my health and strength;  
 I've pillag'd, plunder'd, murdered,  
 But now, alas! at length,  
-I'm borught to punishment direct,  
+I'm brought to punishment direct,  
 Pale Death draws near to me;  
 This end I never did project,  
 To hang upon a tree.
