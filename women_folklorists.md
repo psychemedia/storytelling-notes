@@ -17,3 +17,5 @@
 ## Lady Charlotte Guest
 
 ## Lady Wilde
+
+## Lady Gregory
