@@ -118,5 +118,3 @@ The first part of the story closely resembles 'The Devil with the Three Golden H
 The second part of the same Yorkshire story is founded on a different root, and one which reappears in numerous tales. Tor instance, in 'Herodotus,' it is told of Polycrates; in the old Provencal romance of 'Magelone' it more closely resembles the form in the Yorkshire tale. If I remember aright, it occurs in one of the 'Arabian Nights' Entertainments;' and if so, it was a relic of Persian romance, and would, in all probability, be found in India as well. I am not sure that it has not a mythical signification, and that the ring apparently lost in the sea, and recovered from it again, does not portray the sun cast, as it were, by the power of darkness into the deep, and recovered again by the virgin Aurora or the dawn. The instances of the reappearance of this root in household tales are too numerous to be specified. I may mention that it occurs in the familiar French tale of 'The Fair One with Golden Locks,' and that we find it in all the kindred tales of the Aryan family.
 
 ```
-
-
