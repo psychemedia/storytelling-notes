@@ -146,12 +146,13 @@ https://www.irishmusicdaily.com/raggle-taggle-gypsy
 > The song is to be found all over the world under various names including The Raggle Taggle Gypsies, Black Jack Davy, Gypsy Davy, Seven Yellow Gypsies and many more.
 >
 > The rough gypsy charms the fine lady
+>
 > The different versions vary in detail but the basic story is generally the same. A noble lady married to the local lord of the manor falls in love with a gypsy who turns up unexpectedly at the door of her stately home.
 >
 > She abandons her husband and her lavish lifestyle so she can run away with the handsome stranger.
 >
-> Raggle Taggle Gypsy
-> She's away with the raggle, taggle gypsy-o
+> Raggle Taggle Gypsy  
+> She's away with the raggle, taggle gypsy-o  
 > When the lord returns and can not find his wife, the servants tell him that "she's away with the raggle taggle gypsy-o".
 >
 > Furious, he takes his fastest horse and vows to ride until he finds his wife. When he does find her, however, she refuses to return and says she would prefer to stay with her new gypsy lover.
@@ -165,7 +166,7 @@ https://www.irishmusicdaily.com/raggle-taggle-gypsy
 >
 > These are questions that may be going through the minds of many listeners too but the lady has an answer.
 >
-> What care I for money-o?
+> What care I for money-o?  
 > The wife's response is that this is all about love. She doesn't care for money, land, fine beds or anything else. She'd rather sleep out rough in the fields if it means she can be in "the arms of a raggle taggle gypsy-o".
 >
 > Most versions of the Raggle Taggle Gypsy end in this way with the wife happy in her choice and ready to start enjoying her new life. There are, however, several alternative endings.
@@ -318,7 +319,7 @@ Publication date 1900
 
 pp. 2-3 No. 1
 
-![Music for Raggle Taggle Gypsies, O!, in Baring-Gould, English folk-songs for schools]](images/raggle-taggle-sbg.png)
+![Music for Raggle Taggle Gypsies, O!, in Baring-Gould, English folk-songs for schools](images/raggle-taggle-sbg.png)
 
 THE WRAGGLE TAGGLE GIPSIES, O!
 
