@@ -14,7 +14,7 @@ The first is *Macpherson's Lament*, opens with the fantastic line, *I've spent m
 *Below the gallows tree.*
 
 The earliest reference I can find to the lament is in [Scotish Songs, in Two Volumes: Volume the Second](https://digital.nls.uk/special-collections-of-printed-music/archive/90265294), published in 1794, pp. 114-7:
-Printed for J. Johnson (i have seen this referred to as "Johnson's *Museum*")
+Printed for J. Johnson (I have seen this referred to as "Johnson's *Museum*")
 COver page - https://deriv.nls.uk/dcn3/9026/90263916.3.jpg
 
 Images and transcriptions on this page, including medium image downloads, may be used under the Creative Commons Attribution 4.0 International Licence unless otherwise stated. National Library of Scotland, Glen collection of printed music https://digital.nls.uk/special-collections-of-printed-music/archive/97129438
@@ -183,7 +183,7 @@ The wretch that dares not die I *
 
 TO DO
 
-* The story of Macpherson is thus detailed by a person signing himself B. G., New Monthly Magazine, vol. I. p. 142: "James Macpherson was born of a beautiful gipsy, who, at a great wedding, attracted the notice of a half-intoxicated Highland gentleman. He acknowledged the child, and had him reared in his house, until he lost his life in bravely pursuing a hostile clan, to recover a spreach of cattle taken from Badenoch. The gipsy woman, hearing of this disaster, in her rambles the following summer, came and took away her boy; but she often returned with him, to wait upon his relations and clansmen, who never failed to clothe him well, besides giving money to his mother. He grew up to beauty, strength, and stature, rarely equalled. His sword is still preserved at Duff House, a rescience of the Earl of Fife, and few men of our day could carry, far less 
+* The story of Macpherson is thus detailed by a person signing himself B. G., New Monthly Magazine, vol. I. p. 142: "James Macpherson was born of a beautiful gipsy, who, at a great wedding, attracted the notice of a half-intoxicated Highland gentleman. He acknowledged the child, and had him reared in his house, until he lost his life in bravely pursuing a hostile clan, to recover a spreach of cattle taken from Badenoch. The gipsy woman, hearing of this disaster, in her rambles the following summer, came and took away her boy; but she often returned with him, to wait upon his relations and clansmen, who never failed to clothe him well, besides giving money to his mother. He grew up to beauty, strength, and stature, rarely equalled. His sword is still preserved at Duff House, a residence of the Earl of Fife, and few men of our day could carry, far less 
 wield it, as a weapon of war; and if it must be owned that his prowess was
 
 
@@ -195,12 +195,9 @@ wield it, as a weapon of war; and if it must be owned that his prowess was
 MACPHERSON'S RANT. 
 
 I've spent my time in rioting,  
-
 Debauch'd my health and strength;  
-
 I've pillaged, plunder'd, murdered,  
 But now, alas, at length,  
-
 I'm brought to punishment direct;  
 Pale death draws near to me;  
 
@@ -307,9 +304,7 @@ According to the lives you lead,
 
 Rewarded you shall be. 
 
-
 ---
-
 
 Various other versions of the song exist.
 
@@ -480,7 +475,7 @@ This timepiece has a dramatic history.
 
 Macpherson was sentenced to be hanged at Banff on 16th November 1700. Everything was in readiness for the execution when a courier on horseback was seen on the nearby bridge waving something in his hands.
 
-The Banff officials rightly came to the conclusion that the courier was on his way with a last*-inute reprieve, and, determined not to be baulked of their lawful prey, they put forward the hands of the clock five minutes and immediately proceeded to hang Macpherson before the messenger could place the reprieve in the hands of the sheriff.
+The Banff officials rightly came to the conclusion that the courier was on his way with a last-minute reprieve, and, determined not to be baulked of their lawful prey, they put forward the hands of the clock five minutes and immediately proceeded to hang Macpherson before the messenger could place the reprieve in the hands of the sheriff.
 
 The Unwanted Violin
 
@@ -539,7 +534,7 @@ Three days later, gipsy caravn arrives. Jamie had been feeling lost, but feels h
 
 Mother lives in a cave in the mountain, leads a band of gipsy outlaws.
 
-Lord Macpherson's land given to relatives and deserving servants, Jamie leaves it all behind, taking just his swrod and violin with him.
+Lord Macpherson's land given to relatives and deserving servants, Jamie leaves it all behind, taking just his sword and violin with him.
 
 Learned the ways of the outlaw; took over from mother; prevented murder.
 
@@ -737,9 +732,6 @@ The downfall of Macpherson was executed by his enemy-in-chief, Lord Duff of Brac
 
 Macpherson was captured on two occasions, once in Inverness and another in Aberdeen, but managed to escape both times - on one occasion with the help of one of his most trusted allies.
 
-Advertisement
-
-Hide Ad
 Macpherson was finally seized in an operation executed by Lord Duff in the autumn of 1700 at the St Rufus Fair in Keith.
 
 As battle broke out, one of Macpherson's men was killed with the target captured after a woman threw a piece of rug over him from an upstairs window.
@@ -748,9 +740,6 @@ He was tried in Banff by Sheriff Nicholas Dunbar, a friend of Lord Braco, and wa
 
 According to the Clan Macpherson Museum at Newtommore there are many legends surrounding the outlaw - with the "tales concerning his death even stranger."
 
-Advertisement
-
-Hide Ad
 Condemned "to be hanged by the neck betwixt the hours of two and three," Lord Braco, on hearing that a lone rider was approaching from Turriff with a reprieve, had the town clock turned forward by 15 minutes to ensure the execution went ahead.
 
 Before his death, Macpherson apparently mounted the scaffold at Banff to play the tune he had composed in his cell.
@@ -759,9 +748,6 @@ When he was finished he offered the fiddle to the crowd which had gathered - but
 
 He then smashed his instrument and dropped it at his feet, with the remnants on display at the museum.
 
-Advertisement
-
-Hide Ad
 The tune he is said to have composed is widely known as "Macpherson's Rant" or "Macpherson's Lament".
 
 Robert Burns later used it as the basis "Macpherson's Farewell."
@@ -770,14 +756,7 @@ Those involved in moving the clock forward were punished, and for many years aft
 
 Some time after 1839, the faces of the clocktower were removed from Banff and rehoused in the newly built Dufftown tower.
 
-Advertisement
-
-Hide Ad
 It is known locally as "The clock which hung Macpherson."
-
-•
-
-
 
 
 https://www.scottishlegal.com/articles/our-legal-heritage-james-macpherson-hung-for-being-an-egyptian
@@ -800,7 +779,6 @@ MacPherson didn't go quietly and varying accounts of his final minutes all sugge
 Reminders of that now-legendary day can still be found in the town today, including the Broken Fiddle cafe on Strait Path and a painting paying tribute to him in Banff Museum.
 
 ---
-
 
 Broadside incl scan
 
