@@ -285,8 +285,6 @@ He walked along the moor until he met the snow-white hart and hind; then, to eve
 But although a knight leaped on his horse in haste, and spurred him at once through the raging torrent, he could see nothing of the Rhymer or his strange companions. They had vanished, leaving neither sign nor trace behind them; and to this day it is believed that the hart and the hind were messengers from the Queen of the Fairies, and that True Thomas went back with them to dwell in her country for ever.
 
 
-
-
 ---
 
 The following includes the Fiddlers of Tomnahurich (Inverness)
@@ -505,93 +503,102 @@ ANCIENT NEVER BEFORE PUBLISHED.
 
 True Thomas lay on Huntlie bank:  
 A ferlie he spied wi' his ee;  
-And there he saw a lady bright.  
-Come riding down by the Eildon Tree.  
-Her shirt was o' the grass green silk.  
+And there he saw a lady bright,  
+Come riding down by the Eildon Tree.
+
+Her shirt was o' the grass green silk,  
 Her mantle o' the velvet tyne;  
 At ilka tett of her horse's mane,  
-Hang fifty siller bells and ni
+Hang fifty siller bells and nine.
 
-S52
-True Thomas, he pull'd aff his cap.  
-And louted low down to his knee  
+True Thomas, he pull'd aff his cap,  
+And louted low down to his knee —  
 "All hail, thou mighty Queen of Heav'n?  
 For thy peer on earth I never did see."
-"O no, O no, Thomas," she said;
+
+— "O no, O no, Thomas," she said;  
 "That name does not belang to me;  
 I am but the Queen of fair Elfland,  
-That am hither come to visit thee.  
+That am hither come to visit thee.
+
 "Harp and carp, Thomas," she said;  
 "Harp and carp along wi' me:  
-And if ye dare to kiss my lips.  
-Sure of your bodie I will be."  
-"Betide me weal, betide me woe.  
-That weird shall never danton me."  
-Syne he has kissed her rosy lips.  
-All underneath the Eildon Tree.  
+And if ye dare to kiss my lips,  
+Sure of your bodie I will be."
+
+"Betide me weal, betide me woe,  
+That weird shall never danton me." `[That destiny shall never frighten mi;]`  
+Syne he has kissed her rosy lips,  
+All underneath the Eildon Tree.
+
 "Now, ye maun go wi' me," she said;  
 "True Thomas, ye maun go wi' me:  
-And yc maun serve me seven years.  
-Thro' weal or woe as may chance to be."  
-TJiat "werrd, ^<'.   
-That destiny shall never frighten mi;
+And ye maun serve me seven years,  
+Thro' weal or woe as may chance to be."
 
-253
 She mounted on her milk-white steed;  
 She's ta'en true Thomas up behind;  
-And aye, whene'er her bridle rung.  
-The steed flew swifter than the wind.  
+And aye, whene'er her bridle rung,  
+The steed flew swifter than the wind.
+
 O they rade on, and further on;  
 The steed gaed swifter than the wind;  
-Untill they reached a desart wide.  
-And livina: land was left behind.  
-"Light down, light down, now, true Thomas,  
+Untill they reached a desart wide,  
+And livina: land was left behind.
+
+— "Light down, light down, now, true Thomas,  
 And lean your head upon my knee:  
 Abide and rest a little space,  
-And I will shew you ferlies three.  
-"O see ye not yon narrow road.  
+And I will shew you ferlies three.
+
+"O see ye not yon narrow road,  
 So thick beset wi' thorns and briers?  
 That is the path of righteousness,  
-Tho' after it but few enquires.  
-"And see not ye that braid braid road.  
+Tho' after it but few enquires.
+
+"And see not ye that braid braid road,  
 That lies across that lily leven?  
 That is the path of wickedness,  
-Tho' some call it the road to heaven.  
+Tho' some call it the road to heaven.
 
-254
-"And see not ye that bonny road.  
+"And see not ye that bonny road,  
 That winds about the fernie brae?  
 That is the road to fair Elfland,  
-Where thou and I this night maun gae.  
+Where thou and I this night maun gae.
+
 "But, Thomas, ye maun hold your tongue.  
 Whatever ye may hear or see;  
 For, if you speak word in Elflyn land,  
-Ye'll ne'er get back to your ain countrie."-  
-O they rade on, and farther on.  
+Ye'll ne'er get back to your ain countrie."—
+
+O they rade on, and farther on,  
 And they waded thro' rivers aboon the knee;  
-And they saw neither sun nor moon.
-But they heard the roaring of the sea.  
-It was mirk mirk night,  
-and there was nae stern light,  
+And they saw neither sun nor moon,  
+But they heard the roaring of the sea.
+
+It was mirk mirk night, and there was nae stern light,  
 And they waded thro' red blude to the knee;  
 For a' the blude that's shed on earth,  
-Rins thro' the springs o' that countrie.  
-Syne they came on to a garden green.  
+Rins thro' the springs o' that countrie.
+
+Syne they came on to a garden green,  
 And she pu'd an apple frae a tree  
 "Take this for thy wages, true Thomas;  
 It will give the tongue that can never lie."
 
 —"My tongue is mine ain," true Thomas said;  
-"A gudely gift ye wad gie to me I  
+"A gudely gift ye wad gie to me!  
 I neither dought to buy nor sell.  
-At fair or tryst where I may be.  
-"I dought neither speak to prince or peer.  
-Nor ask of grace from fair ladye."  
+At fair or tryst where I may be.
+
+"I dought neither speak to prince or peer,  
+Nor ask of grace from fair ladye."—  
 "Now hold thy peace!" the lady said,  
-"For, as I say, so must it be."  
-He has gotten a cloth of the even cloth.  
+"For, as I say, so must it be."
+
+He has gotten a cloth of the even cloth,  
 And a pair of shoes of velvet green;  
-And, till seven years were gane and past.  
+And, till seven years were gane and past,  
 True Thomas on earth was never seen.
 
 NOTE
@@ -602,6 +609,17 @@ She pu'd an apple frae a tree. P. 254, Verse 5.
 The traditional commentary upon this ballad informs us, that the apple was the produce of the fatal Tree of Knowledge, and that the garden was the terrestrial paradise. The repugnance of Thomas to be debarred the use of falsehood, when he should find it convenient, has a comic effect.
 
 [TH: two more parts follow relating to prophecies and return to Elfinland]
+
+THOMAS THE RHYMER.
+
+PART SECOND.
+
+NEVEE BEFORE PUBLISHED— ALTERED TROM ANCIENT PROPHECIES.
+
+The prophecies ascribed to Thomas of Erceldoune have been the principal means of securing to him remembrance "amongst the sons of his people." The author of *Sir Tristrem* would long ago have joined, in the vale of oblivion, "Clerk of Tranent, who wrote the adventures of *Schir Gawaine*," if, by good hap, the same current of ideas respecting antiquity, which causes Virgil to be regarded as a magician by tlie Lazaroni of Naples, had not exalted the bard of Erceldoune to the prophetic character. Perhaps, indeed, he himself affected it during his life. We know at least for certain, that a belief in his supernatural knowledge was current soon after his death. His prophecies are alluded to by Barbour, by WINTOUN, and by Henry, the minstrel; or *Blind Harry*, as he is usually termed. None of these authors, however, give the words of any of the Rhymer's vaticinations, but merely narrate historically his having predicted the events of which they speak. The earliest of the prophecies ascribed to him, which is now extant, is quoted by Mr Pinkerton from a MS. It is supposed to be a response from Thomas of Erceldoune, to a question from the heroic Countess of March, renowned for the defence of the castle of Dunbar against the English, and termed, in the familiar dialect of her time. Black Agnes of Dunbar. This prophecy is remarkable, in so far as it bears very little resemblance to any verses published in the printed copy of the Rhymer's supposed prophecies.
+
+The verses are as follows: ...
+
 
 
 ---
@@ -684,7 +702,6 @@ TO DO SEE ALSO Tam Lin
 
 https://archive.org/details/harpersnew67various/page/618/mode/2up?q=%22Tom-na-hurich%22
 Harper's New Monthly Magazine Volume 67 June to November 1883, pp619-20
-
 
 In an article on "The Genesis of the Rip van Winkle Legend", 
 
