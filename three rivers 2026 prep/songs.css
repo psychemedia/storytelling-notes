@@ -1,0 +1,166 @@
+/* songs.css — companion stylesheet for songs.qmd Quarto HTML output */
+
+@media print {
+  .page-break {
+    break-before: page;
+    page-break-before: always;
+  }
+}
+
+/* ── Chord symbols ─────────────────────────────────── */
+.chord {
+  display: inline-block;
+  font-family: 'Inconsolata', 'Courier New', monospace;
+  font-size: 0.78em;
+  font-weight: 600;
+  color: #1a6080;
+  letter-spacing: 0.03em;
+  vertical-align: super;
+  line-height: 0;
+  margin-right: 0.25em;
+}
+
+/* When chords appear on their own line (approach A) */
+p > .chord:only-child,
+p:has(> .chord:first-child:last-child) {
+  display: block;
+  font-size: 0.82em;
+  line-height: 1.2;
+  margin-bottom: -0.3em;
+  vertical-align: baseline;
+  color: #1a6080;
+}
+
+/* ── Struck / inserted text ────────────────────────── */
+.strike {
+  text-decoration: line-through;
+  color: #9a8060;
+}
+.ins {
+  font-weight: 600;
+  color: #1a1208;
+}
+
+/* ── Highlights ────────────────────────────────────── */
+.hl-green  { background: #b8f070; color: #1a3800; padding: 1px 5px; border-radius: 3px; }
+.hl-pink   { background: #ff8fb0; color: #4a0020; padding: 1px 5px; border-radius: 3px; }
+.hl-blue   { background: #70d4f8; color: #003050; padding: 1px 5px; border-radius: 3px; }
+.hl-orange { background: #ffc060; color: #4a2000; padding: 1px 5px; border-radius: 3px; }
+.hl-yellow { background: #f0f050; color: #3a3400; padding: 1px 5px; border-radius: 3px; }
+
+/* ── Circled references ────────────────────────────── */
+.circled {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5em;
+  height: 1.5em;
+  border: 1.5px solid currentColor;
+  border-radius: 50%;
+  font-family: 'Inconsolata', monospace;
+  font-size: 0.8em;
+  font-weight: 600;
+  vertical-align: middle;
+  margin: 0 2px;
+}
+
+/* ── Side cues ─────────────────────────────────────── */
+.side-cue {
+  float: right;
+  font-style: italic;
+  font-size: 0.85em;
+  color: #5a6030;
+  font-family: 'Inconsolata', monospace;
+  clear: right;
+  margin-left: 1em;
+}
+
+/* ── Stage directions ──────────────────────────────── */
+.stage {
+  font-style: italic;
+  color: #5a4020;
+  font-size: 0.9em;
+}
+
+/* ── Blue-ink notes ────────────────────────────────── */
+.blue-ink {
+  color: #1a4080;
+  font-style: italic;
+  font-size: 0.88em;
+}
+
+/* ── Cut lines (marked ✕) ──────────────────────────── */
+.cut {
+  opacity: 0.5;
+  text-decoration: line-through;
+  color: #9a8060;
+}
+
+/* ── Arrow annotations ─────────────────────────────── */
+.arrow::before { content: "→ "; }
+
+/* ── Block divs ────────────────────────────────────── */
+.verse {
+  margin: 1em 0;
+}
+
+.bracket-group {
+  border-left: 2.5px solid #5a4020;
+  padding-left: 14px;
+  margin: 4px 0;
+}
+
+.annotation {
+  font-size: 0.82em;
+  color: #b04000;
+  font-style: italic;
+  font-family: 'Inconsolata', monospace;
+  margin-left: 1em;
+  margin-top: 2px;
+  line-height: 1.4;
+}
+.annotation::before { content: "↳ "; opacity: 0.6; }
+
+.alt {
+  font-size: 0.88em;
+  color: #5a4060;
+  font-style: italic;
+  border-left: 2px dashed #b090c0;
+  padding-left: 10px;
+  margin: 4px 0 4px 12px;
+}
+
+.structure-label {
+  font-weight: 600;
+  font-size: 0.85em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #4a3a1a;
+  margin: 1.2em 0 0.4em;
+  font-family: 'Inconsolata', monospace;
+}
+
+.side-box {
+  border: 1.5px solid #8a7a50;
+  border-radius: 4px;
+  padding: 12px 16px;
+  margin: 1em 0 1em auto;
+  max-width: 280px;
+  font-size: 0.88em;
+  line-height: 1.6;
+  background: #faf6ec;
+}
+
+.corner-note {
+  font-family: 'Inconsolata', monospace;
+  font-size: 0.78em;
+  color: #5a5a3a;
+  font-style: italic;
+  margin-bottom: 0.8em;
+}
+
+.song {
+  margin-bottom: 3em;
+  padding-bottom: 2em;
+  border-bottom: 2px solid #b0a080;
+}

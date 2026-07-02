@@ -1,0 +1,405 @@
+---
+title: "Song Transcriptions"
+subtitle: "Trad. — with arrangement and annotation notes"
+format:
+  html:
+    theme: cosmo
+    css: songs.css
+    toc: true
+    toc-title: "Contents"
+    embed-resources: true
+---
+
+<!-- ================================================================
+SCHEMA REFERENCE — span classes (inline):
+  [text]{.chord}        chord symbol
+  [text]{.strike}       struck-through word/phrase
+  [text]{.ins}          inserted replacement
+  [text]{.hl-green}     yellow-green highlight
+  [text]{.hl-pink}      pink highlight
+  [text]{.hl-blue}      blue highlight
+  [text]{.hl-orange}    orange highlight
+  [text]{.hl-yellow}    yellow highlight
+  [text]{.circled}      circled reference
+  [text]{.side-cue}     right-margin performance cue
+  [text]{.stage}        spoken aside / stage direction
+  [text]{.blue-ink}     handwritten note in blue ink
+  [text]{.cut}          line marked ✕ for possible removal
+  [text]{.arrow}        arrow annotation
+
+Block divs:
+  ::: {.verse}          verse or section block
+  ::: {.bracket-group}  lines grouped with a left bracket
+  ::: {.annotation}     handwritten marginal note
+  ::: {.alt}            alternative version of a line
+  ::: {.structure-label} section header (Intro, Outro, BUT…)
+  ::: {.side-box}       boxed aside panel
+  ::: {.corner-note}    free-floating marginal note
+  ::: {.song}           top-level container for one song
+================================================================ -->
+
+
+## Song 1 — (Reluctant Fisherman) {.song}
+
+*Trad.*
+
+::: {.structure-label}
+\[A\]
+:::
+
+::: {.verse}
+::: {.bracket-group}
+Oh me dad was a fisherman bold
+
+And he lived til he grew old. [For…]{.side-cue}
+
+::: {.annotation .blue-ink}
+For he'd open the panes & pop out the flame / Just to see how the wind do blow
+:::
+
+And he'd often say to me
+
+You'd be wise before you go. [Do…]{.side-cue}
+:::
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+When the North wind rough do blow
+
+Then I lay right smug below. [But…]{.side-cue}
+:::
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+When the wind comes out of the East
+
+It's no use to man nor beast. [But…]{.side-cue}
+
+::: {.alt}
+East – wind out of the East\
+[Poor]{.strike} [Yosh]{.ins} wife – We'll regret if
+:::
+:::
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+When the wind's back in to the west
+
+That'll come in rough at best. [But…]{.side-cue}
+
+::: {.alt}
+[North-wind & so]{.strike} West wind\
+[A lady says /]{.stage} [poor wife]{.strike} — You'll regret if\
+[→ **Fine wife**]{.arrow}
+:::
+:::
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+When the south wind soft do blow
+
+Then there's not enough wind to go. [Bu\[t\]…]{.side-cue}
+:::
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+And me poor wife says to me
+
+We shall starve if you don't go. [So…]{.side-cue}
+:::
+
+::: {.annotation}
+[(Are you mad – knew wouldn't get out of it)]{.stage} — spoken aside
+:::
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+[North Wind]{.cut}\
+[Royal Lady (not wife)]{.cut .strike}\
+[Poor wife]{.strike} – You will pay
+:::
+:::
+
+---
+
+::: {.verse}
+Now all you fishermen bold
+
+If you live till you grow old. [Do…]{.side-cue}
+:::
+
+
+---
+
+
+## Song 2 — The Two Sisters (Oh the Wind & Rain) {.song}
+
+*TRAD. — Peggy Seeger / Bay Whitaker / Fates*
+
+::: {.structure-label}
+Intro – our version
+:::
+
+::: {.verse}
+::: {.bracket-group}
+[A]{.chord} [B]{.chord} [D]{.chord}\
+Twas early one morning in the month of May
+
+[Em]{.chord} [A]{.chord}\
+*Oh the wind and rain;*
+
+[A]{.chord} [D]{.chord}\
+Two sisters went fishing on a hot summer's day,
+
+[Em]{.chord} [D]{.chord} [A]{.chord}\
+*[CRYING]{.stage} Oh, the dreadful wind and rain.*
+:::
+:::
+
+::: {.annotation}
+[A]{.circled} — section repeat label
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+[A]{.chord} [D]{.chord} [Em – A]{.chord}\
+Two sweet sisters side by side / *Oh…*
+
+[A]{.chord} [D]{.chord} [Em – D – A]{.chord}\
+Both of them want to be Johnny's bride / *Oh… [CRYING]{.stage}*
+:::
+
+::: {.alt}
+a [~~Good~~]{.strike} [Good]{.ins} man's\
+or: the same man's
+:::
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+[Johnny tells older sister it's not her]{.cut}
+
+→ Johnny gave the young one a fine gold ring / *Oh… /*
+
+::: {.annotation}
+He then…
+:::
+
+Didn't give the other one anything / *Oh…*
+:::
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+Two sweet sisters walking by the stream / *Oh… /*
+
+One came behind & pushed the other one in / *Oh…*
+:::
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+She pushed her in to the river to drown / *Oh… /*
+
+And watched her as she floated down / *Oh…*
+:::
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+She floated on down to the miller's pond. / *Oh… /*
+
+"Father, father, there comes a swan!" / *Oh…*
+
+::: {.annotation}
+[straight to →]{.arrow} "But it wasn't a swan" — then straight into next verse
+:::
+:::
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+The miller ran for his drifting hook / *Oh… /*
+
+And brought that poor girl from the brook / *Oh…*
+:::
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+[He laid her on the bank so dry / *Oh… /*]{.cut}
+
+[A fiddler man came walking by / *Oh…*]{.cut}
+:::
+
+::: {.annotation}
+both lines marked ✕ (possibly cut)
+:::
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+He [saw that poor girl lying]{.strike} [found me / buried]{.ins} there / *Oh… /*
+
+::: {.annotation}
+alt: "found me" / "buried" written above "saw that" / "lying"
+:::
+
+[He took thirty strands of her long yellow hair / *Oh…*]{.cut}
+
+::: {.annotation}
+Fashioned from… And that's exactly what he did
+:::
+:::
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+He made a fiddle bow of her long yellow hair / *Oh… /*
+
+He made fiddle pegs of her little finger bones / *Oh…*
+:::
+:::
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+He made a fiddle of her little breast-bone / *Oh… /*
+
+With a sound that could melt a heart of stone / *Oh…*
+
+::: {.annotation}
+He used to play other fiddles — it would only play…
+:::
+:::
+:::
+
+---
+
+::: {.verse}
+And the only tune that fiddle would play / *Oh…*
+
+The only tune that fiddle would play, was / *Oh….*
+
+::: {.annotation}
+song they'd sung together – older sister's face
+:::
+:::
+
+*Oh, the wind and rain.*
+
+*The only tune that the fiddle would play, was oh the dreadful wind and rain*
+
+---
+
+
+## Song 3 — MacPherson's Lament {.song}
+
+*Bk6 No.10*
+
+::: {.structure-label}
+Cue Sheet / Arrangement Notes
+:::
+
+| Beat / Story Point | Tune Cue | Ref |
+|---|---|---|
+| Opening: Poem, This is his tale / tune | [3 McP's]{.hl-green} | [p1]{.circled} |
+| Boy being brought up — gypsy + accomplished musician / fiddler | [8 Flowers ~~(crossed out)~~]{.hl-pink .strike} | |
+| Father dies – kicked out | MacPh's | [p3]{.circled} |
+| Plays for band of gypsies | [18 My Love]{.hl-pink} | |
+| Capture of Jannie | [18 part 2]{.hl-blue} | |
+| Escape | [Dashing W.S.]{.hl-blue} | |
+| No escape | — | |
+| Last request | [McPs L]{.hl-yellow} | [3]{.circled} [P5]{.circled} |
+| Known as M's Lament = Play in key of… | — | |
+| Outro → *(time: 1:50)* | [G with double stopping]{.hl-orange} | |
+
+::: {.annotation}
+Paul Anderson – Spotify
+:::
+
+::: {.side-box}
+**[8]{.circled} Flowers of Edinburgh** — Last 2 lines
+
+**[18]{.circled}** *(My Love She's But A Lassie Yet)*\
+[→]{.arrow} bar 1–34\
+[→]{.arrow} bar 99–end\
+Dashing White Sergeant\
+*(partially cut off in source)*
+:::
+
+
+---
+
+
+## Song 4 — Raggle Taggle {.song}
+
+::: {.corner-note}
+Corner note: "muttering = +music"
+:::
+
+::: {.structure-label}
+Cue Sheet / Arrangement Notes
+:::
+
+| Beat / Story Point | Tune Cue |
+|---|---|
+| Intro: Play [~~together~~]{.strike} | [RTG.]{.hl-yellow} |
+| Sense happiness | [Coconut dance (a)]{.hl-orange} |
+| Leaving her for a year | [Hidden Valley]{.hl-pink} |
+| ↳ Letter – killed | |
+| ↳ Duties – bore chn. | [Heidi's Waltz]{.hl-blue} |
+| Vagabonds passing | Tam Lin A |
+| Gypsies — musicians | Tam Lin B |
+| It was her Johnny fair / Heard he'd been married | [Heidi's Waltz **highbit**]{.hl-blue} 657 [D]{.circled} |
+| Plan together | |
+| Happily ever after | [RTG x2 @ end]{.hl-yellow} ↙ |
+
+::: {.structure-label}
+BUT
+:::
+
+| Beat / Story Point | Tune Cue |
+|---|---|
+| Punished JF / Hanged \[by\] | |
+| Countess's room | [Hidden Valley]{.hl-pink} |
+| Stairs – isolation | [~~Haylands~~]{.strike} [Coconut dance (b)]{.hl-orange} |
+
+[RTG]{.hl-yellow} **to end.**
