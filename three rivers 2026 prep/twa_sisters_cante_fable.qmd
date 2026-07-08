@@ -1,0 +1,153 @@
+---
+title: "Monty + Sue — Two Sisters"
+subtitle: "Trad. — with arrangement and annotation notes"
+format:
+  html:
+    theme: cosmo
+    css: songs.css
+    toc: true
+    toc-title: "Contents"
+    embed-resources: true
+---
+
+## The Two Sisters (Oh the Wind & Rain) {.song}
+
+*TRAD. — Peggy Seeger / Bay Whitaker / Fates*
+
+::: {.structure-label}
+Intro – our version
+:::
+
+__*There are many versions of this Scottish Ballad, this Scottish tale, variously known as `The Two Sisters`, `The Twa Sisters`, `Binnorie` and more. This is our version. We hope you like it.*__
+
+::: {.verse}
+::: {.bracket-group}
+[A]{.chord} [B]{.chord} [D]{.chord}\
+Twas early one morning in the month of May
+
+[Em]{.chord} [A]{.chord}\
+*Oh the wind and rain;*
+
+[A]{.chord} [D]{.chord}\
+Two sisters went fishing on a hot summer's day,
+
+[Em]{.chord} [D]{.chord} [A]{.chord}\
+*[CRYING]{.stage} Oh, the dreadful wind and rain.*
+:::
+:::
+
+::: {.annotation}
+[A]{.circled} — section repeat label
+:::
+
+
+__*As they were sat on the river bank, singing songs to each other, saw their brother approaching. And there was someone with him, another young man. And he was handsome...*__
+
+::: {.verse}
+::: {.bracket-group}
+[A]{.chord} [D]{.chord} [Em – A]{.chord}\
+Two sweet sisters side by side / *Oh…*
+
+[A]{.chord} [D]{.chord} [Em – D – A]{.chord}\
+Both of them want to be a good man's bride / *Oh… [CRYING]{.stage}*
+:::
+:::
+
+__*At first he courted the elder sister, and it seemed as if they would become betrothed to each other. But then the young man's eyes started to wander.*__
+
+::: {.verse}
+::: {.bracket-group}
+Johnny gave the young one a fine gold ring / *Oh… /*
+
+Didn't give the other one anything / *Oh…*
+:::
+:::
+
+__*The elder sister, now spurned, was furious. She swore to herself she would have her revenge. Then, suggested to to the younger, that they take a walk down by the riverside.*__
+
+::: {.verse}
+::: {.bracket-group}
+Two sweet sisters walking by the stream / *Oh… /*
+
+One came behind & pushed the other one in / *Oh…*
+:::
+:::
+
+::: {.verse}
+::: {.bracket-group}
+She pushed her in to the river to drown / *Oh… /*
+
+And watched her as she floated down / *Oh…*
+:::
+:::
+
+__*A scream as the younger sister was pushed into the river, held out her hand, pleading for help. "I won't take the hand that took my betrothed." "You can have him; and my fortune, my share of our inheritance." "I will have it anyway," and the elder sister walked away.*__
+
+::: {.verse}
+::: {.bracket-group}
+She floated on down to the miller's pond. / *Oh… /*
+
+"Father, father, there comes a swan!" / *Oh…*
+:::
+:::
+
+__*But it wasn't a swan...*__
+
+::: {.verse}
+::: {.bracket-group}
+The miller ran for his drifting hook / *Oh… /*
+
+And brought that poor girl from the brook / *Oh…*
+:::
+:::
+
+__*They did what they could but there was nothing they could do. And rather than bury her in finery, they took her dress and they took her jewels, and from that day on, though they didn't have much, the Miller's daughter did wear a pretty bracelet round her wrist.*__
+
+::: {.verse}
+::: {.bracket-group}
+A fiddler man came he came walking by / *Oh…*
+
+He saw that poor girl lying there / *Oh…*
+:::
+:::
+
+__*It was a fox, perhaps, that had scraped away at the shallow grave. And when the fiddler recognised the bones for what they were, he was reminded of an old tale, and old story, of the Devil's violin.*__
+
+__*And he thought that maybe he could do something with those bones.*__
+
+::: {.verse}
+::: {.bracket-group}
+He made a fiddle bow of her long yellow hair / *Oh… /*
+
+He made fiddle pegs of her little finger bones / *Oh…*
+:::
+:::
+
+__*Are you listening? This story's not necessarily for children. It gets worse...*__
+
+::: {.verse}
+::: {.bracket-group}
+He made a fiddle of her little breast-bone / *Oh… /*
+
+With a sound that could melt a heart of stone / *Oh…*
+
+:::
+:::
+
+__*He placed the new fiddle carefully in his bag, then carried on his way, to a gig he had that night, at a wedding reception for the daughter of a local lord, an event that was also tinged with sadness, as the anniversary of the day the bride's sister had run away.*__
+
+__*He played his trusty old fiddle as they ate, and he played it again so that they could dance, but then, wouldn't you know it, he broke a string. So he took out the new fiddle, the one he'd crafted earlier that day, but as soon as he tried to play, no matter what he tried to do, it would only play one tune.*__
+
+::: {.verse}
+And the only tune that fiddle would play / *Oh…*
+
+The only tune that fiddle would play, was / *Oh….*
+:::
+
+__*The bride's face paled, as recognised the tune, and she echoed the words of the song she used to sing with her sister.*__
+
+::: {.verse}
+*Oh, the wind and rain.*
+
+*The only tune that the fiddle would play, was oh the dreadful wind and rain*
+:::
