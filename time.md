@@ -144,7 +144,7 @@ Salisbury Cathedral clock, 1386, oldest working clock in the world chime only: r
 ---
 
 
-From my telling of Jamie Macpherson / macpherson's Lament: "The violin, well, the violin, and Jamie's huge sword, I believe they can still be seen, to this day, in a small museum in Banff, in North-East Scotland. And in that town of Banff, from where Jamie was hung, well, the lairdship was stripped of its manorial right of managing trial and punishment. And in the town of Macduff, just over the estuary, I have heard said the facing wall of the clock tower there is blanked off; for the people of Macduff have not given the people of Banff, the time of day ever since that fateful day of November 16th, 1700, when Jamie Macpherson played his final lament."
+From my telling of Jamie Macpherson / Macpherson's Lament: "The violin, well, the violin, and Jamie's huge sword, I believe they can still be seen, to this day, in a small museum in Banff, in North-East Scotland. And in that town of Banff, from where Jamie was hung, well, the lairdship was stripped of its manorial right of managing trial and punishment. And in the town of Macduff, just over the estuary, I have heard said the facing wall of the clock tower there is blanked off; for the people of Macduff have not given the people of Banff, the time of day ever since that fateful day of November 16th, 1700, when Jamie Macpherson played his final lament."
 
 Clock tower of Macduff Parish CHurch, blanked? https://www.alamy.com/stock-photo-clock-tower-of-macduff-parish-church-with-clock-face-facing-banff-32863322.html
 https://britishlistedbuildings.co.uk/200382752-macduff-parish-church-church-street-macduff-macduff "3-stage domed tower at N, the lower 2 stages probably of 1805 date corniced 1st stage with wide angle pilasters surmounted by 1865 square belfry with paired round-headed louvred windows in each face and surmounted by domed leaded roof with cupola and with clock faces (1963) at E and N on bracketted wallhead."
@@ -441,7 +441,7 @@ David Pollard*
 >
 > 'In truth it did not provide a foundation for the conclusion at all. It did justify treating the whole day of the birth as a day of life, so that twenty-one years might logically be considered complete at the end of the day before the twenty-first anniversary of the birth. But it was in the next step that fallacy seems to have intruded. The end of the day before the anniversary was taken to be a part of the day, so that the twenty-one years were held to end on the day, and hence (on the principle of the indivisibility of a day) at the beginning of the day
 
-```
+
 Captain Shurey who had sadly died (of wounds received in action) on the day before his 25th birthday (he was born on 22 July 1891 and died on 21 July 1916). His father's will had left assets to such of his sons as 'shall attain the age of 25 years'. So the issue arose as to whether Captain Shurey met the condition. Sargant J (in an unreserved judgment) held that he had. Sargant J followed several earlier cases 11 and held that:
 
 'a person attains the age of twenty-one years, or of twenty-five years, or any specified age, on the day preceding the anniversary of his twenty-first or twenty-fifth birthday, or other birthday, as the case may be.'
@@ -458,7 +458,7 @@ before 1969 some of the legislation expressly removed the common law rule. Natio
 
 'A person shall be deemed according to the law in England, Wales, and Ireland, as well as according to the law in Scotland, not to have attained the age of seventeen until the commencement of the seventeenth anniversary of the day of his birth, and similarly with respect to other ages.'
 
-```
+
 
 ```{admonition} Family Law Reform Act, 1969
 
@@ -471,7 +471,7 @@ Section 9 states:
 > It seems best to consider that someone born on 29 February only reaches a further year of age on 1 March and not 28 February in a non-leap year.1
 
 
-```
+%---
 Greenwich Mean Time (GMT) now applies throughout the UK by statute (save to the extent that British Summer Time applies): see the Interpretation Act 1978.19 Section 9 states: '9 References to time of day: Subject to section 3 of the Summer Time Act 1972 (construction of references to points of time during the period of summer time), whenever an expression of time occurs in an Act, the time referred to shall, unless it is otherwise specifically stated, be held to be Greenwich mean time.'
 
 This section is apparently derived from the Statutes (Definition of Time) Act 1880, s 1.
@@ -480,19 +480,15 @@ The Summer Time Act 1972, s 3(1), as amended, provides that: 'Wherever any refer
 
 However, nothing in the Summer Time Act 1972 affects the use of Greenwich Mean Time for the purposes of astronomy, meteorology or navigation, or affects the construction of any document mentioning or referring to a point of time in connection with any of those purposes: s 3(2). So pension schemes seem likely to need to use Summer Time and probably not GMT even if (I suggest) the scheme relates to astronomers, weather persons or navigators.
 
-```
+%---
 
-
-```
 What happens if an Act of Parliament relates to actions outside the UK? In R v Logan, 22 British soldiers stationed in Hong Kong were convicted of assault that happened at about 2.30am on 1 January 1957. They were convicted under a UK Act, the Army Act 1955, which only came into force on 1 January 1957. They appealed on the basis that the relevant UK Act had not, at the time of the offence, yet come into force in Hong Kong (being eight hours ahead of GMT)
 
 ...
 This defence was dismissed. Lord Goddard held:
 'If an Act is said to come into force on January 1, it comes into force on the day which is January 1 in the particular place where the Act has to be applied. I can well understand that if an offence were committed in the Western Atlantic the Act might not be in force there on the same day as it would in London because the date might still be December 31 there, but the fact that it became January 1 in Hong Kong a few hours before the clock would actually show January 1 in England does not make any difference. As the Act comes into force on January 1, 1957, in Hong Kong, it comes into force on the day which is January 1 in Hong Kong. Therefore, this point fails and the appeal is dismissed.
 
-```
-
-```
+%---
 
 So that the date and time of an event or of an act are ordinarily the date and time determined by the calendar and clock at the place where the event happens or act is done, notwithstanding that the actual occurrence is at different times in different parts of the world.
 
@@ -501,8 +497,6 @@ When effluxion of time has to be considered, a somewhat similar result occurs. S
 Some interesting situations can be imagined on this basis with results even more striking than the experience of Phileas Fogg. It seems, however, that any question of personal rights, capacities, disabilities, or qualifications gained or lost by the lapse of a given period of time must be determined according to the clock and the calendar at the place where the person in question is. This matter is not directly relevant here; but it illustrates that concepts concerning the expiry of a given period of time, are elusive and in a sense artificial; and the legal problems they create must be determined by the application of rules of law
 
 If this is followed in the UK (and there seems no reason not to), this would fix the time of reaching a particular age by the relevant time (presumably the official time) in the jurisdiction in which the person actually is at that time (even if they were usually resident elsewhere).
-
-```
 
 ---
 http://download2.yutorah.org/1991/1053/735807.pdf
@@ -544,7 +538,118 @@ Curtis vs march
 
 https://www.sacred-texts.com/neu/roma/gft/gft073.htm
 The Watchmaker
-]
+
+More accurate:
+https://archive.org/details/gypsyfolktales00groogoog/page/n140/mode/2up?q=clock
+Gypsy folk-tales
+by Groome, Francis Hindes, 1851-1902
+
+Publication date 1899
+
+pp.53-57
+
+No. 13. — The Watchmaker
+
+There was once a poor lad He took the road, went to find himself a master. He met a priest on the road.
+
+'Where are you going, my lad?'
+
+'I am going to find myself a master.'
+
+'Mine's the very place for you, my lad, for Iive another lad like you, and I have six oxen and a plough. Do you enter my service and plough all this field.'
+
+The lad arose, and took the plough and the oxen, and went into the fields and ploughed two days. Luck `[The Roumanian-Gypsy word is *Baht* which in one form or another (*bakht*, *bahi*, *bok,*, *bachí* etc.) occurs in every Gypsy dialect — Turkish, Russian, Scandinavian, German, English, Spanish, etc., and which Pott derives from the Sanskrit (ii. 398-9). But the curious point is that in Dozon's *Contes Albanais* (1881), p. 60, we get 'Va trouver ma Fortune,' and a footnote explains, 'Fortune, en turc *bakht*, espèce de génie protecteur.' Paspati, again, in his Turkish-Gypsy vocabulary (1870), p. 155, gives—'*Bakht*, n.f. fortune, sort, hasard. . . . Les Grecs et les Turcs se servent très souvent du même mot'; and Miklosich, too, cites the Modern Greek μπάκτι (*Ueber die Mundarten* vii. 14). The occurrence of this Gypsy word as a loan-word in Modern Greek and Turkish is suggestive of a profound influence of the Gypsies on the folklore of the Balkan Peninsula. *Bakht*, fortune, is also good Persian.]` and the Ogre came to him. And the Ogre said to Luck, 'Go for him.' Luck didn't want to go for him; only the Ogre went. When the Ogre went for him, he laid himself down on his back, and unlaced his boots, and took to flight across the plain.
+
+The other lad shouted after him, 'Don't go, brother; don't go, brother.'
+
+'Bah! God blast your plough and you as well.'
+
+Then he came to a city of the size of Bucharest. Presently he arrived at a watchmaker's shop. And he leaned his elbows on the shop-board and watched the prentices at their work. Then one of them asked him, 'Why do you sit there hungry?'
+
+He said, 'Because I like to watch you working.'
+
+Then the master came out and said, 'Here, my lad, I will hire you for three years, and will show you all that I am master of. For a year and a day,' he continued, 'you will have nothing to do but chop wood, and feed the oven fire, and sit with your elbows on the table, and watch the prentices at their work.'
+
+Now the watchmaker had had a clock of the emperor's fifteen years, and no one could be found to repair it; he had fetched watchmakers from Paris and Vienna, and not one of them had managed it. The time came when the emperor offered the half of his kingdom to whoso should repair it; one and all they failed. The clock had twentyfour tunes in it And as it played, the emperor grew young again. Easter Sunday came; and the watchmaker went to church with his prentices. Only the old wife and the lad stayed behind. The lad chopped the wood up quickly, and went back to the table that they did their work at He never touched one of the little watches, but he took the big clock, and set it on the table. He took out two of its pipes, and cleaned them, and put them back in their place; then the four-and-twenty tunes began to play, and the clock to go. Then the lad hid himself for fear; and all the people came out of the church when they heard the tunes playing.
+
+The watchmaker, too, came home, and said, 'Mother, who did me this kindness, and repaired the clock?'
+
+His mother said, Only the lad, dear, went near the table.'
+
+And he sought him and found him sitting in the stable. He took him in his arms: 'My lad, you were my master, and I never knew it, but set you to chop wood on Easter Day.' Then he sent for three tailors, and they made him three fine suits of clothes. Next day he ordered a carriage with four fine horses; and he took the clock in his arms, and went off to the emperor. The emperor, when he heard it, came down from his throne, and took his clock in his arms and grew young. Then he said to the watchmaker, 'Bring me him who mended the clock.'
+
+He said, 'I mended it.'
+
+'Don't tell me it was you. Go and bring me him who mended it.'
+
+He went then and brought the lad.
+
+The emperor said, 'Go, give the watchmaker three purses of ducats; but the lad you shall have no more, for I mean to give him ten thousand ducats a year, just to stay here and mind the clock and repair it when it goes wrong.'
+
+So the lad dwelt there thirteen years.
+
+The emperor had a grown-up daughter, and he proposed to find a husband for her. She wrote a letter, and gave it to her father. And what did she put in the letter? She put this : 'Father, I am minded to feign to be dumb; and whoso is able to make me speak, I will be his.'
+
+Then the emperor made a proclamation throughout the world: 'He who is able to make my daughter speak shall get her to wife; and whoso fails him will I kill.'
+
+Then many suitors came, but not one of them made her speak. And the emperor killed them all, and by and by no one more came.
+
+Now the lad, the watchmaker, went to the emperor, and said, 'Emperor, let me also go to the maiden, to see if I cannot make her speak.'
+
+'Well, this is how it stands, my lad. Haven't you seen the proclamation on the table, how I have sworn to kill whoever fails to make her speak?'
+
+'Well, kill me also. Emperor, if I too fail.'
+
+'In that case, go to her.'
+
+The lad dressed himself bravely, and went into her chamber. She was sewing at her frame. When the lad entered, he said, 'Good-day, you rogue.'
+
+'Thank you, watchmaker. Well, sit you down since you have come, and take a bite.'
+
+'Well, all right, you rogue.'
+
+He only was speaking. `[This is a little puzzling, but it must mean that all the speeches seemingly by the princess were really made by the watchmaker — that he maintained the dialogue.]` Then he tarried no longer, but came out and said, * Good-night, rogue.'
+
+'Farewell, watchmaker.'
+
+Next evening the emperor summoned him, to kill him. But the lad said, 'Let me go one more night.' Then the lad went again, and said, 'Good-evening, rogue.'
+
+'Welcome, watchmaker. And since you have come, brother, pray sit down to table.'
+
+Only he spoke, so at last he said, 'Good-night, rogue.'
+
+'Farewell, watchmaker.'
+
+Next night the emperor summoned him. 'I must kill you now, for you have reached your allotted term.'
+
+Then said the lad, 'Do you know, emperor, that there is thrice forgiveness for a man?'
+
+'Then go to-night, too.'
+
+Then the lad went that night, and said, 'How do you do, rogue?'
+
+'Thank you, watchmaker. Since you have come, sit at table.'
+
+'So I will, rogue. And see you this knife in my hand? I mean to cut you in pieces if you will not answer my question.' 'And why should I not answer it, watchmaker?'
+
+'Well, rogue, know you the princess?'
+
+'And how should I not know her?'
+
+'And the three princes, know you them?'
+
+'I know them, watchmaker.'
+
+'Well and good, if you know them. The three brothers had an intrigue with the princess. They knew not that the three had to do with her. But what did the maiden? She knew they were brothers. The eldest came at nightfall, and she set him down to table and he ate. Then she lay with him and shut him up in a chamber. The middle one came at midnight, and she lay with him also and shut him up in another chamber. And that same night came the youngest, and she lay with him too. Then at daybreak she let them all out, and they sprang to slay one another, the three brothers. The maiden said, "Hold, brothers, do not slay one another, but go home and take each of you to himself ten thousand ducats, and go into three cities; and his I will become who brings me the finest piece of workmanship." So the eldest journeyed to Bucharest, and there found a beautiful mirror. Now look you what kind of mirror it was. "Here, merchant `[Lit Greek.]`, what is the price of your mirror?" "Ten thousand ducats, my lad." "Indeed, is that not very dear, brother?" " But mark you what kind of mirror it is. You look in it and you can see both the dead and the living therein." Now let's have a look at the middle brother. He went to another city and found a robe. "You, merchant, what is the price of this robe?" "Ten thousand ducats, my son."'
+
+'What *are* you talking about, watchmaker? A robe cost ten thousand ducats?' `[This is the first real remark on the part of the princess, who, woman-like, cannot stand a stupid male remark about the price of a dress.]`
+
+'But look you, you rogue, what sort of robe it is. For when you step on it, it will carry you whither you will. So you may fancy he cries "Done!" Meanwhile the youngest also arrived in a city and found a Jew, and bought an apple from him. And the apple was such that when a dead man ate it he revived. He took it and came to his brothers. And when they were all come home they saw their sweetheart dead. And they gave her the apple to eat and she arose. And whom then did she choose? She chose the youngest What do you say?'
+
+And the emperor's daughter spoke. And the watchmaker took her to wife. And they made a marriage.
+
+`This story, though well enough told, is very defective. Of course, by rights the eldest brother looks in his mirror, and sees the princess dead or about to die; then the middle brother transports the three of them on his travelling robe; and only then can the youngest brother make use of his apple of life. 'The Watchmaker' is a corrupt version of 'The Golden Casket' in Geldart's *Folk-lore of Modern Greece*, pp. 106-125, which should be carefully compared with it, to render it intelligible. Compare also Clouston's chapter on 'The Four Clever Brothers' (i. 277-288), where he cites with others a Sanskrit version, and Grimm's No. 129 (ii. 165, 428). Apropos of the magic mirror here, and of the telescope in European folk-tales, Burton has this note on the ivory tube bought by Prince Ali in the Arabian tale of 'Prince Ahmad and the Peri Bánú':— 'The origin of the lens and its applied use to the telescope and the microscope "are lost" (as the Castle guides of Edinburgh say) "in the gloom of antiquity." Well-ground glasses have been discovered amongst the finds in Egypt and Assyria ; indeed, much of the finer work of the primeval artist could not have been done without such aid. In Europe the "spy-glass" appears first in the *Opus Majus* of the learned Roger Bacon (circa a.d. 1270); and his "optic tube" (whence his saying, "All things are known by perspective") chiefly contributed to make his widespread fame as a wizard. The telescope was popularised by Galileo, who, as mostly happens, carried off and still keeps amongst the vulgar all the honours of the invention.' With the travelling robe compare the saddle in the Polish-Gypsy 'Tale of a Girl who was sold to the Devil ' (No. 46) and the wings in the Bukowina-Gypsy 'Winged Hero ' (No. 26); and with the apple of life, which occurs also in the Icelandic version of this story, the other-world apple in the Roumanian-Gypsy 'Bad Mother' (No. 8). See also Clouston on 'Prince Ahmad' in his *Variants of Sir R, F. Burton's Supplemental Arabian Nights*, pp. 600-616.
+
 
 ---
 https://archive.org/details/booksundialsori00evangoog
