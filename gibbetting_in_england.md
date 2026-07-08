@@ -152,7 +152,7 @@ ARMSTRONG THE MURDERER OF MR. FAIRLES.—The supposed Ralph Armstrong, who decla
 https://britishnewspaperarchive.co.uk/viewer/bl/0000398/18360504/001/0001
 Hereford Journal - Wednesday 04 May 1836
 
-The Murderer of Mr, Fairles.— The supposed Ralph Armstrong, who declared at Corfu that he murdered Mr. Fairies, has arrived at Portsmouth, but we are sorry for the cause of justice that there is reason to believe he is not the individual he states himself to be. A description of the real Armstrong has been sent to tbe solicitor of the Admiralty, which differs in most respects from that of the individual at Portsmouth.
+The Murderer of Mr, Fairles.— The supposed Ralph Armstrong, who declared at Corfu that he murdered Mr. Fairies, has arrived at Portsmouth, but we are sorry for the cause of justice that there is reason to believe he is not the individual he states himself to be. A description of the real Armstrong has been sent to the solicitor of the Admiralty, which differs in most respects from that of the individual at Portsmouth.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18360511/050/0007
 Morning Post - Wednesday 11 May 1836
