@@ -5,11 +5,7 @@ In an introduction to the fairy lore in Wales given in W. Y. Evans-Wentz's *The 
 ```{admonition} The fairy faith in Wales, 1911
 :class: dropdown
 
-https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/134/mode/2up
-
-W. Y. (Walter Yeeling) Evans-Wentz, *The fairy-faith in Celtic countries*, 1911
-
-p135-7
+W. Y. (Walter Yeeling) Evans-Wentz, *The fairy-faith in Celtic countries*, 1911, [p135-7](https://archive.org/details/fairyfaithincelt00evanrich/fairyfaithincelt00evanrich/page/134/mode/2up).
 
 V. IN WALES
 
@@ -47,9 +43,8 @@ The gist of the tale can be found in the following versions taken from the Irish
 
 ```{admonition} The Fairy Ointment, Irish Schools Collection
 :class: dropdown
-https://www.duchas.ie/en/cbes/4649692/4647750/4659237
 
-The Fairy Ointment
+[The Fairy Ointment](https://www.duchas.ie/en/cbes/4649692/4647750/4659237)
 
 One night a 'midwife' was called by a man to attend his wife. He took her behind him on a beautiful horse to a beautiful house. She remained there for a week. A few days after the child was born he gave her a special ointment to rub to one of the child's eyes, telling her be sure not to get it on her hands or any other part of her. But being used to rubbing on ointment with her hand she rubbed on the ointment with her hand, and rubbed her hand to her eye.
 
@@ -62,9 +57,8 @@ The man seeing her and knowing what she did was angry. He came over to her and s
 
 ```{admonition} A Fairy Story, Irish Schools Collection
 :class: dropdown
-https://www.duchas.ie/en/cbes/4921757/4903942/5167059
 
-A Fairy Story
+[A Fairy Story](https://www.duchas.ie/en/cbes/4921757/4903942/5167059)
 
 One night last Winter on old man came to my house and told us fairy tales of the local district. We listened enraptured to his tales but I remember this one specially as I knew the place names he mentioned. He began thus:
 
@@ -96,12 +90,8 @@ In his telling of the tale (*Fairy Ointment*) on [*The Sleeping King* [CD]](http
 ```{admonition} Fairy (or ferrier, or ferisher), 1860
 :class: dropdown
 
-https://archive.org/details/notesqueries09unse_0/page/258/mode/2up?q=ferisher+spin
-Notes and Queries
 
-2nd S. IX. April 7. 1860
-
-pp. 259-60
+*Notes and Queries*, 2nd S. IX. April 7. 1860, [pp. 259-60](https://archive.org/details/notesqueries09unse_0/page/258/mode/2up).
 
 `[Noting *Appendix No. 6*, "a series of notices of local folk-lore", in [*The History of Stowmarket*](https://archive.org/details/historystowmark00hollgoog), pp247-8, by the Rev. A. G. H. Hollingsworth.]`
 
@@ -129,11 +119,8 @@ In his first collection of *English Fairy Tales*, 1890, Joseph Jacobs reproduced
 
 ```{admonition} "Fairy Ointment", in Jacobs' *English Fairy Tales*, 1890
 :class: dropdown
-https://archive.org/details/englishfairytal00jacogoog/page/n242/mode/2up
 
-Joseph Jacobs, *English Fairy Tales*, 1890
-
-pp.211-214
+Joseph Jacobs, *English Fairy Tales*, 1890, [pp.211-214](https://archive.org/details/englishfairytal00jacogoog/page/n242/mode/2up).
 
 ![A nurse, the mother, and the child.](images/fairy_ointment_jacobs.png)
 
@@ -175,11 +162,7 @@ Several years later, Andrew Lang would include another variant of the tale as pu
 ```{admonition} "The Fairy Nurse", in *The Lilac Fairy Book*, Andrew Lang, c.1910
 :class: dropdown
 
-https://archive.org/details/lilacfairybook00lang/page/54/mode/2up
-
-Andrew Lang, illus. H. J. Ford, *The lilac fairy book*, c1910
-
-pp. 54-61
+Andrew Lang, illus. H. J. Ford, *The lilac fairy book*, c1910, [pp. 54-61](https://archive.org/details/lilacfairybook00lang/page/54/mode/2up).
 
 ![The Fairies go off with the Farmer's Wife](images/fairy_nurse_lang_lilac.png)
 
@@ -221,11 +204,8 @@ The first, set between Zennor and St. Ives, tells of a woman contracted by a ric
 
 ```{admonition} "Nursing a Fairy", in *Popular romances of the west of England*, Robert Hunt, 1865
 :class: dropdown
-https://archive.org/details/s1popularromance00huntuoft/page/69/mode/2up
 
-Robert Hunt, illus. George Cruikshank, *Popular romances of the west of England, or, The drolls, traditions, and superstitions of old Cornwall*, 1865
-
-pp. 69-71
+Robert Hunt, illus. George Cruikshank, *Popular romances of the west of England, or, The drolls, traditions, and superstitions of old Cornwall*, 1865, [pp. 69-71](https://archive.org/details/s1popularromance00huntuoft/page/69/mode/2up).
 
 NURSING A FAIRY.
 
@@ -244,10 +224,7 @@ The second variation, set between Pendeen and Penzance, describes how a certain 
 ```{admonition} "The Fairy Ointment", in *Popular romances of the west of England*, Robert Hunt, 1865
 :class: dropdown
 
-https://archive.org/details/s1popularromance00huntuoft/page/103/mode/2up
-
-Robert Hunt, illus. George Cruikshank, *Popular romances of the west of England, or, The drolls, traditions, and superstitions of old Cornwall*, 1865
-pp. 103-6
+Robert Hunt, illus. George Cruikshank, *Popular romances of the west of England, or, The drolls, traditions, and superstitions of old Cornwall*, 1865, [pp. 103-6](https://archive.org/details/s1popularromance00huntuoft/page/103/mode/2up).
 
 THE FAIRY OINTMENT.
 
@@ -270,11 +247,7 @@ The third tale is a variant of the second, with housekeeper renamed and the squi
 ```{admonition} "How Joan Lost the Sight of Her Eye", in *Popular romances of the west of England*, Robert Hunt, 1865
 :class: dropdown
 
-https://archive.org/details/s1popularromance00huntuoft/page/103/mode/2up
-
-Robert Hunt, illus. George Cruikshank, *Popular romances of the west of England, or, The drolls, traditions, and superstitions of old Cornwall*, 1865
-
-pp. 106-8
+Robert Hunt, illus. George Cruikshank, *Popular romances of the west of England, or, The drolls, traditions, and superstitions of old Cornwall*, 1865, [pp. 106-8](https://archive.org/details/s1popularromance00huntuoft/page/103/mode/2up).
 
 Another version of this story, varying in a few details, was given me by a gentleman a native of St Levan. It is as follows:—
 
@@ -330,11 +303,7 @@ In passing, the *Nancy Tregier* tale is also mentioned in passing a review of a 
 ```{admonition} Bottrell's *Traditions of West Cornwall*, 1871
 :class: dropdown seealso
 
-https://archive.org/details/sim_saturday-review-uk_the-saturday-review-of-p_1871-02-25_31_800/page/250/mode/2up
-
-The Saturday Review of Politics, Literature, Science and Art  1871-02-25: Vol 31 Iss 800
-
-p.250
+*The Saturday Review of Politics, Literature, Science and Art*, 1871-02-25: Vol 31 Iss 800, [p.250](https://archive.org/details/sim_saturday-review-uk_the-saturday-review-of-p_1871-02-25_31_800/page/250/mode/2up).
 
 BOTTRELL'S TRADITIONS OF WEST CORNWALL. `[Traditions and_Hearthside Stories of West Cornwall. By William Bottrell. London: Trübner & Co. Penzance: W. Cornish. 1870.]` ALTHOUGH traversing to some extent the same ground as Mr. Hawker's *Ballads and Traditions*, and Mr. Hunt's charming *Romances and Drolls of the West of England*, this volume by "An Old Celt," whom internal evidence proves to be familiar from his youth up with the places and people he describes, has a speciality of its own, in that it describes the legends of West Cornwall in the *ipsissima verba* of the local droll-tellers. To read them is to get a lesson in the dialect of the districts to which they are peculiar. A little abridged — as indeed there was need they should be — to suit the rarer leisure of readers who have something else to do than listen to interminable tales about giants, fairies, piskies, and demons that never were, these hearthside stories bear in all else the strongest impress of orally transmitted legends which it has been the "labour of love" of one born in the midst of the region whence they sprung to collect and commit to writing. And hence, though Tom the Giant and Jack the Tinkard, the giants Bolster and Wrath, the Mayor of Market-Jew, and Nancy Tregier who experimented with the fairy ointment, have met us before in the "Drolls" which Mr. Hunt published some five years ago, a still greater interest invests the introduction to them with which Mr. Bottrell has favoured us, inasmuch as we now hear them talk, and hear their descendants and followers talk about them, in the "lingo" understanded in those parts where they played their pranks, as is "well attested, and as well believed."
 
@@ -364,9 +333,7 @@ The version of the tale that several of the English folkorists seem to have pick
 ```{admonition} Nearly ready, *The Tamar and the Tavy*, 1836
 :class: dropdown seealso
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0001652/18360125/013/0001
-
-Globe - Monday 25 January 1836
+In *Globe*, [Monday 25 January 1836](https://britishnewspaperarchive.co.uk/viewer/bl/0001652/18360125/013/0001).
 
 Nearly ready, 3 vols. post 8vo. DESCRIPTION of that part of DEVONSHIRE bordering on the Tamar and the Tavy; its Natural History, Manners, and Customs, Superstition, Scenery, Antiquities, Biography of Eminent Persons, &c. &c. In a Series Letters to R. Southey, Esq. Mrs. BRAY, Author of 'Travels in Normandy,' 'Fitz of Fitzford,' 'The Talba,' and 'De Foix.' John Murray. Albemarle-street.
 
@@ -386,11 +353,8 @@ In the tenth letter of the first volume, dated *Vicarage, Tavistock, April 24th,
 
 ```{admonition} Letter to Robert Southey, April, 1832
 :class: dropdown
-https://archive.org/details/b33282419_0001/page/182/mode/2up
 
-Mrs. Anna Eliza Bray, *Traditions, legends, superstitions, and sketches of Devonshire on the borders of the Tamar and the Tavy, illustrative of its manners, customs, history, antiquities, scenery, and natural history*, Vol. I, 1838
-
-p183-8
+Mrs. Anna Eliza Bray, *Traditions, legends, superstitions, and sketches of Devonshire on the borders of the Tamar and the Tavy, illustrative of its manners, customs, history, antiquities, scenery, and natural history*, Vol. I, 1838, [p183-8](https://archive.org/details/b33282419_0001/page/182/mode/2up).
 
 LETTER X.
 
@@ -441,11 +405,7 @@ As has been mentioned previously, the tale was also reprinted verbatim by E. S. 
 ```{admonition} "The Fairy's Midwife", in *English fairy and other folk tales*, E.S. Hartland, c.1906
 :class: dropdown
 
-https://archive.org/details/englishfairyothe00hartiala/page/90/mode/2up
-
-Edwin Sidney Hartland, *English fairy and other folk tales*, 1890
-
-pp.91-4
+Edwin Sidney Hartland, *English fairy and other folk tales*, 1890, [pp.91-4](https://archive.org/details/englishfairyothe00hartiala/page/90/mode/2up).
 
 THE FAIRY'S MIDWIFE. `[Mrs. Bray, The Borders of the Tamar and the Tavy, vol i. p. 174.]`
 
@@ -478,7 +438,7 @@ Thomas Keightley's *The Fairy Mythology* was originally in published in two volu
 ```{admonition} Preparing for publication, 1827
 :class: dropdown seealso
 
-In *John Bull* [Sunday 08 July 1827](https://britishnewspaperarchive.co.uk/viewer/bl/0001945/18270708/052/0003)
+In *John Bull* [Sunday 08 July 1827](https://britishnewspaperarchive.co.uk/viewer/bl/0001945/18270708/052/0003).
 
 Preparing for publication.— In 2 vols. post 8vo. with illustrations by Brooke.
 
@@ -489,7 +449,7 @@ THE FAIRY MYTHOLOGY, Illustrative of the Romance and Superstitions of various Co
 ```{admonition} *The Fairy Mythology*, review, 1828
 :class: dropdown seealso
 
-In *The Examiner* [Sunday 11 May 1828](https://britishnewspaperarchive.co.uk/viewer/bl/0000054/18280511/001/0002)
+In *The Examiner* [Sunday 11 May 1828](https://britishnewspaperarchive.co.uk/viewer/bl/0000054/18280511/001/0002).
 
 LITERARY NOTICES
   
@@ -503,9 +463,7 @@ The first, unattributed, tale is a shortened form of the one told by Mrs. Bray:
 ```{admonition} The Pixy Labour, in *The Fairy Mythology* (revised and expanded), Thomas Keightley, 1860
 :class: dropdown
 
-https://archive.org/details/fairymythologyi06keiggoog/page/300/mode/2up Thomas Keightley, *The fairy mythology (A NEW EDITION, REVISED AND GREATLY ENLARGED)", 1860
-
-p301-303
+Thomas Keightley, *The fairy mythology (A NEW EDITION, REVISED AND GREATLY ENLARGED)", 1860, [p301-303](https://archive.org/details/fairymythologyi06keiggoog/page/300/mode/2up).
 
 The Pixy Labour
 
@@ -527,11 +485,7 @@ The second, also unattributed, claims a Scottish origin:
 ```{admonition} The Fairy Labour, in *The Fairy Mythology* (revised and expanded), Thomas Keightley, 1860
 :class: dropdown
 
-https://archive.org/details/fairymythologyi06keiggoog/page/388/mode/2up
-
-Thomasy Keightley, *The fairy mythology*, 1860
-
-pp.388
+Thomasy Keightley, *The fairy mythology*, 1860, [pp.388](https://archive.org/details/fairymythologyi06keiggoog/page/388/mode/2up).
 
 The Fairy Labour.
 
@@ -546,12 +500,9 @@ In a two chapter article, and part of a longer series, on *"Irish Popular Supers
 ```{admonition} The Tale of Biddy Mannion, 1852
 :class: dropdown
 
-https://archive.org/details/sim_university-magazine_1849-05_33_197/page/558/mode/2up
+In *The University Magazine*, 1849-05: Vol 33 Iss 197, [pp.558-560](https://archive.org/details/sim_university-magazine_1849-05_33_197/page/558/mode/2up).
 
-The University Magazine, 1849-05: Vol 33 Iss 197
-pp. 558-560
-
-Later as *Irish Popular Superstitions*, 1852, W. R. Wilde, pp. 131-5 https://books.google.co.uk/books?id=Zz1kAAAAcAAJ&printsec=frontcover&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q&f=false
+Later as *Irish Popular Superstitions*, 1852, W. R. Wilde, [pp.131-5](https://books.google.co.uk/books?id=Zz1kAAAAcAAJ&printsec=frontcover&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q&f=false).
 
 Irish Popular Superstitions
 
@@ -571,9 +522,7 @@ A decade or so later, another paper appearing in the *Dublin University Magazine
 ```{admonition} We are pleased to find..., 1862
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0001424/18621018/063/0010
-
-Dublin Weekly Nation - Saturday 18 October 1862
+In *Dublin Weekly Nation*, [Saturday 18 October 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0001424/18621018/063/0010).
 
 The Dublin University Magazine for October. G. Herbert, 1862.—
 
@@ -585,13 +534,9 @@ The tale is set near Coolgarrow. One night, a farmer's wife, who was weaning her
 ```{admonition} "The Fairy Nurse", in Dublin University Magazine, 1862
 :class: dropdown
 
-https://archive.org/details/sim_university-magazine_1862-10_60_358/page/436/mode/2up
+In *Dublin University Magazine*, 1862-10: Vol 60 Iss 358.
 
-Dublin University Magazine  1862-10: Vol 60 Iss 358
-
-*Leinster Folk-Lore, Part IV*
-
-pp. 436-450
+*Leinster Folk-Lore, Part IV*, [pp. 436-450](https://archive.org/details/sim_university-magazine_1862-10_60_358/page/436/mode/2up).
 
 At [p.440-441](https://archive.org/details/sim_university-magazine_1862-10_60_358/page/440/mode/2up)
 
@@ -663,11 +608,7 @@ In the same way that the series on *"Irish Popular Superstitions"* would later a
 ```{admonition} "The Fairy Nurse", in *Legendary Fictions of the Irish Celts*, Patrick Kennedy, 1866
 :class: dropdown
 
-https://archive.org/details/legendaryfictio00kenngoog/page/n126/mode/2up
-
-Patrick Kennedy, *Legendary Fictions of the Irish Celts*, 1866
-
-p. 106-110
+Patrick Kennedy, *Legendary Fictions of the Irish Celts*, 1866, [p. 106-110](https://archive.org/details/legendaryfictio00kenngoog/page/n126/mode/2up).
 
 THE FAIRY NURSE.
 
@@ -701,9 +642,7 @@ A comprehensive review of Kennedy's book appeared in the *Morning Post* in Novem
 ```{admonition} Legends of the Irish Celts, review, November 1866
 :class: dropdown seealso
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18661116/009/0003
-
-Morning Post - Friday 16 November 1866
+In *Morning Post*, [Friday 16 November 1866](https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18661116/009/0003).
 
 LEGENDS OF THE IRISH CELTS. `[Legendary Fictions of the Irish Celts. Collected and narrated by Patrick Kennedy. London Macmillan and Co.]` From a very remote antiquity all branches of the Celtic race have inherited a multitude of traditions of the wild and wonderful, relating to the exploits of fabulous heroes, the mystic agencies of unseen spiritual beings, or the ghostly re-appearance of the dead. Originating in rude ages, when the untutored mind is peculiarly liable to superstition and exaggeration, such legends still preserve a marvellous vitality, and yield but slowly and reluctantly to the enlightenment of knowledge and philosophy. They are often cherished, even by the educated and sceptical, as possessing the charm associated with venerable antiquity, and the romance inseparable from the mystical unknown; while by the uninstructed and imaginative Celtic peasant traditional tales of mythical heroes, and supernatural beings and appearances, are told and wondered at with a thrilling belief in their reality. The Irish peasantry, in particular, cling with affectionate tenacity to their immemorial traditions of visionary heroes, fairy influences, and warning apparitions from the grave. One of the chief amusements of their festive gatherings is the narration of such stories; and, when they are related with the solemnity, pathos, or humour of the practised storyteller, they never fail to amuse the old, while they are listened to with ecstatic delight by the young. Mr. Kennedy has collected in a thick volume a great variety of those legends, ranging through every imaginable phase of wonder and superstition; and yet he concludes the work with the observation that what he presents is a mere fraction of the wealth of Celtic fiction. The collection has been made with an industry stimulated by the author's taste for antiquarian investigations, but the greater part of the volume consists of stories related to him by word of mouth in his visits to persons capable of enriching its pages. Some of the oral narratives he corrected from improved versions of them in the Bardic historians and ancient manuscripts, and no story is copied from any writer of the present or past generation. The Ossianic portion of the volume preserves numerous legends of Fion, son of Cumhail, King of Leinster. Fion, popularly called Fann or Finn MacCuil, was a real personage of military fame, slain at the Boyne, A.D. 233. He is invested by the romantic historians of Ireland with the command of the national militia, the Fianna Eirionn, or Fians of Erin. The term Fians is supposed to mean giants or heroes, and is applied to the warriors of Albanach (Scotland) as well as to those of Ireland. Their chief employment was to defend the country from invaders, and for that purpose they were generally stationed in the neighbourhood of harbours. They were men of free birth, and a postulant for admission into the order was required to be so expert in military exercises that, merely armed with a stick and shield, he could defend his otherwise unguarded body from half-a-dozen men darting spears at him from a distance of nine ridges. The institution does not appear to have been long-lived, no records being left of it of greater extent than three generations. Most of the chiefs of this militia were killed at a battle with King Cairbre. Oisin, or Ossian, the son of Fion MacCuil — probably equivalent to Fin-gal — survived the fight, and lived till the arrival of St. Patrick. Some of his poems relating to Fion and his knights are preserved in the Book of Leinsttr. Oisin is especially eloquent in praise of his own son Oscur the Invincible, whom he mentions as treacherously slain by King Cairbre:—
 
@@ -752,13 +691,7 @@ In the [Saturday 12 September 1874](https://britishnewspaperarchive.co.uk/viewer
 ```{admonition} "Brierley, Benjamin", *Encyclopedia Britannia*, 1911
 :class: dropdown seealso
 
-https://archive.org/details/encyclopedia-britannica-volume-4/mode/2up
-
-Encyclopedia Britannica, Volume 4
-
-1911
-
-p. 563
+*Encyclopedia Britannica*, Volume 4, 1911, [p. 563](https://archive.org/details/encyclopedia-britannica-volume-4/mode/2up).
 
 BRIERLEY, BENJAMIN (1825-1806), English weaver and writer in Lancashire dialect, was born near Manchester, the son of humble parents, and started life in a textile factory, educating himself in his spare time. At about the age of thirty he began to contribute articles to local papers, and the republication of some of his sketches of Lancashire character in *A Summer Day in Daisy Nook* (1859) attracted attention. In 1863 he definitely took to journalism and literature as his work, publishing in 1863 his *Chronicles of Waverlow*, and in 1864 a long story called *The Layrock of Langley Side* (afterwards dramatized), followed by others. He started in 1869 Ben Brierley's Journal, a weekly, which continued till 1891, and he gave public readings from his own writings, visiting America in 1880 and 1884. His various *Ab-o'-th'- Yate* sketches (about America, London, &c.), and his pictures of Lancashire common life were very popular, and were collected after his death. In 1884 he lost his savings by the failure of a building society, and a fund was raised for his support. He died on the 18th of January 1896, and two years later a statue was erected to him in Queen's Park, Manchester.
 
@@ -769,17 +702,9 @@ In the [Saturday 17 October 1874](https://britishnewspaperarchive.co.uk/viewer/b
 ```{admonition} The Little Man's Gift, October 1874
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0003226/18741017/061/0003
+In *Ben Brierley's Journal*, [Saturday 17 October 1874](https://britishnewspaperarchive.co.uk/viewer/bl/0003226/18741017/061/0003).
 
-Ben Brierley's Journal - Saturday 17 October 1874
-
-Then republished in:
-
-https://archive.org/details/goblintalesoflan00bowkiala/page/160/mode/2up
-
-James Bowker, *Goblin tales of Lancashire*, 1878
-
-pp159-163
+Then republished in James Bowker, *Goblin tales of Lancashire*, 1878, [pp159-163](https://archive.org/details/goblintalesoflan00bowkiala/page/160/mode/2up).
 
 THE LITTLE MAN'S GIFT.
 
@@ -801,11 +726,7 @@ The series was republished several years later, in 1878, in book form, as James 
 ```{admonition} The belief in the efficacy of fairy ointment, 1878
 :class: dropdown
 
-https://archive.org/details/goblintalesoflan00bowkiala/page/160/mode/2up
-
-James Bowker, *Goblin tales of Lancashire*, 1878
-
-p259-60
+James Bowker, *Goblin tales of Lancashire*, 1878, [p259-60](https://archive.org/details/goblintalesoflan00bowkiala/page/160/mode/2up).
 
 Appendix
 
@@ -830,11 +751,8 @@ Another version of the tale appears in Wirt Sikes' *British goblins: Welsh folk-
 ```{admonition} Recruited at a hiring fair, 1880
 :class: dropdown
 
-https://archive.org/details/ycymmrodor00socigoog/page/n60/mode/2up
-
-Wirt Sikes, *British goblins: Welsh folk-lore, fairy mythology, legends and traditions*, 1880
-
-pp86-8
+Wirt Sikes, *British goblins: Welsh folk-lore, fairy mythology, legends and traditions*, 1880,
+[pp86-8](https://archive.org/details/ycymmrodor00socigoog/page/n60/mode/2up).
 
 ... Ages older than the Psyche story, however, is the legend embodying the original Aryan myth. The drop of oil which falls upon the shoulder of the sleeping prince and wakes him, revealing Psyche's curiosity and destroying her happiness, is paralleled among the Welsh by the magic ointment in the legend of the Fiend Master. This legend, it may be premised, is also familiar to both France and Germany, where its details differ but little from those here given: A respectable young Welshwoman of the working class, who lived with her parents, went one day to a hiring fair. Here she was addressed by a very noble-looking gentleman all in black, who asked her if she would be a nursemaid, and undertake the management of his children. She replied that she had no objection; when he promised her immense wages, and said he would take her home behind him, but that she must, before they started, consent to be blindfolded. This done, she mounted behind him on a coal-black steed, and away they rode at a great rate. At length they dismounted, when her new master took her by the hand and led her on, still blindfolded, for a considerable distance. The handkerchief was then removed, when she beheld more grandeur than she had ever seen before; a beautiful palace lighted up by more lights than she could count, and a number of little children as beautiful as angels; also many noble-looking ladies and gentlemen. The children her master put under her charge, and gave her a box containing ointment, which she was to put on their eyes. At the same time he gave her strict orders always to wash her hands immediately after using the ointment, and be particularly careful never to let a bit of it touch her own eyes. These injunctions she strictly followed, and was for some time very happy; yet she sometimes thought it odd that they should always live by candle-light; and she wondered, too, that grand and beautiful as the palace was, such fine ladies and gentlemen as were there should never wish to leave it. But so it was; no one ever went out but her master. One morning, while putting the ointment on the eyes of the children, her own eye itched, and forgetting the orders of her master she touched one corner of it with her finger which was covered with ointment. Immediately, with the vision of that corner of her eye, she saw herself surrounded by fearful flames; the ladies and gentlemen looked like devils, and the children appeared like the most hideous imps of hell. Though with the other parts of her eyes she beheld all grand and beautiful as before, she could not help feeling much frightened at all this; but having great presence of mind she let no one see her alarm. However, she took the first opportunity of asking her masters leave to go and see her friends. He said he would take her, but she must again consent to be blindfolded. Accordingly a handkerchief was put over her eyes; she was again mounted behind her master, and was soon put down in the neighbourhood of her own house. It will be believed that she remained quietly there, and took good care not to return to her place; but very many years afterwards, being at a fair, she saw a man stealing something from a stall, and with one corner of her eye beheld her old master pushing his elbow. Unthinkingly she said, "How are you master? how are the children?" He said, "How did you see me?" She answered, "With the corner of my left eye." From that moment she was blind of her left eye, and lived many years with only her right.' `['Camb. Sup.,' 349.]` An older legend preserving this mythical detail is the story of Taliesin. Gwion Bach's eyes are opened by a drop from Caridwen's caldron falling upon his finger, which he puts in his mouth.
 ```
@@ -852,11 +770,9 @@ Based on a footnote several pages earlier (at p. 84) — `Cambrian Superstitions
 ```{admonition} William Howells, *Cambrian superstition*, 1831
 :class: seealso dropdown
 
-https://archive.org/details/b33292048/page/n3/mode/2up
+W. (William) Howells, *Cambrian superstitions, comprising ghosts, omens, witchcraft, traditions, &c. To which are added, a concise view of the manners and customs of the Principality, and some fugitive pieces*, 1831.
 
-W. (William) Howells, *Cambrian superstitions, comprising ghosts, omens, witchcraft, traditions, &c. To which are added, a concise view of the manners and customs of the Principality, and some fugitive pieces*, 1831
-
-Esp. Chapter IV, Traditions and Fairy Tales, pp.91-155
+Esp. Chapter IV, Traditions and Fairy Tales, [pp.91-155](https://archive.org/details/b33292048/page/n3/mode/2up).
 ```
 
 However, there is no p.349 in Howell's collection, the pages being numbered up to p. 194. Rather, the reference is actually to another early work, the August, 1830 edition of *The Cambrian and Caledonian Quarterly Magazine and Celtic Repertory*, Vol 2 Iss 7,
@@ -894,13 +810,7 @@ At the start of 1881, the following call to action ([pp.155-159](https://archive
 ```{admonition} Authentic collecting, 1881
 :class: dropdown seealso
 
-https://archive.org/details/ycymmrodor04cymmuoft/page/154/mode/2up
-
-Y Cymmrodor
-
-January 1881, Volume IV
-
-pp155-159
+*Y Cymmrodor*, January 1881, Volume IV, [pp155-159](https://archive.org/details/ycymmrodor04cymmuoft/page/154/mode/2up).
 
 The Folk-Lore of Wales
 
@@ -947,14 +857,9 @@ The paper includes a fragmentary and garbled version of the fairy mdwife tale, w
 ```{admonition} A garbled fragment, 1881
 :class: dropdown
 
-
-Y Cymmrodor: embodying the transactions of the Cymmrodorion Society of London
-
-Vol. IV, October 1881
+Y Cymmrodor: embodying the transactions of the Cymmrodorion Society of London, Vol. IV, October 1881, [pp. 163-216](https://archive.org/details/ycymmrodor04cymmuoft/page/208/mode/2up), but specifically at pp.209-10.
 
 Welsh Fairy Tales, by Professor Rhys
-
-[pp. 163-216](https://archive.org/details/ycymmrodor04cymmuoft/page/208/mode/2up), but specifically at pp.209-10.
 
 Next comes a story about a midwife who lived at Corwrion. "One of the fairies came to ask her to come and attend on his wife. Off she went with him, and she was astonished to be taken into a splendid palace. There she continued to go night and morning to dress the baby for some time, until one day the husband asked her to rub her eyes with a certain ointment he offered her. She did so, and found herself sitting on a tuft of rushes, and not in a palace. There was no baby and all had disappeared. Some time afterwards she happened to go to the town, and whom should she there see busily buying various wares, but the fairy on whose wife she had been attending. She addressed him with the question, 'How are you, to-day?' Instead of answering her, he asked, 'How do you see me?' 'With my eyes,' was the prompt reply. 'Which eye?' he asked. 'This one,' said the woman, pointing to it; and instantly he disappeared, never more to be seen by her." This tale is incomplete, but it can be made up from another version I have seen in print somewhere, though I cannot now lay my hand on it. It was possibly in Mr. Sikes' book.
 
@@ -965,13 +870,9 @@ In a second part to his series on *Welsh Fairy Tales*, in the January 1882 editi
 ```{admonition} Mr Jones of Beddgelert, 1882
 :class: dropdown seealso
 
-https://archive.org/details/ycymmrodor00socigoog/page/n80/mode/2up
+Y Cymmrodor: embodying the transactions of the Cymmrodorion Society of London, Vol. V, January 1882.
 
-Y Cymmrodor: embodying the transactions of the Cymmrodorion Society of London
-
-Vol. V, January 1882
-
-In a paper *Welsh Fairy Tales*, by Professor Rhys, pp49-143
+In a paper *Welsh Fairy Tales*, by Professor Rhys, [pp49-143](https://archive.org/details/ycymmrodor00socigoog/page/n80/mode/2up).
 
 VI. Beddgelert, Drws y Coed, etc.
 
@@ -988,15 +889,11 @@ The best living authority I have found on the folk-lore of Beddgelert, Drws y Co
 ```{admonition} Another, previously unpublished, tale from Mr Jones, 1882
 :class: dropdown
 
-https://archive.org/details/ycymmrodor00socigoog/page/n80/mode/2up
+Y Cymmrodor: embodying the transactions of the Cymmrodorion Society of London, Vol. V, January 1882
 
-Y Cymmrodor: embodying the transactions of the Cymmrodorion Society of London
+Part of *Welsh Fairy Tales*, by Professor Rhys, pp49-143.
 
-Vol. V, January 1882
-
-Part of *Welsh Fairy Tales*, by Professor Rhys, pp49-143
-
-At pp68-72
+At [pp68-72](https://archive.org/details/ycymmrodor00socigoog/page/n80/mode/2up).
 
 [Now I return to another tale sent me by Mr. Jones; unless I am mistaken it has not hitherto been published, so I give the Welsh as well as a free translation of it.]
 
@@ -1019,13 +916,7 @@ The variant of tale collected from Mr. Jones and published by Rhys, opens the fo
 ```{admonition} Fairy Births and Human Midwifes, E. Sidney Hartland, December 1889
 :class: dropdown
 
-https://archive.org/details/archaeologicalre04londuoft/page/328/mode/2up
-
-Archaeological Review.
-
-Vol. IV, No. 5, December 1889
-
-pp. 328-343
+Archaeological Review, Vol. IV, No. 5, December 1889, [pp. 328-343](https://archive.org/details/archaeologicalre04londuoft/page/328/mode/2up).
 
 FAIRY BIRTHS AND HUMAN MIDWIFES. 
 
@@ -1101,11 +992,7 @@ Fairy gifts are also reviewed in a couple of tales provided by Lady Wilde in *An
 ```{admonition} The Three Gifts, 1887
 :class: dropdown
 
-https://archive.org/details/ancientlegendsm00wildgoog/page/n185/mode/2up
-
-Lady Wilde, *Ancient Legends, Mystic Charms, and Superstitions of Ireland*, 1887
-
-pp. 166-7
+Lady Wilde, *Ancient Legends, Mystic Charms, and Superstitions of Ireland*, 1887, [pp. 166-7](https://archive.org/details/ancientlegendsm00wildgoog/page/n185/mode/2up).
 
 The Three Gifts.
 
@@ -1126,13 +1013,8 @@ So the woman was put again upon the horse with her three gifts, and reached her 
 ```{admonition} The Three Wishes, 1887
 :class: dropdown
 
-https://archive.org/details/ancientlegendsm00wildgoog/page/n185/mode/2up
-Ancient Legends, Mystic Charms, and Superstitions of Ireland
-by Wilde, William Robert Wilde, lady Jane Francesca Elgee Wilde
 
-Publication date 1887
-
-pp. 167-8
+William Robert Wilde, lady Jane Francesca Elgee Wilde, *Ancient Legends, Mystic Charms, and Superstitions of Ireland*, 1887, [pp. 167-8](https://archive.org/details/ancientlegendsm00wildgoog/page/n185/mode/2up).
 
 A woman was carried off one night to a fairy palace to attend one of the beautiful fairy ladies who lay sick on her golden bed. And as she was going in at the gate a man whispered to her, "Eat no food, and take no money from the fairies; but ask what you like and it will be granted." So when the fairy lady was well, she bade the nurse ask what she pleased. The woman answered, "I desire three things for my sons and their race — luck in fishing, luck in learning, and luck in gambling," which things were granted— and to this day the family are the richest, the wisest, and the luckiest in the whole neighbourhood. They win at every game, and at every race, but always by fair play and without cheating; and not the priest himself can beat them at book learning. And every one knows that the power comes to them from the fairy gift, though good luck comes with it and not evil; and all the work of their hands has prospered through every generation since the day of the Three Wishes.
 ```
@@ -1142,11 +1024,7 @@ Hartland's *Archaeological Review* paper also appeared as a chapter under the sa
 ```{admonition} In *The Science Of Fairy Tales*, 1890
 :class: dropdown seealso
 
-https://archive.org/details/in.ernet.dli.2015.74291/page/n47/mode/2up
-
-Edwin Sidney Hartland, *The Science Of Fairy Tales — An Inquiry Into Fairy Mythology*, 1890
-
-pp.37-58
+Edwin Sidney Hartland, *The Science Of Fairy Tales — An Inquiry Into Fairy Mythology*, 1890, [pp.37-58](https://archive.org/details/in.ernet.dli.2015.74291/page/n47/mode/2up).
 
 Chapter III
 
@@ -1173,10 +1051,7 @@ The second chapter — *"Fairy Births and Human Midwives (continued)* — was it
 ```{admonition} The typical tale, June 1890
 :class: dropdown
 
-https://archive.org/details/folklore01folkuoft/page/206/mode/2up
-
-Folk-Lore Vol. I, no. II, June 1890
-pp.207-214 (and on to 226)
+Folk-Lore Vol. I, no. II, June 1890, [pp.207-214](https://archive.org/details/folklore01folkuoft/page/206/mode/2up) (and on to p226).
 
 E. Sydney Hartland
 
@@ -1288,13 +1163,7 @@ Throughout the late 1840 and early to mid-1850s, Yorkshire merchant Michael Aisl
 ```{admonition} In *The Denham Tracts*, 1892 (c1850)
 :class: dropdown
 
-https://archive.org/details/cu31924092530496/page/n153/mode/2up
-
-Michael Aislabie Denham, *The Denham tracts: a collection of folklore: reprinted from the original tracts and pamphlets printed by Mr. Denham between 1846 and 1859*, 1892
-
-Vol. II
-
-pp138-9
+Michael Aislabie Denham, *The Denham tracts: a collection of folklore: reprinted from the original tracts and pamphlets printed by Mr. Denham between 1846 and 1859*, 1892, Vol. II, [pp138-9](https://archive.org/details/cu31924092530496/page/n153/mode/2up).
 
 A fairy man and woman once entrusted the up-bringing of one of their offspring to a man in Netherwitton. He received along with it a box of ointment, with which he was enjoined regularly to rub its eyes, but he was to be careful not to touch his own with it, otherwise he would incur a heavy penalty. Curiosity overcame his scruples, and he anointed one of his eyes with the ointment without experiencing any inconvenience. Having gone to Long Horsley fair, he saw both the man and woman moving about among the fair people, and thinking there could be no harm in it he accosted them. Surprised to be thus recognised, they inquired with what eye he saw there, and he told them, whereupon they blew into his eye and it became blinded. The child was removed before his return home.
 
@@ -1308,9 +1177,7 @@ His work *Tales of the Fairies and of the Ghost World* also focussed on tales co
 ```{admonition} *Tales of the Fairies and of the Ghost World*, review, 1895
 :class: dropdown seealso
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0005839/18950518/086/0025?browse=true
-
-Saturday Review of Politics, Literature, Science and Art - Saturday 18 May 1895
+In *Saturday Review of Politics, Literature, Science and Art*, [Saturday 18 May 1895](https://britishnewspaperarchive.co.uk/viewer/BL/0005839/18950518/086/0025?browse=true).
 
 NEW BOOKS AND REPRINTS.
 
@@ -1322,11 +1189,7 @@ Not folk-lore students only, but all who love stories of primitive man and his b
 ```{admonition} "The Midwife of Listowel", Jeremiah Curtin, 1895
 :class: dropdown
 
-https://archive.org/details/cu31924029910563/page/n57/mode/2up
-
-Jeremiah Curtin, *Tales of the fairies and of the ghost world, collected from the oral tradition in South-west Munster*, 1895
-
-pp.42-45
+Jeremiah Curtin, *Tales of the fairies and of the ghost world, collected from the oral tradition in South-west Munster*, 1895, [pp.42-45](https://archive.org/details/cu31924029910563/page/n57/mode/2up).
 
 THE MIDWIFE OF LISTOWEL
 
@@ -1664,11 +1527,9 @@ In the following Norwegian tale, the midwife's daughter goes missing, and the mi
 ```{admonition} Norwegian traditions, 1851
 :class: dropdown
 
-https://archive.org/details/northernmytholog02thoruoft/page/n41/mode/2up
+Benjamin Thorpe, *Northern mythology, comprising the principal popular traditions and superstitions of Scandinavia, north Germany, and the Netherlands*, 1851, vol. II, [p11-13](https://archive.org/details/northernmytholog02thoruoft/page/n41/mode/2up).
 
-Benjamin Thorpe, *Northern mythology, comprising the principal popular traditions and superstitions of Scandinavia, north Germany, and the Netherlands*, 1851, vol. II.
-
-p11-13 (Norwegian Traditions)
+Norwegian Traditions.
 
 THE MIDWIFE.
 
@@ -1699,11 +1560,9 @@ From the Danish tradition, it is *elves*, as well as *trolls*, that feature in t
 ```{admonition}  Danish traditions, 1851
 :class: dropdown
 
-https://archive.org/details/northernmytholog02thoruoft/page/n159/mode/2up
+Benjamin Thorpe, *Northern mythology, comprising the principal popular traditions and superstitions of Scandinavia, north Germany, and the Netherlands*, 1851, vol. II, [pp.128-130](https://archive.org/details/northernmytholog02thoruoft/page/n159/mode/2up).
 
-Benjamin Thorpe, *Northern mythology, comprising the principal popular traditions and superstitions of Scandinavia, north Germany, and the Netherlands*, 1851, vol. II
-
-pp.128-130 (Danish Traditions)
+Danish Traditions
 
 THE UNDERGROUND FOLK FETCH A MIDWIFE.
 
@@ -1724,11 +1583,9 @@ And from the German tradition, we have "little men" as well as "little women", a
 ```{admonition} North German Traditions
 :class: dropdown
 
-https://archive.org/details/northernmytholog03thoruoft/page/n63/mode/2up
+Benjamin Thorpe, *Northern mythology, comprising the principal popular traditions and superstitions of Scandinavia, north Germany, and the Netherlands*, 1851, vol. III, [pp. 50-4](https://archive.org/details/northernmytholog03thoruoft/page/n63/mode/2up).
 
-Benjamin Thorpe, *Northern mythology, comprising the principal popular traditions and superstitions of Scandinavia, north Germany, and the Netherlands*, 1851, vol. III
-
-pp. 50-4  (North German Traditions)
+North German Traditions
 
 OF THE KANZAUS. I.
 
