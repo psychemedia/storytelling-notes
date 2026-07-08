@@ -188,14 +188,7 @@ The tale behind the ballad appears to have been popularised by Robert Chambers' 
 ```{admonition} Maybole, and the mansion-house of the Cassilis family, 1927
 :class: dropdown
 
-https://archive.org/details/picturescotland00chamgoog/page/n299/mode/2up
-
-The Picture of Scotland
-by Robert Chambers
-
-Publication date 1827
-
-pp.293-4
+Robert Chambers, *The Picture of Scotland*, 1827, [pp.293-4](https://archive.org/details/picturescotland00chamgoog/page/n299/mode/2up).
 
 Maybole, the capital of Carrick, and a burgh of barony, is a good-looking town, situated on the face of a gentle hill, with a southern exposure. Though the streets have the fault of narrowness, and contain no eminently fine place or public building, Maybole nevertheless possesses a certain degree of massive and metropolitan magnificence, seldom seen in much larger towns. This is owing to the circumstance of its having been in former times the winter-residence of a number of the noble and baronial families of the neighbourhood, some of whose mansions, yet surviving, with their stately turrets and turnpikes, give an air of antique dignity to all the houses around. There were once no fewer than twenty-eight such mansion-houses; and, previous to the abolition of heritable jurisdictions, the town derived additional respectability from the legal practitioners who attended the court of the Bailiery of Carrick; a few of whose ancient maiden descendants, lately surviving, gave token by their pride and high manners, that the society of Maybole was a very different thing a century ago from what it is now. Tradition preserves but a very faint remembrance of the glories of that past time; but it is at least evident, that Maybole was then invested with many of the proud attributes of a capital.
 
@@ -207,11 +200,8 @@ Robert Chambers' version of the story itself is quoted in full, along with the b
 
 ```{admonition} In *The British minstrel*, 1943
 :class: dropdown
-}https://archive.org/details/britishminstrelm00glas/page/n249/mode/2up
-The British minstrel, and musical and literary miscellany
-Publication date 1843
 
-pp. 242-4
+*The British minstrel, and musical and literary miscellany*, 1843, [pp. 242-4](https://archive.org/details/britishminstrelm00glas/page/n249/mode/2up).
 
 ![Johhny Faa - musical score](images/british-minstrel-faa-1.png)
 
@@ -287,10 +277,7 @@ The tale also appeared in various editions of *Chambers's Miscellany*, as for ex
 ```{admonition} In Chambers's Miscellany, 1871
 :class: dropdown
 
-https://archive.org/details/chamberssmiscell07chamiala/page/n373/mode/2up
-Chambers's miscellany of instructive & entertaining tracts
-by Chambers, William, 1800-1883; Chambers, Robert, 1802-1871
-Vol. VII. 1871
+William Chambers and Robert Chambers, *Chambers's miscellany of instructive & entertaining tracts*, [Vol. VII.](https://archive.org/details/chamberssmiscell07chamiala/page/n373/mode/2up), 1871.
 
 ANECDOTES OF THE SCOTTISH GIPSIES.
 
@@ -311,13 +298,10 @@ At the start of the twentieth century, the song might also have been brought to 
 
 ```{admonition} In *English folk-songs for schools*, 1900
 :class: dropdown
-https://archive.org/details/englishfolksongs00bari/page/2/mode/2up
-English folk-songs for schools
-by Baring-Gould, S.
 
-Publication date 1900
+Sabine Baring-Gould, *English folk-songs for schools*, 1900, [pp. 2-3](https://archive.org/details/englishfolksongs00bari/page/2/mode/2up).
 
-pp. 2-3 No. 1
+No. 1
 
 ![Music for Raggle Taggle Gypsies, O!, in Baring-Gould, English folk-songs for schools](images/raggle-taggle-sbg.png)
 
@@ -384,13 +368,9 @@ Before debunking that claimed history:
 
 ```{admonition} In *English and Scottish Ballads*, 1860
 :class: dropdown
-https://archive.org/details/englishandscott13unkngoog/page/n122/mode/2up
-English and Scottish Ballads
-Publication date 1860
-vol IV
-Francis James Child
 
-pp114-7
+Francis James Child, *English and Scottish Ballads*, 1860, vol IV, [pp114-7](https://archive.org/details/englishandscott13unkngoog/page/n122/mode/2up).
+
 THE GYPSIE LADDIE.
 
 The gypsies came to our good lord's gate,  
@@ -460,13 +440,8 @@ The tale appears to have been popular in various antiquarian collections as a cl
 
 ```{admonition} A story of old standing, 1894
 :class: dropdown
-https://archive.org/details/scottishgypsies01macrgoog/page/n120/mode/2up
-Scottish Gypsies under the Stewarts
-by MacRitchie, David, 1851-1925
 
-Publication date 1894
-
-pp. 109-111
+David MacRitchie, *Scottish Gypsies under the Stewarts*, 1894, [pp. 109-111](https://archive.org/details/scottishgypsies01macrgoog/page/n120/mode/2up).
 
 The Ballad of "Johnny Faw"
 
@@ -484,15 +459,8 @@ One of the works referred to in *Scottish Gypsies under the Stewarts*, William A
 
 ```{admonition} Biographies of the original cast, 1863
 :class: dropdown
-https://archive.org/details/b21974354_0001/page/606/mode/2up
-The Scottish nation, or, The surnames, families, literature, honours, and biographical history of the people of Scotland/ by William Anderson
-by Anderson, William, 1805-1866; Royal College of Physicians of Edinburgh
 
-Publication date 1863
-
-Vol. I
-
-pp.606-8
+William Anderson, *The Scottish nation, or, The surnames, families, literature, honours, and biographical history of the people of Scotland*, 1863, Vol. I, [pp.606-8](https://archive.org/details/b21974354_0001/page/606/mode/2up).
 
 The sixth earl, styled "the grave and solemn" earl, is described as a person of great virtue and of considerable abilities, and so sincere that he never would permit his words to be understood but in their direct sense. Being zealously attached to the presbyterian form of worship, he took a prominent part in the proceedings of the Covenanters in 1638, and following years, and in June 1639, when the Lyon king at arms was sent to their camp at Dunse Law, with a proclamation from the king, the earl of Cassillis offered a protest, adhering to the last General Assembly held at Glasgow, which the Lyon refused to receive. On the 17th September, 1641, he was nominated of his majesty's privy council. He was one of the three ruling elders sent to the assembly of divines at Westminster in 1643, to ratify the solemn league and covenant. In September 1646, he was one of the commissioners directed to repair to Charles the First, to urge his majesty to accept of the propositions made to him by the English parliament. In 1648 he opposed the 'Engagement' to march into England, to attempt the relief of the king. In 1649, on the dismissal of the earl of Crawford as treasurer, Cassillis was made one of the four lords of the treasury. After the execution of Charles, he was sent by the Scots parliament, in March 1649, with the earl of Lothian, Lord Burly, and others, as commissioners, to Charles the Second at Breda, to offer him the crown of Scotland on certain conditions. These commissioners acted in a double capacity, and had instructions both from the estates and from the commission of the kirk, in both of which the earl of Cassillis was the chief person. Charles endeavoured to prevail on them to modify some of the conditions, but Cassillis adhered firmly to his instructions. On his return to Scotland, his lordship was appointed justice-general, and gave his oath 'de fideli administratione,' 29th June of the same year. On 3d July he was appointed an extraordinary lord of session. In 1650 he was again one of the commissioners sent by the parliament to treat with the king at Breda. After the battle of Dunbar, a deputation was sent by the estates, consisting of Cassillis, Argyle, and other members, to the western army "to solicit unity for the good of the kingdom," General Leslie having threatened to resign his command if they did not unite with him: but their efforts were in vain. The earl afterwards refused to come into any terms with Cromwell.
 
@@ -519,11 +487,8 @@ The above version of the story is different from that recited in the ballad, whi
 
 ```{admonition} The most romantic tale, 1881
 :class: dropdown
-https://archive.org/details/recreationsanan00fittgoog/page/506/mode/2up
-Recreations of an antiquary in Perthshire history and genealogy
-by Fittis, Robert Scott
 
-Publication date 1881
+Robert Scott Fittis, *Recreations of an antiquary in Perthshire history and genealogy*, [1881](https://archive.org/details/recreationsanan00fittgoog/page/506/mode/2up).
 
 An episode, the most romantic in the traditionary story of the Scottish Gipsies, seems to have occurred a few years before the middle of the seventeenth century. We refer to the singular incident of the elopement of a Countess of Cassilis with John Faa, the Gipsy leader, on which a favourite old ballad has been founded:—
 
@@ -545,13 +510,8 @@ Several 19th century collections relating to Scottish border country and Scottis
 
 ```{admonition} In *The minstrelsy of the English border*, 1847
 :class: dropdown
-https://archive.org/details/minstrelsyengli01shelgoog/page/n354/mode/2up
-The minstrelsy of the English border. Being a collection of ballads, ancient, remodelled, and original
-by Sheldon, Frederick
 
-Publication date 1847
-
-pp326-333
+Frederick Sheldon, *The minstrelsy of the English border. Being a collection of ballads, ancient, remodelled, and original*, 1847, [pp326-333](https://archive.org/details/minstrelsyengli01shelgoog/page/n354/mode/2up).
 
 The rare Ballad of Johnnie Faa and the Counteſs o' Caſſilis,
 
@@ -686,13 +646,8 @@ For the Earl o' Caſſtle's leddy O.
 
 ```{admonition} A gypsy enterprise of the romantic sort, 1890
 :class: dropdown
-https://archive.org/details/cu31924028083115/page/n233/mode/2up
-Byways of the Scottish border: a pedestrian pilgrimage.
-by Eyre-Todd, George, 1862-1937
 
-Publication date 1890
-
-pp. 199-201
+George Eyre-Todd, *Byways of the Scottish border: a pedestrian pilgrimage*, 1890, [pp. 199-201](https://archive.org/details/cu31924028083115/page/n233/mode/2up).
 
 A gypsy enterprise of the romantic sort which the popular mind attributes to that mysterious people, furnishes the subject of one of the best known ballads of Ayrshire, The scene of the ballad was Cassillis House, on the banks of the Doon, before whose door still stands the ancient Dule-Tree or Tree of Sorrow. The heroine was some fair and frail Countess of Cassillis, wife of a chief of the Kennedys; and tradition avers that "Johnnie Faa," the leader of the gypsy band, was a young knight, Sir John Fall, who had been her lover before her marriage.
 
@@ -833,11 +788,8 @@ As well as the tale and the song, *The ballad minstrelsy of Scotland* provides e
 
 ```{admonition} In *The ballad minstrelsy of Scotland*, 1871
 :class: dropdown
-https://archive.org/details/balladminstrelsy00glasiala/page/616/mode/2up?q=%22John+fall%22+cassilis
-The ballad minstrelsy of Scotland, romantic and historical, collated and annotated
-Publication date [1871]
 
-p616-9
+*The ballad minstrelsy of Scotland, romantic and historical, collated and annotated*, 1871, [p616-9](https://archive.org/details/balladminstrelsy00glasiala/page/616/mode/2up).
 
 JOHNNIE FAA.
 
