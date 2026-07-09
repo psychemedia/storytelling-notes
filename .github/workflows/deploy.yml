@@ -18,36 +18,58 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
     - uses: actions/checkout@v5
-
-    # Cache Jupyter Book build artifacts
-    - name: Cache Jupyter Book build
-      uses: actions/cache@v5
       with:
-        path: |
-          _build/
-          ~/.cache/pip
-        key: ${{ runner.os }}-jb-${{ hashFiles('_config.yml', '_toc.yml') }}
-        restore-keys: |
-          ${{ runner.os }}-jb-
+        fetch-depth: 0   # need full history so we can read per-file commit dates
 
-    # Install dependencies
+    # Restore mtimes to match git history, so Sphinx's staleness check
+    # (mtime-based) reflects what actually changed rather than "everything
+    # just got checked out a second ago"
+    - name: Restore file mtimes from git history
+      run: |
+        git ls-tree -r -t --name-only HEAD | while read -r f; do
+          [ -f "$f" ] || continue
+          ts="$(git log -1 --format=%cI -- "$f")"
+          [ -n "$ts" ] && touch -d "$ts" "$f"
+        done
+
     - name: Set up Python 3.11
       uses: actions/setup-python@v5
       with:
         python-version: 3.11
 
+    # Cache pip downloads separately - keyed on the pinned deps only
+    - name: Cache pip downloads
+      uses: actions/cache@v5
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-jb-3.11
+        restore-keys: |
+          ${{ runner.os }}-pip-jb-
+
+    # Cache the actual Jupyter Book build output.
+    # Key includes config/toc AND all source content, so any content
+    # edit invalidates the cache appropriately. With mtime restoration
+    # above, a cache hit here plus unchanged source mtimes lets Sphinx
+    # skip rebuilding pages that didn't change.
+    - name: Cache Jupyter Book build
+      uses: actions/cache@v5
+      with:
+        path: _build/
+        key: ${{ runner.os }}-jb-build-${{ hashFiles('_config.yml', '_toc.yml', '**/*.md', '**/*.ipynb', '**/*.rst') }}
+        restore-keys: |
+          ${{ runner.os }}-jb-build-
+
     - name: Install dependencies
       run: |
         pip install "jupyter-book<2" ou-jupyter-book-tools
         pip install sphinxcontrib-youtube==1.3.0
-    # Build the book
+
     - name: Build the book
       env:
         SPHINXOPTS: "-j auto"
       run: |
         jupyter-book build .
 
-    # Deploy to GitHub Pages
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
