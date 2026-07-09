@@ -393,7 +393,9 @@ The jury returned a verdict to the following effect "Killed by No. 3 magazine on
 At a national level, news of the explosion at Brean Down was picked up by correspondents citing the incident as justification for the need to establish an Army League dedicated to the defence of such establishments.
 
 ```{admonition} WORK FOR THE ARMY LEAGUE, *Morning Post*, July 11th, 1900
-:class: dropdown seealsoIn *Morning Post*, [Wednesday 11 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/19000711/052/0008)
+:class: dropdown seealso
+
+In *Morning Post*, [Wednesday 11 July 1900](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/19000711/052/0008)
 
 WORK FOR THE ARMY LEAGUE  
 TO THE EDITOR OF THE MORNING POST.
