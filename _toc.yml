@@ -47,6 +47,7 @@ parts:
   - file: grateful_dead
   - file: lay_of_the_werewolf
   - file: peronella
+  - file: dudley_devil
 - caption: Legends As Told
   chapters:
   - file: richmond_drummer_boy
