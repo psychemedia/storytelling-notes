@@ -339,7 +339,7 @@ I'm not sure if we are to take from the following the idea that the press-gang c
 :class: dropdown
 In *Saint James's Chronicle*, [Tuesday 30 July 1805](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18050730/003/0001).
 
-A curious circumstance took place at Brighton on Friday last:— A farmer, who rents the race-ground, having explained to the Jockey Club, that last season he had not received the usual compliment of onefourth of a pipe of wine, threatened to plough up the course if he was not paid what he conceived to be his due. Accordingly, on Friday last he set his plough to work; but a press-gang appearing, the ploughmen fled, and resigned the field to the gentlemen of the turf. The farmer, however, says, he will not be jockeyed out of his wine in this manner, and is determined to have another sort of a race for it in Westminster-Hall.
+A curious circumstance took place at Brighton on Friday last:— A farmer, who rents the race-ground, having explained to the Jockey Club, that last season he had not received the usual compliment of one-fourth of a pipe of wine, threatened to plough up the course if he was not paid what he conceived to be his due. Accordingly, on Friday last he set his plough to work; but a press-gang appearing, the ploughmen fled, and resigned the field to the gentlemen of the turf. The farmer, however, says, he will not be jockeyed out of his wine in this manner, and is determined to have another sort of a race for it in Westminster-Hall.
 
 ```
 
@@ -520,7 +520,7 @@ Jenkins had written from Malta, as from the surgeon of the hospital, stating, th
 Rage and disappointment threw Potts into a dangerous as fever, from which he did not thoroughly recover for many months. But though reduced to sad straits, bandied about as an unattached pauper from parish to parish, he persistently refused accept any dole from Jenkins or his wife—finally settling down in Greenwich Hospital his admission whereto was not effected without much difficulty. generally wound up his yarn with some doggerel lines, fiercely vituperative of the iniquitous pressing system, illustrating his own experience—which would, however, scarcely repay quotation. —*St. James' Magazine.*
 ```
 
-After making good an escape from the press by boat on one occasion, on returning the said boat, one unfortunate young was caught up again:
+After making good an escape from the press by boat on one occasion, on returning the said boat, one unfortunate young man was caught up again:
 
 ```{admonition} *Ran into a boat*, July, 1801
 :class: dropdown
