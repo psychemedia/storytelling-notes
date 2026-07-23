@@ -405,7 +405,7 @@ He closed his eyes and fell back, so that his friend thought him dying. The grea
 
 And with one last mighty effort he sped his shaft out of the open window, straight and true, as in the days of old, till it struck the largest oak of them all and dropped in the shadow of the trees. Then he fell back upon the sobbing breast of his devoted friend.
 
-"Tis the last!"" he murmured, "tell the brave hearts to lay me there with the green sod under my head and feet. And—let them lay—my bent bow at my side, for it has made sweet music in mine ears."
+"Tis the last!" he murmured, "tell the brave hearts to lay me there with the green sod under my head and feet. And—let them lay—my bent bow at my side, for it has made sweet music in mine ears."
 
 He rested a moment, and Little John scarce knew that he was alive. But on a sudden Robin's eye brightened, and he seemed to think himself back once more with the band in the open forest glade. He struggled to rise.
 
