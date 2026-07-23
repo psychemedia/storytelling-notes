@@ -156,4 +156,4 @@ Five (up to seven) part telling:
 
 Two part telling: split at the point where Branwen sends the starling to her brother...
 
-With *Stories'n'Harp*, we also have a shortened version, "Branwen's Lament", presented as a *cante fable* with verses originally inspired by *The Foxglove Trio*'s "".
+With *Stories'n'Harp*, we also have a shortened version, "Branwen's Lament", presented as a *cante fable* with verses originally inspired by *The Foxglove Trio*'s".
