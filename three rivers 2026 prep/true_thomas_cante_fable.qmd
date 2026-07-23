@@ -1,0 +1,282 @@
+---
+title: "Monty + Sue — Two Sisters"
+format:
+  html:
+    theme: cosmo
+    css: songs.css
+    toc: true
+    toc-title: "Contents"
+    embed-resources: true
+  pdf:
+    filters:
+      - strike-pdf.lua
+    geometry:
+      - top=1cm
+      - bottom=1cm
+      - left=1cm
+      - right=1cm
+    include-in-header:
+      text: |
+        \usepackage{ulem}
+        \normalem
+---
+
+## True Thomas {.song}
+
+*Words after Walter Scott*
+
+::: {.structure-label}
+Intro – our version
+:::
+
+__*Another Scots tale, another Scots ballad, this time based on the words of a poem by Sir Walter Scott.*__
+
+::: {.verse}
+::: {.bracket-group}
+True Thomas lay on Huntley bank:  
+A fairly he spied wi' his ee;  
+And there he saw a lady bright,  
+Come riding down by the Eildon Tree.
+:::
+:::
+
+
+__Thomas was the laird of Erceldoune, something of a wide boy, who'd let slip with the truth if it served his purpose. It's not likely that he'd be remembered today — *and he is still remembered today* — if it hadn't been for that horse he'd heard approaching as he sat on the Huntley Bank that day. But hear it he did, and see her he did, that most majestic of ladies, riding on the horse's back.__
+
+
+::: {.verse}
+::: {.bracket-group}
+Her shirt was of the grass green silk,  
+Her mantle of the velvet tyne;  
+At every lock of her horse's mane,  
+Hang fifty silver bells and nine.
+:::
+:::
+
+__And Thomas took off his cap, bowed low, and greeted her with due reverence, for surely she was the Queen of Heaven, the mother of God, the Blessed Mary herself.__
+
+::: {.content-visible when-format="html"}
+::: {.verse .cut}
+::: {.bracket-group}
+True Thomas, he pulled of his cap,  
+And fell down low upon his knee —  
+Saying "Hail to thee, mighty Queen of Heaven  
+For your peer on earth could never be."
+:::
+:::
+:::
+
+::: {.verse}
+::: {.bracket-group}
+— "O no, O no, Thomas," she said;  
+"That name does not belong to me;  
+I am but the Queen of fair Elfland,  
+That's hither come to visit thee.
+:::
+:::
+
+::: {.verse}
+::: {.bracket-group}
+"Harp and carp, Thomas," she said;  
+"Harp and carp along with me:  
+For if you dare to kiss my lips,  
+Sure of your body I will be."
+:::
+:::
+
+__Now Thomas was a lusty young man, and at the thought of spending time with this beautiful lady, well... he would gladly give his body and soul to her, or at least, that's what he'd tell her, if that's what it took, and as they spoke beneath the Eelden tree, he reached up to kiss her ruby red lips, and so the deal was done.__
+
+::: {.content-visible when-format="html"}
+::: {.verse .cut}
+::: {.bracket-group}
+"Well betide me well, or betide me woe,  
+That weird shall never daunten me."  
+An he has kissed her ruby lips,  
+All underneath the Eildon Tree.
+:::
+:::
+:::
+
+::: {.verse}
+::: {.bracket-group}
+"Now, ye must come with me," she said;  
+"True Thomas, ye must come with me:  
+And you must serve me seven years,  
+Through well or woe as chance may be."
+:::
+:::
+
+__It was, perhaps, a bit like *that* scene in Four Weddings and Funeral, the morning after the first wedding the night before — "so when were you thinking of announcing the engagement?" — when Thomas realised that maybe she was serious, maybe some bargain had just been made, that maybe he had sold himself into servitude for seven years.__
+
+::: {.content-visible when-format="html"}
+::: {.verse .cut}
+::: {.bracket-group}
+She mounted on her milk-white steed;  
+And taken true Thomas up behind;  
+And aye, whenever her bridle rang,  
+The steed grew faster than the wind.
+:::
+:::
+:::
+
+__And so they got up on the horse, the Queen up front, and Thomas behind, and with a flick of the reins, the horse was away, as fast as the wind. And before long, they came to wide desert plain. But the horse ran ever faster and though they were soon across it, Thomas just couldn't help himself, and asked: "are we there yet? I'm famished... Absolutely starving..."__
+
+::: {.content-visible when-format="html"}
+::: {.verse .cut}
+::: {.bracket-group}
+They rode on, and further on;  
+The horse ran swifter than the wind;  
+Until they came to a desert wide,  
+And living land was far behind.
+:::
+:::
+:::
+
+::: {.verse}
+::: {.bracket-group}
+And then they came to a garden green,  
+She's pulled an apple from a tree  
+"Take this for wages, True Thomas;  
+It'll give thee a tongue that can never lie."
+:::
+:::
+
+__Now, to some, that may sound like a magical gift. To Thomas... well.... he wasn't so sure. "The truth.. tell *the truth*? Erm, so how would that work? When I'm at the market, for example, trying to sell something that's, you know... Or in Church, when we're told to confess our sins? Or when I enter my lady's chamber..?"__
+
+::: {.content-visible when-format="html"}
+::: {.verse .cut}
+::: {.bracket-group}
+—"My tongue's my own," true Thomas said;  
+"A goodly gift ye would give to me!  
+I'd neither dare to buy nor sell.  
+At fair or tryst where I might be.
+:::
+:::
+
+::: {.verse .cut}
+::: {.bracket-group}
+"And I dare not speak to prince or peer,  
+Nor ask of grace from fair ladye."— 
+:::
+:::
+:::
+
+::: {.verse}
+::: {.bracket-group}
+*"NOW HOLD THY PEACE,"* __THE LADY SAID,__  
+*"FOR AS I SAY, SO MUST IT BE."*
+:::
+:::
+
+::: {.verse}
+::: {.bracket-group}
+— "Light down, light down, Thomas", she said,  
+"And lean your head upon my knee:  
+Abide and rest a little space,  
+And I will show you wonders three.
+:::
+:::
+
+__And the wonders she showed him were wondrous indeed.__
+
+__To the left was a path, a narrow path, overgrown with brambles and briers: 'the path of righteousness', she said, 'though few go that way'.__
+
+::: {.content-visible when-format="html"}
+::: {.verse .cut}
+::: {.bracket-group}
+"O see ye not yon narrow road,  
+So thick beset with thorns and briers?  
+That is the path of righteousness,  
+Though after it but few enquires.
+:::
+:::
+:::
+
+__Before them, across another wide open plain, the broadest of roads. "Looks easy, doesn't it?" she said, "appealing. That is the path of wickedness, the road to hell, though many set off down it thinking it the path to heaven."__
+
+::: {.content-visible when-format="html"}
+::: {.verse .cut}
+::: {.bracket-group}
+"And see not ye that broad broad road,  
+That lies across that lily leven?  
+That is the path of wickedness,  
+Though some do call it the road to heaven.
+:::
+:::
+:::
+
+__To the right, a bridleway, on either side a hedgerow, peppered with foxgloves and other wild flowers. "The road we must take, the road to elfinland."__
+
+::: {.content-visible when-format="html"}
+::: {.verse .cut}
+::: {.bracket-group}
+"And see not ye that bonny road,  
+That winds about the ferny brae?  
+That is the road to fair Elfland,  
+Where you and I this night must go.
+:::
+:::
+:::
+
+__And they took that path, and before long they came to a fast flowing river, running clear as crystal, and Thomas asked his lady what river it was. And she told him: "the river of tears, made from all tears that are cried on this earth in one day."__
+
+::: {.content-visible when-format="html"}
+::: {.verse .cut}
+::: {.bracket-group}
+For forty days and forty nights,  
+They waded red blood to the knee;  
+And they saw neither sun nor moon,  
+But they heard the roaring of the sea.
+:::
+:::
+:::
+
+__And they crossed the river, and rode further on. And they came to another, this time flowing a deep, dark red. "And this is the river of blood, made from all the blood that is shed on this earth in one day."__
+
+__And they rode on. And as they got closer to Elfinland, the Fairy Queen addressed Thomas again.__
+
+::: {.content-visible when-format="html"}
+::: {.verse .cut}
+::: {.bracket-group}
+It was dark, dark night, there was no starlight,  
+They've waded through red blood on either hand;  
+For all the blood that's shed on earth,  
+Flows through the rivers of that land.
+:::
+:::
+:::
+
+::: {.verse}
+::: {.bracket-group}
+"Oh, Thomas, you must hold your tongue.  
+Whatever ye may hear or see;  
+For, if you speak word in Elflyn land,  
+You'll ne'er get back to your own country."—
+:::
+:::
+
+__And so it was that Thomas entered into the Fairy realm, where he was treated well, though he spoke only to the fairy queen. And everything around him was just — more. The sounds were crisper, the colours more vivid, the people were beautiful, the music was magical, and the clothes were fantastic.__
+
+::: {.verse}
+::: {.bracket-group}
+He has gotten a cloth of the even cloth,  
+And a pair of shoes of velvet green;  
+And, till seven years were gone and past,  
+True Thomas on earth was never seen.
+:::
+:::
+
+__And though it felt to Thomas as if he'd only been there for three days, when he returned home it had been seven years. And when the people asked him where he'd been, he could only tell them the truth. And they weren't necessarily convinced about that.__
+
+__But he'd been given another gift too, of foresight. "What nonsense", they'd said, "can you prove it?" And though it was a fine summer's day, he told them a storm was coming, that it would ravage Scotland. And they laughed at him, and said he was mad. And then they saw a horse approaching, a messenger: the king of Scotland was dead, and a time of unrest would come to that land.__
+
+__And from that day, Thomas made many prophecies, and put them into rhyme, of future kings and queens of Scotland, of Scotland's own future, and, over the centuries, the prophecies have come to be proven true.__
+
+::: {.verse}
+::: {.bracket-group}
+True Thomas had laid on Huntley bank:  
+A fairly he spied wi' his ee;  
+And then he seen a lady bright,  
+Come riding down by the Eildon Tree.
+:::
+:::
