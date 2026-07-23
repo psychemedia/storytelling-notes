@@ -220,7 +220,7 @@ And he took Death home with him. And Death stood sponsor for his child.
 
 "And how," says the Tinker, says he, 'tam I to know?"
 
-'""T'll tell you that," says Death. "When you're brought into a sick-room you will always see me standing either at the head or the foot of the bed. If Iam standing at the bed-foot, you are at liberty to use the bottle and cure the patient, but if you see me standing at the bed-head, then you are not to interfere at your peril; for I have come for that sick man."
+'"I'll tell you that," says Death. "When you're brought into a sick-room you will always see me standing either at the head or the foot of the bed. If Iam standing at the bed-foot, you are at liberty to use the bottle and cure the patient, but if you see me standing at the bed-head, then you are not to interfere at your peril; for I have come for that sick man."
 
 The Tinker agreed to this, and thanked him right heartily. And then, all at once, he set up for a doctor.
 
