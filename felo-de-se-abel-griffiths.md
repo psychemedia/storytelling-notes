@@ -2,6 +2,85 @@
 
 TO DO
 
+
+https://archive.org/details/bim_eighteenth-century_commentaries-on-the-law_blackstone-sir-william_1770/page/189/mode/1up
+[Commentaries on the laws of England. vol. 4]. Commentaries on the laws of England. Book the fourth. By William Blackstone, ...  1770
+by Blackstone, Sir William. 1770
+Chapter 14
+
+p189-90
+SELF-MURDER, the pretended heroiſm, but real cowardice, of the Stoic philoſophers, who deſtroyed themſelves to avoid thoſe ills which they had not the fortitude to endure, though the attempting it ſeems to be countenanced by the civil law (0), yet was puniſhed with cutting off the hand, which committed the deſperate deed (p). And alſo the law of England wiſely and religiouſly conſiders, that no man hath a power to deſtroy life, but by commiſſion from God, the author of it: and, as the ſuicide is guilty of a double offence; one ſpiritual, in invading the prero-
+
+gative' of the Almighty, and ruſhing into his immediate
+
+preſence uncalled for; the other temporal, againſt the king who hath an intereſt in the preſervation of all his ſubje&s; the law has therefore ranked this among the higheſt crimes, making it a peculiar ſpecies of felony, a felony committed on oneſelf, A felo de ſe therefore is he that deliberately puts an end to his own exiſtence, or commits an unlawful malicious act, the conſequence of which is his own death as if, attempting to kill another, he runs upon his antagoniſt's ſword ; or, ſhooting at another, the gun burſts and kills himſelf (q). The party muſt be of years of diſcretion, and in his ſenſes, elſe it is no crime. But this excuſe ought not to be ſtrained to that length, to which our coroners” jurics are apt to carry it, v/z. that the very act of ſuicide is an evidence of inſanity ; as if every man who acts contrary to reaſon, had no reaſon at all: for the fame argument would prove every other criminal non compos, as well as the ſel{-murderer. The law very rationally judges, that every melancholy or hypochondriac fit does not deprive a man of the capacity of diſcerning right from wrong; which is neceſſary, as was obſerved in a former chapter (r), to form
+
+(0) ** $i guis impatientia doleris, aut (p] Pott. Antiqu. b. 1. c. 26. « taedio witar, aut morho, aut furere, (q) 1 Hawk. P. C. 68. 1 Hal. P. C. « aut pud:re, mori maluit, nan animad- 413. ges 1a1ur ia eum. Ff. 49. 16. 6. (r) See pag. 24,
+
+a legal excuſe. And therefore, if a real lunatic kills himſelf in a lucid interval, he is a felo de ſe as much as another man (s).
+
+Bur now the queſtion. follows, what puniſhment can human laus inflict on one who has withdrawn himſelf from their reach? They can only act upon what he has left behind him, his reputation and ſortune: on the former, by an ignomimous burial in the highway, with a ſtake driven through his body; on the latter, by forfeiture of all his goods and chattels to the king: hoping that his care for either his own reputation, or the welfare of his family, would be ſome motive to reſtrain him from ſo deſperate and wicked an act. And it is obſervable that this forfeiture has relation to the time of the act done in the felon's lifetime, which was the cauſe of his death. As if huſband and wife be poſſeſſed jointly of a term of years in land, and the huſband drowns himſelf; the land ſhall be forfeited to the king, and the wife ſhall not have it by ſurvivorſhip. For by the act of caſting himſelf into the water he forfeits the term; which gives a title to the king, prior to the wife's title by ſurvivorſhip, which could not acrue till the inſtant of her huſband's death (t). And, though it muſt be owned that the letter of the law herein borders a little upon ſeverity, yet it is ſome alleviation that the power of mitigation is left in the breaſt of the ſovereign, who upon this (as on all other occaſions) is reminded by the oath of his office to execute judgment in mercy,
+
+
+
+https://archive.org/details/bim_eighteenth-century_a-full-inquiry-into-the-_moore-charles_1790_1/page/320/mode/2up?q=buried
+A full inquiry into the subject of suicide. To which are added ... two treatises on duelling and gaming. In two volumes. By Charles Moore, ...  1790: Vol 1
+by Moore, Charles
+
+Publication date 1790
+
+p319
+
+1 Form of a finding of a coroner's jury, when the verdict is felo de ſe. —(UMFREVILLE, Vol. II. 3
+
+1 That the ſaid A. B. not having the fear of God before his eyes, but moved and ſeduced by the inſtigation of the devil, with force and arms in and upon himſelf feloniouſly, wilfully and of his malice aforethought, did make an aſſault - (then the particular mode of his death is deſcribed)—and in conſequence died. And the jurors upon their oaths do ſay, that the faid A. B. in manner and. by the means aforeſaid, fejonioully, wilfully and of his malice aforethought, did kill and murder himſelf, againſt the peace of our Lord the King, his crown and dignity, And that the ſaid A. B. at the ins of the committing the felony and murder aforeſaid, had {or had not, as circumſtances require) goods or chattels, &c. to the beſt of our knowledge.” Which verdict of felo de ſe being recorded by the coroner, he iſſues the following warrant for the diſpoſal of the body. Whereas by an inquiſitioan taken before me, one of his Majeſty's coroners, (on ſuch a day and place) on view of the body of A. B. then and there lying dead, the Jurors, in the ſaid inquiſition named, have found that the ſaid A. B. feloniouſly, wilfully and of his malice aforethought killed and murdered himſelf—Theſe are therefore by virtue of my office to will and require you forthwith to cauſe the body of the faid A. B. to be buried in ſome public highway, and thereof to certify to me the place; and for your ſo doing this is your warrant." Signed and ſealed by the coroner; and directed to the eee aud conſtables of the pariſh.
+
+Form of the certificate or return indorſed.—< By virtue of the within warrant to us directed, we have cauſed the body of the ſaid A. B. to be buried in a place (deſcribing it) in "We ſaid mom "bing | in the king's highway." Signed by churchwardens and conſtable.
+
+pp320-2
+TO DO
+
+Though the burial of the body in a decent and chriſtian- like manner be of no real conſequence. to the deceaſed, yet there are few fo callous to the imprefſions of ſhame, or ſo totally indifferent in the matter, as not to be affected in ſome meaſure, while living, with the thoughts of what is to become of their bodies when dead. Many indeed diſcover a wonderful anxiety on this head; of which, the ſpecial directions they leave behind them for the difpoſat of their bodies, and for all the funeral ceremonials, are ſo many proofs: and nothing would hurt the ſenſibility of ſuch perſons in an higher degree than the idea of indignities to which they might be expoſed after death. Now the legiſlature prudently [x] endeavours to arreſt and convert this ſolicitude to beneficial purpoſes. For if it be grateful to anticipate, while living, any refpect that may probably be paid to our ſeuſeleſs corpſe, — ſuch as the attendance of ſorrowing friends on our funeral rites, the praiſes they may be inclined to beſtow on our memory on that ſolemn occaſion; if theſe ideas be conſolatory to a mind looking forwards to the grave, then to think we may be denied the common rites of burial, and have our names branded with diſgrace and infamy, 1 ts at once to root out of the
+
+| breaſt all ſuch grateful ſenſations, and to plant in their room nought but dark and gloomy apprehenſions: but this might ſometimes deter a man from committing an action, which he knew muſt neceſſarily involve ſuch diſmal conſequences. For ſince peculiar honours paid to the dead body and memory of one, who ſupported a great character in life, are found to be efficacious in influencing to good and praiſe-worthy ations, why ſhould not the impending Horrors of diſgrace and ignominy after death, have a proportionable effect in deterring from bad ones? If a Pericles could be ſuppoſed to enflame the ardour of the Athenian youths by celebrating the valour of departed heroes in a public funeral oration, why ſhould we not incline to believe, that the old Egyptian cuſtom of fitting in judgment on the conduct of the deceaſed before burial was permitted, was founded in wiſdom, and might equally ſerve to intimidate from vice and to ſtrike an awe and reverence for virtue into the breaſts of the living?
+
+Under this refuſal of chriſtian burial the law of the land ſeems actually to leave the body of the ſuicide; ſince it orders no further indignities to be
+
+[x] Neque huic mori obſtat,—* nihil ſentire mortuos,” quare nec damno nec pudore affici. Satis enim eſt id quod mortuis accidit a vivis metui, ut hoc pacto a peccato retrahantur.— GROrIUS, De
+
+
+practiſed upon it, as it does in many other countries, It is of, courſe excluded from interment in conſecrated ground, and the warrant. of the coroner. only requires, that the body ſhall be buried in ſome public highway. z By virtue of this authority the body of the ſelf-murderer 1 is caſt with the burial of a. dog into an hole dug in ſome public highway, which fulfils the law 1 in this nod. But in ſome places an additional (though not an enjoined) 1 ignominy 18 practiſed, which conſiſts in driving a ſtake through the body, and alſo inſeribing the name and crime on a board above—* as a dreadful memorial to every paſſenger, how Ahe ſplits on the rock of ſelf· murder. 3 on But the power of the legiſlature i is alſo exerciſed over the. property, ng the ſelf-murderer has left behind him. It is truſted that ſome uſe may be made of ſuch a diſpoſal of his property, as may poſſibly deter others from committing the like enormity. For whilſt a man has any feelings of humanity for others left in his breaſt, he will be cautious of committing a crime, which may involve his moſt intimate, connexions, his wife, his children, in poverty and ruin. It is judicious therefore on ſome accounts (as well as juſtifiable on the ſame | principles as penal laws proceed to forfeiture of property in other caſes) to hang this threatening over the head of one, who meditates ſuicide, viz. that his innocent | family. muſt be wretched ſufferers by his guilt ; that the property, which they have been taught to expect at his death, and in conſequence the mode of education and living they have hitherto ſupported, muſt give way per haps to ſudden | penury, without fault of their own ; and thus they be not only deprived i in the moſt ſhocking manner of their natural protector, but together with him and by his means, of all the comforts and enjoyments of life, In order therefore to 10uſe ſenſations of humanity in behalf of his family, and thus to ſtrike a preventive terror of ſuicide, as alſo to pay due attention to the injured rights of ſociety and juſtice in the beſt manner it is able, the law [v) confiſcates all th; perſonal property ar. a. felo de ſe for the uſe of the crown. Thus the eil —
+
+[y] Nec vero me fugit, quam. fit acerbum parentis ſcelera filiorum apa lui. Sed hoc preclare legibus comparatum eſt, ut caritas liberorum amiciores parentes reipublice redderet. Fx Lepidus | crudelis in liberos, non is qui Lepidum hoſtem jule. is, ad Brutum, Ep. Kli 9101 avg
+
+It is not the law which in this caſe acts unjuſtly by the family of a ſuicide (ſince the law has ed to the good of the whole community and not to the partial intereſts of an individual) but 2 7 elf. wurerer himſelf, who is thus atrocious and cruel to his neareſt connexions
+
+; 3 {1 ö | 1 4 ! .ÞF " ' g b Wy * : {8 . 1 'FI . Wi 70 1 5 k 1 1 it is * 367
+
+PR — —— —
+
+—— 82 *
+
+INT _ OY — > — — . 3G. ni ents SEE — 8
+
+— —— —
+
+2 FRO
+
+met — — : =
+
+1 — — n 2 —— — » 1 — ho »
+
+> 2 ˙ ">. — Wy eras — On OST — —r˖X/Qœ AD» —uuia — — . —_— — 9 5e. —Y wy 22
+
+*
+
+—
+
+ture exerts all the power it has over the ſelf-murderer, by amercing him in his "reputation" and in his late "poſſeſſions" and though the offender himſelf feels the effects of neither, yet who will be bold enough to affirm, that if ſuch penalties were but impartially and generally enforced, they might not have their "preventive" uſes in many caſes? and the prevention of crimes is the beſt aim of all human puniſhment. It is of no conſequence to maintain, that notwithſtanding the ſevereſt execution of theſe laws ſelf-murder would ſtill prevail; ſo does every other crime, notwithſtanding its puniſhment. But it does not thence follow, that all crimes would not increaſe and multiply upon us, were there "no puniſhment" at all annexed to their commiſſion.
+
+---
+
 Last *felo de se* to be buried at a crossroads... But it wasn't quite that simple...
 
 In *Morning Post*, [Tuesday 24 June 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18230624/016/0003).
