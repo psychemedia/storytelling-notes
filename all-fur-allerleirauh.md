@@ -8,12 +8,8 @@ Household stories collected by the brothers Grimm, tr., with illustr. by E.H. We
 
 
 
-https://archive.org/details/grimmshouseholdt01grim/page/276/mode/2up
-Grimm's household tales: with the author's notes.
 
-p277-282
-
-Notes, p429-430
+*Grimm's household tales: with the author's notes*, [p277-282](https://archive.org/details/grimmshouseholdt01grim/page/276/mode/2up), (notes: p429-430).
 
 TO DO
 
@@ -23,30 +19,24 @@ Consists of stories from Hesse and Paderborn; the last varies in some particular
 
 
 
-https://archive.org/details/grimmsgoblinsgri00grim/page/254/mode/2up
-Grimm's goblins: Grimm's household stories
-by Grimm, Jacob, 1785-1863; Grimm, Wilhelm, 1786-1859; Taylor, Edgar, 1793-1839; Cruikshank, George, 1792-1878, illustrator
 
-Publication date 1876
-
-p255-60
+*Grimm's goblins: Grimm's household stories*, transl. Edgar Taylor,illus. Goerge Cruikshank, 1876, [p255-60](https://archive.org/details/grimmsgoblinsgri00grim/page/254/mode/2up)/
 
 Cat-Skin
 
 
-https://archive.org/details/folklorerecord3118unse/page/n9/mode/2up?q=allerleirauh
 
-THE FOLK-LORE RECORD,
+---
 
-VOL III. PART I.
 
-1880
+
+The Folk-lore Record, Vol. III. part I, 1880, [pp1-25](https://archive.org/details/folklorerecord3118unse/page/n9/mode/2up).
+
 
 CATSKIN: THE ENGLISH AND IRISH PEAU D'ANE.
 
 HENRY CHARLES COOTE.
 
-pp1-25
 
 
 
