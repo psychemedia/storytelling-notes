@@ -1,15 +1,13 @@
 # Little Fairly
 
-See also hudden and dudden, molly whuppie
+See also Hudden and Dudden, Molly Whuppie
 
 Popular tales and fictions: their migrations and transformations
 by Clouston, W. A. (William Alexander), 1843-1896
 
 Publication date 1887
 
-pp229-288
-
-Little Fairly
+[pp229-288](https://archive.org/details/populartalesand01unkngoog/page/228/mode/2up).
 
 LITTLE FAIRLY.
 
