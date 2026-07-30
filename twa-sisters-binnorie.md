@@ -14,7 +14,9 @@ The gist of the tale, combining elements from several versions of the ballad col
 >
 > Some while later, the harper passed that way again, heading up-river to play at a wedding, the daughter of a local Lord. He noticed the mill-owner's daughter, dressed finely, as he passed, then, a little further up the way, a break in the hedgerow, a strip of fine cloth, from a ripped golden girdle. He peered through the break — a pile of bones, long strands of golden hair.
 >
-> TO DO
+> And recalling one of the old stories, it gave him an idea. HE fashioned an instrument from the bones, strung it with the hair. And made his was to where he was going: to play at a wedding. The wedding of the eldest daughter of a local lord, to her brother's best friend.
+>
+> He played his trusty old fiddle, and they danced, and they danced and he played and the: a string broke. And he thought he'd try the new fiddle... but it would only play one tune. And the face of the bride paled...
 
 
 ```{admonition} In Joseph Jacobs, *English Fairy Tales*, 1890
