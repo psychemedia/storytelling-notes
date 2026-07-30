@@ -73,13 +73,13 @@ The master's son had been reckoning on seeing her, and he danced with no one els
 
 Next day they says to her again, 'Well, Cap o' Rushes, you should ha' been there to see the lady. There she was again, gay and ga', and the young master he never took his eyes off of her.'
 
-Well, there,' says she, 'I should ha' liked to ha' seen her.'
+'Well, there,' says she, 'I should ha' liked to ha' seen her.'
 
 'Well, says they, 'there's a dance again this evening, and you must go with us, for she's sure to be there'
 
 Well, come the evening, Cap o' Rushes said she was too tired to go, and do what they would she stayed at home. But when they was gone she offed with her cap o' rushes and cleaned herself, and away she went to the dance.
 
-The master's son was rarely glad when he saw her. He danced with none but her and never took his eyes off her. When she wouldn't tell him her name, nor where she came from, he gave her aring and told her if he didn't see her again he should die.
+The master's son was rarely glad when he saw her. He danced with none but her and never took his eyes off her. When she wouldn't tell him her name, nor where she came from, he gave her a ring and told her if he didn't see her again he should die.
 
 Well, afore the dance was over off she slipped, and home she went, and when the maids came home she was framing to be asleep with her cap o' rushes on.
 
