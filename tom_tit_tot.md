@@ -1,11 +1,10 @@
 # Tom Tit Tot and the Three Spinners
 
-In the summer of 2025, in one of his late night shows at Wickham Festival, I head Cliff Eastabrook, aka *The Travelling Talesman*, tall *Tom Tit Tot*, the English variant of *Rumpelstiltskin* followed by its sequel, *The Gypsy Woman*, itself a variant of Grimm's *The Three Spinners* (Neil Phillip also places the tales next to each other in *The Watkins Book of English Folktales*). I'm pretty sure I've heard this combination before, back in the day, but it was good to be reminded of it. Some time later, I came across a Devonshire variant of the tale (*Duffy and the Devil*) in the *Bristol Mercury* from 1867, and then a longer variant of *that* tale, based on a Christmas play, which presents the naming game *and* the trick to avoid spinning in the future, as a single tale.
+In the summer of 2025, in one of his late night shows at Wickham Festival, I heard Cliff Eastabrook, aka *The Travelling Talesman*, tell *Tom Tit Tot*, the English variant of *Rumpelstiltskin*, followed by its sequel, *The Gypsy Woman*, itself a variant of Grimm's *The Three Spinners*; (Neil Phillip also places the tales next to each other in *The Watkins Book of English Folktales*). I was pretty sure I'd heard that combination before, back in the day, but it was good to be reminded of it. Some time later, I came across a Devonshire variant of the tale (*Duffy and the Devil*) in the *Bristol Mercury* from 1867, and then a longer variant of *that* tale, based on a Christmas play, which presents the naming game *and* the trick to avoid spinning in the future, as a single tale.
 
-This storynote pulls together several versions of the tale, and its sequel, which alos works as a standalone tale, starting with *Tom Tit Tot*.
+This storynote pulls together several versions of the tale, and its sequel, which also works as a standalone tale, starting with *Tom Tit Tot*.
 
 *As ever, detailed comparisons of the tales are not provided here. The intention is simply to provided a convenient collection of story variants for storytellers to draw on in their own story research and preparation.*
-
 
 ## Tom Tit Tot, and The Gipsy Woman
 
@@ -14,10 +13,9 @@ The tale of *Tom Tit Tot* first make its appearance in the *Suffolk Notes and Qu
 ```{admonition} Tom Tit Tot, 1878
 :class: dropdown
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000071/18780115/002/0001
-Ipswich Journal - Tuesday 15 January 1878
+In *Ipswich Journal*, [Tuesday 15 January 1878](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000071/18780115/002/0001).
 
-Suffolk Notes and Querie. `[sic]`
+*Suffolk Notes and Querie.* `[sic]`
 
 No. XLIII
 
@@ -53,7 +51,8 @@ The gal she went, an' she looked, and there warn't nothin' but the dishes. So ba
 
 Well, the woman she was wholly bate, and she took her spinnin' to the door to spin, and as she spun she sang:
 
-"My darter ha' ate five pies to-day,—"My darter ha' ate five, five pies to-day."
+"My darter ha' ate five pies to-day,—  
+"My darter ha' ate five, five pies to-day."
 
 The king he were a comin' down the street, an' he hard her sing, but what she sang he couldn't hare, so he stopped and said,
 
@@ -61,7 +60,8 @@ The king he were a comin' down the street, an' he hard her sing, but what she sa
 
 The woman she were ashamed to let him hare what her darter had been a doin', so she sang 'stids o' that:
 
-"My darter ha' spun five, five skeins to-day. — "My darter ha' spun five, five skeins to-day."
+"My darter ha' spun five, five skeins to-day. —  
+"My darter ha' spun five, five skeins to-day."
 
 "S'ars o' mine!" said the king. "I never heerd tell of anyone as could do that."
 
@@ -197,11 +197,7 @@ The tale was republished just over twenty years later, in *Merry Suffolk*, along
 ```{admonition} The best versions, 1899
 :class: dropdown
 
-https://archive.org/details/merrysuffolkmast00fiso
-Merry Suffolk; Master Archie and other tales;
-by Fison, Lois A; Thomas, Walter, Mrs, 1899
-
-Publication date 1899
+Lois A Fison &  Mrs. Thomas, *Merry Suffolk; Master Archie and other tales*, 1899, [1899](https://archive.org/details/merrysuffolkmast00fiso).
 
 PREFACE
 
@@ -233,15 +229,9 @@ The opening few lines of *Tom Tit Tot* differ slightly in language to the versio
 ```{admonition} Tom Tit Tot, 1899
 :class: dropdown
 
-https://archive.org/details/merrysuffolkmast00fiso
-Merry Suffolk; Master Archie and other tales;
-by Fison, Lois A; Thomas, Walter, Mrs, 1899
-
-Publication date 1899
+Lois A. Fison & Mrs. Thomas, *Merry Suffolk; Master Archie and other tales*, 1899, [pp. 9-17](https://archive.org/details/merrysuffolkmast00fiso).
 
 "TOM TIT TOT" & SEQUEL BY MRS. WALTER THOMAS.
-
-pp. 9-17
 
 TOM TIT TOT.
 
@@ -267,11 +257,7 @@ The sequel is given the title *The Gipsy Woman*.
 ```{admonition} Tom Tit Tot Sequel, 1899
 :class: dropdown
 
-https://archive.org/details/merrysuffolkmast00fiso
-Merry Suffolk; Master Archie and other tales;
-by Fison, Lois A; Thomas, Walter, Mrs, 1899
-
-pp. 18-22
+Lois A. Fison & Mrs. Thomas, *Merry Suffolk; Master Archie and other tales*, 1899, [pp. 18-22](https://archive.org/details/merrysuffolkmast00fiso).
 
 THE GIPSY WOMAN.
 
@@ -356,11 +342,8 @@ The book was reviewed by E. Sidney Hartland in the *Folklore* hournal a year lat
 ```{admonition} A little book of genuine folklore, 1900
 :class: dropdown
 
-https://archive.org/details/folklore11folkuoft/page/204/mode/2up?q=%22merry+suffolk%22
 
-
-Folklore Vol. XL JUNE, 1900. [No. II.
-pp204-6
+Folklore Vol. XL June, 1900, No. II., [pp204-6](https://archive.org/details/folklore11folkuoft/page/204/mode/2up).
 
 Merry Suffolk, Master Archie, and other Tales : a Book of Folklore. By Lois A. Fison. With which is included "Tom Tit Tot" and Sequel, by Mrs. Walter Thomas. London: Jarrold & Sons. 1899.
 
@@ -381,14 +364,7 @@ From the *Folk-lore Journal* source, the tale of *Tom Tit Tot* then seems to hav
 
 ```{admonition} Jacobs, notes, 1899
 :class: dropdown
-
-https://archive.org/details/englishfairytal00jacogoog/page/n18/mode/2up?q=%22tom+tit%22
-English Fairy Tales
-by Joseph Jacobs
-
-Publication date 1890
-
-pp. 1-8
+Joseph Jacobs, *English Fairy Tales*, 1890, [pp. 1-8](https://archive.org/details/englishfairytal00jacogoog/page/n18/mode/2up).
 
 Note pp. 229-30
 
@@ -407,8 +383,7 @@ Edward Clodd certainly seems to have taken the tale to heart, taking his paper o
 ```{admonition} Philosophising upon a Suffolk Folk-tale, 1893
 :class: dropdown
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000071/18931007/046/0008
-Ipswich Journal - Saturday 07 October 1893
+In *Ipswich Journal*, [Saturday 07 October 1893](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000071/18931007/046/0008).
 
 AN OLD SUFFOLK FOLK-TALE.
 
@@ -486,7 +461,7 @@ The story itself TO DO
 ```{admonition} Duffy and the Devil, 1867 (1865)
 :class: dropdown
 
-*Bristol Mercury* of [Saturday 31 August 1867](https://britishnewspaperarchive.co.uk/viewer/bl/0000034/18670831/017/0006)
+In *Bristol Mercury*, [Saturday 31 August 1867](https://britishnewspaperarchive.co.uk/viewer/bl/0000034/18670831/017/0006).
 
 DUFFY AND THE DEVIL.
 
@@ -602,14 +577,9 @@ The story, as told by the Drolls, now rambles on. Duffy cannot furnish stockings
 jack - leather drinking 
 
 
-https://archive.org/details/cu31924029890526/page/n8/mode/2up
 
-Traditions and hearthside stories of West Cornwall
-by Bottrell, William, 1816-1881
 
-Publication date 1873
-
-pp. 1-26
+William Bottrell, *Traditions and hearthside stories of West Cornwall*, 1873, [pp. 1-26](https://archive.org/details/cu31924029890526/page/n8/mode/2up).
 
 DUFFY AND THE DEVIL.
 
@@ -1091,7 +1061,6 @@ When the maiden showed the Queen the empty rooms, and the great heap of yarn, sh
 
 Notes, p354-5
 
-
 14. — The Three Spinners.
 
 From a story from the Principality of Corvei, but it is from Hesse that we have the version with the three women, all of whom are afflicted with some peculiar defect caused by spinning. In the former there are only two extremely aged women, who have become so broad from sitting that they can hardly get into the room. They have thick lips from wetting and licking the thread; and from drawing and pulling it they have ugly fingers, and broad thumbs. The story from Hesse begins differently; for instance, that there was a King who liked nothing so much as spinning, and for that reason, on taking leave before going a journey, he left behind him for his daughters, a great chest full of flax which was to be spun by his return. In order to release them from this, the Queen invited these three misshapen women, and on the King's arrival set them before his eyes. Prätorius, in the *Gluckstopf*, pp. 404-406, relates the story in the following way: a mother cannot induce her daughter to spin, and for this reason often beats her. A man who on one occasion sees this, asks what is the meaning of it. The mother answers, "I cannot keep her from spinning; she spins away more flax than I can procure." The man says, "Then give her to me to wife; I shall be quite satisfied with her indefatigable industry, even if she bring me nothing else." The mother is heartily delighted, and the man at once gives his betrothed a great provision of flax. At this she is secretly terrified, but she takes it and puts it in her room, and considers what she is to do. Then three women come in front of her window, one so broad with sitting that she cannot get through the door of the room, the second has an enormous nose, the third a broad thumb. They offer their services to her, and promise the bride to spin what has been given to her if, on her wedding-day, she will not be ashamed of them, but will declare that they are her aunts, and place them at her table. She agrees to this, and they spin the flax, for which the bridegroom praises the bride. So when the wedding-day comes, the three horrible women appear also, and the bride pays them great honour, and says they are her aunts. The bridegroom is astonished, and asks how she comes by such repulsive relatives. "Ah," says the bride, "they have all been made like that by spinning. One of them is so broad with sitting, the other has quite licked away her mouth, and that makes her nose stand out so, and the third has twisted the thread so much with her thumb." Thereupon the bridegroom is much troubled, and tells the bride that she shall not spin another thread so long as she lives that she may not become a monster like them.
@@ -1103,14 +1072,7 @@ A third story from Upper Lusatia, by Th. Pesheck, is in Büsching's *Wöchentlic
 ```{admonition} Rumpelstiltskin, 1884
 :class: dropdown
 
-https://archive.org/details/grimmshouseholdt01grim/page/220/mode/2up
-
-Grimm's household tales : with the author's notes. Vol. 1
-by Grimm, Jacob, 1785-1863; Grimm, Wilhelm, 1786-1859; Hunt, Alfred William, Mrs., 1831-1912; Lang, Andrew, 1844-1912
-
-Publication date 1884
-
-pp.221-4
+Jacob & Wilhelm Grimm, transl. Alfred William Hunt, *Grimm's household tales : with the author's notes*, 1884, Vol. 1, [pp.221-4](https://archive.org/details/grimmshouseholdt01grim/page/220/mode/2up).
 
 55.— RUMPELSTILTSKIN.
 
@@ -1163,13 +1125,7 @@ The task of guessing a name occurs also in a Danish saga. (Thiele, 1. 45) where 
 
 ## The Lazy Beauty and Her Aunts
 
-https://archive.org/details/firesidestorieso00kennrich/page/62/mode/2up
-The fireside stories of Ireland
-by Kennedy, Patrick, 1801-1873
-
-Publication date 1870
-
-pp. 63-7
+Patrick Kennedy, *The fireside stories of Ireland*, 1870, [pp. 63-7](https://archive.org/details/firesidestorieso00kennrich/page/62/mode/2up).
 
 THE LAZY BEAUTY AND HER AUNTS.
 
@@ -1197,17 +1153,11 @@ Thus was the tale ended by poor old *Shebale* (Sybilla) Father Murphy's housekee
 ---
 
 
-https://archive.org/details/grimmshouseholdt2grim/page/162/mode/2up
-Grimm's household tales : with the author's notes.
-by Grimm, Jacob, 1785-1863; Grimm, Wilhelm, 1786-1859; Hunt, Alfred William, Mrs., 1831-1912; Lang, Andrew, 1844-1912
-
-Publication date 1884
-
-pp. 163-5
+Jacob & Wilhelm Grimm, transl. Mrs. Hunt, *Grimm's household tales : with the author's notes*, 1884, [pp. 163-5](https://archive.org/details/grimmshouseholdt2grim/page/162/mode/2up).
 
 128.— THE LAZY SPINNER.
 
-In a certain village there once lived a man and his wife, and the wife was so idle that she would never work at anything ; whatever her husband gave her to spin, she did not get done, and what she did spin she did not wind, but let it all remain entangled in a heap. If the man scolded her, she was always ready with her tongue, and said, "Well, how should I wind it, when I have no reel? Just you go into the forest and get me one." "If that is all," said the man, "then I will go into the forest, and get some wood for making reels." Then the woman was afraid that if he had the wood he would make her a reel of it, and she would have to wind her yarn off, and then begin to spin again. She bethought herself a little, and then a lucky idea occurred to her, and she secretly followed the man into the forest, and when he had climbed into a tree to choose and cut the wood, she crept into the thicket below where he could not see her, and cried,
+In a certain village there once lived a man and his wife, and the wife was so idle that she would never work at anything; whatever her husband gave her to spin, she did not get done, and what she did spin she did not wind, but let it all remain entangled in a heap. If the man scolded her, she was always ready with her tongue, and said, "Well, how should I wind it, when I have no reel? Just you go into the forest and get me one." "If that is all," said the man, "then I will go into the forest, and get some wood for making reels." Then the woman was afraid that if he had the wood he would make her a reel of it, and she would have to wind her yarn off, and then begin to spin again. She bethought herself a little, and then a lucky idea occurred to her, and she secretly followed the man into the forest, and when he had climbed into a tree to choose and cut the wood, she crept into the thicket below where he could not see her, and cried,
 
 "He who cuts wood for reels shall die, And he who winds-, shall perish."
 
@@ -1221,27 +1171,20 @@ f He who cuts wood for reels shall die. And he who winds, shall perish."
 
 That was enough for him, and all inclination had departed from him, so he hastily descended the tree, and set out on his way home. The woman ran as fast as she could by bye-ways so as to get home first. So when he entered the parlour, she put on an innocent look as if nothing had happened, and said, "Well, have you brought a nice piece of wood for reels?" "No," said he, "I see very well that winding won't do," and told her what had happened to him in the forest, and from that time forth left her in peace about it. Nevertheless after some time, the man again began to complain of the disorder in the house. "Wife," said he, "it is really a shame that the spun yarn should lie there all entangled!" "I'll tell you what," said she, "as we still don't come by any reel, go you up into the loft, and I will stand down below, and will throw the yarn up to you, and you will throw it down to me, and so we shall get a skein after all." "Yes, that will do," said the man. So they did that, and when it was done, he said, "The yarn is in skeins, now it must be boiled." The woman was again distressed; she certainly said, "Yes, we will boil it next morning early," but she was secretly contriving another trick.
 
-Early in the morning she got up, lighted a fire, and put the kettle on, only instead of the yarn, she put in a lump of tow, and let it boil. After that she went to the man who was still lying in bed, and said to him, "I must just go out, you must get up and look after the yarn which is in the kettle on the fire, but you must be at hand at once ; mind that, for if the cock should happen to crow, and you are not attending to the yarn, it will become tow." The man was willing and took good care not to loiter. He got up as quickly as he could, and went into the kitchen. But when he reached the kettle and peeped in, he saw, to his horror nothing but a lump of tow. Then the poor man was as still as a mouse, thinking he had neglected it, and was to blame, and in future said no more about yarn and spinning. But you yourself must own she was an odious woman!
+Early in the morning she got up, lighted a fire, and put the kettle on, only instead of the yarn, she put in a lump of tow, and let it boil. After that she went to the man who was still lying in bed, and said to him, "I must just go out, you must get up and look after the yarn which is in the kettle on the fire, but you must be at hand at once; mind that, for if the cock should happen to crow, and you are not attending to the yarn, it will become tow." The man was willing and took good care not to loiter. He got up as quickly as he could, and went into the kitchen. But when he reached the kettle and peeped in, he saw, to his horror nothing but a lump of tow. Then the poor man was as still as a mouse, thinking he had neglected it, and was to blame, and in future said no more about yarn and spinning. But you yourself must own she was an odious woman!
 
 
 Note p428
 
 128. — The Lazy Spinner.
 
-From Zwehrn. There is a similar idea in the *Pentamerone* (4. 4), and in an old German Story, *Die Minne eines Albernen* (*Altd. Walder*, 3. 160-163 ; in Hagen's *Gesammtahenteuer*, 2. 141. Compare *The Three Spinners* (No. 14), and chap. 125, in Pauli's *Schimpf und Ernst* (1535 fol). The tree in the forest is a spindletree (Spill-Spulbaum); Latin, fusarius; French, fusain, from fuseau, spindle, euonymus (*Gerbert's Gloss*: theotisca, p. 139. Graff. *Sprachsch*. 5. 334); it is also a magic tree which prognosticates good or evil fortune; comp. *hesputré* and *hespulügt-tre* in Biörn's *Icelandic Dictionary*.
+From Zwehrn. There is a similar idea in the *Pentamerone* (4. 4), and in an old German Story, *Die Minne eines Albernen* (*Altd. Walder*, 3. 160-163; in Hagen's *Gesammtahenteuer*, 2. 141. Compare *The Three Spinners* (No. 14), and chap. 125, in Pauli's *Schimpf und Ernst* (1535 fol). The tree in the forest is a spindletree (Spill-Spulbaum); Latin, fusarius; French, fusain, from fuseau, spindle, euonymus (*Gerbert's Gloss*: theotisca, p. 139. Graff. *Sprachsch*. 5. 334); it is also a magic tree which prognosticates good or evil fortune; comp. *hesputré* and *hespulügt-tre* in Biörn's *Icelandic Dictionary*.
 
 
 
 ## Habetrot and Scantlie Mab
 
-
-https://archive.org/details/cu31924006726552/page/n281/mode/2up
-Notes on the folk-lore of the northern counties of England and the borders
-by Henderson, William, 1813-1891
-
-Publication date 1879 (Folklore Society edition)
-
-pp258-62
+William Henderson, *Notes on the folk-lore of the northern counties of England and the borders*, 1879, [pp258-62](https://archive.org/details/cu31924006726552/page/n281/mode/2up).
 
 In the old days, when spinning was the constant employment of women, the spinning-wheel had its presiding genius or fairy. Her Border name was Habetrot, and Mr. Wilkie tells the following legend about her:—
 
@@ -1291,13 +1234,9 @@ The laird was astonished at the weird-looking company, as he well might be, and 
 --
 
 
-https://archive.org/details/moreenglishfairy00jacoiala/page/180/mode/2up?q=HABETROT
-More English fairy tales
-by Jacobs, Joseph, 1854-1916; Batten, John Dickson, 1860-1932, ill
 
-Publication date 1894
 
-pp. 180-5
+Joseph Jacobs, *More English fairy tales*, 1894, [pp. 180-5](https://archive.org/details/moreenglishfairy00jacoiala/page/180/mode/2up).
 
 Habetrot and Scantlie Mab
 
@@ -1370,13 +1309,7 @@ Remarks. — Henderson makes out of Habetrot a goddess of the spinning-wheel, bu
 ```{admonition} Whuppity Stoorie, 1847
 :class: dropdown
 
-https://archive.org/details/selectwritingsr00chamgoog/mode/2up?q=%22Whuppity+Stoorie%22
-Select Writings of Robert Chambers
-by Robert Chambers
-
-Publication date 1847
-
-pp221-6
+Robert Chambers, *Select Writings of Robert Chambers*, 1847, [pp221-6](https://archive.org/details/selectwritingsr00chamgoog/mode/2up?q=%22Whuppity+Stoorie%22).
 
 TO DO
 
@@ -1491,14 +1424,7 @@ And so the lady lived happily with her goodman all the rest of her days.
 ```{admonition} Titteli Ture, 1853
 :class: dropdown
 
-https://archive.org/details/yuletidestories00thorgoog/page/168/mode/2up
-
-Yule-tide stories : a collection of Scandinavian and North German popular tales and traditions, from the Swedish, Danish, and German
-by Thorpe, Benjamin, 1782-1870
-
-Publication date 1853
-
-pp. 168-70
+Benjamin Thorpe, *Yule-tide stories: a collection of Scandinavian and North German popular tales and traditions, from the Swedish, Danish, and German*, 1853, [pp. 168-70](https://archive.org/details/yuletidestories00thorgoog/page/168/mode/2up).
 
 THE GIRL WHO COULD SPIN GOLD PROM CLAY AND LONG STRAW
 
@@ -1535,14 +1461,10 @@ The fair maiden now laughed to hereelf and was joyful beyond measiure. She then 
 ```
 
 
-https://archive.org/details/yuletidestories00thorgoog/page/168/mode/2up
 
-Yule-tide stories : a collection of Scandinavian and North German popular tales and traditions, from the Swedish, Danish, and German
-by Thorpe, Benjamin, 1782-1870
 
-Publication date 1853
 
-pp. 170-5
+Benjamin Thorpe, *Yule-tide stories : a collection of Scandinavian and North German popular tales and traditions, from the Swedish, Danish, and German*, 1853, [pp. 170-5](https://archive.org/details/yuletidestories00thorgoog/page/168/mode/2up).
 
 THE THREE LITTLE CRONES, EACH WITH SOMETHING BIG.
 
@@ -1574,13 +1496,8 @@ When the wedding was over, the three little women went their way, and no one kne
 
 ---
 
-https://archive.org/details/populartalesfro03dasegoog/page/204/mode/2up?q=%22three+aunts%22
-Popular tales from the Norse
-by Asbjørnsen, Peter Christen, 1812-1885; Moe, Jørgen Engebretsen, 1813-1882; Dasent, George Webbe, Sir, 1817-1896
-
-Publication date 1859
-
-pp. 205-211
+*Popular tales from the Norse*
+Peter Christen Asbjørnsen & Jørgen Engebretsen Moe, transl. SIr George Webbe Dasent, 1859, [pp. 205-211](https://archive.org/details/populartalesfro03dasegoog/page/204/mode/2up)
 
 THE THREE AUNTS.
 
@@ -1660,3 +1577,1085 @@ But they had scarce taken their seats before another ugly old hag came in, with 
 
 
 [TH could twist this so the girl is being lined up to marry the prince, and she asks/offers gift of being called auntie to the old hags; maybe in conversation when the hags first arrive to help , "do you mind me asking how your nose got so long; oh, i guess... making a joke of it said the old woman. So the girl is a shxcmer and comes up with the trick. ]
+
+
+
+--
+
+
+
+*Le cabinet des fées : ou, Collection choisie des contes des fées, et autres contes merveilleux*, 1785, vol. XII, [pp31-147](https://archive.org/details/lecabinetdesfe12maye/page/30/mode/2up).
+
+Ricdin-Ricdon, Marie-Jeanne L'Héritier
+
+
+
+--
+
+TO DO
+
+*The Folk-Lore Journal*, Vol. 7, No. 2, 1889, [pp. 135-163](https://archive.org/details/bub_gb_8PMRAAAAYAAJ/page/134/mode/2up).
+
+Eadward Cldd, *The Philosophy of Rumpelstiltskin* `[Read before the Folklore Society, 26th Febmaiy, 1889.]`
+
+IN the last annual EeporL of the Council to the Members uf this Society, the opinion is expressed that the end of its first decade marks a eonyenieiit point at which to paose and consider whether the work of collection of materials is, without being arrested, soffidently adranoed to justify the subject* ing of those materials to scientific treatment.
+
+Science, it is scarcely needful to say, is but another name for knowledge into which orderly arrangement is imported. It is concerned with the deducing of general principles from observntion and, where practicable, examination of things; and its method, at least in that branch which is known as applied science, is uniform, namely, to. examine, compare, and classify or systematise, with the object of getting at the significance of things.
+
+For the interest of these lies not in what they are, but in what they \ denote. Analysis is good, but it is of vahie only in the degree that it makes synthesis possible. It is the meaning at the heart of things which exdtes our quests unless we be content to remain mere makers of catdogaeBi doll pigeon-holers of facte, with never a thovght or care about their Import or relation. The valae of the matorialB with which our Society deals is becoming more and more obTions. That there is nothing "common or nneleani** that the folktale cryetaUices some thought or speculation of a remote past, and the folkwont some obscure custom, is our main task to show. Whether the story embodies man's serion«; reflections, or i.s the outcome of his idle, playful mood, it is tliis trivial or earnest purpose which wo seek to reach. Fortonately for the credit of a stady which is by many regarded aa frivolous, omr research brings as more often than not, and sometimes when least sospected, near some deposit of early though^ some Btrivings after a philosophy which embraces all life in one common origin and destiny; and in sympathy with instinctive feelings of the barbaric nature which are ultimately verified by reason and experience.
+
+Such, then, is the justification for the work of our Society, such the answer to the question J)ic cnr hie — "Why are yon here?"
+
+Following on the Unes of a paper which I had the honour of reading before you some time a,?o, and in which, under the title of "The Philosophy of Pnnchkin," I sought to show what was the common idea at the root of the widespread tales grouped thereunder, namely, the belief in the separateness of the soul, or strength, or hearty or whatever else is regarded as the seat of life, from the body, the fate of the soul involving the fate of the body, I propose, in the ]>rescnt paper, to deal with another group of stories likewise embodying a primitive philosophy, to which the ^eut t ie title of "Rumpelstiltskin" may be conveniently given, being borrowed from the well-known story of that nemo in Grimm's Kinder und Eaua-marchenf of which the following is an outline:—
+
+A poor miller who had a beautiful daughter, thought to make himself of more importance before his king by telling him that she could spin straw into gold. When the king heard this, he bade the man bring his daughter to the palace that her skill might he tcst<»<3. She was then locked up in a room filled with straw, given a spinningwheel, and ordered to spin all the straw into gold during the night, or lose her life. The lonely girl sat bewailing her fate» when the door suddenly opened, and a little roan stood before her. Leammg why she wept, he agreed to fulfil the task for her on her giving him her necklace; and in the morning, when the king came, he found the straw spun into gold. The sight of this increased his greed, and he shut the girl in a larger room, the straw in which she was to spin under the same threat. Again tlie little man eamc to her aid, tliis time receiving her ring in payment. But when the task was laid upon her a third time) the mannikin woald help her only on her agredng to give him the first child whom she should bear the king after her mairiage. One year after this the child was bom, and when the little man came to claim it, the weeping mother offered him all the wealth of her kingdom to set her free from the bargain. At last, touchetl hy her grief, he agreed to let her keep the child if within three days she found out his name. Then the queen thought of all the names that she had ever heard, and pent far and wide to learn other names. But on the first day that the mannikin came, she said all the names that she knew, hut never the right one. And it was the same on the second day. Then on the third day a messenger came to her, saying that he conid find no new name, but that he had seen a funny little man dancmg round a fire in the forest, and shouting—
+
+"To-day I bake, to-morrow I sew,  
+The next I'll have the yonsg Queen's child,  
+
+Hft! gtad am I that no one knew  
+That BompelHiltakm I am styled."
+
+Soon after this the mannikin appearsd before the queen, who asked him if his name was Conrad or Harry? When he said "No," she said, "Perhaps your name is Rumpelstiltskin?" "The devil has told yon that," cried the little man; and in his anger he plunged his
+
+li-liL foot 80 deep into the earth, that his whole leg went in; then, in rai:^'', he jtuUed out im left leg so hard with butli haudf*, that he tore himself in two.
+
+My interest in tho variant of this story was awakened some years ago when, looking over a bundle of old numbers of the Ipswich Journal in which some odds and ends of "Suffolk Notes and Queries" were collected, I came upon a folktale entitled "Tom Tit Tot" Through inquiiy recently made of Mr. F. H. Groome^ author, of Under Gypsy Tents, and editor of those "Notes and Queries" I learned that this tale, as also another tale, entitled "Cap o' Rushes," which our President has printed in tho current number of Longman's Magazinp, wore told by an oM AVest Suffolk m\v>v to the lady from whom Mr. Groome received them. Their value lies in their In int,' almost certainly derived from oral transmission through uncultured peasants.
+
+The story of "Tom Tit Tot is as follows Well, once upon a time there were a woman and she baked fire pies. And when they come out of the oven, they was that OTerbaked
+
+tho crust were too hard to eat. So she says to her darter:
+
+"Maw'r," says she, "put you them there pics on the shelf, an' leave 'em there a little, an' they'll come again."— She meant, you know, the crust 'ud get soft.
+
+"Mawther," remarks J. G. Nail in his Glossary of the Dialect and Pronunciation of East Anglla (Longman, ISf^H), " is tlic ni05t cnrions word in tho Kasf Anglian rncnhnlnrv. A woman firul her nunrt/i/ r meaim ft woman and her danghter." The word is without doubt derived from the game root ait^maid* and cognate words, npon which ef. Skeat's ^j/mcl. BiotUmary^ s, v.
+
+Nail gim examplM of the ue of mtawther by Toater and other writen. Tusscr (speaks of '< a sling for a m&tk«r, a bow lor a boy." In Ben Jonson*8 *' Alchymist" Restive says to Dame Pliant (Act iv. 7) ' Away, you talk like a foolish mmrther!" In tho "English Moor" (iii. 1) Bichvd Biome «"ft!rfir a more felicitons nm of tho word :
+
+P. I am a mnihn- that tlo wnnt a service. Qn. O, thon'rt a Norfolk womuu (cry theo mercy) Where maids arc vwtfiers and motJicrs are maids, and in Blomfield's "Suffolk Ualla.l" we read
+
+When once a ^M;;lii)f: ni < nr f /ur yoUf  
+And I a red-facod eliuld.y hoy.
+
+In the Gothic translation of the Gospels, Luke viii. 54, "Maid, arise*" is rendered " Maur, urrcis."
+
+Bat the gal, she ssjs to herself, Well, if they'll oome agin, 111 ate 'em now.** And she set to work and ate *eni all, first and last.
+
+Well, come sapper time the woman she said, "Qoo yon, and git one o* them there pies. I dare say they're oome agin now."
+
+The gal she went an' she looked, and there warn't nothin' but the dishes. So bock she come and mya she, "Noo, they ain't come agin."
+
+"Not none on 'em?" says the mother. Not none on 'cm/' says she.
+
+Well, come agin, or not come agin," says the woman, "I'11 ha* one for anpper."
+
+Bat yon can't, if they ain*t come," says the gal
+
+"But I can," says she, "Qoo, yon, and bring the best of 'em."
+
+"Best or worst," says the gal, I've at« 'em all, and you can't ha' one till that's come agin."
+
+Well, the woman she were wholly bate, and she took her spinnin* to the door to spin, and as she span she sang;
+
+"Mj dattcr ha' ate Ats, Ats plei to-day. Uj dailar ba* ate five^ five piss to-day."
+
+The king he wore a' comin' down the street, an* he hard her sing, but wliat she sang he couldn't hare, so he stopped and said: What were that you was a singun of, uiaw'r?"
+
+The woman, she wens ashamed to let him hare what her darter had been a doin*, so she sang, 'stids o* that:
+
+"My darter ha spua five, fi?o skeins to-day. My darter ba* spun five, tie ikeitia to-day."
+
+"S'ars o' mine!" said the king, "I never heerd tell of anyone as conld do that."
+
+Then he said, "Look yon here, I want a wife and m marry yonr darter. Bat look yon here," says he, "'leven months oat o' the year she shall have all the Tittles she likes to eat, and all the gownds she likes to git, and all the cumpny she likes to hey; bnt the last mont o' the year slie ll ha' to spin live skeins iv'ry day, an, if she doou't, I shall kill her."
+
+"All right," says the woman; for slie tliowt vvhut u gruinl iiiairiuge that was. And as for them five skeins, when te come tew, thore'd be plenty o* wajrs of gettia' out ol it, and likeliest, hc*d ba' forgot about it.
+
+Well, 80 thej was nuirriod. An* for Ueven months the gal had all the Tittles she liked to aie and aU the gownds she liked to git, an* all the CDmpnj she liked to her.
+
+Bat when the time was gettin* oorer, she began to think about them there skeins an* to wonder if he had *em in mind. But not one word did he say al>out 'em, an' she whoolly thowt he'il forgot 'em.
+
+Howsivir, the last day o' the last month ho takes her to n room ehcM nivcr set eyes on afore. There won't notbia in it but a spiniiin wheel and a stool. An' says be, Now, me dear, hare yow'll be shut in to-morrow with some Tittles and some flax, and if you hain't spun fire skeins by the night, yar hid *11 goo off/
+
+An' awa* he went about his business.
+
+Well, she were that frightened, she'd alius been sneh agatless mawtber, that she didn't so much as know bow to spin, an' what were
+
+she to dew to-morrer, witli no one to come nigh her to liclp her. She sat down on a stool in the kitchen, and lork I bow she did cry!
+
+lIowr«ivir, all on a sudden she hard a sort of a knockin' low down on tlie door. She upped and oped it, an' what should she see but a small little black tiling with a long tail. That looked up at her right kowrions, an* that said:
+
+"What are yew a ciyin* for?"
+
+"Wha's that to yew?" says she.
+
+"Niver yew mind," that said, "but tdl me what you're a eryiu'
+
+for."
+
+That oont dew me noo good if 1 dow," says she. V li Yew doon't know that," that sai l, an' twirled that's tail round.
+
+"Well," says she, "that oon't dew no harm, if that doon't dew no good,** and she upped and told aboat the pies, an' the skeins an' everything.
+
+« This is what Til dew," says the little block thing, Til come to yar winder iv'ry momin* an' take the flax an' bring it spun at night.**
+
+
+"What's your pay?" says she.
+
+That looked out o' the corners o' that's eyes, an' that s.iM, "I'll give you three guesses cvory night to guess my name, au' if you hain't guessed it afore the month's up, yew shall be mine."
+
+Well* she thowt she'd be sure to gaess that's name afure the month was ap. "All right," says she, "I agree."
+
+"All right," that says, an' lork how that twirled that's tail.
+
+Well, the next day, har husband he took her inter the room, an* there was the flax an' the day's yittles.
+
+"Now there's the flax," says he, "an' if that ain't spun up this night, (ifi'gOi) yar hid." An' then he went out an* lockcti the duor.
+
+He'd hardly goon, when there was a knockin* agin the winder.
+
+She upped and she oped it, and there Stire enough was the little oo'd thing a settin' on the ledge. "Where's the flax?" says he. Here te be,** says she. And she gonned it to him.
+
+Well, come the evenin' a knockin' come agtn to the winder. She upped an' she o{)ed it, and there were the littlo oo'd thing with five skeins of flax on his arm.
+
+"Here te be," says he, an' he gonned it to her.
+
+"Now, what's my name?" says he.
+
+"What, is that Bill?" says she. Koo, that ain*t,** says he, an' he twirled his tail.
+
+"Is that Ned?" says she.
+
+"Noo, that ain*t»** says he, an' he twirled hts tail
+
+"Well, is that Mark?" says she.
+
+"Noo, that ain't says he," au' he twirled his tail harder, an' awa' he flew.
+
+Well, when har husban' he come in, tiiere was the five skeins riddy for him. "I see I shorn't her for to kill you tonight, me dare," says he, "yewll her yar Tittles and yar flax in the momin'," says he, an* away he goes.
+
+Well, irery day the flax an* the yittles, they was browt, an' irery day that there little blaek impet need for to come momins an* evenins.
+
+An' all the day the mawther she set a tryiu' fur to think of names to
+
+
+say to it when te come at nh^ld. But she niver hot on the right oae. An' as thai got to'warts the ind o' the month, the impet that began for to look 800 malioefal, an* that twirled that's tail faster an' faster each time she gave a goess.
+
+At last te came to the last Atj bat one. Tiie impet that oome at night along o* the five skehis, and that said:
+
+"What, hain't yew got my name yet?"
+
+"Is that Nicodemus?" says she.
+
+"Noo, t'ain't," that says.
+
+"Is that Sammlo ? *' says she. Noo, t'ainV' that sajs. A«well, Is that Methnsalem?" says she.
+
+"Noo, t'ain't that norther,** he says.
+
+Then that looks at ber with that's eyes like a cool o' fire, an' that says, "Woman" there's only tomorrer night, an* then yaill be mine! **
+
+An* away te Hew.
+
+Well, she felt tliat horrnd. Howsomcdiver, slic hard tlie king a comin' along the passage. In he came, an' wlieu lio sec the ii?o skeins, lie says, says he :
+
+"Well, me dare," says he* ** I don't see but what yew'll ha' yonr skeins ready tomorrer nigbt as well, an* as I reckon I skom't ha' to kill yon, 111 ha' sapper in here to night." So th^ brought supper, an' another stool for him, and down the tew they sat.
+
+Well, he hadnt eat hot a moathful or so, when ha stops an' begins to laugh.
+
+"What is it?" says she.
+
+"A-why," says he, "I was out a huntin' to-day, an' I got away to a place in the wood Td never seen afore. An' there was an old chalk pit. An' I heerd a sort of a hammin, kind o*. So I got ofif my hobby, an* I went right quiet to the pit, an* I looked down. Well, what should there be bat the funniest little blade thing few irer set eyes on. An' what was that a delrin* on, bat that had a little Kpinnin' wheel, an* that were a spinnin* wonnetftfl fast, on* a twirUn' that's tail. An' ub iL;it!^pan, that sang:
+
+'* Nimmy nimmy not My namo^B Tom Tit Tot."
+
+
+Well, when the mawther heord this, she faired as if she could ha' jomped outer her skin for joy, bat she diVt ssy a word.
+
+Next daj, that there little thing looked soo malioeful when he como for the flax. An' when night came, she heerd tiiat a knockin* agin the winder panes. She oped the winder, an' that come right in on the ledge. That were griuiiiu from are to are, an' Ool tha's tail were twirlin' ronnd so fast.
+
+** What's my name?'" that sajs, as that goiincd hei- the skeins.
+
+"Is that Solomon?" she says, pretendin' to bo afoard.
+
+** Noo, t'ain't," that says, an' that come ladder inter the room.
+
+"Well, is that Zehedee?" says she, agin. Noo, t*ain*t," says the impet. An' then that laughed an' twirled that's tail till yew cou'n*t hardly see it.
+
+"Take time, woman," that say?; "next guess, au you're mine.' An' lliaL stretched out that's black hands at hor.
+
+"Well, she backed a step or two, an' she looked at it, and then she laughed out, an' says she, a pointin' of her finger at it,
+
+<( Nimmy Ninuny not Tar Dame's Tom Tit Tot"
+
+Well, when that hard her, tliat shruck awful an' awa' that flew into the dark, an' she ni?er saw it noo more.
+
+A. W. T.
+
+In the Cornish variant, Duffy and the Devil," which Robert Hunt says he remembers seeing acted as a Christmas play* when he was a hoy, a squire hears Jenny Chygwin beating her stepdaughter Dufify for romping with the boys instead of knitting stockings or spinning yam. The squire, taken with Duffy's good looks, carries her off; and the old woman who keeps his house sets her to spin wool. The helpless girl, left to herself, cries out "Curso the spinning and knittingl The deril may spin and knit for the squire, for ^vluit I care."
+
+Forthwith an odd uiannikin appears, who oHcrs to do her work and giTC her the power to fulfil any wish she may hare, on condition that
+
+* Pop. Romances of the West of Englandt p. 239.
+
+at the end of three yeaiB she becomes his if she cannot find oat his name. Sach fame does this bring her that the sqoire, finding how the youths seek her handt marries her himself. And a merry time she had tiU the three years neaied their end, when sadness fell upon her. On the last day bnt one the sqaire came to her foil of excitement, and told her that she would laugh could she have seen what he had seen. He then relates how he had heard the devil, surroouded by a pack of witches, singing this couplet:—
+
+"Daffy, my lady, yoa'll ncrcr know—what t  
+That my name is Terrytop, Tenytop— top/'
+
+As the 8qmre*0 tale ends, the last hoftr of the three years anires, and with it the mannikin, leermg and bowing. Dnffy, cortseying to him, makes the first guess. "Maybe your name is Lncifer?" The
+
+devil denies this, grins horribly, and reminds her that she lias but two guesses left. "Perhaps my lord's name is lieclzebub?" Again the devil grins, and says that Bt^elzebnb is only a sort of cousin of his. Then, as he was about to seizo Duffy, she said, "Perhaps you'll admit thai your name is Terrytop?" Whereupon the devil departed in fire and smoke, all his knitting suddenly turned to adies, and the socks and suit spun by him fell from the sqoire, leaving him nothing bnt his shirt and his shoes.
+
+Henderson, in his Folklore of the Northern Cbtmties,^ quotes from AVilkie's MS. cuUuction of Border Customs, " in the old days, when spinning was the constant employment of women, and the spinningwheel had its presiding genius or fairy." A woman had one fair daughter who loved play bettor than work, and for punishment was given seven heeds of lint to spin into yarn in three days. Her nnskilled hands delayed the tai&, and after a night of weeping she wandered into the fields, where she espied a long-lipped woman "drawing out the thread *' as she sat in the sun. When the old woman heard what troubled the girl she offered to spin the lint, and, taking it mth her, vanished. The girl fell asleep, and was startled by the
+
+• mkhre aoe. Edition 1879, pp. 2a8— 2C1.
+
+sound of a a uncouth voice near lior. whon laying her car to a stone she heard these vronls, ** Little kens the \vce lassie on the brae-head that ma name's HabetroC Then looking down a liole * she saw an unsightly company busy with distaff and spindle, and heard Habetrot tell a hook-nosed sister, Scantlie Mab, to bundle up " the lassie's yarn. The girl turned homewards, bnt was orertaken by Habetrot, who bade her not tell how the yarn was spun. Reaching home she fonnd that her mother had gone to bed, but had left some black paddings hanging to dry. These the girl ate, and when the mother came down next morning she was vexed to find the puddings gone, but delighted to see the hauks of yarn. She ran from the house, crying;
+
+"My daughter's spau Ecin, sein, beiu, My daaghter*8 eaten sein, selo, sein,  
+And all before dayli|(bt ."
+
+A lainl wlio chanced to bo riding by was puzzlt d at what lie heard, and tlien, learning what had happened, he had the girl brought before him, and vowed that ho would wed so good a spinner. After the marriage Habetrot still helped her, till one day she bade the bride bring her husband to the cell where the fairies span that he might see how their faces were twisted by "drawing out the thread," and so it came to pass that ha commanded his wife never to spin. The like seqnel is found in a Tariant given in Chambers' Popular Rhymes of Scotland, entitled "A Various Whoppity Stoorie,"| Init a preceding tale, Whuppity Stoorie,"':f >upplieR closer parallels to Kumpt Utiltiikin. It tells of a man who "gaed to a fair ac day, ' and was never more heard of. His widow was left with a "sookin' lad balm," and a sow that "was soon to larra." Going to the sty one day, she saw, to her distress, the sow ready to gie up the ghost," and aa she sat down with her baim and '^grat sairer than ever she did for the loss o* her ain goodman," there came an old woman dressed in green who asked what she would give her for caring the sow. Then they "watted ihooms " on the bargain, by which ilic woman promised tu give the
+
+• Thorpe's JTortkem Mfthok i 166.
+
+Vol. 7^Pa&t 2. l
+
+green fairy anything she liked, and the sow was made well. To the mother's tlisinny the fairy then said that she wouiU have tlic bairn. '* But," said f^Le, "this I'll let ye to wnt, I canna by the law we leeve on take your bairn till the third day after tiiis day; and no then if ye can tell me my right name," For two days the poor woman wandered "coddlin' her bairn" when, as she came near an old qaarrj ho\c, she heard the "barring of a lint-wheel, and a voice lilting a song," and then saw the green fairy at her wheel, "singing like ony precentor."
+
+** Little kens onr;rt:id dauic at hamc That Whuppuy Ibtoorie i& my name I "
+
+Speeding home glad-hoarted, she awaited the fairy's coming; and being "a jokns woman," \'\iV.vi] a long face, begging that the bairn be spared and the sow tukenj and when this was spurned, olTering herself. "The deil's in the daft jad," quo' the fairy; "wha in a' the earthly warld .... wad ever meddle wi' tlie likes o' thee?" Then the woman threw off her mask of grief, and, making "a curchie down to the ground," qno* she, I might hae had the wit to ken that the likes o' me is na fit to tie the warst shoe-strings o* the hetch and mighty princess, Whuppity SUmie^ •* Gin a fluff o' gunpowder had come out o* tlie grnnd, it couldna hac gart the fairy loup heichcr nor she did; j.yno doun she came again, diunp on her shoe-Iieols, and whurliu' round, she ran down the brae, scraiohm' for rage, like a houlet chased wi' the witches."
+
+In the {Swedish variant, given in Thorpe's Yule Tide Stories, entitled, "The Girl who could spin Gold from Clay and Long Straw," the mother sets her on the roof of their cot that she might be shamed by folks seeing her sloth. The king's son, as he rides by, sees the fair spinner, and, ui^king why she is there^ is told by the mother ironically that she is so cleVer as to be able to spin gold out of clay and long straw. He then said that she should be his wife if this were true, and forthwith carried her to the palace to make proof of her skill* Left in her maiden-bower with straw and clay, she wept
+
+• Pp. zi. 169*
+
+
+sore, when a d«fonned little old man appeared, and, asking why she sorrowed, gave her a pair of gloves wherewith she could spin gold, saying that he wonld retnm the next night and claim her as his wife if she conld not tell his name. Despair mode her consent, and forthwith she began to spin the stuff into gold. But although there was joy throughout the j)aluco at this, there was grief in the maiden's heart, and this the prince sought to drirc away when he caino back from the chase in the evening, telling her how he had seen a little old man dancing round a bush, and singing this song :
+
+"To-daj I the malt shall grind,
+
+To-morrow my wedding shall be.
+
+And the maideu sits in her bower and weeps t
+
+bho kuows not what I am called.
+
+I am called Titteli Tare.
+
+I am called Titteli Tur© V
+
+The maiden's gloom was iiuw turned to gladness; and at night, when the hunchback came, she sprang up, saying, "Titteli Tuie 1 Titteli Ture I here are your gloTcs." Upon this the dwarf, furionsly angry, leapt through the air, taking with him the roof of the honse.
+
+In the variant from German Hungary, a woodcutter is in such dire straits for food that he takes his daughter to the forest, promising, like the uncle in our classical "Babes in the Wood," to return to her soon. The child wandered flower-gathering, till, wearied, she foil asleep; and on waking, finding herself alone, she wept bitterly, and ran hither and thither in .setirch of her father. Then there appeared a dwarf, clad in grey, at sight of whom she was affrighted, but ho so coaxed away her fears that she agreed to live with him as his daughter in the hollow of a great tree. One day the mannildn told her that he had recommended her to the ^ueeti as a waiting-maid; and soon after this the queen's son csme home firom the wars and fell in lore with her. When the dwarf heard this, he said that the king must find out his name before he would consent to the wedding; and, returning to his tree>dwelhng, lit his fire, and skipping round it, sang :
+
+"Boil,pot,lMill The king knows not— aU the asme— Winterkolble is my name."
+
+Tbe king in his trouble bad gent one of his servants in quest of the name; and, as lack would have it, the servant beard the song, and ran back to the castle with the good news. When the dwarf camCf the king greeted him with the words, "Welcome, Father Winterkolble," and thereupon the outwitted one gaTe his consent.
+
+In a Lower Anstrian yariant a king proclaims his wish to marry a girl, no mutter liow low-born, i>rovided that she has eyes and bair jet black. Amongst the crowd that tlironged boforc the king's palace not one coulil be found who bad tliese charms. But a charcoalburner's dauglitor, who was possessed of the coveted features, made her way to the castle, where a dwarf met her, and asked what she would give him if she became qaeen« I have nothing," she re* plied. Then," said he, "thou wilt be queen, but thou mnst know, at the end of three yearsi that my name ia Eruaimiigeli; if not, thou art mine." The maiden found faTonr in the king's ejcs, and happy were the days till, as the three years drew to an end, she found that sbe had forgott«'n the dwarf's name, and madness fell upon lier, the cause whereof nhe bid from the king. On the lust day but one of the third year the king's forester went l)unting, and saw a dwarf daucing in malicious gieo before a lire, and singing :
+
+She kuowi) uot— oh, what jollity 1— > My name is Krozimugcli."
+
+This he told to the qneen, who was weU-nigh beside herself for joy; and when the next day the dwarf came, he wonld gire her but
+
+three guesses; "and," said he, "if thou dost not guess right, thou art mine." The queen said: "It seems to me it is SteOfel." The dwarf leaped for joy, and cried, Mi?sfd!" Then the queen said: "It is l>eitle." Again he made a bound, and cried again, "Missed!" Then the queen said, quite carelessly: "Then it is Kruzimiigcli." When he heard this, he burst without a word through the wall into the open air, and since then all effort to fill up the hole has been Tain.
+
+In another Lower Austrian variant from Modling a witch gives a girl fine dresses for the court ball, bargaining for her first child in payment, or the alternative of finding out the witch's nnme within a year. The girl becomes a queen and a moUier, and as the dreaded time for fnlfilment of the oontract draws near, she is relieved by a cotirtier telling her that lie heard a witch in the forest singing over a canldron a song of exnltation that the queen does not know she is called Siperdintl.
+
+A niiiiibcr of closely- correspondintc stories from neiglibouriDg districts could bo citid, but it suffices to say that abstracts of them are given in tlie notes to Veranlokcn's collection of folktales from Austria and Bohemia, from which the foregoing are quoted.* In some of these stories the devil in disguise, as in the variant from Cornwall, takes the place of witch or fairy, granting certain favours on the condition that his name is fottnd ont within a given time, nsnally seven years. In the majority of cases he is outwitted. Probably some of the stories are echoes of the many medieval legends of the "stupid beast," as Pope Gregory the Great called him, the gullibility of the devil being the main featnre in the popular conceptions of him in the ^liiUlle Aues. In connexion with thif, the Austrian talc just cited, in which Kruisimugeli bursts through a hole in the wall, which could never be blocked up again, reminds ns oT one of the legends of a charch-hmlding devil given by Qrimm. The fiend had bargained for the soul of the first who should enter, so a wolf was driven through the door, when the devil in a rage flies up through the roof, and leaves a gap that no mason can fill up.f
+
+The Magyar variant of Rnmpebtiltekin bears the title of <'Tlie Lazy Spinning Girl, who hcean'.e a Queen. "J A woman, angry with her (laughter for tli-liking spinning, chased her from home. As they ran, a prince passed by in his carriage, and, hearing what was the matter, offered to take the girl to his mother. Tliis done^ he put her into a large shed filled with flax, and told her that he would marry her if she s|>un all of it within a month. For three weeks she sat
+
+* Ih the Land of Murrrfif. (Swan SonneiuBchcia and Co, 1884.)
+
+t Tent. Mtjilwl. l«,2l (^Kng. trans.)
+
+X Miiytjar FeUMnlt; Kr ipf and Jones, p. 46i
+
+iile, fretting over tlio task, until ono night a mannikin, Imt linlf nn cU ill height, slipped in and oflercd to spin the flax for her in a week if she would promise to go with him should she not find out his name within that time. She egreed, and one day in the last week a manaerrant who bronght her food told her that he had seen a little man in the forest who was leaping from bongh fo bongh, spinning a thread and humming to himself, "my name is Dancing Yargalneka. My wife will be good spinster Sue." The dwarf came that evening with part of liis work done, and asked the girl if she Imd learned what his name was, but she said nothing. On the last night he bronght the remainder of the work in a three-wheeled barrow, and on asking her to gness his name she answered, "If I mistake not, it is Dancing Vaigalnska," whereupon he rushed off as if somebody had pulled his nose.
+
+The sequel to this stotyin which three women-beggaes, deformed in various ways through spinning, come to the wedding feast for alms, when the sight of them causes the king to command that every distaff, spinning-wheel, and spindle be broken and burnt, resembles the sequel to the variant from Henderson, and also to "A Various Whuppity Storie" in Chambers's collection, in which, after the laird has seen six wee wrymouthed spinning ladies, he orders that all the spinning wheels be burnt, lest his bride becomes disfigured by their use. The three spinners haye their correspondences in Grimm's BoutehM TaUi, No. 14, in Dasent's "Three Aunts," in "The Aunts" in Portuguese Folk Tails," in "La Bella Impronta," or "The Beautiful Glutton," in Tuscan Fairy Tales^X "The Three Little Crows each with something Biggin Thorpe,§ Ijnsk,|[ and other collections.^ In Wentworth "Webster's collection of Basque Folktale*:,** a mother is beating her lazy girl, when the lord of a castle hard by, who is passing at the time, asks why the girl cries, and was told that her
+
+• p. 198 (.1ril F.ditn.)
+
+t P. 79. Folklore Soc. 1882, p. 79. % P. 43,
+
+§ Yule Tide Stories, p. 170, also 312.
+
+II Fblkhre tfRtmc, p. 378, ^ Cf. UsaSanfm, p. S}62, «i.
+
+** Basque Legnds, p. 56.
+
+
+prcttiuess made her indolent. The usual incidents of the girl being offered marriage if she can do a certain amount of work within a given time, and of a witch who cornea to her aid and baigaina to complete the task if the girl can remember her name, Marie Einkitonnt in a year and a daj, follow. The wedding takee place, bat sadness falls upon the bride as the year end draws near, despite grand festivals held to gladden her B])irits. At one of these an old woman knocks at the door, when the servant tells her why so many feasts nro given, and the womnn says that if the lady had seen what she had seen she would laugh free enough. So the old woman is brought before the company and tells how she had seen an old woman leaping and bonnding from one ditch to another, and singing all the time, ** Honpa, honpa, Marie Kirikitonn, nobody will remember my name." Whereupon the bride became merry-hearted, rewarded the old woman, and told the witch her name when she came for fulfilment of the bargain.
+
+Tracking certain common elements eastward, we have in Sagas from the Far East *, ft talc entitled*' Tlie Use of Magic Langnage,"in which a king sends his sou on trarel that he may gain all kinds of knowledge. The prince is accompanied by the son of his father's chief minister, who, on their return, envions at the snperior wisdom of the prince, entices him into a forest and kills him, the dying prince uttering one word Abaraschika, When the murderer reaches the palace he tells the king how the prince fell sick and died, and that he had but time to utter the above word. Thereupon the king summons his seers and magic ians and threatens tliom with deatli if they do not within seven days interj)rct the meaning of Abarnschika. The limo granted them liad wdinigh expired when a student came beckoning to them, bidding them to weep not, for he had, while sleeping beneath a tree, heard a bird telling his young ones not to cry for food, since the Khan would slay a thousand men on the morrow, because they could not tell him the meaning of Abaraschika, which was this: "My bosom friend hath enticed me into a thick grove and hath taken away
+
+• P. 167.
+
+
+my life." When this wu made knoim to the king, he dismissed the condemned men with presents, and pat the chief minister and his son to death.
+
+In the leehindieyariant from Symington's Pen and Pencil Sketehet
+
+of Far or nnd Iceland* a peasant who lias many sheep gires the wool to his Avifo to spin dnring the winter, but she is lazj, and neglects her work. An old witch comes bepering", nnd in return fur alms bargains to make the wool into cloth by the fir?t day of summer, the wife agreeing to tell the witch's name in three gnesses in lien of any payment. As the sammer neara^ the wife becomes ill with anxiety abont fnlfilling'her contract, and confeeses the cause to her hnsband. Boon after this he loses his way in the mountains, and, omhearing a Toice in the hollow of a cliif, peeps in, sees an old woman spinning, and hears her introdnee her name, Gilitmtt, into her snatches of song. Wli« n he Lro( s lionie he sa3*s nothing to his wife till the day that the witcli is to l-ring back tlie clotli. On \\ox arrival the wife gives two wrong guesses, but at the third guess suggests GiUtrutt, whereupon the witch Calls down thander8track,and presently disappears to be ncTermore seen.
+
+The intimate correfpondences, both in ontline and detail, between certain of the foregoing yariants which are found widely apart, as e. the Magyar and the Scotch, tempt ns to speculation concerning the origin nnd transmission of the tale. Bat one can only repeat the altornntive theories which liave been framed to explain the general question of folktale origin and diffusion, and it i? jiretty well agreed that this, with the profoundly intercstini,' <[uesiion of race movements, contacts, and mixtures, which lies at tho back of it, cannot be dealt with until our materials are more complete, nnd subjected to the scientific treatment to which reference was made at the outset. This, however, does not hinder brief allosion to some possible germs of the "Rumpelstiltskin" story which may be detected in archaic legend.
+
+In Northern Saga king Olaf desired to bnUd a church greater than
+
+♦ Pp. 240-244.
+
+
+any yel seen, but laclvcd tlic treasure witlial. As he walked 'twixt liill and dale ho met a troll, who, when he heard tlie king's wish, offered to build tiie church for him within a given time; stipulating tlmt ho was to hare the sun and moon, or Olaf himself, in payment. The king agreed; the chnieh was to be laige enoagh to allow seren priests to preach in it at the same time without distnrbing one another; and erelong the etmctnre was finished, except the roof and spire. Perplexed at the teims he had acceded to, Olaf once more wandered oyer hill and dale, when Buddenly he hoard a child cry from within a mountain, while a giant-woman quieted it. with these words,
+
+"Hush, hush, to-morrow cnmes thy father,  
+"Wind and Weather, home, bringing both sun and moon or saintly Olafs self."
+
+Overjoyed at this discovery, Olaf turned home. Seeing tliat the spire waa jost fixed, he cried, "Wind and Weather, thou hast set the spire askew," when instantly the giant fell off the ridge of the roof with a fearfnl crash and burst into a thousand pieces, which were nothing but fltntstones.* In Swedish legend a giant promises to build a church for the White Chiist if Laurenttns can find out his name, othei-wise he must forfeit his eyes. As in the Olaf lutceml, the giantess is overheard hushing her crying child ami uttering the giant's name.f
+
+Then there are the questions, partaking more or less of the nature of riddles, with penalties attaching to failare, which are a prominent feature of old northern ]>oetry. Of these we may cite examples from the Alviss-mal" and the "Waftbrudnismal," adopting the versions given in Vigfusson and Poweirs Corpus Poetieum Boredle, the one and unsurpassable authority upon Icelandic Sagas.
+
+Allwise the Dwarf, having entrapped the gods into a promise of giving him Freya to wife, comes to claim her, but one of the Anses (prubal'Iy Wingi, i.e., Woden, for tlie frank, blunt, character of Thor wnnhl by no means suit the part, though Wingthor is found in the MIS.) contrives, by playing ou his philological vanity, to keep him
+
+* Grimm, 71 Jf. 647, 548 .
+
+f Cf. Amafloos Tertandic Ltgemt$ p. 49, where the story bingm en the name of the htii'der in ** Who built Refnir Cbnrrh '?
+
+answering questions till the son rises, and its tajs, falling on him, tarn him to stone.*
+
+In the Wafthmdnis-mal/* Woden, disgnised as a mortal under
+
+the name of Ganger, visits tlic Lriant Wafdirudiii (Web-strong) to find ont wbat lie knows of sacred lore. The disputants airrocd that the one who failed to answer any qnestion put to him by the other should forfeit his life. After a time, the pretended Ganger asks tho gianty " What did Wo.lon whisper into Balder*8 ear ere he was home on the pjre ? '* when Wafthrndni has to confess himself yanqnished.f One is reminded of the songnlnel hetween tho defeated Jonhahainen and the storm-begotten WiiinamSinen in the third rone of the Kal^vala.
+
+We may leave such references, for whatever thoy may bo worth, as clues to the origin of Rumpelstiltskin; and, reluctantly avoiding digressions on topics suggested by subordinate incidents of the story, as, e.g., the origin of spinning, often ascribed to denissens of the forest and the under-world, deal with its philosophy as indicated by the central idea of all its Tariants, the nuelens ronnd which the incidents have gathered. This, put into fewest words, is the notion that the name of any being, whether hnman or superhnman, is an integral part of that being; and that, to know it, puts it« owner, whether he be deity, ghost, or man, in the power of another, often involving destruction to tin named. It is a ]>art of that general confusion liotween names and tilings wliidi is a nniversnl feature of barbaric modes of thought, an ever-{»r(\sent note of uncultured intelligence; a coufnsion which attiibutes the qualities of living things to things not living, and which lies at the root of all fetishism, and idolatry; of all witchcraft, shamanism, and other instruments, which were as keys to the inrisible kingdom of the feared and dreaded. Such enlaiged reference would, howerer, occopy a volnme,} audit must sufiBce for our present purpose to deal, and eren that yery
+
+* CL P. J? i. 81; 11ioipe*a yinthem JiyiheL i. 8, not^, 2h i. 96, note, t a P. B. i. 69, and cf. *' IBnip HeidreVt Riddles,*' p. 93.
+
+X An admirnblc summary is given by Dr. Tylor in the chapter on "Images and Maine%" in his Earl\f JHUtary of Mankind,
+
+
+briefly, with the superstitions clastering around names among barbaric and fjnasi-rivilized peoples.
+
+1. The belief in the interdependence of iiamei and penona ia evidenced in the mjstical ideaa of ancient peoples concerning the names of their deities. To the Mohammedan, "Allah" is but an epithet of the "great name" known only to apostles and prophets, who work miracles through it; deep reverence for the name "Vuhwch," or "Jehovah," led the Jews to «nl)!«titutc "Adonal" in its placo, in obedience to a supposed comiaiuui in [jcviticus, xxiv. IG. It £,'cnorally appeals simitly ns "the nnnie " ^^lien reforrcJ to in Uubbinical writings. A rather doubtfnl tradition says, that " Jehovah " was uttered bnt once a year by the high priest on the Day of Atonement, when he entered the Holy of Holies, and, according to Maimonides, it was spoken for the last time by Simon the Jast. Henceforth, says the Talmnd, he who attempts to prononnce it shall have no part in the world to come. Jewish legend tells how Solomon, beginning t4> titter the sacred name, made heaven and earth qnakc; and the wondors wrought by tJcsus are ascribed by an old Jewish >vrit«'r, aulhor of Trtldoth Jesu, to his bavin,!:,' abstracted the InefTabb^ Xanic and concealed it in his thigh. Vedic literature shows the inijiortant part played by the mystic word ♦* Ora" in the development of Brahmanism. The real name of the Chinese sage is so sacred that it is a statutable offence to prononnce it. Gommisstoner Yeh, in a conversation with Mr. Wingrove Cooke, said, <'Tien means properly only the material heaven, bnt it also means 8hang-Te, supreme mler, Qod; for as it is not lawfnl to nse his name lightly, we name him by his dwellin^r-place, which is in Tien." ^ Cognate ideas acconnt for the llonian practice of keeping the name of the tntel.nry deity of the city secret, the divulging of which is said to have cost Valerius Soranns his life. riiny,t quoting an earlier author, says that it was a practice with the Romans, when besieging a town, to win the support of ita tutelary deity by offering him a place in their Pantheon; and,
+
+t xxfiii, 4,
+
+to secure themselves against a like danger of traitoroua action on the part of their own guardian god, the nnme was iie?er dirnlged. If we find snch ideas preralent among the higher races, we may a fortiori expeet to find them among lower races; nor is the difference in such ideaa alwajs one of degree. The barbaric belief that the spirits know folk by their names is active among cirilueed people wherever anthropomorphic conceptions of deity prevail. To snch it is not matter of doubt that He knows each one l>_y name, as He is recorded to have known men of olden time, addressing tlicm thereby, and even altering their name* If we iucline to accej t the testimony of spiritualists we may find like correspondences between barbarian and civilized in the belief that to name the spirits is to invoke their appearance, an idea sarviving in the saying, I "Talk of the devil and you'll see his home,** and illustrated by the legend of the Norse witches who tied np wind and foul matter in a bag, and then, undoing the knots, shouted Wind in the devils name," when the hurricane swept over land and sea; aiul also by the recipe for stopimiir a witch*!' dance and (lis|>ersing the dancers by utterini; thi^ namo of Uml or Christ, We may not therefore feign surprise when wo hear thai in Borneo, when a child is ill, its name is changed so as to confuse or deceive the had spirits, to whom all diseases and death, which last is rarely regarded as a natural event by the savage, are ascribed. Among some South American tribes, when a man dies, his friends and kinsmen change their names so as to elude death if he comes after them, or to prevent the departed spirits being attracted back to earth by hearing the old name.f
+
+Intimat*'ly connected witli this, there fnre. is the univeri;al reluctance aiaoni; barhnric people to spt-ak of tlie dead; a feeling shared in modified form by ourselves, as expressed in Mrs. Barrett Browning^s lines on Clowper :
+
+*' Named softly as the honselmld name of one whom Ood hath taken."
+
+The Fuegians, Darwin tells ns, never mentioned the names of the
+
+• Gen. xvii. '»; xxxii. 28; Kx«m1. xxiii. 17.
+
+f Cf. I)i>rm:u»'3 Primitirc Snpirftitiom, p. ir>4, for several illostrutinns of thi8.
+
+
+dea«1; among the Connecticut tribes it was a capital off once; among the Noribern tribes, when a death occnrred, if a relation of tlic deceased Kas bbsent^ bis friends loitered along the road by which he was expected, so as to tell him the news and thus prerent him naming the dead on his retnm. Im Hinm says, that, althoogh tlie Indians of British OniaDa have an intricate system of names, it is of little nse, in that owners have a very blrong objection to tcllint^ or ii.->in^' llicm, a[>parcnlly on the groiin 1 that the name is part of the num, and that he who knows it hus part of the owner of that name in his power.* Morgan says that among the Iroquois, upon the death of a man, his name oonld not be used again in the lifetime of bis oldest snnriving son without the consent of the latter.f
+
+niostrations of this could be mnltiplied ad ir^nUum, bnt it u obriousy without further evidence, that with a uniTersal belief in spiritnal agents, and the identification of name with behtg, such practices as those cited must arise, practices of which the adage, " De mortuis nil nii^i bonum, ' i.e. lest Lis ghost liarui you, emlxnlies a survival. Hence tlic adoption of euphemisms, in which con ij alimentary phrases are employeil in place of such as might grato or annoy, "good mien words," as the Cantonese call them, J the most familiar example of which is the title of Eumenides or " gracious ones " given to the ^^.^^'^^-^ Furies. The Dyaka of Borneo speak of the small pox as the ** chief * or ''jangle leareSf** and the Cantonese call it ^ heavenly flower '* or "good intention**; in Annam the tiger is called "grandfather*' or ** lord;" in the forty-sixth rune of the KaJevala, which celebrates the slaying of the boar, he is aiklresscd in profuse, flowing metaphor, as ♦* forest-ajjple," " u'olden light-foot," " lioney-pawod." In Thorpe's Northern Mythology,^ a list of both dead and living things which ^J^/tr-'''^ are to be called by euphemistic names to arrest evil influences is given, and perchance a survival of this dread exists in the modem housewife's notion that if one comments upon some household god
+
+* Amrrng flu Indians of Ouiana, p. 220*
+
+t Ancient S<'cirtfj, p. 79. % Folklore JUcard, iv. 80.
+
+§ Vol. ii. p. 83. And see CUlaway's Sklct, p. 3, n.
+
+quick destracUoa follows. I was only yesterdAji" she will tell you, talking alioQt the years we had had that china senpioe, and now it is smashed to atoms V*
+
+2. The reluctance to utter names extends to those of the living in descending scale according to rank. For example, in China, the ming or projHT name of the reigning emperor is sacred, and must bo f^pclt dilVorently during Lis lifetime.* Althoiigli given in the prayer ofiered at the imperial worship of ancestors, it is not permitted to be written or prononnccd by any subject. The Tabitians display like superstitions reverence by a custom termed Te pi. ** They cease to employ in common language those words which form a part or the whole of the sorereign's name or that of one of his near rdatives, and inreht new terms to nu^'ply their place/'f In Siam, Bumiab, and other eastern countries, the like snbstitniion of epithet for the royal name prevails, and '* in IVJyncsia the prohibition to mention chiefs' uamcs has even impressed itself deeply in the language of the ij*lands."J
+
+In his Tour to the Himalayas § Eraser tells how in one of the despatches intercepted during the war in Nepaul, Gouree Sah sent orders to find out the British general's name. It was to he written on a piece of paper, the great incantation said orer it three times, and the paper then burnt with plum-tree wood. Coming lower down, we find that the Australian has a strong reluctance to tell his real naino to strangers. Ho lias tlic Kaliir, and among this race no woman may pronounce the names uf any of her husband's male relations in the ascending line, nor even any word in which the principal syllable of the name of her father-in-law occurs.| Tlio Amazulu woman, when addre;^sing or speaking of her husband, calls him Father of So- andnio," mentioning one of his children,^ tuid
+
+* JMhtore JOecatd, ir. 74.
+
+t Max mUler, Ze^, o» LtimgMttge, VL 74.
+
+I Tylor's Sarly Miitoiy qf ManUtut, p. 14S.
+
+§ r. 530.
+
+ii Theal'a At^jffir Folhlore, 201.
+
+CallawajT, Belijfimts ^ifstem of th€ Amatulvs, p. 316i
+
+
+in like manner a Hindoo wife speaks of her husband aa " He," 'Swnmy,' or "the Mnster," avoiUing mention of his name. Dorinan says that the New Mexican tribes never made known their ow n nanie>^ or those of friends to a stranger, lest these should be used in sorcery. Among the Ojibways husbands and wives never told each others' names, and the children were wanied that if they repeated their own names they would stop growing. Dobrizhoffer records that the Abipones of Paraguay would knock at his door at night, and when asked who was thMre, would not answer, lest enemy or sorcerer overheard their name. There must be like origin for the relactance of which Gregor speaks in his Folklore of the A^urth-/\<ist of Scutlan'ij^ when folk " calling at a house of the better c]a>> oii l'U=>iue.---? with the master or mistress had a very strong dislike to tcU iheir names to the servant who admitted them." The same author says that ^ in Buckie there are certain family names that fishermen will not pronounce;'* the folk in the Tillage of Goull speaking of "spitting out the bad name.*' If such a name is mentioned in their hearing, they s]jit or, in the vernacular, "chiff." One bearing tlie dreaded name is called a "chifferoot." If there is occasion to speak of anyone with such a name a circuudncution is n:?(?d, a^ "The man it diz 80 in f^o," or The laad it lives at 6uch and such a place." If po-sible the men bearing these names of reprobation ore not taken as hired men in the boats during the herring-fishing season; or, when hired before their names were known, have been refused their wages if the season has been a failure. " Te hmna hid sic a fishin* this year is ye hid the last," said a woman to the daughter of a famous fisher. "Na, na, faht wye cud we? We wis m a chifferoot^s *oose, we cudnae hae a fushin*. " In some of the villages on the east coast of Aberdeenshire it was accounted unlucky to meet any one of the name of Why to vlit'ii going to sea. Lives would be lost, or the catch of fish would be poor.f In fine, for these illustrations may be cited to wcarincsH, wherever the name is regarded as a part of the person or thing which it represents, there is no Ihnit to the application. Such confusion eould not be more perfectly illustrated than in an anecdote which Dr.
+
+• P. 80, t Pp. 200, 201.
+
+
+Tylor quotes from Br. Li'cber. "I was lately looking at a negro who
+
+was feeding young mocking-binls by tlio hand. * Would tliey cat worms/' I asked; 'Surely not/ ansM'ereil the man, 'they arc too young, and they would not know what to call them.'" • That ncL^ro would find a kiudred ctpirit in the old lady who, after hearing a lectare upon n5:tronomy, said that fhe could understand bow the astronomers found oat the distances and weights of the stars, bat what pnszled her was how thej fonnd oat their names!
+
+8. The rites and ceremonies which haro been practised at birth and infancy from time immemorial have sunrlTed long after their primitive meaning was forgotten, and new meanings whereby a quasi* sauctitj has been iniparteil liave been jittacLeJ tu them. The ideas which still cluster round name-.i^ivini,' are tlie diMguiKed or transmuted superstitions akin to those already illustrate*.!. The custom of naming children from some event happening at their birth has frequent reference in the Old Testament, as e.g. in Genesis xxx. 11, where Leah's maid gives birth to a son: '* And she said, A troop oometfa; and she called his name Gad.*' So Rachel, dying in childbed, calls the babe Ben-oni, son of sorrow,** but the father changes his name to Ben-janiin, son of the right hand." finrekhardt speaks of a like custom anionic the Bedouins, the child's name being derived from some incident, or from some fancy of the mother.f while among the Kaffirs the name of the day on whicli the cliihl is horn, or the name of any beast whoso roar in thou heard, is given to it. The doctrine of baptismal regeneration mnst be claimed as the lineal descendant of the barbaric notions concerning the lastrations which still accompany the naming of the child. In Abyssinia the baptismal name Is concealed throughout life, and in West Sussex it is considered unlocky to divulge a child's intended name before ba})ti8m.|
+
+Although I have sought, in collecting the scattered materials for illustration of the thesis of this paper, for points of fundamental
+
+• JSdrtf HiHarff Mamiind, p. 161.
+
+f .Y«)tt;$ on the Bedouin*, p. 55, qnotcd in Gspt. (OOW Sir GeoKge) Grey's Trui'(U "I ^V. ir. and IT. AnxtraVm, ii. 373. t And cf. Lang's OuUm and Myth: story of ''llicht, Nought, MoUuiig»" p. 89.
+
+
+diffarence between the higher and lower coliurei the seareh has been Tain. One can find Tariations in details, and in their applications, as these have been affected by the personal equation, as wo may call it, of peoples, but not in general principles. As in the physical, so in the intellectual, there is no break in continuity. As in the varions Slates of matter, so in the various phenomena of the uuuci, there is fundamental unity. As the higher organisms repeat iu their cm* biyonio condition the stagea through which their ancestral forma passed, so the folktale, in the several changea which it nndeigoea in the proceaa of transmission, presenres traces of the type to which it belongs. The magic letters ** Abracadabra,*' which were believed to be a remedy for agues and fevers, are equated witli that "blessed word jMesopotaniiu," in which the old lady found such spiritual balm. We have scampered across wide areas in our search after ideas common to those which lie at the heart of "Tom Tit Tot," and wo find its variants, and tho barbaric notions cognate to those ideas, contributing their evidence to that of the great dond of witnesaea testifying to the like attitade of the mind before like phenomena which frightened and bewildered it^ until Bcienoe created sympathy between man and the objeds of hia nndiaeiplined fears.
+
+Edward Clodd.
+
+NOTE.— Since revising the foregoing for preas my friend Mr. H. OoDrthope Bowen sends roe the followiog i^poslte story bom Ifr. J. BT. Golleiis*s Onide to
+
+Trin'uhul, ptihlisliuil in 1887.—
+
+A doctor iu a remote district had one dny nsi^embled a number of negro children for vaccination. In the coarse of hi^ operations he caine to a little girl, and the foUowing convenation ensued with the person bringing her:
+
+Jhetar, « Are yon the ehUd'a mother 7"
+
+Woman: " Tcs, or— is SM derter.**
+
+Z>. And what is yonr name
+
+W. •« Is me name?"
+
+D. (rather impatiently): ** Yes, I risked you what is year name?" W. (hesitatingly) " Dey does caal uae Sal." A «WeU,8alwbatr*'
+
+W, (aanringly, bat with a soqtieknu ride-gUmoe at a neighbour who Is
+
+intently taking all in): " Dcy does alius caal me Sal." />. fretting despemte): " Oh, boUieratifmi will yon tell me yoor proper name
+
+or not?"
+
+Vol, 7.— Pabt 2. m
+
+W. (with mnoh reluctance appnmcbing tbo doctor, whispers in the lowest possible tone of voice): "Delphino iSeganL" If* (witb intome diagnst) : '* Htm wbj eonldnt jon Mjr lo t" Mr. GoUeuB remarks: **M7 medical friend now beafs these little passages with more eqnasumityi for he has gained experience, and knows that the reason why the woman was so rdnctaat to «ttcr her name alond was that she believed she had an cnemj in the room who would take advantajre of the circnmstance if she f^ot hull] of her true namo, iinl would work lior all manner of harm. It is a fact liiai thaso people (the negro popuiatiuu ot 1 rmidad) sometiiued actually foigofe the naoMiQl tiieir near velationa bom hearing and uing them ao Utile."
+
+BIBLIOGRAPHY OF RUMPELSTILTSKIN.
+
+Britain (Suffolk). Tom Tit Tot, *Ipswich Journal*, 15 Jan. 1876.
+
+  "   (Cornwall). Duffy and the Devil. *Popular Romances of the West of England.* B. Hunt. p. 289.
+
+  "   (The Border). Habetrot. Henderson's *Folklore of the Northern Counties*, p. 258.
+
+  " (Annandale). Whuppity Stoorie. Chambers' Popular Rhymes of Scotland, p, 76.
+  
+Ireland. — The Idle Girl and her Aunts. Kennedy's *Fireside Storiee*,
+
+Sweden (Upland). The Girl who could spin Gold from Clay and Long Straw. *Yule-Tide Storiee.* B. Thorpe, p. 168 (and see *Ib.* p. xL for references to Variants).
+
+Iceland. Gilitrutt. Pen and Pencil Sketches of Faroe and Iceland, Symington, p. 240.
+
+Germany. *Rumpelstiltskin.* Grimm's Kinder und Haüsmarchen, No. 55.
+
+Spain. What Ana saw in the Sunbeam. *Patrañas*, R.H. Busk. [p. 181](https://archive.org/details/patraasorspanis01buskgoog/page/n198/mode/2up). `[1870]`
+
+Basque. The Pretty but Idle Girl. Basque Legends. Wentworth Webster, [p. 56](https://archive.org/details/basquelegendscol00websrich/page/56/mode/2up). `[1877]`
+
+Tyrol. The Wild Jäger and the Baroness. *Household Stories from the Land of Hofer.* R. H. Busk. [p. 110](https://archive.org/details/householdstorie00buskgoog/page/n123/mode/2up).
+
+German Hungary. Winterkolble. pp. 22, 343.
+
+Lower Austria. Kruzimügeli. pp. 26, 413. *In the Land of Marvels.* Vernalekon. The Lazy Spinning Girl who became a Qaeen. *Magyar Folktales.* Kropf and Jones, p. 46. Panczimanczi. Lad. Arang's *Erediti Népmesék*. p. 277.
+
+Mongolia. The Use of Magic Language. *Sagas from the Far East*. R. H. Busk. [p. 157](https://archive.org/details/cu31924023513330/page/n179/mode/2up). `[1873]`
+
+I shall be very glad to hear of any other variants which bave escaped notice in compiling the foregoing list.
+
+E. C.
+
+
+
+
+
+Rachel Harriette Busk, *Patrañas: or Spanish stories, legendary and traditional*, 1870, [pp181-200](https://archive.org/details/patraasorspanis01buskgoog/page/n198/mode/2up).
+
+WHAT ANA SAW IN THE SUNBEAM.
+
+"[Pwra|HEN I lie on the tomillar^ and look WYf M through the sunbeams," said Ana, "I see iBslHl all the little sprites getting ready the beautiful colours to paint the flowers and the insects, and the clouds, and others that dye the tree-leaves green and gild the old walls, and others that teach the insects to hum and the birds to sing, and little children to smile.
+
+"Do you know, Lolita," pursued Ana, "when a little baby is put into the cradle for the first, very first time, if the Sunbeam plays upon it, the little sprites always look after that baby, and never forget it, but when it is grown up into a big man or woman they still continue their care. There was once such a little baby, Lolita, born in a poor little cottage; such a poor little cottage, Lolita, that there were no shutters to the windows of any kind, when it was ever so hot the sun all came in, ^ Bank of wild thyme.
+
+and made the air suffocating, unless the poor mother could pin up an old dress; but it was not often she had one besides the one she had on. So it happened that when this little baby was born, Lolita, the sunbeams were streaming in, with the little sprites all basking in them, and the sprites kissed this little baby, and said, ' Dear little girl, we will never leave you; only be good, and so long as you are good we will see that you shall want for nothing at all.'
+
+"A very little while after, Lolita, that little baby's father died, and you might have said the sprites had forgotten her; but it was not so. They kept their word exactly. She did not know her father had died. Her mother was there, and took care of her, and she was too little to know that other children had more pleasure, so she wanted nothing.
+
+"She did not even know, Lolita, the labour her poor mother had to work for them both, and even when she sang her to sleep with her sad, ceaseless
+
+song,—
+
+"En los brazos te tengo, Y considero, I Qu^ serd de ti, nino, Si yo me muero *! ''
+
+2 " Wliile in my arms I hold thee, I ask myself alway. What fate I leave thee to, child. If caird by death away."
+
+
+she knew nothing of its meaning; her little face was pressed close and wann against her mother's breast, and a flower or a fruit, which the sprites had painted for her, was enough to complete her happiness.
+
+^Before Pura — such was her name — ^was two years old, her mother died too. But the sprites had not forgotten her, Lolita : her mother had a sister, and when this sister came to the funeral, they had painted Pura's cheeks with such fresh, clear tints, and lit up her baby face with such a bright, sweet smile, that her aunt would not part from her, but took her home and brought her up as her own child, and was to her as a mother.
+
+"The sprites played with her now just as before; and when she was asleep they used to dance on her bed, and say, ' Dear little girl, we will never leave you; only be good, and so long as you are good we will see that you shall want for nothing at all'
+
+"Meantime, Pura grew up to learn to be useful : she worked in the garden, and kept the house tidy, and fetched the water from the fountain, and did all that Tia * Trinidad wanted. She was very good and very obedient, and never wasted her time; her only amusement was lying on the thyme-
+
+' Aunt. It is also a title of respect and endearment, much in use between intimate friends, especially among the lower orders in Spain
+
+bed in the sunshine, because then the sprites painted such pretty dreams for her.
+
+"But Tia Trinidad was growing old, and after her there was no other aunt, nor any relation to look after Pura; and though she would not say it aloud to vex Pura, who was always bright and gay, she yet continually repeated in her own mind, just as the poor mother used to sing, —
+
+"En los brazos te tengo, Y considcro,; ( Aie sera de li, nino, Si yo mc niuero!"
+
+"So things looked very bad again, Lolita; but tlie sprites had not forgotten Pura, as you shall see.
+
+'' Tia Trinidad earned her living by waiting on strangers at the little inn down in the village, and as few people came that way, she was of:en many days without earning a 'ehavo "*. One day, however, there came a great gentleman who had returned from the Indies with a great lot of money; he said he had roamed the world long enough, and seen enough of great cities; he meant now to settle himself in some quiet, remote village, and the only thing he wanted in this world was a nice, good, industrious wife, who would make his home smiling and happy.
+
+"*Then I can fit you to a nicety!* broke in Tia Trinidad, who had been seized with a most diligent dusting fit all the time the traveller had been detailing his plans to the Cut'a ^ of the village, and had not missed a word.
+
+"'Can you?' said the traveller, not at all displeased at her boldness.
+
+"* That can I,' continued Tia Trinidad, earnestly; ' and there isn't a girl to match her in Madrid, and the Padre Cnra will bear me out!'
+
+"*What . . . Pura, you mean ... I suppose.-^' said the Cnra, somewhat embarrassed between his desire to speak the truth, and his fear of crushing the — as it seemed to him — exaggerated ideas of his poor parishioner. * Yes, Pura is a good girl enough;' and he paused to think how much he could say in her favour; ' young, and — pretty, and — simple, and — lively, and — notable altogether, but '
+
+"'Well,' interrupted the traveller, hastily, 'out with your bnt! for you have named the very qualities which go to make up my ideal of a wife; speak, honibre ^! '
+
+''*Well, I mean — I mean, only that she Is a h'ttle — a little — what shall I say } — a little homely
+
+for your wife '
+
+'''Home/y, is it .> Oh! If that's all, we sha'n't
+
+Clerirvman nf tho nnn'cV.
+
+quarrel. I don't want any of your fine ladies who are only thinking of setting themselves off, and attend to nothing but their toilet! Come, good woman, ask your young friend to allow me to come and see her to-morrow/
+
+"Too overjoyed to answer, Tia Trinidad set off on the instant at full speed, and ran so fast you could not have told what her gown was made of as she passed. * When she reached honie, out of breath, she told her niece to adorn the house, and dress herself in her best, for she expected a visitor next morning.
+
+"Pura — who, though now seventeen, still kept up her simple habit of doing whatever she was bid with alacrity — fulfilled the directions given her with great exactness and success, and never thought of asking who or what the visitor was, or what business brought him.
+
+*'When the traveller called next morning, and found the room so smiling, the sunbeams playing through the muslin blinds upon the snow-white curtains, the brightly-tinted flowers — ^which, by the way, the sprites had painted on purpose — so tastefully arranged, and Pura herself looking so neat, and with no thought of display in her head, he was delighted, and left with an air of satisfaction, which convinced Tia Trinidad that all was going on right. Only, as he was going away, he turned and asked Tia Trinidad if Pura could make lace;
+
+Digitized
+
+by Google
+
+What Ana saw in tJie Sunbeam, 187
+
+and Tia Trinidad, who deemed her niece such a peati that there was nothing she could not do, without thinking, answered "Yes." Nevertheless, poor Pura had had too much labour with the garden and the house-work all her young life to have had leisure for indoor occupation. She could take a turn, indeed, at her aunt's spinning-wheel; but such an accomplishment as making iace she had never practised.
+
+'^*Why did you tell the gentleman I knew how to make lace, when I don't, aunt?* she exclaimed, for she could not bear an untruth about the least matter.
+
+"' W^U, I did not know what to say, all in the surprise,' replied the good aunt. ' It seemed as if I should give a false impression of your habits, which are so industrious, if I said you could not do any thing he expected of you.'
+
+'* * Then why didn't you say that I could spin, and scour, and dig ?' answered Pura, ingenuously.
+
+"* Dig, and scour, and spin, indeed! Fine recommendations for his purpose,' rejoined the aunt, mysteriously; and before Pura could ask what on earth this 'purpose' was, a messenger brought in three bobbins of fine black silk, for her to make into a piece of lace, as a proof of her skill.
+
+"'Oh, aunt, what shall we do? ^\i2X shall \^^ do?' sobbed poor Pura, who could not endure to be thought a deceiver.
+
+"* Don't worry, child,' returned the aunt, ' something or other will turn up. There's nothing so easy as making lace, after all, and three bobbins are gone like winking. You must get through it somehow, for your fate depends upon it.'
+
+"Pura went to bed that night crying; and cried herself to sleep. But very early in the morning, very early indeed, Lolita, the sunbeams woke her — ^you see the sprites never lost sight of her. And three beautiful sprites — the three who had most care of her — came floating down the Sunbeam. Without saying a word, they took up the bobbins of silk, for they had brought every thing with them that was wanted for making lace, as if they had known all about it, and, rattling them about, en un dospor ires'' , they turned off a splendid mantilla, all made out with flowers, and birds, and every thing you can think of, and then threw it on the bed, and disappeared before Pura had time to recover from her surprise.
+
+"When the stranger called next day, and saw this extraordinary proof of industry and skill, he could hardly believe his eyes, and went away more pleased than the day before.
+
+"' Didn't I tell a su merce^ that she was a jewel 1 whispered the old lady.
+
+"* I begin to think you did not exaggerate,' answered the traveller.
+
+7 As we should say, " like ^vinking." ^ Your worship.
+
+Digitized
+
+by Google
+
+What Ana saw in the Sunbeam, 189
+
+"And then, turningtoPura, he asked her if she was as perfect in household duties as in accomplishments; whether, for instance, she understood cooking.
+
+^^^ I Plies no ha de saber cocer^!* interposed the aunt, without allowing Pura time to speak; for she knew the good girl would have answered the strict truth; and she thought as the sprites had got her out of one scrape, they might be trusted to get her out of another.
+
+"In the evening, the messenger came again, this time followed by two other porters, each carrying baskets of provisions, which they set down, with the message that Pura was to make a famous olla podriday and the gentleman would come in and dine off it the next day.
+
+"Pura's tears fell fast on the beautiful market spoil, on which Tia Trinidad stood feasting her gaze. Never had such a provision of generous diet stood within sight of her hearth! But Pura only reflected on her incapacity to deal with such choice materials, and she knew there was no help to be got from her aunt, to whose cuisine even a piece of bacon was a rare delicacy.
+
+"Pura went to bed that night as sad as the night before, for she kept saying to herself, 'Suppose the gentleman should think it is I who have been deceiving him!'
+
+"But the sprites did not forget her, Lolita.
+
+'^ "I should think she did know how to cook indeed!"
+
+Very early in the morning — ^very early 1 — ^they came in on the Sunbeam, as bright and as beautiful as before; and in a trice they had laid the fire in the stove and blown the charcoal into a fine red glow; then, while one took down the large ollas^ from the shelf, and filled them with water at the well, one was busy plucking the fowls, and another washing and preparing the vegetables. The vegetables were soon put on in one olla with the bacon; and then the fowls, the ham, the sausages, the tripe, the pigs'-fry, the rolls of lean meat nicely larded and stuffed, all set to stew in another, and all seasoned with the greatest care and delicacy. The whole morning Pura watched the sprites. And though Tia Trinidad saw nothing but the Sunbeam playing about the kitchen, Pura saw them, as they carefully skimmed the pots, added to the liquor or the flavouring, made up or slackened the fire; then, an hour before dinner-time the contents of the two alias were ratogled with care, and once more set on to simmer^ while with herbs, and bread-crumbs, and garlic,^ pimento, and parsley, certsun albdndigas grtiesas^ were being made ready, and fried in sparkling oil to a fine golden hue, ready to drop into the olla the moment before serving up.
+
+"The traveller came, faithful to his appointmeni,
+
+^ Earthen pots.
+
+* Something like our forcemeat-balls.
+
+
+and the delicious odours of the olla met him directly he entered the garden-gate, overpowering the perfume of the carnations on the window-sills. Proudly Tia Trinidad bore in the lordly dish, for she knew that never in the palace was a more perfect stew served. The traveller dined with undisguised satisfaction; he confessed it was the ne plus ultra of cooking. Nothing was wanting,, of nothing was there too much, every thing was in its due proportion and proved the handiwork of a true artist in cooking.
+
+"* As you understand so well how to prepare this hcwnEiely dish,* he said, at the close of many compliments, as he took leave^ * I am sure your delicate taste must be equally faultless at confections^ — I shall ask you tomake me a turron `[A sweetmeat in as general adoption in Spain as our toffy.]` to-morrow.
+
+"Pur^, struck dumb with perplexity, was vainly striving to frame some speech by means of which to explain how little part she had had in the performances he had been led to ascribe to her; but while she was yet thinking, her admirer had alleady plucked a carnation for her hair, and, raising bis hand in affectionate farewell, had taken his departure.
+
+"The Trinidad busied herself with putting by the remains of the abundant meal: there was meat enough to last her frugal needs a week, and more, and some to spare for a poor neighbour besides. * 
+
+
+While she schemed and portioned, Pura, torn by conflicting thoughts, stood still, with the carnation in her hand, gazing after the form of the stranger as he disappeared among the trees, and wondering why she had not courage to run after him and explain all.
+
+"She stood thus leaning against the window-pane, and still gazing, perplexed, hours afterwards, when the same messenger who had visited her on the two evenings before, again appeared, with a load of almonds and filberts, pine-kernels and walnuts, honey and eggs. Pura took the things from him with a heavy heart, for she was much too humble and simple to expect that the sprites could be so kind as to help her again; so she went to bed in as great distress as on the preceding nights. Nevertheless, early in the morning — ^very early, very soon after sunrise, that is as soon as the sun was up high enough for his beams to get in at her window — in came the three sprites, and, without saying a^ word, set to work, just as they had the day before; then began such a wonderful bruising^ and pounding, and mixing, that Pura soon lost all fear of the work not being performed as perfectly as on the two former occasions. They had not yet half finished their mixing, when all of a sudden she noticed a soft buzzing sound, like the humming of bees, but all in beautiful melody; and then she saw the Sunbeam full of sprites of every
+
+hue like living flowers. They were the genii of the flowers, and they wore the very forms of the flowers, their bright petals making so many wings, and they came and poured each its own perfumed nectar into the confection, giving it a flavour such as no turrony of earth at least, ever possessed before.
+
+"' We have done all these things for you,' said the sprites, when they had completed their handiwork; * now, we want you to do one thing for us.'
+
+"* Oh, whatever you like! only tell me any thing I can do!' answered Pura, with a ready grace.
+
+"'Well, it is this. We know three poor girls, very poor and very sick; they are all terribly deformed cripples. They are so deformed and so ugly that they live in the hospital, and never get asked any where. It would be such a pleasure to them to come to your wedding-Cite. They will be no ornament to it, I know; but still, will you let them come V
+
+"' Oh, yes; to be sure, poor things;' answered Pura, with grateful and charitable alacrity; 'that IS, whenever I get married. But who would marry a poor penniless orphan-girl, who can do nothing ? More likely I shall have to go to the hospital too, when aunt dies.'
+
+"* Oh, no; you're going to be married very soon, to that traveller who has been here so often.*
+
+"'What; to that kind, handsome gentleman!' cried Pura, in raptures. But a moment after, a
+
+cloud stole over hier joyous countenance; and, hiding her face in her hands, she said, sadly, ' No; that can never be. I dread even to meet him again, because we have been deceiving him. Oh, it was very wrong; I would not have done it for the world if I had had time to speak. If he wants to marry me, it's because he thinks Tm so clever \ ?ind when he finds I can do nothing he will turn his back, and that is not the worst. When he finds he is deceived, and I can do nothing, oh, how he will despise me!* And she sobbed again.
+
+"*No, it is not because you are clever,' answered the sprites; * it is because you are good. If you have not learned more, it is because you had not the opportunity. You have always been industrious at doing what you did understand; and as to deceiving him, that has never been your will and intention. So cheer up! we will make it all right. Only don't forget to invite the three poor girls from the hospital to the feast* And the sprites floated away on the sunbeam.
+
+** ' Be sure I shall not forget them, poor thii^s V cried Pura after them.
+
+"The next day the stranger came again; and having tasted the exquisite turrony which seemed indeed to have been perfumed by no ordinary taste, he told Tia Trinidad he hoped she would let him. marry her niece at once.
+
+"There was nothing the old lady desired more;
+
+for she had inquired about him meantime, and found he was* a worthy man, as well as abundantly supplied with this world's goods; so all was speedily arranged.
+
+"To her surprise, when she came to announce her good fortune to her niece, and to arrange preliminaries with her, she found she was any thing but pleased, and only burst into tears.
+
+"'Why, child! what ever is the matter with you?* she exclaimed. 'You don't mean you don't like him? Tm sure he has spoken kindly and fondly enough to you. And what is more, he has spoken kindly and fondly enough behind your back, too; which shows his esteem is genuine, and no mere flattery.'
+
+"'That's it. That's just what makes me so wretched,' sobbed Pura,
+
+'"What, wretched to think a good man loves you!'
+
+"' No» aunt, no; but to think that he is so good and so kind, and we have been deceiving him. When he finds I can do none of the things he has fancied I am so clever at, what will he think of me ? With what face, can I meet him ? Will he ever respect me again?' and she sobbed harder than ever.
+
+'"Nonsense, child, don't take on like that,' responded the aunt ' You've got through it all so far. Do as I bid you^ and it will all come right in the end.'
+
+"Pura, used to obey, and trusting in great measure also to the promises of. the sunbeamsprites, prepared to do her aunt's bidding, though with somewhat mixed feelings.
+
+"When the wedding-day was fixed, and all preparations made, Pura did not forget to go out early into the tomillar, and ask the sprites of the sunbeam how she should find their proteg&s, the three cripples of the hospital. * Leave that to us,' said the sprites. 'You have done your part in remembering them. We will take care they have the invitation; only give us the token by which they may be sure of being admitted.'
+
+"*A red and white carnation will suffice,' answered Pura; and a cloud overshadowed the sunbeam.
+
+"The wedding came, and the fetes, and the cripples. A pitiable sight they were, indeed. They were still young; but their distorted forms only made their youth a motive for greater compassion. The back of one was curled over so that her chin touched her waist, and her arms were so short they were no longer than the fins of a fish. Those of the second were so swollen that each was the size of her whole body, and you could scarcely tell which was which; and on her forehead was a great swelling like the horn of a rhinoceros. The skin of the third was all shrivelled and seamed with scars, and her eyes were red all round, and stood out from her head worse than those of a lobster.
+
+
+W/iat Ana saw in the Sunbeam. 197
+
+*((}
+
+^Pura!' exclaimed the bridegroom, as they made their approach, *how on earth did these three scarecrows get in ? they are almost enough to cast an evil eye on our happiness/
+
+"* Say not so, beloved,* replied Pura; * they are three poor girls who might have been as happy as you and I, but that misfortune overtook them. Their life is sad enough, shall we not try to make them glad for once, on our own happy day ?'
+
+"' Sweet child, you are right, and I was hasty,' answered the bridegroom; * but how did you come to know them ?'
+
+"* Some one who was very kind to me seemed to take an interest in them too, and asked me to invite them, that they might have one bright day at least.-
+
+"'Then, if that is the case, they have my heartiest welcome; I had rather see them here than if they were the highest duchesses of the land.'
+
+"And with that he sent the friend who attended to marshalling the guests, to put them in the best places, nearest to the bride and himself.
+
+•* Nevertheless, he could not get over his curiosity, to know why they were formed in such an extraordinary manner; and when the conversation began to get sufficiently general and familiar, he went up to the first, and after an exchange of ordinary compliments, and feeling his way by little
+
+
+and little, at last allowed himself to say in the politest tone, —
+
+''May I ask, dear friend, how it is your back comes to be so bent, and your arms so very short ?'
+
+"And while he waited in great perturbation, lest he should have offended or hurt the poor thing, she answered cheerfully enough, —
+
+"* By all means, I am not at all ashamed of it. I used to be a famous hand at making lace, and my step-mother, finding she could make a lot of money out of my work, kept me at it so hard that from bending over it so much my back never came straight again; and my arms, from continually twisting the bobbins, got quite worn away and screwed like into the sockets, and never would come out any more/
+
+"* Indeed!* exclaimed the bridegroom, almost abruptly, for his alarm got the better of his courtesy; and with that he sprang to the side of his bride, and exacted from her a promise that she would never never make any lace from that day forward.
+
+"Pura gave the promise willingly enough; and, his composure somewhat restored, her husband before long found his curiosity lead him to the side of the second ' scarecrow* guest, to ask her why her arms were so very thick, and why she had such a bump on her forehead.
+
+** * Because/ she answered, in a tone which seemed to show she was pleased to have the opportunity of explaining the circumstance, 'because I used to be a rare hand at making almendrado * and turrones of every kind, and from continually pounding, pounding at the almonds and nuts, my arms grew as thick as you see; and as I often knocked my forehead with the big pestle we used, I got this ugly bump.'
+
+"With greater trepidation than before, he darted, at hearing this, to Pura's side, and taking her hand in his, required her to promise him with the greatest solemnity that she would never touch any confectionary again.
+
+*' Encouraged by the good-natured reception his curiosity had met with in the two former cases, he soon found himself by the side of the third cripple, asking her why her eyes were so red and goggled, and her skin so scarred.
+
+"'Because I was a famous cook,' was the answer. * I was married very young, and my husband was very particular about his dinner. I never could be away from the cooking-stove, there was always something to be got ready; and that injured my eyes. And worse than that, one day I had a frying-pan in my hand, full of boiling oil, and I was just going to drop in the chops, when bang went a pane of glass. Some one had
+
+* Sweetmeat composed of pounded almonds and honey.
+
+frightened the cat, and in he had bounded through the window, scattering the glass right and left. The noise gave me such a start, that I upset the frying-pan over the heated stove, the oil flared up in my face, and burnt me all over as you see me/
+
+"Without retaining sufficient self-command to say the few words of sympathy and consolation which would not have failed him at another time, he hasted back to Pura, and insisted that then and there she would promise him never to touch a frying-pan or an olla more.
+
+"Then Pura understood why the sprites had bid her invite the cripples to her wedding; and she had her reward for her charity. And you see, Lolita, dear, how they kept their promise. So no wonder I am fond of looking into the sunbeam."
+
+
+
+---
+
+TO DO
+
+The Use of Magic Language. *Sagas from the Far East*. R. H. Busk. [p. 157-64](https://archive.org/details/cu31924023513330/page/n179/mode/2up). `[1873]`
+
+TALE XV.
+
+When therefore the Well-and- wise- walking Khan found that he had once more failed in the end and object of his mission, he once more took the way of the shady grove, and once more in the same fashion as before he took the Siddhi-kiir captive in his sack, As he bore him along weary with the journey through the desert country, the Siddhi-kiir asked if he would not tell a tale to enliven the way, and when he steadfastly held his tongue, the Siddhi-kiir bid him, if he would that he should tell one, but give a token of nodding his head backwards, without opening his lips.
+
+Then he nodded his head backwards, and the Siddhi-kiir told this tale, saying, —
+
+THE USE OF MAGIC LANGUAGE.
+
+Long ages ago there lived in Western India a King who had a very clever son. In order to make the best advantage of his understanding, and to fit him in every way to become an accomplished sovereign, the
+
+King sent him into the Dianiond-kingdom ('), that he might be thoroughly instructed in all kinds of knowledge. He was accompanied in his journey by the son of the king's chief minister, who was also to share his studies, but who was as dull as he was intelligent. On their arrival in the Diamond-kingdom, they gave each of them the sum with which they had been provided by their parents to two Lamas to conduct their education, and spent twelve years with them.
+
+At the end of the twelve years the minister's son proposed to the king's son that they should now return home, and as the Lamas allowed that the king's son had made such progress in the five kinds of knowledge that there was nothing more he could learn, he agreed to the proposal, and they set out on their homeward way.
+
+AH went well at first j but one day passed, and then another, and yet another, that they came to no source of water, and being parched nigh unto death with thirst, the minister's son would have laid him down to die. As he stood hesitating about going on, a crow passed and made his cry of "iherelt" The prince now encouraged his companion, saying, "Come but a little way farther, and we shall find water."
+
+"Nay, you deceive me not like an infant of days," answered the minister's son. "How shall we find water? Have we not laboured over the journey these three days, and found nonej neither shall we find it now? Why should we add to this death of thirst the pangs of useless fatigue also?"
+
+But the king's son said again, "Nay, but of a certaiaty we shall now find it."
+
+And when he asked, "How knowest thou this of a certaiaty?" he replied, "I heard yon crow cry as he passed, ' Go forward five hundred paces in a southerly direction, and you will come to a source of pure, bright fresh water.'"
+
+The king's son spoke with so much certainty that he had not strength to resist him; and so they went on five hundred paces farther in a southerly direction, and then they indeed came upon a pure, bright spring of water, where they sat down, and drank, and refreshed themselves.
+
+As they sat there, the minister's son was moved with jealousy, for, thought he within himself, in every art this prince has exceeded me, and when we return to our own country, alt shall see how superior he is to me in every kind of attainment. Then he said aloud to the king's son, —
+
+"If we keep along this road, which leads over the level plain, where we can be seen ever so far off, maybe robbers will see us, and, coming upon us, will slay us. Shall we not rather take the path which leads over the mountain, where the trees will hide us, and pass the night under cover of the wood?" And this he said in order to lead the prince into the forest, that he might slay him there unperceived. But the prince, who had no evil suspicion, willingly agreed to his words, and they took the path of the mountain. When they had well entered the thick wood, the minister's son fell upon the prince from behind, and slew him. The prince in dying said nothing but the one word, "Abaeaschiba (') ."
+
+As soon as he had well hidden the body, the minister'a son continued on his way.
+
+As he came near the city, the King went out to greet him, accompanied by all his ministers, and followed by much people; but when he found that his son was not . there, he fell into great anxiety, and eagerly inquired after him. "Thy son," answered the minister's son, "died on the journey."
+
+At these words, the Kiag burst into an agony of grief, crying, "Alas, my son! mine only son! Without thee, what shall all my royal power and state, what shall all my hundred cities, profit me?"Amid these bitter cries he made his way back to the palace. As he dwelt on his grief, the thought came to him, "Shall not my son when dyiag at least have lefb some word CKpressive of his last thoughts and wishes?" Then he sent and iaquired this thing of his companion, to which the minister's son made answer, "Thy son was overtaken with a quick and sudden malady, and as he breathed out his life, he had only time to utter the single word, Abaeaschika,"
+
+
+Hearing this the King was fully persuaded the word must have some deep and hidden meaning; but as he was unable to think it out, he Summoned all the seers, soothsayers, magicians, and astrologers {') of his kingdom, and inquired of them what this same word AbaEASCHXKA could mean. There was not, however, one of them all that could help him to the meaning. Then said the King, "The last word that my son uttered, even mine only son, this is dear to me. There is no doubt that it is a word in which by aU the arts that he had studied and acquired he knew how to express much, though he had not time to utter many words. Ye, therefore, who are also learned in cunning arts ought to be able to tell the interpretation of the same, but if not, then of what use are ye ? It were better that ye were dead from off the face of the earth. Wherefore, I give you the space of seven days to search in all your writings and to exercise all your arts, and if at the end of seven days ye are none of you able to tell me the interpretation, then shall I deliver you over to death."
+
+With that he commanded that they should be all secured in an exceeding high fortress for the space of seven, days, and weU. watched that they might not escape.
+
+The seven days passed away, and not one of them was at aU nearer telling the interpretation of Abaeaschika than on the first day. "Of a certainty we shall all be put to death to-morrow," was repeated all through the place,
+
+
+and some cried to the devas and some sat still and wept, speaking only of the relations and friends they would leave behind. *
+
+Meantime, a student of an inferior sort, who waited on the others and learned between whiles, had contrived to escape, not being under such strict guard as his more important brethren. At night-time he took shelter under a leafy tree. As he lay there a bird and its young ones came to roost on the boughs above him. One of the young ones instead of going to sleep went on complainiag through the night, " Vva. so hungry! I'm so hungry \" At last the old bird began to console it, saying, "Cry not, my son; for to-morrow there will be plenty of food."
+
+"And why should there be more food to-morrow than to-day?" asked the young bird.
+
+"Because to-morrow," answered the mother, "the Khan has made preparations to put a thousand men to death. That will be a feast indeed!"
+
+"And why should he put so many men to death?" persisted the young bird.
+
+"Because," interposed the father, "though they are all wise men, not one of them can tell him such a simple thing as the meaning of the word Abaeaschika."
+
+"What does it mean, then?" inquired the young bird.
+
+"The meaning of the word is this: 'This, my bosom friend, hath enticed me into a thick grove, and there,
+
+
+■woimdlng me with a sharp knife, hath taken away my life, and is even now preparing to cut off my head.' " This the old bird told to his young.
+
+The young student, however, hearing these words waited to hear no more, but set off at his best speed towards the tower where all his companions were confined. About daybreak he reached the gates, and made his way in all haste in to them. In the midst of their weeping and lamenting over the morning which they reckoned that of their day of death, he cried out, —
+
+"Weep no more! I have discovered the meaning of the word."
+
+Just then the Khan's guard came to conduct them to the Khan for examination preparatory to their being given over to execution. Here the young student declared to the E[han the meaning of the word AbarasCHiKA. Having heard which the Khan dismissed them aU with rich presents, but privately bid them declare to no man the meaning of the word. Then he sent for the minister's son, and without giving him any hint of his intention, bid him go before him and show him where lay the bones of his son, which when he had seen and built a tomb over them, he ordered the minister and his son both to be put to death.
+
+"That Khan's son, so well versed in the five kinds of knowledge, would have been an honour and ornament to his kingdom, had he not been thus untimely cut ofif," exclaimed the Khan.
+
+And as he let these words escape him, the Siddhi-kiir replied, "Forgetting his health, the Well-and-wise-walking Khan hath opened his lips." And with the cry, "To escape out of this world is good!" he sped him through the air, swift out of sight.
+
+--
+
+The Wilder Jäger and the Baroness. *Household Stories from the Land of Hofer.* R. H. Busk. [p. 110-30](https://archive.org/details/householdstorie00buskgoog/page/n123/mode/2up).
+
+THE WILDER JAGER AND THE BARONESS.
+
+THERE was a rich and powerful baron who owned a broad patrimony in South Tirol, Baron di Valle. He was not only one of the richest and most powerful, he was also one of the happiest, for he had the prettiest and most sensible woman of Tirol for his bride. The brief days were all too short for the pleasure they found in each other's society, and they were scarcely ever apart the whole day through.
+
+Once, however, the Baron went on a hunting party through a part of the country which was too rough for the Baroness to follow him. The day was splendid, the scent good, and the Baron full of enthusiasm for his favourite sport; but what egged him on more than all these, was the sight of a strange bold hunter who bestrode a gigantic mount, and who dashed through brake and briar, and over hill and rock, as if no obstacle could arrest him. Baron di Valle, who thought he was the boldest hunter of the whole country-side, was quite mad to see himself outdone; nor could he suffer this to be. Determined to outstrip his rival, he spurred his horse on, so that he might but pass him somewhere; but the Wilder Jager, for it was he, always kept on ahead, and though the brave Baron kept close to his heels, he was never able to pass him by.
+
+They had long outstripped all the rest. But all this time the Baron had taken no note of whither he went; now he found himself in the midst of a thick forest of tall fir-trees, with their lower branches cut off because they were planted so thick and close together that there was no room between them, and their tops were intergrown so that they formed one compact mass, excluding the very air and the light of day. The Wild Hunter stopped his mad career before this barrier, and then, turning, pretended for the first time to be aware of the Baron's presence.
+
+"What do you want here V he exclaimed, fiercely, his rolling eyes glaring like fire. "How dare you invade my domain!" and with that he blew a mighty blast on his hunting-horn, at sound of which a whole troop of wild huntsmen, habited like himself, and with similar fiery eyes, appeared suddenly, surrounding the Baron.
+
+"Stand back!" cried the Baron, in a commanding tone, as the wild huntsmen dismounted and prepared to seize him
+
+"No one commands here but I," said the Wilder Jager. And then he added, addressing his men, "Seize him, and carry him off!"
+
+"Hold!" said the Count, but speaking more humbly than before, for he saw he must yield something to the necessity of the case; "I suppose there IS some ransom upon which you will let me off? I have wronged you in nothing, and meant no offence. I admired your brave riding, and I thought what one brave man might do, another might."
+
+"Since you take that tone," said the Wilder Jager, "I will do what I can for you. I will let you ransom yourself at one price. You must know, that it is not you that I want at all; I only lured you here as a means of getting hold of the Baroness, and had you been uppish and violent, I should have kept you in chains for the rest of your life, while I married her. But as you know how to keep a civil tongue in your head, I will show you that I can appreciate courtesy. So now I give you permission to return, to be yourself the bearer to your wife of my conditions.
+
+"Tell her, then, that I have won her for my own, and she belongs irrevocably to me; it is useless that she attempt to escape, for you see that my people are countless, and violence is of no avail against me. But I am a good sort of fellow, and as I love her, I don't want to do any thing to alarm her, so long as she shows no foolish resistance."
+
+"But the ransom? You spoke of a ransom just now," interposed the Baron, hastily; "what, about that?"
+
+"All in good time," replied the Wilder Jager — "give a fellow time to speak. The only mode of ransom is this — let the Baroness guess my name. I give her three guesses of three words each, and an interval of a month. But if she doesn't succeed, remember, she is mine! this day month I appear and claim her. If, in the meantime, she thinks she has made the guess, and wants to satisfy herself as to its correctness " — and he laughed a ghastly laugh of scorn, as if to impress the Baron with the hopelessness of the idea — "she has only to come to the ilex grove on the border of this forest which marks the frontier between your territory and mine. If she stands there, beside the centre tree, and blows this horn — see what a pretty little gold horn it is, that I have had studded with diamonds and rubies — ^just fit for her pretty little fingers!" he added, with a grin of scorn — "at sound of her voice I shall be with her on the instant."
+
+The Baron was not one to have tolerated such talk from any human being soever, but he felt the necessity of vanquishing his temper this time — a more difficult matter ordinarily than vanquishing a foe — for a dearer life than his own was at stake; and if he could not altogether save the Baroness from the power of the Wilder Jager, he could take
+
+counsel with her as to the means of finding out the hidden name, and at least spend with her the last days that he could call her his.
+
+Accordingly he took the horn, and stuck it in his belt without a word. And indeed no word would have availed him, for the whole troop of the wild huntsmen had vanished as it came, and he was left alone.
+
+There was no difficulty in finding his way back by the path by which he had come, for it was plainly marked by the havoc of the surrounding vegetation the wild chase had cost. And though he now put spurs to his steed that he might reach home without losing an hour more than he could help of the companionship of his beloved wife, he now for the first time apprehended how swiftly he had come, for, riding the utmost of mortal speed, it took him three days to get back to the ilex grove which marked the boundary of his own territory. Hence it was still half a day's journey to reach his castle. But while he was yet a great way off his loving wife came out to meet him, full of joy at his approach, for since the rest of the hunt had come home without him she had done nothing but watch from the highest turret of the castle, that she might catch the first sight of him returning; her thirsty eyes had not been slow to discern his figure as he hastened home.
+
+Great was her amazement, however, to find that, instead of returning her greeting with his wonted delight, he turned his head away, as if he dared not look at her, and wept. She rode beside him all the way home, but he still kept silence, for he could not bear to render her sorrowful with the message of which he was the bearer. But he could conceal nothing from her loving solicitude, and soon he had told her all.
+
+Being a woman of prudent counsel and strong trust in God, she was much less cast down, however, than he had expected. Though bewildered at first, and seeing no way out of the difficulty, she yet declared she was sure some way of escape would be opened to her, it only remained to consider where they should find it. And never a word of angry recrimination did she utter to remind him that it was his mad vanity had brought them to this plight.
+
+The Baron felt the full force of this forbearance, for he did nothing but reproach himself with his folly. But the fresh proof of her amiability only occasioned another pang at the thought of the approaching separation.
+
+Still no good counsel came to mind, and the Baroness herself began almost to lose heart. The Baron had abandoned the hunt and all his sports, and sat gloomily in the ancient seat of his ancestors. The Baroness sat among the flowers of her oriel window, her embroidery in her hand; but her mind was far away over the tops of the dark green trees,
+
+ooking for some bright thought to bring deKverance to her from above. Every momii^ and evening they knelt together in the chapel of the castle, and prayed that a spirit of prudence and counsel might be given them.
+
+Ten days had passed, and no good thought had come. The Baron reclined gloomily in the ancient seat of his ancestors, and the lady sat among the flowers of the oriel window gazing over the tops of the high dark fir-trees, full of hope that some wise counsel would be given her. Suddenly she rose and clapped her hands, and her ringing laugh brought the Baron bounding to her side.
+
+"I have found it, Heinrich!" she exclaimed; "I am sure I have found the name! Doesn't the Wilder Jager live among the tall fir-trees?" "Yes; among the tall fir-trees is his dwelling." "And didn't he speak of three names?" "Yes; he said your guess must include three names."
+
+"Then I have it, Heinrich! What more natural than that he should be called from the names of the trees which form his palace? As I was gazing over the tops of the high dark trees the words came into my mind, ' Tree, Fir, Pine' — those will be the three words. Come, and let us go out to the ilex grove, and be free to belong to each other as of old!"
+
+She was so lively that the Baron caught some spark of her hopefulness, but he was too far sunk in despondency to enter into her joy all at once. Nevertheless, it was not a moment when, if ever, he would have thwarted her, so he ordered the horses to be saddled, for it was still early morning. And they rode together to the ilex grove which was the boundary of the Wilder Jager's domain; the Baroness striving every minute by some sprightly speech to distract the Baron, and the Baron utterly incapable of rousing himself from his gloomy fears.
+
+The Baroness was the first to reach the grove; in fact, she had ridden on a good way in advance, that she might have it out with the Wilder Jager before her husband came, so that she might greet him on his arrival with the news that she was free.
+
+Merrily she sounded the jewelled horn, and before its sound had died away the Wilder Jager was at her side. He no longer looked dusty, wild, and fierce, as during the Baron's mad chase. He seemed a man of noble presence, carefully dressed in a green hunting-suit, with a powerful bow in his hand, and a beautiful boy to hold his arrows. In his belt was a jewelled hunting-knife of exquisite workmanship, and to a cord across his shoulder hung a golden horn of similar pattern to that he had sent the Baroness, and, moreover, as a further act of gallantry, he wore a scarf of red and white, the favourite colours of the Baroness. A jewelled cap shaded the sun from his brow, which a red and white plume gracefully crested.
+
+The Baroness looked astonished to find she had nothing more formidable to meet, and felt that had she not already been the wife of the Baron di Valle, she would not have found it so great a calamity to be obliged to marry the Wilder Jager.
+
+The Wilder Jager was not slow to perceive that the impression he had produced was good, and bowing towards her with courtly mien, paid her a respectful salutation, and immediately added, —
+
+"Your eyes are so clever, fair Baroness, that I very much fear you are going to pronounce my name, and rob me of the happiness I had so nearly bought! Spare me, therefore, lovely lady — say not the word! but come with me into the shady pineforest, where you shall have every thing heart can desire — the noblest palace, the widest domain, and unlimited command; retainers without number, pleasures without alloy, and every wish gratified without condition!"
+
+He approached her as he spoke. His eyes sparkled no longer with the angry fury which had thrilled the Baron, but with a mild fire of tenderness and devotion. Nothing more attractive and winning than his whole appearance and manner could be conceived, and for a moment the Baroness had almost forgotten the less accomplished — but, oh! more sincere — passion of her Heinrich.
+
+It was only for a moment The weakness passed, she instantly drew herself up with dignity, and stepped back against the friendly ilex.
+
+"It was not to hear such words I came," she said, "but to pronounce those which are to free me from ever having to listen to such protestations again."
+
+"Oh, say them not! say them not!" said the Wilder Jager, throwing himself at her feet. "Any thing but that! Name any wish by fulfilling which I can win your favour; name any difficult task by accomplishing which I can prove myself worthy of your love "
+
+"My love," said the Baroness, striving to speak coldly, "is another's already; you see, there is none to be won from me. But interrupt me no more. I have guessed your name, to discover which was to be the price of my freedom. It is ^"
+
+The Wilder Jager clasped her feet in despair, entreating her not to pronounce it, but she went on, with a clear, confident voice, to utter the words, —
+
+"Tree! Fir! Pine!"
+
+The Wilder Jager looked up as if he did not quite understand what she meant.
+
+"Now, let go your hold, and let me pass, for I am free!" she said, resolutely.
+
+"'Free,' say you?" said the handsome Cobbold, with astonishment. "Free? did you mean you thought that was my unknown name .^
+
+"Yes," replied the lady, in a voice of conviction.
+
+"Oh, dear, it is nothing like it!" he answered, with glee, and yet not without a delicate regard for her disappointment "No, that is not it; nor is it likely you should ever arrive at it So days of happiness are before us yet." He had no need to kneel to her longer, but it was joy to him to be at her feet.
+
+"Dare not to speak so before me!" replied the Baroness, trying to tear herself away. "I know of no happiness, except with Heinrich; and I am persuaded that, though I have failed this time, it will yet be given to me to find the word which shall restore me to him completely."
+
+The Baron arrived as she finished speaking; and though he saw by the sorrowful look which now had possession of her bright face, and the triumphant mien of the Cobbold, that she had failed, and that she was still under the Wilder Jager's spell, he was so incensed to find him in such an attitude that he drew his sword, and would have closed with him then and there, but the Wilder Jager blew one note upon his horn, and in an instant he was surrounded, as before, by his myrmidons, who unarmed him and held him bound upon the ground, while the Cobbold himself approached to seize the hand of the Baroness. A fiery fury took possession of him, and sparks darted from his eyes which fell smouldering among the twigs of fir. Powerless to defend his wife by force, the Baron once more mastered his anger, and reminded his adversary courteously of his promise to leave them at peace for the interval of a month.
+
+"I am always ready to answer you in whatever tone you elect to adopt," said the Wilder Jager, rising, and leaving the side of the Baroness. "You see, it is useless to attempt force against me; but when you behave with due consideration, so will I." At a sign from him the sprites loosed the Baron's bonds, gave him back his sword, and held his stirrup with the most respectful care, while he mounted his horse.
+
+"Depart, then, unharmed," said the Wilder Jager, "since you set so much store on prolonging your suspense. I should say, it was wiser to make the best of a bad bargain and submit to your fate at once, with grace. However, I have given my word and won't go back from it. I restrain my power over you till the full end of the month; and, what is more, I not only give the lady three guesses, but as many as she likes. For," he added, with a cynical leer, "she is as little likely to guess it in thirty as in three; while every time that she chooses to essay the thing, it gives me the happiness of seeing her." And he turned away with a peal of wild laughter which made the lady shudder.
+
+The sprites vanished as they had come; and the Baron and his wife rode sadly home, without the courage to exchange a word.
+
+If the Baroness had for a moment been won by the comely presence and devoted admiration of the Wilder Jager, she had now seen enough reason to fear his treacherous humour, and to dread her impending fate as much as at the first.
+
+They spent the rest of the evening in prayers and tears in the chapel of the castle, and the next evening, and the next; and the days flowed by as before, but more sadly, and with even less of hope. The Baroness scarcely now dared raise her eyes so high as the tops of the tall dark trees; they fell abroad over the beautiful landscape stretched out beneath them, and the good gifts of God cropping up out of the ground; and she thought how beautiful was that nature to which she must so soon say adieu!
+
+Thus ten days passed without a gleam of expectation. Suddenly she rose and clapped her hands; and her silvery laugh brought her husband bounding to her side.
+
+"I have it this time, Heinrich!" she said.
+
+And the Baron listened anxiously, but trusted himself never to speak.
+
+"Said you not that the Wilder Jager's domain was entirely among the tall dark trees ?"
+
+"So it seemed to me it was," responded her husband.
+
+"But /dfdf certainly discerned through the forest patches of ripe golden grain. Saw you them not too?"
+
+"The first time I rode too fast to notice them, but I do think on this last journey I saw such here and there by the wayside."
+
+"No doubt," continued the lady, "it is hence he takes his name; these small patches of golden grain are more worth than all the vast forests. Order the horses, for I have guessed his name! It came to my mind just now, as I looked over the harvest-fields stretched out yonder.
+
+"Wheat, Oats, Maize — ^that will be his name!"
+
+The Baron knew her counsel had often proved right when he least expected, and even disputed it, and though he was now too desponding to expect success, he was likewise least inclined to dispute her word. So he ordered the horses round, for it was yet early morning, and they rode to the ilex grove.
+
+The Baroness, whose hope seemed to rise as she got nearer the goal of the journey, was full of spirit and cheerfulness, and, finding it impossible to work up the Baron to the same expectation as herself, rode on to accomplish her work ere he arrived.
+
+One note of the jewelled horn brought the Wilder Jager to her presence.
+
+As she had failed before, he had less fear of her success this time, and he was proportionately less subservient and submissive.
+
+"So you think you are come to give me my
+
+dismissal, beautiful Baroness? But you have no reason to repulse me so — ^be assured I mean it well with you; and though there is no limit to my power over you, I shall never treat you otherwise than with honour," he said, with a little scornful laugh which suited his fine features exactly, and made him look handsomer than before. And as he spoke so, his haughty tone, not unmixed with warmth and admiration, thrilled her with the notion that, after all, if it were not for her troth plighted to the Baron, it would not be so very dreadful to owe obedience to one who knew how to command so gracefully.
+
+But it was only for a moment The weakness passed, she drew herself up with dignity, and, retreating against the support of the friendly ilex, said, —
+
+"Silence! and remember your promise to leave me at peace till the fatal month is out. I cannot listen to you. And now for your name."
+
+The Cobbold bowed, with a half-mocking, halfrespectful inclination, as if forcing himself to listen out of courtesy, but secure that she would not guess right.
+
+"Wheat! Oats! Maize!" said the Baroness, with a positive air.
+
+The Cobbold stared comically, as if doubting whether she was in earnest; and at last, as if to relieve her out of politeness, he replied, —
+
+"Oh, dear no, that's not at all like it!"
+
+The Baroness hung her head in despair; then, drawing herself up again, she said, —
+
+"How do I know you are not deceiving me? You say this is not your name, and I have to believe you — but suppose I maintain that it is it?"
+
+"You are not fair, beautiful Baroness," replied the Wilder Jager, with a charming dignity. "I have never deceived you, nor ever would I deceive so noble a lady! what I have promised, I have kept; but in this case I have no means of deceiving you — ^great as is my power, that is one thing beyond it. Could a mortal, indeed, discover and pronounce my name in my presence, I could not stand before him an instant. But this it is not given to mortals to know, and that is why I proposed this difficulty to you. Should I have paid you so bad a compliment," he added, with his cynical laugh, "as to render it possible that I should lose so great a prize.?"
+
+The Baron rode up while he was saying this, and shrank dumb with despair at the cruel words and the positive tone in which they were uttered.
+
+Without condescending to exchange a word with the Cobbold this time, he lifted his wife on to her palfrey and rode away with her in silence.
+
+It was now all over. His despondency even gained the Baroness, and she ceased to rack her brain with the hope of finding the inconceivable
+name. Her eye not only dared not raise itself to the tall dark trees — it had not even power to range over the landscape. With her head sunk upon her breast, she sat silently among her flowers in her oriel window, nor cared even to look at them. Only in the morning and the evening they knelt together in the chapel of the castle, and prayed that the calamity might pass away yet.
+
+The days went by, and now the last but one had come; and the Baroness trembled, for her imagination pictured the Cobbold coming to carry her away. But her courage did not forsake her even now, and she proposed to go out into the forest to meet her fate, as more noble than waiting for it to overtake her.
+
+The Baron, too dispirited to discuss any matter, and indifferent to every thing, now that all he cared for was to be taken from him, gave a listless consent. The next morning, having prayed and wept together in the castle chapel, they set out on their mournful pilgrimage, the young wife led as a lamb to the sacrifice.
+
+The flowers bloomed beneath their feet, and the sun shone warm overhead, the birds sang blithe and gay — all nature was bright and fresh; but with heavy hearts they passed through the midst, nor found a thought but for their own great sorrow. As they came to the borders of the forest, however, the Baroness discerned the cry as of one in distress. Forgetting for the moment her own agony, hercompassionate heart was at once moved, and she begged her husband to turn aside with her, and find out the poor wretch who pleaded so piteously. In a little time they had followed up the sound, and they found one of the Wilder Jager's men tied in front of a lately lighted fire. In a few minutes more the heaped-up wood would have been all in fiames, and then the luckless wight must have been slowly roasted! At a word from the Baroness, the Baron cut his bonds; and then they inquired what was the occasion of his punishment. "Oh, it don't want much to get a punishment out of the Wilder Jager!" was the answer.
+
+"Is he so very severe, then?" asked the Baroness, her cheek blanching with fear.
+
+"At times, yes; it depends how the fancy takes him — if he is out of humour he spares no one. If he were not so violent and arbitrary, I would do you a good turn for that you have done me; but I dare not, his anger is too fearful."
+
+The more he descanted on the Wilder Jager's barbarity, the more the Baroness prayed that he would tell her the word that would save her; but he dared not, and all her instance was in vain. "And yet there might be a means," he said, for he was desirous of doing a service to his deliverers.
+
+"Oh, speak! tell us what we can do — no matter what it is, we will do it!" answered both at once.
+
+"Well, if you happen to overhear it, I shan't have told you, and yet it will serve your turn just as well;" and with that he walked on close in front of them, singing carelessly as he went.
+
+"How are we to 'overhear' it, Heinrich ?" said the Baroness, after a bit.
+
+"He seems to have forgotten us," replied the Baron, in despair. "I have been expecting him every minute to turn round and give us a hint of how he meant to help us; but it is just like every one you do a favour to — when they have got what they want, they forget all about you."
+
+They walked on in silence; and the fellow kept on close in front of them, singing as before, and always the same verse.
+
+At last the Baroness got wearied with hearing the same thing over and over again, and she began repeating the words over to herself, mechanically. She could not make them out at all at first, for he had a rough, abrupt articulation, but by dint of perseverance in an occupation which served as a distraction to her agony, she at last made it out, word by word: —
+
+"The Wild Huntsman's betrothed (though he is not tamed)
+
+To a lady fair Driven to despair. If she only knew he's Burzinigala named!"
+
+"Burzinigala named!" exclaimed the Baroness, with the ringing laugh of former days, and clapping her hands merrily.
+
+"I have it all right this time, you may depend, Heinrich!" and she laughed again.
+
+The Baron was too delighted for words — he embraced his wife in his joy; and they walked on with a very different mien from what they wore before. The first joy over, they turned to thank their helper; but he had already disappeared, climbing over the tops of the trees to get out of sight of the Wilder Jager's eye for as long as might be.
+
+There was no more lingering now, they hasted on, anxious only to proclaim their triumph.
+
+The ilex grove was soon reached, and the jewelled horn quickly produced the Wilder Jager.
+
+To-day he was habited with greater care even than on the former occasions, and there was also still more assurance in his manner, and still more forwardness to flatter.
+
+"Well, lady fair," he said, with a mocking air, "do you deem you have guessed my name this time?"
+
+"Really, it is so difficult," replied the lady, "that how can you think I can hope to succeed? Besides, why should I wish to do what would deprive me of so charming a companion?"
+
+The Wilder Jager in his turn was perturbed. Nothing could have made him happier than to hear such words from her lips, could he have deemed
+
+them sincere; but there was an irony in her tone and a playfulness in her countenance which showed that her heart was not in her words. Yet he felt convinced she could not discover his name; and so he knew not what to think, and scarcely what to say. And the Baroness, delighting in his confusion, continued teasing him, like a cat with a mouse.
+
+After a good deal of this bantering, in which the Wilder Jager got quite bewildered, the Baroness rose majestically.
+
+"Have we not had enough talking?" she said, with emphasis; "when are you going to take me home — Sir BURZINIGALA.?"
+
+It would be impossible to describe the effect of this word. He rose from the earth with one bound. The beauty, the calmness, the commanding air, which had at one time charmed the Baroness, had all fled. Wild, savage, and furious as he had first appeared and tenfold more, he now showed; and the sparks flew from his eyes on all around. Through the thick tops of the trees he passed, they hardly knew how; and soon the only trace of him left was that of the sparks that smouldered on the dry heath.
+
+It only remained for the Baron and Baroness to return home, locked in each other's arms. And they continued loving each other more than ever before to the end of their days.
+
+---
+
+```{admonition} The Pretty but Idle Girl, 1877
+:class: dropdown
+Wentworth Webster, *Basque Legends*, 1877, [p. 56-8](https://archive.org/details/basquelegendscol00websrich/page/56/mode/2up).
+
+THE PRETTY BUT IDLE GIRL. `[M. Cerquand has the same tale, Part I., p. 41.]`
+
+Once upon a time there was a mother who had a very beautiful daughter. The mother was always bustling about, but the daughter would not do anything. So she gave her such a good beating that she sat down on a flat stone to cry. One day the young owner of the castle went by. He asks:
+
+"What makes such a pretty girl cry like that?"
+
+The woman answers him:
+
+"As she is too pretty she will not work."
+
+The young man asks if she knows how to sew.
+
+She answers, "Yes; if she liked she could make seven shirts a day."
+
+This young gentleman is much smitten with her. He goes home, and brings a piece of linen, and says to her:
+
+"Here are seven shirts, and if you finish them by such a time we will marry together."
+
+She sat thinking without doing anything, and with tears in her eyes. Then comes to her an old woman, who was a witch, and says to her:
+
+"What is it makes you so sad?"
+
+She answers, "Such a gentleman has brought me seven shirts to sew, but I cannot do them. I am sitting here thinking."
+
+This old woman says to her:
+
+"You know how to sew?"
+
+"I know how to thread the needle; (that is all)."
+
+This woman says to her:
+
+"I will make your shirts for you when you want them, if you remember my name in a year and a day." And she adds, "If you do not remember I shall do with you whatever I like. Marie Kirikitoun — nobody can remember my name."
+
+And she agreed. She makes her the seven shirts for the appointed time. When the young man came the shirts were made, and he takes the young girl with joy and they are both married.
+
+But this young girl grew continually sadder and sadder; though her husband made great feasts for her she never laughed. One day they had a frightfully grand festival. There came to the door an old woman, and she asks the servant:
+
+"What is the reason that you have such grand feastings?"
+
+She answers, "Our lady never laughs at all. and her husband has these grand feasts to make her gay."
+
+The old woman replied:
+
+"If she saw what I have heard this day she would laugh most certainly."
+
+The servant said to her, "Stay here; I will tell her so at once."
+
+They call the old woman in, and she told them that she had seen an old woman leaping and bounding from one ditch to another, and saying all the time:
+
+"Houpa, houpa, Marie Kirikitoun; nobody will remember my name."
+
+When this young lady heard that, she was merry at once, and writes down this name at once. She recompensed highly the old woman, and she was very happy; and when the other old woman came she knew her name. `[This is a very widely spread legend. Cf. Patrañas, "What Ana saw in the Sunbeam;" "Duffy and the Devil," in Hunt's "Popular Romances of the West of England," p. 239; also Kennedy's "Idle Girl and her Aunts," which is very close to the Spanish story; and compare the references subjoined to the translation of the Irish legend in Brueyre's "Contes Populaires de la Grande Bretagne," p. 159.]`
+
+ESTEFANELLA HIRIGARAY.
+```
