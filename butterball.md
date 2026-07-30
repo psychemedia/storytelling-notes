@@ -16,7 +16,7 @@ ONCE on a time there was an old wife who sat and baked. Now, you must know that 
 
 So the boy ran out, and came back crying out, —
 
-"Oh, Heaven help us I here comes a great big witch, with her head under her arm, and a bag at her back."
+"Oh, Heaven help us! here comes a great big witch, with her head under her arm, and a bag at her back."
 
 "Jump under the kneading-trough and hide your-self," said his mother.
 
@@ -42,7 +42,7 @@ But when Buttercup was well into the bag, the hag threw it over her back and str
 
 "Half a mile," answered Buttercup.
 
-So the hag put down the sack on the road and went aside by herself into the wood, and lay down to sleep. Meantime Buttercup set to work and cut a bole in the sack with his knife; then he crept out and put a great root of a fir-tree into the sack, and ran home to his mother.
+So the hag put down the sack on the road and went aside by herself into the wood, and lay down to sleep. Meantime Buttercup set to work and cut a hole in the sack with his knife; then he crept out and put a great root of a fir-tree into the sack, and ran home to his mother.
 
 When the hag got home and saw what there was in the sack, you may fancy she was in a fine rage.
 
@@ -70,7 +70,7 @@ So when Buttercup was well into the sack, the hag swung it over her shoulders an
 
 "A mile and a half," answered Buttercup.
 
-So the hag net down the sack, and went aside into the wood to sleep a bit, but while she slept, Buttercup made a hole in the sack and got out, and put a great stone into it. Now, when the old witch got home, she made a great fire on the hearth, and put a big pot on it, and got everything ready to boil Buttercup; but when she took the sack, and thought she was going to turn out Buttercup into the pot, down plumped the stone and made a hole in the bottom of the pot, so that the water ran out and quenched the fire. Then the old hag was in a dreadful rage, and said, "If he makes himself ever so heavy; next time, he shan't take me in again."
+So the hag net down the sack, and went aside into the wood to sleep a bit, but while she slept, Buttercup made a hole in the sack and got out, and put a great stone into it. Now, when the old witch got home, she made a great fire on the hearth, and put a big pot on it, and got everything ready to boil Buttercup; but when she took the sack, and thought she was going to turn out Buttercup into the pot, down plumped the stone and made a hole in the bottom of the pot, so that the water ran out and quenched the fire. Then the old hag was in a dreadful rage, and said, "If he makes himself ever so heavy next time, he shan't take me in again."
 
 The third day everything went just as it had gone twice before; Goldtooth began to bark, and Buttercup's mother said to him, —
 
@@ -102,7 +102,7 @@ So, when all in the house were gone to church, the daughter was to take Buttercu
 
 "Stop a bit," said Buttercup; "I'll soon show you how to do it; just lay your head on the chopping-block, and you'll soon see."
 
-So the poor silly thing laid her head down, and Buttercup took an axe and chopped her head off, just as if she had been a chicken. Then he laid her head in the bed, and popped her body into the pot, and boiled it so nicely; and when he had done that, he climbed up on the roof, and dragged up with him the fir-tree root and the atone, and put the one over the door, and the other at the top of the chimney.
+So the poor silly thing laid her head down, and Buttercup took an axe and chopped her head off, just as if she had been a chicken. Then he laid her head in the bed, and popped her body into the pot, and boiled it so nicely; and when he had done that, he climbed up on the roof, and dragged up with him the fir-tree root and the stone, and put the one over the door, and the other at the top of the chimney.
 
 So when the household came back &om church, and saw the head on the bed, they thought it was the daughter who lay there asleep; and then they thought they would just taste the broth.
 
