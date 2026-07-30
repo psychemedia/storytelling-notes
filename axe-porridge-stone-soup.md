@@ -305,8 +305,7 @@ A few months later, the tale appears as an anecdote in the *New York Weekly Maga
 
 ```{admonition} In *New York Weekly Magazine*, July 1807
 :class: dropdown
-In *New-York Weekly Museum*, Vol 19 Iss 24, July 25th, 1807, [pp??](
-https://archive.org/details/sim_ladies-weekly-museum-or-polite-repository-of-amusement_1807-07-25_19_24/page/n1/mode/2up):
+In *New-York Weekly Museum*, Vol 19 Iss 24, July 25th, 1807, [pp??](https://archive.org/details/sim_ladies-weekly-museum-or-polite-repository-of-amusement_1807-07-25_19_24/page/n1/mode/2up):
 
 Anecdotes
 
@@ -338,10 +337,7 @@ In deeper history, it seems that the tale was often ascribed to the actions of S
 
 ```{admonition} *St Bernard's Soup*, N&Q, Jan. 1892
 :class: dropdown
-
-Notes and Queries 1892-01-30: Vol 1 Iss 5
-Notes and queries
-8th S. I. JAN, 30, 1892 [p88](https://archive.org/details/sim_notes-and-queries_1892-01-30_1_5/page/88/mode/2up):
+In *Notes and Queries*, 8th S. I (Vol 1 Iss 5), Jan. 30, 1892, [p88](https://archive.org/details/sim_notes-and-queries_1892-01-30_1_5/page/88/mode/2up):
 
 ST. BERNARD'S SOUP.— Will any reader of 'N. & Q.' kindly give me information with respect to the legend of St. Bernard's soup? The frugal saint was supposed to make his soup with a pebble, adding, of course, various other ingredients. What is the origin of the legend, and where is it to be found? There is a story by A. Karr, 'La Soupe au Caillou,' but I do not think that he makes any mention, of St. Bernard. K. W. H.
 
@@ -351,11 +347,8 @@ Brewers *Dictionary Of Phrase and Fable* of 1870 describes Saint Bernard's tale 
 
 ```{admonition} Stone soup or St. Bernard's soup, Brewer's, 1870
 :class: dropdown
-https://archive.org/details/dli.ernet.15983/page/867/mode/2up
-Brewers Dictionary Of Phrase and Fable (1870)
 
-Publication date 1870
-p867
+In *Brewers Dictionary Of Phrase and Fable*, 1870, [p867](https://archive.org/details/dli.ernet.15983/page/867/mode/2up).
 
 Stone soup or St. Bernard's soup.
 
@@ -401,14 +394,7 @@ Finally, in some remarks made in this 1848 collection, we see further evidence o
 ```{admonition} An ingenious soldier, 1848
 :class: dropdown
 
-https://archive.org/details/loiteringsineur00corsgoog/mode/2up
-
-Loiterings in Europe; or, Sketches of travel in France, Belgium, Switzerland, Italy, Austria, Prussia, Great Britain, and Ireland
-by Corson, John W
-
-Publication date 1848
-
-p. 358
+John W Corson, *Loiterings in Europe; or, Sketches of travel in France, Belgium, Switzerland, Italy, Austria, Prussia, Great Britain, and Ireland*, 1848, [p. 358](https://archive.org/details/loiteringsineur00corsgoog/mode/2up).
 
 Swarms of poor women and children came begging and dispensing blessings, at a penny each, in that copious dialect of our mother tongue, as distinctive to us, as was the Ionic or Doric to the ancient Greeks — the rich Hibernian. In one desolate country-place, a number of poor creatures were sitting by the side of a road, eating, from wooden dishes, government stirabout, made of Indian meal, salt, and water. I had the curiosity to get out of the conveyance, and go into a little temporary shelter, where a couple of functionaries were boiling it in a huge iron kettle, and doling it out in rations. In Dublin, also, a friend and I made a pilgrimage to one of M. Soyer's famous soup kitchens. There is a capital story told of an ingenious soldier foraging, who brought a stone, cleanly washed, to a simple countrywoman, and excited her wonder to the highest pitch, by showing her how to make what he termed stone soup. First, he loaned a pot and water to boil the stone in; then he asked for salt, butter, and vegetables; a little meat, as he said, just to "color" it, and, finally, bread, and a spoon to eat his savory dish. French science, in the hands of M. Soyer, equally astonished the committees of Dublin; and, by means of very simple apparatus, he managed to afford nutriment to thousands, which, from its abundance and extraordinary cheapness, deserved to be called famine soup.
 
