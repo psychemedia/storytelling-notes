@@ -74,7 +74,7 @@ A Man of Noble blood, and well-beloved in England,and hath been a great mains ta
 
 The Tune 1s C1 / Sir Fobn R.: ly Cor Or, 1m of all Td,
 
-0) L vou that be Good Fellows, come!ilten unto we,
+0) L you that be Good Fellows, come!ilten unto we,
 
 ii that you keep the Ale-houſe,
 
@@ -106,13 +106,13 @@ And Nick the nimble Taylor, doth cow that he ſhail dye:
 
 Amnl 0 tt rhe Weaver doth complain, With ma'ty Tradeſ-nen more,
 
-i hope their Javour 45 in vain, therefore they may give Ore.
+I hope their Javour 45 in vain, therefore they may give Ore.
 
 Yet now a little white give car, you that ate [Landers by,
 
-And vou preſently ſhall hear, Sir John Gor demn'd to dye:
+And you preſently ſhall hear, Sir John Gor demn'd to dye:
 
-Al] you that love poor Zarlep-Conn, a zcod word for hum give,
+All you that love poor Zarlep-Conn, a zcod word for hum give,
 
 And he that ſpeaks againſt him, [ wiſa he may not live.
 
