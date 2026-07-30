@@ -128,9 +128,9 @@ So Cap o' Rushes came.
 
 'Who are you then?' says the young man.
 
-'T'll show you,' says she. And she offed with her cap o' rushes, and there she was in her beautiful clothes.
+'I'll show you,' says she. And she offed with her cap o' rushes, and there she was in her beautiful clothes.
 
-Well, the master's son h got well very soon, and they was to be married in a little time. It was to be a very grand wedding, and everyone was asked far and near. And Cap o' Rushes' father was asked. But she never told nobody who she was,
+Well, the master's son got well very soon, and they was to be married in a little time. It was to be a very grand wedding, and everyone was asked far and near. And Cap o' Rushes' father was asked. But she never told nobody who she was,
 
 But before the wedding she went to the cook and says she,
 
