@@ -886,7 +886,7 @@ Next morning, the Squire noticed that his wife ate no breakfast, and, at dinner,
 
 "You know dear," said the Squire, "that harvest is late. We have still much corn to get into the mowhay. Besides, it's full time that all should be ready for cider-making. I would do my best to catch a hare if that would please ye," he continued, over a bit; "but dont 'e think that the old story about the child, that according to your fancy has been coming to and again for the last three years, is ever going to fool me to the neglect of corn and apples."
 
-"Hard-hearted, unbelieving wretch," replied she, "you don't deserve to be the father of my child. Know, to your shame, that innocent virgins, when first wedded are often deceived with false hopes. Now would 'e have our cheeld disfigured for the sake of such little good as you are among the harvest people? An old man's bantling," she continued, "is mostly a wisht and wizened-looking object! Would 'e like to see ours with a face like a hare besides an ugly nose, and a mouth from ear to ear? Go, do, like a dear, and stay my longing; but in the evening, after croust (afternoon refreishment), will be time enow for 'e to start, that we may have one for dinner to-morrow."
+"Hard-hearted, unbelieving wretch," replied she, "you don't deserve to be the father of my child. Know, to your shame, that innocent virgins, when first wedded are often deceived with false hopes. Now would 'e have our cheeld disfigured for the sake of such little good as you are among the harvest people? An old man's bantling," she continued, "is mostly a wisht and wizened-looking object! Would 'e like to see ours with a face like a hare besides an ugly nose, and a mouth from ear to ear? Go, do, like a dear, and stay my longing; but in the evening, after croust (afternoon refreshment), will be time enow for 'e to start, that we may have one for dinner to-morrow."
 
 With coaxing, scolding, and hopes of paternal joys, she, at length prevailed.
 
@@ -906,7 +906,7 @@ O! the funny devil! How he tossed up his heels and tail when he danced and sang,
 "'To strange countries you shall go,  
 For never here can you know.'
 
-"I've forgotten the rest," said he, after a pause; "but give me supper, and fill the tankard again. Then I will begin at the beginning, and tell 'e all about the strange things I've seen to-night. I wish you had been there; it would have made ye laugh, though I havn't seen 'e so much as smile for a long time. But give me supper, I tell thee again, and don't stay gaping at me like a fool frightened! Then, and not before, I'll tell thee all about our uncommon chase, and we will ride 'Over land, and over sea, with the jolly devil, far away, far away!'" Duffy placed a pie on the board and helped the Squire. After supper he came more to himself, and said, "We hunted all the way down, both sides of the Bottom, from Trove to Lamorna without seeing a hare. It was then dark, but for the starlight : we turned to come home, and, up by Bosava, out popped a hare, from a brake of ferns close beside the water. She (the hare) took up the moors; we followed close after, through bogs, furze, and brambles, helter-skelter, amongst mire and water. For miles we chased her — the finest hare that ever was seen, most in the dogs' mouths all the way, yet they couldn't catch her at all. By the starlight we had her in sight all the way till far up the Bottom, between Trove and Boleigh, there we lost all sight and scent of her at last, but not till, tearing through brakes of brambles and thorns, we found ourselves in the Grambler Grove. And now," continued he, aftet a pull from the flagon, "I know for certain that what old folks say is true — how witches meet the Devil there of summer's nights. In winter they assemble in the Fuggo Hole, we all know; because one may then often hear the devil piping for their dance under our parlour floor — that's right over the inner end of the Fuggo. And now I believe what we took for a hare was a witch that we chased into this haunted wood. Looking through the thickets I spied, on a bare spot, surrounded by old withered oaks, a glimmering flame rising through clouds of smoke. The dogs skulked back and stood around me like things scared. Getting nearer, and looking through an opening, I saw scores of women — some old and ugly, others young and passable enow as far as looks go. Most of them were busy gathering withered ferns or dry sticks, to the fire. I noted, too, that other witches, if one might judge by their dress, were constantly arriving — flying in over the trees, some mounted on ragworts, brooms, ladles, furze-pikes, or anything they could get astride of. Others came on through the smoke as comfortable as you please, sitting on three-legged stools; and alighted by the fire, with their black cats on their laps. Many came in through the thickets like hares, made a spring through the fiame, and came out of it as decent lasses as one might see in Buryan Church of a holiday. A good large bonfire soon blazed up; then, by its light, I saw, a little way back sitting under a tree, who should 'e think? Why no less than old witch Bet, of the Mill. And by her side a strapping dark-faced fellow, that wasn't bad looking and that one wouldn't take to be a devil at all but for the company be was with, and the sight of his forked tail that just peeped out from under his coat-skirts. Every now and then Old Bet held to his mouth a black leather jack, much like ours, and the Devil seemed to like the liquor by the way he smacked his lips. Now said I to myself I don't much dislike nor fear thee, devil or no, as thee art so honest as to drink hearty. So here's to thee, wife!"
+"I've forgotten the rest," said he, after a pause; "but give me supper, and fill the tankard again. Then I will begin at the beginning, and tell 'e all about the strange things I've seen to-night. I wish you had been there; it would have made ye laugh, though I havn't seen 'e so much as smile for a long time. But give me supper, I tell thee again, and don't stay gaping at me like a fool frightened! Then, and not before, I'll tell thee all about our uncommon chase, and we will ride 'Over land, and over sea, with the jolly devil, far away, far away!'" Duffy placed a pie on the board and helped the Squire. After supper he came more to himself, and said, "We hunted all the way down, both sides of the Bottom, from Trove to Lamorna without seeing a hare. It was then dark, but for the starlight : we turned to come home, and, up by Bosava, out popped a hare, from a brake of ferns close beside the water. She (the hare) took up the moors; we followed close after, through bogs, furze, and brambles, helter-skelter, amongst mire and water. For miles we chased her — the finest hare that ever was seen, most in the dogs' mouths all the way, yet they couldn't catch her at all. By the starlight we had her in sight all the way till far up the Bottom, between Trove and Boleigh, there we lost all sight and scent of her at last, but not till, tearing through brakes of brambles and thorns, we found ourselves in the Grambler Grove. And now," continued he, after a pull from the flagon, "I know for certain that what old folks say is true — how witches meet the Devil there of summer's nights. In winter they assemble in the Fuggo Hole, we all know; because one may then often hear the devil piping for their dance under our parlour floor — that's right over the inner end of the Fuggo. And now I believe what we took for a hare was a witch that we chased into this haunted wood. Looking through the thickets I spied, on a bare spot, surrounded by old withered oaks, a glimmering flame rising through clouds of smoke. The dogs skulked back and stood around me like things scared. Getting nearer, and looking through an opening, I saw scores of women — some old and ugly, others young and passable enow as far as looks go. Most of them were busy gathering withered ferns or dry sticks, to the fire. I noted, too, that other witches, if one might judge by their dress, were constantly arriving — flying in over the trees, some mounted on ragworts, brooms, ladles, furze-pikes, or anything they could get astride of. Others came on through the smoke as comfortable as you please, sitting on three-legged stools; and alighted by the fire, with their black cats on their laps. Many came in through the thickets like hares, made a spring through the fiame, and came out of it as decent lasses as one might see in Buryan Church of a holiday. A good large bonfire soon blazed up; then, by its light, I saw, a little way back sitting under a tree, who should 'e think? Why no less than old witch Bet, of the Mill. And by her side a strapping dark-faced fellow, that wasn't bad looking and that one wouldn't take to be a devil at all but for the company be was with, and the sight of his forked tail that just peeped out from under his coat-skirts. Every now and then Old Bet held to his mouth a black leather jack, much like ours, and the Devil seemed to like the liquor by the way he smacked his lips. Now said I to myself I don't much dislike nor fear thee, devil or no, as thee art so honest as to drink hearty. So here's to thee, wife!"
 
 Duffy was very impatient, but took care not to interrupt the Squire. After draining the flagon, he continued to say,
 
@@ -1010,7 +1010,7 @@ Now there was nothing remarkable in An Betty's civil words; but as she stood clo
 
 Betty, however, without appearing to hear or to heed anything, mounted the heaving-stock, settled herself comfortably on her high-peaked bow-pad, and jogged away with Dame Pendar; Squire Lovell and others going the same road. At parting Duffy said to her, "now be sure An Betty you come up early to try our Christmas-cake and ale." "Thank your honours I will," replied she, in turning off to the Mill.
 
-It was customary for the Squire's tenants, and all who choose, to assemble at his house every night from Chrifitmas-Eve till twelfth-night, to freely partake of his abundant cheer and help in the merry disports of the tide; yet he wasn't at all pleased because his wife invited the old dame. "I should'nt have minded her coming at any other time," said he, but to-day a good many from the hurling will come home with us and pass the evening; I hope however, she will be on her best behaviour before the quality : to be sure one don't like to offend the spiteful old witch for fear of her tricks."
+It was customary for the Squire's tenants, and all who choose, to assemble at his house every night from Christmas-Eve till twelfth-night, to freely partake of his abundant cheer and help in the merry disports of the tide; yet he wasn't at all pleased because his wife invited the old dame. "I should'nt have minded her coming at any other time," said he, but to-day a good many from the hurling will come home with us and pass the evening; I hope however, she will be on her best behaviour before the quality : to be sure one don't like to offend the spiteful old witch for fear of her tricks."
 
 In the afternoon Squire Lovell and his wife, with many others — mostly on horse-back— were got together near Daunce-Mayn when old Betty stalked in to their midst, and just such another scene was acted there as took place in Church-town.
 
@@ -1037,7 +1037,7 @@ The entertainment concludes with a dance, to music made by Father Christmas on a
 
 The version of the tale that is perhaps best well known is *Rumpelstiltskin*, as published by the Brothers Grimm.
 
-In the 1884 translation of the complete set of tales, in two volumes, by Margaret Hunt, *The Spinners* and *Runmpelstiltskin* both appear in volume, as tales `14` and and `55` respectively.
+In the 1884 translation of the complete set of tales, in two volumes, by Margaret Hunt, *The Spinners* and *Runmpelstiltskin* both appear in volume, as tales `14` and `55` respectively.
 
 ```{admonition} The Three Spinners, 1884
 :class: dropdown
@@ -1596,19 +1596,21 @@ TO DO
 
 *The Folk-Lore Journal*, Vol. 7, No. 2, 1889, [pp. 135-163](https://archive.org/details/bub_gb_8PMRAAAAYAAJ/page/134/mode/2up).
 
-Eadward Cldd, *The Philosophy of Rumpelstiltskin* `[Read before the Folklore Society, 26th Febmaiy, 1889.]`
+Eadward Clodd, *The Philosophy of Rumpelstiltskin* `[Read before the Folklore Society, 26th February, 1889.]`
 
 IN the last annual EeporL of the Council to the Members uf this Society, the opinion is expressed that the end of its first decade marks a eonyenieiit point at which to paose and consider whether the work of collection of materials is, without being arrested, soffidently adranoed to justify the subject* ing of those materials to scientific treatment.
 
-Science, it is scarcely needful to say, is but another name for knowledge into which orderly arrangement is imported. It is concerned with the deducing of general principles from observntion and, where practicable, examination of things; and its method, at least in that branch which is known as applied science, is uniform, namely, to. examine, compare, and classify or systematise, with the object of getting at the significance of things.
+Science, it is scarcely needful to say, is but another name for knowledge into which orderly arrangement is imported. It is concerned with the deducing of general principles from observntion and, where practicable, examination of things; and its method, at least in that branch which is known as applied science, is uniform, namely, to examine, compare, and classify or systematise, with the object of getting at the significance of things.
 
-For the interest of these lies not in what they are, but in what they \ denote. Analysis is good, but it is of vahie only in the degree that it makes synthesis possible. It is the meaning at the heart of things which exdtes our quests unless we be content to remain mere makers of catdogaeBi doll pigeon-holers of facte, with never a thovght or care about their Import or relation. The valae of the matorialB with which our Society deals is becoming more and more obTions. That there is nothing "common or nneleani** that the folktale cryetaUices some thought or speculation of a remote past, and the folkwont some obscure custom, is our main task to show. Whether the story embodies man's serion«; reflections, or i.s the outcome of his idle, playful mood, it is tliis trivial or earnest purpose which wo seek to reach. Fortonately for the credit of a stady which is by many regarded aa frivolous, omr research brings as more often than not, and sometimes when least sospected, near some deposit of early though^ some Btrivings after a philosophy which embraces all life in one common origin and destiny; and in sympathy with instinctive feelings of the barbaric nature which are ultimately verified by reason and experience.
+For the interest of these lies not in what they are, but in what they denote. Analysis is good, but it is of value only in the degree that it makes synthesis possible. It is the meaning at the heart of things which excites our quests unless we be content to remain mere makers of catalogues, dull pigeon-holers of facts, with never a thought or care about their import or relation. The value of the materials with which our Society deals is becoming more and more obvious. That there is nothing "common or unclean," that the folktale crystallizes some thought or speculation of a remote past, and the folkwont some obscure custom, is our main task to show. Whether the story embodies man's serious reflections, or is the outcome of his idle, playful mood, it is this trivial or earnest purpose which we seek to reach. Fortonately for the credit of a study which is by many regarded aa frivolous, our research brings us more often than not, and sometimes when least suspected, near some deposit of early thought, some strivings after a philosophy which embraces all life in one common origin and destiny; and in sympathy with instinctive feelings of the barbaric nature which are ultimately verified by reason and experience.
 
-Such, then, is the justification for the work of our Society, such the answer to the question J)ic cnr hie — "Why are yon here?"
+Such, then, is the justification for the work of our Society, such the answer to the question *Dic cur hic* — "Why are you here?"
 
-Following on the Unes of a paper which I had the honour of reading before you some time a,?o, and in which, under the title of "The Philosophy of Pnnchkin," I sought to show what was the common idea at the root of the widespread tales grouped thereunder, namely, the belief in the separateness of the soul, or strength, or hearty or whatever else is regarded as the seat of life, from the body, the fate of the soul involving the fate of the body, I propose, in the ]>rescnt paper, to deal with another group of stories likewise embodying a primitive philosophy, to which the ^eut t ie title of "Rumpelstiltskin" may be conveniently given, being borrowed from the well-known story of that nemo in Grimm's Kinder und Eaua-marchenf of which the following is an outline:—
+Following on the lines of a paper which I had the honour of reading before you some time ago, and in which, under the title of "The Philosophy of Punchkin," I sought to show what was the common idea at the root of the widespread tales grouped thereunder, namely, the belief in the separateness of the soul, or strength, or heart, or whatever else is regarded as the seat of life, from the body, the fate of the soul involving the fate of the body, I propose, in the present paper, to deal with another group of stories likewise embodying a primitive philosophy, to which the generic title of "Rumpelstiltskin" may be conveniently given, being borrowed from the well-known story of that nemo in Grimm's *Kinder und Haus-märchen*, of which the following is an outline:—
 
-A poor miller who had a beautiful daughter, thought to make himself of more importance before his king by telling him that she could spin straw into gold. When the king heard this, he bade the man bring his daughter to the palace that her skill might he tcst<»<3. She was then locked up in a room filled with straw, given a spinningwheel, and ordered to spin all the straw into gold during the night, or lose her life. The lonely girl sat bewailing her fate» when the door suddenly opened, and a little roan stood before her. Leammg why she wept, he agreed to fulfil the task for her on her giving him her necklace; and in the morning, when the king came, he found the straw spun into gold. The sight of this increased his greed, and he shut the girl in a larger room, the straw in which she was to spin under the same threat. Again tlie little man eamc to her aid, tliis time receiving her ring in payment. But when the task was laid upon her a third time) the mannikin woald help her only on her agredng to give him the first child whom she should bear the king after her mairiage. One year after this the child was bom, and when the little man came to claim it, the weeping mother offered him all the wealth of her kingdom to set her free from the bargain. At last, touchetl hy her grief, he agreed to let her keep the child if within three days she found out his name. Then the queen thought of all the names that she had ever heard, and pent far and wide to learn other names. But on the first day that the mannikin came, she said all the names that she knew, hut never the right one. And it was the same on the second day. Then on the third day a messenger came to her, saying that he conid find no new name, but that he had seen a funny little man dancmg round a fire in the forest, and shouting—
+TO DO
+
+A poor miller who had a beautiful daughter, thought to make himself of more importance before his king by telling him that she could spin straw into gold. When the king heard this, he bade the man bring his daughter to the palace that her skill might he tcst<»<3. She was then locked up in a room filled with straw, given a spinningwheel, and ordered to spin all the straw into gold during the night, or lose her life. The lonely girl sat bewailing her fate» when the door suddenly opened, and a little roan stood before her. Leammg why she wept, he agreed to fulfil the task for her on her giving him her necklace; and in the morning, when the king came, he found the straw spun into gold. The sight of this increased his greed, and he shut the girl in a larger room, the straw in which she was to spin under the same threat. Again the little man came to her aid, tliis time receiving her ring in payment. But when the task was laid upon her a third time) the mannikin woald help her only on her agredng to give him the first child whom she should bear the king after her mairiage. One year after this the child was bom, and when the little man came to claim it, the weeping mother offered him all the wealth of her kingdom to set her free from the bargain. At last, touchetl hy her grief, he agreed to let her keep the child if within three days she found out his name. Then the queen thought of all the names that she had ever heard, and pent far and wide to learn other names. But on the first day that the mannikin came, she said all the names that she knew, hut never the right one. And it was the same on the second day. Then on the third day a messenger came to her, saying that he conid find no new name, but that he had seen a funny little man dancmg round a fire in the forest, and shouting—
 
 "To-day I bake, to-morrow I sew,  
 The next I'll have the yonsg Queen's child,  
@@ -1639,7 +1641,7 @@ And I a red-facod eliuld.y hoy.
 
 In the Gothic translation of the Gospels, Luke viii. 54, "Maid, arise*" is rendered " Maur, urrcis."
 
-Bat the gal, she ssjs to herself, Well, if they'll oome agin, 111 ate 'em now.** And she set to work and ate *eni all, first and last.
+Bat the gal, she ssjs to herself, Well, if they'll oome agin, 111 ate 'em now." And she set to work and ate *eni all, first and last.
 
 Well, come sapper time the woman she said, "Qoo yon, and git one o* them there pies. I dare say they're oome agin now."
 
@@ -1653,11 +1655,11 @@ Bat yon can't, if they ain*t come," says the gal
 
 "But I can," says she, "Qoo, yon, and bring the best of 'em."
 
-"Best or worst," says the gal, I've at« 'em all, and you can't ha' one till that's come agin."
+"Best or worst," says the gal, I've ate 'em all, and you can't ha' one till that's come agin."
 
 Well, the woman she were wholly bate, and she took her spinnin* to the door to spin, and as she span she sang;
 
-"Mj dattcr ha' ate Ats, Ats plei to-day. Uj dailar ba* ate five^ five piss to-day."
+"Mj datter ha' ate Ats, Ats plei to-day. Uj dailar ba* ate five^ five piss to-day."
 
 The king he wore a' comin' down the street, an* he hard her sing, but wliat she sang he couldn't hare, so he stopped and said: What were that you was a singun of, uiaw'r?"
 
@@ -1673,7 +1675,7 @@ Then he said, "Look yon here, I want a wife and m marry yonr darter. Bat look yo
 
 Well, 80 thej was nuirriod. An* for Ueven months the gal had all the Tittles she liked to aie and aU the gownds she liked to git, an* all the CDmpnj she liked to her.
 
-Bat when the time was gettin* oorer, she began to think about them there skeins an* to wonder if he had *em in mind. But not one word did he say al>out 'em, an' she whoolly thowt he'il forgot 'em.
+Bat when the time was gettin' oorer, she began to think about them there skeins an* to wonder if he had *em in mind. But not one word did he say al>out 'em, an' she whoolly thowt he'il forgot 'em.
 
 Howsivir, the last day o' the last month ho takes her to n room ehcM nivcr set eyes on afore. There won't notbia in it but a spiniiin wheel and a stool. An' says be, Now, me dear, hare yow'll be shut in to-morrow with some Tittles and some flax, and if you hain't spun fire skeins by the night, yar hid *11 goo off/
 
@@ -1683,7 +1685,7 @@ Well, she were that frightened, she'd alius been sneh agatless mawtber, that she
 
 she to dew to-morrer, witli no one to come nigh her to liclp her. She sat down on a stool in the kitchen, and lork I bow she did cry!
 
-lIowr«ivir, all on a sudden she hard a sort of a knockin' low down on tlie door. She upped and oped it, an' what should she see but a small little black tiling with a long tail. That looked up at her right kowrions, an* that said:
+lIowr«ivir, all on a sudden she hard a sort of a knockin' low down on the door. She upped and oped it, an' what should she see but a small little black tiling with a long tail. That looked up at her right kowrions, an* that said:
 
 "What are yew a ciyin* for?"
 
@@ -1693,18 +1695,17 @@ lIowr«ivir, all on a sudden she hard a sort of a knockin' low down on tlie door
 
 for."
 
-That oont dew me noo good if 1 dow," says she. V li Yew doon't know that," that sai l, an' twirled that's tail round.
+That oont dew me noo good if I dow," says she. V li Yew doon't know that," that sai l, an' twirled that's tail round.
 
-"Well," says she, "that oon't dew no harm, if that doon't dew no good,** and she upped and told aboat the pies, an' the skeins an' everything.
+"Well," says she, "that oon't dew no harm, if that doon't dew no good," and she upped and told aboat the pies, an' the skeins an' everything.
 
-« This is what Til dew," says the little block thing, Til come to yar winder iv'ry momin* an' take the flax an' bring it spun at night.**
-
+"This is what Til dew," says the little block thing, Til come to yar winder iv'ry momin* an' take the flax an' bring it spun at night."
 
 "What's your pay?" says she.
 
 That looked out o' the corners o' that's eyes, an' that s.iM, "I'll give you three guesses cvory night to guess my name, au' if you hain't guessed it afore the month's up, yew shall be mine."
 
-Well* she thowt she'd be sure to gaess that's name afure the month was ap. "All right," says she, "I agree."
+Well* she thowt she'd be sure to gaess that's name afure the month was up. "All right," says she, "I agree."
 
 "All right," that says, an' lork how that twirled that's tail.
 
@@ -1714,7 +1715,7 @@ Well, the next day, har husband he took her inter the room, an* there was the fl
 
 He'd hardly goon, when there was a knockin* agin the winder.
 
-She upped and she oped it, and there Stire enough was the little oo'd thing a settin' on the ledge. "Where's the flax?" says he. Here te be,** says she. And she gonned it to him.
+She upped and she oped it, and there Stire enough was the little oo'd thing a settin' on the ledge. "Where's the flax?" says he. Here te be," says she. And she gonned it to him.
 
 Well, come the evenin' a knockin' come agtn to the winder. She upped an' she o{)ed it, and there were the littlo oo'd thing with five skeins of flax on his arm.
 
@@ -1722,11 +1723,11 @@ Well, come the evenin' a knockin' come agtn to the winder. She upped an' she o{)
 
 "Now, what's my name?" says he.
 
-"What, is that Bill?" says she. Koo, that ain*t,** says he, an' he twirled his tail.
+"What, is that Bill?" says she. Koo, that ain't," says he, an' he twirled his tail.
 
 "Is that Ned?" says she.
 
-"Noo, that ain*t»** says he, an' he twirled hts tail
+"Noo, that ain't" says he, an' he twirled hts tail
 
 "Well, is that Mark?" says she.
 
@@ -1749,17 +1750,17 @@ At last te came to the last Atj bat one. Tiie impet that oome at night along o* 
 
 "Noo, t'ain't," that says.
 
-"Is that Sammlo ? *' says she. Noo, t'ainV' that sajs. A«well, Is that Methnsalem?" says she.
+"Is that Sammlo?" says she. Noo, t'ainV' that sajs. A«well, Is that Methnsalem?" says she.
 
-"Noo, t'ain't that norther,** he says.
+"Noo, t'ain't that norther," he says.
 
-Then that looks at ber with that's eyes like a cool o' fire, an' that says, "Woman" there's only tomorrer night, an* then yaill be mine! **
+Then that looks at ber with that's eyes like a cool o' fire, an' that says, "Woman" there's only tomorrer night, an' then yaill be mine!"
 
-An* away te Hew.
+And away te Hew.
 
-Well, she felt tliat horrnd. Howsomcdiver, slic hard tlie king a comin' along the passage. In he came, an' wlieu lio sec the ii?o skeins, lie says, says he :
+Well, she felt that horrid. Howsomcdiver, slic hard the king a comin' along the passage. In he came, an' wlieu lio sec the ii?o skeins, he says, says he :
 
-"Well, me dare," says he* ** I don't see but what yew'll ha' yonr skeins ready tomorrer nigbt as well, an* as I reckon I skom't ha' to kill yon, 111 ha' sapper in here to night." So th^ brought supper, an' another stool for him, and down the tew they sat.
+"Well, me dare," says he, "I don't see but what yew'll ha' yonr skeins ready tomorrer nigbt as well, an* as I reckon I skom't ha' to kill yon, 111 ha' sapper in here to night." So th^ brought supper, an' another stool for him, and down the tew they sat.
 
 Well, he hadnt eat hot a moathful or so, when ha stops an' begins to laugh.
 
@@ -1774,11 +1775,11 @@ Well, when the mawther heord this, she faired as if she could ha' jomped outer h
 
 Next daj, that there little thing looked soo malioeful when he como for the flax. An' when night came, she heerd tiiat a knockin* agin the winder panes. She oped the winder, an' that come right in on the ledge. That were griuiiiu from are to are, an' Ool tha's tail were twirlin' ronnd so fast.
 
-** What's my name?'" that sajs, as that goiincd hei- the skeins.
+"What's my name?" that says, as that goiincd her the skeins.
 
 "Is that Solomon?" she says, pretendin' to bo afoard.
 
-** Noo, t'ain't," that says, an' that come ladder inter the room.
+"Noo, t'ain't," that says, an' that come ladder inter the room.
 
 "Well, is that Zehedee?" says she, agin. Noo, t*ain*t," says the impet. An' then that laughed an' twirled that's tail till yew cou'n*t hardly see it.
 
@@ -1786,9 +1787,9 @@ Next daj, that there little thing looked soo malioeful when he como for the flax
 
 "Well, she backed a step or two, an' she looked at it, and then she laughed out, an' says she, a pointin' of her finger at it,
 
-<( Nimmy Ninuny not Tar Dame's Tom Tit Tot"
+"Nimmy Ninuny not Tar Dame's Tom Tit Tot"
 
-Well, when that hard her, tliat shruck awful an' awa' that flew into the dark, an' she ni?er saw it noo more.
+Well, when that hard her, that shruck awful an' awa' that flew into the dark, an' she ni?er saw it noo more.
 
 A. W. T.
 
@@ -1811,7 +1812,7 @@ Henderson, in his Folklore of the Northern Cbtmties,^ quotes from AVilkie's MS. 
 
 • mkhre aoe. Edition 1879, pp. 2a8— 2C1.
 
-sound of a a uncouth voice near lior. whon laying her car to a stone she heard these vronls, ** Little kens the \vce lassie on the brae-head that ma name's HabetroC Then looking down a liole * she saw an unsightly company busy with distaff and spindle, and heard Habetrot tell a hook-nosed sister, Scantlie Mab, to bundle up " the lassie's yarn. The girl turned homewards, bnt was orertaken by Habetrot, who bade her not tell how the yarn was spun. Reaching home she fonnd that her mother had gone to bed, but had left some black paddings hanging to dry. These the girl ate, and when the mother came down next morning she was vexed to find the puddings gone, but delighted to see the hauks of yarn. She ran from the house, crying;
+sound of a a uncouth voice near lior. whon laying her car to a stone she heard these vronls, "Little kens the \vce lassie on the brae-head that ma name's Habetrot Then looking down a liole" she saw an unsightly company busy with distaff and spindle, and heard Habetrot tell a hook-nosed sister, Scantlie Mab, to bundle up " the lassie's yarn. The girl turned homewards, bnt was orertaken by Habetrot, who bade her not tell how the yarn was spun. Reaching home she fonnd that her mother had gone to bed, but had left some black paddings hanging to dry. These the girl ate, and when the mother came down next morning she was vexed to find the puddings gone, but delighted to see the hauks of yarn. She ran from the house, crying;
 
 "My daughter's spau Ecin, sein, beiu, My daaghter*8 eaten sein, selo, sein,  
 And all before dayli|(bt ."
@@ -1824,50 +1825,44 @@ Vol. 7^Pa&t 2. l
 
 green fairy anything she liked, and the sow was made well. To the mother's tlisinny the fairy then said that she wouiU have tlic bairn. '* But," said f^Le, "this I'll let ye to wnt, I canna by the law we leeve on take your bairn till the third day after tiiis day; and no then if ye can tell me my right name," For two days the poor woman wandered "coddlin' her bairn" when, as she came near an old qaarrj ho\c, she heard the "barring of a lint-wheel, and a voice lilting a song," and then saw the green fairy at her wheel, "singing like ony precentor."
 
-** Little kens onr;rt:id dauic at hamc That Whuppuy Ibtoorie i& my name I "
+"Little kens onr;rt:id dauic at hamc  
+That Whuppuy Ibtoorie is my name!"
 
-Speeding home glad-hoarted, she awaited the fairy's coming; and being "a jokns woman," \'\iV.vi] a long face, begging that the bairn be spared and the sow tukenj and when this was spurned, olTering herself. "The deil's in the daft jad," quo' the fairy; "wha in a' the earthly warld .... wad ever meddle wi' tlie likes o' thee?" Then the woman threw off her mask of grief, and, making "a curchie down to the ground," qno* she, I might hae had the wit to ken that the likes o' me is na fit to tie the warst shoe-strings o* the hetch and mighty princess, Whuppity SUmie^ •* Gin a fluff o' gunpowder had come out o* tlie grnnd, it couldna hac gart the fairy loup heichcr nor she did; j.yno doun she came again, diunp on her shoe-Iieols, and whurliu' round, she ran down the brae, scraiohm' for rage, like a houlet chased wi' the witches."
+Speeding home glad-hoarted, she awaited the fairy's coming; and being "a jokns woman," \'\iV.vi] a long face, begging that the bairn be spared and the sow tukenj and when this was spurned, olTering herself. "The deil's in the daft jad," quo' the fairy; "wha in a' the earthly warld .... wad ever meddle wi' the likes o' thee?" Then the woman threw off her mask of grief, and, making "a curchie down to the ground," qno* she, I might hae had the wit to ken that the likes o' me is na fit to tie the worst shoe-strings of the hetch and mighty princess, Whuppity SUmie^ •* Gin a fluff o' gunpowder had come out on the grnnd, it couldna hac gart the fairy loup heichcr nor she did; j.yno doun she came again, diunp on her shoe-Iieols, and whurliu' round, she ran down the brae, scraiohm' for rage, like a houlet chased wi' the witches."
 
-In the {Swedish variant, given in Thorpe's Yule Tide Stories, entitled, "The Girl who could spin Gold from Clay and Long Straw," the mother sets her on the roof of their cot that she might be shamed by folks seeing her sloth. The king's son, as he rides by, sees the fair spinner, and, ui^king why she is there^ is told by the mother ironically that she is so cleVer as to be able to spin gold out of clay and long straw. He then said that she should be his wife if this were true, and forthwith carried her to the palace to make proof of her skill* Left in her maiden-bower with straw and clay, she wept
+In the Swedish variant, given in Thorpe's Yule Tide Stories, entitled, "The Girl who could spin Gold from Clay and Long Straw," the mother sets her on the roof of their cot that she might be shamed by folks seeing her sloth. The king's son, as he rides by, sees the fair spinner, and, ui^king why she is there, is told by the mother ironically that she is so clever as to be able to spin gold out of clay and long straw. He then said that she should be his wife if this were true, and forthwith carried her to the palace to make proof of her skill* Left in her maiden-bower with straw and clay, she wept
 
 • Pp. zi. 169*
 
 
-sore, when a d«fonned little old man appeared, and, asking why she sorrowed, gave her a pair of gloves wherewith she could spin gold, saying that he wonld retnm the next night and claim her as his wife if she conld not tell his name. Despair mode her consent, and forthwith she began to spin the stuff into gold. But although there was joy throughout the j)aluco at this, there was grief in the maiden's heart, and this the prince sought to drirc away when he caino back from the chase in the evening, telling her how he had seen a little old man dancing round a bush, and singing this song :
+sore, when a d«fonned little old man appeared, and, asking why she sorrowed, gave her a pair of gloves wherewith she could spin gold, saying that he wonld retnm the next night and claim her as his wife if she conld not tell his name. Despair mode her consent, and forthwith she began to spin the stuff into gold. But although there was joy throughout the palace at this, there was grief in the maiden's heart, and this the prince sought to drirc away when he came back from the chase in the evening, telling her how he had seen a little old man dancing round a bush, and singing this song:
 
-"To-daj I the malt shall grind,
+"To-day I the malt shall grind,  
+To-morrow my wedding shall be.  
+And the maiden sits in her bower and weeps  
+She knows not what I am called.  
+I am called Titteli Ture.  
+I am called Titteli Ture.
 
-To-morrow my wedding shall be.
+The maiden's gloom was iiuw turned to gladness; and at night, when the hunchback came, she sprang up, saying, "Titteli Ture! Titteli Ture! here are your gloTcs." Upon this the dwarf, furionsly angry, leapt through the air, taking with him the roof of the house.
 
-And the maideu sits in her bower and weeps t
+In the variant from German Hungary, a woodcutter is in such dire straits for food that he takes his daughter to the forest, promising, like the uncle in our classical "Babes in the Wood," to return to her soon. The child wandered flower-gathering, till, wearied, she foil asleep; and on waking, finding herself alone, she wept bitterly, and ran hither and thither in .setirch of her father. Then there appeared a dwarf, clad in grey, at sight of whom she was affrighted, but ho so coaxed away her fears that she agreed to live with him as his daughter in the hollow of a great tree. One day the mannildn told her that he had recommended her to the ^ueeti as a waiting-maid; and soon after this the queen's son came home from the wars and fell in lore with her. When the dwarf heard this, he said that the king must find out his name before he would consent to the wedding; and, returning to his tree-dwelling, lit his fire, and skipping round it, sang:
 
-bho kuows not what I am called.
+"Boil, pot, boil! The king knows not— all the asme— Winterkolble is my name."
 
-I am called Titteli Tare.
+The king in his trouble had sent one of his servants in quest of the name; and, as luck would have it, the servant beard the song, and ran back to the castle with the good news. When the dwarf came, the king greeted him with the words, "Welcome, Father Winterkolble," and thereupon the outwitted one gave his consent.
 
-I am called Titteli Tur© V
+In a Lower Anstrian yariant a king proclaims his wish to marry a girl, no matter how low-born, provided that she has eyes and hair jet black. Amongst the crowd that thronged eofore the king's palace not one coulil be found who had these charms. But a charcoalburner's daughter, who was possessed of the coveted features, made her way to the castle, where a dwarf met her, and asked what she would give him if she became qaeen« I have nothing," she replied. Then," said he, "thou wilt be queen, but thou mnst know, at the end of three yearsi that my name ia Eruaimiigeli; if not, thou art mine." The maiden found faTonr in the king's ejcs, and happy were the days till, as the three years drew to an end, she found that she had forgotten the dwarf's name, and madness fell upon her, the cause whereof she bid from the king. On the last day but one of the third year the king's forester went hunting, and saw a dwarf daucing in malicious glee before a fire, and singing :
 
-The maiden's gloom was iiuw turned to gladness; and at night, when the hunchback came, she sprang up, saying, "Titteli Tuie 1 Titteli Ture I here are your gloTcs." Upon this the dwarf, furionsly angry, leapt through the air, taking with him the roof of the honse.
+She knows not— oh, what jollity 1— > My name is Krozimugcli."
 
-In the variant from German Hungary, a woodcutter is in such dire straits for food that he takes his daughter to the forest, promising, like the uncle in our classical "Babes in the Wood," to return to her soon. The child wandered flower-gathering, till, wearied, she foil asleep; and on waking, finding herself alone, she wept bitterly, and ran hither and thither in .setirch of her father. Then there appeared a dwarf, clad in grey, at sight of whom she was affrighted, but ho so coaxed away her fears that she agreed to live with him as his daughter in the hollow of a great tree. One day the mannildn told her that he had recommended her to the ^ueeti as a waiting-maid; and soon after this the queen's son csme home firom the wars and fell in lore with her. When the dwarf heard this, he said that the king must find out his name before he would consent to the wedding; and, returning to his tree>dwelhng, lit his fire, and skipping round it, sang :
+This he told to the qneen, who was well-nigh beside herself for joy; and when the next day the dwarf came, he would give her but three guesses; "and," said he, "if thou dost not guess right, thou art mine." The queen said: "It seems to me it is SteOfel." The dwarf leaped for joy, and cried, Missed!" Then the queen said: "It is l>eitle." Again he made a bound, and cried again, "Missed!" Then the queen said, quite carelessly: "Then it is Kruzimiigcli." When he heard this, he burst without a word through the wall into the open air, and since then all effort to fill up the hole has been Tain.
 
-"Boil,pot,lMill The king knows not— aU the asme— Winterkolble is my name."
+In another Lower Austrian variant from Modling a witch gives a girl fine dresses for the court ball, bargaining for her first child in payment, or the alternative of finding out the witch's nnme within a year. The girl becomes a queen and a mother, and as the dreaded time for fulfilment of the contract draws near, she is relieved by a courtier telling her that he heard a witch in the forest singing over a cauldron a song of exnltation that the queen does not know she is called Siperdintl.
 
-Tbe king in his trouble bad gent one of his servants in quest of the name; and, as lack would have it, the servant beard the song, and ran back to the castle with the good news. When the dwarf camCf the king greeted him with the words, "Welcome, Father Winterkolble," and thereupon the outwitted one gaTe his consent.
+A mumber of closely corresponding stories from neighbouring districts could be cited, but it suffices to say that abstracts of them are given in the notes to Veranloken's collection of folktales from Austria and Bohemia, from which the foregoing are quoted.* In some of these stories the devil in disguise, as in the variant from Cornwall, takes the place of witch or fairy, granting certain favours on the condition that his name is found out within a given time, usually seven years. In the majority of cases he is outwitted. Probably some of the stories are echoes of the many medieval legends of the "stupid beast," as Pope Gregory the Great called him, the gullibility of the devil being the main featnre in the popular conceptions of him in the ^liiUlle Aues. In connexion with thif, the Austrian talc just cited, in which Kruisimugeli bursts through a hole in the wall, which could never be blocked up again, reminds ns oT one of the legends of a charch-hmlding devil given by Qrimm. The fiend had bargained for the soul of the first who should enter, so a wolf was driven through the door, when the devil in a rage flies up through the roof, and leaves a gap that no mason can fill up.f
 
-In a Lower Anstrian yariant a king proclaims his wish to marry a girl, no mutter liow low-born, i>rovided that she has eyes and bair jet black. Amongst the crowd that tlironged boforc the king's palace not one coulil be found who bad tliese charms. But a charcoalburner's dauglitor, who was possessed of the coveted features, made her way to the castle, where a dwarf met her, and asked what she would give him if she became qaeen« I have nothing," she re* plied. Then," said he, "thou wilt be queen, but thou mnst know, at the end of three yearsi that my name ia Eruaimiigeli; if not, thou art mine." The maiden found faTonr in the king's ejcs, and happy were the days till, as the three years drew to an end, she found that sbe had forgott«'n the dwarf's name, and madness fell upon lier, the cause whereof nhe bid from the king. On the lust day but one of the third year the king's forester went l)unting, and saw a dwarf daucing in malicious gieo before a lire, and singing :
-
-She kuowi) uot— oh, what jollity 1— > My name is Krozimugcli."
-
-This he told to the qneen, who was weU-nigh beside herself for joy; and when the next day the dwarf came, he wonld gire her but
-
-three guesses; "and," said he, "if thou dost not guess right, thou art mine." The queen said: "It seems to me it is SteOfel." The dwarf leaped for joy, and cried, Mi?sfd!" Then the queen said: "It is l>eitle." Again he made a bound, and cried again, "Missed!" Then the queen said, quite carelessly: "Then it is Kruzimiigcli." When he heard this, he burst without a word through the wall into the open air, and since then all effort to fill up the hole has been Tain.
-
-In another Lower Austrian variant from Modling a witch gives a girl fine dresses for the court ball, bargaining for her first child in payment, or the alternative of finding out the witch's nnme within a year. The girl becomes a queen and a moUier, and as the dreaded time for fnlfilment of the oontract draws near, she is relieved by a cotirtier telling her that lie heard a witch in the forest singing over a canldron a song of exnltation that the queen does not know she is called Siperdintl.
-
-A niiiiibcr of closely- correspondintc stories from neiglibouriDg districts could bo citid, but it suffices to say that abstracts of them are given in tlie notes to Veranlokcn's collection of folktales from Austria and Bohemia, from which the foregoing are quoted.* In some of these stories the devil in disguise, as in the variant from Cornwall, takes the place of witch or fairy, granting certain favours on the condition that his name is fottnd ont within a given time, nsnally seven years. In the majority of cases he is outwitted. Probably some of the stories are echoes of the many medieval legends of the "stupid beast," as Pope Gregory the Great called him, the gullibility of the devil being the main featnre in the popular conceptions of him in the ^liiUlle Aues. In connexion with thif, the Austrian talc just cited, in which Kruisimugeli bursts through a hole in the wall, which could never be blocked up again, reminds ns oT one of the legends of a charch-hmlding devil given by Qrimm. The fiend had bargained for the soul of the first who should enter, so a wolf was driven through the door, when the devil in a rage flies up through the roof, and leaves a gap that no mason can fill up.f
-
-The Magyar variant of Rnmpebtiltekin bears the title of <'Tlie Lazy Spinning Girl, who hcean'.e a Queen. "J A woman, angry with her (laughter for tli-liking spinning, chased her from home. As they ran, a prince passed by in his carriage, and, hearing what was the matter, offered to take the girl to his mother. Tliis done^ he put her into a large shed filled with flax, and told her that he would marry her if she s|>un all of it within a month. For three weeks she sat
+The Magyar variant of Rumpestiltskin bears the title of "The Lazy Spinning Girl, who became a Queen. " A woman, angry with her daughter for tli-liking spinning, chased her from home. As they ran, a prince passed by in his carriage, and, hearing what was the matter, offered to take the girl to his mother. This done, he put her into a large shed filled with flax, and told her that he would marry her if she spun all of it within a month. For three weeks she sat
 
 * Ih the Land of Murrrfif. (Swan SonneiuBchcia and Co, 1884.)
 
@@ -1875,9 +1870,9 @@ t Tent. Mtjilwl. l«,2l (^Kng. trans.)
 
 X Miiytjar FeUMnlt; Kr ipf and Jones, p. 46i
 
-iile, fretting over tlio task, until ono night a mannikin, Imt linlf nn cU ill height, slipped in and oflercd to spin the flax for her in a week if she would promise to go with him should she not find out his name within that time. She egreed, and one day in the last week a manaerrant who bronght her food told her that he had seen a little man in the forest who was leaping from bongh fo bongh, spinning a thread and humming to himself, "my name is Dancing Yargalneka. My wife will be good spinster Sue." The dwarf came that evening with part of liis work done, and asked the girl if she Imd learned what his name was, but she said nothing. On the last night he bronght the remainder of the work in a three-wheeled barrow, and on asking her to gness his name she answered, "If I mistake not, it is Dancing Vaigalnska," whereupon he rushed off as if somebody had pulled his nose.
+iile, fretting over the task, until ono night a mannikin, Imt linlf nn cU ill height, slipped in and offered to spin the flax for her in a week if she would promise to go with him should she not find out his name within that time. She egreed, and one day in the last week a manaerrant who bronght her food told her that he had seen a little man in the forest who was leaping from bongh fo bongh, spinning a thread and humming to himself, "my name is Dancing Yargalneka. My wife will be good spinster Sue." The dwarf came that evening with part of his work done, and asked the girl if she Imd learned what his name was, but she said nothing. On the last night he bronght the remainder of the work in a three-wheeled barrow, and on asking her to guess his name she answered, "If I mistake not, it is Dancing Vaigalnska," whereupon he rushed off as if somebody had pulled his nose.
 
-The sequel to this stotyin which three women-beggaes, deformed in various ways through spinning, come to the wedding feast for alms, when the sight of them causes the king to command that every distaff, spinning-wheel, and spindle be broken and burnt, resembles the sequel to the variant from Henderson, and also to "A Various Whuppity Storie" in Chambers's collection, in which, after the laird has seen six wee wrymouthed spinning ladies, he orders that all the spinning wheels be burnt, lest his bride becomes disfigured by their use. The three spinners haye their correspondences in Grimm's BoutehM TaUi, No. 14, in Dasent's "Three Aunts," in "The Aunts" in Portuguese Folk Tails," in "La Bella Impronta," or "The Beautiful Glutton," in Tuscan Fairy Tales^X "The Three Little Crows each with something Biggin Thorpe,§ Ijnsk,|[ and other collections.^ In Wentworth "Webster's collection of Basque Folktale*:,** a mother is beating her lazy girl, when the lord of a castle hard by, who is passing at the time, asks why the girl cries, and was told that her
+The sequel to this stotyin which three women-beggaes, deformed in various ways through spinning, come to the wedding feast for alms, when the sight of them causes the king to command that every distaff, spinning-wheel, and spindle be broken and burnt, resembles the sequel to the variant from Henderson, and also to "A Various Whuppity Storie" in Chambers's collection, in which, after the laird has seen six wee wrymouthed spinning ladies, he orders that all the spinning wheels be burnt, lest his bride becomes disfigured by their use. The three spinners haye their correspondences in Grimm's BoutehM TaUi, No. 14, in Dasent's "Three Aunts," in "The Aunts" in Portuguese Folk Tails," in "La Bella Impronta," or "The Beautiful Glutton," in Tuscan Fairy Tales^X "The Three Little Crows each with something Biggin Thorpe,§ Ijnsk,|[ and other collections.^ In Wentworth "Webster's collection of Basque Folktales, "a mother is beating her lazy girl, when the lord of a castle hard by, who is passing at the time, asks why the girl cries, and was told that her
 
 • p. 198 (.1ril F.ditn.)
 
@@ -1885,14 +1880,14 @@ t P. 79. Folklore Soc. 1882, p. 79. % P. 43,
 
 § Yule Tide Stories, p. 170, also 312.
 
-II Fblkhre tfRtmc, p. 378, ^ Cf. UsaSanfm, p. S}62, «i.
+II Folklore tfRtmc, p. 378, ^ Cf. UsaSanfm, p. S}62, «i.
 
 ** Basque Legnds, p. 56.
 
 
-prcttiuess made her indolent. The usual incidents of the girl being offered marriage if she can do a certain amount of work within a given time, and of a witch who cornea to her aid and baigaina to complete the task if the girl can remember her name, Marie Einkitonnt in a year and a daj, follow. The wedding takee place, bat sadness falls upon the bride as the year end draws near, despite grand festivals held to gladden her B])irits. At one of these an old woman knocks at the door, when the servant tells her why so many feasts nro given, and the womnn says that if the lady had seen what she had seen she would laugh free enough. So the old woman is brought before the company and tells how she had seen an old woman leaping and bonnding from one ditch to another, and singing all the time, ** Honpa, honpa, Marie Kirikitonn, nobody will remember my name." Whereupon the bride became merry-hearted, rewarded the old woman, and told the witch her name when she came for fulfilment of the bargain.
+prettiinss made her indolent. The usual incidents of the girl being offered marriage if she can do a certain amount of work within a given time, and of a witch who cornea to her aid and baigaina to complete the task if the girl can remember her name, Marie Einkitonnt in a year and a daj, follow. The wedding takee place, but sadness falls upon the bride as the year end draws near, despite grand festivals held to gladden her spirits. At one of these an old woman knocks at the door, when the servant tells her why so many feasts nro given, and the womnn says that if the lady had seen what she had seen she would laugh free enough. So the old woman is brought before the company and tells how she had seen an old woman leaping and bounding from one ditch to another, and singing all the time, "Honpa, honpa, Marie Kirikitonn, nobody will remember my name." Whereupon the bride became merry-hearted, rewarded the old woman, and told the witch her name when she came for fulfilment of the bargain.
 
-Tracking certain common elements eastward, we have in Sagas from the Far East *, ft talc entitled*' Tlie Use of Magic Langnage,"in which a king sends his sou on trarel that he may gain all kinds of knowledge. The prince is accompanied by the son of his father's chief minister, who, on their return, envions at the snperior wisdom of the prince, entices him into a forest and kills him, the dying prince uttering one word Abaraschika, When the murderer reaches the palace he tells the king how the prince fell sick and died, and that he had but time to utter the above word. Thereupon the king summons his seers and magic ians and threatens tliom with deatli if they do not within seven days interj)rct the meaning of Abarnschika. The limo granted them liad wdinigh expired when a student came beckoning to them, bidding them to weep not, for he had, while sleeping beneath a tree, heard a bird telling his young ones not to cry for food, since the Khan would slay a thousand men on the morrow, because they could not tell him the meaning of Abaraschika, which was this: "My bosom friend hath enticed me into a thick grove and hath taken away
+Tracking certain common elements eastward, we have in Sagas from the Far East *, ft talc entitled*' The Use of Magic Language,"in which a king sends his sou on trarel that he may gain all kinds of knowledge. The prince is accompanied by the son of his father's chief minister, who, on their return, envions at the superior wisdom of the prince, entices him into a forest and kills him, the dying prince uttering one word Abaraschika, When the murderer reaches the palace he tells the king how the prince fell sick and died, and that he had but time to utter the above word. Thereupon the king summons his seers and magic ians and threatens them with death if they do not within seven days interject the meaning of Abarnschika. The limo granted them had wdinigh expired when a student came beckoning to them, bidding them to weep not, for he had, while sleeping beneath a tree, heard a bird telling his young ones not to cry for food, since the Khan would slay a thousand men on the morrow, because they could not tell him the meaning of Abaraschika, which was this: "My bosom friend hath enticed me into a thick grove and hath taken away
 
 • P. 167.
 
@@ -1901,52 +1896,50 @@ my life." When this wu made knoim to the king, he dismissed the condemned men wi
 
 In the leehindieyariant from Symington's Pen and Pencil Sketehet
 
-of Far or nnd Iceland* a peasant who lias many sheep gires the wool to his Avifo to spin dnring the winter, but she is lazj, and neglects her work. An old witch comes bepering", nnd in return fur alms bargains to make the wool into cloth by the fir?t day of summer, the wife agreeing to tell the witch's name in three gnesses in lien of any payment. As the sammer neara^ the wife becomes ill with anxiety abont fnlfilling'her contract, and confeeses the cause to her hnsband. Boon after this he loses his way in the mountains, and, omhearing a Toice in the hollow of a cliif, peeps in, sees an old woman spinning, and hears her introdnee her name, Gilitmtt, into her snatches of song. Wli« n he Lro( s lionie he sa3*s nothing to his wife till the day that the witcli is to l-ring back tlie clotli. On \\ox arrival the wife gives two wrong guesses, but at the third guess suggests GiUtrutt, whereupon the witch Calls down thander8track,and presently disappears to be ncTermore seen.
+of Far or nnd Iceland* a peasant who lias many sheep gires the wool to his wife to spin during the winter, but she is lazy, and neglects her work. An old witch comes bepering", nnd in return fur alms bargains to make the wool into cloth by the first day of summer, the wife agreeing to tell the witch's name in three guesses in lien of any payment. As the summer nears, the wife becomes ill with anxiety about fulfilling her contract, and confeeses the cause to her hnsband. Soon after this he loses his way in the mountains, and, on hearing a voice in the hollow of a cliff, peeps in, sees an old woman spinning, and hears her introdnee her name, Gilitmtt, into her snatches of song. Wli« n he Lro( s lionie he says nothing to his wife till the day that the witch is to l-ring back the clotli. On \\ox arrival the wife gives two wrong guesses, but at the third guess suggests GiUtrutt, whereupon the witch falls down thunderstruck,and presently disappears to be nevermore seen.
 
-The intimate correfpondences, both in ontline and detail, between certain of the foregoing yariants which are found widely apart, as e. the Magyar and the Scotch, tempt ns to speculation concerning the origin nnd transmission of the tale. Bat one can only repeat the altornntive theories which liave been framed to explain the general question of folktale origin and diffusion, and it i? jiretty well agreed that this, with the profoundly intercstini,' <[uesiion of race movements, contacts, and mixtures, which lies at tho back of it, cannot be dealt with until our materials are more complete, nnd subjected to the scientific treatment to which reference was made at the outset. This, however, does not hinder brief allosion to some possible germs of the "Rumpelstiltskin" story which may be detected in archaic legend.
+The intimate correspondences, both in outline and detail, between certain of the foregoing yariants which are found widely apart, as e. the Magyar and the Scotch, tempt us to speculation concerning the origin and transmission of the tale. Bat one can only repeat the altornntive theories which liave been framed to explain the general question of folktale origin and diffusion, and it is pretty well agreed that this, with the profoundly interesting question of race movements, contacts, and mixtures, which lies at the back of it, cannot be dealt with until our materials are more complete, and subjected to the scientific treatment to which reference was made at the outset. This, however, does not hinder brief allusion to some possible germs of the "Rumpelstiltskin" story which may be detected in archaic legend.
 
 In Northern Saga king Olaf desired to bnUd a church greater than
 
 ♦ Pp. 240-244.
 
 
-any yel seen, but laclvcd tlic treasure witlial. As he walked 'twixt liill and dale ho met a troll, who, when he heard tlie king's wish, offered to build tiie church for him within a given time; stipulating tlmt ho was to hare the sun and moon, or Olaf himself, in payment. The king agreed; the chnieh was to be laige enoagh to allow seren priests to preach in it at the same time without distnrbing one another; and erelong the etmctnre was finished, except the roof and spire. Perplexed at the teims he had acceded to, Olaf once more wandered oyer hill and dale, when Buddenly he hoard a child cry from within a mountain, while a giant-woman quieted it. with these words,
+any yet seen, but laclvcd the treasure withal. As he walked 'twixt hill and dale he met a troll, who, when he heard the king's wish, offered to build the church for him within a given time; stipulating that he was to harsde the sun and moon, or Olaf himself, in payment. The king agreed; the chnieh was to be large enoagh to allow seven priests to preach in it at the same time without disturbing one another; and erelong the etmctnre was finished, except the roof and spire. Perplexed at the teims he had acceded to, Olaf once more wandered over hill and dale, when suddenly he heard a child cry from within a mountain, while a giant-woman quieted it. with these words,
 
 "Hush, hush, to-morrow cnmes thy father,  
 "Wind and Weather, home, bringing both sun and moon or saintly Olafs self."
 
-Overjoyed at this discovery, Olaf turned home. Seeing tliat the spire waa jost fixed, he cried, "Wind and Weather, thou hast set the spire askew," when instantly the giant fell off the ridge of the roof with a fearfnl crash and burst into a thousand pieces, which were nothing but fltntstones.* In Swedish legend a giant promises to build a church for the White Chiist if Laurenttns can find out his name, othei-wise he must forfeit his eyes. As in the Olaf lutceml, the giantess is overheard hushing her crying child ami uttering the giant's name.f
+Overjoyed at this discovery, Olaf turned home. Seeing that the spire was just fixed, he cried, "Wind and Weather, thou hast set the spire askew," when instantly the giant fell off the ridge of the roof with a fearfnl crash and burst into a thousand pieces, which were nothing but fltntstones.* In Swedish legend a giant promises to build a church for the White Christ if Laurenttns can find out his name, othei-wise he must forfeit his eyes. As in the Olaf lutceml, the giantess is overheard hushing her crying child and uttering the giant's name.f
 
-Then there are the questions, partaking more or less of the nature of riddles, with penalties attaching to failare, which are a prominent feature of old northern ]>oetry. Of these we may cite examples from the Alviss-mal" and the "Waftbrudnismal," adopting the versions given in Vigfusson and Poweirs Corpus Poetieum Boredle, the one and unsurpassable authority upon Icelandic Sagas.
+Then there are the questions, partaking more or less of the nature of riddles, with penalties attaching to failare, which are a prominent feature of old northern poetry. Of these we may cite examples from the Alviss-mal" and the "Waftbrudnismal," adopting the versions given in Vigfusson and Poweirs Corpus Poetieum Boredle, the one and unsurpassable authority upon Icelandic Sagas.
 
-Allwise the Dwarf, having entrapped the gods into a promise of giving him Freya to wife, comes to claim her, but one of the Anses (prubal'Iy Wingi, i.e., Woden, for tlie frank, blunt, character of Thor wnnhl by no means suit the part, though Wingthor is found in the MIS.) contrives, by playing ou his philological vanity, to keep him
+Allwise the Dwarf, having entrapped the gods into a promise of giving him Freya to wife, comes to claim her, but one of the Anses (probably Wingi, i.e., Woden, for the frank, blunt, character of Thor wnnhl by no means suit the part, though Wingthor is found in the MIS.) contrives, by playing ou his philological vanity, to keep him
 
 * Grimm, 71 Jf. 647, 548 .
 
-f Cf. Amafloos Tertandic Ltgemt$ p. 49, where the story bingm en the name of the htii'der in ** Who built Refnir Cbnrrh '?
+f Cf. Amafloos Tertandic Ltgemt$ p. 49, where the story bingm en the name of the htii'der in "Who built Refnir Church"?
 
 answering questions till the son rises, and its tajs, falling on him, tarn him to stone.*
 
-In the Wafthmdnis-mal/* Woden, disgnised as a mortal under
+In the Wafthmdnis-mal/* Woden, disguised as a mortal under the name of Ganger, visits the Lriant Wafdirudiii (Web-strong) to find ont what he knows of sacred lore. The disputants airrocd that the one who failed to answer any question put to him by the other should forfeit his life. After a time, the pretended Ganger asks tho gianty "What did Wo.lon whisper into Balder*8 ear ere he was home on the pjre ?" when Wafthrndni has to confess himself vanquished. One is reminded of the songnlnel hetween the defeated Jonhahainen and the storm-begotten WiiinamSinen in the third rone of the Kal^vala.
 
-the name of Ganger, visits tlic Lriant Wafdirudiii (Web-strong) to find ont wbat lie knows of sacred lore. The disputants airrocd that the one who failed to answer any qnestion put to him by the other should forfeit his life. After a time, the pretended Ganger asks tho gianty " What did Wo.lon whisper into Balder*8 ear ere he was home on the pjre ? '* when Wafthrndni has to confess himself yanqnished.f One is reminded of the songnlnel hetween tho defeated Jonhahainen and the storm-begotten WiiinamSinen in the third rone of the Kal^vala.
-
-We may leave such references, for whatever thoy may bo worth, as clues to the origin of Rumpelstiltskin; and, reluctantly avoiding digressions on topics suggested by subordinate incidents of the story, as, e.g., the origin of spinning, often ascribed to denissens of the forest and the under-world, deal with its philosophy as indicated by the central idea of all its Tariants, the nuelens ronnd which the incidents have gathered. This, put into fewest words, is the notion that the name of any being, whether hnman or superhnman, is an integral part of that being; and that, to know it, puts it« owner, whether he be deity, ghost, or man, in the power of another, often involving destruction to tin named. It is a ]>art of that general confusion liotween names and tilings wliidi is a nniversnl feature of barbaric modes of thought, an ever-{»r(\sent note of uncultured intelligence; a coufnsion which attiibutes the qualities of living things to things not living, and which lies at the root of all fetishism, and idolatry; of all witchcraft, shamanism, and other instruments, which were as keys to the inrisible kingdom of the feared and dreaded. Such enlaiged reference would, howerer, occopy a volnme,} audit must sufiBce for our present purpose to deal, and eren that yery
+We may leave such references, for whatever they may be worth, as clues to the origin of Rumpelstiltskin; and, reluctantly avoiding digressions on topics suggested by subordinate incidents of the story, as, e.g., the origin of spinning, often ascribed to denissens of the forest and the under-world, deal with its philosophy as indicated by the central idea of all its Tariants, the nuelens ronnd which the incidents have gathered. This, put into fewest words, is the notion that the name of any being, whether hnman or superhnman, is an integral part of that being; and that, to know it, puts its owner, whether he be deity, ghost, or man, in the power of another, often involving destruction to tin named. It is a part of that general confusion between names and tilings wliidi is a universnl feature of barbaric modes of thought, an ever-present note of uncultured intelligence; a confusion which attributes the qualities of living things to things not living, and which lies at the root of all fetishism, and idolatry; of all witchcraft, shamanism, and other instruments, which were as keys to the inrisible kingdom of the feared and dreaded. Such enlarged reference would, however, occopy a volnme,} audit must sufiBce for our present purpose to deal, and even that very
 
 * CL P. J? i. 81; 11ioipe*a yinthem JiyiheL i. 8, not^, 2h i. 96, note, t a P. B. i. 69, and cf. *' IBnip HeidreVt Riddles,*' p. 93.
 
-X An admirnblc summary is given by Dr. Tylor in the chapter on "Images and Maine%" in his Earl\f JHUtary of Mankind,
+X An admirnblc summary is given by Dr. Tylor in the chapter on "Images and Maine%" in his Early History of Mankind,
 
 
-briefly, with the superstitions clastering around names among barbaric and fjnasi-rivilized peoples.
+briefly, with the superstitions clastering around names among barbaric and fjnasi-civilized peoples.
 
-1. The belief in the interdependence of iiamei and penona ia evidenced in the mjstical ideaa of ancient peoples concerning the names of their deities. To the Mohammedan, "Allah" is but an epithet of the "great name" known only to apostles and prophets, who work miracles through it; deep reverence for the name "Vuhwch," or "Jehovah," led the Jews to «nl)!«titutc "Adonal" in its placo, in obedience to a supposed comiaiuui in [jcviticus, xxiv. IG. It £,'cnorally appeals simitly ns "the nnnie " ^^lien reforrcJ to in Uubbinical writings. A rather doubtfnl tradition says, that " Jehovah " was uttered bnt once a year by the high priest on the Day of Atonement, when he entered the Holy of Holies, and, according to Maimonides, it was spoken for the last time by Simon the Jast. Henceforth, says the Talmnd, he who attempts to prononnce it shall have no part in the world to come. Jewish legend tells how Solomon, beginning t4> titter the sacred name, made heaven and earth qnakc; and the wondors wrought by tJcsus are ascribed by an old Jewish >vrit«'r, aulhor of Trtldoth Jesu, to his bavin,!:,' abstracted the InefTabb^ Xanic and concealed it in his thigh. Vedic literature shows the inijiortant part played by the mystic word ♦* Ora" in the development of Brahmanism. The real name of the Chinese sage is so sacred that it is a statutable offence to prononnce it. Gommisstoner Yeh, in a conversation with Mr. Wingrove Cooke, said, <'Tien means properly only the material heaven, bnt it also means 8hang-Te, supreme mler, Qod; for as it is not lawfnl to nse his name lightly, we name him by his dwellin^r-place, which is in Tien." ^ Cognate ideas acconnt for the llonian practice of keeping the name of the tntel.nry deity of the city secret, the divulging of which is said to have cost Valerius Soranns his life. riiny,t quoting an earlier author, says that it was a practice with the Romans, when besieging a town, to win the support of ita tutelary deity by offering him a place in their Pantheon; and,
+1. The belief in the interdependence of iiamei and penona ia evidenced in the mjstical ideaa of ancient peoples concerning the names of their deities. To the Mohammedan, "Allah" is but an epithet of the "great name" known only to apostles and prophets, who work miracles through it; deep reverence for the name "Vuhwch," or "Jehovah," led the Jews to «nl)!«titutc "Adonal" in its placo, in obedience to a supposed comiaiuui in [jcviticus, xxiv. IG. It £,'cnorally appeals simitly ns "the nnnie " ^^lien reforrcJ to in Uubbinical writings. A rather doubtfnl tradition says, that " Jehovah " was uttered bnt once a year by the high priest on the Day of Atonement, when he entered the Holy of Holies, and, according to Maimonides, it was spoken for the last time by Simon the Jast. Henceforth, says the Talmnd, he who attempts to prononnce it shall have no part in the world to come. Jewish legend tells how Solomon, beginning to titter the sacred name, made heaven and earth qnakc; and the wonders wrought by tJcsus are ascribed by an old Jewish >vrit«'r, author of Trtldoth Jesu, to his having abstracted the InefTabb^ Xanic and concealed it in his thigh. Vedic literature shows the inijiortant part played by the mystic word "Ora" in the development of Brahmanism. The real name of the Chinese sage is so sacred that it is a statutable offence to prononnce it. Gommisstoner Yeh, in a conversation with Mr. Wingrove Cooke, said, <'Tien means properly only the material heaven, bnt it also means 8hang-Te, supreme mler, Qod; for as it is not lawfnl to nse his name lightly, we name him by his dwelling-place, which is in Tien." ^ Cognate ideas acconnt for the llonian practice of keeping the name of the tntel.nry deity of the city secret, the divulging of which is said to have cost Valerius Soranns his life. riiny,t quoting an earlier author, says that it was a practice with the Romans, when besieging a town, to win the support of ita tutelary deity by offering him a place in their Pantheon; and,
 
 t xxfiii, 4,
 
-to secure themselves against a like danger of traitoroua action on the part of their own guardian god, the nnme was iie?er dirnlged. If we find snch ideas preralent among the higher races, we may a fortiori expeet to find them among lower races; nor is the difference in such ideaa alwajs one of degree. The barbaric belief that the spirits know folk by their names is active among cirilueed people wherever anthropomorphic conceptions of deity prevail. To snch it is not matter of doubt that He knows each one l>_y name, as He is recorded to have known men of olden time, addressing tlicm thereby, and even altering their name* If we iucline to accej t the testimony of spiritualists we may find like correspondences between barbarian and civilized in the belief that to name the spirits is to invoke their appearance, an idea sarviving in the saying, I "Talk of the devil and you'll see his home,** and illustrated by the legend of the Norse witches who tied np wind and foul matter in a bag, and then, undoing the knots, shouted Wind in the devils name," when the hurricane swept over land and sea; aiul also by the recipe for stopimiir a witch*!' dance and (lis|>ersing the dancers by utterini; thi^ namo of Uml or Christ, We may not therefore feign surprise when wo hear thai in Borneo, when a child is ill, its name is changed so as to confuse or deceive the had spirits, to whom all diseases and death, which last is rarely regarded as a natural event by the savage, are ascribed. Among some South American tribes, when a man dies, his friends and kinsmen change their names so as to elude death if he comes after them, or to prevent the departed spirits being attracted back to earth by hearing the old name.f
+to secure themselves against a like danger of traitoroua action on the part of their own guardian god, the nnme was iie?er dirnlged. If we find such ideas prevalent among the higher races, we may a fortiori expeet to find them among lower races; nor is the difference in such ideaa alwajs one of degree. The barbaric belief that the spirits know folk by their names is active among cirilueed people wherever anthropomorphic conceptions of deity prevail. To such it is not matter of doubt that He knows each one by name, as He is recorded to have known men of olden time, addressing tlicm thereby, and even altering their name* If we iucline to accej t the testimony of spiritualists we may find like correspondences between barbarian and civilized in the belief that to name the spirits is to invoke their appearance, an idea sarviving in the saying, I "Talk of the devil and you'll see his home," and illustrated by the legend of the Norse witches who tied np wind and foul matter in a bag, and then, undoing the knots, shouted Wind in the devils name," when the hurricane swept over land and sea; aiul also by the recipe for stopimiir a witch*!' dance and (lis|>ersing the dancers by uttering the name of Uml or Christ, We may not therefore feign surprise when wo hear that in Borneo, when a child is ill, its name is changed so as to confuse or deceive the had spirits, to whom all diseases and death, which last is rarely regarded as a natural event by the savage, are ascribed. Among some South American tribes, when a man dies, his friends and kinsmen change their names so as to elude death if he comes after them, or to prevent the departed spirits being attracted back to earth by hearing the old name.f
 
-Intimat*'ly connected witli this, there fnre. is the univeri;al reluctance aiaoni; barhnric people to spt-ak of tlie dead; a feeling shared in modified form by ourselves, as expressed in Mrs. Barrett Browning^s lines on Clowper :
+Intimately connected with this, therefore, is the univeri;al reluctance among barbaric people to speak of the dead; a feeling shared in modified form by ourselves, as expressed in Mrs. Barrett Browning's lines on Clowper:
 
 *' Named softly as the honselmld name of one whom Ood hath taken."
 
@@ -1957,9 +1950,9 @@ The Fuegians, Darwin tells ns, never mentioned the names of the
 f Cf. I)i>rm:u»'3 Primitirc Snpirftitiom, p. ir>4, for several illostrutinns of thi8.
 
 
-dea«1; among the Connecticut tribes it was a capital off once; among the Noribern tribes, when a death occnrred, if a relation of tlic deceased Kas bbsent^ bis friends loitered along the road by which he was expected, so as to tell him the news and thus prerent him naming the dead on his retnm. Im Hinm says, that, althoogh tlie Indians of British OniaDa have an intricate system of names, it is of little nse, in that owners have a very blrong objection to tcllint^ or ii.->in^' llicm, a[>parcnlly on the groiin 1 that the name is part of the num, and that he who knows it hus part of the owner of that name in his power.* Morgan says that among the Iroquois, upon the death of a man, his name oonld not be used again in the lifetime of bis oldest snnriving son without the consent of the latter.f
+dea«1; among the Connecticut tribes it was a capital off once; among the Noribern tribes, when a death occnrred, if a relation of the deceased Kas bbsent^ his friends loitered along the road by which he was expected, so as to tell him the news and thus prerent him naming the dead on his retnm. Im Hinm says, that, although the Indians of British OniaDa have an intricate system of names, it is of little use, in that owners have a very blrong objection to tcllint^ or ii.->in^' llicm, a[>parcnlly on the groiin 1 that the name is part of the name, and that he who knows it has part of the owner of that name in his power.* Morgan says that among the Iroquois, upon the death of a man, his name oonld not be used again in the lifetime of his oldest snnriving son without the consent of the latter.f
 
-niostrations of this could be mnltiplied ad ir^nUum, bnt it u obriousy without further evidence, that with a uniTersal belief in spiritnal agents, and the identification of name with behtg, such practices as those cited must arise, practices of which the adage, " De mortuis nil nii^i bonum, ' i.e. lest Lis ghost liarui you, emlxnlies a survival. Hence tlic adoption of euphemisms, in which con ij alimentary phrases are employeil in place of such as might grato or annoy, "good mien words," as the Cantonese call them, J the most familiar example of which is the title of Eumenides or " gracious ones " given to the ^^.^^'^^-^ Furies. The Dyaka of Borneo speak of the small pox as the ** chief * or ''jangle leareSf** and the Cantonese call it ^ heavenly flower '* or "good intention**; in Annam the tiger is called "grandfather*' or ** lord;" in the forty-sixth rune of the KaJevala, which celebrates the slaying of the boar, he is aiklresscd in profuse, flowing metaphor, as ♦* forest-ajjple," " u'olden light-foot," " lioney-pawod." In Thorpe's Northern Mythology,^ a list of both dead and living things which ^J^/tr-'''^ are to be called by euphemistic names to arrest evil influences is given, and perchance a survival of this dread exists in the modem housewife's notion that if one comments upon some household god
+niostrations of this could be multiplied ad infinitum, bnt it is obviousy without further evidence, that with a universal belief in spiritual agents, and the identification of name with behtg, such practices as those cited must arise, practices of which the adage, "De mortuis nil nii^i bonum," i.e. lest his ghost liarui you, emlxnlies a survival. Hence tlic adoption of euphemisms, in which con ij alimentary phrases are employed in place of such as might grato or annoy, "good mien words," as the Cantonese call them, J the most familiar example of which is the title of Eumenides or "gracious ones" given to the ^^.^^'^^-^ Furies. The Dyaka of Borneo speak of the small pox as the "chief" or "jangle leareSf" and the Cantonese call it 'heavenly flower '* or "good intention"; in Annam the tiger is called "grandfather" or "lord;" in the forty-sixth rune of the KaJevala, which celebrates the slaying of the boar, he is aiklresscd in profuse, flowing metaphor, as "forest-ajjple," "golden light-foot," "lioney-pawod." In Thorpe's Northern Mythology, a list of both dead and living things which ^J^/tr-'''^ are to be called by euphemistic names to arrest evil influences is given, and perchance a survival of this dread exists in the modem housewife's notion that if one comments upon some household god
 
 * Amrrng flu Indians of Ouiana, p. 220*
 
@@ -1969,9 +1962,9 @@ t Ancient S<'cirtfj, p. 79. % Folklore JUcard, iv. 80.
 
 quick destracUoa follows. I was only yesterdAji" she will tell you, talking alioQt the years we had had that china senpioe, and now it is smashed to atoms V*
 
-2. The reluctance to utter names extends to those of the living in descending scale according to rank. For example, in China, the ming or projHT name of the reigning emperor is sacred, and must bo f^pclt dilVorently during Lis lifetime.* Althoiigli given in the prayer ofiered at the imperial worship of ancestors, it is not permitted to be written or prononnccd by any subject. The Tabitians display like superstitions reverence by a custom termed Te pi. ** They cease to employ in common language those words which form a part or the whole of the sorereign's name or that of one of his near rdatives, and inreht new terms to nu^'ply their place/'f In Siam, Bumiab, and other eastern countries, the like snbstitniion of epithet for the royal name prevails, and '* in IVJyncsia the prohibition to mention chiefs' uamcs has even impressed itself deeply in the language of the ij*lands."J
+2. The reluctance to utter names extends to those of the living in descending scale according to rank. For example, in China, the ming or project name of the reigning emperor is sacred, and must bo f^pclt dilVorently during his lifetime.* Although given in the prayer offered at the imperial worship of ancestors, it is not permitted to be written or pronounced by any subject. The Tabitians display like superstitions reverence by a custom termed Te pi. "They cease to employ in common language those words which form a part or the whole of the sovereign's name or that of one of his near relatives, and inreht new terms to nu^'ply their place/'f In Siam, Bumiab, and other eastern countries, the like substitniion of epithet for the royal name prevails, and "in IVJyncsia the prohibition to mention chiefs' names has even impressed itself deeply in the language of the ij*lands."J
 
-In his Tour to the Himalayas § Eraser tells how in one of the despatches intercepted during the war in Nepaul, Gouree Sah sent orders to find out the British general's name. It was to he written on a piece of paper, the great incantation said orer it three times, and the paper then burnt with plum-tree wood. Coming lower down, we find that the Australian has a strong reluctance to tell his real naino to strangers. Ho lias tlic Kaliir, and among this race no woman may pronounce the names uf any of her husband's male relations in the ascending line, nor even any word in which the principal syllable of the name of her father-in-law occurs.| Tlio Amazulu woman, when addre;^sing or speaking of her husband, calls him Father of So- andnio," mentioning one of his children,^ tuid
+In his Tour to the Himalayas, Eraser tells how in one of the despatches intercepted during the war in Nepaul, Gouree Sah sent orders to find out the British general's name. It was to he written on a piece of paper, the great incantation said orer it three times, and the paper then burnt with plum-tree wood. Coming lower down, we find that the Australian has a strong reluctance to tell his real naino to strangers. Ho lias tlic Kaliir, and among this race no woman may pronounce the names uf any of her husband's male relations in the ascending line, nor even any word in which the principal syllable of the name of her father-in-law occurs.| Tlio Amazulu woman, when addressing or speaking of her husband, calls him Father of So- andnio," mentioning one of his children,^ tuid
 
 * JMhtore JOecatd, ir. 74.
 
@@ -1981,30 +1974,30 @@ I Tylor's Sarly Miitoiy qf ManUtut, p. 14S.
 
 § r. 530.
 
-ii Theal'a At^jffir Folhlore, 201.
+ii Theal'a At^jffir Folklore, 201.
 
 CallawajT, Belijfimts ^ifstem of th€ Amatulvs, p. 316i
 
 
-in like manner a Hindoo wife speaks of her husband aa " He," 'Swnmy,' or "the Mnster," avoiUing mention of his name. Dorinan says that the New Mexican tribes never made known their ow n nanie>^ or those of friends to a stranger, lest these should be used in sorcery. Among the Ojibways husbands and wives never told each others' names, and the children were wanied that if they repeated their own names they would stop growing. Dobrizhoffer records that the Abipones of Paraguay would knock at his door at night, and when asked who was thMre, would not answer, lest enemy or sorcerer overheard their name. There must be like origin for the relactance of which Gregor speaks in his Folklore of the A^urth-/\<ist of Scutlan'ij^ when folk " calling at a house of the better c]a>> oii l'U=>iue.---? with the master or mistress had a very strong dislike to tcU iheir names to the servant who admitted them." The same author says that ^ in Buckie there are certain family names that fishermen will not pronounce;'* the folk in the Tillage of Goull speaking of "spitting out the bad name.*' If such a name is mentioned in their hearing, they s]jit or, in the vernacular, "chiff." One bearing tlie dreaded name is called a "chifferoot." If there is occasion to speak of anyone with such a name a circuudncution is n:?(?d, a^ "The man it diz 80 in f^o," or The laad it lives at 6uch and such a place." If po-sible the men bearing these names of reprobation ore not taken as hired men in the boats during the herring-fishing season; or, when hired before their names were known, have been refused their wages if the season has been a failure. " Te hmna hid sic a fishin* this year is ye hid the last," said a woman to the daughter of a famous fisher. "Na, na, faht wye cud we? We wis m a chifferoot^s *oose, we cudnae hae a fushin*. " In some of the villages on the east coast of Aberdeenshire it was accounted unlucky to meet any one of the name of Why to vlit'ii going to sea. Lives would be lost, or the catch of fish would be poor.f In fine, for these illustrations may be cited to wcarincsH, wherever the name is regarded as a part of the person or thing which it represents, there is no Ihnit to the application. Such confusion eould not be more perfectly illustrated than in an anecdote which Dr.
+in like manner a Hindoo wife speaks of her husband as "He," 'Swnmy,' or "the Mnster," avoiding mention of his name. Dorinan says that the New Mexican tribes never made known their ow n nanie>^ or those of friends to a stranger, lest these should be used in sorcery. Among the Ojibways husbands and wives never told each others' names, and the children were wanied that if they repeated their own names they would stop growing. Dobrizhoffer records that the Abipones of Paraguay would knock at his door at night, and when asked who was there, would not answer, lest enemy or sorcerer overheard their name. There must be like origin for the relactance of which Gregor speaks in his Folklore of the A^urth-/\<ist of Scotland when folk " calling at a house of the better c]a>> of l'U=>iue.---? with the master or mistress had a very strong dislike to tell their names to the servant who admitted them." The same author says that ^ in Buckie there are certain family names that fishermen will not pronounce;'* the folk in the Tillage of Goull speaking of "spitting out the bad name." If such a name is mentioned in their hearing, they s]jit or, in the vernacular, "chiff." One bearing the dreaded name is called a "chifferoot." If there is occasion to speak of anyone with such a name a circuudncution is n:?(?d, a^ "The man it diz 80 in f^o," or The laad it lives at such and such a place." If po-sible the men bearing these names of reprobation ore not taken as hired men in the boats during the herring-fishing season; or, when hired before their names were known, have been refused their wages if the season has been a failure. " Te hmna hid sic a fishin* this year is ye hid the last," said a woman to the daughter of a famous fisher. "Na, na, faht wye cud we? We wis m a chifferoot's *oose, we cudnae hae a fushin*. " In some of the villages on the east coast of Aberdeenshire it was accounted unlucky to meet any one of the name of Why to vlit'ii going to sea. Lives would be lost, or the catch of fish would be poor.f In fine, for these illustrations may be cited to wcarincsH, wherever the name is regarded as a part of the person or thing which it represents, there is no Ihnit to the application. Such confusion eould not be more perfectly illustrated than in an anecdote which Dr.
 
 • P. 80, t Pp. 200, 201.
 
 
 Tylor quotes from Br. Li'cber. "I was lately looking at a negro who
 
-was feeding young mocking-binls by tlio hand. * Would tliey cat worms/' I asked; 'Surely not/ ansM'ereil the man, 'they arc too young, and they would not know what to call them.'" • That ncL^ro would find a kiudred ctpirit in the old lady who, after hearing a lectare upon n5:tronomy, said that fhe could understand bow the astronomers found oat the distances and weights of the stars, bat what pnszled her was how thej fonnd oat their names!
+was feeding young mocking-binls by tlio hand. Would they eat worms?' I asked; 'Surely not,' answered the man, 'they arc too young, and they would not know what to call them.'" • That ncL^ro would find a kindred spirit in the old lady who, after hearing a lectare upon n5:tronomy, said that she could understand bow the astronomers found out the distances and weights of the stars, bat what pnszled her was how thej fonnd oat their names!
 
-8. The rites and ceremonies which haro been practised at birth and infancy from time immemorial have sunrlTed long after their primitive meaning was forgotten, and new meanings whereby a quasi* sauctitj has been iniparteil liave been jittacLeJ tu them. The ideas which still cluster round name-.i^ivini,' are tlie diMguiKed or transmuted superstitions akin to those already illustrate*.!. The custom of naming children from some event happening at their birth has frequent reference in the Old Testament, as e.g. in Genesis xxx. 11, where Leah's maid gives birth to a son: '* And she said, A troop oometfa; and she called his name Gad.*' So Rachel, dying in childbed, calls the babe Ben-oni, son of sorrow,** but the father changes his name to Ben-janiin, son of the right hand." finrekhardt speaks of a like custom anionic the Bedouins, the child's name being derived from some incident, or from some fancy of the mother.f while among the Kaffirs the name of the day on whicli the cliihl is horn, or the name of any beast whoso roar in thou heard, is given to it. The doctrine of baptismal regeneration mnst be claimed as the lineal descendant of the barbaric notions concerning the lastrations which still accompany the naming of the child. In Abyssinia the baptismal name Is concealed throughout life, and in West Sussex it is considered unlocky to divulge a child's intended name before ba})ti8m.|
+8. The rites and ceremonies which haro been practised at birth and infancy from time immemorial have sunrlTed long after their primitive meaning was forgotten, and new meanings whereby a quasi* sauctitj has been iniparteil have been jittacLeJ tu them. The ideas which still cluster round name-.i^ivini,' are the disguised or transmuted superstitions akin to those already illustrate*.!. The custom of naming children from some event happening at their birth has frequent reference in the Old Testament, as e.g. in Genesis xxx. 11, where Leah's maid gives birth to a son: "And she said, A troop oometfa; and she called his name Gad." So Rachel, dying in childbed, calls the babe Ben-oni, "son of sorrow," but the father changes his name to Ben-janiin, son of the right hand." finrekhardt speaks of a like custom anionic the Bedouins, the child's name being derived from some incident, or from some fancy of the mother.f while among the Kaffirs the name of the day on whicli the cliihl is horn, or the name of any beast whoso roar in thou heard, is given to it. The doctrine of baptismal regeneration mnst be claimed as the lineal descendant of the barbaric notions concerning the lastrations which still accompany the naming of the child. In Abyssinia the baptismal name Is concealed throughout life, and in West Sussex it is considered unlocky to divulge a child's intended name before ba})ti8m.|
 
 Although I have sought, in collecting the scattered materials for illustration of the thesis of this paper, for points of fundamental
 
 • JSdrtf HiHarff Mamiind, p. 161.
 
-f .Y«)tt;$ on the Bedouin*, p. 55, qnotcd in Gspt. (OOW Sir GeoKge) Grey's Trui'(U "I ^V. ir. and IT. AnxtraVm, ii. 373. t And cf. Lang's OuUm and Myth: story of ''llicht, Nought, MoUuiig»" p. 89.
+f .Y«)tt;$ on the Bedouin*, p. 55, qnotcd in Gspt. (OOW Sir GeoKge) Grey's Trui'(U "I ^V. ir. and IT. AnxtraVm, ii. 373. t And cf. Lang's OuUm and Myth: story of "Nicht, Nought, Nothing»" p. 89.
 
 
-diffarence between the higher and lower coliurei the seareh has been Tain. One can find Tariations in details, and in their applications, as these have been affected by the personal equation, as wo may call it, of peoples, but not in general principles. As in the physical, so in the intellectual, there is no break in continuity. As in the varions Slates of matter, so in the various phenomena of the uuuci, there is fundamental unity. As the higher organisms repeat iu their cm* biyonio condition the stagea through which their ancestral forma passed, so the folktale, in the several changea which it nndeigoea in the proceaa of transmission, presenres traces of the type to which it belongs. The magic letters ** Abracadabra,*' which were believed to be a remedy for agues and fevers, are equated witli that "blessed word jMesopotaniiu," in which the old lady found such spiritual balm. We have scampered across wide areas in our search after ideas common to those which lie at the heart of "Tom Tit Tot," and wo find its variants, and tho barbaric notions cognate to those ideas, contributing their evidence to that of the great dond of witnesaea testifying to the like attitade of the mind before like phenomena which frightened and bewildered it^ until Bcienoe created sympathy between man and the objeds of hia nndiaeiplined fears.
+difference between the higher and lower coliurei the seareh has been Tain. One can find Tariations in details, and in their applications, as these have been affected by the personal equation, as wo may call it, of peoples, but not in general principles. As in the physical, so in the intellectual, there is no break in continuity. As in the varions Slates of matter, so in the various phenomena of the uuuci, there is fundamental unity. As the higher organisms repeat iu their cm* biyonio condition the stagea through which their ancestral forma passed, so the folktale, in the several changea which it nndeigoea in the proceaa of transmission, presenres traces of the type to which it belongs. The magic letters "Abracadabra," which were believed to be a remedy for agues and fevers, are equated witli that "blessed word jMesopotaniiu," in which the old lady found such spiritual balm. We have scampered across wide areas in our search after ideas common to those which lie at the heart of "Tom Tit Tot," and we find its variants, and the barbaric notions cognate to those ideas, contributing their evidence to that of the great dond of witnesaea testifying to the like attitade of the mind before like phenomena which frightened and bewildered it^ until Bcienoe created sympathy between man and the objeds of hia nndiaeiplined fears.
 
 Edward Clodd.
 
@@ -2012,17 +2005,17 @@ NOTE.— Since revising the foregoing for preas my friend Mr. H. OoDrthope Bowen
 
 Trin'uhul, ptihlisliuil in 1887.—
 
-A doctor iu a remote district had one dny nsi^embled a number of negro children for vaccination. In the coarse of hi^ operations he caine to a little girl, and the foUowing convenation ensued with the person bringing her:
+A doctor iu a remote district had one dny nsi^embled a number of negro children for vaccination. In the coarse of his operations he came to a little girl, and the following convenation ensued with the person bringing her:
 
-Jhetar, « Are yon the ehUd'a mother 7"
+Jhetar, "Are you the child's mother?"
 
-Woman: " Tcs, or— is SM derter.**
+Woman: " Yes, or— is SM derter."
 
-Z>. And what is yonr name
+Z>. And what is your name
 
 W. •« Is me name?"
 
-D. (rather impatiently): ** Yes, I risked you what is year name?" W. (hesitatingly) " Dey does caal uae Sal." A «WeU,8alwbatr*'
+D. (rather impatiently): "Yes, I asked you what is year name?" W. (hesitatingly) " Dey does caal uae Sal." A «WeU,8alwbatr*'
 
 W, (aanringly, bat with a soqtieknu ride-gUmoe at a neighbour who Is
 
@@ -2032,7 +2025,7 @@ or not?"
 
 Vol, 7.— Pabt 2. m
 
-W. (with mnoh reluctance appnmcbing tbo doctor, whispers in the lowest possible tone of voice): "Delphino iSeganL" If* (witb intome diagnst) : '* Htm wbj eonldnt jon Mjr lo t" Mr. GoUeuB remarks: **M7 medical friend now beafs these little passages with more eqnasumityi for he has gained experience, and knows that the reason why the woman was so rdnctaat to «ttcr her name alond was that she believed she had an cnemj in the room who would take advantajre of the circnmstance if she f^ot hull] of her true namo, iinl would work lior all manner of harm. It is a fact liiai thaso people (the negro popuiatiuu ot 1 rmidad) sometiiued actually foigofe the naoMiQl tiieir near velationa bom hearing and uing them ao Utile."
+W. (with mnoh reluctance appnmcbing tbo doctor, whispers in the lowest possible tone of voice): "Delphino iSeganL" If* (with intome disgust): "Htm wbj eonldnt jon Mjr lo t" Mr. GoUeuB remarks: **M7 medical friend now beafs these little passages with more eqnasumityi for he has gained experience, and knows that the reason why the woman was so reluctant to offer her name aloud was that she believed she had an enemy in the room who would take advantage of the circumstance if she f^ot hull] of her true namo, iinl would work lior all manner of harm. It is a fact liiai thaso people (the negro popuiatiuu ot 1 rmidad) sometiiued actually foigofe the naoMiQl tiieir near velationa bom hearing and uing them ao Utile."
 
 BIBLIOGRAPHY OF RUMPELSTILTSKIN.
 
@@ -2076,112 +2069,102 @@ Rachel Harriette Busk, *Patrañas: or Spanish stories, legendary and traditional
 
 WHAT ANA SAW IN THE SUNBEAM.
 
-"[Pwra|HEN I lie on the tomillar^ and look WYf M through the sunbeams," said Ana, "I see iBslHl all the little sprites getting ready the beautiful colours to paint the flowers and the insects, and the clouds, and others that dye the tree-leaves green and gild the old walls, and others that teach the insects to hum and the birds to sing, and little children to smile.
+"WHEN I lie on the *tomillar* `[Bank of wild thyme.]` and look through the sunbeams," said Ana, "I see all the little sprites getting ready the beautiful colours to paint the flowers and the insects, and the clouds, and others that dye the tree-leaves green and gild the old walls, and others that teach the insects to hum and the birds to sing, and little children to smile.
 
-"Do you know, Lolita," pursued Ana, "when a little baby is put into the cradle for the first, very first time, if the Sunbeam plays upon it, the little sprites always look after that baby, and never forget it, but when it is grown up into a big man or woman they still continue their care. There was once such a little baby, Lolita, born in a poor little cottage; such a poor little cottage, Lolita, that there were no shutters to the windows of any kind, when it was ever so hot the sun all came in, ^ Bank of wild thyme.
-
-and made the air suffocating, unless the poor mother could pin up an old dress; but it was not often she had one besides the one she had on. So it happened that when this little baby was born, Lolita, the sunbeams were streaming in, with the little sprites all basking in them, and the sprites kissed this little baby, and said, ' Dear little girl, we will never leave you; only be good, and so long as you are good we will see that you shall want for nothing at all.'
+"Do you know, Lolita," pursued Ana, "when a little baby is put into the cradle for the first, very first time, if the Sunbeam plays upon it, the little sprites always look after that baby, and never forget it, but when it is grown up into a big man or woman they still continue their care. There was once such a little baby, Lolita, born in a poor little cottage; such a poor little cottage, Lolita, that there were no shutters to the windows of any kind, when it was ever so hot the sun all came in, and made the air suffocating, unless the poor mother could pin up an old dress; but it was not often she had one besides the one she had on. So it happened that when this little baby was born, Lolita, the sunbeams were streaming in, with the little sprites all basking in them, and the sprites kissed this little baby, and said, 'Dear little girl, we will never leave you; only be good, and so long as you are good we will see that you shall want for nothing at all.'
 
 "A very little while after, Lolita, that little baby's father died, and you might have said the sprites had forgotten her; but it was not so. They kept their word exactly. She did not know her father had died. Her mother was there, and took care of her, and she was too little to know that other children had more pleasure, so she wanted nothing.
 
-"She did not even know, Lolita, the labour her poor mother had to work for them both, and even when she sang her to sleep with her sad, ceaseless
+"She did not even know, Lolita, the labour her poor mother had to work for them both, and even when she sang her to sleep with her sad, ceaseless song,—
 
-song,—
+"En los brazos te tengo,  
+Y considero,  
+Qué será de ti, nino,  
+Si yo me muero!"
 
-"En los brazos te tengo, Y considero, I Qu^ serd de ti, nino, Si yo me muero *! ''
+`"While in my arms I hold thee,`  
+`I ask myself alway,`  
+`What fate I leave thee to, child.`  
+`If call'd by death away."`
 
-2 " Wliile in my arms I hold thee, I ask myself alway. What fate I leave thee to, child. If caird by death away."
+she knew nothing of its meaning; her little face was pressed close and warm against her mother's breast, and a flower or a fruit, which the sprites had painted for her, was enough to complete her happiness.
 
+"Before Pura — such was her name — was two years old, her mother died too. But the sprites had not forgotten her, Lolita: her mother had a sister, and when this sister came to the funeral, they had painted Pura's cheeks with such fresh, clear tints, and lit up her baby face with such a bright, sweet smile, that her aunt would not part from her, but took her home and brought her up as her own child, and was to her as a mother.
 
-she knew nothing of its meaning; her little face was pressed close and wann against her mother's breast, and a flower or a fruit, which the sprites had painted for her, was enough to complete her happiness.
+"The sprites played with her now just as before; and when she was asleep they used to dance on her bed, and say, 'Dear little girl, we will never leave you; only be good, and so long as you are good we will see that you shall want for nothing at all.'
 
-^Before Pura — such was her name — ^was two years old, her mother died too. But the sprites had not forgotten her, Lolita : her mother had a sister, and when this sister came to the funeral, they had painted Pura's cheeks with such fresh, clear tints, and lit up her baby face with such a bright, sweet smile, that her aunt would not part from her, but took her home and brought her up as her own child, and was to her as a mother.
+"Meantime, Pura grew up to learn to be useful: she worked in the garden, and kept the house tidy, and fetched the water from the fountain, and did all that *Tia* `[Aunt. It is also a title of respect and endearment, much in use between intimate friends, especially among the lower orders in Spain.]` Trinidad wanted. She was very good and very obedient, and never wasted her time; her only amusement was lying on the thyme-bed in the sunshine, because then the sprites painted such pretty dreams for her.
 
-"The sprites played with her now just as before; and when she was asleep they used to dance on her bed, and say, ' Dear little girl, we will never leave you; only be good, and so long as you are good we will see that you shall want for nothing at all'
+"But *Tia* Trinidad was growing old, and after her there was no other aunt, nor any relation to look after Pura; and though she would not say it aloud to vex Pura, who was always bright and gay, she yet continually repeated in her own mind, just as the poor mother used to sing, —
 
-"Meantime, Pura grew up to learn to be useful : she worked in the garden, and kept the house tidy, and fetched the water from the fountain, and did all that Tia * Trinidad wanted. She was very good and very obedient, and never wasted her time; her only amusement was lying on the thyme-
+"En los brazos te tengo,  
+Y considero,  
+Qué será de ti, nino,  
+Si yo mc muero!"
 
-' Aunt. It is also a title of respect and endearment, much in use between intimate friends, especially among the lower orders in Spain
+"So things looked very bad again, Lolita; but the sprites had not forgotten Pura, as you shall see.
 
-bed in the sunshine, because then the sprites painted such pretty dreams for her.
+TO DO
 
-"But Tia Trinidad was growing old, and after her there was no other aunt, nor any relation to look after Pura; and though she would not say it aloud to vex Pura, who was always bright and gay, she yet continually repeated in her own mind, just as the poor mother used to sing, —
+' *Tia* Trinidad earned her living by waiting on strangers at the little inn down in the village, and as few people came that way, she was of:en many days without earning a 'ehavo "*. One day, however, there came a great gentleman who had returned from the Indies with a great lot of money; he said he had roamed the world long enough, and seen enough of great cities; he meant now to settle himself in some quiet, remote village, and the only thing he wanted in this world was a nice, good, industrious wife, who would make his home smiling and happy.
 
-"En los brazos te tengo, Y considcro,; ( Aie sera de li, nino, Si yo mc niuero!"
-
-"So things looked very bad again, Lolita; but tlie sprites had not forgotten Pura, as you shall see.
-
-'' Tia Trinidad earned her living by waiting on strangers at the little inn down in the village, and as few people came that way, she was of:en many days without earning a 'ehavo "*. One day, however, there came a great gentleman who had returned from the Indies with a great lot of money; he said he had roamed the world long enough, and seen enough of great cities; he meant now to settle himself in some quiet, remote village, and the only thing he wanted in this world was a nice, good, industrious wife, who would make his home smiling and happy.
-
-"*Then I can fit you to a nicety!* broke in Tia Trinidad, who had been seized with a most diligent dusting fit all the time the traveller had been detailing his plans to the Cut'a ^ of the village, and had not missed a word.
+"'Then I can fit you to a nicety!' broke in *Tia* Trinidad, who had been seized with a most diligent dusting fit all the time the traveller had been detailing his plans to the Cut'a ^ of the village, and had not missed a word.
 
 "'Can you?' said the traveller, not at all displeased at her boldness.
 
-"* That can I,' continued Tia Trinidad, earnestly; ' and there isn't a girl to match her in Madrid, and the Padre Cnra will bear me out!'
+"That can I,' continued *Tia* Trinidad, earnestly; 'and there isn't a girl to match her in Madrid, and the Padre Cnra will bear me out!'
 
 "*What . . . Pura, you mean ... I suppose.-^' said the Cnra, somewhat embarrassed between his desire to speak the truth, and his fear of crushing the — as it seemed to him — exaggerated ideas of his poor parishioner. * Yes, Pura is a good girl enough;' and he paused to think how much he could say in her favour; ' young, and — pretty, and — simple, and — lively, and — notable altogether, but '
 
 "'Well,' interrupted the traveller, hastily, 'out with your bnt! for you have named the very qualities which go to make up my ideal of a wife; speak, honibre ^! '
 
-''*Well, I mean — I mean, only that she Is a h'ttle — a little — what shall I say } — a little homely
+';Well, I mean — I mean, only that she Is a h'ttle — a little — what shall I say } — a little homely
 
 for your wife '
 
-'''Home/y, is it .> Oh! If that's all, we sha'n't
+"Home/y, is it .> Oh! If that's all, we sha'n't
 
 Clerirvman nf tho nnn'cV.
 
 quarrel. I don't want any of your fine ladies who are only thinking of setting themselves off, and attend to nothing but their toilet! Come, good woman, ask your young friend to allow me to come and see her to-morrow/
 
-"Too overjoyed to answer, Tia Trinidad set off on the instant at full speed, and ran so fast you could not have told what her gown was made of as she passed. * When she reached honie, out of breath, she told her niece to adorn the house, and dress herself in her best, for she expected a visitor next morning.
+"Too overjoyed to answer, *Tia* Trinidad set off on the instant at full speed, and ran so fast you could not have told what her gown was made of as she passed. * When she reached honie, out of breath, she told her niece to adorn the house, and dress herself in her best, for she expected a visitor next morning.
 
 "Pura — who, though now seventeen, still kept up her simple habit of doing whatever she was bid with alacrity — fulfilled the directions given her with great exactness and success, and never thought of asking who or what the visitor was, or what business brought him.
 
-*'When the traveller called next morning, and found the room so smiling, the sunbeams playing through the muslin blinds upon the snow-white curtains, the brightly-tinted flowers — ^which, by the way, the sprites had painted on purpose — so tastefully arranged, and Pura herself looking so neat, and with no thought of display in her head, he was delighted, and left with an air of satisfaction, which convinced Tia Trinidad that all was going on right. Only, as he was going away, he turned and asked Tia Trinidad if Pura could make lace;
-
-Digitized
-
-by Google
-
-What Ana saw in tJie Sunbeam, 187
-
-and Tia Trinidad, who deemed her niece such a peati that there was nothing she could not do, without thinking, answered "Yes." Nevertheless, poor Pura had had too much labour with the garden and the house-work all her young life to have had leisure for indoor occupation. She could take a turn, indeed, at her aunt's spinning-wheel; but such an accomplishment as making iace she had never practised.
+"When the traveller called next morning, and found the room so smiling, the sunbeams playing through the muslin blinds upon the snow-white curtains, the brightly-tinted flowers — ^which, by the way, the sprites had painted on purpose — so tastefully arranged, and Pura herself looking so neat, and with no thought of display in her head, he was delighted, and left with an air of satisfaction, which convinced *Tia* Trinidad that all was going on right. Only, as he was going away, he turned and asked *Tia* Trinidad if Pura could make lace; and *Tia* Trinidad, who deemed her niece such a peati that there was nothing she could not do, without thinking, answered "Yes." Nevertheless, poor Pura had had too much labour with the garden and the house-work all her young life to have had leisure for indoor occupation. She could take a turn, indeed, at her aunt's spinning-wheel; but such an accomplishment as making iace she had never practised.
 
 '^*Why did you tell the gentleman I knew how to make lace, when I don't, aunt?* she exclaimed, for she could not bear an untruth about the least matter.
 
-"' W^U, I did not know what to say, all in the surprise,' replied the good aunt. ' It seemed as if I should give a false impression of your habits, which are so industrious, if I said you could not do any thing he expected of you.'
+"'Well, I did not know what to say, all in the surprise,' replied the good aunt. ' It seemed as if I should give a false impression of your habits, which are so industrious, if I said you could not do any thing he expected of you.'
 
-'* * Then why didn't you say that I could spin, and scour, and dig ?' answered Pura, ingenuously.
+"'Then why didn't you say that I could spin, and scour, and dig?' answered Pura, ingenuously.
 
-"* Dig, and scour, and spin, indeed! Fine recommendations for his purpose,' rejoined the aunt, mysteriously; and before Pura could ask what on earth this 'purpose' was, a messenger brought in three bobbins of fine black silk, for her to make into a piece of lace, as a proof of her skill.
+"'Dig, and scour, and spin, indeed! Fine recommendations for his purpose,' rejoined the aunt, mysteriously; and before Pura could ask what on earth this 'purpose' was, a messenger brought in three bobbins of fine black silk, for her to make into a piece of lace, as a proof of her skill.
 
-"'Oh, aunt, what shall we do? ^\i2X shall \^^ do?' sobbed poor Pura, who could not endure to be thought a deceiver.
+"'Oh, aunt, what shall we do? What shall \^^ do?' sobbed poor Pura, who could not endure to be thought a deceiver.
 
-"* Don't worry, child,' returned the aunt, ' something or other will turn up. There's nothing so easy as making lace, after all, and three bobbins are gone like winking. You must get through it somehow, for your fate depends upon it.'
+"'Don't worry, child,' returned the aunt, 'something or other will turn up. There's nothing so easy as making lace, after all, and three bobbins are gone like winking. You must get through it somehow, for your fate depends upon it.'
 
 "Pura went to bed that night crying; and cried herself to sleep. But very early in the morning, very early indeed, Lolita, the sunbeams woke her — ^you see the sprites never lost sight of her. And three beautiful sprites — the three who had most care of her — came floating down the Sunbeam. Without saying a word, they took up the bobbins of silk, for they had brought every thing with them that was wanted for making lace, as if they had known all about it, and, rattling them about, en un dospor ires'' , they turned off a splendid mantilla, all made out with flowers, and birds, and every thing you can think of, and then threw it on the bed, and disappeared before Pura had time to recover from her surprise.
 
 "When the stranger called next day, and saw this extraordinary proof of industry and skill, he could hardly believe his eyes, and went away more pleased than the day before.
 
-"' Didn't I tell a su merce^ that she was a jewel 1 whispered the old lady.
+"Didn't I tell a su merce^ that she was a jewel?" whispered the old lady.
 
-"* I begin to think you did not exaggerate,' answered the traveller.
+"I begin to think you did not exaggerate,' answered the traveller.
 
-7 As we should say, " like ^vinking." ^ Your worship.
+As we should say, " like ^vinking." ^ Your worship.
 
-Digitized
 
-by Google
 
-What Ana saw in the Sunbeam, 189
+"And then, turning to Pura, he asked her if she was as perfect in household duties as in accomplishments; whether, for instance, she understood cooking.
 
-"And then, turningtoPura, he asked her if she was as perfect in household duties as in accomplishments; whether, for instance, she understood cooking.
-
-^^^ I Plies no ha de saber cocer^!* interposed the aunt, without allowing Pura time to speak; for she knew the good girl would have answered the strict truth; and she thought as the sprites had got her out of one scrape, they might be trusted to get her out of another.
+"I Plies no ha de saber cocer^!" interposed the aunt, without allowing Pura time to speak; for she knew the good girl would have answered the strict truth; and she thought as the sprites had got her out of one scrape, they might be trusted to get her out of another.
 
 "In the evening, the messenger came again, this time followed by two other porters, each carrying baskets of provisions, which they set down, with the message that Pura was to make a famous olla podriday and the gentleman would come in and dine off it the next day.
 
-"Pura's tears fell fast on the beautiful market spoil, on which Tia Trinidad stood feasting her gaze. Never had such a provision of generous diet stood within sight of her hearth! But Pura only reflected on her incapacity to deal with such choice materials, and she knew there was no help to be got from her aunt, to whose cuisine even a piece of bacon was a rare delicacy.
+"Pura's tears fell fast on the beautiful market spoil, on which *Tia* Trinidad stood feasting her gaze. Never had such a provision of generous diet stood within sight of her hearth! But Pura only reflected on her incapacity to deal with such choice materials, and she knew there was no help to be got from her aunt, to whose cuisine even a piece of bacon was a rare delicacy.
 
 "Pura went to bed that night as sad as the night before, for she kept saying to herself, 'Suppose the gentleman should think it is I who have been deceiving him!'
 
@@ -2189,7 +2172,7 @@ What Ana saw in the Sunbeam, 189
 
 '^ "I should think she did know how to cook indeed!"
 
-Very early in the morning — ^very early 1 — ^they came in on the Sunbeam, as bright and as beautiful as before; and in a trice they had laid the fire in the stove and blown the charcoal into a fine red glow; then, while one took down the large ollas^ from the shelf, and filled them with water at the well, one was busy plucking the fowls, and another washing and preparing the vegetables. The vegetables were soon put on in one olla with the bacon; and then the fowls, the ham, the sausages, the tripe, the pigs'-fry, the rolls of lean meat nicely larded and stuffed, all set to stew in another, and all seasoned with the greatest care and delicacy. The whole morning Pura watched the sprites. And though Tia Trinidad saw nothing but the Sunbeam playing about the kitchen, Pura saw them, as they carefully skimmed the pots, added to the liquor or the flavouring, made up or slackened the fire; then, an hour before dinner-time the contents of the two alias were ratogled with care, and once more set on to simmer^ while with herbs, and bread-crumbs, and garlic,^ pimento, and parsley, certsun albdndigas grtiesas^ were being made ready, and fried in sparkling oil to a fine golden hue, ready to drop into the olla the moment before serving up.
+Very early in the morning — very early — they came in on the Sunbeam, as bright and as beautiful as before; and in a trice they had laid the fire in the stove and blown the charcoal into a fine red glow; then, while one took down the large ollas^ from the shelf, and filled them with water at the well, one was busy plucking the fowls, and another washing and preparing the vegetables. The vegetables were soon put on in one olla with the bacon; and then the fowls, the ham, the sausages, the tripe, the pigs'-fry, the rolls of lean meat nicely larded and stuffed, all set to stew in another, and all seasoned with the greatest care and delicacy. The whole morning Pura watched the sprites. And though *Tia* Trinidad saw nothing but the Sunbeam playing about the kitchen, Pura saw them, as they carefully skimmed the pots, added to the liquor or the flavouring, made up or slackened the fire; then, an hour before dinner-time the contents of the two alias were ratogled with care, and once more set on to simmer^ while with herbs, and bread-crumbs, and garlic,^ pimento, and parsley, certsun albdndigas grtiesas^ were being made ready, and fried in sparkling oil to a fine golden hue, ready to drop into the olla the moment before serving up.
 
 "The traveller came, faithful to his appointmeni,
 
@@ -2198,44 +2181,39 @@ Very early in the morning — ^very early 1 — ^they came in on the Sunbeam, as
 * Something like our forcemeat-balls.
 
 
-and the delicious odours of the olla met him directly he entered the garden-gate, overpowering the perfume of the carnations on the window-sills. Proudly Tia Trinidad bore in the lordly dish, for she knew that never in the palace was a more perfect stew served. The traveller dined with undisguised satisfaction; he confessed it was the ne plus ultra of cooking. Nothing was wanting,, of nothing was there too much, every thing was in its due proportion and proved the handiwork of a true artist in cooking.
+and the delicious odours of the olla met him directly he entered the garden-gate, overpowering the perfume of the carnations on the window-sills. Proudly *Tia* Trinidad bore in the lordly dish, for she knew that never in the palace was a more perfect stew served. The traveller dined with undisguised satisfaction; he confessed it was the ne plus ultra of cooking. Nothing was wanting,, of nothing was there too much, every thing was in its due proportion and proved the handiwork of a true artist in cooking.
 
-"* As you understand so well how to prepare this hcwnEiely dish,* he said, at the close of many compliments, as he took leave^ * I am sure your delicate taste must be equally faultless at confections^ — I shall ask you tomake me a turron `[A sweetmeat in as general adoption in Spain as our toffy.]` to-morrow.
+"'As you understand so well how to prepare this hcwnEiely dish,* he said, at the close of many compliments, as he took leave^ * I am sure your delicate taste must be equally faultless at confections^ — I shall ask you tomake me a turron `[A sweetmeat in as general adoption in Spain as our toffy.]` to-morrow.
 
-"Pur^, struck dumb with perplexity, was vainly striving to frame some speech by means of which to explain how little part she had had in the performances he had been led to ascribe to her; but while she was yet thinking, her admirer had alleady plucked a carnation for her hair, and, raising bis hand in affectionate farewell, had taken his departure.
+"Pura, struck dumb with perplexity, was vainly striving to frame some speech by means of which to explain how little part she had had in the performances he had been led to ascribe to her; but while she was yet thinking, her admirer had alleady plucked a carnation for her hair, and, raising his hand in affectionate farewell, had taken his departure.
 
 "The Trinidad busied herself with putting by the remains of the abundant meal: there was meat enough to last her frugal needs a week, and more, and some to spare for a poor neighbour besides. * 
 
-
 While she schemed and portioned, Pura, torn by conflicting thoughts, stood still, with the carnation in her hand, gazing after the form of the stranger as he disappeared among the trees, and wondering why she had not courage to run after him and explain all.
 
-"She stood thus leaning against the window-pane, and still gazing, perplexed, hours afterwards, when the same messenger who had visited her on the two evenings before, again appeared, with a load of almonds and filberts, pine-kernels and walnuts, honey and eggs. Pura took the things from him with a heavy heart, for she was much too humble and simple to expect that the sprites could be so kind as to help her again; so she went to bed in as great distress as on the preceding nights. Nevertheless, early in the morning — ^very early, very soon after sunrise, that is as soon as the sun was up high enough for his beams to get in at her window — in came the three sprites, and, without saying a^ word, set to work, just as they had the day before; then began such a wonderful bruising^ and pounding, and mixing, that Pura soon lost all fear of the work not being performed as perfectly as on the two former occasions. They had not yet half finished their mixing, when all of a sudden she noticed a soft buzzing sound, like the humming of bees, but all in beautiful melody; and then she saw the Sunbeam full of sprites of every
+"She stood thus leaning against the window-pane, and still gazing, perplexed, hours afterwards, when the same messenger who had visited her on the two evenings before, again appeared, with a load of almonds and filberts, pine-kernels and walnuts, honey and eggs. Pura took the things from him with a heavy heart, for she was much too humble and simple to expect that the sprites could be so kind as to help her again; so she went to bed in as great distress as on the preceding nights. Nevertheless, early in the morning — ^very early, very soon after sunrise, that is as soon as the sun was up high enough for his beams to get in at her window — in came the three sprites, and, without saying a word, set to work, just as they had the day before; then began such a wonderful bruising and pounding, and mixing, that Pura soon lost all fear of the work not being performed as perfectly as on the two former occasions. They had not yet half finished their mixing, when all of a sudden she noticed a soft buzzing sound, like the humming of bees, but all in beautiful melody; and then she saw the Sunbeam full of sprites of every
 
 hue like living flowers. They were the genii of the flowers, and they wore the very forms of the flowers, their bright petals making so many wings, and they came and poured each its own perfumed nectar into the confection, giving it a flavour such as no turrony of earth at least, ever possessed before.
 
-"' We have done all these things for you,' said the sprites, when they had completed their handiwork; * now, we want you to do one thing for us.'
+"'We have done all these things for you,' said the sprites, when they had completed their handiwork; 'now, we want you to do one thing for us.'
 
-"* Oh, whatever you like! only tell me any thing I can do!' answered Pura, with a ready grace.
+"'Oh, whatever you like! only tell me any thing I can do!' answered Pura, with a ready grace.
 
 "'Well, it is this. We know three poor girls, very poor and very sick; they are all terribly deformed cripples. They are so deformed and so ugly that they live in the hospital, and never get asked any where. It would be such a pleasure to them to come to your wedding-Cite. They will be no ornament to it, I know; but still, will you let them come V
 
-"' Oh, yes; to be sure, poor things;' answered Pura, with grateful and charitable alacrity; 'that IS, whenever I get married. But who would marry a poor penniless orphan-girl, who can do nothing ? More likely I shall have to go to the hospital too, when aunt dies.'
+"'Oh, yes; to be sure, poor things;' answered Pura, with grateful and charitable alacrity; 'that is, whenever I get married. But who would marry a poor penniless orphan-girl, who can do nothing? More likely I shall have to go to the hospital too, when aunt dies.'
 
-"* Oh, no; you're going to be married very soon, to that traveller who has been here so often.*
+"'Oh, no; you're going to be married very soon, to that traveller who has been here so often.'
 
-"'What; to that kind, handsome gentleman!' cried Pura, in raptures. But a moment after, a
+"'What; to that kind, handsome gentleman!' cried Pura, in raptures. But a moment after, a cloud stole over her joyous countenance; and, hiding her face in her hands, she said, sadly, 'No; that can never be. I dread even to meet him again, because we have been deceiving him. Oh, it was very wrong; I would not have done it for the world if I had had time to speak. If he wants to marry me, it's because he thinks I'm so clever?ind when he finds I can do nothing he will turn his back, and that is not the worst. When he finds he is deceived, and I can do nothing, oh, how he will despise me!* And she sobbed again.
 
-cloud stole over hier joyous countenance; and, hiding her face in her hands, she said, sadly, ' No; that can never be. I dread even to meet him again, because we have been deceiving him. Oh, it was very wrong; I would not have done it for the world if I had had time to speak. If he wants to marry me, it's because he thinks Tm so clever \ ?ind when he finds I can do nothing he will turn his back, and that is not the worst. When he finds he is deceived, and I can do nothing, oh, how he will despise me!* And she sobbed again.
+"'No, it is not because you are clever,' answered the sprites; 'it is because you are good. If you have not learned more, it is because you had not the opportunity. You have always been industrious at doing what you did understand; and as to deceiving him, that has never been your will and intention. So cheer up! we will make it all right. Only don't forget to invite the three poor girls from the hospital to the feast.' And the sprites floated away on the sunbeam.
 
-"*No, it is not because you are clever,' answered the sprites; * it is because you are good. If you have not learned more, it is because you had not the opportunity. You have always been industrious at doing what you did understand; and as to deceiving him, that has never been your will and intention. So cheer up! we will make it all right. Only don't forget to invite the three poor girls from the hospital to the feast* And the sprites floated away on the sunbeam.
+"'Be sure I shall not forget them, poor thii^s V cried Pura after them.
 
-** ' Be sure I shall not forget them, poor thii^s V cried Pura after them.
+"The next day the stranger came again; and having tasted the exquisite turrony which seemed indeed to have been perfumed by no ordinary taste, he told *Tia* Trinidad he hoped she would let him. marry her niece at once.
 
-"The next day the stranger came again; and having tasted the exquisite turrony which seemed indeed to have been perfumed by no ordinary taste, he told Tia Trinidad he hoped she would let him. marry her niece at once.
-
-"There was nothing the old lady desired more;
-
-for she had inquired about him meantime, and found he was* a worthy man, as well as abundantly supplied with this world's goods; so all was speedily arranged.
+"There was nothing the old lady desired more; for she had inquired about him meantime, and found he was a worthy man, as well as abundantly supplied with this world's goods; so all was speedily arranged.
 
 "To her surprise, when she came to announce her good fortune to her niece, and to arrange preliminaries with her, she found she was any thing but pleased, and only burst into tears.
 
@@ -2243,61 +2221,53 @@ for she had inquired about him meantime, and found he was* a worthy man, as well
 
 "'That's it. That's just what makes me so wretched,' sobbed Pura,
 
-'"What, wretched to think a good man loves you!'
+"'What, wretched to think a good man loves you!'
 
-"' No» aunt, no; but to think that he is so good and so kind, and we have been deceiving him. When he finds I can do none of the things he has fancied I am so clever at, what will he think of me ? With what face, can I meet him ? Will he ever respect me again?' and she sobbed harder than ever.
+"'No. aunt, no; but to think that he is so good and so kind, and we have been deceiving him. When he finds I can do none of the things he has fancied I am so clever at, what will he think of me ? With what face, can I meet him ? Will he ever respect me again?' and she sobbed harder than ever.
 
-'"Nonsense, child, don't take on like that,' responded the aunt ' You've got through it all so far. Do as I bid you^ and it will all come right in the end.'
+";Nonsense, child, don't take on like that,' responded the aunt 'You've got through it all so far. Do as I bid you. and it will all come right in the end.'
 
 "Pura, used to obey, and trusting in great measure also to the promises of. the sunbeamsprites, prepared to do her aunt's bidding, though with somewhat mixed feelings.
 
 "When the wedding-day was fixed, and all preparations made, Pura did not forget to go out early into the tomillar, and ask the sprites of the sunbeam how she should find their proteg&s, the three cripples of the hospital. * Leave that to us,' said the sprites. 'You have done your part in remembering them. We will take care they have the invitation; only give us the token by which they may be sure of being admitted.'
 
-"*A red and white carnation will suffice,' answered Pura; and a cloud overshadowed the sunbeam.
+"'A red and white carnation will suffice,' answered Pura; and a cloud overshadowed the sunbeam.
 
 "The wedding came, and the fetes, and the cripples. A pitiable sight they were, indeed. They were still young; but their distorted forms only made their youth a motive for greater compassion. The back of one was curled over so that her chin touched her waist, and her arms were so short they were no longer than the fins of a fish. Those of the second were so swollen that each was the size of her whole body, and you could scarcely tell which was which; and on her forehead was a great swelling like the horn of a rhinoceros. The skin of the third was all shrivelled and seamed with scars, and her eyes were red all round, and stood out from her head worse than those of a lobster.
 
+"'Pura!' exclaimed the bridegroom, as they made their approach, *how on earth did these three scarecrows get in? they are almost enough to cast an evil eye on our happiness/
 
-W/iat Ana saw in the Sunbeam. 197
+"'Say not so, beloved,' replied Pura; 'they are three poor girls who might have been as happy as you and I, but that misfortune overtook them. Their life is sad enough, shall we not try to make them glad for once, on our own happy day?'
 
-*((}
+"'Sweet child, you are right, and I was hasty,' answered the bridegroom; 'but how did you come to know them?'
 
-^Pura!' exclaimed the bridegroom, as they made their approach, *how on earth did these three scarecrows get in ? they are almost enough to cast an evil eye on our happiness/
-
-"* Say not so, beloved,* replied Pura; * they are three poor girls who might have been as happy as you and I, but that misfortune overtook them. Their life is sad enough, shall we not try to make them glad for once, on our own happy day ?'
-
-"' Sweet child, you are right, and I was hasty,' answered the bridegroom; * but how did you come to know them ?'
-
-"* Some one who was very kind to me seemed to take an interest in them too, and asked me to invite them, that they might have one bright day at least.-
+"'Some one who was very kind to me seemed to take an interest in them too, and asked me to invite them, that they might have one bright day at least.-
 
 "'Then, if that is the case, they have my heartiest welcome; I had rather see them here than if they were the highest duchesses of the land.'
 
 "And with that he sent the friend who attended to marshalling the guests, to put them in the best places, nearest to the bride and himself.
 
-•* Nevertheless, he could not get over his curiosity, to know why they were formed in such an extraordinary manner; and when the conversation began to get sufficiently general and familiar, he went up to the first, and after an exchange of ordinary compliments, and feeling his way by little
+•* Nevertheless, he could not get over his curiosity, to know why they were formed in such an extraordinary manner; and when the conversation began to get sufficiently general and familiar, he went up to the first, and after an exchange of ordinary compliments, and feeling his way by little and little, at last allowed himself to say in the politest tone, —
 
-
-and little, at last allowed himself to say in the politest tone, —
-
-''May I ask, dear friend, how it is your back comes to be so bent, and your arms so very short ?'
+"'May I ask, dear friend, how it is your back comes to be so bent, and your arms so very short ?'
 
 "And while he waited in great perturbation, lest he should have offended or hurt the poor thing, she answered cheerfully enough, —
 
-"* By all means, I am not at all ashamed of it. I used to be a famous hand at making lace, and my step-mother, finding she could make a lot of money out of my work, kept me at it so hard that from bending over it so much my back never came straight again; and my arms, from continually twisting the bobbins, got quite worn away and screwed like into the sockets, and never would come out any more/
+"'By all means, I am not at all ashamed of it. I used to be a famous hand at making lace, and my step-mother, finding she could make a lot of money out of my work, kept me at it so hard that from bending over it so much my back never came straight again; and my arms, from continually twisting the bobbins, got quite worn away and screwed like into the sockets, and never would come out any more/
 
-"* Indeed!* exclaimed the bridegroom, almost abruptly, for his alarm got the better of his courtesy; and with that he sprang to the side of his bride, and exacted from her a promise that she would never never make any lace from that day forward.
+"'Indeed!' exclaimed the bridegroom, almost abruptly, for his alarm got the better of his courtesy; and with that he sprang to the side of his bride, and exacted from her a promise that she would never never make any lace from that day forward.
 
 "Pura gave the promise willingly enough; and, his composure somewhat restored, her husband before long found his curiosity lead him to the side of the second ' scarecrow* guest, to ask her why her arms were so very thick, and why she had such a bump on her forehead.
 
-** * Because/ she answered, in a tone which seemed to show she was pleased to have the opportunity of explaining the circumstance, 'because I used to be a rare hand at making almendrado * and turrones of every kind, and from continually pounding, pounding at the almonds and nuts, my arms grew as thick as you see; and as I often knocked my forehead with the big pestle we used, I got this ugly bump.'
+"'Because/ she answered, in a tone which seemed to show she was pleased to have the opportunity of explaining the circumstance, 'because I used to be a rare hand at making almendrado * and turrones of every kind, and from continually pounding, pounding at the almonds and nuts, my arms grew as thick as you see; and as I often knocked my forehead with the big pestle we used, I got this ugly bump.'
 
 "With greater trepidation than before, he darted, at hearing this, to Pura's side, and taking her hand in his, required her to promise him with the greatest solemnity that she would never touch any confectionary again.
 
-*' Encouraged by the good-natured reception his curiosity had met with in the two former cases, he soon found himself by the side of the third cripple, asking her why her eyes were so red and goggled, and her skin so scarred.
+"'Encouraged by the good-natured reception his curiosity had met with in the two former cases, he soon found himself by the side of the third cripple, asking her why her eyes were so red and goggled, and her skin so scarred.
 
-"'Because I was a famous cook,' was the answer. * I was married very young, and my husband was very particular about his dinner. I never could be away from the cooking-stove, there was always something to be got ready; and that injured my eyes. And worse than that, one day I had a frying-pan in my hand, full of boiling oil, and I was just going to drop in the chops, when bang went a pane of glass. Some one had
+"'Because I was a famous cook,' was the answer. 'I was married very young, and my husband was very particular about his dinner. I never could be away from the cooking-stove, there was always something to be got ready; and that injured my eyes. And worse than that, one day I had a frying-pan in my hand, full of boiling oil, and I was just going to drop in the chops, when bang went a pane of glass. Some one had
 
-* Sweetmeat composed of pounded almonds and honey.
+ * Sweetmeat composed of pounded almonds and honey.
 
 frightened the cat, and in he had bounded through the window, scattering the glass right and left. The noise gave me such a start, that I upset the frying-pan over the heated stove, the oil flared up in my face, and burnt me all over as you see me/
 
