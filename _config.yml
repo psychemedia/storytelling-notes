@@ -1,6 +1,6 @@
 title: Storytelling Notes
 author: Tony Hirst
-copyright: "2022-2025" 
+copyright: "2022-2026" 
 only_build_toc_files: true
 
 execute:
@@ -12,5 +12,11 @@ parse:
 sphinx:
   config:
     html_copy_source: false
+    html_theme: sphinx_book_theme
+    html_baseurl: https://island-storynotes.montystoryteller.org/
+    sitemap_url_scheme: "{link}"
+    sitemap_locales: [null]
+
   extra_extensions:
-    - sphinxcontrib.youtube
+    - sphinx_togglebutton
+    - sphinx_sitemap

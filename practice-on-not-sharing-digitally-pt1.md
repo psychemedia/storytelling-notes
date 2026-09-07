@@ -21,7 +21,7 @@ But that's maybe not surprising, because I wasn't describing it very well.
 
 But this maybe describes it better: I don't want to produce a *commodity* item.
 
-The following was found was searching for other things, specifically the average speed of railways in the eighteenth century, some background research to tighten up my [*Too much time*](https://psychemedia.github.io/storytelling-notes/too_much_time.html) story, the answer to which I found in this footnote:
+The following was found was searching for other things, specifically the average speed of railways in the eighteenth century, some background research to tighten up my [*Too much time*](https://storytelling-notes.montystoryteller.org/too_much_time.html) story, the answer to which I found in this footnote:
 
 > According to H. G. Lewin, The Railway Mania and its Aftermath 1845-52 (London, 1936), the average speed per hour was between 20 and 30 miles, up to the year 1845 (p. 95). The fastest English train, the Great Western Express, had a speed per hour of 46 miles. The average speed of stagecoaches, according to Lardner, was a little below eight miles (Railway Economy, p. 36); the fastest coaches made up to ten miles an hour, according to Lewin. The top speed that English trains achieved in the 1840s, according to Lardner, frequently was up to 60 or 70 miles (Railway Economy, p. 176).
 
