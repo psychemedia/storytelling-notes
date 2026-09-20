@@ -658,3 +658,9 @@ Mr. PENNANT gives the following account of this remarkable cuſtom:
 "This machine of death is now deſtroyed; but I ſaw one of the ſame kind in a room under the Parliament-houſe at Edinburgh, where it was introduced by the Regent Morton, who took a model of it as he paſſed through Halifax, and at length ſuffered by it himſelf. — It is in the form of a painter's eaſel, and about ten feet high. At four feet from the bottom is a croſs bar, on which the felon lays his head, which is kept down by another placed above. In the inner edges of the frame are grooves; in theſe is placed a ſharp axe, with a vaſt weight of lead, ſupported at the very ſummit with a peg; to that peg is faſtened a cord, which the executioner cutting, the axe falls, and does the affair effectually, without ſuffering the unhappy criminal to undergo a repetition of ſtrokes, as has been the caſe in the common method. If the ſufferer is condemned for ſtealing a horſe or cow, the ſtring is tied to the beaſt, which, on being whipped, pulls out the peg, and becomes the executioner."
 
 ...
+
+
+
+--
+
+Father to to the bough, son to the plough proverb: see also gavelkind (laws of inheritance) then maybe also contrast with law re possessions in cases of felo de se eg https://tilleyproverbs.com/proverbs/F84
