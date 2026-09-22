@@ -1,6 +1,6 @@
 # The Three Sillies
 
-This is one of the stories that appears widely in English folk-tale collections, although I don't recall any particular examples of having heard it myself. From the briefest refreshers of the bones of the tale, I told it myself for the first time at &Spoken Word at Monkton Arts* in May, 2024. Coming in at about 11 minutes, the scope for humour is plentiful. The tale ends as a "happily ever after", with an opportunity to say there are fools everywhere, but one comment was that it missed a kicker (a topper, or a twist), at the end.
+This is one of the stories that appears widely in English folk-tale collections, although I don't recall any particular examples of having heard it myself. From the briefest refreshers of the bones of the tale, I told it myself for the first time at *Spoken Word at Monkton Arts* in May, 2024. Coming in at about 11 minutes, the scope for humour was plentiful. The tale ends as a "happily ever after", with an opportunity to say there are fools everywhere, but one comment was that it missed a kicker (a topper, or a twist), at the end.
 
 The version that seems to appear most commonly in English folk-tale collections is the one published by Jacobs in his *English Fairy Tales*:
 
@@ -605,7 +605,7 @@ They were greatly annoyed at this, for there were only the three of them to shar
 
 As they went home from the church that day they decided to wager with each other as to whose husband was the most stupid, and the one who, on the following Sunday, should be judged to have played her husband the greatest trick should thereafter go free from paying, and each of the two others would give twopence for their Sunday's half-pint.
 
-Next day the tailor's wife said to her husband, 'I have some girls coming to-day to help to card rny wool; there is a great deal to do, and we must be very busy. I am so annoyed that our watchdog is dead, for in the evening the young fellows will come about to get fun with the girls, and they will get nothing done. If we had only had a fierce watchdog he would have kept them away.'
+Next day the tailor's wife said to her husband, 'I have some girls coming to-day to help to card my wool; there is a great deal to do, and we must be very busy. I am so annoyed that our watchdog is dead, for in the evening the young fellows will come about to get fun with the girls, and they will get nothing done. If we had only had a fierce watchdog he would have kept them away.'
 
 'Yes,' said the man, 'that would have been a good thing.'
 
@@ -709,17 +709,12 @@ From that time on, the carpenter's wife never had to pay for her measure of bran
  
 ```
 
-The reference in Jacobs' note to a parallel tale in Kennedy's *Fireside Tales* appears to be the folllowing:
+The reference in Jacobs' note to a parallel tale in Kennedy's *Fireside Tales* appears to be the following:
 
 ```{admonition} A Legend of Clever Women, 1870
 :class: dropdown
-https://archive.org/details/firesidestorieso00kennrich/page/8/mode/2up?q=wife
-The fireside stories of Ireland
-by Kennedy, Patrick, 1801-1873
 
-Publication date 1870
-
-pp.9-14
+Patrick Kennedy, *The fireside stories of Ireland*, 1870, [pp.9-14](https://archive.org/details/firesidestorieso00kennrich/page/8/mode/2up).
 
 A LEGEND OF CLEVER WOMEN.
 
@@ -735,9 +730,154 @@ He was going by a cabin, and such roaring and bawling as was coming out through 
 
 The next adventure he met was in a widow-woman's bawn, where herself and a few neighbours were striving to lift up a big cow to the eaves of the cabin, and the poor animal kicking off their hats, and tearing their clothes with her hoofs. "God bless the men and their work!" says Darby. "God save you kindly," says they. "What are yous doing with the poor baste?" says he. "An' sure we're striving to get her up on the *tatch*," says the widow, "'till she makes a meal on all that fine grass that's growing on itself, and the scraws at the top." "Let her down," says he, "and maybe we'll come on an easier plan. Give us a reaping-hook, if you have the like." So he got a ladder, and was soon down again with an armfull of the grass. "Well to be sure!" says the poor widow, "nothing bates the wit of man barring the bees. It was a good wind," &c., &c. u I don't think," says Darby, "she's a bit worse than Joan. My journey is not over."
 
-Just as night fell, he went into a farm-house and put up for the night. The owner was a widow- woman that was after burying her third husband. The first two were such crooked disciples that she married a third to get the taste of them off her mouth, as she said. "Where do you come from, honest man f" says she to Darby, after supper. "I am from the *Gairdheen*" (Garden, the name of his farm.) "Oh, and are you from the Garden in -earnest V "Faith I am so; what do you admire about it 1" "Oh, and may be you are acquainted with my poor husband, the last I mean, the others I'm sure never had the grace to get there." Darby now smelled a rat. "And what sort of a mau was your last, and what was the name was on him V "An' wasn't he poor Jack Miskella, the innocentest and little-good-for-est man that ever drew on a stocking? A child of three years old would buy and sell him any day he ever got up." "I know the man you mean, and have a message to you from him. He have no means of earning his bread, and his clothes is nearly worn out. So he does be begging at the good Christians' doors, and he bid me tell you, if you'd send him a comfortable suit of clothes, not forgetting a pair of double- soled brogues, you'd make a man of him; and if he had an ass or a small garran to carry him from one charitable house to another, he'd be as happy as a king, it 'ud be such an ease to his poor legs." "Ah, an' them's the very things he must have, my poor Jack! I suppose you'd like to be off early to him. The ass will be ready bridled and saddled in the stable, and the full suit will be laid out here on the kitchen table; and if you think they'd be of any use, there'll be a few guinea notes in the pockets." "Never mind the notes; every family does everything for itself in that country."
+Just as night fell, he went into a farm-house and put up for the night. The owner was a widow- woman that was after burying her third husband. The first two were such crooked disciples that she married a third to get the taste of them off her mouth, as she said. "Where do you come from, honest man f" says she to Darby, after supper. "I am from the *Gairdheen*" (Garden, the name of his farm.) "Oh, and are you from the Garden in earnest?" "Faith I am so; what do you admire about it?" "Oh, and may be you are acquainted with my poor husband, the last I mean, the others I'm sure never had the grace to get there." Darby now smelled a rat. "And what sort of a man was your last, and what was the name was on him?" "An' wasn't he poor Jack Miskella, the innocentest and little-good-for-est man that ever drew on a stocking? A child of three years old would buy and sell him any day he ever got up." "I know the man you mean, and have a message to you from him. He have no means of earning his bread, and his clothes is nearly worn out. So he does be begging at the good Christians' doors, and he bid me tell you, if you'd send him a comfortable suit of clothes, not forgetting a pair of double-soled brogues, you'd make a man of him; and if he had an ass or a small garran to carry him from one charitable house to another, he'd be as happy as a king, it 'ud be such an ease to his poor legs." "Ah, an' them's the very things he must have, my poor Jack! I suppose you'd like to be off early to him. The ass will be ready bridled and saddled in the stable, and the full suit will be laid out here on the kitchen table; and if you think they'd be of any use, there'll be a few guinea notes in the pockets." "Never mind the notes; every family does everything for itself in that country."
 
 "I think," says Darby to himself next morning, "I've found a woman rather more foolish than poor Joan; so I'll go back to her." He did so, and they led such a life that whenever a loving couple are seen going together to Mass or market, every one says, "There goes Darby and Joan."
 
+```
+
+Another variant of the "wives with foolish husbands' tale can be found in Lang's *Brown Fairy Book*, sourced from a collection of Icelandic tales.
+
+```{admonition} Which Was The Foolishest?, 1904
+:class: dropdown
+
+Andrew Land, ed., *The Brown Fairy Book*, 1904, [pp.270-4](https://archive.org/details/brownfairybook00lang/page/270/mode/2up).
+
+Which Was The Foolishest?
+
+In a little village that stood on a wide plain, where you could see the sun from the moment he rose to the moment he set, there lived two couples side by side. The men, who worked under the same master, were quite good friends, but the wives were always quarrelling, and the subject they quarrelled most about was — which of the two had the stupidest husband.
+
+Unlike most women — who think that anything that belongs to them must be better than what belongs to anyone else — each thought her husband the more foolish of the two.
+
+'You should just see what he does!' one said to her neighbour. 'He puts on the baby's frock upside down, and, one day, I found him trying to feed her with boiling soup, and her mouth was scalded for days after. Then he picks up stones in the road and sows them instead of potatoes, and one day he wanted to go into the garden from the top window, because he declared it was a shorter way than through the door.'
+
+'That is bad enough, of course,' answered the other; 'but it is really *mothing* to what I have to endure every day from *my* husband. If, when I am busy, I ask him to go and feed the poultry, he is certain to give them some poisonous stuff instead of their proper food, and when I visit the yard next I find them all dead. Once he even took my best bonnet, when I had gone away to my sick mother, and when I came back I found he had given it to the hen to lay her eggs in. And you know yourself that, only last week, when I sent him to buy a cask of butter, he returned driving a hundred and fifty ducks which someone had induced him to take, and not one of them would lay.'
+
+'Yes, I am afraid he *is* trying,' replied the first; 'but let us put them to the proof, and see which of them is the most foolish.'
+
+So, about the time that she expected her husband home from work, she got out her spinning-wheel, and sat busily turning it, taking care not even to look up from her work when the man came in. For some minutes he stood with his mouth open watching her, and as she still remained silent, he said at last:
+
+'Have you gone mad, wife, that you sit spinning without anything on the wheel?'
+
+'*You* may think that there is nothing on it,' answered she, 'but I can assure you that there is a large skein of wool, so fine that nobody can see it, which will be woven into a coat for you.'
+
+'Dear me!' he replied, 'what a clever wife I have got! If you had not told me I should never have known that there was any wool on the wheel at all. But now I really do seem to see something.'
+
+The woman smiled and was silent, and after spinning busily for an hour more, she got up from her stoop, and began to weave as fast as she could. At last she got up, and said to her husband: 'I am too tired to finish it to-night, so I shall go to bed, and to-morrow I shall only have the cutting and stitching to do.'
+
+So the next morning she got up early, and after she had cleaned her house, and fed her chickens, and put everything in its place again, she bent over the kitchen table, and the sound of her big scissors might be heard snip! snap! as far as the garden. Her husband could not see anything to snip at; but then he was so stupid that was not surprising!
+
+After the cutting came the sewing. The woman patted and pinned and fixed and joined, and then, turning to the man, she said:
+
+'Now it is ready for you to try on.' And she made him take off his coat, and stand up in front of her, and once more she patted an pinned and fixed and joined, and was very careful in smoothing out every wrinkle.
+
+'It does not feel very warm,' observed the man at last, when he had borne all this patiently for a long time.
+
+'That is because it is so fine,' answered she; 'you do not want it to be as thick as the rough clothes you wear every day.'
+
+He *did*, but was ashamed to say so, and only answered: 'Well, I am sure it must be beautiful since you say so, and I shall be smarter than anyone in the whole village.
+
+"What a splendid coat!" they will exclaim when they see me. But it is not everybody who has a wife as clever as mine.'
+
+Meanwhile the other wife was not idle. As soon as her husband entered she looked at him with such a look of terror that the poor man was quite frightened.
+
+'Why do you stare at me so? Is there anything the matter?' asked he.
+
+'Oh! go to bed at once,' she cried; 'you must be very ill indeed to look like that!'
+
+The man was rather surprised at first, as he felt particularly well that evening; but the moment his wife spoke he became quite certain that he had something dreadful the matter with him, and grew quite pale.
+
+'I dare say it would be the best place for me,' he answered, trembling; and he suffered his wife to take him upstairs, and to help him off with his clothes.
+
+'If you sleep well during the might there *may* be a chance for you,' said she, shaking her head, as she tucked him up warmly; 'but if not—' And of course the poor man never closed an eye till the sun rose.
+
+'How do you feel this morning?' asked the woman, coming in on tip-toe when her house-work was finished.
+
+'Oh, bad; very bad indeed,' answered he; 'I have not slept for a moment. Can you think of nothing to make me better?'
+
+'I will try everything that is possible,' said the wife, who did not in the least wish her husband to die, but was determined to show that he was more foolish that the other man. 'I will get some dried herbs and make you a drink, but I am very much afraid that it is too late. Why did you not tell me before?'
+
+'I thought perhaps the pain would go off in a day or two; and, besides, I did not want to make you unhappy,' answered the man, who was by this time quite sure he had been suffering tortures, and had borne them like a hero. 'Of course, if I had had any idea how ill I really was, I should have spoken at once.'
+
+'Well, well, I will see what can be done,' said the wife, 'but talking is not good for you. Lie still, and keep yourself warm.'
+
+All that day the man lay in bed, and whenever his wife entered the room and asked him, with a shake of the head, how he felt, he always replied that he was getting worse. At last, in the evening, she burst into tears, and when he inquired what was the matter, she sobbed out:
+
+'Oh, my poor, poor husband, are you really dead? I must go to-morrow and order your coffin.'
+
+Now, when the man heard this, a cold shiver ran through his body, and all at once he knew that he was as well as he had ever been in his life.
+
+'Oh, no, no!' he cried, 'I feel quite recovered! Indeed, I think I shall go out to work.'
+
+'You will do no such thing,' replied his wife. 'Just keep quite quiet, for before the sun rises you will be a dead man.'
+
+The man was very frightened at her words, and lay absolutely still while the undertaker came and measured him for his coffin; and his wife gave orders to the gravedigger about his grave. That evening the coffin was sent home, and in the morning at nine o'clock the woman put him on a long flannel garment, and called to the undertaker's men to fasten down the lid and carry him to the grave, where all their friends were waiting them. Just as the body was being placed in the ground the other woman's husband came running up, dressed, as far as anyone could see, in no clothes at all. Everybody burst into shouts of laughter at the sight of him, and the men laid down the coffin and laughed too, till their sides nearly split. The dead man was so astonished at this behaviour, that he peeped out of a little window in the side of the coffin, and cried out:
+
+'I should laugh as loudly as any of you, if I were not a dead man.'
+
+When they heard the voice coming from the coffin the other people suddenly stopped laughing, and stood as if they had been turned into stone. Then they rushed with one accord to the coffin, and lifted the lid so that the man could step out amongst them.
+
+'Were you really not dead after all?' asked they. 'And if not, why did you let yourself be buried?'
+
+At this the wives both confessed that they had each wished to prove that her husband was stupider than the other. But the villagers declared that they could not decide which was the most foolish--the man who allowed himself to be persuaded that he was wearing fine clothes when he was dressed in nothing, or the man who let himself be buried when he was alive and well.
+
+So the women quarrelled just as much as they did before, and no one ever knew whose husband was the most foolish.
+
+[Adapted from the *Neuisländische Volksmärchen*.]
 
 ```
+
+An earlier variant of the same telling can be found in Asbjørnsen's *Tales from the Fjeld*.
+
+```{admonition} Silly Men and Cunning Wives, 1874
+:class: dropdown
+
+Peter Christen Asbjørnsen, transl. George Webbe Dasent, *Tales from the Fjeld*, 1874, [pp.198-201](https://archive.org/details/talesfromfjeldse00asbjrich/page/198/mode/2up).
+
+Silly Men and Cunning Wives
+
+ONCE on a time there were two Goodies who quarrelled, as women often will; and when they had nothing else to quarrel about, they fell to fighting about their husbands, as to which was the silliest of them. The longer they strove the worse they got, and at last they had almost come to pulling caps about it; for, as every one knows, it is easier to begin than to end, and it is a bad look-out when wit is wanting. At last one of them said there was nothing she could not get her husband to believe, if she only said it, for he was as easy as a Troll. Then the other said there was nothing so silly that she could not get her husband to do, if she only said it must be done, for he was such a fool, he could not tell B from a bull's foot.
+
+"Well! let us put it to the proof, which of us can fool them best, and then we'll see which is the silliest." That was what they said once, and so it was settled.
+
+Now when the first husband, Master Northgrange, came home from the wood, his goody said—
+
+"Heaven help us both! what is the matter? you are surely ill, if you are not at death's door!"
+
+"Nothing ails me but want of meat and drink," said the man.
+
+"Now, Heaven be my witness!" screamed out the wife, "it gets worse and worse. You look just like a corpse in face; you must go to bed! Dear! dear! this never can last long! And so she went on till she got her husband to believe he was hard at death's door, and she put him to bed; and then she made him fold his hands on his breast, and shut his eyes; and so she stretched his limbs, and laid him out, and put him into a coffin; but that he might not be smothered while he lay there, she had some holes made in the sides, so that he could breathe and peep out.
+
+The other goody, she took a pair of carding combs and began to card wool; but she had no wool on them. In came the man, and saw this tomfoolery.
+
+"There's no use," he said, "in a wheel without wool; but carding combs without wool is work for a fool."
+
+"Without wool!" said the goody; "I have wool, only you can't see it; it's of the fine sort." So when she had carded it all, she took her wheel and fell a-spinning.
+
+"Nay! nay! this is all labour lost!" said the man. "There you sit, wearing out your wheel, as it spins and hums, and all the while you've nothing on it."
+
+"Nothing on it!" said the goody; "the thread is so fine, it takes better eyes than yours to see it, that's all."
+
+So, when her spinning was over, she set up her loom, and put the woof in, and threw the shuttle, and wove cloth. Then she took it out of the loom and pressed it and cut it out, and sewed a new suit of clothes for her husband out of it, and when it was ready, she hung the suit up in the linen closet. As for the man, he could see neither cloth nor clothes; but as he had once for all got it into his head that it was too fine for him to see, he went on saying, "Aye, aye! I understand it all; it is so fine because it is so fine."
+
+Well, in a day or two his goody said to him—
+
+"To-day you must go to a funeral. Farmer Northgrange is dead, and they bury him to-day, and so you had better put on your new clothes."
+
+"Yes, very true, he must go to the funeral;" and she helped him on with his new suit, for it was so fine, he might tear it asunder if he put it on alone.
+
+So when he came up to the farm where the funeral was to be, they had all drank hard and long, and you may fancy their grief was not greater when they saw him come in in his new suit. But when the train set off for the churchyard, and the dead man peeped through the breathing holes, he burst out into a loud fit of laughter.
+
+"Nay! nay!" he said, "I can't help laughing, though it is my funeral, for if there isn't Olof Southgrange walking to my funeral stark naked!"
+
+When the bearers heard that, they were not slow in taking the lid off the coffin, and the other husband, he in the new suit, asked how it was that he, over whom they had just drank his funeral ale, lay there in his coffin and chattered and laughed, when it would be more seemly if he wept.
+
+"Ah!" said the other, "you know tears never yet dug up any one out of his grave—that's why I laughed myself to life again."
+
+But the end of all their talk was that it came out that their goodies had played them those tricks. So the husbands went home, and did the wisest thing either of them had done for a long time; and if any one wishes to know what it was, he had better go and ask the birch cudgel.
+
+```
+
+Complementing the clever wives / foolish husbands tales, there is also the tale type of a man finding a great treasure, and fearing his gossiping wife will tell everyone about it, convinces her to believe in several ridiculous things which nhe can use to make out anything she says about the treasure is as nonsensical as the ridiculous claims she has been convinced about.
+
+For example, in Lang's *The Violet Fairy Book*, "How A Fish Swam In The Air And A Hare In The Water".
