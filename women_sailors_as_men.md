@@ -10,6 +10,7 @@ The female soldier; or, the surprising life and adventures of Hannah Snell, ... 
 Publication date 1750
 
 
+Anne Bonny
 
 Mary Read
 
