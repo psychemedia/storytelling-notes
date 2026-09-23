@@ -9,13 +9,11 @@ Here's the earliest version I've found:
 
 ```{admonition} The Golden Ball, Groome, in Henderson, 1866, p333-336
 :class: seealso dropdown
-Internet Archive version is missing key pages: https://archive.org/details/notesonfolklore00hendgoog/
+Internet Archive version is [missing key pages](https://archive.org/details/notesonfolklore00hendgoog/).
 
-But full version available here: https://books.google.co.uk/books?id=a0iwAAAAIAAJ
+But full version [available here](https://books.google.co.uk/books?id=a0iwAAAAIAAJ).
 
-Notes on the Folklore of the Northern Counties of England and the Borders
-by Henderson, William; Baring-Gould, S.
-Publication date 1866
+William Henderson, (with additional contributions from S. Baring-Gould), *Notes on the Folklore of the Northern Counties of England and the Borders*, 1866.
 
 10. THE GOLDEN BALL. ( Yorkshire.)
 
@@ -138,14 +136,7 @@ Jacobs cites the Henderson tale in a note in English Fairy Tales, and includes t
 ```{admonition} The Golden Ball, in Jacobs *More English Fairy Tales*,  1894
 :class: dropdown
 
-https://archive.org/details/moreenglishfairy00jacoiala/page/12/mode/2up?q=%22golden+ball%22
-
-More English fairy tales
-by Jacobs, Joseph, 1854-1916; Batten, John Dickson, 1860-1932, ill
-
-Publication date 1894
-
-pp12-15
+Joseph Jacobs, *More English fairy tales*, 1894, [pp12-15](https://archive.org/details/moreenglishfairy00jacoiala/page/12/mode/2up).
 
 The Golden Ball
 
@@ -220,15 +211,10 @@ Remarks. This story is especially interesting as having given rise to a game. Ca
 ```
 
 
-```{admonition} An Old Ballad, Alfred Nutt, Folk-Lore Journal, 1888
+```{admonition} "An Old Ballad", Alfred Nutt, *Folk-Lore Journal*, 1888
+:class: dropdown
 
-https://archive.org/details/sim_folk-lore-journal_1888_6/page/144/mode/2up
-The Folk-Lore Journal 1888: Vol 6
-Publication date 1888
-
-In Notes and Queries section of Folk-Lore Journal
-
-p144
+*The Folk-Lore Journal*, 1888, Vol 6, (Notes and Queries section), [p144](https://archive.org/details/sim_folk-lore-journal_1888_6/page/144/mode/2up).
 
 An old Ballad. —Has the following ballad ever been printed, and if so, where? I heard it from a relative of Dr. Birkbeck Hill's, in whose family it is traditional. A young man on his way to the gallows appeals to his parents and brethren in the following terms:—
 
