@@ -632,7 +632,7 @@ There U^àt de Vlhmm» /«fie is not particulars in Brittany. Like almost all ol
 Bile is titled "v" in Grimm (Contts dts enfant" li de Ja hmmsw, no. 44), under the title of Death and sm Godson^ Hessian tale. Beginning analogous to that of the Breton version. The poor successively refuse as godfather the good God and the devil, and finally accept Death. This makes her godson a great doctor. She points out to him a certain plant which cures the sick very easily when he sees her, Death, at the bedside. If, on the contrary, she stands at the foot of the bed, there is nothing to be done: the patient cannot be saved. The godson, improvised doctor, becomes rich and famous. Called to the sick king, he sees Death at the foot of the bed. So he returns the Ut of mamèw to what. Death is at the bedside, and the king is cured. The Moft, although very displeased, forgives him this time; but, having begun the tour again for the princess, also ill, she leads him into a sort of cavern, where he sees a multitude and lights, &c.
 The nstcoaiine in the Breton tale
 
-Compare two bad tales. germans the collection 3. W. Wolf, p. 365, and from the Prœhle collection, n® 13.
+Compare two bad tales. germans the collection 3. W. Wolf, p. 365, and from the Prœhle collection, no. 13.
 Guillaume Grimm, in his remarks, quotes a German farce by Jacques Ayres (in his Opus theatricum, published after his death, in 1605), which closely resembles the Bessois tale; but the episode of lights is missing. He also mentions as an analog a little poem by Hans Sachs, from i)$3.
 In a collection of Hungarian tales (Gaal Stier, n» 4), same introduction. The poor man does not want Jesus as his godfather, "because he only likes the good. » Episode 4^ lights exists. The poor man, and not his godson, becomes a doctor. This part, which seems altered, is inferior to the corresponding part of the Hessian tale.
 
@@ -1043,7 +1043,9 @@ Alarmed, the beggar backed away. She gripped her baby tight.  'Oh no, then you'l
 
 After wandering lost for a while more, the beggar stumbled upon a second glade. Here the boughs of an ancient briar parted and rose like the arms and base of a throne, and on this arboreal seat perched the most peculiar of monsters, licking rank meat from the tips of its talons. From the twisted branches around it misshapen creatures leaned, whispering sibilant advice to the monster.
 
-It fixed the beggar with its beady eyes.  'What are you doing here, lost in the woods?'The Prince of Hell
+It fixed the beggar with its beady eyes.  'What are you doing here, lost in the woods?'
+
+__The Prince of Hell__
 
 'I'm looking for a godfather to take and raise my son.'
 
@@ -1071,7 +1073,9 @@ The stranger stood up straight and tall. His robe hung emptily from his shoulder
 
 'I'm nobody. But I hope that this boy will grow up to be somebody. So I'm looking for a godfather to take and raise him.'
 
-'Then I will do it.'Godfather Death
+'Then I will do it.'
+
+__Godfather Death__
 
 And Godfather Death did just that, carrying the infant home to his halls. There he raised him and taught him the secret signs that warned of his own impending visits, and among them was this one: that the boy could always tell whether or not a sick patient was doomed to die by watching for Death's shadow at the deathbed. If his shadow loomed at the foot of the bed, death was inescapable. If the shadow darkened the head, death was for another day.
 
@@ -1101,7 +1105,7 @@ The physician declared, with a sweet-as-you-please performance, that this was an
 
 Death looked down at the foot of the bed and at the bulge of the princess's feet beneath the quilts.  'Yes,' he said.  'I see that now. She is going to live. But please... spare your old godfather a quiet word outside.'
 
-The Cave of Candles
+__The Cave of Candles__
 
 Death wrapped a bony arm around his godson's shoulders and together they ambled out of the door. But to the physician's shock it did not lead, as it had on every previous exit, to the palace corridor. Instead he and his godfather stepped through it into a vast and freezing cavern. Behind them the door vanished and there was only the cavern stretching as far as the eye could see. The air was silent and still, and that suited this underworld well, for here in their billions candles burned. Some were elegant and tall, rising from the stone floor like flaming stalagmites, others were burnt down to sputtering stumps.
 
