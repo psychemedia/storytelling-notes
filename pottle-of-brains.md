@@ -6,6 +6,8 @@ It's a noodle tale, with a wise woman pointing out the foolishness of our hero. 
 
 As to *A Pottle of Brains*, I first found it in written form in Jacobs' second collection of English fairy tales (*More English Fairy Tales*), then came across a version that Hugh Lupton included in his [*Mardling Acre*](https://burningshed.com/hugh-lupton_the-mardling-acre_cd) collection.
 
+And as to what a "pottle" is? It's an old measure equal to two quarts. Which is to say, four pints, or half a gallon.
+
 ```{admonition} "A Pottle of Brains", Jacobs' *More English Fairy Tales*, 1894
 :class: dropdown
 In Joseph Jacobs, *More English fairy tales*, 1894, [pp. 125-131](https://archive.org/details/moreenglishfairy00jacoiala/page/124/mode/2up).
