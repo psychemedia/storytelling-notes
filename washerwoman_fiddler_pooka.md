@@ -148,13 +148,9 @@ The most familiar form of the Pwca story is one which I have encountered in seve
 ---
 
 
-https://archive.org/details/humoursofirishli00gravrich/page/42/mode/2up?q=puca
-Humours of Irish life
-by Graves, Charles L. (Charles Larcom), 1856-1944
 
-Publication date 1915
 
-pp42-
+Charles L. Graves, *Humours of Irish life*, 1915, [pp42-5](https://archive.org/details/humoursofirishli00gravrich/page/42/mode/2up).
 
 The Piper and the Puca.
 
