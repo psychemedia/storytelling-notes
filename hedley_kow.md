@@ -86,7 +86,7 @@ ONCE on a time there was a man whose name was Gudbrand; he had a farm which lay 
 
 Now, you most know this man and his goodwife lived so happily together, and understood one another 80 well, that all the husband did the wife thought bo well done there was nothing like it in the world, and she was always glad whatever he tamed his hand to. The farm was their own land, and they had a hundred dollars lying at the bottom of their chest, and two cows tethered up in a stall in their farm-yard.
 
-So one day bis wife said to Gudbrand,—
+So one day his wife said to Gudbrand,—
 
 "Do you know, dear, I think we ought to take one of our cows into town and sell it; that's what I think; for then we shall have some money in hand, and such well to-do people as we ought to have ready money like the rest of the world. As for the hundred dollars at the bottom of the chest yonder, we can't make a hole in them, and I'm sure I don't know what we want with more than one cow. Besides, we shall gain a little in another way, for then I shall get off with only looking after one cow, instead of having, as now, to feed and litter and water two."
 
