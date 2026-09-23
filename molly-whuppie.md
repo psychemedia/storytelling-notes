@@ -311,14 +311,11 @@ And happy weal to all the family.
 
 ```
 
+In Asbjørnsen and Moe's *"Boots and the Troll"* (*"About Ash Lad, Who Stole the Troll's Silver Ducks, Coverlet, and Golden Harp"* in Tiina Nunnally's 2019 translation), we see three tasks that closely resemble those set for Molly Whuppie, and a similar question/response in the challenge made to her regarding whether she'll be back. The tale also has elements of Hansel and Gretel (the fattening pen, the proffered bone), and Ivasik Telesik/Butterball (the tricking of the daughter and the cooking of her).
 
-In Asbjornsen and Moe's "Ash Lad", we see three tasks that closely resemble those set for Molly Whuppie, and a similar question/response in the challenge made to her regarding whether she'll be back. The tale also has elements of Hansel and Gretel (the fattening pen, the proffered bone), and Ivasik Telesik/Butterball (the tricking of the daughter and the cooking of her).
-
-```{admonition} Boots and the Torll / Ash Lad, 1959
+```{admonition} Boots and the Troll, 1859
 Popular tales from the Norse
 P. C. Asbjørnsen & J. E. Moe, Jørgen, transl. Gorege W. Dasent, 1859, [pp232-40](https://archive.org/details/populartalesfro03dasegoog/page/232/mode/2up).
-
-`[Also known as the Ash Lad, or Askeladden]`
 
 BOOTS AND THE TROLL.
 
