@@ -40,3 +40,83 @@ Performed at The Star Ale and Coffee House, Ryde, Cider and Sausage Festival, Sa
 - *Farmer and the Devil*
 - *Gwion Bach*
 - *Hudden and Dudden and Donald O'Leary* (h/t Eddie Lenihan)
+
+
+## Dark Tales
+
+Carvel Lane, October 2025
+
+Told ad hoc:
+
+- Wish Ring
+- One ghost that drove out another
+- body parts, Hand of Glory
+- Michael Morey
+
+Interval
+
+- recalled "Michael Morey" rhyme
+- Leaves that hung
+- Devil's violin
+
+
+## Carvel Lane Dec 10/2026
+
+Sir Cleges & the Winter Cherries
+Sir Gawain & Green Knight
+The Cursed Dancers of Colbeck
+The Juniper Tree
+
+## Forest of Dean folk night, Dec 2025
+
+*Three separate tales*
+
+- Sir Cleges and the Winter Cherries
+- Dog Peacock Christmas Tree
+- The Twelve Months
+
+
+## Westons Wassail 2026
+
+?? Possibles:
+
+- Apple Tree Man
+- England dreaming footpath
+- Persimmon (Apple) Tree
+- Stone soup
+- New Year Riddle
+- Twelve Months
+- Farmers three sons (treasure)
+- A Farmer's Deal With the Devil
+
+
+
+
+Macabre Tales, Sinister Stories
+
+Carvel Lane, Cowes, Oct. 30, 2026
+
+?Grateful Dead
+?Last Duel
+
+?Mr Fox
+
+?Fairy Ointment
+
+?Godmother Death
+
+?Three Doctors
+
+?The Highwayman
+
+?Whitworth murder
+
+?Eurydice
+
+?Tyrie & Royal George
+
+
+
+?Carvel Dec Festive Cheer — Stories & Tales
+?gambrinus
+?Birth of King Arthur
