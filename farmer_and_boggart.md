@@ -1,6 +1,8 @@
 # The Farmer and the Boggart
 
-Also appears as "The Tops and the Butts" / Jack o' Kent and the Devil, in Ella Mary Leather, The Folk-Lore of Herefordshire, 1912
+A story that is suitable for harvest time, in which a farmer outwits a bogle who demands a share of the harvest from one field in particular.
+
+Also appears as "The Tops and the Butts" / Jack o' Kent and the Devil, in Ella Mary Leather, *The Folk-Lore of Herefordshire*, 1912.
 
 https://archive.org/details/countyfolklore01britgoog/page/n354/mode/2up
 County Folk-lore
@@ -26,12 +28,8 @@ __Mumby__, near Alford. *The Farmer and the Boggart*. — 'T' boggart, a squat h
 
 https://archive.org/details/dialectandfolkl03stergoog/page/n158/mode/2up
 
-The dialect and folk-lore of Northamptonshire
-by Sternberg, Thomas
+Thomas Sternberg, *The dialect and folk-lore of Northamptonshire*, 1851, pp.138-141.
 
-Publication date 1851
-
-pp.138-141
 
 THE BOGIE.
 
@@ -62,15 +60,16 @@ With the exception of the proverbs and legends, few traces of him remain; and ti
 
 ---
 
+
+---
+
 Grimm not v. satisfactory to my mind...
 
 https://archive.org/details/grimmshouseholdt2grim/page/318/mode/2up
 Grimm's household tales: with the author's notes. Vol. II
 by Grimm, Jacob, 1785-1863; Grimm, Wilhelm, 1786-1859; Hunt, Alfred William, Mrs., 1831-1912; Lang, Andrew, 1844-1912
 
-Publication date 1884
-
-pp. 319-20
+ 1884, pp.319-20.
 
 189.— THE PEASANT AND THE DEVIL.
 
@@ -90,12 +89,11 @@ https://archive.org/details/rabelaisfivebook02rabeuoft/page/190/mode/2up
 Rabelais : the five books and minor writings, together with letters & documents illustrating his life. A new translation, with notes
 by Rabelais, François, ca. 1490-1553?; Smith, W. F. (William Francis), 1842-1919
 
-Publication date 1893
+ 1893
 
 Vol II
 
-Book IV, ch. XLIV-XLVI
-pp189-97
+Book IV, ch. XLIV-XLVI, pp189-97.
 
 CHAPTER XLV
 
