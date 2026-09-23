@@ -39,6 +39,14 @@ The fifth identified tale type describes a tale in which *"[a] fairy husband pro
 
 The tale of *The Fairy Midwife*, also often referred to as *The Fairy Ointment* or *Fairy Nurse*, typically starts late at night, with a knock at the door. A midwife, or nurse, is called upon to help in the delivery or care of a fairy child. As part of their duties, that are told to wipe a special ointment over the child's eyes. Mistakenly getting some of the ointment into their own eye, the midwife/nurse becomes capable of seeing into the fairy otherworld from that eye. After unwittingly revealing herself to be so enchanted, the midwife/nurse is punished with the loss of the glamoury eye.
 
+```{admonition} "The Fairy Midwife" storynote (print version)
+:class seealso
+
+[![Fairy Midwife storynote cover](images/01_midwife-cover-kdp.jpg)](https://www.amazon.co.uk/Fairy-Midwife-Faery-Lore/dp/B0H8SNFTT5/)
+
+Printed copies of an edited version of *The Fairy Midwife* storynote are available at an affordable rate from some of my storytelling shows, as well [via Amazon](https://www.amazon.co.uk/Fairy-Midwife-Faery-Lore/dp/B0H8SNFTT5/).
+```
+
 The gist of the tale can be found in the following versions taken from the Irish Schools Collection. In each case, the human visitor is taken to a sumptuous location, and application of the ointment then reveals a terrible scene.
 
 ```{admonition} The Fairy Ointment, Irish Schools Collection
@@ -765,7 +773,7 @@ Wirt Sikes, *British goblins: Welsh folk-lore, fairy mythology, legends and trad
 
 An old Welsh legend, popularised by lady Charlotte Guest in her translation of *The Mabinogion*, although the tale is not, strictly, one of what are taken to be the Mabinogi tales.
 
-See for example my own storynote [*Ceridwen, Gwion Bach and Taliesin*](https://psychemedia.github.io/storytelling-notes/gwion-bach.html).
+See for example my own storynote [*Ceridwen, Gwion Bach and Taliesin*](https://storytelling-notes.montystoryteller.org/gwion-bach.html).
 ```
 
 Based on a footnote several pages earlier (at p. 84) — `Cambrian Superstitions,' 148. (This is a small collection of Welsh stories printed at Tipton in 1831, and now rare; its author was W. Howells, a lad of nineteen, and his work was drawn out by a small prize offered by Archdeacon Beynon through a Carmarthen newspaper in 1830. Its English requires rehandling, but its material is of value.)` — I took "Camb. Sup." to be that work, as Professor Rhys would also do in his article *Welsh Fairy Tales*, in Vol. V of Y Cymmrodor, in January 1882.
@@ -1350,7 +1358,7 @@ One day in August of the same summer I went to have another look at the old insc
 
 Professor John Rhys, *Celtic folklore: Welsh and Manx*, 1901, Vol. I, [pp226-8](https://archive.org/details/cu31924092530645/page/n277/mode/2up?q=midwife).
 
-At Nefyn, in Lleyn, `[In medieval Welsh poetry this name was still a dissyllable; but now it is pronounced Llyn, in conformity with the habit of the Gwyndodeg, which makes into porfeyd what is written porfeyd, 'pastures,' and pronounced porfëid in North Cardiganshire. So in the Lleyn name Sam FyVieym the second vocable represents Maelteyrn, in the Record of Carnarvon (p. 38) Mayltern: it is now sounded Mylltyrn with the second y short and accented. Lleyn is a plural of the people (genitive Llaen in Porth Dinllaen), used as a singular of their country, like Cymru = Cymry, and Prydyn. The singular is llain, 'a spear,' in the Book of Aneurin: see Skene, ii. 64, 88, 92.]` I had some stories about the *Tylwyth Teg* from Lowri Hughes, the widow of John Hughes, who lives in a cottage at Pen Isa'r Dref, and is over seventy-four years of age.
+At Nefyn, in Lleyn, `[In medieval Welsh poetry this name was still a dissyllable; but now it is pronounced Llyn, in conformity with the habit of the Gwyndodeg, which makes into porfeyd what is written porfeyd, 'pastures,' and pronounced porfëid in North Cardiganshire. So in the Lleyn name Sam Fyllteyrn the second vocable represents Maelteyrn, in the Record of Carnarvon (p. 38) Mayltern: it is now sounded Mylltyrn with the second y short and accented. Lleyn is a plural of the people (genitive Llaen in Porth Dinllaen), used as a singular of their country, like Cymru = Cymry, and Prydyn. The singular is llain, 'a spear,' in the Book of Aneurin: see Skene, ii. 64, 88, 92.]` I had some stories about the *Tylwyth Teg* from Lowri Hughes, the widow of John Hughes, who lives in a cottage at Pen Isa'r Dref, and is over seventy-four years of age.
 
 ... My informant had also heard the midwife story, and she was aware that the fairies changed people's children; in fact, she mentioned to me a farm house not far off where there was a daughter of this origin then, not to mention that she knew all about Elis Bach. ...
 
