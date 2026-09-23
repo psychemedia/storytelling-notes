@@ -24,7 +24,7 @@ A tale I heard from Hugh Lupton ([*Jack Ostler and the Hare*](https://www.youtub
 >
 > A son...
 >
-> Two sons... he'd be a great dad, they'd play games, they;d be interested, in the farm, help out...
+> Two sons... he'd be a great dad, they'd play games, they'd be interested, in the farm, help out...
 > 
 > Only: idle sods... in bed snoring... creep up stairs... OI!!!
 > 
@@ -54,9 +54,9 @@ Up on the hill lived old man Beach, a farmer, the farmhouse is still there to th
 
 And then they'd have a daughter, and she'd be so pretty, not necessarily taking after his wife, but and she'd grow up to marry a prince, or, maybe that's too much, a Lord, a lord of the manor, perhaps. Or, or maybe she'd meet a soldier, or a sailor, or god forbid a musician or a storyteller, or... 
 
-No. He'd have a son. Two sons. ANd he'd be a good Dad, a great Dad, and they;d play football and games, and they;d be interested in the farm. And they'd help out, on the farm, doing this and that, and then more and more. Help feed the animals, muck them out, help with the milking. He could have a lie in for once, what with them doing the milking.
+No. He'd have a son. Two sons. And he'd be a good Dad, a great Dad, and they'd play football and games, and they'd be interested in the farm. And they'd help out, on the farm, doing this and that, and then more and more. Help feed the animals, muck them out, help with the milking. He could have a lie in for once, what with them doing the milking.
 
-Only, they wouldn't, would they. Idle sods, teenage boys. It;d be their turn to do the milking, 5am a cold frosty November morning, it'd be their turn to do the milking and they'd be in bed, wouldn't they, idle sods that they were snoring and sleeping when they should be out working.
+Only, they wouldn't, would they. Idle sods, teenage boys. It'd be their turn to do the milking, 5am a cold frosty November morning, it'd be their turn to do the milking and they'd be in bed, wouldn't they, idle sods that they were snoring and sleeping when they should be out working.
 
 So what he'd do, he creep quietly, quietly, up the stairs, up the stairs to their room, where they'd be snoring, wouldn't they, snoring away and he quietly, quietly, ever so gently open their door, and there they's be snoring away, and he shout:
 
