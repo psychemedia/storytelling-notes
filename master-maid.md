@@ -9,14 +9,7 @@ The earlies variant I have found of the tale under the title of *Nix, Nought, No
 
 ```{admonition} "Nicht Nought Nothing" in Lang, *Custom and Myth*, 1884
 :class: dropdown
-
-https://archive.org/details/customandmyth03langgoog/page/n104/mode/2up?q=lacuna
-Custom and Myth
-by Andrew Lang
-
-Publication date 1884
-
-p89-92
+Andrew Lang, *Custom and Myth*, 1884, [p89-92](https://archive.org/details/customandmyth03langgoog/page/n104/mode/2up).
 
 Nicht Nought Nothing.
 
@@ -57,7 +50,7 @@ And they lived happy all their days.
 Some commentary is then provided (in French) by Reinhold Kœhler.
 
 TO DO 
-https://archive.org/details/revueceltiqu03pari/page/376/mode/2up?q=lang
+https://archive.org/details/revueceltiqu03pari/page/376/mode/2up
 
 p376-8
 
@@ -120,15 +113,9 @@ Lang's notes give some variants for the story:
 ```{admonition} TO DO
 :class: dropdown
 
-https://archive.org/details/customandmyth03langgoog/page/n104/mode/2up?q=lacuna
-Custom and Myth
-by Andrew Lang
-
-Publication date 1884
+Andrew Lang, *Custom and Myth*, 1884, [p92](https://archive.org/details/customandmyth03langgoog/page/n104/mode/2up).
 
 A Far Travelled Tale
-
-p92
 
 > In this variant of the story, which we may use as our text, it is to be noticed that a *lacuna* exists. The narrative of the flight omits to mention that the runaways threw things behind them which became obstacles in the giant's way. One of these objects probably turned into a lake, in which the giant was drowned. `[The events of the flight are recorded correctly in the Gaelic variant the 'Battle of the Birds' (Campbell, *Tales of the West Highlands* vol. i. p. 25.)]` A common incident is the throwing behind of a comb, which changes into a thicket. The formula of leaving obstacles behind occurs in the Indian collection, the 'Kathasarit sagara'(vii.xxxix.). The 'Battle of the Birds' in Campbell's 'Tales of the West Highlands' is a very copious Gaelic variant. Russian parallels are 'Vasilissa the Wise and the Water King' and 'The King Bear.' `[Ralston, *Russian Folk Tales* 132; Köhler, *Orient und Occident*, ii. 107, 114.]` The incident of the flight and the magical obstacles is found in Japanese mythology. `[*Ko ti ki*, p. 36.]` The 'ugly woman of Hades' is sent to pursue the hero. He casts down his black head-dress, and it is instantly turned into grapes; he fled while she was eating them. Again, 'he cast down his multitudinous and close-toothed comb, and it instantly turned into bamboo sprouts.' In the Gaelic version, the pursuer is detained by talkative objects which the pursued leave at home, and this marvel recurs in Zululand, and is found among the Bushmen. The Zulu versions are numerous.`[Callaway, pp. 51, 53, 64, 145, 228.]` Oddly enough, in the last variant, the girl performs no magic feat, but merely throws sesamum on the ground to delay the cannibals, for cannibals are very fond of sesamum. `[See also 'Petrosinella' in the Pentamerone, and 'The Mastermaid' in Dasent's *Tales from the Norse*.]` `[TH: Dasent being the translator of Asbjornsen and Moe]`
 
@@ -139,16 +126,7 @@ A very close retelling of Lang's version appears in Jacobs' *English Fairy Tales
 ```{admonition} "Nix, Nought. Nothing" in Jacobs, English Fairy tales, 1890, 1895
 :class: dropdown
 
-https://archive.org/details/englishfairytal00jacogoog/page/n54/mode/2up?q=nix
-English Fairy Tales
-by Joseph Jacobs
-
-Publication date 1890
-
-p33
-
-Better OCR in 1895 edition, p35
-https://archive.org/details/englishfairytale00jaco/page/38/mode/2up?q=nix
+Joseph Jacobs, *English Fairy Tales*, 1890, [p33](https://archive.org/details/englishfairytal00jacogoog/page/n54/mode/2up); also in 1895 edition, [p35](https://archive.org/details/englishfairytale00jaco/page/38/mode/2up)).
 
 NIX NOUGHT NOTHING.
 
