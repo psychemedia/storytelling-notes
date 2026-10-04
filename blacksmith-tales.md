@@ -35,13 +35,10 @@ St. Augustine's at Canterbury, I have always heard, claims the site of the tug.
 HAttOLO Malkt, Colonel.
 
 
-https://archive.org/details/in.ernet.dli.2015.109283/page/n335/mode/2up
-The Book Of Days A Miscellany Of Popular Antiquities Vol 1
-by R Chambers
 
-Publication date 1863
+--
 
-p331
+R Chambers, *The Book Of Days A Miscellany Of Popular Antiquities*, 1863, Vol 1, [p331](https://archive.org/details/in.ernet.dli.2015.109283/page/n335/mode/2up).
 
 *St Dunstan.* — Walter Gale, the Sussex schoolmaster, records that in 1749, 'there was at Mayfield a pair of tongs, which the inhabitants affirmed, and many believed, to be that with which St Dunstan, Archbishop of Canterbury, who had its residence at a fine ancient dome in this town, pinched the devil by the nose when, in the form of a handsome maid, he tempted him.' What made it more terrible to this sightly tempter was, that the tongs happened to be red-hot, the pair being one that St Dunstan made use of at his forge, for it seems that the Archbishop was a blacksmith as well as a saint.
 
@@ -53,18 +50,14 @@ p331
 
 Poetic edda
 
-https://archive.org/details/waylandsmithadi00kinngoog/page/n20/mode/2up?q=english
+
 
 Wayland Smith. A dissertation on a tradition of the middle ages
-by Depping, Georg Bernhard, 1784-1853. [from old catalog]; Michel, Francisque Xavier, 1809-1887. [from old catalog]; Singer, Samuel Weller, 1783-1858. [from old catalog]; Oehlenschläger, Adam Gottlob, 1779-1850. Vaulundurs saga. [from old catalog]; Kinnear, Elizabeth, [from old catalog] tr
-
-Publication date 1847
-
-pp. viii-xii
+by Depping, Georg Bernhard, 1784-1853. [from old catalog]; Michel, Francisque Xavier, 1809-1887. [from old catalog]; Singer, Samuel Weller, 1783-1858. [from old catalog]; Oehlenschläger, Adam Gottlob, 1779-1850. Vaulundurs saga. [from old catalog]; Kinnear, Elizabeth, [from old catalog], 1847, [pp. viii-xii](https://archive.org/details/waylandsmithadi00kinngoog/page/n20/mode/2up).
 
 `[TH: As told in Poetic Edda]`
 
-There was a king in Sweden named Niduth; he had two sons, and a daughter named Baudvilde. At the same time existed three brothers, sons of an Alf-king,® that is to say, of supernatural race. They were named Slagfid, Egill, and Voelund. Pursuing the chase, and skating, they arrived in the Valley of Ulfdal, or the Valley of Bears, and constructed themselves a habitation on the borders of a lake.
+There was a king in Sweden named Niduth; he had two sons, and a daughter named Baudvilde. At the same time existed three brothers, sons of an Alf-king, that is to say, of supernatural race. They were named Slagfid, Egill, and Voelund. Pursuing the chase, and skating, they arrived in the Valley of Ulfdal, or the Valley of Bears, and constructed themselves a habitation on the borders of a lake.
 
 There, one morning, they found three Valkyries, `[The Valkyries, in the Scandinavian mythology, have almost the same attributes as the parcae in the mythology of Greece. They also spin the thread of destiny, and besides, they assist at combats, by which, among a barbarous people, destinies are regulated. Although three are generally admitted, it appears, nevertheless, that others were also supposed to exist; and it is singular that daughters of earth might be Valkyries. We have here an example. Their fathers are named, who, a thing sufficiently odd, have frankish names; one is called Loedver, i. e., Lonis, and the other Kiare, probably Charles, of whom they make a king of Valland, a term under which was solely understood the country of the Walloons, France and Italy. See Depping Hist, des Expéditions maritime des Normands. Paris, 1826. 8vo. tom. ii. p. 388. The Valkyries appeared in the day in the form of swans; they could put off this form, which, according to the rude notions of the Scandinavians, was but a robe with which they covered themselves, and then they appeared in the human form. It is, therefore, here said, they had near them their swan robes. One of them was named Swan-hvite, or white as a swan.]` who, having put off their swan robes, were spinning flax: it was Alvite, [Allwite], or all-knowing; Svanhvite, or white as a swan; both of them daughters of King Loedver; and Alrune, daughter of Kiar, King of Valland. The brothers carried them to their dwelling, and were united to them; Slagfid took Swanwhite, Egill Alrune, and Voelund took Allwite.
 
@@ -79,7 +72,6 @@ They take care not to fail. When they arrive, Voelund cuts off their heads, and 
 Niduth is in desperation at what he hears; and desolate at not being able to reach the author of these misdeeds. Voelund flies away laughing, leaving the king plunged in grief. Having called his daughter, Niduth receives confirmation of the truth of that which the terrible smith had revealed to him. Baudvilde, in tears, confesses her shame, and it is by her lamentations that the chant of the Edda closes.
 
 In this chant no mention is made of the son of Baudvilde by Voelund, nor of the sword Mimung, which his father forged for him, as we shall presently see. Nevertheless, the Edda of Snorro makes mention of this word which the old skalds had used to designate a sword, and which proves that the rest of the romance was current in the most antient times in the north.
-
 
 `[TH: Wilkina Saga has a parallel tale with bits we might co-opt (and which Story Crow seems to have adopted in his telling)]`
 
@@ -112,13 +104,9 @@ The rude stones which were scattered over the Vale of White Horse, had been erec
 
 
 ---
-https://archive.org/details/talesofromanceba00lang/page/48/mode/2up?q=%22wayland+the+smith%22
-Tales of romance; based on tales in the Book of romance
-by Lang, Andrew, 1844-1912
 
-Publication date 1906
 
-pp. 49-87
+Andrew Lang, *Tales of romance; based on tales in the Book of romance*, 1906, [pp. 49-87](https://archive.org/details/talesofromanceba00lang/page/48/mode/2up).
 
 WAYLAND THE SMITH. PART I.
 
@@ -491,8 +479,7 @@ of Israel?' Then he who carved the cherubim said: 'This fellow is no sculptor,' 
 
 --
 
-Seumas Macmanus in The Cosmopolitan, 1903-04: Vol 34 Iss 6
-Publication date 1903-04 pp673-8
+In *The Cosmopolitan*, 1903-04, Vol 34 Iss 6, [pp673-8](https://archive.org/details/sim_cosmopolitan_1903-04_34_6?).
 
 TO DO
 
