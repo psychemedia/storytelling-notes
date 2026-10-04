@@ -1,6 +1,6 @@
 # The Ass, The Table and the Stick
 
-I told this as Jack and North Wind (Asbjornsen Moe )
+I told this as Jack and North Wind (Asbjørnsen Moe )
 
 https://archive.org/details/populartalesfro03dasegoog/page/250/mode/2up
 
