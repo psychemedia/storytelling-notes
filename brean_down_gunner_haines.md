@@ -1,6 +1,15 @@
 # Gunner Haines and the Brean Down Battery Explosion
 
-I first came across this tale from a song by Gaz Brookfield — "The Tale of Gunner Haines" ([buy it on Bandcamp](https://gazbrookfieldmusic.bandcamp.com/track/the-tale-of-gunner-haines)) — and which he in turn found from an interpretation board on the down whilst out walking the dog one day.
+Throughout the nineteenth century, England's coastal defences included a large number of small artillery batteries situated in forts that dotted the coastline. Soldiers would often spend an evening in a local hostelry before making their way back to the fort in time to meet a curfew. It's not hard to imagine to a call for "just one more" to result in the need for a brisk walk, or even a run, to get back to the barracks in time. And sometimes with an unfortunate result.
+
+```{admonition} Frightful Accident at Freshwater, October 1866
+:class: dropdown
+In *Hampshire Telegraph*, [Saturday 13 October 1866](https://www.britishnewspaperarchive.com/image-viewer?issue=BL%2F0000069%2F18661013&page=6).
+
+FRIGHTFUL ACCIDENT AT FRESHWATER.— An accident of an appalling character occurred at Freshwater on Tuesday last. It appears that two men belonging to the Coast-brigade stationed at the "Needles" battery had been spending the evening at the Alum Bay-tap,when, on wending their way homewards, Snow (the deceased) did not get along fast enough for his comrade, who hurried on to report himself. In the morning, Snow not having made his appearance, Master-gunner Bell and Snow's comrade of the preceding evening started to look for him, when, on arriving at the spot where he had been left, they found his cap. On making further search they found the poor fellow had fallen over the cliff, which at this particular spot is about 330 feet high. His body was picked up in a frightfully mutilated condition, and conveyed to a lodging-house in course of erection, where the inquest is to be held.
+```
+
+But the following tale, which I first came across this tale from a song by Gaz Brookfield — "The Tale of Gunner Haines" ([buy it on Bandcamp](https://gazbrookfieldmusic.bandcamp.com/track/the-tale-of-gunner-haines)) — and which he in turn found from an interpretation board on the down whilst out walking the dog one day — os perhaps even more tragic.
 
 The song provides a great summary of the story...
 
