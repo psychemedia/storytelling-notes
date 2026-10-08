@@ -56,4 +56,4 @@ Oh, Lord, yeah
 
 *The wolf screamed for mercy, but the third little pig would have none of it; and he ate well that day...*
 
-*And such is the tale of the Three Little Pigs, a tale that was originally collected from Arreton in the 1840s or so, and that made it's way into one of the first collections of English Nursery tTales and Nursery Rhymes... And it just goes to show, the stories — and storytelling — even of the traditional tales, is not just about reading books to kids...*
+*And such is the tale of the Three Little Pigs, a tale that was originally collected from Arreton in the 1840s or so, and that made it's way into one of the first collections of English Nursery Tales and Nursery Rhymes... And it just goes to show, the stories — and storytelling — even of the traditional tales, is not just about reading books to kids...*

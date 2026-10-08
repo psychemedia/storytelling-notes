@@ -1,0 +1,187 @@
+---
+title: "Monty + Sue — Fisherman & Wife / Reluctant Fisherman"
+subtitle: "Trad. — with arrangement and annotation notes"
+format:
+  html:
+    theme: cosmo
+    css: songs.css
+    toc: true
+    toc-title: "Contents"
+    embed-resources: true
+  pdf:
+    filters:
+      - strike-pdf.lua
+    include-in-header:
+      text: |
+        \usepackage{ulem}
+        \normalem
+---
+## Fisherman and his Wife / Reluctant Fisherman {.song}
+
+*Trad.*
+
+When I think of this story, I can't help thinking of a beach and some fishing boats from times past on the Isle of Wight. Somewhere like the Fisherman's cottage in Shanklin, perhaps, though the winds around there maybe don't behave quite like the way they do in this tale...
+
+It's the tale of a man who'd spent his life working hard, a fisherman by trade, just as his father, and his father's father had done before him. And because he'd worked always, it often seemed harder now. Because he still *had* to go fishing; not because he wanted to, not because he enjoyed it, but because he still *had to*. Because there were no pensions in those days. So he would go fishing if go fishing he must, though he increasingly looked for a reason not to.
+
+::: {.structure-label}
+\[A\]
+:::
+
+::: {.verse}
+::: {.bracket-group}
+Oh me dad was a fisherman bold  
+And he lived til he grew old. [For…]{.side-cue}
+
+::: {.annotation .blue-ink}
+For he'd open the panes & pop out the flame  
+Just to see how the wind do blow
+:::
+
+And he'd often say to me
+You'd be wise before you go. [So…]{.side-cue}
+:::
+:::
+
+---
+
+BUT TODAY, TODAY WAS A GOOD DAY. A BEAUTIFUL DAY. THE SUN WAS SHINING, AND THE BREEZE WAS JUST RIGHT, AND HE WAS HAPPY TO GO...
+
+NOT MUCH LUCK, THEN CAUGHT FLOUNDER... "PLEASE LET ME GO."
+
+THREW IT BACK.
+
+TOLD HIS WIFE...
+
+AND SHE LOOKED AT HIM, DESPAIRINGLY. 
+
+"DID YOU NOT THINK," SHE SAID... "A TALKING FISH. A MAGIC FISH, DID YOU NOT THINK THAT MAYBE YOU MIGHT GET SOMETHING IN RETURN?" AND HE ADMITTED THAT HE DID NOT.
+
+"YOU'RE WHOLE LIFE YOU'VE WORKED HARD", SHE SAID, "AND LOOK AT WHERE WE LIVE?" THATCH, DOOR, WINDOW PANE.
+
+GO BACK TO THAT FISH TOMORROW, ASK FOR A WISH. ASK THAT WE MIGHT NOT HAVE TO LIVE IN SUCH A HOVEL.
+
+BUT HE WAS NOT KEEN TO GO.
+
+SO THE NEXT MORNING, HE CHECKED THE WIND, TO SEE IF HWE COULD FIND AN EXCUSE NOT TO GO...
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+When the south wind soft do blow
+
+Then there's not enough wind to go. [Bu\[t\]…]{.side-cue}
+:::
+
+
+::: {.alt}
+And my ?? wife says to me
+"You'll ?? if you don't go;"
+So I opens the pane and I pop out the flame
+Just to see how the wind do blow.
+:::
+:::
+
+---
+
+SO SHE MADE HIM GO ANYWAY.
+
+HE WENT ROUND THE CORNER, AND PULLED OUT THE BOAT, A SLIGHT SWELL ON THE SEA WHERE IT HAD BEEN LIKE A MILLPOND THE DAY BEFORE, AND WENT TO THE PLACE HE'D CAUGHT THE FLOUNDER.
+
+LIVE IN SOMETHING RATHER BETTER THAN THE HOVEL WE LIVE IN NOW?
+
+IT IS DONE.
+
+PRETTY COTTAGE.....
+
+THEY WERE COMFORTABLE THERE, BUT GIVEN A TASTE OF A GOOD LIFE, THE FISHERMAN'S WIFE NOW WANTED MORE. AND SAID TO HER HUSBAND... DESERVE TO LIVE UP AT THE MANOR. DESERVE TO BE THE LORD OF THE MANOR.
+
+SO HE MADE HIS EXCUSE, OF COURSE HE DID, BUT IT DID NO GOOD, SO HE GOT UP THE NEXT MORNING LOOKING FOR AN EXCUSE NOT TO GO.
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+When the wind comes out of the East 
+It's no use to man nor beast. [But…]{.side-cue}
+
+
+BUT IT DID HIM NO GOOD...
+
+::: {.alt}
+And my posh wife says to me
+"You'll regret if you don't go;"
+So I opens the pane and I pop out the flame
+Just to see how the wind do blow.
+:::
+:::
+:::
+
+---
+
+THE SKY WAS GREY, AND THE SEA WAS GREY, AS HE SET OFF THAT MORNING, ROUND THE CORNER, TO PULL THE BOAT OUT.
+
+PLEASE — MANOR HOUSE — OK...
+
+GOT BACK...
+
+NOT HAPPY... CASTLE...
+
+WHEN HE AWOKE THE NEXT MORNING, A STORM WAS BREWING.... AND HE CHECKED THE WIND...
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+When the North wind rough do blow
+
+Then I lay right snug below. [But…]{.side-cue}
+:::
+:::
+
+::: {.verse}
+And me ?? wife says to me.  
+"You will ?? if you don't go;"  
+So I opens the pane and I pop out the flame.  
+Just to see how the wind do blow.
+:::
+
+HE KNEW THERE WAS NO POINT PROTESTING...
+
+PURPLE SKY, PURPLE SEA... OUT — ASK FOR CASTLE — RETURN
+
+WANTED MORE (KING)
+
+AND HE PROTESTED AS MUCH AS HE COULD, BUT HE KNEW HE'D HAVE TO GET UP EARLY THE NEXT MORNING....
+
+---
+
+::: {.verse}
+::: {.bracket-group}
+When the wind's back in to the west.  
+That'll come in rough at best. [But…]{.side-cue}
+:::
+:::
+
+REALLY, REALLY — ISN'T THIS ENOUGH? YOU KNOW YOU DON'T LIKE LEAVING THE ISLAND. WHY WOULD YOU WANT US TO LEAVE THE ISLAND TO GO OVER TO THE MAINLAND????
+
+::: {.verse}
+And me fine wife says to me.  
+"You will pay if you don't go;"  
+So I opens the pane and I pop out the flame.  
+Just to see how the wind do blow.
+:::
+
+
+SO HE SET OFF.... FOUND FISH — GO HOME — AND HE DID...
+
+---
+
+::: {.verse}
+Now all you fishermen bold.  
+If you live till you grow old. [Do…]{.side-cue}
+:::
+
+
+---

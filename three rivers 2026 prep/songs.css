@@ -5,6 +5,11 @@
     break-before: page;
     page-break-before: always;
   }
+  /* Hide the cut block in the PDF */
+  .cut,
+  .verse.cut {
+    display: none !important;
+  }
 }
 
 /* ── Chord symbols ─────────────────────────────────── */
@@ -163,4 +168,17 @@ p:has(> .chord:first-child:last-child) {
   margin-bottom: 3em;
   padding-bottom: 2em;
   border-bottom: 2px solid #b0a080;
+}
+
+/* ── Cut a whole verse in one go ───────────────────── */
+/* Add alongside .verse, e.g.  ::: {.verse .cut}  ...  :::
+   Uses !important + a blanket descendant selector because chords
+   (.chord) are inline-block, and inline-block boxes don't inherit
+   a line-through drawn on an ancestor — so every descendant needs
+   its own strike applied directly. */
+.verse.cut,
+.verse.cut * {
+  text-decoration: line-through !important;
+  color: #9a8060 !important;
+  opacity: 0.55;
 }

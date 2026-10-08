@@ -1,0 +1,555 @@
+% songs.tex — Song Transcriptions
+% Compile with: xelatex songs.tex  (run twice for TOC)
+
+\documentclass[11pt, a4paper]{article}
+
+%% ── Fonts & encoding ──────────────────────────────────────────────
+\usepackage{fontspec}
+\setmainfont[Path=/usr/share/fonts/truetype/ebgaramond/,
+  UprightFont=EBGaramond12-Regular,
+  BoldFont=EBGaramond12-Bold,
+  ItalicFont=EBGaramond12-Italic,
+  Extension=.ttf]{EBGaramond12-Regular}
+\setmonofont{DejaVu Sans Mono}
+% Fallback font for special Unicode characters (em-dash, symbols)
+\usepackage{newunicodechar}
+\newfontfamily{\symbolfont}{DejaVu Sans}[Scale=MatchLowercase]
+\newunicodechar{—}{\textemdash}
+\newunicodechar{–}{\textendash}
+\newunicodechar{✎}{{\symbolfont ✎}}
+\newunicodechar{✕}{{\symbolfont ✕}}
+\newunicodechar{↳}{{\symbolfont ↳}}
+\newunicodechar{→}{{\symbolfont →}}
+\newunicodechar{↙}{{\symbolfont ↙}}
+\newunicodechar{…}{\ldots}
+
+%% ── Page layout ───────────────────────────────────────────────────
+\usepackage[margin=2.5cm, right=4.5cm]{geometry}
+
+%% ── Colour ────────────────────────────────────────────────────────
+\usepackage{xcolor}
+\definecolor{chordblue}  {HTML}{1a6080}
+\definecolor{strikegray} {HTML}{9a8060}
+\definecolor{annotred}   {HTML}{b04000}
+\definecolor{blueinkcol} {HTML}{1a4080}
+\definecolor{sidegreen}  {HTML}{5a6030}
+\definecolor{stagebrn}   {HTML}{5a4020}
+\definecolor{bracketbrn} {HTML}{5a4020}
+\definecolor{altpurple}  {HTML}{5a4060}
+\definecolor{hlgreen}    {HTML}{b8f070}
+\definecolor{hlpink}     {HTML}{ff8fb0}
+\definecolor{hlblue}     {HTML}{70d4f8}
+\definecolor{hlorange}   {HTML}{ffc060}
+\definecolor{hlyellow}   {HTML}{f0f050}
+
+%% ── Packages ──────────────────────────────────────────────────────
+\usepackage{ulem}              % \sout strikethrough
+\usepackage{marginnote}        % \marginnote for side cues
+\usepackage{mdframed}          % boxes
+\usepackage{booktabs}          % tables
+\usepackage{array}
+\usepackage{tikz}              % circled refs
+\usepackage{microtype}
+\usepackage{ragged2e}
+\usepackage{parskip}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{contour}           % for left-bar bracket group
+
+\hypersetup{colorlinks=true, linkcolor=black, urlcolor=chordblue}
+\normalem
+
+%% ── Left-rule environment (bracket group) ─────────────────────────
+% Uses mdframed with only a left rule — avoids nesting issues
+\newmdenv[
+  topline=false, bottomline=false, rightline=false,
+  linecolor=bracketbrn, linewidth=2.5pt,
+  innerleftmargin=10pt, innerrightmargin=0pt,
+  innertopmargin=3pt, innerbottommargin=3pt,
+  skipabove=2pt, skipbelow=2pt,
+  backgroundcolor=white
+]{bracketgroup}
+
+%% ── Side box ──────────────────────────────────────────────────────
+\newmdenv[
+  linecolor=strikegray, linewidth=1.2pt,
+  backgroundcolor=yellow!5,
+  innerleftmargin=10pt, innerrightmargin=8pt,
+  innertopmargin=8pt, innerbottommargin=8pt,
+  skipabove=8pt, skipbelow=8pt
+]{sidebox}
+
+%% ── Schema commands ───────────────────────────────────────────────
+
+% Chord symbol (inline superscript before syllable)
+\newcommand{\chord}[1]{%
+  {\ttfamily\small\color{chordblue}\textsuperscript{\textbf{#1}}\,}%
+}
+
+% Full chord line (line of chords above lyric line)
+\newcommand{\chordline}[1]{%
+  \par\noindent{\ttfamily\footnotesize\color{chordblue}#1}%
+  \par\vspace{-0.55\baselineskip}\noindent%
+}
+
+% Struck-through text
+\newcommand{\struck}[1]{{\color{strikegray}\sout{#1}}}
+
+% Inserted replacement
+\newcommand{\ins}[1]{{\bfseries #1}}
+
+% Highlight macros
+\newcommand{\hlgreen}[1]{\colorbox{hlgreen}{{\footnotesize\ttfamily\color{black!85}#1}}}
+\newcommand{\hlpink}[1]{\colorbox{hlpink}{{\footnotesize\ttfamily\color{black!85}#1}}}
+\newcommand{\hlblue}[1]{\colorbox{hlblue}{{\footnotesize\ttfamily\color{black!85}#1}}}
+\newcommand{\hlorange}[1]{\colorbox{hlorange}{{\footnotesize\ttfamily\color{black!85}#1}}}
+\newcommand{\hlyellow}[1]{\colorbox{hlyellow}{{\footnotesize\ttfamily\color{black!85}#1}}}
+
+% Circled reference
+\newcommand{\circref}[1]{%
+  \tikz[baseline=(char.base)]{%
+    \node[shape=circle, draw, inner sep=1.2pt,
+          font=\ttfamily\scriptsize] (char) {#1};}%
+}
+
+% Side cue (right margin)
+\newcommand{\sidecue}[1]{%
+  \marginnote{\itshape\small\color{sidegreen}#1}%
+}
+
+% Stage direction
+\newcommand{\stage}[1]{{\itshape\color{stagebrn}\small(#1)}}
+
+% Blue-ink note (different hand)
+\newcommand{\blueink}[1]{%
+  \par\noindent\hspace{1em}%
+  {\ttfamily\footnotesize\color{blueinkcol}\itshape
+   {\symbolfont ✎}\enspace #1}\par%
+}
+
+% Cut line (marked X)
+\newcommand{\cutline}[1]{%
+  {\color{strikegray}\sout{#1}%
+  \enspace{\ttfamily\scriptsize[X]}}%
+}
+
+% Annotation block
+\newenvironment{annotation}{%
+  \par\noindent\hspace{1em}%
+  \begin{minipage}[t]{0.82\linewidth}%
+  \ttfamily\footnotesize\color{annotred}\itshape
+  {\symbolfont ↳}\enspace\ignorespaces
+}{%
+  \end{minipage}\par\smallskip%
+}
+
+% Alt version block
+\newenvironment{alt}{%
+  \par\vspace{2pt}%
+  \noindent\hspace{1.5em}%
+  \begin{minipage}[t]{0.82\linewidth}%
+  \small\itshape\color{altpurple}%
+  \setlength{\leftskip}{6pt}%
+}{%
+  \end{minipage}\par\vspace{2pt}%
+}
+
+% Verse block (plain spacing wrapper)
+\newenvironment{songverse}{%
+  \vspace{0.5em}\noindent%
+}{%
+  \vspace{0.5em}\par%
+}
+
+% Structure label
+\newcommand{\structlabel}[1]{%
+  \vspace{0.8em}\noindent%
+  {\ttfamily\small\bfseries\color{black!70}\MakeUppercase{#1}}%
+  \vspace{0.3em}\par%
+}
+
+% Corner note
+\newcommand{\cornernote}[1]{%
+  \marginnote{\ttfamily\scriptsize\color{gray}\itshape #1}%
+}
+
+% Arrow
+\newcommand{\arrowann}[1]{%
+  \par\noindent\hspace{1em}%
+  {\color{annotred}\small{\symbolfont →}\enspace #1}\par%
+}
+
+%% ── Section formatting ────────────────────────────────────────────
+\titleformat{\section}
+  {\large\bfseries}{}{0em}{}
+  [\vspace{-0.2em}\rule{\textwidth}{0.8pt}]
+
+\titleformat{\subsection}
+  {\normalsize\itshape}{}{0em}{}
+
+%% ══════════════════════════════════════════════════════════════════
+\begin{document}
+%% ══════════════════════════════════════════════════════════════════
+
+\begin{center}
+  {\LARGE\bfseries Song Transcriptions}\\[0.4em]
+  {\small\itshape Trad.\ --- with arrangement and annotation notes}
+\end{center}
+\vspace{1em}
+\tableofcontents
+\newpage
+
+%% ──────────────────────────────────────────────────────────────────
+\section{Song 1 --- (Reluctant Fisherman)}
+\subsection*{Trad.}
+
+\structlabel{[A]}
+
+\begin{songverse}
+\begin{bracketgroup}
+Oh me dad was a fisherman bold\\
+And he lived til he grew old. \sidecue{For\ldots}
+\blueink{For he'd open the panes \& pop out the flame / Just to see how the wind do blow}
+And he'd often say to me\\
+You'd be wise before you go. \sidecue{Do\ldots}
+\end{bracketgroup}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+When the North wind rough do blow\\
+Then I lay right smug below. \sidecue{But\ldots}
+\end{bracketgroup}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+When the wind comes out of the East\\
+It's no use to man nor beast. \sidecue{But\ldots}
+\begin{alt}
+East --- wind out of the East\\
+\struck{Poor} \ins{Yosh} wife --- We'll regret if
+\end{alt}
+\end{bracketgroup}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+When the wind's back in to the west\\
+That'll come in rough at best. \sidecue{But\ldots}
+\begin{alt}
+\struck{North-wind \& so} West wind\\
+\stage{A lady says /} \struck{poor wife} --- You'll regret if\\
+\arrowann{\textbf{Fine wife}}
+\end{alt}
+\end{bracketgroup}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+When the south wind soft do blow\\
+Then there's not enough wind to go. \sidecue{Bu[t]\ldots}
+\end{bracketgroup}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+\cutline{North Wind}\\
+\cutline{\struck{Royal Lady (not wife)}}\\
+\struck{Poor wife} --- You will pay
+\end{bracketgroup}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+And me poor wife says to me\\
+We shall starve if you don't go. \sidecue{So\ldots}
+\end{bracketgroup}
+\begin{annotation}
+\stage{Are you mad --- knew wouldn't get out of it} --- spoken aside
+\end{annotation}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+Now all you fishermen bold\\
+If you live till you grow old. \sidecue{Do\ldots}
+\end{songverse}
+
+
+%% ──────────────────────────────────────────────────────────────────
+\newpage
+\section{Song 2 --- The Two Sisters (Oh the Wind \& Rain)}
+\subsection*{TRAD. --- Peggy Seeger / Bay Whitaker / Fates}
+
+\structlabel{Intro -- our version}
+
+\begin{songverse}
+\begin{bracketgroup}
+\chordline{A \hspace{1.6em} B \hspace{1.6em} D}
+Twas early one morning in the month of May\\[3pt]
+\chordline{Em \hspace{3.2em} A}
+\textit{Oh the wind and rain;}\\[3pt]
+\chordline{A \hspace{3.5em} D}
+Two sisters went fishing on a hot summer's day,\\[3pt]
+\chordline{Em \hspace{1.6em} D \hspace{1.6em} A}
+\textit{\stage{CRYING} Oh, the dreadful wind and rain.}
+\end{bracketgroup}
+\end{songverse}
+
+\begin{annotation}
+\circref{A} --- section repeat label
+\end{annotation}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+\chordline{A \hspace{3.5em} D \hspace{2.5em} Em\,--\,A}
+Two sweet sisters side by side / \textit{Oh\ldots}\\[3pt]
+\chordline{A \hspace{4em} D \hspace{2.5em} Em\,--\,D\,--\,A}
+Both of them want to be Johnny's bride / \textit{Oh\ldots} \stage{CRYING}
+\end{bracketgroup}
+\begin{alt}
+a \struck{Good} \ins{Good} man's\\
+or: the same man's
+\end{alt}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+\cutline{Johnny tells older sister it's not her}\\[3pt]
+{\symbolfont →}\enspace Johnny gave the young one a fine gold ring / \textit{Oh\ldots /}
+\begin{annotation}
+He then\ldots
+\end{annotation}
+Didn't give the other one anything / \textit{Oh\ldots}
+\end{bracketgroup}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+Two sweet sisters walking by the stream / \textit{Oh\ldots /}\\
+One came behind \& pushed the other one in / \textit{Oh\ldots}
+\end{bracketgroup}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+She pushed her in to the river to drown / \textit{Oh\ldots /}\\
+And watched her as she floated down / \textit{Oh\ldots}
+\end{bracketgroup}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+She floated on down to the miller's pond. / \textit{Oh\ldots /}\\
+``Father, father, there comes a swan!'' / \textit{Oh\ldots}
+\begin{annotation}
+straight to {\symbolfont →} ``But it wasn't a swan'' --- then straight into next verse
+\end{annotation}
+\end{bracketgroup}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+The miller ran for his drifting hook / \textit{Oh\ldots /}\\
+And brought that poor girl from the brook / \textit{Oh\ldots}
+\end{bracketgroup}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+\cutline{He laid her on the bank so dry / \textit{Oh\ldots /}}\\
+\cutline{A fiddler man came walking by / \textit{Oh\ldots}}
+\end{bracketgroup}
+\begin{annotation}
+both lines marked X (possibly cut)
+\end{annotation}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+He \struck{saw that poor girl lying} \ins{found me / buried} there / \textit{Oh\ldots /}
+\begin{annotation}
+alt: ``found me'' / ``buried'' written above ``saw that'' / ``lying''
+\end{annotation}
+\cutline{He took thirty strands of her long yellow hair / \textit{Oh\ldots}}
+\begin{annotation}
+Fashioned from\ldots\ And that's exactly what he did
+\end{annotation}
+\end{bracketgroup}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+He made a fiddle bow of her long yellow hair / \textit{Oh\ldots /}\\
+He made fiddle pegs of her little finger bones / \textit{Oh\ldots}
+\end{bracketgroup}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+\begin{bracketgroup}
+He made a fiddle of her little breast-bone / \textit{Oh\ldots /}\\
+With a sound that could melt a heart of stone / \textit{Oh\ldots}
+\begin{annotation}
+He used to play other fiddles --- it would only play\ldots
+\end{annotation}
+\end{bracketgroup}
+\end{songverse}
+
+\medskip\hrule\medskip
+
+\begin{songverse}
+And the only tune that fiddle would play / \textit{Oh\ldots}\\
+The only tune that fiddle would play, was / \textit{Oh\ldots}
+\begin{annotation}
+song they'd sung together --- older sister's face
+\end{annotation}
+\end{songverse}
+
+\medskip
+\textit{Oh, the wind and rain.}
+
+\textit{The only tune that the fiddle would play, was oh the dreadful wind and rain.}
+
+
+%% ──────────────────────────────────────────────────────────────────
+\newpage
+\section{Song 3 --- MacPherson's Lament}
+\subsection*{Bk6 No.\,10}
+
+\structlabel{Cue Sheet / Arrangement Notes}
+
+\begin{center}
+\begin{tabular}{@{} p{6.2cm} p{4.2cm} l @{}}
+\toprule
+\textbf{Beat / Story Point} & \textbf{Tune Cue} & \textbf{Ref} \\
+\midrule
+Opening: Poem, This is his tale / tune
+  & \hlgreen{3 McP's}
+  & \circref{p1} \\[4pt]
+Boy being brought up --- gypsy + accomplished musician / fiddler
+  & \struck{\hlpink{8 Flowers}}
+  & \\[4pt]
+Father dies -- kicked out
+  & MacPh's
+  & \circref{p3} \\[4pt]
+Plays for band of gypsies
+  & \hlpink{18 My Love}
+  & \\[4pt]
+Capture of Jannie
+  & \hlblue{18 part 2}
+  & \\[4pt]
+Escape
+  & \hlblue{Dashing W.S.}
+  & \\[4pt]
+No escape
+  & ---
+  & \\[4pt]
+Last request
+  & \hlyellow{McPs L}
+  & \circref{3}\,\circref{P5} \\[4pt]
+Known as M's Lament = Play in key of\ldots
+  & ---
+  & \\[4pt]
+Outro {\symbolfont →} \textit{(time: 1:50)}
+  & \hlorange{G with double stopping}
+  & \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\begin{annotation}
+Paul Anderson --- Spotify
+\end{annotation}
+
+\begin{sidebox}
+\textbf{\circref{8} Flowers of Edinburgh} --- Last 2 lines\\[4pt]
+\textbf{\circref{18}} \textit{(My Love She's But A Lassie Yet)}\\
+\arrowann{bar 1--34}
+\arrowann{bar 99--end}
+Dashing White Sergeant\\
+\textit{(partially cut off in source)}
+\end{sidebox}
+
+
+%% ──────────────────────────────────────────────────────────────────
+\newpage
+\section{Song 4 --- Raggle Taggle}
+\cornernote{corner: ``muttering = +music''}
+
+\structlabel{Cue Sheet / Arrangement Notes}
+
+\begin{center}
+\begin{tabular}{@{} p{7.2cm} p{4.8cm} @{}}
+\toprule
+\textbf{Beat / Story Point} & \textbf{Tune Cue} \\
+\midrule
+Intro: Play \struck{together}
+  & \hlyellow{RTG.} \\[4pt]
+Sense happiness
+  & \hlorange{Coconut dance (a)} \\[4pt]
+Leaving her for a year
+  & \hlpink{Hidden Valley} \\[4pt]
+\hspace{1em}{\symbolfont ↳} Letter -- killed
+  & \\[4pt]
+\hspace{1em}{\symbolfont ↳} Duties -- bore chn.
+  & \hlblue{Heidi's Waltz} \\[4pt]
+Vagabonds passing
+  & Tam Lin A \\[4pt]
+Gypsies --- musicians
+  & Tam Lin B \\[4pt]
+It was her Johnny fair / Heard he'd been married
+  & \hlblue{Heidi's Waltz \textbf{highbit}} 657\,\circref{D} \\[4pt]
+Plan together
+  & \\[4pt]
+Happily ever after
+  & \hlyellow{RTG x2 @ end} {\symbolfont ↙} \\
+\midrule
+\multicolumn{2}{@{}l@{}}{\structlabel{BUT}} \\
+Punished JF / Hanged [by]
+  & \\[4pt]
+Countess's room
+  & \hlpink{Hidden Valley} \\[4pt]
+Stairs -- isolation
+  & \struck{Haylands}\enspace\hlorange{Coconut dance (b)} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\bigskip
+\hlyellow{RTG} \textbf{to end.}
+
+\end{document}

@@ -221,7 +221,7 @@ Then he wandered further — a long, long way — till he reached a place where 
 
 But, as he jogged along after this, he came to where a man was trying to put his breeches on. But, instead of holding them in his hand, he had propped them up with sticks, and was, to no purpose, taking run after run, to jump right into them. "Well, here indeed I have fool number three," cried the lass's sweetheart, turning home-wards. So he went back to her cottage, and married Sally, the old woman's daughter.
 
-Parallels: Norse, Asbjornsen and Moe, vol. i. p. 10, *Somme Kjaeringer er slige*. German, Grimm, *Die kluge else*. Irish, Gerald Griffin, *Collegians*, p. 139; Kennedy's *Fireside Stories of Ireland*, p. 9. Another English version, from Oxfordshire, in *Notes and Queries*, April 17, 1852, p. 363.
+Parallels: Norse, Asbjørnsen and Moe, vol. i. p. 10, *Somme Kjaeringer er slige*. German, Grimm, *Die kluge else*. Irish, Gerald Griffin, *Collegians*, p. 139; Kennedy's *Fireside Stories of Ireland*, p. 9. Another English version, from Oxfordshire, in *Notes and Queries*, April 17, 1852, p. 363.
 ```
 
 Another parallel was reported in *Notes & Queries*, 1852:

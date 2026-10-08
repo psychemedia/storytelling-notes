@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Song Transcriptions</title>
+  <style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+</style>
+  <style type="text/css">
+
+.chord {
+display: inline-block;
+font-family: 'Inconsolata', 'Courier New', monospace;
+font-size: 0.78em;
+font-weight: 600;
+color: #1a6080;
+letter-spacing: 0.03em;
+vertical-align: super;
+line-height: 0;
+margin-right: 0.25em;
+}
+
+p > .chord:only-child,
+p:has(> .chord:first-child:last-child) {
+display: block;
+font-size: 0.82em;
+line-height: 1.2;
+margin-bottom: -0.3em;
+vertical-align: baseline;
+color: #1a6080;
+}
+
+.strike {
+text-decoration: line-through;
+color: #9a8060;
+}
+.ins {
+font-weight: 600;
+color: #1a1208;
+}
+
+.hl-green { background: #b8f070; color: #1a3800; padding: 1px 5px; border-radius: 3px; }
+.hl-pink { background: #ff8fb0; color: #4a0020; padding: 1px 5px; border-radius: 3px; }
+.hl-blue { background: #70d4f8; color: #003050; padding: 1px 5px; border-radius: 3px; }
+.hl-orange { background: #ffc060; color: #4a2000; padding: 1px 5px; border-radius: 3px; }
+.hl-yellow { background: #f0f050; color: #3a3400; padding: 1px 5px; border-radius: 3px; }
+
+.circled {
+display: inline-flex;
+align-items: center;
+justify-content: center;
+width: 1.5em;
+height: 1.5em;
+border: 1.5px solid currentColor;
+border-radius: 50%;
+font-family: 'Inconsolata', monospace;
+font-size: 0.8em;
+font-weight: 600;
+vertical-align: middle;
+margin: 0 2px;
+}
+
+.side-cue {
+float: right;
+font-style: italic;
+font-size: 0.85em;
+color: #5a6030;
+font-family: 'Inconsolata', monospace;
+clear: right;
+margin-left: 1em;
+}
+
+.stage {
+font-style: italic;
+color: #5a4020;
+font-size: 0.9em;
+}
+
+.blue-ink {
+color: #1a4080;
+font-style: italic;
+font-size: 0.88em;
+}
+
+.cut {
+opacity: 0.5;
+text-decoration: line-through;
+color: #9a8060;
+}
+
+.arrow::before { content: "→ "; }
+
+.verse {
+margin: 1em 0;
+}
+.bracket-group {
+border-left: 2.5px solid #5a4020;
+padding-left: 14px;
+margin: 4px 0;
+}
+.annotation {
+font-size: 0.82em;
+color: #b04000;
+font-style: italic;
+font-family: 'Inconsolata', monospace;
+margin-left: 1em;
+margin-top: 2px;
+line-height: 1.4;
+}
+.annotation::before { content: "↳ "; opacity: 0.6; }
+.alt {
+font-size: 0.88em;
+color: #5a4060;
+font-style: italic;
+border-left: 2px dashed #b090c0;
+padding-left: 10px;
+margin: 4px 0 4px 12px;
+}
+.structure-label {
+font-weight: 600;
+font-size: 0.85em;
+letter-spacing: 0.08em;
+text-transform: uppercase;
+color: #4a3a1a;
+margin: 1.2em 0 0.4em;
+font-family: 'Inconsolata', monospace;
+}
+.side-box {
+border: 1.5px solid #8a7a50;
+border-radius: 4px;
+padding: 12px 16px;
+margin: 1em 0 1em auto;
+max-width: 280px;
+font-size: 0.88em;
+line-height: 1.6;
+background: #faf6ec;
+}
+.corner-note {
+font-family: 'Inconsolata', monospace;
+font-size: 0.78em;
+color: #5a5a3a;
+font-style: italic;
+margin-bottom: 0.8em;
+}
+.song {
+margin-bottom: 3em;
+padding-bottom: 2em;
+border-bottom: 2px solid #b0a080;
+}
+</style>
+
+<style>
+/* songs.css */
+/* songs.css — companion stylesheet for songs.qmd Quarto HTML output */
+
+/* ── Chord symbols ─────────────────────────────────── */
+.chord {
+  display: inline-block;
+  font-family: 'Inconsolata', 'Courier New', monospace;
+  font-size: 0.78em;
+  font-weight: 600;
+  color: #1a6080;
+  letter-spacing: 0.03em;
+  vertical-align: super;
+  line-height: 0;
+  margin-right: 0.25em;
+}
+
+/* When chords appear on their own line (approach A) */
+p > .chord:only-child,
+p:has(> .chord:first-child:last-child) {
+  display: block;
+  font-size: 0.82em;
+  line-height: 1.2;
+  margin-bottom: -0.3em;
+  vertical-align: baseline;
+  color: #1a6080;
+}
+
+/* ── Struck / inserted text ────────────────────────── */
+.strike {
+  text-decoration: line-through;
+  color: #9a8060;
+}
+.ins {
+  font-weight: 600;
+  color: #1a1208;
+}
+
+/* ── Highlights ────────────────────────────────────── */
+.hl-green  { background: #b8f070; color: #1a3800; padding: 1px 5px; border-radius: 3px; }
+.hl-pink   { background: #ff8fb0; color: #4a0020; padding: 1px 5px; border-radius: 3px; }
+.hl-blue   { background: #70d4f8; color: #003050; padding: 1px 5px; border-radius: 3px; }
+.hl-orange { background: #ffc060; color: #4a2000; padding: 1px 5px; border-radius: 3px; }
+.hl-yellow { background: #f0f050; color: #3a3400; padding: 1px 5px; border-radius: 3px; }
+
+/* ── Circled references ────────────────────────────── */
+.circled {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5em;
+  height: 1.5em;
+  border: 1.5px solid currentColor;
+  border-radius: 50%;
+  font-family: 'Inconsolata', monospace;
+  font-size: 0.8em;
+  font-weight: 600;
+  vertical-align: middle;
+  margin: 0 2px;
+}
+
+/* ── Side cues ─────────────────────────────────────── */
+.side-cue {
+  float: right;
+  font-style: italic;
+  font-size: 0.85em;
+  color: #5a6030;
+  font-family: 'Inconsolata', monospace;
+  clear: right;
+  margin-left: 1em;
+}
+
+/* ── Stage directions ──────────────────────────────── */
+.stage {
+  font-style: italic;
+  color: #5a4020;
+  font-size: 0.9em;
+}
+
+/* ── Blue-ink notes ────────────────────────────────── */
+.blue-ink {
+  color: #1a4080;
+  font-style: italic;
+  font-size: 0.88em;
+}
+
+/* ── Cut lines (marked ✕) ──────────────────────────── */
+.cut {
+  opacity: 0.5;
+  text-decoration: line-through;
+  color: #9a8060;
+}
+
+/* ── Arrow annotations ─────────────────────────────── */
+.arrow::before { content: "→ "; }
+
+/* ── Block divs ────────────────────────────────────── */
+.verse {
+  margin: 1em 0;
+}
+
+.bracket-group {
+  border-left: 2.5px solid #5a4020;
+  padding-left: 14px;
+  margin: 4px 0;
+}
+
+.annotation {
+  font-size: 0.82em;
+  color: #b04000;
+  font-style: italic;
+  font-family: 'Inconsolata', monospace;
+  margin-left: 1em;
+  margin-top: 2px;
+  line-height: 1.4;
+}
+.annotation::before { content: "↳ "; opacity: 0.6; }
+
+.alt {
+  font-size: 0.88em;
+  color: #5a4060;
+  font-style: italic;
+  border-left: 2px dashed #b090c0;
+  padding-left: 10px;
+  margin: 4px 0 4px 12px;
+}
+
+.structure-label {
+  font-weight: 600;
+  font-size: 0.85em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #4a3a1a;
+  margin: 1.2em 0 0.4em;
+  font-family: 'Inconsolata', monospace;
+}
+
+.side-box {
+  border: 1.5px solid #8a7a50;
+  border-radius: 4px;
+  padding: 12px 16px;
+  margin: 1em 0 1em auto;
+  max-width: 280px;
+  font-size: 0.88em;
+  line-height: 1.6;
+  background: #faf6ec;
+}
+
+.corner-note {
+  font-family: 'Inconsolata', monospace;
+  font-size: 0.78em;
+  color: #5a5a3a;
+  font-style: italic;
+  margin-bottom: 0.8em;
+}
+
+.song {
+  margin-bottom: 3em;
+  padding-bottom: 2em;
+  border-bottom: 2px solid #b0a080;
+}
+
+</style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Song Transcriptions</h1>
+<p class="subtitle">Trad. — with arrangement and annotation notes</p>
+</header>
+<!-- ================================================================
+SCHEMA REFERENCE — span classes (inline):
+  [text]{.chord}        chord symbol
+  [text]{.strike}       struck-through word/phrase
+  [text]{.ins}          inserted replacement
+  [text]{.hl-green}     yellow-green highlight
+  [text]{.hl-pink}      pink highlight
+  [text]{.hl-blue}      blue highlight
+  [text]{.hl-orange}    orange highlight
+  [text]{.hl-yellow}    yellow highlight
+  [text]{.circled}      circled reference
+  [text]{.side-cue}     right-margin performance cue
+  [text]{.stage}        spoken aside / stage direction
+  [text]{.blue-ink}     handwritten note in blue ink
+  [text]{.cut}          line marked ✕ for possible removal
+  [text]{.arrow}        arrow annotation
+
+Block divs:
+  ::: {.verse}          verse or section block
+  ::: {.bracket-group}  lines grouped with a left bracket
+  ::: {.annotation}     handwritten marginal note
+  ::: {.alt}            alternative version of a line
+  ::: {.structure-label} section header (Intro, Outro, BUT…)
+  ::: {.side-box}       boxed aside panel
+  ::: {.corner-note}    free-floating marginal note
+  ::: {.song}           top-level container for one song
+================================================================ -->
+<h2 class="song" id="song-1-reluctant-fisherman">Song 1 — (Reluctant
+Fisherman)</h2>
+<p><em>Trad.</em></p>
+<div class="structure-label">
+<p>[A]</p>
+</div>
+<div class="verse">
+<div class="bracket-group">
+<p>Oh me dad was a fisherman bold</p>
+<p>And he lived til he grew old. <span class="side-cue">For…</span></p>
+<div class="annotation blue-ink">
+<p>For he’d open the panes &amp; pop out the flame / Just to see how the
+wind do blow</p>
+</div>
+<p>And he’d often say to me</p>
+<p>You’d be wise before you go. <span class="side-cue">Do…</span></p>
+</div>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p>When the North wind rough do blow</p>
+<p>Then I lay right smug below. <span class="side-cue">But…</span></p>
+</div>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p>When the wind comes out of the East</p>
+<p>It’s no use to man nor beast. <span class="side-cue">But…</span></p>
+<div class="alt">
+<p>East – wind out of the East<br />
+<span class="strike">Poor</span> <span class="ins">Yosh</span> wife –
+We’ll regret if</p>
+</div>
+</div>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p>When the wind’s back in to the west</p>
+<p>That’ll come in rough at best. <span class="side-cue">But…</span></p>
+<div class="alt">
+<p><span class="strike">North-wind &amp; so</span> West wind<br />
+<span class="stage">A lady says /</span> <span class="strike">poor
+wife</span> — You’ll regret if<br />
+<span class="arrow">→ <strong>Fine wife</strong></span></p>
+</div>
+</div>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p>When the south wind soft do blow</p>
+<p>Then there’s not enough wind to go. <span class="side-cue">Bu[t]…</span></p>
+</div>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p>And me poor wife says to me</p>
+<p>We shall starve if you don’t go. <span class="side-cue">So…</span></p>
+</div>
+<div class="annotation">
+<p><span class="stage">(Are you mad – knew wouldn’t get out of
+it)</span> — spoken aside</p>
+</div>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p><span class="cut">North Wind</span><br />
+<span class="cut strike">Royal Lady (not wife)</span><br />
+<span class="strike">Poor wife</span> – You will pay</p>
+</div>
+</div>
+<hr />
+<div class="verse">
+<p>Now all you fishermen bold</p>
+<p>If you live till you grow old. <span class="side-cue">Do…</span></p>
+</div>
+<hr />
+<h2 class="song" id="song-2-the-two-sisters-oh-the-wind-rain">Song 2 —
+The Two Sisters (Oh the Wind &amp; Rain)</h2>
+<p><em>TRAD. — Peggy Seeger / Bay Whitaker / Fates</em></p>
+<div class="structure-label">
+<p>Intro – our version</p>
+</div>
+<div class="verse">
+<div class="bracket-group">
+<p><span class="chord">A</span> <span class="chord">B</span> <span class="chord">D</span><br />
+Twas early one morning in the month of May</p>
+<p><span class="chord">Em</span> <span class="chord">A</span><br />
+<em>Oh the wind and rain;</em></p>
+<p><span class="chord">A</span> <span class="chord">D</span><br />
+Two sisters went fishing on a hot summer’s day,</p>
+<p><span class="chord">Em</span> <span class="chord">D</span> <span class="chord">A</span><br />
+<em><span class="stage">CRYING</span> Oh, the dreadful wind and
+rain.</em></p>
+</div>
+</div>
+<div class="annotation">
+<p><span class="circled">A</span> — section repeat label</p>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p><span class="chord">A</span> <span class="chord">D</span> <span class="chord">Em – A</span><br />
+Two sweet sisters side by side / <em>Oh…</em></p>
+<p><span class="chord">A</span> <span class="chord">D</span> <span class="chord">Em – D – A</span><br />
+Both of them want to be Johnny’s bride / <em>Oh… <span class="stage">CRYING</span></em></p>
+</div>
+<div class="alt">
+<p>a <span class="strike"><del>Good</del></span> <span class="ins">Good</span> man’s<br />
+or: the same man’s</p>
+</div>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p><span class="cut">Johnny tells older sister it’s not her</span></p>
+<p>→ Johnny gave the young one a fine gold ring / <em>Oh… /</em></p>
+<div class="annotation">
+<p>He then…</p>
+</div>
+<p>Didn’t give the other one anything / <em>Oh…</em></p>
+</div>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p>Two sweet sisters walking by the stream / <em>Oh… /</em></p>
+<p>One came behind &amp; pushed the other one in / <em>Oh…</em></p>
+</div>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p>She pushed her in to the river to drown / <em>Oh… /</em></p>
+<p>And watched her as she floated down / <em>Oh…</em></p>
+</div>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p>She floated on down to the miller’s pond. / <em>Oh… /</em></p>
+<p>"Father, father, there comes a swan!" / <em>Oh…</em></p>
+<div class="annotation">
+<p><span class="arrow">straight to →</span> "But it wasn’t a swan" —
+then straight into next verse</p>
+</div>
+</div>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p>The miller ran for his drifting hook / <em>Oh… /</em></p>
+<p>And brought that poor girl from the brook / <em>Oh…</em></p>
+</div>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p><span class="cut">He laid her on the bank so dry / <em>Oh…
+/</em></span></p>
+<p><span class="cut">A fiddler man came walking by /
+<em>Oh…</em></span></p>
+</div>
+<div class="annotation">
+<p>both lines marked ✕ (possibly cut)</p>
+</div>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p>He <span class="strike">saw that poor girl lying</span> <span class="ins">found me / buried</span> there / <em>Oh… /</em></p>
+<div class="annotation">
+<p>alt: "found me" / "buried" written above "saw that" / "lying"</p>
+</div>
+<p><span class="cut">He took thirty strands of her long yellow hair /
+<em>Oh…</em></span></p>
+<div class="annotation">
+<p>Fashioned from… And that’s exactly what he did</p>
+</div>
+</div>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p>He made a fiddle bow of her long yellow hair / <em>Oh… /</em></p>
+<p>He made fiddle pegs of her little finger bones / <em>Oh…</em></p>
+</div>
+</div>
+<hr />
+<div class="verse">
+<div class="bracket-group">
+<p>He made a fiddle of her little breast-bone / <em>Oh… /</em></p>
+<p>With a sound that could melt a heart of stone / <em>Oh…</em></p>
+<div class="annotation">
+<p>He used to play other fiddles — it would only play…</p>
+</div>
+</div>
+</div>
+<hr />
+<div class="verse">
+<p>And the only tune that fiddle would play / <em>Oh…</em></p>
+<p>The only tune that fiddle would play, was / <em>Oh….</em></p>
+<div class="annotation">
+<p>song they’d sung together – older sister’s face</p>
+</div>
+</div>
+<p><em>Oh, the wind and rain.</em></p>
+<p><em>The only tune that the fiddle would play, was oh the dreadful
+wind and rain</em></p>
+<hr />
+<h2 class="song" id="song-3-macphersons-lament">Song 3 — MacPherson’s
+Lament</h2>
+<p><em>Bk6 No.10</em></p>
+<div class="structure-label">
+<p>Cue Sheet / Arrangement Notes</p>
+</div>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Beat / Story Point</th>
+<th>Tune Cue</th>
+<th>Ref</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Opening: Poem, This is his tale / tune</td>
+<td><span class="hl-green">3 McP’s</span></td>
+<td><span class="circled">p1</span></td>
+</tr>
+<tr class="even">
+<td>Boy being brought up — gypsy + accomplished musician / fiddler</td>
+<td><span class="hl-pink strike">8 Flowers <del>(crossed
+out)</del></span></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Father dies – kicked out</td>
+<td>MacPh’s</td>
+<td><span class="circled">p3</span></td>
+</tr>
+<tr class="even">
+<td>Plays for band of gypsies</td>
+<td><span class="hl-pink">18 My Love</span></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Capture of Jannie</td>
+<td><span class="hl-blue">18 part 2</span></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Escape</td>
+<td><span class="hl-blue">Dashing W.S.</span></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>No escape</td>
+<td>—</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Last request</td>
+<td><span class="hl-yellow">McPs L</span></td>
+<td><span class="circled">3</span> <span class="circled">P5</span></td>
+</tr>
+<tr class="odd">
+<td>Known as M’s Lament = Play in key of…</td>
+<td>—</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Outro → <em>(time: 1:50)</em></td>
+<td><span class="hl-orange">G with double stopping</span></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<div class="annotation">
+<p>Paul Anderson – Spotify</p>
+</div>
+<div class="side-box">
+<p><strong><span class="circled">8</span> Flowers of Edinburgh</strong>
+— Last 2 lines</p>
+<p><strong><span class="circled">18</span></strong> <em>(My Love She’s
+But A Lassie Yet)</em><br />
+<span class="arrow">→</span> bar 1–34<br />
+<span class="arrow">→</span> bar 99–end<br />
+Dashing White Sergeant<br />
+<em>(partially cut off in source)</em></p>
+</div>
+<hr />
+<h2 class="song" id="song-4-raggle-taggle">Song 4 — Raggle Taggle</h2>
+<div class="corner-note">
+<p>Corner note: "muttering = +music"</p>
+</div>
+<div class="structure-label">
+<p>Cue Sheet / Arrangement Notes</p>
+</div>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Beat / Story Point</th>
+<th>Tune Cue</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Intro: Play <span class="strike"><del>together</del></span></td>
+<td><span class="hl-yellow">RTG.</span></td>
+</tr>
+<tr class="even">
+<td>Sense happiness</td>
+<td><span class="hl-orange">Coconut dance (a)</span></td>
+</tr>
+<tr class="odd">
+<td>Leaving her for a year</td>
+<td><span class="hl-pink">Hidden Valley</span></td>
+</tr>
+<tr class="even">
+<td>↳ Letter – killed</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>↳ Duties – bore chn.</td>
+<td><span class="hl-blue">Heidi’s Waltz</span></td>
+</tr>
+<tr class="even">
+<td>Vagabonds passing</td>
+<td>Tam Lin A</td>
+</tr>
+<tr class="odd">
+<td>Gypsies — musicians</td>
+<td>Tam Lin B</td>
+</tr>
+<tr class="even">
+<td>It was her Johnny fair / Heard he’d been married</td>
+<td><span class="hl-blue">Heidi’s Waltz <strong>highbit</strong></span>
+657 <span class="circled">D</span></td>
+</tr>
+<tr class="odd">
+<td>Plan together</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Happily ever after</td>
+<td><span class="hl-yellow">RTG x2 @ end</span> ↙</td>
+</tr>
+</tbody>
+</table>
+<div class="structure-label">
+<p>BUT</p>
+</div>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Beat / Story Point</th>
+<th>Tune Cue</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Punished JF / Hanged [by]</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Countess’s room</td>
+<td><span class="hl-pink">Hidden Valley</span></td>
+</tr>
+<tr class="odd">
+<td>Stairs – isolation</td>
+<td><span class="strike"><del>Haylands</del></span> <span class="hl-orange">Coconut dance (b)</span></td>
+</tr>
+</tbody>
+</table>
+<p><span class="hl-yellow">RTG</span> <strong>to end.</strong></p>
+</body>
+</html>

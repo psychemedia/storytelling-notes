@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Song Transcriptions</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inconsolata:wght@400;500&display=swap');
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #f5f0e8;
+    color: #1a1208;
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 17px;
+    line-height: 1.7;
+    padding: 48px 24px 80px;
+  }
+
+  .page {
+    max-width: 680px;
+    margin: 0 auto;
+  }
+
+  h1 {
+    font-size: 1.1em;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #7a6040;
+    margin-bottom: 4px;
+  }
+
+  .song-title {
+    font-size: 1.7em;
+    font-weight: 600;
+    margin-bottom: 2px;
+    line-height: 1.2;
+  }
+
+  .song-subtitle {
+    font-size: 0.95em;
+    color: #7a6040;
+    font-style: italic;
+    margin-bottom: 32px;
+  }
+
+  .song {
+    margin-bottom: 64px;
+    padding-bottom: 48px;
+    border-bottom: 1px solid #c8b89a;
+  }
+
+  /* Bracket system */
+  .bracket-group {
+    display: flex;
+    align-items: stretch;
+    margin: 4px 0;
+  }
+
+  .bracket-line {
+    width: 2px;
+    background: #5a4020;
+    margin-right: 14px;
+    border-radius: 1px;
+    flex-shrink: 0;
+  }
+
+  .bracket-content {
+    flex: 1;
+  }
+
+  /* Verse blocks */
+  .verse {
+    margin: 20px 0;
+  }
+
+  .verse-note {
+    font-size: 0.82em;
+    color: #7a6040;
+    font-style: italic;
+    margin-bottom: 6px;
+    font-family: 'Inconsolata', monospace;
+  }
+
+  /* Lines */
+  .line {
+    position: relative;
+    padding: 1px 0;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2px;
+  }
+
+  .line-text {
+    font-size: 1.05em;
+  }
+
+  /* Chord row sits above the lyric line */
+  .chords {
+    font-family: 'Inconsolata', monospace;
+    font-size: 0.88em;
+    color: #1a6080;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    line-height: 1.2;
+    margin-bottom: 0px;
+  }
+
+  /* Strikethrough for crossed-out words */
+  .strike {
+    text-decoration: line-through;
+    color: #9a8060;
+  }
+
+  /* Handwritten annotations / alternatives */
+  .annotation {
+    font-family: 'Inconsolata', monospace;
+    font-size: 0.8em;
+    color: #b04000;
+    font-style: italic;
+    display: block;
+    margin-left: 12px;
+    line-height: 1.4;
+  }
+
+  .annotation::before {
+    content: "↳ ";
+    opacity: 0.6;
+  }
+
+  /* Blue ink handwritten notes */
+  .note-blue {
+    font-family: 'Inconsolata', monospace;
+    font-size: 0.8em;
+    color: #1a4080;
+    font-style: italic;
+    display: block;
+    margin-left: 12px;
+    line-height: 1.4;
+  }
+
+  .note-blue::before {
+    content: "✎ ";
+    opacity: 0.7;
+  }
+
+  /* Side annotations (e.g. "For...", "Do...", "But...") */
+  .side-cue {
+    font-family: 'Inconsolata', monospace;
+    font-size: 0.82em;
+    color: #5a6030;
+    margin-left: 18px;
+    align-self: flex-end;
+    font-style: italic;
+  }
+
+  .line-with-cue {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+  }
+
+  /* Crossed-out lines */
+  .line-crossed {
+    opacity: 0.55;
+    text-decoration: line-through;
+    color: #9a8060;
+  }
+
+  /* Stage directions / notes in parens */
+  .stage {
+    font-style: italic;
+    font-size: 0.9em;
+    color: #5a4020;
+  }
+
+  /* Markup for "X" annotation */
+  .marked-x {
+    font-family: 'Inconsolata', monospace;
+    font-size: 0.75em;
+    color: #c03000;
+    margin-right: 4px;
+    font-weight: 600;
+  }
+
+  /* Divider */
+  .divider {
+    border: none;
+    border-top: 1px dashed #c8b89a;
+    margin: 28px 0;
+  }
+
+  /* End matter */
+  .ending-italic {
+    font-style: italic;
+    font-size: 1.05em;
+    margin-top: 6px;
+  }
+
+  @media print {
+    body { background: white; padding: 24px; }
+    .song { page-break-after: always; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- ══════════════════════════════════════════════
+       SONG 1: THE RELUCTANT FISHERMAN
+  ══════════════════════════════════════════════ -->
+  <div class="song">
+    <h1>Song 1</h1>
+    <div class="song-title">(Reluctant Fisherman)</div>
+    <div class="song-subtitle">Trad.</div>
+
+    <!-- Verse A (from image 2, circled A) -->
+    <div class="verse">
+      <div class="verse-note">[A]</div>
+      <div class="line">
+        <div class="line-text">Oh me dad was a fisherman bold</div>
+      </div>
+      <div class="line">
+        <div class="line-with-cue">
+          <span class="line-text">And he lived til he grew old.</span>
+          <span class="side-cue">For…</span>
+        </div>
+        <span class="note-blue">For he'd open the panes &amp; pop out the flame / Just to see how the wind do blow</span>
+      </div>
+      <div class="line">
+        <div class="line-text">And he'd often say to me</div>
+      </div>
+      <div class="line">
+        <div class="line-with-cue">
+          <span class="line-text">You'd be wise before you go.</span>
+          <span class="side-cue">Do…</span>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse: South Wind -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <div class="line-text">South wind soft –</div>
+          </div>
+          <div class="line">
+            <div class="line-text">
+              And <span class="strike">this</span> dear <span class="strike">poor</span> wife –
+              <span class="strike">we'll lament</span> <b>you'll</b> rec, we'll be not
+            </div>
+            <span class="annotation">alt: "And his poor wife says to him, we shall starve / we shall starve we'll regret" [crossed out]</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse: East Wind -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <div class="line-text">When the wind comes out of the East</div>
+          </div>
+          <div class="line">
+            <div class="line-with-cue">
+              <span class="line-text">It's no use to man nor beast.</span>
+              <span class="side-cue">But…</span>
+            </div>
+          </div>
+          <div class="line">
+            <div class="line-text">
+              East – wind out of the East<br>
+              <span class="strike">Poor</span> <b>Yosh</b> wife – We'll regret if
+            </div>
+            <span class="annotation">alt. working lyric / scratch version above</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse: West Wind -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <div class="line-text">When the wind's back in to the west</div>
+          </div>
+          <div class="line">
+            <div class="line-with-cue">
+              <span class="line-text">That'll come in rough at best.</span>
+              <span class="side-cue">But…</span>
+            </div>
+          </div>
+          <div class="line">
+            <div class="line-text">
+              <span class="strike">North-wind &amp; so</span> West wind<br>
+              <span class="stage">A lady says / </span><span class="strike">poor wife</span> – You'll regret if<br>
+              <b>→ Fine wife</b>
+            </div>
+            <span class="annotation">alt: "North-wind &amp; so west wind / A lady says — you'll regret if" → changed to "Fine wife"</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse: South Wind (image 2) -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <div class="line-text">When the south wind soft do blow</div>
+          </div>
+          <div class="line">
+            <div class="line-with-cue">
+              <span class="line-text">Then there's not enough wind to go.</span>
+              <span class="side-cue">Bu[t]…</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse: North Wind -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <div class="line-text">When the North wind rough do blow</div>
+          </div>
+          <div class="line">
+            <div class="line-with-cue">
+              <span class="line-text">Then I lay right smug below.</span>
+              <span class="side-cue">But…</span>
+            </div>
+          </div>
+          <div class="line">
+            <div class="line-text">
+              North Wind<br>
+              <span class="strike">Royal Lady (not wife)</span><br>
+              <span class="strike">Poor wife</span> – You will pay
+            </div>
+            <span class="annotation">alt: "North Wind / Royal Lady (not wife) / Poor wife — You will pay"</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse: Poor wife (image 2) -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <div class="line-text">And me poor wife says to me</div>
+          </div>
+          <div class="line">
+            <div class="line-with-cue">
+              <span class="line-text">We shall starve if you don't go.</span>
+              <span class="side-cue">So…</span>
+            </div>
+          </div>
+          <div class="line">
+            <div class="line-text">
+              <span class="stage">(Are you mad – knew wouldn't get out of it)</span>
+            </div>
+            <span class="annotation">spoken/aside note</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Final verse -->
+    <div class="verse">
+      <div class="line">
+        <div class="line-text">Now all you fishermen bold</div>
+      </div>
+      <div class="line">
+        <div class="line-with-cue">
+          <span class="line-text">If you live till you grow old.</span>
+          <span class="side-cue">Do…</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- ══════════════════════════════════════════════
+       SONG 2: THE TWO SISTERS
+  ══════════════════════════════════════════════ -->
+  <div class="song">
+    <h1>Song 2 — TRAD.</h1>
+    <div class="song-title">The Two Sisters (Oh the Wind &amp; Rain)</div>
+    <div class="song-subtitle">Peggy Seeger / Bay Whitaker / Fates</div>
+
+    <div class="verse">
+      <div class="verse-note">Intro – our version</div>
+    </div>
+
+    <!-- Verse 1 -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <div class="chords">A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D</div>
+            <div class="line-text">Twas early one morning in the month of May</div>
+          </div>
+          <div class="line">
+            <div class="chords">Em &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A</div>
+            <div class="line-text"><em>Oh the wind and rain;</em></div>
+          </div>
+          <div class="line">
+            <div class="chords">A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D</div>
+            <div class="line-text">Two sisters went fishing on a hot summer's day,</div>
+          </div>
+          <div class="line">
+            <div class="chords">Em &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A</div>
+            <div class="line-text"><em>[CRYING] Oh, the dreadful wind and rain.</em></div>
+          </div>
+        </div>
+      </div>
+      <div class="verse-note" style="margin-top:6px;">↳ [A] (repeat / label)</div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse 2 -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <div class="chords">A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em – A</div>
+            <div class="line-text">Two sweet sisters side by side / <em>Oh…</em></div>
+          </div>
+          <div class="line">
+            <div class="chords">A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em – D – A</div>
+            <div class="line-text">Both of them want to be Johnny's bride / <em>Oh… [CRYING]</em></div>
+          </div>
+          <div class="annotation" style="font-style:normal;">
+            alt text: "a <span class="strike">Good</span> Good man's" → or "the same man's"
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse 3 -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <div class="line-text line-crossed">Johnny tells older sister it's not her</div>
+          </div>
+          <div class="line">
+            <div class="line-text">↳ Johnny gave the young one a fine gold ring / <em>Oh… /</em></div>
+            <span class="annotation">He then…</span>
+          </div>
+          <div class="line">
+            <div class="line-text">Didn't give the other one anything / <em>Oh…</em></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse 4 -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <div class="line-text">Two sweet sisters walking by the stream / <em>Oh… /</em></div>
+          </div>
+          <div class="line">
+            <div class="line-text">One came behind &amp; pushed the other one in / <em>Oh…</em></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse 5 -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <span class="annotation" style="margin-left:0;">atter [?]</span>
+            <div class="line-text">She pushed her in to the river to drown / <em>Oh… /</em></div>
+          </div>
+          <div class="line">
+            <div class="line-text">And watched her as she floated down / <em>Oh…</em></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse 6 -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <div class="line-text">She floated on down to the miller's pond. / <em>Oh… /</em></div>
+          </div>
+          <div class="line">
+            <div class="line-text">"Father, father, there comes a swan!" / <em>Oh…</em></div>
+            <span class="annotation">straight to → "But it wasn't a swan" — then straight into next verse</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse 7 (image 4) -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <div class="line-text">The miller ran for his drifting hook / <em>Oh… /</em></div>
+          </div>
+          <div class="line">
+            <div class="line-text">And brought that poor girl from the brook / <em>Oh…</em></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse 8 -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <span class="marked-x">✕</span>
+            <div class="line-with-cue">
+              <span class="line-text">He laid her on the bank so dry / <em>Oh… /</em></span>
+            </div>
+          </div>
+          <div class="line">
+            <span class="marked-x">✕</span>
+            <div class="line-text">A fiddler man came walking by / <em>Oh…</em></div>
+          </div>
+        </div>
+      </div>
+      <span class="annotation">both lines marked ✕ (possibly cut)</span>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse 9 -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <div class="line-text">He <span class="strike">saw that poor girl lying</span> <b>found me buried</b> there / <em>Oh… /</em></div>
+            <span class="annotation">alt: "found me" / "buried" written above "saw that" / "lying"</span>
+          </div>
+          <div class="line">
+            <span class="marked-x">✕</span>
+            <div class="line-text">He took thirty strands of her long yellow hair / <em>Oh…</em></div>
+          </div>
+          <span class="annotation">Fashioned from… And that's exactly what he did</span>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse 10 -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <div class="line-text">He made a fiddle bow of her long yellow hair / <em>Oh… /</em></div>
+          </div>
+          <div class="line">
+            <div class="line-text">He made fiddle pegs of her little finger bones / <em>Oh…</em></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse 11 -->
+    <div class="verse">
+      <div class="bracket-group">
+        <div class="bracket-line"></div>
+        <div class="bracket-content">
+          <div class="line">
+            <div class="line-text">He made a fiddle of her little breast-bone / <em>Oh… /</em></div>
+          </div>
+          <div class="line">
+            <div class="line-text">With a sound that could melt a heart of stone / <em>Oh…</em></div>
+            <span class="annotation">He used to play other fiddles — it would only play…</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse 12 / Ending -->
+    <div class="verse">
+      <div class="line">
+        <div class="line-text">And the only tune that fiddle would play / <em>Oh…</em></div>
+      </div>
+      <div class="line">
+        <div class="line-text">The only tune that fiddle would play, was / <em>Oh….</em></div>
+        <span class="annotation">song they'd sung together – older sister's face</span>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Final lines (italic, printed) -->
+    <div class="verse">
+      <div class="line ending-italic">
+        <div class="line-text"><em>Oh, the wind and rain.</em></div>
+      </div>
+      <div class="line ending-italic" style="margin-top:8px;">
+        <div class="line-text"><em>The only tune that the fiddle would play, was oh the dreadful wind and rain</em></div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+</body>
+</html>

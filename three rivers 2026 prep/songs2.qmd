@@ -149,6 +149,8 @@ If you live till you grow old. [Do…]{.side-cue}
 
 ---
 
+::: {.page-break}
+:::
 
 ## Song 2 — The Two Sisters (Oh the Wind & Rain) {.song}
 
@@ -329,10 +331,23 @@ song they'd sung together – older sister's face
 
 ---
 
+::: {.page-break}
+:::
 
 ## Song 3 — MacPherson's Lament {.song}
 
 *Bk6 No.10*
+
+He spent his time in rioting,  
+Debauch'd his health and strength;  
+He pillag'd, plunder'd, murdered,  
+Till then, alas! at length,  
+Was brought to punishment direct,   
+"Pale Death draws near to me";  
+This end he never did project,  
+To hang upon a tree.
+
+It's 1700, or thereabouts. Jamie Macpherson stands on a small platform, a noose around his neck. He's played his fiddle for the final time, a tune of his own composition known today as *Macpherson's Lament*.
 
 ::: {.structure-label}
 Cue Sheet / Arrangement Notes
@@ -344,7 +359,7 @@ Cue Sheet / Arrangement Notes
 | Boy being brought up — gypsy + accomplished musician / fiddler | [8 Flowers ~~(crossed out)~~]{.hl-pink .strike} | |
 | Father dies – kicked out | MacPh's | [p3]{.circled} |
 | Plays for band of gypsies | [18 My Love]{.hl-pink} | |
-| Capture of Jannie | [18 part 2]{.hl-blue} | |
+| Capture of Jamie | [18 part 2]{.hl-blue} | |
 | Escape | [Dashing W.S.]{.hl-blue} | |
 | No escape | — | |
 | Last request | [McPs L]{.hl-yellow} | [3]{.circled} [P5]{.circled} |
@@ -368,6 +383,8 @@ Dashing White Sergeant\
 
 ---
 
+::: {.page-break}
+:::
 
 ## Song 4 — Raggle Taggle {.song}
 
@@ -381,21 +398,19 @@ Cue Sheet / Arrangement Notes
 
 | Beat / Story Point | Tune Cue |
 |---|---|
-| Intro: Play | [RTG.]{.hl-yellow} |
+| Intro: Play [~~together~~]{.strike} | [RTG.]{.hl-yellow} |
 | Sense happiness | [Coconut dance (a)]{.hl-orange} |
 | Leaving her for a year | [Hidden Valley]{.hl-pink} |
 | ↳ Letter – killed | |
 | ↳ Duties – bore chn. | [Heidi's Waltz]{.hl-blue} |
-| Soldiers passing | Tam Lin A |
+| Vagabonds passing | Tam Lin A |
 | Gypsies — musicians | Tam Lin B |
-| It was her Johnny Faa / Heard he'd been married | [Heidi's Waltz **highbit**]{.hl-blue} 657 [D]{.circled} |
+| It was her Johnny fair / Heard he'd been married | [Heidi's Waltz **highbit**]{.hl-blue} 657 [D]{.circled} |
 | Plan together | |
-| It is said, or it is sung... Happily ever after | [RTG x2 @ end]{.hl-yellow} ↙ |
+| Happily ever after | [RTG x2 @ end]{.hl-yellow} ↙ |
 
 ::: {.structure-label}
-BUT the real story is slightly different...
-
-It's true that Lady Jean's husband caught up with them, BUT...
+BUT
 :::
 
 | Beat / Story Point | Tune Cue |

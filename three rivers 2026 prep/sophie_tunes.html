@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cue Sheets</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inconsolata:wght@400;500;600&display=swap');
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #f4f0e6;
+    color: #1a1208;
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 17px;
+    line-height: 1.75;
+    padding: 48px 24px 80px;
+  }
+
+  .page { max-width: 700px; margin: 0 auto; }
+
+  .sheet {
+    margin-bottom: 64px;
+    padding-bottom: 48px;
+    border-bottom: 2px solid #b0a080;
+  }
+
+  h1 {
+    font-size: 1.85em;
+    font-weight: 600;
+    border-bottom: 2px solid #1a1208;
+    padding-bottom: 4px;
+    margin-bottom: 4px;
+    display: inline-block;
+  }
+
+  .ref {
+    font-family: 'Inconsolata', monospace;
+    font-size: 0.85em;
+    color: #555;
+    margin-bottom: 24px;
+    display: block;
+  }
+
+  /* Cue rows */
+  .cue {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    margin: 6px 0;
+    flex-wrap: wrap;
+  }
+
+  .cue-label {
+    color: #4a3a1a;
+    min-width: 0;
+    flex-shrink: 1;
+  }
+
+  .cue-label em {
+    font-style: italic;
+    font-size: 0.9em;
+    color: #6a5a30;
+  }
+
+  /* Highlighted tune names by colour */
+  .hl {
+    display: inline-block;
+    padding: 1px 7px;
+    border-radius: 3px;
+    font-family: 'Inconsolata', monospace;
+    font-size: 0.9em;
+    font-weight: 600;
+    line-height: 1.5;
+    white-space: nowrap;
+  }
+
+  .green  { background: #b8f070; color: #1a3800; }
+  .pink   { background: #ff8fb0; color: #4a0020; }
+  .blue   { background: #70d4f8; color: #003050; }
+  .orange { background: #ffc060; color: #4a2000; }
+  .yellow { background: #f0f050; color: #3a3400; }
+
+  /* Circled number labels */
+  .circle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.6em;
+    height: 1.6em;
+    border: 2px solid currentColor;
+    border-radius: 50%;
+    font-family: 'Inconsolata', monospace;
+    font-size: 0.82em;
+    font-weight: 600;
+    margin: 0 2px;
+    flex-shrink: 0;
+    vertical-align: middle;
+  }
+
+  .circle.green  { border-color: #4a8800; color: #4a8800; background: transparent; }
+  .circle.pink   { border-color: #c00040; color: #c00040; background: transparent; }
+  .circle.blue   { border-color: #0060a0; color: #0060a0; background: transparent; }
+  .circle.orange { border-color: #c06000; color: #c06000; background: transparent; }
+
+  /* Strike */
+  .strike { text-decoration: line-through; color: #9a8060; }
+
+  /* Indent */
+  .indent { padding-left: 24px; }
+  .indent2 { padding-left: 44px; }
+
+  /* Box (side panel) */
+  .side-box {
+    border: 1.5px solid #8a7a50;
+    border-radius: 4px;
+    padding: 14px 18px;
+    margin: 20px 0 20px auto;
+    max-width: 260px;
+    font-size: 0.9em;
+    line-height: 1.6;
+    background: #faf6ec;
+  }
+
+  .side-box .box-row { margin: 3px 0; }
+
+  /* Arrow */
+  .arrow::before { content: "→ "; }
+
+  /* Divider */
+  hr { border: none; border-top: 1px dashed #c8b890; margin: 16px 0; }
+
+  /* BUT emphasis */
+  .but {
+    font-weight: 600;
+    font-size: 1.05em;
+    border-bottom: 2px solid #1a1208;
+    display: inline-block;
+    margin: 10px 0 4px;
+    letter-spacing: 0.06em;
+  }
+
+  /* corner note */
+  .corner-note {
+    font-family: 'Inconsolata', monospace;
+    font-size: 0.78em;
+    color: #5a5a3a;
+    font-style: italic;
+    margin-bottom: 16px;
+  }
+
+  @media print {
+    body { background: white; }
+    .sheet { page-break-after: always; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- ══════════════════════════════════════
+       SHEET 1: MACPHERSON'S LAMENT
+  ══════════════════════════════════════ -->
+  <div class="sheet">
+    <h1>MacPherson's Lament</h1>
+    <span class="ref">Bk6 No.10</span>
+
+    <!-- Main cue list -->
+    <div class="cue">
+      <span class="cue-label"><strong>Opening:</strong> Poem, This is his tale / tune</span>
+      <span class="hl green">3 McP's</span>
+      <span class="circle green">p1</span>
+    </div>
+
+    <div class="cue">
+      <span class="cue-label">Boy being brought up =</span>
+      <span class="hl pink">8 Flowers</span>
+      <span class="strike" style="font-size:0.85em; color:#9a8060;">[crossed out]</span>
+    </div>
+    <div class="cue indent">
+      <span class="cue-label"><em>gypsy + accomplished musician / fiddler</em></span>
+    </div>
+
+    <div class="cue">
+      <span class="cue-label">Father dies – kicked out –</span>
+      <span class="cue-label">MacPh's</span>
+      <span class="circle green">p3</span>
+    </div>
+
+    <div class="cue">
+      <span class="cue-label">Plays for band of gypsies –</span>
+      <span class="hl pink">18 My Love</span>
+    </div>
+
+    <div class="cue">
+      <span class="cue-label">Capture of Jannie =</span>
+      <span class="hl blue">18 part 2</span>
+    </div>
+    <div class="cue indent">
+      <span class="cue-label">Escape</span>
+      <span class="hl blue">Dashing W.S.</span>
+    </div>
+
+    <div class="cue">
+      <span class="cue-label">No escape</span>
+    </div>
+
+    <div class="cue">
+      <span class="cue-label">Last request =</span>
+      <span class="hl yellow">McPs L</span>
+      <span class="circle green">3</span>
+      <span class="circle green">P5</span>
+    </div>
+
+    <div class="cue">
+      <span class="cue-label">Known as M's Lament = Play in key of</span>
+    </div>
+
+    <div class="cue">
+      <span class="cue-label">Outro →</span>
+      <span class="cue-label"><em>(time: 1:50)</em></span>
+      <span class="hl orange">G with double stopping</span>
+    </div>
+    <div class="cue indent">
+      <span class="cue-label"><em>(Paul Anderson – Spotify)</em></span>
+    </div>
+
+    <hr>
+
+    <!-- Side box (partially cut off, transcribed as best as visible) -->
+    <div class="side-box">
+      <div class="box-row">
+        <span class="circle pink" style="font-size:0.8em;">8</span>
+        <strong> Flowers of Edinburgh</strong>
+      </div>
+      <div class="box-row"><em>Last 2 lines</em></div>
+      <br>
+      <div class="box-row">
+        <span class="circle orange" style="font-size:0.8em;">18</span>
+      </div>
+      <div class="box-row"><em>(My Love She's But A Lassie Yet…)</em></div>
+      <div class="box-row arrow">bar 1–34</div>
+      <div class="box-row arrow">bar 99–end</div>
+      <div class="box-row">Dashing White Sergeant</div>
+      <div class="box-row" style="font-size:0.85em; color:#6a5a30;">[partially cut off]</div>
+    </div>
+  </div>
+
+
+  <!-- ══════════════════════════════════════
+       SHEET 2: RAGGLE TAGGLE
+  ══════════════════════════════════════ -->
+  <div class="sheet">
+    <h1>Raggle Taggle</h1>
+    <div class="corner-note">top-right corner note: "muttering = +music"</div>
+
+    <div class="cue">
+      <span class="cue-label"><strong>Intro:</strong> Play</span>
+      <span class="strike">together</span>
+      <span class="hl yellow">RTG.</span>
+    </div>
+
+    <hr>
+
+    <div class="cue">
+      <span class="cue-label">Sense happiness:</span>
+      <span class="hl orange">Coconut dance (a)</span>
+    </div>
+
+    <hr>
+
+    <div class="cue">
+      <span class="cue-label">Leaving her for a year:</span>
+      <span class="hl pink">Hidden Valley</span>
+    </div>
+    <div class="cue indent">
+      <span class="cue-label">Letter – killed</span>
+    </div>
+    <div class="cue indent">
+      <span class="cue-label">Duties – bore chn. =</span>
+      <span class="hl blue">Heidi's Waltz</span>
+    </div>
+
+    <hr>
+
+    <div class="cue">
+      <span class="cue-label">Vagabonds passing = Tam Lin A</span>
+    </div>
+    <div class="cue">
+      <span class="cue-label">Gypsies = Tam Lin B</span>
+    </div>
+    <div class="cue indent">
+      <span class="cue-label"><em>musicians</em></span>
+    </div>
+
+    <hr>
+
+    <div class="cue" style="align-items:flex-start;">
+      <div>
+        <div class="cue">
+          <span class="cue-label">It was her Johnny fair</span>
+        </div>
+        <div class="cue">
+          <span class="cue-label">Heard he'd been married</span>
+        </div>
+      </div>
+      <span style="font-size:1.4em; color:#555; margin: 0 8px; align-self:center;">}</span>
+      <div>
+        <span class="hl blue">Heidi's Waltz</span>
+        <span class="hl blue" style="margin-left:6px;">highbit</span>
+        <br>
+        <span style="font-family:'Inconsolata',monospace; font-size:0.85em;">657 <span style="border:1.5px solid #555; padding:0 3px;">D</span></span>
+      </div>
+    </div>
+
+    <div class="cue">
+      <span class="cue-label">Plan together</span>
+    </div>
+
+    <div class="cue">
+      <span class="cue-label">Happily ever after =</span>
+      <span class="hl yellow">RTG x2 @ end</span>
+      <span style="font-size:1.1em;">↙</span>
+    </div>
+
+    <hr>
+
+    <div class="cue"><span class="but">BUT</span></div>
+
+    <div class="cue indent">
+      <span class="cue-label">Punished JF</span>
+    </div>
+    <div class="cue indent">
+      <span class="cue-label">Hanged [by]</span>
+    </div>
+
+    <hr>
+
+    <div class="cue">
+      <span class="cue-label">Countess's room =</span>
+      <span class="hl pink">Hidden Valley</span>
+    </div>
+    <div class="cue">
+      <span class="cue-label">Stairs – isolation</span>
+      <span class="strike">Haylands</span>
+      <span class="hl orange">Coconut dance (b)</span>
+    </div>
+
+    <hr>
+
+    <div class="cue" style="margin-top: 10px;">
+      <span class="hl yellow" style="font-size:1.05em;">RTG</span>
+      <span class="cue-label"><strong>to end.</strong></span>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
