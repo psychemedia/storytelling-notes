@@ -76,7 +76,7 @@ Two adventures with the Hedley Kow are thus related. A farmer named Forster, who
 ```
 
 
-```{admonition} *Gudbrand on the hill side*, Asbjornsen & Moe, 1859
+```{admonition} *Gudbrand on the hill side*, Asbjørnsen & Moe, 1859
 :class: dropdown
 In P. C. Asbjørnsen and J. E. Moe, *Popular Tales from the Norse*, 1859, [pp.149-155](https://archive.org/details/populartalesfro03dasegoog/mode/2up).
 
