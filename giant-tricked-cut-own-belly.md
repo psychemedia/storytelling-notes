@@ -4,7 +4,7 @@ There are various version of this tale, (The same eating competition appears in 
 
 Giant tricked cut own belly / stomach
 
-Asbjornsen Moe Ashladden
+Asbjørnsen Moe Ashladden
 
 Boots is also Ash lad - youngest son; 
 
@@ -165,7 +165,7 @@ XIX. JACK THE GIANT-KILLER.
 
 *Parallels.*— The chap-book of "Jack the Giant-Killer" is a curious jumble. The second part, as in most chap-books, is a weak and late invention of the enemy, and is not *volkstümlich* at all. The first part is compounded of a comic and a serious theme. The first is that of the Valiant Tailor (Grimm, No. 20); to this belong the incidents of the fleabite blows (for variants of which see Köhler in *Jahrb. rom. eng. Phil.*, viii. 252), and that of the slit paunch (cf. Cosquin, *l.c.*, ii. 51). The Thankful Dead episode, where the hero is assisted by the soul of a person whom he has caused to be buried, is found as early as the *Cento novelle antiche* and Straparola, xi. 2, It has been best studied by Köhler in *Germania*, iii. 199-209 (cf. Cosquin [Contes pop. de Lorraine], i. 214-5 ; ii. 14 and note; and Crane, *Ital. Pop. Tales*, 350, note 12). It occurs also in the curious play of Peele's *The Old Wives' Tale* in which one of the characters is the Ghost of Jack. Practically the same story as this part of Jack the Giant-Killer occurs in Kennedy, *Fictions of the Irish Celts*, p. 32, "Jack the Master and Jack the Servant;" and Kennedy adds (p. 38), "In some versions Jack the Servant is the spirit of the buried man."
 
-The "Fee-fi-fo-fum" formula is common to all English stories of giants and ogres; it also occurs in Peele's play and in King Lear (see note on " Childe Rowland"). Messrs. Jones and Kropf have some remarks on it in their "Magyar Tales," pp. 340-1; so has Mr. Lang in his "Perrault," p. lxiii., where he traces it to ihe Furies in Aeschylus' *Eumenides*.
+The "Fee-fi-fo-fum" formula is common to all English stories of giants and ogres; it also occurs in Peele's play and in King Lear (see note on " Childe Rowland"). Messrs. Jones and Kropf have some remarks on it in their "Magyar Tales," pp. 340-1; so has Mr. Lang in his "Perrault," p. lxiii., where he traces it to the Furies in Aeschylus' *Eumenides*.
 
 
 https://archive.org/details/legendaryfictio00kenngoog/page/32/mode/2up
